@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1950-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1952-04-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1950-08-30
-fetched_at: 2026-08-03T00:10:25.435314+00:00
+version_date: 1952-04-02
+fetched_at: 2026-08-03T00:11:31.505713+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -785,7 +785,7 @@ Art. 193. Las cuestiones de competencia se regirán por las reglas que señalen 
 Art. 194. Los jueces pueden perder su competencia para conocer determinados negocios por implicancia o por recusación declaradas, en caso necesario, en virtud de causas legales.
 
 Art. 195. Son causas de implicancia:
-1°) Ser el juez parte en el pleito o tener en él interés personal, salvo lo dispuesto en el N° 18 del artículo siguiente y en los artículos 1,324 y 1,325 del Código Civil;
+1°) Ser el juez parte en el pleito o tener en él interés personal, salvo lo dispuesto en el N° 18 del artículo siguiente;
 2°) Ser el juez consorte o pariente consanguíneo legítimo en cualquiera de los grados de la línea recta y en la colateral hasta el segundo grado inclusive, o ser padre o hijo natural o adoptivo de alguna de las partes o de sus representantes legales;
 3°) Ser el juez tutor o curador de alguna de las partes, o ser albacea de alguna sucesión, o síndico de alguna quiebra, o administrador de algún establecimiento, o representante de alguna persona jurídica que figure como parte en el juicio;
 4°) Ser el juez ascendiente o descendiente legítimo, padre o hijo natural o adoptivo del abogado de alguna de las partes;
@@ -794,6 +794,7 @@ Art. 195. Son causas de implicancia:
 7°) Tener el juez, su consorte, ascendientes o descendientes legítimos, padres o hijos naturales o adoptivos, causa pendiente en que se ventile la misma cuestión que el juez debe fallar;
 8°) Haber el juez manifestado su dictamen sobre la cuestión pendiente, con conocimiento de los antecedentes necesarios para pronunciar sentencia; y
 9°) Ser el juez, su consorte, o alguno de sus ascendientes o descendientes legítimos, padres o hijos naturales o adoptivos, heredero instituído en testamento por alguna de las partes.
+Lo dicho en este artículo es sin perjuicio de lo dispuesto en el artículo 1324 y en los incisos tercero y cuarto del artículo 1325 del Código Civil.
 
 Art. 196. Son causas de recusación:
 1°) Ser el juez pariente consanguíneo simplemente ilegítimo en toda la línea recta y en la colateral hasta el cuarto grado inclusive, o consanguíneo legítimo en la línea colateral desde el tercero hasta el cuarto grado inclusive, o afín hasta el segundo grado también inclusive, de alguna de las partes o de sus representantes legales;
@@ -925,7 +926,7 @@ Por motivos de manifiesta conveniencia podrán los tribunales autorizar la conce
 
 Art. 225. Puede ser nombrado árbitro toda persona mayor de edad, con tal que tenga la libre disposición de sus bienes y sepa leer y escribir. Los abogados habilitados para ejercer la profesión pueden ser árbitros aunque sean menores de edad.
 El nombramiento de árbitros de derecho sólo puede recaer en un abogado.
-Regirá, además, para los partidores lo dispuesto en los artículos 1323, 1324 y 1325 del Código Civil.
+En cuanto al nombramiento de partidor, se estará a lo dispuesto en los artículos 1323, 1324 y 1325 del Código Civil.
 
 Art. 226. No pueden ser nombrados árbitros para la resolución de un asunto las personas que litigan como partes en él, salvo lo dispuesto en los artículos 1324 y 1325 del Código Civil.
 Asimismo, no puede ser nombrado árbitro para la resolución de un asunto el juez que actualmente estuviere conociendo de él, sin perjuicio de lo dispuesto en el artículo 317.
@@ -985,8 +986,7 @@ Art. 241. El compromiso concluye por revocación hecha por las partes de común 
 
 Art. 242. El compromiso no cesa por la muerte de una o más de las partes, y el juicio seguirá su marcha con citación e intervención de los herederos del difunto.
 
-Art. 243. Los árbitros nombrados por las partes no son recusables sino por causas que hayan sobrevenido a su nombramiento.
-Sin embargo, es también admisible la recusación por causa anterior al nombramiento, si la parte recusante jura que en aquella sazón no la conocía.
+Art. 243. Los árbitros nombrados por las partes no pueden ser inhabilitados sino por causas de implicancia o recusación que hayan sobrevenido a su nombramiento, o que se ignoraban al pactar el compromiso.
 
 ## TITULO X
 De los Magistrados y del Nombramiento y Escalafón de los Funcionarios Judiciales

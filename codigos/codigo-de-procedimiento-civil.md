@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1903-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1952-04-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1903-03-01
-fetched_at: 2026-08-02T23:56:44.096109+00:00
+version_date: 1952-04-02
+fetched_at: 2026-08-03T00:11:25.503725+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -191,6 +191,12 @@ Art. 824. (996). En los negocios no contenciosos que no tengan señalada una tra
 Si la ley exige este conocimiento, y los antecedentes acompañados no lo suministran, mandará rendir previamente información sumaria acerca de los hechos que legitimen la petición, y oirá después al ministerio público o al respectivo defensor público, según corresponda.
 
 Art. 825. (997). En todos los casos en que haya de obtenerse el dictamen por escrito de los oficiales del ministerio público o de los defensores públicos, se les pasará al efecto el proceso en la forma establecida en el artículo 37.
+
+### Título III
+DE LA AUTORIZACION JUDICIAL PARA REPUDIAR LA
+LEGITIMACION DE UN INTERDICTO
+
+Art. 834. (1006). Derogado.
 
 ### Título IV
 DE LA EMANCIPACIÓN VOLUNTARIA

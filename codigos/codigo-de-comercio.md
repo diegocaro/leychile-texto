@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1943-10-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1952-04-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1943-10-21
-fetched_at: 2026-08-03T00:07:07.286057+00:00
+version_date: 1952-04-02
+fetched_at: 2026-08-03T00:11:13.493242+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -70,6 +70,13 @@ Art. 21. Las reglas y formalidades relativas a la organización del registro del
 DE LAS OBLIGACIONES DE LOS COMERCIANTES
 
 #### § 1. De la inscripción de documentos
+
+Art. 22 En el registro del comercio se tomará razón en extracto y por orden de números y fechas de los siguientes documentos:
+1°. De las capitulaciones matrimoniales, el pacto de separación de bienes a que se refiere el artículo 1723 del Código Civil, inventarios solemnes, testamentos, actos de partición, sentencias de adjudicación, escrituras públicas de donación, venta, permuta, u otras de igual autenticidad que impongan al marido alguna responsabilidad a favor de la mujer;
+2°. De las sentencias de divorcio o separación de bienes y de las liquidaciones practicadas para determinar las especies o cantidades que el marido deba entregar a su mujer divorciada o separada de bienes;
+3°. De los documentos justificativos de los haberes del hijo o pupilo que está bajo la potestad del padre, madre o guardador;
+4°. De las escrituras de sociedad, sea ésta colectiva, en comandita o anónima, y de las en que los socios nombraren gerente de la sociedad en liquidación;
+5°. De los poderes que los comerciantes otorgaren a sus factores o dependientes para la administración de sus negocios.
 
 Art. 23. La toma de razón de los documentos especificados en el artículo anterior deberá todo comerciante hacerla efectuar dentro del término de quince días, contados, según el caso, desde el día del otorgamiento del documento sujeto a inscripción, o desde la fecha en que el marido, padre, madre o guardador principie a ejercer el comercio.
 
