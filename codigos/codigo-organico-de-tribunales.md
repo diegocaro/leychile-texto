@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1979-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1979-11-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1979-03-01
-fetched_at: 2026-08-03T00:30:11.076835+00:00
+version_date: 1979-11-08
+fetched_at: 2026-08-03T00:30:35.100432+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1633,7 +1633,10 @@ Art. 399. Los notarios son ministros de fe pública encargados de redactar, auto
 
 Art. 400. En cada departamento de la República habrá, por lo menos, un Notario, y los demás que el Presidente de la República determine, previo informe favorable de la respectiva Corte de Apelaciones y habida consideración a las necesidades del servicio público y a la población del respectivo departamento.
 Sin embargo, en aquellos departamentos formados por más de una comuna, el Presidente de la República, previo informe favorable de la respectiva Corte de Apelaciones, podrá crear notarías para una o más de dichas comunas, cuyos titulares deberán establecer sus oficios dentro del territorio que se fije para dichas notarías.
-Corresponderá asimismo al Presidente de la República fijar, en el decreto de creación de dichas notarías, la categoría que se asignará al cargo respectivo, previo informe de la respectiva Corte de Apelaciones y del Consejo General del Colegio de Abogados.
+Corresponderá asimismo al Presidente de la República fijar, en el decreto de creación de dichas notarías, la categoría que se asignará al cargo respectivo, previo informe de la respectiva Corte de ApeDecreto con Fuerza de Ley 24,
+Interior
+Art. único
+D.O. 08.11.1979laciones.
 Para la creación de nuevas notarías, será preciso que el departamento, agrupación de comunas o comunas correspondientes, tengan una población superior a cuarenta mil habitantes, no pudiendo haber más de un notario por cada porción de dicho número de habitantes.
 Ningún notario podrá ejercer sus funciones fuera del departamento, agrupación de comunas o comuna para que hubiere sido nombrado. En el caso del inciso segundo, los demás notarios sólo podrán ejercerlas en el resto del territorio departamental.
 Lo dispuesto en los incisos precedentes es sin perjuicio de lo prescrito en los artículos 43 y 44.
