@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2003-01-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2004-03-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2003-01-08
-fetched_at: 2026-08-03T01:19:43.979312+00:00
+version_date: 2004-03-16
+fetched_at: 2026-08-03T01:23:50.151870+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -491,8 +491,16 @@ Los alimentos simplemente enriquecidos en vitaminas normalmente presentes en ell
 
 Artículo 99°.- Se entenderá por cosmético cualquier preparado que se destine a ser aplicado externamente al cuerpo humano con fines de embellecimiento, modificación de su aspecto físico o conservación de las condiciones físico-químicas normales de la piel y de sus anexos.
 
-Artículo 100°.- El Ministerio de Salud Pública aprobará, previo informe de sus Unidades Técnicas Normativas, un Formulario Nacional de Medicamentos que contendrá la nómina de los productos farmacéuticos indispensables en el país para una eficiente terapéutica. Este Formulario Nacional precisará la forma farmacéutica y dosis de cada medicamento y señalará el uso, limitaciones y peligro de los mismos.
+Artículo 100°.- El Ministeri
+NOTA:
+o de Salud Pública aprobará, previo informe de sus Unidades Técnicas Normativas, un Formulario Nacional de Medicamentos que contendrá la nómina de los productos farmacéuticos indispensables en el país
+NOTA:
+para una eficiente terapéutica. Este Formulario Nacional precisará la forma farmacéutica y dosis de cada medicamento y señalará el uso, limitaciones y peligro de los mismos.
 El Director General de Salud dispondrá las medidas necesarias para que la población y los servicios que presten atención médica se encuentren permanentemente abastecidos de los productos farmacéuticos que componen el Formulario Nacional de Medicamentos.
+NOTA:
+Véase los siguientes decretos del Ministerio de Salud:
+1.- Decreto 264, publicado el 16.03.2004, que fija el Reglamento del Formulario Nacional de Medicamentos.
+2.- Decreto 102, publicado el 09.09.1996, que aprueba el Reglamento del Sistema Nacional de Control de Productos Farmaceúticos.
 
 Artículo 101.- Los instrumentos, aparatos, dispositivos y otros artículos o elementos destinados al diagnóstico, prevención y tratamiento de enfermedades de seres humanos, así como al reemplazo o modificación de sus anatomías y que no correspondan a las sustancias descritas en los artículos 97, 98 y 99 de este Código, deberán cumplir con las normas y exigencias de calidad que les sean aplicables según su naturaleza, en conformidad con las siguientes disposiciones:
 a) Las personas naturales o jurídicas que, a cualquier título, fabriquen, importen, comercialicen o distribuyan tales elementos, deberán realizar el respectivo control y certificación de su calidad en servicios, instituciones, laboratorios o establecimientos con autorización sanitaria expresa, otorgada de conformidad a lo dispuesto en el artículo 7º de este Código.
