@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1977-12-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1977-12-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1977-12-14
-fetched_at: 2026-08-03T00:29:04.989729+00:00
+version_date: 1977-12-15
+fetched_at: 2026-08-03T00:29:10.995441+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1105,8 +1105,7 @@ El mero fingimiento de esos cargos o profesiones será sancionado como tentativa
 
 Artículo 214° El que usurpare el nombre de otro será castigado con presidio menor en su grado mínimo, sin perjuicio de la pena que pudiere corresponderle a consecuencia del daño que en su fama o intereses ocasionare a la persona cuyo nombre ha usurpado.
 
-ART. 215.
-El que usurpare el nombre de otro será castigado con reclusión menor en su grado mínimo, sin perjuicio de la pena que pudiera corresponderle a consecuencia del daño que en su fama o intereses ocasionare a la persona cuyo nombre ha usurpado.
+Artículo 215° Suprimido.
 
 ### TÍTULO QUINTO.
 DE LOS CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS.
