@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2004-04-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2004-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 2004-04-15
-fetched_at: 2026-08-03T01:24:02.155919+00:00
+version_date: 2004-06-05
+fetched_at: 2026-08-03T01:25:27.348927+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -752,14 +752,15 @@ Las copias del acta a que se refiere el inciso precedente tendrán el mérito pr
 ###### IV.- Delitos contra la propiedad
 
 Art. 146. (167) En los sumarios que se instruyen sobre delitos de hurto, robo, estafa y otros engaños, se acreditará la preexistencia de los objetos substraídos; se comprobará, en cuanto fuere posible, la identidad de los que se encontraren en poder del procesado o de una tercera persona; se reconocerá la fractura de puertas, armarios, arcas u otros objetos cerrados o sellados, y se pondrá testimonio de los rastros o vestigios que hubiere dejado el delito.
-En los delitos de hurto o robo será antecedente suficiente para acreditar la preexistencia de los objetos sustraídos, para todos los efectos procesales, la declaración jurada a que se refiere el inciso tercero del artículo 83 y el párrafo segundo del número 4° del artículo 120 bis.
+En los delitos de hurto o robo será antecedente suficiente para acreditar la preexistencia de los objetos sustraídos, para todos los efectos procesales, la declaración jurada a que se refiere el inciso cuarto del artículo 83 y el párrafo segundo del número 4° del artículo 120 bis.Las especies recuperadas se entregarán al dueño o legítimo tenedor en cualquier estado del procedimiento una vez comprobado su dominio o tenencia y establecido su valor. En todo caso, se dejará constancia en el expediente, mediante fotografías u otros medios que resultaren convenientes, de las especies restituidas o devueltas por orden del tribunal.".
 En los casos contemplados en el artículo 454 del Código Penal, no se requerirá acreditar la preexistencia de las cosas encontradas en poder del inculpado, ni el dominio ajeno. Ambas circunstancias se presumirán por el solo hecho de que el inculpado no pueda acreditar su legítima tenencia.
 Si del robo con violencia en las personas resultaren homicidios o lesiones, se procederá, además, en la forma que se indica en los artículos precedentes.
 
 Art. 147. (168) Siempre que sea necesario fijar el valor de la cosa objeto del delito, el juez la hará tasar por peritos. Al efecto, de estar la cosa en poder del tribunal, la entregará a éstos o les permitirá su inspección proporcionándoles los elementos directos de apreciación sobre los que deberá recaer el informe. De no estar la cosa en poder del tribunal, les proporcionará los antecedentes que obren en el proceso, en base a los cuales los peritos deberá emitir su informe.
 Si las cosas han sido hurtadas o robadas en lugar destinado al ejercicio de un culto permitido, se tasarán separadamente los objetos destinados a dicho culto de los que no lo son.
+Si la falta contemplada en el artículo 494 bis del Código Penal se cometiere en un establecimiento de comercio, el juez considerará que su valor corresponde al precio de venta, el cual se informará en el acta a que se refiere el número 4º del artículo 120 bis, salvo que la prueba que se reúna en autos le permita formarse una convicción diferente..
 Se tasarán por separado los animales hurtados o robados y las monturas u otros objetos que con ellos hayan sido substraídos.
-Todo lo anterior es sin perjuicio de lo dispuesto en LEY 18857 el artículo 455 del Código Penal.
+Todo lo anterior es sin perjuicio de lo dispuesto en el artículo 455 del Código Penal.
 
 Art. 148. (169) Si no se presentare dueño a reclamar las especies al parecer perdidas, que el presunto procesado hubiere encontrado y no entregado al dueño o a la autoridad, apropiándoselas indebidamente, se procederá a rematar dichas especies con las formalidades y para el objeto determinados en los artículos 629 y 634 del Código Civil.
 
@@ -2520,7 +2521,7 @@ Las multas deberán ser enteradas por el infractor dentro de los cinco días há
 
 Art. 564 (603) Si resultare mérito para condenar por faltas a un inculpado contra quien nunca se hubiere pronunciado condenación, el juez le impondrá la pena que corresponda; pero, si aparecieren antecedentes favorables, podrá dejarla en suspenso hasta por un año, declarándolo en la sentencia misma, y apercibiendo al inculpado para que se enmiende.
 Si dentro de ese plazo, éste reincidiere, el fallo que se dicte en el segundo proceso lo condenará a cumplir la pena suspendida y la que corresponda a la nueva falta, simple delito o crimen de que se le juzgue culpable.
-El juez no podrá hacer uso de la facultad que se le confiere en el inciso primero cuando la falta sea alguna de las que contempla el N° 19 del artículo 494, o el N° 21 del artículo 495.
+El juez no podrá hacer uso de la facultad que se le confiere en el inciso primero cuando la falta sea alguna de las que contempla el N° 19 del artículo 494, o el N° 21 del artículo 495.En el caso de la falta contemplada en el artículo 494 bis del Código Penal, no podrá suspenderse, al mismo tiempo, la pena de prisión y la de multa.
 Cualquiera sea la falta, si de los antecedentes personales del infractor, su conducta anterior y posterior a ella y la naturaleza, móviles y modalidades determinantes del hecho punible, puede presumirse que no volverá a delinquir, el juez, una vez ejecutoriada la sentencia, podrá conmutar la pena de multa, de acuerdo con el infractor, por la realización de trabajos determinados en beneficio de la comunidad.
 La resolución que otorgue la conmutación deberá señalar expresamente el tipo de trabajo, el lugar donde deba realizarse, su duración y la persona o institución encargada de controlar su cumplimiento.
 El tiempo que durarán estos trabajos quedará determinado reduciendo el monto de la multa a días, a razón de un día por un quinto de unidad tributaria mensual, los que podrán fraccionarse en horas para no afectar la jornada laboral o escolar que tenga el infractor, entendiéndose que el día comprende ocho horas laborales. Los trabajos se desarrollarán durante un máximo de ocho horas a la semana, y podrán incluir días sábado y feriados.
@@ -2609,7 +2610,7 @@ Art. 589. (633) Será considerado como ausente el inculpado o procesado cuyo par
 Art. 590. (634) Para que tengan valor legal en contra de un procesado ausente las diligencias del sumario, y las del plenario cuando se trate de delitos que no merezcan pena corporal, es menester que previamente sea declarado rebelde.
 
 Art. 591. (635) El inculpado o procesado será declarado rebelde:
-1° Cuando, citado al juicio por haber mérito para proceder en su contra por alguno de los simples delitos expresados en el artículo 247, no comparece, y mandado aprehender, no se le encuentra en su casa ni en otra parte, y se ignora su paradero;
+1° Cuando, citado al juicio por haber mérito para proceder en su contra por alguno de los simples delitos expresados en el artículo 247 y las faltas a que se refiere el artículo 494 bis del Código Penal, no comparece, y mandado aprehender, no se le encuentra en su casa ni en otra parte, y se ignora su paradero;
 2° Cuando, decretada su detención o prisión preventiva, no pudiere encontrársele en su casa ni en otra parte, y se ignora su paradero;
 3° Cuando, puesto en libertad bajo fianza, no compareciere a los actos del juicio en que se requiera su presencia, o no obedeciere al llamamiento del juez;
 y, mandado aprehender, no fuere encontrado en su casa ni en otra parte, y se ignore su paradero;

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2004-05-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2004-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2004-05-17
-fetched_at: 2026-08-03T01:25:03.339845+00:00
+version_date: 2004-06-05
+fetched_at: 2026-08-03T01:25:39.350052+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2335,7 +2335,7 @@ Del hurto.
 Artículo 446.- Los autores de hurto serán castigados:
 1.º Con presidio menor en sus grados medio a máximo y multa de once a quince unidades tributarias mensuales, si el valor de la cosa hurtada excediera de cuarenta unidades tributarias mensuales.
 2.º Con presidio menor en su grado medio y multa de seis a diez unidades tributarias mensuales, si el valor excediere de cuatro unidades tributarias mensuales y no pasare de cuarenta unidades tributarias mensuales.
-3.º Con presidio menor en su grado mínimo y multa de cinco unidades tributarias mensuales, si excediere de una unidad tributaria mensual y no pasare de cuatro unidades tributarias mensuales.
+3.º Con presidio menor en su grado mínimo y multa de cinco unidades tributarias mensuales, si excediere de media unidad tributaria mensual y no pasare de cuatro unidades tributarias mensules.
 Si el valor de la cosa hurtada excediere de cuatrocientas unidades tributarias mensuales, se aplicará la pena de presidio menor en su grado máximo y multa de veintiuna a treinta unidades tributarias mensuales.
 
 ART. 447.
@@ -2368,7 +2368,7 @@ Para determinar cuando el robo o hurto se comete con armas, se estará a lo disp
 ART. 450 bis.
 En el robo con violencia o intimidación en las personas no procederá la atenuante de responsabilidad penal contenida en el artículo 11, N° 7.
 
-Artículo 451.- En los casos de reiteración de hurtos a una misma persona, o a distintas personas en una misma casa, establecimiento de comercio, centro comercial, feria, recinto o lugar el tribunal calificará el ilícito y hará la regulación de la pena tomando por base el importe total de los objetos sustraídos, y la impondrá al delincuente en su grado superior.
+Artículo 451.- En los casos de reiteración de hurtos, aunque se trate de faltas, a una misma persona, o a distintas personas en una misma casa, establecimiento de comercio, centro comercial, feria, recinto o lugar el tribunal calificará el ilícito y hará la regulación de la pena tomando por base el importe total de los objetos sustraídos, y la impondrá al delincuente en su grado superior.
 Esta regla es sin perjuicio de lo dispuesto en el art. 447.
 
 ART. 452.
@@ -2642,10 +2642,16 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 16.° El que sin estar legítimamente autorizado impidiere a otro con violencia hacer lo que la ley no prohíbe, o le compeliere a ejecutar lo que no quiera.
 17.° El que quebrantare los reglamentos o disposiciones de la autoridad sobre la custodia, conservación y trasporte de materias inflamables o corrosivas o productos químicos que puedan causar estragos.
 18.° El dueño de animales feroces que en lugar accesible al público los dejare sueltos o en disposición de causar mal.
-19. El que ejecutare alguno de los hechos penados en los artículos 189, 233, 446, 448, 467, 469, 470 y 477, siempre que el delito se refiera a valores que no excedan de una unidad tributaria mensual.
+19. El que ejecutare alguno de los hechos penados en los artículos 189, 233, 448, 467, 469, 470 y 477, siempre que el delito se refiera a valores que no excedan de una unidad tributaria mensual.
 20.° El que con violencia se apoderare de una cosa perteneciente a su deudor para hacerse pago con ella.
 21.° El que con violencia en las cosas entrare a cazar o pescar en lugar cerrado, o en lugar abierto contra expresa prohibición intimada personalmente.
 Con todo, tratándose de las faltas mencionadas en el número 19, la multa no será inferior al valor malversado o defraudado, al de la cosa hurtada o del daño causado, en su caso, y podrá alcanzar el doble de ese valor, aun cuando supere una unidad tributaria mensual.
+
+ART. 494 bis.
+Los autores de hurto serán castigados con prisión en su grado mínimo a medio y multa de una a cuatro unidades tributarias mensuales, si el valor de la cosa hurtada no pasare de media unidad tributaria mensual.
+En caso de reincidencia, se aplicará la pena de prisión en grado máximo.
+En los casos en que participen en el hurto individuos mayores de dieciocho años y menores de esa edad, se aplicará a los mayores la pena que les habría correspondido sin esa circunstancia, aumentada en un grado, si éstos se hubieren prevalido de los menores en la perpetración de la falta.
+Se sancionará también la falta frustrada y la tentativa, conforme a las definiciones del artículo 7º.
 
 ART. 495.
 Serán castigados con multa de una unidad tributaria mensual:

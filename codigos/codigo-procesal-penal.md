@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2004-04-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2004-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2004-04-15
-fetched_at: 2026-08-03T01:24:14.160168+00:00
+version_date: 2004-06-05
+fetched_at: 2026-08-03T01:25:45.355220+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -540,7 +540,7 @@ Artículo 133.- Ingreso de personas detenidas. Los encargados de los establecimi
 Artículo 134.- Citación, registro y detención en casos de flagrancia. Quien fuere sorprendido por la policía in fraganti cometiendo un hecho de los señalados en el artículo 124, será citado a la presencia del fiscal, previa comprobación de su domicilio.
 La policía podrá registrar las vestimentas, el equipaje o el vehículo de la persona que será citada.
 Asimismo, podrá conducir al imputado al recinto policial, para efectuar allí la citación.
-No obstante lo anterior, el imputado podrá ser detenido si hubiere cometido alguna de las faltas contempladas en el Código Penal, en los artículos 494, N°s. 4 y 5, y 19, exceptuando en este último caso los hechos descritos en los artículos 189 y 233; 495 N° 21, y 496, N°s. 5 y 26.
+No obstante lo anterior, el imputado podrá ser detenido si hubiere cometido alguna de las faltas contempladas en el Código Penal, en los artículos 494, N°s. 4 y 5, y 19, exceptuando en este último caso los hechos descritos en los artículos 189 y 233; 494 bis, 495 N° 21, y 496, N°s. 5 y 26.
 En todos los casos señalados en el inciso anterior, el agente policial deberá informar al fiscal, de inmediato, de la detención, para los efectos de lo dispuesto en el inciso final del artículo 131. El fiscal comunicará su decisión al defensor en el momento que la adopte.
 El procedimiento indicado en el inciso primero podrá ser utilizado asimismo cuando, tratándose de un simple delito y no siendo posible conducir al imputado inmediatamente ante el juez, el funcionario a cargo del recinto policial considerare que existen suficientes garantías de su oportuna comparecencia.
 
@@ -766,7 +766,7 @@ Podrá reclamarse ante el juez de garantía por la inobservancia de las disposic
 Los intervinientes tendrán acceso a esas especies, con el fin de reconocerlas o realizar alguna pericia, siempre que fueren autorizados por el ministerio público o, en su caso, por el juez de garantía. El ministerio público llevará un registro especial en el que conste la identificación de las personas que fueren autorizadas para reconocerlas o manipularlas, dejándose copia, en su caso, de la correspondiente autorización.
 
 Artículo 189.- Reclamaciones o tercerías. Las reclamaciones o tercerías que los intervinientes o terceros entablaren durante la investigación con el fin de obtener la restitución de objetos recogidos o incautados se tramitarán ante el juez de garantía. La resolución que recayere en el artículo así tramitado se limitará a declarar el derecho del reclamante sobre dichos objetos, pero no se efectuará la devolución de éstos sino hasta después de concluido el procedimiento, a menos que el tribunal considerare innecesaria su conservación.
-Lo dispuesto en el inciso precedente no se extenderá a las cosas hurtadas, robadas o estafadas, las cuales se entregarán al dueño en cualquier estado del procedimiento, una vez comprobado su dominio por cualquier medio y establecido su valor.
+Lo dispuesto en el inciso precedente no se extenderá a las cosas hurtadas, robadas o estafadas, las cuales se entregarán al dueño o legítimo tenedor en cualquier estado del procedimiento, una vez comprobado su dominio o tenencia por cualquier medio y establecido su valor.
 En todo caso, se dejará constancia mediante fotografías u otros medios que resultaren convenientes de las especies restituidas o devueltas en virtud de este artículo.
 
 Artículo 190.- Testigos ante el ministerio público. Durante la etapa de investigación, los testigos citados por el fiscal estarán obligados a comparecer a su presencia y prestar declaración ante el mismo, salvo aquellos exceptuados únicamente de comparecer a que se refiere el artículo 300. El fiscal no podrá exigir del testigo el juramento o promesa previstos en el artículo 306.
@@ -1543,8 +1543,7 @@ El procedimiento se aplicará, además, respecto de los hechos constitutivos de 
 
 Artículo 389.- Normas supletorias. El procedimiento simplificado se regirá por las normas de este Título y, en lo que éste no proveyere, supletoriamente por las del Libro Segundo de este Código, en cuanto se adecuen a su brevedad y simpleza.
 
-Artículo 390.- Requerimiento. Recibida por el fiscal la denuncia de un hecho constitutivo de alguno de los delitos a que se refiere el artículo 388, solicitará del juez de garantía competente la citación inmediata a juicio, a menos que fueren insuficientes los antecedentes aportados, se encontrare extinguida la responsabilidad penal del imputado o el fiscal decidiere hacer aplicación de la facultad que le concede el artículo 170.
-Tratándose de las faltas indicadas en los artículos 494, Nº 5, y 496, Nº 11, del Código Penal, sólo podrán efectuar el requerimiento precedente las personas a quienes correspondiere la titularidad de la acción conforme a lo dispuesto en los artículos 54 y 55.
+Artículo 390.- Requerimiento. Recibida por el fiscal la denuncia de un hecho constitutivo de alguno de los delitos a que se refiere el artículo 388, solicitará del juez de garantía competente la citación inmediata a juicio, a menos que fueren insuficientes los antecedentes aportados, se encontrare extinguida la responsabilidad penal del imputado o el fiscal decidiere hacer aplicación de la facultad que le concede el artículo 170. Tratándose de las faltas indicadas en los artículos 494, Nº 5, y 496, Nº 11, del Código Penal, sólo podrán efectuar el requerimiento precedente las personas a quienes correspondiere la titularidad de la acción conforme a lo dispuesto en los artículos 54 y 55. Si la falta contemplada en el artículo 494 bis del Código Penal se cometiere en un establecimiento de comercio, para la determinación del valor de las cosas hurtadas se considerará el precio de venta, salvo que los antecedentes que se reúnan permitan formarse una convicción diferente.
 
 Artículo 391.- Contenido del requerimiento. El requerimiento deberá contener:
 a) La individualización del imputado;
