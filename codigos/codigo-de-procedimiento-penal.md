@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1995-06-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1996-03-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1995-06-22
-fetched_at: 2026-08-03T01:00:08.535172+00:00
+version_date: 1996-03-18
+fetched_at: 2026-08-03T01:02:03.913239+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -14,6 +14,8 @@ derogada: false
 
 CODIGO DE PROCEDIMIENTO PENAL
 Descargar Código de Procedimiento Penal Original (PDF, 7 M)
+NOTA: 1.0 NOTA 1.0
+El artículo 9° de la Ley N° 19.047, modificado por el artículo único letra d) de la Ley N° 19.114, ordenó reemplazar en todas las disposiciones legales en que figuren las expresiones "auto de reo", "encargatoria de reo" y "auto encargatoria de reo", por la de "auto de procesamiento", y la palabra "reo" por "procesado".
 
 Artículo 1°. Apruébase el adjunto proyecto de Código de Procedimiento Penal.
 Art. 2°. Dos ejemplares de una edicion esmerada i correcta que deberá hacerse inmediatamente, firmados por el Presidente de la República i signados con el sello del Ministerio de Justicia, se depositarán en la Secretaría de cada Cámara, dos en el archivo de dicho Ministerio, i otros dos en la Biblioteca Nacional.
@@ -79,9 +81,7 @@ Para estos efectos, el juez de prevención interrogará a los testigos y a los i
 Artículo 8°.- Los jueces de
 NOTA: 3.1
 NOTA: 3.1
-letras deberán practicar, además, todas las diligencias que les cometan Art. sexto otros tribunales para la investigación de los hechos en materias crimi
-NOTA: 3.1
-nales, sin que sea menester que la
+letras deberán practicar, además, todas las diligencias que les cometan Art. sexto otros tribunales para la investigación de los hechos en materias criminales, sin que sea menester que la
 NOTA: 3.1
 orden
 NOTA: 3.1
@@ -2422,6 +2422,9 @@ Art. 552. (591) Pueden perseguirse de oficio las faltas no expresadas en el núm
 Art. 553. (592) En la primera instancia del juicio sobre faltas seguido de oficio, hará de acusador público el empleado de policía que dio parte del hecho al tribunal o le presentó al inculpado; o la persona a quien el tribunal designare a falta de ellos.
 
 Art. 554. (593) Hecha la denuncia o presentada la querella, el tribunal la mandará poner en conocimiento del querellado; fijará día y hora para el juicio, dentro de quinto día; y ordenará que el acusador y el acusado comparezcan con sus testigos y documentos, bajo apercibimiento de proceder en rebeldía de los inasistentes.
+Al mismo tiempo, requerirá informe acerca de las anotaciones del inculpado en el Registro General de Condenas.
+Tratándose de la denuncia a que se refiere el artículo precedente, y cumplidos los trámites establecidos en dicha disposición, el juez podrá dictar resolución de inmediato, si estima que no hay necesidad de practicar diligencias probatorias.
+En caso de que el denunciado no haya sido citado de conformidad al artículo anterior, la notificación de la denuncia se hará mediante carta certificada enviada a su domicilio.
 
 Art. 555. (594) Al deducir la acusación puede el actor pedir que el tribunal mande citar a alguno o más de los testigos de que piensa valerse; y el acusado puede hacer una petición semejante dentro de los dos días siguientes a la notificación de la acusación.
 El tribunal dará la orden; y apercibirá a los testigos hasta obtener que comparezcan, sin perjuicio de la pena determinada en el número 1° del artículo 496 del Código Penal.
@@ -2445,12 +2448,23 @@ Art. 561. (600) La vista de la causa consistirá en lo siguiente:
 Estando presente las partes y los testigos, o en rebeldía de aquéllas, el juez hará dar lectura a la acusación y a los antecedentes; el inculpado expondrá su defensa; el juez interrogará a los testigos y las partes podrán dirigirles preguntas calificadas por él; si se opusieren tachas a algunos, el juez interrogará sobre ellas a los mismos, a las partes y a los otros testigos; y dictará un acta sucinta, la cual firmará con las partes, los testigos y el secretario.
 
 Art. 562. (601) El juez pronunciará sentencia acto continuo o al día siguiente.
-La sentencia expresará la fecha, el nombre y apellidos de las partes, la edad, oficio o profesión del reo, el lugar de su nacimiento, y el de su domicilio, si sabe leer y escribir, si ha sido antes condenado, la falta de que se le acusa, sus descargos, los hechos comprobados, las disposiciones legales aplicables al juicio y la resolución que absuelva o condene al inculpado.
+El juez apreciará la prueba y los antecedentes de la causa de acuerdo con las reglas de la sana crítica.
+La sentencia expresará la fecha, la individualización del inculpado y del denunciante y querellante, si los hubiere; los hechos constitutivos de la falta; somera y brevemente los fundamentos de hecho y de derecho en que se funda, y si absuelve o condena al inculpado, señalando, en este último caso, la pena a que se le condena.
 
-Art. 563. (602) Transcurridas veinticuatro horas desde la notificación de la sentencia sin que las partes hayan deducido recurso de apelación o de casación, será aquélla ejecutada por el mismo juez que la pronunció.
+Artículo 562 bis.- Las resoluciones se notificarán por carta certificada que deberá contener copia íntegra de ellas, salvo la que ordene prisión, que será notificada en persona al condenado.
+Se notificarán también por carta certificada las sentencias dictadas en rebeldía del denunciado a quien no se haya entregado personalmente la citación, en el caso previsto en el artículo 553.
+Se entenderá practicada la notificación por carta certificada al tercer día contado desde la fecha de su recepción por la oficina de Correos respectiva, lo que deberá constar en un libro que, para tal efecto, deberá llevar el secretario. Lo anterior es sin perjuicio de lo dispuesto en el párrafo cuarto del Título III del Libro Primero.
 
-Art. 564 (603) Si resultare mérito para condenar por faltas a un reo contra quien nunca se hubiere pronunciado condenación, el juez le impondrá la pena que corresponda; pero, si aparecieren antecedentes favorables, podrá dejarla en suspenso hasta por tres años, declarándolo en la sentencia misma, y apercibiendo al reo para que se enmiende.
+Art. 563. (602) Transcurridos cinco días desde la notificación de la sentencia sin que las partes hayan deducido recurso de apelación, será aquélla ejecutada por el mismo juez que la pronunció.
+Las multas deberán ser enteradas por el infractor dentro de los cinco días hábiles siguientes a la fecha en que quede ejecutoriada la resolución respectiva o en las fechas que el juez determine, en uso de la facultad que le confiere el inciso segundo del artículo 70 del Código Penal siempre que este último no sea inferior al plazo precedente. En caso de retardo en el pago, el tribunal podrá decretar por vía de sustitución y apremio la reclusión nocturna del infractor a razón de una noche por cada quinto de unidad tributaria mensual, con un máximo de quince noches, sin perjuicio de lo establecido en el artículo siguiente. La reclusión nocturna consistirá en el encierro en establecimientos especiales, separados de los que alberguen a personas privadas de libertad, y se regirá, en lo que sea aplicable, por las disposiciones de la ley Nº 18.216 y su reglamento.
+
+Art. 564 (603) Si resultare mérito para condenar por faltas a un inculpado contra quien nunca se hubiere pronunciado condenación, el juez le impondrá la pena que corresponda; pero, si aparecieren antecedentes favorables, podrá dejarla en suspenso hasta por un año, declarándolo en la sentencia misma, y apercibiendo al inculpado para que se enmiende.
 Si dentro de ese plazo, éste reincidiere, el fallo que se dicte en el segundo proceso lo condenará a cumplir la pena suspendida y la que corresponda a la nueva falta, simple delito o crimen de que se le juzgue culpable.
+El juez no podrá hacer uso de la facultad que se le confiere en el inciso primero cuando la falta sea alguna de las que contempla el N° 19 del artículo 494, o el N° 21 del artículo 495.
+Cualquiera sea la falta, si de los antecedentes personales del infractor, su conducta anterior y posterior a ella y la naturaleza, móviles y modalidades determinantes del hecho punible, puede presumirse que no volverá a delinquir, el juez, una vez ejecutoriada la sentencia, podrá conmutar la pena de multa, de acuerdo con el infractor, por la realización de trabajos determinados en beneficio de la comunidad.
+La resolución que otorgue la conmutación deberá señalar expresamente el tipo de trabajo, el lugar donde deba realizarse, su duración y la persona o institución encargada de controlar su cumplimiento.
+El tiempo que durarán estos trabajos quedará determinado reduciendo el monto de la multa a días, a razón de un día por un quinto de unidad tributaria mensual, los que podrán fraccionarse en horas para no afectar la jornada laboral o escolar que tenga el infractor, entendiéndose que el día comprende ocho horas laborales. Los trabajos se desarrollarán durante un máximo de ocho horas a la semana, y podrán incluir días sábado y feriados.
+Si no se realizaren en forma cabal y oportuna los trabajos determinados por el tribunal quedará sin efecto la conmutación por el solo ministerio de la ley, y deberá cumplirse íntegramente la sanción primitivamente aplicada, a menos que el juez, por resolución fundada, adopte otra decisión.
 
 Art. 565. (604) La apelación sólo procederá contra la sentencia definitiva y el recurso será otorgado en ambos efectos.
 Por el hecho de la notificación de la concesión del recurso, se entenderán emplazadas las partes para comparecer ante el tribunal de alzada en el término legal; que será de tres días cuando el tribunal sea constituido por el juez de letras del territorio jurisdiccional, y el de emplazamiento en los demás casos.
@@ -2464,8 +2478,9 @@ Para el efecto podrá abrir un término que no pase de seis días. La prueba se 
 Art. 568. (607) No procede el recurso de casación en la forma ni en el fondo en estos juicios; sin embargo, las Cortes de Apelaciones podrán anular de oficio las sentencias por las causales 1a, 6a, 7a, 10a y 11a del artículo 541.
 
 Art. 569. (612) Si el tribunal que conoce en un juicio sobre faltas, estima que el hecho que ha motivado el proceso constituye un simple delito o un crimen, dará a la causa la tramitación prescrita en el Libro II de este Código; y, si no fuere competente para seguir conociendo, remitirá los atecedentes al tribunal a quien corresponda.
+En aquellos casos en que se ponga a disposición del juez de menores al inculpado de haber cometido alguna de las faltas señaladas en el artículo 494, N° 19, del Código Penal, dicho juez podrá imponer al menor de dieciséis años o al que sea declarado sin discernimiento, alguna de las medidas establecidas en la Ley de Menores, N° 16.618, o la de participar en actividades determinadas en beneficio de la comunidad, si resultare conducente a su rehabilitación. Estas actividades deberán fijarse de común acuerdo con el representante legal del menor o con el defensor público, en su caso; se regirán en cuanto a su forma por lo dispuesto en el artículo 564, y no podrán extenderse por más de dos meses.
 
-Art. 570. (613) En todo juzgado se llevará un libro en que se anoten las sentencias que se dicten en los juicios sobre faltas.
+Art. 570. (613) En todo juzgado se llevará un libro en que se anoten las sentencias que se dicten en los juicios sobre faltas, debiendo el juez dar cumplimiento a lo dispuesto en el artículo 509 bis, según sea procedente en derecho. Art. 3
 Los procesos se ventilarán en cuadernos separados, que se archivarán anualmente en la secretaría del juzgado de letras.
 Pero si el juicio no diere lugar a más tramitación que la citación de las partes, pueden estamparse en el mismo libro el acta original del comparendo y la sentencia del juez.
 
