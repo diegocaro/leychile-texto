@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1959-04-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1959-04-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1959-04-02
-fetched_at: 2026-08-03T00:14:55.674458+00:00
+version_date: 1959-04-06
+fetched_at: 2026-08-03T00:15:07.692742+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -572,6 +572,7 @@ Art. 115. En los asuntos civiles la cuantía de la materia se determina por el v
 En los asuntos criminales se determina por la pena que el delito lleva consigo.
 
 Art. 116. Si el demandante acompañare documentos que sirvan de apoyo a su acción y en ellos apareciere determinado el valor de la cosa disputada, se estará para determinar la competencia a lo que conste de dichos documentos.
+Para determinar la cuantía de las obligaciones en moneda extranjera, podrá acompañar el actor, al tiempo de presentar la demanda, un certificado expedido por un Banco, que exprese en moneda nacional la equivalencia de la moneda extranjera demandada. Dicho certificado no podrá ser anterior en más de quince días a la fecha de la presentación de la demanda.
 
 Art. 117. Si el demandante no acompañare documentos o si de ellos no apareciere esclarecido el valor de la cosa, y la acción entablada fuere personal, se determinará la cuantía de la materia por la apreciación que el demandante hiciere en su demanda verbal o escrita.
 
