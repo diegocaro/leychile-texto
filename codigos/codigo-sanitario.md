@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1996-09-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1997-03-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1996-09-09
-fetched_at: 2026-08-03T01:02:27.945018+00:00
+version_date: 1997-03-22
+fetched_at: 2026-08-03T01:02:51.966500+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -56,16 +56,16 @@ El Decreto con fuerza de ley N° 1, Salud, publicado el 21.02.1990, dictado en u
 Artículo 8°.- Para el cumplimiento de las órdenes que expida en conformidad a las facultades que le concede el presente Código y sus reglamentos, el Director General de Salud podrá requerir el auxilio de la fuerza pública directamente de la Unidad del Cuerpo de Carabineros de Chile más cercana y éstas estarán obligadas a proporcionarla.
 
 ### Párrafo II
-DEL SERVICIO NACIONAL DE SALUD
+DE LOS SERVICIOS DE SALUD
 
-Artículo 9°.- Sin perjuicio de las demás atribuciones que le confieren las leyes y el presente Código, corresponde en especial al Director General de Salud:
+Artículo 9º.- Sin perjuicio de las atribuciones del Ministerio de Salud y del Instituto de Salud Pública de Chile, así como de las demás facultades que les confieren las leyes, corresponde en especial a los Directores de los Servicios de Salud en sus respectivos territorios:
 a) velar por el cumplimiento de las disposiciones de este Código y de los reglamentos, resoluciones e instrucciones que lo complementen, y sancionar a los infractores;
 b) dictar dentro de las atribuciones conferidas por el presente Código, las órdenes y medidas de carácter general, local o particular, que fueren necesarias para su debido cumplimiento;
-c) solicitar al Presidente de la República la dictación de los Reglamentos del presente Código, y proponerle las normas mínimas que deben comprender los reglamentos sobre facultades de orden sanitario que están a cargo de las Municipalidades;
-d) informar al Ministerio de Salud Pública sobre las materias que éste le requiera;
-e) solicitar de las autoridades, instituciones públicas o privadas o individuos particulares, los datos y cooperación que estime conveniente para el mejor ejercicio de sus atribuciones. Los datos o cooperación deben ser proporcionados en el plazo prudencial que el Director General señale;
-f) fijar los aranceles para las actuaciones que realice el Servicio Nacional de Salud. Los mismos aranceles señalarán las actuaciones que deberán realizarse gratuitamente; y
-g) delegar las facultades que le concede el presente Código.
+c) Solicitar al Presidente de la República, a través del Ministerio de Salud, la dictación de los reglamentos del presente Código y proponerle las normas que deben regular las funciones de orden sanitario a cargo de las Municipalidades;
+d) informar al Ministerio de Salud sobre las materias que éste le requiera;
+e) solicitar de las autoridades, instituciones públicas o privadas o individuos particulares los datos y cooperación que estime convenientes para el mejor ejercicio de sus atribuciones. Los datos o cooperación deben ser proporcionados en el plazo prudencial que el Director del Servicio señale;
+f) Rebajar o eximir, en casos excepcionales y por motivos fundados, los derechos que deben pagarse por las actuaciones de los Servicios, fijados por el Arancel aprobado por el Ministerio de Salud, a determinadas personas naturales o jurídicas que ejecuten actividades de asistencia social, docencia o investigación científica. Las mismas facultades serán ejercidas por el Director del Instituto de Salud Pública de Chile, que podrá aplicarlas especialmente respecto de los controles relativos a medicamentos para necesidades personales de enfermos o de donaciones en casos de emergencias o catástrofes, y
+g) delegar las facultades que les concede el presente Código.
 
 Artículo 10°.- Para el cumplimiento de campañas sanitarias o en casos de emergencia, el Servicio Nacional de Salud podrá contratar, por períodos transitorios, personal de acuerdo a las normas del Código del Trabajo, con cargo a campañas sanitarias o imprevistos, según corresponda. Estas contrataciones se harán directamente por dicho Servicio, sin necesidad de cumplir otros requisitos que los señalados en ese cuerpo legal.
 El personal así contratado cesará automáticamente en sus funciones a la expiración del plazo fijado en su contrato, cualquiera que sea la duración de éste.
@@ -456,7 +456,7 @@ Artículo 93°.- Ningún pesticida podrá ser importado o fabricado en el país 
 Exceptúanse de esta prohibición las muestras que se importen destinadas a obtener su registro, en las cantidades que determine el reglamento.
 
 ## LIBRO IV
-DE LOS PRODUCTOS FARMACEUTICOS, ALIMENTOS DE USO MEDICO, COSMETICOS Y PRODUCTOS ALIMENTICIOS
+DE LOS PRODUCTOS FARMACEUTICOS, ALIMENTOS DE USO MEDICO, COSMETICOS, PRODUCTOS ALIMENTICIOS Y ARTICULOS DE USO MEDICO
 
 ### TITULO I
 NORMAS COMUNES
@@ -472,7 +472,7 @@ Artículo 96°- Se prohibe la fabricación, importación, tenencia, distribució
 El Servicio Nacional de Salud determinará, en cada caso, si la sanción aplicable a quienes infrinjan este artículo corresponde, individual o conjuntamente, al importador, fabricante, exportador, expendedor o tenedor del producto.
 
 ### TITULO II
-DE LOS PRODUCTOS FARMACEUTICOS, ALIMENTOS DE USO MEDICO Y COSMETICOS
+DE LOS PRODUCTOS FARMACEUTICOS, ALIMENTOS DE USO MEDICO, COSMETICOS Y ARTICULOS DE USO MEDICO
 
 Artículo 97°.- Se entenderá por producto farmacéutico cualquiera substancia, natural o sintética, o mezcla de ellas, que se destine a la administración al hombre o a los animales con fines de curación, atenuación, tratamiento, prevención o diagnóstico de las enfermedades o de sus síntomas.
 
@@ -484,7 +484,17 @@ Artículo 99°.- Se entenderá por cosmético cualquier preparado que se destine
 Artículo 100°.- El Ministerio de Salud Pública aprobará, previo informe de sus Unidades Técnicas Normativas, un Formulario Nacional de Medicamentos que contendrá la nómina de los productos farmacéuticos indispensables en el país para una eficiente terapéutica. Este Formulario Nacional precisará la forma farmacéutica y dosis de cada medicamento y señalará el uso, limitaciones y peligro de los mismos.
 El Director General de Salud dispondrá las medidas necesarias para que la población y los servicios que presten atención médica se encuentren permanentemente abastecidos de los productos farmacéuticos que componen el Formulario Nacional de Medicamentos.
 
-Artículo 101°.- Derogado.
+Artículo 101.- Los instrumentos, aparatos, dispositivos y otros artículos o elementos destinados al diagnóstico, prevención y tratamiento de enfermedades de seres humanos, así como al reemplazo o modificación de sus anatomías y que no correspondan a las sustancias descritas en los artículos 97, 98 y 99 de este Código, deberán cumplir con las normas y exigencias de calidad que les sean aplicables según su naturaleza, en conformidad con las siguientes disposiciones:
+a) Las personas naturales o jurídicas que, a cualquier título, fabriquen, importen, comercialicen o distribuyan tales elementos, deberán realizar el respectivo control y certificación de su calidad en servicios, instituciones, laboratorios o establecimientos con autorización sanitaria expresa, otorgada de conformidad a lo dispuesto en el artículo 7º de este Código.
+El reglamento deberá establecer las condiciones de equipamiento y demás recursos de que deberán disponer los establecimientos, así como también la forma en que se solicitará y otorgará esta autorización. Las entidades cuyas solicitudes sean denegadas o no contestadas dentro del plazo a que se refiere el inciso segundo del artículo 7º de este Código, podrán reclamar, dentro del plazo de quince días hábiles, ante el Ministerio de Salud. El reglamento señalará la forma en que deberá tramitarse este recurso.
+b) El Instituto de Salud Pública de Chile, será el organismo encargado de autorizar y fiscalizar a las entidades que realicen el referido control y certificación, debiendo, a falta de organismos privados que desarrollen dichas tareas, ejecutarlas por sí mismo.
+c) Los controles y pruebas de calidad que deban efectuarse en virtud de lo dispuesto en las letras anteriores, se sujetarán a las especificaciones técnicas fijadas por las normas oficiales aprobadas y, a falta de éstas, por las que apruebe el Ministerio de Salud, a proposición del mencionado Instituto y sobre la base de la información obtenida en la materia de parte de organismos internacionales o entidades extranjeras especializadas de control.
+Las personas naturales o jurídicas cuyos instrumentos, aparatos, dispositivos, artículos o elementos sean rechazados por el control de calidad de una entidad autorizada, podrán reclamar ante el Instituto de Salud Pública de Chile, en el plazo de quince días hábiles, en la forma que señale el reglamento.
+d) Por decreto supremo fundado del Ministerio de Salud, se hará efectiva la aplicación de las disposiciones de este artículo a las diferentes clases o tipos de instrumentos, aparatos, dispositivos, artículos y elementos de que trata, a proposición del Instituto de Salud Pública de Chile, en la que deberá indicarse las especificaciones técnicas a que se sujetará su control de calidad, aprobadas con arreglo a la letra c) y las entidades que cuentan con autorización oficial para ejecutarlo o la inexistencia de interesados en obtener esta autorización.
+e) Será competente para instruir el sumario sanitario y sancionar las infracciones a estas disposiciones el Director del Servicio de Salud en cuyo territorio se cometan.
+f) Los elementos que se comercialicen o distribuyan, a cualquier título, sin contar con el certificado de calidad establecido en esta disposición, serán decomisados, sin perjuicio de las demás medidas que pueda adoptar la autoridad sanitaria.
+g) Las destinaciones aduaneras de estos elementos se sujetarán a las disposiciones de la ley Nº 18.164 y su uso y disposición deberán ser autorizados por el Instituto de Salud Pública de Chile.
+El costo de las certificaciones será de cargo exclusivo de las personas naturales o jurídicas que las soliciten.
 
 Artículo 102°.- Ningún producto farmacéutico o cosmético podrá ser comercializado ni distribuido en el país sin que se proceda a su registro previo en el Instituto de Salud Pública.
 Sin embargo, la autoridad sanitaria podrá autorizar provisionalmente la venta o uso, sin previo registro, de productos farmacéuticos para usos medicinales urgentes, para investigación científica o ensayos clínicos.
@@ -764,8 +774,8 @@ Artículo 167° (158).- Establecida la infracción, la autoridad sanitaria dicta
 
 Artículo 168° (159).- Los infractores a quienes se les aplicare multa deberán acreditar su pago ante la autoridad sanitaria que los sancionó, dentro del plazo de cinco días hábiles contado desde la notificación de la sentencia.
 
-Artículo 169° (160).- Si transcurrido el plazo señalado en el artículo anterior, el infractor no hubiere pagado la multa, sufrirá, por vía de sustitución y apremio, un día de prisión por cada vigésimo de un sueldo vital mensual para los empleados de la Industria y el Comercio del Departamento de Santiago que comprenda dicha multa.
-Para llevar a cabo esta medida, el Director General de Salud solicitará del Intendente o Gobernador respectivo el auxilio de la fuerza pública, quienes dispondrán sin más trámite la detención del infractor y su ingreso al establecimiento penal respectivo, a cuyo efecto librarán la orden correspondiente en conformidad a las reglas generales, dando cuenta de lo obrado a la autoridad sanitaria.
+Artículo 169° (160).- Si transcurrido el plazo señalado en el artículo anterior, el infractor no hubiere pagado la multa, sufrirá, por vía de sustitución y apremio, un día de prisión por cada décimo de unidad tributaria mensual que comprenda dicha multa.
+Para llevar a cabo esta medida, el Director del correspondiente Servicio de Salud o del Instituto de Salud Pública de Chile, en su caso, solicitará del Intendente o Gobernador respectivo el auxilio de la fuerza pública, quienes dispondrán sin más trámite la detención del infractor y su ingreso al establecimiento penal respectivo, a cuyo efecto librarán la orden correspondiente en conformidad a las reglas generales, dando cuenta de lo obrado a la autoridad sanitaria.
 
 Artículo 170° (161).- La clausura y demás medidas sanitarias ordenadas en la sentencia, no podrán dejarse sin efecto o suspenderse a menos que el Director General de Salud así lo ordenare, o que lo dispusiera la justicia ordinaria al fallar por sentencia definitiva ejecutoriada o que cause ejecutoria, la reclamación que se interponga.
 
@@ -779,7 +789,7 @@ Artículo 173° (164).- En todos los procedimientos judiciales a que diere lugar
 ### TITULO III
 DE LAS SANCIONES Y MEDIDAS SANITARIAS
 
-Artículo 174° (165).- La infracción de cualquiera de las disposiciones de este Código o de sus reglamentos y de las resoluciones que dicte el Director General de Salud, salvo las disposiciones que tengan una sanción especial, serán castigadas con multa de un vigésimo de sueldo vital mensual hasta dos sueldos vitales anuales que rija para los empleados de la Industria y del Comercio en el departamento de Santiago. Las reincidencias serán sancionadas con el doble de la multa impuesta.
+Artículo 174° (165).- La infracción de cualquiera de las disposiciones de este Código o de sus reglamentos y de las resoluciones que dicten los Directores de los Servicios de Salud o el Director del Instituto de Salud Pública de Chile, según sea el caso, salvo las disposiciones que tengan una sanción especial, será castigada con multa de un décimo de unidad tributaria mensual hasta mil unidades tributarias mensuales. Las reincidencias podrán ser sancionadas hasta con el doble de la multa original.
 Las infracciones antes señaladas podrán ser sancionadas, además, con la clausura de establecimientos, edificios, casas, locales, lugares de trabajo donde se cometiere la infracción; con la cancelación de la autorización de funcionamiento o de los permisos concedidos; con la paralización de obras; con el comiso, destrucción y desnaturalización de productos, cuando proceda.
 
 Artículo 175° (166).- En los casos en que la sanción consista en la cancelación de la autorización de funcionamiento o de los permisos concedidos, el Servicio Nacional de Salud comunicará este hecho a la Municipalidad respectiva para que proceda a cancelar la correspondiente patente.
