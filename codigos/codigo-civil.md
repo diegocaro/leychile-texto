@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2000-07-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2000-09-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2000-07-14
-fetched_at: 2026-08-03T01:11:34.940985+00:00
+version_date: 2000-09-14
+fetched_at: 2026-08-03T01:11:40.942887+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -6310,7 +6310,7 @@ Art. 1992. Si se hubiere estipulado que para hacer cesar el servicio sea necesar
 
 Art. 1993. Será causa grave respecto del amo la ineptitud del criado, todo acto de infidelidad o insubordinación, y todo vicio habitual que perjudique al servicio o turbe el orden doméstico; y respecto del criado el mal tratamiento del amo, y cualquier conato de éste o de sus familiares o huéspedes para inducirle a un acto criminal o inmoral.
 Toda enfermedad contagiosa del uno dará derecho al otro para poner fin al contrato.
-Tendrá igual derecho el amo si el criado por cualquiera causa se inhabilitare para el servicio por más de una semana.
+Tendrá igual derecho el amo si el criado por cualquier causa se inhabilitare para el servicio por más de una semana.
 
 Art. 1994. Falleciendo el amo se entenderá subsistir el contrato con los herederos, y no podrán éstos hacerlo cesar sino como hubiera podido el difunto.
 
