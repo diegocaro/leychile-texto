@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2002-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2002-03-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2002-03-01
-fetched_at: 2026-08-03T01:17:12.032490+00:00
+version_date: 2002-03-05
+fetched_at: 2026-08-03T01:17:18.033640+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -193,6 +193,22 @@ San Bernardo, con diez jueces, con competencia sobre las comunas de San Bernardo
 Melipilla, con tres jueces, con competencia sobre las comunas de Melipilla, San Pedro y Alhué.
 Talagante, con siete jueces, con competencia sobre las comunas de Talagante, El Monte, Isla de Maipo, Peñaflor y Padre Hurtado.
 Curacaví, con dos jueces, con competencia sobre las comunas de Curacaví y María Pinto.
+Habrá además, con asiento en la comuna de Santiago, los siguientes juzgados de garantía:
+Primer Juzgado de Garantía de Santiago, con seis jueces, con competencia sobre la comuna de Pudahuel.
+Segundo Juzgado de Garantía de Santiago, con quince jueces, con competencia sobre las comunas de Quilicura, Huechuraba, Renca y Conchalí.
+Tercer Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de Independencia y Recoleta.
+Cuarto Juzgado de Garantía de Santiago, con diecisiete jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes y La Reina.
+Quinto Juzgado de Garantía de Santiago, con diez jueces, con competencia sobre las comunas de Cerro Navia y Lo Prado.
+Sexto Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de Estación Central y Quinta Normal.
+Séptimo Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre la comuna de Santiago.
+Octavo Juzgado de Garantía de Santiago, con nueve jueces, con competencia sobre las comunas de Providencia y Ñuñoa.
+Noveno Juzgado de Garantía de Santiago, con diecisiete jueces, con competencia sobre las comunas de Maipú y Cerrillos.
+Décimo Juzgado de Garantía de Santiago, con cinco jueces, con competencia sobre las comunas de Lo Espejo y Pedro Aguirre Cerda.
+Undécimo Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de San Miguel, La Cisterna y El Bosque.
+Duodécimo Juzgado de Garantía de Santiago, con seis jueces, con competencia sobre las comunas de San Joaquín y La Granja.
+Decimotercer Juzgado de Garantía de Santiago, con doce jueces, con competencia sobre las comunas de Macul y Peñalolén.
+Decimocuarto Juzgado de Garantía de Santiago, con quince jueces, con competencia sobre la comuna de La Florida.
+Decimoquinto Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de San Ramón y La Pintana.
 
 ### Párrafo 2º
 De los tribunales de juicio oral en lo penal
@@ -268,6 +284,14 @@ Puente Alto, con nueve jueces, con competencia sobre las comunas de Puente Alto,
 San Bernardo, con nueve jueces, con competencia sobre las comunas de San Bernardo, Calera de Tango, Buin y Paine.
 Melipilla, con seis jueces, con competencia sobre las comunas de Melipilla, San Pedro, Alhué, Curacaví y María Pinto.
 Talagante, con seis jueces, con competencia sobre las comunas de Talagante, El Monte, Isla de Maipo, Peñaflor y Padre Hurtado.
+Habrá además, con asiento en la comuna de Santiago, los siguientes tribunales de juicio oral en lo penal:
+Primer Tribunal de Juicio Oral en lo Penal de Santiago, con dieciocho jueces, con competencia sobre las comunas de Lo Prado, Cerro Navia y Pudahuel.
+Segundo Tribunal de Juicio Oral en lo Penal de Santiago, con veintiún jueces, con competencia sobre las comunas de Quilicura, Huechuraba, Renca, Conchalí, Independencia y Recoleta.
+Tercer Tribunal de Juicio Oral en lo Penal de Santiago, con veinticuatro jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes, Providencia, Ñuñoa y La Reina.
+Cuarto Tribunal de Juicio Oral en lo Penal de Santiago, con quince jueces, con competencia sobre las comunas de Quinta Normal, Estación Central y Santiago.
+Quinto Tribunal de Juicio Oral en lo Penal de Santiago, con dieciocho jueces, con competencia sobre las comunas de Maipú y Cerrillos.
+Sexto Tribunal de Juicio Oral en lo Penal de Santiago, con veintisiete jueces, con competencia sobre las comunas de Lo Espejo, Pedro Aguirre Cerda, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque y La Pintana.
+Séptimo Tribunal de Juicio Oral en lo Penal de Santiago, con veintisiete jueces, con competencia sobre las comunas de Macul, Peñalolén y La Florida.
 
 Art. 21 A. Cuando sea necesario para facilitar la aplicación oportuna de la justicia penal, de conformidad a criterios de distancia, acceso físico y dificultades de traslado de quienes intervienen en el proceso, los tribunales de juicio oral en lo penal se constituirán y funcionarán en localidades situadas fuera de su lugar de asiento.
 Corresponderá a la respectiva Corte de Apelaciones determinar anualmente la periodicidad y forma con que los tribunales de juicio oral en lo penal darán cumplimiento a lo dispuesto en este artículo. Sin perjuicio de ello, la Corte podrá disponer en cualquier momento la constitución y funcionamiento de un tribunal de juicio oral en lo penal en una localidad fuera de su asiento, cuando la mejor atención de uno o más casos así lo aconseje.
