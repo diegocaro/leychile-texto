@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1995-05-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1995-09-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1995-05-24
-fetched_at: 2026-08-03T00:59:44.507995+00:00
+version_date: 1995-09-20
+fetched_at: 2026-08-03T01:00:44.564377+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -630,6 +630,13 @@ h) Ley N° 14.908, de 5 de Octubre de 1962, que fij� el texto definitivo de la
 NOTA: 28
 Véase el artículo 69 de la Ley N° 14.171 y los Arts. 1°, 3°, 25 y 26 del DL N° 1.305, publicado en el Diario Oficial de 19 de Febrero de 1976.
 
+Artículo 450.- El embargo se entenderá hecho por la entrega real o simbólica de los bienes al depositario que se designe, aunque éste deje la especie en poder del mismo deudor. A falta de depositario designado por el juez, hará las veces de tal el propio deudor hasta tanto se designe un depositario distinto.
+El ministro de fe que practique el embargo deberá levantar un acta de la diligencia, la que señalará el lugar y hora en que éste se trabó, contendrá la expresión individual y detallada de los bienes embargados e indicará si fue necesario o no el auxilio de la fuerza pública para efectuarlo y de haberlo sido, la identificación del o de los funcionarios que intervinieron en la diligencia. Asimismo, dejará constancia de toda alegación que haga un tercero invocando la calidad de dueño o poseedor del bien embargado.
+Tratándose del embargo de bienes muebles, el acta deberá indicar su especie, calidad y estado de conservación y todo otro antecedente o especificación necesarios para su debida singularización, tales como, marca, número de fábrica y de serie, colores y dimensiones aproximadas, según ello sea posible. En el embargo de bienes inmuebles, éstos se individualizarán por su ubicación y los datos de la respectiva inscripción de dominio.
+El acta deberá ser suscrita por el ministro de fe que practicó la diligencia y por el depositario, acreedor o deudor que concurra al acto y que desee firmar.
+Sin que ello afecte la validez del embargo, el ministro de fe deberá enviar carta certificada al ejecutado comunicándole el hecho del embargo, dentro de los dos días siguientes de la fecha de la diligencia o del día en que se reabran las oficinas de correo, si ésta se hubiere efectuado en domingo o festivo. El ministro de fe deberá dejar constancia en el proceso del cumplimiento de esta obligación, en los términos del artículo 46.
+Toda infracción a las normas de este artículo hará responsable al ministro de fe de los daños y perjuicios que se originen y el tribunal, previa audiencia del afectado, deberá imponerle alguna de las medidas que se señalan en los números 2, 3 y 4 del artículo 532 del Código Orgánico de Tribunales.
+
 Art. 451. (473). Los bienes embargados se pondrán a disposición del depositario provisional y éste, a su vez, los entregará al depositario definitivo que nombrarán las partes en audiencia verbal o el tribunal en caso de desacuerdo.
 Si los bienes embargados se encuentran en territorios jurisdiccionales distintos o consisten en especies de distinta naturaleza, podrá nombrarse más de un depositario.
 Cualquiera de las partes que ofrezca probar que el depositario no tiene responsabilidad bastante, será oída.
@@ -639,6 +646,10 @@ Véase el artículo 516 del Código Orgánico de Tribunales.
 
 Art. 453. (475). Si el embargo recae sobre bienes raíces o derechos reales constituidos en ellos, no producirá efecto alguno legal respecto de terceros, sino desde la fecha en que se inscriba en el respectivo registro conservatorio en donde estén situados los inmuebles.
 El ministro de fe que practique el embargo, requerirá inmediatamente su inscripción y firmará con el conservador respectivo y retirará la diligencia en el plazo de veinticuatro horas.
+
+Art. 455. (477). Verificado el embargo, el ministro de fe ejecutor entregará inmediatamente la diligencia en la secretaría, y el secretario pondrá testimonio del día en que la recibe.
+En el caso del artículo 453, esta entrega se verificará inmediatamente después de practicada la inscripción de que dicho artículo trata.
+El retiro de las especies no podrá decretarse sino hasta transcurridos que sean diez días desde la fecha de la traba de embargo, a menos que el juez, por resolución fundada, ordene otra cosa.
 
 Art. 459. (481). Si el deudor es requerido de pago en el lugar del asiento del tribunal, tendrá el término de cuatro días útiles para oponerse a la ejecución.
 Este término se ampliará con cuatro días, si el requerimiento se hace dentro del territorio jurisdiccional en que se ha promovido el juicio, pero fuera de la comuna del asiento del tribunal.
@@ -672,6 +683,9 @@ Artículo 518.- En el juicio ejecutivo sólo son admisibles las tercerías cuand
 3°. Derecho para ser pagado preferentemente; o
 4°. Derecho para concurrir en el pago a falta de otros bienes.
 En el primer caso la tercería se llama de dominio, en el segundo de posesión, en el tercero de prelación y en el cuarto de pago.
+
+Artículo 521.- La tercería de dominio se seguirá en ramo separado con el ejecutante y el ejecutado, por los trámites del juicio ordinario, pero sin escrito de réplica y dúplica. Las tercerías de posesión, de prelación y de pago se tramitarán como incidente.
+El tercerista tendrá el mismo derecho que el artículo 457 concede al deudor principal.
 
 Artículo 522.- La interposición de una tercería no suspenderá en caso alguno el procedimiento ejecutivo. El procedimiento de apremio se suspende únicamente en el caso contemplado en el inciso primero del artículo 523 y, tratándose de una tercería de posesión, sólo si se acompañan a ella antecedentes que constituyan a lo menos presunción grave de la posesión que se invoca.
 
