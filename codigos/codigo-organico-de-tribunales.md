@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1950-04-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1950-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1950-04-04
-fetched_at: 2026-08-03T00:10:13.430979+00:00
+version_date: 1950-08-30
+fetched_at: 2026-08-03T00:10:25.435314+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -231,7 +231,7 @@ Art. 43. Para todos los efectos del servicio judicial se considerarán como part
 Los jueces del crimen del departamento de Santiago ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago; pero podrán practicar actuaciones en todo el departamento, en los asuntos sometidos a su conocimiento.
 El Presidente de la República podrá modificar los límites de la jurisdicción territorial de los juzgados a que se refiere el inciso anterior, previo acuerdo de la misma Corte. No podrá hacer uso de esta facultad más de una vez al año.
 
-Art. 44. También habrá juzgados de mayor cuantía en las ciudades de Petorca, Putaendo, Casablanca, Limache y Florida (Concepción), cuyos territorios jurisdiccionales serán las comunas-subdelegaciones de sus respectivos nombres, salvo el de Limache, que conmprenderá, además, las comunas de Quilpué y Villa Alemana. Estas divisiones administrativas serán consideradas como departamentos para todos los efectos del servicio judicial.
+Art. 44. También habrá juzgados de mayor cuantía en las ciudades de Petorca, Putaendo, Casablanca, Limache y Florida (Concepción), cuyos territorios jurisdiccionales serán las comunas-subdelegaciones de sus respectivos nombres, salvo el de Limache, que conmprenderá, además, las comunas de Quilpué y Villa Alemana y el de Casablanca, que comprenderá también la comuna de Algarrobo. Estas divisiones administrativas serán consideradas como departamentos para todos los efectos del servicio judicial.
 
 Art. 45. Los jueces de letras de mayor cuantía conocerán:
 1°) En única o en primera instancia, conforme al inciso final de este número:
