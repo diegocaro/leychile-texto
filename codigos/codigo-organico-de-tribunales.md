@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1989-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1989-06-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1989-03-01
-fetched_at: 2026-08-03T00:46:40.463174+00:00
+version_date: 1989-06-10
+fetched_at: 2026-08-03T00:47:28.521852+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -907,6 +907,8 @@ Cuando el pleito haya sido promovido por alguna de las partes, deberá haberlo s
 16) Tener el juez con alguna de las partes enemistad, odio o resentimiento que haga presumir que no se halla revestido de la debida imparcialidad;
 17) Haber el juez recibido, después de comenzado el pleito, dádivas o servicios de alguna de las partes, cualquiera que sea su valor o importancia; y
 18) Ser partes o tener interés en el pleito una sociedad anónima de que el juez sea accionista.
+No obstante lo dispuesto en el inciso precedente, no constituirá causal de recusación la circunstancia de que una de las partes fuere una sociedad anónima abierta.
+Lo prevenido en el inciso anterior no regirá cuando concurra la causal señalada en el N° 8 de este artículo. Tampoco regirá cuando el juez, por sí solo o en conjunto con alguna de las personas indicadas en el numerando octavo, fuere dueño de más del diez por ciento del capital social. En estos dos casos existirá causal de recusación.
 
 Art. 197. En los casos en que se trate de recusar al juez por parentesco ilegítimo que no esté de antemano reconocido o establecido por los medios legales, no se admitirá otra prueba que la confesión espontánea del juez.
 
@@ -1712,11 +1714,10 @@ Art. 392. Para cada comuna o agrupación de comunas que constituya el territorio
 Sin perjuicio de lo anterior, podrá el tribunal de la causa designar receptor a un empleado de la secretaría del mismo tribunal para el sólo efecto de que practique una diligencia determinada que no pueda realizarse por ausencia, inhabilidad u otro motivo calificado, por los receptores judiciales a que se refiere el inciso anterior. Esta designación deberá hacerse mediante resolución fundada, escrita en el libro establecido en el inciso final del artículo 384°, dejándose constancia en el respectivo expediente. La persona designada prestará el juramento exigido por el artículo 471° ante el mismo tribunal; practicará la diligencia encomendada ciñéndose a las obligaciones impuestas por el artículo 393°, y quedará facultada para cobrar los derechos que correspondan de acuerdo con el arancel de receptores judiciales.
 
 Art. 393. Los receptores deberán cumplir con prontitud y fidelidad las diligencias que se les encomienden, ciñéndose en todo a la legislación vigente, y dejar testimonio íntegro de ellas en los autos respectivos.
-En los casos que deba enviarse carta certificada al notificado, el testimonio deberá incluir, además, el hecho de haberse enviado la carta, la oficina de correo donde se hizo, la fecha y hora de su entrega y el número del comprobante emitido por dicha oficina. Este comprobante deberá ser pegado al expediente a continuación del testimonio.
-Toda falsedad en un testimonio, será castigada con las penas que establece el artículo 193 del Código Penal y la accesoria de inhabilitación especial perpetua para desempeñar funciones en la Administración de Justicia, sin perjuicio de las otras penas accesorias que procedan de acuerdo con el Código Penal.
-Los receptores sólo podrán retirar de la secretaría del tribunal las piezas del expediente que sean estrictamente necesarias para la realización de la diligencia que deban efectuar. El expediente o el respectivo cuaderno, en su caso, deberán devolverse a la secretaría del tribunal dentro de los dos días hábiles siguientes a la fecha en que se practicó la diligencia, con la debida constancia de todo lo obrado. Todo incumplimiento a las normas de este inciso constituirá falta grave a las funciones y será sancionada de oficio por el tribunal, con el solo mérito del certificado del secretario. En caso de reincidencia, necesariamente el juez deberá aplicar la medida de suspensión de funciones por un mes.
-Los receptores no podrán cobrar derechos superiores a los que establezca el arancel respectivo, deberán anotar el monto de lo cobrado al margen de cada testimonio y emitirán, con la debida especificación, la consiguiente boleta de honorarios. Las diligencias que realicen de conformidad a lo establecido en el artículo 595 serán gratuitas. El cobro indebido de derechos o de monto superior al fijado en el arancel será castigado con el máximo de la pena que establece el inciso primero del artículo 241 del Código Penal y con la suspensión del cargo por dos meses. En caso de reincidencia, la pena se aumentará al doble.
-El Presidente de la República, previo informe de la Corte Suprema, fijará anualmente los aranceles de los receptores judiciales, de acuerdo con lo establecido en el artículo 54 de la ley N° 16.250, modificado por el artículo 4° de la ley N° 17.570 y en el artículo 9° de la ley N° 18.018.
+Toda falsedad en un testimonio castigada por la ley llevará consigo la pena accesoria de inhabilitación especial perpetua para desempeñar funciones en la Administración de Justicia, sin perjuicio de las otras penas accesorias que procedan en conformidad con la ley.
+Los receptores sólo podrán retirar de la secretaría del tribunal las piezas del expediente que sean estrictamente necesarias para la realización de la diligencia que deban efectuar. El expediente o el respectivo cuaderno, en su caso, deberán devolverse a la secretaría del tribunal dentro de los dos días hábiles siguientes a la fecha en que se practicó la diligencia, con la debida constancia de todo lo obrado. Todo incumplimiento a las normas de este inciso constituirá falta grave a las funciones y será sancionado por el tribunal, previa audiencia del afectado, con alguna de las medidas contempladas en los números 2, 3 y 4 del artículo 532. En caso de reincidencia, el juez deberá aplicar la medida de suspensión de funciones por un mes.
+Los receptores no podrán cobrar derechos superiores a los que establezca el arancel respectivo, deberán anotar el monto de lo cobrado al margen de cada testimonio y emitirán, con la debida especificación, la consiguiente boleta de honorarios. Las diligencias que realicen de conformidad a lo establecido en el artículo 595 serán gratuitas. El cobro indebido de derechos o de monto superior al fijado en el arancel será castigado con el máximo de la pena que establece el inciso primero del artículo 241 del Código Penal y con la suspensión del cargo por dos meses.
+El Presidente de la República, previo informe de la Corte Suprema, fijará anualmente los aranceles de los receptores judiciales, de conformidad a la ley.
 
 ### § 6. De los Procuradores y especialmente de los Procuradores del Número
 

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1989-01-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1989-06-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1989-01-18
-fetched_at: 2026-08-03T00:46:10.435450+00:00
+version_date: 1989-06-10
+fetched_at: 2026-08-03T00:47:16.506227+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -77,6 +77,12 @@ En aquellos casos en que otro tribunal requiera la remisión del expediente orig
 
 ### Título VI
 DE LAS NOTIFICACIONES
+
+Art. 46 (49). Cuando la notificación se efectúe en conformidad al artículo 44, el ministro de fe deberá dar aviso de ella al notificado, dirigiéndole con tal objeto carta certificada por correo, en el plazo de dos días contado desde la fecha de la notificación o desde que se reabran las oficinas de correo, si la notificación se hubiere efectuado en domingo o festivo. La carta podrá consistir en tarjeta abierta que llevará impreso el nombre y domicilio del receptor y deberá indicar el tribunal, el número de ingreso de la causa y el nombre de las partes. En el testimonio de la notificación deberá expresarse, además, el hecho del envío, la fecha, la oficina de correo donde se hizo y el número de comprobante emitido por tal oficina. Este comprobante deberá ser pegado al expediente a continuación del testimonio. La omisión en el envío de la carta no invalidará la notificación, pero hará responsable al infractor de los daños y perjuicios que se originen y el tribunal, previa audiencia del afectado, deberá imponerle alguna de las medidas que se señalan en los números 2, 3 y 4 del artículo 532 del Código Orgánico de Tribunales.
+
+Art. 48 (51). Las sentencias definitivas, las resoluciones en que se reciba a prueba la causa, o se ordene la comparecencia personal de las partes, se notificarán por medio de cédulas que contengan la copia íntegra de la resolución y los datos necesarios para su acertada inteligencia.
+Estas cédulas se entregarán por un ministro de fe en el domicilio del notificado, en la forma establecida en el inciso 2° del artículo 44.
+Se pondrá en los autos testimonio de la notificación con expresión del día y lugar, del nombre, edad, profesión y domicilio de la persona a quien se haga la entrega. El procedimiento que establece este artículo podrá emplearse, además, en todos los casos que el tribunal expresamente lo ordene.
 
 Art. 50 (53). Las resoluciones no comprendidas en los artículos precedentes se entenderán notificadas a las partes desde que se incluyan en un estado que deberá formarse y fijarse diariamente en la secretaría de cada tribunal con las indicaciones que el inciso siguiente expresa.
 Se encabezará el estado con la fecha del día en que se forme, y se mencionarán por el número de orden que les corresponda en el rol general, expresado en cifras y en letras, y además por los apellidos del demandante y del demandado o de los primeros que figuren con dicho carácter si son varios, todas las causas en que se haya dictado resolución en aquel día, y el número de resoluciones dictadas en cada una de ellas. Se agregará el sello y firma del secretario.
@@ -224,6 +230,10 @@ DE LA EJECUCION DE LAS RESOLUCIONES
 
 #### 1. De las resoluciones pronunciadas por tribunales
 chilenos
+
+Artículo 233.- Cuando se solicite la ejecución de una sentencia ante el tribunal que la dictó, dentro del plazo de un año contado desde que la ejecución se hizo exigible, si la ley no ha dispuesto otra forma especial de cumplirla, se ordenará su cumplimiento con citación de la persona en contra de quien se pide.
+Esta resolución se notificará por cédula al apoderado de la parte. El ministro de fe que practique la notificación deberá enviar la carta certificada que establece el artículo 46 tanto al apoderado como a la parte. A esta última, la carta deberá remitírsele al domicilio en que se le haya notificado la demanda. En caso que el cumplimiento del fallo se pida contra un tercero, éste deberá ser notificado personalmente.
+El plazo de un año se contará, en las sentencias que ordenen prestaciones periódicas, desde que se haga exigible cada prestación o la última de las que se cobren.
 
 Art. 235. Si no ha habido oposición al cumplimiento de la sentencia solicitado conforme al artículo 233 o ella ha sido desestimada por sentencia de primera o segunda instancia, se procederá a cumplirla, siempre que la ley no haya dispuesto otra forma especial, de acuerdo con las reglas siguientes:
 1a. Si la sentencia ordena entregar una especie o cuerpo cierto, sea mueble o inmueble, se llevará a afecto la entrega, haciéndose uso de la fuerza pública si es necesario;
