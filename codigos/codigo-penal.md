@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1969-06-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1970-01-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1969-06-11
-fetched_at: 2026-08-03T00:20:00.398405+00:00
+version_date: 1970-01-06
+fetched_at: 2026-08-03T00:20:30.438361+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -228,7 +228,6 @@ PENAS COMUNES A LAS TRES CLASES ANTERIORES.
 Multa.
 Pérdida o comiso de los instrumentos o efectos del delito.
 PENAS ACCESORIAS DE LOS CRÍMENES Y SIMPLES DELITOS.
-Cadena o grillete.
 Celda solitaria.
 Incomunicación con personas extrañas al establecimiento penal.
 
@@ -254,7 +253,7 @@ La cuantía de la multa, tratándose de crímenes, no podrá exceder de un mill�
 La expresión "sueldo vital" en cualquiera disposición de este Código significa un sueldo vital mensual, escala A), del departamento de Santiago
 Cuando la ley impone multas cuyo cómputo debe hacerse con relación a cantidades indeterminadas, nunca podrán aquéllas exceder de un millón de pesos.
 En cuanto a la cuantía de la caución, se observarán las reglas establecidas para la multa, doblando las cantidades respectivamente, y su duración no podrá exceder del tiempo de la pena u obligación cuyo cumplimiento asegura, o de cinco años en los demás casos.
-La duración de las penas accesorias de cadena o grillete, encierro en celda solitaria e incomunicación con personas extrañas al establecimiento penal, es de sesenta y un días a cinco años; no pudiendo, dentro de estos límites, imponerse por más de la mitad del tiempo señalado a la pena principal.
+La duración de las penas accesorias de encierro en celda solitaria e incomunicación con personas extrañas al establecimiento, salvo los casos contemplados en el número segundo del artículo 90 y en el inciso segundo del artículo 91, no podrá exceder de 180 días, no pudiendo dentro de este límite imponerse por más de la mitad del tiempo señalado a la pena principal. En todo caso, el Tribunal que impuso la pena, podrá, atendidas las circunstancias, de oficio o a petición de parte, suspender, en cualquier momento, la pena accesoria.
 
 ART. 26.
 La duración de las penas temporales empezará a contarse desde el día de la aprehensión del reo.
@@ -432,7 +431,7 @@ Cuando la ley señala una sola pena indivisible, la aplicará el tribunal sin co
 
 ART. 66.
 Si la ley señala una pena compuesta de dos indivisibles y no acompañan al hecho circunstancias atenuantes ni agravantes, puede el tribunal imponerla en cualquiera de sus grados.
-Cuando solo concurre alguna circunstancia atenuante, debe aplicarla en su grado mínimo, y si habiendo una circunstancia agravante, no concurre ninguna atenuante, la impondrá en su grado máximo.
+Cuando solo concurre alguna circunstancia atenuante, debe aplicarla en su grado mínimo, y si habiendo una circunstancia agravante, no concurre ninguna atenuante, la impondrá en su grado máximo. Si en este último caso el grado máximo de los designados estuviere constituido por la pena de muerte, el Tribunal no estará obligado a imponerla necesariamente.
 Siendo dos o más las circunstancias atenuantes sin que concurra ninguna agravante, podrá imponer la pena inferior, en uno o dos grados al mínimo de los señalados por la ley, según sea el número y entidad de dichas circunstancias.
 Si concurrieren circunstancias atenuantes y agravantes, las compensará racionalmente el tribunal para la aplicación de la pena, graduando el valor de unas y otras.
 
@@ -446,10 +445,9 @@ En el caso de concurrir circunstancias atenuantes y agravantes, se hará su comp
 
 ART. 68.
 Cuando la pena señalada por la ley consta de dos o más grados, bien sea que los formen una o dos penas indivisibles y uno o más grados de otra divisible, o diversos grados de penas divisibles, el tribunal al aplicarla podrá recorrer toda su extensión, si no concurren en el hecho circunstancias atenuantes ni agravantes.
-Habiendo una sola circunstancia atenuante o una sola circunstancia agravante, no aplicará en el
-primer caso el grado máximo ni en el segundo el mínimo.
+Habiendo una sola circunstancia atenuante o una sola circunstancia agravante, no aplicará en el primer caso el grado máximo ni en el segundo el mínimo.
 Si son dos o más las circunstancias atenuantes y no hay ninguna agravante, el tribunal podrá imponer la pena inferior en uno, dos o tres grados al mínimo de los señalados por la ley, según sea el número y entidad de dichas circunstancias.
-Cuando, no concurriendo circunstancias atenuantes, hay dos o más agravantes, podrá imponer la inmediatamente superior en grado al máximo de los designados por la ley. Si el grado máximo de los designados lo formare en tal caso la pena de muerte, se aplicará ésta precisamente.
+Cuando, no concurriendo circunstancias atenuantes, hay dos o más agravantes, podrá imponer la inmediatamente superior en grado al máximo de los designados por la ley, a menos que dicha pena fuere la de muerte, en cuyo caso el Tribunal no estará obligado a imponerla necesariamente.
 Concurriendo circunstancias atenuantes y agravantes, se observará lo prescrito en los artículos anteriores para casos análogos.
 
 ART. 69.
@@ -476,7 +474,7 @@ El sentenciado cumplirá todas sus condenas simultáneamente, siendo posible. Cu
 
 ART. 75.
 La disposición del artículo anterior no es aplicable en el caso de que un solo hecho constituya dos o más delitos, o cuando uno de ellos sea el medio necesario para cometer el otro.
-En estos casos sólo se impondrá la pena mayor asignada al delito más grave.
+En estos casos solo se impondrá la pena mayor asignada al delito más grave. Si dicha pena fuere la de muerte, podrá imponerse, en vez de ella, la de presidio perpetuo.
 
 ART. 76.
 Siempre que el tribunal imponga una pena que lleve consigo otras por disposición de la ley, según lo prescrito en el § III de este título, condenará también al reo expresamente en estas últimas.
@@ -522,10 +520,10 @@ ART. 85.
 No se ejecutará la pena de muerte en la mujer que se halle en cinta, ni se le notificará la sentencia en que se le imponga hasta que hayan pasado cuarenta días después del alumbramiento.
 
 ART. 86.
-Los condenados a presidio perpetuo, reclusión perpetua, presidio mayor y reclusión mayor, cumplirán sus condenas en las cárceles penitenciarias. De esta regla se exceptúa a las mujeres, quienes, mientras no se construyan en dichas cárceles departamentos especiales para ellas, las cumplirán en las casas de corrección, lo mismo que las de presidio menor, reclusión menor y prisión.
+Los condenados a penas privativas de libertad cumplirán sus condenas en la clase de establecimientos carcelarios que corresponda en conformidad al Reglamento respectivo.
 
 ART. 87.
-Los condenados a presidio menor y reclusión menor, cumplirán sus condenas en los presidios; los condenados a prisión, las cumplirán en las cárceles. En unos y otros establecimientos deberán mantenerse con la correspondiente separación a los reos menores de veinte años, mientras no se construyan otros especiales para que cumplan sus condenas.
+Los menores de veintiún años y las mujeres cumplirán sus condenas en establecimientos especiales. En los lugares donde éstos no existan, permanecerán en los establecimientos carcelarios comunes, convenientemente separados de los reos adultos y varones, respectivamente.
 
 ART. 88.
 El producto del trabajo de los condenados a presidio será destinado:
@@ -545,9 +543,9 @@ De las penas en que Incurren los que quebrantan las sentencias.
 
 ART. 90.
 Los sentenciados que quebrantaren su condena serán castigados con las penas que respectivamente se designan en los números siguientes:
-1.° Los condenados a presidio, reclusión o prisión sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un tiempo que, atendidas las circunstancias, podrá extenderse hasta un año, quedando durante el mismo tiempo sujetos al régimen más estricto del establecimiento.
-2.° En caso de reincidencia en el quebrantamiento de dichas condenas sufrirán, a más de las penas de la regla anterior, la de cadena o grillete por un tiempo que, atendidas las circunstancias, podrá extenderse hasta un año.
-3.° Los consuetudinarios en el quebrantamiento de tales condenas, entendiéndose por tales los que lo hubieren verificado más de dos veces, serán encerrados en celda solitaria por un término prudencial, atendidas las circunstancias, que no podrá exceder de la mitad del que les falte por cumplir de la pena principal, conforme a lo prescrito en el art. 25.
+1.° Los condenados a presidio, reclusión o prisión sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un tiempo que, atendidas las circunstancias, podrá extenderse hasta ciento ochenta días, quedando durante el mismo tiempo sujetos al régimen más estricto del establecimiento.
+2° Los reincidentes en el quebrantamiento de tales condenas, a más de las penas de la regla anterior, serán encerrados en celda solitaria por un término prudencial, atendidas las circunstancias, que no podrá exceder de la mitad del que les falte por cumplir de la pena principal.
+3.° DEROGADO.
 4.° Los condenados a confinamiento, extrañamiento, relegación o destierro, sufrirán las penas de presidio, reclusión o prisión, según las reglas siguientes:
 Primera.-El condenado a relegación perpetua sufrirá la de presidio mayor en su grado medio.
 Segunda.-El condenado a confinamiento o extrañamiento sufrirá la de presidio, por la mitad del tiempo que le falte por cumplir de la pena primitiva.
@@ -564,8 +562,7 @@ De las penas en que incurren los que durante una condena delinquen de nuevo.
 
 ART. 91.
 Los que después de haber sido condenados por sentencia ejecutoria cometieren algún crimen o simple delito durante el tiempo de su condena, bien sea mientras la cumplen o después de haberla quebrantado, sufrirán la pena que la ley señala al nuevo crimen o simple delito que cometieren, debiendo cumplir esta condena y la primitiva por el orden que el tribunal prefije en la sentencia, de conformidad con las reglas prescritas en el art. 74 para el caso de imponerse varias penas al mismo delincuente.
-Cuando en el caso de este artículo el nuevo crimen debiere penarse con presidio o reclusión perpetuos y el delincuente se hallare cumpliendo alguna de estas penas, sufrirá la de muerte.
-Si el nuevo crimen o simple delito tuviere señalada otra pena menor, se agravará la de presidio perpetuo o de reclusión perpetua con las de cadena o grillete, encierro en celda solitaria e incomunicación con personas extrañas al establecimiento penal, que podrán aplicarse, a arbitrio del tribunal, separada o conjuntamente y hasta por el máximum del tiempo que permite el art. 25.
+Cuando en el caso de este artículo el nuevo crimen debiere penarse con presidio o reclusión perpetuos y el delincuente se hallare cumpliendo alguna de estas penas, podrá imponerse al reo la pena de muerte, o bien agravarse la pena perpetua con las de encierro en celda solitaria hasta por un año e incomunicación con personas extrañas al establecimiento penal hasta por seis años, que podrán aplicarse separada o conjuntamente. Si el nuevo crimen o simple delito tuviere señalada una pena menor, se agravará la pena perpetua con una o más de las penas accesorias indicadas, a arbitrio del Tribunal, que podrán imponerse hasta por el máximo del tiempo que permite el artículo 25.
 En el caso de que el nuevo crimen deba penarse con relegación perpetua y el delincuente se halle cumpliendo la misma pena, se le impondrá la de presidio mayor en su grado medio, dándose por terminada la de relegación.
 Cuando la pena que mereciere el nuevo crimen o simple delito fuere otra menor, se observará lo prescrito en el acápite primero del presente artículo.
 
@@ -645,17 +642,17 @@ CRÍMENES Y SIMPLES DELITOS Y SUS PENAS.
 CRÍMENES Y SIMPLES DELITOS CONTRA LA SEGURIDAD EXTERIOR Y SOBERANÍA DEL ESTADO.
 
 ART. 106.
-Todo el que dentro del territorio de la República conspirare contra su seguridad exterior, induciendo a una potencia extranjera a declarar la guerra a Chile, será castigado con presidio mayor en su grado máximo a muerte. Si se han seguido hostilidades sufrirá la pena de muerte.
-Las prescripciones de este artículo se aplican a los chilenos, aun cuando las maquinaciones para inducir a declarar la guerra a la República hayan tenido lugar fuera de su territorio.
+Todo el que dentro del territorio de la República conspirare contra su seguridad exterior para inducir a una potencia extranjera a hacer la guerra a Chile, será castigado por presidio mayor en su grado máximo a presidio perpetuo. Si se han seguido hostilidades bélicas, la pena podrá elevarse hasta la de muerte.
+Las prescripciones de este artículo se aplican a los chilenos, aún cuando la conspiración haya tenido lugar fuera del territorio de la República.
 
 ART. 107.
-El chileno que militare contra su patria bajo banderas enemigas, será castigado con presidio mayor en su grado máximo a muerte.
+El chileno que militare contra su patria bajo banderas enemigas, será castigado con presidio mayor en su grado medio a muerte.
 
 ART. 108.
-Todo individuo que, sin proceder a nombre y con autorización de una potencia extranjera, hiciere armas contra Chile amenazando la independencia o integridad de su territorio, sufrirá la pena de presidio perpetuo a muerte.
+Todo individuo que, sin proceder a nombre y con la autorización de una potencia extranjera hiciere armas contra Chile amenazando la independencia o integridad de su territorio, sufrirá la pena de presidio mayor en su grado máximo a presidio perpetuo.
 
 ART. 109.
-Será castigado con la pena de presidio mayor en su grado máximo a muerte:
+Será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo:
 El que facilitare al enemigo la entrada en el territorio de la República.
 El que le entregare ciudades, puertos, plazas, fortalezas, puestos, almacenes, buques, dineros u otros objetos pertenecientes al Estado, de reconocida utilidad para el progreso de la guerra.
 El que le suministrare auxilio de hombres, dinero, víveres, armas, municiones, vestuarios, carros, caballerías, embarcaciones u otros objetos conocidamente útiles al enemigo.
@@ -666,9 +663,9 @@ El que ocultare o hiciere ocultar a los espías o soldados del enemigo enviados 
 El que como práctico dirigiere el ejército o armada enemigos.
 El que diere maliciosamente falso rumbo o falsas noticias al ejército o armada de la República.
 El proveedor que maliciosamente faltare a su deber con grave daño del ejército o armada.
-El que impidiere que las tropas de la República, en tiempo de guerra extranjera, reciban auxilios de caudales, armas, municiones de boca o de guerra, equipos o embarcaciones, o los planos, instrucciones o noticias convenientes para el mejor progreso de la guerra.
+El que impidiere que las tropas de la República reciban auxilios de caudales, armas, municiones de boca o de guerra, equipos o embarcaciones, o los planos, instrucciones o noticias convenientes para el mejor progreso de la guerra.
 El que por cualquier medio hubiere incendiado algunos objetos con intención de favorecer al enemigo.
-En los casos de este artículo si el delincuente fuero funcionario público, agente o comisionado del Gobierno de la República, que hubiere abusado de la autoridad, documentos o noticias que tuviere por razón de su cargo, sufrirá la pena de muerte.
+En los casos de este artículo si el delincuente fuero funcionario público, agente o comisionado del Gobierno de la República, que hubiere abusado de la autoridad, documentos o noticias que tuviere por razón de su cargo, la pena podrá elevarse hasta la de muerte.
 
 ART. 110.
 Con la pena de presidio mayor en su grado medio a presidio perpetuo, se castigarán los crímenes enumerados en el artículo anterior cuando ellos se cometieren respecto de los aliados de la República que obran contra el enemigo común.
@@ -791,7 +788,7 @@ Sufrirán la pena de reclusión menor en su grado mínimo y multa de ciento a tr
 
 ART. 140.
 Cuando en el caso del núm. 3.° del artículo precedente, la injuria fuere de hecho, poniendo manos violentas sobre la persona del ministro, el delincuente sufrirá las penas de reclusión menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
-Si los golpes causaren al ofendido algunas de las lesiones a que se refiere el art. 399, la pena será presidio menor en su grado medio; cuando las lesiones fueren de las comprendidas en el núm. 2.° del art. 397, se castigarán con presidio menor en su grado máximo; si fueren de las que relaciona el núm. 1.° de dicho artículo, con presidio mayor en su grado medio, y cuando de las lesiones resultare la muerte del paciente, se impondrá al ofensor la pena de presidio mayor en su grado máximo a muerte.
+Si los golpes causaren al ofendido algunas de las lesiones a que se refiere el art. 399, la pena será presidio menor en su grado medio; cuando las lesiones fueren de las comprendidas en el núm. 2.° del art. 397, se castigarán con presidio menor en su grado máximo; si fueren de las que relaciona el núm. 1.° de dicho artículo, con presidio mayor en su grado medio, y cuando de las lesiones resultare la muerte del paciente, se impondrá al ofensor la pena de presidio mayor en su grado máximo a presidio perpetuo.
 
 #### § III.
 Crímenes y simples delitos contra la libertad y seguridad, cometidos por particulares.
@@ -1664,7 +1661,7 @@ Si a consecuencia del abandono del puesto o de la embriaguez ocurrieren accident
 Cuando de tales accidentes resultare la muerte de algún individuo, se impondrán al culpable las penas de presidio menor en su grado máximo y multa de quinientos a mil pesos.
 
 ART. 331.
-En el caso de abandono intencional por causar daño a alguna de las personas que iban en los trenes, se aplicarán al maquinista, conductor o guarda-frenos, según los casos y aumentadas en un grado, las penas que señalan los arts. 323, 324, 325 y 326.
+En el caso de abandono intencional por causar daño a alguna de las personas que iban en los trenes, se aplicarán al maquinista, conductor o guarda-frenos, según los casos y aumentadas en un grado, las penas que señalan los arts. 323, 324, 325 y 326; pero en el caso de este último artículo la pena podrá elevarse hasta la de muerte.
 
 ART. 332.
 Las penas que establecen los tres artículos precedentes se aplicarán respectivamente a cualquier otro empleado en el servicio del camino que teniendo un cargo que desempeñar, lo abandonare o ejerciere mal con peligro de la seguridad del tráfico.
@@ -1917,11 +1914,11 @@ CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS.
 Del homicidio.
 
 ART. 390.
-El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, sean legítimos o ilegítimos, a cualquier otro de sus ascendientes o descendientes legítimos o a su cónyuge, será castigado, como parricida, con la pena de muerte.
+El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, sean legítimos o ilegítimos, a cualquier otro de sus ascendientes o descendientes legítimos o a su cónyuge, será castigado, como parricida, con la pena de presidio mayor en su grado máximo a muerte.
 
 ART.391.
 El que mate a otro Y no esté comprendido en el artículo anterior, será penado:
-1.° Con presidio mayor en su grado medio a muerte, si ejecutare el homicidio con alguna de las circunstancias siguientes:
+1.° Con presidio mayor en su grado medio a presidio perpetuo, si ejecutare el homicidio con alguna de las circunstancias siguientes:
 Primera.- Con alevosía.
 Segunda.- Por premio o promesa remuneratoria.
 Tercera.- Por medio de veneno.

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1967-07-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1970-01-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1967-07-21
-fetched_at: 2026-08-03T00:18:05.588760+00:00
+version_date: 1970-01-06
+fetched_at: 2026-08-03T00:20:18.423471+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -915,6 +915,8 @@ Para determinar la procedencia de la circunstancia atenuante de responsabilidad 
 Art. 210. Además, respecto de militares, se considerará circunstancia atenuante, regida por el artículo 73 del Código Penal, el haber muerto, herido o golpeado en vindicación próxima de la ofensa inferida a una ascendiente, descendiente, cónyuge o hermana, que haya sido violada, estuprada o raptada por el ofendido.
 
 Art. 211. Fuera de los casos previstos en el inciso segundo del artículo 214, será circunstancia atenuante tanto en los delitos militares como en los comunes, el haber cometido el hecho en cumplimiento de órdenes recibidas de un superior jerárquico. Y si ellas fueren relativas al servicio podrá ser considerada como atenuante muy calificada.
+
+Art. 212. Derogado.
 
 Art. 213. En los delitos militares se considerarán
 circunstancias agravantes para los militares, además de
