@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1966-07-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1967-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1966-07-22
-fetched_at: 2026-08-03T00:17:47.582432+00:00
+version_date: 1967-01-01
+fetched_at: 2026-08-03T00:17:59.588360+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -547,7 +547,7 @@ Si en alguna ocasión y por motivos graves y urgentes, acordare el tribunal reta
 5°) Disponer la formación de la estadística del movimiento judicial de la Corte Suprema y de las Cortes de Apelaciones, en conformidad a los estados bimestrales que éstas deben pasar;
 6°) Adoptar las medidas convenientes para que las causas de que conocen la Corte Suprema y las Cortes de Apelaciones, se fallen dentro del plazo que establece la ley y velar porque las Cortes de Apelaciones cumplan igual obligación respecto de las causas de que conocen los jueces de sus respectivas jurisdicciones;
 7°) Oír y resolver las reclamaciones que se interpongan contra los subalternos de la Corte Suprema; y
-8°) Designar a uno de los miembros del tribunal para que quede de turno durante el feriado de vacaciones.
+8°) Designar los cinco miembros del Tribunal que formará la sala de turno durante el feriado de vacaciones.
 El ministro que ejerciere este cargo tendrá la facultad de convocar extraordinariamente al Tribunal siempre que algún asunto urgente y grave así lo exija.
 En caso de licencia, imposibilidad u otra causa accidental, será reemplazado por el ministro más antiguo del mismo tribunal que se halle presente.
 
@@ -1313,13 +1313,19 @@ Los jueces de letras de menor cuantía residirán dentro de los límites urbanos
 
 Art. 312. Están igualmente obligados a asistir todos los días a la sala de su despacho, y a permanecer en ella desempeñando sus funciones durante cuatro horas como mínimum cuando el despacho de causas estuviere al corriente, y de cinco horas, a lo menos, cuando se hallare atrasado.
 
-Art. 313. Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que comenzará el quince de Enero y durará hasta el primero de Marzo.
+Art. 313. Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que comenzará el primero de Febrero y durará hasta el primero de Marzo.
 Lo dispuesto en este artículo no regirá, respecto del feriado de vacaciones, con los jueces letrados que ejercen jurisdicción criminal.
 
-Art. 314. Durante el feriado de vacaciones funcionarán diariamente los jueces de letras de mayor cuantía y de Menor Cuantía que ejerzan jurisdicción en lo civil, para conocer de los asuntos en que se conceda habilitación de feriado; y en los departamentos en donde haya más de uno, desempeñará estas funciones el juez que corresponda de acuerdo con el turno que para este efecto establezca la Corte de Apelaciones respectiva.
+Art. 314. Durante el feriado de vacaciones funcionarán de lunes a viernes de cada semana los jueces de letras de mayor y menor cuantía que ejerzan jurisdicción en lo civil para conocer de aquellos asuntos a que se refiere el inciso segundo de este artículo. En los departamentos en donde haya más de uno, desempeñará estas funciones el juez que corresponda de acuerdo con el turno que para este efecto establezca la Corte de Apelaciones respectiva. En Santiago funcionarán dos juzgados de letras de mayor cuantía y dos de menor en lo civil, de acuerdo con el turno que señale la Corte de Apelaciones de Santiago para tal efecto. La distribución de las causas entre estos juzgados se hará por el Presidente de este Tribunal.
+Los jueces durante el feriado de vacaciones deberán conocer de todas las cuestiones de jurisdicción voluntaria, de los juicios posesorios, de los asuntos a que se refiere el N° 1 del artículo 680 del Código de Procedimiento Civil, de los juicios de alimentos, de los juicios del trabajo y de los asuntos relativos a menores cuando les corresponda, de las medidas prejudiciales y precautorias, de las gestiones a que dé lugar la notificación de protestos de cheques, de los juicios ejecutivos hasta la traba de embargo inclusive, y de todas aquellas cuestiones respecto de las cuales se conceda especialmente habilitación de feriado. En todo caso, deberán admitirse a tramitación las demandas, de cualquiera naturaleza que ellas sean, para el solo efecto de su notificación.
+La habilitación a que se refiere el inciso anterior deberá ser solicitada ante el tribunal que ha de quedar de turno, y en aquellos lugares en que haya más de un Juzgado de turno, la solicitud quedará sujeta a la distribución de causas a que se refiere el inciso primero. Sin embargo, en este último caso, y siempre que se trate de un asunto que con anterioridad al feriado esté conociendo uno de los Juzgados que quede de turno, la solicitud de habilitación se presentará ante él.
+El Tribunal deberá pronunciarse sobre la concesión de habilitación dentro del plazo de 48 horas contado desde la presentación de la solicitud respectiva. La resolución que la rechace será fundada. En caso de ser acogida, deberá notificarse por cédula a las partes.
+En Santiago, los Tribunales deberán remitir, salvo lo dispuesto en el inciso tercero de este artículo, las causas habilitadas a la Corte de Apelaciones para su distribución.
+En todo caso, las partes, de común acuerdo, podrán suspender la tramitación de cualquier asunto durante el feriado judicial.
 
-Art. 315. Durante el mismo período deberá quedar actuando una sala en cada Corte de Apelaciones, en conformidad al turno que ella establezca.
-Dicha sala deberá funcionar cinco días hábiles de cada semana, a lo menos, y tendrá las facultades y atribuciones que correspondan al tribunal pleno.
+Art. 315. Durante el mismo período deberá quedar actuando una Sala en cada Corte de Apelaciones, en conformidad al turno que ella establezca. Dicha Sala tendrá las facultades y atribuciones que corresponden al tribunal pleno, con excepción de los desafueros de diputados y senadores.
+En Santiago permanecerán en funciones durante el feriado de vacaciones dos salas, de acuerdo con el turno que al efecto determine la Corte de Apelaciones, las que reunidas y con un quórum mínimo de cinco miembros tendrán las facultades y atribuciones que se indican en el inciso precedente.
+En la Corte Suprema, durante el período referido, funcionará una sala integrada por cinco miembros y tendrá las facultades y atribuciones que correspondan al tribunal pleno, con excepción de las apelaciones que se deduzcan en las causas por desafuero de diputados y senadores, recursos de inaplicabilidad y de la formación de listas, ternas y propuestas para la provisión de los cargos de miembros de los Tribunales Superiores de Justicia. El Ministro más antiguo tendrá las facultades y atribuciones del Presidente de la Corte Suprema. Esta última norma se aplicará a las Cortes de Apelaciones.
 
 Art. 316. Es prohibido a los jueces ejercer la abogacía; y sólo podrán defender causas personales o de sus cónyuges, ascendientes, descendientes, hermanos o pupilos.
 Les es igualmente prohibido representar en juicio a otras personas que las mencionadas en el precedente inciso.
@@ -1422,8 +1428,8 @@ Art. 341. Derogado.
 
 Art. 342. No tendrán derecho a licencia los funcionarios suplentes que entren a subrogar a los propietarios o interinos en los casos de licencias, ni los auxiliares que fueren llamados a prestar sus servicios accidentalmente y por tiempo limitado.
 
-Art. 343. Los funcionarios judiciales a quienes la ley no les acuerda feriado durante el período de vacaciones por estar comprendidos en los casos de los artículos 313, inciso segundo y 314 de este Código, podrán obtener en cada año, el feriado a que se refieren los incisos primeros, segundo, y tercero del artículo 88 del decreto con fuerza de ley N.o 338, de 6 de Abril de 1960, sobre Estatuto Administrativo, siempre que no hayan usado de licencia por motivos particulares durante los once últimos meses. Si el funcionario hubiera obtenido licencia de este tipo, por un lapso inferior a su feriado, tendrá derecho a él, por el tiempo necesario para enterar los días de descanso que le corresponderían por su antigüedad.
-Un decreto expedido por el Presidente de la República determinará el tiempo y forma como pueden los funcionarios hacer uso de este feriado.
+Art. 343. Los funcionarios judiciales a quienes la ley no les acuerde el feriado establecido en el artículo 313, podrán obtenerlo, cada año por el término de un mes, siempre que no hayan usado licencia por motivos particulares durante los once últimos meses. Si el funcionario hubiere obtenido esta clase de licencia, por un lapso inferior a su feriado, tendrá derecho a él por el tiempo necesario para enterarlo.
+No podrán hacer uso de este feriado, simultáneamente, dos o más miembros de un tribunal colegiado, ni dos o más jueces de letras de un mismo departamento.
 
 Art. 344. Derogado.
 
@@ -1908,7 +1914,7 @@ Art. 476. Los relatores deberán asistir a la Corte diariamente con la anticipac
 Los procuradores deberán asistir a la secretaría de los tribunales a instruirse de lo que les concierne en el despacho de los negocios.
 
 Art. 477. Las obligaciones de residencia y asistencia cesan durante los días feriados.
-Esta disposición no regirá en el feriado de vacaciones con los notarios, Conservadores y Archiveros, con los Juzgados que queden de turno, ni con los que determinen las Cortes de Apelaciones para el funcionamiento de sus respectivas salas de verano.
+Esta disposición no regirá en el feriado de vacaciones con los notarios, conservadores y archivos, con los juzgados que queden de turno, ni con los auxiliares que determinen los tribunales colegiados para el funcionamiento de sus respectivas salas de verano.
 
 Art. 478. Ningún notario, Conservador, Archivero, secretario, procurador o receptor podrá ausentarse del lugar de su residencia ni dejar de asistir diariamente a su oficina sin permiso del Presidente de la Corte si ejerciere sus funciones en el lugar de asiento de este tribunal, o del juez de letras respectivo o de turno, en los demás casos.
 Este permiso no podrá otorgarse por más de ocho días a los secretarios, de dos meses a los notarios, Conservadores y Archiveros, y de un mes a los otros funcionarios. Si el permiso solicitado excediere de este plazo y no pasare de un año, deberá pedirse por escrito ante el Presidente de la República. Si transcurrido un año no se presentare el funcionario a servir su destino, se tendrá esta inasistencia como causal bastante para que la autoridad competente, siguiendo los trámites legales, pueda declarar vacante el empleo.
@@ -1981,7 +1987,7 @@ Art. 496. Regirán con los auxiliares de la Administración de Justicia las caus
 Las funciones de los secretarios, receptores, procuradores, notarios, conservadores y archiveros, se suspenderán, además, por sentencia judicial que les imponga la pena de suspensión.
 
 Art. 497. Son igualmente aplicables a los auxiliares de la Administración de Justicia las disposiciones relativas a las licencias feriados de los jueces contenidas en el párrafo 9 del Título X del presente Código.
-La disposición del artículo 344 regirá con los secretarios de las Cortes de Apelaciones y con los secretarios de los juzgados que ejerzan exclusivamente jurisdicción en lo criminal.
+La disposición del artículo 343 regirá con los Secretarios de los tribunales que no tienen derecho al feriado indicado en el artículo 313.
 Los presidentes de la Cortes de Apelaciones fijarán un turno entre sus secretarios en forma que el feriado a que dicho artículo se refiere, no perjudique las labores del tribunal.
 
 ## TITULO XIII
@@ -2013,8 +2019,8 @@ La Corte o juzgado, siempre que por consideraciones de prudencia, de moralidad o
 En todo lo demás, los oficiales subalternos estarán sujetos a las instrucciones y órdenes que les diere el respectivo notario, archivero o conservador, quienes distribuirán entre todos ellos el trabajo de su oficina en la forma que lo crean conveniente.
 
 Art. 505. Las licencias feriados de los empleados indicados en los artículos 498 y 500 se regirán por las disposiciones del párrafo 9 del Título X de este Código.
-La disposición del artículo 344 regirá con el personal de secretaría de las Cortes de Apelaciones y con los demás empleados de los juzgados que ejerzan exclusivamente jurisdicción en lo criminal.
-El presidente de la Corte de Apelaciones y los jueces respectivos fijarán los turnos del personal de secretaría en forma que el feriado no perjudique las labores del tribunal.
+La disposición del artículo 343 regirá con el personal de secretaría de los tribunales colegiados y con los demás empleados de los juzgados que no hayan hecho uso del feriado de vacaciones a que se refiere el artícuo 313.
+El Presidente de cada tribunal colegiado y los jueces respectivos fijarán los turnos del personal de secretaría de manera que el feriado no perjudique las labores del tribunal.
 Los oficiales a que se refieren los incisos anteriores y los contemplados en el artículo precedente estarán sometidos al régimen de jubilación y de previsión social que determinen las leyes.
 
 ## TITULO XIV
