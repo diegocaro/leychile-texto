@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1953-07-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1953-09-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1953-07-10
-fetched_at: 2026-08-03T00:12:07.539434+00:00
+version_date: 1953-09-09
+fetched_at: 2026-08-03T00:12:19.540771+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1104,8 +1104,8 @@ SEXTA CATEGORIA. Jueces letrados de menor cuantía que funcionen en el asiento d
 SEPTIMA CATEGORIA. Jueces letrados de menor cuantía; secretarios de juzgados de letras de mayor cuantía de departamento; y defensores públicos de departamento.
 OCTAVA CATEGORIA. Secretarios de juzgados de letras de menor cuantía.
 
-Art. 268. Los jueces letrados de departamento, los jueces de menor cuantía, los secretarios de juzgados de letras de mayor cuantía de asiento de Corte de Apelaciones y los secretarios de juzgados de letras de departamento con más de cinco años de permanencia en la categoría, tendrán para los efectos de los ascensos, los mismos derechos que los funcionarios de la categoría inmediatamente superior.
-Igual regla se aplicará a los demás secretarios de juzgados de letras de mayor cuantía y a los defensores públicos de las categorías sexta y séptima, con más de diez años de permanencia en el cargo o de veinte en el servicio judicial.
+Art. 268. Los jueces letrados de departamento, los jueces de menor cuantía y los secretarios de juzgados de letras de mayor cuantía con más de cinco años de permanencia en la categoría, tendrán para los efectos de los ascensos, los mismos derechos que los funcionarios de la categoría inmediatamente superior.
+Igual regla se aplicará a los defensores públicos de las categorías sexta y séptima, con más de diez años de permanencia en el cargo o de veinte en el servicio judicial.
 
 #### 2). Escalafón Secundario
 
