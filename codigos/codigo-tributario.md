@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1978-08-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1979-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1978-08-31
-fetched_at: 2026-08-03T00:29:35.035791+00:00
+version_date: 1979-01-01
+fetched_at: 2026-08-03T00:29:53.056205+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -209,6 +209,7 @@ GIROS, PAGOS, REAJUSTES E INTERESES
 De los giros y pagos
 
 Artículo 37.- Los impuestos deberán ser girados por el Servicio mediante roles u órdenes de ingreso, salvo los que deban pagarse por medio de timbres, estampillas o papel sellado. El Director dictará las normas administrativas que estime más convenientes para el correcto y expedito giro de los impuestos. Si estas normas alteraren el método de trabajo de las tesorerías o impusieren a éstas una nueva obligación, deberán ser aprobadas por el Ministro de Hacienda.
+El Presidente de la República por decreto expedido a través del Ministerio de Hacienda podrá disponer que se omita el giro de órdenes de ingreso por el Servicio, respecto de determinados impuestos. En tales casos, la declaración que proceda deberá formularse directamente en las Tesorerías en que corresponda efectuar el pago de los tributos, adjuntando los antecedentes necesarios para su determinación, y simultáneamente con éste.
 Facúltase al Servicio de Impuestos Internos para aproximar a cien escudos la determinación y/o giro de los impuestos, reajustes, derechos, intereses, multas y recargos, despreciándose las fracciones inferiores a cincuenta escudos y elevándose a cien escudos las iguales o mayores a dicha cantidad.
 Asimismo, facúltase al Servicio para omitir el giro de órdenes de ingreso y/o roles de cobro por sumas inferiores a un 10% de una unidad tributaria mensual, en total. En estos casos se podrá proceder a la acumulación hasta por un semestre calendario de los giros inferiores al porcentaje señalado, respecto de un mismo tipo de impuesto, considerándose para los efectos de la aplicación de intereses, multas y recargos, como impuestos correspondientes al último período que se reclame y/o gire.
 Del mismo modo y con los mismos efectos señalados en el inciso anterior, en los casos en que rija el sistema de declaración y pago simultáneo, los contribuyentes podrán acumular hasta por un semestre calendario los impuestos cuyo monto sea inferior a un 10% de una unidad tributaria mensual, respecto del total de impuestos que deban pagarse simultáneamente en una misma oportunidad.
@@ -239,7 +240,8 @@ Artículo 47.- El Ministro de Hacienda podrá facultar al Banco del Estado de Ch
 
 Artículo 48.- El pago hecho en la forma indicada en el artículo 47 extinguirá la obligación tributaria pertinente hasta el monto de la cantidad enterada, pero el recibo de ésta no acreditará por sí sólo que el contribuyente está al día en el cumplimiento de la obligación tributaria respectiva.
 
-Artículo 49.- La Tesorería respectiva no podrá negarse a recibir el pago de un impuesto y los intereses o sanciones que procedieren, por adeudarse uno o más períodos del mismo impuesto, siempre que estuvieren formalmente reclamados; pero se dejará constancia de este hecho en el mismo recibo.
+Artículo 49° La Tesorería no podrá negarse a recibir el pago de un impuesto por adeudarse uno o más períodos del mismo.
+Los tres últimos recibos de pago de un determinado impuesto no hará presumir el pago de períodos o cuotas anteriores.
 
 Artículo 50.- Los contribuyentes podrán efectuar pagos parciales de impuestos en Tesorería, para abonar a boletines u órdenes de ingreso determinados, siempre que dichos pagos parciales sean superiores a un cinco por ciento de una unidad tributaria anual.
 Las Tesorerías fraccionarán los boletines adeudados de acuerdo a las sumas que el contribuyente desee cancelar y liquidarán los intereses, sanciones y multas sobre la parte cancelada, procediendo a su ingreso definitivo a rentas fiscales.
