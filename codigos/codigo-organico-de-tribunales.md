@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1982-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1982-05-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1982-03-01
-fetched_at: 2026-08-03T00:35:58.151009+00:00
+version_date: 1982-05-18
+fetched_at: 2026-08-03T00:36:16.164341+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2118,13 +2118,13 @@ Art. 523. Para poder ser abogado se requiere:
 2°) Tener el grado de Licenciado en Ciencias Jurídicas otorgado por una Universidad, en conformidad a la ley;
 3°) No haber sido condenado ni estar actualmente procesado por delito que merezca pena corporal, salvo que se trate de delitos contra la seguridad interior del Estado;
 4°) Antecedentes de buena conducta.
-La Corte Suprema podrá practicar las averiguaciones que estime necesarias acerca de los antecedentes personales del postulante y, con el mismo objeto, pedirá informe al Colegio de Abogados respectivo; y
+La Corte Suprema podrá practicar las averiguaciones que estime necesarias acerca de los antecedentes personales del postulante, y
 5°) Haber servido satisfactoriamente en alguna de las entidades públicas o privadas destinadas a prestar asistencia jurídica y judicial gratuita, durante seis meses en la forma dispuesta por la ley. Los representantes de esas entidades deberán certificar el cumplimiento de este requisito.
 La obligación establecida en el N° 5 se entenderá cumplida por los postulantes que sean funcionarios o empleados del Poder Judicial o de los Tribunales del Trabajo por el hecho de haber desempeñado sus funciones durante cinco años.
 Si la comisión a que se refiere el número anterior no admitiere a examen al postulante, por estimar que no concurren los requisitos señalados en este artículo, el afectado podrá reclamar ante la Corte Suprema, la que resolverá como jurado.
-Incisos derogad
+Incisos derogado
 NOTA
-os.
+s.
 NOTA
 La letra b) del N° 50 del Art. 3° de la ley 11183, publicada el 10.06.1953, dispuso reemplazar en el inciso penúltimo las palabras "Universidad de Chile" por "las Universidades a que se refiere el N.o 2.o". Sin embargo el referido inciso ha sido derogado conforme a lo dispuesto en el N° 49 de la misma norma, por lo que no se ha podido efectuar la modificación en este texto actualizado.
 
