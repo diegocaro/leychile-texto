@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1969-12-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1970-06-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1969-12-19
-fetched_at: 2026-08-03T00:20:12.413354+00:00
+version_date: 1970-06-18
+fetched_at: 2026-08-03T00:20:36.448476+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -549,8 +549,12 @@ Sólo el Director del Establecimiento en el caso de los establecimientos públic
 ## LIBRO VIII
 DE LAS INHUMACIONES, EXHUMACIONES Y TRASLADO DE CADAVERES
 
-Artículo 135°.- Sólo en cementerios legalmente autorizados podrá efectuarse la inhumación de cadáveres o restos humanos.
+Artículo 135°.- Sólo en
+NOTA
+cementerios legalmente autorizados podrá efectuarse la inhumación de cadáveres o restos humanos.
 Sin embargo, el Director General de Salud podrá autorizar la inhumación temporal o perpetua de cadáveres en lugares que no sean cementerios, en las condiciones que establezca en cada caso.
+NOTA
+Véase el Decreto 357, Salud, publicado el 18.06.1970, que establece el Reglamento General de Cementerios.
 
 Artículo 136°.- Sólo el Servicio Nacional de Salud podrá autorizar la instalación y funcionamiento de cementerios, crematorios, casas funerarias y demás establecimientos semejantes. Un Reglamento contendrá las normas que regirán para la instalación y funcionamiento de los mencionados establecimientos y sobre la inhumación, cremación, transporte y exhumación de cadáveres.
 
