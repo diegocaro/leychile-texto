@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2000-05-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2000-07-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2000-05-30
-fetched_at: 2026-08-03T01:11:10.930160+00:00
+version_date: 2000-07-14
+fetched_at: 2026-08-03T01:11:34.940985+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -727,7 +727,7 @@ Art. 211. La filiación queda sin efecto por impugnación de la paternidad o de 
 
 Art. 212. La paternidad del hijo concebido o nacido durante el matrimonio podrá ser impugnada por el marido dentro de los ciento ochenta días siguientes al día en que tuvo conocimiento del parto, o dentro del plazo de un año, contado desde esa misma fecha, si prueba que a la época del parto se encontraba separado de hecho de la mujer.
 La residencia del marido en el lugar del nacimiento del hijo hará presumir que lo supo inmediatamente; a menos de probarse que por parte de la mujer ha habido ocultación del parto.
-Del nacimiento se hallaba el marido ausente, se presumirá que lo supo inmediatamente después de su vuelta a la residencia de la mujer; salvo el caso de ocultación mencionado en el inciso precedente.
+Si al tiempo del nacimiento se hallaba el marido ausente, se presumirá que lo supo inmediatamente después de su vuelta a la residencia de la mujer; salvo el caso de ocultación mencionado en el inciso precedente.
 
 Art. 213. Si el marido muere sin conocer el parto, o antes de vencido el término para impugnar señalado en el artículo anterior, la acción corresponderá a sus herederos, y en general, a toda persona a quien la pretendida paternidad irrogare perjuicio actual, por ese mismo plazo, o el tiempo que faltare para completarlo.
 Cesará este derecho, si el padre hubiere reconocido al hijo como suyo en su testamento o en otro instrumento público.
