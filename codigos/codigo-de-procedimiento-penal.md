@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2000-05-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2000-09-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 2000-05-05
-fetched_at: 2026-08-03T01:10:46.687034+00:00
+version_date: 2000-09-28
+fetched_at: 2026-08-03T01:12:17.260737+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -459,6 +459,7 @@ Art. 82. (103) Denuncia un delito la persona que pone en conocimiento de la just
 
 Art. 83. (104) Todo el que tenga conocimiento de un hecho punible puede denunciarlo.
 Son obligados a recibir la denuncia no solamente el tribunal a quien corresponda el conocimiento de la causa, sino también cualquier tribunal que ejerza jurisdicción en materia criminal y los funcionarios de Carabineros de Chile y de la Policía de Investigaciones. Todos ellos deben transmitir inmediatamente la denuncia al tribunal que juzguen competente.
+No será necesario citar a declarar a dichos funcionarios policiales acerca del hecho de haber recibido la denuncia y del contenido expresado en ella por el denunciante.
 El funcionario de Carabineros de Chile, de la Policía de Investigaciones o el tribunal que reciba una denuncia por hurto o robo deberá, en el acto de hacerlo, requerir del denunciante una declaración jurada, ante él sobre la preexistencia de las cosas sustraídas y una apreciación de su valor.
 Tratándose de delitos contra las personas, aborto, robo, hurto y de los contemplados en la ley N° 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, Carabineros de Chile o la Policía de Investigaciones, en su caso, deberán practicar de inmediato y sin previa orden judicial, las diligencias que se establecen en el artículo 120 bis, sin perjuicio de lo dispuesto en el artículo 260. Las diligencias que debieren practicarse en recinto cerrado, sólo se podrán realizar con autorización previa y expresa del propietario, arrendatario o persona a cuyo cargo esté el local en que deban efectuarse. El parte al tribunal en que se consigne la denuncia, deberá detallar las diligencias efectuadas y, en caso contrario, las razones por las cuales no se hicieron.
 
@@ -486,8 +487,10 @@ Art. 89. (110) La denuncia, puede ser hecha de palabra o por escrito, debe conte
 
 Art. 90. (111) La denuncia verbal se extenderá en un acta en presencia del denunciante; quien la firmará, si puede, junto con el funcionario que la reciba. Si el denunciante no pudiere o no supiere firmar, lo hará otra persona a su ruego.
 La denuncia escrita será firmada por el denunciante o por un apoderado especial, o por un tercero a ruego del denunciante que no pudiere o no supiere firmar.
+El acta de la denuncia describirá detalladamente el hecho punible y el lugar en que se cometió; individualizará de la forma más completa a la persona o cosa que ha sido objeto del delito, los presuntos culpables y los testigos, y, en general, contendrá los mayores datos que puedan servir para determinar el hecho punible, la persona del o de los responsables y las circunstancias que puedan influir en su calificación y penalidad. Dejará constancia, asimismo, de la información proporcionada a los testigos sobre el derecho a requerir reserva de su identidad y de aquellos que lo hayan ejercido, de conformidad a los incisos segundo y tercero del artículo 189.
 
 Art. 91. (112) Recibida la denuncia y sin más trámite, el juez procederá inmediatamente a la comprobación del hecho denunciado, salvo que éste no revista el carácter de delito o que la denuncia sea manifiestamente falsa. En estos dos casos se abstendrá el juez de todo procedimiento, pero incurrirá en responsabilidad si la desestima indebidamente.
+La comprobación inmediata del hecho denunciado a que se refiere el inciso anterior se llevará a cabo aunque la denuncia hubiere sido formulada ante la policía u otro tribunal. El denunciante no deberá concurrir a ratificar su denuncia, y sólo podrá ser citado a declarar cuando el juez por resolución fundada lo determine.
 
 Artículo 92.- Los tribunales no darán curso a denuncias hechas por personas desconocidas ni a delaciones, a no ser que contengan datos precisos que hagan verosímil que se ha cometido el hecho denunciado o delatado. En tal caso procederá el juez, previamente, a verificar los datos con el mayor secreto, procurando no comprometer la reputación de la persona inculpada.
 
@@ -907,11 +910,12 @@ Art. 194. (215) El juez mandará extender orden de citación para cada persona d
 Esta orden será firmada por el secretario y en ella se expresarán el día, hora y lugar que el testigo debe presentarse.
 Cuando sea urgente el examen de un testigo, podrá citársele verbalmente para que comparezca en el acto sin esperar que se expida orden escrita de citación; pero se hará constar en los autos el motivo de la urgencia.
 
-Artículo 195.- La citación se practicará por un agente de policía. Podrá también llevarse a efecto por cualquier ministro de fe o empleado del tribunal comisionado para ello, quien podrá exigir de la persona citada que firme en la misma boleta y que, en caso de impedimento para concurrir, anote la causa que lo motiva. El encargado de la diligencia, que no fuere ministro de fe, podrá llevar un testigo que dé testimonio de haberse efectuado, cuando la persona a quien se notifica no quisiere o no pudiere firmarla.
+Artículo 195.- La citación se notificará por carta certificada, dejándose testimonio en el expediente de la fecha de entrega de la carta a la oficina de correos, la individualización de dicha oficina y el número del comprobante emitido por ella, el cual se adherirá al expediente a continuación del testimonio.
+La notificación se entenderá practicada al quinto día hábil siguiente a la fecha recién aludida. Si la carta certificada fuera devuelta por la oficina de correos por no haberse podido entregar al destinatario, se adherirá al expediente.
+Con todo, en casos excepcionales y por resolución fundada el juez podrá ordenar que la notificación se practique por cédula, en los términos que contempla el inciso segundo del artículo 196.
 
-Art. 196. (217) La citación personal del testigo se hará en cualquier lugar en que éste sea habido.
-El testigo que, estando presente en el lugar del juicio, no pudiere, sin embargo, ser encontrado para citarlo, después de haber sido buscado en su casa en dos días diversos, o dos veces en un solo día con intervalo de cuatro horas, será citado por cédula, previo decreto judicial.
-El encargado de practicar la diligencia devolverá la boleta al juzgado con certificación del día y hora en que hubiere ejecutado la orden recibida o del inconveniente que haya impedido darle cumplimiento, de lo cual pondrá el secretario testimonio en autos.
+Artículo 196.- El testigo que no compareciere a la citación, notificada en la forma prevista en los incisos primero y segundo del artículo 195, será nuevamente notificado, esta vez por cédula, previo decreto judicial.
+La notificación la efectuará cualquier ministro de fe o empleado del tribunal comisionado para ello, y, excepcionalmente y por resolución fundada, un agente de la policía. El encargado de practicar la diligencia certificará el día y hora en que hubiera ejecutado la orden recibida o el inconveniente que haya impedido darle cumplimiento, de lo cual pondrá el secretario testimonio en autos.
 
 Art. 197. (218) Si la persona llamada a declarar ejerce funciones de servicio público que no puedan ser desamparadas, conjuntamente con citarla el juez dará aviso de la citación al jefe respectivo. Este tomará inmediatamente las providencias necesarias para que, sin daño del servicio, sea cumplida la orden del juez.
 Tratándose de personal de las Fuerzas Armadas y Carabineros de Chile, que no esté exento de la obligación de concurrir, el juez de la causa podrá encomendar la práctica de la diligencia al juez militar de instrucción que corresponda en virtud del exhorto que se regirá por las disposiciones señaladas en el artículo 198.
@@ -1111,7 +1115,7 @@ Lo dicho en los dos últimos números no se aplicará a los casos en que la dete
 NOTA 1.1
 Las modificaciones introducidas al presente Código por la Ley N° 18.857, publicada en el Diario Oficial de 6 de Diciembre de 1989, rigen, según lo dispone su artículo vigésimo, noventa días después de su publicación en el Diario Oficial.
 
-Artículo 248.- La citación a que se refiere el artículo precedente se hará en la forma prevenida en los ART QUINTO artículos 194, 195 y 196 y contendrá, además, el apercibimiento de que, si el inculpado o procesado no comparece se librará contra él orden de detención o de prisión, según los casos.
+Artículo 248.- La citación a que se refiere el artículo precedente se hará en la forma prevenida en los artículos 194 y 195. Si el inculpado o procesado no compareciere, ésta se practicará en forma personal por cualquier ministro de fe o empleado del tribunal y contendrá el apercibimiento de que, si no comparece, se librará contra él orden de detención o de prisión, según los casos.
 
 Artículo 249.- Si el citado con arreglo a lo prevenido en el artículo anterior, no compareciere ni justificare causa legítima que se lo impida, el juez hará efectivo el apercibimiento despachando la orden correspondiente.
 
@@ -1164,7 +1168,10 @@ En los casos señalados, la detención podrá hacerse en los lugares o estableci
 La detención del que se encuentre en los casos previstos en el párrafo segundo del número 6° del artículo 10 del Código Penal, se hará efectiva en su casa. Carabineros o la Policía de Investigaciones, según el caso, deberá dar inmediata cuenta de los hechos al juez del crimen, para los efectos de lo previsto en el Título IX del Libro II de este Código.
 Si el detenido tuviese su casa fuera de la ciudad donde funciona el tribunal competente, la detención se hará efectiva en la casa que aquél señale dentro del territorio jurisdiccional de dicho tribunal.
 
-Artículo 260 bis. La policía podrá solicitar la identificación de cualquier persona, en casos fundados, tales como la existencia de un indicio de que ella ha cometido o intentado cometer un crimen o simple delito, o de que se dispone a cometerlo, o de que puede suministrar informaciones útiles para la indagación de un crimen o simple delito. La identificación se realizará en el lugar en que la persona se encuentre, debiendo dársele todas las facilidades posibles para acreditarla, lo que podrá hacer por cualquier medio. En caso de negativa de una persona a acreditar su identidad o si, habiendo recibido las facilidades del caso no le ha sido posible acreditarla, la policía la conducirá a la unidad policial más cercana, para dar cumplimiento a lo dispuesto por el artículo 266. El ejercicio abusivo de esta facultad o la negativa a dar facilidades para permitir la identificación serán sancionados disciplinariamente en los términos del inciso final del artículo 293.
+Artículo 260 bis.- La policía podrá solicitar la identificación de cualquier persona en casos fundados, tales como la existencia de un indicio de que ella hubiere cometido o intentado cometer un crimen o simple delito, de que se dispusiere a cometerlo, o de que pudiere suministrar informaciones útiles para la indagación de un crimen o simple delito. La identificación se realizará en el lugar en que la persona se encontrare, por medio de documentos de identificación expedidos por la autoridad pública, como cédula de identidad, licencia de conducir o pasaporte. El funcionario policial deberá otorgar a la persona facilidades para encontrar y exhibir estos instrumentos.
+En caso de negativa de una persona a acreditar su identidad, o si habiendo recibido las facilidades del caso no le ha sido posible hacerlo, la policía le conducirá a la unidad policial más cercana para fines de identificación. Si no ha podido acreditar su identidad, se le darán en ese lugar facilidades para procurar una identificación satisfactoria por otros medios distintos de los ya mencionados. Si esto último no resultare posible, se ofrecerá a la persona ponerla en libertad de inmediato si autorizare por escrito que se le tomen huellas digitales, las que sólo podrán ser utilizadas para fines de identificación.
+En cualquier caso que hubiere sido necesario conducir a la persona a la unidad policial, el funcionario que practique el traslado deberá informarle verbalmente de su derecho a que se comunique a su familia, o a la persona que indique, de su permanencia en el cuartel policial. Asimismo, no podrá ser ingresado en celdas o calabozos, ni mantenido en contacto con personas detenidas.
+La facultad policial de requerir la identificación de una persona deberá ejercerse de la forma más expedita posible. En caso alguno el conjunto de procedimientos detallados en los incisos precedentes podrá extenderse por un plazo mayor de cuatro horas.
 
 Artículo 261.- La policía podrá detener al que sorprenda infraganti cometiendo una falta, si no tuviere un domicilio conocido ni rindiere caución en la forma prevista por el artículo 266, de que comparecerá a la presencia judicial en la audiencia inmediata sin necesidad de otra citación.
 
@@ -1178,6 +1185,7 @@ Art. 263. (285) Se reputa delincuente flagrante:
 5° Al que personas asaltadas o heridas, o víctimas de un robo o hurto, que reclaman auxilio, señalen como autor o cómplice de un delito que acaba de cometerse.
 
 Art. 264. (286) Si el aprehendido en delito flagrante es presentado inmediatamente al juez competente, éste procederá a tomar declaración al aprehensor, a los testigos presenciales que concurran y a interrogar al detenido; y en vista de estas investigaciones lo dejará en libertad o mantendrá la detención, o la convertirá en prisión preventiva, según proceda de derecho.
+Si el aprehensor es un agente de policía, se tendrán como testimonios legalmente prestados sus declaraciones contenidas en las comunicaciones o partes que se envíen al tribunal, con la firma del funcionario aprehensor y la de su superior jerárquico. Si el juez estima estrictamente necesaria la comparecencia personal del funcionario policial, deberá adoptar las medidas para que sea atendido con preferencia a los demás citados y a primera hora de la audiencia respectiva.
 
 Art. 265. (287) Si, por no ser hora de despacho o por otra causa, el detenido por delito flagrante no fuere conducido en el acto ante el juez, el jefe de la unidad policial o de la casa de detención que recibiere al detenido, hará que la persona que lo conduzca le deje por escrito y bajo su firma una exposición del hecho que motivó la aprehensión y la designación de su propio domicilio.
 Si esta persona no supiere firmar, lo harán por ella dos testigos llamados al efecto.

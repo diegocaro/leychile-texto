@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2000-09-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2000-09-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2000-09-14
-fetched_at: 2026-08-03T01:11:40.942887+00:00
+version_date: 2000-09-28
+fetched_at: 2026-08-03T01:12:02.841627+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -8542,14 +8542,15 @@ Art. 6º Las medidas precautorias en estos juicios podrán decretarse por el mon
 
 Art. 7º Toda resolución judicial que fije una pensión alimenticia tendrá mérito ejecutivo y será competente para conocer de la ejecución el tribunal que la dictó en única o en primera instancia, o el del nuevo domicilio del alimentario, siempre que éste lo hubiere cambiado por una causa distinta de las expresadas en el artículo 3º.
 
-Art. 8º El requerimiento de pago se notificará personalmente al ejecutado; pero si no fuere habido se procederá en la forma establecida en el inciso 2º del artículo 44 (47) del Código de Procedimiento Civil, aun cuando no se hallare en el lugar del juicio.
+Art. 8º El requerimiento de pago se notificará al ejecutado personalmente o por cédula, la que contendrá copia íntegra de la resolución y los datos necesarios para su acertada inteligencia. La notificación se efectuará por un receptor - visitador del mismo tribunal, por los asistentes sociales agregados o pertenecientes al Juzgado, por receptores de Juzgados de Letras, o, excepcionalmente y por resolución fundada, por funcionarios policiales, en el domicilio del ejecutado. Si éste no fuere habido, se procederá en la forma prevista en el inciso segundo del artículo 44 del Código de Procedimiento Civil, aun cuando no se hallare en el lugar del juicio.
 Solamente será admisible la excepción de pago y siempre que se funde en un antecedente escrito.
 Si no se opusieran excepciones en el plazo legal, se omitirá la sentencia y bastará el mandamiento para que el acreedor haga uso de su derecho en conformidad al procedimiento de apremio del juicio ejecutivo.
 Si las excepciones opuestas fueren inadmisibles, el tribunal lo declarará así y ordenará seguir la ejecución adelante.
-El mandamiento de embargo que se despache para el pago de la primera pensión alimenticia será suficiente para el pago de cada una de las venideras, sin necesidad de nuevo requerimiento; pero si no se efectuara oportunamente el pago de una o más pensiones, deberá, en cada caso, notificarse por cédula el mandamiento, pudiendo el demandado oponer excepción de pago dentro del término legal a contar de la notificación.
+El mandamiento de embargo que se despache para el pago de la primera pensión alimenticia será suficiente para el pago de cada una de las venideras, sin necesidad de nuevo requerimiento; pero si no se efectuara oportunamente el pago de una o más pensiones, deberá, en cada caso, notificarse por cédula el mandamiento, pudiendo el demandado oponer excepción de pago dentr del término legal a contar de la notificación.
 
-Art. 9º No obstante lo dispuesto en el artículo anterior, las resoluciones judiciales que ordenen el pago de una pensión alimenticia, se cumplirán, a petición de parte o de oficio, notificándose judicialmente en la forma establecida en el artículo 48 del Código de Procedimiento Civil a la persona natural o jurídica que, por cuenta propia o ajena o en el desempeño de un empleo o cargo, deba pagar al alimentante su sueldo, salario o cualquiera otra prestación en dinero, a fin de que retenga y entregue la suma o cuotas periódicas fijadas en ella directamente al alimentario, a su representante legal o a la persona a cuyo cuidado esté.
+Art. 9º No obstante lo dispuesto en el artículo anterior, las resoluciones judiciales que ordenen el pago de una pensión alimenticia, se cumplirán, a petición de parte o de oficio, notificándose judicialmente a la persona natural o jurídica que, por cuenta propia o ajena o en el desempeño de un empleo o cargo, deba pagar al alimentante su sueldo, salario o cualquiera otra prestación en dinero, a fin de que retenga y entregue la suma o cuotas periódicas fijadas en ella directamente al alimentario, a su representante legal o a la persona a cuyo cuidado esté.
 El juez determinará la forma y lugar del pago.
+La notificación de las resoluciones a que se refiere el inciso primero se efectuará por carta certificada, dejándose testimonio en el expediente de que la persona fue notificada por este medio, de la fecha de entrega de la carta a la oficina de correos, la individualización de dicha oficina y el número del comprobante emitido por ella, el cual se adherirá al expediente a continuación del testimonio. La notificación se entenderá practicada al quinto día hábil siguiente a la fecha recién aludida. Si la carta certificada fuera devuelta por la oficina de correos por no haberse podido entregar al destinatario, se adherirá al expediente.
 
 Art. 10. El tribunal no podrá fijar como monto de la pensión una suma o porcentaje que exceda del cincuenta por ciento de las rentas del alimentante.
 Las asignaciones por "carga de familia" no se considerarán para los efectos de calcular esta renta y corresponderán, en todo caso, a la persona que causa la asignación y serán inembargables por terceros.
