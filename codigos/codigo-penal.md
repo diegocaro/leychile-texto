@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1972-09-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1972-10-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1972-09-27
-fetched_at: 2026-08-03T00:21:54.512681+00:00
+version_date: 1972-10-21
+fetched_at: 2026-08-03T00:22:07.640427+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1464,7 +1464,10 @@ Los que emplearen amenaza o cualquier otro medio fraudulento para alejar a los p
 De las infracciones de las leyes y reglamentos relativos a las armas prohibidas.
 
 ART. 288.
+NOTA
 El que fabricare, vendiere o distribuyere armas absolutamente prohibidas por la ley o por los reglamentos generales que dicte el Presidente de la República, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a quinientos pesos.
+NOTA
+El artículo 24 de la ley 17798, publicada el 21.10.1972, deroga parcialmente este artículo, sólo en cuanto se refiere a armas de fuego, explosivos y demás elementos contemplados en la referida ley.
 
 #### § IX.
 Delitos relativos a la salud animal y vegetal.
