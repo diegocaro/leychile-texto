@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1986-02-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1986-02-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1986-02-04
-fetched_at: 2026-08-03T00:42:34.555745+00:00
+version_date: 1986-02-24
+fetched_at: 2026-08-03T00:42:46.564485+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -286,6 +286,8 @@ b) el tráfico y tránsito marítimo, lacustre, terrestre y aéreo internacional
 c) los enganches y traslados de trabajadores;
 d) la fijación del arancel sanitario, y
 e) las restricciones sanitarias que sean indispensables para la conveniente protección de la salud pública y para evitar la propagación de enfermedades de uno a otro país.
+NOTA:
+Véase el Decreto 263, Salud, publicado el 24.02.1986, que establece el Reglamento de Sanidad Marítima, Aérea y de la Frontera.
 
 ## LIBRO III
 DE LA HIGIENE Y SEGURIDAD DEL AMBIENTE Y DE LOS LUGARES DE TRABAJO
