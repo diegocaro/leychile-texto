@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1985-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1985-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1985-03-01
-fetched_at: 2026-08-03T00:41:10.464730+00:00
+version_date: 1985-10-03
+fetched_at: 2026-08-03T00:41:58.504846+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2076,9 +2076,12 @@ Sin perjuicio de los recursos que se consulten anualmente en la Ley de Presupues
 2.o- Acondicionamiento y reparación de los inmuebles fiscales o particulares, en que funcionen los referidos Tribunales o que hayan sido adquiridos o construidos de acuerdo con el presente artículo.
 Sólo podrán efectuarse reparaciones en inmuebles de propiedad particular cuando el respectivo contrato de arrendamiento haya sido celebrado por un plazo no inferior a tres años;
 3.o- Reparación y mantenimiento de los automóviles fiscales del Poder Judicial, como asimismo, de los servicios de calefacción, agua, luz, gas y ascensores;
-4.o- Organización de cursos conferencias destinados al perfeccionamiento del personal judicial, y
+4.o- Organización de cursos conferencias destinados al perfeccionamiento del personal judicial;
 5.o- Adquisición de inmuebles y construcción de edificios para el funcionamiento de los Tribunales o casa-habitación de los Jueces de Letras. Estas propiedades sólo podrán ser habitadas por los jueces mientras se desempeñen en la respectiva ciudad, quienes, además, deberán pagar a la Junta de Servicios Judiciales la renta legal de arrendamiento que formará parte de los recursos ordinarios de este organismo.
-Sin embargo, para efectuar las adquisiciones y construcciones a que se refiere el número precedente, la Junta requerirá, en cada caso, la autorización del Presidente de la República.
+Sin embargo, para efectuar las adquisiciones y construcciones a que se refiere el presente número, la Junta requerirá, en cada caso, la autorización del Presidente de la República, y
+6.o- Creación, implementación y mantención de salas cunas en aquellos lugares en que sean necesarias en conformidad a la ley, para los hijos del personal del Poder Judicial.
+Para estos efectos, la Junta de Servicios Judiciales podrá contratar el personal que se requiera.
+Podrá, asimismo, destinar los fondos que sean necesarios, de sus recursos propios, para solventar los gastos de atención y locomoción de los hijos de dicho personal judicial, en salas cunas externas, que cuenten con la autorización de la Junta Nacional de Jardines Infantiles.
 La Junta podrá poner o disposición de los Tribunales las sumas necesarias para el cumplimiento de los fines previstos en este artículo, los cuales deberán rendir, ante ella, cuenta detallada de la inversión de estos fondos.
 Esta Junta llevará una cuenta en conformidad a lo establecido en el artículo 508.o.
 La Junta de Servicios Judiciales estará exenta de toda clase de derechos, contribuciones e impuestos fiscales, con excepción de los de compraventa y cifra de negocios, sea que recaiga en sus bienes, en los actos o contratos que ejecute o celebre o que en cualquiera forma pudieren afectarla. Esta exención no favorecerá a los terceros que contraten con Junta.
