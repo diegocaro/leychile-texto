@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=137535&idVersion=1882-01-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=137535&idVersion=1888-08-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 137535
-version_date: 1882-01-15
-fetched_at: 2026-08-05T02:18:56.034291+00:00
+version_date: 1888-08-10
+fetched_at: 2026-08-05T02:19:14.042498+00:00
 titulo_norma: "CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: LEY-S/N
 organismos: []
@@ -20,7 +20,7 @@ CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE
 
 CAPITULO I
 Del territorio
-Artículo 1°. El territorio de Chile se extiende desde el desierto de Atacama hasta el Cabo de Hornos, i desde las cordilleras de los Andes hasta el mar Pacífico, comprendiendo el Archipiélago de Chiloé, todas las islas adiacentes, i las de Juan Fernández.
+Artículo 1°. Suprimido.-
 
 CAPITULO II
 De la forma de Gobierno
@@ -48,11 +48,11 @@ Art. 6º Son chilenos:
 
 Art. 7º A la Municipalidad del departamento de la residencia de los individuos que no hayan nacido en Chile, corresponde declarar si están o nó en el caso de obtener naturalizacion con arreglo al inciso 3.º del artículo anterior. En vista de la declaración favorable de la Municipalidad respectiva, el Presidente de la República espedirá la correspondiente carta de naturaleza.
 
-Art. 8º Son ciudadanos activos con derecho a sufrajio: Los chilenos que habiendo cumplido veinticinco años, si son solteros, i veintiuno, si son casados, i sabiendo leer i escribir tengan alguno de los siguientes requisitos:
-1º Una propiedad inmoble, o un capital invertido en alguna especie de jiro o industria. El valor de la propiedad inmoble, o del capital, se fijará para cada provincia de diez en diez años por una lei especial;
-2º El ejercicio de una industria o arte, el goce de algún empleo, renta o usufructo, cuios emolumentos o productos guarden proporción con la propiedad inmoble, o capital de que se habla en el número anterior.
+Art. 8º. Son ciudadanos activos con derecho de sufrajio los chilenos que hubieren cumplido veintiun años de edad, que sepan leer i escribir i estén inscritos en los rejistros electorales del departamento.
+Estos rejistros serán públicos i durarán por el tiempo que determine la lei.
+Las inscripciones serán continuas i no se suspenderán sino en el plazo que fije la lei de elecciones.
 
-Art. 9º Nadie podrá gozar del derecho de sufragio sin estar inscrito en el rejistro de electores de la Municipalidad a que pertenezca, i sin tener en su poder el boleto de calificación tres meses antes de las elecciones.
+Art. 9º .- Suprimido.
 
 Art. 10. Se suspende la calidad de ciudadano activo con derecho de sufrajio:
 1º Por ineptitud física o moral que impida obrar libre i reflexivamente;
@@ -64,8 +64,8 @@ Art. 11. Se pierde la ciudadanía:
 1º Por condena a pena aflictiva o infamante;
 2º Por quiebra fraudulenta;
 3º Por naturalización en país extranjero;
-4º Por admitir empleos, funciones, distinciones o pensiones de un Gobierno estranjero sin especial permiso del Congreso.
-5º SUPRIMIDO.
+4º Por admitir empleos, funciones, o pensiones de un Gobierno estranjero sin especial permiso del Congreso.
+5º Suprimido.
 Los que por una de las causas mencionadas en este artículo hubieren perdido la calidad de ciudadanos, podrán impetrar rehabilitación del Senado.
 
 CAPITULO V
@@ -98,8 +98,9 @@ Art. 17. En caso de ser arrestado algún Diputado o Senador por delito in fragan
 De la Cámara de Diputados
 Art. 18. La Cámara de Diputados se compone de miembros elejidos por los departamentos en votación directa i en la forma que determinare la lei de elecciones.
 
-Art. 19. Se elejirá un Diputado por cada veinte mil almas, i por una fraccion que no baje de doce mil.
-Tambien se elejirán Diputados suplentes en el número que fije la lei.
+Art. 19. Se elejirá un Diputado por cada treinta mil habitantes i por una fracción que no baje de quince mil.
+Si un Diputado muere o deja de pertenecer a la Cámara por cualquiera causa, dentro de los dos primeros años de su mandato, se procederá a su reemplazo por nueva elección en la forma i tiempo que la lei prescriba.
+El Diputado que perdiere su representación por desempeñar o aceptar un empleo incompatible, no podrá ser reelejido hasta la próxima renovación de la Cámara.
 
 Art. 20. La Cámara de Diputados se renovará en su totalidad cada tres años.
 
@@ -123,15 +124,15 @@ De la Cámara de Senadores
 Art. 24. El Senado se compone de miembros elejidos en votacion directa por provincias, correspondiendo o cada una elejir un Senador por cada tres Diputados i por una fraccion de dos Diputados.
 Se elejirá, en la misma forma, un Senador suplente por cada provincia para que reemplace a los propietarios que a ella correspondan.
 
-Art. 25. Tanto los Senadores propietarios como los suplentes, permanecerán en el ejercicio de sus funciones por seis años, pudiendo ser reelejidos indefinidamente.
+Art. 25. Los Senadores, permanecerán en el ejercicio de sus funciones por seis años, pudiendo ser reelejidos indefinidamente.
 
-Art. 26. Los Senadores propietarios se renovarán cada tres años en la forma siguiente:
+Art. 26. Los Senadores se renovarán cada tres años en la forma siguiente:
 Las provincias que elijan un número par de Senadores harán la renovacion por mitad en la eleccion de cada trienio.
 Las que elijan un número impar, la harán en el primer trienio, dejando para el trienio siguiente la del Senador impar que no se renovó en el anterior.
-Las que elijan un solo Senador, lo renovarán cada seis años, aplicándose esta misma regla a los Senadores suplentes.
+Las que elijan un solo Senador, lo renovarán cada seis años.
 
-Art. 27. Cuando falleciere algún Senador o se imposibilitare, por cualquier motivo, para desempeñar sus funciones, la provincia respectiva elijirá en la primera renovacion otro que lo subrogue por el tiempo que le faltase para llenar su periodo constitucional.
-Igual procedimiento se adoptará siempre que un Senador se encuentre en alguno de los casos del artículo 23.
+Art. 27. Si un Senador muere o deja de pertenecer a la Cámara por cualquiera causa antes del último año de su mandato, se procederá a su reemplazo por nueva elección, por el tiempo que le falte, en la forma i plazo que la lei prescriba.
+El Senador que perdiere su representación por desempeñar o aceptar un empleo incompatible, no podrá ser elejido antes del próximo trienio.
 
 Art. 28. Acto continuo se practicará el escrutinio, i se estenderán dos actas de su resultado, suscritas por los electores, las cuales se remitirán cerradas i selladas, una al Cabildo de la capital de la misma provincia para que la deposite en su archivo, i otra a la Comisión Conservadora.
 
@@ -281,7 +282,7 @@ Art. 71. Si la primera mayoría de votos hubiere cabido a una sola persona, i la
 
 Art. 72. Esta elección se hará a pluralidad absoluta de sufrajios, i por votación secreta. Si verificada la primera votación no resultare mayoría absoluta, se hará segunda vez, contrayéndose la votación a las dos personas que en la primera hubiesen obtenido mayor número de sufrajios. En caso de empate, se repetirá la votación, i si resultare nuevo empate, decidirá el Presidente del Senado.
 
-Art. 73. No podrá hacerse el escrutinio ni la rectificación de estas elecciones, sin que estén presentes las tres cuartas partes del total de los miembros de cada una de las Cámaras.
+Art. 73. No podrá hacerse el escrutinio, ni la rectificación de estas elecciones, sin que esté presente la mayoría absoluta del total de miembros de cada una de las Cámaras.
 
 Art. 74. Cuando el Presidente de la República mandare personalmente la fuerza armada, o cuando por enfermedad, ausencia del territorio de la República u otro grave motivo no pudiere ejercitar su cargo, le subrogará el Ministro del Despacho del Interior con el título de Vice-presidente de la República. Si el impedimento del Presidente fuese temporal, continuará subrogándole el Ministro hasta que el Presidente se halle en estado de desempeñar sus funciones. En los casos de muerte, declaración de haber lugar a su renuncia, u otra clase de imposibilidad absoluta, o que no pudiere cesar antes de cumplirse el tiempo que falta a los cinco años de su duración constitucional, el Ministro Vicepresidente, en los primeros diez días de su Gobierno espedirá las órdenes convenientes para que se proceda a nueva elección de Presidente en la forma prevenida por la Constitución.
 
