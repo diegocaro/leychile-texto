@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1988-10-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1989-06-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1988-10-20
-fetched_at: 2026-08-03T00:45:46.412308+00:00
+version_date: 1989-06-09
+fetched_at: 2026-08-03T00:47:04.490904+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -69,6 +69,10 @@ Art. 9° Derogado.
 
 Art. 10. Cuando los hijos de familia y los menores que administran su peculio profesional en virtud de la autorización que les confieren los artículos 246 y 439 del Código Civil ejecutaren algún acto de comercio, quedarán obligados hasta concurrencia de su peculio y sometidos a las leyes de comercio.
 
+Art. 11. La mujer casada comerciante se regirá por lo dispuesto en el artículo 150 del Código Civil.
+NOTA:
+El artículo cuarto de la LEY 18802, publicada el 09.06.1989, deroga el inciso segundo de la presente norma.
+
 Art. 12 Derogado.
 
 Art. 13. Derogado.
@@ -122,7 +126,9 @@ Art. 28. Llevándose libro de caja y de facturas, podrá omitirse en el diario e
 Art. 29. Al abrir su giro, todo comerciante hará en el libro de balances una enunciación estimativa de todos sus bienes, tanto muebles como inmuebles, y de todos sus créditos activos y pasivos.
 Al fin de cada año formará en este mismo libro un balance general de todos sus negocios, bajo las responsabilidades que se establecen en el Libro IV de este Código.
 
-Art. 30. Los comerciantes por menor llevarán un libro encuadernado, forrado y foliado, y en él asentarán diariamente las compras y ventas que hagan tanto al fiado como al contado.
+Art. 30. Los comerciantes por menor llevarán un libro encuadernado, forrado y foliado, y en él asentar
+NOTA
+án diariamente las compras y ventas que hagan tanto al fiado como al contado.
 En este mismo libro formarán al fin de cada año un balance general de todas las operaciones de su giro.
 Se considera comerciante por menor al que vende
 NOTA
