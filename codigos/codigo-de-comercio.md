@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1974-12-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1981-10-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1974-12-31
-fetched_at: 2026-08-03T00:24:20.507902+00:00
+version_date: 1981-10-22
+fetched_at: 2026-08-03T00:34:34.049462+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1254,6 +1254,100 @@ Art. 421. Pasados los cuatro años, los socios no liquidadores no serán obligad
 Art. 422. La prescripción no tiene lugar cuando los socios verifican por sí mismos la liquidación o la sociedad se encuentra en quiebra.
 
 Art. 423. Las acciones de los acreedores contra el socio o socios liquidadores, considerados en esta última cualidad, y las que tienen los socios entre sí prescriben por el transcurso de los plazos que señala el Código Civil.
+
+#### § 8. De las sociedades anónimas
+
+Art. 424. DEROGADO
+
+Art. 425. DEROGADO
+
+Art. 426. DEROGADO
+
+Art. 427. DEROGADO
+
+Art. 428. DEROGADO
+
+Art. 429. DEROGADO
+
+Art. 430. DEROGADO
+
+Art. 431. DEROGADO
+
+Art. 432. DEROGADO
+
+Art. 433. DEROGADO
+
+Art. 434. DEROGADO
+
+Art. 435. DEROGADO
+
+Art. 436. DEROGADO
+
+Art. 437. DEROGADO
+
+Art. 438. DEROGADO
+
+Art. 439. DEROGADO
+
+Art. 440. DEROGADO
+
+Art. 441. DEROGADO
+
+Art. 442. DEROGADO
+
+Art. 443. DEROGADO
+
+Art. 444. DEROGADO
+
+Art. 445. DEROGADO
+
+Art. 446. DEROGADO
+
+Art. 447. DEROGADO
+
+Art. 448. DEROGADO
+
+Art. 449. DEROGADO
+
+Art. 450. DEROGADO
+
+Art. 451. DEROGADO
+
+Art. 452. DEROGADO
+
+Art. 453. DEROGADO
+
+Art. 454. DEROGADO
+
+Art. 455. DEROGADO
+
+Art. 456. DEROGADO
+
+Art. 457. DEROGADO
+
+Art. 458. DEROGADO
+
+Art. 459. DEROGADO
+
+Art. 460. DEROGADO
+
+Art. 461. DEROGADO
+
+Art. 462. DEROGADO
+
+Art. 463. DEROGADO
+
+Art. 464. DEROGADO
+
+Art. 465. DEROGADO
+
+Art. 466. DEROGADO
+
+Art. 467. DEROGADO
+
+Art. 468. DEROGADO
+
+Art. 469. DEROGADO
 
 #### § 9. Disposiciones relativas a la sociedad
 en comandita
