@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1999-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1999-12-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1999-03-01
-fetched_at: 2026-08-03T01:07:44.179140+00:00
+version_date: 1999-12-14
+fetched_at: 2026-08-03T01:09:34.656518+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1500,6 +1500,12 @@ Art. 323. Se prohibe a los funcionarios judiciales:
 3°) Mezclarse en reuniones, manifestaciones u otros actos de carácter político o efectuar cualquiera actividad de la misma índole dentro del Poder Judicial; y
 4°) Publicar, sin autorización del Presidente de la Corte Suprema, escritos en defensa de su conducta oficial o atacar en cualquier forma, la de otros jueces o magistrados.
 En el caso de que se produjeren antecedentes para creer que los jueces infringen las disposiciones contenidas en los N.os 2° y 3° de este artículo, deberá la Corte de Apelaciones adoptar las medidas que creyere convenientes para mantener la absoluta prescindencia de la autoridad judicial en las luchas electorales.
+
+Art. 323 bis. Los miembros del escalafón primario y los de la segunda serie del escalafón secundario del Poder Judicial, a que se refieren los artículos 267 y 269, respectivamente deberán, dentro del plazo de treinta días desde que hubieren asumido el cargo, efectuar una declaración jurada de intereses ante un notario de la ciudad donde ejerzan su ministerio, o ante el oficial del Registro Civil en aquellas comunas en que no hubiere notario.
+Se entiende por intereses los que sean exigibles para la declaración a que se refiere el artículo 60 de la ley Nº18.575.
+El original de la declaración será protocolizado en la misma notaría donde fue prestada o en una notaría con jurisdicción en el territorio del tribunal a que pertenezca el declarante, y se remitirá copia de la protocolización a la secretaría de la Corte Suprema y de la respectiva Corte de Apelaciones, donde se mantendrá para su consulta pública. Cualquier persona podrá obtener copia del instrumento protocolizado.
+La declaración deberá ser actualizada cuando el funcionario fuere nombrado en un nuevo cargo o dentro de los treinta días siguientes al cumplimiento del próximo cuatrienio, si no se hubiere efectuado un nuevo nombramiento.
+La omisión de la declaración será sancionada por el superior jerárquico que corresponda, en la forma y con las sanciones que establece el Título XVI.
 
 ### § 8. De la responsabilidad de los jueces
 
