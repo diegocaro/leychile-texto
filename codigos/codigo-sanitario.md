@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1985-04-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1986-01-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1985-04-25
-fetched_at: 2026-08-03T00:41:40.485890+00:00
+version_date: 1986-01-17
+fetched_at: 2026-08-03T00:42:28.547295+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -499,7 +499,7 @@ NOTA
 alimenticios cualquier substancia o mezcla de substancias destinadas al consumo humano, incluyendo las bebidas y todos los ingredientes y aditivos de dichas substancias.
 El Reglamento determinará las tolerancias técnicas admitidas que deberán satisfacer las materias primas destinadas a la elaboración de alimentos.
 NOTA
-Véanse la LEY 4869, publicada el 04.08.1930, que autoriza al Presidente de la República para declarar obligatoria la pasteurización de la leche en las ciudades que determine y, entre otros, los decretos de Salud N° 18, D.O. 25.02.1976 y N° 181, D.O. de 20.08.1977, en que se hace obligatoria en las comunas que en ellos se señalan.
+Véanse la LEY 4869, publicada el 04.08.1930, que autoriza al Presidente de la República para declarar obligatoria la pasteurización de la leche en las ciudades que determine y, entre otros, los decretos de Salud N° 18, D.O. 25.02.1976 y N° 181, D.O. de 20.08.1977, en que se hace obligatoria en las comunas que en ellos se señalan. Véase también la Resolución 1 exenta, publicada el 17.01.1986, que establece normas sanitarias para la pasteurización de la leche y productos lácteos.
 
 Artículo 109°.- El Reglamento determinará las características que deben reunir las bebidas alcohólicas y analcohólicas.
 
