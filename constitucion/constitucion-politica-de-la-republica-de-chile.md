@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1974-10-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1974-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 241203
-version_date: 1974-10-24
-fetched_at: 2026-08-05T02:21:20.032763+00:00
+version_date: 1974-12-27
+fetched_at: 2026-08-05T02:21:54.125431+00:00
 titulo_norma: "FIJA TEXTO DE LA CONSTITUCION POLITICA DEL ESTADO"
 compuesto: DTO-1333
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -794,6 +794,9 @@ A fin de llevar a efecto la transacción mencionada, no regirán las limitacione
 
 Artículo veinte transitorio.- Apruébase en todos sus términos el Contrato de Transacción celebrado por el Estado de Chile, la Corporación del Cobre, la sociedad colectiva del Estado denominada Sociedad Minera El Teniente, y las sociedades Braden Copper Company, Kennecott Copper Corporation y Kennecott Sales Corporation, que consta del documento suscrito por las partes con fecha 22 de Octubre de 1974 y que obra en poder del señor Contralor General de la República, mediante el cual se solucionan y se pone término a todas las controversias, dificultades, litigios, reclamaciones y demás cuestiones entre las partes, presentes o futuras, en Chile y en el extranjero, derivadas o relacionadas con la nacionalización de la empresa que perteneció a la disuelta sociedad minera mixta denominada Sociedad Minera El Teniente S.A., todo ello de acuerdo con las estipulaciones que en ese documento se consignan.
 A fin de llevar a efecto la transacción mencionada, no regirán las limitaciones, restricciones o requisitos vigentes o que pudieran entenderse establecidos por las leyes para efectuar los pagos, constituir las garantías, asumir las obligaciones, suscribir los documentos y efectuar las declaraciones que en dicho contrato se contienen.
+
+Artículo veintiuno transitorio.- Apruébase en todos sus términos el Contrato de Transacción celebrado por el Estado de Chile, la Corporación del Cobre y Overseas Private Investment Corporation, que consta del documento suscrito por las partes con fecha 24 de Diciembre de 1974 y que obra en poder del señor Contralor General de la República mediante el cual se solucionan y se pone término a todas las controversias, dificultades, litigios, reclamaciones y demás cuestiones entre las partes, presente o futuras, en Chile y en el extranjero, derivadas o relacionadas con la nacionalización de la Empresa que perteneció a la disuelta sociedad minera mixta denominada Compañía Minera Exótica S. A., todo ello de acuerdo con las estipulaciones que en ese documento se consignan.
+A fin de llevar a efecto la transacción mencionada, no regirán las limitaciones, restricciones o requisitos vigentes o que pudieren entenderse establecidas por las leyes para efectuar los pagos, asumir las obligaciones, constituir las garantías, suscribir los documentos y efectuar las declaraciones que en dicho contrato se contienen.
 
 Por tanto, mando que se cumpla y respete en todas sus partes como la Ley Fundamental de la República.
 ARTURO ALESSANDRI, Presidente de la República.
