@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2002-05-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2003-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2002-05-31
-fetched_at: 2026-08-03T01:18:10.619864+00:00
+version_date: 2003-10-03
+fetched_at: 2026-08-03T01:21:40.284145+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1316,15 +1316,15 @@ En la apreciación de los diversos medios de prueba opuestos al mérito de un in
 Art. 356 (345). Es hábil para testificar en juicio toda persona a quien la ley no declare inhábil.
 
 Art. 357 (346). No son hábiles para declarar como testigos:
-1° Los menores de catorce años. Podrán, sin embargo, aceptarse las declaraciones sin previo juramento y estimarse como base para una presunción judicial, cuando tengan discernimiento suficiente;
-2° Los que se hallen en interdicción por causa de demencia;
-3° Los que al tiempo de declarar, o al de verificarse los hechos sobre que declaran, se hallen privados de la razón, por ebriedad u otra causa;
-4° Los que carezcan del sentido necesario para percibir los hechos declarados al tiempo de verificarse éstos;
-5° Los sordo-mudos que no puedan darse a entender por escrito;
-6° Los que en el mismo juicio hayan sido cohechados, o hayan cohechado o intentado cohechar a otros, aun cuando no se les haya procesado criminalmente;
-7° Los vagos sin ocupación u oficio conocido;
-8° Los que en concepto del tribunal sean indignos de fe por haber sido condenados por delito; y
-9° Los que hagan profesión de testificar en juicio.
+1°. Los menores de catorce años. Podrán, sin embargo, aceptarse las declaraciones sin previo juramento y estimarse como base para una presunción judicial, cuando tengan discernimiento suficiente;
+2°. Los que se hallen en interdicción por causa de demencia;
+3°. Los que al tiempo de declarar, o al de verificarse los hechos sobre que declaran, se hallen privados de la razón, por ebriedad u otra causa;
+4°. Los que carezcan del sentido necesario para percibir los hechos declarados al tiempo de verificarse éstos;
+5°. Los sordos o sordomudos que no puedan darse a entender claramente;
+6°. Los que en el mismo juicio hayan sido cohechados, o hayan cohechado o intentado cohechar a otros, aun cuando no se les haya procesado criminalmente;
+7°. Los vagos sin ocupación u oficio conocido;
+8°. Los que en concepto del tribunal sean indignos de fe por haber sido condenados por delito; y
+9°. Los que hagan profesión de testificar en juicio.
 
 Art. 358 (347). Son también inhábiles para declarar:
 1°. El cónyuge y los parientes legítimos hasta el cuarto grado de consanguinidad y segundo de afinidad de la parte que los presenta como testigos;
@@ -1416,7 +1416,10 @@ Art. 381 (370). Tiene el testigo derecho para reclamar de la persona que lo pres
 Se entenderá renunciado este derecho si no se ejerce en el plazo de veinte días, contados desde la fecha en que se presta la declaración.
 En caso de desacuerdo, estos gastos serán regulados por el tribunal sin forma de juicio y sin ulterior recurso.
 
-Art. 382 (372). Si algún testigo no entiende o no habla castellano, será examinado por medio de intérprete.
+Art. 382 (372). Si el testigo no supiere el idioma castellano, será examinado por medio de un intérprete mayor de dieciocho años, quien prometerá bajo juramento desempeñar bien y fielmente el cargo.
+Por conducto del intérprete se interrogará al testigo y se recibirán sus contestaciones, las cuales serán consignadas en el idioma del testigo, si éste no entendiere absolutamente el castellano. En tal caso, se pondrá al pie de la declaración la traducción que de ella haga el intérprete.
+Si el testigo fuere sordo, las preguntas le serán dirigidas por escrito; y si fuere mudo, dará por escrito sus contestaciones.
+Si no fuere posible proceder de esta manera, la declaración del testigo será recibida por intermedio de una o más personas que puedan entenderse con él por medio de la lengua de señas, por signos, o que comprendan a los sordos o sordomudos. Estas personas prestarán previamente el juramento de que trata el inciso primero.
 
 Art. 383 (373). Los testimonios de oídas, esto es, de testigos que relatan hechos que no han percibido por sus propios sentidos y que sólo conocen por el dicho de otras personas, únicamente podrán estimarse como base de una presunción judicial.
 Sin embargo, es válido el testimonio de oídas cuando el testigo se refiere a lo que oyó decir a alguna de las partes, en cuanto de este modo se explica o esclarece el hecho de que se trata.
@@ -1453,7 +1456,7 @@ No se podrá comisionar al secretario para tomar la confesión cuando la parte h
 
 Art. 390 (380). Antes de interrogar al litigante, se le tomará juramento de decir verdad en conformidad al artículo 363.
 
-Art. 391 (381). La declaración deberá prestarse inmediatamente, de palabra y en términos claros y precisos. Si el confesante es sordo-mudo, podrá escribir su confesión delante del tribunal o ministro de fe encargado de recibirla.
+Art. 391 (381). La declaración deberá prestarse inmediatamente, de palabra y en términos claros y precisos. Si el confesante es sordo o sordo-mudo, podrá escribir su confesión delante del tribunal o ministro de fe encargado de recibirla o, en su caso, se aplicará lo dispuesto en el artículo 382.
 Si se trata de hechos personales, deberá prestarse afirmándolos o negándolos. Podrá, sin embargo, el tribunal admitir la excusa de olvido de los hechos, en casos calificados, cuando ella se funde en circunstancias verosímiles y notoriamente aceptables.
 En todo caso podrá el confesante añadir las circunstancias necesarias para la recta y cabal inteligencia de lo declarado.
 
