@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1989-06-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1991-02-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1989-06-09
-fetched_at: 2026-08-03T00:47:04.490904+00:00
+version_date: 1991-02-14
+fetched_at: 2026-08-03T00:50:58.737401+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -888,6 +888,14 @@ Art. 279. Evacuada la negociación encomendada, el comisionista está obligado:
 1°. A dar inmediatamente aviso a su comitente;
 2°. A poner en manos del mismo, a la mayor brevedad posible, una cuenta detallada y justificada de su administración, devolviéndole los títulos y demás piezas que el comitente le hubiere entregado, salvo las cartas misivas;
 3°. A reintegrar al comitente el saldo que resulte a favor de él, debiendo valerse para ello de los medios que el mismo comitente hubiere designado, o en su defecto, de los que fueren de uso general en el comercio.
+
+Art. 280. Las cuentas que rindiere el comisionista deberán concordar con los asientos de sus libros.
+Si no estuvieren conformes con ellos, el comisionista será castigado como reo de hurto con
+NOTA:
+falsedad.
+En la misma pena incurrirá el comisionista que altere en sus cuentas los precios o las condiciones de los contratos, suponga gastos o exagere los que hubiere hecho.
+NOTA:
+El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
 
 Art. 281. El comisionista abonará a su comitente intereses corrientes, aunque no preceda interpelación, si fuere moroso en rendir su cuenta o remitir el saldo en la forma especificada en el artículo 279.
 

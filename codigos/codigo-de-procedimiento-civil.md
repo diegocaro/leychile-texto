@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1989-12-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1991-02-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1989-12-20
-fetched_at: 2026-08-03T00:48:46.606897+00:00
+version_date: 1991-02-14
+fetched_at: 2026-08-03T00:51:10.741337+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -171,6 +171,10 @@ Las recusaciones que se interpongan por causas sobrevinientes a la fecha de este
 
 Artículo 125.- Producida alguna de las situaciones previstas en el artículo 199 del Código Orgánico de Tribunales respecto de las causales de recusación, la parte a quien, según la presunción de la ley, pueda perjudicar la falta de imparcialidad que se supone en el juez, deberá alegar la inhabilidad correspondiente dentro del plazo de cinco días contados desde que se le notifique la declaración respectiva. Si así no lo hiciere, se considerará renunciada la correspondiente causal de recusación. Durante este plazo, el juez se considerará inhabilitado para conocer de la causa y se estará a lo dispuesto en el artículo 121 de este Código.
 
+### Título XV DEL DESISTIMIENTO DE LA DEMANDA
+
+Art. 148 (155). Antes de notificada una demanda al demandado, podrá el actor retirarla sin trámite alguno, y se considerará como no presentada. Después de notificada, podrá en cualquier estado del juicio desistirse de ella ante el tribunal que conozca del asunto, y esta petición se someterá a los trámites establecidos para los incidentes.
+
 ### Título XVI
 DEL ABANDONO DEL PROCEDIMIENTO
 
@@ -207,6 +211,20 @@ Art. 167 (174). Cuando la existencia de un delito haya de ser fundamento preciso
 Esta suspensión podrá decretarse en cualquier estado del juicio, una vez que se haga constar la circunstancia mencionada en el inciso precedente.
 Si en el caso de los dos incisos anteriores se forma incidente, se tramitará en pieza separada sin paralizar la marcha del juicio.
 Con todo, si en el mismo juicio se ventilan otras cuestiones que puedan tramitarse y resolverse sin aguardar el fallo del proceso criminal, continuará respecto de ellas el procedimiento sin interrupción.
+
+Art. 170 (193). Las sentencias definitivas de primera o de única instancia y las de segunda que modifiquen o revoquen en su parte dispositiva las de otros tribunales, contendrán:
+1°. La designación precisa de las partes litigantes, su domicilio y profesión u oficio;
+2°. La enunciación breve de las peticiones o acciones deducidas por el demandante y de sus fundamentos;
+3°. Igual enunciación de las excepciones o defensas alegadas por el demandado;
+4°. Las consideraciones de hecho o de derecho que sirven de fundamento a la sentencia;
+5°. La enunciación de las leyes, y en su defecto de los principios de equidad, con arreglo a los cuales se pronuncia el fallo; y
+6°. La decisión del asunto controvertido. Esta decisión deberá comprender todas las acciones y excepciones que se hayan hecho valer en el juicio; pero podrá omitirse la resolución de aquellas que sean incompatibles con las aceptadas.
+En igual forma deberán dictarse las sentencias definitivas de segunda instancia que confirmen sin modificación las de primera cuando éstas no reúnen todos o algunos de los requisitos indicados en la enunciación precedente.
+Si la sentencia de primera instancia reúne estos requisitos, la de segunda que modifique o revoque no necesita consignar la exposición de las circunstancias mencionadas en los números 1°, 2° y 3° del presente artículo y bastará referirse a ella.
+NOTA
+Véase el Auto Acordado de la Corte Suprema, de 30 de septiembre de 1920, sobre la forma de las sentencias.
+
+Art. 178 (201). En los juicios civiles podrán hacerse valer las sentencias dictadas en un proceso criminal siempre que condenen al procesado
 
 Art. 179 (202). Las sentencias que absuelvan de la acusación o que ordenen el sobreseimiento definitivo, sólo producirán cosa juzgada en materia civil, cuando se funden en alguna de las circunstancias siguientes:
 1ª La no existencia del delito o cuasidelito que ha sido materia del proceso. No se entenderán comprendidos en este número los casos en que la absolución o sobreseimiento provengan de la existencia de circunstancias que eximan de responsabilidad criminal;
@@ -545,6 +563,10 @@ El tribunal exhortado se limitará a remitir la solicitud de oposición al exhor
 Art. 469. (491). La prueba se rendirá del mismo modo que en el juicio ordinario, y el fallo que dé lugar a ella expresará los puntos sobre que deba recaer. Vencido el término probatorio, quedarán los autos en la secretaría por espacio de seis días a disposición de las partes, antes de pronunciar sentencia. Durante este plazo podrán hacerse por escrito las observaciones que el examen de la prueba sugiera, y una vez vencido, háyanse o no presentado escritos, y sin nuevo trámite, el tribunal citará a las partes para oír sentencia.
 
 Art. 476. (498). Derogado.
+
+Art. 478. (500). La sentencia recaída en el juicio ejecutivo produce cosa juzgada en el juicio ordinario, tanto respecto del ejecutante como del ejecutado.
+Con todo, si antes de dictarse sentencia en el juicio ejecutivo, el actor o el procesado piden que se les reserven para el ordinario sus acciones o excepciones, podrá el tribunal declararlo así, existiendo motivos calificados. Siempre se concederá la reserva respecto de las acciones y excepciones que no se refieran a la existencia de la obligación misma que ha sido objeto de la ejecución.
+En los casos del inciso precedente, la demanda ordinaria deberá interponerse dentro del plazo que señala el artículo 474, bajo pena de no ser admitida después.
 
 #### 2. De la administración de los bienes embargados y
 del procedimiento de apremio

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1991-01-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1991-02-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1991-01-23
-fetched_at: 2026-08-03T00:50:22.698683+00:00
+version_date: 1991-02-14
+fetched_at: 2026-08-03T00:51:04.740487+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -56,10 +56,10 @@ Art. 7° Los cadetes, grumetes, aprendices y alumnos regulares de las Escuelas I
 
 Art. 8° Derogado.
 
-Art. 9° No obstante lo dispuesto en los artículos precedentes, serán juzgados por los tribunales ordinarios, los militares que se hicieren reos de delitos comunes cometidos en el ejercicio de funciones propias de un destino público civil.
+Art. 9° No obstante lo dispuesto en los artículos precedentes, serán juzgados por los tribunales ordinarios, los militares que se hicieren procesados de delitos comunes cometidos en el ejercicio de funciones propias de un destino público civil.
 Corresponderá conocer de los delitos cometidos por civiles en una nave militar en la alta mar al juzgado en lo criminal competente del primer puerto nacional de arribada, excepto el caso de que sean de competencia de los tribunales militares. Si el delito fuere cometido por un civil en una aeronave en vuelo, conocerá de ese delito el juzgado en lo criminal competente en el primer aeropuerto nacional en que aquélla aterrice, excepto el caso de que sea de competencia de los tribunales militares.
 
-Art. 10. Será competente para conocer de los delitos DL.3425,1980 militares, el juzgado institucional que corresponda al Art. 3° cuerpo armado ofendido por el hecho descrito en la ley; y del delito común, el tribunal que corresponda a la institución a que pertenezca el sujeto activo del delito. En el caso de que fueran dos o más las instituciones ofendidas o si hubiere reos pertenecientes a distintas instituciones militares, será competente el juzgado institucional que primero haya comenzado a instruir el proceso. Si no se supiere cuál fue ese tribunal, será competente el que designare el tribunal superior encargado de resolver las cuestiones de competencia entre los juzgados institucionales comprometidos en la causa.
+Art. 10. Será competente para conocer de los delitos militares, el Juzgado Institucional que corresponda al cuerpo armado ofendido por el hecho descrito en la ley; y del delito común, el tribunal que corresponda a la institución a que pertenezca el sujeto activo del delito. En el caso de que fueran dos o más las instituciones ofendidas o si hubiere procesados pertenecientes a distintas instituciones militares, será competente el juzgado institucional que primero haya comenzado a instruir el proceso. Si no se supiere cuál fue ese tribunal, será competente el que designare el tribunal superior encargado de resolver las cuestiones de competencia entre los juzgados institucionales comprometidos en la causa.
 
 Art. 11. El Tribunal Militar tendrá jurisdicción para juzgar no sólo al autor de un delito de jurisdicción militar, sino también a los demás responsables de él, aunque no estén sujetos a fuero.
 Tendrá, asimismo, jurisdicción para conocer de los delitos que sean conexos, aun cuando independientemente sean de jurisdicción común, salvo las excepciones legales.
@@ -68,11 +68,7 @@ No se alterará la jurisdicción cuando el Tribunal Militar, al dictar el fallo,
 Art. 12. Cuando se hubiere cometido por un mismo agente delitos de jurisdicción militar y de jurisdicción común, que no sean conexos, el Tribunal Militar será competente para conocer de los primeros y el tribunal ordinario de los segundos. Si la aplicación de esta norma creare alguna interferencia o dificultad para la práctica de medidas o diligencias que se relacionan con el inculpado, tendrán preferencia las requeridas por el Tribunal Militar.
 Los Tribunales deberán remitirse recíprocamente copias de los autos de procesamiento y de los fallos que se dictaren en sus respectivas causas, las que deberán agregarse a los autos.
 El tribunal que dictare el último fallo no podrá considerar circunstancias modificatorias de responsabilidad criminal que de estar acumulados los procesos no se hubieren podido tomar en cuenta.
-El reo podrá solicitar dentro del plazo de un año a
-NOTA:
-contar del último fallo, al tribunal superior común, la unificación de las penas cuando ello lo beneficiare.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+El condenado podrá solicitar dentro del plazo de un año a contar del último fallo, al tribunal superior común, la unificación de las penas cuando ello lo beneficiare.
 
 ### Título II
 DE LOS TRIBUNALES MILITARES EN TIEMPO DE PAZ
@@ -261,6 +257,9 @@ Si la Corte Marcial del Ejército, Fuerza Aérea y Carabineros funcionare dividi
 Art. 50. La Corte Marcial del Ejército, Fuerza Aérea y Carabineros podrá funcionar con cuatro de sus miembros y la Corte Marcial de la Armada con tres de los suyos.
 Si la Corte Marcial del Ejército, Fuerza Aérea y Carabineros funcionare dividida en dos salas, el quórum para sesionar en cada una de ellas será de cuatro miembros, y el pleno del tribunal requerirá de un quórum de siete miembros, de los cuales a lo menos dos deberán ser Ministros de la Corte de Apelaciones de Santiago.
 
+Art. 51. El Oficial General de la Armada y los Oficiales de Justicia que no integren las Cortes Marciales por derecho propio, serán designados por el Presidente de la República.
+Los Ministros de Corte de Apelaciones que deban integrar las Cortes Marciales serán designados anualmente, por sorteo de entre sus miembros, el que se practicará por los Presidentes de los respectivos Tribunales, con asistencia del Secretario, dentro de la última semana del mes de enero de cada año y, en el caso previsto en el artículo 49, dentro de los diez días siguientes de recibida la transcripción del acuerdo a que se refiere el inciso primero de dicho artículo. En este último caso, los ministros que hubieren sido designados en este sorteo integrarán la segunda sala y durarán en sus funciones hasta el 31 de diciembre de ese año.
+
 Art. 52. En caso de ausencia o inhabilidad legal, los Ministros de las Cortes de Apelaciones serán subrogados por el Ministro de la Corte respectiva, siguiendo el orden de mayor antigüedad.
 En los mismos casos, los Auditores Generales y demás Oficiales de Justicia serán subrogados por los Oficiales de Justicia respectivos, siguiendo el orden de mayor antigüedad.
 Tratándose del Oficial en servicio activo que integre la Corte Marcial de la Armada será subrogado por el Oficial General o Superior más antiguo que preste sus servicios en la provincia de Valparaíso.
@@ -305,7 +304,7 @@ INCISO FINAL.- DEROGADO.-
 
 Art. 63. Las Cortes Marciales tendrán también, respecto de los abogados que ante ellas hagan defensa, las facultades disciplinarias que las leyes conceden a las Cortes de Apelaciones. Igualmente respecto de los litigantes y personas que concurran a su funcionamiento.
 
-Art. 64. Las Cortes Marciales podrán dictar asimismo las medidas necesarias para corregir las faltas o abusos que se cometan en los lugares de detención, respecto de los reos sometidos a la jurisdicción militar.
+Art. 64. Las Cortes Marciales podrán dictar asimismo las medidas necesarias para corregir las faltas o abusos que se cometan en los lugares de detención, respecto de los procesados sometidos a la jurisdicción militar.
 
 Art. 65. Deberán las Cortes Marciales hacer activar el despacho de las causas pendientes ante los Tribunales Militares del territorio de su jurisdicción. Para este efecto podrán hacerse dar cuenta con la frecuencia que estimen conveniente, de la marcha de alguna de dichas causas, siempre que haya motivos especiales que así lo aconsejen.
 
@@ -316,16 +315,12 @@ No obstante lo dispuesto en los incisos precedentes, las audiencias de las Corte
 
 Art. 67. Las causas serán vistas por las Cortes Marciales el día que respecto de cada una de ellas se decrete, previa notificación a las partes con tres días de anticipación.
 Si para un mismo día se decretare la vista de varias causas, se le asignará a cada una un número de orden; número que se hará colocar en lugar conveniente para anunciar que la Corte se va a ocupar de ella. Este número se mantendrá fijo hasta que termine la vista de la causa respectiva.
-Sin embargo, no regirá el término de emplazamiento señalado en el inciso primero, tratándose de consultas o apelaciones de resoluciones de los Fiscales que se pronuncien sobre la libertad provisional de inculpados o reos, o tratándose de recursos de amparo, asuntos éstos que deberán ser agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, cuando así lo dispusiere el Presidente. Si no hubiere audiencia ordinaria el día en que corresponda verse el asunto, el Presidente convocará extraordinariamente al tribunal.
+Sin embargo, no regirá el término de emplazamiento señalado en el inciso primero, tratándose de consultas o apelaciones de resoluciones de los Fiscales que se pronuncien sobre la libertad provisional de inculpados o procesados, o tratándose de recursos de amparo, asuntos éstos que deberán ser agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, cuando así lo dispusiere el Presidente. Si no hubiere audiencia ordinaria el día en que corresponda verse el asunto, el Presidente convocará extraordinariamente al tribunal.
 
 Art. 68. La vista y acuerdo de las causas se regirán, en lo que no estén modificadas por este Código, por las disposiciones de los artículos 72, 73 inciso 1°, 74 a 81, 83 a 85, 88, 89 y 587 del Código Orgánico de Tribunales; 164, 165, con excepción de los números 1 y 4, 166 y 169 del Código de Procedimiento Civil, pero reducido a cinco días el término a que se refiere el artículo 78 del Código Orgánico de Tribunales.
 
-Art. 69. Ningún acuerdo de las Cortes Marciales podrá retardarse más de diez días desde que haya terminado A la vista de la causa y ningún fallo podrá demorarse más de cinco días a contar desde la fecha del acuerdo. Inmediatamente de producido éste, deberá dictarse el decreto que designa al Ministro redactor.
-No obstante, si no hubiere reo preso y, por motivos
-NOTA:
-fundados, podrán ampliarse los plazos indicados, por una sola vez y por el mismo número de días.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Art. 69. Ningún acuerdo de las Cortes Marciales podrá retardarse más de diez días desde que haya terminado la vista de la causa y ningún fallo podrá demorarse más de cinco días a contar desde la fecha del acuerdo. Inmediatamente de producido éste, deberá dictarse el decreto que designa al Ministro redactor.
+No obstante, si no hubiere procesado preso y, por motivos fundados, podrán ampliarse los plazos indicados, por una sola vez y por el mismo número de días.
 
 Art. 70. Los Presidentes de las Cortes Marciales dictarán por sí solos, las providencias de mera sustanciación, aun cuando la causa se encontrare en acuerdo, convocarán al tribunal en los casos que señala el artículo 66 y tendrán las atribuciones que señala el artículo 90 del Código Orgánico de Tribunales para los Presidentes de Cortes de Apelaciones. Ejercitarán la atribución 10a a que se refiere dicho artículo cuando se encontraren vencidos los plazos indicados en el artículo 69.
 Cuando la Corte Marcial del Ejército, Fuerza Aérea y Carabineros funcione dividida en dos salas, serán aplicables, en lo que no estuviere reglado expresamente en otras disposiciones de este Código, las normas del inciso quinto del artículo 61, del inciso primero del artículo 66, de los incisos primero, segundo y cuarto del artículo 69 y las de los artículos 70 y 92 del Código Orgánico de Tribunales.
@@ -416,22 +411,14 @@ Art. 81. De todos los delitos que corresponda juzgar a la jurisdicción militar 
 
 Art. 82. Los Consejos de Guerra se formarán, para cada caso determinado, por decreto del General en Jefe del Ejército, del General en quien haya delegado esta facultad, del Comandante Superior de una división, unidad o cuerpo que opere independientemente y sin fácil comunicación con el resto del Ejército, o del Jefe Superior de una plaza o fortaleza sitiada o bloqueada.
 Serán integrados por el Auditor que se designe y serán compuestos, además, de los vocales que se indican en el artículo siguiente.
-Cuando el reo sea un General o un Almirante, el Consejo deberá ser integrado por el respectivo Auditor General de Ejército, de la Armada o de la Fuerza Aérea.
-Los Consejos de Guerra serán presididos por el Jefe
-NOTA:
-u Oficial más antiguo de la mayor graduación. En caso de que el Auditor tenga una asimilación o antigüedad igual o superior a la de los demás Jefes u oficiales que formen el Consejo, el Tribunal será presidido por dicho funcionario letrado.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Cuando el inculpado sea un General o un Almirante, el Consejo deberá ser integrado por el respectivo Auditor General de Ejército, de la Armada o de la Fuerza Aérea.
+Los Consejos de Guerra serán presididos por el Jefe u Oficial más antiguo de la mayor graduación. En caso de que el Auditor tenga una asimilación o antigüedad igual o superior a la de los demás Jefes u oficiales que formen el Consejo, el Tribunal será presidido por dicho funcionario letrado.
 
 Art. 83. Cuando se trate de juzgar a individuos de tropa o de tripulación, el Consejo será compuesto por seis vocales del grado de Subteniente a Capitán.
 Cuando se trate de juzgar a Oficiales inferiores hasta el grado de Capitán, el Consejo se compondrá de seis vocales de los grados de mayor o Teniente Coronel; y cuando se trate de Oficiales de los grados de Mayor hasta General, se compondrá de seis vocales de los grados de General a Coronel.
 Tratándose de procesos de la jurisdicción de los Tribunales de la Armada, los Consejos de Guerra se formarán con Oficiales de la Armada, de grados equivalentes a los de que tratan los dos incisos anteriores.
-Si se tratare de juzgar a dos o más reos que
-NOTA:
-fueren de diversa graduación, el Consejo se formará en consideración al reo de la más alta.
+Si se tratare de juzgar a dos o más inculpados que fueren de diversa graduación, el Consejo se formará en consideración al procesado de la más alta.
 Todos los miembros del Consejo, incluso el Auditor, tendrán las mismas atribuciones, igual representación e idénticos derechos, dentro de su funcionamiento.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
 
 Art. 84. Si para la constitución del Consejo no hubiere disponible el número de Jefes y Oficiales de los grados expresados en el artículo anterior, se formará o completará con los que hubiere, prefiriendo los de mayor graduación, y dentro de la misma graduación, los de mayor antigüedad.
 
@@ -507,9 +494,9 @@ Art. 106. El personal de los cuerpos jurídicos militares tendrá los mismos der
 ### Título V
 DE LAS IMPLICANCIAS Y RECUSACIONES
 
-Art. 107. Serán aplicables a los jueces, a los auditores y a los fiscales, las disposiciones de los artículos 194 a 200 del Código Orgánico de Tribunales.
+Art. 107. Serán aplicables a los jueces, a los Auditores y a los Fiscales, las disposiciones de los artículos 194 a 200 del Código Orgánico de Tribunales.
 Al Fiscal General Militar y sus delegados, a los secretarios y a los secretarios relatores les será aplicable lo dispuesto en los artículos 483, 487, 488 y 491 del Código Orgánico de Tribunales.
-Para estos efectos, se considerarán como partes no sólo los reos y el Fiscal General Militar, sino también los inculpados por el delito.
+Para estos efectos, se considerarán como partes no sólo los procesados y el Fiscal General Militar, sino también los inculpados por el delito.
 
 Art. 108. Respecto de los tribunales de tiempo de guerra, la implicancia o recusación se solicitará verbalmente o por escrito al mismo funcionario o tribunal de que forme parte; y si la desechare, podrá ser reclamada por escrito al General en Jefe, Comandante Superior de las fuerzas o plaza o fortaleza, sin que en ningún caso se paralice la marcha de la causa.
 Respecto de los tribunales de tiempo de paz, la declaración de implicancia o recusación se ajustará a lo prescrito en los artículos 114 a 124 del Código de Procedimiento Civil. La consignación a que se refiere el artículo 118, en su caso, será de un cuarto de sueldo vital mensual, vigente a la fecha de la solicitud.
@@ -575,11 +562,9 @@ NOTA: 10
 Véase el artículo 20, letra b) de la Ley N° 17.798, sobre Control de Armas.
 
 Art. 124. Será declarado rebelde:
-1° El inculpado o reo que no compareciere al juicio después de haber sido emplazado en la forma que señala el artículo 119, y
-2° El inculpado o reo que se hubiere fugado del lugar donde se encontraba privado de libertad.
-En ambos casos será necesaria la dictación por parte del tribunal de una orden de aprehensión contra el ausente, hecho éste que, junto con la ocurrencia de alguna de las circunstancias señaladas en los números 1 y 2, serán certificados previamente por el secretario, para que el tribunal decrete la rebeldía del inculpado o reo.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+1° El inculpado o procesado que no compareciere al juicio después de haber sido emplazado en la forma que señala el artículo 119, y
+2° El inculpado o procesado que se hubiere fugado del lugar donde se encontraba privado de libertad.
+En ambos casos será necesaria la dictación por parte del tribunal de una orden de aprehensión contra el ausente, hecho éste que, junto con la ocurrencia de alguna de las circunstancias señaladas en los números 1 y 2, serán certificados previamente por el secretario, para que el tribunal decrete la rebeldía del inculpado o procesado.
 
 Art. 125. Las investigaciones del sumario no se suspenderán por la declaración de rebeldía, sino que seguirán adelante hasta su conclusión. Una vez terminado el sumario, el Fiscal pedirá el sobreseimiento definitivo o temporal, según el mérito que arrojen los antecedentes, con arreglo a lo dispuesto en los artículos 408 y 409 del Código de Procedimiento Penal.
 Si la rebeldía se declarare en el plenario, se suspenderá la causa hasta la presentación o aprehensión del procesado, salvo el caso de que la rebeldía fuere decretada después de notificada la certificación a que se refiere el artículo 160, en cuyo evento se procederá de acuerdo con lo establecido en el artículo 599 del Código de Procedimiento Penal.
@@ -599,7 +584,7 @@ Art. 129. Serán aplicables al sumario las reglas de los artículos 77 a 79 del 
 
 Art. 130. El sumario no podrá prolongarse más de cuarenta días contados desde la fecha del decreto que lo ordenó formar; pero el Juez podrá ampliar o restringir este término según las circunstancias.
 Si mediante esta ampliación el sumario se prolongare más de sesenta días, podrá hacerse público en cuanto no fuere perjudicial al éxito de la investigación, y todo aquel que tenga interés directo por su terminación podrá intervenir para instar en este sentido.
-Sin perjuicio de lo dispuesto en los incisos anteriores, el reo podrá solicitar el conocimiento del sumario durante la tramitación de la causa y tendrá siempre derecho a él transcurridos 120 días desde la fecha de la resolución que lo sometió a proceso.
+Sin perjuicio de lo dispuesto en los incisos anteriores, el procesado podrá solicitar el conocimiento del sumario durante la tramitación de la causa y tendrá siempre derecho a él transcurridos 120 días desde la fecha de la resolución que lo sometió a proceso.
 
 Art. 131. Todo el que tenga conocimiento de haberse cometido un delito comprendido en la jurisdicción militar, puede denunciarlo.
 Están obligados a hacer esta denuncia los empleados públicos y los miembros de las fuerzas armadas.
@@ -697,48 +682,30 @@ Art. 149. Si el Juzgado no estimare procedente el sobreseimiento, o la Corte Mar
 
 Art. 150. Cuando se elevare la causa a plenario, el Fiscal ordenará poner los autos en conocimiento del o los inculpados para que en el término de seis días respondan a los cargos que existan en su contra.
 
-Art. 151. En el momento de la notificación del decreto anterior, la cual deberá hacerse personalmente, el o los reos deberán señalar el nombre de su abogado defensor.
-NOTA:
-En los casos en que el reo careciere de abogado para contestar la acusación, o que el abogado designado por él no evacuare los trámites oportunamente y se encontrare remiso en el requerimiento judicial, cumplirá con el trámite el abogado de turno, y a falta de éste, el que designare la Corporación de Asistencia Judicial respectiva a requerimiento del Fiscal. A falta de los abogados anteriormente indicados, podrá designarse como tal a un Oficial de las instituciones armadas o de carabineros que no tenga un grado superior al del fiscal que sustancia la causa.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Art. 151. En el momento de la notificación del decreto anterior, la cual deberá hacerse personalmente, el o los procesados deberán señalar el nombre de su abogado defensor.
+En los casos en que el procesado careciere de abogado para contestar la acusación, o que el abogado designado por él no evacuare los trámites oportunamente y se encontrare remiso en el requerimiento judicial, cumplirá con el trámite el abogado de turno, y a falta de éste, el que designare la Corporación de Asistencia Judicial respectiva a requerimiento del Fiscal. A falta de los abogados anteriormente indicados, podrá designarse como tal a un Oficial de las instituciones armadas o de carabineros que no tenga un grado superior al del fiscal que sustancia la causa.
 
 Art. 152. Los autos podrán ser retirados de Secretaría por el defensor designado, por el término de seis días, salvo que el Fiscal resolviere lo contrario. Vencido el término por el cual se haya sacado el proceso, deberá ser devuelto a la oficina del Secretario. Si notificada la orden de devolución al defensor designado que lo hubiere retirado, no la efectúa dentro de las veinticuatro horas siguientes, podrá ser apremiado con arresto hasta la devolución.
 
-Art. 153. Si fueren varios los reos, el plazo expresado en el artículo 150 será sucesivo, pero no podrá exceder de sesenta días. El Fiscal determinará el orden en que los reos responderán los cargos y adoptará las providencias necesarias para que puedan hacerlo en el tiempo máximo aquí establecido, en su caso.
+Art. 153. Si fueren varios los procesados, el plazo expresado en el artículo 150 será sucesivo, pero no podrá exceder de sesenta días. El Fiscal determinará el orden en que los procesados responderán los cargos y adoptará las providencias necesarias para que puedan hacerlo en el tiempo máximo aquí establecido, en su caso.
 
-Art. 154. La contestación del reo contendrá todas
-NOTA:
-las defensas que estime procedentes a su derecho, exponiendo con claridad los hechos, las circunstancias y las consideraciones que acrediten su inocencia o atenúen su culpabilidad.
+Art. 154. La contestación del procesado contendrá todas las defensas que estime procedentes a su derecho, exponiendo con claridad los hechos, las circunstancias y las consideraciones que acrediten su inocencia o atenúen su culpabilidad.
 Podrá presentar una o más conclusiones con tal que no sean incompatibles entre sí o con tal que, si fueren incompatibles, las presente subsidiariamente, para el caso que la sentencia deniegue la otra u otras.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
 
-Art. 155. En el mismo escrito de contestación, el reo expondrá si renuncia a las demás diligencias del
-NOTA:
-plenario y acepta que se pronuncie sentencia inmediatamente, o si quiere rendir prueba en el plenario.
+Art. 155. En el mismo escrito de contestación, el procesado expondrá si renuncia a las demás diligencias del plenario y acepta que se pronuncie sentencia inmediatamente, o si quiere rendir prueba en el plenario.
 En este caso, expresará cuáles son los medios probatorios de que intenta valerse y presentará la lista de los peritos o testigos que han de declarar a su instancia.
 Igualmente, si fuere el caso, en el mismo escrito deducirá las tachas que tuviese contra los testigos del sumario y expondrá los medios de probarlas.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
 
-Art. 156. Si el reo o reos renuncian al plenario, el Fiscal elevará de inmediato los antecedentes al Juzgado militar para su fallo. No obstante, si el Fisco o el Fiscal General fueran
-NOTA:
-partes en el proceso, éstos dispondrán de un plazo de dos días, contado desde la notificación de la resolución que provee la contestación a la acusación del reo o del último de ellos si fueren varios, para ofrecer la prueba que estimaren pertinente. Vencido dicho plazo sin que lo hubieren hecho, el Fiscal elevará los antecedentes con el fin previsto en el inciso anterior.
-Si el reo o reos, el Ministerio Público Militar o el Fisco, ofrecieren prueba, se recibirá la causa a prueba por un término equivalente a la mitad del que haya durado la sustanciación del sumario, no pudiendo en ningún caso exceder de veinte días.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Art. 156. Si el procesado o procesados renuncian al plenario, el Fiscal elevará de inmediato los antecedentes al Juzgado militar para su fallo. No obstante, si el Fisco o el Fiscal General fueran partes en el proceso, éstos dispondrán de un plazo de dos días, contado desde la notificación de la resolución que provee la contestación a la acusación del procesado o del último de ellos si fueren varios, para ofrecer la prueba que estimaren pertinente. Vencido dicho plazo sin que lo hubieren hecho, el Fiscal elevará los antecedentes con el fin previsto en el inciso anterior.
+Si el procesado o procesados, el Ministerio Público Militar o el Fisco, ofrecieren prueba, se recibirá la causa a prueba por un término equivalente a la mitad del que haya durado la sustanciación del sumario, no pudiendo en ningún caso exceder de veinte días.
 
 Art. 157. Las listas de testigos expresarán sus nombres y apellidos, su apodo, si por él son conocidos, y su domicilio o residencia. La parte que los presenta manifestará, además, si se encarga de hacerlos comparecer o si pide que sean citados judicialmente. Si nada dijera a este respecto, se entenderá que se encarga de hacerlos comparecer.
 
 Art. 158. La prueba y la manera de apreciarla se regirán por las reglas del Título IV de la Segunda Parte del Libro II del Código de Procedimiento Penal, con estas variantes:
-1a Las actuaciones relativas a la prueba se practicarán en audiencia pública, salvo que la publicidad se estime peligrosa para las buenas costumbres, para el orden público o la seguridad y disciplina del cuerpo armado, lo que declarará el Fiscal en auto especial. Sin embargo, esta restricción de publicidad, no podrá impedir la asistencia a todos los trámites de la prueba, del Fiscal General Militar, del Fisco, del reo y de su defensor.
-NOTA:
+1a Las actuaciones relativas a la prueba se practicarán en audiencia pública, salvo que la publicidad se estime peligrosa para las buenas costumbres, para el orden público o la seguridad y disciplina del cuerpo armado, lo que declarará el Fiscal en auto especial. Sin embargo, esta restricción de publicidad, no podrá impedir la asistencia a todos los trámites de la prueba, del Fiscal General Militar, del Fisco, del procesado y de su defensor.
 2a Los testigos serán examinados por el fiscal al tenor de las preguntas escritas que deberán presentar las partes hasta las doce horas del día anterior al de la audiencia señalada para su examen, pudiendo el fiscal rechazar aquellos puntos que considere impertinentes.
-3a El reo, el Fiscal General o el Fisco, en su caso, podrán también interrogar a los testigos con permiso del fiscal, quien lo concederá para hechos pertinentes. No podrá negarlo cuando las preguntas se dirijan a establecer causales de inhabilidad de los testigos. El fiscal podrá también interrogarlos y hacerles preguntas para aclarar las formuladas por el reo, el Ministerio Público Militar o el Fisco.
+3a El procesado, el Fiscal General o el Fisco, en su caso, podrán también interrogar a los testigos con permiso del fiscal, quien lo concederá para hechos pertinentes. No podrá negarlo cuando las preguntas se dirijan a establecer causales de inhabilidad de los testigos. El fiscal podrá también interrogarlos y hacerles preguntas para aclarar las formuladas por el procesado, el Ministerio Público Militar o el Fisco.
 4a Para los efectos de lo dispuesto en el artículo 460 del Código de Procedimiento Penal, se considerará acusador particular al que hubiere sido reconocido como parte perjudicada en los términos de los artículos 133, 133 A y 133 B.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
 
 Art. 159. Son también aplicables en este caso las reglas de los artículos 490, 491, 495, 496 y 497 del Código de Procedimiento Penal.
 
@@ -751,22 +718,15 @@ No faltando diligencia alguna o practicadas las que se ordenaren, el Juzgado pro
 
 Art. 162. La sentencia contendrá los requisitos indicados en el artículo 500 del Código de Procedimiento Penal y le serán aplicables las reglas de los artículos 501, 502, 503, 504, 505, 507, 508 y 509 del mismo Código.
 
-Art. 163. La sentencia definitiva puede ser apelada por el reo, por el Fiscal General Militar y por el Fisco cuando se hubiere hecho parte en el juicio; por el perjudicado con el delito; y por cualquiera de las
-NOTA:
-personas expresadas en el artículo 133, dentro del término fatal de cinco días, desde que sean notificados.
+Art. 163. La sentencia definitiva puede ser apelada por el procesado, por el Fiscal General Militar y por el Fisco cuando se hubiere hecho parte en el juicio; por el perjudicado con el delito; y por cualquiera de las personas expresadas en el artículo 133, dentro del término fatal de cinco días, desde que sean notificados.
 La apelación se deducirá por escrito, o verbalmente en el acto de la notificación; y el recurso se concederá en ambos efectos.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
 
 Art. 164. Si la sentencia definitiva no fuere apelada en el término expresado, será enviada en consulta ante la Corte Marcial respectiva, en los casos enumerados en el artículo 533 del Código de Procedimiento Penal, o cuando hubiere sido dictada contra la opinión del auditor.
 
 Art. 165. Concedida la apelación o siendo procedente la consulta, los autos se enviarán al Secretario de la Corte Marcial en la forma prescrita por el artículo 512 del Código de Procedimiento Penal, previa notificación de las partes.
 
-Art. 166. Recibidos los autos por la Corte Marcial, sea en apelación o en consulta, el presidente decretará que se traigan en relación, señalará en la misma resolución el día para la vista de la causa y ordenará la convocatoria a que se refiere el artículo 66, cuando haya de verse en audiencia extraordinaria. Si hubiere reo preso en la causa, la vista deberá
-NOTA:
-decretarse para dentro del quinto día desde ese decreto. En los demás casos, podrá retardarse hasta el décimo desde la misma fecha.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Art. 166. Recibidos los autos por la Corte Marcial, sea en apelación o en consulta, el presidente decretará que se traigan en relación, señalará en la misma resolución el día para la vista de la causa y ordenará la convocatoria a que se refiere el artículo 66, cuando haya de verse en audiencia extraordinaria.
+Si hubiere procesado preso en la causa, la vista deberá decretarse para dentro del quinto día desde ese decreto. En los demás casos, podrá retardarse hasta el décimo desde la misma fecha.
 
 Art. 167. Las partes podrán hacerse representar ante la Corte Marcial por medio de procurador del número y hacerse defender por medio de abogado que tenga facultad para alegar ante una Corte de Apelaciones.
 
@@ -775,9 +735,7 @@ Art. 168. Hayan constituido o no las partes procurador para su representación, 
 Art. 169. Sin más trámites que los indicados, la causa se verá en el día que le corresponda, en la forma prescrita por los artículos 223 a 226 del Código de Procedimiento Civil.
 
 Art. 170. En el curso de la apelación serán aplicables las disposiciones de los artículos 517 a 523, 525, 528, 529, 530, 531 y 532 del Código de Procedimiento Penal, sustituyéndose el Ministerio de Defensa Nacional al Ministerio de Justicia en el 531 y siendo el término igual al de la primera instancia en el 519.
-Podrá la Corte Marcial ordenar que el reo comparezca ante el tribunal para interrogarlo sobre los hechos, o para conocer el carácter y las condiciones de la persona a la cual va a juzgar. En todo caso, la diligencia podrá verificarse en el establecimiento carcelario, en la unidad militar donde se encuentre el reo o en el lugar donde haya sido llevado para este efecto.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Podrá la Corte Marcial ordenar que el procesado comparezca ante el tribunal para interrogarlo sobre los hechos, o para conocer el carácter y las condiciones de la persona a la cual va a juzgar. En todo caso, la diligencia podrá verificarse en el establecimiento carcelario, en la unidad militar donde se encuentre el procesado ante el tribunal para interrogarlo sobre los hechos, o para conocer el carácter y las condiciones de la persona a la cual va a juzgar. En todo caso, la diligencia podrá verificarse en el establecimiento carcelario, en la unidad militar donde se encuentre el procesado ante el tribunal para interrogarlo sobre los hechos, o para conocer el carácter y las condiciones de la persona a la cual va a juzgar. En todo caso, la diligencia podrá verificarse en el establecimiento carcelario, en la unidad militar donde se encuentre el procesado o en el lugar donde haya sido llevado para este efecto.
 
 Art. 171. Contra las sentencias de las Cortes
 NOTA: 12
@@ -841,21 +799,14 @@ Art. 185. Decretada la convocatoria de un Consejo de Guerra, el Presidente se en
 Designará también un secretario para el Consejo y los oficiales de pluma que sean necesarios, y pedirá la guardia militar que sea del caso.
 
 Art. 186. El día y hora designados, y en el lugar que se le hubiere señalado, se reunirá el Consejo de Guerra, debiendo concurrir todos sus miembros de uniforme.
-Igualmente deberán concurrir de uniforme el Fiscal, defensor, reo y cuantas personas deban comparecer,
-NOTA:
-si lo tuvieren.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Igualmente deberán concurrir de uniforme el Fiscal, defensor, inculpado y cuantas personas deban comparecer, si lo tuvieren.
 
 Art. 187. El Consejo se constituirá conforme al decreto de su nombramiento, con la concurrencia del Fiscal y el secretario designado.
 Si faltare algún miembro, se dará inmediato aviso a la Superioridad para su reemplazo.
 
-Art. 188. Constituido el Consejo, se hará pasar a su presencia al reo y a su defensor.
-NOTA:
-El reo, aunque fuere oficial, deberá concurrir desarmado, y, si se estimare prudente, con la custodia necesaria.
-Todos deberán permanecer sentados durante el funcionamiento del Consejo, pero tanto el Fiscal como el defensor y el reo deberán ponerse de pie cuando usaren de la palabra.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Art. 188. Constituido el Consejo, se hará pasar a su presencia al inculpado y a su defensor.
+El inculpado, aunque fuere Oficial, deberá concurrir desarmado, y, si se estimare prudente, con la custodia necesaria.
+Todos deberán permanecer sentados durante el funcionamiento del Consejo, pero tanto el Fiscal como el defensor y el inculpado deberán ponerse de pie cuando usaren de la palabra.
 
 Art. 189. El Presidente dará en seguida lectura al decreto de convocatoria del Consejo de Guerra, e interrogará al defensor si tiene alguna causa legal de implicancia o recusación que hacer valer contra alguno de sus miembros.
 Si alguna se hiciere valer, el Consejo se pronunciará inmediatamente sobre ella, haciendo antes despejar el lugar de su funcionamiento para deliberar en privado. En la deliberación sólo podrá estar presente el secretario.
@@ -864,11 +815,7 @@ Art. 190. Si se aceptare la implicancia o recusación reclamada, se comunicará 
 
 Art. 191. No deducida reclamación de implicancia ni recusación, rechazada ésta, o nombrado el reemplazante, se constituirá nuevamente el Consejo y se hará pasar a su presencia a las personas indicadas en el artículo 188.
 El Fiscal hará entonces una relación del sumario terminando con la lectura del dictamen o los cargos formulados por el Comandante en Jefe a que se refieren los artículos 180 y 181.
-En seguida, el reo o defensor leerá la defensa, la
-NOTA:
-que debe contener las conclusiones que creyeren del caso, sosteniendo la inculpabilidad del reo o las causales que atenúen su responsabilidad. En esa defensa, se contendrán también las tachas.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+En seguida, el inculpado o defensor leerá la defensa, la que debe contener las conclusiones que creyeren del caso, sosteniendo la inculpabilidad del inculpado o las causales que atenúen su responsabilidad. En esa defensa, se contendrán también las tachas.
 
 Art. 192. Terminada la defensa, se recibirá la prueba que hubiese ofrecido el inculpado o el defensor.
 Los testigos serán interrogados separadamente, sin que puedan comunicarse los que ya hubieren declarado con los que aún no lo hubieren hecho.
@@ -876,11 +823,8 @@ En la audiencia de prueba, cualquiera de los miembros del Consejo, el Fiscal y e
 Cuando el testigo se encontrare ausente del lugar en que se sigue el juicio, podrá este Tribunal, en caso de que estime indispensable la declaración de ese testigo, ordenar por exhorto se le tome declaración por la autoridad judicial militar dentro de cuya jurisdicción reside el testigo.
 El Secretario por sí, o por medio de amanuenses, tomará nota del resumen de la declaración.
 
-Art. 193. Si el desarrollo de la causa manifestare la necesidad de practicar el reconocimiento de algún lugar o de algún objeto que no sea posible traer a la presencia del Consejo, podrá éste comisionar a uno o más de sus miembros para que lo efectúen, con la asistencia de peritos, si fuere necesario, y la concurrencia del Fiscal y el Defensor. Podrá ordenarse la asistencia del reo si se estimare conveniente.
-NOTA:
+Art. 193. Si el desarrollo de la causa manifestare la necesidad de practicar el reconocimiento de algún lugar o de algún objeto que no sea posible traer a la presencia del Consejo, podrá éste comisionar a uno o más de sus miembros para que lo efectúen, con la asistencia de peritos, si fuere necesario, y la concurrencia del Fiscal y el Defensor. Podrá ordenarse la asistencia del inculpado si se estimare conveniente.
 Mientras el reconocimiento se practica, se suspenderá el funcionamiento del Consejo y una vez terminado, se reanudará dando inmediata cuenta del resultado los que lo hubieren llevado a efecto.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
 
 Art. 194. El Presidente ordenará en seguida el desalojamiento del local, no quedando en él sino los miembros del Consejo y su secretario.
 Acto continuo, en acuerdo secreto, se procederá a deliberar y resolver todas las cuestiones propuestas, pronunciándose por la absolución del inculpado o por su condena; en este caso, se fijará con toda precisión la pena que se imponga.
@@ -888,11 +832,7 @@ El Tribunal para apreciar la prueba se sujetará en general a las reglas del pro
 La sentencia se redactará en el acto por el Auditor, de acuerdo con lo resuelto; será firmada por todos los miembros del Consejo, aunque hayan disentido de opinión, y será autorizada por el secretario.
 En ella misma se dejará constancia de las opiniones disidentes y de sus fundamentos.
 
-Art. 195. Se notificará inmediatamente la sentencia, personalmente, al reo y al Fiscal y se elevará,
-NOTA:
-juntamente con todo lo actuado, al conocimiento del General o Comandante que corresponda para su aprobación o modificación.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Art. 195. Se notificará inmediatamente la sentencia, personalmente, al inculpado y al Fiscal y se elevará, juntamente con todo lo actuado, al conocimiento del General o Comandante que corresponda para su aprobación o modificación.
 
 Art. 196. Salvo el caso indicado en el artículo 193, el Consejo de Guerra funcionará sin interrupción, excepto en aquellos intervalos que sean necesarios para el reposo de los jueces o demás personas que intervienen en su funcionamiento.
 Excepto para el acuerdo de sus resoluciones y cuando el Tribunal en casos calificados así lo determine, funcionará públicamente. Los espectadores deberán guardar absoluto silencio y compostura, estándoles prohibida toda manifestación, sea de aprobación o reprobación.
@@ -943,12 +883,8 @@ La expresión "sueldo vital" se refiere al sueldo vital mensual de la Región Me
 
 Art. 206. La injuria y la calumnia entre militares se considerará siempre delito militar, pero se penará de acuerdo con la ley común, salvo que constituya un delito especialmente penado por este Código.
 
-Art. 207. Será circunstancia atenuante en los delitos con pena militar, el hecho de contar el reo con un total inferior a dos meses de servicios en las instituciones armadas, cualquiera que sea la época en
-NOTA:
-que ellos se hayan prestado. Sin embargo podrá eximírsele de responsabilidad en tales casos si la ignorancia de los deberes militares fuere excusable, atendido su nivel de instrucción y demás circunstancias.
-Lo dispuesto en este artículo no se aplicará al reo que fuere Oficial.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Art. 207. Será circunstancia atenuante en los delitos con pena militar, el hecho de contar el procesado con un total inferior a dos meses de servicios en las Instituciones Armadas, cualquiera que sea la época en que ellos se hayan prestado. Sin embargo podrá eximírsele de responsabilidad en tales casos si la ignorancia de los deberes militares fuere excusable, atendido su nivel de instrucción y demás circunstancias.
+Lo dispuesto en este artículo no se aplicará al procesado que fuere Oficial.
 
 Art. 208. Será causal eximente de responsabilidad para los militares, el hacer uso de armas cuando no exista otro medio racional de cumplir la consigna recibida.
 Serán, asimismo, causales eximentes de responsabilidad penal para el personal de las Fuerzas Armadas que cumplan funciones de guardadores del orden y seguridad públicos, las establecidas en los artículos 410, 411 y 412 de este Código.
@@ -977,14 +913,16 @@ El inferior que, fuera del caso de excepción a que se refiere la parte final de
 
 Art. 215. Los delitos militares serán sancionados con penas comunes o con penas militares, según la naturaleza del delito.
 
-Art. 216. Son penas comunes las que figuran en la escala general del artículo 21 del Código Penal y las accesorias correspondientes. Son penas principales militares aplicables en conformidad al presente Código, las siguientes:
-Muerte, Presidio militar perpetuo, Reclusión militar perpetua, Presidio militar temporal, Reclusión militar temporal, Prisión militar,
+Art. 216. Son penas comunes las que figuran en la escala general del artículo 21 del Código Penal y las accesorias correspondientes.
+Son penas principales militares aplicables en conformidad al presente Código, las siguientes:
+Muerte,
+Presidio militar perpetuo,
+Reclusión militar perpetua,
+Presidio militar temporal,
+Reclusión militar temporal,
+Prisión militar,
 Pérdida del estado militar.
-La pena accesoria común de suspensión de cargo y oficio público por delito militar, no será aplicable a los militares cuando la pena principal no exceda de un año y siempre que el reo conserve su condición de
-NOTA:
-militar al dictarse sentencia.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+La pena accesoria común de suspensión de cargo y oficio público por delito militar, no será aplicable a los militares cuando la pena principal no exceda de un año y siempre que el procesado conserve su condición de militar al dictarse sentencia.
 
 Art. 217. Son penas militares accesorias las siguientes: Degradación, Destitución, Separación del servicio, Suspensión del empleo militar.
 También es pena accesoria la pérdida del estado militar en el caso de que, no imponiéndola expresamente la ley, declare que otras la lleven consigo.
@@ -1057,23 +995,16 @@ Art. 238. Cuando por coparticipación corresponda castigar por delito que tenga 
 
 Art. 239. Derogado.
 
-Art. 240. La pena de muerte se ejecutará ordinariamente de día, con la publicidad y en la forma que determinen los reglamentos que dicte el Presidente de la República, y al día siguiente de notificado el reo del "cúmplase" de la respectiva sentencia.
-NOTA:
+Art. 240. La pena de muerte se ejecutará ordinariamente de día, con la publicidad y en la forma que determinen los reglamentos que dicte el Presidente de la República, y al día siguiente de notificado el condenado del "cúmplase" de la respectiva sentencia.
 Pero, en tiempo de guerra, se procederá a la ejecución inmediata de las sentencias de muerte, cuando el delito exija un pronto y ejemplar castigo a juicio del General en Jefe del Ejército o Comandante de la plaza sitiada o bloqueada por el enemigo.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
 
 Art. 241. El condenado a degradación será despojado, a presencia de las tropas que designe la autoridad militar, de su uniforme, insignias y condecoraciones, cumpliéndose las formalidades que determinen los reglamentos que dicte el Presidente de la República.
 Si además hubiere de ser fusilado, se cumplirá inmediatamente después esta pena.
 
-Art. 242. Las penas de prisión militar y de presidio y reclusión militares no superiores a un año, se cumplirán en la unidad militar que señale la sentencia, siempre que el reo conserve su condición de militar y
-NOTA:
-que no estuviere o fuere condenado a otra u otras penas privativas de libertad que, sumadas entre sí o con las anteriores, totalicen más de un año.
+Art. 242. Las penas de prisión militar y de presidio y reclusión militares no superiores a un año, se cumplirán en la unidad militar que señale la sentencia, siempre que el condenado conserve su condición de militar y que no estuviere o fuere condenado a otra u otras penas privativas de libertad que, sumadas entre sí o con las anteriores, totalicen más de un año.
 Las penas de presidio y reclusión militares superiores a un año, y las que se señalan en el inciso anterior, cuando no se reúnan los requisitos para que se cumplan en una unidad militar, deberán hacerse efectivas en establecimientos especiales que se crearán con este objeto y se regirán por los reglamentos que al efecto dicte el Presidente de la República.
-Sin embargo el condenado que haya sufrido, además, la pena de degradación, cumplirá las penas señaladas en los incisos anteriores en los establecimientos destinados para los reos comunes.
-Mientras se crean los establecimientos especiales, las penas de presidio militar a que se refiere el inciso segundo se cumplirán en la cárcel de la ciudad que indique el Presidente de la República, donde se creará una sección especial, independiente del resto del establecimiento, para albergar a los reos condenados a esas penas.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Sin embargo el condenado que haya sufrido, además, la pena de degradación, cumplirá las penas señaladas en los incisos anteriores en los establecimientos destinados para los condenados comunes.
+Mientras se crean los establecimientos especiales, las penas de presidio militar a que se refiere el inciso segundo se cumplirán en la cárcel de la ciudad que indique el Presidente de la República, donde se creará una sección especial, independiente del resto del establecimiento, para albergar a los procesados condenados a esas penas.
 
 Art. 243. Las penas comunes de privación de libertad impuestas a militares o no militares por delitos militares, se cumplirán en los establecimientos penitenciarios y carcelarios comunes. Sin embargo, tratándose de las penas de prisión o reclusión o de presidio que no excedieren de un año, tendrá aplicación la norma del inciso primero del artículo 242.
 
@@ -1713,6 +1644,8 @@ Art. 416. El que violentare o maltratare de obra a un Carabinero en el ejercicio
 Art. 416 Bis. El que atentare en contra de un carabinero en su calidad de tal y no le causare lesiones o éstas fueren de las contempladas en los artículos 397 N° 2°, 399 ó 494 N° 5 del Código Penal, será castigado con presidio menor en su grado mínimo a medio.
 
 Artículo 416 ter.- Las penas establecidas en los artículos 395 y 396 del Código Penal, serán aumentadas en un grado cuando la víctima sea un Carabinero en el ejercicio de sus funciones.
+
+Art. 417. El que amenazare en los términos del artículo 296 del Código Penal, ofendiere o injuriare de palabra, por escrito o por cualquier otro medio a Carabineros, a uno de sus integrantes con conocimiento de su calidad de miembro de esa Institución, unidades o reparticiones, sufrirá la pena de presidio menos en su grado mínimo a medio.
 
 ### Título III
 DISPOSICIONES COMPLEMENTARIAS

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=1990-02-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=1991-02-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 30287
-version_date: 1990-02-08
-fetched_at: 2026-08-03T00:49:16.638638+00:00
+version_date: 1991-02-14
+fetched_at: 2026-08-03T00:50:46.718453+00:00
 titulo_norma: "APRUEBA CODIGO AERONAUTICO"
 compuesto: LEY-18916
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -793,6 +793,8 @@ En caso de reincidencia, el tribunal decretará la cancelación definitiva de la
 
 Artículo 194.- El comandante de la aeronave que omitiere dar la información que requiriere el control de tierra para la seguridad del vuelo, o diere datos falsos, será castigado con presidio o reclusión menores en sus grados medio a máximo y multa de diez a cien ingresos mínimos mensuales.
 El tribunal podrá imponerle, además, la suspensión de la licencia hasta por un plazo de tres años.
+
+Artículo 194 bis.- Los que sin emplear violencia, amenaza de violencia ni intimidación atentaren en contra de una aeronave en vuelo o en servicio o realizaren actos que pongan o puedan poner en peligro la vida, la integridad personal o la salud de sus pasajeros o tripulantes, serán sancionados con presidio menor en su grado medio a máximo.
 
 Artículo 195.- El que transportare o hiciere transportar objetos peligrosos para la seguridad de la aeronave, sin cumplir con las disposiciones legales o reglamentarias, será castigado con presidio o reclusión menores en sus grados medio a máximo o multa de treinta a doscientos ingresos mínimos mensuales.
 En igual pena incurrirá quien ordenare emprender el vuelo y quien condujere la aeronave, con exceso de peso o mala distribución de la carga.

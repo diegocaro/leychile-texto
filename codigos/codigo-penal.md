@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1991-01-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1991-02-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1991-01-23
-fetched_at: 2026-08-03T00:50:34.715631+00:00
+version_date: 1991-02-14
+fetched_at: 2026-08-03T00:51:28.763871+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -109,7 +109,7 @@ Son circunstancias atenuantes:
 6.° Si la conducta anterior del delincuente ha sido irreprochable.
 7.° Si ha procurado con celo reparar el mal causado o impedir sus ulteriores perniciosas consecuencias.
 8.° Si pudiendo eludir la acción de la justicia por medio de la fuga u ocultándose, se ha denunciado y confesado el delito.
-9.° Si del proceso no resulta contra el reo otro antecedente que su espontánea confesión.
+9.° Si del proceso no resulta contra el procesado otro antecedente que su espontánea confesión.
 10.° El haber obrado por celo de la justicia.
 
 #### § IV.
@@ -257,12 +257,12 @@ En cuanto a la cuantía de la caución, se observarán las reglas establecidas p
 La duración de las penas accesorias de encierro en celda solitaria e incomunicación con personas extrañas al establecimiento, salvo los casos contemplados en el número segundo del artículo 90 y en el inciso segundo del artículo 91, no podrá exceder de 180 días, no pudiendo dentro de este límite imponerse por más de la mitad del tiempo señalado a la pena principal. En todo caso, el Tribunal que impuso la pena, podrá, atendidas las circunstancias, de oficio o a petición de parte, suspender, en cualquier momento, la pena accesoria.
 
 ART. 26.
-La duración de las penas temporales empezará a contarse desde el día de la aprehensión del reo.
+La duración de las penas temporales empezará a contarse desde el día de la aprehensión del procesado.
 
 ##### PENAS QUE LLEVAN CONSIGO OTRAS ACCESORIAS.
 
 ART. 27.
-La pena de muerte, siempre que no se ejecute al reo, y las de presidio, reclusión y relegación perpetuos, llevan consigo la de inhabilitación absoluta perpetua para cargos y oficios públicos y derechos políticos por el tiempo de la vida de los penados y la de sujeción a la vigilancia de la autoridad por el máximum que establece este Código.
+La pena de muerte, siempre que no se ejecute al condenado, y las de presidio, reclusión y relegación perpetuos, llevan consigo la de inhabilitación absoluta perpetua para cargos y oficios públicos y derechos políticos por el tiempo de la vida de los penados y la de sujeción a la vigilancia de la autoridad por el máximum que establece este Código.
 
 ART. 28.
 Las penas de presidio, reclusión, confinamiento, extrañamiento y relegación mayores, llevan consigo la de inhabilitación absoluta perpetua para cargos y oficios públicos y derechos políticos y la de inhabilitación absoluta para profesiones titulares mientras dure la condena.
@@ -279,19 +279,19 @@ Toda pena que se imponga por un crimen o un simple delito, lleva consigo la pér
 ##### NATURALEZA Y EFECTOS DE ALGUNAS PENAS.
 
 ART. 32.
-La pena de presidio sujeta al reo a los trabajos prescritos por los reglamentos del respectivo establecimiento penal. Las de reclusión y prisión no le imponen trabajo alguno.
+La pena de presidio sujeta al condenado a los trabajos prescritos por los reglamentos del respectivo establecimiento penal. Las de reclusión y prisión no le imponen trabajo alguno.
 
 ART. 33.
-Confinamiento es la expulsión del reo del territorio de la República con residencia forzosa en un lugar determinado.
+Confinamiento es la expulsión del condenado del territorio de la República con residencia forzosa en un lugar determinado.
 
 ART. 34.
-Extrañamiento es la expulsión del reo del territorio de la República al lugar de su elección.
+Extrañamiento es la expulsión del condenado del territorio de la República al lugar de su elección.
 
 ART. 35.
-Relegación es la traslación del reo a un punto habitado del territorio de la República con prohibición de salir de él, pero permaneciendo en libertad.
+Relegación es la traslación del condenado a un punto habitado del territorio de la República con prohibición de salir de él, pero permaneciendo en libertad.
 
 ART. 36.
-Destierro es la expulsión del reo de algún punto de la República.
+Destierro es la expulsión del condenado de algún punto de la República.
 
 ART. 37.
 Para los efectos legales se reputan aflictivas todas las penas de crímenes y, respecto de las de simples delitos, las de presidio, reclusión, confinamiento, extrañamiento y relegación menores en sus grados máximos.
@@ -310,7 +310,7 @@ Las penas de inhabilitación especial perpetua y temporal para algún cargo u of
 
 ART. 40.
 La suspensión de cargo y oficio público y profesión titular, inhabilita para su ejercicio durante el tiempo de la condena.
-La suspensión decretada durante el juicio, trae como consecuencia inmediata la privación de la mitad del sueldo al presunto reo, la cual sólo se le devolverá en el caso de pronunciarse sentencia absolutoria.
+La suspensión decretada durante el juicio, trae como consecuencia inmediata la privación de la mitad del sueldo al presunto procesado, la cual sólo se le devolverá en el caso de pronunciarse sentencia absolutoria.
 La suspensión decretada por vía de pena, priva de todo sueldo al suspenso mientras ella dure.
 
 ART. 41.
@@ -366,7 +366,7 @@ A los autores de crimen o simple delito frustrado y a los cómplices de crimen o
 
 ART. 52.
 A los autores de tentativa de crimen o simple delito, a los cómplices de crimen o simple delito frustrado y a los encubridores de crimen o simple delito consumado, se impondrá la pena inferior en dos grados a la que señala la ley para el crimen o simple delito.
-Exceptúanse de esta regla los encubridores comprendidos en el núm. 3.° del art. 17, en quienes concurra la circunstancia primera del mismo número, a los cuales se impondrá la pena de inhabilitación especial perpetua, si el delincuente encubierto fuere reo de crimen y la de inhabilitación especial temporal en cualquiera de sus grados, si lo fuere de simple delito.
+Exceptúanse de esta regla los encubridores comprendidos en el núm. 3.° del art. 17, en quienes concurra la circunstancia primera del mismo número, a los cuales se impondrá la pena de inhabilitación especial perpetua, si el delincuente encubierto fuere procesado de crimen y la de inhabilitación especial temporal en cualquiera de sus grados, si lo fuere de simple delito.
 También se exceptúan los encubridores comprendidos en el núm. 4.° del mismo art. 17, a quienes se aplicará la pena de presidio menor en cualquiera de sus grados.
 
 ART. 53.
@@ -481,7 +481,7 @@ La disposición del artículo anterior no es aplicable en el caso de que un solo
 En estos casos solo se impondrá la pena mayor asignada al delito más grave. Si dicha pena fuere la de muerte, podrá imponerse, en vez de ella, la de presidio perpetuo.
 
 ART. 76.
-Siempre que el tribunal imponga una pena que lleve consigo otras por disposición de la ley, según lo prescrito en el § III de este título, condenará también al reo expresamente en estas últimas.
+Siempre que el tribunal imponga una pena que lleve consigo otras por disposición de la ley, según lo prescrito en el § III de este título, condenará también al procesado expresamente en estas últimas.
 
 ART. 77.
 En los casos en que la ley señala una pena inferior o superior en uno o más grados a otra determinada, la pena inferior o superior se tomará de la escala gradual en que se halle comprendida la pena determinada.
@@ -508,10 +508,10 @@ Artículo 81.- Si después de cometido el delito cayere el delincuente en estado
 ART. 82.
 Todo condenado a muerte será fusilado.
 La ejecución se verificará de día y con publicidad en el lugar generalmente designado para este efecto o en el que el tribunal determine cuando haya causa especial para ello.
-Esta pena se ejecutará tres días después de notificado al reo el cúmplase de la sentencia ejecutoria; pero si el vencimiento de este plazo correspondiere a uno o más días de fiesta religiosa o nacional, se postergará para el siguiente.
+Esta pena se ejecutará tres días después de notificado al condenado el cúmplase de la sentencia ejecutoria; pero si el vencimiento de este plazo correspondiere a uno o más días de fiesta religiosa o nacional, se postergará para el siguiente.
 
 ART. 83.
-El reo acompañado del sacerdote o ministro del culto cuyo auxilio hubiere pedido o aceptado, será conducido al lugar del suplicio en un carruaje celular. Llegado allí será sacado del carruaje e inmediatamente ejecutado.
+El condenado acompañado del sacerdote o ministro del culto cuyo auxilio hubiere pedido o aceptado, será conducido al lugar del suplicio en un carruaje celular. Llegado allí será sacado del carruaje e inmediatamente ejecutado.
 
 ART. 84.
 El cadáver del ajusticiado será entregado a su familia, si ésta lo pidiere, quedando obligada a hacerlo enterrar sin aparato alguno.
@@ -523,7 +523,7 @@ ART. 86.
 Los condenados a penas privativas de libertad cumplirán sus condenas en la clase de establecimientos carcelarios que corresponda en conformidad al Reglamento respectivo.
 
 ART. 87.
-Los menores de veintiún años y las mujeres cumplirán sus condenas en establecimientos especiales. En los lugares donde éstos no existan, permanecerán en los establecimientos carcelarios comunes, convenientemente separados de los reos adultos y varones, respectivamente.
+Los menores de veintiún años y las mujeres cumplirán sus condenas en establecimientos especiales. En los lugares donde éstos no existan, permanecerán en los establecimientos carcelarios comunes, convenientemente separados de los condenado adultos y varones, respectivamente.
 
 ART. 88.
 El producto del trabajo de los condenados a presidio será destinado:
@@ -562,7 +562,7 @@ De las penas en que incurren los que durante una condena delinquen de nuevo.
 
 ART. 91.
 Los que después de haber sido condenados por sentencia ejecutoria cometieren algún crimen o simple delito durante el tiempo de su condena, bien sea mientras la cumplen o después de haberla quebrantado, sufrirán la pena que la ley señala al nuevo crimen o simple delito que cometieren, debiendo cumplir esta condena y la primitiva por el orden que el tribunal prefije en la sentencia, de conformidad con las reglas prescritas en el art. 74 para el caso de imponerse varias penas al mismo delincuente.
-Cuando en el caso de este artículo el nuevo crimen debiere penarse con presidio o reclusión perpetuos y el delincuente se hallare cumpliendo alguna de estas penas, podrá imponerse al reo la pena de muerte, o bien agravarse la pena perpetua con las de encierro en celda solitaria hasta por un año e incomunicación con personas extrañas al establecimiento penal hasta por seis años, que podrán aplicarse separada o conjuntamente. Si el nuevo crimen o simple delito tuviere señalada una pena menor, se agravará la pena perpetua con una o más de las penas accesorias indicadas, a arbitrio del Tribunal, que podrán imponerse hasta por el máximo del tiempo que permite el artículo 25.
+Cuando en el caso de este artículo el nuevo crimen debiere penarse con presidio o reclusión perpetuos y el delincuente se hallare cumpliendo alguna de estas penas, podrá imponerse al procesado la pena de muerte, o bien agravarse la pena perpetua con las de encierro en celda solitaria hasta por un año e incomunicación con personas extrañas al establecimiento penal hasta por seis años, que podrán aplicarse separada o conjuntamente. Si el nuevo crimen o simple delito tuviere señalada una pena menor, se agravará la pena perpetua con una o más de las penas accesorias indicadas, a arbitrio del Tribunal, que podrán imponerse hasta por el máximo del tiempo que permite el artículo 25.
 En el caso de que el nuevo crimen deba penarse con relegación perpetua y el delincuente se halle cumpliendo la misma pena, se le impondrá la de presidio mayor en su grado medio, dándose por terminada la de relegación.
 Cuando la pena que mereciere el nuevo crimen o simple delito fuere otra menor, se observará lo prescrito en el acápite primero del presente artículo.
 
@@ -578,7 +578,7 @@ DE LA EXTINCIÓN DE LA RESPONSABILIDAD PENAL.
 
 ART. 93.
 La responsabilidad penal se extingue:
-1.° Por la muerte del reo, siempre en cuanto a las penas personales, y respecto de las pecuniarias sólo cuando a su fallecimiento no hubiere recaído sentencia ejecutoria.
+1.° Por la muerte del procesado, siempre en cuanto a las penas personales, y respecto de las pecuniarias sólo cuando a su fallecimiento no hubiere recaído sentencia ejecutoria.
 2.° Por el cumplimiento de la condena.
 3.° Por amnistía, la cual extingue por completo la pena y todos sus efectos.
 4.° Por indulto.
@@ -613,7 +613,7 @@ ART. 98.
 El tiempo de la prescripción comenzará a correr desde la fecha de la sentencia de término o desde el quebrantamiento de la condena, si hubiere ésta principiado a cumplirse.
 
 ART. 99.
-Esta prescripción se interrumpe quedando sin efecto el tiempo trascurrido, cuando el reo, durante ella, cometiere nuevamente crimen o simple delito, sin perjuicio de que comience a correr otra vez.
+Esta prescripción se interrumpe quedando sin efecto el tiempo trascurrido, cuando el condenado, durante ella, cometiere nuevamente crimen o simple delito, sin perjuicio de que comience a correr otra vez.
 
 ART. 100.
 Cuando el reo se ausentare del territorio de la República sólo podrá prescribir la acción penal o la pena contando por uno cada dos días de ausencia, para el cómputo de los años.
@@ -622,10 +622,10 @@ ART. 101.
 Tanto la prescripción de la acción penal como la de la pena corren a favor y en contra de toda clase de personas.
 
 ART. 102.
-La prescripción será declarada de oficio por el tribunal aún cuando el reo no la alegue, con tal que se halle presente en el juicio.
+La prescripción será declarada de oficio por el tribunal aún cuando el procesado no la alegue, con tal que se halle presente en el juicio.
 
 ART. 103.
-Si el reo se presentare o fuere habido antes de completar el tiempo de la prescripción de la acción penal o de la pena, pero habiendo ya trascurrido la mitad del que se exige, en sus respectivos casos, para tales prescripciones, deberá el tribunal considerar el hecho como revestido de dos o más circunstancias atenuantes muy calificadas y de ninguna agravante y aplicar las reglas de los arts. 65, 66, 67 y 68, sea en la imposición de la pena, sea para disminuir la ya impuesta.
+Si el inculpado se presentare o fuere habido antes de completar el tiempo de la prescripción de la acción penal o de la pena, pero habiendo ya trascurrido la mitad del que se exige, en sus respectivos casos, para tales prescripciones, deberá el tribunal considerar el hecho como revestido de dos o más circunstancias atenuantes muy calificadas y de ninguna agravante y aplicar las reglas de los arts. 65, 66, 67 y 68, sea en la imposición de la pena, sea para disminuir la ya impuesta.
 Esta regla no se aplica a las prescripciones de las faltas y especiales de corto tiempo.
 
 ART. 104.
@@ -961,7 +961,7 @@ El que habiendo adquirido de buena fe los títulos falsos de que trata este pár
 Cuando no exceda de esta suma, estimándose el acto mera falta, se penará como tal.
 
 ART. 179.
-Si la falsificación fuere tan grosera y ostensible que cualquiera pueda notarla y conocerla a la simple vista, los que falsificaren, expendieren, introdujeren o circularen los títulos así falsificados, se reputarán reos de engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
+Si la falsificación fuere tan grosera y ostensible que cualquiera pueda notarla y conocerla a la simple vista, los que falsificaren, expendieren, introdujeren o circularen los títulos así falsificados, se reputarán procesados de engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
 
 #### § III.
 De la falsificación de sellos, punzones, matrices, marcas, papel sellado, timbres, estampillas, etc.
@@ -1274,7 +1274,7 @@ En la misma multa sola o acompañada de la inhabilitación especial perpetua par
 
 ART. 250.
 El sobornante será castigado con las penas correspondientes a los cómplices en los casos respectivos, excepto las de inhabilitación y suspensión.
-Cuando el soborno mediare en causa criminal a favor del reo por parte de su cónyuge, de algún ascendiente o descendiente legítimo por consanguinidad o afinidad, de un colateral legítimo consanguíneo o a fin hasta el segundo grado inclusive o de un padre o hijo natural o ilegítimo reconocido, sólo se impondrá al sobornante una multa igual a la dádiva o promesa.
+Cuando el soborno mediare en causa criminal a favor del procesado por parte de su cónyuge, de algún ascendiente o descendiente legítimo por consanguinidad o afinidad, de un colateral legítimo consanguíneo o a fin hasta el segundo grado inclusive o de un padre o hijo natural o ilegítimo reconocido, sólo se impondrá al sobornante una multa igual a la dádiva o promesa.
 
 ART. 251.
 En todo caso caerán las dádivas en comiso.
@@ -1530,7 +1530,7 @@ ART. 302.
 Cuando la evasión o fuga de los presos o detenidos se efectuare por descuido culpable de los guardianes, se aplicará a éstos una pena inferior en un grado a la que les correspondería en caso de connivencia según los artículos anteriores.
 
 ART. 303.
-Si los fugados fueron dos o más, se tomará como base para fijar la pena de los reos a quienes se refiere este párrafo, la mayor de las que estuvieren sufriendo o merecieren aquéllos.
+Si los fugados fueron dos o más, se tomará como base para fijar la pena de los procesados a quienes se refiere este párrafo, la mayor de las que estuvieren sufriendo o merecieren aquéllos.
 
 ART. 304.
 Cuando empleando las reglas anteriores para aplicar la pena, no pudiera ésta determinarse por falta de grados inferiores o por no ser aplicables las de inhabilitación y suspensión, se impondrá la última que contenga la respectiva escala gradual.
@@ -2080,7 +2080,7 @@ ART. 422.
 La calumnia y la injuria se reputan hechas por escrito y con publicidad cuando se propagaren por medio de carteles o pasquines fijados en los sitios públicos; por papeles impresos, no sujetos a la ley de imprenta, litografías, grabados o manuscritos comunicados a más de cinco personas, o por alegorías, caricaturas, emblemas o alusiones reproducidos por medio de la litografía, el grabado, la fotografía u otro procedimiento cualquiera.
 
 ART. 423.
-El acusado de calumnia o injuria encubierta o equívoca que rehusare dar en juicio explicaciones satisfactorias acerca de ella, será castigado como reo de calumnia o injuria manifiesta.
+El acusado de calumnia o injuria encubierta o equívoca que rehusare dar en juicio explicaciones satisfactorias acerca de ella, será castigado como procesado de calumnia o injuria manifiesta.
 
 ART. 424.
 Podrán ejercitar la acción de calumnia o injuria el cónyuge, los hijos, nietos, padres, abuelos y hermanos legítimos, los hijos y padres naturales y el heredero del difunto agraviado
@@ -2203,7 +2203,7 @@ Disposiciones comunes a los tres párrafos anteriores.
 
 ART. 449.
 En los casos de robos o hurtos de vehículos, de caballos o bestias de silla o carga, de ganado mayor o menor o porcino, podrán ser aplicadas respectivamente a los autores, cómplices y encubridores las penas superiores en un grado a las que les hayan correspondido sin la circunstancia de tratarse de la sustracción de animales.
-Cuando la pena conste de dos o más grados el aumento establecido en el inciso primero se hará después de determinarse la pena que habría correspondido al reo con prescindencia de la expresada circunstancia.
+Cuando la pena conste de dos o más grados el aumento establecido en el inciso primero se hará después de determinarse la pena que habría correspondido al procesado con prescindencia de la expresada circunstancia.
 La regla del inciso primero de este artículo se observará también en los casos previstos en el artículo 448, si se trata de animales o aves comprendidos en los incisos anteriores.
 Será castigado en la forma señalada en este artículo, el que beneficie o destruya las especies a que él se refiere para apropiarse solamente de partes de ella.
 El que se apropie de las plumas, pelos, crines o cerdas de animales ajenos, esquilándolos o cortándoles las plumas, pelos, crines o cerdas, será castigado con presidio menor en su grado mínimo a medio.
@@ -2235,7 +2235,7 @@ ART. 455.
 Cuando del proceso no resulte probado el valor de la cosa sustraída ni pudiere estimarse por peritos u otro arbitrio legal, el tribunal hará su regulación prudencialmente.
 
 ART. 456.
-Si ántes de perseguir al reo o ántes de decretar su prision devolviere voluntariamente la cosa robada o hurtada, no hallándose comprendido en los casos de los arts. 433 y 434, se le aplicará la pena inmediatamente inferior en grado a la señalada para el delito.
+Si ántes de perseguir al procesado o ántes de decretar su prision devolviere voluntariamente la cosa robada o hurtada, no hallándose comprendido en los casos de los arts. 433 y 434, se le aplicará la pena inmediatamente inferior en grado a la señalada para el delito.
 
 ART. 456 BIS.
 En los delitos de robo y hurto serán circunstancias agravantes las siguientes:
