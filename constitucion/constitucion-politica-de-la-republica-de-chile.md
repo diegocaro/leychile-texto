@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=137535&idVersion=1833-05-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=137535&idVersion=1865-07-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 137535
-version_date: 1833-05-25
-fetched_at: 2026-08-05T02:16:52.921904+00:00
+version_date: 1865-07-27
+fetched_at: 2026-08-05T02:17:04.926279+00:00
 titulo_norma: "CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: LEY-S/N
 organismos: []
@@ -32,7 +32,11 @@ Art. 4º La soberanía reside esencialmente en la Nación, que delega su ejercic
 
 CAPITULO III
 De la relijión
-Art. 5º La relijión de la República de Chile es la Católica, Apostólica, Romana; con exclusión del ejercicio público de cualquiera otra.
+Art. 5º La relijión de la República de Chile es la Católica, Apostólica, Romana; con exclusión del
+NOTA
+ejercicio público de cualquiera otra.
+NOTA
+El Artículo 1° de la Ley S/N, promulgada el 27.07.1865, declara que se permite a los que no profesan la religión Católica, Apostólica, Romana, el culto que practiquen dentro del recinto de edificios de propiedad particular.
 
 CAPITULO IV
 De los chilenos
