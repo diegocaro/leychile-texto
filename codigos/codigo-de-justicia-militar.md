@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1992-06-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1994-11-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1992-06-22
-fetched_at: 2026-08-03T00:53:11.598631+00:00
+version_date: 1994-11-12
+fetched_at: 2026-08-03T00:58:32.481923+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -180,6 +180,8 @@ Art. 31. Derogado.
 
 Art. 32. Los Fiscales tendrán las mismas atribuciones disciplinarias que el Código Orgánico de Tribunales otorga a los Jueces de Letras de Mayor Cuantía, respecto de los abusos que se cometieren dentro de la sala de su despacho, mientras ejercen sus funciones; de las faltas de respeto que se cometieren en los escritos que se les presentaren, y de la conducta funcionaria del personal que les está subordinado.
 De las resoluciones que dicten sobre estas materias podrá reclamarse, pero únicamente en el efecto devolutivo, al respectivo Juzgado.
+
+Art. 33. Derogado.
 
 #### 3. De los Auditores
 
@@ -764,7 +766,7 @@ Art. 174. Las cuestiones de competencia podrán ser promovidas por los que figur
 Art. 175. La cuestión de competencia, en cualquiera forma que se promueva, ya sea afirmativa o negativa, se sustanciará en expediente separado y no entorpecerá la marcha del juicio.
 Si llegado éste al estado de sentencia definitiva aún no se hubiere resuelto a firme la cuestión de competencia, se suspenderá el pronunciamiento de la sentencia.
 
-Art. 176. Mientras se resuelve la cuestión de competencia, los tribunales respecto de los cuales se promueve están obligados a practicar todas las diligencias de sustanciación de la causa hasta dejarla en estado de resolver; pero aquel en cuyo territorio jurisdiccional estuvieren detenidos los reos, será el único que podrá resolver sobre todo lo relativo a su detención y libertad provisional.
+Art. 176. Mientras se resuelve la cuestión de competencia, los tribunales respecto de los cuales se promueve están obligados a practicar todas las diligencias de sustanciación de la causa hasta dejarla en estado de resolver; pero aquel en cuyo territorio jurisdiccional estuvieren detenidos los procesados, será el único que podrá resolver sobre todo lo relativo a su detención y libertad provisional.
 Dirimida la cuestión, será aplicable lo dispuesto en el artículo 48 del Código de Procedimiento Penal.
 
 Art. 177. Derogado
@@ -1092,7 +1094,7 @@ Art. 264. Será castigado con la pena de reclusión menor en sus grados mínimo 
 ### Título IV
 DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
-Art. 265. Son procesados de delito de rebelión o sublevación militar, los militares que incurrieren en cualquiera de los delitos contemplados en el título II, Libro II del Código Penal, y los no militares en los casos siguientes: que estén mandados por militares; que formen parte de un movimiento iniciado, sostenido o auxiliado por fuerzas del Ejército; que formen partida militarmente organizada y compuesta de diez o más individuos; o que, formando partida en menor número de diez, exista en otro punto de la República otra partida o fuerza que se propongan el mismo fin.
+Art. 265. Serán procesados de delito de rebelión o sublevación militar, los militares que incurrieren en cualquiera de los delitos contemplados en el título II, Libro II del Código Penal, y los no militares en los casos siguientes: que estén mandados por militares; que formen parte de un movimiento iniciado, sostenido o auxiliado por fuerzas del Ejército; que formen partida militarmente organizada y compuesta de diez o más individuos; o que, formando partida en menor número de diez, exista en otro punto de la República otra partida o fuerza que se propongan el mismo fin.
 
 Art. 266. Si formaren parte de una reunión tumultuosa y contraria al orden público, militares retirados absoluta o temporalmente de las fuerzas armadas u oficiales de reserva, usando uniforme o insignias de un empleo militar, serán considerados como militares para el efecto de su juzgamiento y penalidad.
 
