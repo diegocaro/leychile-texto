@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1961-10-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1963-01-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1961-10-24
-fetched_at: 2026-08-03T00:16:35.087381+00:00
+version_date: 1963-01-17
+fetched_at: 2026-08-03T00:16:59.112639+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -100,6 +100,7 @@ Art. 14. En cada distrito de la República que no esté comprendido en el territ
 Le corresponderá, asimismo, el nombramiento de curador ad-litem en su caso.
 Lo dispuesto en los incisos precedentes regirá también en toda sección de distrito no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
 Los jueces de distrito no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
+Los Jueces de Distrito no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 
 Art. 15. Los jueces de distrito durarán dos años en el ejercicio de sus funciones; pero podrán indefinidamente volver a ser nombrados para el período sucesivo.
 
@@ -144,6 +145,7 @@ Les corresponderá, asimismo, el nombramiento de curador ad litem en su caso.
 Lo dispuesto en este artículo regirá también en toda sección de subdelegación no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
 No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de quince mil pesos.
 Los jueces de subdelegación de las ciudades cabeceras de departamento no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
+Los Jueces de Subdelegación no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 
 Art. 26. A los jueces de subdelegación corresponden las atribuciones propias de ministro de fe que el Código Civil y otras leyes confirieron a los subdelegados con anterioridad al 1° de Marzo de 1876 y que no hayan sido derogadas.
 
@@ -180,6 +182,7 @@ Art. 32. Los jueces de letras de menor cuantía conocerán:
 En los juicios especiales del contrato de arrendamiento, los jueces letrados de menor cuantía conocerán en única instancia hasta la suma de nueve mil pesos, y en primera instancia hasta la suma de noventa mil pesos.
 Sin embargo, tratándose de los juicios de reconvenciones de pago, conocerán hasta la suma de treinta mil pesos en única instancia y hasta ochenta mil pesos en primera instancia.
 Conocerán también estos jueces, en primera instancia, de los juicios sobre alimentos futuros, siempre que la pensión mensual que se cobre no exceda de veinticinco mil pesos. No tendrán esta competencia cuando ella corresponda a un juez especial de menores.
+Los Jueces de Letras de Menor Cuantía no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 
 Art. 33. En materia de jurisdicción voluntaria los jueces letrados de menor cuantía conocerán:
 1°) De las autorizaciones para comparecer en los juicios que se promovieren ante ellos, y del nombramiento de curadores ad litem;
@@ -212,7 +215,7 @@ Art. 39. Habrá en Santiago cuatro Juzgados de Letras de Menor Cuantía en lo Cr
 Estos Juzgados ejercerán su jurisdicción dentro del territorio que les fije el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago; pero podrán practicar actuaciones dentro de la jurisdicción asignada a cualesquiera de ellos en los asuntos sometidos a su conocimiento.
 El Presidente de la República podrá también, a instancia de la misma Corte, modificar los límites de su jurisdicción territorial.
 Estos juzgados conocerán en primera instancia:
-1) De las faltas sancionadas por los artículos 494, N.os 5, 7, 12, 16, 19, 20 y 21; 495, N.os 3, 15, 21 y 22; 496, N.os 1, 8, 11, 18, 28, 31, 32 y 33, y 497 del Código Penal;
+1) De las faltas sancionadas por los artículos 494, N.os 5, 7, 12, 16, 19, 20 y 21; 495, N.os 3, 15, 21 y 22; 496, N.os 1, 8, 11, 18, 28, 31, 32 y 33, y 497 del Código Penal, que se cometan dentro del territorio jurisdiccional de la Municipalidad de Santiago;
 2) De las infracciones a la Ley de Alcoholes de que trata el Libro II de dicha ley a excepción de las contempladas en los artículos 107, 108 y 109 que se cometan fuera de la comuna asiento del Tribunal.
 3) De las demás infracciones que sean sancionadas en leyes especiales con pena de falta y cuyo conocimiento no esté entregado a autoridades distintas de los jueces del crimen.
 4) De los delitos de que trata el Libro II del Código Penal, en los párrafos 6, 7, 8, 9, 11, 13, 14 y 15 del Título VI; en el párrafo 8 del Título VII; en el párrafo 3 del Título VIII si las lesiones son menos graves; en los párrafos 2 y 4 del Título IX, si se trata de los delitos a que se refieren, respectivamente, los artículos 436, N.o 3, 446, N.o 3 y el artículo 448; y en los párrafos 8 y 10 del mismo Título IX, con excepción del delito previsto en el artículo 472, y, en todo caso, siempre que el valor de la defraudación o perjuicio no exceda de mil pesos y que el importe del daño no suba de diez mil pesos, y
@@ -247,15 +250,15 @@ Las divisiones administrativas señaladas en los incisos anteriores, serán cons
 
 Art. 45. Los jueces de letras de mayor cuantía conocerán:
 1°) En única o en primera instancia, conforme al inciso final de este número:
-a) De las causas civiles sobre cosas cuyo valor exceda de treinta mil pesos; pero, tratándose de los juicios especiales del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de quince mil pesos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía.
+a) De las causas civiles sobre cosas cuyo valor exceda de treinta mil pesos; pero, tratándose de los juicios especiales del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de quince mil pesos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía y a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 b) De las causas de comercio, con la misma salvedad de la letra precedente.
 Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de quince mil pesos y las causas de comercio que no excedan de treinta mil pesos y en primera todas las demás.
 2°) En primera instancia:
 a) De las causas de minas, cualquiera que sea su cuantía. Se entiende por causa de minas aquella en que ventilen derechos regidos especialmente por el Código de Minería.
 b) De los actos judiciales no contenciosos, cualquiera que sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil y en el artículo 33 de este Código;
 c) De las causas criminales por crimen o simple delito, salvo de aquellas cuyo conocimiento corresponde a los jueces de letras de menor cuantía y a los Juzgados de Policía Local para el juzgamiento de los delitos de vagancia y mendicidad que se cometan fuera de la ciudad en que tiene su asiento el Tribunal;
-d) De las causas por faltas sancionadas en los artículos 494, número 19, y 495, números 21 y 22 del Código Penal que se cometan en la ciudad donde tiene su asiento el Tribunal, sin perjuicio de lo dispuesto en el artículo 39;
-e) De las infracciones de la Ley de Alcoholes de que trata el Libro II de dicha ley, sin perjuicio de lo dispuesto por los artículos 36 y 39 N.o 2.o) de este Código.
+d) De las causas por faltas sancionadas en los artículos 494, N.o 19 y 495, números 21 y 22 del Código Penal, que se cometan en la ciudad donde tenga su asiento el Tribunal, siempre que en ella no haya Juez de Policía Local que sea abogado y sin perjuicio de lo dispuesto en el artículo 39;
+e) De las infracciones de la Ley de Alcoholes de que trata el Libro II de dicha ley, a excepción de las contempladas en los artículos 106 y 108 que se cometan fuera de la comuna asiento del Tribunal y sin perjuicio de lo dispuesto por los artículos 36 y 39 N.o 2 de este Código.
 f) De las causas civiles cuya cuantía sea inferior a la señalada en la letra a) del número primero de este artículo y de las de comercio cuyo conocimiento corresponde a los jueces de letras de menor cuantía, en que sean parte o tengan interés el Comandante en Jefe del Ejército, el Director General de la Armada, el Comandante en Jefe de la Fuerza Aérea, los Generales en Jefe de Ejército o Armada, los Ministros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos tribunales, los jueces letrados, los párrocos y vicepárrocos, los cónsules generales, cónsules o vicecónsules de las naciones extranjeras reconocidas por el Presidente de la República, las corporaciones y fundaciones de derecho público o los establecimientos públicos de beneficencia.
 3°) En segunda instancia:
 a) De las causas civiles de que hayan conocido en primera los jueces de subdelegación del departamento, salvo lo dispuesto en los artículos 37 y 40;
@@ -1603,7 +1606,7 @@ Art. 391. Habrá receptores de mayor y de menor cuantía.
 Los receptores de mayor cuantía estarán al servicio de la Corte Suprema, de las Cortes de Apelaciones y de los juzgados de letras de mayor cuantía.
 Los receptores de menor cuantía serán de dos clases: los que estén al servicio de los jueces de letras de menor cuantía y los que ejerzan sus funciones ante los jueces de subdelegación y de distrito.
 En los lugares en que hubiere dos o más Jueces de Menor Cuantía, los Receptores de Menor Cuantía ejercerán sus funciones en todo el territorio conjunto fijado por el Presidente de la República, ante cualesquiera de los respectivos Juzgados de Letras de Menor Cuantía.
-Los receptores de mayor cuantía de los departamentos de Santiago y Valparaíso, ejercerán sus funciones ante los juzgados de letras de menor cuantía en los negocios de que conocieren en primera instancia estos tribunales.
+Inciso derogado.
 
 Art. 392. Habrá para cada departamento el número de receptores de mayor cuantía que el Presidente de la República determine, previo el informe de la respectiva Corte de Apelaciones.
 El Presidente de la República determinará también el número de receptores que deben actuar ante los jueces de letras de menor cuantía y ante los jueces de subdelegación y distrito y señalará, respecto de estos últimos, las subdelegaciones en que deban prestar sus servicios.

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1962-12-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1963-01-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1962-12-18
-fetched_at: 2026-08-03T00:16:47.103391+00:00
+version_date: 1963-01-17
+fetched_at: 2026-08-03T00:17:11.115790+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -218,8 +218,12 @@ Extrañamiento menor.
 Relegación menor.
 Destierro.
 Suspensión de cargo u oficio público o profesión titular.
+Inhabilidad perpetua para conducir vehículos a tracción mecánica o animal.
+Suspensión para conducir vehículos a tracción mecánica o animal.
 PENAS DE LAS FALTAS.
 Prisión.
+Inhabilidad perpetua para conducir vehículos a tracción mecánica o animal.
+Suspensión para conducir vehículos a tracción mecánica o animal.
 PENAS COMUNES A LAS TRES CLASES ANTERIORES.
 Multa.
 Pérdida o comiso de los instrumentos o efectos del delito.
@@ -540,7 +544,7 @@ De las penas en que Incurren los que quebrantan las sentencias.
 
 ART. 90.
 Los sentenciados que quebrantaren su condena serán castigados con las penas que respectivamente se designan en los números siguientes:
-1.° Los condenados a presidio, reclusión o prisión sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un tiempo que, atendidas las circunstancias, podrá extenderse hasta un año, quedando durante el mismo tiempo sujetos al régimen mas estricto del establecimiento.
+1.° Los condenados a presidio, reclusión o prisión sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un tiempo que, atendidas las circunstancias, podrá extenderse hasta un año, quedando durante el mismo tiempo sujetos al régimen más estricto del establecimiento.
 2.° En caso de reincidencia en el quebrantamiento de dichas condenas sufrirán, a más de las penas de la regla anterior, la de cadena o grillete por un tiempo que, atendidas las circunstancias, podrá extenderse hasta un año.
 3.° Los consuetudinarios en el quebrantamiento de tales condenas, entendiéndose por tales los que lo hubieren verificado más de dos veces, serán encerrados en celda solitaria por un término prudencial, atendidas las circunstancias, que no podrá exceder de la mitad del que les falte por cumplir de la pena principal, conforme a lo prescrito en el art. 25.
 4.° Los condenados a confinamiento, extrañamiento, relegación o destierro, sufrirán las penas de presidio, reclusión o prisión, según las reglas siguientes:
@@ -552,6 +556,7 @@ En caso de reincidencia se doblará esta pena.
 6.° El suspenso de cargo u oficio público o profesión titular que los ejerciere, sufrirá un recargo por igual tiempo al de su primitiva condena.
 En caso de reincidencia sufrirá la pena de reclusión menor en su grado mínimo o multa de veinte mil a doscientos mil pesos.
 7.° El sometido a la vigilancia de la autoridad, que faltare a las reglas que debe observar, sufrirá la pena de reclusión menor en sus grados mínimo a medio.
+8.° El condenado en proceso por crimen o simple delito a la pena de retiro o suspensión del carnet, permiso o autorización que lo faculta para conducir vehículos o embarcaciones, o a la sanción de inhabilidad perpetua para conducirlos, sufrirá la pena de presidio menor en su grado mínimo.
 
 #### § II.
 De las penas en que incurren los que durante una condena delinquen de nuevo.
@@ -2408,6 +2413,8 @@ Las penas del art. 490 se impondrán también respectivamente al que, con infrac
 En los accidentes ocasionados por vehículos de tracción mecánica o animal de que resultaren lesiones o muerte de un peatón, se presumirá, salvo prueba en contrario, la culpabilidad del conductor del vehículo, dentro del radio urbano de una ciudad, cuando el accidente hubiere ocurrido en el cruce de las calzadas o en la extensión de diez metros anterior a cada esquina; y, en todo caso, cuando el conductor del vehículo contravenga las ordenanzas municipales con respecto a la velocidad, o al lado de la calzada que debe tomar.
 Se entiende por cruce, el área comprendida por la intersección de dos calzadas.
 Se presumirá la culpabilidad del peatón, si el accidente se produjere en otro sitio de las calzadas.
+A los responsables de cuasi delito de homicidio o lesiones ejecutados por medio de vehículos a tracción mecánica o animal, se los sancionará, además de las penas indicadas en el artículo 490, con la suspensión del carnet, permiso o autorización que los habilite para conducir vehículos por un período de uno a dos años, si el hecho de mediar malicia constituyera un crimen y de seis meses a una año, si constituyera simple delito. En caso de reincidencia, podrá condenarse al conductor a inhabilidad perpetua para conducir vehículos a tracción mecánica o animal, cancelándose el carnet, permiso o autorización.
+La circunstancia de huir del lugar donde se hubiere cometido alguno de los cuasi delitos a que se refiere el inciso quinto de este artículo, constituirá presunción de culpabilidad.
 
 ART. 493.
 Las disposiciones del presente párrafo no se aplicarán a los cuasidelitos especialmente penados en este Código.
