@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1979-08-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1980-02-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1979-08-03
-fetched_at: 2026-08-03T00:30:23.092724+00:00
+version_date: 1980-02-23
+fetched_at: 2026-08-03T00:31:17.160107+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -27,7 +27,12 @@ Artículo 1°.- El Código Sanitario rige todas las cuestiones relacionadas con 
 
 Artículo 2°.- El Presidente de la República dictará, previo informe del Director General de Salud, los Reglamentos necesarios para la aplicación de las normas contenidas en el presente Código.
 
-Artículo 3°.- Corresponde al Servicio Nacional de Salud, sin perjuicio de las facultades del Ministerio de Salud Pública, atender todas las materias relacionadas con la salud pública y el bienestar higiénico del país, de conformidad con lo dispuesto en el inciso final del N° 14° del artículo 10° de la Constitución Política del Estado, este Código y su Ley Orgánica.
+Artículo 3°.- Corresponde al
+NOTA:
+NOTA:
+Servicio Nacional de Salud, sin perjuicio de las facultades del Ministerio de Salud Pública, atender todas las materias relacionadas con la salud pública y el bienestar higiénico del país, de conformidad con lo dispuesto en el inciso final del N° 14° del artículo 10° de la Constitución Política del Estado, este Código y su Ley Orgánica.
+NOTA:
+Véanse el Capítulo I del Decreto ley 2763, Salud, publicado el 03.08.1979, que reorganiza el Ministerio de Salud, y el Decreto 395, Salud, publicado el 23.02.1980, que aprueba el reglamento orgánico de esta Secretaría de Estado.
 
 Artículo 4°.- A las Municipalidades corresponde atender los asuntos de orden sanitario que le entregan el artículo 105° de la Constitución Política del Estado y las disposiciones de este Código.
 
