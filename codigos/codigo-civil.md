@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2003-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2003-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2003-10-03
-fetched_at: 2026-08-03T01:21:28.911903+00:00
+version_date: 2003-10-10
+fetched_at: 2026-08-03T01:21:52.292025+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2185,10 +2185,10 @@ Art. 687. La inscripción del título de dominio y de cualquier otro de los dere
 Si el título es relativo a dos o más inmuebles, deberá inscribirse en los Registros Conservatorios de todos los territorios a que por su situación pertenecen los inmuebles.
 Si por un acto de partición se adjudican a varias personas los inmuebles o parte de los inmuebles que antes se poseían proindiviso, el acto de partición relativo a cada inmueble o cada parte adjudicada se inscribirá en el Registro Conservatorio en cuyo territorio esté ubicado el inmueble.
 
-Art. 688. En el momento de deferirse la herencia, la posesión de ella se confiere por el ministerio de la ley al heredero; pero esta posesión legal no habilita al heredero para disponer en manera alguna de un inmueble, mientras no preceda:
-1º El decreto judicial que da la posesión efectiva: este decreto se inscribirá en el Registro de la comuna o agrupación de comunas en que haya sido pronunciado; y si la sucesión es testamentaria, se inscribirá al mismo tiempo el testamento;
-2º Las inscripciones especiales prevenidas en los incisos 1º y 2º del artículo precedente: en virtud de ellas podrán los herederos disponer de consuno de los inmuebles hereditarios; y
-3º La inscripción especial prevenida en el inciso 3º: sin ésta no podrá el heredero disponer por sí solo de los inmuebles hereditarios que en la partición le hayan cabido.
+Art. 688. En el momento de deferirse la herencia, la posesión efectiva de ella se confiere por el ministerio de la ley al heredero; pero esta posesión legal no habilita al heredero para disponer en manera alguna de un inmueble, mientras no preceda:
+1º. La inscripción del decreto judicial o la resolución administrativa que otorgue la posesión efectiva: el primero ante el conservador de bienes raíces de la comuna o agrupación de comunas en que haya sido pronunciado, junto con el correspondiente testamento, y la segunda en el Registro Nacional de Posesiones Efectivas;
+2º. Las inscripciones especiales prevenidas en los incisos primero y segundo del artículo precedente: en virtud de ellas podrán los herederos disponer de consuno de los inmuebles hereditarios, y
+3º. La inscripción prevenida en el inciso tercero: sin ésta no podrá el heredero disponer por sí solo de los inmuebles hereditarios que en la partición le hayan cabido.
 
 Art. 689. Siempre que por una sentencia ejecutoriada se reconociere, como adquirido por prescripción, el dominio o cualquiera otro de los derechos mencionados en los artículos 686 y siguientes, servirá de título esta sentencia, y se inscribirá en el respectivo Registro o Registros.
 
@@ -2245,11 +2245,11 @@ Las sentencias judiciales sobre derechos litigiosos no forman nuevo título para
 Las transacciones en cuanto se limitan a reconocer o declarar derechos preexistentes, no forman nuevo título; pero en cuanto transfieren la propiedad de un objeto no disputado, constituyen un título nuevo.
 
 Art. 704. No es justo título:
-1º El falsificado, esto es, no otorgado realmente por la persona que se pretende;
-2º El conferido por una persona en calidad de mandatario o representante legal de otra sin serlo;
-3º El que adolece de un vicio de nulidad, como la enajenación que debiendo ser autorizada por un representante legal o por decreto judicial, no lo ha sido; y
-4º El meramente putativo, como el del heredero aparente que no es en realidad heredero; el del legatario cuyo legado ha sido revocado por un acto testamentario posterior, etc.
-Sin embargo, al heredero putativo a quien por decreto judicial se haya dado la posesión efectiva, servirá de justo título el decreto; como al legatario putativo el correspondiente acto testamentario que haya sido judicialmente reconocido.
+1º. El falsificado, esto es, no otorgado realmente por la persona que se pretende;
+2º. El conferido por una persona en calidad de mandatario o representante legal de otra sin serlo;
+3º. El que adolece de un vicio de nulidad, como la enajenación que debiendo ser autorizada por un representante legal o por decreto judicial, no lo ha sido; y
+4º. El meramente putativo, como el del heredero aparente que no es en realidad heredero; el del legatario cuyo legado ha sido revocado por un acto testamentario posterior, etc.
+Sin embargo, al heredero putativo a quien por decreto judicial o resolución administrativa se haya otorgado la posesión efectiva, servirá de justo título el decreto o resolución; como al legatario putativo el correspondiente acto testamentario que haya sido legalmente ejecutado.
 
 Art. 705. La validación del título que en su principio fue nulo, efectuada por la ratificación, o por otro medio legal, se retrotrae a la fecha en que fue conferido el título.
 
@@ -8800,7 +8800,10 @@ El impuesto, en su caso, se deducirá del capital destinado a servir las pension
 
 Art. 11. Cuando el gravamen con que se defiera una asignación o se haga una donación consista en un derecho de uso o habitación en favor de un tercero, se deducirá del acervo sujeto al pago del impuesto, la tercera parte de la suma que resulte de aplicar las reglas del artículo 6.º.
 
-Art. 12. Cuando para la estimación del gravamen impuesto a una asignación o donación no fuere posible aplicar las reglas anteriores, el juez determinará su valor para los efectos del pago de impuesto, oyendo al Servicio.
+Art. 12. DEROGADO
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 Art. 13. Las asignaciones o donaciones de derechos litigiosos no estarán sujetos al pago del impuesto, sino desde el momento en que el juicio termine por sentencia ejecutoriada o transacción.
 El impuesto se pagará sobre el valor que resulte tener el crédito o derecho, con deducción de los gastos judiciales.
@@ -8850,7 +8853,10 @@ Art. 23. En caso de donaciones reiteradas de un mismo donante a un mismo donatar
 Del mismo modo, se acumulará siempre a la herencia o legado el valor de los bienes que el heredero o legatario hubiere recibido del causante en vida de éste y el impuesto se aplicará sobre el total en la forma ordenada en el inciso anterior. En estos casos dichos bienes se considerarán por el valor que se les haya asignado en esa oportunidad para los efectos del impuesto sobre las donaciones.
 Esta acumulación tendrá lugar aun cuando las donaciones anteriores sólo se refieran a la nuda propiedad, fideicomiso, usufructo o a otro derecho real que no importe dominio pleno y que se consolide posteriormente con él. En estos casos, el impuesto se aplicará de acuerdo a las normas del artículo 7.º.
 Sin perjuicio de las acumulaciones a que se refieren los incisos anteriores, si el causante donare en vida la nuda propiedad y se reservare el usufructo para sí, al consolidarse posteriormente éste con la nuda propiedad, se acumulará el valor que tenga la propiedad plena a la fecha de la consolidación, con deducción de la misma proporción que se gravó al donarse la nuda propiedad. Con todo, se podrá optar, al momento de la donación, por pagar el impuesto sobre el valor de la propiedad plena, caso en el cual, al tiempo de la posterior consolidación, dicha propiedad se acumulará por el valor que le hubiere asignado al momento del pago del impuesto a las donaciones.
-Para los efectos de este artículo, el heredero, legatario o donatario deberá, al solicitar la liquidación del impuesto, hacer presente la donación o donaciones anteriores.
+Para los efectos de este artículo, el heredero, legatario o donatario deberá considerar la donación o donaciones anteriores, al calcular el impuesto que corresponde a su asignación o donación.
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 Art. 24. Para la estimación de los bienes donados y determinación del impuesto se observarán las mismas reglas que para los bienes heredados o legados en lo que les sean aplicables.
 
@@ -8860,14 +8866,21 @@ DE LA POSESION EFECTIVA
 Art. 25. Para los efectos de esta ley el heredero no podrá disponer de los bienes de la herencia, sin que previamente se haya inscrito la resolución que da la posesión efectiva de la herencia, sin perjuicio de lo dispuesto en el artículo 688 del Código Civil.
 
 Art. 26. Lo expuesto en el artículo precedente no regirá para el cónyuge, ni para los padres e hijos cuando deban percibir, de las Cajas de Previsión o de los empleados o patrones, de acuerdo con las leyes o contratos de trabajo, sumas no superiores a cinco unidades tributarias anuales.
-En caso de fallecimiento del titular de una cuenta de ahorro en un Banco o Institución Financiera, sus herederos podrán retirar estos depósitos hasta concurrencia de cinco unidades tributarias anuales o su equivalente en moneda
-extranjera. Fallecido uno de los titulares de una cuenta bipersonal, los fondos se considerarán del patrimonio exclusivo del sobreviviente hasta concurrencia de la cantidad señalada en el inciso primero. El saldo sobre ese monto, si lo hubiere, pertenecerá por iguales partes al otro depositante y a los herederos del fallecido, con las mismas prerrogativas que este artículo establece.
-En estos casos bastará probar el estado civil y no será necesario el auto de posesión efectiva ni acreditar el pago o exención de la contribución de herencias.
+En caso de fallecimiento del titular de una cuenta de ahorro en un Banco o Institución Financiera, sus herederos podrán retirar estos depósitos hasta concurrencia de cinco unidades tributarias anuales o su equivalente en moneda extranjera.
+Fallecido uno de los titulares de una cuenta bipersonal, los fondos se considerarán del patrimonio exclusivo del sobreviviente hasta concurrencia de la cantidad señalada en el inciso primero. El saldo sobre ese monto, si lo hubiere, pertenecerá por iguales partes al otro depositante y a los herederos del fallecido, con las mismas prerrogativas que este artículo establece.
+En estos casos bastará probar el estado civil y no será necesaria la resolución que concede la posesión efectiva ni acreditar el pago o exención de la contribución de herencias.
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 Art. 27. Cuando la sucesión se abra en el extranjero, deberá pedirse en Chile, no obstante lo dispuesto en el artículo 955 del Código Civil, la posesión efectiva de la herencia respecto de los bienes situados dentro del territorio chileno, para los efectos del pago de los impuestos establecidos por esta ley.
 La posesión efectiva, en este caso, deberá pedirse en el lugar en que tuvo el causante su último domicilio en Chile, o en el domicilio del que pida la posesión efectiva, si aquél no lo hubiere tenido.
 
-Art. 28. Dentro de los cinco primeros días hábiles de cada mes, los secretarios judiciales deberán enviar al Servicio una nómina de las posesiones efectivas concedidas en el mes anterior, con indicación del nombre de los causantes, el de los herederos respectivos y la fecha de la muerte de los causantes y de la resolución.
+Art. 28. Los juzgados de letras y el Servicio de Registro Civil e Identificación deberán proporcionar los datos que se requieran para la fiscalización de los impuestos de esta ley, en la oportunidad, forma,
+NOTA:
+cantidad y medios, que el Servicio de Impuestos Internos establezca, sin perjuicio de lo dispuesto en el artículo 87 del Código Tributario.
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 ###### Publicaciones e inscripciones
 
@@ -8877,25 +8890,42 @@ Art. 30. Si la sociedad conyugal terminare por el fallecimiento de uno de los c�
 
 ###### De los inventarios
 
-Art. 31. Las adiciones, supresiones o enmiendas que se hagan en el inventario de común acuerdo por los interesados o por resolución judicial o arbitral, deberán ser consideradas en las liquidaciones que se practiquen para pagar los impuestos de que trata esta ley, en la escritura pública de partición o en la resolución arbitral que ponga término a la comunidad hereditaria.
-Los interesados no podrán disponer de los bienes adicionados mientas no se acredite por medio de un certificado del Servicio que se colacionaron en la liquidación del impuesto.
+Art. 31. Las adiciones, supresiones o enmiendas que se hagan en el inventario de común acuerdo por los interesados o por resolución judicial o arbitral, deberán ser consideradas en las declaraciones de los impuestos de esta ley.
+Los interesados no podrán disponer de los bienes adicionados mientras no se acredite el pago del impuesto o la exención en su caso, respecto de esos bienes.
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 32. Las modificaciones a que se refiere el artículo anterior, cuando se trate de bienes raíces, deberán protocolizarse ante el mismo notario que protocolizó el inventario y anotarse en el Registro Conservatorio al margen de la inscripción primitiva.
+Art. 32. De las modificaciones a que se refiere el artículo anterior se dejará constancia en la respectiva inscripción de la posesión efectiva.
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 ###### De la posesión efectiva de herencias que no excedan
-de cincuenta unidades tributarias anuales
+de cincuenta unidades tributarias anuales (DEROGADO)
 
-Art. 33. La posesión efectiva de herencias cuyo cuerpo o masa de bienes no excedan de cincuenta unidades tributarias anuales, podrá solicitarse en formularios especiales que confeccionará el Servicio.
-El juez deberá ordenar expresamente esta forma de tramitación y declarar que los interesados quedan acogidos a los beneficios que establece el artículo 37.
+Art. 33. DEROGADO
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 34. Para acogerse a lo preceptuado en este capítulo será necesario presentar un inventario simple y tasación de los bienes hereditarios, que serán efectuados por el Servicio, y de los cuales se dará copia a los interesados.
+Art. 34. DEROGADO
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 35. La resolución que conceda la posesión efectiva de la herencia, será publicada en la forma que determina el Código de Procedimiento Civil, reduciéndose a dos el número de avisos y debiendo expresarse en éstos que la posesión efectiva se tramita con arreglo a este capítulo.
-Cumplidos estos trámites y una vez protocolizado el inventario, el juez ordenará la inscripción de la resolución de posesión efectiva.
+Art. 35. DEROGADO
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 36. El inventario practicado por el Servicio se considerará como inventario solemne para todos los efectos legales.
+Art. 36. DEROGADO
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 37. Las actuaciones judiciales y notariales y las de los Conservadores de Bienes Raíces que se produzcan en los trámites necesarios, hasta las inscripciones especiales de herencia inclusive, se cobrarán en los casos de este capítulo con un 50% de rebaja.
+Art. 37. DEROGADO
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 ##### Capítulo V
 DE LOS VALORES EN CUSTODIA Y EN DEPOSITO
@@ -8926,55 +8956,87 @@ Lo dispuesto en el inciso anterior no obsta para que se persiga judicialmente el
 Art. 45. Los Bancos, Cajas de Ahorros y, en general, toda institución de crédito bancario, deberán suministrar al Servicio y a los herederos los datos que se soliciten respecto a saldo de depósitos, estados de cuentas corrientes, garantías, custodias, etc., que tuvieren los clientes, comitentes o arrendatarios que fallecieren.
 
 ##### Capítulo VI
-DE LA TASACION DE BIENES
+DE LA VALORACIÓN DE BIENES
 
 Art. 46. Para determinar el monto sobre el cual deba aplicarse el impuesto, se considerará el valor que tengan los bienes al momento de deferirse la herencia en conformidad a las siguientes reglas:
-a) El avalúo con que figuren los bienes raíces en esa fecha para los efectos del pago de las contribuciones. El Servicio de Impuestos Internos deberá tasar, para los efectos de esta ley, todos los bienes inmuebles excluidos del avalúo, que no se encuentren expresamente exentos del impuesto establecido en la presente ley. Los interesados podrán impugnar la correspondiente tasación ante el juez que deba conocer de la determinación del impuesto. El juez, para resolver, procederá conforme a la letra c); pero a falta de acuerdo entre el Servicio y los interesados, el nombramiento de perito tasador sólo podrá recaer en tasadores oficiales de organismos fiscales o semifiscales, o en ingenieros civiles, arquitectos o ingenieros agrónomos, según la naturaleza de la especie tasada. En lo demás, se procederá conforme a dicha letra.
-Sin embargo, los inmuebles adquiridos dentro de los tres años anteriores a la delación se estimarán en su valor de adquisición, cuando éste fuere superior al de avalúo y siempre que, a juicio exclusivo del Servicio, dicho valor de adquisición se ajustare al valor real del bien adquirido.
+a) El avalúo con que figuren los bienes raíces en esa fecha para los efectos del pago de las contribuciones. Los bienes inmuebles por adherencia y por destinación excluidos del avalúo, que no se encuentren expresamente exentos del impuesto establecido en la presente ley deberán ser valorados de acuerdo a las normas establecidas en el artículo 46 bis.
+No obstante lo señalado en el inciso anterior, los inmuebles adquiridos dentro de los tres años anteriores a la delación, se estimarán en su valor de adquisición, cuando éste fuere superior al de avalúo.".
 b) El promedio del precio que los efectos públicos, acciones y valores mobiliarios hayan tenido durante los seis meses anteriores a la fecha de la delación de las asignaciones.
-Si los efectos públicos, acciones y demás valores mobiliarios que forman parte de una herencia no hubieren tenido cotización bursátil en el lapso señalado en el inciso anterior, o si, por liquidación u otra causa, no se cotizaren en el mercado, su estimación se hará por la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio o por la Superintendencia de Bancos, en su caso.
-No obstante, si estos organismos no dispusieran de antecedentes para la estimación por no estar las sociedades de que se trata sujetas a su fiscalización o por otra causa, el valor de las acciones y demás títulos mobiliarios se determinará a justa tasación de peritos.
-Sin embargo, en el caso de acciones de una sociedad anónima cuyo capital pertenezca en más de un 30% al causante o al cónyuge, herederos o legatarios del mismo causante, su valor para los efectos de este impuesto deberá siempre determinarse a justa tasación pericial.
-c) El valor que a los bienes muebles se les asigne en el acto pericial legalmente practicado, debiendo considerarse como parte al Servicio en la respectiva diligencia.
-Cuando por desacuerdo de la partes el nombramiento de perito se haga por la justicia ordinaria o jueces árbitros, deberá reacaer únicamente en algunos de los siguientes funcionarios: secretarios de los juzgados, martilleros públicos, delegados de la Caja de Crédito Prendario y tasadores oficiales de instituciones fiscales o semifiscales, y sólo a falta de ellos el nombramiento podrá recaer en otras personas que no podrán ser empleados del Servicio ni de los Tribunales de Justicia.
-El honorario de los peritos no podrá exceder de un 0,25% del monto de la tasación y será de cargo de los contribuyentes interesados.
-d) No obstante, si dentro de los nueve meses siguientes a la delación de la herencia se licitaren bienes en subasta pública con admisión de postores extraños, se tomará como base para determinar el monto imponible, el valor en que hayan sido subastados. Si no hubiere postores se tendrá como valor de los bienes el último mínimum fijado para el remate.
+Si los efectos públicos, acciones y demás valores mobiliarios que forman parte de una herencia no hubieren tenido cotización bursátil en el lapso señalado en el inciso anterior, o si, por liquidación u otra causa, no se cotizaren en el mercado, su estimación se hará por la Superintendencia de Valores y Seguros o por la Superintendencia de Bancos, en su caso.
+No obstante, si estos organismos no dispusieran de antecedentes para la estimación por no estar las sociedades de que se trata sujetas a su fiscalización o por otra causa, el valor de las acciones y demás títulos mobiliarios se determinará de acuerdo a las normas establecidas en el artículo 46 bis.
+Sin embargo, en el caso de acciones de una sociedad anónima cuyo capital pertenezca en más de un 30% al causante o al cónyuge, herederos o legatarios del mismo causante, su valor para los efectos de este impuesto deberá siempre determinarse de acuerdo a las normas establecidas en el artículo 46 bis.
+c) El valor que a los bienes muebles se les asigne de conformidad a las normas establecidas en el artículo 46 bis.
+d) No obstante, si dentro de los nueve meses siguientes a la delación de la herencia, se licitaren bienes de la misma en subasta pública con admisión de postores extraños, se valorarán los bienes licitados al valor en que hayan sido subastados.
 Esta regla no se aplicará cuando los interesados hayan hecho uso del derecho de pagar definitivamente el impuesto en conformidad a las reglas precedentes, a menos que aquéllos solicitaren la revisión de la liquidación del tributo.
 Los funcionarios que efectúen remates de bienes de sucesiones no entregarán el producto de la subasta, a menos de haberse pagado o garantizado el impuesto, o de haberlo autorizado el Servicio o que el remate se haya acordado ante partidor; pero deberán consignar el producto del remate a la orden del juez en el término de tercero día.
-e) A los bienes situados en el extranjero se les dará el valor que el Servicio determine, de acuerdo con los antecedentes de que disponga o se le proporcionen.
-Los interesados podrán impugnar la apreciación ante el juez, el que, para resolver, procederá conforme a la letra c).
-f) Cuando entre los bienes dejados por el causante figuren negocios o empresas unipersonales, o cuotas en comunidades dueñas de negocios, o empresas, o derechos en sociedades de personas, se asignará a dichos negocios, empresas, derechos o cuotas el valor que resulte de aplicar a los bienes del activo las normas señaladas en las letras precedentes, incluyéndose, además, el monto de los valores intangibles estimados a justa tasación de perito, todo ello con deducción del pasivo acreditado.
-g) En el caso de acciones, bonos, créditos u otros derechos muebles que manifiestamente carecieren de valor, podrá la Dirección Regional prescindir de los trámites de tasación y aceptar como prueba suficiente otros antecedentes que ella señale o fijarles un valor de acuerdo con los interesados.
+e) Los bienes situados en el extranjero, deberán ser valorados de acuerdo a las normas establecidas en el artículo 46 bis.
+f) Cuando entre los bienes dejados por el causante figuren negocios o empresas unipersonales, o cuotas en comunidades dueñas de negocios, o empresas, o derechos en sociedades de personas, se asignará a dichos negocios, empresas, derechos o cuotas el valor que resulte de aplicar a los bienes del activo las normas señaladas en este artículo, incluyéndose, además, el monto de los valores intangibles valorados de acuerdo a las normas establecidas en el artículo 46 bis, todo ello con deducción del pasivo acreditado.
+g) Los vehículos serán considerados por el valor de tasación vigente a la fecha de la delación de la herencia que determina el Servicio de Impuestos Internos, de acuerdo a lo dispuesto en el artículo 12º, letra a) del decreto ley Nº3063, de 1979, sobre Rentas Municipales.
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 47. Cuando no se justificare la falta de bienes muebles en el inventario, o los inventariados no fueren proporcionados a la masa de bienes que se transmite, o no se hayan podido tasar dichos bienes, se estimarán a juicio de la Dirección Regional, para los efectos de esta ley, en un 20% del valor del inmueble que guarnecían, o a cuyo servicio o explotación estaban destinados, aun cuando el inmueble no fuere de propiedad del causante.
+Artículo 46 bis.- Los bienes respecto de los cuales esta ley no establece regla de valoración, serán considerados en su valor corriente en plaza. Para el ejercicio de la facultad establecida en el artículo 64 del Código Tributario, el Servicio de Impuestos Internos deberá citar al contribuyente dentro de los sesenta días siguientes a la presentación de la declaración del impuesto o de la exención del mismo.
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
+
+Art. 47. Cuando no se justificare la falta de bienes muebles en el inventario, o los inventariados no fueren proporcionados a la masa de bienes que se transmite, o no se hayan podido valorizar dichos bienes, para los efectos de esta ley se estimarán en un 20% del valor del inmueble que guarnecían, o a cuyo servicio o explotación estaban destinados, aun
+NOTA:
+cuando el inmueble no fuere de propiedad del causante.
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 ##### Capítulo VII
-DE LA DETERMINACION DEFINITIVA DEL MONTO IMPONIBLE
+DE LA DETERMINACION DEFINITIVA DEL MONTO IMPONIBLE (DEROGADO)
 
-Art. 48. La determinación definitiva del monto imponible de las asignaciones se efectuará:
-a) Por partición hecha por acto entre vivos o por testamento;
-b) Por liquidación hecha ante el juez letrado que haya dictado la resolución de posesión efectiva, cuando fuere procedente.
-En esta liquidación, los interesados podrán hacer entre ellos las adjudicaciones que estimen convenientes;
-c) Por laudo y ordenata dictado en juicio de partición; y
-d) Por escritura pública de partición.
+Art. 48. DEROGADO
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 49. En todos los casos a que se refiere el artículo anterior, será necesaria la aprobación judicial, previo informe del Servicio, respecto a la aplicación de las disposiciones de la presente ley.
-Este informe deberá evacuarse dentro del término de quince días hábiles, contados desde la fecha en que el Servicio reciba los antecedentes. Vencido este plazo, el juez resolverá con el solo mérito de los antecedentes, para cuyo efecto ordenará la inmediata devolución del expediente respectivo.
+Art. 49. DEROGADO
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 ##### Capítulo VIII
 DEL PAGO DEL IMPUESTO Y DE LAS GARANTIAS
 
-Art. 50. El impuesto deberá pagarse dentro del plazo de dos años, contado desde la fecha en que la asignación se defiera.
-Si el impuesto no se pagare dentro del plazo de dos años, se adeudará, después del segundo año, el interés penal indicado en el artículo 53 del Código Tributario.
+Art. 50. El impuesto deberá declararse y pagarse simultáneamente dentro del plazo de dos años, contado desde la fecha en que la asignación se defiera.
+Si el impuesto no se declarare y pagare dentro del plazo de dos años, se adeudará, después del segundo año, el interés penal indicado en el artículo 53 del Código Tributario.
 Estos intereses no se aplicarán a aquellos interesados que paguen dentro del plazo el impuesto correspondiente a sus asignaciones.
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 51. Sin perjuicio de la fijación definitiva del impuesto, toda sucesión podrá pagarlos provisionalmente antes de estar afinada la partición o antes de disponerse de los elementos necesarios para practicar la liquidación a que se refiere la letra b) del artículo 48 presentando un cálculo y los antecedentes que permitan una fijación, a lo menos aproximada, de lo que se deba al Fisco.
-Cuando se ejercite este derecho, el tribunal, oyendo al Servicio, fijará el monto aproximado de la contribución, la que se completará en definitiva cuando resultare insuficiente. En caso contrario, el tribunal dispondrá la devolución de lo que se hubiere pagado en exceso.
+Artículo 50 bis.- Cada as
+NOTA:
+ignatario deberá declarar y pagar el impuesto que grava su asignación.
+Cualquier asignatario podrá declarar y pagar el impuesto que corresponda a todas las asignaciones,
+NOTA:
+extingui
+NOTA:
+endo la totalidad de l
+NOTA:
+a deuda por concepto del impuesto que establece esta ley. El asignatario que hubiere efectuado el pago, tendrá derecho a repetir en contra de los demás obligados a la deuda.
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 52. Cada interesado podrá pagar separadamente el impuesto que le haya correspondido, una vez liquidado definitivamente el tributo.
+Art. 51. Sin perjuicio de la declaración y pago definitivo del impuesto, toda sucesión podrá pagarlo provisionalmente antes de disponer de los elementos necesarios para practicar la determinación
+NOTA:
+definitiva del impuesto, presentando al Servicio de Impuestos Internos un cálculo y los antecedentes que permitan una determinación, a lo menos aproximada, de lo que se deba al Fisco.
+Cuando se ejercite este derecho y el monto de la contribución aproximada sea insuficiente, se deberá complementar ésta en definitiva, dentro del plazo que establece el artículo 50, inciso primero. Si por el contrario, resulta un impuesto pagado en exceso, se podrá solicitar su devolución con arreglo a lo dispuesto en el artículo 126º del Código Tributario.
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 53. Si transcurrido el plazo señalado en el artículo 50, no se hubiere pagado totalmente la contribución adeudada, el Servicio, con el mérito del inventario y demás antecedentes que tenga, procederá a presentar la liquidación respectiva al juez competente, el cual se pronunciará sobre ella con citación de los interesados.
-Servirá de suficiente título ejecutivo para proseguir el pago de lo adeudado, el certificado del tesorero fiscal respectivo, en que conste no haberse enterado en arcas fiscales la suma que, de acuerdo con el inciso anterior, haya señalado la justicia.
+Art. 52. La declaración y pago del impuesto a las donaciones deberá efectuarla el donatario. El tribunal no podrá autorizar la donación en tanto no se acredite el pago del impuesto. Tratándose de donaciones liberadas
+NOTA:
+del trámite de la insinuación, el impuesto deberá pagarse dentro del mes siguiente a aquel en que se perfeccione el respectivo contrato.
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
+
+Art. 53. Si transcurrido el plazo señalado en el artículo 50, no se hubiere pagado totalmente la contribución adeudada, el Servicio, con el mérito del inventario y demás antecedentes que tenga, procederá a liquidar y girar el impuesto.
+INCISO DEROGADO
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 Art. 54. Los notarios no podrán autorizar las escrituras públicas de adjudicaciones de bienes hereditarios o de enajenaciones o disposiciones en común, que hagan los asignatarios, ni los Conservadores inscribirlas, sin que en ellas se inserte el comprobante de pago de impuesto, a menos que la adjudicación se hubiere hecho en juicios de partición constituidos legalmente o que los asignatarios hubieren otorgado garantía para el pago de la contribución.
 Para que gocen del privilegio de este artículo, los compromisos particionales deberán ser ejercidos por abogados que nombre la justicia ordinaria, o cuyo nombramiento sea sometido a su aprobación para los efectos del impuesto de herencia, si no lo debiere prestar por otra causa.
@@ -8984,7 +9046,10 @@ Art. 55. El pago de impuesto podrá garantizarse con depósitos en dinero a la o
 Dentro de los cinco días siguientes al otorgamiento de toda escritura pública, sobre garantía del impuesto de herencia, el notario respectivo deberá enviar al Servicio una copia autorizada de ella en papel simple, la cual tendrá el valor de primera copia para todos los efectos legales.
 Igual obligación tendrán los Conservadores respecto de las inscripciones que practiquen de esas escrituras.
 
-Art. 56. Las garantías de pago del impuesto se ofrecerán al Servicio y sólo surtirán los efectos que este ley señala, cuando dicha Oficina les prestare su aprobación.
+Art. 56. Las garantías de pago del impuesto se ofrecerán al Servicio y sólo surtirán los efectos que esta ley señala, cuando dicha Oficina les prestare su aprobación.
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 Art. 57. Salvo que constituya garantía legal, no podrá estipularse la indivisión de bienes hereditarios, si no se paga antes el impuesto de herencia que corresponda.
 
@@ -8992,7 +9057,13 @@ Art. 58. Aun antes de estar pagado o garantizado el pago del impuesto y siempre 
 
 Art. 59. Los herederos, los árbitros partidores y los albaceas con tenencia de bienes, estarán obligados a velar por el pago de la contribución de herencia, ordenando su entero en arcas fiscales, o reservando, o haciendo reservar los bienes que sean necesarios con tal fin, a menos que se hayan otorgado algunas de las garantías consultadas en el artículo 55. En consecuencia, y salvo que se hubiere otorgado garantía legal, no podrán proceder a la entrega de legados, sin deducir o exigir previamente la suma que se deba por concepto de contribución.
 
-Art. 60. El pago de los impuestos que establece esta ley se efectuará en la Tesorería recaudadora del departamento en donde se haya concedido la posesión efectiva de la herencia o insinuado la donación. El Servicio podrá autorizar el pago en otra Tesorería.
+Art. 60. La declaración y pago simultáneo de los impuestos que establece esta ley se hará de conformidad a las normas que fije el Servicio de Impuestos Internos, pudiendo, incluso, determinar que
+NOTA:
+respecto de asignaciones o donaciones que estuvieren exentas de impuesto, no se presente la declaración.
+Asimismo, el Servicio de Impuestos Internos establecerá la forma en que se acreditará el pago del impuesto o la circunstancia de resultar exento, para todos los efectos legales.
+En todo caso, tratándose de posesiones efectivas que se tramiten ante el Servicio de Registro Civil e Identificación, al presentar la solicitud respectiva se deberá indicar si las asignaciones correspondientes están afectas o exentas de impuesto. De resultar exentas la totalidad de las asignaciones, con la constancia de ello en la respectiva solicitud se tendrá por cumplida la obligación de declarar el impuesto que establece esta ley.
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 #### Título II
 
@@ -9003,14 +9074,22 @@ Art. 61. Se presumirá ánimo de ocultación de bienes siempre que, disuelta una
 
 Art. 62. Se presumirá, asimismo, ánimo de eludir el pago de las contribuciones establecidas por esta ley, en el caso de bienes no manifestados en el inventario y que los herederos se hayan distribuido entre sí.
 
-Art. 63. El Servicio de Impuestos Internos podrá investigar si las obligaciones impuestas a las partes por cualquier contrato son efectivas, si realmente dichas obligaciones se han cumplido o si lo que una parte da en virtud de un contrato oneroso guarda proporción con el precio corriente en plaza, a la fecha del contrato, de lo que recibe en cambio. Si el Servicio comprobare que dichas obligaciones no son efectivas o no se han cumplido realmente, o lo que una de las partes da en virtud de un contrato oneroso es notoriamente desproporcionado al precio corriente en plaza de lo que recibe en cambio, y dichos actos y circunstancias hubieren tenido por objeto encubrir una donación y anticipo a cuenta de herencia, dictará una resolución fundada, liquidando el impuesto que corresponda en conformidad a esta ley y solicitará al juez competente se pronuncie sobre la procedencia del impuesto y la aplicación definitiva del monto de éste. La solicitud del Servicio se tramitará conforme al procedimiento sumario.
-Servirá de antecedente suficiente para la dictación de la resolución a que se refiere el inciso anterior, la comprobación de que no se ha incorporado realmente al patrimonio de un contratante la cantidad de dinero que declara haber recibido, en los casos de contratos celebrados entre personas de las cuales una o varias serán herederos ab-intestato de la otra u otras.
-La resolución judicial firme que fije el impuesto conforme a este artículo no importará un pronunciamiento sobre la calificación jurídica del respectivo contrato para otros efectos que no sean los tributarios.
+Art. 63. El Servicio de Impuestos Internos podrá investigar si las obligaciones impuestas a las partes por cualquier contrato son efectivas, si realmente dichas obligaciones se han cumplido o si lo que una parte da en virtud de un contrato oneroso guarda proporción con el precio corriente en plaza, a la fecha del contrato, de lo que recibe en cambio. Si el Servicio comprobare que dichas obligaciones no son efectivas o no se han cumplido realmente, o lo que una de las partes da en virtud de un contrato oneroso es notoriamente desproporcionado al precio corriente en plaza de lo que recibe en cambio, y dichos actos y circunstancias hubieren tenido por objeto encubrir una donación y anticipo a cuenta de herencia, liquidará y girará el impuesto que corresponda.
+Servirá de antecedente suficiente para el ejercicio de la facultad a que se refiere el inciso anterior, la comprobación de que no se ha incorporado realmente al
+NOTA:
+patrimonio de un contratante la cantidad de dinero que declara haber recibido, en los casos de contratos celebrados entre personas de las cuales una o varias serán herederos ab-intestato de la otra u otras.
+La liquidación del impuesto conforme a este artículo no importará un pronunciamiento sobre la calificación jurídica del respectivo contrato para otros efectos que no sean los tributarios.
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 Art. 64. Las personas que figuren como partes en los actos o contratos a que se refieren los artículos precedentes de este capítulo, a quienes se les compruebe una actuación dolosa encaminada a burlar el impuesto y aquellas que, a sabiendas, se aprovechen del dolo, serán sancionadas de acuerdo con el N.º 4º del artículo 97 del Código Tributario.
 Serán solidariamente responsables del pago del impuesto y de las sanciones pecuniarias que correspondan, todas las personas que hayan intervenido dolosamente como partes en el respectivo acto o contrato.
 Si con motivo de las investigaciones que el Servicio practique en cumplimiento de las disposiciones precedentes, se probare la intervención dolosa de algún profesional, será sancionado con las mismas penas, sean ellas pecuniarias o corporales, que procedan en contra de las partes del respectivo acto o contrato.
-En los casos a que se refiere este artículo, las sanciones tanto pecuniarias como corporales serán aplicadas por la justicia ordinaria, previo requerimiento del Servicio.
+INCISO DEROGADO
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 Art. 65. Las disposiciones del artículo 23 se aplicarán también respecto de las sumas que en definitiva queden afectas al pago del impuesto sobre las donaciones.
 
@@ -9033,9 +9112,12 @@ Art. 71. La contravención a lo que preceptúa el artículo 59, constituirá a l
 Art. 72. Toda infracción a la presente ley que no tuviere una sanción especial, será penada con multa de un 5% a un 50% de una unidad tributaria anual. En caso de reincidencia, la multa se elevará al doble de la aplicada por la primera infracción; y si el reincidente fuera empleado público, sufrirá la suspensión o pérdida de su empleo.
 
 ##### Capítulo II
-DEL PROCEDIMIENTO JUDICIAL
+DEL PROCEDIMIENTO JUDICIAL (DEROGADO)
 
-Art. 73. Si la denuncia fuere rechazada por el Servicio o por la justicia ordinaria, el denunciante será responsable de denuncia calumniosa y de los perjuicios que hubiere producido al denunciado en su persona y bienes.
+Art. 73. DEROGADO
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 ##### Capítulo III
 DISPOSICIONES GENERALES
@@ -9045,17 +9127,39 @@ Art. 74. Siempre que en esta ley se emplee la palabra "Servicio", se entenderá 
 Art. 75. Derógase el Decreto Ley Nº 364, de 3 de agosto de 1932, y demás disposiciones legales que sean contrarias a lo dispuesto en esta ley.
 
 ##### Capítulo IV
-DISPOSICIONES TRANSITORIAS
+DISPOSICIONES TRANSITORIAS (DEROGADO)
 
-Art. 76. Las herencias deferidas durante la vigencia del Decreto Ley Nº 364, que aún no hayan pagado el impuesto o que hayan verificado abonos parciales, o que lo hayan pagado provisoriamente, lo harán con arreglo a las tasas, trámites y plazos que establece esta ley.
+Art. 76. DEROGADO
+NOTA:
+NOTA:
+NOTA:
+NOTA:
+NOTA:
+NOTA:
+NOTA:
+NOTA:
+NOTA:
+NOTA:
+NOTA:
+NOTA:
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 77. Se condonan los intereses penales y multas a los deudores que estén en mora de pagar la contribución de herencias y donaciones, cualquiera que sea el momento en que se hayan deferido, siempre que efectúen el pago dentro de los seis meses siguientes a la fecha en que esta ley entre en vigencia.
+Art. 77. DEROGADO
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 78. Podrá revisarse el avalúo de los bienes sobre que se aplica el impuesto de herencias deferidas durante los años 1929 y 1930, y que no hubiese enterado el pago de la contribución, tomándose como valor de los bienes el que tuvieren en subasta pública con admisión de postores extraños, verificada dentro de los dos años siguientes a la delación de la herencia.
-En ningún caso la rebaja del impuesto con motivo de lo establecido en el inciso anterior podrá ser superior a la parte del impuesto que aún no se haya pagado.
-Estas disposiciones se aplican sólo a los bienes raíces, acciones y bonos.
+Art. 78. DEROGADO
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 79. Las reglas establecidas en el artículo 46, se aplicarán a toda herencia, cualquiera que sea la fecha en que se haya deferido, pero el plazo a que se refiere el inciso 1.º de la letra d) se contará desde la fecha en que entre en vigencia la presente ley.
+Art. 79. DEROGADO
+NOTA:
+NOTA:
+El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 Anótese, tómese razón, regístrese, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- José Antonio Gómez Urrutia, Ministro de Justicia.
 Lo que transcribo para su conocimiento.- Le saluda atentamente.- Jaime Arellano Quintana, Subsecretario de Justicia.
