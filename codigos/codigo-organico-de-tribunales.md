@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1976-03-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1976-03-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1976-03-16
-fetched_at: 2026-08-03T00:26:20.629639+00:00
+version_date: 1976-03-22
+fetched_at: 2026-08-03T00:26:32.646505+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -311,7 +311,7 @@ Las Cortes de Apelaciones
 
 ### § 1. Su organización y atribuciones
 
-Art. 54. Habrá en la República quince Cortes de Apelaciones que tendrán su asiento en las ciudades de Iquique, Antofagasta, Copiapó, La Serena, Valparaíso, Santiago, Rancagua, Talca, Chillán, Concepción, Los Angeles, Temuco, Valdivia, Puerto Montt y Punta Arenas.
+Art. 54. Habrá en la República quince Cortes de Apelaciones que tendrán su asiento en las ciudades de Iquique, Antofagasta, Copiapó, La Serena, Valparaíso, Santiago, Rancagua, Talca, Chillán, Concepción, Temuco, Valdivia, Puerto Montt, Coyhaique y Punta Arenas.
 
 Art. 55. El territorio jurisdiccional de las Cortes de Apelaciones será el siguiente:
 a) El de la Corte de Iquique comprenderá la provincia de Tarapacá;
@@ -323,15 +323,15 @@ f) El de la Corte de Santiago comprenderá la provincia de Santiago, exceptuando
 g) En la Corte de Rancagua comprenderá las provincias de O'Higgins y Colchagua y el departamento de Maipo de la provincia de Santiago;
 h) El de la Corte de Talca comprenderá el departamento de Constitución de la provincia de Maule y las provincias de Curicó, Talca y Linares, exceptuando de esta última el departamento de Parral;
 i) El de la Corte de Chillán comprenderá el departamento de Parral de la provincia de Linares y las provincias de Ñuble y Maule, exceptuando de esta última el departamento de Constitución;
-j) El de la Corte de Concepción comprenderá las provincias de Concepción y Arauco;
-k) El de la Corte de Los Angeles comprenderá la provincia de Bío Bío y los departamentos de Angol y Collipulli de la provincia de Malleco;
-l) El de la Corte de Temuco comprenderá las provincias de Cautín y Malleco, exceptuados de esta última los departamentos de Angol y Collipulli;
-m) El de la Corte de Valdivia comprenderá las provincias de Valdivia y Osorno;
-n) El de la Corte de Puerto Montt comprenderá las provincias de Llanquihue, Chiloé y Aysen, y
+j) El de la Corte de Concepción comprenderá las provincias de Concepción, Bío-Bío y Arauco;
+k) El de la Corte de Temuco comprenderá las provincias de Malleco y Cautín;
+l) El de la Corte de Valdivia comprenderá las provincias de Valdivia y Osorno;
+m) El de la Corte de Puerto Montt comprenderá las provincias de Llanquihue y Chiloé;
+n) El de la Corte de Coyhaique comprenderá la provincia de Aysen, y
 ñ) El de la Corte de Punta Arenas comprenderá la provincia de Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
 
 Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indica:
-1° Las Cortes de Iquique, Antofagasta, La Serena, Rancagua, Talca y Chillán, Puerto Montt y Punta Arenas tendrán cuatro miembros;
+1° Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Chillán, Valdivia, Puerto Montt, Coyhaique y Punta Arenas tendrán cuatro miembros;
 2° Las Cortes de Temuco y Valdivia tendrán cinco miembros;
 3° Las Cortes de Valparaíso y Concepción tendrán siete miembros, y
 4° La Corte de Santiago tendrá veintiún miembros.
@@ -343,7 +343,7 @@ Art. 58. Cada Corte de Apelaciones tendrá un fiscal.
 La Corte de Apelaciones de Santiago tendrá cuatro fiscales. El ejercicio de sus funciones será reglado por el tribunal, como lo estime más conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
 Art. 59. Las Cortes de Apelaciones tendrán el número de Relatores que a continuación se indica:
-1°.- Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Los Angeles, Puerto Montt y Punta Arenas tendrán un Relator;
+1°.- Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Puerto Montt, Coyhaique y Punta Arenas tendrán un relator;
 2°.- Las Cortes de Chillán y Valdivia tendrán dos Relatores.
 3°.- Las Cortes de Valparaíso, Concepción y Temuco tendrán tres Relatores, y
 4°.- La Corte de Santiago tendrá diez Relatores.
@@ -925,8 +925,8 @@ El llamamiento de los integrantes se hará en el orden indicado y los abogados s
 La integración de las salas de la Corte de Santiago se hará preferentemente con los miembros de aquellas que se compongan de cuatro, según el orden de antigüedad.
 
 Art. 216. Si en una Sala de las Cortes de Apelaciones no queda ningún miembro hábil se deferirá el conocimiento del negocio a otra de las Salas de que se componga el Tribunal y si la inhabilidad o impedimento afecta a la totalidad de sus miembros, pasará el asunto a la Corte de Apelaciones que deba subrogar según las reglas siguientes:
-Se subrogarán recíprocamente las Cortes de Apelaciones de Iquique con la de Antofagasta; la de Copiapó con la de La Serena; la de Santiago con la de Valpara�so; la de Rancagua con la de Talca; la de Chillán con la de Concepción; la de Los Angeles con la de Temuco, y la de Valdivia con la de Puerto Montt.
-La Corte de Punta Arenas será subrogada por la de Puerto Montt.
+Se subrogarán recíprocamente las Cortes de Apelaciones de Iquique con la de Antofagasta; la de Copiapó con la de La Serena; la de Santiago con la de Valparaíso; la de Rancagua con la de Talca; la de Chillán con la de Concepción; la de Temuco con la de Valdivia, y la de Puerto Montt con la de Coyhaique.
+La Corte de Apelaciones de Punta Arenas será subrogada por la de Coyhaique.
 En los casos en que no puedan aplicarse las reglas precedentes, conocerá la Corte de Apelaciones cuya sede esté más próxima a la de la que debe ser subrogada.
 
 Art. 217. Si la Corte Suprema o algunas de sus salas se hallare en el caso previsto en el artículo 215 se llamará a integrar a los miembros no inhabilitados de la misma Corte Suprema, al fiscal del tribunal o a los abogados que se designen anualmente con este objeto.
