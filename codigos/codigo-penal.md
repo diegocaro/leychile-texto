@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1875-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1917-09-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1875-03-01
-fetched_at: 2026-08-02T23:56:14.086606+00:00
+version_date: 1917-09-27
+fetched_at: 2026-08-03T00:03:24.967445+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2374,9 +2374,9 @@ Sufrirán la pena de prision en sus grados medio a máximo o multa de diez a cie
 5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas i circunstancias del hecho.
 6.° El que corriere carruajes o caballerías con peligro de las personas, haciéndolo en poblado, ya sea de noche o de dia cuando haya aglomeracion de jente.
 7.° El farmacéutico que despachare medicamentos en virtud de receta que no se halle debidamente autorizada.
-8.° El que habitualmente i despues de apercibimiento ejerciere, sin título legal ni permiso de autoridad competente, las profesiones de médico, cirujano, farmacéutico o flebotomiano.
+8.° El que habitualmente i despues de apercibimiento ejerciere, sin título legal ni permiso de autoridad competente, las profesiones de médico, cirujano, farmacéutico o Dentista.
 9.° El facultativo que, notando en una persona o en un cadáver señales de envenenamiento o de otro delito grave, no diere parte a la autoridad oportunamente.
-10.° El médico, cirujano, farmacéutico, flebotomiano o matrona que incurriere en descuido culpable en el desempeño de su profesion, sin causar daño a las personas.
+10.° El médico, cirujano, farmacéutico, Dentista o matrona que incurriere en descuido culpable en el desempeño de su profesion, sin causar daño a las personas.
 11.° Los mismos individuos espresados en el numero anterior, que no prestaren los servicios de su profesion durante el turno que les señale la autoridad administrativa.
 12.° El médico, cirujano, farmacéutico, matrona o cualquiera otro que, llamado en clase de perito o testigo, se negare a practicar una operacion propia de su profesion u oficio o a prestar una declaracion requerida por la autoridad judicial, en los casos i en la forma que determine el Código de Procedimientos i sin perjuicio de los apremios legales.
 13.° El que encontrando perdido o abandonado a un menor de siete años no lo entregare a su familia o no lo recojiere o depositare en lugar seguro, dando cuenta a la autoridad en los dos últimos casos.
