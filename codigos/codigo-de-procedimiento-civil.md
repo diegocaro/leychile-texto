@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1997-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1998-02-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1997-08-30
-fetched_at: 2026-08-03T01:04:10.001236+00:00
+version_date: 1998-02-03
+fetched_at: 2026-08-03T01:05:56.597329+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1682,10 +1682,10 @@ conformidad a la Ley Orgánica del Banco del Estado de Chile y en las condicione
 NOTA: 33
 suedos vitales mensuales, escala a), del departamento de Santiago o se trate de una vivienda de emergencia, y sus ampliaciones, a que se refiere el artículo 5° del decreto ley N°2552, de 1979; los muebles de dormitorio, de comedor y de cocina de uso familiar y la ropa necesaria para el abrigo del deudor, su cónyuge y los hijos que viven a sus expensas.
 La inembargabilidad establecida en el inciso precedente no regirá para los bienes raíces respecto de los juicios en que sean parte el Fisco, Las Cajas de Previsión y demás organismos regidos por la ley del Ministerio de la Vivienda y Urbanismo;
-9° Los libros relativos a la profesión del deudor hasta el valor de $632.089 y a elección del mismo deudor;
+9° Los libros relativos a la profesión del deudor hasta el valor de $670.015 y a elección del mismo deudor;
 10° Las máquinas e instrumentos de que se sirve el deudor para la enseñanza de alguna ciencia o arte, hasta dicho valor y sujetos a la misma elección;
 11° Los uniformes y equipos de los militares, según su arma y grado;
-12° Los objetos indispensables al ejercicio personal del arte u oficio de los artistas, artesanos y obreros de fábrica; y los aperos, animales de labor y material de cultivo necesarios al labrador o trabajador de campo para la explotación agrícola, hasta la suma de $632.089 y a elección del mismo deudor;
+12° Los objetos indispensables al ejercicio personal del arte u oficio de los artistas, artesanos y obreros de fábrica; y los aperos, animales de labor y material de cultivo necesarios al labrador o trabajador de campo para la explotación agrícola, hasta la suma de $670.015 y a elección del mismo deudor;
 13°. Los utensilios caseros y de cocina, y los artículos de alimento y combustible que existan en poder del deudor, hasta concurrencia de lo necesario para el consumo de la familia durante un mes;
 14°. La propiedad de los objetos que el deudor posee fiduciariamente;
 15°. Los derechos cuyo ejercicio es enteramente personal, como los de uso y habitación;
@@ -2541,7 +2541,7 @@ DE LOS JUICIOS DE MENOR Y DE MINIMA CUANTIA
 
 #### 1. De los juicios de menor cuantía
 
-Art. 698. Los juicios de más de $ 18.856 y que no pasen de $ 377.241, y que no tengan señalado en la ley un procedimiento especial, se someterán al procedimiento ordinario de que trata el Libro II con las modificaciones siguientes:
+Art. 698. Los juicios de más de $ 19.988 y que no pasen de $ 399.876, y que no tengan señalado en la ley un procedimiento especial, se someterán al procedimiento ordinario de que trata el Libro II con las modificaciones siguientes:
 1a. Se omitirán los escritos de réplica y dúplica.
 Si se deduce reconvención, se dará traslado de ella al demandante por seis días, y con lo que éste exponga o en su rebeldía, se recibirá la causa a prueba;
 2a. El término para contestar la demanda será de ocho días, que se aumentará de conformidad a la tabla de emplazamiento. Este aumento no podrá exceder de veinte días, y no regirá para estos juicios la disposición del inciso 2° del artículo 258.
@@ -2549,7 +2549,8 @@ En el caso del artículo 308, el plazo para contestar la demanda será de seis d
 3a. Se citará a la audiencia de conciliación para un día no anterior al tercero ni posterior al décimo contado desde la fecha de notificación de la resolución.
 4a. El término de prueba será de quince días y podrá aumentarse, extraordinariamente, de conformidad a lo dispuesto en el número anterior;
 5a. El término a que se refiere el artículo 430 será de seis días;
-6a. La sentencia se dictará dentro de los quince días siguientes al de la última notificación de la resolución que cita a las partes para oírla; y 7a. Deducida apelación contra resoluciones que no se refieran a la competencia o a la inhabilidad del tribunal, ni recaigan en incidentes sobre algún vicio que anule el proceso, el juez tendrá por interpuesto el recurso para después de la sentencia que ponga término al juicio. El apelante deberá reproducirlo dentro de los cinco días subsiguientes al de la notificación de la sentencia y en virtud de esta reiteración, lo concederá el tribunal.
+6a. La sentencia se dictará dentro de los quince días siguientes al de la última notificación de la resolución que cita a las partes para oírla; y
+7a. Deducida apelación contra resoluciones que no se refieran a la competencia o a la inhabilidad del tribunal, ni recaigan en incidentes sobre algún vicio que anule el proceso, el juez tendrá por interpuesto el recurso para después de la sentencia que ponga término al juicio. El apelante deberá reproducirlo dentro de los cinco días subsiguientes al de la notificación de la sentencia y en virtud de esta reiteración, lo concederá el tribunal.
 En los casos de excepción a que se refiere el inciso anterior de este número, como también en los incidentes sobre medidas prejudiciales o precautorias, el recurso se concederá al tiempo de su interposición.
 
 Art. 699. La apelación de la sentencia definitiva se tramitará como en los incidentes y se verá conjuntamente con las apelaciones que se hayan concedido en conformidad al inciso 1° del N° 5° del artículo anterior.
@@ -2563,7 +2564,7 @@ Art. 702. La sentencia deberá dictarse dentro del plazo de 15 días, contado de
 
 #### 2. De los juicios de mínima cuantía
 
-Art. 703. Se aplicará el procedimiento de que trata este párrafo a los juicios cuya cuantía no exceda de $ 18.856, y que por su naturaleza no tengan señalado en la ley un procedimiento especial.
+Art. 703. Se aplicará el procedimiento de que trata este párrafo a los juicios cuya cuantía no exceda de $ 19.988, y que por su naturaleza no tengan señalado en la ley un procedimiento especial.
 
 Art. 704. El procedimiento será verbal, pero las partes podrán presentar minutas escritas en que se establezcan los hechos invocados y las peticiones que se formulen.
 La demanda se interpondrá verbalmente o por escrito. En el primer caso se dejará constancia, en un acta que servirá de cabeza al proceso, del nombre, profesión u oficio y domicilio del demandante, de los hechos que éste exponga y de sus circunstancias esenciales, de los documentos que acompañe y de las peticiones que formule.
@@ -2715,7 +2716,7 @@ Art. 748. (922). Los juicios en que tenga interés el Fisco y cuyo concimiento c
 NOTA
 El Artículo 3°, inciso final, del Decreto con Fuerza de Ley 94, Hacienda, publicado el 21.03.1960, dispone: "Serán aplicables a los asuntos en que tenga interés la Empresa de los Ferrocarriles del Estado y de que conozcan los tribunales ordinarios de justicia, las disposiciones del Título XVI del Libro 3° del Código de Procedimiento Civil".
 
-Art. 749. (923). Se omitirán en el juicio ordinario los escritos de réplica y dúplica, siempre que la cuantía del negocio no pase de $377.241.
+Art. 749. (923). Se omitirán en el juicio ordinario los escritos de réplica y dúplica, siempre que la cuantía del negocio no pase de $399.876
 
 Art. 750. (924). En los negocios en que el ministerio público no figure como parte principal, debe ser oído antes de la prueba y antes de la sentencia definitiva en una y otra instancia. El
 NOTA: 47
