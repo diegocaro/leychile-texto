@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2000-05-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2001-01-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2000-05-05
-fetched_at: 2026-08-03T01:11:00.996903+00:00
+version_date: 2001-01-05
+fetched_at: 2026-08-03T01:13:17.514910+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -52,7 +52,7 @@ Art. 3° Los tribunales tienen, además, las facultades conservadoras, disciplin
 Art. 4° Es prohibido al Poder Judicial mezclarse en las atribuciones de otros poderes públicos y en general ejercer otras funciones que las determinadas en los artículos precedentes.
 
 Art. 5° A los tribunales mencionados en este artículo corresponderá el conocimiento de todos los asuntos judiciales que se promuevan dentro del territorio de la República, cualquiera que sea su naturaleza o la calidad de las personas que en ellos intervengan, sin perjuicio de las excepciones que establezcan la Constitución y las leyes.
-Integran el Poder Judicial, como tribunales ordinarios de justicia, la Corte Suprema, las Cortes de Apelaciones, los Presidentes y Ministros de Corte, los tribunales orales en lo penal, los juzgados de letras y los juzgados de garantía.
+Integran el Poder Judicial, como tribunales ordinarios de justicia, la Corte Suprema, las Cortes de Apelaciones, los Presidentes y Ministros de Corte, los tribunales de juicio oral en lo penal, los juzgados de letras y los juzgados de garantía.
 Forman parte del Poder Judicial, como tribunales especiales, los Juzgados de Letras de Menores, los Juzgados de Letras del Trabajo y los Tribunales Militares en tiempo de paz, los cuales se regirán en su organización y atribuciones por las disposiciones orgánicas constitucionales contenidas en la ley N° 16.618, en el Código del Trabajo, y en el Código de Justicia Militar y sus leyescomplementarias, respectivamente, rigiendo para ellos las disposiciones de este Código sólo cuando los cuerpos legales citados se remitan en forma expresa a él.
 Los demás tribunales especiales se regirán por las leyes que los establecen y reglamentan, sin perjuicio de quedar sujetos a las disposiciones generales de este Código.
 Los jueces árbitros se regirán por el Título IX de este Código.
@@ -86,7 +86,7 @@ Art. 12. El Poder Judicial es independiente de toda otra autoridad en el ejercic
 Art. 13. Las decisiones o decretos que los jueces expidan en los negocios de que conozcan no les impondrán responsabilidad sino en los casos expresamente determinados por la ley.
 
 ## Título II
-De los juzgados de garantía y de los tribunales orales en lo penal
+De los juzgados de garantía y de los tribunales de juicio oral en lo penal
 
 ### Párrafo 1º
 De los juzgados de garantía.
@@ -96,8 +96,10 @@ Corresponderá a los jueces de garantía:
 a) Asegurar los derechos del imputado y demás intervinientes en el proceso penal, de acuerdo a la ley procesal penal;
 b) Dirigir personalmente las audiencias que procedan, de conformidad a la ley procesal penal;
 c) Dictar sentencia, cuando corresponda, en el procedimiento abreviado que contemple la ley procesal penal;
-d) Conocer y fallar las faltas penales de conformidad con el procedimiento contenido en la ley procesal penal, y
-e) Conocer y resolver todas las cuestiones y asuntos que este Código y la ley procesal penal les encomienden.
+d) Conocer y fallar las faltas penales de conformidad con el procedimiento contenido en la ley procesal penal;
+e) Conocer y fallar, conforme a los procedimientos regulados en el Título I del Libro IV del Código Procesal Penal, las faltas e infracciones contempladas en la Ley de Alcoholes, cualquiera sea la pena que ella les asigne;
+f) Hacer ejecutar las condenas criminales y las medidas de seguridad, y resolver las solicitudes y reclamos relativos a dicha ejecución, de conformidad a la ley procesal penal, y
+g) Conocer y resolver todas las cuestiones y asuntos que este Código y la ley procesal penal les encomienden.
 
 Art. 15. La distribución de las causas entre los jueces de los juzgados de garantía se realizará de acuerdo a un procedimiento objetivo y general, que deberá ser anualmente aprobado por el comité de jueces del juzgado a propuesta del juez presidente, o sólo por este último, según corresponda.
 
@@ -210,25 +212,30 @@ Talagante, con cuatro jueces, con competencia sobre las comunas de Talagante, El
 Peñaflor, con tres jueces, con competencia sobre las comunas de Peñaflor y Padre Hurtado.
 
 ### Párrafo 2º
-De los tribunales orales en lo penal
+De los tribunales de juicio oral en lo penal
 
-Art. 17. Los tribunales orales en lo penal funcionarán en una o más salas integradas por tres de sus miembros.
-Cada sala será dirigida por un juez presidente de sala, quien tendrá las atribuciones a que alude el artículo 92 y las demás de orden que la ley procesal penal indique.
-La integración de las salas de estos tribunales se determinará mediante sorteo anual que se efectuará durante el mes de enero de cada año.
+Art. 17. Los tribunales de juicio oral en lo penal funcionarán en una o más salas integradas por tres de sus miembros.
+Cada sala será dirigida por un juez presidente de sala, quien tendrá las atribuciones a que alude el artículo 92 y las demás de orden que la ley procesal penal indique. Sin perjuicio de lo anterior, podrán integrar también cada sala otros jueces en calidad de alternos, con el solo propósito de subrogar, si fuere necesario, a los miembros que se vieren impedidos de continuar participando en el desarrollo del juicio oral, en los términos que contemplan los artículos 76, inciso final, y 281, inciso quinto, del Código Procesal Penal.
+La integración de las salas de estos tribunales, incluyendo a los jueces alternos de cada una, se determinará mediante sorteo anual que se efectuará durante el mes de enero de cada año.
 La distribución de las causas entre las diversas salas se hará de acuerdo a un procedimiento objetivo y general que deberá ser anualmente aprobado por el comité de jueces del tribunal, a propuesta del juez presidente.
 
-Art. 18. Corresponderá a los tribunales orales en lo penal:
-a) Conocer y juzgar las causas por crimen o simple delito;
-b) Resolver todos los incidentes que se promuevan durante el juicio oral, y
-c) Conocer y resolver los demás asuntos que la ley procesal penal les encomiende.
+Art. 18. Corresponderá a los tribunales de juicio oral en lo penal:
+a) Conocer y juzgar las causas por crimen o simple delito, salvo aquellas relativas a simples delitos cuyo conocimiento y fallo corresponda a un juez de garantía;
+b) Resolver, en su caso, sobre la libertad o prisión preventiva de los acusados puestos a su disposición;
+c) Resolver todos los incidentes que se promuevan durante el juicio oral, y
+d) Conocer y resolver los demás asuntos que la ley procesal penal les encomiende.
 
-Art. 19. Las decisiones de los tribunales orales en lo penal se regirán, en lo que no resulte contrario a las normas de este párrafo, por las reglas sobre acuerdos en las Cortes de Apelaciones contenidas en los artículos 72, 81, 83, 84 y 89 de este Código.
+Art. 19. Las decisiones de los tribunales de juicio oral en lo penal se regirán, en lo que no resulte contrario a las normas de este párrafo, por las reglas sobre acuerdos en las Cortes de Apelaciones contenidas en los artículos 72, 81, 83, 84 y 89 de este Código.
+Sólo podrán concurrir a las decisiones del tribunal los jueces que hubieren asistido a la totalidad de la audiencia del juicio oral.
+La decisión deberá ser adoptada por la mayoría de los miembros de la sala.
+Cuando existiere dispersión de votos en relación con una decisión, la sentencia o la determinación de la pena si aquélla fuere condenatoria, el juez que sostuviere la opinión más desfavorable al condenado deberá optar por alguna de las otras.
+Si se produjere desacuerdo acerca de cuál es la opinión que favorece más al imputado, prevalecerá la que cuente con el voto del juez presidente de la sala.
 
-Art. 20. El tribunal oral en lo penal podrá imponer la pena de muerte sólo si existe acuerdo unánime de todos los miembros de la sala. Cuando resulte simple mayoría, se aplicará la pena inmediatamente inferior en grado.
+Art. 20. El tribunal de juicio oral en lo penal podrá imponer la pena de muerte sólo si existe acuerdo unánime de todos los miembros de la sala. Cuando resulte simple mayoría, se aplicará la pena inmediatamente inferior en grado.
 Si el tribunal pronuncia una condena a muerte procederá, a continuación, a deliberar sobre si el condenado parece digno de indulgencia y sobre qué pena proporcionada a su culpabilidad podría sustituir a la de muerte. El resultado de esta deliberación será consignado en un oficio que el tribunal remitirá oportunamente al Ministerio de Justicia, junto con una copia de la sentencia definitiva.
 El Ministerio hará llegar los antecedentes al Presidente de la República a fin de que resuelva si ha o no lugar a la conmutación de pena o al indulto.
 
-Art. 21. Existirá un tribunal oral en lo penal con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indican:
+Art. 21. Existirá un tribunal de juicio oral en lo penal con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indican:
 Primera Región de Tarapacá:
 Arica, con seis jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones.
 Iquique, con nueve jueces, con competencia sobre las comunas de Huara, Camiña, Colchane, Iquique, Pozo Almonte y Pica.
@@ -287,14 +294,14 @@ San Bernardo, con nueve jueces, con competencia sobre las comunas de San Bernard
 Melipilla, con seis jueces, con competencia sobre las comunas de Melipilla, María Pinto, Curacaví, San Pedro y Alhué.
 Talagante, con seis jueces, con competencia sobre las comunas de Talagante, Peñaflor, El Monte, Isla de Maipo y Padre Hurtado.
 
-Art. 21 A. Cuando sea necesario para facilitar la aplicación oportuna de la justicia penal, de conformidad a criterios de distancia, acceso físico y dificultades de traslado de quienes intervienen en el proceso, los tribunales orales en lo penal se constituirán y funcionarán en localidades situadas fuera de su lugar de asiento.
-Corresponderá a la respectiva Corte de Apelaciones determinar anualmente la periodicidad y forma con que los tribunales orales en lo penal darán cumplimiento a lo dispuesto en este artículo. Sin perjuicio de ello, la Corte podrá disponer en cualquier momento la constitución y funcionamiento de un tribunal oral en lo penal en una localidad fuera de su asiento, cuando la mejor atención de uno o más casos así lo aconseje.
-La Corte de Apelaciones adoptará esta medida previo informe de la Corporación Administrativa del Poder Judicial y de los jueces presidentes de los comités de jueces de los tribunales orales en lo penal correspondientes.
+Art. 21 A. Cuando sea necesario para facilitar la aplicación oportuna de la justicia penal, de conformidad a criterios de distancia, acceso físico y dificultades de traslado de quienes intervienen en el proceso, los tribunales de juicio oral en lo penal se constituirán y funcionarán en localidades situadas fuera de su lugar de asiento.
+Corresponderá a la respectiva Corte de Apelaciones determinar anualmente la periodicidad y forma con que los tribunales de juicio oral en lo penal darán cumplimiento a lo dispuesto en este artículo. Sin perjuicio de ello, la Corte podrá disponer en cualquier momento la constitución y funcionamiento de un tribunal de juicio oral en lo penal en una localidad fuera de su asiento, cuando la mejor atención de uno o más casos así lo aconseje.
+La Corte de Apelaciones adoptará esta medida previo informe de la Corporación Administrativa del Poder Judicial y de los jueces presidentes de los comités de jueces de los tribunales de juicio oral en lo penal correspondientes.
 
 ### Párrafo 3º
 Del Comité de Jueces
 
-Art. 22. En los juzgados de garantía en los que sirvan tres o más jueces y en cada tribunal oral en lo penal, habrá un comité de jueces, que estará integrado en la forma siguiente:
+Art. 22. En los juzgados de garantía en los que sirvan tres o más jueces y en cada tribunal de juicio oral en lo penal, habrá un comité de jueces, que estará integrado en la forma siguiente:
 En aquellos juzgados o tribunales compuestos por cinco jueces o menos, el comité de jueces se conformará por todos ellos.
 En aquellos juzgados o tribunales conformados por más de cinco jueces, el comité lo compondrán los cinco jueces que sean elegidos por la mayoría del tribunal, cada dos años.
 De entre los miembros del comité de jueces se elegirá al juez presidente, quien durará dos años en el cargo y podrá ser reelegido hasta por un nuevo período.
@@ -331,14 +338,14 @@ El desempeño de la función de juez presidente del comité de jueces del juzgad
 Tratándose de los juzgados de garantía en los que se desempeñe un solo juez, éste tendrá las atribuciones del juez presidente, con excepción de las contempladas en las letras a) y c). Las atribuciones de las letras h) y j) las ejercerá el juez ante el Presidente de la Corte de Apelaciones respectiva.
 En aquellos juzgados de garantía conformados por dos jueces, las atribuciones del juez presidente, con las mismas excepciones señaladas en el inciso anterior, se radicarán anualmente en uno de ellos, empezando por el más antiguo.
 
-### § 5. De la organización administrativa de los juzgados de garantía y de los tribunales orales en lo penal.
+### § 5. De la organización administrativa de los juzgados de garantía y de los tribunales de juicio oral en lo penal.
 
-Art. 25. Los juzgados de garantía y los tribunales orales en lo penal se organizarán en unidades administrativas para el cumplimiento eficaz y eficiente de las siguientes funciones:
+Art. 25. Los juzgados de garantía y los tribunales de juicio oral en lo penal se organizarán en unidades administrativas para el cumplimiento eficaz y eficiente de las siguientes funciones:
 1.- Sala, que consistirá en la organización y asistencia a la realización de las audiencias.
 2.- Atención de público, destinada a otorgar una adecuada atención, orientación e información al público que concurra al juzgado o tribunal, especialmente a la víctima, al defensor y al imputado, recibir la información que éstos entreguen y manejar la correspondencia del juzgado o tribunal.
 3.- Servicios, que reunirá las labores de soporte técnico de la red computacional del juzgado o tribunal, de contabilidad y de apoyo a la actividad administrativa del juzgado o tribunal, y la coordinación y abastecimiento de todas las necesidades físicas y materiales para la realización de las audiencias.
-4.- Administración de causas, que consistirá en desarrollar toda la labor relativa al manejo de causas y registros del proceso penal en el juzgado o tribunal, incluidas las relativas al manejo de las fechas y salas para las audiencias; al archivo judicial básico, al ingreso y al número de rol de las causas nuevas; a la primera audiencia judicial de los detenidos; a la actualización diaria de la base de datos que contenga las causas del juzgado o tribunal, y a las estadísticas básicas del juzgado o tribunal.
-5.- Apoyo a testigos y peritos, destinada a brindar adecuada y rápida atención, información y orientación a los testigos y peritos citados a declarar en el transcurso de un juicio oral. Esta función existirá solamente en los tribunales orales en lo penal.
+4.- Administración de causas, que consistirá en desarrollar toda la labor relativa a las notificaciones; al manejo de causas y registros del proceso penal en el juzgado o tribunal, incluidas las relativas al manejo de las fechas y salas para las audiencias; al archivo judicial básico, al ingreso y al número de rol de las causas nuevas; a la primera audiencia judicial de los detenidos; a la actualización diaria de la base de datos que contenga las causas del juzgado o tribunal, y a las estadísticas básicas del juzgado o tribunal.
+5.- Apoyo a testigos y peritos, destinada a brindar adecuada y rápida atención, información y orientación a los testigos y peritos citados a declarar en el transcurso de un juicio oral. Esta función existirá solamente en los tribunales de juicio oral en lo penal.
 
 Art. 26. Corresponderá a la Corporación Administrativa del Poder Judicial determinar, en la ocasión a que se refiere el inciso segundo del artículo 498, las unidades administrativas con que cada juzgado o tribunal contará para el cumplimiento de las funciones señaladas en el artículo anterior.
 
@@ -539,12 +546,15 @@ b) De las causas de minas, cualquiera que sea su cuantía. Se entiende por causa
 c) De los actos judiciales no contenciosos, cualquiera sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil;
 d) Derogado.
 e) Derogado.
-f) De las infracciones a la Ley de Alcoholes que trata el Libro II de dicha ley, con excepción de las contempladas en los artículos 113 y 117, que se cometan fuera de la comuna asiento del tribunal.
-No obstante, las infracciones mencionadas en el inciso anterior que se cometan dentro del territorio jurisdiccional de Juzgados de Letras con competencia exclusiva en lo criminal de la Región Metropolitana de Santiago, serán juzgadas por el respectivo tribunal.
+f) Derogad
+NOTA
+o.
 g) De las causas civiles y de comercio cuya cuantía sea inferior a las señaladas en las letras a) y b), del N° 1 de este artículo, en que sean parte o tengan interés los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, el General Director de Carabineros, los Ministros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos tribunales, los jueces letrados, los párrocos y vicepárrocos, los cónsules generales, cónsules o vicecónsules de las naciones extranjeras reconocidas por el Presidente de la República, las corporaciones y fundaciones de derecho público o los establecimientos públicos de beneficencia y
 h) De las causas del trabajo y de menores cuyo conocimiento no corresponda a los juzgados de letras del trabajo y de menores respectivamente.
 3° Suprimido.
 4° De los demás asuntos que otras leyes les encomienden.
+NOTA
+El artículo 1° N° 6 de la ley 19708, publicada el 05.01.2001, deroga las letras d) y e), no obstante que fueron derogadas previamente por el artículo 11 de la ley 19665.
 
 Art. 46. Los jueces de letras que cumplan, además de sus funciones propias, las de juez de garantía, tendrán la competencia señalada en el artículo 14 de este Código.
 
@@ -634,16 +644,22 @@ Se entenderá que hay retardo cuando dividido el total de causas en estado de ta
 Producido este caso y si no bastaren los relatores en propiedad, el tribunal designará por mayoría de votos los relatores interinos que estime conveniente, quienes gozarán durante el tiempo en que sirvieren de igual remuneración que los propietarios.
 
 Art. 63. Las Cortes de Apelaciones conocerán:
-1°) En segunda instancia, de las causas civiles, criminales y del trabajo y de los actos no contenciosos de que hayan conocido en primera los jueces de letras de su territorio jurisdiccional o uno de sus ministros.
-2°) En única instancia:
-a) De los recursos de casación en la forma que se interpongan en contra de las sentencias dictadas por los tribunales indicados en el número anterior y de las sentencias definitivas de primera instancia dictadas por jueces árbitros, y
-b) De los recursos de queja que se deduzcan en contra de jueces de letras, jueces de policía local, jueces árbitros y órganos que ejerzan jurisdicción, dentro de su territorio jurisdiccional.
-3°) De las consultas de las sentencias civiles y criminales dictadas por esos mismos tribunales.
-4°) En primera instancia:
-a) De los desafueros de las personas a quienes les fueren aplicables los incisos segundo, tercero y cuarto del artículo 58 de la Constitución Política de la República;
-b) De los recursos de amparo y de protección; y
-c) De los procesos por amovilidad que se entablen en contra de los jueces de letras.
-5°) De los demás asuntos que otras leyes les encomienden.
+1º En única instancia:
+a) De los recursos de casación en la forma que se interpongan en contra de las sentencias dictadas por los jueces de letras de su territorio jurisdiccional o por uno de sus ministros, y de las sentencias definitivas de primera instancia dictadas por jueces árbitros.
+b) De los recursos de nulidad interpuestos en contra de las sentencias definitivas dictadas por un tribunal con competencia en lo criminal, cuando corresponda de acuerdo a la ley procesal penal;
+c) De los recursos de queja que se deduzcan en contra de jueces de letras, jueces de policía local, jueces árbitros y órganos que ejerzan jurisdicción, dentro de su territorio jurisdiccional;
+d) De la extradición activa, y
+e) De las solicitudes que se formulen, de conformidad a la ley procesal, para declarar si concurren las circunstancias que habilitan a la autoridad requerida para negarse a proporcionar determinada información, siempre que la razón invocada no fuere que la publicidad pudiere afectar la seguridad nacional.
+2º En primera instancia:
+a) De los desafueros de las personas a quienes les fueren aplicables los incisos segundo, tercero y cuarto del artículo 58 de la Constitución Política;
+b) De los recursos de amparo y protección, y
+c) De los procesos por amovilidad que se entablen en contra de los jueces de letras, y
+d) De las querellas de capítulos.
+3º En segunda instancia:
+a) De las causas civiles y del trabajo y de los actos no contenciosos de que hayan conocido en primera los jueces de letras de su territorio jurisdiccional o uno de sus ministros, y
+b) De las apelaciones interpuestas en contra de las resoluciones dictadas por un juez de garantía.
+4º De las consultas de las sentencias civiles dictadas por los jueces de letras.
+5º De los demás asuntos que otras leyes les encomienden.
 
 Art. 64. La Corte de Santiago conocerá de los recursos de apelación y de casación en la forma que incidan en las causas de que haya conocido en primera instancia su Presidente.
 
@@ -664,8 +680,11 @@ Art. 68. Las Cortes de Apelaciones resolverán los asuntos en cuenta o previa vi
 Art. 69. Los Presidentes de las Cortes de Apelaciones formarán el último día hábil de cada semana una tabla de los asuntos que verá el tribunal en la semana siguiente, que se encuentren en estado de relación. Se consideran expedientes en estado de relación aquellos que hayan sido previamente revisados y certificados al efecto por el relator que corresponda.
 En las Cortes de Apelaciones que consten de más de una sala se formarán tantas tablas cuantas sea el número de salas y se distribuirán entre ellas por sorteo, en audiencia pública.
 En las tablas deberá designarse un día de la semana, a lo menos, para conocer las causas criminales, sin perjuicio de la preferencia que la ley o el tribunal les acuerden.
-Sin embargo, los recursos de amparo, las apelaciones que se deduzcan en un mismo proceso respecto del auto de procesamiento de cualquiera de los inculpados de la resolución que no da lugar a pronunciarlo, o que acoge o rechaza la petición de modificarlo o dejarlo sin efecto, y las apelaciones o consultas relativas a la libertad provisional de esos inculpados o procesados, serán de la competencia de la sala que haya conocido por primera vez de los recursos, apelaciones o consultas mencionados.
-La radicación señalada en el inciso precedente operará incluso si no se procediere a la vista de la causa por desistimiento del recurrente o por cualquier otro motivo.
+Sin embargo, los recursos de amparo y las apelaciones relativas a la libertad de los imputados u otras medidas cautelares personales en su contra serán de competencia de la sala que haya conocido por primera vez del recurso o de la apelación, o que hubiere sido designada para tal efecto, aunque no hubiere entrado a conocerlos.
+Serán agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, en casos urgentes:
+1º Las apelaciones relativas a la prisión preventiva de los imputados u otras medidas cautelares personales en su contra;
+2º Los recursos de amparo, y
+3º Las demás que determinen las leyes.
 Serán agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, en casos urgentes: 1° las apelaciones y consultas relativas a la libertad provisional de los inculpados y procesados; 2° los recursos de amparo; y 3° las demás que determinen las leyes.
 Se agregarán extraordinariamente, también, las apelaciones de las resoluciones relativas al auto de procesamiento señaladas en el inciso cuarto, en causas en que haya procesados privados de libertad. La agregación se hará a la tabla del día que determine el Presidente de la Corte, dentro del término de cinco días desde el ingreso de los autos a la Secretaría del Tribunal.
 
@@ -674,7 +693,7 @@ Para dictar las providencias de mera sustanciación bastará un solo ministro.
 Se entienden por providencias de mera sustanciación las que tienen por objeto dar curso progresivo a los autos, sin decidir ni prejuzgar ninguna cuestión debatida entre partes.
 Sin embargo, deberán dictarse por la sala respectiva las resoluciones de tramitación que procedan cuando ya estén conociendo de un asunto.
 
-Art. 71. La vista y conocimiento en cuenta de las causas y asuntos incidentales de las Cortes de Apelaciones, se regirán por las reglas de los Códigos de Procedimiento Civil y Penal.
+Art. 71. La vista y conocimiento en cuenta de las causas y asuntos incidentales de las Cortes de Apelaciones, se regirán por las reglas de los Códigos de Procedimiento Civil y de Procedimiento Penal o Procesal Penal, según corresponda.
 
 ### § 2. Los Acuerdos de las Cortes de Apelaciones
 
@@ -682,8 +701,7 @@ Art. 72. Las Cortes de Apelaciones deberán funcionar, para conocer y decidir lo
 
 Art. 73. Derogado.
 
-Art. 74. Si en materia criminal la mitad de los votos se uniforma a favor del procesado, ya sea para absolverlo, ya sea para imponerle una pena menor que la que le asignan los votos de los demás jueces, aquella opinión formará sentencia.
-Si se produce empate acerca de cuál es la opinión que favorece más al procesado, prevalecerá la que cuente con el voto del miembro más antiguo del tribunal.
+Art. 74. Si con ocasión de conocer alguna causa en materia criminal, se produce una dispersión de votos entre los miembros de la Corte, se seguirá las reglas señaladas para los tribunales de juicio oral en lo penal.
 
 Art. 75. No podrán tomar parte en ningún acuerdo los que no hubieren concurrido como jueces a la vista del negocio.
 
@@ -762,8 +780,8 @@ La Corte Suprema
 
 ### § 1. Su organización y atribuciones
 
-Art. 93. La Corte Suprema se compondrá de diecisiete miembros, uno de los cuales será su Presidente.
-El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones tres años, no pudiendo ser reelegido.
+Art. 93. La Corte Suprema se compondrá de veintiún miembros, uno de los cuales será su Presidente.
+El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones dos años, no pudiendo ser reelegido.
 Los demás miembros se llamarán ministros y gozarán de precedencia los unos respecto de los otros por el orden de su antigüedad.
 La Corte Suprema tendrá un fiscal judicial, un secretario, un prosecretario y ocho relatores.
 
@@ -787,17 +805,20 @@ Art. 96. Corresponde a la Corte Suprema en pleno:
 7° Conocer de todos los asuntos que leyes especiales le encomiendan expresamente.
 Todos los autos acordados de carácter y aplicación general que dicte la Corte Suprema deberán ser publicados en el Diario Oficial.
 
-Art. 97. Las sentencias que dicte la Corte Suprema al fallar recursos de casación de fondo, de forma, de queja, de protección, de amparo y de revisión no son susceptibles de recurso alguno, salvo el de aclaración, rectificación o enmienda que establece el artículo 182 del Código de Procedimiento Civil. Toda reposición o reconsideración a las resoluciones a que se refiere este artículo es inadmisible y será rechazada de plano por el Presidente de la Corte, salvo la reposición que se establece en los artículos 778, 781 y 782 del Código de Procedimiento Civil.
+Art. 97. Las sentencias que dicte la Corte Suprema al fallar los recursos de casación de fondo y forma, de nulidad en materia penal, de queja, de protección y de amparo, así como la revisión de sentencias firmes, no son susceptibles de recurso alguno, salvo el de aclaración, rectificación y enmienda que establece el artículo 182 del Código de Procedimiento Civil.
+Toda solicitud de reposición o reconsideración de las resoluciones a que se refiere este artículo será inadmisible y rechazada de plano por el Presidente de la Corte, salvo si se pide la reposición a que se refieren los artículos 778, 781 y 782 del Código de Procedimiento Civil.
 
 Art. 98. Las salas de la Corte Suprema conocerán:
 1.- De los recursos de casación en el fondo:
 2.- De los recursos de casación en la forma interpuestos contra las sentencias dictadas por las Cortes de Apelaciones o por un tribunal arbitral de segunda instancia constituido por árbitros de derecho en los casos en que estos árbitros hayan conocido de negocios de la competencia de dichas Cortes;
-3.- De las apelaciones deducidas contra las sentencias dictadas por las Cortes de Apelaciones en los recursos de amparo y de protección;
-4.- De los recursos de revisión;
-5.- En segunda instancia, de las causas a que se refieren los números 2° y 3° del artículo 53;
-6.- De los recursos de queja, pero la aplicación de medidas disciplinarias será de la competencia del tribunal pleno;
-7.- De los recursos de queja en juicio de cuentas contra las sentencias de segunda instancia dictadas con falta o abuso, con el solo objeto de poner pronto remedio al mal que lo motiva, y
-8.- De los demás negocios judiciales de que corresponda conocer a la Corte Suprema y que no estén entregados expresamente al conocimiento del pleno.
+3.- De los recursos de nulidad interpuestos en contra de las sentencias definitivas dictadas por los tribunales con competencia en lo criminal, cuando corresponda de acuerdo a la ley procesal penal;
+4.- De las apelaciones deducidas contra las sentencias dictadas por las Cortes de Apelaciones en los recursos de amparo y de protección;
+5.- De los recursos de revisión y de las resoluciones que recaigan sobre las querellas de capítulos;
+6.- En segunda instancia, de las causas a que se refieren los números 2° y 3° del artículo 53;
+7.- De los recursos de queja, pero la aplicación de medidas disciplinarias será de la competencia del tribunal pleno;
+8.- De los recursos de queja en juicio de cuentas contra las sentencias de segunda instancia dictadas con falta o abuso, con el solo objeto de poner pronto remedio al mal que lo motiva;
+9.- De las solicitudes que se formulen, de conformidad a la ley procesal, para declarar si concurren las circunstancias que habilitan a la autoridad requerida para negarse a proporcionar determinada información o para oponerse a la entrada y registro de lugares religiosos, edificios en que funcione una autoridad pública o recintos militares o policiales.
+10.- De los demás negocios judiciales de que corresponda conocer a la Corte Suprema y que no estén entregados expresamente al conocimiento del pleno.
 
 Art. 99. Corresponderá a la Corte Suprema, mediante auto acordado, establecer cada dos años las materias de que conocerá cada una de las salas en que ésta se divida, tanto en funcionamiento ordinario como extraordinario. Al efecto, especificará la o las salas que conocerán de materias civiles, penales, constitucionales, contencioso administrativas, laborales, de menores, tributarias u otras que el propio tribunal determine. Asimismo, señalará la forma y periodicidad en que las salas especializadas decidirán acerca de las materias indicadas en el inciso primero del artículo 781 y en los incisos primero y segundo del artículo 782, ambos del Código de Procedimiento Civil, respecto de los recursos de casación que hayan ingresado hasta quince días antes de la fecha en que se deba resolver sobre la materia. En todo caso, la mencionada periodicidad no podrá ser superior a tres meses.
 Corresponderá al Presidente de la Corte Suprema, sin ulterior recurso, asignar los asuntos a cada una de las salas, según la materia en que incidan, en conformidad a lo dispuesto en el inciso anterior.
@@ -816,7 +837,7 @@ El Presidente de la Corte Suprema dará cuenta en esta audiencia:
 4°) De las dudas y dificultades que hayan ocurrido a la Corte Suprema y a las Cortes de Apelaciones en la inteligencia y aplicación de las leyes y de los vacíos que se noten en ellas y de que se haya dado cuenta al Presidente de la República en cumplimiento del artículo 5° del Código Civil.
 Esta exposición será publicada en el Diario Oficial y en la Gaceta de los Tribunales.
 
-Art. 103. Es aplicable a la Corte Suprema lo dispuesto para los acuerdos de los tribunales orales en lo penal en los artículos 19 y 20, y de las Cortes de Apelaciones en los artículos 72, 74 y siguientes, hasta el 89 inclusive.
+Art. 103. Es aplicable a la Corte Suprema lo dispuesto para los acuerdos de los tribunales de juicio oral en lo penal en los artículos 19 y 20, y de las Cortes de Apelaciones en los artículos 72, 74 y siguientes, hasta el 89 inclusive.
 
 Art. 104. Dentro de las horas ordinarias de su funcionamiento y antes de la vista de las causas, el tribunal se ocupará con preferencia, según el orden que fije el Presidente, en los asuntos que deban resolverse en cuenta, en el estudio de proyectos de sentencias, y en el acuerdo de las mismas.
 
@@ -857,7 +878,9 @@ Lo es también para conocer de las cuestiones que se susciten por vía de reconv
 Art. 112. Siempre que según la ley fueren competentes para conocer de un mismo asunto dos o más tribunales, ninguno de ellos podrá excusarse del conocimiento bajo el pretexto de haber otros tribunales que puedan conocer del mismo asunto; pero el que haya prevenido en el conocimiento excluye a los demás, los cuales cesan desde entonces de ser competentes.
 
 Art. 113. La ejecución de las resoluciones corresponde a los tribunales que las hubieren pronunciado en primera o en única instancia.
-No obstante, los tribunales que conozcan de los recursos de apelación, casación o revisión, ejecutarán los fallos que dictaren para la sustanciación de dichos recursos. Podrán también decretar el pago de las costas adeudadas a los funcionarios que hubieren intervenido en ellos, reservando el de las demás costas para que sea decretado por el tribunal de primera instancia.
+No obstante, la ejecución de las sentencias penales y de las medidas de seguridad previstas en la ley procesal penal será de competencia del juzgado de garantía que hubiere intervenido en el respectivo procedimiento penal.
+De igual manera, los tribunales que conozcan de la revisión de las sentencias firmes o de los recursos de apelación, de casación o de nulidad contra sentencias definitivas penales, ejecutarán los fallos que dicten para su sustanciación.
+Podrán también decretar el pago de las costas adeudadas a los funcionarios que hubieren intervenido en su tramitación, reservando el de las demás costas para que sea decretado por el tribunal de primera instancia.
 
 Art. 114. Siempre que la ejecución de una sentencia definitiva hiciere necesaria la iniciación de un nuevo juicio, podrá éste deducirse ante el tribunal que menciona el inciso primero del artículo precedente o ante el que sea competente en conformidad a los principios generales establecidos por la ley, a elección de la parte que hubiere obtenido en el pleito.
 
@@ -977,25 +1000,26 @@ Art. 156. Derogado.
 
 ### § 5. Reglas que determinan la competencia en materias criminales entre tribunales de igual jerarquía
 
-Art. 157. Será competente para conocer de un delito el tribunal en cuyo territorio se hubiere cometido el hecho que da motivo al proceso.
-Esta competencia, así como la de la Corte de Apelaciones que deba conocer en segunda instancia, no se alterará por razón de haber sido comprometidos por el delito intereses fiscales.
-Si el autor del delito se ausentare del lugar en que lo cometió, y fuere aprehendido en otro territorio jurisdiccional, será puesto inmediatamente a disposición del juez del lugar en que delinquió.
-El delito se considerará cometido en el lugar donde se dió comienzo a su ejecución.
+Art. 157. Será competente para conocer de un delito el tribunal en cuyo territorio se hubiere cometido el hecho que da motivo al juicio.
+El juzgado de garantía del lugar de comisión del hecho investigado conocerá de las gestiones a que diere lugar el procedimiento previo al juicio oral.
+El delito se considerará cometido en el lugar donde se hubiere dado comienzo a su ejecución.
+Sin perjuicio de lo dispuesto en el inciso segundo, cuando las gestiones debieren efectuarse fuera del territorio jurisdiccional del juzgado de garantía y se tratare de diligencias urgentes, la autorización judicial previa podrá ser concedida por el juez de garantía del lugar donde deban realizarse. Asimismo, si se suscitare conflicto de competencia entre jueces de varios juzgados de garantía, cada uno de ellos estará facultado para otorgar las autorizaciones o realizar las actuaciones urgentes, mientras no se dirimiere la competencia.
+La competencia a que se refiere este artículo, así como la de las Cortes de Apelaciones, no se alterará por razón de haber sido comprometidos por el hecho intereses fiscales.
 
-Art. 158. Si un individuo hubiere cometido varios delitos en diversos territorios jurisdiccionales será juzgado por el juez de aquél en que cometió el último delito.
+Art. 158. Derogado.
 
-Art. 159. Si el procesado hubiere cometido en varias comunas delitos de distinta gravedad, será competente para conocer de todos ellos el juez de aquellas comunas en que cometió el último crimen o, en su defecto, el último simple delito.
-Si los delitos se cometen en una comuna o agrupación de comunas en que existan dos o más juzgados de igual jurisdicción, será competente para conocer de los procesos que se deban acumular de acuerdo con el artículo siguiente, el juez que conozca del proceso más antiguo.
+Art. 159. Si en ejercicio de las facultades que la ley procesal penal confiere al Ministerio Público, éste decidiere investigar en forma conjunta hechos constitutivos de delito en los cuales, de acuerdo al artículo 157 de este Código, correspondiere intervenir a más de un juez de garantía, continuará conociendo de las gestiones relativas a dichos procedimientos el juez de garantía del lugar de comisión del primero de los hechos investigados.
+En el evento previsto en el inciso anterior, el Ministerio Público comunicará su decisión en cada uno de los procedimientos que se seguirán en forma conjunta, para lo cual solicitará la citación a una audiencia judicial de todos los intervinientes en ellos.
+El o los jueces de garantía inhibidos harán llegar copias de los registros que obraren en su poder al juez de garantía al que correspondiere continuar conociendo de las gestiones a que diere lugar el procedimiento.
+Sin perjuicio de lo previsto en los incisos precedentes, si el Ministerio Público decidiere posteriormente separar las investigaciones que llevare conjuntamente, continuarán conociendo de las gestiones correspondientes los jueces de garantía competentes de conformidad al artículo 157. En dicho evento se procederá del modo señalado en los incisos segundo y tercero de este artículo.
 
-Art. 160. El culpable de diversos delitos será juzgado por todos ellos en un solo proceso, para lo cual se acumularán las causas iniciadas o por iniciarse en su contra; y las personas que en ellas figuren como procesados quedarán sometidas a la jurisdicción del tribunal a quien corresponda conocer en los procesos acumulados.
-Sin perjuicio de la regla anterior, el Juez podrá ordenar por medio de un auto motivado la desacumulación de los procesos o su substanciación por cuerda separada, cuando éstos tengan una tramitación diferente o plazos especiales para su tramitación, o la acumulación determine un grave retardo en la substanciación de las causas. Los procesos separados seguirán tramitándose ante el mismo Juez a quien correspondía conocer de ellos acumulados y al fallarlos deberá considerar las sentencias que hayan sido dictadas con anterioridad en estos procesos. Si procediere unificar las penas, el Tribunal lo hará al dictar la última sentencia. Con todo, este último fallo no tomará en consideración las sentencias anteriores para apreciar las circunstancias modificatorias de responsabilidad penal.
-Cuando, siendo procedente la desacumulación, en alguno de los sumarios se investigue un delito cometido en otro territorio jurisdiccional, el juez podrá reenviar ese sumario al juez del territorio jurisdiccional donde se cometió el delito, encargándole la práctica de todas las diligencias determinadas de instrucción que puedan realizarse en aquel lugar y las que aparezcan en el curso de su indagación. El exhortante sólo dejará una relación sucinta del hecho investigado y de los datos necesarios para llevar a cabo las diligencias que haya de practicar. La tramitación de estos exhortos tendrá siempre carácter urgente.
+Art. 160. Derogado.
 
-Art. 161. Si un mismo procesado tuviere procesos pendientes por faltas y por crímenes o simples delitos, el juez de letras será el solo competente para conocer de todos ellos.
+Art. 161. Derogado.
 
 Art. 162. Derogado.
 
-Art. 163. Si no se pudiere establecer con precisión en qué comuna se ha cometido el delito, será competente el juez que primero comenzare a instruir el proceso, con tal que lo sea de alguna de las comunas respecto de las cuales se suscitare la duda. Si no se supiere cuál juez dio principio a la investigación, se aplicará la cuarta regla establecida en el artículo siguiente.
+Art. 163. Derogado.
 
 Art. 164. Cuando se dictaren distintas sentencias condenatorias en contra de un mismo imputado, los tribunales que dictaren los fallos posteriores al primero no podrán considerar circunstancias modificatorias que de haberse acumulado los procesos no se hubieren podido tomar en cuenta. Deberán, asimismo, regular la pena de modo tal que el conjunto de penas no pueda exceder de aquella que hubiere correspondido de haberse juzgado conjuntamente los delitos.
 En los casos del inciso anterior, el tribunal que dictare el fallo posterior deberá modificarlo, de oficio o a petición del afectado, a objeto de adecuarlo a lo allí dispuesto.
@@ -1008,7 +1032,7 @@ Art. 167. De los delitos a que se refiere el artículo sexto conocerán los trib
 
 Art. 168. Derogado.
 
-Art. 169. Si siendo muchos los responsables de un delito o de varios delitos conexos, hubiere entre ellos individuos sometidos a los tribunales militares y otros que no lo estén, el tribunal competente para juzgar a los que gozan de fuero juzgara también a todos los demás.
+Art. 169. Si siendo muchos los responsables de un delito, hubiere entre ellos individuos sometidos a los tribunales militares y otros que no lo estén, el tribunal competente para juzgar a los que gozan de fuero juzgara también a todos los demás.
 
 Art. 170. Derogado.
 
@@ -1016,10 +1040,12 @@ Art. 170 bis. Derogado.
 
 ### § 6. Reglas sobre competencia civil de los tribunales en lo criminal
 
-Art. 171. La acción civil derivada de un delito podrá ejercitarse ante el tribunal que conoce del respectivo proceso criminal; pero si dicha acción tuviere por objeto la mera restitución de una cosa, deberá ser deducida precisamente ante ese tribunal.
-Una vez deducida o acumulada la acción civil ante el juez del crimen, subsiste la competencia de éste, aunque después alguna de las partes sea, por otro juez, declarada en quiebra.
+Art. 171. La acción civil que tuviere por objeto únicamente la restitución de la cosa, deberá interponerse siempre ante el tribunal que conozca las gestiones relacionadas con el respectivo procedimiento penal.
+Dicho tribunal conocerá también todas las restantes acciones que la víctima deduzca respecto del imputado para perseguir las responsabilidades civiles derivadas del hecho punible, y que no interponga en sede civil.
+Con la excepción indicada en el inciso primero, las otras acciones encaminadas a obtener la reparación de las consecuencias civiles del hecho punible que interpusieren personas distintas de la víctima, o se dirigieren contra personas diferentes del imputado, sólo podrán interponerse ante el tribunal civil que fuere competente de acuerdo a las reglas generales.
+Será competente para conocer de la ejecución de la decisión civil de las sentencias definitivas dictadas por los jueces con competencia penal, el tribunal civil mencionado en el inciso anterior.
 
-Art. 172. El tribunal que conoce del proceso criminal es competente para resolver acerca de la responsabilidad civil que pueda afectar a terceros a consecuencia de un delito; y podrá adoptar, durante el juicio, las medidas necesarias para hacer a su tiempo efectiva esa responsabilidad.
+Art. 172. Derogado.
 
 Art. 173. Si en el juicio criminal se suscita cuestión sobre un hecho de carácter civil que sea uno de los elementos que la ley penal estime para definir el delito que se persigue, o para agravar o disminuir la pena, o para no estimar culpable al autor, el tribunal con competencia en lo criminal se pronunciará sobre tal hecho.
 Pero las cuestiones sobre validez de matrimonio y sobre cuentas fiscales, serán juzgadas previamente por el tribunal a quien la ley tiene encomendado el conocimiento de ellas.
@@ -1034,7 +1060,7 @@ El conocimiento de esas excepciones corresponde al tribunal en lo civil.
 Art. 175. En las comunas o agrupaciones de comunas en donde hubiere más de un juez de letras, se dividirá el ejercicio de la jurisdicción, estableciéndose un turno entre todos los jueces, salvo que la ley hubiere cometido a uno de ellos el conocimiento de determinadas especies de causas.
 El turno se ejercerá por semanas. Comenzará a desempeñarlo el juez más antiguo, y seguirán desempeñándolo todos los demás por el orden de su antigüedad.
 Cada juez de letras deberá conocer de todos los asuntos judiciales que se promuevan durante su turno, y seguirá conociendo de ellos hasta su conclusión.
-Lo dispuesto en este artículo no se aplicará a los juzgados de garantía ni a los tribunales orales en lo penal, que se regirán por las normas especiales que los regulan.
+Lo dispuesto en este artículo no se aplicará a los juzgados de garantía ni a los tribunales de juicio oral en lo penal, que se regirán por las normas especiales que los regulan.
 
 Art. 176. En los lugares de asiento de Corte en que hubiere más de un juez de letras en lo civil, deberá presentarse a la secretaría de la Corte toda demanda o gestión judicial que se iniciare y que deba conocer alguno de dichos jueces, a fin de que se designe el juez a quien corresponda su conocimiento.
 Esta designación se hará por el presidente del tribunal, previa cuenta dada por el secretario, asignando a cada causa un número de orden, según su naturaleza, y dejando constancia de ella en un libro llevado al efecto que no podrá ser examinado sin orden del tribunal.
@@ -1104,6 +1130,10 @@ Art. 195. Son causas de implicancia:
 8°) Haber el juez manifestado su dictamen sobre la cuestión pendiente, con conocimiento de los antecedentes necesarios para pronunciar sentencia; y
 9°) Ser el juez, su consorte, o alguno de sus ascendientes o descendientes legítimos, padres o hijos naturales o adoptivos, heredero instituído en testamento por alguna de las partes.
 Lo dicho en este artículo es sin perjuicio de lo dispuesto en el artículo 1324 y en los incisos tercero y cuarto del artículo 1325 del Código Civil.
+Respecto de los jueces con competencia criminal, son causas de implicancia, además, las siguientes:
+1º Haber intervenido con anterioridad en el procedimiento como fiscal o defensor;
+2º Haber formulado acusación como fiscal, o haber asumido la defensa, en otro procedimiento seguido contra el mismo imputado, y
+3º Haber actuado el miembro del tribunal de juicio oral en lo penal como juez de garantía en el mismo procedimiento.
 
 Art. 196. Son causas de recusación:
 1°) Ser el juez pariente consanguíneo simplemente ilegítimo en toda la línea recta y en la colateral hasta el cuarto grado inclusive, o consanguíneo legítimo en la línea colateral desde el tercero hasta el cuarto grado inclusive, o afín hasta el segundo grado también inclusive, de alguna de las partes o de sus representantes legales;
@@ -1169,16 +1199,16 @@ Para los efectos previstos en este artículo, las Cortes de Apelaciones fijarán
 
 Art. 208. Cuando no resultare aplicable ninguna de las reglas anteriores, actuará como subrogante un juez de garantía, a falta de éste un juez de letras con competencia común o, en defecto de ambos, el secretario letrado de este último, que dependan de la Corte de Apelaciones más cercana. Regirán con este objeto las reglas previstas por los incisos segundo, tercero y cuarto del artículo 216.
 
-Art. 209. Los jueces de un juzgado de garantía sólo podrán subrogar a otros jueces de garantía, en los casos previstos en los artículos 206 a 208, y a jueces de tribunales orales en lo penal, en los casos a que se refiere el artículo siguiente.
+Art. 209. Los jueces de un juzgado de garantía sólo podrán subrogar a otros jueces de garantía, en los casos previstos en los artículos 206 a 208, y a jueces de tribunales de juicio oral en lo penal, en los casos a que se refiere el artículo siguiente.
 
-Art. 210. En todos los casos en que una sala de un tribunal oral en lo penal no pudiere constituirse conforme a la ley por falta de jueces que la integren, subrogará un juez perteneciente al mismo tribunal oral y, a falta de éste, un juez de otro tribunal oral en lo penal de la jurisdicción de la misma Corte, para lo cual se aplicarán análogamente los criterios de cercanía territorial previstos en el artículo 207. Para estos fines, se considerará el lugar en el que deba realizarse el juicio oral de que se trate.
-A falta de un juez de un tribunal oral en lo penal de la misma jurisdicción, lo subrogará un juez de juzgado de garantía de la misma comuna o agrupación de comunas, que no hubiere intervenido en la fase de investigación.
-Si no resultare posible aplicar ninguna de las reglas previstas en los incisos anteriores, sea porque los jueces pertenecientes a otros tribunales orales en lo penal o a los juzgados de garantía no pudieren conocer de la causa respectiva o por razones de funcionamiento de unos y otros, actuará como subrogante un juez perteneciente a algún tribunal oral en lo penal que dependa de la Corte de Apelaciones más cercana o, a falta de éste, un juez de un juzgado de garantía de esa otra jurisdicción. Regirán, con tal fin, las reglas previstas en los incisos segundo, tercero y cuarto del artículo 216.
+Art. 210. En todos los casos en que una sala de un tribunal de juicio oral en lo penal no pudiere constituirse conforme a la ley por falta de jueces que la integren, subrogará un juez perteneciente al mismo tribunal oral y, a falta de éste, un juez de otro tribunal de juicio oral en lo penal de la jurisdicción de la misma Corte, para lo cual se aplicarán análogamente los criterios de cercanía territorial previstos en el artículo 207. Para estos fines, se considerará el lugar en el que deba realizarse el juicio oral de que se trate.
+A falta de un juez de un tribunal de juicio oral en lo penal de la misma jurisdicción, lo subrogará un juez de juzgado de garantía de la misma comuna o agrupación de comunas, que no hubiere intervenido en la fase de investigación.
+Si no resultare posible aplicar ninguna de las reglas previstas en los incisos anteriores, sea porque los jueces pertenecientes a otros tribunales de juicio oral en lo penal o a los juzgados de garantía no pudieren conocer de la causa respectiva o por razones de funcionamiento de unos y otros, actuará como subrogante un juez perteneciente a algún tribunal de juicio oral en lo penal que dependa de la Corte de Apelaciones más cercana o, a falta de éste, un juez de un juzgado de garantía de esa otra jurisdicción. Regirán, con tal fin, las reglas previstas en los incisos segundo, tercero y cuarto del artículo 216.
 En defecto de las reglas precedentes, resultará aplicable lo dispuesto en el artículo 213 o, si ello no resultare posible, se postergará la realización del juicio oral hasta la oportunidad más próxima en que alguna de tales disposiciones resultare aplicable.
 
-Art. 210 A. Los jueces pertenecientes a los tribunales orales en lo penal sólo subrogarán a otros jueces de esos tribunales, de conformidad a lo dispuesto en el artículo anterior.
+Art. 210 A. Los jueces pertenecientes a los tribunales de juicio oral en lo penal sólo subrogarán a otros jueces de esos tribunales, de conformidad a lo dispuesto en el artículo anterior.
 
-Art. 210 B. Si con ocasión de la aplicación de las reglas previstas en los artículos anteriores hubiere más de un juez que debiere subrogar al juez del juzgado de garantía o al juez del tribunal oral en lo penal, la subrogación se hará por orden de antigüedad, comenzando por el menos antigüo.
+Art. 210 B. Si con ocasión de la aplicación de las reglas previstas en los artículos anteriores hubiere más de un juez que debiere subrogar al juez del juzgado de garantía o al juez del tribunal de juicio oral en lo penal, la subrogación se hará por orden de antigüedad, comenzando por el menos antigüo.
 
 Art. 211. En todos los casos en que el juez de letras falte o no pueda conocer de determinados negocios, será subrogado por el secretario del mismo tribunal siempre que sea abogado.
 Sólo a falta de dicho secretario la subrogación se efectuará en la forma que se establece en los artículos siguientes.
@@ -1197,7 +1227,7 @@ En tales casos, la subrogación sólo durará el tiempo de la ausencia.
 El secretario dará cuenta mensualmente de estas subrogaciones a la respectiva Corte de Apelaciones, la que deberá dictar las providencias del caso, si este hecho ocurriere con relativa frecuencia.
 Los subrogantes sólo podrán dictar sentencias definitivas en aquellos negocios en que conozcan por inhabilidad, implicancia o recusación del titular; pero esta limitación no regirá cuando el subrogante sea un juez de letras, el defensor público o el secretario del respectivo juzgado.
 No obstante lo dispuesto en los artículos anteriores, el Secretario del Juzgado que no sea abogado subrogará al Juez para el solo efecto de dictar las providencias de mera substanciación, definidas en el artículo 70 del presente Código.
-En los juzgados de garantía y en los tribunales orales en lo penal corresponderá al jefe de la unidad administrativa que tenga a su cargo la función de administración de causas dejar constancia de la subrogación e informar mensualmente de ella a la Corte de Apelaciones.
+En los juzgados de garantía y en los tribunales de juicio oral en lo penal corresponderá al jefe de la unidad administrativa que tenga a su cargo la función de administración de causas dejar constancia de la subrogación e informar mensualmente de ella a la Corte de Apelaciones.
 
 Art. 215. Si por falta o inhabilidad de algunos de sus miembros quedare una Corte de Apelaciones o cualquiera de sus salas sin el número de jueces necesario para el conocimiento y resolución de las causas que les estuvieren sometidas, se integrarán con los miembros no inhabilitados del mismo tribunal, con sus fiscales y con los abogados que se designen anualmente con este objeto.
 El llamamiento de los integrantes se hará en el orden indicado y los abogados se llamarán por el orden de su designación en la lista de su nombramiento.
@@ -1331,7 +1361,7 @@ Art. 247. La inamovilidad de que habla el artículo 77 de la Constitución del E
 
 ### § 2. Requisitos, inhabilidades e incompatibilidades
 
-Art. 248. Para todos los efectos de este Código se entenderá que las referencias hechas a los jueces letrados o jueces de letras incluyen también a los jueces de juzgados de garantía y a los jueces de los tribunales orales en lo penal, salvo los casos en que la ley señale expresamente lo contrario.
+Art. 248. Para todos los efectos de este Código se entenderá que las referencias hechas a los jueces letrados o jueces de letras incluyen también a los jueces de juzgados de garantía y a los jueces de los tribunales de juicio oral en lo penal, salvo los casos en que la ley señale expresamente lo contrario.
 
 Art. 249. Derogado.
 
@@ -1365,7 +1395,7 @@ Art. 256. No pueden ser jueces:
 2°) Los sordos;
 3°) Los mudos;
 4°) Los ciegos;
-5°) Los que se hallaren procesados por crimen o simple delito;
+5°) Los que de conformidad a la ley procesal penal, se hallaren acusados por crimen o simple delito o estuvieren acogidos a la suspensión condicional del procedimiento;
 6°) Los que hubieren sido condenados por crimen o simple delito.
 Esta incapacidad no comprende a los condenados por delito contra la seguridad interior del Estado;
 7°) Los fallidos, a menos que hayan sido rehabilitados en conformidad a la ley; y
@@ -1411,9 +1441,9 @@ Inciso derogado.
 Art. 267. El Escalafón Primario tendrá las siguientes categorías:
 Primera Categoría: Presidente, ministros y fiscal judicial de la Corte Suprema.
 Segunda Categoría: Presidente, ministros y fiscales judiciales de las Cortes de Apelaciones, y relatores y secretario de la Corte Suprema.
-Tercera Categoría: Jueces de tribunales orales en lo penal de ciudad asiento de Corte de Apelaciones, jueces letrados de juzgados de ciudad asiento de Corte de Apelaciones, jueces de juzgados de garantía de ciudad asiento de Corte de Apelaciones y relatores y secretarios de Corte de Apelaciones.
-Cuarta Categoría: Jueces de tribunales orales en lo penal de ciudad asiento de capital de provincia, jueces letrados de juzgados de ciudad capital de provincia y jueces de juzgados de garantía de ciudad asiento de capital de provincia.
-Quinta Categoría: Jueces de tribunales orales en lo penal de comuna o agrupación de comunas, jueces letrados de juzgados de comuna o agrupación de comunas, jueces de juzgados de garantía de comuna o agrupación de comunas, y secretarios de juzgados de letras de ciudad asiento de Corte de Apelaciones.
+Tercera Categoría: Jueces de tribunales de juicio oral en lo penal de ciudad asiento de Corte de Apelaciones, jueces letrados de juzgados de ciudad asiento de Corte de Apelaciones, jueces de juzgados de garantía de ciudad asiento de Corte de Apelaciones y relatores y secretarios de Corte de Apelaciones.
+Cuarta Categoría: Jueces de tribunales de juicio oral en lo penal de ciudad asiento de capital de provincia, jueces letrados de juzgados de ciudad capital de provincia y jueces de juzgados de garantía de ciudad asiento de capital de provincia.
+Quinta Categoría: Jueces de tribunales de juicio oral en lo penal de comuna o agrupación de comunas, jueces letrados de juzgados de comuna o agrupación de comunas, jueces de juzgados de garantía de comuna o agrupación de comunas, y secretarios de juzgados de letras de ciudad asiento de Corte de Apelaciones.
 Sexta Categoría: Secretarios de juzgados de letras de capital de provincia, prosecretario de la Corte Suprema y secretario abogado del fiscal de ese mismo tribunal.
 Séptima Categoría: Secretarios de juzgados de letras de comuna o agrupación de comunas.
 Los relatores de la Corte Suprema y de las Cortes de Apelaciones se incorporarán a las categorías que respectivamente se les asignan en los términos del artículo 285.
@@ -1434,11 +1464,11 @@ Figurarán en la primera categoría los funcionarios de las cinco series que des
 En la segunda categoría, los funcionarios de las cinco series que desempeñen sus cargos en el territorio jurisdiccional de juzgados de capital de provincia.
 En la tercera categoría, los funcionarios de las cinco series que sirven sus cargos en el territorio jurisdiccional de juzgados de comuna o agrupación de comunas.
 La tercera serie, tendrá las siguientes categorías:
-Primera categoría: Administrador de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones.
-Segunda Categoría: Administrador de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y subadministrador de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones.
-Tercera categoría: Administrador de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, subadministrador de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, y jefe de unidad de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones.
-Cuarta categoría: Subadministrador de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, y jefe de unidad de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia.
-Quinta categoría: Jefe de unidad de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas.
+Primera categoría: Administrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones.
+Segunda Categoría: Administrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y subadministrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones.
+Tercera categoría: Administrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, subadministrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, y jefe de unidad de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones.
+Cuarta categoría: Subadministrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, y jefe de unidad de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia.
+Quinta categoría: Jefe de unidad de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas.
 
 #### 3). Formación del Escalafón y calificación del personal
 
@@ -1532,8 +1562,8 @@ El fiscal judicial de la Corte Suprema integrará el tribunal pleno de esa Corte
 Art. 283. Para proveer el cargo de ministro o fiscal judicial de la Corte Suprema, este tribunal enviará al Presidente de la República una lista de cinco personas, en la que deberá figurar el ministro más antiguo de Corte de Apelaciones que esté en lista de méritos. Los otros cuatro lugares se llenarán conforme a lo establecido en el inciso primero del artículo 281. Ello no obstante, podrán integrar la quina abogados extraños a la Administración de Justicia, elegidos por méritos.
 
 Art. 284. Para proveer los demás cargos del Escalafón Primario, se formarán ternas del modo siguiente:
-a) Para ministros y fiscales judiciales de Corte de Apelaciones y secretario de la Corte Suprema, con el juez de tribunal oral en lo penal, el juez de letras o el juez de juzgado de garantía más antiguo de asiento de Corte calificado en lista de méritos y que exprese su interés por el cargo y con dos ministros de Corte de Apelaciones o integrantes de la segunda o tercera categoría que se hayan opuesto al concurso, elegidos de conformidad a lo establecido en el inciso primero del artículo 281;
-b) Para integrantes de las categorías tercera y cuarta, con excepción de los relatores de las Cortes de Apelaciones, con el juez de tribunal oral en lo penal, el juez de letras o el juez de juzgado de garantía más antiguo de la categoría inferior calificado en lista de méritos y que exprese su interés en el cargo y con dos integrantes de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, que se hayan opuesto al concurso, elegidos de conformidad a lo establecido en el inciso primero del artículo 281;
+a) Para ministros y fiscales judiciales de Corte de Apelaciones y secretario de la Corte Suprema, con el juez de tribunal de juicio oral en lo penal, el juez de letras o el juez de juzgado de garantía más antiguo de asiento de Corte calificado en lista de méritos y que exprese su interés por el cargo y con dos ministros de Corte de Apelaciones o integrantes de la segunda o tercera categoría que se hayan opuesto al concurso, elegidos de conformidad a lo establecido en el inciso primero del artículo 281;
+b) Para integrantes de las categorías tercera y cuarta, con excepción de los relatores de las Cortes de Apelaciones, con el juez de tribunal de juicio oral en lo penal, el juez de letras o el juez de juzgado de garantía más antiguo de la categoría inferior calificado en lista de méritos y que exprese su interés en el cargo y con dos integrantes de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, que se hayan opuesto al concurso, elegidos de conformidad a lo establecido en el inciso primero del artículo 281;
 c) Para integrantes de la quinta categoría, con el funcionario más antiguo de la categoría inferior que se encuentre calificado en lista de méritos y exprese su interés en el cargo y con uno o dos integrantes de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos de conformidad a lo establecido en el inciso primero del artículo 281, o con uno o dos abogados extraños al Poder Judicial que se hayan opuesto al concurso, elegidos en conformidad con lo dispuesto en el artículo 284 bis;
 d) Para integrantes de la sexta categoría, con excepción del prosecretario de la Corte Suprema y del secretario abogado del fiscal judicial de ese mismo tribunal, con el funcionario más antiguo de la séptima categoría que figure en lista de méritos y que exprese su interés en el cargo que se trata de proveer y con uno o dos integrantes de la misma categoría o de la inmediatamente inferior, elegidos de conformidad a lo establecido en el inciso primero del artículo 281, o con uno o dos abogados extraños al Poder Judicial que se hubiesen opuesto al concurso, elegidos en conformidad a lo dispuesto en el artículo 284 bis, y
 e) Para integrantes de la séptima categoría, con funcionarios de la misma categoría elegidos de conformidad a lo establecido en el inciso primero del artículo 281, o con abogados extraños al Poder Judicial que se hayan opuesto al concurso, elegidos en conformidad a lo dispuesto en el artículo 284 bis.
@@ -1596,12 +1626,12 @@ Art. 291. Las ternas y quinas, según el caso, deberán remitirse al Ministerio 
 
 Art. 292. El Escalafón del Personal de Empleados se compondrá de las siguientes categorías:
 Primera categoría: Oficiales segundos de la Corte Suprema, Oficiales primeros de las Cortes de Apelaciones y Secretario del Presidente de la Corte Suprema.
-Segunda categoría: Oficiales terceros de la Corte Suprema, Oficiales segundos de las Cortes de Apelaciones, Encargados de sala de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones y Oficiales primeros de los juzgados de letras de asiento de Corte.
-Tercera categoría: Oficiales cuartos de la Corte Suprema, Oficiales terceros de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos tribunales, Administrativos 1º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Encargados de sala de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Oficiales segundos de los juzgados de letras de asiento de Corte y Oficiales primeros de los juzgados de capital de provincia.
-Cuarta categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de Biblioteca de la Corte Suprema, Oficiales cuartos de las Cortes de Apelaciones, Oficial cuarto Ayudante de Biblioteca de la Corte de Apelaciones de Valparaíso, Administrativos 2º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 1º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Encargados de sala de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales terceros de los juzgados de letras de asiento de Corte, Oficiales segundos de los juzgados de letras de capital de provincia y Oficiales primeros de los juzgados de letras de comunas o agrupación de comunas.
-Quinta categoría: Administrativos 3º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 2º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 1º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales cuartos de los juzgados de letras de asiento de Corte, Oficiales terceros de los juzgados de letras de capital de provincia y Oficiales segundos de los juzgados de letras de comuna o agrupación de comunas.
-Sexta categoría: Administrativos 3º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 2º y 3º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Ayudantes de audiencia de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, telefonistas y secretarias ejecutivas de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Oficiales cuartos de los juzgados de letras de capital de provincia, Oficiales terceros de los juzgados de letras de comuna o agrupación de comunas y Oficial Intérprete de los juzgados de Temuco.
-Séptima categoría: Oficiales de Sala de la Corte Suprema, de las Cortes de Apelaciones, de los juzgados de letras, Ayudantes de audiencia de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, telefonistas y secretarias ejecutivas de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, y demás personal auxiliar de aseo o de servicio que se desempeñe en los Tribunales de Justicia.
+Segunda categoría: Oficiales terceros de la Corte Suprema, Oficiales segundos de las Cortes de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones y Oficiales primeros de los juzgados de letras de asiento de Corte.
+Tercera categoría: Oficiales cuartos de la Corte Suprema, Oficiales terceros de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos tribunales, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Oficiales segundos de los juzgados de letras de asiento de Corte y Oficiales primeros de los juzgados de capital de provincia.
+Cuarta categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de Biblioteca de la Corte Suprema, Oficiales cuartos de las Cortes de Apelaciones, Oficial cuarto Ayudante de Biblioteca de la Corte de Apelaciones de Valparaíso, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales terceros de los juzgados de letras de asiento de Corte, Oficiales segundos de los juzgados de letras de capital de provincia y Oficiales primeros de los juzgados de letras de comunas o agrupación de comunas.
+Quinta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales cuartos de los juzgados de letras de asiento de Corte, Oficiales terceros de los juzgados de letras de capital de provincia y Oficiales segundos de los juzgados de letras de comuna o agrupación de comunas.
+Sexta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 2º y 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Ayudantes de audiencia de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, telefonistas y secretarias ejecutivas de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Oficiales cuartos de los juzgados de letras de capital de provincia, Oficiales terceros de los juzgados de letras de comuna o agrupación de comunas y Oficial Intérprete de los juzgados de Temuco.
+Séptima categoría: Oficiales de Sala de la Corte Suprema, de las Cortes de Apelaciones, de los juzgados de letras, Ayudantes de audiencia de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, telefonistas y secretarias ejecutivas de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, y demás personal auxiliar de aseo o de servicio que se desempeñe en los Tribunales de Justicia.
 
 Art. 293. Los empleados de secretaría con más de diez años de permanencia en la misma categoría del Escalafón tendrán, para los efectos de los ascensos, los mismos derechos que los de la inmediatamente superior, siempre que hubieren figurado permanentemente en lista de méritos y no hubiesen sido objeto de medida disciplinaria superior a amonestación privada después de la última calificación.
 
@@ -1630,7 +1660,7 @@ b) Haber cumplido con la ley de reclutamiento y movilización, cuando fuere proc
 c) Tener salud compatible con el desempeño del cargo;
 d) Haber aprobado el nivel de educación media, o equivalente;
 e) No haber cesado en un cargo en el Poder Judicial o en la Administración del Estado como consecuencia de haber obtenido una calificación deficiente, o por medida disciplinaria, y
-f) No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni hallarse condenado o procesado por crimen o simple delito.
+f) No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni hallarse condenado o acusado por crimen o simple delito.
 
 ### § 4. De la instalación de los jueces
 
@@ -1683,7 +1713,7 @@ Sin embargo, las Cortes de Apelaciones podrán, en casos calificados, autorizar 
 Art. 312. Están igualmente obligados a asistir todos los días a la sala de su despacho, y a permanecer en ella desempeñando sus funciones durante cuatro horas como mínimum cuando el despacho de causas estuviere al corriente, y de cinco horas, a lo menos, cuando se hallare atrasado, sin perjuicio de lo que, en virtud del N° 4 del artículo 96, establezca la Corte Suprema.
 Lo anterior se entenderá sin perjuicio de que el juez, cuando las necesidades del Servicio lo aconsejen, se constituya una vez a la semana, a lo menos en poblados que estén fuera de los límites urbanos de la ciudad en que tenga su asiento el tribunal, en cuyo caso será reemplazado por el Secretario en el despacho ordinario del Juzgado, pudiendo designarse para tales efectos actuarios que como Ministros de Fe autoricen las diligencias que dichos funcionarios practiquen.
 
-Art. 312 bis. Los jueces de tribunales orales en lo penal tendrán obligación de asistir a su despacho por 44 horas semanales.
+Art. 312 bis. Los jueces de tribunales de juicio oral en lo penal tendrán obligación de asistir a su despacho por 44 horas semanales.
 Los jueces de juzgados de garantía deberán asistir a su despacho por 44 horas semanales, debiendo establecerse un sistema o turno que permita la disponibilidad de un juez de garantía en la jurisdicción fuera del horario normal de atención de los tribunales.
 
 Art. 313. Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que comenzará el primero de Febrero y durará hasta el primer día hábil de marzo.
@@ -1753,7 +1783,7 @@ Art. 329. No podrá hacerse efectiva la responsabilidad criminal o civil en cont
 
 Art. 330. No puede deducirse acusación o demanda civil contra un juez para hacer efectiva su responsabilidad criminal o civil si no se hubieren entablado oportunamento los recursos que la ley franquea para la reparación del agravio causado, ni cuando hayan transcurrido seis meses desde que se hubiere notificado al reclamante la sentencia firme recaída en la causa en que se supone inferido el agravio.
 Para las personas que no fueren las directamente ofendidas o perjudicadas por el delito del juez cuya responsabilidad se persigue, el plazo de seis meses correrá desde la fecha en que se hubiere pronunciado sentencia firme.
-Siempre que, por el examen de un proceso o de los datos o documentos estadísticos, o por cualquier otro modo auténtico, llegaren a noticia de un tribunal antecedentes que hagan presumir que un juez u oficial del ministerio público de orden inferior a dicho tribunal ha cometido en el ejercicio de sus funciones algún crimen, o simple delito, mandará sacar compulsa de los antecedentes o datos que reciba al respecto, y los hará pasar al oficial del ministerio público o al tribunal a quien corresponda, para que entable en el término de seis días la respectiva acusación contra el funcionario responsable.
+Siempre que, por el examen de un proceso o de los datos o documentos estadísticos, o por cualquier otro modo auténtico, llegaren a noticia de un tribunal antecedentes que hagan presumir que un juez o funcionario del ministerio público ha cometido en el ejercicio de sus funciones algún crimen, o simple delito, mandará sacar compulsa de los antecedentes o datos que reciba al respecto, y los hará pasar al ministerio público, para que entable en el término de seis días la respectiva acusación contra el funcionario responsable.
 
 Art. 331. Ni en el caso de responsabilidad criminal ni en el caso de responsabilidad civil la sentencia pronunciada en el juicio de responsabilidad alterará la sentencia firme.
 
@@ -1761,7 +1791,7 @@ Art. 331. Ni en el caso de responsabilidad criminal ni en el caso de responsabil
 
 Art. 332. El cargo de juez expira:
 1°) Por incurrir el juez en alguna de las incapacidades establecidas por la ley para ejercerlo.
-Respecto a los jueces procesados se estará a lo dispuesto en el artículo 335; y en cuanto a los condenados, a lo establecido en el N° 6 del artículo 256;
+En cuanto a los jueces condenados se estará a lo establecido en el Nº 6 del artículo 256;
 2°) Por la recepción de órdenes eclesiásticas mayores;
 3°) Por remoción acordada por la Corte Suprema en conformidad a la Constitución Política o a las leyes;
 4°) Por sentencia ejecutoriada recaída en el juicio de amovilidad, en que se declare que el juez no tiene la buena comportación exigida por la Constitución Política del Estado para permanecer en el cargo;
@@ -1778,8 +1808,7 @@ Art. 333. Los magistrados de los Tribunales Superiores de Justicia cesan, ademá
 Art. 334. Derogado.
 
 Art. 335. Las funciones de juez se suspenden:
-1°) por hallarse el juez procesado por crimen o simple delito cometido en el ejercicio de sus funciones, o a que se aplique pena aflictiva.
-Se entiende, para el efecto de este artículo, procesado el juez, desde que está ejecutoriada la sentencia que declara haber lugar a la querella de capítulos, y tratándose de delitos comunes, desde que se libra el auto de procesamiento o el decreto de prisión cuando, según la ley, quede sometido a proceso sin necesidad de dicho auto;
+1°) Por encontrarse ejecutoriada la sentencia que declara haber lugar a la querella de capítulos por delitos cometidos en el ejercicio de sus funciones, o por haberse formulado acusación tratándose de delitos comunes;
 2°) Por la sentencia de primera instancia que lo condena a destitución dictada en un proceso de amovilidad;
 3°) Por la aplicación de la medida disciplinaria de suspensión; y
 4°) Por licencia concedida con arreglo a la ley.
@@ -1795,9 +1824,9 @@ Art. 337. Se presume de derecho, para todos los efectos legales, que un juez no 
 Art. 338. Los Tribunales Superiores instruirán el respectivo proceso de amovilidad, procediendo de oficio o a requisición del fiscal judicial del mismo tribunal.
 La parte agraviada podrá requerir al tribunal o al fiscal judicial para que instaure el juicio e instaurado, podrá suministrar elementos de prueba al referido fiscal judicial.
 
-Art. 339. Los tribunales procederán en estas causas breve y sumariamente, oyendo al juez inculpado y al ministerio público y las fallarán apreciando en conciencia la prueba y la culpabilidad del juez.
+Art. 339. Los tribunales procederán en estas causas sumariamente, oyendo al juez imputado y al fiscal judicial; las fallarán apreciando la prueba con libertad, pero sin contradecir los principios de la lógica, las máximas de la experiencia y los conocimientos científicamente afianzados, y se harán cargo en la fundamentación de la sentencia de toda la prueba rendida.
 Las Cortes de Apelaciones que deban conocer de los juicios de amovilidad en contra de los jueces de letras, en conformidad a lo dispuesto en el artículo 63, designarán en cada caso a uno de sus ministros para que forme proceso y lo tramite hasta dejarlo en estado de sentencia.
-Toda sentencia absolutoria en los juicios de amovilidad debe ser notificada al fiscal de la Corte Suprema, a fin de que, si lo estima procedente entable ante el Tribunal Supremo, el o los recursos correspondientes.
+Toda sentencia absolutoria en los juicios de amovilidad debe ser notificada al fiscal judicial de la Corte Suprema, a fin de que, si lo estima procedente entable ante el Tribunal Supremo, el o los recursos correspondientes.
 
 Art. 340. El Presidente de la Corte Suprema podrá conceder a los jueces licencias por enfermedad, de acuerdo con las disposiciones generales que rijan sobre la materia para el personal de la administración civil del Estado.
 La Corte Suprema podrá conceder permisos hasta por seis meses cada año, por asuntos particulares y hasta por dos años para trasladarse al extranjero a actividades de perfeccionamiento, en ambos casos sin goce de remuneración y siempre que no se entorpezca el servicio
@@ -1951,11 +1980,7 @@ Dentro de los seis meses de estar practicada la visita de que trata el artículo
 
 Art. 381. Los secretarios de los juzgados de letras harán al juez la relación de los incidentes y el despacho diario de mero trámite, el que será revisado y firmado por el juez.
 
-Art. 382. Los secretarios de los juzgados del crimen, proveerán por sí solos las solicitudes de mera tramitación, que no requieran conocimiento de los antecedentes para ser proveídas.
-Las rebeldías deberán ser declaradas por el secretario del juzgado, de oficio o a petición de parte, según proceda.
-Las órdenes de citación a testigos o a inculpados, las que se den a la prefectura respectiva o a carabineros para que procedan a practicar investigaciones; los oficios que se envíen para pedir datos o antecedentes; el cúmplase de los exhortos de otros tribunales; el acuse de recibo de estos mismos exhortos, y las órdenes necesarias para cumplirlos cuando no se encargue una detención o prisión, serán firmados únicamente por el secretario del juzgado.
-En los casos a que se refiere este artículo, la firma del secretario no necesita ser autorizada por ningún funcionarlo, y deberá anteponérsele las palabras "Por el juez".
-Si se discutiere la validez del proveído puesto por el secretario, resolverá el juez sin ulterior recurso, enmendando o no la resolución dictada.
+Art. 382. Derogado.
 
 Art. 383. En las Cortes de Apelaciones que consten de una sala, los secretarios estarán obligados a hacer la relación de la tabla ordinaria durante los días de la semana que acuerde el tribunal.
 
@@ -1987,7 +2012,7 @@ Art. 389. Las funciones que se encomiendan a los secretarios en el Título VI de
 
 ### § 4 bis. Los administradores de tribunales con competencia en lo criminal
 
-Art. 389 A. Los administradores de tribunales con competencia en lo criminal son funcionarios auxiliares de la administración de justicia encargados de organizar y controlar la gestión administrativa de los tribunales orales en lo penal y de los juzgados de garantía.
+Art. 389 A. Los administradores de tribunales con competencia en lo criminal son funcionarios auxiliares de la administración de justicia encargados de organizar y controlar la gestión administrativa de los tribunales de juicio oral en lo penal y de los juzgados de garantía.
 
 Art. 389 B. Corresponde a los administradores de estos tribunales:
 a) Dirigir las labores administrativas propias del funcionamiento del tribunal o juzgado, bajo la supervisión del juez presidente del comité de jueces;
@@ -2019,7 +2044,7 @@ Los plazos de días contemplados en este artículo serán de días hábiles.
 El mismo procedimiento se aplicará si el subadministrador, jefe de unidad o empleado hubiere incurrido en faltas al servicio que no sean graves, las que serán sancionadas con alguna de las medidas que establece el inciso tercero del artículo 532.
 La remoción del administrador del tribunal podrá ser solicitada por el juez presidente y será resuelta por el comité, con apelación ante el Presidente de la Corte de Apelaciones respectiva, recurso que se someterá a los mismos plazos del inciso cuarto.
 
-Art. 389 G. La certificación de las actuaciones procesales realizadas ante el juzgado de garantía o ante el tribunal oral en lo penal y de sus resoluciones cuando corresponda, así como la autorización, en su caso, del mandato judicial, serán efectuadas por el jefe de la unidad administrativa que tenga a su cargo la administración de causas, de acuerdo a las instrucciones y procedimientos que establezca la Corte Suprema.
+Art. 389 G. La certificación de las actuaciones procesales realizadas ante el juzgado de garantía o ante el tribunal de juicio oral en lo penal y de sus resoluciones cuando corresponda, la formación del estado diario, así como la autorización, en su caso, del mandato judicial, serán efectuadas por el jefe de la unidad administrativa que tenga a su cargo la administración de causas, de acuerdo a las instrucciones y procedimientos que establezca la Corte Suprema.
 
 ### § 5. Los Receptores
 
@@ -2286,6 +2311,7 @@ d) Los protocolos de escrituras públicas otorgadas en el territorio jurisdiccio
 4°) Dar a las partes interesadas, con arreglo a la ley, los testimonios que pidieren de los documentos que existieren en su archivo.
 5°) Formar y publicar, dentro del término que el Presidente de la República señale en cada caso, los índices de los procesos y escrituras con que se instale la oficina; y en los meses de Marzo y Abril, después de instalada, los correspondientes al último año.
 Estos índices serán formados con arreglo a las instrucciones que den las respectivas Cortes de Apelaciones.
+6°) Ejercer las mismas funciones señaladas precedentemente respecto de los registros de las actuaciones efectuadas ante los jueces de garantía y los tribunales de juicio oral en lo penal.
 
 Art. 456. Las funciones de los archiveros, en cuanto ministros de fe, se limitan a dar conforme a derecho, los testimonios y certificados que se les pidan; y a poner, a petición de parte, las respectivas notas marginales en las escrituras públicas.
 Los archiveros judiciales podrán dar copia autorizada de las escrituras contenidas en los protocolos de su archivo, en todos aquellos casos en que el notario que haya intervenido en su otorgamiento habría podido darlas.
@@ -2582,7 +2608,7 @@ Inciso suprimido.
 Art. 523. Para poder ser abogado se requiere:
 1°) Tener veinte años de edad;
 2°) Tener el grado de Licenciado en Ciencias Jurídicas otorgado por una Universidad, en conformidad a la ley;
-3°) No haber sido condenado ni estar actualmente procesado por delito que merezca pena corporal, salvo que se trate de delitos contra la seguridad interior del Estado;
+3°) No haber sido condenado ni estar actualmente acusado por crimen o simple delito que merezca pena aflictiva;
 4°) Antecedentes de buena conducta.
 La Corte Suprema podrá practicar las averiguaciones que estime necesarias acerca de los antecedentes personales del postulante, y
 5°) Haber cumplido satisfactoriamente una práctica profesional por seis meses en las Corporaciones de Asistencia Judicial a que se refiere la ley N° 17.995, circunstancia que deberá acreditarse por el Director General de la respectiva Corporación.
@@ -2628,7 +2654,7 @@ Las faltas o abusos en la conducta ministerial de las personas expresadas en el 
 3) Multa de uno a quince días de sueldo o de una cantidad que no exceda de ocho y media Unidades Tributarias Mensuales, y
 4) Suspensión de sus funciones hasta por un mes, gozando del cincuenta por ciento de sus remuneraciones, cuando procediere.
 Las faltas o abusos de los notarios se castigarán disciplinariamente por las Cortes de Apelaciones, las cuales podrán delegar estas atribuciones en los jueces de letras correspondientes cuando la notaría no se halle en el mismo lugar del asiento de la corte.
-En el caso de los juzgados de garantía y de los tribunales orales en lo penal, las facultades disciplinarias sobre los subadministradores, jefes de unidades y personal serán ejercidas por el administrador del tribunal, de conformidad a lo previsto en el artículo 389 F. Si el administrador del tribunal cometiere faltas o abusos, o incurriere en infracciones u omisiones en el cumplimiento de sus deberes y obligaciones, podrá ser removido de acuerdo al inciso final del mismo artículo.
+En el caso de los juzgados de garantía y de los tribunales de juicio oral en lo penal, las facultades disciplinarias sobre los subadministradores, jefes de unidades y personal serán ejercidas por el administrador del tribunal, de conformidad a lo previsto en el artículo 389 F. Si el administrador del tribunal cometiere faltas o abusos, o incurriere en infracciones u omisiones en el cumplimiento de sus deberes y obligaciones, podrá ser removido de acuerdo al inciso final del mismo artículo.
 
 Art. 533. Si los jueces de letras notaren faltas o abusos en el desempeño de las funciones de los defensores públicos darán cuenta a la Corte de Apelaciones respectiva, la cual Corte, si lo estimare conveniente, corregirá dichas faltas o abusos de la manera y por los medios que señalan los artículos 536 y 537.
 
@@ -2766,12 +2792,12 @@ Art. 567. El último día hábil de cada semana, un juez de garantía, designado
 
 Art. 568. Tendrán derecho de asistir a estas visitas los fiscales del ministerio público, cualquiera que sea su categoría, los abogados y procuradores de los procesados y los padres o guardadores de los procesados menores de edad.
 
-Art. 569. En el acto de la visita deberán ser presentados todos los presos y detenidos a quienes procese el juez que la practica; y si alguno no hubiere sido puesto todavía a disposición del juez, ni tuviere proceso pendiente, será presentado en la visita que practique el juez de turno.
+Art. 569. En el acto de la visita deberán ser presentados todos los detenidos y presos por orden del tribunal que así lo soliciten y aquellos cuya detención no se hubiere comunicado aún al tribunal.
 
 Art. 570. Iniciada la visita, un funcionario del juzgado o tribunal dará lectura al estado que llevará preparado para ese efecto y en que se expresará el nombre de cada uno de los presos y detenidos, el delito que se les imputa, el estado en que se encuentra y la fecha de inicio de la privación de libertad.
 
-Art. 571. En seguida, prevendrá el juez a los detenidos y presos que pueden entablar las quejas que tengan a bien acerca del tratamiento que reciben, del alimento que se les da y de las dificultades que se les suscitan para la defensa de sus juicios.
-El juez oirá uno a uno los reclamos que se le hicieren a este respecto por los presos o detenidos, o por las personas designadas en el artículo 568; y adoptará las medidas que crea convenientes para subsanar las faltas que se le hicieren presente. Si el preso o su representante creyeren ineficaz la medida adoptada, podrán proponer otra; y, desechada por el juez, podrán apelar de la resolución. En el caso del inciso segundo del artículo 567, el tribunal que practique la visita oficiará al que conoce de la causa informándole sobre los reclamos formulados, con el objeto de que adopte las medidas que crea convenientes para subsanar las faltas que se hicieren presentes.
+Art. 571. En seguida, prevendrá el juez a los detenidos y presos que pueden entablar las quejas que tengan a bien acerca del tratamiento que reciben, del alimento que se les da y de las dificultades que se les suscitan para su defensa.
+El juez oirá uno a uno los reclamos que se le hicieren a este respecto por los presos o detenidos, o por las personas designadas en el artículo 568; y adoptará las medidas que crea convenientes para subsanar las faltas que se le hicieren presente. Si el preso o su representante creyeren ineficaz la medida adoptada, podrán proponer otra; y, desechada por el juez, podrán apelar de la resolución.
 
 Art. 572. El juez reconocerá, en seguida, el estado de aseo y seguridad de los calabozos, oyendo las observaciones del jefe del establecimiento a este respecto; y tomará nota del movimiento de ingreso y egreso de individuos reclusos que haya habido durante el curso de la semana.
 
@@ -2789,7 +2815,7 @@ Art. 578. En toda ciudad en que existan cárceles o establecimientos penales se 
 
 Art. 579. Las visitas se practicarán sin aviso previo, a uno o más de los establecimientos penales y cárceles existentes en el territorio jurisdiccional respectivo, en la fecha y hora que determine el presidente de la visita, por sí o a petición de cualquiera de sus miembros.
 
-Art. 580. En las comunas asiento de una Corte de Apelaciones constituirán la visita un ministro de la misma, un juez de tribunal oral en lo penal y un juez de garantía. El ministro será designado por turno anual, comenzando por el menos antiguo.
+Art. 580. En las comunas asiento de una Corte de Apelaciones constituirán la visita un ministro de la misma, un juez de tribunal de juicio oral en lo penal y un juez de garantía. El ministro será designado por turno anual, comenzando por el menos antiguo.
 El secretario de la Corte de Apelaciones, o el secretario en lo criminal de la de Santiago, lo será de la visita.
 En las demás comunas, constituirán la visita un juez de garantía, designado por la Corte de Apelaciones de acuerdo a un turno mensual, y el funcionario del juzgado que el juez designare como secretario de la visita.
 Presidirá la visita el ministro de la Corte de Apelaciones o, en su caso, el juez de garantía.
@@ -2822,6 +2848,7 @@ Art. 586. Los jueces de letras son obligados a remitir a la respectiva Corte de 
 2°) El último día hábil de cada semana una copia del acta de la visita que practiquen en los lugares de detención con arreglo a lo dispuesto por el art. 567.
 3°) Cada dos meses, una lista de las causas criminales pendientes en sus juzgados, indicando el estado en que se halla cada causa y los motivos del retardo o paralización que alguna de ellas sufriere; y
 4°) Cada mes, una lista de las causas civiles y criminales falladas en el mismo mes y de todas las que se encuentren en estado de sentencia, con indicación de las fechas respectivas.
+En el caso de los juzgados de garantía, el juez presidente del comité de jueces enviará los documentos a que se refieren los números 2º y 4º, con indicación del juez antes mencionado que se encontrare a cargo de la actuación o resolución respectiva.
 
 Art. 587. Los secretarios de los tribunales colegiados fijarán en la puerta de la secretaría del tribunal una nómina de las causas que queden en acuerdo, con expresión de la fecha en que terminó la vista, la del decreto en que se designó ministro para redactar el fallo, el nombre de éste, la fecha del día en que el ministro redactor entregue el borrador de la sentencia y la de aquel en que ésta sea expedida por el tribunal. Esta nómina se publicará también semanalmente en el Diario Oficial.
 
