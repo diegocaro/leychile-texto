@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1997-11-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1997-11-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1997-11-07
-fetched_at: 2026-08-03T01:04:36.781325+00:00
+version_date: 1997-11-24
+fetched_at: 2026-08-03T01:05:38.593036+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2479,16 +2479,18 @@ Art. 565. Derogado.
 
 Art. 566. Derogado.
 
-Art. 567. El último día hábil de cada semana, todo juez de letras que ejerza jurisdicción en materia criminal visitará, acompañado de su secretario, la cárcel o establecimientos en que se encuentren los detenidos o presos a quienes procesa, a fin de indagar si sufren vejaciones indebidas, si se les coarta la libertad de defensa o si se prolonga ilegalmente la tramitación de su proceso.
+Art. 567. El último día hábil de cada semana, todo juez de letras que ejerza jurisdicción en materia criminal, acompañado de su secretario, visitará la cárcel o establecimientos que se encuentren ubicados en la localidad o ciudad donde funcione el tribunal y en los cuales haya detenidos o presos en procesos a su cargo, con el objeto de indagar si sufren vejaciones indebidas, si se les coarta la libertad de defensa o si se prolonga ilegalmente la tramitación de su proceso.
+La Corte de Apelaciones, dentro de cuyo territorio jurisdiccional existan tribunales en lo criminal que estén exentos de la visita respectiva en razón de tener detenidos o presos en cárceles o establecimientos que estén ubicados fuera de la localidad o ciudad donde funcionan, establecerá un turno u otro sistema entre los jueces del crimen obligados a la visita, para que éstos la efectúen a tales detenidos o presos, y, por oficio, informen al juez que instruye el respectivo proceso sobre las quejas y observaciones recibidas. Sin perjuicio de lo anterior, todo juez deberá visitar, a lo menos una vez cada tres meses, el recinto carcelario en que tuviere detenidos o presos.
 
 Art. 568. Tendrán derecho de asistir a estas visitas los oficiales del ministerio público, cualquiera que sea su categoría, los abogados y procuradores de los procesados y los padres o guardadores de los procesados menores de edad.
 
 Art. 569. En el acto de la visita deberán ser presentados todos los presos y detenidos a quienes procese el juez que la practica; y si alguno no hubiere sido puesto todavía a disposición del juez, ni tuviere proceso pendiente, será presentado en la visita que practique el juez de turno.
 
 Art. 570. Instalada la visita en el respectivo establecimiento carcelario, el secretario dará lectura al estado que llevará preparado para este objeto, y en que expresarán el nombre de cada uno de los presos y detenidos, el delito por el cual se les procesa y el estado en que se encuentra la causa en aquel día. El juez cotejará, al mismo tiempo, esta última indicación con la que contenía el estado de la semana anterior; y, si notare algún retardo indebido, dictará las medidas convenientes para que el proceso siga su curso sin interrupción.
+En el caso del inciso segundo del artículo 567, los tribunales exentos de la obligación de la visita respectiva deberán remitir al tribunal que realizará la visita el estado en que se exprese el nombre de cada uno de los presos y detenidos, el delito por el cual se les procesa y el estado actual de la causa, hasta el día inmediatamente anterior a aquel en que se efectúe la visita. El tribunal que practique la visita oficiará al que conoce de la causa informándole sobre los retardos indebidos que constate, con el objeto de que dicte las medidas convenientes para que el proceso siga su curso sin interrupción.
 
 Art. 571. En seguida, prevendrá el juez a los detenidos que pueden entablar las quejas que tengan a bien acerca del tratamiento que reciben, del alimento que se les da y de las dificultades que se les suscitan para la defensa de sus juicios.
-El juez oirá uno a uno los reclamos que se le hicieren a este respecto por los presos o detenidos, o por las personas designadas en el artículo 568; y adoptará las medidas que crea convenientes para subsanar las faltas que se le hicieren presente. Si el preso o su representante creyeren ineficaz la medida adoptada, podrán proponer otra; y, desechada por el juez, podrán apelar de la resolución.
+El juez oirá uno a uno los reclamos que se le hicieren a este respecto por los presos o detenidos, o por las personas designadas en el artículo 568; y adoptará las medidas que crea convenientes para subsanar las faltas que se le hicieren presente. Si el preso o su representante creyeren ineficaz la medida adoptada, podrán proponer otra; y, desechada por el juez, podrán apelar de la resolución. En el caso del inciso segundo del artículo 567, el tribunal que practique la visita oficiará al que conoce de la causa informándole sobre los reclamos formulados, con el objeto de que adopte las medidas que crea convenientes para subsanar las faltas que se hicieren presentes.
 
 Art. 572. El juez reconocerá, en seguida, el estado de aseo y seguridad de los calabozos, oyendo las observaciones del jefe del establecimiento a este respecto; y tomará nota del movimiento de ingreso y egreso de individuos procesados que haya habido durante el curso de la semana.
 

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1997-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1997-11-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1997-06-05
-fetched_at: 2026-08-03T01:03:39.991824+00:00
+version_date: 1997-11-24
+fetched_at: 2026-08-03T01:05:26.590242+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -330,8 +330,7 @@ Puede, sin embargo, encomendar, a su costa, su defensa y representación a otro 
 
 Art. 65. (86) Si la parte civil o el querellante que hubieren entablado una acción pública, no evacuaren un trámite, que les corresponda en el plazo respectivo, no se suspenderá la subtanciación del proceso, sin perjuicio de que puedan intervenir en los trámites posteriores.
 
-Art. 66. (87) Las notificaciones que hayan de hacerse a los representantes del Ministerio Público, se les harán personalmente en todo caso.
-También se le harán en persona que estuviere preso, pudiendo hacerlas el Secretario del Tribunal en su oficio o en el establecimiento penal donde aquél se encontrare recluido aunque se hallare fuera de su territorio jurisdiccional.
+Art. 66. (87) Las notificaciones que hayan de hacerse a los representantes del Ministerio Público, se les harán personalmente en todo caso. También se le harán en persona que estuviere preso, pudiendo hacerlas el Secretario del Tribunal en su oficio o en el establecimiento penal donde aquél se encontrare recluido aunque se hallare fuera de su territorio jurisdiccional. Ello no obstante, tratándose de detenidos o presos cuyo proceso se lleve ante un tribunal cuya sede se encuentre fuera del lugar o ciudad donde esté ubicado el establecimiento penal en el cual se encuentren recluidos y que no tenga servicio diario de traslado al tribunal, la resolución que conceda la libertad incondicional o la libertad provisional sin fianza, u ordene cumplir el fallo de la Corte de Apelaciones que se pronuncie sobre la resolución concerniente a la libertad, se notificarán por el estadio diario. La resolución que deniegue la libertad, o conceda la libertad provisional bajo fianza o conceda la apelación interpuesta, en su caso, se notificará de inmediato y por el medio más rápido posible, al encargado del establecimiento penal, quien deberá comunicarla al recluido. Este podrá apelar de la resolución en el acto y ante el mismo encargado, lo que éste comunicará de inmediato y por igual vía al tribunal. Concedida que sea la apelación, se elevarán los autos a la Corte de Apelaciones respectiva. Asimismo, una vez constituida la fianza, el tribunal transmitirá, por igual medio, la orden de libertad al encargado del establecimiento para su inmediato cumplimiento. El secretario del tribunal dejará testimonio en el proceso de las actuaciones que practique conforme a este inciso, con mención de la fecha en que se efectuaron, la individualización de la persona que le recibió o le proporcionó la información, según proceda, y el tenor de ésta.
 
 #### 3. Derechos del inculpado.
 
@@ -2555,12 +2554,16 @@ y, mandado aprehender, no fuere encontrado en su casa ni en otra parte, y se ign
 4° Cuando se fugue del establecimiento en que se hallare detenido o preso, y hubieren resultado infructuosas las diligencias practicadas para su aprehensión; y
 5° Cuando se supiere que el procesado se encuentra en país extranjero y no sea posible u oportuno obtener su extradición.
 
-Art. 592 (636) Antes de declarar la rebeldía del inculpado o procesado, el juez expedirá las órdenes correspondientes para citarlo o aprehenderlo y dirigirá requisitoria a los jueces de los lugares en que se sospeche que aquél haya podido albergarse.
+Art. 592 (636) Antes de declarar la rebeldía del inculpado o procesado, el juez expedirá las órdenes correspondientes para citarlo o aprehenderlo.
+Las órdenes de citación o aprehensión se despacharán tanto a Carabineros como a la Policía de Investigaciones y estas instituciones deberán transmitirlas a todas sus reparticiones y unidades.
 
-Art. 593. (637) Las órdenes y requisitorias contendrán, en cuanto sea posible, los siguientes pormenores:
+Art. 593. (637) Las órdenes contendrán, en cuanto sea posible, los siguientes pormenores:
 1° El nombre, apellido paterno y materno, cargo, profesión u oficio del inculpado, el apodo que tenga, su residencia y las señas en virtud de las cuales pueda ser identificado;
 2° El delito por el cual se le persigue;
-3° La circunstancia señalada en el artículo 591 que haya dado motivo para expedir la orden o requisitoria; y 4° El término dentro del cual deba comparecer el inculpado, bajo apercibimiento de ser declarado reo rebelde y pararle los perjuicios correspondientes. Este término será de treinta días, contados desde aquel en que se expida la primera orden o requisitoria.
+3° La circunstancia señalada en el artículo 591 que haya dado motivo para expedir la orden; y
+4° El término dentro del cual deba comparecer el inculpado, bajo apercibimiento de ser declarado reo rebelde y pararle los perjuicios correspondientes. Este término será de treinta días, contados desde aquel en que se expida la primera orden de citación o aprehensión.
+NOTA:
+El artículo 9° de la Ley 19047, publicada el 14.02.1991, modificado por la Ley 19158, otorga facultad para mantener la palabra reo por estar empleada en sentido genérico.
 
 Art. 594. (639) Si el ausente no compareciere durante el plazo señalado, el secretario certificará el hecho y el tribunal expedirá el auto en que lo declarará rebelde.
 En virtud de este auto las resoluciones que se dicten en el proceso se tendrán por notificadas personalmente al rebelde en la misma fecha en que se pronuncian.
@@ -2610,6 +2613,7 @@ Art. 610. (655) Cuando el prófugo fuere aprehendido, se procederá a identifica
 Si el prófugo era ya reo rematado cuando se verificó
 NOTA:
 la evasión, se instruirá el proceso respectivo para la aplicación de las penas señaladas a los que quebrantan sentencias por el Título IV del Libro I del Código Penal.
+NOTA:
 NOTA:
 El artículo 9° de la Ley 19047, publicada el 14.02.1991, modificado por la Ley 19158, otorga facultad para mantener la palabra reo por estar empleada en sentido genérico.
 
