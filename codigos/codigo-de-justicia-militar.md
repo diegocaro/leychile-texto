@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1975-06-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1977-04-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1975-06-18
-fetched_at: 2026-08-03T00:25:08.556846+00:00
+version_date: 1977-04-30
+fetched_at: 2026-08-03T00:28:04.906415+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -115,6 +115,8 @@ Art. 17. Corresponde al Juzgado Institucional: 1° Conocer en primera instancia 
 6° Dar cumplimiento a las leyes de amnistía o decretos de indulto que se expidan a favor de individuos juzgados o condenados por tribunales militares, e informar las peticiones de indulto que tales individuos formulen;
 7° Conocer de los reclamos interpuestos contra las resoluciones de los Fiscales que la ley determine.
 
+Art. 18. Derogado.
+
 Art. 19. El Juzgado Institucional ejercerá también, dentro de su territorio, la jurisdicción disciplinaria sobre todos los que intervengan en la administración de justicia militar en primera instancia, pudiendo aplicar en su virtud las medidas disciplinarias que las leyes confieren a un juez de letras de mayor cuantía.
 Sus resoluciones en esta materia serán apelables en lo devolutivo ante la respectiva Corte Marcial.
 
@@ -180,6 +182,8 @@ Art. 35. Habrá un Auditor General del Ejército, un Auditor General de la Armad
 Habrá también un Auditor del Ejército, de la Armada y de la Fuerza Aérea, a lo menos, respectivamente, en el asiento de cada Juzgado Institucional.
 Los Auditores serán nombrados por el Presidente de la República.
 
+Art. 36. Derogado.
+
 Art. 37. Corresponde al Auditor General del Ejército, al Auditor General de la Armada y al Auditor General de Aviación:
 1° Asesorar al Ministerio de Defensa Nacional en todos los asuntos que se creyere conveniente oír su opinión legal;
 2° Supervigilar la conducta funcionaria de los Fiscales de su respectiva jurisdicción, sin perjuicio de las facultades disciplinarias que corresponden a los Juzgados Institucionales y sin menoscabo de la independencia que consagra el artículo 12 del Código Orgánico de Tribunales, pudiendo imponerles las medidas disciplinarias que establezca para este efecto un Reglamento especial.
@@ -221,6 +225,8 @@ Art. 43. Los Secretarios son Ministros de Fe Pública encargados de autorizar to
 
 Art. 44. Los Secretarios de Juzgados y de Fiscalías serán designados por el Juez respectivo, cuando no lo haya hecho la autoridad administrativa a quien corresponda el nombramiento.
 Tratándose de personal de Carabineros su designación se hará, en cualquier caso, a proposición de la Dirección General de Carabineros en la forma que se señala en el artículo 27.
+
+Art. 45. Derogado.
 
 Art. 46. Los Secretarios tendrán las facultades y atribuciones que se señalan en los artículos 380 y 475 inciso 1° del Código Orgánico de Tribunales.
 
@@ -277,6 +283,8 @@ Art. 60. Corresponde a las Cortes Marciales en única instancia:
 3° Conocer de los recursos de amparo deducidos en favor de individuos detenidos o arrestados en virtud de orden de una autoridad judicial del fuero militar en su
 carácter de tal.
 Las Cortes Marciales, conociendo de alguna causa por la vía de la apelación o la consulta, podrán salvar los errores u omisiones de que adolezca la tramitación de un proceso en primera instancia u ordenar al Juzgado Institucional que los salve, pudiendo dejar sin efecto las actuaciones y resoluciones que estimen afectadas por esos errores u omisiones.
+
+Art. 61. Derogado.
 
 Art. 62. Corresponde también a las Cortes Marciales, sin perjuicio de las atribuciones conferidas a otras autoridades, mantener la disciplina judicial en todo el territorio de su respectiva jurisdicción, velando inmediatamente por la conducta ministerial de los Tribunales Militares y sus asesores, y haciéndoles cumplir todos los deberes que las leyes les imponen.
 A este efecto tendrán las facultades que a las Cortes de Apelaciones confieren los artículos 536 a 538 del Código Orgánico de Tribunales.
