@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1990-02-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1990-05-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1990-02-21
-fetched_at: 2026-08-03T00:49:28.648796+00:00
+version_date: 1990-05-24
+fetched_at: 2026-08-03T00:50:04.689934+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -33,7 +33,9 @@ La Constitución Política de la República de Chile, aprobada por Decreto 1150,
 NOTA 1:
 Véanse el Capítulo I del Decreto ley 2763, Salud, publicado el 03.08.1979, que reorganiza el Ministerio de Salud, y el Decreto 395, Salud, publicado el 23.02.1980, que aprueba el reglamento orgánico de esta Secretaría de Estado.
 
-Artículo 4°.- A las Municipalidades corresponde atender
+Artículo 4°.- A las Municipalidades corresponde aten
+NOTA:
+der
 NOTA:
 los asuntos de orden sanitario que le entregan el artículo 105° de la Constitución Política del Estado y las disposiciones de este Código.
 NOTA:
@@ -424,18 +426,20 @@ DE OTROS FACTORES DE RIESGO
 #### Párrafo I
 DE LA CONTAMINACION DEL AIRE Y DE LOS RUIDOS Y VIBRACIONES
 
-Artículo 89°.- El Reglamento comprenderá normas como
-NOTA
-las que se refieren a:
+Artículo 89°.- El Reglamento comprenderá normas como las que se refieren a:
 a) la conservación y pureza del aire y evitar en él
 NOTA 1:
 la presencia de materias u olores que constituyan una amenaza para la salud, seguridad o bienestar del hombre o que tengan influencia desfavorable sobre el uso y goce de los bienes.
 La reglamentación determinará, además, los casos y condiciones en que podrá ser prohibida o controlada la emisión a la atmósfera de dichas substancias;
-b) la protección de la salud, seguridad y bienestar de los ocupantes de edificios o locales de cualquier naturaleza, del vecindario y de la población en general, así como la de los animales domésticos y de los bienes, contra los perjuicios, peligros e inconvenientes de carácter mental o material que provengan de la producción de ruidos, vibraciones o trepidaciones molestos, cualquiera que sea su origen.
+b) la protección de la salud, seguridad y bienestar
+NOTA 2:
+de los ocupantes de edificios o locales de cualquier naturaleza, del vecindario y de la población en general, así como la de los animales domésticos y de los bienes, contra los perjuicios, peligros e inconvenientes de carácter mental o material que provengan de la producción de ruidos, vibraciones o trepidaciones molestos, cualquiera que sea su origen.
 NOTA
 Véanse la LEY 18122, publicada el 17.05.1982, que creó el Servicio de Salud del Ambiente en la Región Metropolitana; y el Decreto 206, Salud, publicado el 07.12.1982, Reglamento Orgánico de dicho Servicio.
 NOTA 1:
 Véase el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza.
+NOTA 2:
+Véase el Decreto 32, Salud, D.O. 24.05.1990, que reglamenta el funcionamiento de fuentes emisoras de contaminantes atmosféricos en situaciones de emergencia por contaminación.
 
 #### Párrafo II
 DE LAS SUBSTANCIAS TOXICAS O PELIGROSAS PARA LA SALUD
