@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=2001-09-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=2004-03-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 2001-09-27
-fetched_at: 2026-08-03T01:16:17.999767+00:00
+version_date: 2004-03-23
+fetched_at: 2026-08-03T01:23:56.154759+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -18,6 +18,8 @@ Descargar Código de Comercio Original (PDF, 8 M)
 
 ## TITULO PRELIMINAR
 DISPOSICIONES GENERALES
+
+Artículo 1°. El Código de Comercio rige las obligaciones de los comerciantes que se refieran a operaciones mercantiles, las que contraigan personas no comerciantes para asegurar el cumplimiento de obligaciones comerciales, y las que resulten de contratos exclusivamente mercantiles.
 
 Art. 2°. En los casos que no estén especialmente resueltos por este Código, se aplicarán las disposiciones del Código Civil.
 
