@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1970-07-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1975-07-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1970-07-18
-fetched_at: 2026-08-03T00:20:48.459796+00:00
+version_date: 1975-07-10
+fetched_at: 2026-08-03T00:25:20.567412+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -413,24 +413,13 @@ Los alimentos simplemente enriquecidos en vitaminas normalmente presentes en ell
 
 Artículo 99°.- Se entenderá por cosmético cualquier preparado que se destine a ser aplicado externamente al cuerpo humano con fines de embellecimiento, modificación de su aspecto físico o conservación de las condiciones físico-químicas normales de la piel y de sus anexos.
 
-Artículo 100°.- El Ministerio de Salud Pública aprobará, a proposición de la Comisión a que se refiere el artículo siguiente, un Formulario Nacional de Medicamentos que contendrá la nómina de los productos farmacéuticos indispensables en el país para una eficiente terapéutica. Este Formulario Nacional precisará la forma farmacéutica y dosis de cada medicamento y señalará el uso, limitaciones y peligros de los mismos.
-El Director General de Salud dispondrá las medidas necesarias para que la población y los Servicios que presten atención médica se encuentren permanentemente abastecidos de los productos farmacéuticos que componen el Formulario Nacional de Medicamentos.
+Artículo 100°.- El Ministerio de Salud Pública aprobará, previo informe de sus Unidades Técnicas Normativas, un Formulario Nacional de Medicamentos que contendrá la nómina de los productos farmacéuticos indispensables en el país para una eficiente terapéutica. Este Formulario Nacional precisará la forma farmacéutica y dosis de cada medicamento y señalará el uso, limitaciones y peligro de los mismos.
+El Director General de Salud dispondrá las medidas necesarias para que la población y los servicios que presten atención médica se encuentren permanentemente abastecidos de los productos farmacéuticos que componen el Formulario Nacional de Medicamentos.
 
-Artículo 101º.- Una Comisión permanente propondrá al Ministerio de Salud Pública el Formulario Nacional de Medicamentos y sus modificaciones, e informará al Director General de Salud sobre las autorizaciones para importar o fabricar en el país productos farmacéuticos. Esta Comisión estará integrada por:
-Dos representantes de la Facultad de Medicina de la Universidad de Chile;
-Dos representantes de la Facultad de Química y Farmacia de la Universidad de Chile;
-Dos representantes de la Facultad de Odontología de la Universidad de Chile;
-Un representante de la Facultad de Medicina Veterinaria de la Universidad de Chile;
-Un representante del Colegio Médico de Chile;
-Un representante del Colegio de Químicos Farmacéuticos de Chile;
-Dos representantes del Servicio Nacional de Salud;
-Un representante del Servicio Médico Nacional de Empleados, y
-Dos representantes del Consejo de Salud de las Fuerzas Armadas.
-Cada miembro titular podrá designar un suplente.
-Un Reglamento determinará la forma en que serán designados sus miembros, sus reemplazos, duración y demás condiciones de funcionamiento.
+Artículo 101°.- Derogado.
 
-Artículo 102°.- Ningún producto farmacéutico o cosmético podrá ser importado o fabricado en el país sin la autorización previa del Director General de Salud, quien deberá solicitar informe a la Comisión a que se refiere el artículo anterior cuando se trate de productos nuevos.
-Esta misma Comisión informará, de oficio o a petición del Servicio Nacional de Salud, sobre la cancelación de la autorización de fabricación, importación o expendio de aquellos productos que hayan sido desplazados o que convenga suspender su uso.
+Artículo 102°.- Ningún producto farmacéutico o cosmético podrá ser importado o fabricado en el país sin la autorización previa del Director General de Salud, quien deberá solicitar informe a las Unidades Técnicas Normativas a que se refiere el artículo 100º cuando se trate de productos nuevos.
+Estas mismas Unidades Técnicas informarán, de oficio o a petición del Servicio Nacional de Salud, sobre la cancelación de la autorización de fabricación, importación o expendio de aquellos productos que hayan sido desplazados o que convenga suspender su uso.
 Además, para la venta o distribución a cualquier título de los productos farmacéuticos y cosméticos autorizados, se requerirá que éstos sean registrados en el Servicio Nacional de Salud.
 Sin embargo, el Director General podrá autorizar provisionalmente, en casos calificados, la importación y venta, sin previo registro, de productos farmacéuticos para usos medicinales urgentes.
 
@@ -438,7 +427,7 @@ Artículo 103°.- Un Reglamento determinará las normas de control de calidad a 
 
 Artículo 104°.- La Oficina de Marcas Comerciales del Ministerio de Economía, Fomento y Reconstrucción, no podrá registrar e inscribir la marca de un producto farmacéutico o cosmético sin informe previo favorable de la Dirección General de Salud. Asimismo, deberá cancelar toda inscripción cuando lo solicite esa Dirección.
 
-Artículo 105°.- El Ministerio de Salud Pública, previo informe de la Comisión a que se refiere el artículo 101°, aprobará la o las Farmacopeas que regirán en el país.
+Art�culo 105°.- El Ministerio de Salud aprobará la o las farmacopeas que regirán en el país.
 
 Artículo 106°.- La fabricación, importación, transferencia, posesión, tenencia o consumo de narcóticos, estupefacientes, alucinógenos y demás substancias que produzcan efectos análogos, se someterán a las disposiciones de un Reglamento especial, como asimismo, el tránsito en la República hacia países extranjeros de estas substancias, respetándose las obligaciones contraídas por el Estado en sus Convenios y Tratados Internacionales.
 NOTA
@@ -505,15 +494,17 @@ DE LOS LABORATORIOS, FARMACIAS Y OTROS ESTABLECIMIENTOS
 
 Artículo 121°.- La fabricación y elaboración de productos farmacéuticos sólo se permitirá en las farmacias y laboratorios destinados a este objeto.
 
-Artículo 122°.- Ninguna farmacia, droguería o laboratorio de productos farmacéuticos de uso humano podrá instalarse funcionar o trasladarse sin autorización del Servicio Nacional de Salud.
+Artículo 122°.- Ninguna farmacia, droguería o laboratorio de productos farmacéuticos podrá instalarse, funcionar o trasladarse sin autorización del Servicio Nacional de Salud.
 Corresponderá a éste, asimismo, la fiscalización de dichos establecimientos.
 
-Artículo 123°.- La venta al público de los productos farmacéuticos para uso humano sólo podrá hacerse en las farmacias, las cuales deberán ser dirigidas técnicamente por un farmacéutico o químico farmacéutico.
-Sólo los farmacéuticos o químicos-farmacéuticos o las sociedades legalmente constituidas en que figure como socio uno o más de estos profesionales, podrán adquirir o instalar farmacias. En todo caso la farmacia adquirida o instalada por una sociedad deberá ser dirigida técnicamente por alguno de los socios farmacéutico o químico-farmacéutico.
+Artículo 123°.- La venta al público de los productos farmacéuticos para uso humano sólo podrá hacerse en las Farmacias, las que deberán ser dirigidas técnicamente por un Farmacéutico o Químico Farmacéutico.
+No obstante y en conformidad a las instrucciones que imparta el Ministerio de Salud, el Servicio Nacional de Salud podrá autorizar la instalación y funcionamiento de almacenes farmacéuticos. Estos almacenes sólo podrán expender los productos farmacéuticos y demás elementos que determine el reglamento.
+Los almacenes farmacéuticos estarán dirigidos por prácticos de farmacia quienes deberán ser autorizados por el Servicio Nacional de Salud, previa comprobación de las condiciones de idoneidad y competencia que determine el decreto supremo reglamentario del Ministerio de Salud.
+Sin perjuicio de lo dispuesto en los incisos anteriores, los productos farmacéuticos para uso humano autorizados en el reglamento podrán ser expendidos en otros establecimientos, a cargo de un práctico de farmacia, en la forma y condiciones que determine el reglamento, el que, además, fijará la nómina de dichos productos.
 
 Artículo 124°.- Los médicos-cirujanos, cirujanos-dentistas y matronas podrán para el ejercicio de su profesión, mantener existencia de productos farmacéuticos para ser administrados por ellos.
 
-Artículo 125°.- El Servicio Nacional de Salud podrá autorizar la instalación de botiquines para el despacho o venta de productos farmacéuticos y elementos de primeros auxilios que determine el reglamento, en clínicas, maternidades, casas de socorro, campamentos mineros, termas, postas médicas, cuarteles, navíos, cooperativas de consumo y otros establecimientos.
+Artículo 125°.- El Servicio Nacional de Salud podrá autorizar la instalación de botiquines para el despacho o venta de productos farmacéuticos y elementos de primeros auxilios que determine el reglamento, en clínicas, maternidades, casas de socorro, campamentos mineros, termas, postas médicas, cuarteles y navíos.
 
 Artículo 126°.- Las droguerías y laboratorios de productos farmacéuticos, alimentos de uso médico, cosméticos y preparados higiénicos deberán ser dirigidos técnicamente por un farmacéutico o químico farmacéutico.
 En los casos de elaboración de materias primas o drogas de origen biológico, que se obtengan por procesos de tal índole, la dirección técnica podrá, además, corresponder a un bioquímico, a un médico-cirujano microbiólogo o un médico veterinario.
