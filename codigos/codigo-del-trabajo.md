@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2003-09-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2003-11-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2003-09-24
-fetched_at: 2026-08-03T01:21:16.907395+00:00
+version_date: 2003-11-01
+fetched_at: 2026-08-03T01:22:23.188658+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -619,15 +619,85 @@ Art. 144. El empleador deberá mantener en su oficina o en otro lugar habilitado
 
 Art. 145. La infracción a lo dispuesto en el artículo 136 se sancionará con una multa a beneficio fiscal de cinco a veinticinco unidades tributarias mensuales, que se duplicará en caso de reincidencia.
 
+#### Capítulo IV
+Del contrato de los trabajadores de artes y espectáculos
+
+Artículo 145-A.- El presente Capítulo regula la relación de trabajo, bajo dependencia o subordinación, entre los trabajadores de artes y espectáculos y su empleador, la que deberá tener una duración determinada, pudiendo pactarse por un plazo fijo, por una o más funciones, por obra, por temporada o por proyecto. Los contratos de trabajo de duración indefinida se regirán por las normas comunes de este Código.
+Se entenderá por trabajadores de artes y espectáculos, entre otros, a los actores de teatro, radio, cine, internet y televisión; folcloristas; artistas circenses; animadores de marionetas y títeres; coreógrafos e intérpretes de danza, cantantes, directores y ejecutantes musicales; escenógrafos, profesionales, técnicos y asistentes cinematográficos, audiovisuales, de artes escénicas de diseño y montaje; autores, dramaturgos, libretistas, guionistas, doblajistas, compositores y, en general, a las personas que, teniendo estas calidades, trabajen en circo, radio, teatro, televisión, cine, salas de grabaciones o doblaje, estudios cinematográficos, centros nocturnos o de variedades o en cualquier otro lugar donde se presente, proyecte, transmita, fotografíe o digitalice la imagen del artista o del músico o donde se transmita quede grabada la voz o la música, mediante procedimientos electrónicos, virtuales o de otra naturaleza, y cualquiera sea el fin a obtener, sea éste cultural, comercial, publicitario o de otra especie.
+Tratándose de la creación de una obra, el contrato de trabajo, en ningún caso, podrá afectar la libertad de creación del artista contratado, sin perjuicio de su obligación de cumplir con los servicios en los términos estipulados en el contrato.
+NOTA:
+El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que el presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
+
+Artículo 145-B.- Tratándose de contratos de trabajo por una o más funciones, por obra, por temporada, o por proyecto, de duración inferior a treinta días, el plazo de escrituración será de tres
+NOTA:
+días incorporado el trabajador. Si el contrato se celebrare por un lapso inferior a tres días, deberá constar por escrito al momento de iniciarse la prestación de los servicios.
+NOTA:
+El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que el presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
+
+Artículo 145-C.- Lo dispuesto en el inciso primero del artículo 22 de este Código no será aplicable a los trabajadores comprendidos en este Capítulo IV. Con todo, la jornada ordinaria diaria de trabajo no podrá exceder
+NOTA:
+de diez horas.
+NOTA:
+El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que el presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
+
+Artículo 145-D.- Los trabajadores de artes y espectáculos están exceptuados del descanso en domingo y festivos, debiendo el empleador otorgar en tales casos un día de descanso compensatorio por las actividades
+NOTA:
+desarrolladas en cada uno de esos días, aplicándose a su respecto lo dispuesto en el artículo 36 de este Código. El descanso señalado en dicho artículo tendrá una duración de treinta y tres horas continuas.
+Cuando se acumule más de un día de descanso a la semana, las partes podrán acordar una especial forma de distribución o de remuneración de los días de descanso que excedan de uno semanal. En este último caso, la remuneración no podrá ser inferior a la prevista en el artículo 32 de este Código.
+NOTA:
+El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que el presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
+
+Artículo 145-E.- La determinación del horario y plan de trabajo para cada jornada laboral deberá efectuarse con la suficiente anticipación al inicio de la prestación de los respectivos servicios.
+NOTA:
+NOTA:
+El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que el presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
+
+Artículo 145-F.- El empleador deberá costear o proveer el traslado, alimentación y alojamiento del trabajador, en condiciones adecuadas de higiene y seguridad, cuando las obras artísticas o proyectos
+NOTA:
+deban realizarse en una ciudad distinta a aquella en que el trabajador tiene su domicilio.
+NOTA:
+El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que el presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
+
+Artículo 145-G.- En los contratos de trabajo de duración inferior a treinta días, las remuneraciones se pagarán con la periodicidad estipulada en el contrato de trabajo, pero los períodos que se convengan no
+NOTA:
+podrán exceder de su fecha de término.
+NOTA:
+El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que el presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
+
+Artículo 145-H.- Cuando el empleador ejecute la obra artística o proyecto por cuenta de otra empresa, cualquiera sea la naturaleza jurídica del vínculo contractual, será aplicable lo dispuesto en los
+NOTA:
+artículos 64 y 64 bis de este Código.
+NOTA:
+El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que el presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
+
+Artículo 145-I.- El uso y explotación comercial de la imagen de los trabajadores de artes y espectáculos, para fines distintos al objeto principal de la prestación de servicios, por parte de sus
+NOTA:
+empleadores, requerirá de su autorización expresa. En cuanto a los beneficios pecuniarios para el trabajador, se estará a lo que se determine en el contrato individual o instrumento colectivo, según corresponda.
+NOTA:
+El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que el presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
+
+Artículo 145-J.- No se podrá, de manera arbitraria, excluir al trabajador de artes y espectáculos de los correspondientes ensayos ni de las demás actividades preparatorias para el
+NOTA:
+ejercicio de su actividad artística.
+NOTA:
+El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que el presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
+
+Artículo 145-K.- Los derechos de propiedad intelectual de los autores y compositores, artistas, intérpretes y ejecutantes, en ningún caso se verán afectados por las disposiciones contenidas en el
+NOTA:
+presente Capítulo IV.
+NOTA:
+El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que el presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
+
 #### Capítulo V
 DEL CONTRATO DE TRABAJADORES DE CASA
 PARTICULAR
 
-PARTICULAR
 Art. 146. Son trabajadores de casa particular las personas naturales que se dediquen en forma continua, a jornada completa o parcial, al servicio de una o más personas naturales o de una familia, en trabajos de aseo y asistencia propios o inherentes al hogar.
 Con todo, son trabajadores sujetos a las normas especiales de este capítulo, las personas que realizan labores iguales o similares a las señaladas en el inciso anterior en instituciones de beneficencia cuya finalidad sea atender a personas con necesidades especiales de protección o asistencia, proporcionándoles los beneficios propios de un hogar.
 En caso de duda, la calificación se hará por el inspector del trabajo respectivo, de cuya resolución podrá reclamarse al Director del Trabajo, sin ulterior recurso.
 Se aplicarán también las disposiciones de este capítulo a los choferes de casa particular.
+NOTA:
+El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que la modificación de la presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
 
 Art. 147. Las dos primeras semanas de trabajo se estimarán como período de prueba y durante ese lapso podrá resolverse el contrato a voluntad de cualquiera de las partes siempre que se dé un aviso con tres días de anticipación, a lo menos, y se pague el tiempo servido.
 
