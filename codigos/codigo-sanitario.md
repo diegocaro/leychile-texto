@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1986-12-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1988-03-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1986-12-09
-fetched_at: 2026-08-03T00:43:08.115839+00:00
+version_date: 1988-03-31
+fetched_at: 2026-08-03T00:44:44.227895+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -33,7 +33,11 @@ La Constitución Política de la República de Chile, aprobada por Decreto 1150,
 NOTA 1:
 Véanse el Capítulo I del Decreto ley 2763, Salud, publicado el 03.08.1979, que reorganiza el Ministerio de Salud, y el Decreto 395, Salud, publicado el 23.02.1980, que aprueba el reglamento orgánico de esta Secretaría de Estado.
 
-Artículo 4°.- A las Municipalidades corresponde atender los asuntos de orden sanitario que le entregan el artículo 105° de la Constitución Política del Estado y las disposiciones de este Código.
+Artículo 4°.- A las Municipalidades corresponde atender
+NOTA:
+los asuntos de orden sanitario que le entregan el artículo 105° de la Constitución Política del Estado y las disposiciones de este Código.
+NOTA:
+El Art. 4° del la LEY 18695, publicada el 31.03.1988, estableció las funciones que corresponden a las municipalidades en sus respectivos territorios, por aplicación del Art. 107 de la Constitución Política de la República. Entre ellas, conforme a sus letras b) y c), las relacionadas con la salud publica y la protección del medio ambiente.
 
 Artículo 5°.- Cada vez que el presente Código haga referencia a la autoridad sanitaria, se entenderá por ella el Director General de Salud o las personas en quienes éste delegue sus funciones o atribuciones.
 NOTA:
