@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1947-01-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1950-11-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1947-01-04
-fetched_at: 2026-08-03T00:08:49.363803+00:00
+version_date: 1950-11-10
+fetched_at: 2026-08-03T00:10:37.442620+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -788,8 +788,14 @@ En la misma pena incurrirá el que proporcionare lugar para la ejecución del de
 Si el encierro o la detención se prolongare por más de noventa días, o si de ellos resultare un daño grave en la persona o intereses del encerrado o detenido, la pena será presidio mayor en cualquiera de sus grados.
 
 ART. 142.
-La sustracción de un menor de diez años será castigada con presidio mayor en cualquiera de sus grados.
-Si el sustraído fuere mayor de diez y menor de veinte años, la pena será presidio menor en cualquiera de sus grados.
+La sustracción de un menor de 10 años será castigada:
+1) Con presidio mayor en su grado máximo a presidio perpetuo en los siguientes casos:
+a) Si se ejecutare para obtener un rescate o si durante la sustracción se cometieren actos deshonestos con el menor, y
+b) Si a consecuencia de ella resultaren lesiones de las indicadas en el artículo 397, número 1.o, o la muerte del menor.
+2) Con presidio perpetuo o muerte si concurrieren a lo menos dos de las circunstancias señaladas en las letras a) y b) del número anterior.
+3) Con presidio mayor en cualquiera de sus grados en los demás casos.
+Si el sustraído fuere mayor de 10 años y menor de 18 años, la pena será presidio menor en su grado máximo; pero si concurriere cualquiera de las circunstancias prescritas en las letras a) y b) del N.o 1), se aumentará en dos grados.
+Si antes de iniciarse procedimiento judicial el raptor devolviere voluntariamente al menor sustraído, libre de todo daño a sus padres, guardadores, encargados de su persona o a la autoridad, podrá imponérsele una pena inferior en dos grados a las señaladas en este artículo.
 
 ART. 143.
 El que fuera de los casos permitidos por la ley, aprehendiere a una persona para presentarla a la autoridad, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
@@ -1727,7 +1733,7 @@ Del rapto.
 
 ART. 358.
 El rapto de una mujer de buena fama ejecutado contra su voluntad y con miras deshonestas, será penado con presidio menor en su grado máximo a mayor en su grado mínimo. Cuando no gozare de buena fama, la pena será presidio menor en cualquiera de sus grados.
-En todo caso se impondrá la pena de presidio mayor en sus grados mínimo a medio si la robada fuere menor de doce años.
+En todo caso se impondrá la pena de presidio mayor en cualquiera de sus grados si la raptada fuere menor de 12 años.
 
 ART. 359.
 El rapto de una doncella menor de veinte y mayor de doce años, ejecutado con su anuencia, será castigado con presidio menor en cualquiera de sus grados.
