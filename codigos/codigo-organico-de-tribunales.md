@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2002-06-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2003-01-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2002-06-11
-fetched_at: 2026-08-03T01:18:55.901333+00:00
+version_date: 2003-01-31
+fetched_at: 2026-08-03T01:20:10.883355+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -606,10 +606,10 @@ b) El de la Corte de Iquique comprenderá la provincia de Iquique, de la Primera
 c) El de la Corte de Antofagasta comprenderá la Segunda Región de Antofagasta;
 d) El de la Corte de Copiapó comprenderá la Tercera Región de Atacama;
 e) El de la Corte de la Serena comprenderá la Cuarta Región de Coquimbo;
-f) El de la Corte de Valparaíso comprenderá la Quinta Región de Valparaíso, exceptuada la provincia de San Antonio, salvo las comunas de El Quisco y Algarrobo; además, comprenderá la comuna de Curacaví, de la Región Metropolitana de Santiago;
+f) El de la Corte de Valparaíso comprenderá la Quinta Región de Valparaíso;
 g) El de la Corte de Santiago comprenderá la parte de la Región Metropolitana de Santiago correspondiente a las provincias de Chacabuco y de Santiago, con exclusión de las comunas de Lo Espejo, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque, La Pintana y Pedro Aguirre Cerda;
-h) El de la Corte de San Miguel comprenderá la parte de la Región Metropolitana de Santiago correspondiente a las provincias de Cordillera, Maipo y Talagante; a la provincia de Melipilla, con exclusión de la comuna de Curacaví; a las comunas de Lo Espejo, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque, La Pintana y Pedro Aguirre Cerda, de la provincia de Santiago. Tendrá asimismo jurisdicción sobre la provincia de San Antonio con excepción de las comunas de El Quisco y Algarrobo, de la Quinta Región de Valparaíso y sobre la comuna de Navidad, de la Sexta Región del Libertador General Bernardo O'Higgins;
-i) El de la Corte de Rancagua comprenderá la Sexta Región, del libertador General Bernardo O'Higgins, exceptuada la comuna de Navidad de la provincia Cardenal Caro, de la misma Región;
+h) El de la Corte de San Miguel comprenderá la parte de la Región Metropolitana de Santiago correspondiente a las provincias de Cordillera, Maipo y Talagante; a la provincia de Melipilla; a las comunas de Lo Espejo, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque, La Pintana y Pedro Aguirre Cerda, de la provincia de Santiago;
+i) El de la Corte de Rancagua comprenderá la Sexta Región, del libertador General Bernardo O'Higgins;
 j) El de la Corte de Talca comprenderá el de la Séptima Región, del Maule;
 k) El de la Corte de Chillán comprenderá la provincia de Ñuble y la comuna de Tucapel, de la Provincia del Biobío de la Octava Región del Biobío;
 l) El de la Corte de Concepción comprenderá las provincias de Concepción, Arauco y Biobío, de la Región del Biobío, con excepción de la comuna de Tucapel;
