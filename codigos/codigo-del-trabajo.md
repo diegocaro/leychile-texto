@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2004-10-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2004-12-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2004-10-28
-fetched_at: 2026-08-03T01:26:57.614090+00:00
+version_date: 2004-12-18
+fetched_at: 2026-08-03T01:27:15.625324+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -190,7 +190,7 @@ La respectiva Inspección del Trabajo, actuando de oficio o a petición de parte
 
 Art. 32. Las horas extraordinarias sólo podrán pactarse para atender necesidades o situaciones temporales de la empresa. Dichos pactos deberán constar por escrito y tener una vigencia transitoria no superior a tres meses, pudiendo renovarse por acuerdo de las partes.
 No obstante la falta de pacto escrito, se considerarán extraordinarias las que se trabajen en exceso de la jornada pactada, con conocimiento del empleador.
-Las horas extraordinarias se pagarán con un recargo del cincuenta por ciento sobre el sueldo convenido para la jornada ordinaria y deberán liquidarse y pagarse conjuntamente con las remuneraciones ordinarias del respectivo período.
+Las horas extraordinarias se pagarán con un recargo del cincuenta por ciento sobre el sueldo convenido para la jornada ordinaria y deberán liquidarse y pagarse conjuntamente con las remuneraciones ordinarias del respectivo período. En caso de que no exista sueldo convenido, o éste sea inferior al ingreso mínimo mensual que determina la ley, éste constituirá la base de cálculo para el respectivo recargo.
 No serán horas extraordinarias las trabajadas en compensación de un permiso, siempre que dicha compensación haya sido solicitada por escrito por el trabajador y autorizada por el empleador.
 
 Art. 33. Para los efectos de controlar la asistencia y determinar las horas de trabajo, sean ordinarias o extraordinarias, el empleador llevará un registro que consistirá en un libro de asistencia del personal o en un reloj control con tarjetas de registro.
@@ -241,6 +241,7 @@ Jornada Parcial
 Art. 40 bis. Se podrán pactar contratos de trabajo con jornada a tiempo parcial, considerándose afectos a la normativa del presente párrafo, aquéllos en que se ha convenido una jornada de trabajo no superior a dos tercios de la jornada ordinaria, a que se refiere el artículo 22.
 
 Art. 40 bis A. En los contratos a tiempo parcial se permitirá el pacto de horas extraordinarias.
+La base de cálculo para el pago de dichas horas extraordinarias, no podrá ser inferior al ingreso mínimo mensual que determina la ley, calculado proporcionalmente a la cantidad de horas pactadas como jornada ordinaria.
 La jornada ordinaria diaria deberá ser continua y no podrá exceder de las 10 horas, pudiendo interrumpirse por un lapso no inferior a media hora ni superior a una hora para la colación.
 
 Art. 40 bis B. Los trabajadores a tiempo parcial gozarán de todos los demás derechos que contempla este Código para los trabajadores a tiempo completo.
@@ -272,7 +273,7 @@ Las infracciones a lo dispuesto en el inciso tercero del presente artículo, ser
 
 Art. 45. El trabajador remunerado exclusivamente por día tendrá derecho a la remuneración en dinero por los días domingo y festivos, la que equivaldrá al promedio de lo devengado en el respectivo período de pago, el que se determinará dividiendo la suma total de las remuneraciones diarias devengadas por el número de días en que legalmente debió laborar en la semana.
 No se considerarán para los efectos indicados en el inciso anterior las remuneraciones que tengan carácter accesorio o extraordinario, tales como gratificaciones, aguinaldos, bonificaciones u otras.
-Para los efectos de lo dispuesto en el inciso tercero del artículo 32, el sueldo diario de los trabajadores a que se refiere este artículo, incluirá lo pagado por este título en los días domingo y festivos comprendidos en el período en que se liquiden las horas extraordinarias.
+Para los efectos de lo dispuesto en el inciso tercero del artículo 32, el sueldo diario de los trabajadores a que se refiere este artículo, incluirá lo pagado por este título en los días domingo y festivos comprendidos en el período en que se liquiden las horas extraordinarias, cuya base de cálculo en ningún caso podrá ser inferior al ingreso mínimo mensual. Toda estipulación en contrario se tendrá por no escrita.
 Lo dispuesto en los incisos precedentes se aplicará, en cuanto corresponda, a los días de descanso que tienen los trabajadores exceptuados del descanso a que se refiere el artículo 35.
 
 Art. 46. Si las partes convinieren un sistema de gratificaciones, éstas no podrán ser inferiores a las que resulten de la aplicación de las normas siguientes.
@@ -450,7 +451,9 @@ Normas especiales para los trabajadores agrícolas de temporada
 
 Art. 93. Para los efectos de este párrafo, se entiende por trabajadores agrícolas de temporada, todos aquellos que desempeñen faenas transitorias o de temporada en actividades de cultivo de la tierra, comerciales o industriales derivadas de la agricultura y en aserraderos y plantas de explotación de madera y otras afines.
 
-Art. 94. El contrato de los trabajadores agrícolas de temporada deberá escriturarse en cuatro ejemplares, dentro de los cinco días siguientes a la incorporación del trabajador. Cuando la duración de las faenas para las que se contrata sea superior a veintiocho días, los empleadores deberán remitir una copia del contrato a la respectiva Inspección del Trabajo, dentro de los cinco días siguientes a su escrituración.
+Art. 94. El contrato de los trabajadores agrícolas de temporada deberá escriturarse en cuatro ejemplares, dentro de los cinco días siguientes a la incorporación del trabajador.
+Cuando la duración de las faenas para las que se contrata sea superior a veintiocho días, los empleadores deberán remitir una copia del contrato a la respectiva Inspección del Trabajo, dentro de los cinco días siguientes a su escrituración.
+En el caso de existir saldos de remuneración que no hayan sido pagados al trabajador, los empleadores deberán depositarlos, dentro del plazo de 60 días, contado desde la fecha de término de la relación laboral, en la cuenta individual del seguro de desempleo creado por la ley Nº 19.728, salvo que el trabajador disponga por escrito de otra forma. Los dineros depositados conforme a este inciso serán siempre de libre disposición para el trabajador. Los mandantes responderán de estos pagos de conformidad a lo establecido en los artículos 64 y 64 bis.
 
 Art. 95. En el contrato de los trabajadores transitorios o de temporada, se entenderá siempre incluida la obligación del empleador de proporcionar al trabajador condiciones adecuadas e higiénicas de alojamiento, de acuerdo a las características de la zona, condiciones climáticas y demás propias de la faena de temporada de que se trate, salvo que éste acceda o pueda acceder a su residencia o a un lugar de alojamiento adecuado e higiénico que, atendida la distancia y medios de comunicación, le permita desempeñar sus labores.
 En las faenas de temporada, el empleador deberá proporcionar a los trabajadores, las condiciones higiénicas y adecuadas que les permitan mantener, preparar y consumir los alimentos. En el caso que, por la distancia o las dificultades de transporte no sea posible a los trabajadores adquirir sus alimentos, el empleador deberá, además, proporcionárselos.
