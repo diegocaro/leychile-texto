@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1988-01-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1988-01-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1988-01-11
-fetched_at: 2026-08-03T00:44:20.202940+00:00
+version_date: 1988-01-20
+fetched_at: 2026-08-03T00:44:32.213651+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -3440,6 +3440,8 @@ Art. 1116. Las reglas de este párrafo se aplicarán a los daños que se produzc
 Para estos efectos, el concepto de nave incluirá los artefactos navales que puedan desplazarse por medios propios o ajenos.
 Estas normas tendrán también aplicación cuando los hechos ocurran en aguas fluviales, lacustres o cualquier otra vía navegable.
 
+Art. 1117. Se aplicarán también las reglas de este párrafo, a los daños por abordaje que ocurra entre naves pertenecientes a un mismo dueño o sometidas a una misma administración.
+
 Art. 1118. En todo abordaje se aplicará la ley del Estado en cuyas aguas jurisdiccionales ocurrió.
 Si el abordaje se produjere en aguas no sometidas a la soberanía de Estado alguno, se aplicará la ley del país ante cuyos tribunales se interponga la demanda.
 
@@ -3719,6 +3721,16 @@ Art. 1187. La pérdida total puede ser real o efectiva. También puede ser asimi
 Existirá pérdida total real o efectiva, cuando el objeto asegurado quede completamente destruido o de tal modo dañado, que pierda definitivamente la aptitud para el fin a que está destinado o, cuando el asegurado sea irremediablemente privado de él. Todo lo cual es sin perjuicio de lo que se hubiere estipulado en la póliza.
 
 Art. 1188. Si transcurrido un plazo razonable, no se han recibido noticias de una nave, se presumirá su pérdida total efectiva y la de su cargamento.
+
+Art. 1189- Salvo que la póliza disponga otra cosa, existirá pérdida total asimilada, cuando el objeto asegurado sea razonablemente abandonado, ya sea porque la pérdida total efectiva parezca inevitable o porque no
+NOTA:
+es posible evitar su pérdida, sin incurrir en un gasto que exceda del valor de dicho objeto después de efectuado el desembolso.
+Se considerarán como de pérdida total asimilada, en especial, los siguientes casos:
+1º Cuando el asegurado sea privado de la nave o de las mercancías a causa de un riesgo cubierto por la póliza y sea improbable que pueda recuperarlas o el costo de la recuperación exceda al valor de la nave o de las mercancías una vez recuperadas;
+2º Cuando el daño causado a una nave por un riesgo asegurado, sea de tal magnitud que el costo de repararla exceda al valor de esa nave, una vez reparada. Al estimarse el costo de reparación, no se hará deducción alguna por contribuciones de avería gruesa a esas reparaciones, de cargo de otros intereses. Pero se tomarán en cuenta los gastos de futuras operaciones de salvamento y de cualquier futura contribución de avería gruesa que afectaría a la nave, al ser reparada, y
+3º Cuando el costo de su reparación y los de reexpedición a su destino, excedan al valor de ellas en la fecha de arribo a su destino, si se trata de daños a las mercancías o carga.
+NOTA:
+El artículo Sexto de la LEY 18680, publicada el 11.01.1988, dispone que la sustitución de este artículo entrará en vigencia seis meses después de su publicación.
 
 Art. 1190. Salvo estipulación en contrario, el seguro contra pérdida total cubre tanto la pérdida total asimilada como la real o efectiva.
 
