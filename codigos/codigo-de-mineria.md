@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=1990-02-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=1992-06-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 29668
-version_date: 1990-02-22
-fetched_at: 2026-08-03T00:49:34.658965+00:00
+version_date: 1992-06-17
+fetched_at: 2026-08-03T00:53:05.593073+00:00
 titulo_norma: "CODIGO DE MINERIA"
 compuesto: LEY-18248
 organismos: ['MINISTERIO DE MINERIA']
@@ -646,6 +646,14 @@ DEL AMPARO, EXTINCIÓN Y CADUCIDAD DE LAS CONCESIONES MINERAS
 Del amparo
 
 Artículo 142.- La concesión minera debe ser amparada mediante el pago de una patente anual cuyo monto será equivalente a un décimo de unidad tributaria mensual por cada hectárea completa, si es de explotación; y a un quincuagésimo de dicha unidad por la misma extensión, si es de exploración. Con todo, los titulares de pertenencias cuyo interés económico principal resida en las sustancias no metálicas o en los placeres metalíferos que existen en ellas y los titulares de pertenencias constituidas sobre sustancias existentes en salares, pagarán una patente anual cuyo monto será equivalente a un trigésimo de unidad tributaria mensual por cada hectárea completa; un reglamento determinará la forma en que esos titulares acreditarán los hechos, ya referidos, que los hagan acreedores a este beneficio, y señalará cuáles son las sustancias que se consideran no metálicas para estos efectos y cuáles constituyen para los mismos efectos, placeres metalíferos.
+NOTA
+El artículo único de la Ley N° 19.143, publicada en el "Diario Oficial" de 17 de Junio de 1992, dispuso lo siguiente:
+"Una cantidad igual al producto de las patentes de amparo de las concesiones mineras, a que se refieren los Párrafos 1° y 2° del Título X del Código de Minería, que no constituyan tributos, se distribuirá entre las regiones y comunas del país en la forma que a continuación se indica:
+a) 70% de dicha cantidad se incorporará a la cuota del Fondo Nacional de Desarrollo Regional que anualmente le corresponda, en el Presupuesto Nacional, a la Región donde tenga su oficio el Conservador de Minas en cuyos Registros estén inscritas el acta de mensura o la sentencia constitutiva de las concesiones mineras que den origen a las patentes respectivas, y
+b) El 30% restante corresponderá a las Municipalidades de las Comunas en que estén ubicadas las concesiones mineras, para ser invertido en obras de desarrollo de la Comuna correspondiente. En el caso de que una concesión de exploración o una concesión de explotación se encuentre ubicada en territorio de dos o más Comunas, las respectivas Municipalidades deberán determinar, entre ellas, la proporción en que habrán de percibir la suma igual a la patente correspondiente a la concesión de exploración o a la concesión de explotación de que se trate, dividiendo su monto a prorrata de la superficie que sea abarcada por una u otra concesión, en cada Comuna. Si no hubiere acuerdo entre las aludidas Municipalidades respecto de la citada proporción, el Servicio Nacional de Geología 9y Minería determinará qué superficie de las correspondientes concesiones queda comprendida en en cada Comuna.
+La Ley de Presupuestos de cada año incluirá en los presupuestos de los Gobiernos Regionales que corresponda, las cantidades a que se refiere la letra a) de este artículo. El Servicio de Tesorerías pondrá a disposición de las Municipalidades los recursos a que se refiere la letra b), dentro del mes subsiguiente al de su recaudación.".
+NOTA 1
+El artículo transitorio de la Ley N° 19.143, publicada en el "Diario Oficial" de 17 de Junio de 1992, ordenó que lo dispuesto en su artículo único se aplicará a contar del 1° de enero de 1993.
 
 Artículo 143.- El pago de la patente será anticipado y se efectuará en el curso del mes de marzo de cada año, en cualquier banco o institución autorizados para recaudar tributos.
 
