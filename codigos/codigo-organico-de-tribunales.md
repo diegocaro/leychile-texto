@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1963-09-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1964-08-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1963-09-12
-fetched_at: 2026-08-03T00:17:17.126057+00:00
+version_date: 1964-08-13
+fetched_at: 2026-08-03T00:17:29.564133+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -162,15 +162,16 @@ El ejercicio de la jurisdicción se dividirá entre los juzgados de cada ciudad,
 Sin embargo, los Jueces de Letras de menor cuantía a que se refiere el inciso primero, conocerán de los juicios de mínima cuantía, conforme al territorio jurisdiccional que para tal efecto fijará a cada uno el Presidente de la República, previo informe de las respectivas Cortes de Apelaciones.
 Podrá también el Presidente de la República, a instancia de las mismas Cortes, modificar los límites de la jurisdicción territorial de los juzgados de letras de menor cuantía.
 
-Art. 29. Habrá, además, un juzgado de letras de menor cuantía en Alto de San Antonio (Iquique), Pampa Unión (Antofagasta), Andacollo, Viña del Mar, Sewell (Rancagua), Curanilahue, Santa Juana, Temuco, Puerto Saavedra, Villarrica, Valdivia y San José de la Mariquina.
+Art. 29. Habrá, además, un juzgado de letras de menor cuantía en Alto de San Antonio (Iquique), Pampa Unión (Antofagasta), Andacollo, Viña del Mar, Sewell (Rancagua), Curanilahue, Santa Juana, Temuco, Valdivia y San José de la Mariquina.
 Los Juzgados de Viña del Mar y de San José de la Mariquina ejercerán jurisdicción sobre las subdelegaciones de sus respectivos nombres.
-El de Villarrica ejercerá jurisdicción sobre las comunas de Villarrica y Pucón, y tendrá su asiento en la primera.
+Inciso suprimido.
 Respecto del territorio jurisdiccional de los demás juzgados a que se refiere este artículo, regirá lo dispuesto en el artículo anterior.
 
 Art. 30. Podrá el Presidente de la República, a medida que los recursos fiscales lo permitan, crear uno o más juzgados de letras de menor cuantía en las ciudades o centros de población que, por el número de sus habitantes, las dificultades de comunicación y el movimiento de las causas civiles y criminales, hagan necesario encomendar a funcionarios especiales la administración de justicia en lo relativo a negocios de menor cuantía.
 Estos juzgados se crearán, preferentemente, en los centros industriales o mineros y demás poblaciones obreras que se encuentren fuera de las ciudades cabeceras de provincias o departamentos.
 Creado un juzgado de letras de menor cuantía, no podrá ser suprimido sino por medio de una ley.
 Regirá, también, respecto de estos juzgados lo dispuesto en el inciso final del art. 28.
+Asimismo el Presidente de la República podrá, previo informe de la Corte de Apelaciones respectiva, disponer en el decreto de creación que estos Tribunales tengan la competencia especial establecida en el artículo 39.o.
 
 Art. 31. El decreto que fije o que modifique los límites del territorio jurisdiccional de un juez de letras de menor cuantía señalará, además, un lugar fijo y conocido que sirva de asiento al tribunal, dentro de dicho territorio.
 Los jueces de letras de menor cuantía de Santiago y Valparaíso deberán funcionar, en cuanto sea posible, en locales que estén vecinos.
@@ -236,17 +237,15 @@ Art. 41. Suprimido.
 
 Art. 42. En cada departamento habrá un Juzgado de Letras de Mayor Cuantía, que deberá funcionar en la respectiva capital.
 Existirán dos juzgados de mayor cuantía en los departamentos de Iquique, Antofagasta, Ovalle, Rancagua, Talca, Chillán, La Laja, Temuco, Valdivia y Osorno, y tres en Concepción.
-En el departamento de Santiago habrá cinco juzgados de mayor cuantía, que ejercerán jurisdicción exclusivamente en materia civil y siete en materia criminal, y en el de Valparaíso dos en lo civil y tres en lo criminal.
+En el departamento de Santiago habrá cinco Juzgados de Mayor Cuantía, que ejercerán jurisdicción exclusivamente en materia civil y siete en materia criminal; en el de Valparaíso dos en lo civil y tres en lo criminal y en el departamento Presidente Aguirre Cerda, uno que conocerá exclusivamente de asuntos civiles y del trabajo, y otro en materia criminal.
 
 Art. 43. Para todos los efectos del servicio judicial se considerarán como parte integrante del departamento de San Bernardo las comunas-subdelegaciones de San José de Maipo y Puente Alto del departamento de Santiago; y del departamento de Maipo, la comuna-subdelegación de Pirque del mismo departamento de Santiago.
 Los jueces del crimen del departamento de Santiago ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago; pero podrán practicar actuaciones en todo el departamento, en los asuntos sometidos a su conocimiento.
 El Presidente de la República podrá modificar los límites de la jurisdicción territorial de los juzgados a que se refiere el inciso anterior, previo acuerdo de la misma Corte. No podrá hacer uso de esta facultad más de una vez al año.
 
-Art. 44. Habrá también un Juzgado de Mayor Cuantía en las ciudades de Petorca, Putaendo, Casablanca, Limache, Florida (Concepción) y Lota.
-En la comuna de San Miguel, del departamento de Santiago, habrá dos Juzgados de Letras de Mayor Cuantía, uno de los cuales tendrá competencia exclusivamente sobre los asuntos criminales que se promuevan dentro de su jurisdicción y el otro en materia civil y del Trabajo.
-Los territorios jurisdiccionales de los tribunales a que se refiere este artículo, serán las comunas-subdelegaciones de sus respectivos nombres.
-El Juzgado de Limache comprenderá, además, las comunas de Quilpué y Villa Alemana; el de Casablanca, comprenderá también la comuna de Algarrobo, y los de San Miguel comprenderán, además, las de Cisterna y La Granja, del departamento de Santiago.
-Las divisiones administrativas señaladas en los incisos anteriores, serán consideradas como departamentos para todos los efectos del servicio judicial.
+Art. 44. Habrá también un Juzgado de Letras de Mayor Cuantía en Petorca, Putaendo, Casablanca, Limache, Quilpué, Florida (Concepción), Villarica, que tendrán su asiento en la ciudades cabeceras de esas comunas subdelegaciones, las cuales serán consideradas como departamentos para todos los efectos del Servicio de Judicial.
+Los territorios jurisdiccionales de los Tribunales a que se refiere este artículo serán los de las comunas-subdelegaciones de sus respectivos nombres.
+El Juzgado de Limache comprenderá, además, la comuna de Villa Alemana; el de Casablanca, la comuna de Algarrobo; el de Carahue, la comuna de Saavedra, con excepción de los distritos 8) Molco, 9) Pucolón y 10) Chelle, los cuales continuarán perteneciendo a la jurisdicción del Juzgado de Letras de Mayor Cuantía de Imperial; y el de Villarrica, comprenderá también la comuna de Pucón.
 
 Art. 45. Los jueces de letras de mayor cuantía conocerán:
 1°) En única o en primera instancia, conforme al inciso final de este número:
@@ -973,7 +972,7 @@ Todo lo cual se entiende sin perjuicio de lo dispuesto en el artículo 227.
 Art. 231. Pueden las partes, si obran de acuerdo, nombrar para la resolución de un litigio dos o más árbitros.
 
 Art. 232. El nombramiento de árbitros deberá hacerse con el consentimiento unánime de todas las partes interesadas en el litigio sometido a su decisión.
-En los casos en que no hubiere avenimiento entre las partes respecto de la persona en quien haya de recaer el encargo, el nombramiento se hará por la justicia ordinaria, debiendo en tal caso recaer dicho nombramiento en un solo individuo y diverso de los dos primeros indicados por cada parte.
+En los casos en que no hubiere avenimiento entre las partes respecto de la persona en quien haya de recaer el encargo, el nombramiento se hará por la justicia ordinaria, debiendo en tal caso recaer dicho nombramiento en un solo individuo y diverso de los dos primeros indicados por cada parte; se procederá, en lo demás, en la forma establecida en el Código de Procedimiento Civil para el nombramiento de peritos.
 
 Art. 233. En el caso de ser dos o más los árbitros nombrados, las partes podrán nombrar un tercero que dirima las discordias que entre aquéllos puedan ocurrir.
 Podrán, también, autorizar a los mismos árbitros para que nombren, en caso necesario, el tercero en discordia.
@@ -1134,11 +1133,11 @@ SEGUNDA SERIE. Procuradores del número.
 TERCERA SERIE. Receptores de juzgados de letras.
 Las dos primeras series se dividirán en cuatro categorías y la tercera en cinco.
 Figurarán:
-En la PRIMERA CATEGORIA, los funcionarios de la primera y segunda series que desempeñen sus cargos en Santiago y los receptores de mayor cuantía del mismo departamento.
-En la SEGUNDA CATEGORIA, los funcionarios de la primera y segunda series que sirvan sus cargos en los demás departamentos de asiento de Corte de Apelaciones y los receptores de mayor cuantía de los mismos departamentos;
+En la PRIMERA CATEGORIA, los funcionarios de la primera y segunda series que desempeñen sus cargos en Santiago y los receptores del mismo departamento.
+En la SEGUNDA CATEGORIA, los funcionarios de la primera y segunda series que sirvan sus cargos en los demás departamentos de asiento de Corte de Apelaciones y los receptores de los mismos departamentos;
 En la TERCERA CATEGORIA, los funcionarios indicados en el inciso anterior que desempeñen sus cargos en las capitales de provincia;
 En la CUARTA CATEGORIA, los funcionarios indicados en el mismo inciso, que sirvan sus cargos en las cabeceras de departamentos; y
-En la QUINTA CATEGORIA, de la tercera serie, los receptores de los juzgados de letras de menor cuantía.
+En la QUINTA CATEGORIA, de la tercera serie, los receptores que actúen exclusivamente ante los Juzgados de Letras de Menor Cuantía.
 
 #### 3). Formación del Escalafón y calificación del personal
 
@@ -1242,21 +1241,21 @@ Primera categoría: Oficiales 1º y 2º de la Corte Suprema, Secretario-Abogado 
 Segunda categoría: Oficiales 3ºs. de la Corte Suprema, Oficiales 2ºs. de las Cortes de Apelaciones, Bibliotecario Estadístico de la Corte de Apelaciones de Santiago y Oficiales 1ºs. de los Juzgados Letras de Mayor Cuantía de asiento de Corte;
 Tercera categoría: Oficiales 4ºs. de la Corte Suprema, Oficiales 3ºs. de las Cortes de Apelaciones, Oficiales 2ºs. de los Juzgados de Letras de Mayor Cuantía de asiento de Corte, Oficiales 4ºs. de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos Tribunales, Estadístico de la Corte de Apelaciones de Concepción, Oficiales 3ºs. de los Juzgados de Letras de Mayor Cuantía de asiento de Corte y Oficiales 1ºs. de los Juzgados de Letras de Mayor Cuantía de capital de provincia;
 Cuarta categoría: Oficiales 4ºs. de los Juzgados de Letras de Mayor Cuantía de asiento de Corte, Oficiales de los Defensores Públicos de Santiago y Valparaíso, Oficiales 2ºs. de los Juzgados de Letras de Mayor Cuantía de capital de provincia, Oficiales 1ºs. de los Juzgados de Letras de Mayor Cuantía de departamento y Oficiales 1ºs. de los Juzgados de Letras de Menor Cuantía de asiento de Corte;
-Quinta categoría: Oficiales Auxiliares de la Corte Suprema, Oficiales 3ºs. de los Juzgados de Letras de Mayor Cuantía de capital de provincia, Oficiales 2ºs. de los Juzgados de Letras de Mayor Cuantía de departamento, Oficiales 2ºs. de los Juzgados de Letras de Menor Cuantía de asiento de Corte, Oficiales 1ºs. de los demás Juzgados de Letras de Menor Cuantía, Oficiales 3ºs. de los Juzgados de Letras de Mayor Cuantía de departamento, Oficial-Intérprete de los Juzgados de Temuco y Oficiales 2ºs. de los demás Juzgados de Letras de Menor Cuantía.
-6.a Categoría.- Oficiales de Sala de la Corte Suprema; Oficiales de Sala de las Cortes de Apelaciones; Oficiales de Sala de Juzgados de Letras de Mayor Cuantía, Oficiales de Sala de Juzgados de Letras de Menor Cuantía y demás personal de grado 19.o que presta sus servicios en la Corte Suprema y Cortes de Apelaciones.
+Quinta Categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de la Biblioteca de la Corte Suprema, Oficiales 3os. y 4os. de Juzgados de Letras de Mayor Cuantía de capital de provincia, Oficiales 2os. y 3os. de los Juzgados de Letras de Mayor Cuantía de Departamento, Oficiales 2os. y 3os. de los Juzgados de Letras de Menor Cuantía de Asiento de Corte, Oficiales 1os. 2os. y 3os. de los demás Juzgados de Letras de Menor Cuantía y Oficial interprete de los Juzgados de Temuco.
+Sexta Categoría: Oficiales de Sala de la Corte Suprema, de las Cortes de Apelaciones, de los Juzgados de Letras de mayor y de Menor Cuantía y demás personal auxiliar de aseo o de servicio que se desempeñe en los Tribunales de Justicia.
 
 Art. 293. Los empleados subalternos que estén en posesión del título de abogado y de los demás requisitos exigidos por la ley para optar a los cargos del escalafón primario y secundario, serán preferidos a las personas extrañas a la carrera judicial en los nombramientos para llenar las vacantes de dichos escalafones.
 NOTA
 El N° 38 del Art. 3° de la Ley 11183, publicada el 10.06.1953, dispuso agregar un inciso al Art. 293, sin embargo la edición oficial original de este Código no contenía un Art. 293 en su enumeración, por lo que este inciso agregado ha pasado a constituir su único texto.
 
-Art. 294. Las ternas para el nombramiento de empleados del Escalafón subalterno, serán formadas, previo concurso, por el tribunal en que deban prestar sus servicios, con un empleado de la misma categoría del cargo que se trata de proveer y dos de la categoría inferior. A falta de oponentes de la misma categoría, la terna se formará con tres empleados de la categoría inferior y si en ella no hubiere interesados en número suficiente, ocuparán sus lugares los de la categoría siguiente y, a falta de éstos, personan extrañas a la carrera.
-Sin embargo, si se opusieren a los concursos para proveer cargos de las categorías tercera y cuarta alumnos regulares del Cuarto o Quinto Años de las Escuelas de Derecho de la Universidad de Chile y demás Universidades reconocidas por el Estado, ocupará alguno de éstos un lugar en la terna respectiva, excluyendo, en este caso, a un funcionario del Servicio de las categorías inferiores señaladas en el inciso precedente.
-Los egresados de Derecho de las Universidades mencionadas en el inciso anterior, con dos años de permanencia en el escalafón, si se opusieren a los concursos para proveer cargos de la segunda categoría tendrán las mismas prerrogativas que el inciso anterior confiere a los alumnos regulares de Cuarto y Quinto Años de Derecho, para figurar en terna.
-Las ternas para el nombramiento de empleados de la quinta categoría, se formarán con un empleado de la categoría sexta que se presente a concurso y con personas extrañas a la carrera.
-Para figurar en las ternas que se formen para proveer en propiedad o interinamente, los cargos a que se refieren los incisos anteriores, será necesario poseer los requisitos exigidos por el párrafo 2.o del Título 1.o del decreto con fuerza de ley N.o 338, de 6 de Abril de 1960, sobre Estatuto Administrativo, con excepción del contemplado en el inciso segundo del artículo 14.
-En las ternas para nombramientos de suplente de esos mismos empleos, sólo se exigirá el requisito contemplado en el artículo 13.o del citado cuerpo legal.
-Dentro de la 6.a categoría los cargos también se proveerán mediante ternas que se formarán previo concurso, en el cual deberá acreditarse el cumplimiento de los requisitos de ingreso señalados anteriormente, según sea la calidad en que se provea el empleo, a excepción del relativo a estudios.
-El Tribunal respectivo deberá formar las ternas preferentemente con empleados de la misma categoría que se opongan, y que desempeñen sus cargos dentro de la jurisdicción de la misma Corte de Apelaciones.
+Art. 294. Las ternas para el nombramiento de empleados del Escalafón subalterno, serán formadas, previo concurso por el tribunal en que deban prestar sus servicios, con un empleado de la misma categoría del cargo que se trata de proveer y dos de la categoría inferior. A falta de oponentes de la misma categoría, la terna se formará con tres empleados de la categoría inferior y por si en ella no hubiere interesados en número suficiente, ocuparán sus lugares los de la categoría siguiente y a falta de éstos, personas extrañas a la carrera.
+Sin embargo, si se opusieren a los concursos para proveer cargos de las categorías tercera y cuarta alumnos regulares del Cuarto y Quinto año de las Escuelas de Derecho de la Universidad de Chile y demás Universidades reconocidas por el Estado, ocupará alguno de éstos un lugar en la terna respectiva, excluyendo, en este caso, a un funcionario del Servicio de las categorías inferiores señaladas en el inciso precedente.
+Los egresados de derecho de las Universidades mencionadas en el inciso anterior, con dos años de permanencia en el Escalafón, sí opusieren a los concursos para proveer cargos de la segunda categoría, tendrán las mismas prerrogativas que el inciso anterior confiere a los alumnos regulares de Cuarto y Quinto años de Derecho, para figurar en terna.
+Las ternas para el nombramiento de empleados de la Quinta Categoría, se formarán con un empleado de la Categoría Sexta que se presente a concurso y con personas extrañas a la carrera.
+Para figurar en las ternas que se formen para proveer en propiedad o internamente, los cargos a que se refieren los incisos anteriores, tratándose del ingreso al Servicio, será necesario poseer los requisitos exigidos por el párrafo 2.o del Título 1.o del decreto con fuerza de ley N.o 338, de 6 de Abril de 1960, sobre Estatuto Administrativo, con excepción del contemplado en el inciso segundo del artículo 14.o.
+En las ternas para nombramiento de suplente de esos mismos empleos, sólo se exigirá el requisito contemplado en el artículo 13.o del citado cuerpo legal.
+Dentro de la 6a. Categoría, los cargos también se proveerán mediante ternas que se formarán previo concurso, en el cual deberá acreditarse el cumplimento de los requisitos de ingresos señalados anteriormente, según sea la calidad en el que se provea el empleo, a excepción del relativo a estudios.
+El tribunal respectivo deberá formar las ternas preferentemente, con empleados de la misma categoría que se opongan, y que desempeñen sus cargos dentro de la jurisdicción de la misma Corte de Apelaciones.
 
 Art. 295. Derogado.
 
@@ -1603,14 +1602,12 @@ Art. 389. Las funciones que se encomiendan a los secretarios en el Título VI de
 Art. 390. Los receptores son ministros de fe pública encargados de hacer saber a las partes, fuera de las oficinas de los secretarios, los decretos y resoluciones de los Tribunales de Justicia, y de evacuar todas aquellas diligencias que los mismos tribunales les cometieren.
 Deben recibir, además, las informaciones sumarias de testigos en actos de jurisdicción voluntaria o en juicios civiles y actuar en estos últimos como ministros de fe en la recepción de la prueba testimonial y en la diligencia de absolución de posiciones.
 
-Art. 391. Habrá receptores de mayor y de menor cuantía.
-Los receptores de mayor cuantía estarán al servicio de la Corte Suprema, de las Cortes de Apelaciones y de los juzgados de letras de mayor cuantía.
-Los receptores de menor cuantía serán de dos clases: los que estén al servicio de los jueces de letras de menor cuantía y los que ejerzan sus funciones ante los jueces de subdelegación y de distrito.
-En los lugares en que hubiere dos o más Jueces de Menor Cuantía, los Receptores de Menor Cuantía ejercerán sus funciones en todo el territorio conjunto fijado por el Presidente de la República, ante cualesquiera de los respectivos Juzgados de Letras de Menor Cuantía.
-Inciso derogado.
+Art. 391. Los receptores estarán al servicio de la Corte Suprema, de las Cortes de Apelaciones y de los Juzgados de Letras.
+Habrá también receptores especiales que ejercerán sus funciones ante los jueces de subdelegación y distrito.
+Los receptores ejercerán sus funciones en todo el territorio que comprenda el respectivo departamento, con excepción de los que actúen ante juzgados de letras de menor cuantía, cuyo asiento esté situado fuera de la ciudad cabecera del departamento, los cuales prestarán servicios en forma exclusiva ante esos tribunales.
 
-Art. 392. Habrá para cada departamento el número de receptores de mayor cuantía que el Presidente de la República determine, previo el informe de la respectiva Corte de Apelaciones.
-El Presidente de la República determinará también el número de receptores que deben actuar ante los jueces de letras de menor cuantía y ante los jueces de subdelegación y distrito y señalará, respecto de estos últimos, las subdelegaciones en que deban prestar sus servicios.
+Art. 392. Habrá para cada departamento el número de receptores que el Presidente de la República determine, previo informe de la respectiva Corte de Apelaciones.
+El Presidente de la República determinará también el número de receptores que deban actuar ante los jueces de Letras de menor cuantía, en el caso señalado en el inciso tercero del artículo anterior ante los jueces de subdelegación y distrito y señalará, respecto de estos últimos, las subdelegaciones en que deban prestar sus servicios.
 
 Art. 393. Son obligaciones de los receptores:
 1°) Evacuar con prontitud y fidelidad las notificaciones, embargos y demás diligencias que se les cometan;
@@ -1844,7 +1841,7 @@ Igualmente, regirán los requisitos establecidos por los incisos cuarto y quinto
 Ningún cargo de fiscal, de defensor público o de relator podrá permanecer vacante, ni aún en el caso de estar servido interinamente, por más de cuatro meses si se trata de los dos primeros y de tres meses, si del último. Vencidos estos términos, el funcionario interino cesará de hecho en el ejercicio de sus funciones, y el Presidente de la República proveerá la plaza en propiedad.
 
 Art. 459. Los oficiales del ministerio público, los defensores, los relatores y los demás auxiliares de la Administración de Justicia, serán nombrados por el Presidente de la República previa propuesta de la Corte Suprema o de la Corte de Apelaciones respectiva, en conformidad a las disposiciones contenidas en el párrafo tercero del Título X del presente Código.
-Los receptores de menor cuantía de los juzgados de distrito y subdelegación serán nombrados por el gobernador del departamento dentro del cual deben ejercer sus funciones, previa propuesta del respectivo juez de letras de mayor cuantía o del funcionario que en el departamento hiciere las veces de tal.
+Los receptores de los juzgados de distrito y subdelegación serán nombrados por el gobernador del departamento dentro del cual deben ejercer sus funciones, previa propuesta del respectivo juez de letras de mayor cuantía o del funcionario que en el departamento hiciere las veces de tal.
 Para la designación de los funcionarios a que se refieren los incisos anterior deberán cumplirse, además, los requisitos que se indican en los artículos siguientes.
 
 Art. 460. Las Cortes examinarán las aptitudes de los opositores que no sean abogados mediante un examen de competencia cuando se trate de proveer algún cargo para el cual no se requiera esa calidad.
@@ -1868,12 +1865,12 @@ Art. 466. Para ser secretario de un juzgado de letras de mayor cuantía, archive
 Sin embargo, cuando a una oposición para proveer el cargo de secretario no se presentare ningún abogado, podrá ser nombrado cualquier individuo que tenga las cualidades necesarias para poder ejercer el derecho de sufragio en las elecciones populares y que acreditare poseer aptitud para desempeñar el cargo.
 Le será aplicable también al personal subalterno de la Judicatura del Trabajo lo dispuesto en el inciso precedente, entendiéndose que reúne los requisitos el empleado que hubiere cumplido diez años, a lo menos en el respectivo escalafón.
 
-Art. 467. Para ser receptor de mayor cuantía o receptor ante los juzgados de letras de menor cuantía y procurador del número es menester tener las cualidades requeridas para poder ejercer el derecho de sufragio en las elecciones populares y acreditar la aptitud necesaria para desempeñar el cargo. Siempre será necesaria la edad de veinticinco años a lo menos para desempeñar el cargo de procurador.
-Para ser receptor de menor cuantía ante los juzgados de distrito y subdelegación se requiere esta misma edad.
+Art. 467. Para ser receptor ante los Juzgados de Letras y procurador del número es menester tener las cualidades requeridas para poder ejercer el derecho de sufragio en las elecciones populares y acreditar la aptitud necesaria para desempeñar el cargo. Siempre será necesaria la edad de veinticinco años a lo menos para desempeñar el cargo de procurador.
+Para ser receptor ante los juzgados de distrito y subdelegación se requiere esta misma edad.
 
 Art. 468. Para ser secretario de juzgado de letras de menor cuantía se requiere tener más de veintiún años, y saber leer y escribir. Los Secretarios de estos juzgados en Santiago, deberán, además, ser abogados.
 
-Art. 469. Las incapacidades en razón de parentesco establecidas en el artículo 258, rigen para todos los funcionarios del Escalafón Primario y de la primera serie del Escalafón Secundario dependientes de una Corte de Apelaciones en su respectivo territorio jurisdiccional.
+Art. 469. Las incapacidades en razón de parentesco establecidas en el artículo 258, rigen para todos los funcionarios del Escalafón Primario dependientes de una Corte de Apelaciones en su respectivo territorio jurisdiccional.
 No podrán ser oficiales del ministerio público en un tribunal, las personas que tengan con uno o más jueces de él alguno de los parentescos indicados en el citado artículo.
 No pueden ser defensores públicos los que tengan con algunos de los jueces de letras propietarios del departamento cualquiera de los parentescos indicados en dicho artículo.
 Tampoco podrán desempeñar ante ningún juez funciones accidentales de defensores los que tengan con él cualquiera de los indicados parentescos.
@@ -1891,7 +1888,7 @@ Los otros funcionarios auxiliares lo harán ante el Juez respectivo. Si el Tribu
 
 Art. 472. Cuando algún fiscal de las Cortes de Apelaciones que hubiere prestado el juramento correspondiente fuere nombrado para un puesto análogo al que desempeñaba, no será obligado a prestar nuevo juramento.
 
-Art. 473. Los Notarios, Conservadores, Archiveros, Secretarios y Receptores de Mayor y Menor Cuantía, deberán rendir una fianza para responder de las multas, costas e indemnizaciones de perjuicios a que puedan ser condenados en razón de los actos concernientes al desempeño de su ministerio, dentro de 30 días después de haber asumido el cargo.
+Art. 473. Los Notarios, Conservadores, Archiveros, Secretarios y Receptores, que no sean los especiales a que se refiere el inciso segundo del artículo 391.o, deberán rendir una fianza para responder de las multas, costas e indemnizaciones de perjuicios a que puedan ser condenados en razón de los actos concernientes al desempeño de su ministerio, dentro de 30 días después de haber asumido el cargo.
 Esta fianza será para los Secretarios el equivalente a un año del sueldo base asignado al cargo y para los demás funcionarios igual al monto del sueldo anual que la ley le fija para los efectos de su jubilación.
 La fianza será calificada y aprobada por el funcionario a quien corresponda recibir el juramento.
 
@@ -1953,7 +1950,8 @@ Art. 490. Regirá para los auxiliares de la Administración de Justicia lo dispu
 No obstante, se necesitará de solicitud previa para declarar la inhabilidad de cualquier funcionario auxiliar, producida por el hecho de ser parte o tener interés en el pleito una sociedad anónima de que aquél sea accionista, sin perjuicio de que dicho funcionario haga constar en el proceso la existencia de la causal.
 
 Art. 491. La implicancia y la recusación de los auxiliares de la Administración de Justicia se reclamarán ante el tribunal que conozca del negocio en que aquéllos deban intervenir, y se admitirán sin más trámite cuando no necesiten fundarse en causa legal.
-Las recusaciones de los secretarios y receptores de los juzgados de letras de menor cuantía se calificarán en única instancia por el juez sin forma de procedimiento.
+La recusación de los secretarios de los juzgados de letras de menor cuantía se calificará en la única instancia por el juez sin forma de procedimiento.
+Lo dispuesto en el inciso anterior regirá también respecto de los receptores cuando actúen ante dichos tribunales.
 
 ### § 5. De su remuneración y de su previsión
 
@@ -2018,17 +2016,19 @@ Los oficiales a que se refieren los incisos anteriores y los contemplados en el 
 ## TITULO XIV
 La Junta de Servicios Judiciales
 
-Art. 506. Habrá una Junta de Servicios Judiciales compuesta del Presidente de la Corte Suprema, de un ministro de este tribunal designado por la misma Corte y del presidente de la Corte de Apelaciones de Santiago, que se encargará de administrar e invertir los fondos e intereses que produzcan los depósitos a que se refieren los artículos de este Título.
-Sin perjuicio de los recursos que se consulten anualmente en la Ley de Presupuesto, estos fondos se destinarán a la atención de las siguientes necesidades de los Tribunales de Justicia, ya sean estos Ordinarios, Juzgados de Letras de Indios, Especiales del Trabajo y de Menores:
-1.o Adquisición de libros, muebles, artículos de escritorio, aseo y demás que sean necesarios para el normal funcionamiento de esos Tribunales;
-2.o Acondicionamiento y reparación de los inmuebles fiscales o particulares, en que funcionen los referidos Tribunales o que hayan sido adquiridos o construídos de acuerdo con el presente artículo.
-Sólo podrán efectuarse reparaciones en inmuebles de propiedad particular cuando el respectivo contrato de arrendamiento haya sido celebrado por un plazo no inferior a tres años.
-3.o Reparación y mantenimiento de los automóviles fiscales del Poder Judicial, como, asimismo, de los servicios de calefacción, agua, gas, luz y ascensores;
-4.o Organización de cursos y conferencias destinados al perfeccionamiento del personal judicial;
-5.o Adquisición de inmuebles y construcción de edificios para el funcionamiento de los Tribunales o casa-habitación de los Jueces de Letras. Estas propiedades sólo podrán ser habitadas por los Jueces mientras se desempeñen en la respectiva ciudad, quienes; además, deberán pagar a la Junta de Servicios Judiciales la renta legal de arrendamiento que formará parte de los recursos ordinarios de este organismo.
-Sin embargo, para efectuar las adquisiciones y construcciones a que se refiere el número precedente, la Junta requerirá en cada caso la autorización previa del Presidente de la República.
-La Junta podrá poner a disposición de los Tribunales las sumas necesarias para el cumplimiento de los fines previstos en este artículo, los cuales deberán rendir, ante ella, cuenta detallada de la inversión de estos fondos.
-Esta Junta llevará una cuenta en conformidad a lo establecido en el artículo 508.
+Art. 506. Habrá una persona jurídica, denominada Junta de Servicios Judiciales, compuesta del Presidente de la Corte Suprema que será su representante legal, de un Ministro de este Tribunal designado por la misma Corte y del Presidente de la Corte de Apelaciones de Santiago, que se encargará de administrar e invertir los fondos e intereses que produzcan los depósitos a que se refieren los artículos de este Título, y demás recursos que las leyes consultan para el cumplimiento de sus fines.
+Sin perjuicio de los recursos que se consulten anualmente en la Ley de Presupuestos, estos fondos se destinarán a la atención de las siguientes necesidades de los Tribunales de Justicia, ya sean éstos Ordinarios, Juzgados de Letras de Indios, Especiales del Trabajo y de Menores:
+1.o- Adquisición de libros, artículos de escritorio o aseo y otros bienes muebles que sean necesarios, a juicio de la Junta;
+2.o- Acondicionamiento y reparación de los inmuebles fiscales o particulares, en que funcionen los referidos Tribunales o que hayan sido adquiridos o construidos de acuerdo con el presente artículo.
+Sólo podrán efectuarse reparaciones en inmuebles de propiedad particular cuando el respectivo contrato de arrendamiento haya sido celebrado por un plazo no inferior a tres años;
+3.o- Reparación y mantenimiento de los automóviles fiscales del Poder Judicial, como asimismo, de los servicios de calefacción, agua, luz, gas y ascensores;
+4.o- Organización de cursos conferencias destinados al perfeccionamiento del personal judicial, y
+5.o- Adquisición de inmuebles y construcción de edificios para el funcionamiento de los Tribunales o casa-habitación de los Jueces de Letras. Estas propiedades sólo podrán ser habitadas por los jueces mientras se desempeñen en la respectiva ciudad, quienes, además, deberán pagar a la Junta de Servicios Judiciales la renta legal de arrendamiento que formará parte de los recursos ordinarios de este organismo.
+Sin embargo, para efectuar las adquisiciones y construcciones a que se refiere el número precedente, la Junta requerirá, en cada caso, la autorización del Presidente de la República.
+La Junta podrá poner o disposición de los Tribunales las sumas necesarias para el cumplimiento de los fines previstos en este artículo, los cuales deberán rendir, ante ella, cuenta detallada de la inversión de estos fondos.
+Esta Junta llevará una cuenta en conformidad a lo establecido en el artículo 508.o.
+La Junta de Servicios Judiciales estará exenta de toda clase de derechos, contribuciones e impuestos fiscales, con excepción de los de compraventa y cifra de negocios, sea que recaiga en sus bienes, en los actos o contratos que ejecute o celebre o que en cualquiera forma pudieren afectarla. Esta exención no favorecerá a los terceros que contraten con Junta.
+Los bienes muebles e inmuebles adquiridos por la Junta, serán de dominio fiscal y estos últimos se inscribirán a nombre del Fisco. Los primeros deberán figurar en los inventarios del Estado y no se regirán con respecto a la adquisición de los segundos las limitaciones relativas o precio, establecidas en el artículo 7.o de ley número 4.174, modificado por el artículo 99.o de la ley N.o 8.283, ni las demás que las leyes prescriban para adquisición de bienes raíces por el Fisco.
 
 Art. 507. Todos los dineros que sea necesario poner a disposición de los Tribunales de Justicia y del Trabajo deberán colocarse en alguna oficina de la Caja Nacional de Ahorros a la orden del tribunal respectivo.
 En los lugares en que no exista oficina de la Caja Nacional de Ahorros, el depósito deberá hacerse en alguna Tesorería Comunal. El tesorero en el plazo de cinco días, deberá enviar los fondos que se le hayan entregado a la oficina de la Caja en que tenga su cuenta el tribunal a cuya orden se consignan los fondos.
@@ -2037,7 +2037,7 @@ Los secretarios de las Cortes y de los juzgados, llevarán un libro en que anota
 Art. 508. Los juzgados de letras de mayor y de menor cuantía y los del trabajo, mantendrán una cuenta corriente bancaria de depósito en la oficina de la Caja Nacional de Ahorros del lugar en que funcionen, o del más próximo al de asiento del tribunal.
 Los pagos que deban hacer estos tribunales se efectuarán por medio de cheques girados contra esa cuenta, los que deberán llevar la firma del juez y del secretario y el timbre del tribunal.
 
-Art. 509. Los depósitos a la orden judicial ganarán un interés no inferior al 4 % anual a beneficio de los Servicios Judiciales a que se refiere el artículo 506.
+Art. 509. Los depósitos a la orden judicial ganarán el interés que, para estos efectos, fije la Superintendencia de Bancos en beneficio de la Junta de Servicios Judiciales.
 
 Art. 510. Lo dispuesto en los artículos anteriores no se aplica a las boletas de garantía o fianza que emitan las instituciones de crédito para tomar parte en los remates, para responder de medidas precautorias o para otorgar fianzas.
 Cuando el tribunal deba hacer efectivas estas boletas las depositará en la cuenta del juzgado para efectuar los pagos correspondientes. Si procede su devolución al interesado las entregará directamente a éste mediante el endoso respectivo.
@@ -2133,7 +2133,7 @@ Los empleados subalternos que incurrieren en omisión o infracción en el cumpli
 
 Art. 533. Si los jueces de letras notaren faltas o abusos en el desempeño de las funciones de los defensores públicos darán cuenta a la Corte de Apelaciones respectiva, la cual Corte, si lo estimare conveniente, corregirá dichas faltas o abusos de la manera y por los medios que señalan los artículos 536 y 537.
 
-Art. 534. Los secretarios, receptores y empleados subalternos de los juzgados de letras de menor cuantía quedan sometidos a la autoridad disciplinaria inmediata del juez ante quien ejercen sus funciones en los términos que expresa el inciso 3° del artículo 532 y sin perjuicio de lo dispuesto en el inciso 4° del mismo artículo.
+Art. 534. Los secretarios y empleados subalternos de los juzgados de letras de menor cuantía, como asimismo, los receptores cuando actúen ante dichos tribunales, quedan sometidos a la autoridad disciplinaria inmediata del juez ante quien ejercen sus funciones en los términos que expresa el inciso tercero del artículo 532.o y sin perjuicio de lo dispuesto en el inciso cuarto del mismo artículo.
 
 Art. 535. Corresponde a las Cortes de Apelaciones mantener la disciplina judicial en todo el territorio de su respectiva jurisdicción, velando inmediatamente la conducta ministerial de sus miembros y la de los jueces subalternos y haciéndoles cumplir todos los deberes que las leyes les imponen.
 La misma facultad corresponderá a las Cortes de Apelaciones respecto de los Juzgados Especiales de Menores y de Indios.
@@ -2389,6 +2389,8 @@ Art. 599. Están exentos de la obligación establecida por el artículo preceden
 Art. 600. Las personas patrocinadas por los Consultorios Jurídicos del Colegio de Abogados gozarán del privilegio de pobreza por el solo ministerio de la ley, mientras dure este patrocinio, lo que se acreditará con un certificado del secretario del respectivo consejo, y por consiguiente, los escritos que presenten a los Tribunales de Justicia, o a cualquiera autoridad u oficina administrativa, así como los actos y actuaciones concernientes al estado civil de las personas o a la constitución de la familia estarán exentos del impuesto de papel sellado y estampillas y no regirán con ellas las consignaciones que las leyes exigen para interponer los recursos.
 En los asuntos y gestiones que patrocinen estos Consultorios, los procuradores del número y receptores de turno y los notarios y demás funcionarios del orden judicial o administrativo, prestarán sus servicios gratuitamente.
 Todo lo anterior se entiende sin perjuicio de lo dispuesto en el art. 594 de este Código y en el inciso 1° del art. 144 del Código de Procedimiento Civil.
+Los Consultorios Jurídicos del Colegio de Abogados, los abogados y procuradores de estos organismos, y los abogados y procuradores del número del turno cuando actúen en tal calidad, no serán responsables, en caso alguno, del pago de las costas y demás cargas pecuniarias a que sean condenados sus patrocinados.
+En los asuntos de jurisdicción civil y del trabajo, las personas que gocen del privilegio de pobreza no serán condenadas al pago de costas, a menos que el Tribunal respectivo, en resolución fundada, declare que han obrado como litigantes temerarios o maliciosos.
 
 Art. 601. Sin perjuicio del privilegio de pobreza, podrán los jueces, en las causas que se tramiten en papel simple, liberar del pago de derechos a las partes que lo soliciten con fundamento plausible. Para este efecto los jueces que conozcan de dichas causas designarán mensualmente y por orden de antigüedad un receptor de turno entre los que funcionen al servicio del tribunal.
 
