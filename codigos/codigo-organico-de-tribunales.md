@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1981-03-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1981-03-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1981-03-07
-fetched_at: 2026-08-03T00:33:45.996675+00:00
+version_date: 1981-03-10
+fetched_at: 2026-08-03T00:33:58.015999+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -195,10 +195,10 @@ No obstante lo dispuesto en el inciso primero, el Juzgado de Letras de Pozo Almo
 NOTA
 El Art. 15 del Decreto Ley 1682, Justicia, publicado el 25.01.1977, estableció que el inciso final que se agrega al presente artículo por la letra A) del Art. 4 del Decreto Ley 744, tuvo por finalidad sustituir el inciso que había sido incorporado por el N° 2 del Art. 2° de la ley 17590, por lo que éste debe entenderse derogado.
 
-Art. 43. Los Jueces del Crimen de los departamentos de Santiago y Presidente Aguirre Cerda ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la respectiva Corte y del Consejo General del Colegio de Abogados.
-El Presidente de la República, previo informe favorable de la Corte de Apelaciones de Santiago y oyendo al Consejo General del Colegio de Abogados, podrá fijar como territorio jurisdiccional exclusivo de uno o más de los jueces civiles del departamento de Santiago, una parte del departamento, y en tal caso, autorizar el funcionamiento de estos Tribunales dentro de sus respectivos territorios jurisdiccionales.
+Art. 43. Los Jueces del Crimen de los departamentos de Santiago y Presidente Aguirre Cerda ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la respectiva Corte.
+El Presidente de la República, previo informe favorable de la Corte de Apelaciones de Santiago, podrá fijar como territorio jurisdiccional exclusivo de uno o más de los jueces civiles del departamento de Santiago, una parte del departamento, y en tal caso, autorizar el funcionamiento de estos Tribunales dentro de sus respectivos territorios jurisdiccionales.
 Tanto los jueces del crimen a que se refiere el inciso primero, como los tribunales civiles a los cuales se fije un territorio jurisdiccional exclusivo, podrán practicar actuaciones en cualesquiera de los dos departamentos, en los asuntos sometidos a su conocimiento.
-Con el acuerdo previo de la Corte de Apelaciones de Santiago o Presidente Aguirre Cerda, según corresponda, y por no más de una vez al año, el Presidente de la República, oyendo al Consejo General del Colegio de Abogados, podrá modificar los límites de la jurisdicción territorial de los Juzgados a que se refieren los incisos primero y segundo.
+Con el acuerdo previo de la Corte de Apelaciones de Santiago o Presidente Aguirre Cerda, según corresponda, y por no más de una vez al año, el Presidente de la República podrá modificar los límites de la jurisdicción territorial de los Juzgados a que se refieren los incisos primero y segundo.
 
 Art. 44. Habrá también un Juzgado de Letras de Mayor Cuantía en Petorca, Putaendo, Casablanca, Limache, Villa Alemana, Quilpué, La Calera, Florida (Concepción), Lota, Curanilahue, Carahue y Villarica, que tendrán su asiento en la ciudades cabeceras de esas comunas subdelegaciones, las cuales serán consideradas como departamentos para todos los efectos del Servicio Judicial, con excepción de La Calera y Curanilahue.
 Los territorios jurisdiccionales de los Tribunales a que se refiere este artículo serán los de las comunas-subdelegaciones de sus respectivos nombres.
@@ -887,13 +887,13 @@ El llamamiento de los integrantes se hará en el orden indicado y los abogados s
 Art. 218. En los casos en que no pudiere funcionar la Corte Suprema por inhabilidad de la mayoría o de la totalidad de sus miembros, será integrada por ministros de la Corte de Apelaciones de Santiago, llamados por su orden de antigüedad.
 Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados integrantes, tanto en su funcionamiento ordinario como en el extraordinario de que trata el artículo 101.
 
-Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, diez para la Corte de Apelaciones de Santiago, cinco para las Cortes de Apelaciones de Valparaíso, Presidente Aguirre Cerda y Concepción y tres para cada una de las demás Cortes de Apelaciones, previa formación de ternas por la Corte Suprema. El Presidente de la República efectuará los nombramientos conservando el orden numérico de las ternas propuestas por la Corte Suprema.
-La designación de abogados integrados de las Cortes de Apelaciones se hará en el mes de Enero de cada año. Los abogados designados para la Corte Suprema lo serán por un período de tres años, efectuándose el nombramiento en el mes de Enero en que comienza el trienio respectivo.
-Las ternas serán formadas tomando los nombres de una lista que, en el mes de Diciembre de cada año, enviarán a la Corte Suprema los Consejos de los Colegios de Abogados residentes en los asientos de las diversas Cortes de Apelaciones. En esta lista deberán figurar abogados que tengan su residencia en la ciudad que sirve de asiento al tribunal respectivo y que reúnan las condiciones requeridas para ejercer los cargos de ministros.
-Si no hubiere Colegio de Abogados, las listas serán formadas por las Cortes de Apelaciones respectivas.
+Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, diez para la Corte de Apelaciones de Santiago, cinco para las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción y tres para cada una de las demás Cortes de Apelaciones, previa formación por la Corte Suprema, de ternas.
+La designación de abogados integrantes de las Cortes de Apelaciones se hará en el mes de Enero de cada año. Los abogados designados para la Corte Suprema lo serán por un período de tres años, efectuándose el nombramiento en el mes de Enero en que comienza el trienio respectivo.
+Las ternas para abogados integrantes de las Cortes de Apelaciones serán formadas tomando los nombres de una lista que, en el mes de Diciembre de cada año, enviarán a la Corte Suprema las respectivas Cortes de Apelaciones. En esta lista deberán figurar abogados que tengan su residencia en la ciudad que sirve de asiento al tribunal respectivo, que reúnan las condiciones requeridas para ejercer los cargos de ministros y que hayan destacado en la actividad profesional o universitaria.
 Estas listas se compondrán, para Santiago, de cuarenta nombres; para Valparaíso, Presidente Aguirre Cerda y Concepción, de veinticinco, y de quince para las demás Cortes.
-Para la formación de las ternas de los abogados integrantes de la Corte Suprema, este tribunal tomará sus nombres de una lista de 45 abogados, que reúnan las condiciones exigidas en el inciso tercero, y que le será enviada por el Consejo General de la Orden de los Abogados, en el mes de Diciembre en que termina el trienio respectivo. Tanto el Consejo General como los Consejos Provinciales del Colegio de Abogados no podrán incluir en las listas a que se refiere este artículo a profesionales que hayan sido separados de sus cargos como funcionarios judiciales, sea en la calificación anual o en cualquier otra oportunidad.
-Si por cualquiera causa alguno de los abogados designados para la Corte Suprema no pudiere continuar en las funciones, el Presidente de la República podrá nombrar en su reemplazo por el resto del período a uno de los otros dos componentes de la terna que formó la Corte Suprema en la oportunidad respectiva.
+Las ternas para abogados integrantes de la Corte Suprema serán formadas tomando los nombres de una lista que, en el mes de Diciembre en que termina el trienio respectivo, el Senado enviará a dicha Corte. En esta lista deberán figurar cuarenta y cinco abogados con residencia en la ciudad de Santiago, que reúnan las condiciones requeridas para ejercer los cargos de ministros y que hayan destacado en la actividad profesional o universitaria.
+No podrán incluirse en las listas a que se refiere este artículo a profesionales que hayan sido separados de sus cargos como funcionarios judiciales, sea en la calificación anual o en cualquiera otra oportunidad.
+Si por cualquiera causa alguno de los abogados designados para la Corte Suprema no pudiere continuar en las funciones, el Presidente de la República podrá nombrar en su reemplazo por el resto del período a uno de los componentes de las ternas que formó la Corte Suprema en su oportunidad, o requerir de dicho tribunal la formación de una nueva terna, en conformidad con lo previsto en los incisos anteriores.
 En las ternas, no se podrán repetir nombres.
 
 Art. 220. Los secretarios de los tribunales colegiados, llevarán un libro público de integraciones y de asistencia al tribunal, en el que anotarán diariamente los nombres de los miembros que no hayan asistido, con expresión de la causa de esta inasistencia, y de los funcionarios o abogados que hayan sido llamados a integrar.
@@ -1119,8 +1119,7 @@ En este mismo plazo, el fiscal de la Corte Suprema enviará análogo informe a e
 Sin perjuicio de las demás apreciaciones y antecedentes que el tribunal considere conveniente expresar en su informe, éste deberá referirse especialmente a las siguientes circunstancias: cumplimiento por los funcionarios objeto del informe de sus obligaciones de residencia y asistencia, puntualidad o atraso en la atención de su despacho y en la dictación de las sentencias; quejas y recursos de amparo que se hubieren aceptado contra sus resoluciones; medidas disciplinarias de que hubiere sido objeto; forma como atiende al público que acude a sus oficios; forma como ejerce sus funciones de control o fiscalización sobre sus subordinados y respecto de las que le corresponden sobre la Policía, en especial en los casos de torturas.
 El informe deberá contener respecto de cada funcionario proposición para su inclusión en las listas a que se refiere el artículo 275.
 Antes de enviar sus informes, las Cortes o el fiscal deberán poner en conocimiento de los funcionarios respectivos las partes que les conciernen a fin de que dentro de un plazo no superior a diez días puedan formular por escrito las rectificaciones de hecho y descargos que estimen necesarios. Estas comunicaciones serán igualmente confidenciales y las rectificaciones y descargos se agregarán en todo caso al informe, cualquiera que sea en definitiva la apreciación que contenga respecto del funcionario.
-El Consejo General del Colegio de Abogados y los Consejos Provinciales, en su caso, deberán informar por escrito y confidencialmente, en la primera quincena de noviembre de cada año, respecto de los funcionarios judiciales de la jurisdicción que les merezcan observaciones.
-El Presidente del Consejo General y los Presidentes de los Consejos Provinciales del Colegio de Abogados, concurrirán a las deliberaciones que efectúen las Cortes de Apelaciones para el solo efecto de sostener el informe a que se refiere el inciso anterior.
+Incisos suprimidos.
 
 Art. 274. Para los efectos del artículo anterior, las Cortes de Apelaciones se reunirán, a contar desde el 1º de Diciembre de cada año, en audiencias secretas, que se llevarán a cabo dentro de las dos primeras horas fijadas para el funcionamiento diario del tribunal.
 Los acuerdos se tomarán por las Cortes reunidas en Pleno, con el voto conforme de la mayoría absoluta de los Ministros que asistan a la audiencia y se aplicarán las reglas contenidas en el Párrafo 2 del Título V, en lo que fueren compatibles. Las votaciones tendrán el carácter de secretas.
@@ -1229,12 +1228,12 @@ b) Con los abogados oponentes y con los funcionarios sin título de abogado de l
 
 Art. 290. En las ternas para proveer cargos judiciales que no requieren título de abogado, se preferirá a los oponentes que lo posean.
 
-Art. 291. No podrán figurar en las propuestas de abogados que se indican en los artículos 284, incisos tercero y cuarto; 286, incisos tercero, cuarto y sexto; 287, inciso tercero; 288, 289, letra b) y 290, sino aquellos que figuren en una lista de abogados postulantes para cargos judiciales que anualmente deberá formar la Corte Suprema. Para este efecto, las Cortes de Apelaciones, en el mes de Diciembre de cada año, con informe de los respectivos Consejos Provinciales y del Consejo General del Colegio de Abogados, en su caso, propondrán a la Corte Suprema una nómina de los abogados de su territorio jurisdiccional que, en concepto de ellas, deban figurar en la lista de postulantes, previa solicitud de éstos.
+Art. 291. No podrán figurar en las propuestas de abogados que se indican en los artículos 284, incisos tercero y cuarto; 286, incisos tercero, cuarto y sexto; 287, inciso tercero; 288, 289, letra b) y 290, sino aquellos que figuren en una lista de abogados postulantes para cargos judiciales que anualmente deberá formar la Corte Suprema. Para este efecto, las Cortes de Apelaciones, en el mes de Diciembre de cada año, propondrán a la Corte Suprema una nómina de los abogados de su territorio jurisdiccional que, en concepto de ellas, deban figurar en la lista de postulantes, previa solicitud de éstos.
 Incisos suprimidos.
-Esta lista será remitida al Ministerio de Justicia y al Consejo General del Colegio de Abogados, dentro de los primeros cinco días de enero de cada año.
+Esta lista será remitida al Ministerio de Justicia dentro de los primeros cinco días de enero de cada año.
 Los funcionarios con título de abogado de las categorías 6a. y 7a. del Escalafón Primario, se considerarán, por ministerio de la ley, que figuran en la lista de abogados postulantes a que se refiere este artículo.
 Los abogados recibidos con posterioridad a la formación de la lista de cada año podrán ser nombrados en cargos de Secretario de la categoría 7a., no obstante no figurar en la referida lista.
-Los abogados que figuren en la lista continuarán formando parte de ella sin que sea necesario proponerlos nuevamente, a menos que manifiesten su deseo de no ser incluídos o que deban ser eliminados a juicio del Colegio de abogados o de la Corte Suprema.
+Los abogados que figuren en la lista continuarán formando parte de ella sin que sea necesario proponerlos nuevamente, a menos que manifiesten su deseo de no ser incluídos o que deban ser eliminados a juicio de la Corte Suprema.
 Un auto acordado de la Corte Suprema, que deberá publicarse en el Diario Oficial, señalará la forma como figurarán los abogados en la lista, los cargos para los cuales podrán ser nombrados, la obligación de desempeñarlos y la facultad de la Corte de aceptar o rechazar las excusas que formulen para su desempeño, bajo pena de ser eliminados de ella.
 
 #### 5). Escalafón del personal subalterno
@@ -1654,10 +1653,7 @@ Art. 399. Los notarios son ministros de fe pública encargados de redactar, auto
 
 Art. 400. En cada departamento de la República habrá, por lo menos, un Notario, y los demás que el Presidente de la República determine, previo informe favorable de la respectiva Corte de Apelaciones y habida consideración a las necesidades del servicio público y a la población del respectivo departamento.
 Sin embargo, en aquellos departamentos formados por más de una comuna, el Presidente de la República, previo informe favorable de la respectiva Corte de Apelaciones, podrá crear notarías para una o más de dichas comunas, cuyos titulares deberán establecer sus oficios dentro del territorio que se fije para dichas notarías.
-Corresponderá asimismo al Presidente de la República fijar, en el decreto de creación de dichas notarías, la categoría que se asignará al cargo respectivo, previo informe de la respectiva Corte de ApeDecreto con Fuerza de Ley 24,
-Interior
-Art. único
-D.O. 08.11.1979laciones.
+Corresponderá asimismo al Presidente de la República fijar, en el decreto de creación de dichas notarías, la categoría que se asignará al cargo respectivo, previo informe de la respectiva Corte de Apelaciones.
 Para la creación de nuevas notarías, será preciso que el departamento, agrupación de comunas o comunas correspondientes, tengan una población superior a cuarenta mil habitantes, no pudiendo haber más de un notario por cada porción de dicho número de habitantes.
 Ningún notario podrá ejercer sus funciones fuera del departamento, agrupación de comunas o comuna para que hubiere sido nombrado. En el caso del inciso segundo, los demás notarios sólo podrán ejercerlas en el resto del territorio departamental.
 Lo dispuesto en los incisos precedentes es sin perjuicio de lo prescrito en los artículos 43 y 44.
@@ -2105,25 +2101,21 @@ Los Abogados
 
 Art. 520. Los abogados son personas revestidas por la autoridad competente de la facultad de defender ante los Tribunales de Justicia los derechos de las partes litigantes.
 
-Art. 521. El título de abogado será otorgado en audiencia pública por la Corte Suprema reunida en tribunal pleno con los miembros del Consejo General del Colegio de Abogados, y previa comprobación y declaración de que el candidato reúne los requisitos establecidos por los artículos 523 y 526.
+Art. 521. El título de abogado será otorgado en audiencia pública por la Corte Suprema reunida en tribunal pleno, previa comprobación y declaración de que el candidato reúne los requisitos establecidos por los artículos 523 y 526.
 
 Art. 522. En la audiencia indicada, después que el postulante preste juramento de desempeñar leal y honradamente la profesión, el Presidente del Tribunal, de viva voz lo declarará legalmente investido del título de abogado.
 De lo actuado se levantará acta autorizada por el Secretario en un libro que se llevará especialmente con este objeto.
-En seguida se entregará al abogado el título o diploma que acredite su calidad de tal, firmado por el Presidente del Tribunal, por los Ministros asistentes a la audiencia respectiva, por el Secretario y por el Presidente del Colegio de Abogado.
-Dicho título deberá inscribirse en el Registro de la Orden a cargo del Consejo General del Colegio de Abogados.
+En seguida se entregará al abogado el título o diploma que acredite su calidad de tal, firmado por el Presidente del Tribunal, por los Ministros asistentes a la audiencia respectiva y por el Secretario.
+Inciso suprimido.
 
 Art. 523. Para poder ser abogado se requiere:
 1°) Tener veinte años de edad;
-2°) Tener el grado de LiceDL 3631, JUSTICIA
-Art. 1
-D.O. 28.02.1981nciado en Ciencias Jurídicas otorgado por una Universidad, en conformidad a la ley;
+2°) Tener el grado de Licenciado en Ciencias Jurídicas otorgado por una Universidad, en conformidad a la ley;
 3°) No haber sido condenado ni estar actualmente procesado por delito que merezca pena corporal, salvo que se trate de delitos contra la seguridad interior del Estado;
 4°) Antecedentes de buena conducta.
 La Corte Suprema podrá practicar las averiguaciones que estime necesarias acerca de los antecedentes personales del postulante y, con el mismo objeto, pedirá informe al Colegio de Abogados respectivo; y
-5°) Haber servido, a satisfacción del Consejo del Colegio de Abogados respectivo, en el Consultorio Jurídico para Pobres, durante seis meses en la forma que determine el Reglamento de su Ley Orgánica.
-La obligación establecida en el N° 5 se entenderá cumplida por los postulantes que sean funcionarios o empleados del Poder Judicial o de los Trib
-NOTA
-unales del Trabajo por el hecho de haber desempeñado sus funciones durante cinco años.
+5°) Haber servido satisfactoriamente en alguna de las entidades públicas o privadas destinadas a prestar asistencia jurídica y judicial gratuita, durante seis meses en la forma dispuesta por la ley. Los representantes de esas entidades deberán certificar el cumplimiento de este requisito.
+La obligación establecida en el N° 5 se entenderá cumplida por los postulantes que sean funcionarios o empleados del Poder Judicial o de los Tribunales del Trabajo por el hecho de haber desempeñado sus funciones durante cinco años.
 Si la comisión a que se refiere el número anterior no admitiere a examen al postulante, por estimar que no concurren los requisitos señalados en este artículo, el afectado podrá reclamar ante la Corte Suprema, la que resolverá como jurado.
 Incisos derogad
 NOTA
@@ -2133,12 +2125,11 @@ La letra b) del N° 50 del Art. 3° de la ley 11183, publicada el 10.06.1953, di
 
 Art. 524. Derogado.
 
-Art. 525. Los abogados estarán organizados en una institución, con personalidad jurídica, denominada "Colegio de Abogados", que se regirá por las disposiciones de la ley respectiva.
-El ejercicio de la profesión de abogado estará, asimismo, reglamentado por dicha ley.
+Art. 525. Derogado.
 
 Art. 526. Sólo los chilenos podrán ejercer la profesión de abogado. Lo dicho se entenderá sin perjuicio de lo que dispongan los tratados internacionales vigentes.
 
-Art. 527. Las defensas orales ante cualquier tribunal de la República sólo podrán hacerse por abogado habilitado para el ejercicio de la profesión.
+Art. 527. Las defensas orales ante cualquier tribunal de la República sólo podrán hacerse por un abogado habilitado para el ejercicio de la profesión. No obstante, los postulantes que estén realizando su práctica para obtener el título de abogado en entidades públicas o privadas que otorguen asistencia judicial y jurídica gratuita, podrán hacer tales defensas ante las Cortes de Apelaciones y Marciales en favor de las personas patrocinadas por esas entidades. Para estos fines el representante de ellas deberá otorgar al postulante un certificado que lo acredite como tal.
 
 Art. 528. El acto por el cual una persona encomienda a un abogado la defensa de sus derechos en juicio, es un mandato, que se halla sujeto a las reglas establecidas en el Código Civil sobre los contratos de esta clase, salvo la modificación establecida en el artículo siguiente.
 
@@ -2404,7 +2395,7 @@ Art. 593. Se estimará como presunción legal de pobreza la circunstancia de enc
 
 Art. 594. Si el litigante pobre obtuviere en el juicio, será obligado a destinar una décima parte del valor líquido que resultare a su favor para el pago de los honorarios y derechos causados, distribuyéndose esta suma a prorrata entre todos los interesados, si no alcanzaren a ser íntegramente cubiertos de lo que se les adeudare.
 
-Art. 595. Incumbe a los jueces de letras de mayor cuantía designar cada mes y por turno, entre los no exentos, un abogado que defienda gratuitamente las causas civiles, y otro que defienda las criminales de las personas que hubieren obtenido o debieren gozar el mencionado privilegio. Con todo, a requerimiento del Consejo Provincial del Colegio de Abogados, cuando las necesidades lo requieran y el número de los abogados en ejercicio lo permitan, la Corte de Apelaciones respectiva podrá disponer que los Jueces de Letras designen dos o más abogados de turno para la defensa de las causas civiles o criminales y la forma como éstas se distribuirán entre los abogados designados.
+Art. 595. Incumbe a los jueces de letras de mayor cuantía designar cada mes y por turno, entre los no exentos, un abogado que defienda gratuitamente las causas civiles, y otro que defienda las criminales de las personas que hubieren obtenido o debieren gozar el mencionado privilegio. Con todo, cuando las necesidades lo requieran y el número de los abogados en ejercicio lo permitan, la Corte de Apelaciones respectiva podrá disponer que los Jueces de Letras designen dos o más abogados de turno para la defensa de las causas civiles o criminales y la forma como éstas se distribuirán entre los abogados designados.
 En la misma forma y para los mismos fines harán los jueces de letras a quienes se refiere el inciso precedente, las correspondientes designaciones de procuradores y receptores.
 Cuando alguna persona que goce del privilegio de pobreza no pueda ser servida por los abogados, procuradores y receptores nombrados, el juez de letras podrá designar un abogado, un procurador o un receptor especial que la sirva.
 En los departamentos en donde hubiere dos o más jueces de letras de mayor cuantía, hará las designaciones generales prevenidas en los dos primeros incisos de este artículo, el más antiguo, y las especiales del inciso precedente el que conociere del negocio en que han de aplicarse.
@@ -2413,21 +2404,23 @@ Las designaciones generales de abogados, procuradores y receptores de turno debe
 Art. 596. Los procesados que no designaren procurador y abogado en el acto de notificárseles la encargatoria de reo, serán representados y defendidos por los procuradores del número y abogados que estuvieren de tumo. Si las defensas de dos o más reos de un mismo proceso fueren incompatibles entre sí, el que el juez designare será representado y defendido por el procurador y abogado de turno y los demás lo serán por los procuradores y abogados que el juez respectivamente les señalare, salvo que ellos hubieren nombrado otro abogado o procurador.
 Los procuradores y abogados referidos serán remunerados por los reos si no gozaren del privilegio de pobreza.
 
-Art. 597. En las ciudades donde rijan las obligaciones de estar representado y patrocinado por abogado y no existan Consultorios Jurídicos para Pobres del Colegio de Abogados, las personas notoriamente menesterosas, a juicio del tribunal, serán representadas y patrocinadas gratuitamente por el abogado de turno.
+Art. 597. En las ciudades donde rijan las obligaciones de estar representado y patrocinado por abogado, las personas notoriamente menesterosas, a juicio del tribunal, serán representadas y patrocinadas gratuitamente por el abogado de turno.
 
 Art. 598. Es obligación de los abogados defender gratuitamente hasta su término las causas de pobres que se les encomienden en conformidad a los preceptos de este título.
-Los abogados podrán excepcionarse de esta obligación por motivos justificados que serán calificados por el respectivo Consejo Provincial del Colegio de Abogados, el que resolverá esta materia de preferencia y proveerá simultáneamente la designación del reemplazante.
+Los abogados podrán excepcionarse de esta obligación por motivos justificados que serán calificados por el Juez que conozca de la causa en que aquél deba cumplir la obligación, el que resolverá esta materia de preferencia y proveerá simultáneamente la designación del reemplazante.
 No se extiende esta obligación a las causas seguidas ante los jueces de distrito o de subdelegación.
+El abogado que no cumpliere esta obligación será sancionado con suspensión del ejercicio de la profesión hasta por seis meses, por el Tribunal que conozca de la causa en que se hubiere producido el incumplimiento.
+De la resolución que imponga la sanción se podrá reclamar, dentro de tercero día, ante el Tribunal Superior jerárquico del que la dictó.
+Una vez firme la resolución que imponga una suspensión del ejercicio de la profesión deberá ser comunicada por la Corte de Apelaciones respectiva a los tribunales de su territorio jurisdiccional.
 
 Art. 599. Están exentos de la obligación establecida por el artículo precedente:
 1°) Los abogados que se hallaren en actual ejercicio de algún cargo concejil; y
 2°) Los que estuvieren nombrados por el Presidente de la República para integrar la Corte Suprema y las Cortes de Apelaciones.
 
-Art. 600. Las personas patrocinadas por los Consultorios Jurídicos del Colegio de Abogados gozarán del privilegio de pobreza por el solo ministerio de la ley, mientras dure este patrocinio, lo que se acreditará con un certificado del secretario del respectivo consejo, y por consiguiente, los escritos que presenten a los Tribunales de Justicia, o a cualquiera autoridad u oficina administrativa, así como los actos y actuaciones concernientes al estado civil de las personas o a la constitución de la familia estarán exentos del impuesto de papel sellado y estampillas y no regirán con ellas las consignaciones que las leyes exigen para interponer los recursos.
-En los asuntos y gestiones que patrocinen estos Consultorios, los procuradores del número y receptores de turno y los notarios y demás funcionarios del orden judicial o administrativo, prestarán sus servicios gratuitamente.
-Todo lo anterior se entiende sin perjuicio de lo dispuesto en el art. 594 de este Código y en el inciso 1° del art. 144 del Código de Procedimiento Civil.
-Los Consultorios Jurídicos del Colegio de Abogados, los abogados y procuradores de estos organismos, y los abogados y procuradores del número del turno cuando actúen en tal calidad, no serán responsables, en caso alguno, del pago de las costas y demás cargas pecuniarias a que sean condenados sus patrocinados.
-En los asuntos de jurisdicción civil y del trabajo, las personas que gocen del privilegio de pobreza no serán condenadas al pago de costas, a menos que el Tribunal respectivo, en resolución fundada, declare que han obrado como litigantes temerarios o maliciosos.
+Art. 600. Las personas patrocinadas por alguna de las entidades públicas o privadas destinadas a prestar asistencia jurídica y judicial gratuita gozarán por el solo ministerio de la ley de los beneficios establecidos en los incisos segundo y tercero del artículo 591 y no regirán para ellas las consignaciones que las leyes exigen para interponer recursos ante autoridades judiciales o administrativas. En los asuntos y gestiones que patrocinen las entidades referidas, los procuradores del número y receptores de turno y los demás funcionarios del orden judicial o administrativo, prestarán sus servicios gratuitamente. Lo anterior se entiende sin perjuicio de lo dispuesto en el artículo 594 de este Código.
+Los abogados y procuradores de estas entidades, y los abogados y procuradores del número de turno cuando actúan en tal calidad, no serán responsables del pago de las costas y demás cargos pecuniarios a que sean condenados sus patrocinados.
+Las personas que gocen de privilegio de pobreza no serán condenadas al pago de costas, a menos que el tribunal respectivo, en resolucion fundada, declare que han obrado como litigantes temerarios o maliciosos.
+El patrocinio a que se refiere este artículo se acreditará con un certificado otorgado por el representante de la respectiva entidad.
 
 Art. 601. Sin perjuicio del privilegio de pobreza, podrán los jueces, en las causas que se tramiten en papel simple, liberar del pago de derechos a las partes que lo soliciten con fundamento plausible. Para este efecto los jueces que conozcan de dichas causas designarán mensualmente y por orden de antigüedad un receptor de turno entre los que funcionen al servicio del tribunal.
 
