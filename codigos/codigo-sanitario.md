@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1969-04-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1969-06-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1969-04-14
-fetched_at: 2026-08-03T00:19:42.376984+00:00
+version_date: 1969-06-11
+fetched_at: 2026-08-03T00:20:06.403239+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -463,11 +463,16 @@ Artículo 111°.- El Servicio Nacional de Salud concederá permisos que autorice
 DEL EJERCICIO DE LA MEDICINA Y PROFESIONES AFINES
 
 Artículo 112°.- Sólo podrán desempeñar actividades propias de la medicina, odontología, química y farmacia u otras relacionadas con la conservación y restablecimiento de la salud, quienes poseen el título respectivo otorgado por la Universidad de Chile u otra Universidad reconocida por el Estado y estén habilitados legalmente para el ejercicio de sus profesiones.
-Asimismo, podrán ejercer profesiones auxiliares de las referidas en el inciso anterior quienes cuenten con autorización del Director General de Salud. Un Reglamento determinará las profesiones auxiliares y la forma y condiciones en que se concederá dicha autorización, la que será permanente, a menos que el Director General de Salud, por resolución fundada, disponga su cancelación.
+Asimismo, podrán ejercer profesiones auxiliares de las referidas en el inciso anterior quienes cuenten con autorización del Director General de Salud. Un reglamento determinará las profesiones auxiliares y la forma y condiciones en que se concederá dicha autorización, la que será permanente, a menos que el Director General de Salud, por resolución fundada, disponga su cancelación.
+No obstante lo dispuesto en el inciso primero, con la autorización del Director General de Salud podrán desempeñarse como médicos, dentistas, químico-farmacéuticos o matronas en barcos, islas o lugares apartados, aquellas personas que acreditaren título profesional otorgado en el extranjero.
 
-Artículo 113°.- Se considera ejercicio ilegal de la profesión de médico-cirujano todo acto realizado con el propósito de formular diagnóstico, pronóstico o tratamiento en pacientes o consultantes, en forma directa o indirecta, por personas que no están legalmente autorizadas para el ejercicio de la medicina.
+Artículo 113°.- Se considera ejercicio ilegal de la profesión de médico-cirujano todo acto realizado con el propósito de formular diagnóstico, pronóstico o tratamiento en pacientes o consultantes, en forma
+NOTA
+directa o indirecta, por personas que no están legalmente autorizadas para el ejercicio de la medicina.
 Los servicios profesionales del psicólogo comprenden la aplicación de principios y procedimientos psicológicos que tienen por finalidad asistir, aconsejar o hacer psicoterapia a las personas con el propósito de promover el óptimo desarrollo potencial de su personalidad o corregir sus alteraciones o desajustes. Cuando estos profesionales presten sus servicios a personas que estén mentalmente enfermas, deberán poner de inmediato este hecho en conocimiento de un médico especialista y podrán colaborar con éste en la atención del enfermo.
 No obstante lo dispuesto en el inciso anterior, quienes cumplan funciones de colaboración médica, podrán realizar algunas de las actividades señaladas, siempre que medie indicación y supervigilancia médica. Asimismo, podrán atender enfermos en caso de accidentes súbitos o en situaciones de extrema urgencia cuando no hay médico-cirujano alguno en la localidad o habiéndolo, no sea posible su asistencia profesional.
+NOTA
+Véanse los artículos 313 a, 313 b y 313 c del Código Penal agregados por la Ley N° 17.155, publicada el 11.06.1969.
 
 Artículo 114°.- Prohíbese a una misma persona ejercer conjuntamente las profesiones de médico-cirujano y las de farmacéutico, químico-farmacéutico o bío-químico.
 

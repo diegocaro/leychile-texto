@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1963-01-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1969-06-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1963-01-17
-fetched_at: 2026-08-03T00:17:11.115790+00:00
+version_date: 1969-06-11
+fetched_at: 2026-08-03T00:20:00.398405+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -250,7 +250,8 @@ Las de inhabilitación absoluta y especial temporales para cargos y oficios púb
 La suspensión de cargo u oficio público o profesión titular, dura de sesenta y un días a tres años.
 Las penas de destierro y de sujeción a la vigilancia de la autoridad, de sesenta y un días a cinco años.
 La prisión dura de uno a sesenta días.
-La cuantía de la multa, tratándose de crímenes, no podrá exceder deun millón de pesos; en los simples delitos, de doscientos mil pesos, y en las faltas, de veinte mil pesos.
+La cuantía de la multa, tratándose de crímenes, no podrá exceder de un millón de pesos; en los simples delitos, de seiscientos mil pesos, y en las faltas, de sesenta mil pesos.
+La expresión "sueldo vital" en cualquiera disposición de este Código significa un sueldo vital mensual, escala A), del departamento de Santiago
 Cuando la ley impone multas cuyo cómputo debe hacerse con relación a cantidades indeterminadas, nunca podrán aquéllas exceder de un millón de pesos.
 En cuanto a la cuantía de la caución, se observarán las reglas establecidas para la multa, doblando las cantidades respectivamente, y su duración no podrá exceder del tiempo de la pena u obligación cuyo cumplimiento asegura, o de cinco años en los demás casos.
 La duración de las penas accesorias de cadena o grillete, encierro en celda solitaria e incomunicación con personas extrañas al establecimiento penal, es de sesenta y un días a cinco años; no pudiendo, dentro de estos límites, imponerse por más de la mitad del tiempo señalado a la pena principal.
@@ -396,10 +397,10 @@ Para determinar las penas que deben imponerse según los arts. 51, 52, 53 y 54: 
 ART. 60.
 La multa se considera como la pena inmediatamente inferior a la última en todas las escalas graduales.
 Para fijar su cuantía respectiva se adoptará la base establecida en el art. 25, y en cuanto a su aplicación a cada caso especial se observará lo que prescribe el art. 70.
-El producto de las multas, ya sea que se impongan por sentencia o por decreto que conmuta alguna pena, ingresará en arcas fiscales y se mantendrá en una cuenta especial, contra la cual sólo podrá girar el Ministerio de Justicia, para algunos de los siguientes fines:
-1° Creación, instalación y mantenimiento de establecimientos penales y de reeducación de antisociales;
-2° Creación, instalación y mantenimiento de servicios de peritos judiciales, y
-3° Mantenimiento de los servicios del Patronato Nacional de Reos.
+El producto de las multas, ya sea que se impongan por sentencia o que resulten de un decreto que conmuta alguna pena, ingresará en una cuenta fiscal, especial, contra la cual sólo podrá girar el Ministerio de Justicia, para algunos de los siguientes fines, y en conformidad al Reglamento que para tal efecto dictará el Presidente de la República:
+1.- Creación, instalación y mantenimiento de establecimientos penales y de reeducación de antisociales;
+2.- Creación de Tribunales e instalación, mantenimiento y desarrollo de los servicios judiciales, y
+3.- Mantenimiento de los Servicios del Patronato Nacional de Reos.
 La misma regla señalada en el inciso anterior, se aplicará respecto a las cauciones que se hagan efectivas, de los dineros que caigan en comiso y del producto de la enajenación en subasta pública de las demás especies decomisadas, la cual se deberá efectuar por la Dirección de Aprovisionamiento del Estado.
 Las disposiciones de los dos incisos anteriores no son aplicables a las multas señaladas en el artículo 483-b.
 El producto de las multas, cauciones y comisos derivados de faltas y contravenciones, se aplicará a fondos de la Municipalidad correspondiente al territorio donde se cometió el delito que se castiga.
@@ -1097,13 +1098,12 @@ ART. 212.
 El que a sabiendas presentare en juicio criminal o civil testigos o documentos falsos, será castigado como reo de falso testimonio.
 
 #### § VIII.
-De la usurpación de funciones o nombres.
+Del ejercicio ilegal de una profesión y de la usurpación de funciones o nombres.
 
-ART. 213.
-El que se fingiere autoridad, empleado público o profesor de una facultad que requiera título y ejerciere actos propios de dichos cargos o profesiones, sufrirá las penas de reclusión menor en cualquiera de sus grados y multa de ciento a mil pesos.
+Artículo 213° El que se fingiere autoridad, funcionario público o titular de una profesión que, por disposición de la ley, requiera título o el cumplimiento de determinados requisitos, y ejerciere actos propios de dichos cargos profesiones, será penado con presidio menor en sus grados mínimo a medio y multa de uno a cinco sueldos vitales.
+El mero fingimiento de esos cargos o profesiones será sancionado como tentativa del delito que establece el inciso anterior.
 
-ART. 214.
-En las mismas penas del artículo anterior incurrirá el lego que sin derecho ejerciere funciones sacerdotales, como también el eclesiástico que las ejerciere, hallándose suspenso por autoridad competente, sin perjuicio de las penas espirituales que esta pueda imponer.
+Artículo 214° El que usurpare el nombre de otro será castigado con presidio menor en su grado mínimo, sin perjuicio de la pena que pudiere corresponderle a consecuencia del daño que en su fama o intereses ocasionare a la persona cuyo nombre ha usurpado.
 
 ART. 215.
 El que usurpare el nombre de otro será castigado con reclusión menor en su grado mínimo, sin perjuicio de la pena que pudiera corresponderle a consecuencia del daño que en su fama o intereses ocasionare a la persona cuyo nombre ha usurpado.
@@ -1465,13 +1465,12 @@ ART. 288.
 El que fabricare, vendiere o distribuyere armas absolutamente prohibidas por la ley o por los reglamentos generales que dicte el Presidente de la República, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a quinientos pesos.
 
 #### § IX.
-Simples delitos relativos a las epizootias.
+Delitos relativos a la salud animal y vegetal.
 
-ART. 289.
-Todo tenedor o guardián de animales afectados de enfermedades contagiosas determinadas por la autoridad local, que no hubiere dado aviso inmediatamente a dicha autoridad o a sus agentes, o que antes de que se haya respondido a su aviso no los tuviere encerrados, será castigado con reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
+Artículo 289° El que de propósito y sin permiso de la autoridad competente propagare una enfermedad animal o una plaga vegetal, será penado con presidio menor en su grado medio o multa de tres a diez sueldos vitales.
+Si la propagación se produjere por negligencia inexcusable del tenedor o encargado de las especies animales o vegetales afectadas por la enfermedad o plaga o del funcionario a cargo del respectivo control sanitario, la pena será de presidio menor en su grado mínimo o multa de uno a cinco sueldos vitales.
 
-ART. 290.
-A los que, con desprecio de las prohibiciones de la autoridad administrativa competente, hubieren dejado los animales infestados en comunicación con otros o no hubieren cumplido las prescripciones de dicha autoridad para impedir la propagación del contagio, se impondrá la pena de reclusión menor en su grado mínimo o multa de ciento a quinientos pesos.
+Artículo 290° Los que, a sabiendas, infringieren las instrucciones de la autoridad competente destinadas a impedir la propagación de una enfermedad animal o de una plaga vegetal, serán penados con presidio menor en su grado mínimo o multa de tres a diez sueldos vitales.
 
 ART. 291.
 Si con motivo de la infracción de lo dispuesto en el precedente artículo, ha resultado la propagación del contagio, se impondrá a los culpables la pena de reclusión menor en su grado mínimo o multa de quinientos a mil pesos.
@@ -1566,31 +1565,60 @@ ART. 312.
 Lo dispuesto en el art. 308 es aplicable a los mendigos comprendidos en los arts. 309 y 310.
 
 #### § XIV.
-Crímenes y simples delitos contra la salud pública.
+Crímenes y Simples Delitos contra la Salud Pública.
 
 ART. 313.
 El que, sin hallarse competentemente autorizado, elaborare sustancias o productos nocivos a la salud o traficare en ellos, estando prohibidos su fabricación o tráfico, será castigado con reclusión menor en su grado medio y multa de ciento a quinientos pesos.
 
-ART. 314.
-El que hallándose autorizado para la fabricación o tráfico de las sustancias o productos expresados en el artículo anterior, los fabricare o expendiere sin cumplir con las formalidades prescritas en los reglamentos respectivos, sufrirá las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
+Artículo 313° a El que, careciendo de título profesional competente o de la autorización legalmente exigible para el ejercicio profesional, ejerciere actos propios de la respectiva profesión de médico-cirujano, dentista, químico-farmacéutico, bioquímico u otra de características análogas, relativa a la ciencia y arte de precaver y curar las enfermedades del cuerpo humano, aunque sea a título gratuito, será penado con presidio menor en su grado medio y multa de uno a cinco sueldos vitales.
+Para estos efectos se entenderá que ejercen actos propios de dichas profesiones:
+1.- El que se atribuya la respectiva calidad;
+2.- El que ofrezca tales servicios públicamente por cualquier medio de propaganda o publicidad;
+3.- El que habitualmente realizare diagnósticos, prescribiere tratamientos o llevare a cabo operaciones o DO intervenciones curativas de aquellas cuya ejecución exige los conocimientos o las técnicas propios de tales profesiones.
+Las disposiciones de este artículo no se aplicarán en ningún caso a quienes prestaren auxilios cuando no fuere posible obtener oportuna atención profesional.
+En las mismas penas incurrirá el que prestare su nombre para amparar el ejercicio profesional de un tercero no autorizado para el mismo.
 
-ART. 315.
-Los droguistas que despacharen medicamentos deteriorados o instituyeren unos por otros, haciéndolo de una manera nociva a la salud, serán castigados con reclusión menor en su grado medio y multa de ciento a quinientos pesos, a más de la destrucción de los objetos deteriorados.
-Las disposiciones de este artículo y del anterior son aplicables a los que trafiquen con las sustancias o productos expresados en ellos, y a los dependientes de los droguistas, cuando fueron los culpables.
+Artículo 313° b El que, estando legalmente habilitado para el ejercicio de una profesión médica o auxiliar de ella ofreciere abusando de la credulidad del público, la prevención o curación de enfermedades o defectos por fórmulas ocultas o sistemas infalibles, será penado con presidio menor en sus grados mínimo a medio y multa de uno a cinco sueldos vitales.
 
-ART. 316.
-El que con cualquiera mezcla nociva a la salud alterare las bebidas o comestibles destinados al consumo público, sufrirá las penas de reclusión menor en su grado medio y multa de ciento a quinientos pesos, a más de la destrucción de los objetos adulterados.
+Artículo 313° c Las penas señaladas en los artículos precedentes se impondrán sin perjuicio de las que correspondieren por la muerte, lesiones u otras consecuencias punibles que eventualmente resultaren de la comisión de tales delitos.
 
-ART. 317.
-Se impondrán también las penas señaladas en el artículo anterior:
-1.° Al que escondiere o sustrajere para vender o comprar objetos destinados a ser inutilizados o desinfeccionados.
-2.° Al que arrojare en fuente, cisterna o curso de agua destinada a la bebida, algún objeto que la haga nociva para la salud.
+Artículo 313° d El que fabricare o a sabiendas expendiere a cualquier título sustancias medicinales deterioradas o adulteradas en su especie, cantidad, calidad o proporciones, de modo que sean peligrosas para la salud por su nocividad o por el menoscabo de sus propiedades curativas, será penado con presidio menor en sus grados medio a máximo y multa de cinco a cincuenta sueldos vitales.
+Si la fabricación o expendio fueren clandestinos, ello se considerará como circunstancia de agravante.
 
-ART. 318.
-El que infringiere las reglas higiénicas o de salubridad acordadas por la autoridad en tiempo de epidemia o contagio, será castigado con reclusión menor en sus grados mínimo a medio o multa de ciento a mil pesos.
+Artículo 314° El que, a cualquier título, expendiere otras sustancias peligrosas para la salud, distintas de las señaladas en el artículo anterior, contraviniendo las disposiciones legales o reglamentarias establecidas en consideración a la peligrosidad de dichas sustancias, será penado con presidio menor en sus grados mínimo a medio y multa de cinco a veinte sueldos vitales.
 
-ART. 319.
-Las penas designadas en este párrafo se entenderán sin perjuicio de las que correspondan al hecho o hechos que sean consecuencia de tales delitos.
+Artículo 315° El que envenenare o infectare comestibles, aguas u otras bebidas destinadas al consumo DO público, en términos de poder provocar la muerte o grave daño para la salud, y el que a sabiendas los vendiere o distribuyere, serán penados con presidio mayor en su grado mínimo y multa de cinco a cincuenta sueldos vitales.
+El que efectuare otras adulteraciones en dichas sustancias destinadas al consumo público, de modo que sean peligrosas para la salud por su nocividad o por el menoscabo apreciable de sus propiedades alimenticias, y el que a sabiendas las vendiere o distribuyere, serán penados con presidio menor en su grado máximo y multa de cinco a cincuenta sueldos vitales.
+Para los efectos de este artículo, se presumirá que la situación de vender o distribuir establecida en los incisos precedentes se configura por el hecho de tener a la venta en un lugar público los artículos alimenticios a que éstos se refieren. La clandestinidad en la venta o distribución y la publicidad de alguno de estos productos constituirán circunstancias agravantes.
+Se presume que son destinados al consumo público los comestibles, aguas u otras bebidas elaborados para ser ingeridos por un grupo de personas indeterminadas.
+Los delitos previstos en los incisos anteriores y los correspondientes cuasidelitos a que se refiere el inciso 2° del artículo 317°, sólo podrán perseguirse criminalmente previa denuncia o querella del Ministerio Público o del Director General del Servicio Nacional de Salud o de su delegado, siempre que aquellos no hayan causado la muerte o grave daño para la salud de alguna persona. En los demás, los correspondientes procesos criminales quedarán sometidos a las normas de de las causas que se siguen de oficio.
+No será aplicable al Ministerio Público ni a los funcionarios del Servicio Nacional de Salud respecto de estos delitos, lo dispuesto en los N.os 1 y 3 del artículo 84, respectivamente, del Código de Procedimiento Penal.
+
+Artículo 316° El que diseminare gérmenes patógenos con el propósito de producir una enfermedad, será penado con presidio mayor en su grado mínimo y multa de tres a diez sueldos vitales.
+
+Artículo 317° Si a consecuencia de cualquiera de los delitos señalados en los cuatro artículos precedentes, se produjere la muerte o enfermedad grave de alguna persona, las penas corporales se elevarán en uno o dos grados, según la naturaleza y número de tales consecuencias, y la multa podrá elevarse hasta el doble del máximo señalado en cada caso.
+Si alguno de tales hechos punibles se cometiere por imprudencia temeraria o por mera negligencia con infracción de los reglamentos respectivos, las penas serán de presidio menor en su grado mínimo o multa de uno a diez sueldos vitales.
+
+Artículo 318° El que pusiere en peligro la salud pública por infracción de las reglas higiénicas o de salubridad, debidamente publicadas por la autoridad, en tiempo de catástrofe, epidemia o contagio, será penado con presidio menor en su grado mínimo o multa de uno a cinco sueldos vitales.
+
+Artículo 319° a El que elaborare, fabricare, extrajere o prepare sustancias estupefacientes contraviniendo las prohibiciones y restricciones legales o reglamentarias, será penado con presidio mayor en su grado medio y multa de diez a cien sueldos vitales.
+Para todos los efectos legales, se considerarán sustancias estupefacientes las que sean calificadas como tales en el reglamento que dictará el Presidente de la República, el que podrá ser adicionado o modificado por esta misma autoridad.
+
+Artículo 319° b En las mismas penas incurrirán los que, sin estar competentemente autorizados, trafiquen en sustancias estupefacientes y los que por otros medios promuevan o faciliten el enviciamiento de terceros con tales sustancias.
+Realizan este tráfico los que suministran a terceros, a cualquier título, dichas sustancias o materias primas destinadas a obtenerlas.
+Asimismo, se entenderá que lo realizan los que adquieran, sustraigan, porten consigo, importen, exporten, transporten o guarden tales sustancias o materias primas, a menos que sea notorio que lo hacen exclusivamente para su uso personal.
+En los casos a que se refiere el presente artículo, la prueba se apreciará en conciencia.
+
+Artículo 319° c El que, estando autorizado para el expendio de sustancias estupefacientes, las suministrare en contravención a las disposiciones legales o reglamentarias restrictivas de su uso, será penado con presidio menor en su grado máximo y multa de cinco a cincuenta sueldos vitales.
+En las mismas penas incurrirá el médico que, con abuso de su profesión, recetare sustancias estupefacientes sin una necesidad médica o terapéutica que lo justifique o en dosis apreciablemente mayores que las necesarios.
+
+Artículo 319° d Para los efectos de los dos artículos precedentes, las normas señaladas en los cinco artículos se considerará circunstancia agravante el hecho de suministrar sustancias estupefacientes a menores de 18 años de edad, o promover o facilitar el enviciamiento de dichos menores con tales sustancias.
+
+Artículo 319° e El que a sabiendas proporcionare un local, a cualquier título, para que terceros concurran a él con el objeto de consumir sustancias estupefacientes, será penado con presidio menor en su grado medio y multa de tres a diez sueldos vitales.
+
+Artículo 319° f Las normas señaladas en los cincos artículos precedentes, se aplicarán, igualmente, cuando se trate de drogas que produzcan efectos de dependencia y que estén incluidas en el reglamento a que se refiere el inciso 2° del artículo 319° a. En estos casos, el Tribunal podrá rebajar hasta en tres grados las penas que en los referidos artículos se establecen.
+
+Artículo 319° g Por los delitos previstos en los seis artículos anteriores se impondrá, además, la pena accesoria de sujeción a la vigilancia de la autoridad por el máximo del tiempo que señala la ley.
 
 #### § XV.
 De la infracción de las leyes o reglamentos sobre inhumaciones y exhumaciones.
