@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2003-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2004-05-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2003-10-10
-fetched_at: 2026-08-03T01:22:04.746375+00:00
+version_date: 2004-05-17
+fetched_at: 2026-08-03T01:24:57.334868+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2761,24 +2761,15 @@ DE LOS JUICIOS DE NULIDAD DE MATRIMONIO Y DE DIVORCIO
 NOTA
 El presente Título fue derogado por el artículo segundo de la Ley 19947, publicada el 17.05.2004, Ley de matrimonio civil y que regula esta materia en el Capítulo IX, párrafos 1 y 2, y artículo 1° transitorio.
 
-Art. 753. (927). Las contiendas sobre nulidad de matrimonio y sobre divorcio perpetuo se substanciarán conforme a las reglas del juicio ordinario. Cuando la sentencia que dé lugar a la nulidad o al divorcio perpetuo no sea apelada, deberá elevarse en consulta al tribunal superior, y si él estima dudosa la legalidad del fallo consultado, retendrá el conocimiento del negocio y procederá como si en realidad se hubiera interpuesto oportunamente apelación, oyendo al fiscal judicial. En caso contrario, aprobará la sentencia.
+Art. 753. Derogado.
 
-Art. 754. (928). El juicio sobre divorcio temporal se someterá a los trámites del procedimiento sumario.
+Art. 754.Derogado.
 
-Art. 755. (929). La fijación de la residencia de la
-NOTA: 49
-mujer durante el juicio, de la cuantía y forma de los alimentos y de las expensas para la litis; la designación del cónyuge u otra persona a quien deba confiarse el cuidado personal de los hijos, y la determinación de la manera como pueden éstos visitar al otro cónyuge o ser visitados por él, serán materia de incidentes del juicio de nulidad o de divorcio, y se tramitarán como tales en ramos separados, sin paralizar el curso de la acción principal.
-En estos juicios podrá el juez, a petición de la mujer, tomar todas las providencias que estime conducentes a la seguridad de los intereses de ésta.
-NOTA: 49
-Véase, el Art. 14 de la Ley N° 14.908, que fijó el texto definitivo de la Ley sobre Abandono de Familia y Pago de Pensiones Alimenticias.
+Art. 755. Derogado.
 
-Art. 756. (930). En estos juicios podrá disponerse que el proceso se mantenga reservado, siempre que el tribunal lo estime conveniente.
+Art. 756. Derogado.
 
-Art. 757. (931). Lo dispuesto en el presente Título
-NOTA: 50
-se aplicará también a los casos en que sea necesario confiar accidentalmente el cuidado personal de los menores o dementes a otra persona que aquella que los tiene actualmente a su cargo.
-NOTA: 50
-Véase la Ley N° 16.618, que fijó el texto definitivo de la Ley de Menores.
+Art. 757. Derogado.
 
 ### Título XVIII
 DE LA ACCION DE DESPOSEIMIENTO CONTRA TERCEROS

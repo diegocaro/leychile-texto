@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2004-01-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2004-05-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2004-01-14
-fetched_at: 2026-08-03T01:23:05.202403+00:00
+version_date: 2004-05-17
+fetched_at: 2026-08-03T01:24:32.538775+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -24,7 +24,6 @@ Decreto con fuerza de ley:
 Artículo 1º.- Déjase sin efecto el D.F.L. Nº 1, de 28 de octubre de 1999, del Ministerio de Justicia, tomado razón por la Contraloría General de la República, sin publicar.
 
 ## Artículo 2º.- Fíjase el siguiente texto refundido, coordinado y sistematizado del Código Civil.
-CODIGO CIVIL
 
 #### TITULO PRELIMINAR
 
@@ -388,27 +387,25 @@ Art. 118. Derogado.
 
 Art. 119. Derogado.
 
-Art. 120. El matrimonio disuelto en territorio extranjero en conformidad a las leyes del mismo país, pero que no hubiera podido disolverse según las leyes chilenas, no habilita a ninguno de los dos cónyuges para casarse en Chile, mientras viviere el otro cónyuge.
+Art. 120. Derogado.
 
-Art. 121. El matrimonio que según las leyes del país en que se contrajo pudiera disolverse en él, no podrá, sin embargo, disolverse en Chile, sino en conformidad a las leyes chilenas.
+Art. 121. Derogado.
 
-Art. 122. El matrimonio nulo, si ha sido celebrado ante oficial del Registro Civil, produce los mismos efectos civiles que el válido respecto del cónyuge que, de buena fe, y con justa causa de error, lo contrajo; pero dejará de producir efectos civiles desde que falte la buena fe por parte de ambos cónyuges.
-Con todo, la nulidad declarada por incompetencia del funcionario, por no haberse celebrado el matrimonio ante el número de testigos requeridos por la ley o por inhabilidad de éstos, no afectará la filiación matrimonial de los hijos, aunque no haya habido buena fe ni justa causa de error.
-Las donaciones o promesas que, por causa de matrimonio, se hayan hecho por el otro cónyuge, al que casó de buena fe, subsistirán no obstante la declaración de la nulidad del matrimonio.
+Art. 122. Derogado.
 
 Art. 123. Derogado.
 
 ##### Título V
 DE LAS SEGUNDAS NUPCIAS
 
-Art. 124. El viudo o viuda que teniendo hijos de precedente matrimonio bajo su patria potestad, o bajo su tutela o curaduría, quisiere volver a casarse, deberá proceder al inventario solemne de los bienes que esté administrando y les pertenezcan como herederos de su cónyuge difunto o con cualquiera otro título.
+Art. 124. El que teniendo hijos de precedente matrimonio bajo su patria potestad, o bajo su tutela o curaduría, quisiere volver a casarse, deberá proceder al inventario solemne de los bienes que esté administrando y les pertenezcan como herederos de su cónyuge difunto o con cualquiera otro título.
 Para la confección de este inventario se dará a dichos hijos un curador especial.
 
 Art. 125. Habrá lugar al nombramiento de curador aunque los hijos no tengan bienes propios de ninguna clase en poder del padre o madre. Cuando así fuere, deberá el curador especial testificarlo.
 
-Art. 126. El Oficial del Registro Civil correspondiente no permitirá el matrimonio del viudo o viuda que trata de volver a casarse, sin que se le presente certificado auténtico del nombramiento de curador especial para los objetos antedichos, o sin que preceda información sumaria de que el viudo o viuda no tiene hijos de precedente matrimonio, que estén bajo su patria potestad o bajo su tutela o curaduría.
+Art. 126. El Oficial del Registro Civil correspondiente no permitirá el matrimonio del que trata de volver a casarse, sin que se le presente certificado auténtico del nombramiento de curador especial para los objetos antedichos, o sin que preceda información sumaria de que no tiene hijos de precedente matrimonio, que estén bajo su patria potestad o bajo su tutela o curaduría.
 
-Art. 127. El viudo o viuda por cuya negligencia hubiere dejado de hacerse en tiempo oportuno el inventario prevenido en el artículo 124, perderá el derecho de suceder como legitimario o como heredero abintestato al hijo cuyos bienes ha administrado.
+Art. 127. El viudo o divorciado o quien hubiere anulado su matrimonio por cuya negligencia hubiere dejado de hacerse en tiempo oportuno el inventario prevenido en el artículo 124, perderá el derecho de suceder como legitimario o como heredero abintestato al hijo cuyos bienes ha administrado.
 
 Art. 128. Cuando un matrimonio haya sido disuelto o declarado nulo, la mujer que está embarazada no podrá pasar a otras nupcias antes del parto, o (no habiendo señales de preñez) antes de cumplirse los doscientos setenta días subsiguientes a la disolución o declaración de nulidad.
 Pero se podrán rebajar de este plazo todos los días que hayan precedido inmediatamente a dicha disolución o declaración, y en los cuales haya sido absolutamente imposible el acceso del marido a la mujer.
@@ -456,11 +453,11 @@ El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.20
 Art. 139 (148). El marido menor de edad necesita de curador para la administración de la sociedad conyugal.
 
 Art. 140 (149). Las reglas de los artículos precedentes sufren excepciones o modificaciones por las causas siguientes:
-1ª La existencia de bienes familiares.
-2ª El ejercitar la mujer una profesión, industria, empleo u oficio.
-3ª La separación de bienes.
-4ª El divorcio perpetuo.
-5ª El régimen de participación en los gananciales.
+1ª. La existencia de bienes familiares.
+2ª. El ejercitar la mujer una profesión, industria, empleo u oficio.
+3ª. La separación de bienes.
+4ª. La separación judicial de los cónyuges.
+5ª. El régimen de participación en los gananciales.
 De las cuatro primeras tratan los párrafos siguientes; de la última el Título XXII-A, del Libro Cuarto.
 
 ###### § 2. De los bienes familiares
@@ -489,13 +486,13 @@ El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.20
 
 Art. 145. Los cónyuges, de común acuerdo, podrán desafectar un bien familiar. Si la declaración se refiere a un inmueble, deberá constar en escritura pública anotada al margen de la inscripción respectiva.
 El cónyuge propietario podrá pedir al juez la desafectación de un bien familiar, fundado en que no está actualmente destinado a los fines que indica el artículo 141, lo que deberá probar. En este caso, el juez procederá en la forma establecida en el inciso segundo del artículo 141.
-Igual regla se aplicará si el matrimonio se ha declarado nulo o ha terminado por muerte de alguno de los cónyuges. En tal caso, el contrayente del matrimonio actualmente nulo o los causahabientes del fallecido deberán formular la petición correspondiente.
+Igual regla se aplicará si el matrimonio se ha declarado nulo, o ha terminado por muerte de uno de los cónyuges o por divorcio. En tales casos, el propietario del bien familiar o cualquiera de sus causahabientes deberá formular al juez la petición correspondiente.
 
 Art. 146. Lo previsto en este párrafo se aplica a los derechos o acciones que los cónyuges tengan en sociedades propietarias de un inmueble que sea residencia principal de la familia.
 Producida la afectación de derechos o acciones, se requerirá asimismo la voluntad de ambos cónyuges para realizar cualquier acto como socio o accionista de la sociedad respectiva, que tenga relación con el bien familiar.
 La afectación de derechos se hará por declaración de cualquiera de los cónyuges contenida en escritura pública. En el caso de una sociedad de personas, deberá anotarse al margen de la inscripción social respectiva, si la hubiere. Tratándose de sociedades anónimas, se inscribirá en el registro de accionistas.
 
-Art. 147. Durante el matrimonio o después de la declaración de su nulidad, el juez podrá constituir, prudencialmente, a favor del cónyuge no propietario, derechos de usufructo, uso o habitación sobre los bienes familiares. En la constitución de esos derechos y en la fijación del plazo que les pone término, el juez tomará especialmente en cuenta el interés de los hijos, cuando los haya, y las fuerzas patrimoniales de los cónyuges.
+Art. 147. Durante el matrimonio el juez podrá constituir, prudencialmente, a favor del cónyuge no propietario, derechos de usufructo, uso o habitación sobre los bienes familiares. En la constitución de esos derechos y en la fijación del plazo que les pone término, el juez tomará especialmente en cuenta el interés de los hijos, cuando los haya, y las fuerzas patrimoniales de los cónyuges.
 El tribunal podrá, en estos casos, fijar otras obligaciones o modalidades si así pareciere equitativo.
 La declaración judicial a que se refiere el inciso anterior servirá como título para todos los efectos legales.
 La constitución de los mencionados derechos sobre bienes familiares no perjudicará a los acreedores que el cónyuge propietario tenía a la fecha de su constitución, ni aprovechará a los acreedores que el cónyuge no propietario tuviere en cualquier momento.
@@ -522,15 +519,15 @@ Art. 151. Derogado.
 ###### § 4. Excepciones relativas a la separación de
 bienes
 
-Art. 152. Simple separación de bienes es la que se efectúa sin divorcio, en virtud de decreto judicial, por disposición de la ley, o por convención de las partes.
+Art. 152. Separación de bienes es la que se efectúa sin separación judicial, en virtud de decreto del tribunal competente, por disposición de la ley o por convención de las partes.
 
 Art. 153. La mujer no podrá renunciar en las capitulaciones matrimoniales la facultad de pedir la separación de bienes a que le dan derecho las leyes.
 
 Art. 154. Para que la mujer menor pueda pedir separación de bienes, deberá ser autorizada por un curador especial.
 
 Art. 155. El juez decretará la separación de bienes en el caso de insolvencia o administración fraudulenta del marido.
-También la decretará si el marido, por su culpa, no cumple con las obligaciones que le imponen los artículos 131 y 134, o incurre en alguna causal de divorcio, con excepción de las señaladas en los números 5º y 10º del artículo 21 de la Ley de Matrimonio Civil.
-En el caso del Nº 8 del artículo 21 de la Ley de Matrimonio Civil, la mujer podrá pedir la separación de bienes transcurrido un año desde que se produce la ausencia del marido. Lo mismo será si, sin mediar ausencia, existe separación de hecho de los cónyuges.
+También la decretará si el marido, por su culpa, no cumple con las obligaciones que imponen los artículos 131 y 134, o incurre en alguna causal de separación judicial, según los términos de la Ley de Matrimonio Civil.
+En caso de ausencia injustificada del marido por más de un año, la mujer podrá pedir la separación de bienes. Lo mismo ocurrirá si, sin mediar ausencia, existe separación de hecho de los cónyuges.
 Si los negocios del marido se hallan en mal estado, por consecuencia de especulaciones aventuradas, o de una administración errónea o descuidada, o hay riesgo inminente de ello, podrá oponerse a la separación, prestando fianza o hipotecas que aseguren suficientemente los intereses de la mujer.
 
 Art. 156. Demandada la separación de bienes, podrá el juez a petición de la mujer, tomar las providencias que estime conducentes a la seguridad de los intereses de ésta, mientras dure el juicio.
@@ -541,7 +538,9 @@ Art. 157. En el juicio de separación de bienes por el mal estado de los negocio
 Art. 158. Lo que en los artículos anteriores de este párrafo se dice del marido o de la mujer, se aplica indistintamente a los cónyuges en el régimen de participación en los gananciales.
 Una vez decretada la separación, se procederá a la división de los gananciales y al pago de recompensas o al cálculo del crédito de participación en los gananciales, según cual fuere el régimen al que se pone término.
 
-Art. 159. La mujer separada de bienes tendrá, respecto de los que separadamente administra, las mismas facultades que el artículo 173 otorga a la divorciada perpetuamente.
+Art. 159. Los cónyuges separados de bienes administran, con plena independencia el uno del otro, los bienes que tenían antes del matrimonio y los que adquieren durante éste, a cualquier título.
+Si los cónyuges se separaren de bienes durante el matrimonio, la administración separada comprende los bienes obtenidos como producto de la liquidación de la sociedad conyugal o del régimen de participación en los gananciales que hubiere existido entre ellos.
+Lo anterior es sin perjuicio de lo dispuesto en el párrafo 2 del Título VI del Libro Primero de este Código.
 
 Art. 160. En el estado de separación, ambos cónyuges deben proveer a las necesidades de la familia común a proporción de sus facultades. El juez en caso necesario reglará la contribución.
 
@@ -556,7 +555,8 @@ Art. 163. Al marido y a la mujer separados de bienes se dará curador para la ad
 
 Art. 164. Derogado.
 
-Art. 165. Producida la separación de bienes, ésta es irrevocable y no podrá quedar sin efecto por acuerdo de los cónyuges ni por resolución judicial.
+Art. 165. La separación efectuada en virtud de decreto judicial o por disposición de la ley es irrevocable y no podrá quedar sin efecto por acuerdo de los cónyuges ni por resolución judicial.
+Tratándose de separación convencional, y además en el caso del artículo 40 de la Ley de Matrimonio Civil, los cónyuges podrán pactar por una sola vez el régimen de participación en los gananciales, en conformidad a lo dispuesto en el artículo 1723.
 
 Art. 166. Si a la mujer casada se hiciere una donación, o se dejare una herencia o legado, con la condición precisa de que en las cosas donadas, heredadas o legadas no tenga la administración el marido, y si dicha donación, herencia o legado fuere aceptado por la mujer, se observarán las reglas siguientes:
 1º. Con respecto a las cosas donadas, heredadas o legadas, se aplicarán las disposiciones de los artículos 159, 160, 161, 162 y 163, pero disuelta la sociedad conyugal las obligaciones contraídas por la mujer en su administración separada podrán perseguirse sobre todos sus bienes.
@@ -565,30 +565,30 @@ Art. 166. Si a la mujer casada se hiciere una donación, o se dejare una herenci
 
 Art. 167. Si en las capitulaciones matrimoniales se hubiere estipulado que la mujer administre separadamente alguna parte de sus bienes, se aplicarán a esta separación parcial las reglas del artículo precedente.
 
-###### § 5. Excepciones relativas al divorcio perpetuo
+###### § 5. Excepciones relativas a la separación judicial
 
 Art. 168. Derogado.
 
 Art. 169. Derogado.
 
-Art. 170. Los efectos civiles del divorcio principian por la sentencia del juez que lo declara.
-En virtud de esta declaración se restituyen a la mujer sus bienes y se dispone de los gananciales como en el caso de la disolución por causa de muerte.
+Art. 170. Derogado.
 
 Art. 171. Derogado.
 
-Art. 172. El cónyuge inocente podrá revocar las donaciones que hubiere hecho al culpable, siempre que éste haya dado causa al divorcio por adulterio, sevicia atroz, atentado contra la vida del otro cónyuge u otro crimen de igual gravedad.
+Art. 172. El cónyuge inocente podrá revocar las donaciones que hubiere hecho al culpable, siempre que éste haya dado causa al divorcio o a la separación judicial por adulterio, sevicia atroz, atentado contra la vida del otro cónyuge u otro crimen de igual gravedad.
 
-Art. 173. La mujer divorciada perpetuamente administra, con independencia del marido, los bienes que ha sacado del poder de éste, o que después del divorcio ha adquirido.
+Art. 173. Los cónyuges separados judicialmente administran sus bienes con plena independencia uno del otro, en los términos del artículo 159.
+Lo anterior se entiende sin perjuicio de lo dispuesto en el Párrafo 2 del Título VI del Libro Primero de este Código.
 
 Art. 174. El cónyuge que no haya dado causa al divorcio tendrá derecho a que el otro cónyuge lo provea de alimentos según las reglas generales.
 
-Art. 175. El cónyuge que haya dado causa al divorcio por su culpa tendrá derecho para que el otro cónyuge lo provea de lo que necesite para su modesta sustentación; pero en este caso el juez reglará la contribución teniendo en especial consideración la conducta que haya observado el alimentario antes y después del divorcio.
+Art. 175. El cónyuge que haya dado causa a la separación judicial por su culpa, tendrá derecho para que el otro cónyuge lo provea de lo que necesite para su modesta sustentación; pero en este caso, el juez reglará la contribución teniendo en especial consideración la conducta que haya observado el alimentario antes del juicio respectivo, durante su desarrollo o con posterioridad a él.
 
 Art. 176. Derogado.
 
 Art. 177. Si la culpabilidad del cónyuge contra quien se ha obtenido el divorcio fuere atenuada por circunstancias graves en la conducta del cónyuge que lo solicitó, podrá el juez moderar el rigor de las disposiciones precedentes.
 
-Art. 178. Al divorcio perpetuo se aplicará lo dispuesto en el artículo 165.
+Art. 178. A la separación judicial, se aplicará lo dispuesto en los artículos 160 y 165.
 
 ##### Título VII
 DE LA FILIACIÓN
@@ -617,9 +617,9 @@ En los demás casos la maternidad se determina por reconocimiento o sentencia fi
 
 ###### § 3. De la determinación de la filiación matrimonial
 
-Art. 184. Se presumen hijos del marido los nacidos después de la celebración del matrimonio y dentro de los trescientos días siguientes a su disolución o al divorcio de los cónyuges.
+Art. 184. Se presumen hijos del marido los nacidos después de la celebración del matrimonio y dentro de los trescientos días siguientes a su disolución o a la separación judicial de los cónyuges.
 No se aplicará esta presunción respecto del que nace antes de expirar los ciento ochenta días subsiguientes al matrimonio, si el marido no tuvo conocimiento de la preñez al tiempo de casarse y desconoce judicialmente su paternidad. La acción se ejercerá en el plazo y forma que se expresa en los artículos 212 y siguientes. Con todo, el marido no podrá ejercerla si por actos positivos ha reconocido al hijo después de nacido.
-Regirá, en cambio, la presunción de paternidad respecto del nacido trescientos días después de decretado el divorcio, por el hecho de consignarse como padre el nombre del marido, a petición de ambos cónyuges, en la inscripción de nacimiento del hijo.
+Regirá, en cambio, la presunción de paternidad respecto del nacido trescientos días después de decretada la separación judicial, por el hecho de consignarse como padre el nombre del marido, a petición de ambos cónyuges, en la inscripción de nacimiento del hijo.
 La paternidad así determinada o desconocida podrá ser impugnada o reclamada, respectivamente, de acuerdo con las reglas establecidas en el Título VIII.
 
 Art. 185. La filiación matrimonial queda determinada por el nacimiento del hijo durante el matrimonio de sus padres, con tal que la maternidad y la paternidad estén establecidas legalmente en conformidad con los artículos 183 y 184, respectivamente.
@@ -1002,7 +1002,7 @@ DE LAS PRUEBAS DEL ESTADO CIVIL
 
 Art. 304. El estado civil es la calidad de un individuo, en cuanto le habilita para ejercer ciertos derechos o contraer ciertas obligaciones civiles.
 
-Art. 305. El estado civil de casado o viudo, y de padre, madre o hijo, se acreditará frente a terceros y se probará por las respectivas partidas de matrimonio, de muerte, y de nacimiento o bautismo.
+Art. 305. El estado civil de casado, separado judicialmente, divorciado, o viudo, y de padre, madre o hijo, se acreditará frente a terceros y se probará por las respectivas partidas de matrimonio, de muerte, y de nacimiento o bautismo.
 El estado civil de padre, madre o hijo se acreditará o probará también por la correspondiente inscripción o subinscripción del acto de reconocimiento o del fallo judicial que determina la filiación.
 La edad y la muerte podrán acreditarse o probarse por las respectivas partidas de nacimiento o bautismo, y de muerte.
 
@@ -1401,7 +1401,7 @@ REGLAS ESPECIALES RELATIVAS A LA CURADURIA DEL DISIPADOR
 Art. 442. A los que por pródigos o disipadores han sido puestos en entredicho de administrar sus bienes, se dará curador legítimo, y a falta de éste, curador dativo.
 Esta curaduría podrá ser testamentaria en el caso del artículo 451.
 
-Art. 443. El juicio de interdicción podrá ser provocado por el cónyuge no divorciado del supuesto disipador, por cualquiera de sus consanguíneos hasta en el cuarto grado, y por el defensor público.
+Art. 443. El juicio de interdicción podrá ser provocado por el cónyuge no separado judicialmente del supuesto disipador, por cualquiera de sus consanguíneos hasta en el cuarto grado, y por el defensor público.
 El defensor público será oído aun en los casos en que el juicio de interdicción no haya sido provocado por él.
 
 Art. 444. Si el supuesto disipador fuere extranjero, podrá también ser provocado el juicio por el competente funcionario diplomático o consular.
@@ -1457,10 +1457,11 @@ Art. 460. El juez se informará de la vida anterior y conducta habitual del supu
 Art. 461. Las disposiciones de los artículos 446, 447 y 449 se extienden al caso de demencia.
 
 Art. 462. Se deferirá la curaduría del demente:
-1º A su cónyuge no divorciado, sin perjuicio de lo dispuesto en el artículo 503; 2º A sus descendientes;
-3º A sus ascendientes, pero el padre o madre cuya paternidad o maternidad haya sido determinada judicialmente contra su oposición o que esté casado con un tercero no podrá ejercer el cargo;
-4º A sus hermanos, y
-5º A otros colaterales hasta en el cuarto grado.
+1º. A su cónyuge no separado judicialmente, sin perjuicio de lo dispuesto en el artículo 503;
+2º. A sus descendientes;
+3º. A sus ascendientes, pero el padre o madre cuya paternidad o maternidad haya sido determinada judicialmente contra su oposición o que esté casado con un tercero no podrá ejercer el cargo;
+4º. A sus hermanos, y
+5º. A otros colaterales hasta en el cuarto grado.
 El juez elegirá en cada clase de las designadas en los números 2º, 3º, 4º y 5º, la persona o personas que más idóneas le parecieren.
 A falta de todas las personas antedichas tendrá lugar la curaduría dativa.
 
@@ -1508,7 +1509,7 @@ Podrá asimismo nombrar más de un curador y dividir entre ellos la administraci
 
 Art. 476. Intervendrá en el nombramiento el defensor de ausentes.
 
-Art. 477. Si el ausente ha dejado mujer no divorciada, se observará lo prevenido para este caso en el título De la sociedad conyugal.
+Art. 477. Si el ausente ha dejado mujer no separada judicialmente, se observará lo prevenido para este caso en el título De la sociedad conyugal.
 
 Art. 478. Si la persona ausente es mujer casada, no podrá ser curador el marido sino en los términos del artículo 503.
 
@@ -1574,15 +1575,18 @@ Art. 496. Hay personas a quienes la ley prohíbe ser tutores o curadores, y pers
 ###### I. Reglas relativas a defectos físicos y morales
 
 Art. 497. Son incapaces de toda tutela o curaduría:
-1º Los ciegos;
-2º Los mudos;
-3º Los dementes, aunque no estén bajo interdicción;
-4º Los fallidos mientras no hayan satisfecho a sus acreedores;
-5º Los que están privados de administrar sus propios bienes por disipación;
-6º Los que carecen de domicilio en la República;
-7º Los que no saben leer ni escribir;
-8º Los de mala conducta notoria; 9º Los condenados por delito que merezca pena aflictiva, aunque se les haya indultado de ella; 10. Los divorciados por adulterio, salvo que se trate de la guarda de sus hijos y siempre que no hayan sido privados del cuidado personal de ellos. La incapacidad subsistirá, aunque el estado de divorcio haya terminado por disolución del matrimonio, o por reconciliación;
-11. El que ha sido privado de ejercer la patria potestad según el artículo 271; 12. Los que por torcida o descuidada administración han sido removidos de una guarda anterior, o en el juicio subsiguiente a ésta han sido condenados, por fraude o culpa grave, a indemnizar al pupilo.
+1º. Los ciegos;
+2º. Los mudos;
+3º. Los dementes, aunque no estén bajo interdicción;
+4º. Los fallidos mientras no hayan satisfecho a sus acreedores;
+5º. Los que están privados de administrar sus propios bienes por disipación;
+6º. Los que carecen de domicilio en la República;
+7º. Los que no saben leer ni escribir;
+8º. Los de mala conducta notoria;
+9º Los condenados por delito que merezca pena aflictiva, aunque se les haya indultado de ella;
+10. Suprimido;
+11. El que ha sido privado de ejercer la patria potestad según el artículo 271;
+12. Los que por torcida o descuidada administración han sido removidos de una guarda anterior, o en el juicio subsiguiente a ésta han sido condenados, por fraude o culpa grave, a indemnizar al pupilo.
 
 ###### II. Reglas relativas a las profesiones, empleos y cargos públicos
 
@@ -3113,7 +3117,7 @@ Los colaterales de simple conjunción, esto es, los que sólo son parientes del 
 
 Art. 993. Derogado.
 
-Art. 994. El cónyuge divorciado temporal o perpetuamente no tendrá parte alguna en la herencia abintestato de su mujer o marido, si hubiere dado motivo al divorcio por su culpa.
+Art. 994. El cónyuge separado judicialmente, que hubiere dado motivo a la separación por su culpa, no tendrá parte alguna en la herencia abintestato de su mujer o marido.
 Tampoco sucederán abintestato los padres del causante si la paternidad o maternidad ha sido determinada judicialmente contra su oposición, salvo que mediare el restablecimiento a que se refiere el artículo 203.
 
 Art. 995. A falta de todos los herederos abintestato designados en los artículos precedentes, sucederá el Fisco.
@@ -3705,7 +3709,7 @@ Art. 1182. Son legitimarios:
 1. Los hijos, personalmente o representados por su descendencia;
 2. Los ascendientes, y
 3. El cónyuge sobreviviente.
-No serán legitimarios los ascendientes del causante si la paternidad o la maternidad que constituye o de la que deriva su parentesco, ha sido determinada judicialmente contra la oposición del respectivo padre o madre, salvo el caso del inciso final del artículo 203. Tampoco lo será el cónyuge que por culpa suya haya dado ocasión al divorcio perpetuo o temporal.
+No serán legitimarios los ascendientes del causante si la paternidad o la maternidad que constituye o de la que deriva su parentesco, ha sido determinada judicialmente contra la oposición del respectivo padre o madre, salvo el caso del inciso final del artículo 203. Tampoco lo será el cónyuge que por culpa suya haya dado ocasión a la separación judicial.
 
 Art. 1183. Los legitimarios concurren y son excluidos y representados según el orden y reglas de la sucesión intestada.
 
@@ -5069,12 +5073,12 @@ Art. 1624. Lo dispuesto acerca de la cesión en los artículos 1618 y siguientes
 Art. 1625. Beneficio de competencia es el que se concede a ciertos deudores para no ser obligados a pagar más de lo que buenamente puedan, dejándoseles en consecuencia lo indispensable para una modesta subsistencia, según su clase y circunstancias, y con cargo de devolución cuando mejoren de fortuna.
 
 Art. 1626. El acreedor es obligado a conceder este beneficio:
-1.º A sus descendientes o ascendientes; no habiendo éstos irrogado al acreedor ofensa alguna de las clasificadas entre las causas de desheredación;
-2.º A su cónyuge; no estando divorciado por su culpa;
-3.º A sus hermanos; con tal que no se hayan hecho culpables para con el acreedor de una ofensa igualmente grave que las indicadas como causa de desheredación respecto de los descendientes o ascendientes;
-4.º A sus consocios en el mismo caso; pero sólo en las acciones recíprocas que nazcan del contrato de sociedad;
-5.º Al donante; pero sólo en cuanto se trata de hacerle cumplir la donación prometida;
-6.º Al deudor de buena fe que hizo cesión de bienes y es perseguido en los que después ha adquirido para el pago completo de las deudas anteriores a la cesión; pero sólo le deben este beneficio los acreedores a cuyo favor se hizo.
+1º. A sus descendientes o ascendientes; no habiendo éstos irrogado al acreedor ofensa alguna de las clasificadas entre las causas de desheredación;
+2º. A su cónyuge; no estando separado judicialmente por su culpa;
+3º. A sus hermanos; con tal que no se hayan hecho culpables para con el acreedor de una ofensa igualmente grave que las indicadas como causa de desheredación respecto de los descendientes o ascendientes;
+4º. A sus consocios en el mismo caso; pero sólo en las acciones recíprocas que nazcan del contrato de sociedad;
+5º. Al donante; pero sólo en cuanto se trata de hacerle cumplir la donación prometida;
+6º. Al deudor de buena fe que hizo cesión de bienes y es perseguido en los que después ha adquirido para el pago completo de las deudas anteriores a la cesión; pero sólo le deben este beneficio los acreedores a cuyo favor se hizo.
 
 Art. 1627. No se pueden pedir alimentos y beneficio de competencia a un mismo tiempo. El deudor elegirá.
 
@@ -5522,13 +5526,12 @@ Art. 1763. Cesando la causa de la administración extraordinaria de que hablan l
 
 ###### § 5. De la disolución de la sociedad conyugal y participación de los gananciales
 
-partición de gananciales
 Art. 1764. La sociedad conyugal se disuelve:
-1.º Por la disolución del matrimonio;
-2.º Por la presunción de muerte de uno de los cónyuges, según lo prevenido en el título Del principio y fin de las personas;
-3.º Por la sentencia de divorcio perpetuo o de separación total de bienes: si la separación es parcial, continuará la sociedad sobre los bienes no comprendidos en ella;
-4.º Por la declaración de nulidad del matrimonio;
-5.º Por el pacto de participación en los gananciales o de separación total de bienes, según el Título XXII-A del Libro Cuarto y el artículo 1723.
+1º. Por la disolución del matrimonio;
+2º. Por la presunción de muerte de uno de los cónyuges, según lo prevenido en el título Del principio y fin de las personas;
+3º. Por la sentencia de separación judicial o de separación total de bienes: si la separación es parcial, continuará la sociedad sobre los bienes no comprendidos en ella;
+4º. Por la declaración de nulidad del matrimonio;
+5º. Por el pacto de participación en los gananciales o de separación total de bienes, según el Título XXII-A del Libro Cuarto y el artículo 1723.
 
 Art. 1765. Disuelta la sociedad, se procederá inmediatamente a la confección de un inventario y tasación de todos los bienes que usufructuaba o de que era responsable, en el término y forma prescritos para la sucesión por causa de muerte.
 
@@ -5594,6 +5597,7 @@ Art. 1789. Las donaciones por causa de matrimonio, sea que se califiquen de dote
 En todas ellas se entiende la condición de celebrarse o haberse celebrado el matrimonio.
 
 Art. 1790. Declarada la nulidad del matrimonio, podrán revocarse todas las donaciones que por causa del mismo matrimonio se hayan hecho al que lo contrajo de mala fe, con tal que de la donación y de su causa haya constancia por escritura pública.
+La sentencia firme de separación judicial o divorcio autoriza, por su parte, a revocar todas las donaciones que por causa del mismo matrimonio se hayan hecho al cónyuge que dio motivo a la separación judicial o al divorcio por su culpa verificada la condición señalada en el inciso precedente.
 En la escritura del esposo donante se presume siempre la causa de matrimonio, aunque no se exprese.
 Carecerá de esta acción revocatoria el cónyuge putativo que también contrajo de mala fe.
 
@@ -5706,8 +5710,8 @@ Art. 1792-26. La acción para pedir la liquidación de los gananciales se tramit
 Art. 1792-27. El régimen de participación en los gananciales termina:
 1) Por la muerte de uno de los cónyuges.
 2) Por la presunción de muerte de uno de los cónyuges, según lo prevenido en el Título II, "Del principio y fin de la existencia de las personas", del Libro Primero del Código Civil.
-3) Por la declaración de nulidad del matrimonio.
-4) Por la sentencia de divorcio perpetuo.
+3) Por la declaración de nulidad del matrimonio o sentencia de divorcio.
+4) Por la separación judicial de los cónyuges.
 5) Por la sentencia que declare la separación de bienes.
 6) Por el pacto de separación de bienes.
 
@@ -5722,7 +5726,7 @@ Art. 1794. Cuando el precio consiste parte en dinero y parte en otra cosa, se en
 
 Art. 1795. Son hábiles para el contrato de venta todas las personas que la ley no declara inhábiles para celebrarlo o para celebrar todo contrato.
 
-Art. 1796. Es nulo el contrato de compraventa entre cónyuges no divorciados perpetuamente, y entre el padre o madre y el hijo sujeto a patria potestad.
+Art. 1796. Es nulo el contrato de compraventa entre cónyuges no separados judicialmente, y entre el padre o madre y el hijo sujeto a patria potestad.
 
 Art. 1797. Se prohíbe a los administradores de establecimientos públicos vender parte alguna de los bienes que administran, y cuya enajenación no está comprendida en sus facultades administrativas ordinarias; salvo el caso de expresa autorización de la autoridad competente.
 
@@ -7874,10 +7878,10 @@ Art. 2508. El tiempo necesario a la prescripción ordinaria es de dos años para
 
 Art. 2509. La prescripción ordinaria puede suspenderse, sin extinguirse: en ese caso, cesando la causa de la suspensión, se le cuenta al poseedor el tiempo anterior a ella, si alguno hubo.
 Se suspende la prescripción ordinaria, en favor de las personas siguientes:
-1.º Los menores; los dementes; los sordos o sordomudos que no pueden darse a entender claramente; y todos los que estén bajo potestad paterna, o bajo tutela o curaduría;
-2.º La mujer casada en sociedad conyugal mientras dure ésta;
-3.º La herencia yacente.
-No se suspende la prescripción en favor de la mujer divorciada o separada de bienes, respecto de aquellos que administra.
+1º. Los menores; los dementes; los sordos o sordomudos que no pueden darse a entender claramente; y todos los que estén bajo potestad paterna, o bajo tutela o curaduría;
+2º. La mujer casada en sociedad conyugal mientras dure ésta;
+3º. La herencia yacente.
+No se suspende la prescripción en favor de la mujer separada judicialmente de su marido, ni de la sujeta al régimen de separación de bienes, respecto de aquellos que administra.
 La prescripción se suspende siempre entre cónyuges.
 
 Art. 2510. El dominio de cosas comerciales que no ha sido adquirido por la prescripción ordinaria, puede serlo por la extraordinaria, bajo las reglas que van a expresarse:
@@ -7958,10 +7962,16 @@ Los hijos de chilenos nacidos en el extranjero, que no se encuentren en el caso 
 4.º Las escrituras públicas de adopción, las que la extingan y las sentencias ejecutoriadas que le pongan término o declaren su nulidad.
 
 Art. 4.º En el libro de los matrimonios se inscribirán:
-1.º Los matrimonios que se celebren en el territorio de cada comuna;
+1.º Los matrimonios que se celebren en el territorio de cada comuna ante un Oficial del Registro Civil o ante el ministro de culto autorizado por cualquiera de las entidades religiosas a que se
+NOTA
+refiere el artículo 20 de la Ley de Matrimonio Civil;
 2.º Los matrimonios celebrados en artículo de muerte dentro del territorio de la República en la comuna correspondiente al lugar en que este acto se verifique;
 3.º Los matrimonios celebrados fuera del país por un chileno con un extranjero o entre dos chilenos, se inscribirán en el Registro de la Primera Sección de la comuna de Santiago. Para efectuar esta inscripción, cualquiera de los contrayentes remitirá, debidamente legalizados, los antecedentes que correspondan, al Ministerio de Relaciones Exteriores. Este Departamento verificará la autenticidad de los documentos y los enviará al Conservador del Registro Civil, quien dispondrá la inscripción en el Registro correspondiente; y
-4.º Las sentencias ejecutoriadas en que se declare la nulidad del matrimonio o se decrete el divorcio perpetuo o temporal; la simple separación de bienes de los cónyuges; los instrumentos en que se estipulen capitulaciones matrimoniales y las sentencias ejecutoriadas que concedan a la mujer o a un curador, la administración extraordinaria de la sociedad conyugal y las que declaren la interdicción del marido. Estas subinscripciones podrán solicitarse también del Conservador del Registro Civil, quien ordenará que se haga la subinscripción en el libro de la comuna que corresponda.
+4.º Las sentencias ejecutoriadas en que se declare la nulidad del matrimonio o se decrete la separación judicial o el divorcio; la separación de bienes de los cónyuges; los instrumentos en que se
+NOTA
+estipulen capitulaciones matrimoniales y las sentencias ejecutoriadas que concedan a la mujer o a un curador, la administración extraordinaria de la sociedad conyugal y las que declaren la interdicción del marido. Estas subinscripciones podrán solicitarse también del Conservador del Registro Civil, quien ordenará que se haga la subinscripción en el libro de la comuna que corresponda.
+NOTA
+El Art. final de la LEY 19947, publicada el 17.05.2004, establece que las modificaciones efectuadas a este artículo entrarán en vigencia seis meses después de su publicación en el Diario Oficial.
 
 Art. 5.º En el libro de las defunciones se inscribirán:
 1.º Las defunciones que ocurran en el territorio de cada comuna;
@@ -8004,6 +8014,10 @@ Art. 13. Los Oficiales del Registro Civil requerirán de los comparecientes las 
 Art. 14. El Oficial del Registro Civil se limitará a recibir las declaraciones de los comparecientes, haciéndoles las observaciones del caso si declararen hechos evidentemente erróneos. Pero si aquéllos insistieren, las declaraciones deberán ser admitidas y consignadas tales como hayan sido hechas, junto con las observaciones del Oficial del Registro Civil, sin perjuicio de las acciones que competan en contra de los falsos declarantes.
 
 Art. 15. Los interesados en una inscripción podrán hacerse representar por medio de mandatario. Se tendrá como mandatario a la persona que se presente en tal carácter, expresando que ha recibido comisión verbal. Si al Oficial del Registro Civil mereciere dudas el encargo, podrá exigir o la comprobación del poder o la comparecencia de las personas a que se refieren los artículos 29 y 45. El poder para contraer matrimonio deberá otorgarse en la forma señalada por el artículo 103 del Código Civil.
+No tendrá aplicación lo previsto en el inciso precedente, tratándose de las inscripciones a que se refiere el artículo 20 de la Ley de Matrimonio Civil.
+NOTA
+NOTA
+El Art. final de la LEY 19947, publicada el 17.05.2004, establece que las modificaciones efectuadas a este artículo entrarán en vigencia seis meses después de su publicación en el Diario Oficial.
 
 Art. 16. Los testigos que presenten los interesados para los efectos de una inscripción podrán ser parientes de ellos o extraños.
 No podrán ser testigos:
@@ -8109,22 +8123,41 @@ Art. 33. Son requisitos esenciales de la inscripción de un nacimiento, la fecha
 #### Título III
 DE LOS MATRIMONIOS
 
-Art. 34. El matrimonio se celebrará ante el Oficial del Registro Civil en el local de su oficina o en casa de alguno de los contrayentes y ante dos testigos que sepan leer y escribir. Podrá también efectuarse en la casa que, de común acuerdo, indicaren los contrayentes, siempre que se hallare ubicada dentro de la jurisdicción del Oficial del Registro Civil competente.
+Art. 34. SUPRIME
+NOTA
+El Art. final de la LEY 19947, publicada el 17.05.2004, establece que las modificaciones efectuadas a este artículo entrarán en vigencia seis meses después de su publicación en el Diario Oficial.
 
-Art. 35. Será competente para celebrar un matrimonio el Oficial del Registro Civil de la comuna o sección en que cualquiera de los contrayentes tenga su domicilio, o haya vivido los tres últimos meses anteriores a la fecha del matrimonio.
+Art. 35. SUPRIMIDO
+NOTA
+NOTA
+El Art. final de la LEY 19947, publicada el 17.05.2004, establece que las modificaciones efectuadas a este artículo entrarán en vigencia seis meses después de su publicación en el Diario Oficial.
 
-Art. 36. Antes de proceder a la inscripción del matrimonio, el Oficial del Registro Civil, en presencia de los contrayentes y testigos, dará lectura a los artículos 131, 133 y 134 del Código Civil. Preguntará a los contrayentes si consienten en recibirse el uno al otro como marido y mujer, y si respondieren afirmativamente, los declarará casados en nombre de la ley.
-Inmediatamente después extenderá la inscripción del matrimonio en el registro correspondiente.
+Art. 36. SUPRÍMESE
+NOTA
+NOTA
+El Art. final de la LEY 19947, publicada el 17.05.2004, establece que las modificaciones efectuadas a este artículo entrarán en vigencia seis meses después de su publicación en el Diario Oficial.
 
-Art. 37. El Oficial del Registro Civil privadamente manifestará, también, a los contrayentes, que pueden reconocer los hijos comunes nacidos antes del matrimonio, para los efectos de lo dispuesto en el artículo siguiente.
+Artículo 37.- El Oficial del Registro Civil no procederá a la inscripción del matrimonio sin haber manifestado privadamente a los contrayentes que pueden reconocer los hijos
+NOTA
+comunes nacidos antes del matrimonio, para los efectos de lo dispuesto en el artículo siguiente.
+NOTA
+El Art. final de la LEY 19947, publicada el 17.05.2004, establece que las modificaciones efectuadas a este artículo entrarán en vigencia seis meses después de su publicación en el Diario Oficial.
 
-Art. 38. En el acto del matrimonio podrán los contrayentes reconocer hijos habidos con anterioridad, y la inscripción que contenga esa declaración producirá los efectos señalados en el inciso segundo del artículo 185 del Código Civil.
-Podrán, asimismo, pactar separación total de bienes o participación en los gananciales. El Oficial del Registro Civil manifestará, también, a los contrayentes, que pueden celebrar los pactos a que se refiere el inciso anterior y que si no lo hacen o nada dicen al respecto, se entenderán casados en régimen de sociedad conyugal.
+Art. 38. En el acto del matrimonio o de requerir la inscripción a que se refiere el artículo 20 de la Ley de Matrimonio Civil podrán los contrayentes reconocer hijos habidos con anterioridad, y
+NOTA
+la inscripción que contenga esa declaración producirá los efectos señalados en el inciso segundo del artículo 185 del Código Civil.
+Podrán, asimismo, pactar separación total de bienes o participación en los gananciales.
+El Oficial del Registro Civil manifestará, también, a los contrayentes, que pueden celebrar los pactos a que se refiere el inciso anterior y que si no lo hacen o nada dicen al respecto, se entenderán casados en régimen de sociedad conyugal.
+NOTA
+El Art. final de la LEY 19947, publicada el 17.05.2004, establece que las modificaciones efectuadas a este artículo entrarán en vigencia seis meses después de su publicación.
 
-Art. 39. Las inscripciones de matrimonios, sin perjuicio de las indicaciones comunes a toda inscripción, deberán contener:
+Art. 39. Las inscripciones de matrimonios celebrados ante un oficial del Registro Civil , sin perjuicio de las indicaciones comunes a toda inscripción, deberán contener:
+NOTA
 1.º El nombre y apellidos paterno y materno de cada uno de los contrayentes y el lugar en que se celebre;
 2.º El lugar y fecha de su nacimiento;
-3.º Su estado de soltero o viudo y, en este último caso, el nombre del cónyuge y el lugar y fecha de su muerte;
+3º Su estado de soltero, viudo o divorciado. En estos dos últimos casos, el nombre del cónyuge fallecido o de aquél con quien contrajo matrimonio anterior y el
+NOTA
+lugar y la fecha de la muerte o sentencia de divorcio, respectivamente.
 4.º Su profesión u oficio;
 5.º Los nombres y apellidos de sus padres, si fueren conocidos;
 6.º El hecho de no tener ninguno de los cónyuges impedimento o prohibición legal para contraer matrimonio;
@@ -8133,25 +8166,63 @@ Art. 39. Las inscripciones de matrimonios, sin perjuicio de las indicaciones com
 9.º Testimonio fehaciente del consentimiento para el matrimonio, en caso de necesitársele;
 10. El nombre de los hijos que hayan reconocido en este acto;
 11. Testimonio de haberse pactado separación de bienes o participación en los gananciales, cuando la hubieren convenido los contrayentes en el acto del matrimonio.
-12. Nombres y apellidos de las personas cuya aprobación o autorización fuere necesaria para autorizar el pacto a que se refiere el número anterior; 13. Testimonio fehaciente de esa aprobación o autorización, en caso de ser necesarias; y 14. Firma de los contrayentes, de los testigos y del Oficial del Registro Civil. Si alguno de los contrayentes no supiere o no pudiere firmar, se dejará testimonio de esta circunstancia, sin perjuicio de lo dispuesto en el número 5.º del artículo 12.
+12. Nombres y apellidos de las personas cuya aprobación o autorización fuere necesaria para autorizar el pacto a que se refiere el número anterior;
+13. Testimonio fehaciente de esa aprobación o autorización, en caso de ser necesarias; y
+14. Firma de los contrayentes, de los testigos y del Oficial del Registro Civil.
+Si alguno de los contrayentes no supiere o no pudiere firmar, se dejará testimonio de esta circunstancia, sin perjuicio de lo dispuesto en el número 5.º del artículo 12.
+NOTA
+El Art. final de la LEY 19947, publicada el 17.05.2004, establece que las modificaciones efectuadas a este artículo entrarán en vigencia seis meses después de su publicación.
 
 Art. 40. Son requisitos esenciales de la inscripción de un matrimonio, los indicados en los números 1 del artículo 12, y 1, 7 y 14 del artículo 39.
+
+Artículo 40 bis.- El acta a que se refiere el artículo 20 de la Ley de Matrimonio Civil deberá estar suscrita por el ministro de culto ante quien hubieren contraído matrimonio religioso los requirentes, y deberá expresar la siguiente información:
+1º La individualización de la entidad religiosa ante la que se celebró el matrimonio, con expresa mención del número del decreto en virtud de la cual goza de personalidad jurídica de derecho público.
+En el caso de las entidades religiosas reconocidas por el artículo 20 de la ley 19.638, deberán citar esta norma jurídica;
+2º La fecha y el lugar de la celebración del matrimonio;
+3º El nombre y los apellidos paterno y materno de los contrayentes, así como sus números de cédula de identidad;
+4º La fecha y el lugar de nacimiento de los contrayentes;
+5º Su estado de soltero, divorciado o viudo y, en estos dos últimos casos, el nombre del cónyuge fallecido o de aquél con quien contrajo matrimonio anterior, y el lugar y la fecha de la muerte o sentencia de divorcio, respectivamente;
+6º Su profesión u oficio;
+7º Los nombres y apellidos de sus padres, si fueren conocidos;
+8º Los nombres y apellidos de dos testigos, así como sus números de cédula de identidad, y su testimonio, bajo juramento, sobre el hecho de no tener ninguno de los contrayentes impedimento o prohibición legal para contraer matrimonio;
+9º El nombre y los apellidos del ministro de culto, así como su número de cédula de identidad;
+10º El hecho de haberse cumplido las exigencias establecidas en la ley para la validez del matrimonio civil, y
+11º La firma de los contrayentes, los testigos y el ministro de culto.
+Si alguno de los contrayentes no supiere o no pudiere firmar, se dejará testimonio de esta circunstancia.
+Deberá adjuntarse al acta el documento que acredite la personería del ministro de culto respectivo.
+NOTA
+El Art. final de la LEY 19947, publicada el 17.05.2004, establece que la incorporación de este artículo entrará en vigencia seis meses después de su publicación.
+
+Artículo 40 ter.- Para los efectos de lo dispuesto en el artículo 20 de la Ley de Matrimonio Civil, las inscripciones de matrimonios celebrados ante entidades relig
+NOTA
+iosas deberán contener o expresar, en su caso:
+NOTA
+1º El acta de que trata el artículo precedente;
+2º El documento que acredite la personería del respectivo ministro de culto;
+3º El hecho de cumplir el acta con los requisitos establecidos en el artículo precedente;
+4º La individualización de la entidad religiosa ante la que se celebró el matrimonio, con mención del decreto o disposición legal en virtud de la cual goza de personalidad jurídica de derecho público;
+5º Los nombres y apellidos de los contrayentes;
+6º Las menciones indicadas en los números 6º, 8º, 9º 10º, 11º, 12º y 13º del artículo 39 de esta ley;
+7º El hecho de haberse cumplido con el plazo a que se refiere el artículo 20 de la Ley de Matrimonio Civil;
+8º El hecho de haberse dado a conocer a los requirentes de la inscripción, los derechos y deberes que corresponden a los cónyuges de acuerdo a la ley;
+9º El hecho de haberse otorgado por los requirentes de la inscripción, ante el Oficial del Registro Civil, la ratificación del consentimiento prestado ante el ministro de culto, en conformidad a lo dispuesto en el artículo 20 de la Ley de Matrimonio Civil, y
+10º La firma de los requirentes de la inscripción y del Oficial del Registro Civil.
+Son requisitos esenciales de la inscripción de un matrimonio religioso los indicados en los números 1º, 2º, 9º y 10º.
+NOTA
+El Art. final de la LEY 19947, publicada el 17.05.2004, establece que la incorporación de este artículo entrará en vigencia seis meses después de su publicación.
 
 Art. 41. Los matrimonios en artículo de muerte pueden celebrarse ante cualquier Oficial del Registro Civil y en cualquier lugar.
 El Oficial del Registro Civil anotará en la respectiva inscripción, las circunstancias en que se ha efectuado el matrimonio y, especialmente, la de haberse celebrado en artículo de muerte.
 
-Art. 42. Se entiende que las personas asiladas en hospitales, pensionados y otras casas de salud o beneficencia; cárceles y demás establecimientos penales, tienen allí la residencia de tres meses que exige el inciso 2.º del artículo 35.
+Art. 42. DEROGADO
+NOTA
+NOTA
+El Art. final de la LEY 19947, publicada el 17.05.2004, establece que las modificaciones efectuadas a este artículo entrarán en vigencia seis meses después de su publicación.
 
-Art. 43. Si se celebrare un matrimonio religioso sin que le haya precedido el matrimonio ante el Oficial del Registro Civil correspondiente, deberán los esposos contraer este último antes de expirar los ocho días siguientes a la celebración del primero, salvo el caso de impedimentos o prohibiciones legales.
-Si no se cumpliere la obligación impuesta por el inciso anterior, el responsable será castigado con multa, a beneficio fiscal, de diez centésimos a un escudo. Si el matrimonio civil se efectuare después de los ocho días a que se refiere el inciso primero, pero antes de iniciarse el procedimiento criminal, el juez regulará prudencialmente la pena y hasta podrá remitirla.
-El juez no aplicará pena cuando el procedimiento se inicie por denuncia de uno de los esposos y el matrimonio se celebrare antes de dictarse sentencia.
-Si dentro del plazo de diez días, contado desde aquel en que quede ejecutoriada la sentencia que imponga la multa en conformidad a este artículo, los esposos no celebraren el matrimonio civil, no existiendo impedimentos o prohibiciones legales, aquel por cuya oposición no pudiere celebrarse, será castigado con la pena de presidio menor en cualquiera de sus grados.
-En todo caso, se pondrá término al juicio o se remitirá la pena, si los esposos contrajeren matrimonio civil.
-Estos matrimonios podrán celebrarse ante cualquier Oficial del Registro Civil, dejándose testimonio de esta circunstancia en la inscripción correspondiente.
-En la misma pena de presidio menor en cualquiera de sus grados incurrirán los que, a sabiendas o sin justa causa de error, hayan contraído matrimonio religioso, y no puedan celebrar el civil por tener impedimentos o prohibiciones legales.
-Las acciones que nacen de este artículo sólo pueden ser ejercitadas por el contrayente ofendido, por su representante legal, por los Oficiales del Registro Civil y por el ministerio público.
-La acción penal prescribirá en cinco años.
-Será competente para conocer de estos juicios el Juez de Letras en lo Criminal del departamento en que el infractor responsable tuvo su domicilio en la fecha de su matrimonio religioso.
+Art. 43. DEROGADO
+NOTA
+NOTA
+El Art. final de la LEY 19947, publicada el 17.05.2004, establece que las modificaciones efectuadas a este artículo entrarán en vigencia seis meses después de su publicación.
 
 #### Título IV
 DE LAS DEFUNCIONES
@@ -8489,6 +8560,11 @@ El juez, si lo estima necesario, podrá decretar, de oficio o a petición de par
 e) Si no concurren todas las partes a la audiencia, ésta se celebrará con las que asistan. Al concluir la audiencia se citará a las partes a oír sentencia, entendiéndose notificadas por la sola inclusión de dicha resolución en el acta respectiva, y se dará cumplimiento a lo dispuesto en el artículo 91 del Código de Procedimiento Civil.
 NOTA:
 El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+
+Artículo 48 ter.- Cuando se deduzca una demanda de alimentos a favor de los hijos, o entre los cónyuges en forma adicional a aquélla, o se solicite la regulación del cuidado personal o de la relación directa y regular que mantendrá con ellos aquél de los padres que no los tenga bajo su cuidado, y no exista previamente una resolución judicial que regule dichas materias o que apruebe el acuerdo de las partes sobre las mismas, cualquiera de las partes podrá solicitar al tribunal que emita en la sentencia un pronunciamiento sobre cada una de ellas, aunque no hubieren sido incluidas en la demanda respectiva o deducidas por vía reconvencional. El tribunal hará lugar a esa solicitud, a menos que no se den los presupuestos que justifican su regulación.
+Para estos efectos, las acciones que hubieren dado lugar a la interposición de la demanda se tramitarán conforme al procedimiento que corresponda, mientras que las demás se sustanciarán por vía incidental, a menos que el tribunal, de oficio o a petición de parte, resuelva tramitarlas en forma conjunta.
+NOTA:
+El artículo final de la LEY 19947, publicada el 17.05.2004, dispone que las modificaciones efectuadas a la presente norma, entrarán en vigencia seis meses después de su publicación.
 
 Art. 49. La salida de menores desde Chile deberá sujetarse a las normas que en este artículo se señalan, sin perjuicio de lo dispuesto en la Ley Nº 18.703. Si la tuición del hijo no ha sido confiada por el juez a alguno de sus padres ni a un tercero, aquél no podrá salir sin la autorización de ambos padres, o de aquel que lo hubiere reconocido, en su caso. Confiada por el juez la tuición a uno de los padres o a un tercero, el hijo no podrá salir sino con la autorización de aquel a quien se hubiere confiado. Regulado el derecho a que se refiere el artículo 229 del Código Civil por sentencia judicial o avenimiento aprobado por el tribunal, se requerirá también la autorización del padre o madre a cuyo favor se estableció.
 El permiso a que se refieren los incisos anteriores deberá prestarse por escritura pública o por escritura privada autorizada por un Notario Público. Dicho permiso no será necesario si el menor sale del país en compañía de la persona o personas que deben prestarlo.
@@ -9136,6 +9212,8 @@ Art. 75. Derógase el Decreto Ley Nº 364, de 3 de agosto de 1932, y demás disp
 DISPOSICIONES TRANSITORIAS (DEROGADO)
 
 Art. 76. DEROGADO
+NOTA:
+NOTA:
 NOTA:
 NOTA:
 NOTA:
