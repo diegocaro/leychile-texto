@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=137535&idVersion=1865-07-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=137535&idVersion=1871-08-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 137535
-version_date: 1865-07-27
-fetched_at: 2026-08-05T02:17:04.926279+00:00
+version_date: 1871-08-08
+fetched_at: 2026-08-05T02:17:44.011384+00:00
 titulo_norma: "CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: LEY-S/N
 organismos: []
@@ -232,9 +232,9 @@ Art. 60. Para ser Presidente de la República se requiere:
 2º Tener las calidades necesarias para ser miembro de la Cámara de Diputados.
 3º Treinta años de edad a lo menos.
 
-Art. 61. Las funciones del Presidente de la República durarán por cinco años; i podrá ser reelejido para el período siguiente.
+Art. 61. El Presidente de la República durará en el ejercicio de sus funciones por el término de cinco años, i no podrá ser reelejido para el período siguiente.
 
-Art. 62. Para ser elejido tercera vez, deberá mediar entre ésta i la segunda elección el espacio de cinco años.
+Art. 62. Para poder ser elejido segunda o mas veces deberá siempre mediar entre cada eleccion el espacio de un período.
 
 Art. 63. El Presidente de la República será elejido por electores que los pueblos nombrarán en votación directa. Su número será triple del total de Diputados que corresponda a cada departamento.
 
