@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1985-12-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1987-08-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1985-12-28
-fetched_at: 2026-08-03T00:42:22.539467+00:00
+version_date: 1987-08-17
+fetched_at: 2026-08-03T00:43:32.141302+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -564,7 +564,9 @@ De los Tribunales, de los procedimientos y de la prescripción
 De los Tribunales
 
 Artículo 115.- El Director Regional conocerá en primera o en única instancia, según proceda, de las reclamaciones deducidas por los contribuyentes y de las denuncias por infracción a las disposiciones tributarias, salvo que expresamente se haya establecido una regla diversa.
-Será competente para conocer de las reclamaciones el Director Regional del lugar donde se pagó el impuesto, multa o intereses de que se reclama y, en los demás casos, el del lugar donde deba efectuarse el pago o cumplirse la resolución contra la cual se reclama.
+Será competente para conocer de las reclamaciones el Director Regional de la unidad del Servicio que emitió la liquidación o el giro o que dictó la resolución en contra de la cual se reclame. En el caso de reclamaciones en contra del pago, será competente el Director Regional de la unidad que emitió el giro al cual corresponda el pago.
+El conocimiento de las infracciones a las normas tributarias y la aplicación de las sanciones pecuniarias por tales infracciones, corresponderá al Director Regional que tenga competencia en el territorio donde tiene su domicilio el infractor.
+Tratándose de infracciones cometidas en una sucursal del contribuyente, conocerá de ellas el Director Regional que tenga competencia en el territorio dentro del cual se encuentre ubicada dicha sucursal.
 
 Artículo 116.- El Director Regional podrá autorizar a funcionarios del Servicio para conocer y fallar reclamaciones y denuncias obrando "por orden del Director Regional".
 
@@ -575,7 +577,8 @@ Artículo 118.- Para resolver en primera instancia sobre la fijación de los imp
 Artículo 119.- Corresponderá a todo tribunal resolver en única instancia sobre los impuestos de timbres, estampillas y papel sellado que deban pagarse en los juicios y gestiones que ante ellos se tramiten, y aplicar y hacer cumplir las sanciones y multas que procedan.
 
 Artículo 120.- Corresponde a las Cortes de Apelaciones conocer en segunda instancia de los recursos de apelación que se deduzcan contra las resoluciones del Director Regional, en los casos en que ellos sean procedentes de conformidad a este Código.
-Será competente para conocer de estos recursos la Corte de Apelaciones que ejerza jurisdicción en el territorio en que tenga su domicilio la sede de la Dirección Regional respectiva.
+Conocerá de estos recursos la Corte de Apelaciones que tenga competencia en el territorio de la Dirección Regional que dictó la resolución apelada.
+En caso de que la respectiva Dirección Regional abarque un territorio en el cual tengan competencia dos o más Cortes de Apelaciones, conocerá de estos recursos la Corte que tenga competencia en el lugar del domicilio del contribuyente.
 Igualmente corresponde a las Cortes de Apelaciones conocer de las apelaciones que se deduzcan contra las sentencias que se dicten de conformidad a los artículos 117° y 118°.
 
 Artículo 121.- En cada ciudad que sea asiento de Corte de Apelaciones, habrá dos Tribunales Especiales de Alzada que conocerán de las apelaciones que se deduzcan en contra de las resoluciones dictadas por el Director Regional o quien haga sus veces, al conocer de los reclamos de avalúos de los bienes raíces, en los casos a que se refiere el artículo 149°.
@@ -653,7 +656,8 @@ Procederá también la apelación contra las resoluciones que dispongan aclaraci
 
 Artículo 140.- En contra de la sentencia de primera instancia no procederá el recurso de casación en la forma ni su anulación de oficio. Los vicios en que se hubiere incurrido deberán ser corregidos por el Tribunal de Apelaciones que corresponda.
 
-Artículo 141.- De las apelaciones que se deduzcan de acuerdo con este Título, conocerá la Corte de Apelaciones de la jurisdicción del lugar donde se pagó el impuesto, multa o interés de que se reclama y, en lo demás casos, la Corte de Apelaciones del lugar donde deba efectuarse el correspondiente pago o donde deba cumplirse la resolución contra la cual se reclama.
+Artículo 141.- De las apelaciones que se deduzcan de acuerdo con este Título, conocerá la Corte de Apelaciones que tenga competencia en el territorio de la Dirección Regional que dictó la resolución apelada.
+En caso de que la respectiva Dirección Regional abarque un territorio en el cual tengan competencia dos o más Cortes de Apelaciones, se aplicará la norma establecida en el inciso tercero del artículo 120.
 
 Artículo 142.- La Dirección Regional deberá elevar los autos para el conocimiento de la apelación dentro de los quince días siguientes a aquel en que se notifique la concesión del recurso.
 
