@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1988-01-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1988-10-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1988-01-20
-fetched_at: 2026-08-03T00:44:32.213651+00:00
+version_date: 1988-10-20
+fetched_at: 2026-08-03T00:45:46.412308+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2909,6 +2909,9 @@ El flete se devengará, salvo estipulación de las partes, por períodos anticip
 Art. 967. El fletador no podrá subfletar a casco desnudo o ceder el contrato, sin la autorización escrita del dueño.
 En lo no convenido expresamente para el subfletamento a casco desnudo, se regulará éste por lo prescrito en esta misma sección.
 
+Art. 968. El fletante debe presentar y entregar al fletador la nave en la fecha y lugar convenidos, provista de la documentación necesaria y en buen estado de navegabilidad. Durante el contrato, serán de cargo del fletante las reparaciones y reemplazos debidos a vicios ocultos.
+Si la nave se inmovilizare como consecuencia de un vicio oculto, no se deberá flete alguno durante el período que dure dicha inmovilización, sobre el exceso de las primeras veinticuatro horas.
+
 Art. 969. El fletador sólo podrá utilizar la nave de acuerdo con las características técnicas de la misma y en conformidad con las modalidades de empleo convenidas en el contrato.
 La violación de lo establecido en el inciso anterior, dará derecho al fletante para solicitar la terminación del contrato y exigir del fletador las indemnizaciones de los perjuicios que haya causado.
 Pendiente la resolución sobre la terminación del contrato, el juez podrá decretar la retención provisoria de la nave, si apareciere la necesidad de ello. Todo lo cual es sin perjuicio de las medidas cautelares que fueren procedentes conforme a las reglas generales.
@@ -3103,6 +3106,14 @@ Art. 1019. Si el transportador o la persona que emite el conocimiento de embarqu
 Art. 1020. Salvo en lo concerniente a los datos acerca de los cuales se haya hecho una reserva autorizada en virtud de los tres artículos anteriores y en la medida de tal reserva:
 1º. El conocimiento de embarque hará presumir, salvo prueba en contrario, que el transportador ha tomado a su cargo o, en caso de haberse emitido un conocimiento de embarque con la mención embarcado, que ha cargado las mercancías, tal como aparecen descritas en el conocimiento de embarque, y
 2º. No se admitirá al transportador prueba en contrario, si el conocimiento de embarque ha sido transferido a un tercero, incluido un consignatario, que ha procedido de buena fe basándose en la descripción de las mercancías que figuraba en ese conocimiento.
+
+##### Sección Duodécima. Reglas sobre pago del flete en el contrato de transporte marítimo.
+
+Art. 1021. Por regla general, a menos que se estipule expresamente otra cosa, el flete se gana y será exigible una vez entregadas las mercancías en el destino previsto en el contrato, en alguna de las formas que señalan las letras a), b) o c) del artículo 983.
+No se deberá flete por las mercancías perdidas por caso fortuito o fuerza mayor. Sin embargo, cuando las mercancías se han perdido por un acto o a consecuencia de avería común, se pagará el flete correspondiente como si aquellas hubiesen llegado a destino.
+La estipulación de flete pagadero a todo evento, surtirá efecto siempre que la carga se encuentre a bordo y la nave haya iniciado el viaje.
+El conocimiento de embarque en el que no se especifiquen el flete pendiente de pago o no se indique de otro modo que el flete ha de ser pagado por el consignatario, conforme a lo dispuesto en el número 11 del artículo 1015, o en que no se especifiquen los pagos por demoras en el puerto de carga que deba hacer el consignatario, hará presumir, salvo prueba en contrario, que el consignatario no ha de pagar ningún flete ni demoras.
+Sin embargo, no se admitirá al transportador prueba en contrario, cuando el conocimiento de embarque haya sido transferido a un tercero, incluido un consignatario, que haya procedido de buena fe basándose en la falta de tales indicaciones en el conocimiento de embarque.
 
 ##### Sección Décimotercera. Garantías proporcionadas por el cargador.
 
