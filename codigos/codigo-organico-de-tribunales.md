@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1969-06-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1970-11-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1969-06-11
-fetched_at: 2026-08-03T00:19:48.383634+00:00
+version_date: 1970-11-07
+fetched_at: 2026-08-03T00:20:54.466348+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -237,7 +237,7 @@ Art. 41. Suprimido.
 
 Art. 42. En cada departamento habrá un Juzgado de Letras de Mayor Cuantía, que deberá funcionar en la respectiva capital.
 Existirán dos Juzgados de Mayor Cuantía en los Departamentos de Iquique, Antofagasta, Copiapó, La Serena, Ovalle, Rancagua, Curicó, Talca, La Laja, Temuco, Valdivia, Osorno, Llanquihue y Magallanes; tres en los de Arica y Chillán y cuatro en Concepción.
-En el Departamento de Santiago habrá siete Juzgados de Mayor Cuantía, que ejercerán jurisdicción exclusivamente en materia civil y nueve en materia criminal; en Valparaíso, dos en lo civil y cuatro en lo criminal, uno de estos últimos con asiento en la ciudad de Viña del Mar, y en el Departamento Presidente Aguirre Cerda, dos que conocerán exclusivamente de asuntos civiles y cuatro en materia criminal.
+No obstante lo dispuesto en el inciso primero del artículo anterior, formará parte del territorio jurisdiccional del Juzgado de Letras de Pisagua, la comuna-subdelegación de Pozo Almonte del departamento de Iquique, con excepción de su distrito Pintados, que formará parte del territorio jurisdiccional del Juzgado de Letras de Pica.
 
 Art. 43. Los Jueces del Crimen del departamento de Santiago ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago, pero podrán practicar actuaciones en todo el departamento, en los asuntos sometidos a su conocimiento.
 El Presidente de la República podrá modificar los límites de la jurisdicción territorial de los Juzgados a que se refiere el inciso anterior, previo acuerdo de la misma Corte. No podrá hacer uso de esta facultad más de una vez al año.
