@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1980-10-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1982-01-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1980-10-24
-fetched_at: 2026-08-03T00:32:35.247641+00:00
+version_date: 1982-01-25
+fetched_at: 2026-08-03T00:35:40.124576+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -65,7 +65,9 @@ El personal así contratado cesará automáticamente en sus funciones a la expir
 ### Párrafo III
 DE LAS ATRIBUCIONES Y OBLIGACIONES SANITARIAS DE LAS MUNICIPALIDADES
 
-Artículo 11°.- Sin perjuicio
+Artículo 11°.- Sin perju
+NOTA
+icio
 NOTA
 de
 NOTA
@@ -564,12 +566,12 @@ Sólo el Director del Establecimiento en el caso de los establecimientos públic
 ## LIBRO VIII
 DE LAS INHUMACIONES, EXHUMACIONES Y TRASLADO DE CADAVERES
 
-Artículo 135°.- Sólo en
-NOTA
-cementerios legalmente autorizados podrá efectuarse la inhumación de cadáveres o restos humanos.
+Artículo 135°.- Sólo en cementerios legalmente autorizados podrá efectuarse la inhumación de cadáveres o restos humanos.
 Sin embargo, el Director General de Salud podrá autorizar la inhumación temporal o perpetua de cadáveres en lugares que no sean cementerios, en las condiciones que establezca en cada caso.
 NOTA
 Véase el Decreto 357, Salud, publicado el 18.06.1970, que establece el Reglamento General de Cementerios.
+NOTA 1
+La Ley 18096, publicada el 25.01.1982, transfiere a las Municipalidades los cementerios situados en sus respectivos territorios comunales, que pertenecen a los Servicios de Salud.
 
 Artículo 136°.- Sólo el Servicio Nacional de Salud podrá autorizar la instalación y funcionamiento de cementerios, crematorios, casas funerarias y demás establecimientos semejantes. Un Reglamento contendrá las normas que regirán para la instalación y funcionamiento de los mencionados establecimientos y sobre la inhumación, cremación, transporte y exhumación de cadáveres.
 
