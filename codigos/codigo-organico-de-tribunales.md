@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1944-04-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1944-09-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1944-04-05
-fetched_at: 2026-08-03T00:07:31.303272+00:00
+version_date: 1944-09-07
+fetched_at: 2026-08-03T00:07:43.307904+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2127,11 +2127,11 @@ Art. 547. Las Cortes de Apelaciones tendrán diariamente una audiencia pública 
 
 Art. 548. Los recursos de queja se verán por las Cortes de Apelaciones fuera de las horas ordinarias de audiencia. En las Cortes que consten de más de una sala, conocerá de estos recursos la sala en que funcione el presidente del tribunal, y con asistencia de la mayoría de él.
 
-Art. 549. Todo recurso de queja deberá interponerse en el plazo fatal de cinco días. Para interponer un recurso de queja en asuntos civiles, el recurrente deberá consignar previamente las cantidades que a continuación se expresan:
+Art. 549. Todo recurso de queja deberá interponerse en el plazo fatal de cinco días. Este plazo se suspenderá durante los días feriados y se aumentará en la forma indicada en el artículo 259 del Código de Procedimiento Civil, cuando el Tribunal que haya pronunciado la resolución recurrida resida en un departamento diverso de aquel en que funciona el que haya de conocer en el recurso. Para interponer un recurso de queja en asuntos civiles, el recurrente deberá consignar previamente las cantidades que a continuación se expresan:
 En juicios de cuantía inferior a cinco mil pesos, diez pesos;
 En juicios de cinco mil pesos a cien mil pesos y en juicios de cuantía indeterminada, cincuenta pesos;
 En juicios de cuantía superior a cien mil pesos cien pesos.
-Quedarán exentos de la consignación establecida en el inciso primero, los recursos de queja que incidan en los juicios del trabajo y en todos aquéllos en que se litigue en papel común.
+Quedarán exentos de la consignación establecida en este artículo, los recursos de queja que incidan en los juicios del trabajo y en todos aquéllos en que se litigue en papel común.
 
 Art. 550. Los miembros del Poder Judicial gozarán del privilegio de pobreza para su defensa en los recursos de queja o en la sustanciación de medidas disciplinarias que les afecten personalmente.
 
