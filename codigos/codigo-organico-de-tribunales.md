@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1981-03-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1981-04-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1981-03-10
-fetched_at: 2026-08-03T00:33:58.015999+00:00
+version_date: 1981-04-30
+fetched_at: 2026-08-03T00:34:10.024053+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -289,8 +289,9 @@ o) El de la Corte de Punta Arenas comprenderá la provincia de Magallanes y la A
 Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indica:
 1° Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Chillán, Valdivia, Puerto Montt, Coyhaique y Punta Arenas tendrán cuatro miembros;
 2° La Corte de Temuco tendrá cinco miembros;
-3° Las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción tendrán siete miembros, y
-4° La Corte de Santiago tendrá veintiún miembros.
+3° La Corte Presidente Aguirre Cerda tendrá siete miembros;
+4° Las Cortes de Valparaíso y Concepción tendrán diez miembros;
+5° La Corte de Santiago tendrá veinticinco miembros.
 
 Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente, el que será nombrado por la misma Corte de entre sus miembros, y durará en sus funciones dos años contados desde el día 1° del mes siguiente al de su elección, no pudiendo ser reelegido.
 Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón.
@@ -300,17 +301,19 @@ Art. 58. Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de
 Art. 59. Las Cortes de Apelaciones tendrán el número de Relatores que a continuación se indica:
 1°.- Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Puerto Montt, Coyhaique y Punta Arenas tendrán un relator;
 2°.- Las Cortes de Chillán, Temuco y Valdivia, dos relatores;
-3°.- Las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción, tres relatores; y
-4°.- La Corte de Santiago tendrá diez Relatores.
+3°.- La Corte Presidente Aguirre Cerda, tres relatores;
+4°.- Las Cortes de Valparaíso y Concepción, cuatro relatores;
+5°.- La Corte de Santiago tendrá catorce relatores.
 
 Art. 60. Cada Corte de Apelaciones tendrá un secretario.
 La Corte de Apelaciones de Santiago tendrá dos secretarios. El tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
 
-Art. 61. Las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción se dividirán en dos salas de cuatro y tres ministros, respectivamente.
-La Corte de Santiago se dividirá en seis salas de tres Ministros cada una, excepto la primera y la segunda, que se compondrán de cuatro Ministros. En caso de funcionamiento extraordinario en siete salas, la séptima sala se compondrá de dos Ministros y se integrará con un tercer miembro en conformidad a lo dispuesto en el artículo 62.
+Art. 61. Las Cortes de Valparaíso y Concepción se dividirán en tres salas de tres miembros cada una, con excepción de la primera, que tendrá cuatro miembros.
+La Corte de Presidente Aguirre Cerda se dividirá en dos salas de cuatro y tres ministros respectivamente.
+La Corte de Santiago se dividirá en siete salas de tres miembros cada una, excepto la primera, la segunda y la tercera, que se compondrá de cuatro ministros. En caso de funcionamiento extraordinario en ocho salas, la octava sala será integrada por un ministro de cada una de las salas primera, segunda y tercera, designados por sorteo.
 Cada sala representa a la Corte en los asuntos de que conoce.
 La designación de los ministros que correspondan a cada sala se hará por sorteo anual.
-Para la constitución de las salas de la Corte de Apelaciones de Santiago, se sortearán los miembros del tribunal, con excepción de su Presidente, para quien la integración de la sala será facultativa y podrá hacerlo en cualquiera de ellas.
+Para la constitución de las salas de la Corte de Apelaciones de Santiago, se sortearán los miembros del tribunal, con excepción de su presidente, para quien la integración de salas será facultativa.
 
 Art. 62. Las Cortes de Apelaciones integradas por sus fiscales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo.
 Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento.
