@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1986-01-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1986-02-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1986-01-17
-fetched_at: 2026-08-03T00:42:28.547295+00:00
+version_date: 1986-02-04
+fetched_at: 2026-08-03T00:42:34.555745+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -43,7 +43,7 @@ El Art. 16 del Decreto Ley 2763, Salud, publicado el 03.08.1979, vigente desde e
 
 Artículo 6°.- Las definiciones que se contienen en los preceptos siguientes, valdrán para el solo efecto de la aplicación de este Código y de sus reglamentos.
 
-Artículo 7°.- Toda autorización o permiso concedido por el Servicio Nacional de Salud, de acuerdo con las atribuciones del presente Código, se entenderán limitados a un plazo de tres años.
+Articulo 7°.- Las autorizaciones o permisos concedidos por los Servicios de Salud, de acuerdo con las atribuciones de este Código, tendrán la duración que para cada caso se establezca en los respectivos reglamentos, con un mínimo de tres años. Estos plazos se entenderán automática y sucesivamente prorrogados por períodos iguales, mientras no sean expresamente dejados sin efecto.
 
 Artículo 8°.- Para el cumplimiento de las órdenes que expida en conformidad a las facultades que le concede el presente Código y sus reglamentos, el Director General de Salud podrá requerir el auxilio de la fuerza pública directamente de la Unidad del Cuerpo de Carabineros de Chile más cercana y éstas estarán obligadas a proporcionarla.
 
@@ -678,7 +678,7 @@ En estos casos, al certificado de defunción expedido por el médico se agregar�
 
 Artículo 150°.- No será aplicable a las donaciones de que trata este Libro lo dispuesto en los artículos 1137 a 1146 del Código Civil.
 
-Artículo 151°.- Cuando una persona hubiere fallecido en alguno de los casos indicados en el artículo 121 del Código de Procedimiento Penal o cuando su muerte hubiere dado lugar a un proceso penal, será necesaria la autorización judicial para destinar el cadáver a cualquiera de las finalidades previstas en este título, además del cumplimiento de los otros requisitos.
+Artículo 151°.- Cuando una persona hubiere fallecido en alguno de los casos indicados en el artículo 121 del Código de Procedimiento Penal o cuando su muerte hubiere dado lugar a un proceso penal, será necesaria la autorización del Director del Servicio Médico Legal o del médico cirujano en quien éste haya delegado esta atribución para destinar el cadáver a cualquiera de las finalidades previstas en este Libro, además del cumplimiento de los otros requisitos.
 
 Artículo 152°.- Será nulo y sin ningún valor el acto o contrato que, a título oneroso, contenga la promesa o entrega de un órgano o parte del cuerpo humano para efectuar un trasplante.
 
