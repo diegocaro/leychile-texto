@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1976-05-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1977-01-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1976-05-14
-fetched_at: 2026-08-03T00:26:50.666016+00:00
+version_date: 1977-01-25
+fetched_at: 2026-08-03T00:27:46.881975+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -246,7 +246,11 @@ No obstante lo dispuesto en el inciso primero, el Juzgado de Letras de Pozo Almo
 Art. 43. Los jueces del crimen de los departamentos de Santiago y Presidente Aguirre Cerda ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago y del Consejo General del Colegio de Abogados.
 El Presidente de la República, previo informe favorable de la misma Corte y oyendo al Consejo General del Colegio de Abogados, podrá fijar como territorio jurisdiccional exclusivo de uno o más de los jueces civiles del departamento de Santiago, una parte del departamento, y en tal caso, autorizar el funcionamiento de estos Tribunales dentro de sus respectivos territorios jurisdiccionales.
 Tanto los jueces del crimen a que se refiere el inciso primero, como los tribunales civiles a los cuales se fije un territorio jurisdiccional exclusivo, podrán practicar actuaciones en cualesquiera de los dos departamentos, en los asuntos sometidos a su conocimiento.
-Inciso derogado.
+Con el acuerdo previo de la Corte de Apelaciones de S
+NOTA
+antiago, y por no más de una vez al año, el Presidente de la República, oyendo al Consejo General del Colegio de Abogados, podrá modificar los límites de la jurisdicción territorial de los juzgados a que se refieren los incisos primero y segundo.
+NOTA
+El Art. 16 del Decreto Ley 1682, Justicia, publicado el 25.01.1977, derogó la letra b) del artículo 4° del decreto ley N° 744, de 1974, y declaró que el inciso final del artículo 43 del Código Orgánico de Tribunales, que a su vez había sido derogada por dicha disposición, mantiene su vigencia.
 
 Art. 44. Habrá también un Juzgado de Letras de Mayor Cuantía en Petorca, Putaendo, Casablanca, Limache, Quilpué, La Calera, Florida (Concepción), Lota, Curanilahue, Carahue y Villarica, que tendrán su asiento en la ciudades cabeceras de esas comunas subdelegaciones, las cuales serán consideradas como departamentos para todos los efectos del Servicio Judicial, con excepción de La Calera y Curanilahue.
 Los territorios jurisdiccionales de los Tribunales a que se refiere este artículo serán los de las comunas-subdelegaciones de sus respectivos nombres.
@@ -333,8 +337,8 @@ n) El de la Corte de Coyhaique comprenderá la provincia de Aysen, y
 ñ) El de la Corte de Punta Arenas comprenderá la provincia de Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
 
 Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indica:
-1° Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Chillán, Valdivia, Puerto Montt, Coyhaique y Punta Arenas tendrán cuatro miembros;
-2° Las Cortes de Temuco y Valdivia tendrán cinco miembros;
+1° Las Cortes de Iquique, Antofagasta, La Serena, Rancagua, Talca y Chillán, Puerto Montt y Punta Arenas tendrán cuatro miembros;
+2° La Corte de Temuco tendrá cinco miembros;
 3° Las Cortes de Valparaíso y Concepción tendrán siete miembros, y
 4° La Corte de Santiago tendrá veintiún miembros.
 
@@ -345,19 +349,19 @@ Art. 58. Cada Corte de Apelaciones tendrá un fiscal.
 La Corte de Apelaciones de Santiago tendrá cuatro fiscales. El ejercicio de sus funciones será reglado por el tribunal, como lo estime más conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
 Art. 59. Las Cortes de Apelaciones tendrán el número de Relatores que a continuación se indica:
-1°.- Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Puerto Montt, Coyhaique y Punta Arenas tendrán un relator;
-2°.- Las Cortes de Chillán y Valdivia tendrán dos Relatores.
-3°.- Las Cortes de Valparaíso, Concepción y Temuco tendrán tres Relatores, y
+1°.- Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Los Angeles, Puerto Montt y Punta Arenas tendrán un Relator;
+2°.- Las Cortes de Chillán, Temuco y Valdivia, dos relatores;
+3°.- Las Cortes de Valparaíso y Concepción, tres relatores; y
 4°.- La Corte de Santiago tendrá diez Relatores.
 
 Art. 60. Cada Corte de Apelaciones tendrá un secretario.
 La Corte de Apelaciones de Santiago tendrá dos secretarios. El tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
 
 Art. 61. Las Cortes de Valparaíso y Concepción se dividirán en dos salas de cuatro y tres ministros, respectivamente.
-La Corte de Santiago se dividirá en seis Salas de tres Ministros cada una, excepto la primera, la segunda y la tercera que se compondrán de cuatro Ministros.
+La Corte de Santiago se dividirá en seis salas de tres Ministros cada una, excepto la primera y la segunda, que se compondrán de cuatro Ministros. En caso de funcionamiento extraordinario en siete salas, la séptima sala se compondrá de dos Ministros y se integrará con un tercer miembro en conformidad a lo dispuesto en el artículo 62.
 Cada sala representa a la Corte en los asuntos de que conoce.
 La designación de los ministros que correspondan a cada sala se hará por sorteo anual.
-Para la constitución de las Salas de la Corte de Apelaciones de Santiago, se sortearán los miembros del tribunal, con excepción de su Presidente, que formará parte de la primera Sala por derecho propio.
+Para la constitución de las salas de la Corte de Apelaciones de Santiago, se sortearán los miembros del tribunal, con excepción de su Presidente, para quien la integración de la sala será facultativa y podrá hacerlo en cualquiera de ellas.
 
 Art. 62. Las Cortes de Apelaciones integradas por sus fiscales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo.
 Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento.
@@ -390,10 +394,9 @@ Art. 68. Las Cortes de Apelaciones resolverán los asuntos en cuenta o previa vi
 Art. 69. Los Presidentes de las Cortes de Apelaciones formarán el día último hábil de cada semana una tabla de los asuntos que verá el tribunal en la semana siguiente.
 En las Cortes de Apelaciones que consten de más de una sala se formarán tantas tablas cuantas sea el número de salas y se distribuirán entre ellas por sorteo, en audiencia pública.
 En las tablas deberá designarse un día de la semana, a lo menos, para conocer de las causas criminales, y otro para conocer de los asuntos civiles de que hayan conocido los jueces de letras de menor cuantía, sin perjuicio de la preferencia que la ley o el tribunal les acuerden.
-Sin embargo, las apelaciones o las consultas relativas a la libertad provisional de los inculpados o reos en un mismo proceso, serán de la competencia de la Sala que haya conocido por primera vez de una de estas apelaciones o consultas.
-La misma regla se aplicará a las apelaciones que se deduzcan respecto del auto encargatorio de reo o de la resolución denegatoria.
+Sin embargo, los recursos de amparo, las apelaciones que se deduzcan en un mismo proceso respecto del auto declaratorio de reo de cualquiera de los inculpados de la resolución que no da lugar a pronunciarlo, o que acoge o rechaza la petición de modificarlo o dejarlo sin efecto, y las apelaciones o consultas relativas a la libertad provisional de esos inculpados o reos, serán de la competencia de la sala que haya conocido por primera vez de los recursos, apelaciones o consultas mencionados.
 Serán agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, en casos urgentes: 1° las apelaciones y consultas relativas a la libertad provisional de los inculpados y reos; 2° los recursos de amparo; y 3° las demás que determinen las leyes.
-Serán agregadas también extraordinariamente las apelaciones de los autos de procesamiento que se refieran a reos privados de libertad, a la tabla del día que el Presidente de la Corte respectiva determine, dentro de un término que no podrá exceder de cinco días contados desde el ingreso de los autos a Secretaría.
+Se agregarán extraordinariamente, también, las apelaciones de las resoluciones relativas al auto de procesamiento señaladas en el inciso cuarto, en causas en que haya reos privados de libertad. La agregación se hará a la tabla del día que determine el Presidente de la Corte, dentro del término de cinco días desde el ingreso de los autos a la Secretaría del Tribunal.
 
 Art. 70. La tramitación de los asuntos entregados a las Cortes de Apelaciones corresponderá a la sala en que funciona el Presidente del Tribunal.
 Para dictar las providencias de mera sustanciación bastará un solo ministro.
@@ -941,8 +944,8 @@ Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este C
 La designación de abogados integrados de las Cortes de Apelaciones se hará en el mes de Enero de cada año. Los abogados designados para la Corte Suprema lo serán por un período de tres años, efectuándose el nombramiento en el mes de Enero en que comienza el trienio respectivo.
 Las ternas serán formadas tomando los nombres de una lista que, en el mes de Diciembre de cada año, enviarán a la Corte Suprema los Consejos de los Colegios de Abogados residentes en los asientos de las diversas Cortes de Apelaciones. En esta lista deberán figurar abogados que tengan su residencia en la ciudad que sirve de asiento al tribunal respectivo y que reúnan las condiciones requeridas para ejercer los cargos de ministros.
 Si no hubiere Colegio de Abogados, las listas serán formadas por las Cortes de Apelaciones respectivas.
-Estas listas se compondrán, para Santiago, de 40 nombres, y de 15 para las demás Cortes.
-Para la formación de las ternas de los abogados integrantes de la Corte Suprema, este tribunal tomará sus nombres de una lista de 45 abogados, que reúnan las condiciones exigidas en el inciso segundo, y que le será enviada por el Consejo General de la Orden de los Abogados, en el mes de Diciembre en que termina el trienio respectivo.
+Estas listas se compondrán, para Santiago, de cuarenta nombres; para Valparaíso y Concepción, de veinticinco, y de quince para las demás Cortes.
+Para la formación de las ternas de los abogados integrantes de la Corte Suprema, este tribunal tomará sus nombres de una lista de 45 abogados, que reúnan las condiciones exigidas en el inciso tercero, y que le será enviada por el Consejo General de la Orden de los Abogados, en el mes de Diciembre en que termina el trienio respectivo. Tanto el Consejo General como los Consejos Provinciales del Colegio de Abogados no podrán incluir en las listas a que se refiere este artículo a profesionales que hayan sido separados de sus cargos como funcionarios judiciales, sea en la calificación anual o en cualquier otra oportunidad.
 Si por cualquiera causa alguno de los abogados designados para la Corte Suprema no pudiere continuar en las funciones, el Presidente de la República podrá nombrar en su reemplazo por el resto del período a uno de los otros dos componentes de la terna que formó la Corte Suprema en la oportunidad respectiva.
 En las ternas, no se podrán repetir nombres.
 
@@ -1184,7 +1187,7 @@ En caso de producirse empate de votos, respecto de si un funcionario debe figura
 La calificación efectuada por los Jueces de Letras de Mayor Cuantía, por los de Menores y por los de Menor Cuantía, será apelable ante las Cortes de Apelaciones respectivas; tales apelaciones serán vistas, en cuenta, por el Tribunal Pleno de cada Corte. Las calificaciones efectuadas por las Cortes de Apelaciones serán apelables ante la Corte Suprema, la que las resolverá en cuenta. Las calificaciones que efectúe la Corte Suprema sólo serán susceptibles del recurso de reposición. Este recurso deberá interponerse dentro del plazo de cinco días, contados desde la fecha en que se efectuó la transcripción de la calificación. Si el afectado desempeñare sus funciones fuera del Departamento de Santiago, dicho plazo se aumentará en la misma forma que el de emplazamiento para contestar demandas, según lo dispuesto en los artículos 258 y 259 del Código de Procedimiento Civil.
 En la lista número uno se colocará a los funcionarios que además de tener moralidad intachable, reúnan cualidades sobresalientes de criterio y preparación jurídica, vocación profesional, laboriosidad, eficiencia y celo en el cumplimiento de sus deberes y obligaciones.
 En la lista número dos se incluirá a los funcionarios moralmente intachables, que cumplan satisfactoriamente los deberes y obligaciones de su cargo y sean eficientes y celosos en su desempeño.
-En la lista número tres, se incluirá a los funcionarios que no posean los requisitos para figurar en la lista número dos, que tengan moralidad intachable y cuyo desempeño funcionario sea solamente regular, y a los que en los meses que precedan al período en que se efectúa la calificación, hubieren sido objeto de algunas de las medidas disciplinarias de amonestación privada, censura por escrito, pago de costas o multa.
+En la lista número tres se incluirá a los funcionarios que no posean los requisitos para figurar en la lista número dos, que tengan moralidad intachable y cuyo desempeño funcionario sea solamente regular, y a los que en los meses que precedan al período en que se efectúa la calificación hubieren sido objeto de alguna de las medidas disciplinarias de censura por escrito, pago de costas o multas.
 En la lista número cuatro, se colocará a los funcionarios que no posean los requisitos para figurar en la lista número tres; a los funcionarios deficientes; a los que a juicio de la Corte Suprema, hubieren infringido alguna de las prohibiciones indicadas en los números 2° y 3° del artículo 323; a los que por dos años consecutivos hubieren figurado en la lista número tres y a los que en los meses que precedan al período en que se efectúa la calificación, hayan sido objeto de la medida disciplinaria de suspensión de sus funciones, cuando la falta cometida, a juicio de la Corte Suprema, sea de especial gravedad.
 
 Art. 276. Para efectuar la calificación la Corte Suprema se reunirá en audiencia secreta, a partir del 2 de Enero de cada año o del día siguiente hábil, hasta terminar esa labor; las votaciones respectivas también serán secretas.
@@ -1231,8 +1234,7 @@ Art. 282. La formación de las listas, ternas o propuestas, deberá hacerse por 
 El fiscal podrá integrar el tribunal para los efectos de este artículo.
 
 Art. 283. Para proveer el cargo de ministro o fiscal de la Corte Suprema, este tribunal enviará al Presidente de la República una lista de cinco personas, en la que deberán figurar los dos miembros más antiguos de las Cortes de Apelaciones. Los otros tres lugares se llenarán en atención a los méritos de los candidatos pudiendo figurar personas extrañas a la Administración de Justicia.
-Los candidatos pertenecientes a la Administración de Justicia deberán, además, haber estado siempre incluidos en la lista número uno a que se refiere el artículo 275.
-Si alguno de los dos miembros más antiguos de las Cortes de Apelaciones no cumpliere este requisito, se dejará constancia de ello en la propuesta.
+Incisos derogados.
 
 Art. 284. Las ternas para proveer los cargos que se indican se formarán del modo siguiente:
 Para Ministros y Fiscales de Cortes de Apelaciones, con el Juez Letrado más antiguo de la tercera categoría y con dos funcionarios de la segunda o tercera categoría, elegidos por méritos.
@@ -1469,7 +1471,7 @@ Art. 341. Derogado.
 Art. 342. No tendrán derecho a licencia los funcionarios suplentes que entren a subrogar a los propietarios o interinos en los casos de licencias, ni los auxiliares que fueren llamados a prestar sus servicios accidentalmente y por tiempo limitado.
 
 Art. 343. Los funcionarios judiciales a quienes la ley no les acuerde el feriado establecido en el artículo 313, podrán obtenerlo, cada año por el término de un mes, siempre que no hayan usado licencia por motivos particulares durante los once últimos meses. Si el funcionario hubiere obtenido esta clase de licencia, por un lapso inferior a su feriado, tendrá derecho a él por el tiempo necesario para enterarlo.
-No podrán hacer uso de este feriado, simultáneamente, dos o más miembros de un tribunal colegiado, ni dos o más jueces de letras de un mismo departamento.
+No podrán hacer uso de este feriado, simultáneamente, dos o más miembros de un tribunal colegiado, ni tampoco dos o más jueces de letras de un mismo departamento cuando ello perjudique al servicio, a juicio de la autoridad que debe conceder el feriado.
 Podrán acumularse no más de dos períodos de feriado.
 
 Art. 344. Derogado.
@@ -2271,10 +2273,10 @@ Art. 548. Los recursos de queja se verán por las Cortes de Apelaciones fuera de
 
 Art. 549. Todo recurso de queja deberá interponerse en el plazo fatal de cinco días. Este plazo se suspenderá durante los días feriados y se aumentará en la forma indicada en el artículo 259 del Código de Procedimiento Civil, cuando el Tribunal que haya pronunciado la resolución recurrida resida en un departamento diverso de aquel en que funciona el que haya de conocer en el recurso.
 Para interponer un recurso de queja, el recurrente deberá consignar previamente en arcas fiscales una cantidad equivalente al 1% de la cuantía del negocio, con un máximo de un sueldo vital mensual, escala A) del departamento de Santiago.
-Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a la décima parte del mencionado sueldo vital, si el recurso se interpone ante la Corte Suprema o ante una Corte de Apelaciones, o a la vigésima parte de dicho sueldo si se interpone ante un Juez de Letras.
+Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a medio sueldo vital, si el recurso se interpone ante la Corte Suprema o ante una Corte de Apelaciones, o a la cuarta parte de dicho sueldo si se interpone ante un Juez de Letras.
 No regirá la exigencia de la consignación previa tratándose de los recursos de queja que incidan en negocios en que se litiga en papel común, ni respecto de los que deduzcan los Oficiales del Ministerio Público, los Defensores Públicos, los representantes del Fisco, los procesados en causa criminal y los que gozan de privilegio de pobreza.
 La consignación a que se refiere este artículo se devolverá a la parte recurrente, si el recurso fuere acogido. Si fuere desechado, o el recurrente se desistiere de él, se aplicará a beneficio fiscal.
-Si el recurso fuere desechado por un tribunal colegiado y por la unanimidad de sus miembros, el tribunal ordenará que la multa establecida en el inciso anterior se eleve al doble de la cantidad consignada.
+Si el recurso fuere desechado por un tribunal colegiado y por la unanimidad de sus miembros, el tribunal ordenará que la multa establecida en el inciso anterior se eleve al doble de la cantidad consignada y se condenará en las costas del recurso al recurrente cuando hubiere comparecido en él su contraparte.
 Respecto de los multas a que este artículo se refiere regirá también lo dispuesto en el artículo 252 del Código de Procedimiento Civil.
 
 Art. 550. Los miembros del Poder Judicial gozarán del privilegio de pobreza para su defensa en los recursos de queja o en la sustanciación de medidas disciplinarias que les afecten personalmente.
