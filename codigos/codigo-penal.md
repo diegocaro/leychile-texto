@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1959-03-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1962-12-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1959-03-31
-fetched_at: 2026-08-03T00:14:43.667117+00:00
+version_date: 1962-12-18
+fetched_at: 2026-08-03T00:16:47.103391+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1324,8 +1324,8 @@ Si la solicitada fuere mujer, hija, madre, hermana, o a fin legítima en los mis
 #### § XIII.
 Disposición general.
 
-ART. 260.
-Para los efectos de este título y del párrafo IV del título tercero, se reputa empleado todo el que desempeña un cargo público semifiscal, de administración autónoma y municipal, aunque no sea de nombramiento del Jefe de la República, ni reciba sueldo del Estado.
+ART. 260
+Para los efectos de este Título y del Párrafo IV del Título III, se reputa empleado todo el que desempeñe un cargo o función pública, sea en la Administración Central o en instituciones o empresas semifiscales, municipales, autónomas u organismos creados por el Estado o dependientes de él, aunque no sean de nombramiento del Jefe de la República ni reciban sueldo del Estado. No obstará a esta calificación el que el cargo sea de elección popular.
 
 ### TÍTULO SEXTO.
 DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICOS COMETIDOS POR PARTICULARES.
