@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-02-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-03-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2005-02-05
-fetched_at: 2026-08-03T01:27:45.636894+00:00
+version_date: 2005-03-18
+fetched_at: 2026-08-03T01:28:52.532100+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -33,12 +33,13 @@ NOTA:
 El artículo 2º de la LEY 19945, publicada el 25.05.2004, interpreta el presente inciso, en el sentido que debe interpretarse y aplicarse de forma tal que la totalidad del estatuto laboral, en todas sus manifestaciones y expresiones, que emana del Código del Trabajo y leyes complementarias, resulte aplicable a los trabajadores que laboran en los oficios de notarías, archiveros o conservadores.
 
 Art.2.o Reconócese la función social que cumple el trabajo y la libertad de las personas para contratar y dedicar su esfuerzo a la labor lícita que elijan.
+Las relaciones laborales deberán siempre fundarse en un trato compatible con la dignidad de la persona. Es contrario a ella, entre otras conductas, el acoso sexual, entendiéndose por tal el que una persona realice en forma indebida, por cualquier medio, requerimientos de carácter sexual, no consentidos por quien los recibe y que amenacen o perjudiquen su situación laboral o sus oportunidades en el empleo.
 Son contrarios a los principios de las leyes laborales los actos de discriminación.
 Los actos de discriminación son las distinciones, exclusiones o preferencias basadas en motivos de raza, color, sexo, edad, estado civil, sindicación, religión, opinión política, nacionalidad, ascendencia nacional u origen social, que tengan por objeto anular o alterar la igualdad de oportunidades o de trato en el empleo y la ocupación.
 Con todo, las distinciones, exclusiones o preferencias basadas en las calificaciones exigidas para un empleo determinado no serán consideradas discriminación.
-Por lo anterior y sin perjuicio de otras disposiciones de este Código, son actos de discriminación las ofertas de trabajo efectuadas por un empleador, directamente o a través de terceros y por cualquier medio, que señalen como un requisito para postular a ellas cualquiera de las condiciones referidas en el inciso tercero.
+Por lo anterior y sin perjuicio de otras disposiciones de este Código, son actos de discriminación las ofertas de trabajo efectuadas por un empleador, directamente o a través de terceros y por cualquier medio, que señalen como un requisito para postular a ellas cualquiera de las condiciones referidas en el inciso cuarto.
 Ningún empleador podrá condicionar la contratación de trabajadores a la ausencia de obligaciones de carácter económico, financiero, bancario o comercial que, conforme a la ley, puedan ser comunicadas por los responsables de registros o bancos de datos personales; ni exigir para dicho fin declaración ni certificado alguno. Exceptúanse solamente los trabajadores que tengan poder para representar al empleador, tales como gerentes, subgerentes, agentes o apoderados, siempre que, en todos estos casos, estén dotados, a lo menos, de facultades generales de administración; y los trabajadores que tengan a su cargo la recaudación, administración o custodia de fondos o valores de cualquier naturaleza.
-Lo dispuesto en los incisos segundo y tercero de este artículo y las obligaciones que de ellos emanan para los empleadores, se entenderán incorporadas en los contratos de trabajo que se celebren.
+Lo dispuesto en los incisos tercero y cuarto de este artículo y las obligaciones que de ellos emanan para los empleadores, se entenderán incorporadas en los contratos de trabajo que se celebren.
 Corresponde al Estado amparar al trabajador en su derecho a elegir libremente su trabajo y velar por el cumplimiento de las normas que regulan la prestación de los servicios.
 
 Art. 3.o Para todos los efectos legales se entiende por:
@@ -740,6 +741,7 @@ Toda enfermedad contagiosa, clínicamente calificada, de una de las partes o de 
 DEL REGLAMENTO INTERNO
 
 Art. 153. Las empresas, establecimientos, faenas o unidades económicas que ocupen normalmente diez o más trabajadores permanentes, contados todos los que presten servicios en las distintas fábricas o secciones, aunque estén situadas en localidades diferentes, estarán obligadas a confeccionar un reglamento interno de orden, higiene y seguridad que contenga las obligaciones y prohibiciones a que deben sujetarse los trabajadores, en relación con sus labores, permanencia y vida en las dependencias de la respectiva empresa o establecimiento.
+Especialmente, se deberán estipular las normas que se deben observar para garantizar un ambiente laboral digno y de mutuo respeto entre los trabajadores.
 Una copia del reglamento deberá remitirse al Ministerio de Salud y a la Dirección del Trabajo dentro de los cinco días siguientes a la vigencia del mismo.
 El delegado del personal, cualquier trabajador o las organizaciones sindicales de la empresa respectiva podrán impugnar las disposiciones del reglamento interno que estimaren ilegales, mediante presentación efectuada ante la autoridad de salud o ante la Dirección del Trabajo, según corresponda. De igual modo, esa autoridad o esa Dirección podrán, de oficio, exigir modificaciones al referido reglamento en razón de ilegalidad. Asimismo, podrán exigir que se incorporen las disposiciones que le son obligatorias de conformidad al artículo siguiente.
 
@@ -753,8 +755,10 @@ Art. 154. El reglamento interno deberá contener, a lo menos, las siguientes dis
 7.- las normas especiales pertinentes a las diversas clases de faenas, de acuerdo con la edad y sexo de los trabajadores;
 8.- la forma de comprobación del cumplimiento de las leyes de previsión, de servicio militar obligatorio, de cédula de identidad y, en el caso de menores, de haberse cumplido la obligación escolar;
 9.- las normas e instrucciones de prevención, higiene y seguridad que deban observarse en la empresa o establecimiento;
-10.- las sanciones que podrán aplicarse por infracción a las obligaciones que señale este reglamento, las que sólo podrán consistir en amonestación verbal o escrita y multa de hasta el veinticinco por ciento de la remuneración diaria, y
-11.- el procedimiento a que se someterá la aplicación de las sanciones referidas en el número anterior.
+10.- las sanciones que podrán aplicarse por infracción a las obligaciones que señale este reglamento, las que sólo podrán consistir en amonestación verbal o escrita y multa de hasta el veinticinco por ciento de la remuneración diaria;
+11.- el procedimiento a que se someterá la aplicación de las sanciones referidas en el número anterior, y
+12.- El procedimiento al que se someterán y las medidas de resguardo y sanciones que se aplicarán en caso de denuncias por acoso sexual.
+En el caso de las denuncias sobre acoso sexual, el empleador que, ante una denuncia del trabajador afectado, cumpla íntegramente con el procedimiento establecido en el Título IV del Libro II, no estará afecto al aumento señalado en la letra c) del inciso primero del artículo 168.
 Las obligaciones y prohibiciones a que hace referencia el número 5 de este artículo, y, en general, toda medida de control, sólo podrán efectuarse por medios idóneos y concordantes con la naturaleza de la relación laboral y, en todo caso, su aplicación deberá ser general, garantizándose la impersonalidad de la medida, para respetar la dignidad del trabajador.
 
 Art. 154 bis. El empleador deberá mantener reserva de toda la información y datos privados del trabajador a que tenga acceso con ocasión de la relación laboral.
@@ -793,9 +797,10 @@ El hecho de continuar el trabajador prestando servicios con conocimiento del emp
 Art. 160. El contrato de trabajo termina sin derecho a indemnización alguna cuando el empleador le ponga término invocando una o más de las siguientes causales:
 1.- Alguna de las conductas indebidas de carácter grave, debidamente comprobadas, que a continuación se señalan:
 a) Falta de probidad del trabajador en el desempeño de sus funciones;
-b) Vías de hecho ejercidas por el trabajador en contra del empleador o de cualquier trabajador que se desempeñe en la misma empresa;
-c) Injurias proferidas por el trabajador al empleador, y
-d) Conducta inmoral del trabajador que afecte a la empresa donde se desempeña.
+b) Conductas de acoso sexual;
+c) Vías de hecho ejercidas por el trabajador en contra del empleador o de cualquier trabajador que se desempeñe en la misma empresa;
+d) Injurias proferidas por el trabajador al empleador, y
+e) Conducta inmoral del trabajador que afecte a la empresa donde se desempeña.
 2.- Negociaciones que ejecute el trabajador dentro del giro del negocio y que hubieren sido prohibidas por escrito en el respectivo contrato por el empleador.
 3.- No concurrencia del trabajador a sus labores sin causa justificada durante dos días seguidos, dos lunes en el mes o un total de tres días durante igual período de tiempo; asimismo, la falta injustificada, o sin aviso previo de parte del trabajador que tuviere a su cargo una actividad, faena o máquina cuyo abandono o paralización signifique una perturbación grave en la marcha de la obra.
 4.- Abandono del trabajo por parte del trabajador, entendiéndose por tal:
@@ -851,6 +856,7 @@ a) En un treinta por ciento, si se hubiere dado término por aplicación improce
 b) En un cincuenta por ciento, si se hubiere dado término por aplicación injustificada de las causales del artículo 159 o no se hubiere invocado ninguna causa legal para dicho término;
 c) En un ochenta por ciento, si se hubiere dado término por aplicación indebida de las causales del artículo 160.
 Si el empleador hubiese invocado las causales señaladas en los números 1, 5 y 6 del artículo 160 y el despido fuere además declarado carente de motivo plausible por el tribunal, la indemnización establecida en los incisos primero o segundo del artículo 163, según correspondiere, se incrementará en un cien por ciento.
+En el caso de las denuncias de acoso sexual, el empleador que haya cumplido con su obligación en los términos que señalan el artículo 153, inciso segundo, y el Título IV del Libro II, no estará afecto al recargo de la indemnización a que hubiere lugar, en caso de que el despido sea declarado injusto, indebido o improcedente.
 Si el juez estableciere que la aplicación de una o más de las causales de terminación del contrato establecidas en los artículos 159 y 160 no ha sido acreditada, de conformidad a lo dispuesto en este artículo, se entenderá que el término del contrato se ha producido por alguna de las causales señaladas en el artículo 161, en la fecha en que se invocó la causal, y habrá derecho a los incrementos legales que corresponda en conformidad a lo dispuesto en los incisos anteriores.
 El plazo contemplado en el inciso primero se suspenderá cuando, dentro de éste, el trabajador interponga un reclamo por cualquiera de las causales indicadas, ante la Inspección del Trabajo respectiva. Dicho plazo seguirá corriendo una vez concluido este trámite ante dicha Inspección. No obstante lo anterior, en ningún caso podrá recurrirse al tribunal transcurridos noventa días hábiles desde la separación del trabajador.
 
@@ -864,8 +870,11 @@ b) Si el trabajador estima que la aplicación de esta causal es improcedente, y 
 Art. 170. Los trabajadores cuyos contratos terminaren en virtud de lo dispuesto en el inciso segundo del artículo 161, que tengan derecho a la indemnización señalada en los incisos primero o segundo del artículo 163, según corresponda, podrán instar por su pago y por la del aviso previo, si fuese el caso, dentro de los sesenta días hábiles contados desde la fecha de la separación, en el caso de que no se les hubiere efectuado dicho pago en la forma indicada en el párrafo segundo de la letra a) del artículo anterior. A dicho plazo le será aplicable lo dispuesto en el inciso final del artículo 168.
 
 Art. 171. Si quien incurriere en las causales de los números 1, 5 ó 7 del artículo 160 fuere el empleador, el trabajador podrá poner término al contrato y recurrir al juzgado respectivo, dentro del plazo de sesenta días hábiles, contado desde la terminación, para que éste ordene el pago de las indemnizaciones establecidas en el inciso cuarto del artículo 162, y en los incisos primero o segundo del artículo 163, según corresponda, aumentada en un cincuenta por ciento en el caso de la causal del número 7; en el caso de las causales de los números 1 y 5, la indemnización podrá ser aumentada hasta en un ochenta por ciento.
+Tratándose de la aplicación de las causales de las letras a) y b) del número 1 del artículo 160, el trabajador afectado podrá reclamar del empleador, simultáneamente con el ejercicio de la acción que concede el inciso anterior, las otras indemnizaciones a que tenga derecho.
+Cuando el empleador no hubiera observado el procedimiento establecido en el Título IV del Libro II, responderá en conformidad a los incisos primero y segundo precedentes.
 El trabajador deberá dar los avisos a que se refiere el artículo 162 en la forma y oportunidad allí señalados.
 Si el Tribunal rechazare el reclamo del trabajador, se entenderá que el contrato ha terminado por renuncia de éste.
+Si el trabajador hubiese invocado la causal de la letra b) del número 1 del artículo 160, falsamente o con el propósito de lesionar la honra de la persona demandada y el tribunal hubiese declarado su demanda carente de motivo plausible, estará obligado a indemnizar los perjuicios que cause al afectado. En el evento que la causal haya sido invocada maliciosamente, además de la indemnización de los perjuicios, quedará sujeto a las otras acciones legales que procedan.
 
 Art. 172. Para los efectos del pago de las indemnizaciones a que se refieren los artículos 168, 169, 170 y 171, la última remuneración mensual comprenderá toda cantidad que estuviere percibiendo el trabajador por la prestación de sus servicios al momento de terminar el contrato, incluidas las imposiciones y cotizaciones de previsión o seguridad social de cargo del trabajador y las regalías o especies avaluadas en dinero, con exclusión de la asignación familiar legal, pagos por sobretiempo y beneficios o asignaciones que se otorguen en forma esporádica o por una sola vez al año, tales como gratificaciones y aguinaldos de navidad.
 Si se tratare de remuneraciones variables, la indemnización se calculará sobre la base del promedio percibido por el trabajador en los últimos tres meses calendario.
@@ -1039,6 +1048,21 @@ En los mismos términos, el dueño de la obra, empresa o faena es subsidiariamen
 Art. 210. Las empresas o entidades a que se refiere la ley N° 16.744, están obligadas a adoptar y mantener medidas de higiene y seguridad en la forma, dentro de los términos y con las sanciones que señala esa ley.
 
 Art. 211. El seguro de accidentes del trabajo y enfermedades profesionales se financia, en la forma que prescribe la ley N° 16.744, con una cotización básica general y una cotización adicional diferenciada en función de la actividad y riesgo de la empresa o entidad empleadora, ambas de cargo del empleador; y con el producto de las multas que apliquen los organismos administradores, las utilidades o rentas que produzcan la inversión de los fondos de reserva y con las cantidades que estos organismos obtengan por el ejercicio del derecho a repetir contra el empleador.
+
+### Título IV DE LA INVESTIGACION Y SANCION DEL ACOSO SEXUAL
+
+Artículo 211-A.- En caso de acoso sexual, la persona afectada deberá hacer llegar su reclamo por escrito a la dirección de la empresa, establecimiento o servicio o a la respectiva Inspección del Trabajo.
+
+Artículo 211-B.- Recibida la denuncia, el empleador deberá adoptar las medidas de resguardo necesarias respecto de los involucrados, tales como la separación de los espacios físicos o la redistribución del tiempo de jornada, considerando la gravedad de los hechos imputados y las posibilidades derivadas de las condiciones de trabajo.
+En caso que la denuncia sea realizada ante la Inspección del Trabajo, ésta sugerirá a la brevedad la adopción de aquellas medidas al empleador.
+
+Artículo 211-C.- El empleador dispondrá la realización de una investigación interna de los hechos o, en el plazo de cinco días, remitirá los antecedentes a la Inspección del Trabajo respectiva.
+En cualquier caso la investigación deberá concluirse en el plazo de treinta días.
+Si se optare por una investigación interna, ésta deberá constar por escrito, ser llevada en estricta reserva, garantizando que ambas partes sean oídas y puedan fundamentar sus dichos, y las conclusiones deberán enviarse a la Inspección del Trabajo respectiva.
+
+Artículo 211-D.- Las conclusiones de la investigación realizada por la Inspección del Trabajo o las observaciones de ésta a aquélla practicada en forma interna, serán puestas en conocimiento del empleador, el denunciante y el denunciado.
+
+Artículo 211-E.- En conformidad al mérito del informe, el empleador deberá, dentro de los siguientes quince días, contados desde la recepción del mismo, disponer y aplicar las medidas o sanciones que correspondan.
 
 ### Título V
 DE LA PROTECCION DE LOS TRABAJADORES DE CARGA Y DESCARGA DE MANIPULACION MANUAL
@@ -2117,6 +2141,7 @@ DEL PROCEDIMIENTO
 Reglas Comunes
 
 Art. 425. Las causas laborales se substanciarán de acuerdo con el procedimiento que establece este título, el que será aplicable en todas aquellas cuestiones, trámites o actuaciones que no se encuentren sometidas a una regla especial diversa, cualquiera que sea su naturaleza.
+Las causas laborales en que se invoque una acusación de acoso sexual, deberán ser mantenidas en custodia por el secretario del tribunal, y sólo tendrán acceso a ellas las partes y sus apoderados judiciales.
 
 Art. 426. Sólo a falta de norma expresa establecida en este texto o en leyes especiales, se aplicarán supletoriamente las disposiciones de los Libros I y II del Código de Procedimiento Civil.
 
