@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1992-05-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1992-07-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1992-05-25
-fetched_at: 2026-08-03T00:52:53.575386+00:00
+version_date: 1992-07-07
+fetched_at: 2026-08-03T00:53:35.619074+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1497,7 +1497,7 @@ Art. 334. Si dos miembros de un mismo tribunal contrajeren, después que hayan s
 
 Art. 335. Las funciones de juez se suspenden:
 1°) por hallarse el juez procesado por crimen o simple delito cometido en el ejercicio de sus funciones, o a que se aplique pena aflictiva.
-Se entiende, para el efecto de este artículo, procesado el juez, desde que está ejecutoriada la sentencia que declara haber lugar a la querella de capítulos, y tratándose de delitos comunes, desde que se libra el auto de procesamiento o el decreto de prisión cuando, según la ley, quede sometido a proceso sin necesidad de dicha encargatoria;
+Se entiende, para el efecto de este artículo, procesado el juez, desde que está ejecutoriada la sentencia que declara haber lugar a la querella de capítulos, y tratándose de delitos comunes, desde que se libra el auto de procesamiento o el decreto de prisión cuando, según la ley, quede sometido a proceso sin necesidad de dicho auto;
 2°) Por la sentencia de primera instancia que lo condena a destitución dictada en un proceso de amovilidad;
 3°) Por la aplicación de la medida disciplinaria de suspensión; y
 4°) Por licencia concedida con arreglo a la ley.
