@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1993-05-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1993-06-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1993-05-17
-fetched_at: 2026-08-03T00:55:15.618500+00:00
+version_date: 1993-06-22
+fetched_at: 2026-08-03T00:55:51.654811+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1546,6 +1546,7 @@ NOTA 1.1
 NOTA 1.1
 NOTA 1.1
 NOTA 1.1
+NOTA 1.1
 Las modificaciones introducidas al presente Código por la Ley N° 18.857, publicada en el Diario Oficial de 6 de Diciembre de 1989, rigen, según lo dispone su artículo vigésimo, noventa días después de su publicación en el Diario Oficial.
 
 Art. 368. (391) La cuantía de la caución será determinada por el juez, tomando en consideración la naturaleza del delito, el estado social y antecedentes del procesado y las demás circunstancias que pudieran influir en el mayor o menor interés de éste para ponerse fuera del alcance de la justicia.
@@ -1853,6 +1854,10 @@ DE LA CONTESTACION A LA ACUSACION
 
 Art. 447. (475) El acusado y el civilmente responsable tienen para contestar el plazo de seis días. Si son varios los acusados, o varios los demandados civiles, tendrán el término común de diez días, sin perjuicio del aumento que señala el artículo 425.
 Respecto del examen del expediente, regirán en cuanto sean aplicables, las reglas establecidas en el artículo 426.
+
+Art. 448. (476) En la contestación, el procesado expondrá con claridad los hechos, las circunstancias y las consideraciones que acrediten su inocencia o atenúen su culpabilidad.
+Podrá presentar una o más conclusiones con tal que sean compatibles entre sí o con tal que, si fueren incompatibles, las presente subsidiariamente, para el caso en que la sentencia deniegue la otra u otras.
+La contestación de la acusación por el acusado constituye un trámite esencial que no puede darse por evacuado en su rebeldía. Vencido que sea el plazo, si no se evacuare el trámite, el juez arbitrará las medidas para que se conteste la acusación, ya sea por el abogado que el inculpado hubiere nombrado, o por el de turno, o por el que le señalare, o por la Corporación de Asistencia Judicial o por la institución que cumpla sus finalidades, pudiendo aplicar la sanción establecida en el artículo 598 del Código Orgánico de Tribunales, en caso de contravención.
 
 Art. 449. (477) Puede el procesado renunciar a la práctica de las diligencias del juicio plenario y consentir en que el juez pronuncie sentencia sin más trámite que la acusación y su contestación. El juez accederá a la petición formulada a este respecto, siempre que el Ministerio Público o el querellante particular no se opongan, alegando que tienen prueba que producir durante el plenario.
 

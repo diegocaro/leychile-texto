@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1991-02-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1993-06-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1991-02-14
-fetched_at: 2026-08-03T00:51:10.741337+00:00
+version_date: 1993-06-22
+fetched_at: 2026-08-03T00:55:39.643961+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -266,6 +266,9 @@ Si el apelante no da cumplimiento a esta obligación, se le tendrá por desistid
 Art. 199 (222). La apelación de toda resolución que no sea sentencia definitiva se verá en cuenta, a menos que cualquiera de las partes, dentro del plazo para comparecer en segunda instancia solicite alegatos.
 Vencido este plazo, el tribunal de alzada ordenará traer los autos en relación, si se hubieren solicitado oportunamente alegatos. De lo contrario, el Presidente de la Corte ordenará dar cuenta y procederá a distribuir, mediante sorteo, la causa entre las distintas salas en que funcione el tribunal.
 Las Cortes deberán establecer horas de funcionamiento adicional para el conocimiento y fallo de las apelaciones que se vean en cuenta.
+
+Artículo 201.- Si la apelación se ha interpuesto fuera de plazo o respecto de resolución inapelable o no es fundada o no contiene peticiones concretas, el tribunal correspondiente deberá declararla inadmisible de oficio; y si el apelante no comparece dentro de plazo, deberá declarar su deserción previa certificación que el secretario deberá efectuar de oficio. La parte apelada, en todo caso, podrá solicitar la declaración pertinente, verbalmente o por escrito.
+Del fallo que, en estas materias, dicte el tribunal de alzada podrá pedirse reposición dentro de tercero día. La resolución que declare la deserción por la no comparecencia del apelante producirá sus efectos respecto de éste desde que se dicte y sin necesidad de notificación.
 
 Artículo 207.- En segunda instancia, salvo lo dispuesto en el inciso final del artículo 310 y en los artículos 348 y 385, no se admitirá prueba alguna.
 No obstante y sin perjuicio de las demás facultades concedidas por el artículo 159, el tribunal podrá, como medida para mejor resolver, disponer la recepción de prueba testimonial sobre hechos que no figuren en la prueba rendida en autos, siempre que la testimonial no se haya podido rendir en primera instancia y que tales hechos sean considerados por el tribunal como estrictamente necesarios para la acertada resolución del juicio. En este caso, el tribunal deberá señalar determinadamente los hechos sobre que deba recaer y abrir un término especial de prueba por el número de días que fije prudencialmente y que no podrá exceder de ocho días. La lista de testigos deberá presentarse dentro de segundo día de notificada por el estado la resolución respectiva.
