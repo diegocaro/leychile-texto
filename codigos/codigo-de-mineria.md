@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=1984-01-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=1987-12-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 29668
-version_date: 1984-01-02
-fetched_at: 2026-08-03T00:38:46.327010+00:00
+version_date: 1987-12-31
+fetched_at: 2026-08-03T00:44:08.182655+00:00
 titulo_norma: "CODIGO DE MINERIA"
 compuesto: LEY-18248
 organismos: ['MINISTERIO DE MINERIA']
@@ -302,9 +302,9 @@ De las oposiciones a la solicitud de mensura
 Artículo 61.- Podrá deducirse oposición a la petición de mensura dentro del plazo de treinta días, contado desde la fecha de la publicación a que se refiere el inciso final del artículo anterior.
 La oposición sólo podrá fundarse:
 1°.- En que se pretende mensurar sobre un terreno comprendido en un pedimento o en una concesión para explorar. Sólo podrá ejercer esta acción aquél cuyo pedimento haya sido presentado con anterioridad a la fecha en que haya sido o se tenga por presentada la manifestación de la pertenencia que se pretende mensurar.
-La oposición será rechazada de plano si no se funda en un pedimento cuya fecha de presentación haya sido anterior o no se acompaña a ella copia auténtica de dicho pedimento, y, en su caso, además, copia auténtica de la solicitud de sentencia o de la sentencia misma o de la resolución que acogió la prórroga del plazo de la concesión.
+La oposición será rechazada de plano si no se funda en un pedimento cuya fecha de presentación haya sido anterior o no se acompaña a ella copia auténtica de dicho pedimento, y, en su caso, además, copia auténtica de la solicitud de sentencia o de la sentencia misma o de la resolución que acogió la prórroga del plazo de la concesión. La oposición será rechazada del mismo modo, si no se acompaña a ella un croquis, firmado por un ingeniero o perito de aquellos a que se refiere el inciso segundo del artículo 71, que represente la colisión de los derechos y las pretensiones de ambas partes en el terreno.
 2°.- En el derecho preferente para mensurar en virtud de una manifestación cuya fecha de presentación haya sido o se tenga por anterior.
-La oposición será rechazada de plano si no se funda en una manifestación cuya fecha de presentación haya sido o se tenga por anterior, o no viene acompañada de copia auténtica de dicha manifestación.
+La oposición será rechazada de plano si no se funda en una manifestación cuya fecha de presentación haya sido o se tenga por anterior, o no viene acompañada de copia auténtica de dicha manifestación. La oposición será rechazada del mismo modo, si no se acompaña a ella un croquis, firmado por un ingeniero o perito de aquellos a que se refiere el inciso segundo del artículo 71, que represente la colisión de las pretensiones de ambas partes en el terreno.
 
 Artículo 62.- Si un manifestante de fecha anterior o que se tenga por anterior, se opone a la mensura solicitada por otro de fecha posterior, deberá pedir en su escrito de oposición, y con arreglo a lo dispuesto en los incisos segundo y tercero del artículo 59, la mensura de su pertenencia o pertenencias.
 El juez examinará la solicitud de mensura del opositor y los antecedentes acompañados a ella, y encontrando ambos conforme, mandará publicarla. En la misma resolución dejará testimonio de la fecha en que se haya presentado o se tenga por presentada la manifestación. Para efectuar la publicación se dará copia de la solicitud y su proveído.
@@ -324,7 +324,7 @@ El titular de un pedimento o de una concesión de exploración, de fechas anteri
 Artículo 66.- El manifestante de fecha anterior o que se tenga por anterior, podrá oponerse a la solicitud de mensura de un manifestante de fecha posterior, aun cuando la solicitud de mensura de aquél haya sido presentada antes que la de este último. En este caso, el opositor deberá, además, cumplir con lo dispuesto en el artículo 63.
 En igual situación, el manifestante de fecha anterior o que se tenga por anterior, podrá optar por hacer presente, en el expediente del manifestante de fecha posterior, su calidad de tal, respecto de todo o parte de los terrenos abarcados por la solicitud de mensura de este último.
 
-Artículo 67.- Si un manifestante de fecha anterior o que se tenga por anterior, hace uso de la acción de los artículos 62 ó 63, y, en su caso, de la del inciso primero del artículo 66, y su oposición fuere rechazada, no podrá hacer valer posteriormente la acción de nulidad del número séptimo del artículo 95.
+Artículo 67.- Si un manifestante de fecha anterior o que se tenga por anterior, hace uso de la acción de los artículos 62 ó 63, y, en su caso, de la del inciso primero del artículo 66, y su oposición fuere rechazada, no podrá hacer valer posteriormente la acción de nulidad del número seis o siete, en su caso, del artículo 95.
 
 Artículo 68.- Las oposiciones a que se refieren los artículos 61, N° 1, 62, 63 y 66, inciso primero, se tramitarán con arreglo al procedimiento señalado en el artículo 233. En el juicio se tendrá por demandante al opositor, y sólo será admisible como única defensa del demandado la de que su solicitud de mensura no abarca los terrenos comprendidos en el pedimento, en la concesión de exploración o en la solicitud de mensura en que se funda la acción.
 Cualquiera otra defensa y toda excepción perentoria que puedan corresponder al demandado sólo podrán hacerse valer por éste, como acciones, en juicio separado.
@@ -334,7 +334,7 @@ Artículo 69.- La sentencia que acoja una demanda de oposición basada en la cau
 La sentencia que acoja una demanda de oposición fundada en la causal segunda del artículo 61, reconocerá el derecho preferente del primer manifestante a mensurar su pertenencia o pertenencias, en la forma indicada en la respectiva solicitud; y, en cuanto no afecte a ese derecho preferente, reconocerá también el derecho de la parte vencida a mensurar con arreglo a su propia solicitud, pero respetando íntegramente el derecho preferente de la parte vencedora.
 Lo dispuesto en el inciso anterior será aplicable al caso en que una sentencia deba pronunciarse sobre más de una oposición.
 
-Artículo 70.- Desde que quede presentada una demanda de oposición conforme al artículo 61, y hasta que quede ejecutoriada la correspondiente sentencia, las partes no podrán paralizar el juicio por más de tres meses. Si transcurre este término sin que alguna de ellas practique cualquiera diligencia útil destinada a dar curso progresivo a los autos, cualquiera persona podrá solicitar que se declare, con sólo el mérito del certificado del secretario, la caducidad de los derechos emanados del pedimento o de la manifestación, y que se ordene cancelar las inscripciones respectivas.
+Artículo 70.- Desde que quede presentada una demanda de oposición conforme al artículo 61, y hasta que quede ejecutoriada la correspondiente sentencia, las partes no podrán paralizar el juicio por más de tres meses. Si transcurre este término sin que alguna de ellas practique cualquiera diligencia útil destinada a dar curso progresivo a los autos, cualquiera persona podrá solicitar que se declare, con sólo el mérito del certificado del secretario, la caducidad de los derechos de ambas partes, y que se ordene cancelar las inscripciones respectivas.
 Desde que quede ejecutoriada la sentencia que pone término al juicio de oposición, fundado en la causal segunda del artículo 61, y hasta que se dicte la respectiva sentencia constitutiva, ninguno de los que fueron parte en él y haya obtenido el reconocimiento del derecho a mensurar, podrá paralizar por más de tres meses los trámites de constitución de su pertenencia o pertenencias. Si transcurre este término sin que el respectivo interesado practique alguna diligencia útil destinada a ese efecto, cualquiera persona podrá solicitar que se declare la caducidad a que se refiere el inciso anterior, en la forma y con los alcances allí indicados.
 Cualquier interesado podrá pedir que se notifique al ingeniero o perito para que entregue el acta y plano al juez, para lo cual dicho ingeniero o perito tendrá el plazo que el tribunal señale.
 Mientras no se haga uso del derecho a pedir la caducidad, podrá en cualquier tiempo continuarse la tramitación; pero el derecho a pedir la caducidad por la paralización ya producida subsistirá hasta que quede ejecutoriada la sentencia que puso término al juicio o se dicte la sentencia constitutiva, en su caso.
@@ -394,7 +394,7 @@ En este juicio al demandado le será aplicable lo dispuesto en el artículo 70.
 Ejecutoriada la sentencia que rechace la demanda en todas sus partes, se dictará la sentencia constitutiva de la pertenencia del demandado.
 La sentencia que acoja en parte la demanda, determinará el terreno sobre el que podrá volver a mensurar el demandado.
 La sentencia que acoja la demanda en todas sus partes, declarará extinguidos los derechos del interesado y ordenará cancelar las correspondientes inscripciones.
-El afectado que haga uso de la acción de este artículo, no podrá hacer valer posteriormente la acción de nulidad del número sexto del artículo 95.
+El afectado que haga uso de la acción de este artículo, no podrá hacer valer posteriormente la acción de nulidad del número 6 o del número 7, en su caso, del artículo 95.
 
 Artículo 85.- El juez examinará los autos y, si se reúnen los requisitos legales, dictará la sentencia constitutiva de la pertenencia.
 Si nota faltas o ilegalidades insubsanables, dictará sentencia denegando la constitución de la pertenencia y mandando cancelar las inscripciones respectivas.
@@ -406,7 +406,8 @@ De la sentencia constitutiva de la concesión
 Artículo 86.- Si el juez nota, en cualquier momento durante la tramitación de la constitución de la concesión y mientras no se haya dictado la sentencia constitutiva de ella, que no se ha cumplido dentro del plazo cualquiera de los requisitos o actuaciones para los cuales el juez, conforme al artículo 82, o este Código, hayan señalado plazos fatales, dictará sentencia declarando la caducidad de los derechos emanados del pedimento o de la manifestación, y ordenando cancelar las inscripciones correspondientes.
 Si cualquiera persona ha hecho presente al juez la circunstancia de que se ha incurrido en alguna de las caducidades a que se refiere el inciso anterior y, no obstante ello, se dicta sentencia otorgando la concesión, ésta no se entenderá constituida sino una vez que la sentencia sea elevada en consulta a la Corte de Apelaciones y sea confirmada por ésta. Si la Corte aprueba la sentencia, quedará constituida la concesión. Si la revoca, declarará la caducidad de los derechos emanados del pedimento o de la manifestación y ordenará la cancelación de las inscripciones correspondientes. La consulta se verá en cuenta.
 El derecho para formular la representación a que alude el inciso anterior se extinguirá una vez dictada la sentencia por el juez.
-Dictada la sentencia constitutiva de la concesión, quedan saneados todos los vicios procesales y las caducidades en que se pueda haber incurrido en la tramitación.
+Dictada la sentencia constitutiva de la concesión, quedan saneados todos los vicios procesales y las caducidades en que se pueda haber incurrido en la tramitación. Sin perjuicio de ello, toda sentencia que resuelva sobre la constitución de la concesión se notificará por el estado diario.
+Una vez ejecutoriada conforme a lo dispuesto en el artículo 174 del Código de Procedimiento Civil, la sentencia producirá cosa juzgada. Con todo, la excepción de cosa juzgada que emana de una sentencia constitutiva no será oponible respecto de quien haya promovido oportunamente una cuestión en juicio separado, con arreglo al inciso segundo del artículo 34, ni de quien tenga derecho a ejercer alguna de las acciones de nulidad contempladas en el artículo 95.
 
 Artículo 87.- La sentencia constitutiva de la concesión enunciará el nombre, domicilio y profesión u oficio del peticionario o del manifestante y los del titular actual del pedimento o de la manifestación, según conste en autos; la fecha de la presentación del pedimento o de la manifestación o aquella en que ésta se tiene por presentada y las peticiones deducidas en ellos; las fechas en que se hayan publicado el pedimento o la manifestación y la solicitud de mensura, en su caso; la fecha de el o los informes del Servicio y aquella en que se haya publicado el extracto a que se refiere el artículo 83, si tal publicación ha sido procedente; y los datos de la inscripción del pedimento o de la manifestación y, si corresponde, los de la inscripción de esos derechos a favor del actual titular.
 La sentencia señalará también el nombre de las concesiones y las coordenadas U.T.M. de cada uno de los vértices del perímetro de la concesión de exploración o de la pertenencia o grupo de pertenencias, en su caso.
@@ -437,9 +438,9 @@ Inscrita la sentencia, la concesión quedará sometida al régimen de posesión 
 
 Artículo 92.- Deberá otorgarse por escritura pública el título para transferir los derechos emanados del pedimento y de la manifestación, la concesión y los derechos reales constituidos sobre ésta.
 La tradición de los derechos emanados del pedimento y de la manifestación, y la de la concesión, se efectuará por la inscripción del título en el respectivo Registro del Conservador de Minas.
-Asimismo, se constituirán los otros derechos reales que recaigan sobre la concesión, y se efectuará su tradición, mediante la correspondiente inscripción. No obstante, la tradición del derecho de servidumbre se hará con arreglo a lo dispuesto en el artículo 698 del Código Civil.
+Asimismo se constituirán los otros derechos reales que recaigan sobre la concesión, y se efectuará su tradición, mediante la correspondiente inscripción. No obstante, la tradición del derecho de servidumbre se hará con arreglo a lo dispuesto en el artículo 698 del Código Civil.
 Respecto de la tradición de las acciones de las sociedades regidas por este Código, se estará a lo dispuesto en el artículo 178.
-A la transmisión de los derechos emanados del pedimento, de la manifestación, de la concesión y de los derechos constituidos sobre ella, les será aplicable lo dispuesto en el artículo 688 del Código Civil.
+A la transmisión de la concesión y de los derechos emanados del pedimento y de la manifestación, le será aplicable lo dispuesto en el artículo 688 del Código Civil.
 
 Artículo 93.- El poseedor de una concesión minera puede ganar la misma, por prescripción adquisitiva, perdiéndola, así, su dueño.
 El tiempo de posesión necesario será de dos años en la prescripción ordinaria y de cuatro años, en la extraordinaria.
@@ -490,8 +491,8 @@ Artículo 100.- Se inscribirán en el Registro de Descubrimientos:
 2°. La sentencia constitutiva de la concesión de exploración y la transferencia y transmisión de ésta.
 
 Artículo 101.- Se inscribirán en el Registro de Propiedad:
-1°. La sentencia constitutiva de la pertenencia y la transferencia y transmisión de ésta, y la sentencia que declare su prescripción adquisitiva, y
-2°. La escritura de sociedad a que se refiere el artículo 201 y las modificaciones de ésta.
+1° La sentencia constitutiva y el acta de mensura de la pertenencia y la transferencia y transmisión de ésta, y la sentencia que declare su prescripción adquisitiva, y
+2° La escritura de sociedad a que se refiere el artículo 201 y las modificaciones de ésta.
 
 Artículo 102.- Se inscribirán en el Registro de Descubrimientos o en el de Propiedad, según el caso, los títulos que dan origen a una sociedad legal minera.
 
@@ -531,7 +532,7 @@ La superficie abandonada configurará, necesariamente, un paralelogramo de ángu
 Si dentro de los primeros dos años de la vigencia de su concesión el titular quiere hacer uso de la facultad de dividirla físicamente y desea prorrogar su duración por otro período de hasta dos años, deberá, previamente, cumplir con las obligaciones a que se refieren los incisos anteriores.
 El abandono no afectará los derechos emanados de manifestaciones que el concesionario pueda haber efectuado previamente sobre el terreno abandonado.
 
-Artículo 113.- Durante la vigencia de la concesión, sólo su titular tendrá derecho, dentro de los límites de ella, a hacer libremente calicatas y otras labores de exploración. El ejercicio de este derecho quedará sujeto a las limitaciones que establecen el párrafo 2° del título I, el presente párrafo y las normas sobre policía y seguridad mineras. El titular se hará dueño sólo de las sustancias concesibles que necesite arrancar con motivo del ejercicio de ese derecho.
+Artículo 113.- Durante la vigencia de la concesión, sólo su titular tendrá derecho, dentro de los límites de ella, a hacer libremente calicatas y otras labores de exploración. El ejercicio de este derecho quedará sujeto a las obligaciones y limitaciones que establecen los artículos 14°, 15°, inciso segundo y siguientes, 16°, número tercero, y 17°, el presente párrafo y las normas sobre policía y seguridad mineras. El titular se hará dueño sólo de las sustancias concesibles que necesite arrancar con motivo del ejercicio de ese derecho.
 Los derechos a que se refiere el inciso precedente son sin perjuicio de lo dispuesto en el artículo 108.
 
 Artículo 114.- Durante la vigencia de la concesión de exploración, sólo su titular podrá manifestar pertenencia dentro de los límites de aquélla.
@@ -544,7 +545,7 @@ Para los efectos de este artículo, se entiende que se establece explotación mi
 ### Párrafo 3°
 De los derechos y obligaciones especiales de los titulares de pertenencias
 
-Artículo 116.- El concesionario tiene los derechos exclusivos de explorar y de explotar libremente su pertenencia, sin otras limitaciones que las establecidas en los artículos 14, 15, inciso segundo y siguientes, 16, 17, en el párrafo 2° del título IX y en las normas sobre policía y seguridad mineras.
+Artículo 116.- El concesionario tiene los derechos exclusivos de explorar y de explotar libremente su pertenencia, sin otras limitaciones que las establecidas en los artículos 14, 15, inciso final, 17, en el párrafo 2° del título IX y en las normas sobre policía y seguridad mineras.
 El concesionario se hará dueño de todas las sustancias minerales que extraiga dentro de los límites de su pertenencia, y que sean concesibles a la fecha de su constitución o lleguen a serlo posteriormente.
 Se entienden extraídas las sustancias desde su separación del depósito natural del que formaban parte; o desde su aprehensión, tratándose de los desmontes, escorias y relaves a que se refiere el artículo 6°.
 
@@ -683,7 +684,7 @@ Artículo 153.- Los demás procedimientos relativos al remate, al acta correspon
 
 Artículo 154.- La concesión minera subastada pasará a su nuevo dueño con todos los gravámenes inscritos que la afecten.
 
-Artículo 155.- Si no hay postor por alguna concesión o lote, el juez declarará franco el terreno y ordenará cancelar las correspondientes inscripciones en el Conservador de Minas.
+Artículo 155.- Si no hay postor por alguna concesión o lote, el juez declarará franco el terreno y ordenará cancelar las correspondientes inscripciones en el Conservador de Minas. Esta resolución se notificará por el estado diario.
 En este caso, el derecho para reclamar los bienes a que se refiere el artículo 3° durará hasta seis meses después de constituida una pertenencia en el terreno en que dichos bienes se encuentren ubicados. Transcurrido ese plazo entrarán, por el solo ministerio de la ley, al dominio del dueño de la pertenencia, sin cargo para él.
 
 Artículo 156.- El Tesorero General de la República remitirá a cada Conservador de Minas, antes del 1° de julio de cada año, una nómina de todas las concesiones mineras ubicadas dentro del territorio del oficio del Conservador respectivo y por las que se haya pagado patente en el mismo año, con especificación de su nombre y ubicación, del dueño que figura en el rol correspondiente y de la cantidad pagada. Los Conservadores archivarán esas nóminas.
@@ -986,13 +987,13 @@ Enajenada la pertenencia, los acreedores serán pagados en conformidad a las reg
 DE LA COMPETENCIA EN GENERAL Y EL PROCEDIMIENTO
 
 Artículo 231.- El juez de letras en lo civil en cuyo territorio jurisdiccional se encuentra ubicado el punto medio señalado en el pedimento o el punto de interés indicado en la manifestación, es competente para conocer de todo asunto, contencioso o no contencioso, atinente al pedimento, la manifestación, la concesión de exploración o la pertenencia.
-Lo dispuesto en el inciso anterior se entiende sin perjuicio de otras normas de este Código o de las especiales que las demás leyes establecen.
 Sin embargo, será juez competente para conocer de todo asunto, contencioso o no contencioso, atinente a concesiones administrativas o judiciales, en trámite o ya constituidas a la fecha en que entre en vigencia este Código, el de la ubicación de la concesión o, en su caso, el de la ubicación del sitio o punto del hallazgo señalado en la manifestación.
+Lo dispuesto en éste artículo se entiende sin perjuicio de otras normas de este Código o de las especiales que las demás leyes establecen.
 
 Artículo 232.- El pedimento y la manifestación se inscribirán en el Registro de Descubrimientos del Conservador de Minas en cuyo territorio está ubicado el punto medio o el punto de interés, respectivamente.
 En el mismo Conservador se practicarán todas las otras inscripciones y las demás actuaciones que en cualquiera forma se relacionen con el pedimento y la concesión de exploración que de él derive, y con la manifestación y la pertenencia respectiva.
 
-Artículo 233.- Todos los juicios en que se ventilen derechos especiales regidos por este Código o que recaigan sobre el pedimento, manifestación, concesión de exploración o pertenencia y que no tengan señalado otro procedimiento en este cuerpo legal, se tramitarán con arreglo a las normas del juicio sumario.
+Artículo 233.- Todos los juicios en que se ventilen derechos especialmente regidos por este Código o que recaigan sobre el pedimento, manifestación, concesión de exploración o pertenencia y que no tengan señalado otro procedimiento en este cuerpo legal, se tramitarán con arreglo a las normas del juicio sumario.
 Iniciado el juicio sumario, podrá pedirse y decretarse su continuación conforme a las reglas del procedimiento ordinario, si existen motivos fundados para ello. La solicitud en que se pida la sustitución del procedimiento se tramitará como incidente.
 
 Artículo 234.- Sin embargo, se tramitarán conforme al procedimiento sumarísimo del artículo siguiente, las cuestiones a que se refieren el inciso séptimo del artículo 9°; el inciso tercero del artículo 15; el número tercero del artículo 16 y el inciso primero del artículo 18, en lo relativo a la procedencia y el monto de las indemnizaciones allí mencionadas; el inciso primero del artículo 21; el artículo 108; el artículo 117; el artículo 119; y los incisos finales de los artículos 184, 188 y 189.
