@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1979-12-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1980-07-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1979-12-11
-fetched_at: 2026-08-03T00:30:53.130794+00:00
+version_date: 1980-07-02
+fetched_at: 2026-08-03T00:31:41.191343+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2323,6 +2323,7 @@ En cuanto a la prueba del depósito en el caso a que se refiere el art. 2.217 de
 5.° A los que cometieren defraudaciones sustrayendo, ocultando, destruyendo o inutilizando en todo o en parte algún proceso, expediente, documento u otro papel de cualquiera clase.
 6.° A los que con datos falsos u ocultando antecedentes que les son conocidos, celebraren dolosamente contratos aleatorios basados en dichos datos o antecedentes.
 7.° A los que en el juego se valieren de fraude para asegurar la suerte.
+8.° A los que fraudulentamente obtuvieren del Fisco, de las municipalidades, de las Cajas de Previsión y de las instituciones centralizadas o descentralizadas del Estado, prestaciones improcedentes, tales como remuneraciones, bonificaciones, subsidios, pensiones, jubilaciones, asignaciones, devoluciones o imputaciones indebidas.
 
 ART. 471.
 Será castigado con presidio o relegación menores en sus grados mínimos o multa de once a veinte sueldos vitales:
