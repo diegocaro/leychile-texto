@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1983-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1984-01-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1983-03-01
-fetched_at: 2026-08-03T00:37:46.254479+00:00
+version_date: 1984-01-04
+fetched_at: 2026-08-03T00:38:52.327465+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2144,12 +2144,13 @@ Art. 523. Para poder ser abogado se requiere:
 3°) No haber sido condenado ni estar actualmente procesado por delito que merezca pena corporal, salvo que se trate de delitos contra la seguridad interior del Estado;
 4°) Antecedentes de buena conducta.
 La Corte Suprema podrá practicar las averiguaciones que estime necesarias acerca de los antecedentes personales del postulante, y
-5°) Haber servido satisfactoriamente en alguna de las entidades públicas o privadas destinadas a prestar asistencia jurídica y judicial gratuita, durante seis meses en la forma dispuesta por la ley. Los representantes de esas entidades deberán certificar el cumplimiento de este requisito.
+5°) Haber cumplido satisfactoriamente una práctica profesional por seis meses en las Corporaciones de Asistencia Judicial a que se refiere la ley N° 17.995, circunstancia que deberá acreditarse por el Director General de la respectiva Corporación.
+Un reglamento determinará los requisitos, forma y condiciones que deban cumplirse para que dicha práctica sea aprobada.
 La obligación establecida en el N° 5 se entenderá cumplida por los postulantes que sean funcionarios o empleados del Poder Judicial o de los Tribunales del Trabajo por el hecho de haber desempeñado sus funciones durante cinco años.
 Si la comisión a que se refiere el número anterior no admitiere a examen al postulante, por estimar que no concurren los requisitos señalados en este artículo, el afectado podrá reclamar ante la Corte Suprema, la que resolverá como jurado.
-Incisos derogado
+Incisos derogados
 NOTA
-s.
+.
 NOTA
 La letra b) del N° 50 del Art. 3° de la ley 11183, publicada el 10.06.1953, dispuso reemplazar en el inciso penúltimo las palabras "Universidad de Chile" por "las Universidades a que se refiere el N.o 2.o". Sin embargo el referido inciso ha sido derogado conforme a lo dispuesto en el N° 49 de la misma norma, por lo que no se ha podido efectuar la modificación en este texto actualizado.
 
@@ -2159,7 +2160,7 @@ Art. 525. Derogado.
 
 Art. 526. Sólo los chilenos podrán ejercer la profesión de abogado. Lo dicho se entenderá sin perjuicio de lo que dispongan los tratados internacionales vigentes.
 
-Art. 527. Las defensas orales ante cualquier tribunal de la República sólo podrán hacerse por un abogado habilitado para el ejercicio de la profesión. No obstante, los postulantes que estén realizando su práctica para obtener el título de abogado en entidades públicas o privadas que otorguen asistencia judicial y jurídica gratuita, podrán hacer tales defensas ante las Cortes de Apelaciones y Marciales en favor de las personas patrocinadas por esas entidades. Para estos fines el representante de ellas deberá otorgar al postulante un certificado que lo acredite como tal.
+Art. 527. Las defensas orales ante cualquier tribunal de la República sólo podrán hacerse por un abogado habilitado para el ejercicio de la profesión. No obstante, los postulantes que estén realizando su práctica para obtener el título de abogado en las Corporaciones de Asistencia Judicial creadas por la ley N° 17.995, podrán hacer tales defensas ante las Cortes de Apelaciones y Marciales en favor de las personas patrocinadas por esas entidades. Para estos fines el representante de ellas deberá otorgar al postulante un certificado que lo acredite como tal.
 
 Art. 528. El acto por el cual una persona encomienda a un abogado la defensa de sus derechos en juicio, es un mandato, que se halla sujeto a las reglas establecidas en el Código Civil sobre los contratos de esta clase, salvo la modificación establecida en el artículo siguiente.
 
