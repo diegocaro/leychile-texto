@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1995-02-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1995-05-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1995-02-18
-fetched_at: 2026-08-03T00:59:20.501754+00:00
+version_date: 1995-05-24
+fetched_at: 2026-08-03T00:59:44.507995+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -81,6 +81,18 @@ En aquellos casos en que otro tribunal requiera la remisión del expediente orig
 ### Título VI
 DE LAS NOTIFICACIONES
 
+Art. 41. En los lugares y recintos de libre acceso público, la notificación personal se podrá efectuar en cualquier día y a cualquier hora, procurando causar la menor molestia posible al notificado. En los juicios ejecutivos, no podrá efectuarse el requerimiento de pago en público y, de haberse notificado la demanda en un lugar o recinto de libre acceso público, se estará a lo establecido en el N° 1° del artículo 443.
+Además, la notificación podrá hacerse en cualquier día, entre las seis y las veintidós horas, en la morada o lugar donde pernocta el notificado o en el lugar donde éste ordinariamente ejerce su industria, profesión o empleo, o en cualquier recinto privado en que éste se encuentre y al cual se permita el acceso del ministro de fe.
+Si la notificación se realizare en día inhábil, los plazos comenzarán a correr desde las cero horas del día hábil inmediatamente siguiente, y si se hubiere practicado fuera de la comuna donde funciona el tribunal, los plazos se aumentarán en la forma establecida en los artículos 258 y 259.
+Igualmente, son lugares hábiles para practicar la notificación el oficio del secretario, la casa que sirva para despacho del tribunal y la oficina o despacho del ministro de fe que practique la notificación. Los jueces no podrán, sin embargo, ser notificados en el local en que desempeñan sus funciones.
+
+Art. 43 (46). La notificación se hará constar en el proceso por diligencia que subscribirán el notificado y el ministro de fe, y si el primero no puede o no quiere firmar, se dejará testimonio de este hecho en la misma diligencia.
+La certificación deberá, además, señalar la fecha, hora y lugar donde se realizó la notificación y, de haber sido hecha en forma personal, precisar la manera o el medio con que el ministro de fe comprobó la identidad del notificado.
+
+Art. 44. Si buscada en dos días distintos en su habitación, o en el lugar donde habitualmente ejerce su industria, profesión o empleo, no es habida la persona a quien debe notificarse, se acreditará que ella se encuentra en el lugar del juicio y cuál es su morada o lugar donde ejerce su industria, profesión o empleo, bastando para comprobar estas circunstancias la debida certificación del ministro de fe.
+Establecidos ambos hechos, el tribunal ordenará que la notificación se haga entregando las copias a que se refiere el artículo 40 a cualquiera persona adulta que se encuentre en la morada o en el lugar donde la persona que se va a notificar ejerce su industria, profesión o empleo. Si nadie hay allí, o si por cualquiera otra causa no es posible entregar dichas copias a las personas que se encuentren en esos lugares, se fijará en la puerta un aviso que dé noticia de la demanda, con especificación exacta de las partes, materia de la causa, juez que conoce en ella y de las resoluciones que se notifican.
+En caso que la morada o el lugar donde pernocta o el lugar donde habitualmente ejerce su industria, profesión o empleo, se encuentre en un edificio o recinto al que no se permite libre acceso, el aviso y las copias se entregarán al portero o encargado del edificio o recinto, dejándose testimonio expreso de esta circunstancia.
+
 Art. 46 (49). Cuando la notificación se efectúe en conformidad al artículo 44, el ministro de fe deberá dar aviso de ella al notificado, dirigiéndole con tal objeto carta certificada por correo, en el plazo de dos días contado desde la fecha de la notificación o desde que se reabran las oficinas de correo, si la notificación se hubiere efectuado en domingo o festivo. La carta podrá consistir en tarjeta abierta que llevará impreso el nombre y domicilio del receptor y deberá indicar el tribunal, el número de ingreso de la causa y el nombre de las partes. En el testimonio de la notificación deberá expresarse, además, el hecho del envío, la fecha, la oficina de correo donde se hizo y el número de comprobante emitido por tal oficina. Este comprobante deberá ser pegado al expediente a continuación del testimonio. La omisión en el envío de la carta no invalidará la notificación, pero hará responsable al infractor de los daños y perjuicios que se originen y el tribunal, previa audiencia del afectado, deberá imponerle alguna de las medidas que se señalan en los números 2, 3 y 4 del artículo 532 del Código Orgánico de Tribunales.
 
 Art. 48 (51). Las sentencias definitivas, las resoluciones en que se reciba a prueba la causa, o se ordene la comparecencia personal de las partes, se notificarán por medio de cédulas que contengan la copia íntegra de la resolución y los datos necesarios para su acertada inteligencia.
@@ -106,6 +118,9 @@ Art. 55 (58). Aunque no se haya verificado notificación alguna o se haya efectu
 Asimismo, la parte que solicitó la nulidad de una notificación, por el solo ministerio de la ley, se tendrá por notificada de la resolución cuya notificación fue declarada nula, desde que se le notifique la sentencia que declara tal nulidad. En caso que la nulidad de la notificación haya sido declarada por un tribunal superior, esta notificación se tendrá por efectuada al notificársele el "cúmplase" de dicha resolución.
 
 Art. 57. Las diligencias de notificación que se estampen en los procesos, no contendrán declaración alguna del notificado, salvo que la resolución ordene o, por su naturaleza, requiera esa declaración.
+
+Art. 58 (61). Las funciones que en este Título se encomiendan a los secretarios de tribunales, podrán ser desempeñadas bajo la responsabilidad de éstos, por el oficial primero de la secretaría.
+En aquellos lugares en que no exista receptor judicial, la notificación podrá ser hecha por el Notario Público u Oficial del Registro Civil que exista en la localidad. En todo caso, el juez siempre podrá designar como ministro de fe ad hoc a un empleado del tribunal, para el solo efecto de practicar la notificación.
 
 ### Título VII
 DE LAS ACTUACIONES JUDICIALES
