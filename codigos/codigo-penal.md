@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1991-02-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1991-02-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1991-02-14
-fetched_at: 2026-08-03T00:51:28.763871+00:00
+version_date: 1991-02-15
+fetched_at: 2026-08-03T00:51:34.764588+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1482,17 +1482,25 @@ De las asociaciones ilícitas.
 
 ART. 292.
 Toda asociación formada con el objeto de atentar contra el orden social, contra las buenas costumbres, contra las personas o las propiedades, importa un delito que existe por el solo hecho de organizarse.
+Se presumirá que la asociación ha tenido alguno de los objetos que se indican en el inciso anterior, cuando uno o más de sus miembros ha ejecutado algún acto que constituya un atentado contra el orden social, las buenas costumbres, las personas o las propiedades.
 
 ART. 293.
 Si la asociación ha tenido por objeto la perpetración de crímenes, los jefes, los que hubieren ejercido mando en ella y sus provocadores, sufrirán la pena de presidio mayor en cualquiera de sus grados.
 Cuando la asociación ha tenido por objeto la perpetración de simples delitos, la pena será presidio menor en cualquiera de sus grados para los individuos comprendidos en el acápite anterior.
 
 ART. 294.
-Cualesquiera otros individuos que hubieren tomado parte en la asociación y los que a sabiendas y voluntariamente le hubieren suministrado caballerías, armas, municiones, instrumentos para cometer los crímenes o simples delitos, alojamiento, escondite o lugar de reunión, serán castigados, en el primer caso previsto por el artículo precedente, con presidio menor en su grado medio, y en el segundo, con presidio menor en su grado mínimo.
+Cualesquiera otros individuos que hubieren tomado parte en la asociación y los que a sabiendas y voluntariamente le hubieren suministrado medios e instrumentos para cometer los crímenes o simples delitos, alojamiento, escondite o lugar de reunión, serán castigados, en el primer caso previsto por el artículo precedente, con presidio menor en su grado medio, y en el segundo, con presidio menor en su grado mínimo.
+
+ART. 294 BIS.
+Las penas de los artículos 293 y 294 se impondrán sin perjuicio de las que correspondan, por los crímenes o simples delitos cometidos con motivo u ocasión de tales actividades.
 
 ART. 295.
-Quedarán exentos de las penas señaladas en el presente párrafo aquellos de los culpables que, antes de ejecutarse alguno de los crímenes o simples delitos que constituyen el objeto de la asociación y antes de ser perseguidos, hubieren revelado a la autoridad la existencia de dichas asociaciones, sus planes y propósitos.
+Quedarán exentos de las penas señaladas en los artículos anteriores aquellos de los culpables que, antes de ejecutarse alguno de los crímenes o simples delitos que constituyen el objeto de la asociación y antes de ser perseguidos, hubieren revelado a la autoridad la existencia de dichas asociaciones, sus planes y propósitos.
 Podrán sin embargo ser puestos bajo la vigilancia de la autoridad.
+
+ART. 295 BIS.
+Se aplicarán las penas de prisión en su grado máximo a presidio menor en su grado mínimo al que, habiendo tenido noticias verosímiles de los planes o de las actividades desarrolladas por uno o más miembros de una asociación ilícita, omite ponerlas oportunamente en conocimiento de la autoridad.
+Quedará exento de las penas a que se refiere este artículo el cónyuge, los parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, y el padre, hijo natural o ilegítimo de alguno de los miembros de la asociación. Esta exención no se aplicará si se hubiere incurrido en la omisión, para facilitar a los integrantes de la asociación el aprovechamiento de los efectos del crimen o simple delito.
 
 #### § XI.
 De las amenazas de atentado contra las personas y propiedades.
