@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1990-05-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1990-08-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1990-05-24
-fetched_at: 2026-08-03T00:50:04.689934+00:00
+version_date: 1990-08-20
+fetched_at: 2026-08-03T00:50:16.697038+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -511,7 +511,7 @@ reglamento especial; como asimismo el tránsito en la República hacia países e
 NOTA:
 Véase el Decreto 403, Salud, publicado el 20.02.1984, que aprueba el Reglamento de Estupefacientes.
 NOTA 1:
-Véase el Decreto 35, Relaciones Exteriores, publicado el 16.05.1968, que sanciona la Convención Única de Estupefacientes, firmada en Nueva York el 30 de marzo de 1961.
+Véase el Decreto 35, Relaciones Exteriores, publicado el 16.05.1968, que sanciona la Convención Única de Estupefacientes, firmada en Nueva York el 30 de marzo de 1961. Véase además el Decreto 543, Relaciones Exteriores, publicado el 20.08.1990, que promulga la Convención de las Naciones Unidas contra el Trafico Ilícito de Estupefacientes y Sustancias Sicotrópicas, suscrita en Viena el 20 de diciembre de 1988.
 
 Artículo 107°.- Cuando lo requiera la debida protección de la salud pública, el Presidente de la República podrá, previo informe del Director General de Salud, aplicar las normas contenidas en el artículo anterior a medicamentos tales como estimulantes, sedativos, hipnóticos, tranquilizantes o ataráxicos.
 NOTA:
