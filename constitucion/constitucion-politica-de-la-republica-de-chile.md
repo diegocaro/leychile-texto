@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1999-01-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1999-06-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 1999-01-14
-fetched_at: 2026-08-05T02:29:04.344705+00:00
+version_date: 1999-06-16
+fetched_at: 2026-08-05T02:29:22.346321+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -24,9 +24,8 @@ Aprobado por mayoría absoluta en dicho plebiscito, fue promulgado como Constitu
 ## CAPITULO I
 Bases de la Institucionalidad
 
-Artículo 1°.- Los hombres nacen libres e iguales en dignidad y derechos.
-La familia es el núcleo fundamental de la sociedad.
-El Estado reconoce y ampara a los grupos intermedios a través de los cuales se organiza y estructura la sociedad y les garantiza la adecuada autonomía para cumplir sus propios fines específicos.
+Artículo 1°.- Las personas nacen libres e iguales en dignidad y derechos.
+La familia es el núcleo fundamental de la sociedad. El Estado reconoce y ampara a los grupos intermedios a través de los cuales se organiza y estructura la sociedad y les garantiza la adecuada autonomía para cumplir sus propios fines específicos.
 El Estado está al servicio de la persona humana y su finalidad es promover el bien común, para lo cual debe contribuir a crear las condiciones sociales que permitan a todos y a cada uno de los integrantes de la comunidad nacional su mayor realización espiritual y material posible, con pleno respeto a los derechos y garantías que esta Constitución establece.
 Es deber del Estado resguardar la seguridad nacional, dar protección a la población y a la familia, propender al fortalecimiento de ésta, promover la integración armónica de todos los sectores de la Nación y asegurar el derecho de las personas a participar con igualdad de oportunidades en la vida nacional.
 
@@ -104,8 +103,8 @@ Artículo 19.- La Constitución asegura a todas las personas:
 1º.- El derecho a la vida y a la integridad física y psíquica de la persona.
 La ley protege la vida del que está por nacer.
 La pena de muerte sólo podrá establecerse por delito contemplado en ley aprobada con quórum calificado.
-Se prohíbe la aplicación de todo apremio ilegítimo;
-2º.- La igualdad ante la ley. En Chile no hay persona ni grupo privilegiados. En Chile no hay esclavos y el que pise su territorio queda libre.
+Se prohibe la aplicación de todo apremio ilegítimo;
+2º.- La igualdad ante la ley. En Chile no hay persona ni grupo privilegiados. En Chile no hay esclavos y el que pise su territorio queda libre. Hombres y mujeres son iguales ante la ley.
 Ni la ley ni autoridad alguna podrán establecer diferencias arbitrarias;
 3º.- La igual protección de la ley en el ejercicio de sus derechos.
 Toda persona tiene derecho a defensa jurídica en la forma que la ley señale y ninguna autoridad o individuo podrá impedir, restringir o perturbar la debida intervención del letrado si hubiere sido requerida. Tratándose de los integrantes de las Fuerzas Armadas y de Orden y Seguridad Pública, este derecho se regirá, en lo concerniente a lo administrativo y disciplinario, por las normas pertinentes de sus respectivos estatutos.
@@ -202,7 +201,8 @@ Nadie puede, en caso alguno, ser privado de su propiedad, del bien sobre que rec
 A falta de acuerdo, la indemnización deberá ser pagada en dinero efectivo al contado.
 La toma de posesión material del bien expropiado tendrá lugar previo pago del total de la indemnización, la que, a falta de acuerdo, será determinada provisionalmente por peritos en la forma que señale la ley. En caso de reclamo acerca de la procedencia de la expropiación, el juez podrá, con el mérito de los antecedentes que se invoquen, decretar la suspensión de la toma de posesión.
 El Estado tiene el dominio absoluto, exclusivo, inalienable e imprescriptible de todas las minas, comprendiéndose en éstas las covaderas, las arenas metalíferas, los salares, los depósitos de carbón e hidrocarburos y las demás sustancias fósiles, con excepción de las arcillas superficiales, no obstante la propiedad de las personas naturales o jurídicas sobre los terrenos en cuyas entrañas estuvieren situadas. Los predios superficiales estarán sujetos a las obligaciones y limitaciones que la ley señale para facilitar la exploración, la explotación y el beneficio de dichas minas.
-Corresponde a la ley determinar qué sustancias de aquellas a que se refiere el inciso precedente, exceptuados los hidrocarburos líquidos o gaseosos, pueden ser objeto de concesiones de exploración o de explotación. Dichas concesiones se constituirán siempre por resolución judicial y tendrán la duración, conferirán los derechos e impondrán las obligaciones que la ley exprese, la que tendrá el carácter de orgánica constitucional. La concesión minera obliga al dueño a desarrollar la actividad necesaria para satisfacer el interés público que justifica su otorgamiento. Su régimen de amparo será establecido por dicha ley, tenderá directa o indirectamente a obtener el cumplimiento de esa obligación y contemplará causales de caducidad para el caso de incumplimiento o de simple extinción del dominio sobre la concesión. En todo caso dichas causales y sus efectos deben estar establecidos al momento de otorgarse la concesión. Será de competencia exclusiva de los tribunales ordinarios de justicia declarar la extinción de tales concesiones. Las controversias que se produzcan respecto de la caducidad o extinción del dominio sobre la concesión serán resueltas por ello; y en caso de caducidad, el afectado podrá requerir de la justicia la declaración de subsistencia de su derecho.
+Corresponde a la ley determinar qué sustancias de aquellas a que se refiere el inciso precedente, exceptuados los hidrocarburos líquidos o gaseosos, pueden ser objeto de concesiones de exploración o de explotación. Dichas concesiones se constituirán siempre por resolución judicial y tendrán la duración, conferirán los derechos e impondrán las obligaciones que la ley exprese, la que tendrá el carácter de orgánica constitucional. La concesión minera obliga al dueño a desarrollar la actividad necesaria para satisfacer el interés público que justifica su otorgamiento. Su régimen de amparo será establecido por dicha ley, tenderá directa o indirectamente a obtener el cumplimiento de esa obligación y contemplará causales de caducidad para el caso de incumplimiento o de simple extinción del dominio sobre la concesión. En todo caso dichas causales y sus efectos deben estar establecidos al momento de otorgarse la concesión.
+Será de competencia exclusiva de los tribunales ordinarios de justicia declarar la extinción de tales concesiones. Las controversias que se produzcan respecto de la caducidad o extinción del dominio sobre la concesión serán resueltas por ello; y en caso de caducidad, el afectado podrá requerir de la justicia la declaración de subsistencia de su derecho.
 El dominio del titular sobre su concesión minera está protegido por la garantía constitucional de que trata este número.
 La exploración, la explotación o el beneficio de los yacimientos que contengan sustancias no susceptibles de concesión, podrán ejecutarse directamente por el Estado o por sus empresas, o por medio de concesiones administrativas o de contratos especiales de operación, con los requisitos y bajo las condiciones que el Presidente de la República fije, para cada caso, por decreto supremo. Esta norma se aplicará también a los yacimientos de cualquier especie existentes en las aguas marítimas sometidas a la jurisdicción nacional y a los situados, en todo o en parte, en zonas que, conforme a la ley, se determinen como de importancia para la seguridad nacional. El Presidente de la República podrá poner término, en cualquier tiempo, sin expresión de causa y con la indemnización que corresponda, a las concesiones administrativas o a los contratos de operación relativos a explotaciones ubicadas en zonas declaradas de importancia para la seguridad nacional.
 Los derechos de los particulares sobre las aguas, reconocidos o constituidos en conformidad a la ley, otorgarán a sus titulares la propiedad sobre ellos;
