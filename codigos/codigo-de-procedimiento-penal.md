@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2000-09-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2000-10-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 2000-09-28
-fetched_at: 2026-08-03T01:12:17.260737+00:00
+version_date: 2000-10-12
+fetched_at: 2026-08-03T01:12:23.264291+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -13,9 +13,13 @@ derogada: false
 # CODIGO DE PROCEDIMIENTO PENAL
 
 CODIGO DE PROCEDIMIENTO PENAL
+NOTA:
+NOTA 1:
 Descargar Código de Procedimiento Penal Original (PDF, 7 M)
-NOTA: 1.0 NOTA 1.0
-El artículo 9° de la Ley N° 19.047, modificado por el artículo único letra d) de la Ley N° 19.114, ordenó reemplazar en todas las disposiciones legales en que figuren las expresiones "auto de reo", "encargatoria de reo" y "auto encargatoria de reo", por la de "auto de procesamiento", y la palabra "reo" por "procesado".
+NOTA:
+El artículo 9° de la LEY 19047, modificado por la Ley 19114, y por la Ley 19158, ordenó reemplazar las expresiones "auto de reo", "encargatoria de reo" y "auto encargatoria de reo", por la de "auto de procesamiento", y la palabra "reo" por "procesado", cuando esas expresiones se refieran al inculpado contra quien se hubiere dictado auto de procesamiento y no hubiere sido sobreseído, absuelto o condenado. Si tal situación no se diere, la voz "reo" podrá sustituirse por las expresiones "inculpado", "condenado", "demandado" o "ejecutado", o bien mantenerse, según correspondiere.
+NOTA 1:
+Ver nuevo texto del Código de Procedimiento Penal en la LEY 19696, publicada el 12.10.2000. La entrada en vigencia del nuevo texto es diferida según el territorio, de acuerdo con lo que se establece en los artículos 484 y 485 de la misma ley.
 
 Artículo 1°. Apruébase el adjunto proyecto de Código de Procedimiento Penal.
 Art. 2°. Dos ejemplares de una edicion esmerada i correcta que deberá hacerse inmediatamente, firmados por el Presidente de la República i signados con el sello del Ministerio de Justicia, se depositarán en la Secretaría de cada Cámara, dos en el archivo de dicho Ministerio, i otros dos en la Biblioteca Nacional.
@@ -31,7 +35,9 @@ CRIMINAL
 ### Título I
 DE LA JURISDICCION Y COMPETENCIA EN MATERIA PENAL
 
-Artículo 1°. Los tribunales de la República ejercen jurisdicción sobre los chilenos y sobre los extranjeros para el efecto de juzgar los delitos que se cometan en su territorio, salvo los casos
+Artículo 1°. Los tribunales de l
+NOTA: 1
+a República ejercen jurisdicción sobre los chilenos y sobre los extranjeros para el efecto de juzgar los delitos que se cometan en su territorio, salvo los casos
 NOTA: 1.1.-
 exceptuados por leyes especiales, tratados o convenciones internacionales en
 NOTA: 1.1.-
