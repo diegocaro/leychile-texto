@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1941-04-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1943-11-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1941-04-19
-fetched_at: 2026-08-03T00:06:43.279717+00:00
+version_date: 1943-11-06
+fetched_at: 2026-08-03T00:07:19.295390+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2305,6 +2305,16 @@ Pero no incurrirá en tales penas el que rozare a fuego, incendiare rastrojos u 
 
 ART. 483.
 Se presume responsable de un incendio al comerciante en cuya casa o establecimiento tiene origen aquél, si no justificare con sus libros, documentos u otra clase de prueba, que no reportaba provecho alguno del siniestro.
+Se presume también responsable de un incendio al comerciante cuyo seguro sea exageradamente superior al valor real del objeto asegurado en el momento de producirse el siniestro. En los casos de seguros con pólizas flotantes se presumirá responsable al comerciante que, en la declaración inmediatamente anterior al siniestro, declare valores manifiestamente superiores a sus existencias. Asimismo, se presume responsable si en todo o en parte a disminuido o retirado las cosas aseguradas del lugar señalado en la póliza respectiva sin motivo justificado o sin dar aviso previo al asegurador.
+Las presunciones de este artículo no obstan a la apreciación de la prueba en conciencia.
+
+ART. 483. a)
+El contador o cualquiera persona que falsee o adultere la contabilidad del comerciante que sufra un siniestro, será sancionado con la pena señalada en el inciso segundo del artículo 197; pero no le afectará responsabilidad al contador por las existencias y precios inventariados.
+
+ART. 483. b)
+A los comerciantes responsables del delito de incendio se les aplicará también una multa de mil a cien mil pesos, tomándose en cuenta para graduarla la naturaleza, entidad y gravedad del siniestro y las facultades económicas del inculpado.
+Si no se paga la multa el condenado sufrirá por vía de sustitución y apremio, un día de reclusión por cada cincuenta pesos de multa, no pudiendo exceder la reclusión de dos años.
+La multa impuesta se mantendrá en una cuenta especial a la orden de la Superintendencia de Compañía de Seguros Sociedades Anónimas y Bolsas de Comercio, la cual anualmente la distribuirá proporcionalmente entre los distintos Cuerpos de Bomberos en el país.
 
 #### § X.
 De los daños.
