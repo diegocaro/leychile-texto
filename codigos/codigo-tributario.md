@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1983-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1983-07-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1983-01-01
-fetched_at: 2026-08-03T00:37:40.245177+00:00
+version_date: 1983-07-15
+fetched_at: 2026-08-03T00:38:04.277576+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -873,9 +873,13 @@ El Abogado Provincial deberá evacuar los trámites señalados en el inciso ante
 Subsanadas las deficiencias a que alude el inciso segundo, en su caso y no habiéndose acogido las excepciones opuestas por el ejecutado, el Abogado Provincial dentro del plazo de cinco días hábiles computados en la misma forma que en el inciso anterior deberá presentar el expediente al Tribunal Ordinario señalado en el artículo 180°, con un escrito en el que se solicitará del Tribunal que se pronuncie sobre la oposición, exponiendo lo que juzgue oportuno en relación a ella. En el caso de no existir oposición solicitará que, en mérito del proceso se ordene el retiro de especies y demás medidas de realización que correspondan.
 En el caso que la Tesorería Comunal o el Abogado Provincial no cumplan con las actuaciones señaladas en el artículo 177° o los incisos anteriores, dentro del plazo, el ejecutado tendrá derecho para solicitar al Tribunal Ordinario señalado en el inciso precedente que requiera el expediente para su conocimiento y fallo.
 
-Artículo 180.- El expediente y el escrito a que se refiere el artículo anterior se presentarán ante el Juez de Letras de Mayor Cuantía del Departamento correspondiente al domicilio del demandado al momento de practicársele el requerimiento de pago.
+Art. 180. El expediente y el escrito a que se refiere el artículo anterior se presentarán ante el Juez de Letras de Mayor Cuantía del Departamento correspondiente al domicilio del demandado al momento de practicársele el requerimiento
+NOTA
+de pago.
 Será competente para conocer en segunda instancia de estos juicios, la Corte de Apelaciones a cuya jurisdicción pertenezca el Juzgado referido en el inciso anterior.
 En estos juicios, la competencia no se alterará por el fuero de que pueda gozar el ejecutado.
+NOTA
+El Art. 2º de la Ley 18227, publicada el 15.07.1983, establece que, tratándose del cobro del impuesto territorial y de los derechos, servicios, recargos, tasas adicionales o anexos a aquél, ya sea que lo efectúen el Servicio de Tesorerías o las municipalidades autorizadas, acogidas a las normas de esta Ley, no regirá lo dispuesto en el inciso 1° del Art. 180.
 
 Artículo 181°.- Serán aplicables para la tramitación y fallo de las excepciones opuestas por el ejecutado, las disposiciones de los artículos 467, 468, 469, 470, 472, 473 y 474 del Código de Procedimiento Civil, en lo que sean pertinentes.
 La primera resolución del Tribunal Ordinario que recaiga sobre el escrito presentado por el Abogado Provincial, deberá notificarse por cédula.
