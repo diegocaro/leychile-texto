@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2003-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2004-05-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2003-10-10
-fetched_at: 2026-08-03T01:22:17.188216+00:00
+version_date: 2004-05-11
+fetched_at: 2026-08-03T01:24:20.538071+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -528,6 +528,8 @@ El que concertado facilitare los medios para que en las referidas presentaciones
 24°.- Los contribuyentes de los impuestos establecidos en la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del decreto ley Nº 824, de 1974, que dolosamente y en forma reiterada, reciban de las instituciones a las cuales efectúen donaciones, contraprestaciones directas o indirectas o en beneficio de sus empleados, directores o parientes consanguíneos de éstos, hasta el segundo grado, en el año inmediatamente anterior a aquél en que se efectúe la donación o, con posterioridad a ésta, en tanto la donación no se hubiere utilizado íntegramente por la donataria o simulen una donación, en ambos casos, de aquellas que otorgan algún tipo de beneficio tributario que implique en definitiva un menor pago de algunos de los impuestos referidos, serán sancionados con la pena de presidio menor en sus grados medio a máximo. Para estos efectos, se entenderá que existe reiteración cuando se realicen dos o más conductas de las que sanciona este inciso, en un mismo ejercicio comercial anual.
 El que dolosamente destine o utilice donaciones de aquellas que las leyes permiten rebajar de la base imponible afecta a los impuestos de la Ley sobre Impuesto a la Renta o que otorgan crédito en contra de dichos impuestos, a fines distintos de los que corresponden a la entidad donataria de acuerdo a sus estatutos, serán sancionados con la pena de presidio menor en sus grados medio a máximo.
 Los contribuyentes del impuesto de primera categoría de la Ley sobre Impuesto a la Renta, que dolosamente y en forma reiterada, deduzcan como gasto de la base imponible de dicho impuesto donaciones que las leyes no permiten rebajar, serán sancionados con la pena de presidio menor en sus grados medio a máximo.
+25.- El que actúe como usuario de las Zonas Francas establecidas por ley, sin tener la habilitación correspondiente, o teniéndola, la haya utilizado con la finalidad de defraudar al Fisco, será sancionado con una multa de hasta ocho Unidades Tributarias Anuales y con presidio menor en sus grados medio a máximo.
+Se sancionará con las penas establecidas en el inciso anterior a quien efectúe transacciones con una persona que actúe como usuario de Zona Franca, sabiendo que éste no cuenta con la habilitación correspondiente o teniéndola, la utiliza con la finalidad de defraudar al Fisco.
 
 Artículo 98.- De las sanciones pecuniarias responden el contribuyente y las demás personas legalmente obligadas.
 
