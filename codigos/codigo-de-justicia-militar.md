@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1980-12-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1982-02-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1980-12-18
-fetched_at: 2026-08-03T00:32:59.273241+00:00
+version_date: 1982-02-16
+fetched_at: 2026-08-03T00:35:46.133331+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
