@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1994-03-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1994-05-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1994-03-12
-fetched_at: 2026-08-03T00:56:59.121149+00:00
+version_date: 1994-05-25
+fetched_at: 2026-08-03T00:57:44.421566+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1176,7 +1176,7 @@ Inciso derogado.
 Art. 267. El Escalafón Primario tendrá las siguientes Categorías:
 Primera categoría: Miembros y fiscal de la Corte Suprema.
 Segunda categoría: Miembros y fiscales de las Cortes de Apelaciones; y relatores y secretario de la Corte Suprema.
-Tercera categoría: Jueces letrados de juzgados de ciudad asiento de Corte y relatores y secretarios de Corte de Apelaciones.
+Tercera categoría: Jueces letrados de juzgados de ciudad asiento de Corte, relatores y secretarios de Cortes de Apelaciones y Secretario Abogado del Presidente de la Corte Suprema.
 Cuarta categoría: Jueces letrados de juzgados de ciudad capital de provincia y defensores públicos de Santiago y Valparaíso.
 Quinta categoría: Jueces letrados de juzgados de comuna o agrupación de comunas y secretarios de juzgados de letras de comunas de asiento de Corte.
 Sexta categoría: Secretarios de juzgados de letras de ciudad capital de provincia y defensores públicos de ciudad asiento de Corte y de juzgados de letras de capital de provincia.
