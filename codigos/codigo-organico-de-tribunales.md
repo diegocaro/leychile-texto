@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1948-07-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1948-09-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1948-07-20
-fetched_at: 2026-08-03T00:09:25.397738+00:00
+version_date: 1948-09-03
+fetched_at: 2026-08-03T00:09:37.406010+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -72,6 +72,7 @@ Art. 6° Quedan sometidos a la jurisdicción chilena los crímenes y simples del
 6°) Los cometidos por chilenos contra chilenos si el culpable regresa a Chile sin haber sido juzgado por la autoridad del país en que delinquió;
 7°) La piratería; y
 8°) Los comprendidos en los tratados celebrados con otras potencias.
+9°) Los sancionados por la ley 6.026 y las que la han modificado, cometidos por chilenos o por extranjeros al servicio de la República.
 
 Art. 7° Los tribunales sólo podrán ejercer su potestad en los negocios y dentro del territorio que la ley les hubiere respectivamente asignado.
 Lo cual no impide que en los negocios de que conocen puedan dictar providencias que hayan de llevarse a efecto en otro territorio.
