@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1979-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1979-07-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1979-01-01
-fetched_at: 2026-08-03T00:29:53.056205+00:00
+version_date: 1979-07-01
+fetched_at: 2026-08-03T00:30:17.084994+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -473,10 +473,10 @@ b) Reconstituir la contabilidad dentro del plazo y conforme a las normas que fij
 En todo caso, la pérdida o inutilización de los libros de contabilidad suspenderá la prescripción establecida en el artículo 200°, hasta la fecha en que los libros legalmente reconstituidos queden a disposición del Servicio.
 Para los efectos previstos en el inciso primero de este número se entenderá por capital efectivo el definido en el artículo 2°, N° 5 de la Ley de Impuesto a la Renta.
 17°.- Caerán en comiso:
-a) Los productos a que se refiere la Ley de Alcoholes, Bebidas Alcohólicas y Vinagres que se movilicen o transporten con guías de libre tránsito que no hayan sido autorizadas por un Inspector del Servicio de Impuestos Internos en los casos que corresponda;
+a) Derogado.
 b) Los mismos productos que se movilicen o transporten sin sus documentos legales o con documentos que hayan sido adulterados o no correspondan al producto que se moviliza o transporta;
 c) Los alcoholes y bebidas alcohólicas cuyo origen o procedencia no puedan justificarse al ser controlados;
-d) Los licores y bebidas alcohólicas que se vendan para el consumo embotellados, que sean encontrados fuera de las fábricas o establecimientos envasadores sin las fajas de control correspondiente o con fajas que hayan sido adulteradas, falsificadas o que no cumplan con los requisitos legales.
+d) Derogado.
 Se aplicará al infractor, además, y sin perjuicio del pago del tributo que proceda, una multa de un diez por ciento al doscientos por ciento de una unidad tributaria anual.
 La adulteración y la falsificación a que se refieren las letras b) y d) de este número serán sancionadas, además, con presidio menor en su grado medio.
 Las sanciones pecuniarias que se establecen en este número podrán aplicarse incluso al mero tenedor del producto.
