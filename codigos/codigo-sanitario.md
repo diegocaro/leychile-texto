@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1997-12-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1999-10-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1997-12-16
-fetched_at: 2026-08-03T01:05:44.595246+00:00
+version_date: 1999-10-27
+fetched_at: 2026-08-03T01:09:16.653076+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -613,7 +613,9 @@ En los casos de elaboración de materias primas o drogas de origen biológico, q
 Las droguerías y depósitos de productos farmacéuticos de uso exclusivamente animal, podrán ser asistidos técnicamente por médico veterinario.
 La dirección técnica de las farmacias será incompatible entre sí y con la de cualquier otro de los establecimientos enunciados en el presente artículo.
 
-Artículo 127°.- Los productos farmacéuticos sólo podrán expenderse al público con receta médica, salvo aquellos que determine el Reglamento.
+Artículo 127°.- Los productos farmacéuticos sólo podrán expenderse al público con receta médica, salvo aquellos que determine el reglamento.
+Las recetas médicas y análisis o exámenes de laboratorios clínicos y servicios relacionados con la salud son reservados. Sólo podrá revelarse su contenido o darse copia de ellos con el consentimiento expreso del paciente, otorgado por escrito. Quien divulgare su contenido indebidamente, o infringiere las disposiciones del inciso siguiente, será castigado en la forma y con las sanciones establecidas en el Libro Décimo.
+Lo dispuesto en este artículo no obsta para que las farmacias puedan dar a conocer, para fines estadísticos, las ventas de productos farmacéuticos de cualquier naturaleza, incluyendo la denominación y cantidad de ellos. En ningún caso la información que proporcionen las farmacias consignará el nombre de los pacientes destinatarios de las recetas, ni el de los médicos que las expidieron, ni datos que sirvan para identificarlos.
 
 Artículo 128°.- Sólo en los establecimientos de óp
 NOTA:
