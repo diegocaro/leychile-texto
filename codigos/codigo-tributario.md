@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1976-12-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1977-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1976-12-03
-fetched_at: 2026-08-03T00:27:28.853110+00:00
+version_date: 1977-01-01
+fetched_at: 2026-08-03T00:27:40.871857+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -385,6 +385,7 @@ Artículo 85.- El Banco del Estado, las cajas de previsión y las instituciones 
 Artículo 86.- Los funcionarios del Servicio, nominativa y expresamente autorizados por el Director, tendrán el carácter de ministros de fe, para todos los efectos de este Código y las leyes tributarias y en los procesos por delitos que digan relación con el cumplimiento de obligaciones tributarias.
 
 Artículo 87.- Los funcionarios fiscales, semifiscales, de instituciones fiscales y semifiscales de administración autónoma y municipales, y las autoridades en general, estarán obligados a proporcionar al Servicio todos los datos y antecedentes que éste solicite para la fiscalización de los impuestos.
+Cuando así lo determine el Servicio de Impuestos Internos, las instituciones fiscales, semifiscales, municipales, organismos de administración autónoma y las empresas de todos ellos, como asimismo, las personas que deban llevar contabilidad, deberán mantener un registro especial en el que se dejará constancia de los servicios profesionales u otros propios de ocupaciones lucrativas, de que tomen conocimiento en razón de sus funciones, giro o actividades propias. Este registro contendrá las indicaciones que el Servicio determine, a su juicio exclusivo.
 
 Artículo 88.- Estarán obligadas a emitir facturas las personas que a continuación se indican, por las transferencias que efectúen y cualquiera que sea la calidad del adquirente:
 1°.- Industriales, agricultores y otras personas consideradas vendedores por la Ley sobre Impuesto a las Ventas y Servicios; y
