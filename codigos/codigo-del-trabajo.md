@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2004-12-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-02-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2004-12-18
-fetched_at: 2026-08-03T01:27:15.625324+00:00
+version_date: 2005-02-05
+fetched_at: 2026-08-03T01:27:45.636894+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1039,6 +1039,21 @@ En los mismos términos, el dueño de la obra, empresa o faena es subsidiariamen
 Art. 210. Las empresas o entidades a que se refiere la ley N° 16.744, están obligadas a adoptar y mantener medidas de higiene y seguridad en la forma, dentro de los términos y con las sanciones que señala esa ley.
 
 Art. 211. El seguro de accidentes del trabajo y enfermedades profesionales se financia, en la forma que prescribe la ley N° 16.744, con una cotización básica general y una cotización adicional diferenciada en función de la actividad y riesgo de la empresa o entidad empleadora, ambas de cargo del empleador; y con el producto de las multas que apliquen los organismos administradores, las utilidades o rentas que produzcan la inversión de los fondos de reserva y con las cantidades que estos organismos obtengan por el ejercicio del derecho a repetir contra el empleador.
+
+### Título V
+DE LA PROTECCION DE LOS TRABAJADORES DE CARGA Y DESCARGA DE MANIPULACION MANUAL
+
+Artículo 211-F.- Estas normas se aplicarán a las manipulaciones manuales que impliquen riesgos a la salud o a las condiciones físicas del trabajador, asociados a las características y condiciones de la carga.
+La manipulación comprende toda operación de transporte o sostén de carga cuyo levantamiento, colocación, empuje, tracción, porte o desplazamiento exija esfuerzo físico de uno o varios trabajadores.
+
+Artículo 211-G.- El empleador velará para que en la organización de la faena se utilicen los medios adecuados, especialmente mecánicos, a fin de evitar la manipulación manual habitual de las cargas.
+Asimismo, el empleador procurará que el trabajador que se ocupe en la manipulación manual de las cargas reciba una formación satisfactoria, respecto de los métodos de trabajo que debe utilizar, a fin de proteger su salud.
+
+Artículo 211-H.- Si la manipulación manual es inevitable y las ayudas mecánicas no pueden usarse, no se permitirá que se opere con cargas superiores a 50 kilogramos.
+
+Artículo 211-I.- Se prohíbe las operaciones de carga y descarga manual para la mujer embarazada.
+
+Artículo 211-J.- Los menores de 18 años y mujeres no podrán llevar, transportar, cargar, arrastrar o empujar manualmente, y sin ayuda mecánica, cargas superiores a los 20 kilogramos.
 
 ## LIBRO III
 DE LAS ORGANIZACIONES SINDICALES Y DEL DELEGADO DEL PERSONAL
