@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1977-12-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1979-12-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1977-12-15
-fetched_at: 2026-08-03T00:29:10.995441+00:00
+version_date: 1979-12-11
+fetched_at: 2026-08-03T00:30:53.130794+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1791,6 +1791,7 @@ Se comete violación yaciendo con la mujer en alguno de los casos siguientes:
 1.º Cuando se usa de fuerza o intimidación.
 2.° Cuando la mujer se halla privada de razón o de sentido por cualquier causa.
 3.° Cuando sea menor de doce años cumplidos aun cuando no concurra ninguna de las circunstancias expresadas en los dos números anteriores.
+En el caso del número 3º del inciso anterior, la pena será presidio mayor en su grado medio a máximo.
 
 ART. 362.
 Los delitos de que trata este párrafo se consideran consumados desde que hay principio de ejecución.
@@ -1807,9 +1808,10 @@ En igual pena incurrirá el que, conociendo las relaciones que lo ligan, cometie
 Art. 365.
 El que se hiciere reo del delito de sodomía sufrirá la pena de presidio menor en su grado medio.
 Se impondrá la pena de presidio menor en su grado máximo a presidio mayor en su grado medio al que cometiere el delito concurriendo algunas de las siguientes circunstancias:
-1°.- Cuando se use de fuerza e intimidación sobre la víctima;
-2°.- Cuando se halle la víctima privada de razón o de sentido por cualquier causa, y
-3°.- Ser el ofendido menor de catorce años cumplidos, aun cuando no concurra ninguna de las circunstancias expresadas en los dos números anteriores.
+1°.- Cuando se use de fuerza e intimidación sobre la víctima, y
+2°.- Cuando se halle la víctima privada de razón o de sentido por cualquier causa.
+3°.- Suprimido.
+Se impondrá la pena de presidio mayor en su grado medio a máximo si el ofendido fuere menor de catorce años cumplidos, aun cuando no concurra ninguna de las circunstancias expresadas en los dos números del inciso anterior.
 
 ART. 366.
 El que abusare deshonestamente de persona de uno u otro sexo mayor de doce años y menor de veinte, será castigado con presidio menor en cualquiera de sus grados. Si concurriere alguna de las circunstancias expresadas en el art. 361, se estimará como agravante del delito, aun cuando sea mayor de veinte años la persona de quien se abusa.
@@ -1840,6 +1842,9 @@ Los maestros o encargados en cualquier manera de la educación o dirección de l
 
 ART. 372.
 Los comprendidos en el artículo precedente y cualesquiera otros reos de corrupción de menores con interés de terceros, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad por el tiempo que el tribunal determine.
+
+ART. 372 BIS.
+El que con motivo u ocasión de violación o de sodomía, causare, además, la muerte del ofendido será castigado con la pena de presidio perpetuo a muerte
 
 #### § VIII.
 De los ultrajes públicos a las buenas costumbres.
