@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1944-10-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1944-11-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1944-10-25
-fetched_at: 2026-08-03T00:08:07.329594+00:00
+version_date: 1944-11-06
+fetched_at: 2026-08-03T00:08:13.335058+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -270,9 +270,9 @@ De los Presidentes y Ministros de Corte como tribunales unipersonales
 
 Art. 50. Un Ministro de la Corte de Apelaciones respectiva, según el turno que ella fije, conocerá en primera instancia de los siguientes asuntos:
 1°) De las causas por los delitos contra la Seguridad Interior del Estado a que se refiere la ley 6026, de 12 de Febrero de 1937; de los delitos de los Títulos II y VI, párrafo 19 del Libro II del Código Penal, y de los delitos de los Títulos IV y V, párrafo I, del Código de Justicia Militar, cuando dichos delitos sean cometidos exclusivamente por civiles.
-2°) De las causas civiles y criminales en que sean parte o tengan interés el Presidente de la República, los Ministros de Estado, los Intendentes de Provincia y Gobernadores de Departamento, los Agentes Diplomáticos chilenos, los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
+2°) De las causas civiles y criminales en que sean parte o tengan interés el Presidente de la República, los ex-Presidentes de la República, los Ministros de Estado, los Intendentes de Provincia y Gobernadores de Departamento, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
 La circunstancia de ser accionista de sociedades anónimas las personas designadas en este número, no se considerará como una causa suficiente para que un Ministro de la Corte de Apelaciones conozca en primera instancia de los juicios en que aquéllas tengan parte, debiendo éstos sujetarse en su conocimiento a las reglas generales.
-3°) De las causas por delitos comunes cometidos por los miembros de la Corte Suprema, los de las Cortes de Apelaciones, los Fiscales de estos tribunales y los jueces letrados de las ciudades de asiento de las Cortes de Apelaciones.
+3°) De las causas por delitos comunes en que sean parte o tengan interés los miembros de la Corte Suprema, los de las Cortes de Apelaciones, los Fiscales de estos tribunales y los jueces letrados de las ciudades de asiento de las Cortes de Apelaciones.
 4°) De las acusaciones o demandas civiles que se entablen contra los jueces de letras para hacer efectiva la responsabilidad criminal o civil resultante del ejercicio de sus funciones ministeriales.
 5°) De los demás asuntos que otras leyes les encomienden.
 
@@ -670,10 +670,12 @@ Art. 156. Si el juez de letras de menor cuantía estimare que es incompetente pa
 Art. 157. Será competente para conocer de un delito el tribunal en cuyo territorio se hubiere cometido el hecho que da motivo al proceso.
 Esta competencia, así como la de la Corte de Apelaciones que deba conocer en segunda instancia, no se alterará por razón de haber sido comprometidos por el delito intereses fiscales.
 Si el autor del delito se ausentare del lugar en que lo cometió, y fuere aprehendido en otro departamento, será puesto inmediatamente a disposición del juez del lugar en que delinquió.
+El delito se considerará cometido en el lugar donde se dió comienzo a su ejecución.
 
 Art. 158. Si un individuo hubiere cometido varios delitos en diversos departamentos será juzgado por el juez de aquél en que cometió el último delito.
 
 Art. 159. Si el reo hubiere cometido en varios departamentos delitos de distinta gravedad, será juez competente para conocer de todos ellos el de aquel departamento en que cometió el último crimen, o en su defecto, el último simple delito.
+Si los delitos se cometen en un departamento en que existan dos o más Juzgados de igual jurisdicción, será competente para conocer de los procesos que se deban acumular de acuerdo con el artículo siguiente, el juez que conozca del proceso más antiguo.
 
 Art. 160. El culpable de diversos delitos será juzgado por todos ellos en un solo proceso, para lo cual se acumularán las causas iniciadas o por iniciarse en su contra; y las personas que en ellas figuren como reos quedarán sometidas a la jurisdicción del tribunal a quien corresponda conocer en los procesos acumulados.
 
