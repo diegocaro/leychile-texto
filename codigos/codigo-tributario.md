@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2002-05-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2003-08-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2002-05-31
-fetched_at: 2026-08-03T01:18:37.894994+00:00
+version_date: 2003-08-06
+fetched_at: 2026-08-03T01:21:04.902552+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -525,6 +525,9 @@ La sanción pecuniaria establecida en el inciso precedente podrá hacerse efecti
 22º.- El que maliciosamente utilizare los cuños verdaderos u otros medios tecnológicos de autorización del Servicio para defraudar al Fisco, será sancionado con pena de presidio menor en su grado medio a máximo y una multa de hasta seis unidades tributarias anuales.
 23º.- El que maliciosamente proporcionare datos o antecedentes falsos en la declaración inicial de actividades o en sus modificaciones o en las declaraciones exigidas con el objeto de obtener autorización de documentación tributaria, será sancionado con la pena de presidio menor en su grado máximo y con multa de hasta ocho unidades tributarias anuales.
 El que concertado facilitare los medios para que en las referidas presentaciones se incluyan maliciosamente datos o antecedentes falsos, será sancionado con la pena de presidio menor en su grado mínimo y con multa de una unidad tributaria mensual a una unidad tributaria anual.
+24°.- Los contribuyentes de los impuestos establecidos en la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del decreto ley Nº 824, de 1974, que dolosamente y en forma reiterada, reciban de las instituciones a las cuales efectúen donaciones, contraprestaciones directas o indirectas o en beneficio de sus empleados, directores o parientes consanguíneos de éstos, hasta el segundo grado, en el año inmediatamente anterior a aquél en que se efectúe la donación o, con posterioridad a ésta, en tanto la donación no se hubiere utilizado íntegramente por la donataria o simulen una donación, en ambos casos, de aquellas que otorgan algún tipo de beneficio tributario que implique en definitiva un menor pago de algunos de los impuestos referidos, serán sancionados con la pena de presidio menor en sus grados medio a máximo. Para estos efectos, se entenderá que existe reiteración cuando se realicen dos o más conductas de las que sanciona este inciso, en un mismo ejercicio comercial anual.
+El que dolosamente destine o utilice donaciones de aquellas que las leyes permiten rebajar de la base imponible afecta a los impuestos de la Ley sobre Impuesto a la Renta o que otorgan crédito en contra de dichos impuestos, a fines distintos de los que corresponden a la entidad donataria de acuerdo a sus estatutos, serán sancionados con la pena de presidio menor en sus grados medio a máximo.
+Los contribuyentes del impuesto de primera categoría de la Ley sobre Impuesto a la Renta, que dolosamente y en forma reiterada, deduzcan como gasto de la base imponible de dicho impuesto donaciones que las leyes no permiten rebajar, serán sancionados con la pena de presidio menor en sus grados medio a máximo.
 
 Artículo 98.- De las sanciones pecuniarias responden el contribuyente y las demás personas legalmente obligadas.
 
