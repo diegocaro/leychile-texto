@@ -1,0 +1,1210 @@
+---
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=1981-10-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+id_norma: 5605
+version_date: 1981-10-29
+fetched_at: 2026-08-03T00:34:46.061504+00:00
+titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
+compuesto: DFL-1122
+organismos: ['MINISTERIO DE JUSTICIA']
+fecha_publicacion_original: 1981-10-29
+derogada: false
+---
+
+# FIJA TEXTO DEL CODIGO DE AGUAS
+
+FIJA TEXTO DEL CODIGO DE AGUAS
+Santiago, 13 de Agosto de 1981.- Hoy se decretó lo que sigue:
+D.F.L. N° 1.122.- Visto: La facultad que me otorga el artículo 2°, del decreto ley número 2.603, de 1979, prorrogada por el decreto ley 3.337, de 1980, y renovada por el decreto ley 3.549, de 1981, dicto el siguiente
+Decreto con fuerza de ley:
+
+## LIBRO PRIMERO
+DE LAS AGUAS Y DEL DERECHO DE APROVECHAMIENTO
+
+### Título I
+DISPOSICIONES GENERALES
+
+ARTICULO 1°- Las aguas se dividen en marítimas y terrestres. Las disposiciones de este Código sólo se aplican a las aguas terrestres.
+Son aguas pluviales las que proceden inmediatamente de las lluvias, las cuales serán marítimas o terrestres según donde se precipiten.
+
+ARTICULO 2°- Las aguas terrestres son superficiales o subterráneas.
+Son aguas superficiales aquellas que se encuentran naturalmente a la vista del hombre y pueden ser corrientes o detenidas.
+Son aguas corrientes las que escurren por cauces naturales o artificiales.
+Son aguas detenidas las que están acumuladas en depósitos naturales o artificiales, tales como lagos, lagunas, pantanos, charcas, aguadas, ciénagas, estanques o embalses.
+Son aguas subterráneas las que están ocultas en el seno de la tierra y no han sido alumbradas.
+
+ARTICULO 3°- Las aguas que afluyen, continua o discontinuamente, superficial o subterráneamente, a una misma cuenca u hoya hidrográfica, son parte integrante de una misma corriente.
+La cuenca u hoya hidrográfica de un caudal de aguas la forman todos los afluentes, subafluentes, quebradas, esteros, lagos y lagunas que afluyen a ella, en forma continua o discontinua, superficial o subterráneamente.
+
+ARTICULO 4°- Atendida su naturaleza, las aguas son muebles, pero destinadas al uso, cultivo o beneficio de un inmueble se reputan inmuebles.
+
+### Título II
+DEL DOMINIO Y APROVECHAMIENTO DE LAS AGUAS
+
+ARTICULO 5°- Las aguas son bienes nacionales de uso público y se otorga a los particulares el derecho de aprovechamiento de ellas, en conformidad a las disposiciones del presente código.
+
+ARTICULO 6°- El derecho de aprovechamiento es un derecho real que recae sobre las aguas y consiste en el uso y goce de ellas, con los requisitos y en conformidad a las reglas que prescribe este código.
+El derecho de aprovechamiento sobre las aguas es de dominio de su titular, quien podrá usar, gozar y disponer de él en conformidad a la ley.
+
+ARTICULO 7°- El derecho de aprovechamiento se expresará en volumen por unidad de tiempo.
+
+ARTICULO 8°- El que tiene un derecho de aprovechamiento lo tiene, igualmente, a los medios necesarios para ejercitarlo. Así, el que tiene derecho a sacar agua de una fuente situada en la heredad vecina, tiene el derecho de tránsito para ir a ella, aunque no se haya establecido en el título.
+
+ARTICULO 9°- El que goza de un derecho de aprovechamiento puede hacer, a su costa, las obras indispensables para ejercitarlo.
+
+ARTICULO 10°- El uso de las aguas pluviales que caen o se recogen en un predio de propiedad particular corresponde al dueño de éste, mientras corran dentro de su predio o no caigan a cauces naturales de uso público.
+En consecuencia, el dueño puede almacenarlas dentro del predio por medios adecuados, siempre que no se perjudique derechos de terceros.
+
+ARTICULO 11°- El dueño de un predio puede servirse, de acuerdo con las leyes y ordenanzas respectivas, de las aguas lluvias que corren por un camino público y torcer su curso para utilizarlas. Ninguna prescripción puede privarle de este uso.
+
+ARTICULO 12°- Los derechos de aprovechamiento son consuntivos o no consuntivos; de ejercicio permanente o eventual; continuo, discontinuo o alternado entre varias personas.
+
+ARTICULO 13°- Derecho de aprovechamiento consuntivo es aquel que faculta a su titular para consumir totalmente las aguas en cualquier actividad.
+
+ARTICULO 14°- Derecho de aprovechamiento no consuntivo es aquel que permite emplear el agua sin consumirla y obliga a restituirla en la forma que lo determine el acto de adquisición o de constitución del derecho.
+La extracción o restitución de las aguas se hará siempre en forma que no perjudique los derechos de terceros constituidos sobre las mismas aguas, en cuanto a su cantidad, calidad, substancia, oportunidad de uso y demás particularidades.
+
+ARTICULO 15°- El dominio del derecho de aprovechamiento no consuntivo no implica, salvo convención expresa entre las partes, restricción a la libre disposición de los derechos consuntivos.
+
+ARTICULO 16°- Son derechos de ejercicio permanente los que se otorguen con dicha calidad en fuentes de abastecimiento no agotadas, en conformidad a las disposiciones del presente Código, así como los que tengan esta calidad con anterioridad a su promulgación.
+Los demás son de ejercicio eventual.
+
+ARTICULO 17°- Los derechos de aprovechamiento de ejercicio permanente facultan para usar el agua en la dotación que corresponda, salvo que la fuente de abastecimiento no contenga la cantidad suficiente para satisfacerlos en su integridad, en cuyo caso el caudal se distribuirá en partes alícuotas.
+
+ARTICULO 18°- Los derechos de ejercicio eventual sólo facultan para usar el agua en las épocas en que el caudal matriz tenga un sobrante después de abastecidos los derechos de ejercicio permanente.
+Las aguas lacustres o embalsadas no son objeto de derechos de ejercicio eventual.
+El ejercicio de los derechos eventuales queda subordinado al ejercicio preferente de los derechos de la misma naturaleza otorgados con anterioridad.
+
+ARTICULO 19°- Son derechos de ejercicio continuo los que permiten usar el agua en forma ininterrumpida durante las veinticuatro horas del día.
+Los derechos de ejercicio discontinuo sólo permiten usar el agua durante determinados períodos.
+Los derechos de ejercicio alternado son aquellos en que el uso del agua se distribuye entre dos o más personas que se turnan sucesivamente.
+
+### Título III
+DE LA ADQUISICIÓN DEL DERECHO DE APROVECHAMIENTO
+
+ARTICULO 20°- El derecho de aprovechamiento se constituye originariamente por acto de autoridad. La posesión de los derechos así constituidos se adquiere por la competente inscripción.
+Exceptúanse los derechos de aprovechamiento sobre las aguas que corresponden a vertientes que nacen, corren y mueren dentro de una misma heredad, como asimismo, sobre las aguas de lagos menores no navegables por buques de más de cien toneladas, de lagunas y pantanos situados dentro de una sola propiedad y en las cuales no existan derechos de aprovechamiento constituidos a favor de terceros, a la fecha de vigencia de este Código. La propiedad de estos derechos de aprovechamiento pertenece, por el solo ministerio de la ley, al propietario de las riberas.
+Se entiende que mueren dentro de la misma heredad las vertientes o corrientes que permanentemente se extinguen dentro de aquélla sin confundirse con otras aguas, a menos que caigan al mar.
+
+ARTICULO 21°- La transferencia, transmisión y la adquisición o pérdida por prescripción de los derechos de aprovechamiento se efectuará con arreglo a las disposiciones del Código Civil, salvo en cuanto estén modificadas por el presente Código.
+
+ARTICULO 22°- La autoridad constituirá el derecho de aprovechamiento sobre aguas existentes en fuentes naturales y en obras estatales de desarrollo del recurso, no pudiendo perjudicar ni menoscabar derechos de terceros.
+
+ARTICULO 23°- La constitución del derecho de aprovechamiento se sujetará al procedimiento estatuido en el párrafo 2° del Título I, del Libro II de este Código.
+
+ARTICULO 24°- Si el acto de constitución del derecho de aprovechamiento no expresa otra cosa, se entenderá que su ejercicio es continuo. Si se constituye el derecho como de ejercicio discontinuo o alternado, el uso sólo podrá efectuarse en la forma y tiempo fijados en dicho acto.
+
+ARTICULO 25°- El derecho de aprovechamiento conlleva, por el ministerio de la ley, la facultad de imponer todas las servidumbres necesarias para su ejercicio, sin perjuicio de las indemnizaciones correspondientes.
+
+ARTICULO 26°- El derecho de aprovechamiento comprenderá la concesión de los terrenos de dominio público necesarios para hacerlo efectivo.
+Abandonados estos terrenos o destinados a un fin distinto, volverán a su antigua condición.
+
+ARTICULO 27°- Cuando sea necesario disponer la expropiación de derechos de aprovechamiento para satisfacer menesteres domésticos de una población por no existir otros medios para obtener el agua, deberá dejarse al expropiado la necesaria para iguales fines.
+
+ARTICULO 28°- Los derechos de aprovechamiento que se destinen a la producción de energía eléctrica, se someterán a las disposiciones del presente código y las centrales respectivas continuarán rigiéndose, en lo demás, por la Ley de Servicios Eléctricos.
+
+ARTICULO 29°- El derecho de aprovechamiento de las aguas medicinales y mineromedicinales se adquirirá en conformidad a las disposiciones de este código, pero su ejercicio se someterá a las leyes que rijan la materia.
+
+### Título IV
+DE LOS CAUCES DE LAS AGUAS
+
+#### 1.- De los álveos o cauces naturales
+
+ARTICULO 30°- Álveo o cauce natural de una corriente de uso público es el suelo que el agua ocupa y desocupa alternativamente en sus creces y bajas periódicas.
+Este suelo es de dominio público y no accede mientras tanto a las heredades contiguas, pero los propietarios riberanos podrán aprovechar y cultivar ese suelo en las épocas en que no estuviere ocupado por las aguas.
+Sin perjuicio de lo dispuesto en los incisos precedentes, las porciones de terrenos de un predio que, por avenida, inundación o cualquier causa quedaren separadas del mismo, pertenecerán siempre al dueño de éste y no formarán parte del cauce del río.
+
+ARTICULO 31°- La regla del artículo anterior se aplicará también a los álveos de corrientes discontinuas de uso público. Se exceptúan los cauces naturales de corrientes discontinuas formadas por aguas pluviales, los cuales pertenecen al dueño del predio.
+
+ARTICULO 32°- Sin permiso de la autoridad competente, no se podrá hacer obras o labores en los álveos, salvo lo dispuesto en los artículos 8°, 9°, 25, 26 y en el inciso 2° del artículo 30.
+
+ARTICULO 33°- Son riberas o márgenes las zonas laterales que lindan con el álveo o cauce.
+
+ARTICULO 34°- En los casos de aluvión, avenida, inundación, variación de curso de un río o división de éste en dos brazos, se estará a lo dispuesto sobre accesiones del suelo en el párrafo 2° del Título V, Libro II, del Código Civil.
+
+#### 2.- De los álveos de aguas detenidas
+
+ARTICULO 35°- Álveo o lecho de los lagos, lagunas, pantanos y demás aguas detenidas, es el suelo que ellas ocupan en su mayor altura ordinaria. Este suelo es de dominio privado, salvo cuando se trate de lagos navegables por buques de más de cien toneladas.
+Es aplicable a estos álveos lo dispuesto en el artículo anterior.
+
+#### 3.- De los cauces artificiales y de otras obras
+
+ARTICULO 36°- Canal o cauce artificial es el acueducto construido por la mano del hombre. Forman parte de él las obras de captación, conducción, distribución y descarga del agua, tales como bocatomas, canoas, sifones, tuberías, marcos partidores y compuertas. Estas obras y canales son de dominio privado.
+Embalse es la obra artificial donde se acopian aguas.
+
+ARTICULO 37°- El dueño de un derecho de aprovechamiento podrá construir canales a sus expensas, en suelo propio o ajeno, con arreglo a las normas del presente Código.
+
+ARTICULO 38°- Las organizaciones de usuarios o el propietario exclusivo de un acueducto que extraiga aguas de una corriente natural, estarán obligados a construir, a su costa, a lo menos una bocatoma con compuertas de cierre y descarga y un canal que permita devolver las aguas o su exceso al cauce de origen, además de los dispositivos que permitan controlar y aforar el agua que se extrae.
+
+#### 4.- De la concesión de cauces de uso público para conducir aguas de aprovechamiento particular
+
+ARTICULO 39°- Las aguas de aprovechamiento particular podrán vaciarse en cauces naturales de uso público para ser extraídas en otra parte de su curso, previa autorización de la Dirección General de Aguas.
+Serán de cargo del concesionario los gastos que ocasionen la introducción y extracción de las aguas y los perjuicios que se causaren, como también los gastos de conservación de las nuevas obras.
+
+ARTICULO 40°- El concesionario no podrá extraer del cauce mayor cantidad de agua que la vaciada, deducidas las mermas por evaporación e infiltración, tomando en cuenta la distancia recorrida por las aguas y la naturaleza del lecho.
+La junta de vigilancia respectiva o cualquier interesado podrá, en caso justificado, solicitar la revocación de la autorización a que se refiere el artículo anterior.
+
+#### 5.- Disposiciones especiales
+
+ARTICULO 41°- El proyecto, construcción y financiamiento de las modificaciones que fuere necesario realizar en cauces naturales o artificiales, con motivo de la construcción de obras públicas, urbanizaciones, edificaciones y otras obras en general, serán de responsabilidad y de cargo de quienes las ordenen.
+Se entenderá por modificaciones no solo el cambio de trazado de los cauces mismos, sino también la alteración o sustitución de cualquiera de sus obras de arte y la construcción de nuevas obras, como abovedamientos, pasos sobre o bajo nivel o cualesquiera otras de sustitución o complemento.
+La operación y la mantención de las nuevas obras seguirán siendo de cargo de las personas o entidades que operaban y mantenían el sistema primitivo. Si la modificación introducida al proyecto original implica un aumento de los gastos de operación y mantención, quien la encomendó deberá pagar el mayor costo.
+
+ARTICULO 42°- Cuando un ferrocarril, camino o instalación de cualquier naturaleza atravesare ríos, lagos, lagunas, tranques, represas o acueductos, deberán ejecutarse las obras de manera que no perjudiquen o entorpezcan la navegación ni el aprovechamiento de las aguas como tampoco el ejercicio de las servidumbres constituidas sobre ellas.
+Las nuevas obras serán de cargo del dueño del ferrocarril, camino o instalación, quien deberá, además, indemnizar los perjuicios que se causaren.
+
+### Título V
+DE LOS DERRAMES Y DRENAJES DE AGUA
+
+#### 1.- De los derrames
+
+ARTICULO 43°- Constituyen derrames las aguas que quedan abandonadas después de su uso, a la salida del predio.
+Se presume el abandono de estas aguas desde que el dueño del derecho de aprovechamiento hace dejación de ellas, en los linderos de la propiedad, sin volver a aprovecharlas.
+
+ARTICULO 44°- Los derrames que escurren en forma natural a predios vecinos podrán ser usados dentro de éstos, sin necesidad de obtener un derecho de aprovechamiento.
+
+ARTICULO 45°- La producción de derrames estará sujeta a las contingencias del caudal matriz y a la distribución o empleo que de las aguas se haga en el predio que los origina, por lo cual no es obligatoria ni permanente.
+
+ARTICULO 46°- La existencia de un título respecto al uso de derrames, no importa limitación de una mejor forma de utilización de las aguas por el titular del derecho de aprovechamiento, salvo convención en contrario.
+
+#### 2.- De los drenajes
+
+ARTICULO 47°- Constituyen un sistema de drenaje todos los cauces naturales o artificiales que sean colectores de agua que se extraigan con el objeto de recuperar terrenos que se inundan periódicamente, desecar terrenos pantanosos o vegosos y deprimir niveles freáticos cercanos a la superficie.
+
+ARTICULO 48°- Son beneficiarios del sistema de drenaje todos aquellos que, lo utilizan para desaguar sus propiedades y quienes aprovechan las aguas provenientes del mismo.
+
+ARTICULO 49°- La obligación de mantener los cauces u obras que constituyen el sistema de drenaje, recae sobre todos aquellos que reportan beneficios del mismo, en conformidad a lo que establecen los artículos siguientes.
+No se podrá construir obra alguna que eleve el nivel natural de los desagües y el nivel freático con perjuicio de terceros.
+Sin embargo, la mantención de las obras de drenaje que sea necesario construir para evitar los daños a que se refiere el inciso anterior, serán de cargo del que ordene las obras.
+
+ARTICULO 50°- Si el humedecimiento excesivo de los suelos se debiera a la existencia de obras artificiales, el o los afectados tendrán derecho a solicitar su modificación, la cual no podrá causar perjuicio al dueño de las obras ni a terceros.
+Los gastos que irroguen dichas modificaciones serán de cargo de los beneficiados con ellas en proporción al beneficio que reporten.
+
+ARTICULO 51°- Para los efectos de lo dispuesto en los artículos precedentes se entenderá en todo caso que los beneficiarios que sanean sus predios por medio de un mismo sistema de drenaje, constituyen por ese hecho, una comunidad de drenaje, que se regirá por las disposiciones del Título III, Párrafo 2°, del Libro II de este Código.
+
+ARTICULO 52°- Las cuestiones que se susciten por la aplicación de las normas contempladas en este párrafo, serán resueltas por el Juez de Letras del lugar en que se encuentre ubicado el predio afectado.
+
+#### 3.- Normas generales
+
+ARTICULO 53°- Las aguas provenientes de derrames o drenajes, caídas a un cauce natural o artificial, se confunden con las de éstos.
+
+ARTICULO 54°- El uso por terceros de derrames o drenajes, no constituye gravamen o servidumbre que afecte al predio que los produce. Son actos de mera tolerancia que no confieren posesión ni dan fundamento a prescripción.
+
+ARTICULO 55°- Los derechos, gravámenes o servidumbres sobre derrames y drenajes sólo pueden constituirse a favor de terceros, por medio de un título. Ni aun el goce inmemorial bastará para constituirlos.
+Para que produzca efectos respecto de terceros el título deberá constar en instrumento público e inscribirse en el Registro de Hipotecas y Gravámenes de Aguas del Conservador de Bienes Raíces.
+
+### Título VI
+DE LAS AGUAS SUBTERRÁNEAS
+
+#### 1.- Normas generales
+
+ARTICULO 56°- Cualquiera puede cavar en suelo propio pozos para las bebidas y usos domésticos, aunque de ello resulte menoscabarse el agua de que se alimente algún otro pozo; pero si de ello no reportare utilidad alguna, o no tanta que pueda compararse con el perjuicio ajeno, será obligado a cegarlo.
+Corresponde a los dueños de pertenencias mineras, dentro de ellas, el derecho de aprovechamiento de las aguas halladas en sus labores, mientras conserven el dominio de sus pertenencias y en la medida necesaria para la respectiva explotación.
+
+ARTICULO 57°- El derecho de aprovechamiento de las aguas subterráneas para cualquier otro uso se regirá por las normas del Título III de este Libro y por las de los artículos siguientes.
+
+#### 2. De la exploración de las aguas subterráneas
+
+ARTICULO 58°- Cualquiera persona puede explorar con el objeto de alumbrar aguas subterráneas, sujetándose a las normas que establezca la Dirección General de Aguas.
+En suelo ajeno sólo se podrá explorar previo acuerdo con el dueño del predio, y en bienes nacionales con la autorización de la Dirección General de Aguas.
+
+#### 3. De la explotación de aguas subterráneas
+
+ARTICULO 59°- La explotación de aguas subterráneas deberá efectuarse en conformidad a normas generales, previamente establecidas por la Dirección General de Aguas.
+
+ARTICULO 60°- Comprobada la existencia de aguas subterráneas, el interesado podrá solicitar el otorgamiento del derecho de aprovechamiento respectivo, el que se constituirá de acuerdo al procedimiento establecido en el Título I del Libro II de este Código, sin que se apliquen en este caso las disposiciones sobre remate de derechos de aprovechamiento.
+
+ARTICULO 61°- La resolución que otorgue el derecho de aprovechamiento de aguas subterráneas establecerá el área de protección en la cual se prohibirá instalar obras similares.
+
+ARTICULO 62°- Si la explotación de aguas subterráneas por algunos usuarios ocasionare perjuicios a los otros titulares de derechos, la Dirección General de Aguas, a petición de uno o más afectados, podrá establecer la reducción temporal del ejercicio de los derechos de aprovechamiento, a prorrata de ellos.
+Esta medida quedará sin efecto cuando los solicitantes reconsideren su petición o cuando a juicio de dicha Dirección hubieren cesado las causas que la originaron.
+
+ARTICULO 63°- La Dirección General de Aguas podrá declarar zonas de prohibición para nuevas explotaciones, mediante resolución fundada en la protección del acuífero, la cual se publicará en el Diario Oficial.
+
+ARTICULO 64°- La autoridad deberá dictar una nueva resolución sobre la mantención o alzamiento de la prohibición de explotar, a petición justificada de parte, si así lo aconsejan los resultados de nuevas investigaciones respecto de las características del acuífero o la recarga artificial del mismo.
+
+ARTICULO 65°- Serán áreas de restricción aquellos sectores hidrogeológicos de aprovechamiento común en los que exista el riesgo de grave disminución de un determinado acuífero, con el consiguiente perjuicio de derechos de terceros ya establecidos en él.
+La declaración de área de restricción la efectuará la Dirección General de Aguas a petición de cualquier usuario del respectivo sector, sobre la base de los antecedentes históricos de explotación de sus obras de captación que demuestren la conveniencia de restringir el acceso al sector.
+Será aplicable al área de restricción lo dispuesto en el artículo precedente.
+La declaración de un área de restricción dará origen a una comunidad de aguas formada por todos los usuarios de aguas subterráneas comprendidas en ella.
+
+ARTICULO 66°- La Dirección General de Aguas podrá otorgar provisionalmente derechos de aprovechamiento en aquellas zonas que haya declarado de restricción. En dichas zonas, la citada Dirección limitará prudencialmente los nuevos derechos pudiendo incluso dejarlos sin efecto en caso de constatar perjuicios a los derechos ya constituidos.
+
+ARTICULO 67°- Los derechos de aprovechamiento otorgados de acuerdo al artículo anterior, se podrán transformar en definitivos una vez transcurridos cinco años de ejercicio efectivo en los términos concedidos, y siempre que los titulares de derechos ya constituidos no demuestren haber sufrido daños. Lo mismo ocurrirá cuando el dueño de los derechos provisionales ejecute obras de recarga artificial que incorporen un caudal equivalente o superior a la extracción que efectúe.
+La Dirección General de Aguas declarará la calidad de derechos definitivos a petición de los interesados y previa comprobación del cumplimiento de las condiciones establecidas en el inciso precedente.
+
+ARTICULO 68°- La Dirección General de Aguas podrá exigir la instalación de sistemas de medida en las obras y requerir la información que se obtenga.
+
+### Título VII
+DE LAS SERVIDUMBRES E HIPOTECAS
+
+#### 1.- De las servidumbres
+
+##### a) Disposiciones generales
+
+ARTICULO 69°- Son aplicables a las servidumbres relacionadas con las aguas de que se ocupa este Código, las disposiciones del Código Civil y leyes especiales, en cuanto no estén modificadas por la presente ley.
+
+ARTICULO 70°- Las servidumbres legales no podrán aprovecharse en fines distintos de aquellos para los cuales se han constituido, salvo acuerdo de los interesados.
+
+ARTICULO 71°- Si hubiere desacuerdo en cuanto al monto de la indemnización, resolverá el Juez, con informe de peritos, pudiendo autorizar la constitución sólo una vez pagada la suma que fije provisionalmente para responder de la indemnización que se determine en definitiva.
+
+ARTICULO 72°- Las servidumbres relativas a las aguas que establece el Código de Minería, se constituirán y ejercerán con arreglo a las disposiciones del presente Código.
+
+##### b) De la servidumbre natural de escurrimiento
+
+ARTICULO 73°- El predio inferior está sujeto a recibir las aguas que descienden del predio superior naturalmente, es decir, sin que la mano del hombre contribuya a ello.
+No se puede, por consiguiente, dirigir un albañal o acequia sobre un predio vecino, si no se ha constituido esta sevidumbre especial.
+
+ARTICULO 74°- En el predio sirviente no se puede hacer cosa alguna que estorbe la servidumbre natural, ni en el predio dominante que la agrave.
+Con todo, el dueño del predio inferior tiene derecho a hacer dentro de él, pretiles, malecones, paredes u otras obras que, sin impedir el normal descenso de las aguas, sirvan para regularizarlas o aprovecharlas, según el caso.
+
+ARTICULO 75°- El derecho que establece el inciso final del artículo anterior se concede también al dueño del predio superior dentro de éste, pero sin hacer más gravosa la servidumbre que deba soportar el predio inferior.
+
+##### c) De la servidumbre de acueducto
+
+ARTICULO 76°- La servidumbre de acueducto es aquella que autoriza a conducir aguas por un predio ajeno a expensas del interesado.
+La servidumbre comprende el derecho de construir obras de arte en el cauce y de desagües para que las aguas se descarguen en cauces naturales.
+
+ARTICULO 77°- Toda heredad está sujeta a la servidumbre de acueducto en favor de un pueblo, industria, mina u otra heredad que necesite conducir aguas para cualquier fin.
+
+ARTICULO 78°- La conducción de las aguas se hará por un acueducto que no permita filtraciones, derrames ni desbordes que perjudiquen a la heredad sirviente; que no deje estancar el agua ni acumular basuras y que tenga los puentes, canoas, sifones y demás obras necesarias para la cómoda y eficaz administración y explotación de las heredades sirvientes.
+La obligación de construir las obras se refiere a la época de la constitución de la servidumbre.
+
+ARTICULO 79°- La servidumbre comprende el derecho de llevar el acueducto por un rumbo que permita el libre descenso de las aguas y que, por la naturaleza del suelo, no haga excesivamente dispendiosa la obra.
+Verificadas estas condiciones, se llevará el cauce por el rumbo que menos perjuicio ocasione al predio o heredad sirviente.
+El rumbo más corto se mirará como el menos perjudicial a la heredad sirviente y el menos costoso al interesado, si no se probare lo contrario.
+El Juez conciliará, en lo posible, los intereses de las partes y en los puntos dudosos decidirá a favor de las heredades sirvientes.
+
+ARTICULO 80°- Los edificios, instalaciones industriales y agropecuarias, estadios, canchas de aterrizaje y las dependencias de cada uno de ellos, no están sujetos a la servidumbre de acueducto.
+
+ARTICULO 81°- El trazado y construcción del acueducto en los caminos públicos se sujetarán a la ley respectiva.
+
+ARTICULO 82°- El dueño del predio sirviente tendrá derecho a que se le pague, por concepto de indemnización, el precio de todo el terreno que fuere ocupado y las mejoras afectadas por la construcción del acueducto; el de un espacio a cada uno de los dos costados, que no será inferior al cincuenta por ciento del ancho del canal, con un mínimo de un metro de anchura en toda la extensión de su curso, y que podrá ser mayor por convenio de las partes o por disposición del Juez, cuando las circunstancias lo exigieren, para contener los escombros provenientes de la construcción del acueducto y de sus limpias posteriores y un diez por ciento adicional sobre la suma total. Dicho espacio, en caso de canales que se desarrollen por faldeos pronunciados, se extenderá en su ancho total por el lado del valle.
+Tendrá, además, derecho a que se le indemnice de todo perjuicio ocasionado por la construcción del acueducto y por sus filtraciones, derrames y desbordes que puedan imputarse a defectos de construcción o mal manejo del mismo.
+
+ARTICULO 83°- El dueño del acueducto podrá impedir toda plantación u obra nueva en el espacio lateral a que se refiere el artículo anterior. Podrá además, reforzar los bordes del canal sin perjudicar el predio sirviente.
+
+ARTICULO 84°- El que tiene a beneficio suyo un acueducto en su heredad, puede oponerse a que se construya otro en ella, ofreciendo paso por el suyo a las aguas que otra persona quiera conducir, con tal que de ello no se siga perjuicio notable al que quiera abrir el nuevo acueducto.
+En las mismas condiciones podrá oponerse a la constitución de una nueva servidumbre de acueducto cuando su predio esté gravado con otra que haga innecesaria la construcción de un nuevo acueducto.
+Con todo, si con motivo de la utilización de los canales existentes a que se alude en los incisos anteriores debieren efectuarse ensanches, ampliaciones o modificaciones en el cauce, se procederá en la forma señalada en el artículo siguiente.
+
+ARTICULO 85°- El que tuviere un derecho de aprovechamiento en un cauce natural de uso público podrá utilizar la bocatoma de un canal existente, que se derive del mismo cauce, para captar sus aguas.
+Podrá además, utilizar el canal en la extensión indispensable para conducir las aguas hasta el punto en que pueda derivarlas independientemente hacia el lugar de aprovechamiento.
+Si el canal y sus obras complementarias tuvieran capacidad suficiente para conducir las nuevas aguas, el interesado deberá pagar, en todo caso, al propietario del acueducto una indemnización equivalente al valor de los terrenos ocupados por él y de las obras existentes en la parte que efectivamente utilice a prorrata de su derecho.
+En caso que para el ejercicio de un derecho de aprovechamiento no consuntivo fuere innecesario introducir más aguas al canal, porque se usa parte o el total de las que por él escurren, la indemnización se determinará de común acuerdo entre las partes o a falta de éste, por el Juez.
+El interesado, en caso necesario, ensanchará el acueducto a su costa y pagará, a quien corresponda, el valor del nuevo terreno y el del espacio lateral ocupado por el ensanche.
+Si se tratare de una bocatoma, serán de su exclusivo cargo todas las obras de reforma o de cualquier otra naturaleza, necesarias para extraer el nuevo volumen de agua.
+Todo otro perjuicio será también de cargo del interesado, quien, además, deberá concurrir a los gastos de mantención y operación de las obras en la forma prevista en el artículo 91.
+
+ARTICULO 86°- El que tiene un acueducto en heredad ajena, podrá introducir mayor volumen de agua en él, siempre que no afecte la seguridad del cauce y deberá indemnizar todo perjuicio al propietario de la heredad sirviente. Si para ello fuere necesaria la construcción de nuevas obras o la modificación de las existentes, se observará respecto a ellas lo dispuesto en el artículo 82.
+
+ARTICULO 87°- La servidumbre de acueducto se ejercerá, por regla general, en cauce a tajo abierto.
+El acueducto será protegido, cubierto o abovedado cuando atraviese áreas pobladas y pudiere causar daños o cuando las aguas que conduzca produjeren emanaciones molestas o nocivas para sus habitantes.
+Asimismo, se deberán instalar las protecciones que el dueño del predio sirviente, con expresión de causa, requiera. La obligación de abovedar el cauce, instalar protecciones u obras destinadas a evitar daños o molestias, no será de cargo de su dueño, cuando esta necesidad se origine después de la construcción de aquél, sin perjuicio de que contribuya a los gastos de las obras, en la medida que éstas le reporten beneficios.
+Las dificultades que se produzcan con motivo de la aplicación de lo dispuesto en los incisos anteriores, serán resueltas por la Justicia Ordinaria.
+
+ARTICULO 88°- Cuando una heredad se divide por partición, venta, permuta o por cualquiera otra causa entre dos o más personas y se dividen también los derechos de aprovechamiento que la benefician, las hijuelas superiores quedarán gravadas con servidumbre de acueducto en beneficio de las inferiores, sin indemnización alguna, salvo estipulación en contrario y todo sin perjuicio de lo dispuesto en el artículo 881 del Código Civil.
+
+ARTICULO 89°- El que tiene constituida a su favor una servidumbre de acueducto, podrá hacer a su costa las variantes de trazado necesarias para un mejor y más económico aprovechamiento de las aguas, sin perjuicio de las indemnizaciones que correspondan.
+Igualmente, el dueño del predio sirviente podrá efectuar a su costa, dentro de su heredad, las variantes que hagan menos oneroso el ejercicio de la servidumbre, sin perjudicar el acueducto.
+El Juez conciliará en lo posible los intereses de las partes, y, en los puntos dudosos, decidirá a favor de las heredades sirvientes.
+
+ARTICULO 90°- El dueño del predio sirviente está obligado a permitir la entrada de trabajadores y el transporte de materiales para la limpia y reparación del acueducto, con tal que se dé aviso al encargado de dicho predio.
+Está obligado, asimismo, a permitir, con este aviso, la entrada de un inspector o cuidador del canal, quien podrá circular por las orillas del acueducto e ingresar por las puertas que instalará el dueño del canal para este efecto.
+El inspector o cuidador podrá solicitar directamente a la autoridad el auxilio de la fuerza pública para ejercitar este derecho, exhibiendo el título de su nombramiento.
+
+ARTICULO 91°- El o los dueños del acueducto deben mantenerlo en perfecto estado de funcionamiento, de manera de evitar daños o perjuicios a las personas o bienes de terceros. En consecuencia, deberán efectuar las limpias y reparaciones que corresponda.
+El incumplimiento de estas obligaciones hará responsables al o a los dueños del acueducto del pago de las indemnizaciones que procedan, sin perjuicio del pago de la multa que fije el tribunal competente.
+
+ARTICULO 92°- Prohíbese botar a los canales substancias, basuras, desperdicios y otros objetos similares, que alteren la calidad de las aguas.
+Será responsabilidad de las Municipalidades respectivas, establecer las sanciones a las infracciones de este artículo y obtener su aplicación.
+Además, dentro del territorio urbano de la comuna las Municipalidades deberán concurrir a la limpieza de los canales obstruidos por basuras, desperdicios u otros objetos botados en ellos.
+
+ARTICULO 93°- Abandonado un acueducto, vuelve el terreno al goce y uso exclusivo del dueño de la heredad sirviente, que no deberá restitución alguna. Se presumirá el abandono cuando no se usare o mantuviere por cinco años consecutivos, habiendo agua disponible para su conducción por el acueducto.
+
+##### d) De las servidumbres de derrames y de drenaje
+
+ARTICULO 94°- Las reglas establecidas en los artículos anteriores para la servidumbre de acueducto se extienden a los cauces que se construyan para dar salida o dirección a las aguas sobrantes y derrames de predios y minas, y para desecar pantanos, bajos, vegas y filtraciones naturales, por medio de zanjas o canales de desagüe.
+
+ARTICULO 95°- Las mismas reglas se aplicarán a las aguas provenientes de las lluvias o filtraciones que se recojan en los fosos de los caminos para darles salida a cauces vecinos. Para este fin, los predios intermedios quedan sujetos a servidumbre.
+
+##### e) De otras servidumbres necesarias para ejercer el derecho de aprovechamiento
+
+ARTICULO 96°- El dueño de los derechos de aprovechamiento que no lo sea de las riberas, terrenos o cauces en que deba usar, extraer, descargar o dividir las aguas, podrá construir en el predio sirviente las obras necesarias para el ejercicio de su derecho, tales como presas, bocatomas, descargas, estribos, centrales hidroeléctricas, casas de máquinas u otras, pagando al dueño del predio, embalse u otra obra, el valor del terreno que ocupare por las obras, más las indemnizaciones que procedan, en la forma establecida en los artículos 71 y 82.
+
+ARTICULO 97°- El ejercicio de las servidumbres que está facultado a imponer el dueño de un derecho de aprovechamiento no consuntivo, se sujetará, además de las que corresponda según la clase de servidumbre, a las reglas siguientes:
+1. Cuando su ejercicio pueda producir perturbaciones en el libre escurrimiento de las aguas, deberá mantenerse un cauce alternativo que lo asegure y colocarán y mantendrán corrientes para su adecuado manejo a las compuertas que requiera el desvío de las aguas, según fueren las necesidades del predio sirviente y el funcionamiento de las instalaciones para el uso no consuntivo;
+2. La construcción y conservación de puentes, canoas, sifones y demás obras y las limpias del acueducto, serán de cuenta del dueño del derecho de aprovechamiento no consuntivo, en la sección del cauce comprendida entre el punto en que el agua se toma y aquel en que se restituye, cuando sea necesario construir un cauce de desvío;
+3. Sin permiso de los titulares de derechos de aprovechamiento consuntivo no podrá detenerse el curso de las aguas;
+4. Deberá evitarse, en todo caso, los golpes y mermas de agua, y
+5. El dueño de los derechos no consuntivos, no podrá impedir que el titular del consuntivo varíe el rumbo de un acueducto o cierre la bocatoma en épocas de limpia y cuando los trabajos en el canal lo hagan necesario.
+
+ARTICULO 98°- Se aplicarán a estas servidumbres las disposiciones referentes a las servidumbres de acueducto, en lo que fueren pertinentes.
+Los cauces de descarga o aliviaderos seguirán la suerte del cauce principal.
+
+##### f) De la servidumbre de abrevadero
+
+ARTICULO 99°- Todo pueblo, caserío o predio que carezca del agua necesaria para la bebida de sus animales, tendrá derecho a imponer servidumbre de abrevadero.
+Esta servidumbre consiste en el derecho de conducir el ganado a beber dentro del predio sirviente en días, horas y puntos determinados, por los caminos y sendas usuales.
+Con todo, el dueño del predio sirviente podrá enajenar los derechos de aprovechamiento o variar el rumbo del acueducto.
+
+ARTICULO 100°- No podrá imponerse esta servidumbre sobre pozos ordinarios o artesianos, ni en aljibes que se encuentren en terrenos cercados.
+
+ARTICULO 101°- La servidumbre de abrevadero grava también el predio superficial y los inmediatos a una mina, en beneficio de las personas y de los animales empleados en el laboreo de ésta.
+
+ARTICULO 102°- El dueño del predio sirviente podrá variar la dirección del camino o senda destinada al uso de esta servidumbre, si con ello no impidiere su ejercicio.
+
+##### g) De la servidumbre de camino de sirga
+
+ARTICULO 103°- Los dueños de las riberas serán obligados a dejar el espacio necesario para la navegación o flote a la sirga.
+
+ARTICULO 104°- El Director General de Aguas clasificará los ríos navegables y flotables, y determinará al mismo tiempo la margen y el ancho de ellos por donde haya de llevarse el camino de sirga.
+Sólo en estos ríos podrá imponerse la servidumbre de que trata este párrafo.
+Si el camino abarcare más de la zona señalada, se abonará a los dueños de los predios sirvientes el valor del terreno que se ocupe.
+
+ARTICULO 105°- Cuando un río navegable o flotable deje de serlo permanentemente, cesará también la servidumbre del camino de sirga, sin que los dueños de los predios tengan que devolver las indemnizaciones recibidas.
+
+ARTICULO 106°- La servidumbre de camino de sirga es exclusiva para las necesidades de la navegación o flotación. No podrá emplearse en otros usos.
+
+##### h) De la servidumbre para investigar
+
+ARTICULO 107°- Los interesados en desarrollar las mediciones e investigaciones de los recursos hidráulicos, y los que deseen efectuar los estudios de terreno a que se refiere el artículo 151 podrán ingresar a terrenos de propiedad particular, previa constitución de las servidumbres correspondientes.
+
+##### i) De las servidumbres voluntarias
+
+ARTICULO 108°- Las servidumbres voluntarias sobre aguas se regirán por las disposiciones del párrafo 3° del Título XI del Libro II del Código Civil.
+
+##### j) De la extinción de las servidumbres
+
+ARTICULO 109°- Las servidumbres a que se refiere este código se extinguen:
+1. Por la nulidad o resolución del derecho del que las ha constituido;
+2. Por la llegada del día o de la condición, si se ha establecido de uno de estos modos;
+3. Por la confusión, en los términos del número 3° del inciso primero del artículo 885 del Código Civil;
+4. Por la renuncia del dueño del predio dominante;
+5. Por haberse dejado de gozar durante 5 años. En las servidumbres discontinuas corre el tiempo desde que han dejado de gozarse; en las continuas, desde que se haya ejecutado un acto contrario a la servidumbre y siempre que éste impida absolutamente el uso, y
+6. Por el cambio del destino de las aguas o del rumbo del acueducto tratándose de la servidumbre del abrevadero.
+
+#### 2. De la hipoteca del derecho de aprovechamiento
+
+ARTICULO 110°- Los derechos de aprovechamiento inscritos pueden ser hipotecados independientemente del inmueble al cual su propietario los tuviere destinados. Los no inscritos sólo podrán hipotecarse conjuntamente con dicho inmueble.
+
+ARTICULO 111°- La hipoteca de los derechos de aprovechamiento inscritos deberá otorgarse por escritura pública e inscribirse en el Registro de Hipotecas y Gravámenes de Aguas del Conservador de Bienes Raíces respectivo.
+
+### Título VIII
+DEL REGISTRO DE AGUAS, DE LA INSCRIPCIÓN DE LOS DERECHOS DE APROVECHAMIENTO Y DEL INVENTARIO DEL RECURSO
+
+ARTICULO 112°- Los Conservadores de Bienes Raíces llevarán un Registro de Aguas, en el cual deberán inscribir los títulos a que se refieren los artículos siguientes.
+Los deberes y funciones del Conservador, en lo que se refiere al mencionado Registro, los libros que éste deberá llevar y la forma y solemnidad de las inscripciones, se regularán por las disposiciones de este Título, del párrafo 2° del Título precedente y, en lo no previsto, por las normas contenidas en el Código Orgánico de Tribunales y en el Reglamento del Registro Conservatorio de Bienes Raíces.
+
+ARTICULO 113°- Se perfeccionarán por escritura pública los actos y contratos traslaticios de dominio de derechos de aprovechamiento, como también la constitución de derechos reales sobre ellos y los actos y contratos traslaticios de los mismos.
+
+ARTICULO 114°- Deberán inscribirse en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces:
+1. Los títulos constitutivos de una organización de usuarios;
+2. Los acuerdos y resoluciones que caucen ejecutoria y que determinen los derechos de cada comunero en las gestiones realizadas ante la Justicia Ordinaria para el reconocimiento de las comunidades, en conformidad al Título III, párrafo 1°, del Libro II;
+3. Los documentos que acrediten la alteración de la distribución de los derechos de aprovechamiento sometidos al régimen de organización de usuarios;
+4. Las escrituras públicas que contengan el acto formal del otorgamiento definitivo de un derecho de aprovechamiento;
+5. Los actos y contratos que constituyan títulos traslaticios de dominio de los derechos de aprovechamiento a que se refieren los números anteriores;
+6. Los actos, resoluciones e instrumentos señalados en el artículo 688 del Código Civil en el caso de transmisión por causa de muerte de los derechos de aprovechamiento, y
+7. Las resoluciones judiciales ejecutoriadas que reconozcan la existencia de un derecho de aprovechamiento.
+
+ARTICULO 115°- El dueño de un derecho de aprovechamiento que extraiga sus aguas de la corriente natural, independientemente de otro derecho y que haya sido incluido en la constitución de la respectiva junta de vigilancia, podrá inscribir ese derecho en el Registro de Aguas del Conservador de Bienes Raíces, mediante el correspondiente certificado de la Dirección General de Aguas. Efectuada dicha inscripción, los actos y contratos traslaticios de dominio de esos derechos, su transmisión, como también la constitución y tradición de derechos reales sobre ellos, quedarán sometidos a las disposiciones de los dos artículos siguientes.
+
+ARTICULO 116°- Podrán inscribirse en los Registros de Hipotecas y Gravámenes y de Interdicciones y Prohibiciones de Enajenar, relativos a las aguas, según el caso:
+1. La constitución y tradición de los derechos reales sobre derechos de aprovechamiento;
+2. Toda condición suspensiva o resolutoria del dominio de los derechos de aprovechamiento o de otros derechos reales constituidos sobre ellos;
+3. El arrendamiento en el caso del artículo 1962 del Código Civil y cualquier otro acto o contrato cuya inscripción sea permitida por la ley, y
+4. Todo impedimento o prohibición referente a derechos de aprovechamiento, sea convencional, legal o judicial, que embarace o limite, de cualquier modo, el libre ejercicio de la facultad de enajenarlos.
+
+ARTICULO 117°- La tradición de los derechos de aprovechamiento inscritos se efectuará por la inscripción del título en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces.
+La constitución y la tradición de los derechos reales constituidos sobre ellos, se efectuará por la inscripción de su título en el Registro de Hipotecas y Gravámenes de Aguas del Conservador de Bienes Raíces respectivo.
+
+ARTICULO 118°- Las inscripciones se practicarán en el Conservador de Bienes Raíces que tenga competencia en la comuna en que se encuentre ubicada la bocatoma del canal matriz en el cauce natural.
+Tratándose de derechos de aprovechamiento que recaigan sobre aguas embalsadas o aguas subterráneas, las inscripciones deberán hacerse en el Conservador de Bienes Raíces que tenga competencia en la comuna donde se encuentre ubicado el embalse o el pozo respectivo, pero si el embalse cubriere territorios de dos o más comunas, se inscribirán en aquélla donde se encuentre ubicada la obra de entrega.
+Sin perjuicio de las inscripciones que procedan, los Conservadores deberán anotar, al margen de las inscripciones relativas a las organizaciones de usuarios o de las comunidades de aguas, las mutaciones de dominio que se efectúen y que se refieran a ellas.
+
+ARTICULO 119°- Las inscripciones originarias contendrán los siguientes datos:
+1. El nombre del dueño del derecho de aprovechamiento;
+2. La individualización del canal por donde se extraen las aguas de la corriente natural y la ubicación de su bocatoma o la individualización de la captación de aguas subterráneas y la ubicación de su dispositivo;
+3. La individualización de la fuente de la que proceden las aguas;
+4. Las indicaciones referentes a los títulos de la comunidad u organización de usuarios a que estén sometidos los derechos de agua, y
+5. La forma en que estos derechos se dividen entre los usuarios de la obra, si fueren varios. Si el titular de la inscripción fuere uno, deberá indicarse la cuota que le corresponde en la fuente.
+
+ARTICULO 120°- La Dirección General de Aguas, sin perjuicio de la facultad de los interesados para ello, podrá requerir de los Conservadores de Bienes Raíces la anotación de los derechos que correspondan a los respectivos canales, de conformidad a lo dispuesto en el artículo 114 y de las sentencias ejecutoriadas que alteren la distribución de las aguas en los cauces naturales, al margen de las respectivas inscripciones originarias de las organizaciones de usuarios y de las comunidades de aguas organizadas ante la Justicia Ordinaria.
+
+ARTICULO 121°- A los derechos de aprovechamiento inscritos en los Registros de Aguas de los Conservadores de Bienes Raíces, se les aplicarán todas las disposiciones que rijan la propiedad raíz inscrita, en cuanto no hayan sido modificadas por el presente Código.
+
+ARTICULO 122°- La Dirección General de Aguas deberá llevar un Catastro Público de Aguas, en el que constará toda la información que tenga relación con ellos.
+En dicho catastro, que estará constituido por los archivos, registros e inventarios que el reglamento establezca, se consignarán todos los datos, actos y antecedentes que digan relación con el recurso, con las obras de desarrollo del mismo, con los derechos de aprovechamiento, con los derechos reales constituidos sobre éstos y con las obras construidas o que se construyan para ejercerlos.
+
+### Título IX
+DE LAS ACCIONES POSESORIAS SOBRE AGUAS Y DE LA EXTINCIÓN DEL DERECHO DE APROVECHAMIENTO
+
+ARTICULO 123°- Si se hicieren estacadas, paredes u otras labores que tuerzan la dirección de las aguas corrientes, de manera que se derramen sobre el suelo ajeno, o estancándose lo humedezcan o priven de su beneficio a los predios que tienen derecho a aprovecharse de ellas, mandará el Juez, a petición de los interesados, que tales obras se deshagan o modifiquen y se resarzan los perjuicios.
+
+ARTICULO 124°- Lo dispuesto en el artículo precedente se aplica no sólo a las obras nuevas, sino a las ya hechas, mientras no haya transcurrido tiempo bastante para constituir un derecho de servidumbre.
+Sin embargo, ninguna prescripción se admitirá a favor de las obras que corrompan el aire y lo hagan conocidamente dañoso.
+
+ARTICULO 125°- El que hace obras para impedir la entrada de aguas que no está obligado a recibir, no es responsable de los daños que, atajadas de esa manera y sin intención de ocasionarlos, puedan causar en las tierras o edificios ajenos.
+
+ARTICULO 126°- Si corriendo el agua por una heredad se estancare o torciere su curso, embarazada por el cieno, piedras, palos u otras materias que acarrea y deposita, los dueños de las heredades en que esta alteración del curso del agua cause perjuicio, tendrán derecho para obligar al dueño de la heredad en que ha sobrevenido el embarazo, a removerlo o les permita a ellos hacerlo, de manera que se restituyan las cosas al estado anterior.
+El costo de la limpia o desembarazo se repartirá entre los dueños de todos los predios a prorrata del beneficio que reporten del agua.
+
+ARTICULO 127°- Siempre que las aguas de que se sirve un predio, por negligencia del dueño en darles salida sin daño de sus vecinos, se derramen sobre otro predio, el dueño de éste tendrá derecho para que se le resarza el perjuicio sufrido y para que en el caso de reincidencia se le pague el doble de lo que el perjuicio importare.
+
+ARTICULO 128°- En lo demás regirán para las acciones posesorias sobre aguas las disposiciones contenidas en los Títulos XIII y XIV del Libro II del Código Civil.
+
+ARTICULO 129°- El dominio sobre los derechos de aprovechamiento se extingue por las causas y en la forma establecidas en el derecho común.
+
+## LIBRO SEGUNDO
+DE LOS PROCEDIMIENTOS
+
+### Título I
+DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
+
+#### 1.- Normas comunes
+
+ARTICULO 130°- Toda cuestión o controversia relacionada con la adquisición o ejercicio de los derechos de aprovechamiento y que de acuerdo con este código sea de competencia de la Dirección General de Aguas, deberá presentarse ante la oficina de este servicio del lugar, o ante el Gobernador respectivo.
+La presentación y su tramitación se efectuará de acuerdo a las disposiciones de este párrafo, sin perjuicio de las normas particulares contenidas en los párrafos siguientes.
+
+ARTICULO 131°- Toda presentación que afecte o pueda afectar a terceros deberá publicarse, a costa del interesado, por una sola vez en el Diario Oficial los días primero o quince de cada mes o el primer día hábil inmediato si aquéllos fueren feriados, y en forma destacada en un diario matutino de Santiago.
+Las presentaciones que no correspondan a la Región Metropolitana se publicarán, además, en un diario o periódico de la provincia respectiva y si no lo hubiere, en uno de la capital de la Región correspondiente.
+La presentación se publicará íntegramente o en un extracto que contendrá, a lo menos, los datos necesarios para su acertada inteligencia.
+Excepcionalmente, el jefe de la oficina del lugar o el Gobernador, según el caso, dispondrá la notificación personal cuando aparezca de manifiesto la individualidad de la o las personas afectadas con la presentación y siempre que el número de éstas no haga dificultosa la medida.
+
+ARTICULO 132°- Los terceros
+NOTA
+que se sientan afectados en sus derechos, podrán oponerse a la presentación dentro del plazo de treinta días contados desde la fecha de la última publicación o de la notificación, en su caso.
+Dentro del quinto día de recibida la oposición, la autoridad dará traslado de ella al solicitante, para que éste responda dentro del plazo de quince días.
+NOTA
+El numeral 63 del artículo 1 de la ley 21435, publicada el 06.04.2022, dispone modificar el inciso primero del presente artículo, en el sentido de intercalar entre las expresiones "Los terceros" y "que se sientan", la siguiente frase: "titulares de derechos de aprovechamiento constituidos e inscritos en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces respectivo". La referida modificación, conforme lo establece su artículo décimo transitorio, comenzará a regir a los dos años de la publicación de la citada ley. Sin embargo, a través del numeral 2 del artículo 1 de la ley 21586, publicada el 13.07.2023, se modifica el citado artículo décimo transitorio, sustituyendo la expresión "a los dos años de la publicación de esta ley" por "desde el 6 de abril de 2025", razón por la cual la referida modificación se encuentra disponible en la versión diferida correspondiente al 6 de abril de 2025.
+
+ARTICULO 133°- Cumplidos estos trámites, la presentación y demás antecedentes serán remitidos a la Dirección General de Aguas, si hubieren sido presentados a la Gobernación, dentro del plazo de tres días hábiles contados desde la recepción de la contestación a la oposición.
+Si dentro de los plazos previstos en el artículo anterior, no se hubiere deducido oposición o habiendo oposición, ésta no fuere contestada, el plazo de tres días se contará, respectivamente, desde el vencimiento de los plazos de treinta y quince días a que se refiere el mencionado artículo.
+
+ARTICULO 134°- La Dirección General de Aguas, de oficio o a petición de parte y dentro del plazo de treinta días contados desde la recepción de los antecedentes que le enviaren los Gobernadores o desde la contestación de la oposición o desde el vencimiento del plazo para oponerse o para contestar la oposición, según sea el caso, podrá, mediante resolución fundada, solicitar las aclaraciones, decretar las inspecciones oculares y pedir los informes correspondientes para mejor resolver.
+Reunidos los antecedentes solicitados, la Dirección General de Aguas deberá emitir un informe técnico y dictar resolución fundada que dirima la cuestión sometida a su consideración, en un plazo máximo de cuatro meses, a partir del vencimiento del plazo de 30 días a que se refiere el inciso anterior.
+
+ARTICULO 135°- Los gastos que irroguen las presentaciones ante la Dirección General de Aguas serán de cargo del interesado y los que originen las medidas que dicha Dirección adopte de oficio, serán de cargo de ella.
+
+ARTICULO 136°- Las resoluciones que se dicten por el Director General de Aguas, por funcionarios de su dependencia o por quienes obren en virtud de una delegación que el primero les haga en uso de las atribuciones conferidas por la ley, podrán ser objeto de un recurso de reconsideración que deberá ser deducido por los interesados, ante el Director General de Aguas, dentro del plazo de 30 días contados desde la notificación de la resolución respectiva.
+El Director deberá dictar resolución dentro del mismo plazo, contado desde la fecha de la recepción del recurso.
+
+ARTICULO 137°- Las resoluciones de la Dirección General de Aguas podrán reclamarse ante la Corte de Apelaciones respectiva, dentro del plazo de treinta días contados desde su notificación o desde la notificación de la resolución que recaiga en el recurso de reconsideración, según corresponda.
+Los recursos de reconsideración y reclamación no suspenderán el cumplimiento de la resolución, salvo orden expresa que disponga la suspensión.
+
+ARTICULO 138°- El Director General de Aguas, por sí o por delegado, podrá requerir del Intendente o Gobernador respectivo el auxilio de la fuerza pública, con facultades de allanamiento y descerrajamiento para el cumplimiento de las resoluciones que dicte en el ejercicio de las atribuciones que le confiere el presente título.
+
+ARTICULO 139°- Las resoluciones de la Dirección General de Aguas se notificarán en el domicilio del afectado en la forma dispuesta en los artículos 44, inciso 2° y 48, del Código de Procedimiento Civil. Estas notificaciones las efectuará el funcionario que se designe en la respectiva resolución, quien tendrá el carácter de Ministro de Fe para esa actuación y todos sus efectos.
+En la primera presentación del interesado deberá designar un domicilio dentro de los límites urbanos del lugar, en que funcione la oficina donde se haya efectuado la presentación, designación que se considerará subsistente mientra no haga otra, aun cuando de hecho lo haya cambiado.
+Si no se hace esta designación la resolución se entenderá notificada desde la fecha de su dictación.
+
+#### 2.- Normas Especiales
+
+##### a.- De la constitución del derecho de aprovechamiento
+
+ARTICULO 140°- La solicitud para adquirir el derecho de aprovechamiento deberá contener:
+1.- El nombre del álveo de las aguas que se desean aprovechar, su naturaleza, esto es, si son superficiales o subterráneas, corrientes o detenidas y la provincia en que están ubicadas o que recorren.
+En caso de aguas subterráneas, se individualizará la comuna en que se ubicará la captación y el área de protección que se solicita;
+2.- La cantidad de agua que se desea extraer, expresada en medidas métricas y de tiempo;
+3.- El o los puntos donde se desea captar el agua y el modo de extraerla;
+4.- Si el derecho es consuntivo o no consuntivo, de ejercicio permanente o eventual, continuo o discontinuo o alternado con otras personas, y
+5.- Los demás antecedentes que exija la naturaleza del derecho que se solicita, siempre que ellos estén relacionados con los requisitos anteriores.
+Si la solicitud recae en un derecho para usos no consuntivos, se indicará además, el punto de restitución de las aguas y la distancia y desnivel entre la captación y la restitución.
+
+ARTICULO 141°- Las solicitudes se publicarán en la forma establecida en el artículo 131°, dentro de quince días contados desde la fecha de su presentación.
+Los que se crean perjudicados por la solicitud y la junta de vigilancia, podrán oponerse dentro del plazo establecido en el artículo 132°.
+Se entenderá, además, que hay oposición cuando en el mismo plazo, se hubieren presentado dos o más solicitudes sobre las mismas aguas, o cuando en una solicitud un tercero pida para sí parte o el total de ellas, y no hubiere recursos suficientes para satisfacer todos los requerimientos.
+Si no se presentaren oposiciones dentro del plazo se constituirá el derecho mediante resolución de la Dirección General de Aguas, siempre que exista disponibilidad del recurso y fuere legalmente procedente. En caso contrario denegará la solicitud.
+
+ARTICULO 142°- En el caso del inciso 3° del artículo anterior, la Dirección General de Aguas, una vez reunidos los antecedentes que acrediten la existencia de aguas disponibles para la constitución de nuevos derechos sobre ellas, citará a un remate de estos derechos entre los solicitantes. Las bases de remate determinarán la forma en que se llevará a cabo dicho acto.
+La citación se hará mediante un aviso, publicado en extracto en un matutino de Santiago y en un diario o periódico de la comuna, provincia o capital de la región en que se encuentra ubicada la sección de la corriente o la fuente natural en que se solicitó la concesión de derechos.
+En dicho aviso se indicarán la fecha, hora y lugar de la celebración de la subasta, debiendo mediar, a lo menos, diez días entre la última publicación y el remate.
+El remate deberá llevarse a cabo cuando estén resueltas todas las oposiciones a que se refiere el inciso 2° del artículo anterior. El Director General de Aguas podrá ordenar la acumulación de los procesos.
+
+ARTICULO 143°- Las ofertas se efectuarán sobre la base de un precio al contado; sin embargo, el o los adjudicatarios podrán pagar el valor de la adjudicación en anualidades iguales y en un plazo que no exceda de diez años.
+Las bases de licitación establecerán los antecedentes y condiciones que el Director General de Aguas estime conveniente, los reajustes e intereses que se aplicarán al saldo del precio y las cauciones y garantías que se estimen pertinentes. Estas condiciones se incluirán, en todo caso, en el extracto a que se refiere el artículo anterior.
+Las bases establecerán también, las sanciones por incumplimiento de las condiciones específicas que se exijan a los adjudicatarios.
+
+ARTICULO 144°- La subasta de los derechos de aprovechamiento solicitados, la efectuará el funcionario que designe el Director General de Aguas y a ella podrán concurrir el Fisco y cualquiera de las instituciones del sector público en igualdad de condiciones que los particulares.
+
+ARTICULO 145°- El caudal disponible deberá dividirse, para los efectos del remate, en unidades no superiores a lo pedido en la solicitud que menos cantidad requiera.
+El derecho de aprovechamiento por cada unidad se adjudicará al mejor postor y así sucesivamente hasta que se termine el total del caudal ofrecido.
+Sin perjuicio de lo dispuesto en el inciso anterior, quien obtenga en el remate una cuota tendrá derecho a que se le adjudique, por el mismo precio, el número de unidades que desee hasta completar la cantidad que haya solicitado.
+
+ARTICULO 146°- La Dirección General de Aguas podrá de oficio ofrecer en remate público el otorgamiento de derechos de aprovechamiento que estén disponibles y que no hayan sido solicitados.
+Para estos efectos, deberá publicar avisos en la forma dispuesta en el artículo 142° y en el mismo plazo establecido en el artículo 132° podrán presentarse oposiciones.
+Si vencido el plazo no se presentaren oposiciones o bien si éstas fueren denegadas, la Dirección llevará a efecto el remate, de acuerdo a las normas establecidas en este Título.
+
+ARTICULO 147°- Terminada la subasta, el funcionario encargado de ella levantará un acta que se incorporará a la resolución que constituya el derecho a que se refiere el artículo 149°.
+En dicha acta se dejará constancia expresa del acuerdo entre el adjudicatario y la Dirección General de Aguas.
+
+ARTICULO 148°- El Presidente de la República podrá, en el caso del inciso tercero del artículo 141°, con informe de la Dirección General de Aguas y por circunstancias excepcionales y de interés general, constituir directamente el derecho de aprovechamiento.
+
+ARTICULO 149°- La resolución en cuya virtud se constituya el derecho contendrá:
+1. El nombre del adquirente;
+2. El nombre del álveo o individualización de la comuna en que se encuentre la captación de las aguas subterráneas que se desea aprovechar y el área de protección.
+3. La cantidad de agua que se autoriza extraer, expresada en la forma prevista en el artículo 7° de este Código;
+4. El o los puntos precisos donde se captará el agua y el modo de extraerla;
+5. El desnivel y puntos de restitución de las aguas si se trata de usos no consuntivos;
+6. Si el derecho es consuntivo o no consuntivo; de ejercicio permanente o eventual, continuo o discontinuo o alternado con otras personas, y
+7. Otras especificaciones técnicas relacionadas con la naturaleza especial del respectivo derecho, y las modalidades que lo afecten.
+
+ARTICULO 150°- La resolución que otorgue el derecho se reducirá a escritura pública que suscribirán el interesado y el funcionario que se designe al efecto y una copia de ella deberá inscribirse en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces competente.
+La Dirección General de Aguas deberá registrar toda resolución por la cual se constituya un derecho, en conformidad a lo dispuesto en el artículo 122°.
+
+##### b. De la construcción, modificación, cambio y unificación de bocatomas
+
+ARTICULO 151°- Toda solicitud de construcción, modificación, cambio y unificación de bocatomas, deberá expresar, además de la individualización del peticionario, la ubicación precisa de las obras de captación en relación a puntos de referencia conocidos, la manera de extraer el agua y los títulos que justifiquen el dominio de los derechos de aprovechamiento que se captarán con las obras que se pretende ejecutar.
+El interesado podrá ingresar a un predio ajeno en la forma prevista en el artículo 107°, para efectuar los estudios de terreno necesarios para la elaboración del proyecto de obras.
+
+ARTICULO 152°- La Dirección General de Aguas ordenará las publicaciones previstas en el artículo 131°.
+Si no se presentaren oposiciones o si éstas fueren desechadas, el solicitante presentará a la Dirección General de Aguas el proyecto que comprenderá planos, memorias y otros antecedentes justificativos. Este servicio aprobará, si procede, el proyecto presentado y fijará los plazos en que las obras deberán iniciarse y terminarse.
+
+ARTICULO 153°- La aprobación de los proyectos por la Dirección General de Aguas confiere al solicitante los siguientes derechos:
+1. De usar provisionalmente los terrenos necesarios para la constitución de las servidumbres de bocatomas;
+2. De proveerse en el punto en que está ubicada la bocatoma, de la piedra y arena necesarias para las obras destinadas a la captación de las aguas;
+3. De apoyar en las riberas del álveo o cauces las obras de captación o de bocatomas de las aguas, y
+4. De usar, si fuere el caso, el terreno necesario para el transporte de la energía eléctrica desde la estación generadora hasta los lugares de consumo, con arreglo a las leyes respectivas.
+Para ejercitar cualquiera de los derechos a que se refiere este artículo, el interesado deberá indemnizar previamente al perjudicado.
+Si hubiere desacuerdo entre el dueño del terreno y el peticionario, resolverá el Juez, pudiendo éste autorizar el ejercicio de cualesquiera de los derechos que señala este artículo, previa consignación de la suma que fije provisionalmente para responder del pago de la indemnización que fuere procedente.
+
+ARTICULO 154°- El titular del derecho de aprovechamiento podrá solicitar modificaciones durante la ejecución de las obras o antes de iniciarlas, acompañando los antecedentes del caso, en la forma señalada en el artículo 152°.
+
+ARTICULO 155°- Durante el período de ejecución de las obras, la Dirección General de Aguas podrá inspeccionarlas en cualquier momento.
+
+ARTICULO 156°- Terminadas las obras, el interesado comunicará este hecho a la Dirección.
+Si las obras merecieran reparos, la Dirección General de Aguas ordenará que el interesado haga las modificaciones o las obras complementarias que determine dentro del plazo que fijará al efecto.
+
+ARTICULO 157°- Cumplidos todos los trámites y requisitos indicados en los artículos anteriores, la Dirección General de Aguas procederá a dictar la resolución de aprobación de las obras.
+
+##### c. Del cambio de fuente de abastecimiento
+
+ARTICULO 158°- La Dirección General de Aguas estará facultada para cambiar la fuente de abastecimiento, el cauce y el lugar de entrega de las aguas de cualquier usuario, a petición de éste o de terceros interesados, cuando así lo aconseje el más adecuado empleo de ellas.
+
+ARTICULO 159°- El cambio de fuente de abastecimiento sólo podrá efectuarse si las aguas de reemplazo son de igual cantidad, de variación semejante de caudal estacional, de calidad similar y siempre que la sustitución no cause perjuicio a los usuarios.
+
+ARTICULO 160°- Si la Dirección General de Aguas determinare que la solicitud es procedente, ordenará las publicaciones previstas en el artículo 131°.
+Será aplicable, en lo demás, lo dispuesto en los artículos 151 al 157, ambos inclusive.
+
+ARTICULO 161°- Los afectados podrán efectuar las observaciones que estimen procedentes, directamente o por intermedio de las organizaciones de usuarios a que pertenezcan, dentro del plazo de treinta días, contados desde la última publicación.
+
+ARTICULO 162°- Con todos los antecedentes reunidos, la Dirección General de Aguas acogerá o rechazará la solicitud de cambio de fuente de abastecimiento.
+La resolución que acepte una solicitud se reducirá a escritura pública, la que será suscrita por el funcionario que se designe en ella y por los interesados, debiendo practicarse las inscripciones, anotaciones y cancelaciones que procedan, en el Registro de Aguas del Conservador de Bienes Raíces. Se agregará a estas inscripciones el tiempo de las reemplazadas.
+
+##### d. Del traslado del ejercicio de los derechos de aprovechamiento
+
+ARTICULO 163°- Todo traslado del ejercicio de los derechos de aprovechamiento en cauces naturales deberá efectuarse mediante una autorización del Director General de Aguas, la que se tramitará en conformidad al párrafo 1° de este Título.
+
+##### e. De la formación de roles provisionales de usuarios por la Dirección General de Aguas
+
+ARTICULO 164°- La Dirección General de Aguas deberá formar el rol provisional de usuarios y de derechos en el caso del artículo 197, de este Código.
+
+ARTICULO 165°- Para constituir el rol provisional de usuarios, la Dirección General de Aguas deberá formar un listado de ellos y de los correspondientes derechos de aprovechamiento constituidos.
+A falta de derechos constituidos, la mencionada Dirección deberá formar un listado de usuarios y de derechos, con indicación de la superficie regada, la cantidad de agua aprovechada de acuerdo con la superficie normalmente regada de los suelos efectivamente explotados o el establecimiento en que se utiliza el agua y el gasto normalmente utilizado por éste, según sea el caso.
+
+ARTICULO 166°- Una vez elaborado dicho listado, se citará a una reunión a todos los interesados, mediante un aviso publicado en un diario o periódico de la provincia en que estuviere ubicada la bocatoma respectiva y, además, si el número lo permite, mediante una notificación que se entregará en los respectivos domicilios con indicación de la fecha, hora y lugar de su celebración.
+
+ARTICULO 167°- En la reunión a que se refiere el artículo precedente, se dará a conocer el listado de usuarios y se le harán las correcciones que se acuerden por unanimidad.
+
+ARTICULO 168°- El listado resultante de la reunión se publicará, mediante un aviso en un diario o periódico de la capital de la provincia o región y en un matutino de Santiago, para que los interesados puedan formular sus observaciones en el plazo máximo de 15 días.
+
+ARTICULO 169°- Conocidas las observaciones al listado, ellas serán resueltas por la Dirección General de Aguas, la que dictará la resolución que fije el rol provisional de usuarios.
+
+ARTICULO 170°- Los gastos que irrogue a la Dirección General de Aguas la formación de un rol provisional de usuarios, serán determinados por dicha Dirección y cobrados a los integrantes del rol, a prorrata de sus derechos.
+
+##### f. De las modificaciones en cauces naturales o artificiales
+
+ARTICULO 171°- Las personas naturales o jurídicas que desearen efectuar las modificaciones a que se refiere el artículo 41° de este Código, presentarán los proyectos correspondientes a la Dirección General de Aguas, para su aprobación previa, aplicándose a la presentación del procedimiento previsto en el párrafo 1° de este Título.
+
+ARTICULO 172°- Si se realizare obras con infracción a lo dispuesto en el artículo anterior, la Dirección General de Aguas podrá apercibir al infractor, fijándole plazo perentorio para que modifique o destruya las obras que entorpezcan el libre escurrimiento de las aguas o signifiquen peligro para la vida o salud de los habitantes.
+Si el infractor no diere cumplimiento a lo ordenado, la Dirección podrá encomendar a terceros la ejecución de las obras necesarias por cuenta de los causantes del entorpecimiento o peligro. Tendrá mérito ejecutivo para su cobro la copia autorizada de la resolución del Director General de Aguas que fije el valor de las obras ejecutadas.
+
+#### 3. De las Multas
+
+ARTICULO 173°- Toda contravención a este código que no esté especialmente sancionada, será penada con multa que no podrá exceder de veinte unidades tributarias mensuales, sin perjuicio de las otras responsabilidades civiles y penales que procedan.
+
+ARTICULO 174°- Las multas que establece este código, y cuya aplicación corresponde a las organizaciones de usuarios se harán efectivas previa audiencia del interesado. Con lo que éste exponga dentro del plazo que se le fije, que no podrá ser inferior a diez días, o en su rebeldía, se resolverá sin más trámite.
+Regirá en lo pertinente lo dispuesto en el artículo 247°.
+La multa deberá pagarse dentro del plazo de cinco días, contados desde la fecha de la resolución que la aplique y, para hacer uso del derecho que confiere el inciso anterior, deberá depositarse previamente el veinte por ciento de su valor en la respectiva organización de usuarios o en la cuenta corriente bancaria que éstas tengan.
+
+ARTICULO 175°- Si la ley no indicare la autoridad encargada de imponer la multa, ésta será aplicada por el Juez Letrado del lugar en que se hubiere cometido la infracción.
+
+ARTICULO 176°- Las multas que no tuvieren un beneficiario determinado, se aplicarán a beneficio fiscal.
+
+### Título II
+DE LOS PROCEDIMIENTOS JUDICIALES EN LOS JUICIOS SOBRE AGUAS EN GENERAL
+
+#### 1. Normas Generales
+
+ARTICULO 177°- Los juicios sobre constitución, ejercicio y pérdida de los derechos de aprovechamiento de aguas y todas las demás cuestiones relacionadas con ellos, que no tengan procedimiento especial, se tramitarán conforme al procedimiento sumario establecido en el Título XI, del Libro III, del Código de Procedimiento Civil.
+
+ARTICULO 178°- Será competente para conocer de estos juicios, el Juez de Letras que corresponda, de acuerdo con las normas sobre competencia establecidas en el Código Orgánico de Tribunales.
+
+ARTICULO 179°- En estos juicios se podrá decretar de oficio la inspección personal del Tribunal, el nombramiento de peritos y el informe de la Dirección General de Aguas.
+
+ARTICULO 180°- No obstante lo dispuesto en los artículos anteriores, los juicios ejecutivos y las acciones posesorias se regirán por las disposiciones del Código de Procedimiento Civil.
+
+#### 2. Del amparo judicial
+
+ARTICULO 181°- El titular de un derecho de aprovechamiento o quien goce de la presunción a que se refiere el artículo 7° del decreto ley N° 2.603, de 1979, que estimare estar siendo perjudicado en el aprovechamiento de las aguas, por obras o hechos recientes, podrá ocurrir ante el Juez competente a fin de que se le ampare en su derecho.
+El ejercicio de este derecho no requerirá otras formalidades que las prescritas en los artículos siguientes y será innecesario, en primera instancia, el patrocinio de abogado.
+
+ARTICULO 182°- La solicitud de amparo deberá contener las siguientes menciones:
+1. La individualización del recurrente;
+2. Los entorpecimientos que le impiden el ejercicio de su derecho;
+3. El daño que dichos entorpecimientos le ocasionen o pudieren ocasionar;
+4. El o los presuntos responsables de tales entorpecimientos;
+5. Las medidas que se solicitan para poner fin inmediato al entorpecimiento, y
+6. La organización de usuarios a que pertenece el recurrente o, en su defecto, la nómina de las organizaciones constituidas en el canal, embalse o captación de donde provengan las aguas, y la individualización de sus representantes legales, cuando éstas organizaciones existan.
+Deberán acompañarse a la solicitud los antecedentes que justifiquen el derecho de aprovechamiento o la presunción.
+
+ARTICULO 183°- La solicitud de amparo deberá ser proveída, dentro de las veinticuatro horas de recibida y se notificará en la forma prescrita en el artículo 44°, inciso 2°, del Código de Procedimiento Civil, al o los presuntos responsables, y a los representantes legales de las organizaciones señaladas en el número 6 del artículo anterior, para que éstos, dentro del plazo de cinco días, hagan sus descargos o formulen las observaciones que procedan según el caso.
+El Juez dispondrá una inspección ocular, cuyo costo será de cargo del recurrente, y podrá, si lo estima conveniente, requerir a la Dirección General de Aguas, que informe al respecto, dentro del plazo que le señale, el que no podrá exceder de cinco días.
+
+ARTICULO 184°- Transcurridos los plazos señalados en el artículo anterior, el Juez dictará, sin más trámite, una resolución acogiendo o denegando el amparo.
+En el primer caso, la resolución expresará las medidas que se deberán adoptar para poner fin al entorpecimiento.
+La resolución que se pronuncie sobre la solicitud de amparo, deberá ser notificada por cédula.
+
+ARTICULO 185°- La resolución que resuelva el amparo será apelable en el solo efecto devolutivo.
+
+### Título III
+DE LAS ORGANIZACIONES DE USUARIOS
+
+ARTICULO 186°- Si dos o más personas tienen derechos de aprovechamiento en las aguas de un mismo canal o embalse, o usan en común la misma obra de captación de aguas subterráneas, podrán reglamentar la comunidad que existe como consecuencia de este hecho, constituirse en asociación de canalistas o en cualquier tipo de sociedad, con el objeto de tomar las aguas del canal matriz, repartirla entre los titulares de derechos, construir, explotar, conservar y mejorar las obras de captación, acueductos y otras que sean necesarias para su aprovechamiento. En el caso de cauces naturales podrán organizarse como junta de vigilancia.
+
+#### 1. De las Comunidades de Aguas
+
+ARTICULO 187°- Las comunidades podrán organizarse por escritura pública suscrita por todos los titulares de derechos que se conducen por la obra común.
+
+ARTICULO 188°- Si cualquier interesado o la Dirección General de Aguas promueve cuestión sobre la existencia de la comunidad o sobre los derechos de los comuneros en el agua o en la obra común, se citará a comparendo ante el Juez del lugar en que esté ubicada la bocatoma del canal principal.
+La citación o comparendo se hará por medio de cuatro avisos, tres de los cuales se publicarán en un periódico de la provincia o región en que funcione el Tribunal, y uno en un diario de Santiago, debiendo mediar por lo menos entre la primera publicación y el comparendo un plazo no inferior a diez días. El o los periódicos serán designados por el Juez.
+Si los interesados son menos de cuatro, se les notificará también personalmente y la notificación se hará en la forma determinada por el artículo 44°, del Código de Procedimiento Civil, aunque la persona a quien deba notificarse no se encuentre en el lugar de su morada o donde ejerce habitualmente su industria, profesión o empleo.
+El comparendo se celebrará con los interesados que asistan, si son dos o más o si sólo asiste uno, se repetirá la citación en la misma forma, a excepción de la notificación que será hecha por cédula, expresándose en ésta y en los avisos que es segunda citación. En este caso, el comparendo se celebrará con el que asista.
+No podrá organizarse una comunidad de aguas ante el Juez si existe otra organización ya constituida en la obra común, que tenga la misma jurisdicción.
+
+ARTICULO 189°- En el comparendo a que se refiere el artículo anterior, los interesados harán valer los títulos o antecedentes que sirvan para establecer sus derechos en el agua o la obra común. A falta de acuerdo, el Juez resolverá sin más antecedentes que los acompañados.
+Cuando el Tribunal no alcance a conocer de las materias tratadas en este artículo en una sola audiencia, continuará en los días hábiles inmediatos hasta concluir.
+El Tribunal, si lo estima necesario, podrá abrir un término de prueba como en los incidentes y designar un perito para que informe sobre la capacidad del canal, su gasto medio normal, los derechos de aprovechamiento del mismo y los correspondientes a cada uno de los usuarios.
+
+ARTICULO 190°- Declarada por el Juez la existencia de la comunidad y fijados los derechos de los comuneros, en conformidad a los artículos anteriores, se procederá a elegir al directorio si los comuneros son más de cinco, o a uno o más administradores, con las mismas facultades que el directorio, en caso contrario.
+
+ARTICULO 191°- Las resoluciones que se expidan en las gestiones contempladas en los artículos anteriores, serán apelables sólo en el efecto devolutivo y la apelación se tramitará como en los incidentes.
+
+ARTICULO 192°- Los acuerdos o resoluciones que declaren la existencia de la comunidad y fijen los derechos de los comuneros, se notificarán en la forma señalada en el artículo 188. Las demás resoluciones se notificarán en la forma ordinaria indicada en el Código de Procedimiento Civil.
+
+ARTICULO 193°- El derecho de cada uno de los comuneros sobre el caudal común será el que conste de sus respectivos títulos.
+
+ARTICULO 194°- Los interesados que no hayan comparecido a la escritura pública de organización o que no hayan asistido al comparendo y a quienes no se haya asignado lo que les corresponde en la distribución de las aguas, podrán presentarse reclamándolo en cualquier tiempo.
+A solicitud de ellos, se citará a todos los interesados, procediéndose como se indica en el artículo siguiente, pero sin que se altere mientras tanto lo que esté acordado o resuelto.
+Las costas de las nuevas gestiones serán de cargo exclusivo de los que las soliciten.
+Los acuerdos o resoluciones ejecutoriados que se produzcan en estas nuevas gestiones, prevalecerán sobre los acuerdos o resoluciones anteriores.
+
+ARTICULO 195°- Los interesados que se sientan perjudicados con los acuerdos o resoluciones dictados en conformidad con los artículos anteriores, respecto de los derechos que les correspondan en la comunidad, podrán hacer valer esos derechos en juicio sumario.
+Las sentencias ejecutoriadas que se dicten en el nuevo juicio, que modifiquen los acuerdos o las resoluciones anteriores, se aplicarán con preferencia a éstos desde que se reclame su cumplimiento.
+No podrán, sin embargo, decretarse en estos juicios medidas precautorias que impidan o embaracen la ejecución de dichos acuerdos o resoluciones.
+
+ARTICULO 196°- Las comunidades se entenderán organizadas por su registro en la Dirección General de Aguas.
+Este registro es igualmente necesario para modificar sus estatutos.
+Efectuado el registro a que se refiere el inciso 1° se podrá practicar la inscripción mencionada en el artículo 114°, número 1 y 2.
+
+ARTICULO 197°- Las cuestiones sobre preferencias que aleguen los dueños de derechos de aprovechamiento, no impedirán la organización de la comunidad. El Juez resolverá la forma en que dichos interesados se incorporarán a ella, tomando en cuenta exclusivamente los títulos y antecedentes que hagan valer.
+La resolución judicial que reconozca la existencia de la comunidad y los derechos de los comuneros se reducirá a escritura pública, conjuntamente con los estatutos si hubiere acuerdo sobre ellos, la que deberá ser firmada por el Juez o por la persona que él designe.
+Dicha resolución se notificará en extracto en la forma prescrita en el artículo 188.
+Mientras se resuelve el litigio podrá organizarse la comunidad sobre la base del rol provisional a que se refieren los artículos 164 y siguientes. Declarado el abandono de la instancia a petición de cualquiera de los comuneros, el rol provisional se tendrá por definitivo.
+Los estatutos se aprobarán por la mayoría de los derechos de aprovechamiento en las aguas comunes. A falta de acuerdo, la comunidad se regirá por las normas de este párrafo.
+Las resoluciones que se dicten en conformidad a la presente disposición, serán apelables en el solo efecto devolutivo y la apelación se tramitará como en los incidentes.
+
+ARTICULO 198°- La escritura de organización de una comunidad de aguas deberá contener:
+1. Los nombres, apellidos y domicilios de los comuneros;
+2. El nombre, domicilio y objeto de la comunidad;
+3. El nombre de los cauces que conducen las aguas sometidas a su jurisdicción;
+4. El derecho de agua que corresponde al canal en la corriente de uso público y la forma en que se divide ese derecho entre los comuneros;
+5. El nombre y ubicación de los predios o establecimientos que aprovechen las aguas;
+6. Los bienes comunes;
+7. El número de miembros que formará el directorio, o el número de administradores, según sea el caso;
+8. Las atribuciones que tendrá el directorio o los administradores, fuera de las que les confiere la ley;
+9. La fecha anual en que debe celebrarse la junta general ordinaria, y
+10. Los demás pactos que acordaren los comuneros.
+El domicilio de la comunidad será la capital de la provincia en que se encuentre la obra de entrega o la bocatoma del canal principal, salvo que los interesados acuerden otro por mayoría de votos, determinados en conformidad al artículo 222.
+
+ARTICULO 199°- Podrán ingresar convencionalmente a la comunidad quienes incorporen al canal nuevos derechos de agua. Los gastos de incorporación de nuevos derechos serán de cargo del interesado.
+Los que a cualquier título sucedan en sus derechos a un comunero tendrán en la comunidad las obligaciones y derechos de su antecesor.
+
+ARTICULO 200°- La competencia de la comunidad en lo concerniente a la administración de los canales, distribución de las aguas y a la jurisdicción que con arreglo al artículo 244 corresponde al directorio sobre los comuneros, se extenderá hasta donde exista comunidad de intereses, aunque sólo sea entre dos comuneros.
+No obstante, en lo referente a la administración de los canales y a la distribución de las aguas, podrán los estatutos estipular una menor extensión de sus atribuciones.
+
+ARTICULO 201°- Serán bienes comunes los recursos pecuniarios y de otra naturaleza con que contribuyan los dueños de los derechos de aprovechamiento, el producto de las multas y los bienes que se adquieran a cualquier título para los fines de la organización.
+
+ARTICULO 202°- Las obras que formen parte de un sistema sometido a la jurisdicción de una comunidad de aguas pertenecerán a quienes hayan adquirido su dominio en conformidad a las normas de derecho común.
+Se presume dueño de las obras a los titulares de derechos que extraigan, conduzcan o almacenen aguas en ellas, en la proporción de sus derechos.
+
+ARTICULO 203°- Los créditos contra los comuneros y la maquinaria o equipos mecanizados adquiridos para los trabajos de la comunidad, podrán ser dados en prenda, en garantía de préstamos que contraten las comunidades, con el objeto de obtener capital necesario para el cumplimiento de sus fines.
+La notificación de la prenda a los comuneros se hará por medio de un aviso en un diario o periódico de la capital de la provincia o región correspondiente al domicilio de la comunidad.
+
+ARTICULO 204°- En el caso del artículo anterior el directorio, de acuerdo con el acreedor prendario, podrá requerir el pago de las cuotas y recibirlas válidamente en calidad de diputado para el cobro.
+
+ARTICULO 205°- La comunidad deberá llevar un Registro de Comuneros en que se anotarán los derechos de agua de cada uno de ellos, el número de acciones y las mutaciones de dominio que se produzcan.
+No se podrán inscribir dichas mutaciones mientras no se practiquen las inscripciones correspondientes en el Registro de Aguas del Conservador de Bienes Raíces.
+
+ARTICULO 206°- Los comuneros extraerán el agua por medio de dispositivos que permitan aforarla, tales como compuertas, marcos partidores u otros. Éstos serán autorizados por el directorio.
+
+ARTICULO 207°- Si dos o más comuneros extrajeren aguas en común por un mismo dispositivo, el directorio podrá exigirles que constituyan un representante común y serán solidariamente responsables del pago de las cuotas y multas respectivas.
+Si requeridas a este efecto, no lo hicieren dentro del plazo de treinta días, el directorio efectuará el nombramiento.
+Dichos comuneros podrán constituirse en comunidad de aguas independiente, asociación de canalistas o en cualquiera otra organización que convengan.
+
+ARTICULO 208°- La construcción o reparación de los dispositivos se hará por el directorio a costa del interesado, o bajo la responsabilidad y vigilancia de aquél, si se permite hacerla a este último.
+
+ARTICULO 209°- El comunero que se considere perjudicado por la construcción o reparación de su dispositivo, podrá reclamar al directorio para que, con citación de los demás interesados, resuelva la cuestión en la forma dispuesta por los artículos 243 y siguientes.
+
+ARTICULO 210°- Las aguas de cualquier comunero podrán trasladarse de un canal a otro, o de un lugar a otro en un mismo acueducto, en ambos casos sometidos a la misma comunidad, a costa del comunero que solicite el traslado y en las épocas que fije el directorio.
+
+ARTICULO 211°- Los estatutos podrán establecer normas permanentes para la distribución de las aguas.
+
+ARTICULO 212°- Son obligaciones de los comuneros:
+1. Asistir a las juntas de comuneros. Los inasistentes pagarán una multa siempre que no haya sala. Si los estatutos nada dijeren, la multa será determinada por el directorio;
+2. Costear la construcción y reparación del dispositivo por el que extraen sus aguas del canal principal; y si fueren varios los interesados en el dispositivo, pagarán la obra a prorrata de sus derechos.
+En la misma proporción los dispositivos calificados de partidores principales por las juntas generales, serán costeados por los comuneros de una y otra rama.
+Cuando los dispositivos o canales costeados particularmente por los comuneros se inutilizaren por alguna medida de interés común acordada por el directorio o la junta, como ser, reforma del sistema de dispositivos, modificación de la rasante del acueducto u otra obra semejante, las nuevas obras que sean necesarias se harán a costa de los interesados en la obra;
+3. Concurrir a los gastos de mantención de la comunidad, a prorrata de sus derechos, y
+4. Las demás que impongan los estatutos.
+
+ARTICULO 213°- Los acuerdos de las juntas sobre gastos y fijación de cuotas, serán obligatorios para todos los comuneros, y una copia de tales acuerdos debidamente autorizada por el secretario del directorio, tendrá mérito ejecutivo, en contra de aquéllos.
+La misma norma se aplicará respecto de los acuerdos del directorio sobre fijación de cuotas, cuando proceda, y sobre multas.
+
+ARTICULO 214°- Los derechos de aprovechamiento de aguas quedarán gravados de pleno derecho, con preferencia a toda prenda, hipoteca u otro gravamen constituido sobre ellos, en garantía de las cuotas de contribución para los gastos que fijan las juntas y directorios.
+Los adquirentes a cualquier título de estos derechos, responderán solidariamente con su antecesor de las cuotas insolutas al tiempo de la adquisición.
+
+ARTICULO 215°- Todos los gastos de construcción, explotación, limpia, conservación, mejoramiento y demás que se hagan en beneficio de los comuneros, serán de cuenta de éstos, a prorrata de sus derechos de aprovechamiento.
+Los gastos que fueren en provecho de determinados comuneros, serán de cuenta exclusiva de éstos, también a prorrata de sus derechos.
+Los comuneros que por sus títulos, estén exentos del pago de gastos, se entenderá que únicamente lo están de los ordinarios de explotación y conservación, pero no de los extraordinarios, salvo que estuvieren también exentos de tales gastos en forma expresa por dichos títulos.
+
+ARTICULO 216°- Los comuneros morosos en el pago de sus cuotas podrán ser privados del agua durante la mora, sin perjuicio de la acción judicial en su contra.
+Responderán, además, de los gastos que irrogue la contratación de un inspector encargado de aplicar y vigilar la privación del agua.
+Los morosos podrán ser obligados al pago de sus cuotas con los reajustes, multas, y tasas de interés que determine la junta general ordinaria o el directorio, en su caso.
+Las sanciones que se apliquen en conformidad a estas normas pasarán contra los sucesores a cualquier título.
+
+ARTICULO 217°- Si algún comunero, por sí o por interpósita persona, alterase un dispositivo de distribución, éste será restablecido a su costa debiendo además pagar la multa que fije el directorio, lo cual es sin perjuicio de la privación del agua hasta que cumpla con estas obligaciones. Las reincidencias serán penadas con el doble o triple de la multa, según corresponda.
+Las mismas reglas se aplicarán a los comuneros que hicieren estacadas u otras labores para aumentar su dotación de agua.
+Las medidas a que se refiere este artículo, serán impuestas por el directorio, siendo aplicables los incisos 2° y 3° del artículo anterior.
+Se presume autor de estos hechos al beneficiado con ellos.
+
+ARTICULO 218°- Los negocios que interesen o afecten a la comunidad se resolverán en juntas generales las que serán ordinarias o extraordinarias.
+A falta de disposición especial en los estatutos, las juntas generales ordinarias se celebrarán el primer Sábado hábil del mes de Abril de cada año, a las catorce horas, en el lugar que determine el directorio o administradores, según el caso.
+Las juntas generales extraordinarias tendrán lugar en cualquier tiempo.
+
+ARTICULO 219°- En las juntas generales habrá sala con la mayoría absoluta de los comuneros con derecho a voto.
+Si en la primera reunión no hubiere sala, regirá la citación para el día siguiente hábil a la misma hora y en el mismo lugar y en este caso la habrá con los que asistan.
+Con todo, podrá citarse para un mismo día en primera y segunda citación, siempre que entre una y otra haya lo menos 30 minutos de diferencia, caso en el cual regirá la norma sobre sala contenida en el inciso anterior.
+Para que opere lo dispuesto en los dos incisos precedentes, deberá dejarse expresa constancia en la convocatoria, del día y hora para el cual se cita a una nueva reunión.
+
+ARTICULO 220°- Las convocatorias a junta se harán saber a los comuneros por medio de un aviso que se publicará en un diario o periódico de la capital de la provincia en que tenga domicilio la comunidad.
+A falta de ellos, la convocatoria se realizará por medio de un aviso publicado en un diario o periódico de la ciudad capital de la región correspondiente. Además, se dirigirá carta certificada al domicilio que el comunero haya registrado en la secretaría de la comunidad, en caso de citación a junta extraordinaria.
+
+ARTICULO 221°- Las convocatorias a juntas se harán con diez días de anticipación, a lo menos, indicándose el lugar, día, hora y objeto de la junta.
+
+ARTICULO 222°- Cada comunero tendrá derecho a un voto por cada acción que posea.
+Las fracciones de voto se sumarán hasta formar votos enteros, despreciándose las que no alcanzaren a completarlos, salvo el caso de empate, en que se computarán para decidirlo.
+Si no hubiere fracciones, el empate lo dirimirá el presidente.
+
+ARTICULO 223°- Sólo tendrán derecho a voto los comuneros cuyos derechos estén inscritos en el Registro de la Comunidad y estén al día en el pago de sus cuotas, los que podrán comparecer por sí o representados.
+El mandato deberá constar en instrumento otorgado ante Notario Público, pero si se otorga a otro comunero, bastará una carta poder simple.
+Las comunidades o sucesiones comparecerán por medio de un solo representante.
+
+ARTICULO 224°- Los acuerdos de la junta se tomarán por mayoría absoluta de los votos emitidos en ella, salvo que este código o los estatutos establezcan otra mayoría.
+
+ARTICULO 225°- Las sesiones de la junta serán presididas por el presidente del directorio; en su defecto, por su subrogante y, a falta de éste, por el comunero presente que posea más acciones.
+
+ARTICULO 226°- Corresponde a las juntas generales ordinarias:
+1. Elegir al directorio o administradores;
+2. Acordar el presupuesto de gastos ordinarios o extraordinarios para el período de un año, y las cuotas de una y otra naturaleza que deben erogar los comuneros para cubrir esos gastos. Mientras no se apruebe el presupuesto, regirá el del año anterior, reajustado según la variación que haya experimentado el índice de precios al consumidor;
+3. Pronunciarse sobre la memoria y la cuenta de inversión que debe presentar el directorio;
+4. Nombrar inspectores para el examen de las cuentas y facultarlos para seleccionar los auditores externos de contabilidad y procedimientos, si fuere menester;
+5. Fijar las sanciones que se aplicarán a los deudores morosos, y
+6. Tratar cualquier materia que se proponga en ellas, salvo las que requieren citación especial.
+
+ARTICULO 227°- Las juntas generales extraordinarias sólo podrán ocuparse de los asuntos para los cuales han sido convocadas.
+
+ARTICULO 228°- La comunidad será administrada por un directorio o administradores nombrados por la junta de comuneros, que tendrá los deberes y atribuciones que determinen los estatutos y, en su defecto, por los que le encomiende este código.
+El directorio será elegido por el término de un año.
+Cuando la comunidad de aguas se constituya judicialmente, el primer directorio se elegirá en el comparendo de que trata el artículo 188. Este directorio será provisional y durará en funciones hasta la primera junta general ordinaria de comuneros.
+
+ARTICULO 229°- El directorio se elegirá en cada junta general ordinaria de comuneros, sin perjuicio de las elecciones extraordinarias que contempla el artículo 233. En las elecciones resultarán elegidos los que, en una misma votación, hayan obtenido el mayor número de votos hasta completar el número de personas por elegir.
+Sin embargo, con el acuerdo unánime de la sala, las elecciones podrán efectuarse en otra forma que la señalada en el inciso precedente.
+
+ARTICULO 230°- Si por cualquier causa no se eligiere oportunamente el directorio, continuará en funciones el anterior.
+Éste deberá citar a la mayor brevedad a la junta general para proceder a esa designación y si no lo hiciere, cualquier comunero podrá recurrir ante la Dirección General de Aguas, para que la convoque en la forma prescrita en los artículos 220 y 221. La reunión se efectuará en presencia de un Notario o de un funcionario designado por el Director General de Aguas, quien levantará acta de ella y actuará como Ministro de Fe.
+
+ARTICULO 231°- Para ser director se requiere ser comunero con derecho a voto. Podrán serlo el mandatario y el representante legal, por las personas naturales o jurídicas. No podrán serlo los empleados de la asociación.
+Los directores podrán ser reelegidos.
+
+ARTICULO 232°- La asistencia de los directores a las sesiones es obligatoria. Si faltaren a tres o más reuniones sin causa justificada, quedarán excluidos del directorio.
+
+ARTICULO 233°- En caso de muerte, renuncia, pérdida de la calidad de comunero, representante legal, mandatario o inhabilidad de un director, el directorio le designará reemplazante por el tiempo que falte para completar su período.
+Si se produjere la renuncia total del directorio o de su mayoría, el secretario citará, dentro de los cinco días hábiles siguientes, a junta general extraordinaria de comuneros, la que deberá celebrarse dentro de los quince días siguientes a la renuncia.
+A falta de citación por el secretario, se procederá en la forma descrita en el artículo 230.
+
+ARTICULO 234°- El comunero que sea declarado reo por crimen o simple delito que merezca pena aflictiva, quedará suspendido del cargo de director o de cualquier empleo en la comunidad, mientras continúe en dicha situación; en tal caso, no podrá optar a ser elegido director de ella. Si es condenado por sentencia de término, quedará inhabilitado para desempeñar el cargo de director o cualquier empleo en la comunidad.
+
+ARTICULO 235°- Si el número de comuneros es superior a cinco, se elegirá el directorio de la comunidad. En caso contrario, se designará uno o más administradores con las mismas facultades que el directorio.
+El directorio se compondrá por no menos de tres miembros, ni más de once y celebrará sesión con un quórum que represente la mayoría absoluta de éstos.
+Las sesiones ordinarias tendrán lugar los días y horas que el directorio acuerde y las extraordinarias cuando lo ordene el presidente o lo pida la tercera parte de los directores.
+El directorio celebrará por lo menos una sesión ordinaria en cada semestre.
+
+ARTICULO 236°- Una copia de la parte pertinente del acta que consigne la elección de directores se enviará a la Dirección General de Aguas y otra al Gobernador de la provincia en que se encuentre ubicada la obra de entrega o la bocatoma del canal principal, según sea el caso.
+Se enviará, asimismo, a esas autoridades, copia del acta de la sesión del directorio en que se haya nombrado reemplazante, en conformidad al inciso primero del artículo 233.
+
+ARTICULO 237°- La asistencia de los directores a las sesiones podrá ser remunerada. Esta remuneración se pagará por sesión asistida, y su cuantía se fijará en junta general de comuneros.
+
+ARTICULO 238°- Las resoluciones del directorio se tomarán por la mayoría absoluta de directores asistentes, salvo que la ley o los estatutos dispongan otra mayoría para determinadas materias.
+Si se produjere empate, prevalecerá la opinión del que preside.
+En caso de dispersión de votos, la votación deberá limitarse en definitiva a las opiniones que cuenten con las dos más altas mayorías y si, como consecuencia de ello, se produjere empate, resolverá la persona que presida.
+
+ARTICULO 239°- El directorio, en su primera sesión, elegirá de su seno un presidente y fijará el orden en que los demás directores lo reemplazarán en caso de ausencia o imposibilidad.
+Asimismo, determinará, por sorteo, el orden de precedencia de sus miembros, a fin de establecer entre ellos un director de turno mensual.
+
+ARTICULO 240°- El presidente del directorio o quien haga sus veces, velará por el cumplimiento de los acuerdos de éste y tendrá la representación de la comunidad.
+En el orden judicial, la representará en la forma que dispone el artículo 8° del Código de Procedimiento Civil.
+
+ARTICULO 241°- El directorio tendrá los siguientes deberes y atribuciones:
+1. Administrar los bienes de la comunidad;
+2. Atender a la captación de las aguas por medio de obras permanentes o transitorias; a la conservación y limpia de los canales y drenajes sometidos a la comunidad; a la construcción y reparación de los dispositivos y acueductos y a todo lo que tienda al goce completo y correcta distribución de los derechos de aguas de los comuneros.
+El directorio podrá, por sí solo, acordar los trabajos ordinarios en las materias indicadas y, en casos urgentes, los extraordinarios; pero deberá dar cuenta de estos últimos en la próxima junta ordinaria que se celebre;
+3. Velar por que se respeten los derechos de agua en el prorrateo del caudal matriz, impidiendo que se extraigan aguas sin títulos;
+4. Requerir la acción de la junta de vigilancia para los efectos del número anterior;
+5. Distribuir las aguas, dar a los dispositivos la dimensión que corresponda y fijar turnos cuando proceda;
+6. Resolver la forma y condiciones de incorporación de titulares de nuevos derechos de aprovechamiento a la comunidad;
+7. Representar a los comuneros en los casos de imposición de servidumbres pasivas, en las obras de captación, conducción, regulación y descarga;
+8. Vigilar las instalaciones de fuerza motriz u otras y el correcto ejercicio de las servidumbres;
+9. Someter a la aprobación de la junta general los reglamentos necesarios para el funcionamiento del mismo directorio, de la junta general, de la secretaría y de las oficinas de contabilidad y administración;
+10. Someter a la aprobación de la junta general ordinaria el presupuesto de entradas y gastos ordinarios y extraordinarios, fijando separadamente el monto de unos y otros con su correspondiente reajustabilidad. En esa junta dará cuenta de la inversión de los fondos y de la marcha de la comunidad en una memoria que comprenda todo el período de funciones.
+La junta podrá acordar el presupuesto en la forma que estime conveniente o modificar el que se presente;
+11. Aumentar hasta en un treinta por ciento en el año, las cuotas ordinarias o extraordinarias, cuando aparezca de manifiesto que las fijadas en junta general ordinaria fueren insuficientes para el buen funcionamiento de la comunidad; establecer cuotas especiales para hacer frente a gastos imprevistos que no puedan ser cubiertos con las reservas acumuladas. En todo caso dará cuenta en junta extraordinaria que deberá citar en el más breve plazo;
+12. Fijar las multas que corresponda aplicar a los comuneros, la que no podrá exceder de diez unidades tributarias mensuales;
+13. Contratar cuentas corrientes en los bancos y tomar dinero en mutuo por cantidades que no excedan del monto del presupuesto anual de entradas.
+En caso que sea necesario efectuar obras para reparar las instalaciones afectadas por catástrofes o daños graves, se podrá contratar créditos hasta la concurrencia del valor de las obras;
+14. Cumplir los acuerdos de las juntas generales;
+15. Citar a la junta general ordinaria en la fecha que fija la ley o los estatutos;
+16. Citar a la junta general extraordinaria cuando sea necesario o lo solicite, por lo menos la cuarta parte de los comuneros con derecho a voto, con indicación del objeto;
+17. Velar por el cumplimiento de las obligaciones que la ley, los reglamentos y los estatutos imponen a los comuneros y a la comunidad;
+18. Nombrar o remover al secretario y trabajadores de la comunidad y fijar sus remuneraciones, sin perjuicio de las facultades de la junta general;
+19. Delegar sus atribuciones en uno o más directores;
+20. Llevar una estadística de los caudales que se conducen por los canales de la comunidad;
+21. Realizar programas de extensión para difundir entre los comuneros las técnicas y sistemas que tiendan a un mejor empleo de agua, pudiendo celebrar convenios para este objeto;
+22. Comunicar a la junta de vigilancia de que forma parte, el nombre del ingeniero asesor y el de su reemplazante, en caso que los tuviera, y
+23. Los demás que las leyes y los estatutos señalen.
+
+ARTICULO 242°- El directorio podrá solicitar de la autoridad correspondiente, por intermedio del Juez, el auxilio de la fuerza pública para hacer cumplir y respetar las medidas de distribución de aguas que acordase.
+Ordenado el auxilio de la fuerza pública ésta deberá ser concedida y de ella se hará uso con allanamiento y descerrajamiento, si fuere necesario.
+Los dueños de inmuebles en que se haga la distribución de las aguas no podrán impedir que los directores, repartidores y delegados entren en sus predios cuando sea menester para el desempeño de sus funciones.
+Si el dueño de un predio se opusiere, se solicitará por el directorio, en la misma forma, el auxilio de la fuerza pública, sin perjuicio de la multa que puede imponerle el Juez. Si el dueño de la heredad fuere comunero en las aguas, la multa la aplicará el directorio.
+
+ARTICULO 243°- Cualquiera de los interesados podrá reclamar al directorio de los procedimientos de los repartidores de aguas o delegados. El directorio resolverá previa audiencia de los interesados a quienes afecte directamente la resolución, y será aplicable lo dispuesto en los artículos 244 al 247.
+
+ARTICULO 244°- El directorio resolverá como árbitro arbitrador, en cuanto al procedimiento y al fallo, todas las cuestiones que se susciten entre los comuneros sobre repartición de aguas o ejercicio de los derechos que tengan como miembros de la comunidad y las que surjan sobre la misma materia entre los comuneros y la comunidad.
+Las resoluciones del directorio, en las cuestiones a que se refiere el inciso anterior, sólo podrán adoptarse con el acuerdo de la mayoría absoluta de los miembros asistentes, y los fallos llevarán por lo menos la firma de los que hayan concurrido al acuerdo de mayoría.
+No habrá lugar a implicancias ni recusaciones y las resoluciones sólo serán reclamables en la forma establecida en el artículo 247.
+Servirá de actuario y tendrá la calidad de Ministro de Fe, el secretario de la comunidad o, en su defecto, el que designe el directorio.
+
+ARTICULO 245°- Presentada la reclamación, el secretario citará al directorio dentro de los cinco días hábiles siguientes para que tome conocimiento de ella.
+El directorio deberá oír a las partes y resolver la cuestión dentro de los treinta días siguientes a la presentación del reclamo.
+Si el directorio no fallare dentro de ese plazo, el interesado podrá recurrir directamente ante la Justicia Ordinaria, en la forma señalada en el artículo 247.
+En este caso, cada director sufrirá una multa que será fijada por el Juez de la causa, dentro de los límites a que se refiere el artículo 173.
+
+ARTICULO 246°- Las resoluciones que se dicten en estos juicios se notificarán por carta certificada y se dejará testimonio en autos de su envío. La fecha de notificación será el segundo día siguiente a su remisión.
+Notificada la resolución, el directorio procederá a darle cumplimiento, para lo cual podrá requerir el auxilio de la fuerza pública, si fuere menester, en los términos señalados en el artículo 242.
+
+ARTICULO 247°- El que se sienta perjudicado por algún fallo arbitral, podrá reclamar de él ante los Tribunales Ordinarios de Justicia dentro del plazo de seis meses contados desde la fecha de su notificación.
+Esta reclamación, que se tramitará como juicio sumario, no obstará a que dicho fallo se cumpla y surta efecto durante el juicio, a menos que el Juez, a petición de parte y como medida precautoria, decrete su suspensión mediante resolución ejecutoriada. Las apelaciones que se interpongan con motivo de estas medidas precautorias, se agregarán extraordinariamente, sin necesidad de que las partes comparezcan y sin que se pueda suspender de manera alguna la vista del recurso ni inhabilitar a los miembros del Tribunal.
+En estas reclamaciones procederá siempre la habilitación del feriado de vacaciones.
+
+ARTICULO 248°- Habrá un secretario de la comunidad que, con el carácter de Ministro de Fe, estará encargado de autorizar las resoluciones de las juntas, del directorio y del presidente y de redactar y autorizar todas las actas.
+Además de las atribuciones que le confieran los estatutos, corresponderá al secretario llevar los registros de la comunidad; autorizar las inscripciones; mantener bajo su vigilancia y cuidado el archivo; dar copia autorizada de las piezas que se soliciten; percibir las cuotas que deban pagar los comuneros y las demás entradas de la comunidad; llevar la contabilidad, siempre que el directorio no haya confiado a otros empleados estas funciones, y ejecutar los acuerdos del directorio cuyo cumplimiento se le hubiere encargado.
+A petición de cualquiera de los comuneros, el secretario deberá dar, dentro del término de cinco días hábiles, copia autorizada de los acuerdos que se hubiesen adoptado y que afecten a algunos de aquéllos.
+Si no se cumple con esta obligación, el secretario será sancionado con una multa, que no podrá exceder de una unidad tributaria mensual por cada día de retardo, que aplicará el Juez a petición de parte.
+
+ARTICULO 249°- La reforma de los estatutos sólo podrá acordarse en junta extraordinaria, por la mayoría del total de votos en la comunidad y el acuerdo deberá reducirse a escritura pública.
+
+ARTICULO 250°- La comunidad termina por la reunión de todos los derechos de agua en manos de un mismo dueño.
+
+ARTICULO 251°- Las comunidades de agua podrán establecer en sus estatutos disposiciones diferentes a las contenidas en los artículos 208; 220; 222, inciso 3°; 225; 228, inciso 2°; 233; 235, inciso 4°; 238, y 239, inciso 2°. Igual norma regirá en los casos en que expresamente se faculte para ello.
+
+#### 2. De la Comunidades de Obras de Drenaje
+
+ARTICULO 252°- Por el hecho de que dos o más personas aprovechen obras de drenaje o desagüe en beneficio común, existe una comunidad que, salvo convención expresa de las partes, se regirá por las reglas contenidas en los artículos siguientes.
+
+ARTICULO 253°- Estas comunidades se organizarán en la forma prescrita por los artículos 187 y siguientes. Será Juez competente para conocer de las materias indicadas en el artículo 188, el de la comuna en que se encuentre ubicado cualquiera de los predios de desagüe.
+
+ARTICULO 254°- El domicilio de la comunidad será el que acuerden los interesados por mayoría de votos.
+
+ARTICULO 255°- Son aplicables a estas comunidades las disposiciones de los párrafos 1° y 3° del presente Título, en cuanto no se contrapongan con su naturaleza ni con el artículo siguiente.
+
+ARTICULO 256°- Los comuneros tendrán derecho a un voto por cada hectárea de dominio afecta al sistema, salvo convención en contrario.
+Las fracciones de votos se sumarán hasta formar votos enteros, despreciándose las que no alcanzaren a completarlos, salvo en el caso de empate, en que se computarán para decidirlo.
+Si no hubiere fracciones, el empate lo decidirá el presidente.
+
+#### 3. De las Asociaciones de Canalistas y otras Organizaciones de Usuarios
+
+ARTICULO 257°- Las asociaciones de canalistas constituidas en conformidad a la ley gozarán de personalidad jurídica.
+La constitución de la asociación y sus estatutos se hará por escritura pública suscrita por todos los titulares de derechos a que se refiere el artículo 186 y necesitarán de la aprobación del Presidente de la República, previo informe de la Dirección General de Aguas.
+
+ARTICULO 258°- Son aplicables igualmente a las asociaciones de canalistas y a las otras organizaciones de usuarios, las disposiciones del párrafo 1° de este Título, en cuanto sean compatibles con su naturaleza y no contradigan lo dispuesto en sus estatutos.
+A las primeras también les son aplicables las disposiciones del Título XXXIII, del Libro I, del Código Civil, con excepción de los artículos 560, 562, 563 y 564.
+
+ARTICULO 259°- Quienes no hayan sido incluidos en la asociación u organización de usuarios podrán hacer valer sus derechos en cualquier tiempo en la forma prevista en el artículo 194.
+
+ARTICULO 260°- Formarán el patrimonio de estas entidades, los recursos pecuniarios y de otra naturaleza con que contribuyan los dueños de los derechos de aprovechamiento, el producto de las multas y los bienes que adquieran a cualquier título para los fines de la organización.
+
+ARTICULO 261°- También podrán organizarse en la forma establecida en este párrafo, los que estén obligados a mantener las obras de drenaje y los que tengan interés en ellas.
+
+ARTICULO 262°- La organización termina por la reunión de todos los derechos de agua en manos de un mismo dueño y por las causales que indiquen los estatutos.
+
+#### 4. De las Juntas de Vigilancia
+
+ARTICULO 263°- Las personas naturales o jurídicas y las organizaciones de usuarios que en cualquier forma aprovechen aguas de una misma cuenca u hoya hidrográfica, podrán organizarse como junta de vigilancia que se constituirá y regirá por las disposiciones de este párrafo.
+La constitución de la junta de vigilancia y sus estatutos, constarán en escritura pública que se someterá a la aprobación del Presidente de la República, previo informe de la Dirección General de Aguas.
+
+ARTICULO 264°- Sin embargo, en cada sección de una corriente natural que hasta la fecha de promulgación de este Código y en conformidad a las leyes anteriores, se considere como corriente distinta para los efectos de su distribución, podrá organizarse una junta de vigilancia.
+También podrá organizarse una junta de vigilancia para cada sección de una corriente natural en que se distribuyan sus aguas en forma independiente de las secciones vecinas de la misma corriente.
+
+ARTICULO 265°- Cuando se planifiquen o construyan obras de embalse, trasvase o que constituyan campos de captación de aguas subterráneas, destinadas a regular el régimen de una corriente, el Presidente de la República podrá establecer, modificar o suprimir el seccionamiento de ella, con el objeto de obtener un mejor aprovechamiento de las aguas, sin perjuicio de los derechos adquiridos.
+
+ARTICULO 266°- Las juntas de vigilancia tienen por objeto administrar y distribuir las aguas a que tienen derecho sus miembros en los cauces naturales, explotar y conservar las obras de aprovechamiento común y realizar los demás fines que les encomiende la ley.
+Podrán construir, también, nuevas obras relacionadas con su objeto o mejorar las existentes, con autorización de la Dirección General de Aguas.
+
+ARTICULO 267°- En lo no modificado por el presente párrafo, serán aplicables a las juntas de vigilancia las disposiciones de los párrafos 1° y 3° de este Título, en lo que sean compatibles con su naturaleza.
+
+ARTICULO 268°- El total de los derechos de aprovechamiento constituidos en junta de vigilancia, se entenderá dividido en acciones que se distribuirán entre los interesados, en proporción a sus derechos.
+
+ARTICULO 269°- Para constituir la junta de vigilancia se citará a comparendo ante la Justicia Ordinaria, a solicitud de cualquiera de los interesados o de la Dirección General de Aguas.
+Será juez competente el de la capital de la provincia si el cauce atraviesa sólo una y, si separa o atraviesa dos o más, lo será el juez de la capital de la provincia donde nace el cauce.
+Asimismo, podrán constituirse por escritura pública siempre que concurran a suscribirla la totalidad de las personas u organizaciones señaladas en el artículo 263.
+
+ARTICULO 270°- Si en el comparendo de estilo no se produjere acuerdo sobre los canales que deban quedar sometidos a la junta de vigilancia, sus dotaciones y la forma en que participarán en la distribución, el Juez resolverá con los títulos o antecedentes que hagan valer los interesados. Si lo estima necesario, podrá abrir un término de prueba como en los incidentes y designar un perito para que informe sobre la capacidad de los canales, su gasto medio normal, los derechos totales de la cuenca o sección y los correspondientes a cada uno de los canales y la mejor manera de aprovechar el agua en épocas de escasez.
+El Juez, antes de resolver, pedirá informe a la Dirección General de Aguas, pudiendo fijarle un plazo para evacuarlo que no podrá ser superior a sesenta días y vencido el cual podrá prescindir de él.
+La resolución que determine los canales y embalses, sus dotaciones y la forma en que deban participar en la distribución, será apelable en lo devolutivo.
+
+ARTICULO 271°- Determinados los canales y las obras sometidas a la junta de vigilancia, sus dotaciones y la forma en que han de participar en la distribución, se procederá en el mismo comparendo o en uno nuevo citado al efecto, a resolver las modificaciones que, de conformidad al artículo 251, desearen los interesados introducir a las disposiciones del párrafo 1° de este Título, que sean aplicables.
+En seguida se elegirá el directorio. En las juntas formadas por sólo dos canales, se designará uno o más administradores, quienes tendrán las mismas facultades que el directorio.
+En lo demás, la formación de la junta de vigilancia se regirá por lo dispuesto en los incisos 2° y siguientes del artículo 197.
+
+ARTICULO 272°- Si por otorgamiento de derechos, construcción de nuevas obras de riego o de regulación de la cuenca se constituye un nuevo derecho de agua, el que lo goce quedará incorporado a la junta de vigilancia respectiva.
+El acto de otorgamiento del nuevo derecho o el que apruebe las nuevas obras deberá contener la declaración respectiva, según proceda.
+
+ARTICULO 273°- El domicilio de la junta de vigilancia será la capital de la provincia donde se constituyó judicialmente en conformidad al artículo 271, salvo que los interesados, por mayoría de derechos de agua, acuerden otro distinto.
+
+ARTICULO 274°- Son atribuciones y deberes del directorio los siguientes:
+1. Vigilar que la captación de las aguas se haga por medio de obras adecuadas y, en general, tomar las medidas que tiendan al goce completo y a la correcta distribución de los derechos de agua sometidos a su control;
+2. Distribuir las aguas de los cauces naturales que administre, declarar su escasez y, en este caso, fijar las medidas de distribución extraordinaria con arreglo a los derechos establecidos y suspenderlas. La declaración de escasez de las aguas, como también la suspensión de las medidas de distribución extraordinarias, deberá hacerse por el directorio en sesión convocada especialmente para ese efecto;
+3. Privar del uso de las aguas en los casos que determinen las leyes o los estatutos.
+4. Conocer las cuestiones que se susciten sobre construcción o ubicación, dentro del cauce de uso público, de obras provisionales destinadas a dirigir las aguas hacia la bocatoma de los canales.
+Las obras definitivas requerirán el permiso de la Dirección General de Aguas;
+5. Mantener al día la matrícula de los canales;
+6. Solicitar al Director General de Aguas la declaración de agotamiento de los caudales de agua sometidos a su jurisdicción;
+7. Ejercitar las atribuciones señaladas en los números 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 y 19 del artículo 241, y las demás que se le confieren en los estatutos;
+8. Exigir el cumplimiento de la obligación impuesta por el número 20, del artículo 241, y
+9. Los demás que señalen las leyes.
+
+ARTICULO 275°- Los miembros de la junta de vigilancia que se sientan perjudicados por un acuerdo adoptado por el directorio en uso de las atribuciones que le confieren los números 2, 3 y 4, del artículo anterior, podrán reclamar de él ante los Tribunales Ordinarios de Justicia.
+Esta reclamación deberá deducirse en contra del directorio de la junta de vigilancia, representada por su presidente que se cursará sin más trámite que un comparendo al cual concurrirán las partes con todos sus medios de prueba. La reclamación deberá resolverse dentro de los ocho días siguientes a la celebración del comparendo.
+La notificación inicial al presidente del directorio se hará por cédula. El feriado de vacaciones se entenderá siempre habilitado para los efectos de esta reclamación. La resolución que el Juez dicte será apelable en lo devolutivo y el recurso se verá en la forma señalada por el artículo 247.
+
+ARTICULO 276°- En las sesiones de la asamblea de la junta de vigilancia, las asociaciones de canalistas y las comunidades de aguas serán representadas por el presidente del directorio o el administrador designado al efecto, según el caso, o la persona especialmente designada para este efecto por el directorio o el administrador; las demás personas, en la forma que dispone el artículo 223.
+La asamblea conocerá de aquellas materias que el párrafo 1° de este título encomienda a las juntas generales. Para los efectos de las votaciones, los derechos de aprovechamiento de ejercicio permanente y eventual tendrán un mismo valor. Sin embargo, el número de votos correspondientes a estos últimos, no podrá ser superior a la tercera parte de los votos de los derechos permanentes, debiendo hacerse la reducción proporcional cuando exceda de dicha parte.
+Las cuotas que los titulares de derechos de ejercicio eventual deberán erogar con el objeto indicado en el número 2°, del artículo 226, serán fijadas por la asamblea y no podrán ser superiores a la tercera parte de la cantidad que correspondería pagar si se tratare de derechos de ejercicio permanente.
+
+ARTICULO 277°- Habrá el número de repartidores de agua que fije el directorio. El repartidor general de las aguas de una corriente natural, o de una sección de ella, deberá ser ingeniero civil titulado, a menos que los directores de la Junta de vigilancia, por unanimidad, acordaren lo contrario.
+Para el ejercicio de sus funciones, el repartidor de aguas contará con los celadores que designe, con acuerdo del directorio.
+
+ARTICULO 278°- Los repartidores de agua tendrán las siguientes atribuciones y deberes:
+1. Cumplir los acuerdos del directorio sobre distribución de aguas, turnos y rateos, conforme a los derechos establecidos, y restablecerlos inmediatamente que sean alterados por actos de cualquiera persona o por accidente casual, denunciando estos hechos al directorio;
+2. Velar porque el agua no sea sustraída o usada por quienes carezcan de derechos y, para que vuelva al cauce aquella empleada en usos no consuntivos;
+3. Denunciar a la Justicia Ordinaria las sustracciones de agua de los cauces matrices y las destrucciones o alteraciones de las obras existentes en los álveos de dichos cauces. En los juicios a que den lugar estas denuncias, el repartidor de agua tendrá la representación de la junta, sin perjuicio de la comparecencia y actuación de ésta;
+4. Cumplir las órdenes del directorio sobre privación de agua a los canales o titulares de derechos de aprovechamiento que no hayan pagado sus cuotas;
+5. Vigilar la conservación de los cauces de la hoya y la construcción y conservación de las compuertas, bocatomas y demás obras que estén sometidas a la junta;
+6. Solicitar con arreglo a lo dispuesto en el artículo 242 el auxilio de la fuerza pública para hacer cumplir las obligaciones que le incumban, y
+7. Ejercitar los demás derechos y atribuciones que señalen los estatutos.
+
+ARTICULO 279°- Los celadores tendrán las atribuciones y deberes que fije el directorio o el repartidor de agua, en conformidad a los estatutos u ordenanzas y, en especial, ejercerán la policía y vigilancia para la justa y correcta distribución de las aguas, con arreglo a los derechos establecidos y a los acuerdos adoptados, debiendo dar cuenta inmediata de toda alteración o incorrección que notaren.
+
+ARTICULO 280°- Si el repartidor de agua o los celadores maliciosamente alteraren en forma indebida el reparto o permitieren cualquier sustracción de aguas por bocatomas establecidas o por otros puntos de los cauces, incurrirán en la pena que señala el artículo 459 del Código Penal.
+
+ARTICULO 281°- El que sacare agua fuera de su turno o alterare de cualquier manera la demarcación prescrita por el directorio o por el repartidor, será privado del agua por tiempo o cantidad doble al abuso cometido.
+La privación será impuesta por el directorio, pero en todo caso se dejará el agua necesaria para la bebida.
+Sin perjuicio de lo expuesto, el directorio podrá aplicarle multa en conformidad a las reglas generales, pudiendo duplicarlas en caso de reincidencia.
+
+ARTICULO 282°- El Director General de Aguas podrá declarar en caso justificado, a petición fundada de la junta de vigilancia respectiva o de cualquier interesado y para los efectos de la concesión de nuevos derechos consuntivos permanentes, el agotamiento de las fuentes naturales de aguas, sean éstas cauces naturales, lagos, lagunas u otros.
+Declarado el agotamiento no podrá concederse derechos consuntivos permanentes.
+El Director podrá también, revocar la declaración de agotamiento a petición justificada de organizaciones de usuarios o terceros interesados.
+Estas solicitudes se tramitarán ante la Dirección General de Aguas, de acuerdo al procedimiento del párrafo 1°, del Título I, del Libro II, de este código. La de revocación deberá estar fundada en antecedentes que demuestren que no se ocasionará perjuicio a los derechos permanentes y eventuales constituidos. Se considerará como tales la existencia de obras de regulación que modifiquen el régimen existente en la corriente, estadística que contenga los caudales captados en períodos normales y de sequía, en la corriente natural y en los canales derivados.
+
+#### 5. Normas comunes para las organizaciones
+
+ARTICULO 283°- Si en una organización de usuarios se hubiesen cometido faltas graves o abusos por el directorio o administradores en la distribución de las aguas, cualquiera de los afectados podrá solicitar la fiscalización de la Dirección General de Aguas.
+
+ARTICULO 284°- El interesado presentará a dicha Dirección la solicitud correspondiente, indicando el nombre, domicilio del organismo denunciado, de su presidente y los hechos en que la sustenta.
+
+ARTICULO 285°- La Dirección dará traslado de la solicitud al presidente del organismo afectado por carta certificada, fijándole, en cada caso, plazo prudencial para contestar, el que se computará en la forma establecida en el artículo 246.
+Transcurrido el plazo la Dirección resolverá, aunque no se haya evacuado el traslado.
+
+ARTICULO 286°- Si la Dirección considera admisible la solicitud, dictará una resolución que así lo declare y designará un delegado para que practique una investigación de los hechos denunciados.
+
+ARTICULO 287°- La Dirección fijará, en cada caso, la cantidad de dinero que deberá depositar el solicitante para responder a los gastos que se originen, dentro del plazo que fije al efecto. Sin este requisito no se hará gestión alguna y pasado el plazo se archivarán los antecedentes.
+Terminada la gestión, la Dirección hará una liquidación de los gastos y, si hay excedente, lo devolverá al solicitante.
+
+ARTICULO 288°- Según sea la naturaleza de la investigación, el delegado podrá fiscalizar la distribución de las aguas, visitar en cualquier tiempo las obras y lugares que estime conveniente, examinar la contabilidad, registros y demás libros y documentos del organismo denunciado.
+
+ARTICULO 289°- Terminada la investigación, el delegado emitirá un informe fundado. Con el mérito de este informe y de los demás antecedentes acumulados, la Dirección General de Aguas dictará una resolución declarando comprobada o no la denuncia.
+
+ARTICULO 290°- Si se verifican las faltas o abusos denunciados, la Dirección General de Aguas deberá requerir al directorio o administradores para que se corrijan las anomalías en el plazo que al efecto indique.
+
+ARTICULO 291°- A petición de parte interesada, la Dirección General de Aguas podrá investigar la gestión económica de la respectiva organización de usuarios y en caso de comprobar graves faltas o abusos, podrá citar a asamblea o junta general extraordinaria, según el caso para que se pronuncien sobre las irregularidades verificadas.
+Podrá, asimismo, denunciar los hechos a la Justicia Ordinaria, sin necesidad de rendir fianza, si estos hechos fueren constitutivos de delito.
+
+ARTICULO 292°- Comprobada la denuncia, el reclamante tendrá derecho a ser reembolsado de los gastos de la investigación con fondos del organismo denunciado.
+
+ARTICULO 293°- Si continuaren los errores, faltas o abusos denunciados, la Dirección General de Aguas podrá solicitar a la Justicia Ordinaria que decrete la intervención por dicho organismo en la distribución de las aguas, por períodos que no excedan de noventa días, con todas las facultades de los respectivos directorios o administradores. Esas facultades serán ejercidas por la o las personas que designe la Dirección General de Aguas.
+
+## LIBRO TERCERO
+
+### Título I
+DE LA CONSTRUCCION DE CIERTAS OBRAS HIDRÁULICAS
+
+ARTICULO 294°- La construcción de embalses de una capacidad superior a cincuenta mil metros cúbicos o cuyo muro tenga más de 5 metros de altura y los acueductos que conduzcan más de dos metros cúbicos por segundo, requerirán la aprobación previa del Director General de Aguas, de acuerdo al procedimiento de los artículos 130 y siguientes.
+
+ARTICULO 295°- La Dirección General de Aguas otorgará la autorización una vez aprobado el proyecto definitivo y siempre que haya comprobado que la obra no afectará la seguridad de terceros ni producirá la contaminación de las aguas.
+Un reglamento especial fijará las condiciones técnicas que deberán cumplirse en el proyecto, construcción y operación de dichas obras.
+
+ARTICULO 296°- La Dirección General de Aguas supervisará la construcción de dichas obras, pudiendo en cualquier momento, adoptar las medidas tendientes a garantizar su fiel adaptación al proyecto autorizado.
+Las resoluciones que se dicten en conformidad a estas normas deberán ser fundadas y en contra de ellas procederán los recursos a que se refieren los artículos 136° y 137°, de este código, que en estos casos no suspenderán su cumplimiento.
+
+ARTICULO 297°- Los que construyan las obras de que trata este Título deberán constituir las garantías suficientes para caucionar el costo de una eventual demolición de la obra, si fuere abandonada durante la construcción.
+La garantía se constituirá a favor del Fisco y será devuelta una vez entregada la obra a sus usuarios.
+
+### Título II
+DE LAS DIRECCIÓN GENERAL DE AGUAS
+
+ARTICULO 298°- La Dirección General de Aguas es un servicio dependiente del Ministerio de Obras Públicas. El Jefe Superior de este servicio se denominará Director General de Aguas y será de la exclusiva confianza del Presidente de la República.
+
+ARTICULO 299°- La Dirección General de Aguas tendrá las atribuciones y funciones que este código le confiere y, en especial, las siguientes:
+a) Planificar el desarrollo del recurso en las fuentes naturales, con el fin de formular recomendaciones para su aprovechamiento;
+b) Investigar y medir el recurso. Para ello deberá:
+1. Mantener y operar el servicio hidrométrico nacional y proporcionar y publicar la información correspondiente.
+2. Encomendar a empresas u organismos especializados los estudios e informes técnicos que estime conveniente y la construcción, implementación y operación de las obras de medición e investigación que se requiera.
+3. Propender a la coordinación de los programas de investigación que corresponda a las entidades del sector público y a las privadas que realicen esos trabajos con financiamiento parcial del Estado.
+Para la realización de estas funciones la Dirección General de Aguas deberá constituir las servidumbres a que se refiere el artículo 107;
+c) Ejercer la policía y vigilancia de las aguas en los cauces naturales de uso público e impedir que en éstos se haga o destruyan obras sin la autorización correspondiente, y
+d) Supervigilar el funcionamiento de las juntas de vigilancia, de acuerdo con lo dispuesto en este código.
+
+ARTICULO 300°- El Director General de Aguas tendrá los siguientes deberes y atribuciones:
+a) Dictar las normas e instrucciones internas que sean necesarias para la correcta aplicación de las leyes y de los reglamentos que sean de la competencia de la Dirección a su cargo;
+b) Dirigir, coordinar y fiscalizar la labor de la Dirección General de Aguas y adoptar las medidas que sean conducentes al adecuado funcionamiento técnico y administrativo del servicio;
+c) Dictar las resoluciones que corresponda sobre las materias que las leyes encomienden específicamente a los jefes superiores de servicios;
+d) Presentar al Ministerio de Obras Públicas el proyecto de presupuesto de entradas y gastos para cada año;
+e) Preparar los proyectos de contratos que deba celebrar el Fisco en virtud de sus resoluciones, o en cumplimiento de decretos supremos, en los casos establecidos por la ley y sus respectivos reglamentos;
+f) Proponer al Ministro de Obras Públicas las modificaciones legales o reglamentarias que sean procedentes para el mejor cumplimiento de las funciones y objetivos del servicio, y
+g) Delegar parcial o totalmente en funcionarios del servicio una o más de sus facultades y conferirles poderes especiales por un período determinado.
+
+ARTICULO 301°- El Director General de Aguas, en representación del Fisco, podrá celebrar actos y contratos en cumplimiento de las funciones que le corresponden a la Dirección General de Aguas y, en especial, comprar y vender materiales y bienes muebles; aceptar donaciones y recibir erogaciones para la realización de sus fines; contratar pólizas de seguro contra toda clase de riesgos, endosarlas y cancelarlas; percibir y en general, ejecutar todos los actos y contratos necesarios para el cumplimiento de los objetivos que el presente código encomienda a la Dirección General de Aguas.
+
+ARTICULO 302°- El Director General de Aguas será el representante legal de la Dirección General de Aguas.
+En las causas civiles en que sea parte o tenga relación o interés la Dirección General de Aguas o alguno de sus empleados con motivo de actuaciones funcionarias y que se sigan ante Tribunales Ordinarios o Especiales, será aplicable al Director General de Aguas, lo dispuesto en el artículo 361° del Código de Procedimiento Civil.
+
+ARTICULO 303°- Si con motivo de la construcción de obras hidráulicas se alterasen los caudales en cauces naturales o artificiales, la Dirección General de Aguas hará el aforo de sus corrientes y dirimirá las dificultades que se presenten con motivo de su distribución entre los dueños de derechos de aprovechamiento de dichos cauces.
+
+ARTICULO 304°- La Dirección General de Aguas tendrá la vigilancia de las obras de toma en cauces naturales con el objeto de evitar perjuicios en las obras de defensa, inundaciones o el aumento del riesgo de futuras crecidas y podrá ordenar que se modifiquen o destruyan aquellas obras provisionales que no den seguridad ante las creces. Asimismo, podrá ordenar que las bocatomas de los canales permanezcan cerradas ante el peligro de grandes avenidas.
+Podrá igualmente adoptar dichas medidas cuando por el manejo de las obras indicadas se ponga en peligro la vida o bienes de terceros.
+Con tal objeto podrá ordenar también la construcción de las compuertas de cierre y descarga a que se refiere el artículo 38°, si ellas no existieren.
+
+ARTICULO 305°- La Dirección General de Aguas podrá exigir a los propietarios de los canales la construcción de las obras necesarias para proteger caminos, poblaciones u otros terrenos de interés general, de los desbordamientos que sean imputables a defectos de construcción o por una mala operación o conservación del mismo. Con todo, si los desbordamientos se debieran a hechos, u obras ajenas al canal y posteriores a su construcción, las protecciones que sea necesario efectuar no serán de cargo de los propietarios del cauce.
+
+ARTICULO 306°- El incumplimiento de las medidas que se adopten de acuerdo con los dos artículos precedentes, dentro de los plazos fijados, será sancionado con multas no inferiores a 20 ni superiores a 100 unidades tributarias mensuales.
+Estas multas serán determinadas por el Juez de Policía Local correspondiente a solicitud de los perjudicados, de las Municipalidades, Gobernaciones, Intendencias o de cualquier particular.
+Para resolver, el Tribunal podrá requerir informe de la Dirección General de Aguas, el que será evacuado en el plazo máximo de 10 días.
+En caso de no haberse adoptado las medidas de protección ordenadas por la Dirección General de Aguas y repetirse los desbordamientos, las multas podrán reiterarse.
+
+ARTICULO 307°- La Dirección General de Aguas inspeccionará las obras mayores, cuyo deterioro o eventual destrucción pueda afectar a terceros.
+Comprobado el deterioro, la Dirección General de Aguas ordenará su reparación y podrá establecer, mediante resoluciones fundadas, normas transitorias de operación de las obras, las que se mantendrán vigentes mientras no se efectúe su reparación.
+Si ello no se efectuare en los plazos que determine, dictará una resolución fundada, ratificando como permanente la norma de operación transitoria y además podrá aplicar a las organizaciones que administren las obras una multa que no sea inferior a 50 ni superior a 500 unidades tributarias mensuales.
+
+### Título final
+DISPOSICIONES GENERALES
+
+ARTICULO 308°- Deróganse todas las disposiciones legales y reglamentarias que tratan sobre las materias contenidas en el presente Código, y en especial las siguientes:
+Ley N° 9.909; DFL. N° 11, de 1968, del Ministerio de Agricultura; DFL. N° 1-2.603, de 1979, del Ministerio de Agricultura; artículos 94° al 122°, 124°, 126°, 127°, 128°, 130°, 263° al 276°, y artículos transitorios 5°, 6°, 12°, 14° y 17° de la ley N° 16.640; artículo 9° de la ley 11.402; artículo 15 letras c) y d) de la ley 15.840; decreto supremo N° 1.370, de 1951, del Ministerio de Obras Públicas y Vías de Comunicación, que fijó el reglamento sobre atribuciones de la Dirección General de Aguas en Juntas de Vigilancia, Asociaciones de Canalistas y Comunidades de Aguas; decreto N° 1.021, de 1951, del Ministerio de Obras Públicas y Vías de Comunicación, que reglamenta la constitución y estatutos de la Asociación de Canalistas y Juntas de Vigilancia; y decreto supremo N° 745, de 1967, del Ministerio de Obras y Transportes, que establece el reglamento sobre notificaciones de las resoluciones de la Dirección General de Aguas, y DFL. N° 162 de 1969 del Ministerio de Obras Públicas y Transportes, que fijó el texto sistematizado del Código de Aguas.
+
+ARTICULO 309°- Los derechos de aprovechamiento otorgados con anterioridad a este Código, y que no estén expresados en volumen por unidad de tiempo, se entenderán equivalentes al caudal máximo legítimamente aprovechado en los cinco años anteriores a la fecha que se produzca controversia sobre su cuantía.
+
+ARTICULO 310°- Subsistirán los derechos de aprovechamiento reconocidos por sentencia ejecutoriada a la fecha de promulgación de este Código, y los que emanen:
+1. De mercedes concedidas por autoridad competente, sin perjuicio de lo dispuesto en los artículos 2° y 5° transitorios.
+2. De los artículos 834°, 835° y 836° del Código Civil, con relación a los propietarios riberanos y del artículo 944° del mismo Código, adquiridos durante la vigencia de estas disposiciones, siempre que estén en actual uso y ejercicio, y
+3. De prescripción.
+
+ARTICULO 311°- El ejercicio de los derechos de aprovechamiento reconocidos o constituidos bajo la vigencia de leyes anteriores, se regirá por las normas del presente código, excepto lo dispuesto en el inciso final del artículo 18°.
+
+ARTICULO 312°- Para los efectos indicados en el artículo 16, se reputan derechos de ejercicio permanente, a la fecha de promulgación de este código:
+1. Los que emanen de merced concedida con dicha calidad con anterioridad a su promulgación, siempre que sus titulares los hayan ejercido con las mismas facultades que el artículo 17° otorga a los titulares de derechos de ejercicio permanente, concedidos en conformidad al presente código;
+2. Los reconocidos con esta calidad por sentencia ejecutoriada;
+3. Los que emanen de los artículos 834°, 835° y 836° del Código Civil, en relación a los propietarios riberanos; del artículo 944° del mismo Código, adquiridos durante la vigencia de estas disposiciones, y de prescripción, ejercitados en aguas no sometidas a turno o rateo;
+4. Los mismos derechos del número anterior, siempre que hayan sido reconocidos como de ejercicio permanente en aguas sometidas a turno o rateo, y
+5. Los derechos ejercidos con la calidad de permanentes, durante cinco años, sin contradicciones de terceros.
+
+ARTICULO 313°- Para los efectos del artículo 13° se reputan derechos de aprovechamiento consuntivo:
+1. Los que emanen de mercedes concedidas por autoridad competente sin obligación de restituir las aguas;
+2. Los reconocidos con esta calidad por sentencia ejecutoriada, y
+3. Los derechos ejercidos con la calidad de consuntivos durante cinco años, sin contradicción de terceros.
+
+ARTICULO 314°-El Presidente de la República, a petición o con informe de la Dirección General de Aguas, podrá, en épocas de extraordinaria sequía, declarar zonas de escasez por períodos máximos de seis meses, no prorrogables.
+La Dirección General de Aguas calificará, previamente, mediante resolución, las épocas de sequía que revistan el carácter de extraordinarias.
+Declarada la zona de escasez, y no habiendo acuerdo de los usuarios para redistribuir las aguas, la Dirección General de Aguas podrá hacerlo respecto de las disponibles en los cauces naturales de uso público, entre los canales que capten aguas en él, para reducir al mínimo los daños generales derivados de la sequía. Podrá, para ello, suspender las atribuciones de las juntas de vigilancia, como también los seccionamientos de las corrientes naturales que estén comprendidas dentro de la zona de escasez.
+Los decretos supremos y las resoluciones de la Dirección General de Aguas que se dicten en virtud de las facultades conferidas en los incisos anteriores, se cumplirán de inmediato, sin perjuicio de la posterior toma de razón por la Contraloría General de la República.
+Todo aquel titular de derechos que reciba menor proporción de aguas que la que le correspondería de conformidad a las disponibilidades existentes, tendrá derecho a ser indemnizado por el Fisco.
+Esta declaración de zona de escasez no será aplicable a las aguas acumuladas en embalses particulares.
+
+ARTICULO 315°- En las corrientes naturales o en los cauces artificiales en que aún no se hayan constituido organizaciones de usuarios, de acuerdo con las disposiciones de este código, la Dirección General de Aguas, podrá, a petición de parte, hacerse cargo de la distribución en zonas declaradas de escasez.
+En tal caso, las personas designadas con dicho objeto por la Dirección, actuarán con todas las atribuciones que la ley confiere a los directores o administradores de dichos organismos, según corresponda, siendo aplicable lo dispuesto en el artículo 275°.
+
+ARTICULO 316°- Las prohibiciones y sanciones impuestas en el Código de Minería, sobre labores de investigación y cateo de minas, son aplicables a los terrenos que ocupen los embalses, canales y demás obras de riego.
+
+## DISPOSICIONES TRANSITORIAS
+
+ARTICULO 1°- Los derechos de aprovechamineto inscritos en el Registro de Aguas respectivo y que en posteriores transferencias o transmisiones no lo hubieren sido, podrán regularizarse mediante la inscripción de los títulos correspondientes desde su actual dueño hasta llegar a la inscripción de la cual proceden.
+Si no pudiere aplicarse lo establecido en el inciso anterior, el juez, ordenará la inscripción y deberá, en todo caso, tener a la vista copia autorizada de la inscripción de dominio del inmueble en que se aprovechen las aguas, con certificado de vigencia de no más de 30 días de expedido; comprobantes tales como recibos de pago de cuotas de la respectiva asociación de canalistas o comunidades de agua; copia de la escritura pública a que se redujo el acta de la sesión del directorio o de la asamblea, de la asociación, sociedad o comunidad en la cual conste la calidad de socio o comunero del interesado, y otros documentos útiles.
+
+ARTICULO 2°- Los derechos de aprovechamiento inscritos que estén siendo utilizados por personas distintas de sus titulares a la fecha de entrar en vigencia este código, podrán regularizarse cuando dichos usuarios hayan cumplido cinco años de uso ininterrumpido, contados desde la fecha en que hubieren comenzado a hacerlo, en conformidad con las reglas siguientes:
+a) La utilización deberá haberse efectuado libre de clandestinidad o violencia, y sin reconocer dominio ajeno;
+b) La solicitud se elevará a la Dirección General de Aguas ajustándose en la forma, plazos y trámites a lo prescrito en el párrafo 1° del Título I del Libro II de este código;
+c) Los terceros afectados podrán deducir oposición mediante presentación que se sujetará a las reglas señaladas en la letra anterior, y
+d) Vencidos los plazos legales, la Dirección General de Aguas remitirá la solicitud y todos los antecedentes más la oposición, si la hubiere, al Juez de Letras en lo Civil competente, quien conocerá y fallará de acuerdo al procedimiento establecido en el artículo 177 y siguientes de este código.
+El mismo procedimiento se aplicará en los casos de las personas que, cumpliendo todos los requisitos indicados en el inciso anterior, solicitaren inscribir derechos de aprovechamiento no inscritos, y aquellos que se extraen en forma individual de una fuente natural.
+
+ARTICULO 3°- Las hipotecas constituidas sobre inmuebles con anterioridad a la vigencia de este código, comprenderán los derechos de aprovechamiento de las aguas destinadas a su uso, cultivo o beneficio, salvo que se hubiese estipulado lo contrario.
+
+ARTICULO 4°- La persona a cuyo nombre estuviesen inscritos derechos de aprovechamiento que, de acuerdo con el título del predio, estuvieren destinados al uso, cultivo o beneficio de un inmueble que hubiese sido expropiado totalmente por la ex Corporación de la Reforma Agraria, no podrá enajenarlos.
+Si la expropiación hubiere sido parcial, o si habiendo sido total se le hubiere reconocido una reserva, o se hubiere excluido de la expropiación una parte del predio, podrá enajenar los derechos correspondientes a la reserva o a la parte excluida de la expropiación, siempre que se inscriban en conformidad al artículo siguiente.
+
+ARTICULO 5°- La inscripción de los derechos de aprovechamiento correspondientes a predios expropiados total o parcialmente por aplicación de la ley N° 16.640, podrá efectuarse de acuerdo a las reglas siguientes:
+1. Si existe acuerdo entre el expropiado, asignatario o adquirente y la ex Corporación de la Reforma Agraria o la institución que le suceda o reemplace, respecto a la dotación de agua que corresponde a la reserva o porción del predio excluida de la expropiación, a la parcela asignada o parte del predio expropiado objeto de adquisición, se procederá de acuerdo a lo establecido en el artículo 1° transitorio. En este caso, el estudio técnico de división de las aguas aprobado por la Corporación o su sucesora legal, será suficiente para determinar la cantidad de derechos que corresponde a cada predio. Si dicho estudio técnico no existiere, cualquiera de los interesados podrá realizarlo, y en tal caso su aprobación se efectuará por la Dirección General de Aguas.
+2. Si no hubiere acuerdo, cualquiera de los interesados podrá recurrir a la Justicia Ordinaria, la que conocerá y fallará el asunto de acuerdo a las reglas del Título II del Libro II de este código.
+
+ARTICULO 6°- Los derechos de aprovechamiento otorgados provisionalmente de acuerdo a las normas del código que se deroga, continuarán tramitándose hasta obtener la concesión definitiva conforme a dichas normas.
+
+ARTICULO 7°- Las solicitudes de concesión de mercedes de agua que se encuentran actualmente pendientes, deberán ajustarse en su contenido y tramitación a lo dispuesto en el párrafo 2°, del Título I, del Libro II, si no se hubieren efectuado las publicaciones a que se refiere el artículo 252 del código que se deroga.
+En aquellos casos en que tales publicaciones ya se hubieren efectuado a la fecha de entrar en vigencia este cuerpo legal, continuará corriendo el plazo de oposición establecido en el artículo 253 del anterior código, debiendo el procedimiento posterior ajustarse a las normas indicadas en el inciso precedente. Para los efectos de lo dispuesto en el inciso 3° del artículo 141, el plazo en él indicado se contará desde los sesenta días siguientes a la fecha de su entrada en vigencia, sin que los peticionarios necesiten efectuar nuevas presentaciones.
+La Dirección General de Aguas deberá publicar avisos que informen sobre las solicitudes pendientes, a lo menos con 10 días de anterioridad al vencimiento de los sesenta días antes mencionados.
+
+ARTICULO 8°- En el Registro de Aguas del Conservador de Bienes Raíces se inscribirán las escrituras públicas que contengan la resolución de concesión definitiva a la que se refiere el artículo 266° del Código de Aguas aprobado por decreto con fuerza de ley N° 162, de 1969, otorgadas con posterioridad a la vigencia de dicho Código.
+
+ARTICULO 9°- Hasta que no se dicten las disposiciones legales referentes a la conservación y protección de las aguas, corresponderá a la Dirección General de Aguas aplicar la política sobre la materia y coordinar las funciones que, de acuerdo a la legislación vigente, correspondan a los distintos organismos y servicios públicos.
+
+ARTICULO 10°- Se faculta al Servicio Nacional de Obras Sanitarias, a la Empresa Metropolitana de Obras Sanitarias y a la Empresa de Obras Sanitarias de Valparaíso, para continuar aprovechando las aguas que utilicen efectivamente a la fecha de entrar en vigencia este código y sobre las cuales no tengan derechos constituidos, sin perjuicio de los derechos de terceros.
+Facúltase a la Dirección General de Aguas para que dentro del plazo de dos años contados desde la vigencia de este código les otorgue los derechos de aprovechamiento respectivos de acuerdo al procedimiento contemplado en el párrafo I del Título I del Libro II.
+El aprovechamiento efectivo se acreditará solamente con la existencia de obras aparentes en actual funcionamiento.
+
+ARTICULO 11°- La Dirección General de Aguas, a petición de la Comisión Nacional de Riego y previo informe de la Dirección de Riego, otorgará derechos de aprovechamiento en las obras de riego construidas por el Estado y total o parcialmente terminadas, cuya entrega se haya efectuado o se efectúe a sus beneficiarios.
+
+ARTICULO 12°- Toda solicitud que, de conformidad con el Código de Aguas, cuyo texto sistematizado se aprobó por decreto con fuerza de ley N° 162, de 1969, del Ministerio de Justicia, tuviere un procedimiento judicial o administrativo especial, continuará rigiéndose hasta su término por dichas normas, pero los derechos que ella origine se regirán por el presente código.
+
+ARTICULO 13°- El actual Registro de Aguas que llevan los Conservadores de Bienes Raíces constituirá el Registro de Aguas establecido por el artículo 12° del presente código.
+No será necesario reinscribir los derechos de agua que estuvieren vigentes.
+
+Tómese razón, comuníquese, publíquese e insértese en la Recopilación Oficial de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Mónica Madariaga Gutiérrez, Ministro de Justicia.- Rolando Ramos Muñoz, Brigadier General, Ministro de Economía, Fomento y Reconstrucción.- Patricio Torres Rojas, Brigadier General, Ministro de Obras Públicas.- Luis Simón Figueroa del Río, Ministro de Agricultura subrogante.
+Lo que transcribo para su conocimiento.- Le saluda atentamente.- Francisco José Folch Verdugo, Subsecretario de Justicia.
