@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1989-11-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1990-02-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1989-11-13
-fetched_at: 2026-08-03T00:48:10.562073+00:00
+version_date: 1990-02-21
+fetched_at: 2026-08-03T00:49:28.648796+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -46,7 +46,14 @@ El Reglamento orgánico de los Servicios de Salud está contenido en el Decreto 
 
 Artículo 6°.- Las definiciones que se contienen en los preceptos siguientes, valdrán para el solo efecto de la aplicación de este Código y de sus reglamentos.
 
-Articulo 7°.- Las autorizaciones o permisos concedidos por los Servicios de Salud, de acuerdo con las atribuciones de este Código, tendrán la duración que para cada caso se establezca en los respectivos reglamentos, con un mínimo de tres años. Estos plazos se entenderán automática y sucesivamente prorrogados por períodos iguales, mientras no sean expresamente dejados sin efecto.
+Artículo 7°.- Las autorizaciones o permisos concedidos por los Servicios de Salud, de acuerdo con las atribuciones de este Código, tendrán la duración que para cada caso se establezca en los respectivos reglamentos, con un mínimo de tres años. Estos plazos se entenderán automática y sucesivamente prorrogados por períodos iguales, mientras no sean expresamente dejados sin efecto.
+La autoridad sanitaria ante quien se presente una solicitud de autorización o permiso, deberá pronunciarse dentro del plazo de 30 días hábiles, contado desde que el requirente complete los antecedentes exigidos para ello, y en caso de denegarla, deberá hacerlo fundadamente.
+Si la autoridad sanitaria no emitiere un pronunciamiento dentro de dicho plazo, la autorización se entenderá concedida salvo respecto de aquellas materias que de acuerdo con la ley requieren autorización expresa.
+Estas últimas actividades no podrán iniciar su funcionamiento mientras no obtengan la autorización sanitaria respectiva.
+NOTA:
+El Art. 12 de la ley 18796, publicada el 24.05.1989, dispone que la modificación introducida al presente artículo por el Art. 10° letra a) de la misma ley, comenzará a regir a contar de la fecha de publicación del decreto con fuerza de ley que determine las materias que requieren de autorización sanitaria expresa. El referido D.F.L. es el N° 1, Salud, publicado el 21 de febrero de 1990.
+NOTA 1:
+El Decreto con fuerza de ley N° 1, Salud, publicado el 21.02.1990, dictado en uso de la facultad conferida por el Art. 11 de la LEY 18796, publicada el 24.05.1989, determina las materias que requieren de autorización sanitaria expresa, de conformidad con el presente artículo.
 
 Artículo 8°.- Para el cumplimiento de las órdenes que expida en conformidad a las facultades que le concede el presente Código y sus reglamentos, el Director General de Salud podrá requerir el auxilio de la fuerza pública directamente de la Unidad del Cuerpo de Carabineros de Chile más cercana y éstas estarán obligadas a proporcionarla.
 
@@ -599,6 +606,7 @@ NOTA:
 Los establecimientos de óptica podrán abrir l
 NOTA:
 ocales destinados a la recepción y al despacho de recetas médicas en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente.
+NOTA:
 NOTA:
 Véase el Decreto 4, Salud, publicado el 13.03.1985, sobre Establecimientos de Óptica.
 
