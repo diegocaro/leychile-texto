@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1971-06-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1971-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1971-06-09
-fetched_at: 2026-08-03T00:21:12.479420+00:00
+version_date: 1971-08-30
+fetched_at: 2026-08-03T00:21:24.490164+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2172,7 +2172,7 @@ ART. 446.
 Los reos de hurto serán castigados:
 1.o Con presidio menor en sus grados medio a máximo, si el valor de la cosa hurtada excediere de cuarenta sueldos vitales;
 2.o Con presidio menor en su grado medio, cuando su valor excediere de cuatro sueldos vitales y no pasare de cuarenta sueldos vitales;
-3.o Con presidio menor en su grado mínimo si el importe de la cosa hurtada no subiere de un sueldo vital ni bajare de seis mil pesos.
+3.o Con presidio menor en su grado mínimo si el importe de la cosa hurtada no subiere de cuatro sueldos vitales ni bajare de medio sueldo vital.
 Si el valor de la cosa hurtada excediere de cuatrocientos sueldos vitales, se aplicará la pena de presidio menor en su grado máximo.
 
 ART. 447.
@@ -2287,7 +2287,7 @@ ART. 467.
 El que defraude a otro en la substancia, cantidad o calidad de las cosas que le entregare en virtud de un título obligatorio, será penado:
 1.o Con presidio menor en su grado medio a máximo, si la defraudación excediere de cuarenta sueldos vitales;
 2.o Con presidio menor en su grado medio, cuando excediere de cuatro sueldos vitales y no pasare de cuarenta sueldos vitales;
-3.o Con presidio menor en su grado mínimo, si el valor de la defraudación no excediere de cuatro sueldos vitales ni bajare de un sueldo vital.
+3.o Con presidio menor en su grado mínimo, si el valor de la defraudación no excediere de cuatro sueldos vitales ni bajare de medio sueldo vital.
 Si el valor de la cosa defraudada excediere de cuatrocientos sueldos vitales, se aplicará la pena de presidio menor en su grado máximo.
 
 ART. 468.
