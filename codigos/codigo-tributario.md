@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1975-02-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1975-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1975-02-18
-fetched_at: 2026-08-03T00:24:38.530950+00:00
+version_date: 1975-03-01
+fetched_at: 2026-08-03T00:24:44.531161+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -74,7 +74,7 @@ Artículo 8.- Para los fines del presente Código y demás leyes tributarias, sa
 1°.- Por "Director", el "Director de Impuestos Internos", y por "Director Regional", el "Director de la Dirección Regional del territorio jurisdiccional correspondiente".
 2°.- Por "Dirección", la "Dirección Nacional de Impuestos Internos", y por "Dirección Regional", aquélla que corresponda al territorio jurisdiccional respectivo.
 3°.- Por "Servicio", el Servicio de Impuestos Internos.
-4°. Por "Tesorería", el "Servicio de Tesorería General de la República".
+4°.- Por "Tesorería", el "Servicio de Tesorería General de la República".
 5°.- Por "contribuyente", las personas naturales y jurídicas, o los administradores y tenedores de bienes ajenos afectados por impuestos.
 6°.- Por "representante", los guardadores, mandatarios, administradores, interventores, síndicos y cualquiera persona natural o jurídica que obre por cuenta o en beneficio de otra persona natural o jurídica.
 7°.- Por "persona", las personas naturales o jurídicas y los "representantes".
@@ -83,7 +83,6 @@ Artículo 8.- Para los fines del presente Código y demás leyes tributarias, sa
 Para todos los efectos tributarios, los sueldos vitales mensuales o anuales, o sus porcentajes se expresarán en miles de escudos, despreciándose las cifras inferiores a quinientos escudos, y elevando las iguales o mayores a esta cifra al millar superior.
 10°.- Por "unidad tributaria", la cantidad de dinero cuyo monto, determinado por ley y permanentemente actualizado, sirve como medida o como punto de referencia tributario; y por "unidad tributaria anual", aquélla vigente en el último mes del año comercial respectivo, multiplicada por doce o por el número de meses que comprenda el citado año comercial.
 La unidad tributaria mensual o anual se expresará siempre en miles de escudos, despreciándose las cifras inferiores a quinientos escudos, y elevándose las iguales o mayores a esta suma al millar superior.
-Para los fines del impuesto único de Segunda Categoría establecido en la Ley sobre Impuesto a la Renta, se considerará la unidad tributaria que rija en los meses de Marzo, Junio, Septiembre y Diciembre de cada año.
 11°.- Por "índice de precios al consumidor", aquél fijado por el Instituto Nacional de Estadística.
 12°.- Por "instrumentos de cambio internacional", el oro, la moneda extranjera, los efectos de comercio expresados en moneda extranjera, y todos aquellos instrumentos que, según las leyes, sirvan para efectuar operaciones de cambios internacionales.
 
@@ -343,7 +342,7 @@ La citación, liquidación, giro y demás actuaciones administrativas correspond
 ###### Párrafo 3°.
 De otros medios de fiscalización
 
-Artículo 72.- Las Oficinas de Identificación de la República no podrán extender pasaportes sin que previamente el peticionario les acredite que se encuentra inscrito en el Rol Unico Tributario.
+Artículo 72.- Las Oficinas de Identificación de la República no podrán extender pasaportes sin que previamente el peticionario les acredite encontrarse en posesión del Rol Unico Nacional, o tener carnet de identidad con número nacional y dígito verificador, o estar inscrito en el Rol Unico Tributario. No será necesario esta exigencia por parte de las Oficinas de Identificación cuando los interesados deban acreditar el pago del impuesto de viaje o estar exento del mismo.
 El Servicio de Investigaciones no podrá autorizar la salida del país de las personas investigadas por presuntas infracciones a las leyes tributarias sancionadas con pena corporal sin exigir previamente en cada caso un certificado del Servicio de Impuestos Internos que acredite que el contribuyente ha otorgado caución suficiente, a juicio del Director Regional.
 Para estos efectos el Servicio de Impuestos Internos deberá enviar al Departamento de Policía Internacional una nómina de los contribuyentes que se encuentren investigados por presuntas infracciones a las leyes tributarias sancionadas con pena corporal.
 
@@ -968,8 +967,7 @@ Artículo 2°.- Los términos que hubieren empezado a correr, y las actuaciones 
 
 Artículo 3°.- Para los efectos de la reajustabilidad que establece el artículo 53°, todas las deudas impagas al 31 de Diciembre de 1973, se considerarán vencidas con esa misma fecha.
 
-Artículo 4°.- A partir del 1° de Enero de 1975, la unidad tributaria se fija en la suma de E° 37.000. Desde el mes de Febrero de 1975, el valor de la unidad tributaria se actualizará mensualmente considerando el porcentaje de variación que experimente el índice de precios al consumidor entre el mes de Diciembre de 1974 y el mes anterior al correspondiente a la actualización de dicha unidad.
-Durante el año calendario 1975, la unidad tributaria mensual para los fines del impuesto único de Segunda Categoría sobre los sueldos, salarios y pensiones se reajustará en los meses de Marzo, Junio, Septiembre y Diciembre de 1975, de acuerdo con la variación experimentada por el índice de precios al consumidor entre los meses de Noviembre de 1974 y Enero de 1975, Febrero y Abril de 1975, Mayo y Julio de 1975, y Agosto y Octubre de 1975, respectivamente.
+Artículo 4°.- A partir del 1° de Enero de 1975, la unidad tributaria se fija en la suma de E° 37.000. En el mes de Marzo de 1975, el valor de la unidad tributaria se reajustará de acuerdo con el porcentaje de variación que experimente el índice de precios al consumidor entre los meses de Noviembre de 1974, y Enero de 1975. A partir del mes de Abril de 1975, el monto de la unidad tributaria se reajustará mensualmente de acuerdo con el porcentaje de variación que experimente el índice de precios al consumidor en el segundo mes que anteceda al correspondiente a la actualización de dicha unidad.
 
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Jorge Cauas Lama, Ministro de Hacienda.
 Lo que transcribo a U.- para su conocimiento.- Saluda atentamente a U.- Pedro Larrondo Jara, Capitán de Navío (AB.), Subsecretario de Hacienda.
