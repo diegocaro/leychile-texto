@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1980-07-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1980-09-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1980-07-25
-fetched_at: 2026-08-03T00:31:59.212995+00:00
+version_date: 1980-09-25
+fetched_at: 2026-08-03T00:32:17.225274+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -291,7 +291,7 @@ Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a 
 3° Las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción tendrán siete miembros, y
 4° La Corte de Santiago tendrá veintiún miembros.
 
-Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado desde el 1° de Enero y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
+Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente, el que será nombrado por la misma Corte de entre sus miembros, y durará en sus funciones dos años contados desde el día 1° del mes siguiente al de su elección, no pudiendo ser reelegido.
 Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón.
 
 Art. 58. Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá cinco Fiscales, y las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal, como lo estime más conveniente para el mejor servicio, con audiencia de estos funcionarios.
@@ -440,7 +440,7 @@ La Corte Suprema
 ### § 1. Su organización y atribuciones
 
 Art. 93. La Corte Suprema se compondrá de trece miembros, uno de los cuales será su Presidente.
-El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones tres años, pudiendo ser reelegido.
+El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones cinco años, pudiendo ser reelegido.
 Los demás miembros se llamarán ministros y gozarán de precedencia los unos respecto de los otros por el orden de su antigüedad.
 La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y tres relatores.
 
