@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=1998-07-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=1999-10-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 29668
-version_date: 1998-07-25
-fetched_at: 2026-08-03T01:06:50.615984+00:00
+version_date: 1999-10-07
+fetched_at: 2026-08-03T01:08:58.641512+00:00
 titulo_norma: "CODIGO DE MINERIA"
 compuesto: LEY-18248
 organismos: ['MINISTERIO DE MINERIA']
@@ -708,11 +708,13 @@ hasta el momento del remate, pagando el doble del valor
 NOTA: 7
 adeudado.
 NOTA: 5
-El artículo único de la Ley N° 19.201, publicada en el "Diario Oficial" de 3 de Febrero de 1993, prorrogó por única vez, hasta el 28 de febrero de 1993, el pago de la patente minera anual que debió efectuarse en el curso del mes de marzo de 1992, sin el recargo establecido en el presente inciso, aun cuando la concesión minera de que se trate se encuentre en trámite de remate. El dueño de la concesión que hubiere eliminado ésta de la subasta, pagando el doble del valor adeudado como patente, tendrá derecho a solicitar el reembolso de lo pagado a título de sanción.
+El artículo único de la LEY 19201, publicada el 03.02.1993, prorrogó por única vez, hasta el 28 de febrero de 1993, el pago de la patente minera anual que debió efectuarse en el curso del mes de marzo de 1992, en la forma y condiciones que dicha norma indica.
 NOTA: 6
-El Artículo único de la Ley N° 19.294, publicada en el "Diario Oficial" de 3 de Marzo de 1994, prorrogó, hasta el 30 de Junio de 1994, a los titulares de concesiones mineras, el plazo para el pago de la patente anual que debió efectuarse en el curso del mes de marzo de 1993. Dicho pago se hará tomando como base el valor que la unidad tributaria mensual tenga en el mes en que se haga el respectivo pago efectivo; sin el recargo establecido en el presente inciso segundo, aun cuando la concesión minera de que se trate se encuentre en trámite de remate. El dueño de la concesión minera que hubiere eliminado ésta de la subasta, pagando el doble del valor adeudado como patente, tendrá derecho a solicitar que lo pagado a título de sanción se impute al pago de la patente que deberá pagar en marzo de 1994.
+El Artículo único de la LEY 19294, publicada el 03.03.1994, prorrogó, hasta el 30 de Junio de 1994, a los titulares de concesiones mineras, el plazo para el pago de la patente anual que debió efectuarse en el curso del mes de marzo de 1993. Dicho pago se hará en la forma que la norma indica.
 NOTA: 7
-Ver Ley N° 19.349, publicada en el "Diario Oficial" de 11 de noviembre de 1994, que establece nuevo plazo para pago de patentes mineras que indica.
+Ver LEY 19349, publicada el 11.11.1994, que establece nuevo plazo para pago de patentes mineras que indica.
+NOTA: 8
+Ver LEY 19639, publicada el 07.10.1999, que suspende por una vez la aplicación del recargo establecido en este inciso, a los pequeños mineros y mineros artesanales en la forma que indica.
 
 Artículo 150.- Para enterar el precio de la subasta, el rematante pagará la parte correspondiente a las costas causadas en la gestión, en proporción al precio de remate, tasadas por el secretario; acompañará testimonio de haber pagado las patentes adeudadas y depositará el resto, si lo hubiere, a la orden del juzgado. Este saldo será entregado al anterior concesionario.
 
