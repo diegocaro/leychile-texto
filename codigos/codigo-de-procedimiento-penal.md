@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1993-02-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1993-05-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1993-02-02
-fetched_at: 2026-08-03T00:54:56.186075+00:00
+version_date: 1993-05-17
+fetched_at: 2026-08-03T00:55:15.618500+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2087,6 +2087,14 @@ En las causas acumuladas y en las que habiendo sido objeto de desacumulación de
 Art. 504. (532) Toda sentencia condenatoria expresará la obligación del condenado de pagar las costas de la causa.
 Estas comprenden tanto las procesales como las personales y además los gastos ocasionados por el juicio y que no se incluyen en la costas.
 La sentencia condenatoria podrá disponer también el comiso de los instrumentos o efectos del delito cuando fuera procedente, o decretar su restitución cuando no deban caer en comiso.
+
+Art. 505. (533) La sentencia de primera instancia y el cúmplase de las de segunda se notificarán en persona al reo y no a sus representantes.
+NOTA:
+Después de leérsele la sentencia de primera instancia, se le dirá al reo que tiene derecho de apelar; y el que lo notificare pondrá en la diligencia testimonio de que así lo hizo; y de si el reo apela o se reserva para deducir más tarde el recurso, sin que éste pueda conformarse en ese acto con el fallo condenatorio.
+El cúmplase de la sentencia de segunda instancia será leído al reo junto con esta sentencia.
+No obstante lo establecido en los incisos anteriores, el cúmplase de la sentencia de segunda instancia se notificará al condenado o a su representante, indistintamente.
+NOTA:
+El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
 
 Art. 506. (534) Si el estudio de los antecedentes produjere en el juez el convencimiento de que el delito de que se trata es una mera falta, dictará su sentencia con arreglo a esa convicción, pero conformándose a las disposiciones de este título.
 
