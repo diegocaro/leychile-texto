@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2003-11-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2003-12-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2003-11-01
-fetched_at: 2026-08-03T01:22:23.188658+00:00
+version_date: 2003-12-20
+fetched_at: 2026-08-03T01:22:41.193558+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -204,7 +204,10 @@ Descanso semanal
 Art. 35. Los días domingo y aquellos que la ley declare festivos serán de descanso, salvo respecto de las actividades autorizadas por ley para trabajar en esos días.
 Se declara Día Nacional del Trabajo el 1º de mayo de cada año. Este día será feriado.
 
-Art. 36. El descanso y las obligaciones y prohibiciones establecidas al respecto en el artículo anterior empezarán a más tardar a las 21 horas del día anterior al domingo o festivo y terminarán a las 6 horas del día siguiente de éstos, salvo las alteraciones horarias que se produzcan con motivo de la rotación en los turnos de trabajo.
+Artículo 35 bis.- Las partes podrán pactar que la jornada de trabajo correspondiente a un día hábil entre dos días feriados, o entre un día feriado y un día sábado o domingo, según el caso, sea de descanso, con goce de remuneraciones, acordando la compensación de las horas no trabajadas mediante la prestación de servicios con anterioridad o posterioridad a dicha fecha. No serán horas extraordinarias las trabajadas en compensación del descanso pactado.
+Dicho pacto deberá constar por escrito. Tratándose de empresas o faenas no exceptuadas del descanso dominical, en ningún caso podrá acordarse que la compensación se realice en día domingo.
+
+Art. 36. El descanso y las obligaciones y prohibiciones establecidas al respecto en los dos artículos anteriores empezarán a más tardar a las 21 horas del día anterior al domingo o festivo y terminarán a las 6 horas del día siguiente de éstos, salvo las alteraciones horarias que se produzcan con motivo de la rotación en los turnos de trabajo.
 
 Art. 37. Las empresas o faenas no exceptuadas del descanso dominical no podrán distribuir la jornada ordinaria de trabajo en forma que incluya el día domingo o festivo, salvo en caso de fuerza mayor.
 Si la Dirección del Trabajo estableciere fundadamente que no hubo fuerza mayor, el empleador deberá pagar las horas como extraordinarias y se le aplicará una multa con arreglo a lo previsto en el artículo 477.
