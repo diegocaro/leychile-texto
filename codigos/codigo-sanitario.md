@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1983-12-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1984-02-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1983-12-13
-fetched_at: 2026-08-03T00:38:40.323482+00:00
+version_date: 1984-02-20
+fetched_at: 2026-08-03T00:39:16.353578+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -184,9 +184,7 @@ DE LOS LABORATORIOS DE SALUD PUBLICA
 
 Artículo 42°.- El Servicio Nacional de Salud es
 NOTA
-tablecerá en
-NOTA
-los puntos del territorio de la República que sea necesario, los laboratorios indispensables para realizar los análisis e investigaciones que se estimen apropiadas para proteger y mantener la salud pública.
+tablecerá en los puntos del territorio de la República que sea necesario, los laboratorios indispensables para realizar los análisis e investigaciones que se estimen apropiadas para proteger y mantener la salud pública.
 NOTA
 Véase el Capítulo IV, Arts. 35 a 45, del Decreto Ley 2763, Salud, publicado el 03.08.1979, que crea el Instituto de Salud Pública de Chile "Dr. Eugenio Suárez Herreros", como continuador legal, con todos sus derechos y obligaciones, del ex Servicio Nacional de Salud, en lo referente al ex Instituto Bacteriológico de Chile.
 
@@ -465,11 +463,19 @@ Artículo 105°.- El Ministerio de Salud aprobará la o las farmacopeas que regi
 NOTA:
 Véase el Decreto 192, Salud, publicado el 18.08.1977, que establece el orden de precedencia de los textos oficiales sobre farmacopea y sus suplementos, que regirán en el país.
 
-Artículo 106°.- La fabricación, importación, transferencia, posesión, tenencia o consumo de narcóticos, estupefacientes, alucinógenos y demás substancias que produzcan efectos análogos, se someterán a las disposiciones de un Reglamento especial, como asimismo, el tránsito en la República hacia países extranjeros de estas substancias, respetándose las obligaciones contraídas por el Estado en sus Convenios y Tratados Internacionales.
+Artículo 106°.- La fabricación, importación, transferencia,
+NOTA
+posesión, tenencia o consumo de narcóticos,
+NOTA 1
+estupefacientes, alucinógenos y demás substancias que produzcan efectos análogos, se someterán a las disposiciones de un Reglamento especial, como asimismo, el tránsito en la República hacia países extranjeros de estas substancias, respetándose las obligaciones contraídas por el Estado en sus Convenios y Tratados Internacionales.
 NOTA
 Véase el Decreto 35, Relaciones Exteriores, publicado el 16.05.1968, que sanciona la Convención Única de Estupefacientes, firmada en Nueva York el 30 de marzo de 1961.
+NOTA 1
+Véase el Decreto 403, Salud, publicado el 20.02.1984, que aprueba el Reglamento de Estupefacientes.
 
 Artículo 107°.- Cuando lo requiera la debida protección de la salud pública, el Presidente de la República podrá, previo informe del Director General de Salud, aplicar las normas contenidas en el artículo anterior a medicamentos tales como estimulantes, sedativos, hipnóticos, tranquilizantes o ataráxicos.
+NOTA:
+Véase el Decreto 405, Salud, publicado el 20.02.1984, que aprueba el Reglamento de Productos Psicotrópicos.
 
 ### TITULO III
 DE LOS PRODUCTOS ALIMENTICIOS
@@ -497,7 +503,9 @@ Artículo 112°.- Sólo podrán desempeñar actividades propia de la medicina, o
 Asimismo, podrán ejercer profesiones auxiliares de las referidas en el inciso anterior quienes cuenten con autorización del Director General de Salud. Un reglamento determinará las profesiones auxiliares y la forma y condiciones en que se concederá dicha autorización, la que será permanente, a menos que el Director General de Salud, por resolución fundada, disponga su cancelación.
 No obstante lo dispuesto en el inciso primero, con la autorización del Director General de Salud podrán desempeñarse como médicos, dentistas, químico-farmacéuticos o matronas en barcos, islas o lugares apartados, aquellas personas que acreditaren título profesional otorgado en el extranjero.
 
-Artículo 113°.- Se considera ejercicio ilegal de la profesión de médico-cirujano todo acto realizado con el propósito de formular diagnóstico, pronóstico o tratamiento en pacientes o consultantes, en forma
+Artículo 113°.- Se considera ejercicio ilegal
+NOTA
+de la profesión de médico-cirujano todo acto realizado con el propósito de formular diagnóstico, pronóstico o tratamiento en pacientes o consultantes, en forma
 NOTA
 directa o indirecta, por personas que no están legalmente autorizadas para el ejercicio de la medicina.
 Los servicios profesionales del psicólogo comprenden la aplicación de principios y procedimientos psicológicos que tienen por finalidad asistir, aconsejar o hacer psicoterapia a las personas con el propósito de promover el óptimo desarrollo potencial de su personalidad o corregir sus alteraciones o desajustes. Cuando estos profesionales presten sus servicios a personas que estén mentalmente enfermas, deberán poner de inmediato este hecho en conocimiento de un médico especialista y podrán colaborar con éste en la atención del enfermo.
