@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1992-01-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1993-02-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1992-01-04
-fetched_at: 2026-08-03T00:52:10.792338+00:00
+version_date: 1993-02-02
+fetched_at: 2026-08-03T00:54:56.186075+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1133,7 +1133,9 @@ Artículo 275.- La resolución en que el inculpado sea sometido a proceso o mand
 La que lo somete a proceso enunciará, además, los antecedentes tenidos en consideración y describirá sucintamente los hechos que constituyan las infracciones penales imputadas.
 En la misma r
 NOTA 1.1
-esolución, el juez ordenará la filiación del procesado por el servicio correspondiente y concederá la excarcelación al procesado, fijando en su caso la cuantía de la fianza, cuando el delito por el cual se le enjuicia haga procedente ese beneficio en alguna de las formas previstas en los artículos 357 ó 359, a menos que exista motivo para mantenerlo en prisión preventiva, el que deberá expresar.
+esolución, el juez ordenará la filiación del procesado por el servicio correspondiente y concederá la excarcelación al procesado, fijando en su caso la cuantía de la fianza, cuando el delito por el cual se le enjuicia haga procedente ese beneficio en alguna de las formas previstas en los artículo
+NOTA 1.1
+s 357 ó 359, a menos que exista motivo para mantenerlo en prisión preventiva, el que deberá expresar.
 Si fuere necesario, las decisiones a que se refiere el inciso precedente podrán ser dictadas en resoluciones separadas.
 NOTA 1.1
 Las modificaciones introducidas al presente Código por la Ley N° 18.857, publicada en el Diario Oficial de 6 de Diciembre de 1989, rigen, según lo dispone su artículo vigésimo, noventa días después de su publicación en el Diario Oficial.
@@ -1263,6 +1265,9 @@ No se decretará arraigo tratándose de delitos que sólo hacen procedentes la c
 Las resoluciones que den lugar al arraigo o lo denieguen, serán apelables en el solo efecto devolutivo, y la vista del recurso gozará de la preferencia establecida en el inciso quinto del artículo 69 del Código Orgánico de Tribunales.
 
 Art. 305 bis B. El arraigo podrá decretarse de oficio, a petición del Ministerio Público o del querellante particular y producirá efecto por el solo hecho de decretarse; no obstante, deberá ser comunicado personalmente al afectado por el organismo policial que el tribunal determine, sin perjuicio de su notificación judicial una vez que preste declaración indagatoria.
+
+Art. 305 bis C. No obstante lo dispuesto en el artículo 305 bis A, las órdenes de detención y la resolución que somete a proceso al inculpado llevan consigo el arraigo, mientras están vigentes en el proceso y aun cuando el inculpado o procesado se encuentre en libertad provisional.
+Producen también arraigo de pleno derecho las sentencias condenatorias que impongan penas privativas o restrictivas de libertad que deban cumplirse en el país mientras no se ejecuten o extingan y aun en los casos en que el condenado se encuentre en libertad condicional o esté suspendida la ejecución de la pena en virtud de alguno de los beneficios establecidos en la ley N° 18.216.
 
 Art. 305 bis D. Las personas afectadas por el arraigo, sea judicial o de pleno derecho, sólo podrán ausentarse del territorio nacional con autorización del juez que conozca o haya conocido de la causa, por el tiempo que en la misma resolución se fije, y sin que se paralice, en su caso, la marcha regular del proceso.
 El solicitante deberá rendir caución cuya naturaleza y monto fijará el juez en la misma resolución que autoriza la ausencia.
@@ -1521,9 +1526,13 @@ NOTA 1.1
 NOTA 1.1
 e
 NOTA 1.1
-ntenci
+nte
+NOTA 1.1
+nci
 NOTA 1.1
 a.
+NOTA 1.1
+NOTA 1.1
 NOTA 1.1
 NOTA 1.1
 NOTA 1.1
@@ -1714,6 +1723,10 @@ Art. 412. (442) DEROGADO.-
 
 Art. 413 (443) El sobreseimiento definitivo no podrá decretarse sino cuando esté agotada la investigación con que se haya tratado de comprobar el cuerpo del delito y de determinar la persona del delincuente.
 Si en el sumario no estuvieren plenamente probadas las circunstancias que eximen de responsabilidad o los hechos de que dependa la extinción de ella, no se decretará el sobreseimiento sino que se esperará la sentencia definitiva.
+
+Art. 414. (444) El auto de sobreseimiento deberá consultarse cuando el juicio versare sobre delito que la ley castiga con pena aflictiva.
+Deberá también consultarse siempre que hubiere sido dictado contra la opinión del Ministerio Público.
+Si el sobreseimiento fuere parcial, no se llevará a efecto la consulta sino cuando se eleven los autos por alguna apelación o en consulta de la sentencia definitiva. Pero si hubiere procesado sometido a prisión preventiva no procesado por otro delito, respecto de quien se hubiere mandado sobreseer, se hará inmediatamente la consulta y se elevará copia de los antecedentes que se refieran a ese procesado.
 
 Art. 415. (445) La Corte de Apelaciones, una vez elevados los autos en apelación o en consulta de la sentencia en que se manda sobreseer o seguir adelante el juicio, oirá la opinión de su fiscal y, sin más trámite, pondrá la causa en tabla para pronunciarse acerca de las conclusiones que éste formule.
 En la vista de la causa, las partes podrán exponer verbalmente lo que convenga a su derecho.
@@ -2381,12 +2394,93 @@ Art. 584. (629) La sentencia condenará en costas a la parte que fuere vencida.
 
 Art. 585 (630) Será consultada la sentencia que se pronunciare en alguno de los casos del artículo 533.
 
+Art. 586. (631) Si el querellado, en los delitos de injuria y calumnia, después de notificada la querella, desobedece o elude la citación o la orden de detención o prisión, el juicio, por esta sola circunstancia, se seguirá en su rebeldía hasta su conclusión definitiva.
+No será necesaria la declaración del inculpado para someterlo a proceso.
+En estos casos el procesado será defendido y representado por el abogado y el procurador de turno.
+Las notificaciones se practicarán al procurador de turno en la forma ordinaria, incluso las que deban hacerse personalmente al procesado.
+La disposición anterior se aplicará cada vez que el querellado incurra en las rebeldías a que se refiere el inciso 1°.
+Se aplicará también en este caso lo dispuesto en el artículo 604 aun cuando el procesado haya sido condenado a pena corporal.
+
 Art. 587. (632) Si el querellante o el querellado no practican las diligencias necesarias para dar curso progresivo al procedimiento durante treinta días, el tribunal que esté conociendo de la causa en primera o en segunda instancia, de oficio o a petición de parte, formulada en cualquier estado del juicio, declarará abandonada la acción.
 Esta declaración producirá los efectos del sobreseimiento definitivo.
 Lo mismo se observará si, habiendo muerto o caído en incapacidad el querellante, no ocurren sus herederos o sus representantes legales a sostener la acción, dentro del término de sesenta días.
 Este sobreseimiento no obsta para que el ofendido persiga por la vía civil las indemnizaciones que se le deben.
 
 Art. 588. Cuando en estos juicios proceda la acumulación de autos en conformidad a las reglas generales, el más nuevo se acumulará al más antiguo.
+
+### Título III
+DEL PROCEDIMIENTO POR CRIMEN O SIMPLE DELITO CONTRA
+PERSONAS AUSENTES
+
+Art. 589. (633) Será considerado como ausente el inculpado o procesado cuyo paradero fuere desconocido, o que residiere en el extranjero sin que sea posible u oportuno obtener su extradición para que comparezca ante el tribunal que debe juzgarlo.
+
+Art. 590. (634) Para que tengan valor legal en contra de un procesado ausente las diligencias del sumario, y las del plenario cuando se trate de delitos que no merezcan pena corporal, es menester que previamente sea declarado rebelde.
+
+Art. 591. (635) El inculpado o procesado será declarado rebelde:
+1° Cuando, citado al juicio por haber mérito para proceder en su contra por alguno de los simples delitos expresados en el artículo 247, no comparece, y mandado aprehender, no se le encuentra en su casa ni en otra parte, y se ignora su paradero;
+2° Cuando, decretada su detención o prisión preventiva, no pudiere encontrársele en su casa ni en otra parte, y se ignora su paradero;
+3° Cuando, puesto en libertad bajo fianza, no compareciere a los actos del juicio en que se requiera su presencia, o no obedeciere al llamamiento del juez;
+y, mandado aprehender, no fuere encontrado en su casa ni en otra parte, y se ignore su paradero;
+4° Cuando se fugue del establecimiento en que se hallare detenido o preso, y hubieren resultado infructuosas las diligencias practicadas para su aprehensión; y
+5° Cuando se supiere que el procesado se encuentra en país extranjero y no sea posible u oportuno obtener su extradición.
+
+Art. 592 (636) Antes de declarar la rebeldía del inculpado o procesado, el juez expedirá las órdenes correspondientes para citarlo o aprehenderlo y dirigirá requisitoria a los jueces de los lugares en que se sospeche que aquél haya podido albergarse.
+
+Art. 593. (637) Las órdenes y requisitorias contendrán, en cuanto sea posible, los siguientes pormenores:
+1° El nombre, apellido paterno y materno, cargo, profesión u oficio del inculpado, el apodo que tenga, su residencia y las señas en virtud de las cuales pueda ser identificado;
+2° El delito por el cual se le persigue;
+3° La circunstancia señalada en el artículo 591 que haya dado motivo para expedir la orden o requisitoria; y 4° El término dentro del cual deba comparecer el inculpado, bajo apercibimiento de ser declarado reo rebelde y pararle los perjuicios correspondientes. Este término será de treinta días, contados desde aquel en que se expida la primera orden o requisitoria.
+
+Art. 594. (639) Si el ausente no compareciere durante el plazo señalado, el secretario certificará el hecho y el tribunal expedirá el auto en que lo declarará rebelde.
+En virtud de este auto las resoluciones que se dicten en el proceso se tendrán por notificadas personalmente al rebelde en la misma fecha en que se pronuncian.
+
+Art. 595. (640) Las investigaciones del sumario no se suspenderán por la ausencia del procesado, sino que seguirán adelante hasta su conclusión, sin perjuicio de practicarse las diligencias expresadas en los artículos precedentes. Una vez terminado el sumario, el juez dictará sobreseimiento definitivo o temporal, de acuerdo al mérito que arrojen los antecedentes y con arreglo a lo dispuesto en los artículos 408 y 409.
+Si el sobreseimiento se dicta en virtud de la causal 5a. del artículo 409 y el delito de que se trata merece pena corporal, se entenderá reservada la facultad de formular la acusación en forma cuando el rebelde sea habido.
+Si el delito que se imputa al ausente no merece pena corporal y hubiere mérito para ello, la causa seguirá adelante en conformidad al artículo 603.
+
+Art. 596. (641) Si el procesado se fugare o no compareciere durante el plenario, se suspenderá el procedimiento durante el juicio principal mientras se practican las diligencias necesarias para declararlo rebelde.
+Hecha esta declaración, el juez mandará sobreseer temporalmente y hasta que sea habido el procesado, a menos que el proceso verse sobre delito que no merezca pena corporal, caso en que se seguirá la causa en conformidad al artículo 603.
+
+Art. 597. (642) El auto de sobreseimiento que se dictare en conformidad a los dos artículos precedentes, será consultado en los mismos casos en que debe serlo toda sentencia definitiva.
+
+Art. 598. (643) Cuando el procesado sea declarado rebelde durante el plenario, se observarán las reglas siguientes:
+1° Si la acción civil no ha sido ejercitada por la parte ofendida o si deducida ésta el procesado no ha sido emplazado, se entenderá reservada y se mantendrán para ese efecto los embargos hechos y las cauciones prestadas;
+2° Si se ha deducido la acción civil y el procesado ha sido emplazado o tiene mandatario constituido en el proceso, se continuará su sustanciación no obstante el sobreseimiento, conforme a las normas de este Código, hasta el cumplimiento de la sentencia civil que se dicte, salvo el caso a que se refiere el número siguiente, y
+3° El juez podrá suspender el pronunciamiento de la sentencia civil cuando la existencia del delito haya de ser su fundamento preciso o tenga en ella influencia notoria.
+
+Art. 599. (644) Si el procesado se fugare después de notificada la certificación a que se refiere el artículo 498, el juez procederá a declarar la rebeldía en la forma designada en el presente título; y la causa se adelantará de oficio hasta su conclusión definitiva, debiendo defender y representar al prófugo el abogado y procurador de turno a quien se harán las notificaciones en la forma ordinaria.
+
+Art. 600 (645) Cuando el procesado rebelde se presentare o fuere aprehendido, la causa seguirá su curso desde el punto en que se encontraba al dictarse el auto de sobreseimiento temporal. Se aplicará en este caso lo dispuesto en el inciso 2° del artículo 604.
+Si hubiere recaído sentencia de término, el juez ordenará su cumplimiento como si el procesado se hubiere encontrado presente durante el juicio, salvo lo dispuesto en el artículo 604 expresado.
+
+Art. 601. (646) Si, en un mismo proceso, hubiere uno o más procesados rebeldes y uno o más procesados presentes, se procederá respecto de los primeros en conformidad a las disposiciones de los artículos precedentes; pero la causa seguirá adelante por todos sus trámites con relación a los segundos, hasta su conclusión.
+Las diligencias para declarar la rebeldía de los procesados ausentes no retardarán en ningún caso la tramitación de la causa respecto de los presentes.
+
+Art. 602. (647) Si el procesado ausente comparece o es aprehendido antes de que se falle la causa de los presentes, podrá ésta ser suspendida hasta que la del ausente se ponga en el mismo estado. En ningún caso se pronunciará la sentencia hasta que el juicio pueda ser fallado a la vez con respecto a los que estaban presentes y a los ausentes que hubieren sido habidos.
+
+Art. 603. (648) Cuando el delito que hubiere motivado el proceso contra un ausente no tenga asignada una pena corporal, la causa seguirá su curso una vez que el procesado sea declarado rebelde; y éste será representado y defendido por el procurador y abogado de turno. En este caso las notificaciones se harán al primero de estos funcionarios en la forma ordinaria.
+
+Art. 604. (649) Cuando el condenado como ausente a una pena no corporal, se presentare o fuere habido, podrá, dentro de los cinco días siguientes al de la notificación que se le haga de la sentencia definitiva, apelar de ella si no hubiere sido revisada por tribunal superior, o pedir que se la deje sin efecto, reponiéndose el proceso al estado de prueba.
+En el último caso, no tendrá derecho a exigir que se ratifiquen los testigos que hubieren declarado en el sumario o en el plenario y quedará válida la prueba rendida en el juicio anterior.
+
+Art. 605. (650) Siempre que el procesado fuere habido, pagará las costas causadas con su rebeldía, a menos que compruebe haber tenido imposibilidad de saber que se le estaba procesando.
+
+Art. 606. (651) Para el efecto de lo dispuesto en los artículos precedentes, se entenderá que las penas no corporales son: la de inhabilitación para cargos y oficios públicos, derechos políticos y profesiones titulares; la de suspensión de cargo u oficio público o profesión titular; la de pérdida o comiso de los efectos o instrumentos del delito; la de inhabilidad perpetua para conducir vehículos a tracción mecánica o animal; la de suspensión par conducir vehículos a tracción mecánica o animal; y las meramente pecuniarias.
+Las demás se estimarán corporales.
+
+Art. 607. (642) Siempre que la causa se archive por estar en rebeldía todos los procesados, se mandarán devolver a los dueños que no resulten civil o criminalmente responsables del delito, los efectos e instrumentos del mismo, y las demás piezas de convicción que hubieren sido recogidas durante el juicio; pero, antes de hacerse la devolución, el secretario pondrá en el proceso una descripción minuciosa de los objetos que se devuelvan.
+
+Art. 608. (653) DEROGADO.-
+
+Art. 609. (654) Inmediatamente que se descubra la evasión de un preso o detenido, el juez de letras instruirá un sumario para la investigación del hecho; y procederá contra los que resulten culpables de descuido y connivencia.
+En el proceso del prófugo se pondrá testimonio de la fuga, con expresión del día en que ésta acaeció, y se dictarán las órdenes necesarias para su captura.
+
+Art. 610. (655) Cuando el prófugo fuere aprehendido, se procederá a identificar su persona; y, comprobada la identidad, o si ésta no ofreciere duda, se continuará la causa o se le hará cumplir la sentencia firme que hubiere recaído en ella.
+Si el prófugo era ya reo rematado cuando se verificó
+NOTA:
+la evasión, se instruirá el proceso respectivo para la aplicación de las penas señaladas a los que quebrantan sentencias por el Título IV del Libro I del Código Penal.
+NOTA:
+El artículo 9° de la Ley 19047, publicada el 14.02.1991, modificado por la Ley 19158, otorga facultad para mantener la palabra reo por estar empleada en sentido genérico.
 
 ### Título IV
 DEL PROCEDIMIENTO RELATIVO A PERSONAS QUE TIENEN
