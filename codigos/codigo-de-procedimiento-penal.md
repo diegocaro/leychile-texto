@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2003-05-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2004-01-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 2003-05-13
-fetched_at: 2026-08-03T01:20:46.890368+00:00
+version_date: 2004-01-14
+fetched_at: 2026-08-03T01:23:14.138530+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -104,7 +104,8 @@ PROCESO PENAL.
 Art. 10. (30) Se concede acción penal para impetrar la averiguación de todo hecho punible y sancionar, en su caso, el delito que resulte probado. En el proceso penal podrán deducirse también, con arreglo a las prescripciones de este Código, las acciones civiles que tengan por objeto reparar los efectos civiles del hecho punible, como son, entre otras, las que persigan la restitución de la cosa o su valor, o la indemnización de los perjucios causados.
 En consecuencia, podrán intentarse ante el juez que conozca del proceso penal las acciones civiles que persigan la reparación de los efectos patrimoniales que las conductas de los procesados por sí mismas hayan causado o que puedan atribuírseles como consecuencias próximas o directas, de modo que el fundamento de la respectiva acción civil obligue a juzgar las mismas conductas que constituyen el hecho punible objeto del proceso penal.
 
-Art. 11. (31) La acción penal es pública o privada. La primera se ejercita a nombre de la sociedad para obtener el castigo de todo delito que deba perseguirse de oficio; la segunda sólo puede ejercitarse por la parte agraviada. Se concede siempre acción penal pública para la persecución de los delitos previstos en los artículos 361 a 366 quáter del Código Penal, cometidos contra menores de edad.
+Art. 11. (31) La acción penal es pública o privada. La primera se ejercita a nombre de la sociedad para obtener el castigo de todo delito que deba perseguirse de oficio; la segunda sólo puede ejercitarse por la parte agraviada.
+Se concede siempre acción penal pública para la persecución de los delitos previstos en los artículos 361 a 366 quinquies del Código Penal, cometidos contra menores de edad.
 
 Artículo 12.- Cuando se ejercite sólo la acción civil respecto de un hecho punible que no puede perseguirse de oficio, se considerará extinguida por ese hecho la acción penal.
 
@@ -599,6 +600,12 @@ Artículo 113 bis.- Podrán admitirse como pruebas películas cinematográficas,
 La admisión como pruebas de los elementos de juicio a que se refiere este artículo se decretará con citación, cuando fuere ofrecida por una de las partes; pero en el sumario podrán tenerse en consideración aunque esté pendiente el plazo de citación o cualquiera objeción sobre ellas.
 El juez determinará la forma como ha de dejarse constancia en el proceso de estas pruebas, cuando hicieren necesarias operaciones técnicas especiales para ello o para su realización. Para tal efecto, podrá designar un asesor técnico que desarrolle y explique la prueba, de entre los que ejercieren los oficios especializados. Si la prueba fuere ofrecida por una de las partes y el juez lo estimare conveniente, ésta suministrará el personal e instrumentos necesarios para llevar a cabo la demostración, sin perjuicio de lo que se resuelva sobre costas. En todo caso, si el tribunal cuenta con los instrumentos requeridos y no es necesaria la cooperación de un técnico, procederá a realizar la prueba por sí mismo.
 Se certificará, después de verificada la operación, el día y la hora en que se verificó, el nombre y dirección de los que intervinieron en ella, y el lugar, la persona, cosa, suceso o fenómeno que se reproduce o explica, y el juez deberá tomar las medidas necesarias para evitar que puedan ser alterados los originales de estas pruebas.
+
+Artículo 113 ter.- Cuando existieren sospechas fundadas de que una persona o una organización delictiva hubiere cometido o preparado la comisión de alguno de los delitos previstos en los artículos 366 quinquies, 367, 367 bis, 367 ter, 374 bis, inciso primero, y 374 ter del Código Penal, y la investigación lo hiciere imprescindible, el juez podrá ordenar la interceptación o grabación de las telecomunicaciones de esa persona o de quienes integraren dicha organización y la grabación de comunicaciones.
+La orden que dispusiere la interceptación o grabación deberá indicar el nombre o los datos que permitan la adecuada identificación del afectado por la medida y señalar la forma en que se aplicará y su duración, la que no podrá exceder de sesenta días. El juez podrá prorrogar este plazo por períodos de hasta igual duración, para lo cual deberá examinar cada vez la concurrencia de los requisitos previstos en los incisos precedentes. En todo caso, la orden judicial no podrá extenderse más allá de un año desde que se decretó.
+Las empresas o establecimientos que presten los servicios de comunicación a que se refiere el inciso primero deberán, en el menor plazo posible, poner a disposición de los funcionarios encargados de la diligencia todos los recursos necesarios para llevarla a cabo. Con este objetivo los proveedores de tales servicios deberán mantener, en carácter reservado, a disposición del tribunal, un listado actualizado de sus rangos autorizados de direcciones IP y un registro, no inferior a seis meses, de los números IP de las conexiones que realicen sus abonados. La negativa o el entorpecimiento en la práctica de la medida decretada será constitutiva del delito de desacato, conforme al artículo 240 del Código de Procedimiento Civil. Asimismo, los encargados de realizar la diligencia y los empleados de las empresas o de los establecimientos deberán guardar secreto acerca de la misma, salvo que se les citare como testigos al procedimiento.
+Si las sospechas tenidas en consideración para ordenar las medidas se disiparen o hubiere transcurrido el plazo de duración fijado para las mismas, ellas deberán ser interrumpidas inmediatamente.
+Bajo los mismos supuestos previstos en el inciso primero, el juez podrá autorizar la intervención de agentes encubiertos, o la realización de entregas vigiladas de material, de acuerdo a lo dispuesto en el artículo 369 ter del Código Penal.
 
 Art. 114. (135) Los instrumentos, armas u objetos de cualquiera clase que parezca haber servido o haber estado destinado para cometer el delito, y los efectos que de él provengan, ya estén en poder del presunto culpable o de otra persona, serán recogidos por el juez, quien mandará conservarlos bajo sello y levantar acta de la diligencia, que firmará, si pudiere, la persona en cuyo poder aquéllos han sido encontrados.
 El juez adoptará las medidas conducentes para que las especies recogidas se mantengan en el mejor estado posible.
@@ -2894,6 +2901,7 @@ Artículo 672.- El comiso de los instrumentos y efectos del delito se declarará
 Artículo 673.- Las armas de fuego, municiones, explosivos y demás elementos a que se refiere la Ley sobre Control de Armas que sean decomisados, se remitirán a la autoridad que señala esa misma ley.
 Las demás especies decomisadas se pondrán a disposición del Fisco, para los efectos establecidos en el artículo 60 del Código Penal. Esta autoridad podrá ordenar la destrucción de las que no tuvieren valor y no fueren utilizables.
 Los dineros y otros valores decomisados en favor del Fisco se destinarán a beneficio de la Junta de Servicios Judiciales.
+En los casos de los artículos 366 quinquies, 374 bis, inciso primero y 374 ter del Código Penal, el tribunal destinará los instrumentos tecnológicos decomisados, tales como computadores, reproductores de imágenes o sonidos y otros similares, al Servicio Nacional de Menores o a los departamentos especializados en la materia de los organismos policiales que correspondan. Las producciones incautadas como pruebas de dichos delitos podrán destinarse al registro reservado a que se refiere el inciso segundo del artículo 369 ter del Código Penal. En este caso, la vulneración de la reserva se sancionará de conformidad con lo dispuesto en el párrafo 8 del Título V, del Libro II del Código Penal.
 
 Artículo 674.- Tratándose de especies corruptibles o perecibles el juez las pondrá a disposición de un martillero para que proceda a su venta directa o subasta.
 Si se decretare el comiso, se hará efectivo sobre el producto de la enajenación.

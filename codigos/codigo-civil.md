@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2003-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2004-01-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2003-10-10
-fetched_at: 2026-08-03T01:21:52.292025+00:00
+version_date: 2004-01-14
+fetched_at: 2026-08-03T01:23:05.202403+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -8244,13 +8244,14 @@ Derogado
 #### Título II
 DE LA POLICIA DE MENORES Y SUS FUNCIONES
 
-Título II
-DE LA POLICIA DE MENORES Y SUS FUNCIONES
 Art. 15. Créase en la Dirección General de Carabineros un Departamento denominado "Policía de Menores", con personal especializado en el trabajo con menores. Este departamento establecerá en cada ciudad cabecera de provincia y en los lugares que sean asiento de un Juzgado de Letras de Menores, Comisarías o Subcomisarías de Menores.
 La Policía de Menores tendrá las siguientes finalidades:
 a) Recoger a los menores en situación irregular con necesidad de asistencia o protección;
-b) Ejercer, de acuerdo con las instrucciones que imparta el Servicio Nacional de Menores, el control de los sitios estimados como centros de corrupción de menores; c) Fiscalizar los espectáculos públicos, centros de diversión o cualquier lugar donde haya afluencia de público, con el fin de evitar la concurrencia de menores, cuando no sean apropiados para ellos, y
+b) Ejercer, de acuerdo con las instrucciones que imparta el Servicio Nacional de Menores, el control de los sitios estimados como centros de corrupción de menores;
+c) Fiscalizar los espectáculos públicos, centros de diversión o cualquier lugar donde haya afluencia de público, con el fin de evitar la concurrencia de menores, cuando no sean apropiados para ellos, y
 d) Denunciar al Ministerio Público los hechos penados por el artículo 62.
+e) Otorgar protección inmediata a un niño, niña o adolescente que se encuentre en situación de peligro grave, directo e inminente para su vida o integridad física.
+Para ello, concurriendo tales circunstancias, podrá ingresar a un lugar cerrado y retirar al niño, niña o adolescente, debiendo en todo caso poner de inmediato los hechos en conocimiento del Juez de Menores, del Crimen o Fiscal del Ministerio Público, según corresponda.
 
 Art. 16. Carabineros de Chile deberá poner a los menores de dieciocho años y mayores de dieciséis que se encuentren en las situaciones previstas en los artículos 129 y 131 del Código Procesal Penal, directa e inmediatamente, a disposición del juez de garantía competente. Dicha detención se regulará, salvo en los aspectos previstos en este artículo, por el párrafo III, Título V, del Libro Primero del Código Procesal Penal. Si se diere lugar a la ampliación del plazo de la detención, conforme al artículo 132 del Código Procesal Penal, ésta sólo podrá ser ejecutada en los Centros de Observación y Diagnóstico o en los establecimientos que determine el Presidente de la República en aquellos lugares donde los primeros no existan, en conformidad con lo establecido en el artículo 71 de esta ley.
 La detención de una persona visiblemente menor en un establecimiento distinto de los señalados en el inciso anterior, constituirá una infracción grave a dicha obligación funcionaria, y será sancionada con la medida disciplinaria que proceda de acuerdo al mérito de los antecedentes, sin perjuicio de las demás responsabilidades en que pueda haber incurrido el infractor.
@@ -8407,9 +8408,14 @@ Art. 36. El juez de letras de menores en todos los asuntos de que conozca apreci
 Podrá también utilizar todos los medios de información que considere adecuados, quedando obligados los funcionarios fiscales, semifiscales, de empresas del Estado o establecimientos particulares subvencionados por éste, a proporcionarlos cuando les sean solicitados para los efectos de la presente ley.
 Los menores no necesitarán de representante legal para concurrir ante el juez de letras de menores.
 
-Art. 37. En los juicios de menores sólo serán admisibles los recursos de apelación y de queja, sin perjuicio del recurso de reposición en su caso. El primero de ellos, que se concederá únicamente en el efecto devolutivo, procederá nada más que contra las sentencias definitivas y con respecto a aquellas que, sin tener este carácter, pongan término al juicio o hagan imposible su continuación.
+Art. 37. En los juicios de menores sólo serán
+NOTA:
+admisibles los recursos de apelación y de queja, sin perjuicio del recurso de reposición en su caso. El primero de ellos, que se concederá únicamente en el efecto devolutivo, procederá nada más que contra las sentencias definitivas y con respecto a aquellas que, sin tener este carácter, pongan término al juicio o hagan imposible su continuación.
 Los autos, concedido el recurso de apelación, se elevarán originales dejándose compulsa de la sentencia.
 Este recurso se tramitará como incidente de acuerdo con las disposiciones generales del Código de Procedimiento Civil, y tendrá preferencia para su vista y fallo.
+También procederá el recurso de apelación en contra de aquellas resoluciones que nieguen la aplicación de alguna medida de protección provisoria solicitada en conformidad a lo dispuesto en los artículos 26 Nº 7) y 40 de esta ley, cuando dicha solicitud se funde en situaciones de peligro físico grave e inminente para una persona menor de edad.
+NOTA:
+El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
 Art. 38. En los juicios de disenso si no se alega causa legal, en los casos en que haya obligación de hacerlo, el juez deberá dar inmediatamente autorización para el matrimonio.
 Si la persona que debe prestar el consentimiento no concurre a la audiencia, se entiende que retira el disenso. Lo dicho, no regirá con respecto al Oficial del Registro Civil.

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2003-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2004-01-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2003-10-10
-fetched_at: 2026-08-03T01:22:11.184407+00:00
+version_date: 2004-01-14
+fetched_at: 2026-08-03T01:23:20.140023+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -64,9 +64,10 @@ Art. 6° Quedan sometidos a la jurisdicción chilena los crímenes y simples del
 4°) Los cometidos, por chilenos o extranjeros, a bordo de un buque chileno en alta mar, o a bordo de un buque chileno de guerra surto en aguas de otra potencia;
 5°) La falsificación del sello del Estado, de moneda nacional, de documentos de crédito del Estado, de las Municipalidades o de establecimientos públicos, cometida por chilenos, o por extranjeros que fueren habidos en el territorio de la República;
 6°) Los cometidos por chilenos contra chilenos si el culpable regresa a Chile sin haber sido juzgado por la autoridad del país en que delinquió;
-7°) La piratería; y
-8°) Los comprendidos en los tratados celebrados con otras potencias.
-9°) Los sancionados por la ley 6.026 y las que la han modificado, cometidos por chilenos o por extranjeros al servicio de la República.
+7°) La piratería;
+8°) Los comprendidos en los tratados celebrados con otras potencias;
+9°) Los sancionados por la ley 6.026 y las que la han modificado, cometidos por chilenos o por extranjeros al servicio de la República, y
+10°) Los sancionados en los artículos 366 quinquies, 367 y 367 bis Nº 1, del Código Penal, cuando pusieren en peligro o lesionaren la indemnidad o la libertad sexual de algún chileno o fueren cometidos por un chileno o por una persona que tuviere residencia habitual en Chile; y el contemplado en el artículo 374 bis, inciso primero, del mismo cuerpo legal, cuando el material pornográfico objeto de la conducta hubiere sido elaborado utilizando chilenos menores de dieciocho años.
 
 Art. 7° Los tribunales sólo podrán ejercer su potestad en los negocios y dentro del territorio que la ley les hubiere respectivamente asignado.
 Lo cual no impide que en los negocios de que conocen puedan dictar providencias que hayan de llevarse a efecto en otro territorio.

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2003-12-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2004-01-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2003-12-18
-fetched_at: 2026-08-03T01:22:29.189909+00:00
+version_date: 2004-01-14
+fetched_at: 2026-08-03T01:23:26.144890+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -208,6 +208,7 @@ Extrañamiento mayor.
 Relegación mayor.
 Inhabilitación absoluta perpetua para cargos y oficios públicos, derechos políticos y profesiones titulares.
 Inhabilitación especial perpetua para algún cargo u oficio público o profesión titular.
+Inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad.
 Inhabilitación absoluta temporal para cargos y oficios públicos y profesiones titulares.
 Inhabilitación especial temporal para algún cargo u oficio público o profesión titular.
 PENAS DE SIMPLES DELITOS.
@@ -217,6 +218,7 @@ Confinamiento menor.
 Extrañamiento menor.
 Relegación menor.
 Destierro.
+Inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad.
 Suspensión de cargo u oficio público o profesión titular.
 Inhabilidad perpetua para conducir vehículos a tracción mecánica o animal.
 Suspensión para conducir vehículos a tracción mecánica o animal.
@@ -312,6 +314,12 @@ ART. 39.
 Las penas de inhabilitación especial perpetua y temporal para algún cargo u oficio público o profesión titular, producen:
 1.° La privación del cargo, empleo, oficio o profesión sobre que recaen, y la de los honores anexos a él, perpetuamente si la inhabilitación es perpetua, y por el tiempo de la condena si es temporal.
 2.° La incapacidad para obtener dicho cargo, empleo, oficio o profesión u otros en la misma carrera, perpetuamente cuando la inhabilitación es perpetua, y por el tiempo de la condena cuando es temporal.
+
+ART. 39 bis.
+La pena de inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, prevista en el artículo 372 de este Código, produce:
+1º La privación de todos los cargos, empleos, oficios y profesiones que tenga el condenado.
+2º La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados antes de transcurrido el tiempo de la condena de inhabilitación, contado desde que se hubiere dado cumplimiento a la pena principal, obtenido libertad condicional en la misma, o iniciada la ejecución de alguno de los beneficios de la ley Nº 18.216, como alternativa a la pena principal.
+La pena de inhabilitación de que trata este artículo tiene una extensión de tres años y un día a diez años y es divisible en la misma forma que las penas de inhabilitación absoluta y especial temporales.
 
 ART. 40.
 La suspensión de cargo y oficio público y profesión titular, inhabilita para su ejercicio durante el tiempo de la condena.
@@ -604,7 +612,7 @@ Los sentenciados que quebrantaren su condena serán castigados con las penas que
 Primera.-El condenado a relegación perpetua sufrirá la de presidio mayor en su grado medio.
 Segunda.-El condenado a confinamiento o extrañamiento sufrirá la de presidio, por la mitad del tiempo que le falte por cumplir de la pena primitiva.
 Tercera.-El condenado a relegación temporal o a destierro sufrirá la de reclusión o prisión por la mitad del tiempo que le falte por cumplir de la pena primitiva.
-5.° El inhabilitado para cargos y oficios públicos, derechos políticos y profesiones titulares que los ejerciere, cuando el hecho no constituya un delito especial, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a veinte unidades tributarias mensuales.
+5.° El inhabilitado para cargos y oficios públicos, derechos políticos y profesiones titulares o para cargos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, que los ejerciere, cuando el hecho no constituya un delito especial, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a veinte unidades tributarias mensuales.
 En caso de reincidencia se doblará esta pena.
 6.° El suspenso de cargo u oficio público o profesión titular que los ejerciere, sufrirá un recargo por igual tiempo al de su primitiva condena.
 En caso de reincidencia sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a veinte unidades tributarias mensuales.
@@ -1812,8 +1820,8 @@ ART. 341.
 El que acometiere a un conductor de correspondencia pública para interceptarla o detenerla o para apoderarse de ella o de cualquier modo inutilizarla, será castigado con presidio menor en sus grados medio a máximo, si interviniere violencia. Si no interviniere violencia, con presidio menor en sus grados mínimo a medio.
 Lo cual no obsta para que se aplique la pena correspondiente al delito cometido en la persona del conductor o en la sustracción de la correspondencia, siempre que fuere mayor.
 
-### TÍTULO SÉPTIMO.
-CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS Y CONTRA LA MORALIDAD PÚBLICA.
+### TÍTULO SÉPTIMO
+CRÍMENES Y DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, CONTRA LA MORALIDAD PÚBLICA Y CONTRA LA INTEGRIDAD SEXUAL.
 
 #### § I.
 Aborto.
@@ -1891,20 +1899,20 @@ ART. 360. Derogado.
 De la violación.
 
 ART. 361.
-La violación será castigada con la pena de presidio menor en su grado máximo a presidio mayor en su grado medio.
-Comete violación el que accede carnalmente, por vía vaginal, anal o bucal, a una persona mayor de doce años, en alguno de los casos siguientes:
+La violación será castigada con la pena de presidio mayor en su grado mínimo a medio.
+Comete violación el que accede carnalmente, por vía vaginal, anal o bucal, a una persona mayor de catorce años, en alguno de los casos siguientes:
 1º Cuando se usa de fuerza o intimidación.
 2º Cuando la víctima se halla privada de sentido, o cuando se aprovecha su incapacidad para oponer resistencia.
 3º Cuando se abusa de la enajenación o trastorno mental de la víctima.
 
 ART. 362.
-El que accediere carnalmente, por vía vaginal, anal o bucal, a una persona menor de doce años, será castigado con presidio mayor en cualquiera de sus grados, aunque no concurra circunstancia alguna de las enumeradas en el artículo anterior.
+El que accediere carnalmente, por vía vaginal, anal o bucal, a una persona menor de catorce años, será castigado con presidio mayor en cualquiera de sus grados, aunque no concurra circunstancia alguna de las enumeradas en el artículo anterior.
 
 #### § VI.
 Del estupro y otros delitos sexuales.
 
 ART. 363.
-Será castigado con reclusión menor en sus grados medio a máximo, el que accediere carnalmente, por vía vaginal, anal o bucal, a una persona menor de edad pero mayor de doce años, concurriendo cualquiera de las circunstancias siguientes:
+Será castigado con presidio menor en su grado máximo a presidio mayor en su grado mínimo, el que accediere carnalmente, por vía vaginal, anal o bucal, a una persona menor de edad pero mayor de catorce años, concurriendo cualquiera de las circunstancias siguientes:
 1º Cuando se abusa de una anomalía o perturbación mental, aun transitoria, de la víctima, que por su menor entidad no sea constitutiva de enajenación o trastorno.
 2º Cuando se abusa de una relación de dependencia de la víctima, como en los casos en que el agresor está encargado de su custodia, educación o cuidado, o tiene con ella una relación laboral.
 3º Cuando se abusa del grave desamparo en que se encuentra la víctima.
@@ -1915,35 +1923,42 @@ ART. 364. Derogado.
 Art. 365.
 El que accediere carnalmente a un menor de dieciocho años de su mismo sexo, sin que medien las circunstancias de los delitos de violación o estupro, será penado con reclusión menor en sus grados mínimo a medio.
 
+ART. 365 bis.
+Si la acción sexual consistiere en la introducción de objetos de cualquier índole, por vía vaginal, anal o bucal, o se utilizaren animales en ello, será castigada:
+1.- con presidio mayor en su grado mínimo a medio, si concurre cualquiera de las circunstancias enumeradas en el artículo 361;
+2.- con presidio mayor en cualquiera de sus grados, si la víctima fuere menor de catorce años, y 3.- con presidio menor en su grado máximo a presidio mayor en su grado mínimo, si concurre alguna de las circunstancias enumeradas en el artículo 363 y la víctima es menor de edad, pero mayor de catorce años.
+
 ART. 366.
-El que abusivamente realizare una acción sexual distinta del acceso carnal con una persona mayor de doce años, será castigado:
-1º Con reclusión menor en cualquiera de sus grados, cuando el abuso consistiere en la concurrencia de alguna de las circunstancias enumeradas en el artículo 361.
-2º Con reclusión menor en sus grados mínimo a medio, cuando el abuso consistiere en la concurrencia de alguna de las circunstancias enumeradas en el artículo 363, siempre que la víctima fuere menor de edad.
+El que abusivamente realizare una acción sexual distinta del acceso carnal con una persona mayor de catorce años, será castigado con presidio menor en su grado máximo, cuando el abuso consistiere en la concurrencia de alguna de las circunstancias enumeradas en el artículo 361.
+Igual pena se aplicará cuando el abuso consistiere en la concurrencia de alguna de las circunstancias enumeradas en el artículo 363, siempre que la víctima fuere mayor de catorce y menor de dieciocho años.
 
 ART. 366 bis.
-El que realizare una acción sexual distinta del acceso carnal con una persona menor de doce años, cuando no concurran las circunstancias enumeradas en los artículos 361 o 363, será castigado con la pena de reclusión menor en cualquiera de sus grados.
-Si concurre alguna de esas circunstancias, la pena será de reclusión menor en sus grados medio a máximo.
+El que realizare una acción sexual distinta del acceso carnal con una persona menor de catorce años, será castigado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo.
 
 ART. 366 ter.
-Para los efectos de los dos artículos anteriores, se entenderá por acción sexual cualquier acto de significación sexual y de relevancia realizado mediante contacto corporal con la víctima, o que haya afectado los genitales, el ano o la boca de la víctima, aun cuando no hubiere contacto corporal con ella.
+Para los efectos de los tres artículos anteriores, se entenderá por acción sexual cualquier acto de significación sexual y de relevancia realizado mediante contacto corporal con la víctima, o que haya afectado los genitales, el ano o la boca de la víctima, aun cuando no hubiere contacto corporal con ella.
 
 ART. 366 quater.
-El que, sin realizar una acción sexual en los términos anteriores, para procurar su excitación sexual o la excitación sexual de otro, realizare acciones de significación sexual ante una persona menor de doce años, la hiciere ver o escuchar material pornográfico o la determinare a realizar acciones de significación sexual delante suyo o de otro, será castigado con reclusión menor en cualquiera de sus grados.
-Inciso Eliminado.
-También se sancionará con igual pena a quien realice alguna de las conductas descritas en el inciso anterior con una persona menor de edad pero mayor de doce años, concurriendo cualquiera de las circunstancias del numerando 1º del artículo 361 o de las enumeradas en el artículo 363.
+El que, sin realizar una acción sexual en los términos anteriores, para procurar su excitación sexual o la excitación sexual de otro, realizare acciones de significación sexual ante una persona menor de catorce años, la hiciere ver o escuchar material pornográfico o presenciar espectáculos del mismo carácter, será castigado con presidio menor en su grado medio a máximo.
+Si, para el mismo fin de procurar su excitación sexual o la excitación sexual de otro, determinare a una persona menor de catorce años a realizar acciones de significación sexual delante suyo o de otro, la pena será presidio menor en su grado máximo.
+Con iguales penas se sancionará a quien realice alguna de las conductas descritas en los incisos anteriores con una persona menor de edad pero mayor de catorce años, concurriendo cualquiera de las circunstancias del numerando 1º del artículo 361 o de las enumeradas en el artículo 363.
 
 ART. 367.
-El que, habitualmente o con abuso de autoridad o confianza, promoviere o facilitare la prostitución de menores de edad para satisfacer los deseos de otro, sufrirá las penas de presidio mayor en cualquiera de sus grados y multa de veintiuno a treinta sueldos vitales.
+El que promoviere o facilitare la prostitución de menores de edad para satisfacer los deseos de otro, sufrirá la pena de presidio menor en su grado máximo.
+Si concurriere habitualidad, abuso de autoridad o de confianza o engaño, se impondrán las penas de presidio mayor en cualquiera de sus grados y multa de treinta y una a treinta y cinco unidades tributarias mensuales.
 
 ART. 367 bis.
-El que promoviere o facilitare la entrada o salida de personas del país para que éstas ejerzan la prostitución en el territorio nacional o en el extranjero, será castigado con la pena de presidio menor en su grado máximo y multa de veinte unidades tributarias mensuales.
-No obstante, se impondrán las penas señaladas en el artículo anterior en los siguientes casos:
+El que promoviere o facilitare la entrada o salida de personas del país para que éstas ejerzan la prostitución en el territorio nacional o en el extranjero, será castigado con la pena de presidio menor en su grado máximo y multa de veinte a treinta unidades tributarias mensuales.
+Sin embargo, se impondrán las penas señaladas en el inciso segundo del artículo anterior en los siguientes casos:
 1.- Si la víctima es menor de edad.
 2.- Si se ejerce violencia o intimidación.
 3.- Si el agente actúa mediante engaño o con abuso de autoridad o confianza.
-4.- Si el autor fuere ascendiente, descendiente, marido, hermano, tutor, curador o encargado de la educación de la víctima.
+4.- Si el autor fuere ascendiente, descendiente, cónyuge, conviviente, hermano, tutor, curador o encargado del cuidado personal de la víctima.
 5.- Si el agente se vale del estado de desamparo económico de la víctima.
 6.- Si existe habitualidad en la conducta del agente.
+
+ART. 367 ter.
+El que, a cambio de dinero u otras prestaciones de cualquier naturaleza, obtuviere servicios sexuales por parte de personas mayores de catorce pero menores de dieciocho años de edad, sin que medien las circunstancias de los delitos de violación o estupro, será castigado con presidio menor en su grado máximo.
 
 #### § VII.
 Disposiciones comunes a los dos párrafos anteriores.
@@ -1951,6 +1966,10 @@ Disposiciones comunes a los dos párrafos anteriores.
 ART. 368.
 Si los delitos previstos en los dos párrafos anteriores hubieren sido cometidos por autoridad pública, ministro de un culto religioso, guardador, maestro, empleado o encargado por cualquier título o causa de la educación, guarda, curación o cuidado del ofendido, se impondrá al responsable la pena señalada al delito con exclusión de su grado mínimo, si ella consta de dos o más grados, o de su mitad inferior, si la pena es un grado de una divisible.
 Exceptúanse los casos en que el delito sea de aquellos que la ley describe y pena expresando las circunstancias de usarse fuerza o intimidación, abusarse de una relación de dependencia de la víctima o abusarse de autoridad o confianza.
+
+ART. 368 bis.
+Cuando, en la comisión de los delitos señalados en los artículos 366 quáter, 366 quinquies, 367, 367 ter o 374 bis se utilizaren establecimientos o locales, a sabiendas de su propietario o encargado, o no pudiendo éste menos que saberlo, podrá decretarse en la sentencia su clausura definitiva.
+Asimismo, durante el proceso judicial respectivo, podrá decretarse, como medida cautelar, la clausura temporal de dichos establecimientos o locales.
 
 ART. 369.
 No se puede proceder por causa de los delitos previstos en los artículos 361 a 366 quáter, sin que, a lo menos, se haya denunciado el hecho a la justicia, al Ministerio Público o a la policía por la persona ofendida o por su representante legal.
@@ -1962,6 +1981,12 @@ En caso de que un cónyuge o conviviente cometiere alguno de los delitos previst
 
 ART. 369 bis.
 En los procesos por los delitos a que se refieren los dos párrafos anteriores, el juez apreciará la prueba conforme con las reglas de la sana crítica.
+
+ART. 369 ter.
+Cuando existieren sospechas fundadas de que una persona o una organización delictiva hubiere cometido o preparado la comisión de alguno de los delitos previstos en los artículos 366 quinquies, 367, 367 bis, 367 ter, 374 bis, inciso primero, y 374 ter, y la investigación lo hiciere imprescindible, el tribunal, a petición del Ministerio Público, podrá autorizar la interceptación o grabación de las telecomunicaciones de esa persona o de quienes integraren dicha organización, la fotografía, filmación u otros medios de reproducción de imágenes conducentes al esclarecimiento de los hechos y la grabación de comunicaciones. En lo demás, se estará íntegramente a lo dispuesto en los artículos 222 a 225 del Código Procesal Penal.
+Igualmente, bajo los mismos supuestos previstos en el inciso precedente, podrá el tribunal, a petición del Ministerio Público, autorizar la intervención de agentes encubiertos. Mediando igual autorización y con el objeto exclusivo de facilitar la labor de estos agentes, los organismos policiales pertinentes podrán mantener un registro reservado de producciones del carácter investigado. Asimismo, podrán tener lugar entregas vigiladas de material respecto de la investigación de hechos que se instigaren o materializaren a través del intercambio de dichos elementos, en cualquier soporte.
+La actuación de los agentes encubiertos y las entregas vigiladas serán plenamente aplicables al caso en que la actuación de los agentes o el traslado o circulación de producciones se desarrolle a través de un sistema de telecomunicaciones.
+Los agentes encubiertos, el secreto de sus actuaciones, registros o documentos y las entregas vigiladas se regirán por las disposiciones de la ley Nº 19.366.
 
 ART. 370.
 Además de la indemnización que corresponda conforme a las reglas generales, el condenado por los delitos previstos en los artículos 361 a 366 bis será obligado a dar alimentos cuando proceda de acuerdo a las normas del Código Civil.
@@ -1975,11 +2000,11 @@ Los ascendientes, guardadores, maestros y cualesquiera personas que con abuso de
 Los maestros o encargados en cualquier manera de la educación o dirección de la juventud, serán además condenados a inhabilitación especial perpetua para el cargo u oficio.
 
 ART. 372.
-Los comprendidos en el artículo precedente y cualesquiera otros condenados por la comisión de los delitos previstos en los dos párrafos precedentes en contra de un menor de edad, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad por el tiempo que el tribunal determine.
+Los comprendidos en el artículo anterior y cualesquiera otros condenados por la comisión de los delitos previstos en los dos párrafos precedentes en contra de un menor de edad, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad durante los diez años siguientes al cumplimiento de la pena principal. Esta sujeción consistirá en informar a Carabineros cada tres meses su domicilio actual. El incumplimiento de esta obligación configurará la conducta establecida en el artículo 496 Nº 1 de este Código.
+Asimismo, el tribunal condenará a las personas comprendidas en el artículo precedente a la pena de inhabilitación absoluta temporal para cargos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, en cualquiera de sus grados.
 
 ART. 372 BIS.
-El que con ocasión de violación cometiere además homicidio en la persona de la víctima, será castigado con presidio mayor en su grado máximo a presidio perpetuo.
-El que con ocasión de violación por vía vaginal si la víctima fuere mujer o por vía anal si fuere hombre, cometiere además el homicidio del ofendido será castigado con la pena de presidio perpetuo a presidio perpetuo calificado.
+El que, con ocasión de violación, cometiere además homicidio en la persona de la víctima, será castigado con presidio perpetuo a presidio perpetuo calificado.
 
 ART. 372 TER.
 En los delitos establecidos en los dos párrafos anteriores, el juez podrá en cualquier momento, a petición de parte, o de oficio por razones fundadas, disponer las medidas de protección del ofendido y su familia que estime convenientes, tales como la sujeción del implicado a la vigilancia de una persona o institución determinada, las que informarán periódicamente al tribunal; la prohibición de visitar el domicilio, el lugar de trabajo o el establecimiento educacional del ofendido; la prohibición de aproximarse al ofendido o a su familia, y, en su caso, la obligación de abandonar el hogar que compartiere con aquél.
@@ -1994,6 +2019,13 @@ ART. 374.
 El que vendiere, distribuyere o exhibiere canciones, folletos u otros escritos, impresos o no, figuras o estampas contrarios a las buenas costumbres, será condenado a las penas de reclusión menor en su grado mínimo o multa de once a veinte unidades tributarias mensuales.
 En las mismas penas incurrirá el autor del manuscrito, de la figura o de la estampa o el que los hubiere reproducido por un procedimiento cualquiera que no sea la imprenta.
 La sentencia condenatoria por este delito ordenará la destrucción total o parcial, según proceda, de los impresos o de las grabaciones sonoras o audiovisuales de cualquier tipo que sean objeto de comiso.
+
+ART. 374 bis.
+El que comercialice, importe, exporte, distribuya, difunda o exhiba material pornográfico, cualquiera sea su soporte, en cuya elaboración hayan sido utilizados menores de dieciocho años, será sancionado con la pena de presidio menor en su grado medio a máximo.
+El que maliciosamente adquiera o almacene material pornográfico, cualquiera sea su soporte, en cuya elaboración hayan sido utilizados menores de dieciocho años, será castigado con presidio menor en su grado medio.
+
+ART. 374 ter.
+Las conductas de comercialización, distribución y exhibición señaladas en el artículo anterior, se entenderán cometidas en Chile cuando se realicen a través de un sistema de telecomunicaciones al que se tenga acceso desde territorio nacional.
 
 #### § IX. Del incesto.
 
@@ -2629,7 +2661,7 @@ Serán castigados con multa de una unidad tributaria mensual:
 4.° El particular que cometiere igual falta respecto de cualquier funcionario revestido de autoridad pública, mientras ejerce sus funciones, y respecto de toda persona constituida en dignidad, aun cuando no sea en el ejercicio de sus funciones, siempre que fuere conocida o se anunciare como tal; sin perjuicio de imponer, tanto en este caso como en el anterior, la pena correspondiente al crimen o simple delito, si lo hubiere.
 5.° El que públicamente ofendiere el pudor con acciones o dichos deshonestos.
 6.° El cónyuge que escandalizare con sus disensiones domésticas después de haber sido amonestado por la autoridad.
-7.° El que infringiere los reglamentos de policía en lo concerniente a mujeres públicas.
+7.° El que infringiere los reglamentos de policía en lo concerniente a quienes ejercen el comercio sexual.
 8.° El que diere espectáculos públicos sin licencia de la autoridad, o traspasando la que se le hubiere concedido.
 9.° El que abriere establecimientos sin licencia de la autoridad, cuando sea necesaria.
 10.° El que en la exposición de niños quebrantare los reglamentos.
