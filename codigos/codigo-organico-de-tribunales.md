@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1974-11-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1975-07-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1974-11-16
-fetched_at: 2026-08-03T00:24:08.491650+00:00
+version_date: 1975-07-30
+fetched_at: 2026-08-03T00:25:32.579705+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -935,7 +935,7 @@ El llamamiento de los integrantes se hará en el orden indicado y los abogados s
 Art. 218. En los casos en que no pudiere funcionar la Corte Suprema por inhabilidad de la mayoría o de la totalidad de sus miembros, será integrada por ministros de la Corte de Apelaciones de Santiago, llamados por su orden de antigüedad.
 Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados integrantes, tanto en su funcionamiento ordinario como en el extraordinario de que trata el artículo 101.
 
-Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, diez para la Corte de Apelaciones de Santiago, y tres para cada una de las demás Cortes de Apelaciones, previa formación, por la Corte Suprema, de ternas. El Presidente de la República efectuará los nombramientos en el orden de prioridad propuesto por la Corte Suprema.
+Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, diez para la Corte de Apelaciones de Santiago, cinco para las Cortes de Apelaciones de Valparaíso y Concepción y tres para cada una de las demás Cortes de Apelaciones, previa formación de ternas por la Corte Suprema.
 La designación de abogados integrados de las Cortes de Apelaciones se hará en el mes de Enero de cada año. Los abogados designados para la Corte Suprema lo serán por un período de tres años, efectuándose el nombramiento en el mes de Enero en que comienza el trienio respectivo.
 Las ternas serán formadas tomando los nombres de una lista que, en el mes de Diciembre de cada año, enviarán a la Corte Suprema los Consejos de los Colegios de Abogados residentes en los asientos de las diversas Cortes de Apelaciones. En esta lista deberán figurar abogados que tengan su residencia en la ciudad que sirve de asiento al tribunal respectivo y que reúnan las condiciones requeridas para ejercer los cargos de ministros.
 Si no hubiere Colegio de Abogados, las listas serán formadas por las Cortes de Apelaciones respectivas.
@@ -1101,7 +1101,7 @@ Art. 258. No pueden ser simultáneamente jueces de una misma Corte de Apelacione
 
 Art. 259. No podrán ser nombrados ministros de una Corte de Apelaciones las personas que tengan el parentesco indicado en el artículo anterior con alguno de los funcionarios del Escalafón Primario o de la primera serie del Escalafón Secundario dependientes de esa misma Corte.
 
-Art. 260. No podrá existir el parentesco de consanguinidad hasta el cuarto grado o de afinidad hasta el segundo grado inclusive entre los miembros de la Corte Suprema y los de las Cortes de Apelaciones, ni entre éstos y los jueces letrados de su respectiva jurisdicción.
+Art. 260. No podrá existir el parentesco de consanguinidad o de afinidad en la línea recta o en la colateral hasta el segundo grado inclusive, entre los miembros de la Corte Suprema y los de las Cortes de Apelaciones, entre éstos y los jueces letrados de su respectiva jurisdicción.
 
 Art. 261. Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor en las escuelas dependientes de la Universidad de Chile, de la enseñanza secundaria y especial hasta un límite de diez horas semanales y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas y del Consejo Nacional de Menores.
 
@@ -1278,7 +1278,7 @@ Art. 293. Los empleados subalternos que estén en posesión del título de aboga
 NOTA
 El N° 38 del Art. 3° de la Ley 11183, publicada el 10.06.1953, dispuso agregar un inciso al Art. 293, sin embargo la edición oficial original de este Código no contenía un Art. 293 en su enumeración, por lo que este inciso agregado ha pasado a constituir su único texto.
 
-Art. 294. En las ternas para el nombramiento de empleados de Secretaría y Oficiales de Sala, no podrán figurar empleados incluidos en la lista número dos, ni tampoco aquellos a quienes se haya sancionado disciplinariamente, con posterioridad a su última calificación, con censura por escrito, multas o suspensión de sus cargos. Los empleados que figuren en ellas se colocarán por orden de antigüedad, y si figuran personas extrañas al servicio, después de aquéllos.
+Art. 294. En las ternas para el nombramiento de empleados de Secretaría y Oficiales de Sala no podrán figurar empleados incluidos en la lista número dos, salvo que al concurso respectivo no se presentaren, en número suficiente, empleados incluidos en la lista número uno. Tampoco podrán figurar en las ternas los empleados a quienes, con posterioridad a la calificación anual, se hubieren aplicado medidas disciplinarias de censuras por escrito, multas o suspensión de sus cargos. Los empleados figurarán en las ternas por orden de antigüedad, debiendo indicarse la lista de calificación en que se encuentran incluidos, y si se incluyen personas extrañas al servicio, figurarán después de aquéllos.
 Las ternas serán formadas, previo concurso por el tribunal en que deban prestar sus servicios, con un empleado de la misma categoría del cargo que se trata de proveer y dos de la categoría inferior. A falta de oponentes de la misma categoría, la terna se formará con tres empleados de la categoría inferior y por si en ella no hubiere interesados en número suficiente, ocuparán sus lugares los de la categoría siguiente y a falta de éstos, personas extrañas a la carrera.
 Sin embargo, si se opusieren a los concursos para proveer cargos de las categorías tercera y cuarta alumnos regulares del Cuarto y Quinto año de las Escuelas de Derecho de la Universidad de Chile y demás Universidades reconocidas por el Estado, ocupará alguno de éstos un lugar en la terna respectiva, excluyendo, en este caso, a un funcionario del Servicio de las categorías inferiores señaladas en el inciso precedente.
 Los egresados de derecho de las Universidades mencionadas en el inciso anterior, con dos años de permanencia en el Escalafón, sí opusieren a los concursos para proveer cargos de la segunda categoría, tendrán las mismas prerrogativas que el inciso anterior confiere a los alumnos regulares de Cuarto y Quinto años de de Derecho, para figurar en terna.
