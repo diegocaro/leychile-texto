@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1991-09-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1992-02-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1991-09-25
-fetched_at: 2026-08-03T00:51:52.772584+00:00
+version_date: 1992-02-06
+fetched_at: 2026-08-03T00:52:22.808030+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -378,8 +378,8 @@ q) El de la Corte de Punta Arenas comprenderá la Décimo Segunda Región de Mag
 Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indican:
 1.- Las Cortes de Apelaciones de Arica, Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Chillán, Puerto Montt, Coihaique y Punta Arenas tendrán cuatro miembros;
 2.- Las Cortes de Apelaciones de Talca, Temuco y Valdivia tendrán siete miembros;
-3.- Las Cortes de Apelaciones de San Miguel y Concepción tendrán diez miembros;
-4.- La Corte de Apelaciones de Valparaíso tendrá trece miembros;
+3.- La Corte de Apelaciones de Concepción tendrá diez miembros;
+4.- Las Cortes de Apelaciones de Valparaíso y San Miguel tendrán trece miembros, y
 5.- La Corte de Apelaciones de Santiago tendrá veinticinco miembros.
 
 Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado del 1° de marzo y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
@@ -387,12 +387,12 @@ Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendr�
 
 Art. 58. Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá seis Fiscales; las Cortes de Apelaciones de Valparaíso y de San Miguel tendrán tres Fiscales; y las Cortes de Talca, Concepción, Temuco y Valdivia tendrán dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
-Art. 59. Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Talca, Temuco y Valdivia, tendrán cuatro; las Cortes de Apelaciones de San Miguel y Concepción tendrán seis; la Corte de Apelaciones de Valparaíso tendrá ocho y la Corte de Apelaciones de Santiago tendrá dieciocho relatores.
+Art. 59. Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Talca, Temuco y Valdivia tendrán cuatro; la Corte de Apelaciones de Concepción tendrá seis; la Corte de Apelaciones de Valparaíso tendrá ocho; la Corte de Apelaciones de San Miguel tendrá nueve, y la Corte de Apelaciones de Santiago tendrá dieciocho relatores.
 
 Art. 60. Cada Corte de Apelaciones tendrá un secretario.
-La Corte de Apelaciones de Santiago tendrá tres secretarios. El tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
+La Corte de Apelaciones de San Miguel tendrá dos secretarios. La Corte de Apelaciones de Santiago tendrá tres secretarios. Cada tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
 
-Art. 61. Las Cortes de Apelaciones de Talca, Temuco y Valdivia se dividirán en dos salas; las Cortes de Apelaciones de San Miguel y de Concepción en tres salas; la Corte de Apelaciones de Valparaíso en cuatro salas; y la Corte de Apelaciones de Santiago en siete salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo par él integrarla. El sorteo correspondiente se efectuará el último día hábil del mes de enero de cada año.
+Art. 61. Las Cortes de Apelaciones de Talca, Temuco y Valdivia se dividirán en dos salas; la Corte de Apelaciones de Concepción en tres salas; las Cortes de Apelaciones de San Miguel y Valparaíso en cuatro salas, y la Corte de Apelaciones de Santiago en siete salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil del mes de enero de cada año.
 
 Art. 62. Las Cortes de Apelaciones integradas por sus fiscales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo.
 Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla y de las apelaciones que deban conocerse en cuenta, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento.
@@ -1328,7 +1328,7 @@ Un auto acordado de la Corte Suprema, que deberá publicarse en el Diario Oficia
 
 Art. 292. El escalafón del personal de empleados se compondrá de las siguientes categorías:
 Primera categoría: Oficiales segundos y bibliotecario estadístico de la Corte Suprema, oficiales primeros de las Cortes de Apelaciones y Secretario del Presidente de la Corte Suprema.
-Segunda categoría: Oficiales terceros de la Corte Suprema, oficiales segundos de las Cortes de Apelaciones, bibliotecario estadístico de la Corte de Apelaciones de Santiago y oficiales primeros de los juzgados de letras de asiento de Corte.
+Segunda categoría: Oficiales terceros de la Corte Suprema, oficiales segundos de las Cortes de Apelaciones, bibliotecarios estadísticos de las Cortes de Apelaciones de Santiago y de San Miguel y oficiales primeros de los juzgados de letras de asiento de Corte.
 Tercera categoría: Oficiales cuartos de la Corte Suprema, oficiales terceros de las Cortes de Apelaciones, oficiales segundos de los juzgados de letras de asiento de Corte, oficiales cuartos de las Cortes de Apelaciones, oficiales de los fiscales de estos mismos tribunales, estadístico de la Corte de Apelaciones de Concepción, oficiales terceros de los juzgados de letras de asiento de Corte, oficiales primeros de los juzgados de letras de capital de provincia y oficial de archivo de la Biblioteca de la Corte Suprema.
 Cuarta categoría: Oficiales cuartos de los juzgados de letras de asiento de Corte, oficiales de los defensores públicos de Santiago y Valparaíso, oficiales segundos de los juzgados de letras de capital de provincia, oficiales primeros de los juzgados de letras de comunas o agrupaciones de comunas.
 Quinta categoría: Oficiales auxiliares de la Corte Suprema, ayudante de Biblioteca de la Corte Suprema, oficiales terceros y cuartos de los juzgados de letras de capital de provincia, oficiales segundos y terceros de los juzgados de letras de comunas o agrupaciones de comunas.
