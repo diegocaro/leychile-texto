@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2004-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2004-10-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2004-06-05
-fetched_at: 2026-08-03T01:25:45.355220+00:00
+version_date: 2004-10-06
+fetched_at: 2026-08-03T01:26:33.605016+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -803,10 +803,22 @@ El juez de garantía autorizará la práctica de la diligencia siempre que se cu
 
 Artículo 198.- Exámenes médicos y pruebas relacionadas con los delitos previstos en los artículos 361 a 367 bis y en el artículo 375 del Código Penal. Tratándose de los delitos previstos en los artículos 361 a 367 bis y en el artículo 375 del Código Penal, los hospitales, clínicas y establecimientos de salud semejantes, sean públicos o privados, deberán practicar los reconocimientos, exámenes médicos y pruebas biológicas conducentes a acreditar el hecho punible y a identificar a los partícipes en su comisión, debiendo conservar los antecedentes y muestras correspondientes.
 Se levantará acta, en duplicado, del reconocimiento y de los exámenes realizados, la que será suscrita por el jefe del establecimiento o de la respectiva sección y por los profesionales que los hubieren practicado. Una copia será entregada a la persona que hubiere sido sometida al reconocimiento, o a quien la tuviere bajo su cuidado; la otra, así como las muestras obtenidas y los resultados de los análisis y exámenes practicados, se mantendrán en custodia y bajo estricta reserva en la dirección del hospital, clínica o establecimiento de salud, por un período no inferior a un año, para ser remitidos al ministerio público.
+Si los mencionados establecimientos no se encontraren acreditados ante el Servicio Médico Legal para determinar huellas genéticas, tomarán las muestras biológicas y obtendrán las evidencias
+NOTA:
+necesarias, y procederán a remitirlas a la institución que corresponda para ese efecto, de acuerdo a la ley que crea el Sistema Nacional de Registros de ADN y su Reglamento.
+NOTA:
+El Art. 24 de la LEY 19970, publicada el 06.10.2004, dispuso que la modificación de la presente norma comenzará a regir cuando sea dictado su Reglamento, el que fue aprobado por DTO 634, Justicia, publicado el 25.11.2008.
 
 Artículo 199.- Exámenes médicos y autopsias. En los delitos en que fuere necesaria la realización de exámenes médicos para la determinación del hecho punible, el fiscal podrá ordenar que éstos sean llevados a efecto por el Servicio Médico Legal o por cualquier otro servicio médico.
 Las autopsias que el fiscal dispusiere realizar como parte de la investigación de un hecho punible serán practicadas en las dependencias del Servicio Médico Legal, por el legista correspondiente; donde no lo hubiere, el fiscal designará el médico encargado y el lugar en que la autopsia debiere ser llevada a cabo.
 Para los efectos de su investigación, el fiscal podrá utilizar los exámenes practicados con anterioridad a su intervención, si le parecieren confiables.
+
+Artículo 199 bis. Exámenes y pruebas de ADN. Los exámenes y pruebas biológicas destinados a la determinación de huellas genéticas sólo podrán ser efectuados por profesionales y técnicos que se
+NOTA:
+desempeñen en el Servicio Médico Legal, o en aquellas instituciones públicas o privadas que se encontraren acreditadas para tal efecto ante dicho Servicio.
+Las instituciones acreditadas constarán en una nómina que, en conformidad a lo dispuesto en el Reglamento, publicará el Servicio Médico Legal en el Diario Oficial.
+NOTA:
+El Art. 24 de la LEY 19970, publicada el 06.10.2004, dispuso que la modificación de la presente norma comenzará a regir cuando sea dictado su Reglamento, el que fue aprobado por DTO 634, Justicia, publicado el 25.11.2008.
 
 Artículo 200.- Lesiones corporales. Toda persona a cuyo cargo se encontrare un hospital u otro establecimiento de salud semejante, fuere público o privado, dará en el acto cuenta al fiscal de la entrada de cualquier individuo que tuviere lesiones corporales de significación, indicando brevemente el estado del paciente y la exposición que hicieren la o las personas que lo hubieren conducido acerca del origen de dichas lesiones y del lugar y estado en que se le hubiere encontrado. La denuncia deberá consignar el estado del paciente, describir los signos externos de las lesiones e incluir las exposiciones que hicieren el afectado o las personas que lo hubieren conducido.
 En ausencia del jefe del establecimiento, dará cuenta el que lo subrogare en el momento del ingreso del lesionado.
