@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1985-03-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1985-03-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1985-03-12
-fetched_at: 2026-08-03T00:41:16.470148+00:00
+version_date: 1985-03-13
+fetched_at: 2026-08-03T00:41:22.475291+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -574,7 +574,14 @@ La dirección técnica de las farmacias será incompatible entre sí y con la de
 
 Artículo 127°.- Los productos farmacéuticos sólo podrán expenderse al público con receta médica, salvo aquellos que determine el Reglamento.
 
-Artículo 128°.- Sólo los establecimientos de óptica podrán despachar recetas médicas en que se prescriban anteojos con fuerza dióptrica.
+Artículo 128°.- Sólo los
+NOTA:
+establecimient
+NOTA:
+os de óptica podrán despachar recetas médicas en que se prescriban anteojos con fuerza dióptrica.
+NOTA:
+NOTA:
+Véase el Decreto 4, Salud, publicado el 13.03.1985, que aprueba Reglamento sobre establecimientos de óptica.
 
 Artículo 129°.- Las instalación, ampliación, modificación
 NOTA:
