@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1996-07-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1996-09-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1996-07-09
-fetched_at: 2026-08-03T01:02:21.934870+00:00
+version_date: 1996-09-09
+fetched_at: 2026-08-03T01:02:27.945018+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -463,8 +463,8 @@ NORMAS COMUNES
 
 Artículo 94°.- El Instituto de Salud Pública será la autoridad encargada en todo el territorio nacional del control sanitario de los productos farmacéuticos y cosméticos, y de velar por el cumplimiento de las disposiciones que sobre la materia se contienen en el presente Código y sus reglamentos. Tratándose de productos alimenticios, la autoridad sanitaria serán los Servicios de Salud, y en la Región Metropolitana de Santiago, el Servicio de Salud del Ambiente.
 Un reglamento contendrá las normas de carácter sanitario sobre producción, registro, almacenamiento, tenencia, distribución, venta e importación, según corresponda, y las características de los productos farmacéuticos, cosméticos y alimenticios.
-NOTA
-Véase el Decreto 435, Salud, publicado 22.03.1982, Reglamento del Sistema Nacional de Control de Productos Farmacéuticos, Alimentos de Uso Médico y Cosméticos; y que establece normas sobre su elaboración, fabricación e importación.
+NOTA:
+Véase el Decreto 1876, Salud, publicado el 09.09.1996, con vigencia a contar de 210 días desde esa fecha, que reglamenta el Sistema Nacional de Control de Productos Farmacéuticos, Alimentos de Uso Médico y Cosméticos; y que establece normas sobre su elaboración, fabricación e importación.
 
 Artículo 95°.- Los productos a que se refiere el artículo anterior deberán responder en su composición química y características microbiológicas a sus nomenclaturas y a las denominaciones legales y reglamentarias establecidas y, en el caso de los alimentos, además, a sus caracteres organolépticos.
 
@@ -610,9 +610,7 @@ tica podrán fabricarse lentes con fuerza dióp
 NOTA:
 trica de acuerdo con las prescripciones que se ordenen en la receta médica correspondiente.
 NOTA:
-Los establecimientos de óptica podrán abrir l
-NOTA:
-ocales destinados a la recepción y al despacho de recetas médicas en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente.
+Los establecimientos de óptica podrán abrir locales destinados a la recepción y al despacho de recetas médicas en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente.
 NOTA:
 NOTA:
 Véase el Decreto 4, Salud, publicado el 13.03.1985, sobre Establecimientos de Óptica.
@@ -624,7 +622,9 @@ NOTA 1:
 asistencia médica, tales como hospitales, maternidades, clínicas, policlínicas, sanatorios, asilos, casas de reposo,
 NOTA 2:
 establecimientos de óptica, laboratorios clínicos, institutos de fisioterapia y psicoterapia, será autorizada por el Servicio Nacional de Salud, a quien corresponderá también vigilar su funcionamiento.
-Igualmente, corresponde al Servicio Nacional de Salud vigilar el funcionamiento de peluquerías, institutos de belleza, gabinete de pedicuría y otros establecimientos similares.
+Igualmente, corresponde al Servicio Nacional de Salud vigilar el funcionamient
+NOTA:
+o de peluquerías, institutos de belleza, gabinete de pedicuría y otros establecimientos similares.
 La dirección técnica de los establecimientos señalados en el inciso primero, estará a cargo de profesionales con el título que, en cada caso, determine el Servicio Nacional de Salud.
 NOTA:
 Véase el Decreto 161, Salud, publicado el 19.11.1982, que establece el Reglamento de Hospitales y Clínicas Privadas.
