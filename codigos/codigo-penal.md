@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1997-05-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1998-07-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1997-05-17
-fetched_at: 2026-08-03T01:03:33.989890+00:00
+version_date: 1998-07-01
+fetched_at: 2026-08-03T01:06:44.613138+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -849,10 +849,20 @@ Serán castigados con las penas de reclusión menor y suspensión en sus grados 
 En los casos a que se refieren los núms. 2.°, 5.° y 6.° de este artículo, los culpables incurrirán respectivamente en las penas del artículo anterior, si pasaren más de tres días sin cumplir con las obligaciones cuya ejecución se castiga en tales números.
 
 ART. 150.
-Sufrirán las penas de presidio o reclusión menores y suspensión en cualesquiera de sus grados:
-1.° Los que decretaren o prolongaren indebidamente la incomunicación de un reo, le aplicaren tormentos o usaren con él de un rigor innecesario.
-Si de la aplicación de los tormentos o del rigor innecesariamente empleado resultaren lesiones o la muerte del paciente, se aplicarán al responsable las penas señaladas a estos delitos en sus grados máximos.
-2.° Los que arbitrariamente hicieren arrestar o detener en otros lugares que los designados por la ley.
+Sufrirá las penas de presidio o reclusión menores y la accesoria que corresponda:
+1º. El que decretare o prolongare indebidamente la incomunicación de una persona privada de libertad o usare con ella de un rigor innecesario, y
+2º. El que arbitrariamente hiciere arrestar o detener en otros lugares que los establecidos por la ley.
+
+ART. 150 A.
+El empleado público que aplicare a una persona privada de libertad tormentos o apremios ilegítimos, físicos o mentales, u ordenare o consintiere su aplicación, será castigado con las penas de presidio o reclusión menor en sus grados medio a máximo y la accesoria correspondiente.
+Las mismas penas, disminuidas en un grado, se aplicarán al empleado público que, conociendo la ocurrencia de las conductas tipificadas en el inciso precedente, no las impidiere o hiciere cesar, teniendo la facultad o autoridad necesaria para ello.
+Si mediante alguna de las conductas descritas en el inciso primero el empleado público compeliere al ofendido o a un tercero a efectuar una confesión, a prestar algún tipo de declaración o a entregar cualquier información, la pena será de presidio o reclusión menor en su grado máximo a presidio o reclusión mayor en su grado mínimo y la accesoria correspondiente.
+Si de la realización de las conductas descritas en este artículo resultare alguna de las lesiones previstas en el artículo 397 o la muerte de la persona privada de libertad, siempre que el resultado fuere imputable a negligencia o imprudencia del empleado público, la pena será de presidio o reclusión mayor en su grado mínimo a medio y de inhabilitación absoluta perpetua.
+
+ART. 150 B. Al que, sin revestir la calidad de empleado público, participare en la comisión de los delitos sancionados en los dos artículos precedentes, se le impondrán las siguientes penas:
+1º. Presidio o reclusión menor en su grado mínimo a medio, en los casos de los artículos 150 y 150 A, inciso primero;
+2º. Presidio o reclusión menor en su grado medio a máximo, en el caso del inciso segundo del artículo 150 A, y 3º. Presidio o reclusión menor en su grado máximo a presidio o reclusión mayor en su grado mínimo, si se tratare de la figura del último inciso del artículo 150 A.
+En todos estos casos se aplicarán, además, las penas accesorias que correspondan.
 
 ART. 151.
 El empleado público que en el arresto o formación de causa contra un senador, un diputado u otro funcionario, violare las prerrogativas que la ley les acuerda, incurrirá en la pena de reclusión menor o suspensión en cualesquiera de sus grados.
@@ -1567,35 +1577,23 @@ ART. 304.
 Cuando empleando las reglas anteriores para aplicar la pena, no pudiera ésta determinarse por falta de grados inferiores o por no ser aplicables las de inhabilitación y suspensión, se impondrá la última que contenga la respectiva escala gradual.
 
 #### § XIII.
-De la vagancia y mendicidad.
+De la vagancia y mendicidad. Derogado.-
 
-ART. 305.
-Son vagos los que no tienen hogar fijo ni medios de subsistencia, ni ejercen habitualmente alguna profesión, oficio u ocupación lícita, teniendo aptitudes para el trabajo.
+ART. 305. Derogado.
 
-ART. 306.
-El vago será castigado con las penas de reclusión menor en su grado mínimo y sujeción a la vigilancia de la autoridad.
+ART. 306. Derogado.
 
-ART. 307.
-El vago a quien se aprehendiere disfrazado o en traje que no le fuere habitual o provisto de ganzúas u otros instrumentos o armas que inspiren fundada sospecha, sufrirá las penas de presidio menor en sus grados mínimo a medio y de sujeción a la vigilancia de la autoridad.
-Iguales penas se impondrán al vago que intentare penetrar en casa, habitación o lugar cerrado, sin motivo que lo excuse.
+ART. 307. Derogado.
 
-ART. 308.
-En cualquier tiempo que el vago a quien se hubieren impuesto las penas de reclusión menor en su grado mínimo y de sujeción a la vigilancia de la autoridad, diere fianza de buena conducta y aplicación al trabajo, será relevado del cumplimiento de su condena.
-La cuantía de la fianza la fijará el tribunal en la sentencia, no pudiendo bajar de un quinto unidad tributaria mensual, ni exceder de media tributaria mensual.
-Esta fianza durará dos años. El fiador tendrá derecho a pedir en cualquier tiempo su liberación, con tal que presente la persona del vago para que cumpla o extinga su condena.
+ART. 308. Derogado.
 
-ART. 309.
-El que sin la debida licencia pidiere habitualmente limosna en lugares públicos, será castigado con reclusión menor en su grado mínimo y sujeción a la vigilancia de la autoridad.
-Cuando el mendigo no pudiere proporcionarse el sustento con su trabajo o fuere menor de catorce años, la autoridad adoptará las medidas que prescriban los reglamentos.
+ART. 309. Derogado.
 
-ART. 310.
-La disposición del inciso primero del artículo anterior es aplicable al que bajo un motivo falso obtuviere licencia para pedir limosna, o continuare pidiéndola después de haber cesado la causa por que la obtuvo.
+ART. 310. Derogado.
 
-ART. 311.
-El mendigo en quien concurra cualquiera de las circunstancias expresadas en el art. 307, será castigado con las penas señaladas en él.
+ART. 311. Derogado.
 
-ART. 312.
-Lo dispuesto en el art. 308 es aplicable a los mendigos comprendidos en los arts. 309 y 310.
+ART. 312. Derogado.
 
 #### § XIV.
 Crímenes y Simples Delitos contra la Salud Pública.

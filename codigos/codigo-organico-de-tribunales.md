@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1998-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1998-07-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1998-03-01
-fetched_at: 2026-08-03T01:06:02.597722+00:00
+version_date: 1998-07-01
+fetched_at: 2026-08-03T01:06:38.612837+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -316,7 +316,7 @@ c) Suprimido.
 a) De las causas civiles y de comercio cuya cuantía exceda de 10 Unidades Tributarias Mensuales;
 b) De las causas de minas, cualquiera que sea su cuantía. Se entiende por causas de minas, aquellas en que se ventilan derechos regidos especialmente por el Código de Minería;
 c) De los actos judiciales no contenciosos, cualquiera sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil;
-d) De las causas por crimen o simple delito, salvo de aquellas cuyo conocimiento corresponde a los Juzgados de Policía Local para el juzgamiento de los delitos de vagancia y mendicidad que se cometan fuera de los límites urbanos de la ciudad en que tenga su asiento el tribunal;
+d) De las causas por crimen o simple delito;
 e) De las causas por faltas del Código Penal, que se cometan en la ciudad donde tenga su asiento el tribunal, siempre que no haya en ella juez de Policía Local que sea abogado.
 Sin embargo, los jueces del crimen de Santiago, conocerán de las faltas sancionadas en los artículos 494, N°s. 5, 7, 12, 16, 19, 20 y 21; 495 N°s. 3, 15, 21 y 22; 496, N°s. 1, 8, 18, 31 y 33; y 497 del Código Penal, que se cometan dentro de las comunas de Santiago, Quinta Normal, Ñuñoa, Providencia, Las Condes y La Reina.
 f) De las infracciones a la Ley de Alcoholes que trata el Libro II de dicha ley, con excepción de las contempladas en los artículos 113 y 117, que se cometan fuera de la comuna asiento del tribunal.

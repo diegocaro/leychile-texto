@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1997-11-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1998-07-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1997-11-24
-fetched_at: 2026-08-03T01:05:26.590242+00:00
+version_date: 1998-07-01
+fetched_at: 2026-08-03T01:06:26.608432+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -125,14 +125,15 @@ Art. 17. (37) Tampoco pueden ejercitar entre sí acción penal, sea pública o p
 1° Los cónyuges; a no ser que por delito que el uno hubiere cometido contra la persona del otro o contra la de sus hijos, o por el delito de bigamia.
 2° Los consanguíneos legítimos o naturales en tod
 NOTA: 1.2
-a la línea recta, los colaterales hasta el 4° grado ni los afines hasta el 2°; a no ser por delitos cometidos por los unos contra la persona de los otros, o la de su cónyuge o hijos.
+a la línea recta, los colaterales hasta el 4° grado ni los afines hasta el 2°; a no ser por delitos cometidos por los unos contra la persona de los otros, o la de su cónyuge o hij
 NOTA: 1.2
+os.
 NOTA: 1.2
 NOTA: 1.2
 El Artículo 37 de la Ley N° 19.335, publicado en el "Diario Oficial" de 23 de Septiembre de 1994, dispuso que la modificación introducida al presente artículo, rige transcurridos tres meses de su publicación en el Diario Oficial.
 
 Art. 18. (38) No podrán ser ejercidas por el Ministerio Público ni por otra persona que no fuere la ofendida o su representante legal, las acciones que nacen de los delitos siguientes:
-1.- El retardo o la denegación a los particulares de la protección o servicio que deba dispensarles un empleado público en conformidad a las leyes y reglamentos;
+1.- Derogado
 2.- La comunicación fraudulenta de secretos de la fábrica en que el culpable ha estado o está empleado;
 3.- El estupro, que puede también ser perseguido por los padres o abuelos de la persona ofendida, aun cuando no la representen legalmente;
 4.- Derogado.-
@@ -1152,15 +1153,15 @@ Artículo 258.- Los Intendentes Regionales y Gobernadores Provinciales podrán d
 Artículo 259.- Los alcaldes podrán dictar orden de detención contra los responsables de los delitos señalados en los números 4°, 5° y 6° del artículo precedente, cuando la demora en recabarla de la autoridad competente pueda dejar burlada la acción de la justicia.
 Las personas aprehendidas por estos funcionarios serán puestas inmediatamente a disposición del tribunal que corresponda.
 
-Art. 260. (282) Los agentes de policía estarán obligados a detener a todo delincuente de crimen o simple delito a quien se sorprenda infraganti.
-Están, además, autorizados para detener: 1° Al sentenciado a las penas de presidio, reclusión o prisión que hubiere quebrantado su condena;
-2° Al que se fugare estando detenido o preso;
-3° Al que anduviere con disfraz o de otra manera que dificulte o disimule su verdadera identidad y rehusare darla a conocer.
-4° Al que se encontrare a deshora o en lugares o en circunstancias que presten motivo fundado para atribuirle malos designios, si las explicaciones que diere de su conducta no desvanecieren las sospechas; y
-5° DEROGADO.-
+Art. 260. (282) Los agentes de policía están obligados a detener:
+1º. A todo delincuente de crimen o simple delito a quien se sorprenda in fraganti;
+2º. Al sentenciado a las penas de presidio, reclusión o prisión que hubiere quebrantado su condena, y
+3º. Al detenido o preso que se fugare.
 En los casos señalados, la detención podrá hacerse en los lugares o establecimientos a que tenga acceso el público, como los locales de espectáculos, cafés, restaurantes, hoteles, prostíbulos y otros semejantes, sin la necesidad de la orden correspondiente para la entrada a dichos sitios.
 La detención del que se encuentre en los casos previstos en el párrafo segundo del número 6° del artículo 10 del Código Penal, se hará efectiva en su casa. Carabineros o la Policía de Investigaciones, según el caso, deberá dar inmediata cuenta de los hechos al juez del crimen, para los efectos de lo previsto en el Título IX del Libro II de este Código.
 Si el detenido tuviese su casa fuera de la ciudad donde funciona el tribunal competente, la detención se hará efectiva en la casa que aquél señale dentro del territorio jurisdiccional de dicho tribunal.
+
+Artículo 260 bis. La policía podrá solicitar la identificación de cualquier persona, en casos fundados, tales como la existencia de un indicio de que ella ha cometido o intentado cometer un crimen o simple delito, o de que se dispone a cometerlo, o de que puede suministrar informaciones útiles para la indagación de un crimen o simple delito. La identificación se realizará en el lugar en que la persona se encuentre, debiendo dársele todas las facilidades posibles para acreditarla, lo que podrá hacer por cualquier medio. En caso de negativa de una persona a acreditar su identidad o si, habiendo recibido las facilidades del caso no le ha sido posible acreditarla, la policía la conducirá a la unidad policial más cercana, para dar cumplimiento a lo dispuesto por el artículo 266. El ejercicio abusivo de esta facultad o la negativa a dar facilidades para permitir la identificación serán sancionados disciplinariamente en los términos del inciso final del artículo 293.
 
 Artículo 261.- La policía podrá detener al que sorprenda infraganti cometiendo una falta, si no tuviere un domicilio conocido ni rindiere caución en la forma prevista por el artículo 266, de que comparecerá a la presencia judicial en la audiencia inmediata sin necesidad de otra citación.
 
@@ -1178,10 +1179,8 @@ Art. 264. (286) Si el aprehendido en delito flagrante es presentado inmediatamen
 Art. 265. (287) Si, por no ser hora de despacho o por otra causa, el detenido por delito flagrante no fuere conducido en el acto ante el juez, el jefe de la unidad policial o de la casa de detención que recibiere al detenido, hará que la persona que lo conduzca le deje por escrito y bajo su firma una exposición del hecho que motivó la aprehensión y la designación de su propio domicilio.
 Si esta persona no supiere firmar, lo harán por ella dos testigos llamados al efecto.
 
-Artículo 266.- Si el delito flagrante que se imputa a la persona detenida fuere alguno de los mencionados en ART QUINTO el artículo 247, el funcionario que la reciba la pondrá en libertad, intimándole que comparezca ante el juez competente a primera hora de la audiencia inmediata, si el aprehendido tuviere domicilio conocido o ejerciere alguna profesión o industria, o si persona de responsabilidad y vecina del lugar se comprometiere por escrito a que el aprehendido obedecerá la intimación y se obligare a pagar como fiador, en caso de que éste no comparezca, una suma equivalente a media unidad tributaria si se tratare de una falta, y a una unidad tributaria si se tratare de un simple delito.
-La caución podrá consistir en un depósito de dinero hecho por ella o por otra persona, ascendente a un cuarto de unidad tributaria si se tratare de una falta y a una unidad tributaria si se tratare de un simple delito.
-Podrá también constituirse como una fianza nominal de persona cuya solvencia calificará el mismo funcionario o tribunal.
-Se facilitarán al detenido los medios racionales y expeditos que propusiere para acreditar las circunstancias o presentar al fiador de que se habla en el inciso precedente.
+Artículo 266.- Si el delito flagrante que se imputa a la persona detenida fuere alguno de los mencionados en el artículo 247, el funcionario encargado del recinto policial al que sea conducida deberá ponerla en libertad, intimándola para que comparezca ante el juez competente a la primera hora de la audiencia inmediata, cumpliéndose uno de los siguientes requisitos: a) que el detenido acredite tener domicilio conocido, o b) que rinda en dinero efectivo una fianza de comparecencia ascendente a media unidad tributaria mensual si se tratare de una falta y a una unidad tributaria mensual si se tratare de un delito o cuasidelito. La fianza será recibida por el mismo funcionario y podrá ser depositada por el propio detenido o por cualquiera persona a su nombre.
+Se darán al detenido las facilidades pertinentes para que pueda cumplir con cualquiera de estos requisitos.
 
 Art. 267. (289) Cuando el delincuente flagrante o el detenido conforme al artículo 260 no fuere presentado inmediatamente al juez respectivo, el funcionario que lo reciba en calidad de detenido lo pondrá a disposición del juez con los antecedentes del caso, a primera hora de la audiencia más próxima o antes si éste así lo ordena.
 El juez procederá a practicar en el acto las diligencias indicadas en el artículo 264.
@@ -1192,8 +1191,7 @@ Art. 269. (291) La detención decretada por otra autoridad que no sea el juez, n
 En todo caso, el juez podrá ordenar que en cualquier momento se le ponga a su disposición.
 Este magistrado apreciará las piezas o antecedentes que se le hubieren transmitido, y mantendrá el decreto de detención o lo suspenderá según el mérito que ellos arrojen.
 
-Artículo 270.- El jefe de policía ante quien sean conducidas las personas que sus agentes detengan en conformidad a los números 3° y 4° del artículo 260, mantendrá la detención de estas personas o las pondrá en libertad, según las explicaciones que den de su conducta y según los antecedentes que hayan motivado su detención. Lo dicho es sin perjuicio de proceder en la forma que indica el artículo 266, si el hecho imputado es alguno de los que se señalan en el artículo 247.
-Si las mantiene detenidas, se observará lo prescrito en el primer inciso del artículo precedente.
+Artículo 270.- DEROGADO
 
 Artículo 270 bis.- El plazo máximo de la detención en los casos de los artículos 267 y 269 será de veinticuatro horas para el del delito flagrante y de cuarenta y ocho horas en los demás.
 Antes de vencer estos plazos, deberá ponerse al detenido a disposición del juez, sin perjuicio de que pueda tener lugar, en su caso, el régimen especial establecido en el artículo 272 bis.
@@ -1289,6 +1287,9 @@ Art. 283. (305) Los autos en que se decrete o deniegue la detención o prisión 
 El mandamiento de detención o prisión será ejecutorio en todo el territorio de la República.
 
 Art. 284. (306) El mandamiento debe intimarse, al tiempo de ejecutarlo, a la persona en quien debe cumplirse; se le exhibirá en el mismo momento de su detención y se le entregará copia de él.
+Antes de conducir a la persona detenida a la unidad policial, el funcionario público a cargo del procedimiento de detención o de aprehensión deberá informarle verbalmente la razón de su detención o aprehensión y de los derechos a que se refiere el inciso siguiente. Igual información deberá prestar al detenido o aprehendido, el encargado de la primera casa de detención policial hasta la que sea conducido, inmediatamente de ser ingresado a ella. Se dejará constancia en el libro de guardia respectivo, del hecho de haberse proporcionado la información señalada, de la forma en que se prestó la información, del nombre de los funcionarios que la proporcionaron y de aquellos ante los cuales se entregó. Sin perjuicio de lo anterior, cuando por las circunstancias que rodean la detención o aprehensión no se pueda informar al sujeto de sus derechos al momento de practicarla, la información se proporcionará inmediatamente de ser ingresado a la unidad policial o casa de detención. En los casos previstos en los incisos cuarto y quinto del artículo 260, la referida información se entregará en la casa del detenido, o en la que él señale, cuando la tuviere fuera de la ciudad. La observancia de las exigencias de este inciso no exime al funcionario de dar cumplimiento a lo establecido en el inciso anterior.
+En todo recinto de detención policial y casa de detención, en lugar claramente visible del público, deberá existir un cartel destacado en el cual se consignen los derechos de los detenidos, cuyo texto y formato serán fijados por decreto supremo del Ministerio de Justicia.
+El juez, al interrogar al detenido o preso, deberá comprobar si se dio o no cumplimiento a lo dispuesto en los dos incisos anteriores. En caso de comprobarse que ello no ocurrió, remitirá oficio con los antecedentes respectivos a la autoridad competente, para que ésta aplique las sanciones disciplinarias correspondientes y tendrá por no prestadas las declaraciones que el detenido o preso hubiere formulado ante sus aprehensores.
 
 Art. 285. (307) Si el juez que hubiere expedido el mandamiento sabe que la persona cuya aprehensión ordena se encuentra gravemente enferma, de tal manera que no pueda trasladársele a la cárcel sin peligro, adoptará las medidas que estime convenientes para evitar la fuga.
 Si la enfermedad no fuere conocida del juez, el encargado de cumplir la orden no la llevará a efecto hasta darle parte; pero tomará entre tanto las precauciones convenientes para impedir la fuga del que debe ser capturado.
@@ -1324,8 +1325,9 @@ NOTA 1.1
 Las modificaciones introducidas al presente Código por la Ley N° 18.857, publicada en el Diario Oficial de 6 de Diciembre de 1989, rigen, según lo dispone su artículo vigésimo, noventa días después de su publicación en el Diario Oficial.
 
 Art. 293. (315) La detención, así como la prisión preventiva, debe efectuarse de modo que se moleste la persona o se dañe la reputación del procesado lo menos posible. La libertad de éste será restringida en los límites estrictamente necesarios para mantener el orden del establecimiento y para asegurar su persona e impedir las comunicaciones que puedan entorpecer la investigación.
-El detenido o preso, aunque se encuentre incomunicado, tiene el derecho de que se informe por la policía o por el tribunal a cuya disposición estuviere, a su familia, a su abogado o a la persona que él indique, el hecho de su detención o prisión.
+El detenido o preso, aunque se encuentre incomunicado, tiene derecho a que, en su presencia, a la mayor brevedad y por los medios más expeditos posibles se informe a su familia, a su abogado o a la persona que indique, del hecho y la causa de su detención o prisión. El aviso deberá darlo el encargado de la guardia del recinto policial al cual fue conducido, o el secretario del tribunal ante el cual fue puesto a disposición, si no se hubiere dado con anterioridad. Los funcionarios señalados dejarán constancia de haber dado el aviso.
 El funcionario encargado del establecimiento policial o carcelario en que se encuentre el detenido antes de ser puesto a disposición del tribunal, no podrá rehusar que éste conferencie con su abogado en presencia de aquél, hasta por treinta minutos cada día, exclusivamente sobre el trato recibido, las condiciones de su detención y sobre los derechos que puedan asistirle.
+La negativa o el retardo injustificado en el cumplimiento de lo establecido en los dos incisos precedentes serán sancionados disciplinariamente con la suspensión del cargo, en cualquiera de sus grados, por la respectiva superioridad de la institución a la cual pertenezca el funcionario infractor o por la autoridad judicial que corresponda.
 
 Art. 294. (316) El detenido o preso tendrá derecho para procurarse, a sus expensas, las comodidades y ocupaciones que sean compatibles con el objeto de su detención o prisión y con el régimen del establecimiento.
 Podrá, además, en el caso de no estar incomunicado por disposición del juez, recibir la visita de un ministro de su religión, de su abogado o de su procurador, o de aquellas personas con quienes esté en relación de familia, de intereses o que puedan darle consejos, observándose en este caso las prescripciones del reglamento de la casa. Si el juez lo estimare conveniente, podrá ordenar que las conferencias del detenido con dichas personas sean presenciadas por algunos de los empleados del establecimiento o del juzgado, o suspenderlas temporalmente mientras sea necesario para el éxito de la investigación.
