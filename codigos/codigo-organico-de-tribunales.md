@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1975-07-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1975-09-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1975-07-30
-fetched_at: 2026-08-03T00:25:32.579705+00:00
+version_date: 1975-09-29
+fetched_at: 2026-08-03T00:25:44.595302+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2105,7 +2105,7 @@ Las cantidades que deban aplicarse a beneficio fiscal en los casos en que se exi
 Los fondos que se obtengan por la aplicación del inciso anterior, se depositarán a la orden de la Junta, en cuenta especial que se abrirá en la Tesorería Provincial de Santiago, sin perjuicio de que las demás Tesorerías Comunales o Provinciales los recauden, cuando así corresponda, para luego remesarlos a la expresada Tesorería Provincial de Santiago.
 En cuanto al destino de las fianzas y de los dineros decomisados, y de los que no hayan caído en comiso y no fueren reclamados, se estará a lo previsto en el Código de Procedimiento Penal.
 
-Art. 517. El secretario de cada tribunal dará cuenta anualmente a su superior respectivo, en la primera semana de Marzo, de los depósitos que se encuentren en la situación indicada en el artículo anterior, y el tribunal decretará, en los expedientes correspondientes, el ingreso de dichos depósitos a la orden de la Junta de Servicios Judiciales. La resolución se notificará por el estado, y por tres avisos que se publicarán, a costa del Fisco, en las primeras ediciones del mes de Abril en uno de los diarios o periódicos del departamento. Si el expediente estuviere en otro tribunal, se le dirigirá el oficio que corresponda, con inserción del decreto. Este oficio se agregará al proceso y se notificará en la forma antedicha.
+Art. 517. El Secretario de cada Tribunal dará cuenta anualmente a su superior respectivo y a la Junta de Servicios Judiciales, en la primera semana del mes de marzo, de los depósitos que se encuentren en la situación indicada en el artículo anterior, y el Tribunal decretará, en los procesos correspondientes, el ingreso de dichos depósitos a la orden de la Junta. La resolución se notificará por el estado diario. Si el expediente estuviere en otro tribunal, se le dirigirá oficio con inserción del decreto. Este oficio se agregará al proceso y se notificará en la forma antedicha.
 
 Art. 518. Los depósitos que tengan más de diez años, y que incidan en juicios o procesos cuyos expedientes no se encuentren o no puedan determinarse, figurarán en una lista que el tribunal hará colocar en un lugar visible de la secretaría y publicar, a costa del Fisco, en un periódico del departamento en la forma indicada en el artículo anterior.
 
