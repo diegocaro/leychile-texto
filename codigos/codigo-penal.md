@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1991-02-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1992-03-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1991-02-15
-fetched_at: 2026-08-03T00:51:34.764588+00:00
+version_date: 1992-03-22
+fetched_at: 2026-08-03T00:52:41.555990+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -167,9 +167,7 @@ ART. 17.
 Son encubridores los que con conocimiento de la perpetración de un crimen o de un simple delito o de los actos ejecutados para llevarlo a cabo, sin haber tenido participación en él como autores ni como cómplices, intervienen, con posterioridad a su ejecución, de alguno de los modos siguientes:
 1.° Aprovechándose por sí mismos o facilitando a los delincuentes medios para que se aprovechen de los efectos del crimen o simple delito.
 2.° Ocultando o inutilizando el cuerpo, los efectos o instrumentos del crimen o simple delito para impedir su descubrimiento.
-3.° Albergando, ocultando o proporcionando la fuga al culpable, siempre que concurra alguna de las circunstancias siguientes:
-Primera.-La de intervenir abuso de funciones públicas de parte del encubridor.
-Segunda.-La de ser el delincuente reo de traición, parricidio u homicidio cometido con alguna de las circunstancias agravantes que expresan los números 1.°, 2.°, 3.°, 4.°, 5.°, 6.°, 9.° y 11.° del art. 12, si estuvieren en noticia del encubridor, o cuando el delincuente fuere conocido como reo habitual de otros crímenes o simples delitos.
+3.° Albergando, ocultando o proporcionando la fuga del culpable.
 4.° Acogiendo, receptando o protegiendo habitualmente a los malhechores, sabiendo que lo son, aun sin conocimiento de los crímenes o simples delitos determinados que hayan cometido, o facilitándoles los medios de reunirse u ocultar sus armas o efectos, o suministrándoles auxilios o noticias para que se guarden, precavan o salven.
 Están exentos de las penas impuestas a los encubridores los que lo sean de su cónyuge o de sus parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, de sus padres o hijos naturales o ilegítimos reconocidos, con sólo la excepción de los que se hallaren comprendidos en el número 1.° de este artículo.
 
@@ -1085,6 +1083,7 @@ Si el valor de la demanda no excediere de cuatro sueldos vitales, las penas ser�
 
 ART. 210.
 El que ante la autoridad o sus agentes perjurare o diere falso testimonio en materia que no sea contenciosa, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de seis a diez sueldos vitales.
+En igual pena incurrirá el denunciante que perjurare sobre la preexistencia de la especie hurtada o robada, en la declaración que preste con arreglo a lo establecido en el artículo 83 del Código de Procedimiento Penal.
 
 ART. 211.
 La acusación o denuncia que hubiere sido declarada calumniosa por sentencia ejecutoriada, será castigada con presidio menor en su grado máximo y multa de dieciséis a veinte sueldos vitales, cuando versare sobre un crimen; con presidio menor en su grado medio y multa de once a quince sueldos vitales, si fuere sobre simple delito, y con presidio menor en su grado mínimo y multa de seis a diez sueldos vitales, si se tratare de una falta.
@@ -1378,6 +1377,11 @@ Desórdenes públicos.
 
 ART. 269.
 Los que turbaren gravemente la tranquilidad pública para causar injuria u otro mal a alguna persona particular o con cualquier otro fin reprobado, incurrirán en la pena de reclusión menor en su grado mínimo, sin perjuicio de las que les correspondan por el daño u ofensa causados.
+
+#### § II bis. De la obstrucción a la justicia.
+
+Artículo 269 bis.- El que se rehusare a proporcionar a los tribunales de justicia antecedentes que conozca o que obren en su poder y que permitan establecer la existencia de un delito o la participación punible en él, o que, con posterioridad a su descubrimiento, destruya, oculte o inutilice el cuerpo, los efectos o instrumentos de un crimen o simple delito, será sancionado con la pena señalada para el respectivo crimen o simple delito, rebajada en dos grados.
+Estarán exentas de las penas que establece este artículo las personas a que se refieren el inciso final del artículo 17 de este Código y el artículo 210 del Código y el artículo 201 del Código de Procedimiento Penal.
 
 #### § III.
 De la rotura de sellos.
