@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2003-05-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2003-12-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2003-05-13
-fetched_at: 2026-08-03T01:20:58.899404+00:00
+version_date: 2003-12-18
+fetched_at: 2026-08-03T01:22:29.189909+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2680,7 +2680,7 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 29.° El que en contravención a los reglamentos construyere chimeneas, estufas u hornos, o dejare de limpiarlos o cuidarlos.
 30.° El que, empleando el fuego, elevare globos sin permiso de la autoridad.
 31.° El que, habiendo recibido de buena fe moneda falsa o cercenada o títulos de crédito falsos, los circulare después de constarle su falsedad o cercenamiento, siempre que su valor no exceda de una unidad tributaria mensual.
-32.° El que con objeto de lucro interpretare sueños, hiciere pronósticos o adivinaciones, o abusare de la credulidad de otra manera semejante.
+32.° Derogado.
 33.° El que entrare en heredad ajena para coger frutas y comerlas en el acto.
 34.° El que entrare sin violencia a cazar o pescar en sitio vedado o cerrado.
 35.° Derogado.
