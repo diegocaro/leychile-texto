@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2002-10-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2003-01-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2002-10-08
-fetched_at: 2026-08-03T01:19:25.918202+00:00
+version_date: 2003-01-04
+fetched_at: 2026-08-03T01:19:37.977027+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1929,8 +1929,8 @@ Para los efectos de los dos artículos anteriores, se entenderá por acción sex
 
 ART. 366 quater.
 El que, sin realizar una acción sexual en los términos anteriores, para procurar su excitación sexual o la excitación sexual de otro, realizare acciones de significación sexual ante una persona menor de doce años, la hiciere ver o escuchar material pornográfico o la determinare a realizar acciones de significación sexual delante suyo o de otro, será castigado con reclusión menor en cualquiera de sus grados.
-Con la misma pena será castigado el que empleare un menor de doce años en la producción de materia pornográfico.
-También se sancionará con igual pena a quien realice alguna de las conductas descritas en los incisos anteriores con una persona menor de edad pero mayor de doce años, concurriendo cualquiera de las circunstancias del numerando 1º del artículo 361 o de las enumeradas en el artículo 363.
+Inciso Eliminado.
+También se sancionará con igual pena a quien realice alguna de las conductas descritas en el inciso anterior con una persona menor de edad pero mayor de doce años, concurriendo cualquiera de las circunstancias del numerando 1º del artículo 361 o de las enumeradas en el artículo 363.
 
 ART. 367.
 El que, habitualmente o con abuso de autoridad o confianza, promoviere o facilitare la prostitución de menores de edad para satisfacer los deseos de otro, sufrirá las penas de presidio mayor en cualquiera de sus grados y multa de veintiuno a treinta sueldos vitales.
