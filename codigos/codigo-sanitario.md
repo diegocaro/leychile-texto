@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1976-06-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1977-08-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1976-06-25
-fetched_at: 2026-08-03T00:27:03.905722+00:00
+version_date: 1977-08-18
+fetched_at: 2026-08-03T00:28:22.932911+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -431,7 +431,9 @@ Artículo 103°.- Un Reglamento determinará las normas de control de calidad a 
 
 Artículo 104°.- La Oficina de Marcas Comerciales del Ministerio de Economía, Fomento y Reconstrucción, no podrá registrar e inscribir la marca de un producto farmacéutico o cosmético sin informe previo favorable de la Dirección General de Salud. Asimismo, deberá cancelar toda inscripción cuando lo solicite esa Dirección.
 
-Art�culo 105°.- El Ministerio de Salud aprobará la o las farmacopeas que regirán en el país.
+Artículo 105°.- El Ministerio de Salud aprobará la o las farmacopeas que regirán en el país.
+NOTA:
+Véase el Decreto 192, Salud, publicado el 18.08.1977, que establece el orden de precedencia de los textos oficiales sobre farmacopea y sus suplementos, que regirán en el país.
 
 Artículo 106°.- La fabricación, importación, transferencia, posesión, tenencia o consumo de narcóticos, estupefacientes, alucinógenos y demás substancias que produzcan efectos análogos, se someterán a las disposiciones de un Reglamento especial, como asimismo, el tránsito en la República hacia países extranjeros de estas substancias, respetándose las obligaciones contraídas por el Estado en sus Convenios y Tratados Internacionales.
 NOTA
