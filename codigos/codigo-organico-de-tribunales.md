@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1954-06-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1954-09-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1954-06-08
-fetched_at: 2026-08-03T00:12:43.559527+00:00
+version_date: 1954-09-25
+fetched_at: 2026-08-03T00:12:55.568565+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -176,7 +176,7 @@ Art. 32. Los jueces de letras de menor cuantía conocerán:
 1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de cinco mil pesos;
 2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de cinco mil pesos y no sea superior a cincuenta mil, y
 3.o) De los asuntos que otras leyes entreguen a su conocimiento.
-No obstante lo dispuesto en los N.os 1.o y 2.o de este artículo, en los juicios especiales del contrato de arrendamiento, los jueces letrados de menor cuantía conocerán en única instancia hasta la suma de mil pesos, y en primera instancia hasta la suma de cinco mil pesos.
+No obstante lo dispuesto en los N.os 1.o y 2.o de este artículo, en los juicios especiales del contrato de arrendamiento, los jueces letrados de menor cuantía conocerán en única instancia hasta la suma de tres mil pesos, y en primera instancia hasta la suma de quince mil pesos.
 No conocerán, en ningún caso, de los juicios sobre alimentos futuros.
 
 Art. 33. En materia de jurisdicción voluntaria los jueces letrados de menor cuantía conocerán:
@@ -243,7 +243,7 @@ Art. 45. Los jueces de letras de mayor cuantía conocerán:
 1°) En única o en primera instancia, conforme al inciso final de este número:
 a) De las causas civiles sobre cosas cuyo valor exceda de cinco mil pesos, y también de las de cuantías inferiores cuando se trate de los juicios especiales del contrato de arrendamiento que se promuevan dentro de la ciudad cabecera del departamento, salvo en los dos casos, de aquellas cuyo conocimiento corresponda a los jueces de letras de menor cuantía;
 b) De las causas de comercio, con la misma salvedad de la letra precedente.
-Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de mil pesos y las causas de comercio que no excedan de cinco mil y en primera, todas las demás.
+Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de tres mil pesos y las causas de comercio que no excedan de cinco mil y en primera, todas las demás.
 2°) En primera instancia:
 a) De las causas de minas, cualquiera que sea su cuantía. Se entiende por causa de minas aquella en que ventilen derechos regidos especialmente por el Código de Minería.
 b) De los actos judiciales no contenciosos, cualquiera que sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil y en el artículo 33 de este Código;
