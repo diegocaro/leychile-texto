@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1975-10-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1976-03-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1975-10-15
-fetched_at: 2026-08-03T00:25:56.610803+00:00
+version_date: 1976-03-16
+fetched_at: 2026-08-03T00:26:20.629639+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1116,7 +1116,7 @@ El Escalafón Primario se dividirá en categorías y el Secundario en series y c
 Habrá también, un Escalafón Especial del personal subalterno.
 
 Art. 265. En el Escalafón Primario figurarán los miembros y fiscales de la Corte Suprema y de las Cortes de Apelaciones, los jueces letrados de mayor y menor cuantía, los relatores, los secretarios de Cortes y de juzgados de letras de mayor y menor cuantía y los defensores públicos.
-En el Escalafón Secundario figurarán los notarios, conservadores, archiveros, procuradores del número y receptores.
+En el Escalafón Secundario figurarán los notarios, conservadores, archiveros, procuradores del número, receptores y asistentes sociales judiciales.
 En el Escalafón Especial del personal subalterno, figurarán los empleados de secretaría de los Tribunales de Justicia, los empleados de los fiscales y los empleados, con nombramiento fiscal de los defensores públicos.
 
 Art. 266. Dentro de las respectivas categorías del Escalafón General se colocará a los diversos funcionarios por orden estricto de antigüedad, según las fechas de sus nombramientos en propiedad para esa categoría o desde la fecha de su nombramiento de suplente o interino, si obtienen en seguida la propiedad del cargo. Si con la aplicación de la regla que precede, dos o más funcionarios resultaren en iguales condiciones, se determinará la antigüedad por la fecha del juramento y si esto no pudiere aplicarse, se tendrá por más antiguo al que lo era en el grado inferior.
@@ -1141,16 +1141,17 @@ Igual regla se aplicará a los defensores públicos de las categorías sexta y s
 #### 2). Escalafón Secundario
 
 Art. 269. El Escalafón Secundario tendrá las siguientes series:
-PRIMERA SERIE. Notarios, conservadores y archiveros.
-SEGUNDA SERIE. Procuradores del número.
-TERCERA SERIE. Receptores de juzgados de letras.
-Las dos primeras series se dividirán en cuatro categorías y la tercera en cinco.
+Primera serie. Notarios, conservadores y archiveros.
+Segunda serie. Procuradores del Número.
+Tercera serie. Receptores de juzgados de letras.
+Cuarta serie. Asistentes Sociales judiciales.
+Las dos primeras y la cuarta serie se dividirán en cuatro categorías y la tercera en cinco.
 Figurarán:
-En la PRIMERA CATEGORIA, los funcionarios de la primera y segunda series que desempeñen sus cargos en Santiago y los receptores del mismo departamento.
-En la SEGUNDA CATEGORIA, los funcionarios de la primera y segunda series que sirvan sus cargos en los demás departamentos de asiento de Corte de Apelaciones y los receptores de los mismos departamentos;
-En la TERCERA CATEGORIA, los funcionarios indicados en el inciso anterior que desempeñen sus cargos en las capitales de provincia;
-En la CUARTA CATEGORIA, los funcionarios indicados en el mismo inciso, que sirvan sus cargos en las cabeceras de departamentos; y
-En la QUINTA CATEGORIA, de la tercera serie, los receptores que actúen exclusivamente ante los Juzgados de Letras de Menor Cuantía.
+En la primera categoría, los funcionarios de las cuatro series que desempeñen sus cargos en el departamento de Santiago;
+En la segunda categoría, los funcionarios de las cuatro series que sirvan sus cargos en los demás departamentos de asiento de Corte de Apelaciones;
+En la tercera categoría, los funcionarios de las cuatro series que desempeñen sus cargos en las capitales de provincia;
+En la cuarta categoría, los funcionarios de las cuatro series que sirvan sus cargos en las cabeceras de departamento, y
+En la quinta categoría, los receptores que actúen exclusivamente ante los Juzgados de Letras de Menor Cuantía.
 
 #### 3). Formación del Escalafón y calificación del personal
 
@@ -1252,6 +1253,9 @@ Para secretarios de las categorías quinta, sexta, séptima y octava: con los fu
 Art. 287. La terna para el nombramiento de notarios, Conservadores y Archiveros de las tres primeras categorías se formará con el funcionario más antiguo de la misma serie de la categoría inmediatamente inferior que se oponga al concurso y con dos funcionarios de esa categoría o de la misma categoría del cargo que se trata de proveer, también de la misma serie.
 Podrán figurar funcionarios de la misma serie de la categoría subsiguiente, siempre que tengan más de 10 años de antigüedad en el grado.
 A falta de opositores que reúnan los requisitos que preceden, la terna se formará con otros funcionarios de la misma serie y categorías inmediatamente inferior y subsiguientes señaladas; en su defecto, con abogados, y, a falta de éstos, con personas idóneas.
+La terna para el nombramiento de asistente social judicial de las tres primeras categorías se formará del mismo modo que el señalado en el inciso primero. A falta de opositores al concurso para proveer el cargo de asistente social judicial de las dos primeras categorías que reúnan tales requisitos, la terna se formará con funcionarios de la misma serie de la categoría subsiguiente, o, en su defecto, con asistentes sociales ajenos al Servicio. En el caso que al concurso para proveer el cargo de asistente social judicial de tercera categoría no se presentaren funcionarios con las calidades indicadas en el inciso primero, la terna se formará con asistentes sociales ajenos al Servicio.
+La terna para el nombramiento de asistente social judicial de cuarta categoría se formará con un funcionario de la misma categoría que se oponga al concurso y con asistentes sociales ajenos al Servicio.
+Para oponerse al cargo de asistente social judicial se requiere estar en posesión del título respectivo otorgado por alguna Universidad del Estado o reconocida por éste y estar inscrito en el Colegio de Asistentes Sociales.
 
 Art. 288. Las ternas para proveer el cargo de notario de la cuarta categoría, se formarán de la siguiente forma: a) en uno de los lugares figurará un notario de la misma categoría; b) en el otro, un funcionario de las siete primeras categorías del escalafón primario, y c) en el otro, un funcionario de las cuatro primeras categorías del escalafón secundario, o abogados. En el caso que al concurso respectivo no se presentaren funcionarios con las calidades indicadas en los acápites a), b) y primera parte del c), la terna se formará con abogados y, a falta de éstos, con personas idóneas que no posean tal título.
 
@@ -1860,6 +1864,7 @@ En el caso de los Conservadores a que se refiere el artículo anterior, si falta
 Art. 453. Los archiveros son ministros de fe pública encargados de la custodia de los documentos expresados en el artículo 455 de este Código y de dar a las partes interesadas los testimonios que de ellos pidieren.
 
 Art. 454. Habrá archivero en los departamentos de Santiago y Valparaíso y en los demás que determine el Presidente de la República con previo informe de la respectiva Corte de Apelaciones.
+Cuando el archivero estuviere implicado o se imposibilitare por cualquiera causa para el ejercicio de sus funciones, será reemplazado por los notarios del departamento, conforme al orden de su antigüedad.
 
 Art. 455. Son funciones de los archiveros:
 1°) La custodia de los documentos que en seguida se expresan:
@@ -1877,7 +1882,11 @@ Estos índices serán formados con arreglo a las instrucciones que den las respe
 Art. 456. Las funciones de los archiveros, en cuanto ministros de fe, se limitan a dar conforme a derecho, los testimonios y certificados que se les pidan; y a poner, a petición de parte, las respectivas notas marginales en las escrituras públicas.
 Los archiveros generales podrán dar, sin decreto judicial, copia autorizada de las escrituras contenidas en los protocolos de su archivo, en todos aquellos casos en que el notario que haya intervenido en su otorgamiento habría podido darlas sin decreto.
 
-Art. 457. Cuando el archivero estuviere implicado o se imposibilitare por cualquiera causa para el ejercicio de sus funciones, será reemplazado por los notarios del departamento, conforme al orden de su antigüedad.
+### § 10. Los Asistentes Sociales Judiciales
+
+Art. 457. Los asistentes sociales judiciales son auxiliares de la administración de justicia cuya función es la de informar al tribunal acerca de los aspectos sociales, económicos, ambientales, educacionales y demás que se les requiera, con respecto a las partes o a los hechos y situaciones que han provocado el conflicto o la conducta irregular del individuo.
+En cada juzgado especial de menores habrá, a lo menos, un asistente social judicial.
+Cuando por implicancia o recusación el asistente social judicial no pudiere intervenir en determinadas causas, o se imposibilitare para el ejercicio de su cargo, será subrogado por los demás asistentes sociales del tribunal a que pertenece, según el orden de sus nombramientos; en subsidio, por el asistente social de cualquier servicio publico que el juez designe, el que estará obligado a desempeñar el encargo.
 
 ## TITULO XII
 Disposiciones generales aplicables a los Auxiliares de la Administración de Justicia
@@ -1915,11 +1924,12 @@ Le será aplicable también al personal subalterno de la Judicatura del Trabajo 
 
 Art. 467. Para ser receptor ante los Juzgados de Letras y procurador del número es menester tener las cualidades requeridas para poder ejercer el derecho de sufragio en las elecciones populares y acreditar la aptitud necesaria para desempeñar el cargo. Siempre será necesaria la edad de veinticinco años a lo menos para desempeñar el cargo de procurador.
 Para ser receptor ante los juzgados de distrito y subdelegación se requiere esta misma edad.
+Para ser asistente social judicial se requiere tener más de veintiún años de edad, encontrarse en posesión del título de asistente social otorgado por alguna Universidad del Estado o reconocida por éste y estar inscrito en el Colegio de Asistentes Sociales.
 
 Art. 468. Para ser secretario de juzgado de letras de menor cuantía se requiere tener más de veintiún años, y saber leer y escribir. Los Secretarios de estos juzgados en Santiago, deberán, además, ser abogados.
 
 Art. 469. Las incapacidades en razón de parentesco establecidas en el artículo 258, rigen para todos los funcionarios del Escalafón Primario dependientes de una Corte de Apelaciones en su respectivo territorio jurisdiccional.
-No podrán ser oficiales del ministerio público en un tribunal, las personas que tengan con uno o más jueces de él alguno de los parentescos indicados en el citado artículo.
+No podrán ser oficiales del Ministerio público o asistentes sociales judiciales en un Tribunal las personas que tengan con uno o más jueces de él alguno de los parentescos indicados en el citado artículo.
 No pueden ser defensores públicos los que tengan con algunos de los jueces de letras propietarios del departamento cualquiera de los parentescos indicados en dicho artículo.
 Tampoco podrán desempeñar ante ningún juez funciones accidentales de defensores los que tengan con él cualquiera de los indicados parentescos.
 
@@ -1948,6 +1958,7 @@ No obstante, las Cortes de Apelaciones podrán, en casos calificados, autorizar 
 Art. 475. Los secretarios y los receptores estarán obligados a asistir todos los días a la Sala de su despacho durante las horas de funcionamiento de los Tribunales.
 Los secretarios deberán mantener abierta su oficina al público desde una hora antes de la designada para que tenga principio el despacho y hasta una hora después de terminado.
 Los notarios, los Conservadores y los Archiveros deberán mantener abierta su oficina al público en las horas que señalen las leyes y los reglamentos respectivos.
+Los asistentes sociales judiciales, en cumplimiento de sus funciones, deberán atender en el recinto del Tribunal los días y horas que señale el juez respectivo.
 
 Art. 476. Los relatores deberán asistir a la Corte diariamente con la anticipación necesaria para instruirse de los negocios de que deban dar cuenta.
 Los procuradores deberán asistir a la secretaría de los tribunales a instruirse de lo que les concierne en el despacho de los negocios.
@@ -1966,7 +1977,7 @@ No rige lo dispuesto en los incisos anteriores con los defensores públicos y lo
 Art. 480. Los fiscales no podrán aceptar compromisos, excepto cuando el nombrado tuviere con alguna de las partes originariamente interesadas en el litigio, algún vínculo de parentesco que autorice su implicancia o recusación.
 Es prohibido a los notarios la aceptación y desempeño de arbitrajes y particiones.
 
-Art. 481. La prohibición del art. 321 regirá también con los fiscales, defensores, relatores, secretarios y receptores.
+Art. 481. La prohibición del artículo 321 regirá también con los fiscales, defensores, relatores, secretarios, receptores y asistentes sociales judiciales.
 Los notarios y los procuradores del número no podrán comprar los bienes en cuyo litigio han intervenido y que se vendan a consecuencia del litigio, aunque la venta se haga en pública subasta.
 La prohibición del art. 322 rige respecto de los secretarios de los juzgados de letras de mayor cuantía en lo civil y de los conservadores de minas.
 
@@ -1984,11 +1995,11 @@ Art. 485. Se prohibe, igualmente, a los defensores públicos intervenir en calid
 
 Art. 486. Los defensores públicos pueden ser recusados en los casos y por las personas porque pueden serlo los oficiales del ministerio público.
 
-Art. 487. Las causas de implicancia señaladas respecto de los jueces por el art. 195 rigen también respecto de los relatores, secretarios y receptores.
+Art. 487. Las causas de implicancia señaladas respecto de los jueces por el artículo 195 rigen también respecto de los relatores, secretarios, receptores y asistentes sociales judiciales.
 En consecuencia, les es prohibido intervenir como tales en los negocios a que este artículo se refiere.
 
-Art. 488. Para recusar a los relatores y secretarios es menester expresar y probar causa legal.
-Las causas de recusación de un secretario son, en cuanto puedan ser aplicables a ellos, las determinadas para la recusación de los jueces por el art. 196.
+Art. 488. Para recusar a los relatores, secretarios y asistentes sociales judiciales es menester expresar y probar causa legal.
+Las causas de recusación de los secretarios y asistentes sociales judiciales son, en cuanto puedan ser aplicables a ellos, las determinadas para la recusación de los jueces por el artículo 196.
 Son causas legales para los relatores las señaladas en los números 1, 2, 4, 5, 6, 7, 8, 11, 12, 13 y 16 del precitado artículo.
 Sólo puede recusar la parte a quien, según la presunción de la ley, perjudique la falta de imparcialidad que estas causas inducen.
 
