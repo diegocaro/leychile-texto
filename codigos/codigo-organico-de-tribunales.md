@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1990-03-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1991-02-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1990-03-10
-fetched_at: 2026-08-03T00:49:52.674211+00:00
+version_date: 1991-02-14
+fetched_at: 2026-08-03T00:51:22.756264+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -339,8 +339,9 @@ Art. 51. El Presidente de la Corte de Apelaciones de Santiago conocerá en prime
 2°) De las acusaciones o demandas civiles que se entablen contra uno o más miembros de la Corte Suprema o contra su fiscal para hacer efectiva su responsabilidad por actos cometidos en el desempeño de sus funciones.
 
 Art. 52. Un Ministro de la Corte Suprema, designado por el Tribunal, conocerá en primera instancia:
-1°) De las causas a que se refiere el artículo 23, de la ley N° 12.033; y
-2°) De los demás asuntos que otras leyes le encomienden.
+1°) De las causas a que se refiere el artículo 23, de la ley N° 12.033;
+2°) De los delitos de jurisdicción de los tribunales chilenos, cuando puedan afectar las relaciones internacionales de la República con otro Estado, y
+3°) De los demás asuntos que otras leyes le encomienden.
 
 Art. 53. El Presidente de la Corte Suprema conocerá en primera instancia:
 1°) De las causas sobre amovilidad de los Ministros de las Cortes de Apelaciones;
@@ -426,9 +427,9 @@ Art. 68. Las Cortes de Apelaciones resolverán los asuntos en cuenta o previa vi
 Art. 69. Los Presidentes de las Cortes de Apelaciones formarán el último día hábil de cada semana una tabla de los asuntos que verá el tribunal en la semana siguiente, que se encuentren en estado de relación. Se consideran expedientes en estado de relación aquellos que hayan sido previamente revisados y certificados al efecto por el relator que corresponda.
 En las Cortes de Apelaciones que consten de más de una sala se formarán tantas tablas cuantas sea el número de salas y se distribuirán entre ellas por sorteo, en audiencia pública.
 En las tablas deberá designarse un día de la semana, a lo menos, para conocer las causas criminales, sin perjuicio de la preferencia que la ley o el tribunal les acuerden.
-Sin embargo, los recursos de amparo, las apelaciones que se deduzcan en un mismo proceso respecto del auto declaratorio de reo de cualquiera de los inculpados de la resolución que no da lugar a pronunciarlo, o que acoge o rechaza la petición de modificarlo o dejarlo sin efecto, y las apelaciones o consultas relativas a la libertad provisional de esos inculpados o reos, serán de la competencia de la sala que haya conocido por primera vez de los recursos, apelaciones o consultas mencionados.
-Serán agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, en casos urgentes: 1° las apelaciones y consultas relativas a la libertad provisional de los inculpados y reos; 2° los recursos de amparo; y 3° las demás que determinen las leyes.
-Se agregarán extraordinariamente, también, las apelaciones de las resoluciones relativas al auto de procesamiento señaladas en el inciso cuarto, en causas en que haya reos privados de libertad. La agregación se hará a la tabla del día que determine el Presidente de la Corte, dentro del término de cinco días desde el ingreso de los autos a la Secretaría del Tribunal.
+Sin embargo, los recursos de amparo, las apelaciones que se deduzcan en un mismo proceso respecto del auto de procesamiento de cualquiera de los inculpados de la resolución que no da lugar a pronunciarlo, o que acoge o rechaza la petición de modificarlo o dejarlo sin efecto, y las apelaciones o consultas relativas a la libertad provisional de esos inculpados o procesados, serán de la competencia de la sala que haya conocido por primera vez de los recursos, apelaciones o consultas mencionados.
+Serán agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, en casos urgentes: 1° las apelaciones y consultas relativas a la libertad provisional de los inculpados y procesados; 2° los recursos de amparo; y 3° las demás que determinen las leyes.
+Se agregarán extraordinariamente, también, las apelaciones de las resoluciones relativas al auto de procesamiento señaladas en el inciso cuarto, en causas en que haya procesados privados de libertad. La agregación se hará a la tabla del día que determine el Presidente de la Corte, dentro del término de cinco días desde el ingreso de los autos a la Secretaría del Tribunal.
 
 Art. 70. La tramitación de los asuntos entregados a las Cortes de Apelaciones corresponderá, en aquellas que se compongan de más de una sala, a la primera.
 Para dictar las providencias de mera sustanciación bastará un solo ministro.
@@ -443,8 +444,8 @@ Art. 72. Las Cortes de Apelaciones deberán funcionar, para conocer y decidir lo
 
 Art. 73. La pena de muerte no puede ser acordada en segunda instancia sino por el voto unánime del tribunal. Cuando, para imponerla, resulte simple mayoría, se aplicará la pena inmediatamente inferior en grado. Si el tribunal de alzada pronunciare una condenación a muerte, procederá inmediatamente a deliberar sobre si el condenado parece digno de indulgencia y sobre qué pena proporcionada a su culpabilidad podrá sustituirse a la de muerte. El resultado de esta deliberación será consignado en un oficio que la Corte remitirá oportunamente al Ministerio de Justicia, junto con una copia de las sentencias de primera y de segunda instancia. El Ministerio hará llegar los antecedentes al Presidente de la República a fin de que resuelva si ha o no lugar a la conmutación de la pena o al indulto.
 
-Art. 74. Si en materia criminal la mitad de los votos se uniforma a favor del reo, ya sea para absolverlo, ya sea para imponerle una pena menor que la que le asignan los votos de los demás jueces, aquella opinión formará sentencia.
-Si se produce empate acerca de cuál es la opinión que favorece más al reo, prevalecerá la que cuente con el voto del miembro más antiguo del tribunal.
+Art. 74. Si en materia criminal la mitad de los votos se uniforma a favor del procesado, ya sea para absolverlo, ya sea para imponerle una pena menor que la que le asignan los votos de los demás jueces, aquella opinión formará sentencia.
+Si se produce empate acerca de cuál es la opinión que favorece más al procesado, prevalecerá la que cuente con el voto del miembro más antiguo del tribunal.
 
 Art. 75. No podrán tomar parte en ningún acuerdo los que no hubieren concurrido como jueces a la vista del negocio.
 
@@ -491,7 +492,7 @@ Antes de comenzar el acto podrán los jueces discordantes aceptar por sí solos 
 Si, vista de nuevo la causa, ninguna opinión obtuviere mayoría legal, se limitará la votación a las que hubieren quedado pendientes al tiempo de llamarse a los nuevos jueces.
 En caso de nueva vista de una causa por discordia ocurrida en la primera, el Presidente del tribunal podrá indicar a los abogados de las partes el punto materia del empate para que limiten a él sus alegaciones.
 
-Art. 88. En materia penal, en el caso de dispersión de votos, el juez o jueces que sostuvieren la opinión más desfavorable al reo deberán optar por alguna de las otras y se repetirá el procedimiento cuantas veces fuere menester hasta que se produzca la mayoría necesaria, o el empate de que habla el artículo 74.
+Art. 88. En materia penal, en el caso de dispersión de votos, el juez o jueces que sostuvieren la opinión más desfavorable al procesado deberán optar por alguna de las otras y se repetirá el procedimiento cuantas veces fuere menester hasta que se produzca la mayoría necesaria, o el empate de que habla el artículo 74.
 
 Art. 89. En los autos y sentencias definitivas e interlocutorias de los tribunales colegiados, se expresará nominalmente qué miembros han concurrido con su voto a formar sentencia y qué miembros han sostenido opinión contraria.
 Habrá en cada tribunal colegiado un libro, denominado de acuerdos, en el cual los miembros que no opinaren como la mayoría deberán exponer y fundar su voto particular en los asuntos en que hubiere conocido el tribunal.
@@ -746,14 +747,14 @@ El delito se considerará cometido en el lugar donde se dió comienzo a su ejecu
 
 Art. 158. Si un individuo hubiere cometido varios delitos en diversos territorios jurisdiccionales será juzgado por el juez de aquél en que cometió el último delito.
 
-Art. 159. Si el reo hubiere cometido en varias comunas delitos de distinta gravedad, será competente para conocer de todos ellos el juez de aquellas comunas en que cometió el último crimen o, en su defecto, el último simple delito.
+Art. 159. Si el procesado hubiere cometido en varias comunas delitos de distinta gravedad, será competente para conocer de todos ellos el juez de aquellas comunas en que cometió el último crimen o, en su defecto, el último simple delito.
 Si los delitos se cometen en una comuna o agrupación de comunas en que existan dos o más juzgados de igual jurisdicción, será competente para conocer de los procesos que se deban acumular de acuerdo con el artículo siguiente, el juez que conozca del proceso más antiguo.
 
-Art. 160. El culpable de diversos delitos será juzgado por todos ellos en un solo proceso, para lo cual se acumularán las causas iniciadas o por iniciarse en su contra; y las personas que en ellas figuren como reos quedarán sometidas a la jurisdicción del tribunal a quien corresponda conocer en los procesos acumulados.
+Art. 160. El culpable de diversos delitos será juzgado por todos ellos en un solo proceso, para lo cual se acumularán las causas iniciadas o por iniciarse en su contra; y las personas que en ellas figuren como procesados quedarán sometidas a la jurisdicción del tribunal a quien corresponda conocer en los procesos acumulados.
 Sin perjuicio de la regla anterior, el Juez podrá ordenar por medio de un auto motivado la desacumulación de los procesos o su substanciación por cuerda separada, cuando éstos tengan una tramitación diferente o plazos especiales para su tramitación, o la acumulación determine un grave retardo en la substanciación de las causas. Los procesos separados seguirán tramitándose ante el mismo Juez a quien correspondía conocer de ellos acumulados y al fallarlos deberá considerar las sentencias que hayan sido dictadas con anterioridad en estos procesos. Si procediere unificar las penas, el Tribunal lo hará al dictar la última sentencia. Con todo, este último fallo no tomará en consideración las sentencias anteriores para apreciar las circunstancias modificatorias de responsabilidad penal.
 Cuando, siendo procedente la desacumulación, en alguno de los sumarios se investigue un delito cometido en otro territorio jurisdiccional, el juez podrá reenviar ese sumario al juez del territorio jurisdiccional donde se cometió el delito, encargándole la práctica de todas las diligencias determinadas de instrucción que puedan realizarse en aquel lugar y las que aparezcan en el curso de su indagación. El exhortante sólo dejará una relación sucinta del hecho investigado y de los datos necesarios para llevar a cabo las diligencias que haya de practicar. La tramitación de estos exhortos tendrá siempre carácter urgente.
 
-Art. 161. Si un mismo reo tuviere procesos pendientes por faltas y por crímenes o simples delitos, el juez de letras será el solo competente para conocer de todos ellos.
+Art. 161. Si un mismo procesado tuviere procesos pendientes por faltas y por crímenes o simples delitos, el juez de letras será el solo competente para conocer de todos ellos.
 
 Art. 162. Derogado.
 
@@ -779,7 +780,7 @@ Art. 169. Si siendo muchos los responsables de un delito o de varios delitos con
 Art. 170. Cuando se hubiere cometido por un mismo agente delitos de jurisdicción militar y de jurisdicción común, que no sean conexos, el Tribunal Militar será competente para conocer de los primeros y el tribunal ordinario de los segundos. Si la aplicación de esta norma creare alguna interferencia o dificultad para la práctica de medidas o diligencias que se relacionen con el inculpado, tendrán preferencia las requeridas por el Tribunal Militar.
 Los tribunales deberán remitirse recíprocamente copias de los autos de procesamiento y de los fallos que se dictaren en sus respectivas causas, las que deberán agregarse a los autos.
 El tribunal que dictare el último fallo no podrá considerar circunstancias modificatorias de responsabilidad criminal que de estar acumulados los procesos no se hubieren podido tomar en cuenta.
-El reo podrá solicitar, dentro del plazo de un año, a contar del último fallo, al tribunal superior común, la unificación de las penas cuando ello lo beneficiare.
+El procesado podrá solicitar, dentro del plazo de un año, a contar del último fallo, al tribunal superior común, la unificación de las penas cuando ello lo beneficiare.
 
 Art. 170 bis. El juez que conozca de un proceso por delitos cometidos en diversas comunas o de delitos cuyos actos de ejecución se realizaron en varias comunas, podrá practicar directamente actuaciones judiciales en cualquiera de ellas. En este caso deberá designar un secretario ad-hoc que autorice sus diligencias.
 El funcionario que subrogue al juez podrá actuar, en casos urgentes, aun en la misma causa que motiva la ausencia del titular.
@@ -1491,7 +1492,7 @@ Art. 334. Si dos miembros de un mismo tribunal contrajeren, después que hayan s
 
 Art. 335. Las funciones de juez se suspenden:
 1°) por hallarse el juez procesado por crimen o simple delito cometido en el ejercicio de sus funciones, o a que se aplique pena aflictiva.
-Se entiende, para el efecto de este artículo, procesado el juez, desde que está ejecutoriada la sentencia que declara haber lugar a la querella de capítulos, y tratándose de delitos comunes, desde que se libra la encargatoria de reo o el decreto de prisión cuando, según la ley, quede sometido a proceso sin necesidad de dicha encargatoria;
+Se entiende, para el efecto de este artículo, procesado el juez, desde que está ejecutoriada la sentencia que declara haber lugar a la querella de capítulos, y tratándose de delitos comunes, desde que se libra el auto de procesamiento o el decreto de prisión cuando, según la ley, quede sometido a proceso sin necesidad de dicha encargatoria;
 2°) Por la sentencia de primera instancia que lo condena a destitución dictada en un proceso de amovilidad;
 3°) Por la aplicación de la medida disciplinaria de suspensión; y
 4°) Por licencia concedida con arreglo a la ley.
@@ -2425,7 +2426,7 @@ Art. 566. Derogado.
 
 Art. 567. El último día hábil de cada semana, todo juez de letras que ejerza jurisdicción en materia criminal visitará, acompañado de su secretario, la cárcel o establecimientos en que se encuentren los detenidos o presos a quienes procesa, a fin de indagar si sufren vejaciones indebidas, si se les coarta la libertad de defensa o si se prolonga ilegalmente la tramitación de su proceso.
 
-Art. 568. Tendrán derecho de asistir a estas visitas los oficiales del ministerio público, cualquiera que sea su categoría, los abogados y procuradores de los reos y los padres o guardadores de los procesados menores de edad.
+Art. 568. Tendrán derecho de asistir a estas visitas los oficiales del ministerio público, cualquiera que sea su categoría, los abogados y procuradores de los procesados y los padres o guardadores de los procesados menores de edad.
 
 Art. 569. En el acto de la visita deberán ser presentados todos los presos y detenidos a quienes procese el juez que la practica; y si alguno no hubiere sido puesto todavía a disposición del juez, ni tuviere proceso pendiente, será presentado en la visita que practique el juez de turno.
 
@@ -2438,7 +2439,7 @@ Art. 572. El juez reconocerá, en seguida, el estado de aseo y seguridad de los 
 
 Art. 573. Cuando, por la inspección de los libros del alcaide o por otros motivos, conociere el juez que existe en el establecimiento algún individuo ilegalmente detenido o incompetentemente juzgado, dictará desde luego las providencias que estuvieren dentro de sus facultades para remediar el abuso cometido. Si el remedio excediere de sus facultades, dará cuenta inmediata con los antecedentes a la autoridad superior que corresponda.
 
-Art. 574. Cada juez que practique la visita de los reos procesados levantará un acta en que se contenga una exposición minuciosa de las observaciones que hubiere hecho y de los reclamos que se le hubieren dirigido durante ella. En el acta se expresarán el movimiento que hubiere tenido la cárcel y la indicación del nombre y apellido de cada uno de los individuos procesados por el juzgado, que hubieren entrado y salido durante la semana.
+Art. 574. Cada juez que practique la visita de los procesados levantará un acta en que se contenga una exposición minuciosa de las observaciones que hubiere hecho y de los reclamos que se le hubieren dirigido durante ella. En el acta se expresarán el movimiento que hubiere tenido la cárcel y la indicación del nombre y apellido de cada uno de los individuos procesados por el juzgado, que hubieren entrado y salido durante la semana.
 
 Art. 575. Una copia autorizada del acta será enviada el mismo día a la Corte de Apelaciones respectiva; y este tribunal procederá a examinarla en el acto que la reciba. Si en ella se consigna alguna resolución del juez que hubiere sido apelada, mandará traer los antecedentes en relación, y le dará lugar preferente en la primera tabla que se forme. Con audiencia verbal de las partes que concurran, y sin otro trámite, fallará la Corte el recurso pendiente.
 
@@ -2447,7 +2448,7 @@ Art. 576. Si el contenido de las actas diere mérito para adoptar medidas que es
 Art. 577. Todo jefe de establecimiento en que se encuentren detenidos o presos los individuos procesados, dará cuenta inmediata al juez de letras respectivo de la muerte o fuga de alguno de ellos, y de cualquiera enfermedad que exija la traslación del enfermo a un hospital o a otro establecimiento.
 Si el proceso se encontrare pendiente ante la Corte de Apelaciones, el juez de letras comunicará a ese tribunal, sin pérdida de tiempo, la fuga o la muerte del procesado.
 
-Art. 578. En toda ciudad en que existan cárceles o establecimientos penales se hará, a lo menos, una visita en el primer semestre y otra en el segundo semestre del año a cada uno de ellos, a fin de tomar conocimiento de su estado de seguridad, orden e higiene, de si los reos cumplen sus condenas y de oírles sus reclamaciones.
+Art. 578. En toda ciudad en que existan cárceles o establecimientos penales se hará, a lo menos, una visita en el primer semestre y otra en el segundo semestre del año a cada uno de ellos, a fin de tomar conocimiento de su estado de seguridad, orden e higiene, de si los procesados cumplen sus condenas y de oírles sus reclamaciones.
 
 Art. 579. Las visitas se practicarán sin aviso previo, a uno o más de los establecimientos penales y cárceles existentes en el territorio jurisdiccional respectivo, en la fecha y hora que determine el presidente de la visita, por sí o a petición de cualquiera de sus miembros.
 
@@ -2461,12 +2462,12 @@ El presidente, el ministro y el fiscal de la Corte de Apelaciones que constituya
 En estos casos, será secretario de la visita el ministro de fe que el presidente designe.
 Estas visitas tendrán los fines que se indican en el artículo 578 y se regirán, en cuanto les sean aplicables, por las disposiciones de los artículos 579, 582, 583, 584 y 585.
 
-Art. 582. La visita inspeccionará los diferentes departamentos de la casa; se informará del trato y del alimento que se da a los reos; de cómo se cumple el reglamento y se llevan las cuentas de las economías de los reos; y el Presidente les advertirá que pueden hacer las reclamaciones que les convengan.
-Los directores o jefes de la casa visitada presentarán a todos los reos o detenidos que en ella haya, en la forma que la visita ordene.
+Art. 582. La visita inspeccionará los diferentes departamentos de la casa; se informará del trato y del alimento que se da a los procesados; de cómo se cumple el reglamento y se llevan las cuentas de las economías de los procesados; y el Presidente les advertirá que pueden hacer las reclamaciones que les convengan.
+Los directores o jefes de la casa visitada presentarán a todos los procesados o detenidos que en ella haya, en la forma que la visita ordene.
 De las reclamaciones que se refieren a vejaciones indebidas, coacción de la libertad de defensa o prolongación injustificada en la tramitación de los procesos, se dejará testimonio escrito y de ellas conocerá la Corte de Apelaciones para la adopción de las medidas procedentes.
 
 Art. 583. Si notare abusos o defectos que pueda corregir, obrando dentro de sus atribuciones, la visita dará las órdenes del caso.
-Acordará, si lo estimare oportuno, hacer representaciones al Presidente de la República, ya en favor de algún reo, ya con relación a la casa.
+Acordará, si lo estimare oportuno, hacer representaciones al Presidente de la República, ya en favor de algún procesado, ya con relación a la casa.
 
 Art. 584. El secretario que asista consignará en un libro, que llevará con este objeto, acta de la visita, en la cual expresará las órdenes dadas y las medidas tomadas en cada cárcel y establecimiento visitado.
 El Presidente firmará el acta y también el secretario.
@@ -2521,8 +2522,8 @@ Cuando alguna persona que goce del privilegio de pobreza no pueda ser servida po
 En las comunas o agrupaciones de comunas en donde hubiere dos o más jueces de letras, hará las designaciones generales prevenidas en los dos primeros incisos de este artículo, el más antiguo, y las especiales del inciso precedente el que conociere del negocio en que han de aplicarse.
 Las designaciones generales de abogados, procuradores y receptores de turno deberán hacerse por las Cortes de Apelaciones para el territorio jurisdiccional en que éstas tengan su residencia.
 
-Art. 596. Los procesados que no designaren procurador y abogado en el acto de notificárseles la encargatoria de reo, serán representados y defendidos por los procuradores del número y abogados que estuvieren de tumo. Si las defensas de dos o más reos de un mismo proceso fueren incompatibles entre sí, el que el juez designare será representado y defendido por el procurador y abogado de turno y los demás lo serán por los procuradores y abogados que el juez respectivamente les señalare, salvo que ellos hubieren nombrado otro abogado o procurador.
-Los procuradores y abogados referidos serán remunerados por los reos si no gozaren del privilegio de pobreza.
+Art. 596. Los procesados que no designaren procurador y abogado en el acto de notificárseles el auto de procesamiento, serán representados y defendidos por los procuradores del número y abogados que estuvieren de tumo. Si las defensas de dos o más procesados de un mismo proceso fueren incompatibles entre sí, el que el juez designare será representado y defendido por el procurador y abogado de turno y los demás lo serán por los procuradores y abogados que el juez respectivamente les señalare, salvo que ellos hubieren nombrado otro abogado o procurador.
+Los procuradores y abogados referidos serán remunerados por los procesados si no gozaren del privilegio de pobreza.
 
 Art. 597. En las ciudades donde rijan las obligaciones de estar representado y patrocinado por abogado, las personas notoriamente menesterosas, a juicio del tribunal, serán representadas y patrocinadas gratuitamente por el abogado de turno.
 
