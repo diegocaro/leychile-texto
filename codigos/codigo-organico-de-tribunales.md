@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1979-11-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1979-11-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1979-11-08
-fetched_at: 2026-08-03T00:30:35.100432+00:00
+version_date: 1979-11-23
+fetched_at: 2026-08-03T00:30:41.110547+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1125,14 +1125,14 @@ Art. 274. Para los efectos del artículo anterior, las Cortes de Apelaciones se 
 Los acuerdos se tomarán por las Cortes reunidas en Pleno, con el voto conforme de la mayoría absoluta de los Ministros que asistan a la audiencia y se aplicarán las reglas contenidas en el Párrafo 2 del Título V, en lo que fueren compatibles. Las votaciones tendrán el carácter de secretas.
 De los acuerdos se dejará constancia en un libro especial, que se mantendrá reservado.
 
-Art. 275. La Corte Suprema, una vez recibidos los informes a que se refiere el artículo 273, hará en el mes de Enero de cada año, una calificación general de los Ministros y Fiscales de las Cortes de Apelaciones, de los Relatores y Secretario de la Corte Suprema y de los funcionarios indicados en el inciso segundo de dicho artículo, con el objeto de formar cuatro listas de los funcionarios del Orden Judicial.
+Art. 275. La Corte Suprema, una vez recibidos los informes a que se refiere el artículo 273, hará en el mes de Enero de cada año, una calificación general de los Ministros y Fiscales de las Cortes de Apelaciones, de los Relatores y Secretario de la Corte Suprema y de los funcionarios indicados en el inciso segundo de dicho artículo, con el objeto de formar cuatro listas de los funcionarios del Orden Judicial. En todo caso, figurarán en esta lista los receptores judiciales que hayan sido suspendidos de sus funciones, por dos o más veces en el año, o por una vez cada año, en dos años consecutivos mediante resolución ejecutoriada.
 En la lista número uno, figurarán los funcionarios sobresalientes; en la lista número dos, los funcionarios satisfactorios; en la lista número tres, los funcionarios regulares, y en la lista número cuatro, los funcionarios deficientes.
 En caso de producirse empate de votos, respecto de si un funcionario debe figurar en las listas uno, dos, tres o cuatro, se repetirá la votación, y si se produce un segundo empate, decidirá el voto del que preside. Si no se reuniere el quorum legal para incluir en la lista número cuatro a los funcionarios que gocen de inamovilidad, quedarán incluidos en la lista número tres.
 La calificación efectuada por los Jueces de Letras de Mayor Cuantía y por los de Menores, será apelable ante las Cortes de Apelaciones respectivas; tales apelaciones serán vistas, en cuenta, por el Tribunal Pleno de cada Corte. Las calificaciones efectuadas por las Cortes de Apelaciones serán apelables ante la Corte Suprema, la que las resolverá en cuenta. Las calificaciones que efectúe la Corte Suprema sólo serán susceptibles del recurso de reposición. Este recurso deberá interponerse dentro del plazo de cinco días, contados desde la fecha en que se efectuó la transcripción de la calificación. Si el afectado desempeñare sus funciones fuera del Departamento de Santiago, dicho plazo se aumentará en la misma forma que el de emplazamiento para contestar demandas, según lo dispuesto en los artículos 258 y 259 del Código de Procedimiento Civil.
 En la lista número uno se colocará a los funcionarios que además de tener moralidad intachable, reúnan cualidades sobresalientes de criterio y preparación jurídica, vocación profesional, laboriosidad, eficiencia y celo en el cumplimiento de sus deberes y obligaciones.
 En la lista número dos se incluirá a los funcionarios moralmente intachables, que cumplan satisfactoriamente los deberes y obligaciones de su cargo y sean eficientes y celosos en su desempeño.
 En la lista número tres se incluirá a los funcionarios que no posean los requisitos para figurar en la lista número dos, que tengan moralidad intachable y cuyo desempeño funcionario sea solamente regular, y a los que en los meses que precedan al período en que se efectúa la calificación hubieren sido objeto de alguna de las medidas disciplinarias de censura por escrito, pago de costas o multas.
-En la lista número cuatro, se colocará a los funcionarios que no posean los requisitos para figurar en la lista número tres; a los funcionarios deficientes; a los que a juicio de la Corte Suprema, hubieren infringido alguna de las prohibiciones indicadas en los números 2° y 3° del artículo 323; a los que por dos años consecutivos hubieren figurado en la lista número tres y a los que en los meses que precedan al período en que se efectúa la calificación, hayan sido objeto de la medida disciplinaria de suspensión de sus funciones, cuando la falta cometida, a juicio de la Corte Suprema, sea de especial gravedad.
+En la lista número cuatro, se colocará a los funcionarios que no posean los requisitos para figurar en la lista número tres; a los funcionarios deficientes; a los que a juicio de la Corte Suprema, hubieren infringido alguna de las prohibiciones indicadas en los números 2° y 3° del artículo 323; a los que por dos años consecutivos hubieren figurado en la lista número tres y a los que en los meses que precedan al período en que se efectúa la calificación, hayan sido objeto de la medida disciplinaria de suspensión de sus funciones, cuando la falta cometida, a juicio de la Corte Suprema, sea de especial gravedad. En todo caso, figurarán en esta lista los receptores judiciales que hayan sido suspendidos de sus funciones, por dos o más veces en el año, o por una vez cada año, en dos años consecutivos mediante resolución ejecutoriada.
 
 Art. 276. Para efectuar la calificación la Corte Suprema se reunirá en audiencia secreta, a partir del 2 de Enero de cada año o del día siguiente hábil, hasta terminar esa labor; las votaciones respectivas también serán secretas.
 Estas audiencias se llevarán a cabo dentro de las dos primeras horas fijadas para el funcionamiento diario del Tribunal.
@@ -1603,11 +1603,11 @@ Los receptores ejercerán sus funciones en todo el territorio que comprenda el r
 
 Art. 392. Habrá para cada departamento el número de receptores que el Presidente de la República determine, previo informe de la respectiva Corte de Apelaciones.
 El Presidente de la República determinará también el número de receptores que deben actuar ante los jueces de subdelegación y distrito, y señalará las subdelegaciones en que deban prestar sus servicios.
+Sin perjuicio de lo anterior, podrá el tribunal de la causa designar receptor a un empleado de la secretaría del mismo tribunal para el sólo efecto de que practique una diligencia determinada que no pueda realizarse por ausencia, inhabilidad u otro motivo calificado, por los receptores judiciales a que se refieren los incisos anteriores. Esta designación deberá hacerse mediante resolución fundada, escrita en el libro establecido en el inciso final del artículo 384°. La persona designada prestará el juramento exigido por el artículo 471° ante el mismo tribunal; practicará la diligencia encomendada ciñéndose a las obligaciones impuestas por el artículo 393°, y quedará facultada para cobrar los derechos que correspondan de acuerdo con el arancel de receptores judiciales.
 
-Art. 393. Son obligaciones de los receptores:
-1°) Evacuar con prontitud y fidelidad las notificaciones, embargos y demás diligencias que se les cometan;
-2°) Anotar bajo su firma y al margen de cada diligencia los derechos que percibieren de las partes; y
-3°) Servir gratuitamente a los pobres, con arreglo a lo dispuesto en el artículo 595.
+Art. 393. Los receptores deberán cumplir con prontitud y fidelidad las diligencias que se les encomendaren, ciñéndose en todo a la legislación vigente, y dejar testimonio íntegro de ellas en los autos respectivos, anotando al margen de esos testimonios, bajo su firma y timbre, los derechos que cobraren, expresados en sueldos vitales y en pesos. Asimismo, deberán otorgar con la debida especificación, recibo firmado por los derechos que les pagaren, el que deberá extenderse en formularios impresos.
+Deberán, además, servir, gratuitamente a los pobres, con arreglo a lo dispuesto en el artículo 595°.
+Los expedientes en que se anotaren los testimonios antedichos serán devueltos a la Secretaría del tribunal respectivo, dentro del segundo día hábil, siguiente a aquel en que se realice la diligencia encomendada. Los receptores no podrán retardar la devolución de los expedientes a pretexto de no habérseles pagado sus derechos o los gastos en que hubieren incurrido.
 
 ### § 6. De los Procuradores y especialmente de los Procuradores del Número
 
@@ -1904,8 +1904,10 @@ La fianza será calificada y aprobada por el funcionario a quien corresponda rec
 Art. 474. Los auxiliares de la Administración de Justicia, salvo los relatores, estarán obligados a residir constantemente en la ciudad o población donde tenga asiento el tribunal en que deban prestar sus servicios.
 No obstante, las Cortes de Apelaciones podrán, en casos calificados, autorizar transitoriamente a los auxiliares de su jurisdicción para que residan en un lugar diverso.
 
-Art. 475. Los secretarios y los receptores estarán obligados a asistir todos los días a la Sala de su despacho durante las horas de funcionamiento de los Tribunales.
+Art. 475. Los secretarios estarán obligados a asistir todos los días a la Sala de su despacho durante las horas de funcionamiento de los Tribunales.
 Los secretarios deberán mantener abierta su oficina al público desde una hora antes de la designada para que tenga principio el despacho y hasta una hora después de terminado.
+Los receptores deberán permanecer diariamente en sus oficinas durante las dos primeras horas de audiencia de los tribunales, a disposición de éstos y de los litigantes, especialmente para los efectos de lo dispuesto en el inciso segundo del artículo 390°".
+Sin embargo, el juez de la causa podrá autorizar su ausencia para el cumplimiento de diligencias urgentes.
 Los notarios, los Conservadores y los Archiveros deberán mantener abierta su oficina al público en las horas que señalen las leyes y los reglamentos respectivos.
 Los asistentes sociales judiciales, en cumplimiento de sus funciones, deberán atender en el recinto del Tribunal los días y horas que señale el juez respectivo.
 
@@ -2136,11 +2138,14 @@ Art. 531. Podrán también los jueces de letras de mayor cuantía, para la repre
 5°) Imponer efectivamente al abogado, o a la parte, o a ambos, las penas expresadas en el número anterior.
 Podrán los jueces de letras de mayor cuantía hacer uso de cualquiera de estos medios, o de dos o más de ellos simultáneamente, según lo estimaren necesario.
 
-Art. 532. A los jueces de letras de mayor cuantía corresponde inmediatamente mantener la disciplina judicial en toda la extensión del departamento sujeto a su autoridad, haciendo observar las leyes relativas a la administración de justicia y a los deberes de los empleados subalternos y demás personas que ejercen funciones concernientes a ella.
-En consecuencia, deberán vigilar la conducta ministerial de los jueces de distrito y de subdelegación y de todas las personas que ejercen funciones concernientes a la administración de justicia y que se hallen sujetas a su autoridad.
-Las faltas o abusos que en la conducta ministerial de las personas expresadas en el inciso anterior notaren los jueces de letras, podrán corregirlas con alguno de los dos últimos medios expresados en el artículo anterior; pero las faltas o abusos de los notarios se castigarán disciplinariamente por las Cortes de Apelaciones, las cuales podrán delegar estas atribuciones en los jueces de letras correspondientes cuando la notaría no se halle en el mismo lugar del asiento de la Corte.
-Las providencias que tomaren los jueces en el ejercicio de sus facultades disciplinarias, se entenderán sin perjuicio de formarse el proceso correspondiente al empleado que hubiere faltado gravemente a sus deberes, o cuya conducta diere lugar a presumir que ha habido en ella dolo o malicia.
-Los empleados subalternos que incurrieren en omisión o infracción en el cumplimiento de los deberes y obligaciones que les imponen sus cargos, serán sancionados por el superior jerárquico inmediato con alguna de las siguientes medidas disciplinarias: amonestación, censura por escrito, multa de uno a quince días de sueldo y suspensión del empleo hasta por un mes, sin goce de sueldo.
+Art. 532. A los jueces de letras de mayor cuantía corresponde inmediatamente mantener la disciplina judicial en toda la extensión del departamento sujeto a su autoridad, haciendo observar las leyes relativas a la administración de justicia y los deberes de los emplados subalternos y demás personas que ejercen funciones concernientes a ella.
+En consecuencia, deberán vigilar la conducta ministerial de los jueces de distrito y subdelegación y de todas las personas que ejercen funciones concernientes a la administración de justicia y que se hallen sujetas a su autoridad.
+Las faltas o abusos en la conducta ministerial de las personas expresadas en el inciso anterior, así como las infracciones u omisiones en que éstas y los empleados de la secretaría incurrieren en el cumplimiento de sus deberes y obligaciones, podrán ser corregidas por los jueces de letras con algunas de las siguientes medidas:
+1) Amonestación privada;
+2) Censura por escrito;
+3) Multa de uno a quince días de sueldo o de una cantidad que no exceda de quince sueldos vitales mensuales para la Región Metropolitana de Santiago, y 4) Suspensión de sus funciones hasta por un mes, gozando del cincuenta por ciento de sus remuneraciones, cuando procediere.
+Las faltas o abusos de los notarios se castigarán disciplinariamente por las Cortes de Apelaciones, las cuales podrán delegar estas atribuciones en los jueces de leras correspondientes cuando la notaría no se halle en el mismo lugar del asiento de la corte.
+Las providencias que tomaren los jueces en el ejercicio de sus facultades disciplinarias se entenderán sin perjuicio de formarse el proceso correspondiente al empleado que hubiere faltado gravemente a sus deberes o cuya conducta diere lugar a presumir que ha habido en ella dolo o malicia.
 
 Art. 533. Si los jueces de letras notaren faltas o abusos en el desempeño de las funciones de los defensores públicos darán cuenta a la Corte de Apelaciones respectiva, la cual Corte, si lo estimare conveniente, corregirá dichas faltas o abusos de la manera y por los medios que señalan los artículos 536 y 537.
 
@@ -2156,7 +2161,7 @@ Art. 537. Las faltas o abusos de que habla el artículo anterior podrán corregi
 1°) Amonestación privada;
 2°) Censura por escrito;
 3°) Pago de costas;
-4°) Multa que no sea inferior a medio sueldo vital ni exceda de tres sueldos vitales;
+4°) Multa de 1 a 15 días de sueldo o una cantidad que no exceda de 15 sueldos vitales mensuales para la Región Metropolitana de Santiago, y;
 5°) Suspensión de funciones hasta por cuatro meses. Durante este tiempo el funcionario gozará de medio sueldo.
 Lo dicho en este artículo se entiende sólo respecto de aquellas faltas o abusos que las leyes no califiquen de crimen o simple delito.
 
@@ -2176,7 +2181,7 @@ La Corte Suprema puede, además, siempre que lo juzgare conveniente a la buena a
 Art. 542. Para la represión y castigo de las faltas que se cometieren ante la Corte Suprema y ante las Cortes de Apelaciones, mientras ejercen sus funciones, estos tribunales podrán emplear alguno de los medios siguientes:
 1°) Amonestación privada;
 2°) Censura por escrito;
-3°) Multa que no exceda de tres sueldos vitales;
+3°) Multa de 1 a 15 días de sueldo o una cantidad que no exceda de 15 sueldos vitales mensuales para la Región Metropolitana de Santiago, y;
 4°) Arresto que no exceda de ocho días.
 Este arresto será siempre conmutable en multa, en proporción de medio sueldo vital por cada día.
 Estos tribunales tendrán, también, las facultades que el artículo 531 otorga a los jueces de letras de mayor cuantía, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren.
