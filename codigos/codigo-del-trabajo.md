@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2003-12-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2004-05-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2003-12-20
-fetched_at: 2026-08-03T01:22:41.193558+00:00
+version_date: 2004-05-25
+fetched_at: 2026-08-03T01:25:09.340524+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -26,7 +26,11 @@ Fíjase el siguiente texto refundido, coordinado y sistematizado de las normas q
 Artículo 1.o Las relaciones laborales entre los empleadores y los trabajadores se regularán por este Código y por sus leyes complementarias.
 Estas normas no se aplicarán, sin embargo, a los funcionarios de la Administración del Estado, centralizada y descentralizada, del Congreso Nacional y del Poder Judicial, ni a los trabajadores de las empresas o instituciones del Estado o de aquellas en que éste tenga aportes, participación o representación, siempre que dichos funcionarios o trabajadores se encuentren sometidos por ley a un estatuto especial.
 Con todo, los trabajadores de las entidades señaladas en el inciso precedente se sujetarán a las normas de este Código en los aspectos o materias no regulados en sus respectivos estatutos, siempre que ellas no fueren contrarias a estos últimos.
-Los trabajadores que presten servicios en los oficios de notarías, archiveros o conservadores se regirán por las normas de este código.
+Los trabajadores que presten servicios en los oficios de notarías, archiveros o conservadores se regirán por las normas d
+NOTA:
+e este código.
+NOTA:
+El artículo 2º de la LEY 19945, publicada el 25.05.2004, interpreta el presente inciso, en el sentido que debe interpretarse y aplicarse de forma tal que la totalidad del estatuto laboral, en todas sus manifestaciones y expresiones, que emana del Código del Trabajo y leyes complementarias, resulte aplicable a los trabajadores que laboran en los oficios de notarías, archiveros o conservadores.
 
 Art.2.o Reconócese la función social que cumple el trabajo y la libertad de las personas para contratar y dedicar su esfuerzo a la labor lícita que elijan.
 Son contrarios a los principios de las leyes laborales los actos de discriminación.

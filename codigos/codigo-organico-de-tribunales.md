@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2004-01-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2004-05-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2004-01-14
-fetched_at: 2026-08-03T01:23:20.140023+00:00
+version_date: 2004-05-25
+fetched_at: 2026-08-03T01:25:21.345360+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2515,10 +2515,8 @@ Art. 503. Es aplicable a los oficiales de secretaría de la Administración de J
 El secretario abogado del fiscal judicial de la Corte Suprema, los oficiales de los fiscales judiciales de las Cortes de Apelaciones y los oficiales de los defensores públicos que tengan título de abogado no podrán ejercer su profesión respecto de los asuntos en que, de conformidad a los artículos 356, 357 y 366, los fiscales judiciales o los defensores públicos deban intervenir, en su caso.
 Los demás oficiales de secretaría de la Administración de Justicia que tengan título de abogado, no podrán ejercer su profesión respecto de los asuntos de que conozca el Tribunal en que desempeñen sus funciones.
 
-Art. 504. En toda notaría, archivo u oficio de los conservadores habrá el número de oficiales de secretaría que los respectivos funcionarios conceptúen preciso para el pronto y expedito ejercicio de sus funciones y el buen régimen de su oficina. La respectiva Corte de Apelaciones, con informe del Ministro a que se refiere el artículo 564 o del juez, en el caso previsto en el artículo 565, fijará la dotación mínima de oficiales de secretaría de estas oficinas.
-No podrán llevar ni admitir al servicio de su oficina ningún oficial de secretaría sin haber antes obtenido para ello el permiso y aprobación de la respectiva Corte o juzgado.
-La Corte o juzgado, siempre que por consideraciones de prudencia, de moralidad o de buena disciplina conceptuare conveniente hacer salir de la oficina algún oficial de secretaría, podrá ordenar que se le despida del servicio.
-En todo lo demás, los oficiales de secretaría estarán sujetos a las instrucciones y órdenes que les diere el respectivo notario, archivero o conservador, quienes distribuirán entre todos ellos el trabajo de su oficina en la forma que lo crean conveniente.
+Art. 504. En toda notaría, archivo u oficio de los conservadores habrá el número de oficiales de secretaría que los respectivos funcionarios conceptúen preciso para el pronto y expedito ejercicio de sus funciones y el buen régimen de su oficina.
+Los oficiales de secretaría estarán sujetos a las instrucciones y órdenes que les diere el respectivo notario, archivero o conservador, quienes distribuirán entre todos ellos el trabajo de su oficina en la forma que lo crean conveniente.
 
 Art. 505. Las licencias, permisos y feriados de los empleados indicados en los artículos 498 y 500 se regirán por las disposiciones del párrafo 9 del Título X de este Código.
 La disposición del artículo 343 regirá con el personal de secretaría de los tribunales colegiados y con los demás empleados de los juzgados que no hayan hecho uso del feriado de vacaciones a que se refiere el artícuo 313.
