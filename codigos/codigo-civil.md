@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2002-05-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2003-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2002-05-31
-fetched_at: 2026-08-03T01:17:54.051503+00:00
+version_date: 2003-10-03
+fetched_at: 2026-08-03T01:21:28.911903+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1115,7 +1115,7 @@ Art. 340. La tutela y las curadurías generales se extienden no sólo a los bien
 
 Art. 341. Están sujetos a tutela los impúberes.
 
-Art. 342. Están sujetos a curaduría general los menores adultos; los que por prodigalidad o demencia han sido puestos en entredicho de administrar sus bienes; y los sordomudos que no pueden darse a entender por escrito.
+Art. 342. Están sujetos a curaduría general los menores adultos; los que por prodigalidad o demencia han sido puestos en entredicho de administrar sus bienes; y los sordos o sordomudos que no pueden darse a entender claramente.
 
 Art. 343. Se llaman curadores de bienes los que se dan a los bienes del ausente, a la herencia yacente, y a los derechos eventuales del que está por nacer.
 
@@ -1152,7 +1152,7 @@ Sigue las reglas de la guarda testamentaria la que se confiere por acto entre vi
 
 Art. 354. El padre o madre puede nombrar tutor, por testamento, no sólo a los hijos nacidos, sino al que se halla todavía en el vientre materno, para en caso que nazca vivo.
 
-Art. 355. Puede asimismo nombrar curador, por testamento, a los menores adultos; y a los adultos de cualquiera edad que se hallan en estado de demencia, o son sordomudos que no entienden ni se dan a entender por escrito.
+Art. 355. Puede asimismo nombrar curador, por testamento, a los menores adultos; y a los adultos de cualquiera edad que se hallan en estado de demencia, o son sordos o sordomudos que no entienden ni se dan a entender claramente.
 
 Art. 356. Puede asimismo nombrar curador, por testamento, para la defensa de los derechos eventuales del hijo que está por nacer.
 
@@ -1481,15 +1481,15 @@ Art. 468. El demente podrá ser rehabilitado para la administración de sus bien
 Se observará en estos casos lo prevenido en los artículos 454 y 455.
 
 ##### Título XXVI
-REGLAS ESPECIALES RELATIVAS A LA CURADURIA DEL SORDOMUDO
+REGLAS ESPECIALES RELATIVAS A LA CURADURIA DEL SORDO O SORDOMUDO
 
-Art. 469. La curaduría del sordomudo, que ha llegado a la pubertad, puede ser testamentaria, legítima o dativa.
+Art. 469. La curaduría del sordo o sordomudo, que no puede darse a entender claramente y ha llegado a la pubertad, puede ser testamentaria, legítima o dativa.
 
-Art. 470. Los artículos 449, 457, 458 inciso 1º, 462, 463 y 464 se extienden al sordomudo.
+Art. 470. Los artículos 449, 457, 458 inciso 1º, 462, 463 y 464 se extienden al sordo o sordomudo que no pueda darse a entender claramente.
 
-Art. 471. Los frutos de los bienes del sordomudo, y en caso necesario, y con autorización judicial, los capitales, se emplearán especialmente en aliviar su condición y en procurarle la educación conveniente.
+Art. 471. Los frutos de los bienes del sordo o sordomudo que no pueda darse a entender claramente, y en caso necesario, y con autorización judicial, los capitales, se emplearán especialmente en aliviar su condición y en procurarle la educación conveniente.
 
-Art. 472. Cesará la curaduría cuando el sordomudo se haya hecho capaz de entender y de ser entendido por escrito, si él mismo lo solicitare, y tuviere suficiente inteligencia para la administración de sus bienes; sobre lo cual tomará el juez los informes competentes.
+Art. 472. Cesará la curaduría cuando el sordo o sordomudo se haya hecho capaz de entender y de ser entendido claramente, si él mismo lo solicitare, y tuviere suficiente inteligencia para la administración de sus bienes; sobre lo cual tomará el juez los informes competentes.
 
 ##### Título XXVII
 DE LAS CURADURIAS DE BIENES
@@ -3042,11 +3042,10 @@ Art. 969. 6º Es indigno de suceder el que siendo mayor de edad, no hubiere acus
 Cesará esta indignidad, si la justicia hubiere empezado a proceder sobre el caso.
 Pero esta causa de indignidad no podrá alegarse, sino cuando constare que el heredero o legatario no es cónyuge de la persona por cuya obra o consejo se ejecutó el homicidio, ni es del número de sus ascendientes y descendientes, ni hay entre ellos deudo de consanguinidad o afinidad hasta el tercer grado inclusive.
 
-Art. 970. 7º Es indigno de suceder al impúber, demente o sordomudo, el ascendiente o descendiente que, siendo llamado a sucederle abintestato, no pidió que se le nombrara un tutor o curador, y permaneció en esta omisión un año entero: a menos que aparezca haberle sido imposible hacerlo por sí o por procurador.
+Art. 970. 7º Es indigno de suceder al impúber, demente, sordo o sordomudo que no pueda darse a entender claramente, el ascendiente o descendiente que, siendo llamado a sucederle abintestato, no pidió que se le nombrara un tutor o curador, y permaneció en esta omisión un año entero: a menos que aparezca haberle sido imposible hacerlo por sí o por procurador.
 Si fueren muchos los llamados a la sucesión, la diligencia de uno de ellos aprovechará a los demás.
 Transcurrido el año recaerá la obligación antedicha en los llamados en segundo grado a la sucesión intestada.
-La obligación no se extiende a los menores, ni en general a los que viven bajo tutela o curaduría.
-Esta causa de indignidad desaparece desde que el impúber llega a la pubertad, o el demente o sordomudo toman la administración de sus bienes.
+La obligación no se extiende a los menores, ni en general a los que viven bajo tutela o curaduría. Esta causa de indignidad desaparece desde que el impúber llega a la pubertad, o el demente sordo o sordomudo toman la administración de sus bienes.
 
 Art. 971. 8º Son indignos de suceder el tutor o curador que nombrados por el testador se excusaren sin causa legítima.
 El albacea que nombrado por el testador se excusare sin probar inconveniente grave, se hace igualmente indigno de sucederle.
@@ -3154,7 +3153,7 @@ Art. 1005. No son hábiles para testar:
 2. El impúber;
 3. El que se hallare bajo interdicción por causa de demencia;
 4. El que actualmente no estuviere en su sano juicio por ebriedad u otra causa;
-5. Todo el que de palabra o por escrito no pudiere expresar su voluntad claramente.
+5. Todo el que no pudiere expresar su voluntad claramente.
 Las personas no comprendidas en esta enumeración son hábiles para testar.
 
 Art. 1006. El testamento otorgado durante la existencia de cualquiera de las causas de inhabilidad expresadas en el artículo precedente es nulo, aunque posteriormente deje de existir la causa.
@@ -3211,7 +3210,10 @@ Art. 1018. Termina el acto por las firmas del testador y testigos, y por la del 
 Si el testador no supiere o no pudiere firmar, se mencionará en el testamento esta circunstancia expresando la causa.
 Si se hallare alguno de los testigos en el mismo caso, otro de ellos firmará por él y a ruego suyo, expresándolo así.
 
-Art. 1019. El ciego podrá sólo testar nuncupativamente y ante escribano, o funcionario que haga veces de tal. Su testamento será leído en alta voz dos veces; la primera por el escribano o funcionario, y la segunda por uno de los testigos elegido al efecto por el testador. Se hará mención especial de esta solemnidad en el testamento.
+Art. 1019. El ciego, el sordo o el sordomudo que puedan darse a entender claramente, aunque no por escrito, sólo podrán testar nuncupativamente y ante escribano o funcionario que haga las veces de tal.
+En el caso del ciego, el testamento deberá leerse en voz alta dos veces: la primera por el escribano o funcionario, y la segunda por uno de los testigos elegido al efecto por el testador.
+Tratándose del sordo o del sordomudo, la primera y la segunda lectura deberán efectuarse, además, ante un perito o especialista en lengua de señas, quien deberá, en forma simultánea, dar a conocer al otorgante el contenido de la misma.
+Deberá hacerse mención especial de estas solemnidades en el testamento.
 
 Art. 1020. Si el testamento no ha sido otorgado ante escribano, o ante un juez de letras, sino ante cinco testigos, será necesario que se proceda a su publicación en la forma siguiente:
 El juez competente hará comparecer los testigos para que reconozcan sus firmas y la del testador.
@@ -4474,8 +4476,7 @@ La capacidad legal de una persona consiste en poderse obligar por sí misma, y s
 
 Art. 1446. Toda persona es legalmente capaz, excepto aquellas que la ley declara incapaces.
 
-Art. 1447. Son absolutamente incapaces los dementes, los impúberes y los sordomudos que no pueden darse a entender por escrito.
-Sus actos no producen ni aun obligaciones naturales, y no admiten caución.
+Art. 1447. Son absolutamente incapaces los dementes, los impúberes y los sordos o sordomudos que no pueden darse a entender claramente. Sus actos no producen ni aun obligaciones naturales, y no admiten caución.
 Son también incapaces los menores adultos y los disipadores que se hallen bajo interdicción de administrar lo suyo. Pero la incapacidad de las personas a que se refiere este inciso no es absoluta, y sus actos pueden tener valor en ciertas circunstancias y bajo ciertos respectos, determinados por las leyes.
 Además de estas incapacidades hay otras particulares que consisten en la prohibición que la ley ha impuesto a ciertas personas para ejecutar ciertos actos.
 
@@ -7873,7 +7874,7 @@ Art. 2508. El tiempo necesario a la prescripción ordinaria es de dos años para
 
 Art. 2509. La prescripción ordinaria puede suspenderse, sin extinguirse: en ese caso, cesando la causa de la suspensión, se le cuenta al poseedor el tiempo anterior a ella, si alguno hubo.
 Se suspende la prescripción ordinaria, en favor de las personas siguientes:
-1.º Los menores; los dementes; los sordomudos; y todos los que estén bajo potestad paterna, o bajo tutela o curaduría;
+1.º Los menores; los dementes; los sordos o sordomudos que no pueden darse a entender claramente; y todos los que estén bajo potestad paterna, o bajo tutela o curaduría;
 2.º La mujer casada en sociedad conyugal mientras dure ésta;
 3.º La herencia yacente.
 No se suspende la prescripción en favor de la mujer divorciada o separada de bienes, respecto de aquellos que administra.
