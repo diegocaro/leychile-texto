@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2001-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2005-02-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 2001-06-05
-fetched_at: 2026-08-03T01:14:54.737030+00:00
+version_date: 2005-02-16
+fetched_at: 2026-08-03T01:28:28.516662+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1213,8 +1213,7 @@ Art. 299. Será castigado con presidio militar menor en cualquiera de sus grados
 3° El que sin incurrir en desobediencia o en el delito previsto en el artículo 294, deje de cumplir sus deberes militares.
 INCISO FINAL.- DEROGADO.-
 
-Artículo 299 bis.- El militar que fuere sorprendido en alguno de los lugares o situaciones señalados en el artículo 5°, N° 3, de este Código, consumiendo alguna de las substancias señaladas en el artículo 1° de la ley que Sanciona el Tráfico Ilícito de Estupefacientes y Substancias Sicotrópicas, o en circunstancias que hagan presumir que acaba de hacerlo, será sancionado con la pena de presidio o reclusión menores en sus grados medio a máximo y multa de diez a cien unidades tributarias mensuales. La misma sanción se aplicará al militar que fuere sorprendido, en idénticas circunstancias, portando dichas substancias para su exclusivo uso personal.
-Las penas indicadas en el inciso anterior no se aplicarán a los que justifiquen el uso, consumo, porte o tenencia de alguna de dichas substancias en virtud de prescripción médica.
+Artículo 299 bis.- DEROGADO
 
 #### 2. Delitos del centinela
 
