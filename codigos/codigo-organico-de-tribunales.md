@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1977-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1977-11-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1977-03-01
-fetched_at: 2026-08-03T00:27:58.897743+00:00
+version_date: 1977-11-30
+fetched_at: 2026-08-03T00:28:40.955049+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -345,8 +345,7 @@ Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a 
 Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado desde el 1° de Enero y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
 Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón.
 
-Art. 58. Cada Corte de Apelaciones tendrá un fiscal.
-La Corte de Apelaciones de Santiago tendrá cuatro fiscales. El ejercicio de sus funciones será reglado por el tribunal, como lo estime más conveniente para el mejor servicio, con audiencia de estos funcionarios.
+Art. 58. Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá cinco Fiscales, y las Cortes de Valparaíso y Concepción dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal, como lo estime más conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
 Art. 59. Las Cortes de Apelaciones tendrán el número de Relatores que a continuación se indica:
 1°.- Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Los Angeles, Puerto Montt y Punta Arenas tendrán un Relator;
