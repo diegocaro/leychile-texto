@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1999-12-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2000-07-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1999-12-21
-fetched_at: 2026-08-03T01:09:46.665685+00:00
+version_date: 2000-07-04
+fetched_at: 2026-08-03T01:11:22.938557+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -133,7 +133,7 @@ Art. 23. Son aplicables en las causas de que deben conocer los Juzgados a que se
 Art. 24. En materia criminal no puede, en caso alguno, ser prorrogada la jurisdicción por voluntad de las partes.
 Inciso Segundo.- DEROGADO.-
 
-Art. 24-A. Las normas de los artículos 507, 508 y 512 del Código Orgánico de Tribunales serán aplicables a los dineros que sea necesario poner a disposición de los Tribunales Militares.
+Art. 24-A. Las normas de los artículos 516 y 517 del Código Orgánico de Tribunales serán aplicables a los dineros que sea necesario poner a disposición de los Tribunales Militares.
 La obligación de abrir y mantener la cuenta bancaria de depósito corresponderá a los Juzgados Institucionales, los que podrán encargar tal cometido a las Fiscalías de su dependencia.
 Los reajustes e intereses de los dineros depositados a que se refiere el inciso primero de este artículo, podrán destinarse por los Juzgados Institucionales a la adquisición de libros, muebles y útiles para los Tribunales Militares.
 Asimismo, los Juzgados Institucionales podrán destinar los dineros depositados en su cuenta bancaria cuya devolución no hubiere sido reclamada dentro del plazo de cinco años, contado desde la fecha en que quede ejecutoriada la sentencia que haya puesto término al proceso respectivo, a la adquisición de los bienes señalados en el inciso precedente y al acondicionamiento y reparación de los inmuebles fiscales en que funcionen los Tribunales Militares.
@@ -1358,8 +1358,9 @@ Art. 331. El militar que maltratare de obra a un inferior será castigado:
 
 Art. 332. No obstante lo dispuesto en el artículo anterior, quedará exento de pena, cualquiera que sea el resultado del maltrato, el superior que probare que éste tuvo por objeto contener, por un medio racionalmente necesario, los delitos flagrantes de traición, sedición, rebelión, insulto o ataque a un superior, desobediencia en acto del servicio, cobardía frente al enemigo, devastación, saqueo u otro de igual gravedad.
 
-Art. 333. Será castigado con la pena de reclusión menor en cualquiera de sus grados, todo individuo que sin derecho use uniforme, insignias, distintivos o condecoraciones correspondientes a las Fuerzas Armadas o a Carabineros de Chile.
-Si en estos delitos se incurriere en tiempo de guerra la pena será de reclusión menor en su grado medio a reclusión mayor en su grado medio.
+Art. 333. Será castigado con la pena de reclusión menor en su grado mínimo a medio, todo individuo que sin derecho use uniforme, insignias, distintivos o condecoraciones correspondientes a las Fuerzas Armadas o a Carabineros de Chile.
+Igual pena se aplicará al que clandestina o maliciosamente fabricare, importare, internare al país, almacenare, distribuyere o comercializare en cualquier forma, alguna de las especies mencionadas en el inciso anterior.
+Si en estos delitos se incurriere en tiempo de guerra, se aplicará la pena aumentada en un grado.
 
 ### Título VII
 DELITOS DE INSUBORDINACION
@@ -1498,8 +1499,10 @@ Art. 368. Se considerará especialmente comprendido en el artículo anterior, el
 2° Que usare maliciosamente los documentos a que se refiere el número anterior.
 
 Art. 369. Con la misma pena señalada en el artículo 367 será castigado:
-1° El que falsificare sellos, marcas o cuños destinados a dar autenticidad a los documentos militares, o a servir de signo distintivo para objetos pertenecientes al Ejército;
-2° El que hiciere uso fraudulento de esos sellos, marcas o cuños verdaderos, o que maliciosamente usare de los falsificados.
+1° El que falsificare sellos, marcas o cuños destinados a dar autenticidad a los documentos militares, o a servir de signo distintivo para objetos pertenecientes a las Fuerzas Armadas o Carabineros de Chile;
+2° El que hiciere uso fraudulento de esos sellos, marcas o cuños verdaderos, o que maliciosamente usare de los falsificados; y
+3° El que falsificare o adulterare cualquier documento, distintivo o credencial destinado a acreditar la calidad de miembro de dichas Instituciones o el que, sin tener la calidad de tal o sin derecho para ello, hiciere uso maliciosamente de cualquiera de éstos, auténtico o no.
+Si los delitos a que se refiere este artículo fueren perpetrados en tiempo de guerra, se aplicará la pena aumentada en un grado.
 
 Art. 370. Será castigado con la pena de presidio o reclusión militar menores en sus grados mínimo a medio:
 1° El militar que, sin cometer otro delito de mayor gravedad, diere a sabiendas un informe falso, de palabra o por escrito, sobre asuntos del servicio, o expidiere certificado de algún hecho en sentido diverso a lo que supiere;
