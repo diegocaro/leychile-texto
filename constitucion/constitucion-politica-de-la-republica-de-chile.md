@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1975-05-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1976-02-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 241203
-version_date: 1975-05-08
-fetched_at: 2026-08-05T02:22:12.132886+00:00
+version_date: 1976-02-27
+fetched_at: 2026-08-05T02:22:30.143110+00:00
 titulo_norma: "FIJA TEXTO DE LA CONSTITUCION POLITICA DEL ESTADO"
 compuesto: DTO-1333
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -798,6 +798,12 @@ A fin de llevar a efecto la transacción mencionada, no regirán las limitacione
 
 Artículo veintiuno transitorio.- Apruébase en todos sus términos el Contrato de Transacción celebrado por el Estado de Chile, la Corporación del Cobre y Overseas Private Investment Corporation, que consta del documento suscrito por las partes con fecha 24 de Diciembre de 1974 y que obra en poder del señor Contralor General de la República mediante el cual se solucionan y se pone término a todas las controversias, dificultades, litigios, reclamaciones y demás cuestiones entre las partes, presente o futuras, en Chile y en el extranjero, derivadas o relacionadas con la nacionalización de la Empresa que perteneció a la disuelta sociedad minera mixta denominada Compañía Minera Exótica S. A., todo ello de acuerdo con las estipulaciones que en ese documento se consignan.
 A fin de llevar a efecto la transacción mencionada, no regirán las limitaciones, restricciones o requisitos vigentes o que pudieren entenderse establecidas por las leyes para efectuar los pagos, asumir las obligaciones, constituir las garantías, suscribir los documentos y efectuar las declaraciones que en dicho contrato se contienen.
+
+Artículo veintidós transitorio.- Declárase que el sentido y alcance de lo establecido en la disposición decimoséptima transitoria, letra a), inciso 5º, de esta Constitución Política, en relación con la letra j) del mismo artículo ha sido y es que la inscripción a nombre del Estado de los derechos mineros mencionados en dicha letra a) es sin perjuicio de las inscripciones posteriores que deben hacerse a nombre de las sociedades referidas en la citada letra j) o a nombre de la empresa o empresas que sean continuadoras legales de dichas sociedades.
+Por consiguiente, los Conservadores de Minas procederán, a requerimiento de las respectivas continuadoras legales de las empresas nacionalizadas, a inscribir a nombre de aquéllas los derechos mineros referidos.
+
+Artículo veintitrés transitorio.- La ley dispondrá lo concerniente a la organización, explotación y administración de las empresas nacionalizadas en virtud de la disposición decimoséptima transitoria de esta Constitución Política, a través de una o más empresas del Estado.
+Sin embargo, tratándose de concesiones mineras, sólo podrán constituirse derechos de explotación sobre ellas o enajenarse si corresponden a yacimientos que no se encuentren actualmente en explotación por la respectiva empresa nacionalizada o por sus continuadoras legales, siempre que la constitución de estos derechos o la enajenación sean previamente autorizadas por ley.
 
 Por tanto, mando que se cumpla y respete en todas sus partes como la Ley Fundamental de la República.
 ARTURO ALESSANDRI, Presidente de la República.
