@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1977-12-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1980-06-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1977-12-14
-fetched_at: 2026-08-03T00:28:46.965167+00:00
+version_date: 1980-06-14
+fetched_at: 2026-08-03T00:31:29.168097+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -53,6 +53,8 @@ Véanse el artículo 87 del Decreto Ley N° 2.306, de 12 de Septiembre de 1978, 
 Art. 6° Para los efectos de este Código, se considerarán militares los que se encuentren comprendidos en las leyes de planta o dotación del Ejército, Armada, Fuerza Aérea y Carabineros; los alumnos que efectúan los dos últimos años de estudios en las Escuelas Matrices para Oficiales de las Fuerzas Armadas, y los aspirantes a Oficiales que integran los cursos de la Escuela de Carabineros; los Oficiales de Reclutamiento; los conscriptos; los miembros de las Fuerzas Armadas desde que sean llamados al servicio; las personas que las sigan en campaña en el estado de guerra; y los prisioneros de guerra.
 
 Art. 7° Los cadetes, grumetes, aprendices y alumnos regulares de las Escuelas Institucionales y los empleados civiles de las Fuerzas Armadas y de Carabineros de Chile que se encuentren en los casos considerados en el N° 3 del artículo 5; quedarán comprendidos en la jurisdicción militar.
+
+Art. 8° Derogado.
 
 Art. 9° No obstante lo dispuesto en los artículos precedentes, serán juzgados por los tribunales ordinarios, los militares que se hicieren reos de delitos comunes cometidos en el ejercicio de funciones propias de un destino público civil.
 Corresponderá conocer de los delitos cometidos por civiles en una nave militar en la alta mar al juzgado en lo criminal competente del primer puerto nacional de arribada, excepto el caso de que sean de competencia de los tribunales militares. Si el delito fuere cometido por un civil en una aeronave en vuelo, conocerá de ese delito el juzgado en lo criminal competente en el primer aeropuerto nacional en que aquélla aterrice, excepto el caso de que sea de competencia de los tribunales militares.
@@ -470,9 +472,19 @@ Los fiscales, por el respectivo juez institucional, previo informe del auditor, 
 Los secretarios de juzgados institucionales y de fiscalías, por los respectivos jueces institucionales, previo informe del auditor respectivo.
 El Fiscal General Militar será calificado por el Auditor General de la institución a que pertenezca.
 
-Art. 101. Toda resolución que imponga una medida
-disciplinaria, deberá ser transcrita tan pronto como
-quede ejecutoriada, a la Auditoría General respectiva.
+Art. 96. Derogado.
+
+Art. 97. Derogado.
+
+Art. 98. Derogado.
+
+Art. 99. Derogado.
+
+Art. 100. Derogado.
+
+Art. 101. Toda resolución que imponga una medida disciplinaria, deberá ser transcrita tan pronto como quede ejecutoriada, a la Auditoría General respectiva.
+
+Art. 102. Derogado.
 
 Art. 103. Derogado.
 
@@ -558,6 +570,8 @@ El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, orden�
 Art. 125. Las investigaciones del sumario no se suspenderán por la declaración de rebeldía, sino que seguirán adelante hasta su conclusión. Una vez terminado el sumario, el Fiscal pedirá el sobreseimiento definitivo o temporal, según el mérito que arrojen los antecedentes, con arreglo a lo dispuesto en los artículos 408 y 409 del Código de Procedimiento Penal.
 Si la rebeldía se declarare en el plenario, se suspenderá la causa hasta la presentación o aprehensión del procesado, salvo el caso de que la rebeldía fuere decretada después de notificada la certificación a que se refiere el artículo 160, en cuyo evento se procederá de acuerdo con lo establecido en el artículo 599 del Código de Procedimiento Penal.
 
+Art. 126. Derogado.
+
 #### 2. Del sumario
 
 Art. 127. Todo proceso criminal debe comenzar por decreto del Juez indicado en el artículo 16, que lo manda instruir.
@@ -603,6 +617,10 @@ Art. 133-B. Si el perjudicado fuere el Fisco, podrá además:
 Art. 134. En caso de delito infraganti, el comandante del cuartel, oficial de guardia, jefe del establecimiento y, en general, todo militar a quien corresponda en ese momento el mando inmediato de la fuerza o del lugar donde el hecho se ha perpetrado, procederá rápidamente a la detención de los culpables y a investigar, con los medios a su alcance, la existencia del hecho y sus circunstancias.
 Terminada su investigación pondrá al o los culpables a disposición del Juzgado correspondiente, con un parte en que relate el suceso en la forma que lo hubiere investigado.
 El Juzgado procederá en la forma indicada en el artículo 132.
+
+Art. 135. El Fiscal encargado de levantar el sumario procederá inmediatamente a la comprobación del delito y averiguación del delincuente, ajustándose en cuanto fuere posible, y compatible con la celeridad de los procedimientos a las reglas dadas en el Título III, Primera Parte del Libro II, del Código de Procedimiento Penal.
+El menor de dieciséis años que aparezca inculpado en algún proceso militar, deberá ser puesto de inmediato a disposición del Juzgado de Menores respectivo, como también el mayor de esa edad y menor de dieciocho años que hubiere sido declarado sin discernimiento.
+La declaración sobre el discernimiento del menor de dieciocho años, pero mayor de dieciséis, la hará el Juzgado de Menores respectivo; salvo la del que fuere militar o alumno de algún establecimiento militar de enseñanza y a quien se le imputare un delito de jurisdicción militar, que será pronunciada por el juzgado institucional, el que deberá oír previamente a un psicólogo, a un psiquiatra o a un médico idóneo. La resolución del juzgado institucional deberá ser consultada a la Corte Marcial respectiva, cuando el delito tuviere señalada pena aflictiva.
 
 Art. 136. Cuando haya motivo bastante para sospechar que una persona es autor, cómplice o encubridor de un delito, el Fiscal podrá decretar su prisión o limitarse a citarlo a prestar declaración indagatoria, según las circunstancias.
 
@@ -711,7 +729,7 @@ El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, orden�
 Art. 159. Son también aplicables en este caso las reglas de los artículos 490, 491, 495, 496 y 497 del Código de Procedimiento Penal.
 
 Art. 160. Vencido el término probatorio, el secretario de la causa certificará este hecho en el proceso y expondrá cuál ha sido la prueba rendida.
-Previa notificación a los reos y al Fiscal General Militar o al Fisco cuando procediere, el fiscal enviará inmediatamente la causa al juzgado internacional.
+Previa notificación a los procesados y al Fiscal General Militar o al Fisco cuando procediere, el Fiscal enviará inmediatamente la causa al Juzgado Institucional.
 
 Art. 161. Recibido el proceso por el Juzgado, lo hará examinar por su Auditor para ver si ha omitido alguna diligencia de importancia.
 Si notare el Auditor alguna omisión, o si creyere necesario el esclarecimiento de algún punto dudoso, mandará el Juzgado que se practiquen las diligencias conducentes con la posible brevedad.
@@ -773,6 +791,8 @@ Si llegado éste al estado de sentencia definitiva aún no se hubiere resuelto a
 
 Art. 176. Mientras se resuelve la cuestión de competencia, los tribunales respecto de los cuales se promueve están obligados a practicar todas las diligencias de sustanciación de la causa hasta dejarla en estado de resolver; pero aquel en cuyo territorio jurisdiccional estuvieren detenidos los reos, será el único que podrá resolver sobre todo lo relativo a su detención y libertad provisional.
 Dirimida la cuestión, será aplicable lo dispuesto en el artículo 48 del Código de Procedimiento Penal.
+
+Art. 177. Derogado
 
 ### Título III
 DEL PROCEDIMIENTO CIVIL
@@ -871,6 +891,8 @@ Art. 196 bis.- Serán aplicables al procedimiento penal en tiempo de guerra las 
 ### Título V
 DISPOSICIONES COMPLEMENTARIAS
 
+Art. 197. Derogado.
+
 Art. 198. Ante los Tribunales Militares pueden ser Defensores los abogados autorizados para ejercer la profesión ante un tribunal ordinario de jerarquía semejante, y los Oficiales de las Fuerzas Armadas y de Carabineros que no tengan un grado superior a los miembros del Tribunal que conociere de la causa, salvo lo dispuesto en casos especiales.
 
 Art. 199. El cargo de defensor es obligatorio para los militares y abogados de turno, salvo legítima excusa que calificará verbalmente el Fiscal.
@@ -956,6 +978,8 @@ Las penas que se imponen como accesorias de otras tendrán la duración que se h
 
 Art. 219. Las penas de degradación, destitución, separación del servicio y pérdida del estado militar, sea esta última principal o accesoria, son siempre de carácter permanente e imprescriptible.
 
+Art. 220. Derogado.
+
 Art. 221. Las penas comunes por delitos militares llevan consigo las accesorias previstas en el Código Penal y, además, respecto de aquellos que tenían la condición de militares al momento del delito, las que se determinan en el artículo siguiente, en tanto le fueren aplicables.
 
 Art. 222. La pena de muerte y las de presidio y de reclusión perpetuas llevan consigo la degradación.
@@ -980,8 +1004,18 @@ Art. 227. La pena de pérdida del estado militar producirá el retiro absoluto d
 
 Art. 228. La pena de degradación producirá la privación del grado y del derecho a usar uniforme, insignias, distintivos, condecoraciones o medallas militares; el retiro absoluto de la institución; la incapacidad absoluta y perpetua para servir en el Ejército, Armada, Fuerza Aérea y Carabineros; la pérdida a perpetuidad de todos los derechos políticos activos y pasivos; y la incapacidad para desempeñar, a perpetuidad, cargos, empleos y oficios públicos.
 
+Art. 229. Derogado.
+
+Art. 230. Derogado.
+
+Art. 231. Derogado.
+
 Art. 232. Los que sufran las penas de degradación, destitución, separación del servicio o pérdida del estado militar, no podrán ser rehabilitados sino en virtud de una ley.
 En caso de amnistía, esta rehabilitación no se producirá sino cuando la ley lo ordene así expresamente.
+
+Art. 233. Derogado.
+
+Art. 234. Derogado.
 
 Art. 235. Para los efectos del artículo 59 del Código Penal, se tendrá presente la siguiente escala gradual de las penas militares:
 1° Muerte.
@@ -1004,6 +1038,8 @@ Art. 238. Cuando por coparticipación corresponda castigar por delito que tenga 
 1° Las penas de presidio y reclusión militares por presidio y reclusión común;
 2° La prisión militar, por prisión, y
 3° La pérdida del estado militar, siempre que fuere pena principal, por presidio menor en su grado mínimo.
+
+Art. 239. Derogado.
 
 Art. 240. La pena de muerte se ejecutará ordinariamente de día, con la publicidad y en la forma que determinen los reglamentos que dicte el Presidente de la República, y al día siguiente de notificado el reo del "cúmplase" de la respectiva sentencia.
 NOTA:
@@ -1274,8 +1310,9 @@ En tiempo de guerra, con la pena de presidio militar perpetuo, si el delito se c
 En tiempo de paz, con la pena de reclusión militar menor en cualquiera de sus grados, o con la pérdida del estado militar, o con ambas a la vez, según las circunstancias.
 Como accesoria se impondrá además, en tiempo de guerra, la degradación.
 
-Art. 312. El Oficial en retiro temporal o perteneciente a las reservas que, habiéndose notificado su llamamiento al servicio, no se presentare a las autoridades correspondientes dentro del plazo de quince
-días, será castigado:
+Art. 311. Derogado.
+
+Art. 312. El Oficial en retiro temporal o perteneciente a las reservas que, habiéndose notificado su llamamiento al servicio, no se presentare a las autoridades correspondientes dentro del plazo de quince días, será castigado:
 Si el hecho ocurriere en tiempo de guerra, con la pena de reclusión militar menor en sus grados medio a máximo y con la destitución; y si ocurriere en tiempo de paz, con la pérdida del estado militar.
 
 Art. 313. El Oficial que, dentro de doce meses consecutivos, hubiere cometido faltas que sumen en total quince días de ausencia ilegítima en su destino o
@@ -1528,8 +1565,7 @@ En ambos casos del inciso anterior, si el prisionero hubiese dado su palabra de 
 
 Art. 375. En caso de sublevación o motín de prisioneros de guerra, los participantes sufrirán la pena de presidio mayor en cualquiera de sus grados, y en el caso de los cabecillas, la pena podrá elevarse hasta la de presidio perpetuo. Lo anterior es sin perjuicio de lo que pueda acordarse en los tratados de paz o pactos de tregua.
 
-Art. 376. El oficial chileno que, habiendo caído prisionero de guerra, acepte su libertad bajo palabra de
-no tomar las armas contra el enemigo, sufrirá la pena de pérdida del estado militar y reclusión militar menor en su grado medio.
+Art. 376. El oficial chileno que, habiendo caído prisionero de guerra, acepte su libertad bajo palabra de no tomar las armas contra el enemigo, sufrirá la pena de pérdida del estado militar y reclusión militar menor en su grado medio.
 
 Art. 377. Los oficiales extranjeros admitidos en las instituciones armadas en tiempo de guerra, quedan sujetos a todas las disposiciones de este Código que comprendan a los oficiales chilenos.
 
