@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1952-04-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1957-10-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1952-04-02
-fetched_at: 2026-08-03T00:11:13.493242+00:00
+version_date: 1957-10-21
+fetched_at: 2026-08-03T00:14:19.634196+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1032,6 +1032,10 @@ Ver LEY 3918, publicada el 14.03.1923, que dicta normas sobre Sociedades de Resp
 
 #### § 1. De la formación y prueba de la sociedad
 colectiva
+
+Art. 349. Puede celebrar el contrato de sociedad toda persona que tenga capacidad para obligarse.
+El menor adulto y la mujer casada que no esté totalmente separada de bienes necesitan autorización especial para celebrar una sociedad colectiva.
+La autorización del menor será conferida por la justicia ordinaria, y la de la mujer casada por su marido.
 
 Art. 350. La sociedad colectiva se forma y prueba por escritura pública inscrita en los términos del artículo 354.
 La disolución de la sociedad que se efectuare antes de vencer el término estipulado, la prórroga de éste, el cambio, retiro o muerte de un socio, la alteración de la razón social y en general toda reforma, ampliación o modificación del contrato, serán reducidos a escritura pública con las solemnidades indicadas en el inciso anterior.
