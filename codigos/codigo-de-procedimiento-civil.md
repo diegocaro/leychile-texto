@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1998-02-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1998-12-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1998-02-03
-fetched_at: 2026-08-03T01:05:56.597329+00:00
+version_date: 1998-12-01
+fetched_at: 2026-08-03T01:07:26.627105+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1661,31 +1661,56 @@ Art. 444 (466). Si la ejecución recae sobre una empresa o establecimiento merca
 Embargada la industria o las utilidades, el depositario que se nombre tendrá las facultades y deberes de interventor judicial; y para ejercer las que correspondan al cargo de depositario, procederá en todo caso con autorización del juez de la causa.
 Si la ejecución recae sobre el simple menaje de la casa habitación del deudor, el embargo se entenderá hecho permaneciendo las especies en poder del mismo deudor, con el carácter de depositario, previa facción de un inventario en que se expresen en forma individual y detallada el estado y la tasación aproximada de las referidas especies que practicará el ministro de fe ejecutor. La diligencia que deberá extenderse será firmada por el ministro de fe que la practique, por el acreedor, si concurre, y por el deudor, quien, en caso de substracción, incurrirá en la sanción prevista en el número 1° del artículo 471 del Código Penal.
 
-Art. 445 (467). No son embargables:
-1° Los sueldos, las gratificaciones y las pensiones
-NOTA: 30
-de gracia, jubilación, retiro y montepío que pagan el Estado y las Municipalidades.
-Sin embargo, tratándose de deudas que provengan de pensiones alimenticias decretadas judicialmente, podrá
-NOTA: 30
-embargarse hasta el 50% de las prestaciones que reciba el alimentante en conformidad al inciso anterior;
-2° Las remuneraciones de los empleados y obreros en
-NOTA: 31
-la forma que determinan los artículos 40 y 153 del Código del Trabajo;
-3° Las pensiones alimenticias forzosas;
-4° Las rentas periódicas que el deudor cobre de una fundación o que deba a la liberalidad de un tercero, en la parte que estas rentas sean absolutamente necesarias para sustentar la vida del deudor, de su cónyuge y de los hijos que viven con él y a sus expensas;
-5° Los fondos que gocen de este beneficio, en
-NOTA: 32
-conformidad a la Ley Orgánica del Banco del Estado de Chile y en las condiciones que ella determine;
-6° Las pólizas de seguro sobre la vida y las sumas que, en cumplimiento de lo convenido en ellas, pague el asegurador. Pero, en este último caso, será embargable el valor de las primas pagadas por el que tomó la póliza;
-7° Las sumas que se paguen a los empresarios de obras públicas durante la ejecución de los trabajos. Esta disposición no tendrá efecto respecto de lo que se adeude a los artífices u obreros por sus salarios insolutos y de los créditos de los proveedores en razón de los materiales u otros artículos suministrados para la construcción de dichas obras;
-8° El bien raíz que el deudor ocupa con su familia, siempre que no tenga un avalúo fiscal superior a diez
-NOTA: 33
-suedos vitales mensuales, escala a), del departamento de Santiago o se trate de una vivienda de emergencia, y sus ampliaciones, a que se refiere el artículo 5° del decreto ley N°2552, de 1979; los muebles de dormitorio, de comedor y de cocina de uso familiar y la ropa necesaria para el abrigo del deudor, su cónyuge y los hijos que viven a sus expensas.
+Art. 445 (
+NOTA
+NOTA
+NOTA
+467
+NOTA
+). No son embargab
+NOTA
+les:
+NOTA
+1°. Los
+NOTA
+sueldos,
+NOTA
+las gratificaciones y las pensiones de gracia, jubilación, retiro y montepío que pagan el
+NOTA
+Estado y
+NOTA
+las Municipalidades
+NOTA 1
+.
+Sin embargo, tratándose de deudas que provengan de pensiones
+NOTA
+alimenticias decretadas judicialmente, podrá embargarse has
+NOTA
+ta el 50% de las p
+NOTA
+restaciones que reciba
+NOTA
+el alimentante en conformidad al inciso anterior;
+2°. Las remu
+NOTA
+neraciones de los empleados y obreros en la forma que determinan los artículos 40 y 153 del Código del Trabajo;
+3°. Las pensiones alimenticias forzosas;
+4°. Las rentas periódicas
+NOTA
+que el deudor cobre de una fundación o que deba a la liberalidad de un tercero, en la parte que estas rentas sean absolutamente necesarias para sustentar la vida del deudor, de su cónyuge y de los hijos que viven con él y a sus expensas;
+5°. Los fondos que gocen de este beneficio, en conformidad a la Ley
+NOTA
+Orgánica del Banco del Estado de Chile y en las condiciones que ella determine;
+6°. Las pólizas de seguro sobre la vida y las sumas que, en cumplimiento de lo convenido en ellas, pague el asegurador. Pero, en este último caso, será embargable el valor de las primas pagadas por el que tomó la póliza;
+7°. Las sumas que se paguen a los empresarios
+NOTA
+de obras públicas durante la ejecución de los trabajos. Esta disposición no tendrá efecto respecto de lo que se adeude a los artífices u obreros por sus salarios insolutos y de los créditos de los proveedores en razón de los materiales u otros artículos suministrados para la construcción de dichas obras;
+8°. El bien raíz que el deudor ocupa con su familia, siempre que no tenga un avalúo fiscal superior a cincuenta unidades tributarias mensuales o se trate de una vivienda de emergencia, y sus ampliaciones, a que se refiere el artículo 5° del decreto ley N°2552, de 1979; los muebles de dormitorio, de comedor y de cocina de uso familiar y la ropa necesaria para el abrigo del deudor, su cónyuge y los hijos que viven a sus expensas.
 La inembargabilidad establecida en el inciso precedente no regirá para los bienes raíces respecto de los juicios en que sean parte el Fisco, Las Cajas de Previsión y demás organismos regidos por la ley del Ministerio de la Vivienda y Urbanismo;
-9° Los libros relativos a la profesión del deudor hasta el valor de $670.015 y a elección del mismo deudor;
-10° Las máquinas e instrumentos de que se sirve el deudor para la enseñanza de alguna ciencia o arte, hasta dicho valor y sujetos a la misma elección;
-11° Los uniformes y equipos de los militares, según su arma y grado;
-12° Los objetos indispensables al ejercicio personal del arte u oficio de los artistas, artesanos y obreros de fábrica; y los aperos, animales de labor y material de cultivo necesarios al labrador o trabajador de campo para la explotación agrícola, hasta la suma de $670.015 y a elección del mismo deudor;
+9°. Los libros relativos a la profesión del deudor hasta el valor de cincuenta unidades tributarias mensuales y a elección del mismo deudor;
+10°. Las máquinas e instrumentos de que se sirve el deudor para la enseñanza de alguna ciencia o arte, hasta dicho valor y sujetos a la misma elección;
+11°. Los uniformes y equipos de los militares, según su arma y grado;
+12°. Los objetos indispensables al ejercicio personal del arte u oficio de los artistas, artesanos y obreros de fábrica; y los aperos, animales de labor y material de cultivo necesarios al labrador o trabajador de campo para la explotación agrícola, hasta la suma de cincuenta unidades tributarias mensuales y a elección del mismo deudor;
 13°. Los utensilios caseros y de cocina, y los artículos de alimento y combustible que existan en poder del deudor, hasta concurrencia de lo necesario para el consumo de la familia durante un mes;
 14°. La propiedad de los objetos que el deudor posee fiduciariamente;
 15°. Los derechos cuyo ejercicio es enteramente personal, como los de uso y habitación;
@@ -1693,16 +1718,10 @@ La inembargabilidad establecida en el inciso precedente no regirá para los bien
 17°. Los bienes destinados a un servicio que no pueda paralizarse sin perjuicio del tránsito o de la higiene pública, como los ferrocarriles, empresas de agua potable o desagüe de las ciudades, etc.; pero podrá embargarse la renta líquida que produzcan, observándose en este caso lo dispuesto en el artículo anterior; y
 18°. Los demás bienes que leyes especiales prohíban embargar.
 Son nulos y de ningún valor los contratos que tengan por objeto la cesión, donación o transferencia en cualquier forma, ya sea a título gratuito u oneroso, de las rentas expresadas en el número 1° de este artículo o de alguna parte de ellas.
-NOTA: 30
-Véase el Art. 56 del DFL 338, de Hacienda, de 1960, Estatuto Administrativo, relativo a la inembargabilidad de las remuneraciones que perciban los empleados públicos.
-NOTA: 31
-Véase el artículo 166 del D.L. N° 2.200, publicado en el "Diario Oficial" de 15 de junio de 1978.
-NOTA: 32
-Véanse los Arts. 37 y 38 del Decreto-Ley N° 2.079, de 16 de Diciembre de 1977, publicado en el Diario Oficial de 18 de Enero de 1978, que fija el texto de la Ley Orgánica del Banco del Estado de Chile.
-NOTA: 33
-El Art. 63 del Decreto-Ley N° 670, de 1° de Octubre de 1974, publicado en el Diario Oficial de 2 del mismo mes, dispone:
-"A partir del 1° de octubre de 1974 los sueldos vitales regirán por provincias, debiendo fijarse, en cada caso, como sueldo vital provincial el más alto que habría correspondido a cualquiera de los departamentos de la respectiva provincia.
-Las referencias legales a un sueldo vital departamental fijado se entenderán hechas al sueldo vital de la provincia respectiva, y cuando no se hiciere mención a departamento o provincia alguna se entenderá que se refiere al sueldo vital de la provincia de Santiago".
+NOTA
+Véanse los Artículos 37 y 38 del Decreto Ley 2079, Hacienda, publicado el 18.01.1978, que fija el texto de la Ley Orgánica del Banco del Estado de Chile.
+NOTA 1
+Véase el artículo 95 del Decreto con Fuerza de Ley 29, Hacienda, publicado el 16.03.2005, relativo a la embargabilidad de la remuneraciones que perciban los funcionarios públicos.
 
 Art. 446. (468). Aunque pague el deudor antes del requerimiento, serán de su cargo las costas causadas en el juicio.
 
@@ -2541,7 +2560,7 @@ DE LOS JUICIOS DE MENOR Y DE MINIMA CUANTIA
 
 #### 1. De los juicios de menor cuantía
 
-Art. 698. Los juicios de más de $ 19.988 y que no pasen de $ 399.876, y que no tengan señalado en la ley un procedimiento especial, se someterán al procedimiento ordinario de que trata el Libro II con las modificaciones siguientes:
+Art. 698. Los juicios de más de diez unidades tributarias mensuales y que no pasen de quinientas unidades tributarias mensuales, y que no tengan señalado en la ley un procedimiento especial, se someterán al procedimiento ordinario de que trata el Libro II con las modificaciones siguientes:
 1a. Se omitirán los escritos de réplica y dúplica.
 Si se deduce reconvención, se dará traslado de ella al demandante por seis días, y con lo que éste exponga o en su rebeldía, se recibirá la causa a prueba;
 2a. El término para contestar la demanda será de ocho días, que se aumentará de conformidad a la tabla de emplazamiento. Este aumento no podrá exceder de veinte días, y no regirá para estos juicios la disposición del inciso 2° del artículo 258.
@@ -2564,7 +2583,7 @@ Art. 702. La sentencia deberá dictarse dentro del plazo de 15 días, contado de
 
 #### 2. De los juicios de mínima cuantía
 
-Art. 703. Se aplicará el procedimiento de que trata este párrafo a los juicios cuya cuantía no exceda de $ 19.988, y que por su naturaleza no tengan señalado en la ley un procedimiento especial.
+Art. 703. Se aplicará el procedimiento de que trata este párrafo a los juicios cuya cuantía no exceda de diez unidades tributarias mensuales, y que por su naturaleza no tengan señalado en la ley un procedimiento especial.
 
 Art. 704. El procedimiento será verbal, pero las partes podrán presentar minutas escritas en que se establezcan los hechos invocados y las peticiones que se formulen.
 La demanda se interpondrá verbalmente o por escrito. En el primer caso se dejará constancia, en un acta que servirá de cabeza al proceso, del nombre, profesión u oficio y domicilio del demandante, de los hechos que éste exponga y de sus circunstancias esenciales, de los documentos que acompañe y de las peticiones que formule.
@@ -2595,7 +2614,7 @@ En la misma audiencia el tribunal entregará a cada parte copia íntegra autoriz
 El avenimiento pondrá fin al juicio y tendrá la autoridad de cosa juzgada.
 Si no se produce avenimiento, el tribunal se limitará a dejar constancia de este hecho.
 
-Art. 712. Todas las excepciones se tramitarán conjuntamente y se fallarán en la sentencia definitiva, pero el tribunal podrá acoger, desde luego, o tramitar separadamente en conformidad al artículo 723, las dilatorias de incompetencia, de falta de capacidad o de personería del demandante, o aquella en que se reclame del procedimiento siempre que aparezcan manifiestamente admisibles. Se concederá en el efecto devolutivo la apelación que se interponga en contra de la resolución que deseche las excepciones dilatorias que se admitan a tramitación separada.
+Art. 712. Todas las excepciones se tramitarán conjuntamente y se fallarán en la sentencia definitiva, pero el tribunal podrá acoger, desde luego, o tramitar separadamente en conformidad al artículo 723, las dilatorias de incompetencia, de falta de capacidad o de personería del demandante, o aquella en que se reclame del procedimiento siempre que aparezcan manifiestamente admisibles.
 
 Art. 713. El demandado podrá también deducir reconvención en la audiencia de contestación cuando el tribunal sea competente para conocer de ella y siempre que no esté sometida a un procedimiento especial y tenga por objeto enervar la acción deducida o esté íntimamente ligada con ella. En caso contrario no se admitirá a tramitación.
 Es aplicable a la reconvención lo dispuesto en el artículo anterior.
@@ -2630,12 +2649,10 @@ Las resoluciones se extenderán en el mismo expediente.
 
 Art. 722. Sin perjuicio de lo dispuesto en el artículo 715, el tribunal citará a las partes para oír sentencia y la dictará dentro de los sesenta días contados desde la celebración de la audiencia de contestación, salvo que lo impidan circunstancias insuperables, de las cuales dejará constancia en la sentencia y de ello dará cuenta oportunamente en estados mensuales a que se refiere el artículo 586 N° 4° del Código Orgánico de Tribunales.
 
-Art. 723. Los incidentes deberán formularse y tramitarse en las audiencias de contestación y de prueba y su fallo se reservará para la sentencia definitiva.
-Las apelaciones de las resoluciones que se dicten antes del fallo del juicio deberán interponerse conjuntamente con la apelación de la sentencia. Esta última apelación implicará también apelación de todas las resoluciones incidentales anteriores que causen agravios a la parte apelante.
-Todas la apelaciones se verán y fallarán conjuntamente.
-No obstante lo dispuesto en los incisos anteriores, podrá el tribunal, atendida la naturaleza del incidente, tramitarlo separadamente con audiencia verbal de la parte contraria y decretar las diligencias adecuadas a su acertada resolución. En este caso, se tramitará separadamente el recurso de apelación que proceda.
-La resolución que se dicte, en uno u otro sentido, en conformidad al inciso anterior, será inapelable.
-Podrán, asimismo, tramitarse separadamente los incidentes especiales de que tratan los artículos 79, 80 y 81; los Títulos X, XI, XII, XIII, XIV, XV y XVI del Libro I y los títulos IV y V del Libro II. Su tramitación se ajustará a lo que en ellos se dispone, pero las peticiones de las partes deberán formularse verbalmente de acuerdo con las reglas de este Título, y cuando en aquéllos se disponga dar traslado a la parte contraria y pueda ser necesaria la prueba, se citará a las partes para que concurran a una audiencia próxima con todos sus medios probatorios.
+Art. 723.- Los incidentes deberán formularse y tramitarse en las audiencias de contestación y prueba y su fallo se reservará para la sentencia definitiva, la que será inapelable.
+Podrá el tribunal, atendida la naturaleza del incidente, tramitarlo separadamente, con audiencia verbal de la parte contraria, y decretar las diligencias adecuadas a su acertada resolución.
+De igual modo, podrán tramitarse los incidentes especiales de que tratan los artículos 79, 80 y 81; los Títulos X, XI, XII, XIII, XIV, XV y XVI del Libro Primero y los Títulos IV y V del Libro Segundo.
+Las resoluciones que se dicten en todo procedimiento incidental, cualquiera sea su naturaleza, serán inapelables.
 
 Art. 724. La prueba se apreciará en la forma ordinaria. Pero podrá el tribunal, en casos calificados, estimarla conforme a conciencia, y según la impresión que le haya merecido la conducta de las partes durante el juicio y la buena o mala fe con que hayan litigado en él.
 
@@ -2716,7 +2733,7 @@ Art. 748. (922). Los juicios en que tenga interés el Fisco y cuyo concimiento c
 NOTA
 El Artículo 3°, inciso final, del Decreto con Fuerza de Ley 94, Hacienda, publicado el 21.03.1960, dispone: "Serán aplicables a los asuntos en que tenga interés la Empresa de los Ferrocarriles del Estado y de que conozcan los tribunales ordinarios de justicia, las disposiciones del Título XVI del Libro 3° del Código de Procedimiento Civil".
 
-Art. 749. (923). Se omitirán en el juicio ordinario los escritos de réplica y dúplica, siempre que la cuantía del negocio no pase de $399.876
+Art. 749. (923). Se omitirán en el juicio ordinario los escritos de réplica y dúplica, siempre que la cuantía del negocio no pase de quinientas unidades tributarias mensuales.
 
 Art. 750. (924). En los negocios en que el ministerio público no figure como parte principal, debe ser oído antes de la prueba y antes de la sentencia definitiva en una y otra instancia. El
 NOTA: 47
@@ -2895,13 +2912,14 @@ cuantía
 
 Art. 788. (962). En los juicios de mínima cuantía sólo hay lugar al recurso de casación en la forma, en los casos de los números 1°, 2°, 4°, 6°, 7° y 9° del artículo 768.
 
-Art. 789. (963). En estos juicios sólo se considerarán diligencias o trámites esenciales, el emplazamiento del demandado en la forma prescrita por la ley para que conteste la demanda, el acta en que deben consignarse las peticiones de las partes y el llamado a conciliación, y el emplazamiento de las mismas para que ocurran ante el tribunal de segunda instancia a seguir el recurso de apelación, cuando se haya interpuesto y proceda.
+Art. 789. (963). En estos juicios sólo se considerarán diligencias o trámites esenciales, el emplazamiento del demandado en la forma prescrita por la ley para que conteste la demanda y el acta en que deben consignarse las peticiones de las partes y el llamado a conciliación.
 
 Art. 790. (964). El recurso se interpondrá verbalmente o por escrito sin previo anuncio y sólo se hará mención expresa de la causa en que se funde. Si se interpone verbalmente, se dejará de ella testimonio en un acta que firmarán el juez y el recurrente.
 
-Art. 791. (965). El recurso de casación se interpondrá en el plazo fatal de cinco días, y si se trata de una sentencia de primera instancia, conjuntamente con el de apelación en caso de intentarse también este último.
+Art. 791. (965). El recurso de casación se interpondrá
+en el plazo fatal de cinco días.
 
-Art. 792. (966). La tramitación del recurso de casación de que deba conocer un tribunal unipersonal se regirá por las mismas reglas de la apelación en estos juicios.
+Art. 792. (966). Derogado.
 
 Art. 793. Elevado el proceso a un tribunal colegiado o encontrando éste admisible el recurso en el caso del artículo 781, mandará que se traigan sobre él los autos en relación.
 Regirán también en este caso las disposiciones del inciso 2° del artículo 699 y los artículos 701 y 702.
