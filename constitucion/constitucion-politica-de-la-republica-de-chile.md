@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1989-08-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1991-04-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 1989-08-17
-fetched_at: 2026-08-05T02:23:42.174196+00:00
+version_date: 1991-04-01
+fetched_at: 2026-08-05T02:24:00.178460+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -46,9 +46,9 @@ Todo acto en contravención a este artículo es nulo y originará las responsabi
 
 Artículo 8º.- DEROGADO
 
-Artículo 9°.- El terrorismo, en cualquiera de sus formas, es por esencia contrario a los derechos humanos.
+Artículo 9º.- El terrorismo, en cualquiera de sus formas, es por esencia contrario a los derechos humanos.
 Una ley de quórum calificado determinará las conductas terroristas y su penalidad. Los responsables de estos delitos quedarán inhabilitados por el plazo de quince años para ejercer funciones o cargos públicos, sean o no de elección popular, o de rector o director de establecimiento de educación, o para ejercer en ellos funciones de enseñanza; para explotar un medio de comunicación social o ser director o administrador del mismo, o para desempeñar en él funciones relacionadas con la emisión o difusión de opiniones o informaciones; ni podrán ser dirigentes de organizaciones políticas o relacionadas con la educación o de carácter vecinal, profesional, empresarial, sindical, estudiantil o gremial en general, durante dicho plazo. Lo anterior se entiende sin perjuicio de otras inhabilidades o de las que por mayor tiempo establezca la ley.
-No procederá respecto de estos delitos la amnistía ni el indulto, como tampoco la libertad provisional respecto de los procesados por ellos. Estos delitos serán considerados siempre comunes y no políticos para todos los efectos legales.
+Los delitos a que se refiere el inciso anterior serán considerados siempre comunes y no políticos para todos los efectos legales y no procederá respecto de ellos el indulto particular, salvo para conmutar la pena de muerte por la de presidio perpetuo.
 
 ## CAPITULO II
 Nacionalidad y ciudadanía
@@ -127,7 +127,8 @@ Si la autoridad hiciere arrestar o detener a alguna persona, deberá, dentro de 
 d) Nadie puede ser arrestado o detenido, sujeto a prisión preventiva o preso, sino en su casa o en lugares públicos destinados a este objeto.
 Los encargados de las prisiones no pueden recibir en ellas a nadie en calidad de arrestado o detenido, procesado o preso, sin dejar constancia de la orden correspondiente, emanada de autoridad que tenga facultad legal, en un registro que será público.
 Ninguna incomunicación puede impedir que el funcionario encargado de la casa de detención visite al arrestado o detenido, procesado o preso, que se encuentre en ella. Este funcionario ésta obligado, siempre que el arrestado o detenido lo requiera, a transmitir al juez competente la copia de la orden de detención, o a reclamar para que se le dé dicha copia, o a dar él mismo un certificado de hallarse detenido aquel individuo, si al tiempo de su detención se hubiere omitido este requisito;
-e) La libertad provisional procederá a menos que la detención o la prisión preventiva sea considerada por el juez como necesaria para las investigaciones del sumario o para la seguridad del ofendido o de la sociedad. La ley establecerá los requisitos y modalidades para obtenerla;
+e) La libertad provisional procederá a menos que la detención o la prisión preventiva sea considerada por el juez como necesaria para las investigaciones del sumario o para la seguridad del ofendido o de la sociedad. La ley establecerá los requisitos y modalidades para obtenerla.
+La resolución que otorgue la libertad provisional a los procesados por los delitos a que se refiere el artículo 9°, deberá siempre elevarse en consulta. Esta y la apelación de la resolución que se pronuncie sobre la excarcelación serán conocidas por el Tribunal superior que corresponda integrado exclusivamente por miembros titulares. La resolución que apruebe u otorgue la libertad requerirá ser acordada por unanimidad. Mientras dure la libertad provisional el reo quedará siempre sometido a las medidas de vigilancia de la autoridad que la ley contemple;
 f) En las causas criminales no se podrá obligar al inculpado a que declare bajo juramento sobre hecho propio; tampoco podrán ser obligados a declarar en contra de éste sus ascendientes, descendientes, cónyuge y demás personas que, según los casos y circunstancias, señale la ley;
 g) No podrá imponerse la pena de confiscación de bienes, sin perjuicio del comiso en los casos establecidos por las leyes; pero dicha pena será procedente respecto de las asociaciones ilícitas;
 h) No podrá aplicarse como sanción la pérdida de los derechos previsionales, e
@@ -469,18 +470,19 @@ Artículo 60.- Sólo son materias de ley:
 4) Las materias básicas relativas al régimen jurídico laboral, sindical, previsional y de seguridad social;
 5) Las que regulen honores públicos a los grandes servidores;
 6) Las que modifiquen la forma o características de los emblemas nacionales;
-7) Las que autoricen al Estado, a sus organismos y a las municipalidades, para contratar empréstitos, los que deberan estar destinados a financiar proyectos específicos. La ley debera indicar las fuentes de recursos con cargo a los cuales deba hacerse el servicio de la deuda. Sin embargo, se requerira de una ley de quórum calificado para autorizar la contratación de aquellos empréstitos cuyo vencimiento exceda del término de duración del respectivo período presidencial.
-Lo dispuesto en este número no se aplicara al Banco Central;
+7) Las que autoricen al Estado, a sus organismos y a las municipalidades, para contratar empréstitos, los que deberán estar destinados a financiar proyectos específicos. La ley deberá indicar las fuentes de recursos con cargo a los cuales deba hacerse el servicio de la deuda. Sin embargo, se requerirá de una ley de quórum calificado para autorizar la contratación de aquellos empréstitos cuyo vencimiento exceda del término de duración del respectivo período presidencial.
+Lo dispuesto en este número no se aplicará al Banco Central;
 8) Las que autoricen la celebración de cualquier clase de operaciones que puedan comprometer en forma directa o indirecta el crédito o la responsabilidad financiera del Estado, sus organismos y de las municipalidades.
-Esta disposición no se aplicara al Banco Central;
-9) Las que fijen las normas con arreglo a las cuales las empresas del Estado y aquellas en que éste tenga participación puedan contratar empréstitos, los que en ningún caso, podran efectuarse con el Estado, sus organismos o empresas;
+Esta disposición no se aplicará al Banco Central;
+9) Las que fijen las normas con arreglo a las cuales las empresas del Estado y aquellas en que éste tenga participación puedan contratar empréstitos, los que en ningún caso, podrán efectuarse con el Estado, sus organismos o empresas;
 10) Las que fijen las normas sobre enajenación de bienes del Estado o de las municipalidades y sobre su arrendamiento o concesión;
 11) Las que establezcan o modifiquen la división política y administrativa del país;
 12) Las que señalen el valor, tipo y denominación de las monedas y el sistema de pesos y medidas;
 13) Las que fijen las fuerzas de aire, mar y tierra que han de mantenerse en pie en tiempo de paz o de guerra, y las normas para permitir la entrada de tropas extranjeras en el territorio de la República, como, asimismo, la salida de tropas nacionales fuera de él;
 14) Las demás que la Constitución señale como leyes de iniciativa exclusiva del Presidente de la República;
 15) Las que autoricen la declaración de guerra, a propuesta del Presidente de la República;
-16) Las que concedan indultos generales y amnistías y las que fijen las normas generales con arreglo a las cuales debe ejercerse la facultad del Presidente de la República para conceder indultos particulares y pensiones de gracia;
+16) Las que concedan indultos generales y amnistías y las que fijen las normas generales con arreglo a las cuales debe ejercerse la facultad del Presidente de la República para conceder indultos particulares y pensiones de gracia.
+Las leyes que concedan indultos generales y y amnistías requerirán siempre de quórum calificado. No obstante, este quórum será de las dos terceras partes de los diputados y senadores en ejercicio cuando se trate de delitos contemplados en el artículo 9º;
 17) Las que señalen la ciudad en que debe residir el Presidente de la República, celebrar sus sesiones el Congreso Nacional y funcionar la Corte Suprema y el Tribunal Constitucional;
 18) Las que fijen las bases de los procedimientos que rigen los actos de la administración pública;
 19) Las que regulen el funcionamiento de loterías, hipódromos y apuestas en general, y
@@ -914,6 +916,8 @@ Para este efecto, noventa días antes de la expiración de la prórroga indicada
 El Presidente de la República que resulte elegido por aplicación del inciso anterior durará en el ejercicio de sus funciones por el término de cuatro años, y no podrá ser reelegido para el período inmediatamente siguiente.
 
 Trigésima.- En tanto no entre en vigencia la ley orgánica constitucional que determine las seis regiones en cada una de las cuales habrá dos circunscripciones senatoriales, se dividirán, en esta forma, las regiones de Valparaíso, Metropolitana de Santiago, del Maule, del Bío-Bío, de la Araucanía y de Los Lagos.
+
+Trigésimaprimera.- El indulto particular será siempre procedente respecto de los delitos a que se refiere el artículo 9º cometidos antes del 11 de Marzo de 1990. Una copia del Decreto respectivo se remitirá, en carácter reservado, al Senado.
 
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio Fernández Fernéndez, Ministro del Interior.- René Rojas Galdames, Ministro de Relaciones Exteriores.- César Raúl Benavides Escobar, Teniente General, Ministro de Defensa Nacional.- José Luis Federici Rojas, Ministro de Economía, Fomento y Reconstrucción.- Sergio de Castro Spikula, Ministro de Hacienda.- Alfredo Prieto Bafalluy, Ministro de Educación Pública.- Mónica Madariaga Gutiérrez, Ministro de Justicia.- Patricio Torres Rojas, General de Brigada, Ministro de Obras Públicas.- Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura.- Rene Peri Fagerstrom, General Inspector de Carabineros, Ministro de Bienes Nacionales.- Jose Piñera Echenique, Ministro del Trabajo y Previsión Social.- Alejandro Medina Lois, General de Brigada, Ministro de Salud.- Carlos Quiñones López, Contralmirante, Ministro de Minería.- Jaime Estrada Leigh, General de Brigada, Ministro de la Vivienda y Urbanismo.- Caupolicán Boisset Mujica, General de Brigada Aérea, Ministro de Transportes y Telecomunicaciones.- Sergio Badiola Broberg, General de Brigada, Ministro Secretario General de Gobierno.
 Lo que transcribo a Ud. para su conocimiento.- Mario Duvauchelle Rodríguez, Capitán de Navío JT, Secretario de Legislación de la Junta de Gobierno.
