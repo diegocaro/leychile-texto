@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1960-02-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1961-02-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1960-02-12
-fetched_at: 2026-08-03T00:15:19.698323+00:00
+version_date: 1961-02-08
+fetched_at: 2026-08-03T00:16:11.039386+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -919,10 +919,10 @@ El llamamiento de los integrantes se hará en el orden indicado y los abogados s
 Art. 218. En los casos en que no pudiere funcionar la Corte Suprema por inhabilidad de la mayoría o de la totalidad de sus miembros, será integrada por ministros de la Corte de Apelaciones de Santiago, llamados por su orden de antigüedad.
 Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados integrantes, tanto en su funcionamiento ordinario como en el extraordinario de que trata el artículo 101.
 
-Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará, en el mes de Enero de cada año, doce abogados para la Corte Suprema, seis para la Corte de Apelaciones de Santiago, y tres para cada una de las demás Cortes de Apelaciones, previa formación, por la Corte Suprema, de ternas.
+Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará, en el mes de Enero de cada año, doce abogados para la Corte Suprema, diez para la Corte de Apelaciones de Santiago, y tres para cada una de las demás Cortes de Apelaciones, previa formación, por la Corte Suprema, de ternas.
 Las ternas serán formadas tomando los nombres de una lista que, en el mes de Diciembre de cada año, enviarán a la Corte Suprema los Consejos de los Colegios de Abogados residentes en los asientos de las diversas Cortes de Apelaciones. En esta lista deberán figurar abogados que tengan su residencia en la ciudad que sirve de asiento al tribunal respectivo y que reúnan las condiciones requeridas para ejercer los cargos de ministros.
 Si no hubiere Colegio de Abogados, las listas serán formadas por las Cortes de Apelaciones respectivas.
-Estas listas se compondrán, para Santiago, de 25 nombres, y de 15 para las demás Cortes.
+Estas listas se compondrán, para Santiago, de 40 nombres, y de 15 para las demás Cortes.
 Para la formación de las ternas de los abogados integrantes de la Corte Suprema, este tribunal tomará sus nombres de una lista de 45 abogados, que reúnan las condiciones exigidas en el inciso segundo, y que le será enviada por el Consejo General de la Orden de los Abogados, en el mes de Diciembre de cada año.
 En las ternas, no se podrán repetir nombres.
 
@@ -1034,7 +1034,7 @@ Art. 248. Para ser juez de distrito o de subdelegación se requiere:
 
 Art. 249. Los que hubieren obtenido el título de alguna profesión liberal podrán ser jueces de distrito o de subdelegación aun cuando les falte la condición requerida en el número primero del artículo anterior.
 
-Art. 250. Para ser juez de letras de mayor y de menor cuantía, o ministro de la Corte Suprema y de las Cortes de Apelaciones, deberán cumplirse las condiciones prescritas en el párrafo tercero de este título y los requisitos que se exigen en los artículos siguientes.
+Art. 250. Para ser Juez de Letras de Mayor y Menor Cuantía, o Ministro de la Corte Suprema y de las Cortes de Apelaciones, deberán cumplirse las condiciones prescritas en el párrafo 3.o de este Título, los requisitos que se exigen en los artículos siguientes; y los señalados en el párrafo 2.o del Título I del DFL. N.o 338, de 6 de Abril de 1960, sobre Estatuto Administrativo, cuando se tratare del ingreso a la carrera.
 
 Art. 251. Para ser juez de letras de menor cuantía, se requiere ciudadanía natural o legal y tener el título de abogado.
 
@@ -1084,9 +1084,8 @@ Art. 259. No podrán ser nombrados ministros de una Corte de Apelaciones las per
 
 Art. 260. No podrá existir el parentesco de consanguinidad hasta el cuarto grado o de afinidad hasta el segundo grado inclusive entre los miembros de la Corte Suprema y los de las Cortes de Apelaciones, ni entre éstos y los jueces letrados de su respectiva jurisdicción.
 
-Art. 261. Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las
+Art. 261. Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las escuelas dependientes de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, de la enseñanza secundaria y especial hasta un límite de diez horas semanales y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas.
 NOTA
-escuelas dependientes de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, de la enseñanza secundaria y especial hasta un límite de ocho horas semanales y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas.
 NOTA
 El artículo único de la ley 9585, publicada el 04.04.1950, declaró que el sentido de la incompatibilidad establecida en el presente artículo es que aquella no rige para los abogados integrantes de los Tribunales Superiores ni para los abogados subrogantes de los jueces.
 
@@ -1165,8 +1164,15 @@ Esta calificación se hará en la época que indica el artículo anterior y con 
 Art. 277. Los funcionarios mal calificados en conformidad al artículo anterior tendrán el plazo de sesenta días, contados desde la fecha en que se les comunicare la respectiva resolución, para retirarse del servicio e iniciar su expediente de jubilación; y, en este último caso, no necesitarán acreditar enfermedad que les impida el desempeño de sus funciones.
 En caso de no retirarse serán separados de sus empleos llenándose las formalidades que las leyes prescriben al efecto, pero los funcionarios a que se refiere el artículo 493 del presente Código lo serán por el Presidente de la República con el solo mérito de la calificación hecha por la Corte Suprema.
 Para todos los efectos legales se presume de derecho que los funcionarios mal calificados por la Corte Suprema no tienen el buen comportamiento exigido en la Constitución.
+Las resoluciones se adoptarán con el voto de la mayoría absoluta de los miembros de que se compone el tribunal.
 
-Art. 278. Las resoluciones se adoptarán con el voto de la mayoría absoluta de los miembros de que se compone el tribunal.
+Art. 278. Los Jueces de Letras y los Jueces Especiales de Menores durante la segunda quincena de Noviembre de cada año, efectuarán una calificación de los empleados subalternos de su dependencia, atendida su eficiencia, celo y moralidad en el desempeño de sus funciones.
+Igual calificación efectuarán la Corte Suprema, las Cortes de Apelaciones y los Fiscales de dichos Tribunales con respecto a los empleados subalternos que de ellos dependan.
+Si la calificación hecha por los Jueces de Letras y por los Jueces Especiales de Menores contuviere cargos contra el empleado, éste podrá contestarlos dentro de ocho días, contados desde que sean puestos en su conocimiento. Antes del 15 de Diciembre, háyanse o no formulado descargos, se elevarán los antecedentes para la resolución de la Corte respectiva, con indicación de las medidas disciplinarias que se hubieren impuesto al empleado en el período que comprende la calificación.
+Las resoluciones se adoptarán por la Corte Suprema y por las Cortes de Apelaciones con el voto de la mayoría absoluta de sus miembros.
+Los empleados mal calificados tendrán el plazo de 30 días, contados desde que se les notifique esta resolución, para retirarse del servicio e iniciar su expediente de jubilación si tuvieren derecho a ella. Si no se retirare el empleado, el Tribunal respectivo acordará su remoción.
+Las calificaciones hechas por la Corte Suprema, por las Cortes de Apelaciones y por los Fiscales de estos Tribunales serán definitivas con respecto a los empleados de su dependencia, sin perjuicio del recurso de reposición que se podrá hacer valer dentro del término de cinco días.
+Con respecto a las deliberaciones que efectúen las respectivas Cortes de Apelaciones para dar cumplimiento a lo dispuesto en el presente artículo, regirá lo prevenido por el inciso final del artículo 273.o.
 
 #### 4). Los nombramientos
 
@@ -1194,9 +1200,8 @@ Para jueces letrados de las categorías tercera, cuarta, quinta y sexta, con el 
 Para jueces letrados de la séptima categoría: con los funcionarios de la misma categoría o con otros abogados.
 
 Art. 285. Para proveer el cargo de relator, la respectiva Corte propondrá al funcionario que, perteneciendo a la misma categoría del cargo que se trata de proveer o a la categoría inmediatamente inferior, considere más idóneo para desempeñarlo, sin que sea necesario abrir concurso ni recibir exámenes, salvo que el tribunal así lo acuerde.
-Para los efectos de este artículo se considerarán como pertenecientes a la cuarta categoría del Escalafón Primario, a los siguientes funcionarios:
-a) De la quinta categoría y siempre que hayan figurado más de cinco años en ella: jueces letrados de mayor cuantía de simple departamento; secretarios de juzgados de letras de mayor cuantía de lugares de asiento de Corte de Apelaciones, y jueces letrados de menor cuantía de Santiago; y
-b) De la sexta categoría y siempre que hayan figurado más de diez años en ella: jueces letrados de menor cuantía que funcionen en el asiento de las demás Cortes de Apelaciones, y secretarios de juzgados de letras de mayor cuantía de capital de provincia.
+No obstante, podrán ser propuestos como Relatores de Cortes de Apelaciones, previo concurso, los funcionarios pertenecientes al escalafón, primario del Poder Judicial, que cumplan con las condiciones señaladas por el artículo 463.o y que hayan figurado por más de cinco años en dicho escalafón, y los abogados que posean el título por más de diez años.
+En los casos del inciso anterior, el Tribunal podrá recibir examen si así lo acuerda.
 
 Art. 286. Las ternas para proveer los cargos que se indican, se formarán del modo siguiente:
 Para defensores públicos de Santiago y Valparaíso: con el defensor público más antiguo de la sexta categoría y con dos funcionarios de la quinta categoría, elegidos por mérito;
@@ -1213,7 +1218,7 @@ Art. 288. Las ternas para proveer el cargo de notario de la cuarta categoría, s
 
 Art. 289. Las ternas para proveer alguno de los cargos de la segunda o tercera serie del Escalafón Secundario se formarán preferentemente:
 a) Con los funcionarios con título de abogado de la misma serie; y
-b) Con los abogados oponentes y con los funcionarios sin título de abogado de la misma serie del cargo que se trata de proveer, siempre que tengan más de diez años en el ejercicio del cargo.
+b) Con los abogados oponentes y con los funcionarios sin título de abogado de la misma serie del cargo que se trata de proveer, siempre que tengan más de diez años en el ejercicio del cargo. Podrán, también, figurar en estas ternas los empleados subalternos del Poder Judicial que pertenezcan a una de las cuatro primeras categorías del respectivo escalafón y que hayan figurado en ellas el mismo tiempo antes expresado.
 
 Art. 290. En las ternas para proveer cargos judiciales que no requieren título de abogado, se preferirá a los oponentes que lo posean.
 
@@ -1241,11 +1246,15 @@ NOTA
 El N° 38 del Art. 3° de la Ley 11183, publicada el 10.06.1953, dispuso agregar un inciso al Art. 293, sin embargo la edición oficial original de este Código no contenía un Art. 293 en su enumeración, por lo que este inciso agregado ha pasado a constituir su único texto.
 
 Art. 294. Las ternas para el nombramiento de empleados del Escalafón subalterno, serán formadas, previo concurso, por el tribunal en que deban prestar sus servicios, con un empleado de la misma categoría del cargo que se trata de proveer y dos de la categoría inferior. A falta de oponentes de la misma categoría, la terna se formará con tres empleados de la categoría inferior y si en ella no hubiere interesados en número suficiente, ocuparán sus lugares los de la categoría siguiente y, a falta de éstos, personan extrañas a la carrera.
+Sin embargo, si se opusieren a los concursos para proveer cargos de las categorías tercera y cuarta alumnos regulares del Cuarto o Quinto Años de las Escuelas de Derecho de la Universidad de Chile y demás Universidades reconocidas por el Estado, ocupará alguno de éstos un lugar en la terna respectiva, excluyendo, en este caso, a un funcionario del Servicio de las categorías inferiores señaladas en el inciso precedente.
+Los egresados de Derecho de las Universidades mencionadas en el inciso anterior, con dos años de permanencia en el escalafón, si se opusieren a los concursos para proveer cargos de la segunda categoría tendrán las mismas prerrogativas que el inciso anterior confiere a los alumnos regulares de Cuarto y Quinto Años de Derecho, para figurar en terna.
 Las ternas para el nombramiento de empleados de la quinta categoría, se formarán con un empleado de la categoría sexta que se presente a concurso y con personas extrañas a la carrera.
-Dentro de la 6.a categoría los cargos también se proveerán mediante ternas que se formarán previo concurso.
+Para figurar en las ternas que se formen para proveer en propiedad o interinamente, los cargos a que se refieren los incisos anteriores, será necesario poseer los requisitos exigidos por el párrafo 2.o del Título 1.o del decreto con fuerza de ley N.o 338, de 6 de Abril de 1960, sobre Estatuto Administrativo, con excepción del contemplado en el inciso segundo del artículo 14.
+En las ternas para nombramientos de suplente de esos mismos empleos, sólo se exigirá el requisito contemplado en el artículo 13.o del citado cuerpo legal.
+Dentro de la 6.a categoría los cargos también se proveerán mediante ternas que se formarán previo concurso, en el cual deberá acreditarse el cumplimiento de los requisitos de ingreso señalados anteriormente, según sea la calidad en que se provea el empleo, a excepción del relativo a estudios.
 El Tribunal respectivo deberá formar las ternas preferentemente con empleados de la misma categoría que se opongan, y que desempeñen sus cargos dentro de la jurisdicción de la misma Corte de Apelaciones.
 
-Art. 295. En las ternas para proveer los cargos de Receptores, los empleados del Escalafón subalterno se considerarán con las calidades establecidas en la letra b), del artículo 289.
+Art. 295. Derogado.
 
 ### § 4. De la instalación de los jueces
 
@@ -1406,7 +1415,7 @@ Art. 341. Derogado.
 
 Art. 342. No tendrán derecho a licencia los funcionarios suplentes que entren a subrogar a los propietarios o interinos en los casos de licencias, ni los auxiliares que fueren llamados a prestar sus servicios accidentalmente y por tiempo limitado.
 
-Art. 343. Los funcionarios judiciales a quienes la ley no les acuerda feriado durante el período de vacaciones por estar comprendidos en los casos de los artículos 313, inciso segundo y 314 de este Código, podrán obtener en cada año, el feriado a que se refieren las letras a), b) y c) del artículo 76° del D.F.L. N° 256, sobre Estatuto Administrativo, siempre que no hayan usado de licencia por motivos particulares durante los once últimos meses. Si el funcionario hubiera obtenido licencia de este tipo, por un lapso inferior a su feriado, tendrá derecho a él, por el tiempo necesario para enterar los días de descanso que le corresponderían por su antigüedad.
+Art. 343. Los funcionarios judiciales a quienes la ley no les acuerda feriado durante el período de vacaciones por estar comprendidos en los casos de los artículos 313, inciso segundo y 314 de este Código, podrán obtener en cada año, el feriado a que se refieren los incisos primeros, segundo, y tercero del artículo 88 del decreto con fuerza de ley N.o 338, de 6 de Abril de 1960, sobre Estatuto Administrativo, siempre que no hayan usado de licencia por motivos particulares durante los once últimos meses. Si el funcionario hubiera obtenido licencia de este tipo, por un lapso inferior a su feriado, tendrá derecho a él, por el tiempo necesario para enterar los días de descanso que le corresponderían por su antigüedad.
 Un decreto expedido por el Presidente de la República determinará el tiempo y forma como pueden los funcionarios hacer uso de este feriado.
 
 Art. 344. El feriado a que se refiere el artículo anterior será de veinticinco días hábiles dentro de cada año para los funcionarios que residan en las provincias de Tarapacá, Antofagasta, Atacama y Magallanes.
@@ -1827,6 +1836,7 @@ Disposiciones generales aplicables a los Auxiliares de la Administración de Jus
 ### § 1. Nombramiento, requisitos, inhabilidades e incompatibilidades
 
 Art. 458. Es aplicable a los auxiliares de la Administración de Justicia lo dispuesto en los arts. 244 y 245.
+Igualmente, regirán los requisitos establecidos por los incisos cuarto y quinto del artículo 294.o para el nombramiento de dichos auxiliares, sin perjuicio de las exigencias especiales que para las mismas designaciones se contengan en este Título y en otras leyes.
 Ningún cargo de fiscal, de defensor público o de relator podrá permanecer vacante, ni aún en el caso de estar servido interinamente, por más de cuatro meses si se trata de los dos primeros y de tres meses, si del último. Vencidos estos términos, el funcionario interino cesará de hecho en el ejercicio de sus funciones, y el Presidente de la República proveerá la plaza en propiedad.
 
 Art. 459. Los oficiales del ministerio público, los defensores, los relatores y los demás auxiliares de la Administración de Justicia, serán nombrados por el Presidente de la República previa propuesta de la Corte Suprema o de la Corte de Apelaciones respectiva, en conformidad a las disposiciones contenidas en el párrafo tercero del Título X del presente Código.
@@ -1852,6 +1862,7 @@ Art. 465. No pueden ser notarios:
 
 Art. 466. Para ser secretario de un juzgado de letras de mayor cuantía, archivero y conservador se requiere ser abogado.
 Sin embargo, cuando a una oposición para proveer el cargo de secretario no se presentare ningún abogado, podrá ser nombrado cualquier individuo que tenga las cualidades necesarias para poder ejercer el derecho de sufragio en las elecciones populares y que acreditare poseer aptitud para desempeñar el cargo.
+Le será aplicable también al personal subalterno de la Judicatura del Trabajo lo dispuesto en el inciso precedente, entendiéndose que reúne los requisitos el empleado que hubiere cumplido diez años, a lo menos en el respectivo escalafón.
 
 Art. 467. Para ser receptor de mayor cuantía o receptor ante los juzgados de letras de menor cuantía y procurador del número es menester tener las cualidades requeridas para poder ejercer el derecho de sufragio en las elecciones populares y acreditar la aptitud necesaria para desempeñar el cargo. Siempre será necesaria la edad de veinticinco años a lo menos para desempeñar el cargo de procurador.
 Para ser receptor de menor cuantía ante los juzgados de distrito y subdelegación se requiere esta misma edad.
@@ -1863,7 +1874,7 @@ No podrán ser oficiales del ministerio público en un tribunal, las personas qu
 No pueden ser defensores públicos los que tengan con algunos de los jueces de letras propietarios del departamento cualquiera de los parentescos indicados en dicho artículo.
 Tampoco podrán desempeñar ante ningún juez funciones accidentales de defensores los que tengan con él cualquiera de los indicados parentescos.
 
-Art. 470. Las funciones de los Auxiliares de la Administración de Justicia son incompatibles con toda otra remuneración con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las Escuelas dependientes de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, y de la enseñanza secundaria y especial hasta un límite de ocho horas semanales.
+Art. 470. Las funciones de los Auxiliares de la Administración de Justicia son incompatibles con toda otra remuneración con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las Escuelas dependientes de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, y de la enseñanza secundaria y especial hasta un límite de diez horas semanales.
 No obstante, los cargos de secretario, receptor y notario podrán ser desempeñados por una misma persona en aquellos departamentos en que, a juicio del Presidente de la República, no sea posible o conveniente hacerlos recaer en personas distintas por no permitirlo la exigüedad de los emolumentos correspondientes a cada uno de dichos cargos.
 Las funciones del ministerio público son, además, incompatibles con las eclesiásticas y las de los defensores públicos con las eclesiásticas que tengan cura de almas.
 
@@ -2004,7 +2015,15 @@ Los oficiales a que se refieren los incisos anteriores y los contemplados en el 
 La Junta de Servicios Judiciales
 
 Art. 506. Habrá una Junta de Servicios Judiciales compuesta del Presidente de la Corte Suprema, de un ministro de este tribunal designado por la misma Corte y del presidente de la Corte de Apelaciones de Santiago, que se encargará de administrar e invertir los fondos e intereses que produzcan los depósitos a que se refieren los artículos de este Título.
-Estos fondos se destinarán a la adquisición de libros, muebles y útiles para los tribunales y a reparaciones urgentes de los locales en que funcionan.
+Sin perjuicio de los recursos que se consulten anualmente en la Ley de Presupuesto, estos fondos se destinarán a la atención de las siguientes necesidades de los Tribunales de Justicia, ya sean estos Ordinarios, Juzgados de Letras de Indios, Especiales del Trabajo y de Menores:
+1.o Adquisición de libros, muebles, artículos de escritorio, aseo y demás que sean necesarios para el normal funcionamiento de esos Tribunales;
+2.o Acondicionamiento y reparación de los inmuebles fiscales o particulares, en que funcionen los referidos Tribunales o que hayan sido adquiridos o construídos de acuerdo con el presente artículo.
+Sólo podrán efectuarse reparaciones en inmuebles de propiedad particular cuando el respectivo contrato de arrendamiento haya sido celebrado por un plazo no inferior a tres años.
+3.o Reparación y mantenimiento de los automóviles fiscales del Poder Judicial, como, asimismo, de los servicios de calefacción, agua, gas, luz y ascensores;
+4.o Organización de cursos y conferencias destinados al perfeccionamiento del personal judicial;
+5.o Adquisición de inmuebles y construcción de edificios para el funcionamiento de los Tribunales o casa-habitación de los Jueces de Letras. Estas propiedades sólo podrán ser habitadas por los Jueces mientras se desempeñen en la respectiva ciudad, quienes; además, deberán pagar a la Junta de Servicios Judiciales la renta legal de arrendamiento que formará parte de los recursos ordinarios de este organismo.
+Sin embargo, para efectuar las adquisiciones y construcciones a que se refiere el número precedente, la Junta requerirá en cada caso la autorización previa del Presidente de la República.
+La Junta podrá poner a disposición de los Tribunales las sumas necesarias para el cumplimiento de los fines previstos en este artículo, los cuales deberán rendir, ante ella, cuenta detallada de la inversión de estos fondos.
 Esta Junta llevará una cuenta en conformidad a lo establecido en el artículo 508.
 
 Art. 507. Todos los dineros que sea necesario poner a disposición de los Tribunales de Justicia y del Trabajo deberán colocarse en alguna oficina de la Caja Nacional de Ahorros a la orden del tribunal respectivo.
