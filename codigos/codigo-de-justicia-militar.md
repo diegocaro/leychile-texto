@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1999-10-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1999-12-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1999-10-22
-fetched_at: 2026-08-03T01:09:04.645544+00:00
+version_date: 1999-12-21
+fetched_at: 2026-08-03T01:09:46.665685+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -261,7 +261,7 @@ Art. 50. La Corte Marcial del Ejército, Fuerza Aérea y Carabineros podrá func
 Si la Corte Marcial del Ejército, Fuerza Aérea y Carabineros funcionare dividida en dos salas, el quórum para sesionar en cada una de ellas será de cuatro miembros, y el pleno del tribunal requerirá de un quórum de siete miembros, de los cuales a lo menos dos deberán ser Ministros de la Corte de Apelaciones de Santiago.
 
 Art. 51. El Oficial General de la Armada y los Oficiales de Justicia que no integren las Cortes Marciales por derecho propio, serán designados por el Presidente de la República.
-Los Ministros de Corte de Apelaciones que deban integrar las Cortes Marciales serán designados anualmente, por sorteo de entre sus miembros, el que se practicará por los Presidentes de los respectivos Tribunales, con asistencia del Secretario, dentro de la última semana del mes de enero de cada año y, en el caso previsto en el artículo 49, dentro de los diez días siguientes de recibida la transcripción del acuerdo a que se refiere el inciso primero de dicho artículo. En este último caso, los ministros que hubieren sido designados en este sorteo integrarán la segunda sala y durarán en sus funciones hasta el 31 de diciembre de ese año.
+Los Ministros de Corte de Apelaciones que integren las Cortes Marciales durarán tres años en sus cargos. Serán designados por sorteo entre sus miembros, el que se practicará por los Presidentes de los respectivos Tribunales, con asistencia del Secretario, dentro de la última semana del mes de enero del año en que corresponda dicha designación, y del cual se excluirá a los Ministros que concluyan su período. En el caso previsto en el artículo 49, el sorteo se efectuará dentro de los diez días siguientes de recibida la transcripción del acuerdo a que se refiere el inciso primero de dicho artículo; los Ministros que se designaren integrarán la segunda Sala y durarán en sus funciones hasta el 31 de diciembre de ese año.
 
 Art. 52. En caso de ausencia o inhabilidad legal, los Ministros de las Cortes de Apelaciones serán subrogados por el Ministro de la Corte respectiva, siguiendo el orden de mayor antigüedad.
 En los mismos casos, los Auditores Generales y demás Oficiales de Justicia serán subrogados por los Oficiales de Justicia respectivos, siguiendo el orden de mayor antigüedad.
