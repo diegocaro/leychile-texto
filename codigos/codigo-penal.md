@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1941-04-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1941-04-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1941-04-14
-fetched_at: 2026-08-03T00:06:31.274277+00:00
+version_date: 1941-04-19
+fetched_at: 2026-08-03T00:06:43.279717+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2423,7 +2423,7 @@ ART. 496.
 Sufrirán la pena de prisión en su grado mínimo conmutable en multa de uno a treinta pesos:
 1.° El que faltare a la obediencia debida a la autoridad dejando de cumplir las órdenes particulares que ésta le diere, en todos aquellos casos en que la desobediencia no tenga señalada mayor pena por este Código o por leyes especiales.
 2.° El que pudiendo, sin grave detrimento propio, prestar a la autoridad el auxilio que reclamare en casos de incendio, inundación, naufragio u otra calamidad, se negare a ello.
-3.° El que teniendo obligación de presentar un recién nacido al funcionario encargado del registro civil, no lo hiciere dentro del término legal.
+3.° Derogado.
 4.° El que no diere los partes de defunción, contraviniendo a la ley o reglamentos.
 5.° El que ocultare su verdadero nombre y apellido a la autoridad o a persona que tenga derecho para exigir que los manifieste o se negare a manifestarlos o diere domicilio falso.
 6.° El que infringiere las reglas de policía dirigidas a asegurar el abastecimiento de los pueblos.
