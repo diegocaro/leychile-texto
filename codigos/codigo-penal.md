@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2002-10-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2002-10-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2002-10-04
-fetched_at: 2026-08-03T01:19:13.908606+00:00
+version_date: 2002-10-08
+fetched_at: 2026-08-03T01:19:25.918202+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1358,15 +1358,22 @@ Si la infracción al deber del cargo consistiere en ejercer influencia en otro e
 
 ART. 249.
 El empleado público que solicitare o aceptare recibir un beneficio económico para sí o para un tercero para cometer alguno de los crímenes o simples delitos expresados en este Título, o en el párrafo 4 del Título III, será sancionado con la pena de inhabilitación especial perpetua e inhabilitación absoluta temporal, o bien con inhabilitación absoluta perpetua para cargos u oficios públicos, y multa del tanto al triplo del provecho solicitado o aceptado.
-Lo establecido en el inciso anterior se entiende sin perjuicio de la pena aplicable al delito cometido por el empleado público. Si aquella pena resultare inferior a la señalada para el sobornante en el inciso segundo del artículo siguiente, se aplicará al empleado la pena establecida en esta última disposición.
+Lo establecido en el inciso anterior se entiende sin perjuicio de la pena aplicable al delito cometido por el empleado público, la que no será inferior, en todo caso, a la de reclusión menor en su grado medio.
 
 ART. 250.
-El que ofreciere o consintiere en dar a un empleado público un beneficio económico para que realice las acciones o incurra en las omisiones señaladas en los artículos 248, 248 bis y 249, o por haberlas realizado o haber incurrido en ellas, será castigado con las mismas penas de multa e inhabilitación establecidas en dichas disposiciones.
-Tratándose del beneficio consentido u ofrecido en relación con las acciones u omisiones señaladas en el artículo 248 bis, el sobornante será sancionado, además, con la pena de reclusión menor en su grado medio.
-Tratándose del beneficio consentido u ofrecido en relación con los crímenes o simples delitos señalados en el artículo 249, el sobornante será considerado inductor de acuerdo al artículo 15 Nº 2.
+El que ofreciere o consintiere en dar a un empleado público un beneficio económico, en provecho de éste o de un tercero, para que realice las acciones o incurra en las omisiones señaladas en los artículos 248, 248 bis y 249, o por haberla realizado o haber incurrido en ellas, será castigado con las mismas penas de multa e inhabilitación establecidas en dichas disposiciones.
+Tratándose del beneficio consentido u ofrecido en relación con las acciones u omisiones señaladas en el artículo 248 bis, el sobornante será sancionado, además, con pena de reclusión menor en sus grados mínimo a medio, en el caso del beneficio ofrecido, o de reclusión menor en su grado mínimo, en el caso del beneficio consentido.
+Tratándose del beneficio consentido u ofrecido en relación con los crímenes o simples delitos señalados en el artículo 249, el sobornante será sancionado, además, con pena de reclusión menor en su grado medio, en el caso del beneficio ofrecido, o de reclusión menor en sus grados mínimo a medio, en el caso del beneficio consentido. En estos casos, el sobornante no podrá ser sancionado, adicionalmente, por la responsabilidad que le hubiere cabido en el crimen o simple delito cometido por el funcionario.
 
 ART. 250 bis.
 En los casos en que el delito previsto en el artículo anterior tuviere por objeto la realización u omisión de una actuación de las señaladas en los artículos 248 ó 248 bis que mediare en causa criminal a favor del procesado, y fuere cometido por su cónyuge, por alguno de sus ascendientes o descendientes consanguíneos o afines, por un colateral consanguíneo o afín hasta el segundo grado inclusive, o por persona ligada a él por adopción, sólo se impondrá al responsable la multa que corresponda conforme las disposiciones antes mencionadas.
+
+ART. 250 bis A.
+El que ofreciere dar a un funcionario público extranjero un beneficio económico, en provecho de éste o de un tercero, para que realice una acción o incurra en una omisión con miras a la obtención o mantención, para sí u otro, de cualquier negocio o ventaja en el ámbito de transacciones comerciales internacionales, será sancionado con las mismas penas de reclusión, multa e inhabilitación establecidas en el inciso primero del artículo 248 bis. De igual forma será castigado el que ofreciere dar el aludido beneficio a un funcionario público extranjero por haber realizado o haber incurrido en las acciones u omisiones señaladas.
+El que, en iguales hipótesis a las descritas en el inciso anterior, consintiere en dar el referido beneficio, será sancionado con pena de reclusión menor en su grado mínimo, además de las mismas penas de multa e inhabilitación señaladas.
+
+ART. 250 bis B.
+Para los efectos de lo dispuesto en el artículo anterior, se considera funcionario público extranjero toda persona que tenga un cargo legislativo, administrativo o judicial en un país extranjero, haya sido nombrada o elegida, así como cualquier persona que ejerza una función pública para un país extranjero, sea dentro de un organismo público o de una empresa de servicio público. También se entenderá que inviste la referida calidad cualquier funcionario o agente de una organización pública internacional.
 
 ART. 251.
 Los bienes recibidos por el empleado público caerán siempre en comiso.
