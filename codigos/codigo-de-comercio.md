@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1938-01-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1943-10-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1938-01-13
-fetched_at: 2026-08-03T00:06:07.264187+00:00
+version_date: 1943-10-21
+fetched_at: 2026-08-03T00:07:07.286057+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -42,6 +42,8 @@ Art. 7° Son comerciantes los que, teniendo capacidad para contratar, hacen del 
 
 Art. 8° No es comerciante el que ejecuta accidentalmente un acto de comercio; pero queda sujeto a las leyes de comercio en cuanto a los efectos del acto.
 
+Art. 9° Derogado.
+
 Art. 10. Cuando los hijos de familia y los menores que administran su peculio profesional en virtud de la autorización que les confieren los artículos 246 y 439 del Código Civil ejecutaren algún acto de comercio, quedarán obligados hasta concurrencia de su peculio y sometidos a las leyes de comercio.
 
 Art. 12 Derogado.
@@ -68,6 +70,8 @@ Art. 21. Las reglas y formalidades relativas a la organización del registro del
 DE LAS OBLIGACIONES DE LOS COMERCIANTES
 
 #### § 1. De la inscripción de documentos
+
+Art. 23. La toma de razón de los documentos especificados en el artículo anterior deberá todo comerciante hacerla efectuar dentro del término de quince días, contados, según el caso, desde el día del otorgamiento del documento sujeto a inscripción, o desde la fecha en que el marido, padre, madre o guardador principie a ejercer el comercio.
 
 Art. 24. Las escrituras sociales y los poderes de que no se hubiere tomado razón, no producirán efecto alguno entre los socios, ni entre el mandante y mandatario; pero los actos ejecutados o contratos celebrados por los socios o mandatarios surtirán pleno efecto respecto de terceros.
 
@@ -160,6 +164,12 @@ Art. 53. La fianza de los corredores será de uno a cinco escudos.
 El Presidente de la República designará la cantidad de la fianza, según la importancia de las plazas de comercio donde los corredores deban desempeñar sus funciones.
 
 Art. 54. Si de cualquier modo llegare a noticia del juzgado de comercio que la fianza del corredor se halla disminuida o agotada, le ordenará que la reponga dentro de treinta días; y si el corredor no lo hiciere, se declarará vacante el destino.
+
+Art. 55. No pueden ser corredores:
+1°. Los que tienen prohibición de comerciar;
+2°. Los menores de veintiún años;
+3°. Los que han sido destituidos de este cargo;
+4°. Los que hubieren sido condenados a pena aflictiva o infamante.
 
 Art. 56. Los corredores están obligados:
 1°. A responder de la identidad de las personas que contrataren por su intermedio y a asegurarse de su capacidad legal.
