@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2004-05-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2004-10-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2004-05-25
-fetched_at: 2026-08-03T01:25:21.345360+00:00
+version_date: 2004-10-23
+fetched_at: 2026-08-03T01:26:45.608567+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2958,5 +2958,7 @@ Art. 14. La disposición del art. 285 no se aplicará a los árbitros y partidor
 Continuarán, también, en su cargo las personas que en esa fecha formaban parte de un tribunal arbitral destinado a resolver las dificultades que sobrevengan en el cumplimiento de un contrato en actual vigencia.
 
 Art. 15. Tampoco se aplicará el artículo 1324 del Código Civil, modificado por la ley 6985 de 10 de Julio de 1941, a las designaciones de partidores hechas en instrumentos públicos o testamentos otorgados con anterioridad a la vigencia de dicha ley. Podrán también prorrogarse sus funciones.
+
+Art. 16. Cuando se implementen modificaciones a los sistemas de enjuiciamiento que impliquen la creación de nuevos cargos de jueces, se entenderá que los postulantes de la cuarta, quinta o sexta categoría del Escalafón Primario del Poder Judicial cumplen con los requisitos establecidos en la letra b), del artículo 284, del Código Orgánico de Tribunales, para ser incorporados en las ternas respectivas, los que serán elegidos de conformidad a lo establecido en el inciso primero del artículo 281.
 
 Santiago, quince de Junio de mil novecientos cuarenta y tres. - J. A. RIOS M. -Oscar Gajardo V.
