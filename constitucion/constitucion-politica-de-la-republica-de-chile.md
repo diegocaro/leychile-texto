@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=2003-01-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=2003-05-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 2003-01-06
-fetched_at: 2026-08-05T02:38:53.496438+00:00
+version_date: 2003-05-22
+fetched_at: 2026-08-05T02:38:59.498395+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -146,7 +146,7 @@ Cada persona tendrá el derecho a elegir el sistema de salud al que desee acoger
 La educación tiene por objeto el pleno desarrollo de la persona en las distintas etapas de su vida.
 Los padres tienen el derecho preferente y el deber de educar a sus hijos. Corresponderá al Estado otorgar especial protección al ejercicio de este derecho.
 El Estado promoverá la educación parvularia.
-La educación básica es obligatoria, debiendo el Estado financiar un sistema gratuito con tal objeto, destinado a asegurar el acceso a ella de toda la población.
+La educación básica y la educación media son obligatorias, debiendo el Estado financiar un sistema gratuito con tal objeto, destinado a asegurar el acceso a ellas de toda la población. En el caso de la educación media este sistema, en conformidad a la ley, se extenderá hasta cumplir los 21 años de edad.
 Corresponderá al Estado, asimismo, fomentar el desarrollo de la educación en todos sus niveles; estimular la investigación científica y tecnológica, la creación artística y la protección e incremento del patrimonio cultural de la Nación.
 Es deber de la comunidad contribuir al desarrollo y perfeccionamiento de la educación.
 11º.- La libertad de enseñanza incluye el derecho de abrir, organizar y mantener establecimientos educacionales.
@@ -160,8 +160,9 @@ Toda persona natural o jurídica ofendida o injustamente aludida por algún medi
 Toda persona natural o jurídica tiene el derecho de fundar, editar y mantener diarios, revistas y periódicos, en las condiciones que señale la ley.
 El Estado, aquellas universidades y demás personas o entidades que la ley determine, podrán establecer, operar y mantener estaciones de televisión.
 Habrá un Consejo Nacional de Televisión, autónomo y con personalidad jurídica, encargado de velar por el correcto funcionamiento de este medio de comunicación. Una ley de quórum calificado señalará la organización y demás funciones y atribuciones del referido Consejo.
-La ley regulará un sistema de calificación para la exhibición de la producción cinematográfica.
+La ley regulará un sistema de calificación para la exhibición de la producción cinematográfi
 NOTA:
+ca.
 13º.- El derecho a reunirse pacíficamente sin permiso previo y sin armas.
 Las reuniones en las plazas, calles y demás lugares de uso público, se regirán por las disposiciones generales de policía;
 14º.- El derecho de presentar peticiones a la autoridad, sobre cualquier asunto de interés público o privado, sin otra limitación que la de proceder en términos respetuosos y convenientes;
