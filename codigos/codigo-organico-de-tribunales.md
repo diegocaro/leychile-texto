@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1974-11-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1974-11-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1974-11-13
-fetched_at: 2026-08-03T00:23:56.481736+00:00
+version_date: 1974-11-16
+fetched_at: 2026-08-03T00:24:08.491650+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -736,7 +736,10 @@ Si siendo muchos los autores de un delito o de varios delitos conexos, hubiere e
 
 Art. 169. Si siendo muchos los responsables de un delito o de varios delitos conexos, hubiere entre ellos individuos sometidos a los tribunales militares y otros que no lo estén, el tribunal competente para juzgar a los que gozan de fuero juzgara también a todos los demás.
 
-Art. 170. Si un mismo individuo fuere responsable de delitos sometidos a la jurisdicción militar y a la jurisdicción ordinaria, será competente para juzgarlo por todos los delitos la jurisdicción militar; pero respecto a la decisión de los delitos comunes el tribunal militar se ajustará a las leyes del fuero común.
+Art. 170. Cuando se hubiere cometido por un mismo agente delitos de jurisdicción militar y de jurisdicción común, que no sean conexos, el Tribunal Militar será competente para conocer de los primeros y el tribunal ordinario de los segundos. Si la aplicación de esta norma creare alguna interferencia o dificultad para la práctica de medidas o diligencias que se relacionen con el inculpado, tendrán preferencia las requeridas por el Tribunal Militar.
+Los tribunales deberán remitirse recíprocamente copias de los autos de procesamiento y de los fallos que se dictaren en sus respectivas causas, las que deberán agregarse a los autos.
+El tribunal que dictare el último fallo no podrá considerar circunstancias modificatorias de responsabilidad criminal que de estar acumulados los procesos no se hubieren podido tomar en cuenta.
+El reo podrá solicitar, dentro del plazo de un año, a contar del último fallo, al tribunal superior común, la unificación de las penas cuando ello lo beneficiare.
 
 Art. 170 bis. El juez que conozca de un proceso por delitos cometidos en diversos departamentos o delitos cuyos actos de ejecución se realizaron también en varios departamentos, podrá practicar directamente actuaciones judiciales en cualquiera de ellos. En este caso deberá designar un secretario ad-hoc que autorice sus diligencias.
 El funcionario que subrogue al juez podrá actuar, en casos urgentes, aun en la misma causa que motiva la ausencia del titular.
