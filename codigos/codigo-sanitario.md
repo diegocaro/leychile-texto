@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2004-03-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2005-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2004-03-16
-fetched_at: 2026-08-03T01:23:50.151870+00:00
+version_date: 2005-01-01
+fetched_at: 2026-08-03T01:27:39.632163+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -37,10 +37,7 @@ Artículo 4°.- A las Municipalidades corresponde atender los asuntos de orden s
 NOTA:
 El Art. 4° del la LEY 18695, publicada el 31.03.1988, cuyo texto refundido fue fijado por el Art. 662, Interior, publicado el 27.08.1992, estableció las funciones que corresponden a las municipalidades en sus respectivos territorios, por aplicación del Art. 107 de la Constitución Política de la República. Entre ellas, conforme a su letra d), las relacionadas con la salud publica y la protección del medio ambiente.
 
-Artículo 5°.- Cada vez que el presente Código haga referencia a la autoridad sanitaria, se entenderá por ella el Director General de Salud o las personas en quienes éste delegue sus funciones o atribuciones.
-NOTA:
-El Art. 16 del Decreto Ley 2763, Salud, publicado el 03.08.1979, vigente desde el 1° de agosto de 1980 según dispone el Decreto 227, Salud, publicado el 18.06.1980, creó los "Servicios de Salud", fijó su distribución territorial, y estableció que tales Servicios serán los continuadores legales del Servicio Nacional de Salud en sus respectivos territorios, con sus mismos derechos y obligaciones, de acuerdo con las funciones señaladas en el Art. 17 del mismo decreto ley.
-El Reglamento orgánico de los Servicios de Salud está contenido en el Decreto 42, Salud, publicado el 09.12.1986; puede verse también el Decreto 2, Salud, publicado el 08.03.1985, que establece la sede y territorio de cada Servicio de Salud.
+Artículo 5º.- Cada vez que el presente Código, la ley o el reglamento aluda a la autoridad sanitaria, deberá entenderse por ella al Ministro de Salud, en las materias que son de competencia de dicha Secretaría de Estado; a los Secretarios Regionales Ministeriales de Salud, como sucesores legales de los Servicios de Salud y del Servicio de Salud del Ambiente de la Región Metropolitana, respecto de las atribuciones y funciones que este Código, la ley o el reglamento radica en dichas autoridades y que ejercerá dentro del territorio regional de que se trate; y al Director del Instituto de Salud Pública, en relación con las facultades que legalmente le corresponden respecto de las materias sanitarias que este Código, la ley o el reglamento regula, sin perjuicio de los funcionarios en quienes estas autoridades hayan delegado válidamente sus atribuciones.
 
 Artículo 6°.- Las definiciones que se contienen en los preceptos siguientes, valdrán para el solo efecto de la aplicación de este Código y de sus reglamentos.
 
@@ -445,9 +442,9 @@ b) la protección de la salud, seguridad y bienestar
 NOTA 2:
 de los ocupantes de edificios o locales de cualquier naturaleza, del vecindario y de la población en general, así como la de los animales domésticos y de los bienes, contra los perjuicios, peligros e inconvenientes de carácter mental o material que provengan de la producción de ruidos, vibraciones o trepidaciones molestos, cualquiera que sea su origen.
 NOTA
-Véanse la LEY 18122, publicada el 17.05.1982, que creó el Servicio de Salud del Ambiente en la Región Metropolitana; y el Decreto 206, Salud, publicado el 07.12.1982, Reglamento Orgánico de dicho Servicio.
+Véase el Decreto 32, Salud, D.O. 24.05.1990, que reglamenta el funcionamiento de fuentes emisoras de contaminantes atmosféricos en situaciones de emergencia por contaminación.
 NOTA 1:
-Véanse el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza; y el Decreto 32, Salud, D.O. 24.05.1990, que reglamenta el funcionamiento de fuentes emisoras de contaminantes atmosféricos en situaciones de emergencia por contaminación.
+Véanse el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza.
 NOTA 2:
 Véase el Decreto 594, Salud, publicado el 29.04.2000, vigente a contar de 365 días desde su publicación, que establece el Reglamento sobre Condiciones Sanitarias y Ambientales Mínimas en los lugares de trabajo.
 
@@ -635,7 +632,6 @@ Las recetas médicas y análisis o exámenes de laboratorios clínicos y servici
 Lo dispuesto en este artículo no obsta para que las farmacias puedan dar a conocer, para fines estadísticos, las ventas de productos farmacéuticos de cualquier naturaleza, incluyendo la denominación y cantidad de ellos. En ningún caso la información que proporcionen las farmacias consignará el nombre de los pacientes destinatarios de las recetas, ni el de los médicos que las expidieron, ni datos que sirvan para identificarlos.
 
 Artículo 128°.- Sólo en los establecimientos de óp
-NOTA:
 NOTA:
 tica podrán fabricarse lentes con fuerza dióp
 NOTA:
