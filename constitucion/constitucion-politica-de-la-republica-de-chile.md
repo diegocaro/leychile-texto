@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1976-02-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1976-09-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 241203
-version_date: 1976-02-27
-fetched_at: 2026-08-05T02:22:30.143110+00:00
+version_date: 1976-09-13
+fetched_at: 2026-08-05T02:22:48.153170+00:00
 titulo_norma: "FIJA TEXTO DE LA CONSTITUCION POLITICA DEL ESTADO"
 compuesto: DTO-1333
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -28,13 +28,21 @@ CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE
 ## Capítulo I
 ESTADO, GOBIERNO Y SOBERANIA
 
-ARTICULO 1. El Estado de Chile es unitario. Su Gobierno es republicano y democrático representativo.
+ARTICULO 1. DEROGADO
+NOTA:
+El Art. 1º Transitorio del DL 1551, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
-ART. 2. La Soberanía reside esencialmente en la Nación, la cual delega su ejercicio en las autoridades que esta Constitución establece.
+ART. 2. DEROGADO
+NOTA:
+El Art. 1º Transitorio del DL 1551, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
-ART. 3. Ninguna persona o reunión de personas pueden tomar el título o representación del pueblo, arrogarse sus derechos, ni hacer peticiones en su nombre. La infracción de este artículo es sedición.
+ART 3. DEROGADO
+NOTA:
+El Art. 1º Transitorio del DL 1551, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
-ART. 4. Ninguna magistratura, ninguna persona, ni reunión de personas pueden atribuirse, ni aún a pretexto de circunstancias extraordinarias, otra autoridad o derechos que los que expresamente se les hayan conferido por las leyes. Todo acto en contravención a este artículo es nulo.
+ART. 4. DEROGADO
+NOTA:
+El Art. 1º Transitorio del DL 1551, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
 ## Capítulo II
 NACIONALIDAD Y CIUDADANIA
@@ -82,117 +90,63 @@ Se pierde la calidad de ciudadano con derecho a sufragio:
 ## Capítulo III
 GARANTIAS CONSTITUCIONALES
 
-ART. 9. La Constitución asegura a todos los ciudadanos el libre ejercicio de los derechos políticos, dentro del sistema democrático y republicano.
+ART. 9. La Constitución asegura a todos los
+NOTA:
+ciudadanos el libre ejercicio de los derechos políticos, dentro del sistema democrático y republicano.
 Todos los chilenos pueden agruparse libremente en partidos políticos, a los que se reconoce la calidad de personas jurídicas de derecho público y cuyos objetivos son concurrir de manera democrática a determinar la política nacional.
 Los partidos políticos gozarán de libertad para darse la organización interna que estimen conveniente, para definir y modificar sus declaraciones de principios y programas y sus acuerdos sobre política concreta, para presentar candidatos en las elecciones de regidores, diputados, senadores y Presidente de la República, para mantener secretarías de propaganda y medios de comunicación y, en general, para desarrollar sus actividades propias. La ley podrá fijar normas que tengan por exclusivo objeto reglamentar la intervención de los partidos políticos en la generación de los Poderes Públicos.
 Los partidos políticos tendrán libre acceso a los medios de difusión y comunicación social de propiedad estatal o controlados por el Estado, en las condiciones que la ley determine, sobre la base de garantizar una adecuada expresión a las distintas corrientes de opinión en proporción a los sufragios obtenidas por cada una en la última elección general de diputados y senadores o regidores. (5)
 (5) Artículo agregado por la Reforma Constitucional contenida en la Ley N.o 17.398, de 9 de Enero de 1971.
+NOTA:
+El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, dispuso que en conformidad con la ley se mantiene la suspensión de vigencia del presente artículo.
 
-ART. 10. Asimismo, la Constitución asegura a todos los habitantes de la República: (6)
-1º La igualdad ante la ley. En Chile no hay clase privilegiada.
-En Chile no hay esclavos, y el que pise su territorio, queda libre. No puede hacerse este tráfico por chilenos. El extranjero que lo hiciere, no puede habitar en Chile, ni nacionalizarse en la República;
-2º La manifestación de todas las creencias, la libertad de conciencia y el ejercicio libre de todos los cultos que no se opongan a la moral, a las buenas costumbres o al orden público, pudiendo, por tanto, las respectivas confesiones religiosas erigir y conservar templos y sus dependencias con las condiciones de seguridad e higiene fijadas por las leyes y ordenanzas.
-Las iglesias, las confesiones e instituciones religiosas de cualquier culto, tendrán los derechos que otorgan y reconocen, con respecto a los bienes, las leyes actualmente en vigor; pero quedarán sometidas, dentro de las garantías de esta Constitución, al derecho común para el ejercicio del dominio de sus bienes futuros.
+ART. 10.
+Las iglesias, las confesiones e instituciones religiosas de cualquier culto, tendrán los derechos que otorgan y reconocen, con respecto a los bienes, las leyes actualmente en vigor; pero quedarán sometidas,
+NOTA:
+dentro de las garantías de esta Constitución, al derecho común para el ejercicio del dominio de sus bienes futuros.
 Los templos y sus dependencias, destinados al servicio de un culto, estarán exentos de contribuciones;
-3º La libertad de emitir, sin censura previa, sus opiniones, de palabra o por escrito, por medio de la prensa, la radio, la televisión o en cualquiera otra forma, sin perjuicio de responder de los delitos y abusos que se cometan en el ejercicio de esta libertad, en la forma y casos determinados por la ley. No podrá ser constitutivo de delito o abuso sustentar y difundir cualquiera idea política.
-Toda persona natural o jurídica ofendida o aludida por alguna información, tiene derecho a que su aclaración o rectificación sea gratuitamente difundida, en las condiciones que la ley determine, por el órgano de publicidad en que esa información hubiere sido emitida.
-Todas las corrientes de opinión tendrán derecho a utilizar, en las condiciones de igualdad que determine la ley, los medios de difusión y comunicación social de propiedad o uso de particulares.
-Toda persona natural o jurídica, especialmente las universidades y los partidos políticos tendrán el derecho de organizar, fundar y mantener diarios, revistas, periódicos y estaciones transmisoras de radio, en las condiciones que establezca la ley. Sólo por ley podrá modificarse el régimen de propiedad y de funcionamiento de esos medios de comunicación. La expropiación de los mismos podrá únicamente realizarse por ley aprobada, en cada Cámara, con el voto conforme de la mayoría de sus miembros en ejercicio.
-La importación y comercialización de libros, impresos y revistas serán libres, sin perjuicio de las reglamentaciones y gravámenes que la ley imponga. Se prohíbe discriminar arbitrariamente entre las empresas propietarias de editoriales, diarios, periódicos, revistas, radiodifusoras y estaciones de televisión en lo relativo a venta o suministro en cualquier forma de papel, tinta, maquinaria u otros elementos de trabajo, o respecto de las autorizaciones o permisos que fueren necesarios para efectuar tales adquisiciones, dentro o fuera del país.
-Sólo el Estado y las Universidades tendrán el derecho de establecer y mantener estaciones de televisión, cumpliendo con los requisitos que la ley señale.
-Queda garantizada la circulación, remisión y transmisión, por cualquier medio, de escritos, impresos y noticias, que no se opongan a la moral y a las buenas costumbres. Sólo en virtud de una ley, dictada en los casos previstos en el artículo 44, Nº 12, podrá restringirse el ejercicio de esta libertad; (7)
-4º El derecho de reunirse sin permiso previo y sin armas. En las plazas, calles y demás lugares de uso público, las reuniones se regirán por las disposiciones generales que la ley establezca; (8)
-5º El derecho de asociarse sin permiso previo y en conformidad a la ley;
-6º El derecho de presentar peticiones a la autoridad constituida, sobre cualquier asunto de interés público o privado, sin otra limitación que la de proceder en términos respetuosos y convenientes;
-7º La libertad de enseñanza.
-La educación básica es obligatoria.
-La educación es una función primordial del Estado, que se cumple a través de un sistema nacional del cual forman parte las instituciones oficiales de enseñanza y las privadas que colaboren en su realización, ajustándose a los planes y programas establecidos por las autoridades educacionales.
-La organización administrativa y la designación del personal de las instituciones privadas de enseñanza serán determinadas por los particulares que las establezcan, con sujeción a las normas legales.
-Sólo la educación privada gratuita y que no persiga fines de lucro recibirá del Estado una contribución económica que garantice su financiamiento, de acuerdo a las normas que establezca la ley.
-La educación que se imparta a través del sistema nacional será democrática y pluralista y no tendrá orientación partidaria oficial. Su modificación se realizará también en forma democrática, previa libre discusión en los organismos competentes de composición pluralista.
-Habrá una Superintendencia de Educación Pública, bajo la autoridad del Gobierno, cuyo Consejo estará integrado por representantes de todos los sectores vinculados al sistema nacional de educación. La representación de estos sectores deberá ser generada democráticamente.
-La Superintendencia de Educación tendrá a su cargo la inspección de la enseñanza nacional.
-Los organismos técnicos competentes harán la selección de los textos de estudio sobre la base de concursos públicos a los cuales tendrán acceso todos los educadores idóneos, cualquiera que sea su ideología. Habrá facilidades equitativas para editar y difundir esos textos escolares, y los establecimientos educacionales tendrán libertad para elegir los que prefieran.
-Las Universidades estatales y las particulares reconocidas por el Estado son personas jurídicas dotadas de autonomía académica, administrativa y económica. Corresponde al Estado proveer a su adecuado financiamiento para que puedan cumplir sus funciones plenamente, de acuerdo a los requerimientos educacionales, científicos y culturales del país.
-El acceso a las Universidades dependerá exclusivamente de la idoneidad de los postulantes, quienes deberán ser egresados de la enseñanza media o tener estudios equivalentes, que les permitan cumplir las exigencias objetivas del tipo académico. El ingreso y promoción de profesores e investigadores a la carrera académica se hará tomando en cuenta su capacidad y aptitudes.
-El personal académico es libre para desarrollar las materias conforme a sus ideas, dentro del deber de ofrecer a sus alumnos la información necesaria sobre las doctrinas y principios diversos y discrepantes.
-Los estudiantes universitarios tienen derecho a expresar sus propias ideas y a escoger, en cuanto sea posible, la enseñanza y tuición de los profesores que prefieran; (9)
-8º La admisión a todos los empleos y funciones públicas, sin otras condiciones que las que impongan las leyes;
-9º La igual repartición de los impuestos y contribuciones, en proporción de los haberes o en la progresión o forma que fije la ley; y la igual repartición de las demás cargas públicas.
-Sólo por ley pueden imponerse contribuciones directas o indirectas, y, sin su especial autorización, es prohibido a toda autoridad del Estado y a todo individuo imponerlas, aunque sea bajo pretexto precario, en forma voluntaria, o de cualquier otra clase.
-No puede exigirse ninguna especie de servicio personal, o de contribución, sino en virtud de un decreto de autoridad competente, fundado en la ley que autoriza aquella exacción.
-Ningún cuerpo armado puede hacer requisiciones, ni exigir clase alguna de auxilios, sino por medio de las autoridades civiles y por decreto de éstas.
-Una ley particular determinará el método de reclutas y reemplazos para las fuerzas de mar y tierra.
-Todos los chilenos en estado de cargar armas deberán hallarse inscriptos en los registros militares, si no están especialmente exceptuados por la ley;
-10º El derecho de propiedad en sus diversas especies.
-La ley establecerá el modo de adquirir la propiedad, de usar, gozar y disponer de ella y las limitaciones y obligaciones que permitan asegurar su función social y hacerla accesible a todos. La función social de la propiedad comprende cuanto exijan los intereses generales del Estado, la utilidad y la salubridad pública, el mejor aprovechamiento de las fuentes y energías productivas en el servicio de la colectividad y la elevación de las condiciones de vida del común de los habitantes.
-Cuando el interés de la comunidad nacional lo exija, la ley podrá reservar al Estado el dominio exclusivo de recursos naturales, bienes de producción u otros, que declare de importancia preeminente para la vida económica, social o cultural del país. Propenderá, asimismo, a la conveniente distribución de la propiedad y a la constitución de la propiedad familiar.
-Nadie puede ser privado de su propiedad sino en virtud de la ley general o especial que autorice la expropiación por causa de utilidad pública o de interés social, calificada por el legislador. El expropiado tendrá siempre derecho a indemnización cuyo monto y condiciones de pago se determinarán equitativamente tomando en consideración los intereses de la colectividad y de los expropiados. La ley determinará las normas para fijar la indemnización, el tribunal que conozca de las reclamaciones sobre el monto, el que en todo caso fallará conforme a derecho, la forma de extinguir esta obligación, y las oportunidades y modo en que el expropiador tomará posesión material del bien expropiado.
-Cuando se trate de expropiación de predios rústicos, la indemnización será equivalente al avalúo vigente para los efectos de la contribución territorial, más el valor de las mejoras que no estuvieren comprendidas en dicho avalúo, y podrá pagarse con una parte al contado y el saldo en cuotas en un plazo no superior a treinta años, todo ello en la forma y condiciones que la ley determine.
-La ley podrá reservar al dominio nacional de uso público todas las aguas existentes en el territorio nacional y expropiar, para incorporarlas a dicho dominio, las que sean de propiedad particular. En este caso, los dueños de las aguas expropiadas continuarán usándolas en calidad de concesionarios de un derecho de aprovechamiento y sólo tendrán derecho a la indemnización cuando, por la extinción total o parcial de ese derecho, sean efectivamente privados del agua suficiente para satisfacer, mediante un uso racional y beneficioso, las mismas necesidades que satisfacían con anterioridad a la extinción.
-La pequeña propiedad rústica trabajada por su dueño y la vivienda habitada por su propietario no podrán ser expropiadas sin previo pago de la indemnización; (10)*
-11º La propiedad exclusiva de todo descubrimiento o producción, por el tiempo que concediere la ley. Si ésta exigiere su expropiación, se dará al autor o inventor la indemnización competente;
-12º La inviolabilidad del hogar.
-La casa de toda persona que habite el territorio chileno sólo puede ser allanada por un motivo especial determinado por la ley, y en virtud de orden de autoridad competente;
-13º La inviolabilidad de la correspondencia epistolar y telegráfica y de las comunicaciones telefónicas. No podrán abrirse, ni interceptarse, ni registrarse los papeles o efectos públicos, sino en los casos expresamente señalados por la ley; (11)
-14º La libertad de trabajo y su protección. Toda persona tiene derecho al trabajo, a la libre elección de éste, a una remuneración suficiente que asegure a ella y su familia un bienestar acorde con la dignidad humana y a una justa participación en los beneficios que de su actividad provengan.
-El derecho a sindicarse en el orden de sus actividades o en la respectiva industria o faena, y el derecho de huelga, todo ello en conformidad a la ley.
-Los sindicatos y las federaciones y confederaciones sindicales, gozarán de personalidad jurídica por el sólo hecho de registrar sus estatutos y actas constitutivas en la forma y condiciones que determine la ley.
-Los sindicatos son libres para cumplir sus propios fines.
-Ninguna clase de trabajo o industria puede ser prohibida, a menos que se oponga a las buenas costumbres, a la seguridad o a la salud públicas, o que lo exija el interés nacional y una ley lo declare así; (12)
-15º La libertad de permanecer en cualquier punto de la República, trasladarse de uno a otro, o entrar y salir de su territorio, a condición de que se guarden las normas establecidas en la ley y salvo siempre el perjuicio de tercero, sin que nadie pueda ser detenido, preso, desterrado o extrañado, sino en la forma determinada por las leyes; (13)
-16º El derecho a la seguridad social.
-El Estado adoptará todas las medidas que tiendan a la satisfacción de los derechos sociales, económicos y culturales necesarios para el libre desenvolvimiento de la personalidad y de la dignidad humanas, para la protección integral de la colectividad y para propender a una equitativa redistribución de la renta nacional.
-La ley deberá cubrir, especialmente, los riesgos de pérdida, suspensión o disminución involuntaria de la capacidad del trabajo individual, muerte del jefe de familia o de cesantía involuntaria, así como el derecho a la atención médica, preventiva, curativa y de rehabilitación en caso de accidente, enfermedad o maternidad y el derecho a prestaciones familiares a los jefes de hogares.
-El Estado mantendrá un seguro social de accidentes para asegurar el riesgo profesional de los trabajadores.
-Es deber del Estado velar por la salud pública y el bienestar higiénico del país. Deberá destinarse cada año una cantidad de dinero suficiente para mantener un servicio nacional de salud, y (14)
-17º El derecho a participar activamente en la vida social, cultural, cívica, política y económica con el objeto de lograr el pleno desarrollo de la persona humana y su incorporación efectiva a la comunidad nacional. El Estado deberá remover los obstáculos que limiten, en el hecho, la libertad e igualdad de las personas y grupos, y garantizará y promoverá su acceso a todos los niveles de la educación y la cultura y a los servicios necesarios para conseguir esos objetivos, a través de los sistemas e instituciones que señale la ley.
-Las Juntas de Vecinos, Centros de Madres, Sindicatos, Cooperativas y demás organizaciones sociales mediante las cuales el pueblo participa en la solución de sus problemas y colabora en la gestión de los servicios del Estado y de las Municipalidades, serán personas jurídicas dotadas de independencia y libertad para el desempeño de las funciones que por la ley les correspondan y para generar democráticamente sus organismos directivos y representantes, a través del voto libre y secreto de todos sus miembros.
-En ningún caso esas instituciones podrán arrogarse el nombre o representación del pueblo, ni intentar ejercer poderes propios de las autoridades del Estado. (15)
-(6) La palabra "Asimismo" fue ordenada agregar por la Reforma Constitucional contendida en la Ley Nº 17.398, de 9 de Enero de 1971.
-(7)(8) Este número fue sustituido por la Reforma Constitucional contenida en la Ley Nº 17.398, de 9 de Enero de 1971.
-(9) Este número fue sustituido por la Reforma Constitucional contenida en la Ley N.o 17.398, de 9 de Enero de 1971.
-(10) Este número fue sustituida por la Reforma Constitucional contenida en la Ley Nº 16.615, de 20 de Enero de 1967.
-(11) Este número fue sustituido por la Reforma Constitucional contenida en la Ley Nº 17.398, de 9 de Enero de 1971.
-* La Reforma Constitucional contenida en la ley Nº 17.450, de 16 de Julio de 1971, introdujo a este número las siguientes modificaciones:
-a) Intercálanse en el inciso tercero entre las palabras "la ley podrá" y "reservar al Estado", las siguientes: "nacionalizar o".
-b) Intercálanse a continuación del inciso tercero los siguientes:
-"El Estado tiene el dominio absoluto, exclusivo, inalienable e imprescriptible de todas las minas, las covaderas, las arenas metalíferas, los salares, los depósitos de carbón e hidrocarburos y demás sustancias fósiles, con excepción de las arcillas superficiales.
-La ley determinará qué sustancias de aquellas a que se refiere el inciso anterior, entre las cuales no podrán considerarse los hidrocarburos líquidos y gaseosos, podrán ser objeto de concesiones de exploración o de explotación, la forma y resguardos del otorgamiento y disfrute de dichas concesiones, la materia sobre que recaerán los derechos y obligaciones a que darán origen la actividad que los concesionarios deberán desarrollar en interés de la colectividad para merecer amparo y garantías legales. La concesión estará sujeta a extinción en caso de no cumplirse los requisitos fijados en la ley para mantenerla.
-La ley asegurará la protección de los derechos del concesionario y en especial de sus facultades de defenderlos frente a terceros y de usar, gozar y disponer de ellos por acto entre vivos o por causa de muerte, sin perjuicio de lo establecido en el inciso anterior. En aquellas cuestiones sobre otorgamiento, ejercicio o extinción de las concesiones que la ley entregue a la resolución de la autoridad administrativa, entre las cuales no podrán estar las que se refieren a la fijación de los requisitos de amparo, habrá siempre lugar a reclamo ante los tribunales ordinarios de justicia".
-c) Intercálase el siguiente inciso nuevo entre los actuales incisos quinto y sexto:
-"Cuando se trate de nacionalización de actividades o empresas mineras que la ley califique como Gran Minería, la nacionalización podrá comprender a ellas mismas, a derechos en ellas o a la totalidad o parte de sus bienes. La nacionalización podrá también extenderse a bienes de terceros, de cualquier clase, directa y necesariamente destinados a la normal explotación de dichas actividades o empresas. El monto de la indemnización o indemnizaciones, según los casos, podrá determinarse sobre la base del costo original de dichos bienes, deducidas las amortizaciones, depreciaciones, castigos y desvalorización por obsolescencia. También podrá deducirse del monto de la indemnización el todo o parte de las rentabilidades excesivas que hubieren obtenido las empresas nacionalizadas. La indemnización será pagada en dinero, a menos que el afectado acepte otra forma de pago, en un plazo no superior a treinta años y en las condiciones que la ley determine. El Estado podrá tomar posesión material de los bienes comprendidos en la nacionalización inmediatamente después que ésta entre en vigencia. El afectado sólo podrá hacer valer en contra del Estado, en cuanto se relacione con la nacionalización, el derecho a la indemnización regulada en la forma antes indicada. La ley podrá determinar que los socios o accionistas de las empresas nacionalizadas no tendrán otros derechos que hacer valer, sea en contra del Estado, sea recíprocamente entre ellos, que el de percibir la cuota o parte proporcional que les corresponda dentro de la indemnización que reciban las respectivas empresas.
-Asimismo, la ley podrá, en cuanto atañe al Estado, determinar que terceros, exceptuados los trabajadores de la actividad o empresa nacionalizada, pueden hacer valer sus derechos sólo sobre la indemnización.".
-d) Agréganse los siguientes incisos finales:
-"En los casos en que el Estado o sus organismos hayan celebrado o celebren con la debida autorización o aprobación de la ley, contratos o convenciones de cualquier clase en que se comprometan a mantener en favor de particulares determinados regímenes legales de excepción o tratamientos administrativos especiales, estos podrán ser modificados o extinguidos por la ley cuando lo exija el interés nacional.
-En casos calificados, cuando se produzca como consecuencia de la aplicación del inciso anterior, un perjuicio directo, actual y efectivo, la ley podrá disponer una compensación a los afectados.".
-(12) (13) Este número fue sustituido por la Reforma Constitucional contenida en la Ley Nº 17.398, de 9 de Enero de 1971.
-(14) Este número fue agregado por la Reforma Constitucional contenida en la Ley Nº 17.398, de 9 de Enero de 1971.
-(15) Este número fue agregado por la Reforma Constitucional contenida en la Ley Nº 17.398, de 9 de Enero de 1971.
+NOTA:
+El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, dispuso que la modificación del presente artículo rige a contar del 18 de septiembre de 1976.
 
-ART. 11. Nadie puede ser condenado, si no es juzgado legalmente y en virtud de una ley promulgada antes del hecho sobre que recae el juicio.
+ART. 11. DEROGADO
+NOTA:
+El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
-ART. 12. Nadie puede ser juzgado por comisiones especiales, si no por el tribunal que le señale la ley y que se halle establecido con anterioridad por ésta.
+ART. 12. DEROGADO
+NOTA:
+El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
-ART. 13. Nadie puede ser detenido si no por orden de funcionario público expresamente facultado por la ley y después de que dicha orden le sea intimada en forma legal, a menos de ser sorprendido en delito flagrante y, en este caso, para el único objeto de ser conducido ante juez competente.
+ART. 13. DEROGADO
+NOTA:
+El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
-ART. 14. Nadie puede ser detenido, sujeto a prisión preventiva o preso sino en su casa o en lugares públicos destinados a este objeto.
-Los encargados de las prisiones no pueden recibir en ellas a nadie en calidad de detenido, procesado o preso, sin copiar en su registro la orden correspondiente, emanada de autoridad que tenga facultad legal. Pueden, sin embargo, recibir en el recinto de la prisión, en clase de detenidos, a los que fueren conducidos con el objeto de ser presentados al juez competente; pero con la obligación de dar cuenta a éste dentro de las veinticuatro horas.
+ART. 14. DEROGADO
+NOTA:
+El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
-ART. 15. Si la autoridad hiciere detener a alguna persona, deberá, dentro de las cuarenta y ocho horas siguientes, dar aviso al juez competente, poniendo a su disposición al detenido.
-Sin embargo, tratándose de delitos contra la seguridad del Estado y durante la vigencia de regímenes de emergencia, el plazo a que refiere el inciso anterior será hasta de cinco días.
+ART. 15. DEROGADO
+NOTA:
+El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
-ART. 16. Todo individuo que se hallare detenido, procesado o preso, con infracción de lo dispuesto en los artículos anteriores, podrá ocurrir por sí o por cualquiera a su nombre, a la magistratura que señale la ley, en demanda de que se guarden las formalidades legales. Esta magistratura podrá decretar que el individuo sea traído a su presencia y su decreto será precisamente obedecido por todos los encargados de las cárceles o lugares de detención. Instruida de los antecedentes, decretará su libertad inmediata o hará que se reparen los defectos legales o pondrá al individuo a disposición del juez competente, procediendo en todo breve y, sumariamente, corrigiendo por sí esos defectos o dando cuenta a quien corresponda para que los corrija.
+ART. 16. DEROGADO
+NOTA:
+El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
-ART. 17. Ninguna incomunicación puede impedir que el funcionario encargado de la casa de detención visite al detenido, procesado o preso que se encuentre en ella.
-Este funcionario está obligado, siempre que el detenido le requiera, a transmitir al juez competente la copia del decreto de detención; o a reclamar para que se le dé dicha copia, o a dar él mismo un certificado de hallarse detenido aquel individuo, si al tiempo de su detención, si hubiere omitido este requisito.
+ART. 17. DEROGADO
+NOTA:
+El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
-ART. 18. En las causas criminales no se podrá obligar al inculpado a que declare bajo juramente sobre hecho propio; así como tampoco a sus ascendientes, descendientes, cónyuge y parientes, hasta el tercer grado de consanguinidad y segundo de afinidad inclusive.
-No podrá aplicarse tormento, ni imponerse, en caso alguno, la pena de confiscación de bienes, sin perjuicio del comiso en los casos establecidos por las leyes.
+ART. 18. DEROGADO
+NOTA:
+El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
-ART. 19. Afianzada suficientemente la persona o el saneamiento de la acción, en la forma que según la naturaleza de los casos determine la ley, no debe ser detenido, ni sujeto a prisión preventiva, el que no sea responsable de un delito a que la ley señale pena aflictiva.
+ART. 19. DEROGADO
+NOTA:
+El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
-ART. 20. Todo individuo en favor de quien se dictare sentencia absolutoria o se sobreseyere definitivamente, tendrá derecho a indemnización, en la forma que determine la ley, por los perjuicios efectivos o meramente morales que hubiere sufrido injustamente.
+ART. 20. DEROGADO
+NOTA:
+El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, dispuso que la derogación del presente artículo rige a contar del 18 de septiembre de 1976.
 
 ART. 21. Las Tesorerías del Estado no podrán efectuar ningún pago sino en virtud de un decreto expedido por autoridad competente, en que se exprese la ley o la parte del Presupuesto que autorice aquel gasto.
 Un organismo autónomo con el nombre de Contraloría General de la República, fiscalizará el ingreso y la inversión de los fondos del Fisco, de las Municipalidades, de la Beneficencia Pública y de los otros servicios que determinen las leyes; examinará y juzgará las cuentas de las personas que tengan a su cargo bienes de esas entidades, llevará la contabilidad general de la Nación y desempeñará las demás funciones que le encomiende la ley. Se exceptúan de esta disposición las cuentas del Congreso Nacional, que serán juzgadas de acuerdo con sus reglamentos internos.
@@ -316,7 +270,9 @@ No podrá el Congreso aprobar ningún nuevo gasto con cargo a los fondos de la N
 9º Fijar las fuerzas de aire, mar y tierra que han de mantenerse en pie en tiempo de paz o de guerra; (26)
 10º Fijar las normas para permitir la entrada de tropas extranjeras en el territorio de la República, como asimismo la salida de tropas nacionales fuera de él; (27)
 11º Aprobar o reprobar la declaración de guerra a propuesta del Presidente de la República;
-12º Restringir la libertad personal y la de imprenta, o suspender o restringir el ejercicio del derecho de reunión, cuando lo reclamare la necesidad imperiosa de la defensa del Estado, de la conservación del régimen constitucional o de la paz interior, y sólo por períodos que no podrán exceder de seis meses. Si estas leyes señalaren penas, su aplicación se hará siempre por Tribunales establecidos. Fuera de los casos prescritos en este número, ninguna ley podrá dictarse para suspender o restringir las libertades o derechos que la Constitución asegura;
+12º Restringir la libertad personal y la de
+NOTA:
+imprenta, o suspender o restringir el ejercicio del derecho de reunión, cuando lo reclamare la necesidad imperiosa de la defensa del Estado, de la conservación del régimen constitucional o de la paz interior, y sólo por períodos que no podrán exceder de seis meses. Si estas leyes señalaren penas, su aplicación se hará siempre por Tribunales establecidos. Fuera de los casos prescritos en este número, ninguna ley podrá dictarse para suspender o restringir las libertades o derechos que la Constitución asegura;
 13º Conceder indultos generales y amnistías;
 14º Señalar la ciudad en que debe residir el Presidente de la República, celebrar sus sesiones el Congreso Nacional y funcionar la Corte Suprema, y
 15º Autorizar al Presidente de la República para que dicte disposiciones con fuerza de ley sobre creación, supresión, organización y atribuciones de los servicios del Estado y de las Municipalidades; sobre fijación de plantas, remuneraciones y demás derechos y obligaciones de los empleados u obreros de esos servicios; sobre regímenes previsionales del sector público; sobre materias determinadas de orden administrativo, económico y financiero y de las que señalan los Nºs 1º, 2º, 3º, 8º y 9º del presente artículo.
@@ -328,6 +284,8 @@ Los decretos con fuerza de ley estarán sometidos en cuanto a su publicación, v
 (23) El número 3º fue redactado por la Reforma Constitucional contenida en la Ley Nº 17.284, de 23 de Enero de 1970.
 (24) (25) (26) La Reforma Constitucional contenida en la Ley Nº 17.284, de 23 de Enero de 1970, ordenó suprimir en el número 7º la frase ", y establecer aduanas"; en el número 8º ordenó suprimir las palabras "peso, ley," y en el número 9º ordenó intercalar la palabra "aire,", (27) En este número se refundieron los antiguos números 10º y 11º fijándose un nuevo texto por la Reforma Constitucional contenida en la Ley Nº 17.284, de 23 de Enero de 1970, que ordenó, además, alterar los guarismos de los numerandos siguientes.
 (28) El texto de este número, signado con el 15º fue ordenado agregar por la Reforma Constitucional contenida en la Ley Nº 17.284, de 23 de Enero de 1970.
+NOTA:
+La derogación del Nº 12 del presente artículo dispuesta por el Art. 15 del DL 1553, Justicia, publicado el 13.09.1976, no se incorporó al presente texto actualizado, por cuanto, según su Art. transitorio en su texto modificado por el Art. 1º letra b) del DL 1689, Interior, publicado el 11 de marzo de 1977, esta modificación comenzaría a regir con la dictación de una ley complementaria, la que nunca fue publicada.
 
 ### FORMACION DE LAS LEYES
 
@@ -443,11 +401,15 @@ El nombramiento de los Embajadores y Ministros Diplomáticos se someterá a la a
 14ª Mandar personalmente las fuerzas de mar y tierra con acuerdo del Senado. En este caso, el Presidente de la República podrá residir en cualquier lugar ocupado por armas chilenas;
 15ª Declarar la guerra, previa autorización por ley;
 16ª Mantener las relaciones políticas con las potencias extranjeras, recibir sus Agentes, admitir sus Cónsules, conducir las negociaciones, hacer las estipulaciones preliminares, concluir y firmar todos los tratados de paz, de alianza, de tregua, de neutralidad, de comercio, concordatos y otras convenciones. Los tratados, antes de su ratificación se presentarán a la aprobación del Congreso. Las discusiones y deliberaciones sobre estos objetos serán secretas si el Presidente de la República así lo exigiere, y
-17ª Declarar en estado de asamblea una o más provincias invadidas o amenazadas en caso de guerra extranjera, y en estado de sitio, uno o varios puntos de la República, en caso de ataque exterior.
+17ª Declarar en estado de asamblea una o más
+NOTA:
+provincias invadidas o amenazadas en caso de guerra extranjera, y en estado de sitio, uno o varios puntos de la República, en caso de ataque exterior.
 En caso de conmoción interior, la declaración de hallarse uno o varios puntos en estado de sitio, corresponde al Congreso; pero, si éste no se hallare reunido, puede el Presidente hacerlo por un determinado tiempo. Si a la reunión del Congreso no hubiere expirado el término señalado, la declaración que ha hecho el Presidente de la República, se entenderá como una proposición de ley.
 Por la declaración del estado de sitio, sólo se conceden al Presidente de la República la facultad de trasladar las personas de un departamento a otro y la de arrestarlas en sus propias casas y en lugares que no sean cárceles ni otros que estén destinados a la detención o prisión de reos comunes.
 Las medidas que se tomen a causa del estado de sitio, no tendrán más duración que la de éste, pero con ellas no se podrán violar las garantías constitucionales otorgadas a los Diputados y Senadores.
 (37) Este número fue modificado por la Reforma Constitucional contenida en la Ley Nº 7.727, de 23 de Noviembre de 1943.
+NOTA:
+La derogación del Nº 17 del presente artículo dispuesta por el Art. 15 del DL 1553, Justicia, publicado el 13.09.1976, no se incorporó al presente texto actualizado, por cuanto, según su Art. transitorio en su texto modificado por el Art. 1º letra b) del DL 1689, Interior, publicado el 11 de marzo de 1977, esta modificación comenzaría a regir con la dictación de una ley complementaria, la que nunca fue publicada.
 
 ### MINISTROS DE ESTADO
 
