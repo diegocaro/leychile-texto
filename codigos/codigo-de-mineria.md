@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=1999-10-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=2000-09-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 29668
-version_date: 1999-10-07
-fetched_at: 2026-08-03T01:08:58.641512+00:00
+version_date: 2000-09-22
+fetched_at: 2026-08-03T01:11:50.837427+00:00
 titulo_norma: "CODIGO DE MINERIA"
 compuesto: LEY-18248
 organismos: ['MINISTERIO DE MINERIA']
@@ -365,9 +365,9 @@ Artículo 72.- La operación de mensura consistirá en la ubicación, en el terr
 Para los efectos de lo dispuesto en el número sexto del artículo 95, se presumirá de derecho que toda mensura fue ejecutada en la misma fecha en que se presentó la correspondiente solicitud de mensura.
 
 Artículo 73.- El ingeniero o perito no podrá en caso alguno abarcar con la mensura pertenencias vigentes.
-El ingeniero o perito que a sabiendas infringiere la prohibición del inciso precedente sufrirá la pena de prisión en cualquiera de sus grados a reclusión menor en su grado mínimo, y la accesoria de inhabilitación especial temporal de entre tres y seis años para llevar a efecto mensuras de pertenencias mineras.
+El ingeniero o perito que a sabiendas infringiere la prohibición del inciso precedente sufrirá la pena de reclusión menor en su grado mínimo, y la accesoria de suspensión de cargo u oficio público o profesión titular.
 La operación de mensura podrá abarcar todo o parte del terreno cuya mensura se solicitó, pero, en ningún caso, terrenos situados fuera del perímetro indicado en dicha solicitud. Para este efecto, podrá reducirse el número de pertenencias, la superficie de una o más de ellas, o ambas cosas.
-La acción penal correspondiente sólo podrá ser ejercitada por el titular de la concesión que soporte directamente la superposición.
+La acción penal correspondiente tiene el carácter de privada y sólo podrá ser ejercida por el titular de la concesión que soporte directamente la superposición.
 
 Artículo 74.- La operación de mensura se practicará en la forma indicada en la solicitud de mensura, o con las reducciones que señale el interesado y que sean procedentes de acuerdo con el artículo anterior.
 La mensura se orientará conforme al meridiano U.T.M. del lugar, dando cumplimiento a lo dispuesto en el artículo 28.
