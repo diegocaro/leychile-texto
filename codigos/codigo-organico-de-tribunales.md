@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1986-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1986-05-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1986-03-01
-fetched_at: 2026-08-03T00:42:52.571222+00:00
+version_date: 1986-05-14
+fetched_at: 2026-08-03T00:42:58.571613+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -56,7 +56,7 @@ Art. 5° A los tribunales que establece el presente Código estará sujeto el co
 2°) Las causas cuyo conocimiento corresponda a los Tribunales Militares, Navales y Aeronáuticos;
 3°) Las causas sobre cuentas cuyo conocimiento corresponda a la Contraloría General de la República;
 4°) Las causas cuyo conocimiento corresponda a los Tribunales de Menores;
-5°) Derogado.
+5°) Las causas cuyo conocimiento corresponde a los juzgados de letras del trabajo.
 6°) Las causas cuyo conocimiento corresponda a los Alcaldes y a los Juzgados de Policía Local; y
 7°) Los demás asuntos judiciales del orden temporal que leyes especiales encomienden a otros tribunales.
 Las penas que la autoridad eclesiástica imponga en virtud de su jurisdicción espiritual no se entenderán que dejan de ser espirituales porque produzcan efectos temporales, como por ejemplo, la suspensión o privación de un beneficio eclesiástico, o de sus frutos.
@@ -900,7 +900,7 @@ En las ternas, no se podrán repetir nombres.
 Art. 220. Los secretarios de los tribunales colegiados, llevarán un libro público de integraciones y de asistencia al tribunal, en el que anotarán diariamente los nombres de los miembros que no hayan asistido, con expresión de la causa de esta inasistencia, y de los funcionarios o abogados que hayan sido llamados a integrar.
 De la integración deberá dejarse testimonio en el respectivo proceso.
 
-Art. 221. Los abogados que fueren llamados a integrar la Corte Suprema, las Cortes de Apelaciones y las Cortes del Trabajo, percibirán una remuneración equivalente a una treintava parte de aquella asignada al cargo de los Ministros del respectivo tribunal por cada audiencia a que concurran.
+Art. 221. Los abogados que fueren llamados a integrar la Corte Suprema y las Cortes de Apelaciones, percibirán una remuneración equivalente a una treintava parte de la remuneración mensual asignada al cargo de los ministros del respectivo tribunal, por cada audiencia a que concurran.
 Los funcionarios judiciales llamados a integrar las Cortes de Apelaciones no percibirán remuneración de ninguna naturaleza por este concepto.
 
 ## TITULO IX
@@ -2429,7 +2429,7 @@ Art. 593. Se estimará como presunción legal de pobreza la circunstancia de enc
 
 Art. 594. Si el litigante pobre obtuviere en el juicio, será obligado a destinar una décima parte del valor líquido que resultare a su favor para el pago de los honorarios y derechos causados, distribuyéndose esta suma a prorrata entre todos los interesados, si no alcanzaren a ser íntegramente cubiertos de lo que se les adeudare.
 
-Art. 595. Incumbe a los jueces de letras designar cada mes y por turno, entre los no exentos, un abogado que defienda gratuitamente las causas civiles, y otro que defienda las criminales de las personas que hubieren obtenido o debieren gozar el mencionado privilegio. Con todo, cuando las necesidades lo requieran y el número de los abogados en ejercicio lo permitan, la Corte de Apelaciones respectiva podrá disponer que los Jueces de Letras designen dos o más abogados de turno para la defensa de las causas civiles o criminales y la forma como éstas se distribuirán entre los abogados designados.
+Art. 595. Corresponde a los jueces de letras designar cada mes y por turno, entre los no exentos, un abogado que defienda gratuitamente las causas civiles, otro que defienda las causas del trabajo y un tercero que defienda las causas criminales de las personas que hubieren obtenido o debieran gozar del mencionado privilegio. Con todo, cuando las necesidades lo requieran, y el número de abogados en ejercicio lo permita, la Corte de Apelaciones respectiva podrá disponer que los jueces de letras designen dos o más abogados en cada turno, estableciendo la forma en que se deban distribuir las causas entre los abogados designados.
 En la misma forma y para los mismos fines harán los jueces de letras a quienes se refiere el inciso precedente, las correspondientes designaciones de procuradores y receptores.
 Cuando alguna persona que goce del privilegio de pobreza no pueda ser servida por los abogados, procuradores y receptores nombrados, el juez de letras podrá designar un abogado, un procurador o un receptor especial que la sirva.
 En los departamentos en donde hubiere dos o más jueces de letras, hará las designaciones generales prevenidas en los dos primeros incisos de este artículo, el más antiguo, y las especiales del inciso precedente el que conociere del negocio en que han de aplicarse.
