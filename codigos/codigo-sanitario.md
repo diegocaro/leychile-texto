@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2002-05-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2003-01-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2002-05-31
-fetched_at: 2026-08-03T01:18:31.890619+00:00
+version_date: 2003-01-08
+fetched_at: 2026-08-03T01:19:43.979312+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -167,6 +167,8 @@ Igualmente, son obligatorias las vacunaciones contra la difteria y la tos ferina
 En casos especiales, las personas podrán ser eximidas temporalmente de las vacunaciones exhibiendo un certificado médico que lo justifique, el que deberá ser visado por la autoridad sanitaria competente.
 
 Artículo 34°.- Toda persona mordida, rasguñada o que hubiere podido ser infectada por un animal enfermo o sospechoso de tener rabia, deberá someterse al tratamiento antirrábico que determine el Servicio Nacional de Salud. Dicho tratamiento estará a cargo de ese organismo, el que podrá disponer el examen y la internación obligatoria de las personas que se encuentren en esa situación.
+NOTA:
+Véase el Decreto 89, Salud, publicado el 08.01.2003, que contiene el Reglamento sobre Prevención de la Rabia en el Hombre y los Animales.
 
 Artículo 35°.- Un reglamento especial fijará los requisitos sanitarios que deben cumplir los ferrocarriles, naves, aeronaves o cualquier otro medio de transporte terrestre, fluvial, marítimo o aéreo, que pudiera diseminar enfermedades en el territorio de la República.
 
