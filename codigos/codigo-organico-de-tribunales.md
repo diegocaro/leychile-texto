@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2004-10-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2004-11-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2004-10-23
-fetched_at: 2026-08-03T01:26:45.608567+00:00
+version_date: 2004-11-18
+fetched_at: 2026-08-03T01:27:09.620470+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -931,7 +931,7 @@ Pero los intereses, frutos o daños debidos antes de la demanda se agregarán al
 
 Art. 130. Para el efecto de determinar la competencia se reputarán de mayor cuantía los negocios que versen sobre materias que no estén sujetas a una determinada apreciación pecuniaria. Tales son, por ejemplo:
 1°) Las cuestiones relativas al estado civil de las personas;
-2°) Las relativas a la separación de bienes entre marido y mujer, o a la crianza y cuidado de los hijos;
+2°) Las relacionadas con la separación judicial o de bienes entre marido y mujer, o con la crianza y cuidado de los hijos;
 3°) Las que versen sobre validez o nulidad de disposiciones testamentarias, sobre petición de herencia, o sobre apertura y protocolización de un testamento y demás relacionadas con la apertura de la sucesión; y
 4°) Las relativas al nombramiento de tutores y curadores, a la administración de estos funcionarios, a su responsabilidad, a sus excusas y a su remoción.
 
@@ -1297,6 +1297,7 @@ Art. 227. Deben resolverse por árbitros los asuntos siguientes:
 4°) Las diferencias que ocurrieren entre los socios de una sociedad anónima, o de una sociedad colectiva o en comandita comercial, o entre los asociados de una participación, en el caso del artículo 415 del Código de Comercio;
 5°) Los demás que determinen las leyes.
 Pueden, sin embargo, los interesados resolver por sí mismos estos negocios, si todos ellos tienen la libre disposición de sus bienes y concurren al acto, sin perjuicio de lo dispuesto en el artículo 802 del Código de Procedimiento Civil.
+Los interesados, de común acuerdo, pueden también solicitar al juez que conoce el procedimiento sobre la separación judicial, la declaración de nulidad del matrimonio o el divorcio, que liquide la sociedad conyugal o el régimen de participación en los gananciales que hubo entre los cónyuges.
 
 Art. 228. Fuera de los casos expresados en el artículo precedente, nadie puede ser obligado a someter al juicio de árbitros una contienda judicial.
 
