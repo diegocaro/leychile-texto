@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2001-06-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2001-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 2001-06-04
-fetched_at: 2026-08-03T01:14:30.728620+00:00
+version_date: 2001-06-05
+fetched_at: 2026-08-03T01:15:06.742394+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1357,7 +1357,7 @@ Art. 295. (317) El juez autorizará, en cuanto no se perjudique el éxito del su
 
 ##### 5. De las medidas que agravan la detención o la prisión
 
-Art. 296. (318) No se pondrán prisiones al detenido o preso, ni se adoptará contra él ninguna otra medida extraordinaria de seguridad, sino en los casos de desobediencia, violencia o rebelión, o cuando esta medida parezca necesaria para la seguridad de los demás detenidos o para evitar el suicidio o la evasión, intentados de alguna manera, o si, versando el proceso sobre delito que merezca pena de muerte, el juez lo estimare conveniente para asegurar la persona del procesado.
+Art. 296. (318) No se pondrán prisiones al detenido o preso, ni se adoptará contra él ninguna otra medida extraordinaria de seguridad, sino en los casos de desobediencia, violencia o rebelión, o cuando esta medida parezca necesaria para la seguridad de los demás detenidos o para evitar el suicidio o la evasión, intentados de alguna manera.
 
 Art. 297. (319) Sólo el juez de la causa podrá ordenar la medida indicada en el artículo precedente, o autorizar la que otro funcionario hubiere dictado antes de poner al detenido o preso a disposición del juez.
 En casos urgentes y conforme al reglamento de la casa, podrá el alcaide o el jefe del establecimiento, o la persona que haga sus veces, disponer que se pongan prisiones al detenido o preso por alguno de los motivos expresados en el artículo anterior; pero dará parte por escrito al juez de la causa en la primera audiencia, para que se pronuncie sobre dicha medida.
@@ -2216,7 +2216,7 @@ Art. 500. (528) La sentencia definitiva de primera instancia y la segunda que mo
 Art. 501. (529) En la sentencia definitiva, el que ha sido emplazado de la acusación debe ser siempre condenado o absuelto. De consiguiente, no puede dejarse en suspenso el pronunciamiento del tribunal, ni aun cuando la absolución haya de dictarse por insuficiencia de la prueba, salvo en los casos en que la ley permite el sobreseimiento respecto del acusado ausnte o demente.
 
 Art. 502. (530) Si la prueba con que se hubiere acreditado la culpabilidad del procesado consiste únicamente en presunciones, la sentencia las expondrá una a una.
-La pena de muerte no podrá imponerse en mérito de la sola prueba de presunciones; y el procesado o procesados contra quienes obrare dicha prueba, serán en ese caso condenados a la pena inmediatamente inferior.
+INCISO SUPRIMIDO
 
 Art. 503. (531) Las sentencias que condenen a penas temporales expresarán con toda precisión el día desde el cual empezarán éstas a contarse, y fijarán el tiempo de detención o prisión preventiva que deberá servir de abono a aquellos procesados que hubieren salido en libertad durante la instrucción del proceso.
 En las causas acumuladas y en las que habiendo sido objeto de desacumulación deban fallarse en la forma prevista en el artículo 160 del Código Orgánico de Tribunales, la detención o prisión preventiva que haya sufrido un procesado en cualquiera de las causas se tomará en consideración para el cómputo de la pena, aunque resulte absuelto o sobreseído respecto de uno o más delitos que motivaron la privación de libertad.
@@ -2306,7 +2306,7 @@ Evacuadas las diligencias con citación de las partes, el tribunal fallará la c
 Art. 526. (561) La causa será vista en el día designado, si hubiere tiempo y no se presenta algún inconveniente; y en cuanto a la relación, informes orales y acuerdo, se observarán las reglas dadas por el Código de Procedimiento Civil y por el Código Orgánico de Tribunales, en lo que no estén modificadas por el presente.
 Durante los alegatos la Corte, por intermedio de su presidente, podrá invitar a los abogados a que extiendan sus consideraciones a cualquier punto de hecho o de derecho comprendido en el proceso, pero esta invitación no constituirá una obligación para los defensores.
 El tribunal fallará inmediatamente o dentro de seis días; pero este plazo se ampliará hasta veinte días cuando uno o más de los jueces lo pidiere para estudiar mejor el asunto, de lo cual se pondrá testimonio en los autos.
-Sin embargo, cuando la sentencia de primera instancia contuviere una condena a muerte, el tribunal no podrá fallar la causa de inmediato, y deberá hacer una segunda deliberación no antes de tres días.
+INCISO SUPRIMIDO
 
 Art. 527. (562) El tribunal de alzada tomará en consideración y resolverá las cuestiones de hecho y las de derecho que sean pertinentes y se hallen comprendidas en la causa, aunque no haya recaído discusión sobre ellas ni las comprenda la sentencia de primera instancia.
 Si la sentencia de primera instancia omite considerar o resolver las acciones y excepciones civiles, el tribunal de alzada deberá resolverlas de oficio o a petición de parte.
@@ -2324,12 +2324,12 @@ Art. 529. (564) Cuando la sentencia de segunda instancia confirmare la de primer
 Art. 530. (565) Cuando un procesado fuere condenado por sentencia de primera instancia y absuelto por la de segunda, el tribunal hará comunicar sin demora el fallo absolutorio al juez a quo, a fin de que éste ponga inmediatamente en libertad al procesado; para lo cual podrá utilizar el telégrafo u otro medio de comunicación idóneo con las precauciones que garanticen la autenticidad de la comunicación.
 Lo mismo se observará cuando una sentencia de segunda instancia ponga término a la prisión de un individuo.
 
-Art. 531. (566) Cuando el tribunal de alzada pronunciare una condenación a muerte, procederá inmediatamente a deliberar sobre si el condenado parece digno de indulgencia y sobre qué pena proporcionada a su culpabilidad podría substituirse a la de muerte. El resultado de esta deliberación será consignado en un oficio que la Corte remitirá al Ministerio de Justicia, juntamente con una copia de las sentencias de primera y de segunda instancia. El Ministerio hará llegar los antecedentes al Presidente de la República, a fin de que resuelva si ha o no lugar a la conmutación de la pena o al indulto.
+Art. 531. (566) DEROGADO
 
 Art. 532. (567) Transcurrido el plazo legal para deducir el recurso de casación, sin que las partes lo hayan entablado y no tratándose de los casos de excepción que establecen los incisos siguientes, serán devueltos los autos al juez de primera instancia dentro de veinticuatro horas, para que se dé cumplimiento a la sentencia pronunciada.
 Si se hubiere deducido recurso de casación, y éste hubiere sido desechado por la Corte Suprema, o si este tribunal hubiere dado lugar a la casación en el fondo, la devolución de los autos se hará dentro de las veinticuatro horas siguientes a la última notificación del decreto que mandare cumplir la resolución de la Corte Suprema.
-Si la sentencia contiene alguna condenación a muerte, los autos serán devueltos dentro de las veinticuatro horas siguientes a aquella en que el tribunal reciba el oficio en que se le comunique la resolución del Presidente de la República. De dicha resolución se pondrá copia en el expediente.
-INCISO CUARTO.- DEROGADO.-
+INCISO SUPRIMIDO
+INCISO DEROGADO
 En todos estos casos se observarán para la devolución, en sentido inverso, los mismos trámites indicados en el 2° inciso del artículo 512.
 
 #### Título IX

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2001-06-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2001-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2001-06-04
-fetched_at: 2026-08-03T01:14:42.731982+00:00
+version_date: 2001-06-05
+fetched_at: 2026-08-03T01:15:12.745367+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -231,9 +231,7 @@ La decisión deberá ser adoptada por la mayoría de los miembros de la sala.
 Cuando existiere dispersión de votos en relación con una decisión, la sentencia o la determinación de la pena si aquélla fuere condenatoria, el juez que sostuviere la opinión más desfavorable al condenado deberá optar por alguna de las otras.
 Si se produjere desacuerdo acerca de cuál es la opinión que favorece más al imputado, prevalecerá la que cuente con el voto del juez presidente de la sala.
 
-Art. 20. El tribunal de juicio oral en lo penal podrá imponer la pena de muerte sólo si existe acuerdo unánime de todos los miembros de la sala. Cuando resulte simple mayoría, se aplicará la pena inmediatamente inferior en grado.
-Si el tribunal pronuncia una condena a muerte procederá, a continuación, a deliberar sobre si el condenado parece digno de indulgencia y sobre qué pena proporcionada a su culpabilidad podría sustituir a la de muerte. El resultado de esta deliberación será consignado en un oficio que el tribunal remitirá oportunamente al Ministerio de Justicia, junto con una copia de la sentencia definitiva.
-El Ministerio hará llegar los antecedentes al Presidente de la República a fin de que resuelva si ha o no lugar a la conmutación de pena o al indulto.
+Art. 20. Derogado.
 
 Art. 21. Existirá un tribunal de juicio oral en lo penal con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indican:
 Primera Región de Tarapacá:
@@ -802,7 +800,9 @@ Art. 96. Corresponde a la Corte Suprema en pleno:
 4° Ejercer las facultades administrativas, disciplinarias y económicas que las leyes le asignan, sin perjuicio de las que les correspondan a las salas en los asuntos de que estén conociendo, en conformidad a los artículos 542 y 543. En uso de tales facultades, podrá determinar la forma de funcionamiento de los tribunales y demás servicios judiciales, fijando los días y horas de trabajo en atención a las necesidades del servicio;
 5° Informar al Presidente de la República, cuando se solicite su dictamen, sobre cualquier punto relativo a la administración de justicia y sobre el cual no exista cuestión de que deba conocer;
 6° Informar las modificaciones que se propongan a la ley orgánica constitucional relativa a la Organización y Atribuciones de los Tribunales, de acuerdo a lo dispuesto en el artículo 74 de la Constitución Política;
-7° Conocer de todos los asuntos que leyes especiales le encomiendan expresamente.
+7° Conocer y resolver la concesión o revocación de la libertad condicional, en los casos en que se hubiere impuesto el presidio perpetuo calificado.
+La resolución, en este caso, deberá ser acordada por la mayoría de los miembros en ejercicio.
+8° Conocer de todos los asuntos que leyes especiales le encomiendan expresamente.
 Todos los autos acordados de carácter y aplicación general que dicte la Corte Suprema deberán ser publicados en el Diario Oficial.
 
 Art. 97. Las sentencias que dicte la Corte Suprema al fallar los recursos de casación de fondo y forma, de nulidad en materia penal, de queja, de protección y de amparo, así como la revisión de sentencias firmes, no son susceptibles de recurso alguno, salvo el de aclaración, rectificación y enmienda que establece el artículo 182 del Código de Procedimiento Civil.
@@ -838,6 +838,9 @@ El Presidente de la Corte Suprema dará cuenta en esta audiencia:
 Esta exposición será publicada en el Diario Oficial y en la Gaceta de los Tribunales.
 
 Art. 103. Es aplicable a la Corte Suprema lo dispuesto para los acuerdos de los tribunales de juicio oral en lo penal en los artículos 19 y 20, y de las Cortes de Apelaciones en los artículos 72, 74 y siguientes, hasta el 89 inclusive.
+NOTA
+NOTA
+El N° 4 del Art. 4° de la ley 19734, publicada el 05.06.2001, modificó el presente artículo en el sentido de suprimir la expresión "73 inciso segundo" y la coma (,) que le sigue. Sin embargo la frase referida no se encuentra en el texto vigente desde que fuera sustituido por el Art. 11 de la ley 19665, razón por la que la modificación indicada no se pudo efectuar.
 
 Art. 104. Dentro de las horas ordinarias de su funcionamiento y antes de la vista de las causas, el tribunal se ocupará con preferencia, según el orden que fije el Presidente, en los asuntos que deban resolverse en cuenta, en el estudio de proyectos de sentencias, y en el acuerdo de las mismas.
 
