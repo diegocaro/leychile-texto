@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1997-03-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1997-05-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1997-03-22
-fetched_at: 2026-08-03T01:02:51.966500+00:00
+version_date: 1997-05-13
+fetched_at: 2026-08-03T01:03:15.987703+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -533,11 +533,13 @@ Véase el Decreto 405, Salud, publicado el 20.02.1984, que aprueba el Reglamento
 ### TITULO III
 DE LOS PRODUCTOS ALIMENTICIOS
 
-Artículo 108°.- Se entenderá por alimentos
-NOTA
-o productos alimenticios cualquier substancia o mezcla de substancias destinadas al consumo humano, incluyendo las bebidas y todos los ingredientes y aditivos de dichas substancias.
-NOTA
-Véanse la LEY 4869, publicada el 04.08.1930, que autoriza al Presidente de la República para declarar obligatoria la pasteurización de la leche en las ciudades que determine y, entre otros, los decretos de Salud N° 18, D.O. 25.02.1976 y N° 181, D.O. de 20.08.1977, en que se hace obligatoria en las comunas que en ellos se señalan. Véase también la Resolución 1 exenta, publicada el 17.01.1986, que establece normas sanitarias para la pasteurización de la leche y productos lácteos.
+Artículo 108°.- Se entenderá por alimentos o productos alimenticios cualquier substancia o mezcla de substancias des
+NOTA 1:
+tinadas al consumo humano, incluyendo las bebidas y todos los ingredientes y aditivos de dichas substancias.
+NOTA:
+Véase el Decreto 977, Salud, publicado el 13.05.1997, que aprueba el Reglamento Sanitario de los Alimentos.
+NOTA 1:
+Véanse la LEY 4869, publicada el 04.08.1930, que autoriza al Presidente de la República para declarar obligatoria la pasteurización de la leche y, entre otros, los decretos de Salud N° 18, D.O. 25.02.1976 y N° 181, D.O. de 20.08.1977, en que se hace obligatoria en las comunas que en ellos se señalan. Véase también la Resolución 1 exenta, publicada el 17.01.1986, que establece normas sanitarias para la pasteurización de la leche y productos lácteos.
 
 Artículo 109°.- El reglamento determinará las características que deben reunir los alimentos o productos alimenticios destinados al consumo humano.
 
