@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1984-12-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1985-03-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1984-12-14
-fetched_at: 2026-08-03T00:40:16.422689+00:00
+version_date: 1985-03-12
+fetched_at: 2026-08-03T00:41:16.470148+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -553,7 +553,10 @@ DE LOS LABORATORIOS, FARMACIAS Y OTROS ESTABLECIMIENTOS
 Artículo 121°.- La fabricación y elaboración de productos farmacéuticos sólo se permitirá en las farmacias y laboratorios destinados a este objeto.
 
 Artículo 122°.- Ninguna farmacia, droguería o laboratorio de productos farmacéuticos podrá instalarse, funcionar o trasladarse sin autorización del Servicio Nacional de Salud.
+NOTA:
 Corresponderá a éste, asimismo, la fiscalización de dichos establecimientos.
+NOTA:
+Véase el Decreto 466, Salud, publicado el 12.03.1985, que contiene el Reglamento de Farmacias, Droguerías, Almacenes Farmacéuticos y Botiquines Autorizados.
 
 Artículo 123°.- La venta al público de los productos farmacéuticos para uso humano sólo podrá hacerse en las Farmacias, las que deberán ser dirigidas técnicamente por un Farmacéutico o Químico Farmacéutico.
 No obstante y en conformidad a las instrucciones que imparta el Ministerio de Salud, el Servicio Nacional de Salud podrá autorizar la instalación y funcionamiento de almacenes farmacéuticos. Estos almacenes sólo podrán expender los productos farmacéuticos y demás elementos que determine el reglamento.
