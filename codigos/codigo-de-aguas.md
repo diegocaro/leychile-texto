@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=1984-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=1984-12-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 1984-12-27
-fetched_at: 2026-08-03T00:40:34.431809+00:00
+version_date: 1984-12-29
+fetched_at: 2026-08-03T00:40:46.437826+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -575,6 +575,7 @@ ARTICULO 156°- Terminadas las obras, el interesado comunicará este hecho a la 
 Si las obras merecieran reparos, la Dirección General de Aguas ordenará que el interesado haga las modificaciones o las obras complementarias que determine dentro del plazo que fijará al efecto.
 
 ARTICULO 157°- Cumplidos todos los trámites y requisitos indicados en los artículos anteriores, la Dirección General de Aguas procederá a dictar la resolución de aprobación de las obras.
+Quedan exceptuados de cumplir con los trámites y requisitos establecidos en los artículos anteriores, los Servicios dependientes del Ministerio de Obras Públicas, los cuales deberán remitir los proyectos de obras a la Dirección General de Aguas, para su conocimiento, informe e inclusión en el Catastro Público de Aguas.
 
 ##### c. Del cambio de fuente de abastecimiento
 
@@ -613,7 +614,9 @@ ARTICULO 170°- Los gastos que irrogue a la Dirección General de Aguas la forma
 
 ##### f. De las modificaciones en cauces naturales o artificiales
 
-ARTICULO 171°- Las personas naturales o jurídicas que desearen efectuar las modificaciones a que se refiere el artículo 41° de este Código, presentarán los proyectos correspondientes a la Dirección General de Aguas, para su aprobación previa, aplicándose a la presentación del procedimiento previsto en el párrafo 1° de este Título.
+ARTICULO 171°- Las personas naturales o jurídicas que desearen efectuar las modificaciones a que se refiere el artículo 41 de este Código, presentarán los proyectos correspondientes a la Dirección General de Aguas, para su aprobación previa, aplicándose a la presentación el procedimiento previsto en el párrafo 1° de este Título.
+Cuando se trate de obras de regularización o defensa de cauces naturales, los proyectos respectivos deberán contar, además, con la aprobación del Departamento de Obras Fluviales del Ministerio de Obras Públicas.
+Quedan exceptuados de los trámites y requisitos establecidos en los incisos precedentes, los Servicios dependientes del Ministerio de Obras Públicas, los cuales deberán remitir los proyectos de las obras a la Dirección General de Aguas, para su conocimiento, informe e inclusión en el Catastro Público de Aguas.
 
 ARTICULO 172°- Si se realizare obras con infracción a lo dispuesto en el artículo anterior, la Dirección General de Aguas podrá apercibir al infractor, fijándole plazo perentorio para que modifique o destruya las obras que entorpezcan el libre escurrimiento de las aguas o signifiquen peligro para la vida o salud de los habitantes.
 Si el infractor no diere cumplimiento a lo ordenado, la Dirección podrá encomendar a terceros la ejecución de las obras necesarias por cuenta de los causantes del entorpecimiento o peligro. Tendrá mérito ejecutivo para su cobro la copia autorizada de la resolución del Director General de Aguas que fije el valor de las obras ejecutadas.
@@ -1068,7 +1071,12 @@ ARTICULO 293°- Si continuaren los errores, faltas o abusos denunciados, la Dire
 ### Título I
 DE LA CONSTRUCCION DE CIERTAS OBRAS HIDRÁULICAS
 
-ARTICULO 294°- La construcción de embalses de una capacidad superior a cincuenta mil metros cúbicos o cuyo muro tenga más de 5 metros de altura y los acueductos que conduzcan más de dos metros cúbicos por segundo, requerirán la aprobación previa del Director General de Aguas, de acuerdo al procedimiento de los artículos 130 y siguientes.
+ARTICULO 294°- Requerirán la aprobación del Director General de Aguas, de acuerdo al procedimiento indicado en el Título I del Libro Segundo, la construcción de las siguientes Obras:
+a) Los embalses de capacidad superior a cincuenta mil metros cúbicos o cuyo muro tenga más de 5m. de altura;
+b) Los acueductos que conduzcan más de dos metros cúbicos por segundo;
+c) Los acueductos que conduzcan más de medio metro cúbico por segundo, que se proyecten próximos a zonas urbanas, y cuya distancia al extremo más cercano del límite urbano sea inferior a un kilómetro y la cota de fondo sea superior a 10 metros sobre la cota de dicho límite, y
+d) Los sifones y canoas que crucen cauces naturales.
+Quedan exceptuados de cumplir los trámites y requisitos a que se refiere este artículo, los Servicios dependientes del Ministerio de Obras Públicas, los cuales deberán remitir los proyectos de obras a la Dirección General de Aguas, para su conocimiento, informe e inclusión en el Catastro Público de Aguas.
 
 ARTICULO 295°- La Dirección General de Aguas otorgará la autorización una vez aprobado el proyecto definitivo y siempre que haya comprobado que la obra no afectará la seguridad de terceros ni producirá la contaminación de las aguas.
 Un reglamento especial fijará las condiciones técnicas que deberán cumplirse en el proyecto, construcción y operación de dichas obras.
@@ -1076,22 +1084,23 @@ Un reglamento especial fijará las condiciones técnicas que deberán cumplirse 
 ARTICULO 296°- La Dirección General de Aguas supervisará la construcción de dichas obras, pudiendo en cualquier momento, adoptar las medidas tendientes a garantizar su fiel adaptación al proyecto autorizado.
 Las resoluciones que se dicten en conformidad a estas normas deberán ser fundadas y en contra de ellas procederán los recursos a que se refieren los artículos 136° y 137°, de este código, que en estos casos no suspenderán su cumplimiento.
 
-ARTICULO 297°- Los que construyan las obras de que trata este Título deberán constituir las garantías suficientes para caucionar el costo de una eventual demolición de la obra, si fuere abandonada durante la construcción.
-La garantía se constituirá a favor del Fisco y será devuelta una vez entregada la obra a sus usuarios.
+ARTICULO 297°- Los que construyan las obras de que trata este título deberán constituir las garantías suficientes para financiar el costo de su eventual modificación o demolición, para que no constituyan peligro, si fueren abandonadas durante su construcción.
+La garantía se constituirá a favor del Fisco y será devuelta una vez recibida la obra por la Dirección General de Aguas. En el caso de que sea abandonada durante su construcción, se restituirá el saldo de la garantía no aplicada a la ejecución de las obras de modificación o demolición. Para reiniciar las obras, deberá constituirse la garantía a que se refiere el inciso primero.
+El Director General de Aguas podrá eximir de la obligación de constituir las garantías a que se refiere este artículo, tratándose de obras que ejecuten los Servicios Públicos o las Empresas del Estado, siempre que en el proyecto respectivo se contemplen las medidas tendientes a asegurar que en el caso de una eventual paralización de las obras éstas no constituirán peligro.
 
 ### Título II
 DE LAS DIRECCIÓN GENERAL DE AGUAS
 
 ARTICULO 298°- La Dirección General de Aguas es un servicio dependiente del Ministerio de Obras Públicas. El Jefe Superior de este servicio se denominará Director General de Aguas y será de la exclusiva confianza del Presidente de la República.
 
-ARTICULO 299°- La Dirección General de Aguas tendrá las atribuciones y funciones que este código le confiere y, en especial, las siguientes:
+ARTICULO 299°- La Dirección General de Aguas tendrá las atribuciones y funciones que este código le confiere, y, en especial, las siguientes:
 a) Planificar el desarrollo del recurso en las fuentes naturales, con el fin de formular recomendaciones para su aprovechamiento;
 b) Investigar y medir el recurso. Para ello deberá:
 1. Mantener y operar el servicio hidrométrico nacional y proporcionar y publicar la información correspondiente.
 2. Encomendar a empresas u organismos especializados los estudios e informes técnicos que estime conveniente y la construcción, implementación y operación de las obras de medición e investigación que se requiera.
 3. Propender a la coordinación de los programas de investigación que corresponda a las entidades del sector público y a las privadas que realicen esos trabajos con financiamiento parcial del Estado.
 Para la realización de estas funciones la Dirección General de Aguas deberá constituir las servidumbres a que se refiere el artículo 107;
-c) Ejercer la policía y vigilancia de las aguas en los cauces naturales de uso público e impedir que en éstos se haga o destruyan obras sin la autorización correspondiente, y
+c) Ejercer la policía y vigilancia de las aguas en los cauces naturales de uso público e impedir que en éstos se construyan, modifiquen o destruyan obras sin la autorización del Servicio o autoridad a quien corresponda aprobar su construcción o autorizar su demolición o modificación, y
 d) Supervigilar el funcionamiento de las juntas de vigilancia, de acuerdo con lo dispuesto en este código.
 
 ARTICULO 300°- El Director General de Aguas tendrá los siguientes deberes y atribuciones:
