@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1992-08-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1993-08-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1992-08-13
-fetched_at: 2026-08-03T00:53:59.647353+00:00
+version_date: 1993-08-04
+fetched_at: 2026-08-03T00:56:05.085124+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -793,8 +793,9 @@ c) Las actuaciones del sumario no tendrán el carácter de secretas para el denu
 d) El Director de Impuestos Internos prestará declaración por medio de informe cuando lo requiera el Juez de la causa;
 e) Los informes contables emitidos por los funcionarios del Servicio de Impuestos Internos que realizaron la investigación administrativa del delito tributario, tendrán, para todos los efectos legales, el valor de informe de peritos.
 Las partes podrán designar, a su costa, peritos adjuntos en materias contables o de otra índole, los que deberán evacuar sus informes en el plazo de veinte días, pudiendo éste ser ampliado a veinte días más por una sola vez, a petición de los peritos y por resolución fundada del Juez de la causa. Transcurridos los plazos sin que se hayan evacuado los informes, quedará ipso facto sin efecto la designación del perito sin necesidad de requerimiento previo o resolución del Tribunal. Iguales normas se aplicarán respecto de los peritos que el Tribunal de oficio designe.
-f) Cuando proceda la excarcelación, el Juez fijará el monto de la fianza en una suma no inferior al 30% de los impuestos evadidos, reajustados en la forma prevista en el artículo 53, y de acuerdo a la estimación que de ellos se haga por el Servicio de Impuestos Internos. La excarcelación se otorgará y la fianza se rendirá de acuerdo a los incisos segundo y tercero del artículo 361 del Código de Procedimiento Penal, cualquiera que sea la pena asignada al delito.
+f) Cuando proceda la excarcelación, el Juez fijará el monto de la fianza. En los casos a que se refiere el inciso segundo del número 4° del artículo 97, la fijará en una suma no inferior al 30% de los impuestos evadidos, reajustados en la forma prevista en el artículo 53, y de acuerdo a la estimación que de ellos se haga por el Servicio de Impuestos Internos. La excarcelación se otorgará y la fianza se rendirá de acuerdo a los incisos segundo y tercero del artículo 361 del Código de Procedimiento Penal, cualquiera que sea la pena asignada al delito.
 Sin embargo, en los casos a que se refiere el inciso tercero del N° 4 del artículo 97, la excarcelación procederá de acuerdo con las reglas generales, pero se exigirá, además, caución y no se admitirá otra que no sea un depósito de dinero de un monto no inferior al de la devolución indebidamente obtenida, según los antecedentes que presente el Servicio de Impuestos Internos. Sobre este monto, el Tribunal fijará los reajustes e intereses que procedan;
+Al conceder el beneficio de la libertad provisional, el tribunal decretará simultáneamente el arraigo del procesado, hasta el término por sentencia firme del proceso incoado.
 g) Para los efectos previstos en los artículos 380 y siguientes del Código de Procedimiento Penal, corresponderá en primer término al querellante el señalamiento de los bienes sobre los cuales ha de recaer el embargo;
 h) La ratificación de los testigos del sumario solicitada por el querellado, será ordenada por el Juez sólo cuando lo estime necesario;
 i) Las apelaciones que se deduzcan por los querellados en los procesos por delitos tributarios se concederán en el solo efecto devolutivo, en la única excepción de la sentencia definitiva. Al concederse el recurso en un solo efecto deberán en todo caso enviarse compulsas al Tribunal de Alzada, no pudiendo remitirse, bajo ningún pretexto, el expediente original, a menos de ser requerido por dicho Tribunal para tenerlo a la vista en el fallo del recurso. Transcurrido el plazo de diez días desde la fecha de concesión del recurso sin que las compulsas hayan sido elevadas al tribunal de alzada, se tendrá al apelante por desistido del recurso y a firme la resolución recurrida.
