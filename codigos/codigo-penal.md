@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1982-05-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1983-05-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1982-05-19
-fetched_at: 2026-08-03T00:36:28.176402+00:00
+version_date: 1983-05-28
+fetched_at: 2026-08-03T00:37:52.262133+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -797,19 +797,23 @@ Si los golpes causaren al ofendido algunas de las lesiones a que se refiere el a
 Crímenes y simples delitos contra la libertad y seguridad, cometidos por particulares.
 
 ART. 141.
-El que sin derecho encerrare o detuviere a otro privándole de su libertad, será castigado con la pena de presidio o reclusión menores en cualquiera de sus grados.
+El que sin derecho encerrare o detuviere a otro privándole de su libertad, comete el delito de secuestro y será castigado con la pena de presidio o reclusión menores en cualquiera de sus grados.
 En la misma pena incurrirá el que proporcionare lugar para la ejecución del delito.
-Si el encierro o la detención se prolongare por más de noventa días, o si de ellos resultare un daño grave en la persona o intereses del encerrado o detenido, la pena será presidio mayor en cualquiera de sus grados.
+Si se ejecutare para obtener un rescate o imponer exigencias o arrancar decisiones será castigado con la pena de presidio mayor en su grado mínimo a medio.
+Si en cualesquiera de los casos anteriores, el encierro o la detención se prolongare por más de quince días o si de ello resultare un daño grave en la persona o intereses del secuestrado, la pena será presidio mayor en su grado medio a máximo.
+El que con motivo u ocasión del secuestro cometiere además homicidio, violación, o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido, será castigado con presidio mayor en su grado máximo a muerte.
 
 ART. 142.
-La sustracción de un menor de 10 años será castigada:
-1) Con presidio mayor en su grado máximo a presidio perpetuo en los siguientes casos:
-a) Si se ejecutare para obtener un rescate o si durante la sustracción se cometieren actos deshonestos con el menor, y
-b) Si a consecuencia de ella resultaren lesiones de las indicadas en el artículo 397, número 1.o, o la muerte del menor.
-2) Con presidio perpetuo o muerte si concurrieren a lo menos dos de las circunstancias señaladas en las letras a) y b) del número anterior.
-3) Con presidio mayor en cualquiera de sus grados en los demás casos.
-Si el sustraído fuere mayor de 10 años y menor de 18 años, la pena será presidio menor en su grado máximo; pero si concurriere cualquiera de las circunstancias prescritas en las letras a) y b) del N.o 1), se aumentará en dos grados.
-Si antes de iniciarse procedimiento judicial el raptor devolviere voluntariamente al menor sustraído, libre de todo daño a sus padres, guardadores, encargados de su persona o a la autoridad, podrá imponérsele una pena inferior en dos grados a las señaladas en este artículo.
+La substracción de un menor de diez años será castigada:
+1.- Con presidio mayor en su grado máximo a muerte:
+a) Si se ejecutare para obtener un rescate o imponer exigencias o arrancar decisiones o si durante la substracción se cometieren actos deshonestos con el menor, y
+b) Si a consecuencia de ella resultare homicidio, violación o o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido.
+2.- Con presidio mayor en cualesquiera de sus grados en los demás casos.
+La substracción de un mayor de diez años y menor de dieciocho, será castigada:
+1.- Con presidio mayor en su grado medio a máximo si se ejecutare para obtener un rescate, imponer exigencias, arrancar decisiones o si resultare un grave daño en la persona del menor;
+2.- Con presidio mayor en su grado máximo a muerte al que además, cometiere homicidio, violación, o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido, y
+3.- Con presidio menor en su grado máximo en los demás casos.
+Si antes de iniciarse el procedimiento judicial, el raptor devolviere voluntariamente al menor substraído libre de todo daño a sus padres, guardadores encargados de su persona o a la autoridad, podrá imponérsele una pena inferior en dos grados a las señaladas en este artículo.
 
 ART. 143.
 El que fuera de los casos permitidos por la ley, aprehendiere a una persona para presentarla a la autoridad, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a diez sueldos vitales.
