@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1984-08-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1984-09-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1984-08-23
-fetched_at: 2026-08-03T00:39:52.388521+00:00
+version_date: 1984-09-17
+fetched_at: 2026-08-03T00:39:58.396037+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -463,7 +463,11 @@ Estas mismas Unidades Técnicas informarán, de oficio o a petición del Servici
 Además, para la venta o distribución a cualquier título de los productos farmacéuticos y cosméticos autorizados, se requerirá que éstos sean registrados en el Servicio Nacional de Salud.
 Sin embargo, el Director General podrá autorizar provisionalmente, en casos calificados, la importación y venta, sin previo registro, de productos farmacéuticos para usos medicinales urgentes.
 
-Artículo 103°.- Un Reglamento determinará las normas de control de calidad a que estarán sujetos los productos farmacéuticos y cosméticos que se importen o fabriquen en el país. No obstante, todo laboratorio de producción deberá tener su propio sistema de control de calidad de sus productos a cargo de un farmacéutico o químico-farmacéutico.
+Artículo 103°.- Un reglamento determinará las normas de control de calidad a que estarán sujetos los productos farmacéuticos y cosméticos que se importen o fabriquen en el país. No obstante, todo laboratorio de producción deberá
+NOTA:
+tener su propio sistema de control de calidad de sus productos a cargo de un farmacéutico o químico-farmacéutico.
+NOTA:
+Véase el Decreto 189, Salud, publicado el 17.09.1984, que fija la Nómina de Principios Activos permitidos en Cosméticos Especiales.
 
 Artículo 104°.- La Oficina de Marcas Comerciales del Ministerio de Economía, Fomento y Reconstrucción, no podrá registrar e inscribir la marca de un producto farmacéutico o cosmético sin informe previo favorable de la Dirección General de Salud. Asimismo, deberá cancelar toda inscripción cuando lo solicite esa Dirección.
 
