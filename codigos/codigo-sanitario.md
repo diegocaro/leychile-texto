@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1968-01-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1968-02-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1968-01-31
-fetched_at: 2026-08-03T00:18:17.604571+00:00
+version_date: 1968-02-06
+fetched_at: 2026-08-03T00:18:29.614756+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -25,7 +25,7 @@ DISPOSICIONES GENERALES
 
 Artículo 1°.- El Código Sanitario rige todas las cuestiones relacionadas con el fomento, protección y recuperación de la salud de los habitantes de la República, salvo aquellas sometidas a otras leyes.
 
-Artículo 2°.- El Presidente de la República dictará previo informe del Director General, de Salud, los Reglamentos necesarios para la aplicación de las normas contenidas en el presente Código.
+Artículo 2°.- El Presidente de la República dictará, previo informe del Director General de Salud, los Reglamentos necesarios para la aplicación de las normas contenidas en el presente Código.
 
 Artículo 3°.- Corresponde al Servicio Nacional de Salud, sin perjuicio de las facultades del Ministerio de Salud Pública, atender todas las materias relacionadas con la salud pública y el bienestar higiénico del país, de conformidad con lo dispuesto en el inciso final del N° 14° del artículo 10° de la Constitución Política del Estado, este Código y su Ley Orgánica.
 
@@ -62,26 +62,26 @@ a) proveer a la limpieza y a las condiciones de seguridad de sitios públicos, d
 b) recolectar, transportar y eliminar por métodos adecuados, a juicio del Servicio Nacional de Salud, las basuras, residuos y desperdicios que se depositen o produzcan en la vía urbana;
 c) velar por el cumplimiento de las disposiciones que sobre higiene y seguridad se establecen en la Ordenanza General de Construcciones y Urbanización;
 d) reglamentar y controlar las condiciones de limpieza y conservación exterior de las casas-habitación, fábricas, edificios públicos, cuarteles, conventos, teatros y otros locales públicos y particulares;
-e) establecer plazas, parques o locales públicos de juego o recreo para adultos y niños, así como baños y servicios higiénicos públicos, y
+e) establecer plazas, parques o locales públicos de juego o recreo para adultos y niños, así como baños y servicios higiénicos públicos; y
 f) proveer a la limpieza y conservación de los canales, acequias y bebederos, considerando además las condiciones de seguridad necesarias para prevenir accidentes.
 
 Artículo 12°.- El Presidente de la República, por intermedio de los Ministerios del Interior y Salud Pública, y a propuesta del Director General de Salud, deberá, estableciendo servicios y obligaciones mínimas, reglamentar la forma cómo las Municipalidades ejercerán las funciones sanitarias que se les encomienden en la presente ley. Todo acto o reglamento municipal que esté en pugna con dichas normas sanitarias es nulo y esta nulidad será declarada por el Presidente de la República.
 
-Artículo 13°.- En caso de negligencia grave de una Municipalidad en el cumplimiento de sus obligaciones sanitarias específicas, sin perjuicio de lo establecido en el artículo 165°, el Presidente de la República podrá transferir por períodos que no excedan de dos años, el cumplimiento de tales obligaciones al Servicio Nacional de Salud, a costa de la Municipalidad respectiva, con acuerdo previo del Ministerio del Interior.
+Artículo 13°.- En caso de negligencia grave de una Municipalidad en el cumplimiento de sus obligaciones sanitarias específicas, sin perjuicio de lo establecido en el artículo 165°, el Presidente de la República podrá transferir, por períodos que no excedan de dos años, el cumplimiento de tales obligaciones al Servicio Nacional de Salud, a costa de la Municipalidad respectiva, con acuerdo previo del Ministerio del Interior.
 
 Artículo 14°.- Corresponderá al Servicio Nacional de Salud la supresión de cualquier factor que, originado en un territorio municipal, ponga en peligro la salud, seguridad o bienestar de la población de otro territorio municipal.
 
 Artículo 15°.- Las Municipalidades de la República no podrán otorgar patentes ni conceder permisos para el funcionamiento de locales o para el ejercicio de determinadas actividades que requieran de autorización del Servicio Nacional de Salud, sin que previamente se les acredite haberse dado cumplimiento a tal requisito.
 Las patentes o permisos concedidos por las Municipalidades con omisión del requisito establecido en el inciso precedente serán nulas y las Municipalidades que las hayan otorgado deberán proceder a cancelarlas.
-Sin perjuicio de lo anterior, el Servicio Nacional de Salud procederá sin más trámite a ordenar la paralización de la obra, clausura del establecimiento o la prohibición del ejercicio de la actividad o comercio según corresponda.
+Sin perjuicio de lo anterior, el Servicio Nacional de Salud procederá sin más trámite a ordenar la paralización de la obra, clausura del establecimiento o la prohibición del ejercicio de la actividad o comercio, según corresponda.
 
 ## LIBRO I
 DE LA PROTECCION Y PROMOCION DE LA SALUD
 
-### TITULO I
-DE LA PROTECCION MATERNO-INFANTIL
+### Título I
+DE LA PROTECCION MATERNO INFANTIL
 
-Artículo 16°.- Toda mujer, durante el embarazo y hasta el sexto mes del nacimiento del hijo, y el niño tendrán derecho a la protección y vigilancia del Estado por intermedio de las instituciones que correspondan.
+Artículo 16°.- Toda mujer, durante el embarazo y hasta el sexto mes del nacimiento del hijo, y el niño, tendrán derecho a la protección y vigilancia del Estado por intermedio de las instituciones que correspondan.
 La tuición del Estado comprenderá la higiene y asistencia social, tanto de la madre como del hijo.
 
 Artículo 17°.- La atención de la mujer y del niño durante los períodos a que se refiere el artículo anterior será gratuita para los indigentes en todos los establecimientos del Servicio Nacional de Salud, conforme lo determine el Reglamento.
@@ -111,8 +111,8 @@ Artículo 24°.- El Servicio Nacional de Salud podrá inspeccionar y visitar tod
 
 Artículo 25°.- Los Directores de los establecimientos educacionales estarán obligados a prohibir temporalmente la asistencia a clase de aquellos alumnos que a juicio de la autoridad sanitaria, presenten peligro de contagio de una enfermedad transmisible. Dicha exclusión cesará cuando el afectado acredite, por medio de certificación médica, no hallarse en estado contagioso.
 
-Artículo 26°.- Toda persona que hubiere estado en contacto con paciente de enfermedad transmisible, podrá ser sometida por la autoridad sanitaria a observación, aislamiento y demás medidas preventivas que fueran necesarias para evitar la propagación de la enfermedad.
-La habitación o local contaminado, será, en caso necesario, sometido por la autoridad sanitaria a cualquier procedimiento que permita proteger la salud de sus ocupantes.
+Artículo 26°.- Toda persona que hubiere estado en contacto con paciente de enfermedad transmisible, podrá ser sometida por la autoridad sanitaria a observación, aislamiento y demás medidas preventivas que fueren necesarias para evitar la propagación de la enfermedad.
+La habitación o local contaminado será, en caso necesario, sometido por la autoridad sanitaria a cualquier procedimiento que permita proteger la salud de sus ocupantes.
 
 Artículo 27°.- El Servicio Nacional de Salud determinará el período mínimo de aislamiento a que deben someterse los enfermos contagiosos, así como las restricciones a que se sujetarán las personas que sean portadoras de agentes patógenos o las que pudieren encontrarse en el período de incubación de enfermedades transmisibles.
 
@@ -138,7 +138,7 @@ Artículo 33°.- La vacunación y revacunación antivariólica son obligatorias 
 Igualmente, son obligatorias las vacunaciones contra la difteria y la tos ferina, dentro de las edades y en las condiciones que el Servicio Nacional de Salud determine.
 En casos especiales, las personas podrán ser eximidas temporalmente de las vacunaciones exhibiendo un certificado médico que lo justifique, el que deberá ser visado por la autoridad sanitaria competente.
 
-Artículo 34°.- Toda persona mordida, rasguñada o que hubiere podido ser infectada por un animal enfermo o sospechoso de tener rabia, deberá someterse al tratamiento antirrábico que determine el Servicio Nacional de Salud. Dicho tratamiento estará a cargo de ese organismo, el que podrá disponer el examen y la intervención obligatoria de las personas que se encuentren en esa situación.
+Artículo 34°.- Toda persona mordida, rasguñada o que hubiere podido ser infectada por un animal enfermo o sospechoso de tener rabia, deberá someterse al tratamiento antirrábico que determine el Servicio Nacional de Salud. Dicho tratamiento estará a cargo de ese organismo, el que podrá disponer el examen y la internación obligatoria de las personas que se encuentren en esa situación.
 
 Artículo 35°.- Un reglamento especial fijará los requisitos sanitarios que deben cumplir los ferrocarriles, naves, aeronaves o cualquier otro medio de transporte terrestre, fluvial, marítimo o aéreo, que pudiera diseminar enfermedades en el territorio de la República.
 
@@ -177,13 +177,13 @@ DE LAS ESTADISTICAS SANITARIAS
 
 Artículo 47°.- Sin perjuicio de las atribuciones de la Dirección de Estadística y Censo y del Consejo Nacional Consultivo de Salud, el Servicio Nacional de Salud tendrá a su cargo la recolección de aquellos datos estadísticos cuyo conocimiento tenga importancia para la protección, fomento y recuperación de la salud.
 
-Artículo 48°.- Los Oficiales del Registro Civil estarán obligados a proporcionar semanalmente a la autoridad local del Servicio Nacional de Salud, los datos necesarios para la clasificación y análisis estadístico de los nacidos vivos, fallecidos y de las defunciones fatales ocurridos en ese lapso.
+Artículo 48°.- Los Oficiales del Registro Civil estarán obligados a proporcionar semanalmente a la autoridad local del Servicio Nacional de Salud, los datos necesarios para la clasificación y análisis estadístico de los nacidos vivos, fallecidos y de las defunciones fetales ocurridos en ese lapso.
 
 Artículo 49°.- El Presidente de la República podrá establecer la notificación obligatoria a la autoridad Sanitaria, por las personas señaladas en el artículo 20°, de todas aquellas enfermedades no comprendidas en el Título II de este Libro, cuando dicha información sea necesaria para el Servicio Nacional de Salud.
 Cualquiera institución pública, privada o municipal estará obligada a suministrar, dentro del plazo que fije la autoridad sanitaria, los datos estadísticos que solicite el Servicio Nacional de Salud.
 
 Artículo 50°.- Los Oficiales del Registro Civil deberán dar a conocer de inmediato a la autoridad sanitaria local las defunciones causadas por enfermedades de declaración obligatoria y por aborto.
-Este aviso se remitirá por escrito inmediatamente después de practicada la inscripción y en él se expresarán el nombre, sexo, profesión u oficio, nacionalidad, estado civil, la fecha y último domicilio del difunto, así como el nombre y domicilio de la persona que haya solicitado la inscripción.
+Este aviso se remitirá por escrito inmediatamente después de practicada la inscripción y en él se expresarán el nombre, sexo, profesión u oficio, nacionalidad, estado civil, la fecha y lugar de la defunción, causa de ésta y el último domicilio del difunto, así como el nombre y domicilio de la persona que haya solicitado la inscripción.
 
 ### TITULO V
 DE LA DIVULGACION Y EDUCACION SANITARIA
@@ -337,6 +337,8 @@ a) las condiciones de higiene y seguridad que deben reunir los lugares de trabaj
 b) las medidas de protección sanitaria y de seguridad que deben adoptarse en la extracción, elaboración y manipulación de substancias producidas o utilizadas en los lugares en que se efectúe trabajo humano;
 c) las condiciones de higiene y seguridad que deben reunir los equipos de protección personal y la obligación de su uso, y
 d) las condiciones de seguridad que deben adoptarse en el uso de las radiaciones ionizantes, de los isótopos radioactivos y en la disposición de los residuos radioactivos.
+NOTA
+Véase el Decreto 655, Trabajo, publicado el 07.03.1941, que fija el Reglamento General de Higiene y Seguridad Industriales.
 
 Artículo 83°.- Las Municipalidades no podrán autorizar la instalación, ampliación o traslado de industrias, sin informe previo favorable del Servicio Nacional de Salud. Para evacuar dicho informe, la autoridad sanitaria tomará en cuenta los planos reguladores comunales o intercomunales y los peligros o molestias que el funcionamiento de la industria pueda ocasionar a sus obreros y empleados, al vecindario y a la comunidad o a sus bienes.
 
@@ -358,10 +360,14 @@ DE OTROS FACTORES DE RIESGO
 #### Párrafo I
 DE LA CONTAMINACION DEL AIRE Y DE LOS RUIDOS Y VIBRACIONES
 
-Artículo 89°.- El Reglamento comprenderá normas como las que se refieren a:
+Artículo 89°.- El Reglamento comprenderá normas como
+NOTA
+las que se refieren a:
 a) la conservación y pureza del aire y evitar en él la presencia de materias u olores que constituyan una amenaza para la salud, seguridad o bienestar del hombre o que tengan influencia desfavorable sobre el uso y goce de los bienes.
-La reglamentación determinará, además, los casos y condiciones en que podrá ser prohibida o controlada la emisión a la atmósfera de dichas substancias.
+La reglamentación determinará, además, los casos y condiciones en que podrá ser prohibida o controlada la emisión a la atmósfera de dichas substancias;
 b) la protección de la salud, seguridad y bienestar de los ocupantes de edificios o locales de cualquier naturaleza, del vecindario y de la población en general, así como la de los animales domésticos y de los bienes, contra los perjuicios, peligros e inconvenientes de carácter mental o material que provengan de la producción de ruidos, vibraciones o trepidaciones molestos, cualquiera que sea su origen.
+NOTA
+Véase el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza.
 
 #### Párrafo II
 DE LAS SUBSTANCIAS TOXICAS O PELIGROSAS PARA LA SALUD
@@ -424,19 +430,23 @@ Sin embargo, el Director General podrá autorizar provisionalmente, en casos cal
 
 Artículo 103°.- Un Reglamento determinará las normas de control de calidad a que estarán sujetos los productos farmacéuticos y cosméticos que se importen o fabriquen en el país. No obstante, todo laboratorio de producción deberá tener su propio sistema de control de calidad de sus productos.
 
-Artículo 104°.- La Oficina de Marcas Comerciales del Ministerio de Economía, Fomento y Reconstrucción, no podrá registrar o inscribir la marca de un producto farmacéutico o cosmético sin informe previo favorable de la Dirección General de Salud. Asimismo, deberá cancelar toda inscripción cuando lo solicite esa Dirección.
+Artículo 104°.- La Oficina de Marcas Comerciales del Ministerio de Economía, Fomento y Reconstrucción, no podrá registrar e inscribir la marca de un producto farmacéutico o cosmético sin informe previo favorable de la Dirección General de Salud. Asimismo, deberá cancelar toda inscripción cuando lo solicite esa Dirección.
 
 Artículo 105°.- El Ministerio de Salud Pública, previo informe de la Comisión a que se refiere el artículo 101°, aprobará la o las Farmacopeas que regirán en el país.
 
-Artículo 106°.- La fabricación, importación, transferencia, posesión, tenencia o consumo de narcóticos, estupefacientes, alucinógenos y demás substancias que produzcan efectos análogos se someterán a las disposiciones de un Reglamento especial, como asimismo, el tránsito en la República hacia países extranjeros de estas substancias, respetándose las obligaciones contraídas por el Estado en sus Convenios y Tratados Internacionales.
+Artículo 106°.- La fabricación, importación, transferencia, posesión, tenencia o consumo de narcóticos, estupefacientes, alucinógenos y demás substancias que produzcan efectos análogos, se someterán a las disposiciones de un Reglamento especial, como asimismo, el tránsito en la República hacia países extranjeros de estas substancias, respetándose las obligaciones contraídas por el Estado en sus Convenios y Tratados Internacionales.
 
 Artículo 107°.- Cuando lo requiera la debida protección de la salud pública, el Presidente de la República podrá, previo informe del Director General de Salud, aplicar las normas contenidas en el artículo anterior a medicamentos tales como estimulantes, sedativos, hipnóticos, tranquilizantes o ataráxicos.
 
 ### TITULO III
 DE LOS PRODUCTOS ALIMENTICIOS
 
-Artículo 108°.- Se entenderá por alimentos o productos alimenticios cualquier substancia o mezcla de substancias destinadas al consumo humano, incluyendo las bebidas y todos los ingredientes y aditivos de dichas substancias.
+Artículo 108°.- Se entenderá por alimentos o productos
+NOTA
+alimenticios cualquier substancia o mezcla de substancias destinadas al consumo humano, incluyendo las bebidas y todos los ingredientes y aditivos de dichas substancias.
 El Reglamento determinará las tolerancias técnicas admitidas que deberán satisfacer las materias primas destinadas a la elaboración de alimentos.
+NOTA
+Véase la LEY 4869, publicada el 04.08.1930, que autoriza al Presidente de la República para declarar obligatoria la pasteurización de la leche en las ciudades que determine.
 
 Artículo 109°.- El Reglamento determinará las características que deben reunir las bebidas alcohólicas y analcohólicas.
 
@@ -614,7 +624,7 @@ Artículo 166°.- En los casos en que la sanción consista en la cancelación de
 Artículo 167°.- Los auxilios en especie, tales como medicamentos, alimentos terapéuticos o suplementarios, que el Servicio Nacional de Salud entregue a la población en cumplimiento de sus programas, no podrán ser comercializados por quienes los reciben.
 Sin perjuicio de la sanción que corresponda al beneficiario que infringiere esta disposición, serán especialmente sancionados quienes adquieran el producto directamente de aquel o de un tercero, a cualquier título, y quienes, sin tener derecho a él, lo tengan en su poder.
 
-Artículo 168°.- El Director General de Salud podrá, cuando se trate de una primera infracción y aparecieran antecedentes que lo justifiquen, apercibir y amonestar al infractor, sin aplicar la multa y demás sanciones, exigiendo que se subsanen los defectos que dieron origen a la infracción del plazo que se señale.
+Artículo 168°.- El Director General de Salud podrá, cuando se trate de una primera infracción y aparecieren antecedentes que lo justifiquen, apercibir y amonestar al infractor, sin aplicar la multa y demás sanciones, exigiendo que se subsanen los defectos que dieron origen a la infracción, dentro del plazo que se señale.
 
 Artículo 169°.- La autoridad podrá también, como medida sanitaria, ordenar en casos justificados la clausura, prohibición de funcionamiento de casas, locales o establecimientos, paralización de faenas, decomiso, destrucción y desnaturalización de productos.
 Estas medidas podrán ser impuestas por el ministro de fe, con el solo mérito del acta levantada, cuando exista un riesgo inminente para la salud, de lo que deberá dar cuenta inmediata a su jefe directo. Copia del acta deberá ser entregada al interesado.
@@ -626,7 +636,7 @@ No obstante, el Servicio podrá dejar los mencionados objetos en poder de su due
 Las especies que atendida su naturaleza o el estado en que se encuentren no deban ser destruidas, ni sean útiles a la Institución y respecto de las cuales no se haya aplicado el inciso anterior, deberán subastarse por intermedio de la Dirección General del Crédito Prendario y de Martillo y su producido ingresará a fondos generales del Servicio Nacional de Salud.
 
 Artículo 172°.- Las especies decomisadas con ocasión de un delito contra la salud pública se destinarán también al Servicio Nacional de Salud, el que dispondrá de ellas en las mismas condiciones señaladas en el artículo anterior.
-Los estupefacientes incautados con ocasión de un proceso criminal que no puedan ser objeto de la sanción señalada en el artículo 31° del Código Penal, por haber terminado el respectivo proceso en sobreseimiento o sentencia absolutoria, se destinarán al Servicio Nacional de Salud, a menos que la persona en cuyo poder se encontró la especie, acredite su legítima adquisición con la correspondiente autorización para poseerla y usarla de acuerdo a este Código y sus reglamentos.
+Los estupefacientes incautados con ocasión de un proceso criminal que no puedan ser objeto de la sanción señalada en el artículo 31° del Código Penal, por haber terminado el respectivo proceso en sobreseimiento o sentencia absolutoria, se destinarán al Servicio Nacional de Salud, a menos que la persona en cuyo poder se encontró la especie acredite su legítima adquisición con la correspondiente autorización para poseerla y usarla de acuerdo a este Código y sus reglamentos.
 
 Artículo 173°.- Derógase el decreto con fuerza de ley 226, de 15 de Mayo de 1931 y sus modificaciones posteriores.
 Los reglamentos preexistentes que versen sobre las materias que en este Código se tratan quedan derogados sólo en la parte que le fueren contrarios.
