@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1985-03-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1985-04-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1985-03-13
-fetched_at: 2026-08-03T00:41:22.475291+00:00
+version_date: 1985-04-25
+fetched_at: 2026-08-03T00:41:40.485890+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -389,7 +389,7 @@ NOTA:
 Los incisos 2° y 3° del Art. 67 de la LEY 18302, publicada el 02.05.1984, sobre Seguridad Nuclear, complementan esta disposición estableciendo que: "corresponderá a los Servicios de Salud, conforme a las disposiciones del Código Sanitario, la autorización y el control de la aplicación y el manejo de las sustancias radiactivas en instalaciones radiactivas o en equipos generadores de radiaciones ionizantes, y la prevención de los riesgos derivados de su uso y manipulación.
 Sin embargo, competerá a la Comisión Chilena de Energía Nuclear la autorización, el control y la prevención de riesgos respecto de las instalaciones radiactivas que se encuentren dentro de una instalación nuclear, y de las que, conforme al reglamento, sean declaradas de primera categoría."
 NOTA 1:
-Véase el Decreto 133, Salud, publicado el 23.08.1984, que establece el Reglamento sobre Autorizaciones para Instalaciones Radiactivas, personal que se desempeña en ellas y otras actividades afines.
+Véanse el Decreto 133, Salud, publicado el 23.08.1984, que establece el Reglamento sobre Autorizaciones para Instalaciones Radiactivas, personal que se desempeña en ellas y otras actividades afines; y el Decreto 3, Salud, publicado el 25.04.1985, que aprueba el Reglamento para la Protección Radiológica de Instalaciones Radioactivas.
 
 Artículo 87°.- El Servicio Nacional de Salud tendrá a su cargo la recopilación y análisis de los datos estadísticos referentes a los accidentes y enfermedades profesionales, los que le deberán ser proporcionados por el empleador, en la forma y con la periodicidad que él señale.
 Las enfermedades profesionales serán notificadas por el médico que las constate, en la forma y condiciones que el Servicio Nacional de Salud establezca.
