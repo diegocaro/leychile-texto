@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1976-07-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1976-08-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1976-07-29
-fetched_at: 2026-08-03T00:27:15.919364+00:00
+version_date: 1976-08-01
+fetched_at: 2026-08-03T00:27:21.924505+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -258,7 +258,7 @@ En todo caso, los recibos o vales otorgados por Tesorería en virtud de los art�
 ###### Párrafo 2°
 Reajustes e Intereses moratorios
 
-Artículo 53.- Todo impuesto o contribución que no se pague dentro del plazo legal se reajustará en el mismo porcentaje de aumento que haya experimentado el índice de precios al consumidor en el período comprendido entre el segundo mes que precede al de su vencimiento y el segundo mes que precede al de su pago.
+Artículo 53.- Todo impuesto o contribución que no se pague dentro del plazo legal se reajustará en el mismo porcentaje de aumento que haya experimentado el índice de precios al consumidor en el período comprendido entre el último día del segundo mes que precede al de su vencimiento y el último día del segundo mes que precede al de su pago.
 Los impuestos que sean pagados durante el mes calendario en que se incurrió en mora no serán objeto de reajuste.
 El contribuyente estará afecto, además, a un interés penal del uno y medio por ciento mensual por cada mes o fracción de mes, en caso de mora en el pago del todo o de la parte que adeudare de cualquier clase de impuestos y contribuciones. Este interés se calculará sobre los valores reajustados en la forma señalada en el inciso primero.
 El monto de los intereses así determinados, no estará afecto a ningún recargo.
