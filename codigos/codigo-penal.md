@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2003-01-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2003-05-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2003-01-04
-fetched_at: 2026-08-03T01:19:37.977027+00:00
+version_date: 2003-05-13
+fetched_at: 2026-08-03T01:20:58.899404+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1953,8 +1953,9 @@ Si los delitos previstos en los dos párrafos anteriores hubieren sido cometidos
 Exceptúanse los casos en que el delito sea de aquellos que la ley describe y pena expresando las circunstancias de usarse fuerza o intimidación, abusarse de una relación de dependencia de la víctima o abusarse de autoridad o confianza.
 
 ART. 369.
-No puede procederse por causa de los delitos previstos en los artículos 361 a 366 quater, sin que a lo menos se haya denunciado el hecho a la justicia, al ministerio público o a la policía por la persona ofendida, por sus padres, abuelos o guardadores, o por quien la tuviere bajo su cuidado.
-Si la persona ofendida, a causa de su edad o estado mental, no pudiere hacer por sí misma la denuncia, ni tuviere padres, abuelos, guardadores o persona encargada de su cuidado, o si, teniéndolos, estuvieren imposibilitados o implicados en el delito, la denuncia podrá ser efectuada por los educadores, médicos u otras personas que tomen conocimiento del hecho en razón de su actividad, o podrá procederse de oficio por el ministerio público, quien estará facultado también para deducir las acciones civiles a que se refiere el artículo 370.
+No se puede proceder por causa de los delitos previstos en los artículos 361 a 366 quáter, sin que, a lo menos, se haya denunciado el hecho a la justicia, al Ministerio Público o a la policía por la persona ofendida o por su representante legal.
+Si la persona ofendida no pudiere libremente hacer por sí misma la denuncia, ni tuviere representante legal, o si, teniéndolo, estuviere imposibilitado o implicado en el delito, podrá procederse de oficio por el Ministerio Público, que también estará facultado para deducir las acciones civiles a que se refiere el artículo 370. Sin perjuicio de lo anterior, cualquier persona que tome conocimiento del hecho podrá denunciarlo.
+Con todo, tratándose de víctimas menores de edad, se estará a lo dispuesto en el inciso segundo del artículo 53 del Código Procesal Penal.
 En caso de que un cónyuge o conviviente cometiere alguno de los delitos previstos en los artículos 361 y 366 Nº1 en contra de aquél con quien hace vida en común, se aplicarán las siguientes reglas:
 1ª Si sólo concurriere alguna de las circunstancias de los numerandos 2º ó 3º del artículo 361, no se dará curso al procedimiento o se dictará sobreseimiento definitivo, a menos que la imposición o ejecución de la pena fuere necesaria en atención a la gravedad de la ofensa infligida.
 2ª Cualquiera sea la circunstancia bajo la cual se perpetre el delito, a requerimiento del ofendido se pondrá término al procedimiento, a menos que el juez no lo acepte por motivos fundados.

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2002-06-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2003-05-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 2002-06-11
-fetched_at: 2026-08-03T01:18:43.898199+00:00
+version_date: 2003-05-13
+fetched_at: 2026-08-03T01:20:46.890368+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -104,7 +104,7 @@ PROCESO PENAL.
 Art. 10. (30) Se concede acción penal para impetrar la averiguación de todo hecho punible y sancionar, en su caso, el delito que resulte probado. En el proceso penal podrán deducirse también, con arreglo a las prescripciones de este Código, las acciones civiles que tengan por objeto reparar los efectos civiles del hecho punible, como son, entre otras, las que persigan la restitución de la cosa o su valor, o la indemnización de los perjucios causados.
 En consecuencia, podrán intentarse ante el juez que conozca del proceso penal las acciones civiles que persigan la reparación de los efectos patrimoniales que las conductas de los procesados por sí mismas hayan causado o que puedan atribuírseles como consecuencias próximas o directas, de modo que el fundamento de la respectiva acción civil obligue a juzgar las mismas conductas que constituyen el hecho punible objeto del proceso penal.
 
-Art. 11. (31) La acción penal es pública o privada. La primera se ejercita a nombre de la sociedad para obtener el castigo de todo delito que deba perseguirse de oficio; la segunda sólo puede ejercitarse por la parte agraviada.
+Art. 11. (31) La acción penal es pública o privada. La primera se ejercita a nombre de la sociedad para obtener el castigo de todo delito que deba perseguirse de oficio; la segunda sólo puede ejercitarse por la parte agraviada. Se concede siempre acción penal pública para la persecución de los delitos previstos en los artículos 361 a 366 quáter del Código Penal, cometidos contra menores de edad.
 
 Artículo 12.- Cuando se ejercite sólo la acción civil respecto de un hecho punible que no puede perseguirse de oficio, se considerará extinguida por ese hecho la acción penal.
 
