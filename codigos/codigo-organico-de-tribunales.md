@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1954-09-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1954-11-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1954-09-25
-fetched_at: 2026-08-03T00:12:55.568565+00:00
+version_date: 1954-11-03
+fetched_at: 2026-08-03T00:13:07.585530+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -684,6 +684,7 @@ Art. 159. Si el reo hubiere cometido en varios departamentos delitos de distinta
 Si los delitos se cometen en un departamento en que existan dos o más Juzgados de igual jurisdicción, será competente para conocer de los procesos que se deban acumular de acuerdo con el artículo siguiente, el juez que conozca del proceso más antiguo.
 
 Art. 160. El culpable de diversos delitos será juzgado por todos ellos en un solo proceso, para lo cual se acumularán las causas iniciadas o por iniciarse en su contra; y las personas que en ellas figuren como reos quedarán sometidas a la jurisdicción del tribunal a quien corresponda conocer en los procesos acumulados.
+Sin perjuicio de la regla anterior, el juez podrá dictar por medio de un auto motivado, la desacumulación de los procesos o su substanciación por cuerda separada, cuanto éstos tengan una tramitación diferente o plazos especiales para su tramitación. Los procesos separados seguirán tramitándose ante el mismo juez que conocía de ellos acumulados y al fallarlos deberá considerar las sentencias que hayan sido dictadas con anterioridad en estos procesos.
 
 Art. 161. Si un mismo reo tuviere procesos pendientes por faltas y por crímenes o simples delitos, el juez de letras de mayor cuantía será el solo competente para conocer de todos ellos.
 
