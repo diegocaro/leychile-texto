@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1924-01-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1934-12-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1924-01-02
-fetched_at: 2026-08-03T00:03:48.975167+00:00
+version_date: 1934-12-19
+fetched_at: 2026-08-03T00:05:49.254051+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -44,7 +44,17 @@ Art. 8° No es comerciante el que ejecuta accidentalmente un acto de comercio; p
 
 Art. 10. Cuando los hijos de familia y los menores que administran su peculio profesional en virtud de la autorización que les confieren los artículos 246 y 439 del Código Civil ejecutaren algún acto de comercio, quedarán obligados hasta concurrencia de su peculio y sometidos a las leyes de comercio.
 
+Art. 12 Derogado.
+
+Art. 13. Derogado.
+
 Art. 14. La mujer casada no será considerada como comerciante si no hace un comercio separado del de su marido.
+
+Art. 15. Derogado.
+
+Art. 17. Derogado.
+
+Art. 18. El menor comerciante puede comparecer en juicio por sí solo en todas las cuestiones relativas a su comercio.
 
 Art. 19. Los contratos celebrados por personas a quienes esté prohibido por las leyes el ejercicio del comercio, no producen acción contra el contratante capaz; pero confieren a éste derecho para demandar a su elección la nulidad o cumplimiento de ellos, a menos que se pruebe que ha procedido de mala fe.
 
