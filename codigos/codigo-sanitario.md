@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1994-12-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1995-07-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1994-12-09
-fetched_at: 2026-08-03T00:58:44.488056+00:00
+version_date: 1995-07-19
+fetched_at: 2026-08-03T01:00:20.553728+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -345,8 +345,12 @@ La referencia al Libro IX original del Código Sanitario debe entenderse hecha a
 Artículo 74°.- No se podrá ejecutar labores mineras en sitios donde se han alumbrado aguas subterráneas en terrenos particulares ni en aquellos lugares cuya explotación pueda afectar el caudal o la calidad natural del agua, sin previa autorización del Servicio Nacional de Salud, el que fijará las condiciones de seguridad y el área de protección de la fuente o caudal correspondiente.
 El Servicio Nacional de Salud podrá ordenar en todo caso la paralización de las obras o faenas cuando ellas puedan afectar el caudal o la calidad del agua.
 
-Artículo 75°.- Prohíbese usar las aguas de alcantarillado, desagües, acequias u otras aguas declaradas contaminadas por la autoridad sanitaria, para la crianza de moluscos y cultivos de vegetales y frutos que suelen ser consumidas sin cocer y crecen a ras de la tierra.
-No obstante, estas aguas se podrán usar en el riego agrícola, cuando se obtenga la autorización correspondiente del Servicio Nacional de Salud, quien determinará el grado de tratamiento, de depuración o desinfección que sea necesario para cada tipo de cultivo.
+Artículo 75°.- Prohíbese usar las aguas de alcantarillado,
+NOTA:
+desagües, acequias u otras aguas declaradas contaminadas por la autoridad sanitaria, para la crianza de moluscos y cultivos de vegetales y frutos que suelen ser consumidas sin cocer y crecen a ras de la tierra.
+No obstante, estas aguas se podrán usar en el riego agrícola cuando se obtenga la autorización correspondiente del Servicio Nacional de Salud, quien determinará el grado de tratamiento, de depuración o desinfección que sea necesario para cada tipo de cultivo.
+NOTA:
+El Decreto 1775, Salud, publicado el 19.07.1995, estableció normas para la aplicación del presente artículo.
 
 Artículo 76°.- Corresponderá a la autoridad sanitaria autorizar la instalación, ampliación y modificación de los balnearios, baños y piscinas destinados al uso público, como asimismo, vigilar su funcionamiento.
 
