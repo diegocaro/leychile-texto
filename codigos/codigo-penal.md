@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2001-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2002-05-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2001-06-05
-fetched_at: 2026-08-03T01:15:18.749728+00:00
+version_date: 2002-05-24
+fetched_at: 2026-08-03T01:17:42.043477+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1156,7 +1156,7 @@ ART. 207.
 El que diere falso testimonio en contra del reo, sufrirá las penas de presidio mayor en su grado mínimo y multa de veintiuna a veinticinco unidades tributarias mensuales, si la causa fuere por crimen; de presidio menor en su grado máximo y multa de once a veinte unidades tributarias mensuales, si fuere por simple delito, y de presidio menor en su grado medio y multa de seis a diez unidades tributarias mensuales e inhabilitación absoluta perpetua para derechos políticos y por el tiempo de la condena para cargos y oficios públicos, cuando fuere por falta.
 
 ART. 208.
-Si en virtud del falso testimonio se hubiere impuesto al acusado una pena respectivamente mayor que las determinadas en el artículo precedente, se aplicará la misma al testigo falso; salvo el caso de ser la de muerte, que se reemplazará por el presidio perpetuo.
+Si en virtud del falso testimonio se hubiere impuesto al acusado una pena respectivamente mayor que las determinadas en el artículo precedente, se aplicará la misma al testigo falso.
 
 ART. 209.
 El falso testimonio en causa civil, será castigado con presidio menor en su grado medio y multa de once a veinte unidades tributarias mensuales.
