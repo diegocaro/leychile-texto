@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1999-11-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1999-11-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 1999-11-04
-fetched_at: 2026-08-05T02:29:58.355439+00:00
+version_date: 1999-11-05
+fetched_at: 2026-08-05T02:30:04.360476+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -247,9 +247,9 @@ Artículo 26.- El Presidente de la República será elegido en votación directa
 Si a la elección de Presidente de la República se presentaren más de dos candidatos y ninguno de ellos obtuviere más de la mitad de los sufragios válidamente emitidos, se procederá a una segunda votación que se circunscribirá a los candidatos que hayan obtenido las dos más altas mayorías relativas y en ella resultará electo aquel de los candidatos que obtenga el mayor número de sufragios. Esta nueva votación se verificará, en la forma que determine la ley, el trigésimo día después de efectuada la primera, si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente al referido trigésimo día.
 Para los efectos de lo dispuesto en los dos incisos precedentes, los votos en blanco y los nulos se considerarán como no emitidos.
 
-Artículo 27.- El proceso de calificación de la elección presidencial deberá quedar concluido dentro de los cuarenta días siguientes a la primera elección o de los veinticinco días siguientes a la segunda.
+Artículo 27.- El proceso de calificación de la elección presidencial deberá quedar concluido dentro de los quince días siguientes a la primera o segunda votación, según corresponda.
 El Tribunal Calificador de Elecciones comunicará de inmediato al Presidente del Senado la proclamación de Presidente electo que haya efectuado.
-El Congreso Pleno, reunido en sesión pública noventa días después de la primera o única elección y con los miembros que asistan, tomará conocimiento de la resolución en virtud de la cual el Tribunal Calificador proclama al Presidente electo.
+El Congreso Pleno, reunido en sesión pública noventa días después de la primera o única votación y con los miembros que asistan, tomará conocimiento de la resolución en virtud de la cual el Tribunal Calificador proclama al Presidente electo.
 En este mismo acto, el Presidente electo prestará ante el Presidente del Senado, juramento o promesa de desempeñar fielmente el cargo de Presidente de la República, conservar la independencia de la Nación, guardar y hacer guardar la Constitución y las leyes, y de inmediato asumirá sus funciones.
 
 Artículo 28.- Si el Presidente electo se hallare impedido para tomar posesión del cargo, asumirá, mientras tanto, con el título de Vicepresidente de la República, el Presidente del Senado; a falta de éste, el Presidente de la Corte Suprema, y a falta de éste, el Presidente de la Cámara de Diputados.
@@ -677,13 +677,16 @@ Justicia Electoral
 
 Artículo 84.- Un tribunal especial, que se denominará Tribunal Calificador de Elecciones, conocerá del escrutinio general y de la calificación de las elecciones de Presidente de la República, de diputados y senadores; resolverá las reclamaciones a que dieren lugar y proclamará a los que resulten elegidos. Dicho Tribunal conocerá, asimismo, de los plebiscitos, y tendrá las demás atribuciones que determine la ley.
 Estará constituido por cinco miembros designados en la siguiente forma:
-a) Tres ministros o ex ministros de la Corte Suprema, elegidos por ésta en votaciones sucesivas y secretas, por la mayoría absoluta de sus miembros;
-b) Un abogado elegido por la Corte Suprema en la forma señalada precedentemente y que reúna los requisitos que señala el inciso segundo del artículo 81;
-c) Un ex presidente del Senado o de la Cámara de Diputados que haya ejercido el cargo por un lapso no inferior a tres años, el que será elegido por sorteo.
-Las designaciones a que se refieren las letras b) y c) no podrán recaer en personas que sean parlamentario, candidato a cargos de elección popular, ministro de Estado, ni dirigente de partido político.
+a) Cuatro ministros de la Corte Suprema, designados por ésta, mediante sorteo, en la forma y oportunidad que
+NOTA:
+determine la ley orgánica constitucional respectiva, y b) Un ciudadano que hubiere ejercido el cargo de Presidente o Vicepresidente de la Cámara de Diputados o del Senado por un período no inferior a los 365 días, designado por la Corte Suprema en la forma señalada en la letra a) precedente, de entre todos aquellos que reúnan las calidades indicadas.
+Las designaciones a que se refiere la letra b) no podrán recaer en personas que sean parlamentario, candidato a cargos de elección popular, ministro de Estado, ni dirigente de partido político.
+NOTA:
 Los miembros de este tribunal durarán cuatro años en sus funciones y les serán aplicables las disposiciones de los artículo 55 y 56 de esta Constitución.
 El Tribunal Calificador procederá como jurado en la apreciación de los hechos y sentenciará con arreglo a derecho.
 Una ley orgánica constitucional regulará la organización y funcionamiento del Tribunal Calificador.
+NOTA:
+El Art. transitorio de la LEY 19643, publicada el 05.11.1999, dispone que las modificaciones introducidas a este artículo, regirán a partir del 31 de enero del año 2000.
 
 Artículo 85.- Habrá tribunales electorales regionales encargados de conocer el escrutinio general y la calificación de las elecciones que la ley les encomiende, así como de resolver las reclamaciones a que dieren lugar y de proclamar a los candidatos electos. Sus resoluciones serán apelables para ante el Tribunal Calificador de Elecciones en la forma que determine la ley. Asimismo, les corresponderá conocer de la calificación de las elecciones de carácter gremial y de las que tengan lugar en aquellos grupos intermedios que la ley señale.
 Estos tribunales estarán constituidos por un ministro de la Corte de Apelaciones respectiva, elegido por ésta, y por dos miembros designados por el Tribunal Calificador de Elecciones de entre personas que hayan ejercido la profesión de abogado o desempeñado la función de ministro o abogado integrante de Corte de Apelaciones por un plazo no inferior a tres años.
