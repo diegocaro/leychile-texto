@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1999-07-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1999-09-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1999-07-12
-fetched_at: 2026-08-03T01:08:40.634808+00:00
+version_date: 1999-09-17
+fetched_at: 2026-08-03T01:08:46.638203+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1809,18 +1809,17 @@ ART. 360. Derogado.
 De la violación.
 
 ART. 361.
-La violación de una mujer será castigada con la pena de presidio menor en su grado máximo a presidio mayor en su grado medio.
-Se comete violación yaciendo con la mujer en alguno de los casos siguientes:
-1.º Cuando se usa de fuerza o intimidación.
-2.° Cuando la mujer se halla privada de razón o de sentido por cualquier causa.
-3.° Cuando sea menor de doce años cumplidos aun cuando no concurra ninguna de las circunstancias expresadas en los dos números anteriores.
-En el caso del número 3º del inciso anterior, la pena será presidio mayor en su grado medio a máximo.
+La violación será castigada con la pena de presidio menor en su grado máximo a presidio mayor en su grado medio.
+Comete violación el que accede carnalmente, por vía vaginal, anal o bucal, a una persona mayor de doce años, en alguno de los casos siguientes:
+1º Cuando se usa de fuerza o intimidación.
+2º Cuando la víctima se halla privada de sentido, o cuando se aprovecha su incapacidad para oponer resistencia.
+3º Cuando se abusa de la enajenación o trastorno mental de la víctima.
 
 ART. 362.
 El que accediere carnalmente, por vía vaginal, anal o bucal, a una persona menor de doce años, será castigado con presidio mayor en cualquiera de sus grados, aunque no concurra circunstancia alguna de las enumeradas en el artículo anterior.
 
 #### § VI.
-Del estupro, incesto, corrupción de menores y otros actos deshonestos.
+Del estupro y otros delitos sexuales.
 
 ART. 363.
 Será castigado con reclusión menor en sus grados medio a máximo, el que accediere carnalmente, por vía vaginal, anal o bucal, a una persona menor de edad pero mayor de doce años, concurriendo cualquiera de las circunstancias siguientes:
@@ -1865,25 +1864,24 @@ No obstante, se impondrán las penas señaladas en el artículo anterior en los 
 6.- Si existe habitualidad en la conducta del agente.
 
 #### § VII.
-Disposiciones comunes a los tres párrafos anteriores.
+Disposiciones comunes a los dos párrafos anteriores.
 
 ART. 368.
 Si los delitos previstos en los dos párrafos anteriores hubieren sido cometidos por autoridad pública, ministro de un culto religioso, guardador, maestro, empleado o encargado por cualquier título o causa de la educación, guarda, curación o cuidado del ofendido, se impondrá al responsable la pena señalada al delito con exclusión de su grado mínimo, si ella consta de dos o más grados, o de su mitad inferior, si la pena es un grado de una divisible.
 Exceptúanse los casos en que el delito sea de aquellos que la ley describe y pena expresando las circunstancias de usarse fuerza o intimidación, abusarse de una relación de dependencia de la víctima o abusarse de autoridad o confianza.
 
 ART. 369.
-No puede procederse por causa de estupro sino a instancia de la agraviada o de sus padres, abuelos o guardadores.
-Para proceder en las causas de violación y de rapto se necesita, a lo menos, la denuncia hecha a la justicia por la persona interesada, por sus padres, abuelos o guardadores, aunque no formalicen instancia. Si la persona agraviada, a causa de su edad o estado moral, no pudiere hacer por sí misma la acusación o denuncia, ni tuviere padres, abuelos o guardadores, o teniéndolos se hallaren imposibilitados o complicados en el delito, podrá el ministerio público entablar la acusación.
-En todo caso se suspende el procedimiento o se remite la pena casándose el ofensor con la ofendida.
-No produce estos efectos la proposición de matrimonio desechada por la ofendida, por la persona que debe prestar su consentimiento para el acto o por el juez en su caso, o cuando no pueda verificarse el matrimonio por impedimento legal.
+No puede procederse por causa de los delitos previstos en los artículos 361 a 366 quater, sin que a lo menos se haya denunciado el hecho a la justicia, al ministerio público o a la policía por la persona ofendida, por sus padres, abuelos o guardadores, o por quien la tuviere bajo su cuidado.
+Si la persona ofendida, a causa de su edad o estado mental, no pudiere hacer por sí misma la denuncia, ni tuviere padres, abuelos, guardadores o persona encargada de su cuidado, o si, teniéndolos, estuvieren imposibilitados o implicados en el delito, la denuncia podrá ser efectuada por los educadores, médicos u otras personas que tomen conocimiento del hecho en razón de su actividad, o podrá procederse de oficio por el ministerio público, quien estará facultado también para deducir las acciones civiles a que se refiere el artículo 370.
+En caso de que un cónyuge o conviviente cometiere alguno de los delitos previstos en los artículos 361 y 366 Nº1 en contra de aquél con quien hace vida en común, se aplicarán las siguientes reglas:
+1ª Si sólo concurriere alguna de las circunstancias de los numerandos 2º ó 3º del artículo 361, no se dará curso al procedimiento o se dictará sobreseimiento definitivo, a menos que la imposición o ejecución de la pena fuere necesaria en atención a la gravedad de la ofensa infligida.
+2ª Cualquiera sea la circunstancia bajo la cual se perpetre el delito, a requerimiento del ofendido se pondrá término al procedimiento, a menos que el juez no lo acepte por motivos fundados.
 
 ART. 369 bis.
 En los procesos por los delitos a que se refieren los dos párrafos anteriores, el juez apreciará la prueba conforme con las reglas de la sana crítica.
 
 ART. 370.
-Los procesados por violación, estupro o rapto serán también condenados por vía de indemnización:
-1.° A dotar a la ofendida si fuere soltera o viuda.
-2.° A dar alimentos congruos a la prole que, según las reglas legales, fuere suya.
+Además de la indemnización que corresponda conforme a las reglas generales, el condenado por los delitos previstos en los artículos 361 a 366 bis será obligado a dar alimentos cuando proceda de acuerdo a las normas del Código Civil.
 
 ART. 370 bis.
 El que fuere condenado por alguno de los delitos a que se refieren los dos párrafos anteriores cometido en la persona de un menor del que sea pariente, quedará privado de la patria potestad si la tuviere o inhabilitado para obtenerla si no la tuviere y, además, de todos los derechos que por el ministerio de la ley se le confirieren respecto de la persona y bienes del ofendido, de sus ascendientes y descendientes. El juez así lo declarará en la sentencia, decretará la emancipación del menor si correspondiere, y ordenará dejar constancia de ello mediante subinscripción practicada al margen de la inscripción de nacimiento del menor.
@@ -1900,6 +1898,9 @@ ART. 372 BIS.
 El que con ocasión de violación cometiere además homicidio en la persona de la víctima, será castigado con presidio mayor en su grado máximo a presidio perpetuo.
 El que con ocasión de violación por vía vaginal si la víctima fuere mujer o por vía anal si fuere hombre, cometiere además el homicidio del ofendido será castigado con la pena de presidio perpetuo a muerte.
 
+ART. 372 TER.
+En los delitos establecidos en los dos párrafos anteriores, el juez podrá en cualquier momento, a petición de parte, o de oficio por razones fundadas, disponer las medidas de protección del ofendido y su familia que estime convenientes, tales como la sujeción del implicado a la vigilancia de una persona o institución determinada, las que informarán periódicamente al tribunal; la prohibición de visitar el domicilio, el lugar de trabajo o el establecimiento educacional del ofendido; la prohibición de aproximarse al ofendido o a su familia, y, en su caso, la obligación de abandonar el hogar que compartiere con aquél.
+
 #### § VIII.
 De los ultrajes públicos a las buenas costumbres.
 
@@ -1910,8 +1911,7 @@ ART. 374.
 El que vendiere, distribuyere o exhibiere canciones, folletos u otros escritos, impresos o no, figuras o estampas contrarios a las buenas costumbres, será condenado a las penas de reclusión menor en su grado mínimo o multa de once a veinte unidades tributarias mensuales.
 En las mismas penas incurrirá el autor del manuscrito, de la figura o de la estampa o el que los hubiere reproducido por un procedimiento cualquiera que no sea la imprenta.
 
-#### § IX.
-Del adulterio. Derogado.
+#### § IX. Del incesto.
 
 ART. 375.
 El que, conociendo las relaciones que lo ligan, cometiere incesto con un ascendiente o descendiente por consanguinidad o con un hermano consanguíneo, será castigado con reclusión menor en sus grados mínimo a medio.
