@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1995-01-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1999-10-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1995-01-30
-fetched_at: 2026-08-03T00:59:14.492359+00:00
+version_date: 1999-10-22
+fetched_at: 2026-08-03T01:09:04.645544+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -239,6 +239,7 @@ Tratándose de personal de Carabineros su designación se hará, en cualquier ca
 Art. 45. Derogado.
 
 Art. 46. Los Secretarios tendrán las facultades y atribuciones que se señalan en los artículos 380 y 475 inciso 1° del Código Orgánico de Tribunales.
+Los Secretarios de Juzgados, además, tendrán las atribuciones y responsabilidades señaladas en los números 1º, letras a) y c); 2º, 3º y 4º del artículo 455, e inciso primero del artículo 456, ambos del Código Orgánico de Tribunales, respecto de los procesos afinados y sobre los libros y documentos que existan en los tribunales regidos por este Código. Tratándose de documentos secretos, se aplicará lo establecido en el artículo 144 bis de este Código.
 
 Art. 47. Las Auditorías Generales tendrán un Secretario que deberá ser un Oficial de Justicia o un abogado que preste sus servicios en la Institución respectiva.
 
