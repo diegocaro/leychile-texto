@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1982-03-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1982-10-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1982-03-26
-fetched_at: 2026-08-03T00:36:10.154149+00:00
+version_date: 1982-10-28
+fetched_at: 2026-08-03T00:36:58.201315+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -897,7 +897,7 @@ Ni el Fiscal de la Tesorería General ni los Abogados Provinciales estarán obli
 
 Artículo 187°.- Para inhabilitar a los recaudadores fiscales será necesario expresar y probar alguna de las causales de implicancia o recusación de los jueces, en cuanto les sean aplicables.
 
-Artículo 188°.- Los juicios por cobro de impuestos morosos podrán tramitarse independientemente de la quiebra cuando así lo haya solicitado el respectivo Abogado Provincial.
+Artículo 188.- Derogado.
 
 Artículo 189°.- Consignado el precio del remate y en el plazo de quince días, se dará conocimiento de la subasta a los jueces que hayan decretado embargo o prohibiciones de los mismos bienes.
 En estos casos el saldo que resulte después de pagadas las contribuciones y los acreedores hipotecarios, quedará depositado a la orden del juez de la causa para responder a dichos embargos y prohibiciones quien decretará su cancelación en virtud de lo dispuesto en el inciso anterior.
