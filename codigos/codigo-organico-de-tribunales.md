@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1991-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1991-09-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1991-03-01
-fetched_at: 2026-08-03T00:51:46.766763+00:00
+version_date: 1991-09-25
+fetched_at: 2026-08-03T00:51:52.772584+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -253,8 +253,8 @@ Tres juzgados con asiento en la comuna de Puerto Montt, con jurisdicción sobre 
 Dos juzgados con asiento en la comuna de Puerto Varas, con jurisdicción sobre las comunas de Puerto Varas, Llanquihue, Frutillar y Fresia;
 Un juzgado con asiento en la comuna de Calbuco, con jurisdicción sobre la misma comuna;
 Un juzgado con asiento en la comuna de Maullín, con jurisdicción sobre la comuna de Maullín y Los Muermos;
-Un juzgado con asiento en la comuna de Castro, con jurisdicción sobre las comunas de Castro, Chonchi, Puqueldón, Queilén y Quellón;
-Un juzgado con asiento en la comuna de Ancud, con jurisdicción sobre las comunas de Ancud, Quemchi y Dalcahue. Este tribunal mantendrá su carácter de juzgado de capital de provincia, para todos los efectos legales y sin perjuicio de la calidad de juzgado de capital de provincia que corresponde al juzgado de Castro;
+Un juzgado con asiento en la comuna de Castro, con jurisdicción sobre las comunas de Castro, Chonchi, Dalcahue, Puqueldón, Queilén y Quellón;
+Un juzgado con asiento en la comuna de Ancud, con jurisdicción sobre las comunas de Ancud y Quemchi. Este tribunal mantendrá su carácter de juzgado de capital de provincia, para todos los efectos legales, sin perjuicio de la calidad de juzgado de capital de provincia que corresponde al juzgado de Castro;
 Un juzgado con asiento en la comuna de Quinchao, con jurisdicción sobre las comunas de Quinchao y Curaco de Vélez, y
 Un juzgado con asiento en la comuna de Chaitén, con jurisdicción sobre las comunas de Chaitén, Futaleufú y Palena.
 
@@ -279,7 +279,7 @@ Once juzgados del crimen con jurisdicción sobre las comunas de San Miguel, San 
 C.- JUZGADOS CON COMPETENCIA COMUN:
 Dos juzgados con asiento en la comuna de Puente Alto, con jurisdicción sobre todas las comunas de la provincia Cordillera;
 Dos juzgados con asiento en la comuna de San Bernardo, con jurisdicción sobre las comunas de San Bernardo y Calera de Tango;
-Un juzgado con asiento en la comuna de Talagante, con jurisdicción sobre las comunas de la provincia de Talagante;
+Dos juzgados con asiento en la comuna de Talagante, con jurisdicción sobre las comunas de la provincia de Talagante;
 Dos juzgados con asiento en la comuna de Melipilla, con jurisdicción sobre las comunas de la provincia de Melipilla, con excepción de Curacaví, y
 Un juzgado con asiento en la comuna de Buin, con jurisdicción sobre las comunas de Buin y Paine.
 
