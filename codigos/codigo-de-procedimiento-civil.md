@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1997-01-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1997-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1997-01-31
-fetched_at: 2026-08-03T01:02:33.945700+00:00
+version_date: 1997-08-30
+fetched_at: 2026-08-03T01:04:10.001236+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1680,13 +1680,12 @@ conformidad a la Ley Orgánica del Banco del Estado de Chile y en las condicione
 7° Las sumas que se paguen a los empresarios de obras públicas durante la ejecución de los trabajos. Esta disposición no tendrá efecto respecto de lo que se adeude a los artífices u obreros por sus salarios insolutos y de los créditos de los proveedores en razón de los materiales u otros artículos suministrados para la construcción de dichas obras;
 8° El bien raíz que el deudor ocupa con su familia, siempre que no tenga un avalúo fiscal superior a diez
 NOTA: 33
-suedos vitales mensuales, escala a), del departamento de Santiago; los muebles de dormitorio, de comedor y de cocina de uso familiar y la ropa necesaria para el abrigo del deudor, su cónyuge y los hijos que viven a sus expensas.
+suedos vitales mensuales, escala a), del departamento de Santiago o se trate de una vivienda de emergencia, y sus ampliaciones, a que se refiere el artículo 5° del decreto ley N°2552, de 1979; los muebles de dormitorio, de comedor y de cocina de uso familiar y la ropa necesaria para el abrigo del deudor, su cónyuge y los hijos que viven a sus expensas.
 La inembargabilidad establecida en el inciso precedente no regirá para los bienes raíces respecto de los juicios en que sean parte el Fisco, Las Cajas de Previsión y demás organismos regidos por la ley del Ministerio de la Vivienda y Urbanismo;
 9° Los libros relativos a la profesión del deudor hasta el valor de $632.089 y a elección del mismo deudor;
 10° Las máquinas e instrumentos de que se sirve el deudor para la enseñanza de alguna ciencia o arte, hasta dicho valor y sujetos a la misma elección;
 11° Los uniformes y equipos de los militares, según su arma y grado;
-12° Los objetos indispensables al ejercicio personal del arte u oficio de los artistas, artesanos y obreros de fábrica; y los aperos, animales de labor y material
-de cultivo necesarios al labrador o trabajador de campo para la explotación agrícola, hasta la suma de $632.089 y a elección del mismo deudor;
+12° Los objetos indispensables al ejercicio personal del arte u oficio de los artistas, artesanos y obreros de fábrica; y los aperos, animales de labor y material de cultivo necesarios al labrador o trabajador de campo para la explotación agrícola, hasta la suma de $632.089 y a elección del mismo deudor;
 13°. Los utensilios caseros y de cocina, y los artículos de alimento y combustible que existan en poder del deudor, hasta concurrencia de lo necesario para el consumo de la familia durante un mes;
 14°. La propiedad de los objetos que el deudor posee fiduciariamente;
 15°. Los derechos cuyo ejercicio es enteramente personal, como los de uso y habitación;
