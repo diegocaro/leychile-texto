@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1997-05-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1997-08-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1997-05-13
-fetched_at: 2026-08-03T01:03:15.987703+00:00
+version_date: 1997-08-26
+fetched_at: 2026-08-03T01:04:04.000187+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -191,8 +191,9 @@ Las clausuras realizadas por el Cuerpo de Carabineros no podrán ser alzadas sin
 DE LOS LABORATORIOS DE SALUD PUBLICA
 
 Artículo 42°.- El Servicio Nacional de Salud establecerá en los puntos del territorio de la República que sea necesario, los laboratorios indispensables para realizar los análisis e investigaciones que se estimen apropiadas para proteger y mantener la salud pública.
-NOTA
-Véase el Capítulo IV, Arts. 35 a 45, del Decreto Ley 2763, Salud, publicado el 03.08.1979, que crea el Instituto de Salud Pública de Chile "Dr. Eugenio Suárez Herreros", como continuador legal, con todos sus derechos y obligaciones, del ex Servicio Nacional de Salud, en lo referente al ex Instituto Bacteriológico de Chile.
+NOTA:
+Véase el Capítulo IV, Arts. 35 a 45, del Decreto Ley 2763, Salud, que crea el Instituto de Salud Pública de Chile "Dr. Eugenio Suárez Herreros", como continuador legal, con todos sus derechos y obligaciones, del ex Servicio Nacional de Salud, en lo referente al ex Instituto Bacteriológico de Chile.
+El Reglamento del Instituto de Salud Publica está contenido en el Decreto 1222, Salud, publicado el 26.08.1997.
 
 Artículo 43°.- El Instituto Bacteriológico será el Laboratorio Central del Servicio Nacional de Salud y prestará ayuda técnica, asesoramiento y supervigilancia a todos los demás laboratorios de dicho Servicio distribuidos en el país.
 Los Servicios de Salud otorgarán su reconocimiento como laboratorios de salud pública a todos aquellos laboratorios que cumplan los requisitos que para este efecto determinará el reglamento.
