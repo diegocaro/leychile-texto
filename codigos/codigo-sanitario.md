@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1994-12-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1994-12-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1994-12-03
-fetched_at: 2026-08-03T00:58:38.487885+00:00
+version_date: 1994-12-09
+fetched_at: 2026-08-03T00:58:44.488056+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -622,7 +622,7 @@ La dirección técnica de los establecimientos señalados en el inciso primero, 
 NOTA:
 Véase el Decreto 161, Salud, publicado el 19.11.1982, que establece el Reglamento de Hospitales y Clínicas Privadas.
 NOTA 1:
-Véase el Decreto 334, Salud, publicado el 27.10.1983, que aprueba el Reglamento de Casas de Reposo, Asilos y otros Establecimientos Similares.
+Véanse los Decretos 334, Salud, publicado el 27.10.1983, que aprueba el Reglamento de Casas de Reposo, Asilos y otros Establecimientos Similares; y Decreto 2601, Salud, publicado el 09.12.1994, sobre Establecimientos de Larga Estadía para Adultos Mayores.
 NOTA 2:
 Véase el Decreto 433, Salud, publicado el 22.09.1993, sobre Laboratorios Clínicos.
 
