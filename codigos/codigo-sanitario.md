@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1997-08-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1997-12-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1997-08-26
-fetched_at: 2026-08-03T01:04:04.000187+00:00
+version_date: 1997-12-16
+fetched_at: 2026-08-03T01:05:44.595246+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -514,7 +514,9 @@ Artículo 105°.- El Ministerio de Salud aprobará la o las farmacopeas que regi
 NOTA:
 Véase el Decreto 192, Salud, publicado el 18.08.1977, que establece el orden de precedencia de los textos oficiales sobre farmacopea y sus suplementos, que regirán en el país.
 
-Artículo 106°.- Requerirán del registro previo a que se se refiere el inciso primero del artículo 102, la fabricación, importación, internación, distribución, transferencia, posesión o tenencia de productos
+Artículo 106°.- Requerirán del registro previo a que se se refiere el inciso primero del artículo 102, la fabricación, importación, internación, distribución, transferencia, posesión o tenencia de producto
+NOTA:
+s
 NOTA:
 estupefacientes, psicotrópicos y demás sustancias que produzcan efectos análogos, los que, incluido su consumo, se someterán a las disposiciones de un
 NOTA 1:
@@ -559,15 +561,12 @@ Artículo 112°.- Sólo podrán desempeñar actividades propias de la medicina, 
 Asimismo, podrán ejercer profesiones auxiliares de las referidas en el inciso anterior quienes cuenten con autorización del Director General de Salud. Un Reglamento determinará las profesiones auxiliares y la forma y condiciones en que se concederá dicha autorización, la que será permanente, a menos que el Director General de Salud, por resolución fundada, disponga su cancelación.
 No obstante lo dispuesto en el inciso primero, con la autorización del Director General de Salud podrán desempeñarse como médicos, dentistas, químico-farmacéuticos o matronas en barcos, islas o lugares apartados, aquellas personas que acreditaren título profesional otorgado en el extranjero.
 
-Artículo 113°.- Se considera ejercicio ilegal
-NOTA
-de la profesión de médico-cirujano todo acto realizado con el propósito de formular diagnóstico, pronóstico o tratamiento en pacientes o consultantes, en forma
-NOTA
-directa o indirecta, por personas que no están legalmente autorizadas para el ejercicio de la medicina.
-Los servicios profesionales del psicólogo comprenden la aplicación de principios y procedimientos psicológicos que tienen por finalidad asistir, aconsejar o hacer psicoterapia a las personas con el propósito de promover el óptimo desarrollo potencial de su personalidad o corregir sus alteraciones o desajustes. Cuando estos profesionales presten sus servicios a personas que estén mentalmente enfermas, deberán poner de inmediato este hecho en conocimiento de un médico especialista y podrán colaborar con éste en la atención del enfermo.
+Artículo 113°.- Se considera ejercicio ilegal de la profesión de médico-cirujano todo acto realizado con el propósito de formular diagnóstico, pronóstico o tratamiento en pacientes o consultantes, en forma directa o indirecta, por personas que no están legalmente autorizadas para el ejercicio de la medicina.
 No obstante lo dispuesto en el inciso anterior, quienes cumplan funciones de colaboración médica, podrán realizar algunas de las actividades señaladas, siempre que medie indicación y supervigilancia médica. Asimismo, podrán atender enfermos en caso de accidentes súbitos o en situaciones de extrema urgencia cuando no hay médico-cirujano alguno en la localidad o habiéndolo, no sea posible su asistencia profesional.
-NOTA
-Véanse los artículos 313 a, 313 b y 313 c del Código Penal agregados por la Ley N° 17.155, publicada el 11.06.1969.
+Los servicios profesionales del psicólogo comprenden la aplicación de principios y procedimientos psicológicos que tienen por finalidad asistir, aconsejar o hacer psicoterapia a las personas con el propósito de promover el óptimo desarrollo potencial de su personalidad o corregir sus alteraciones o desajustes. Cuando estos profesionales presten sus servicios a personas que estén mentalmente enfermas, deberán poner de inmediato este hecho en conocimiento de un médico especialista y podrán colaborar con éste en la atención del enfermo.
+Los servicios profesionales de la enfermera comprenden la gestión del cuidado en lo relativo a promoción, mantención y restauración de la salud, la prevención de enfermedades o lesiones, y la ejecución de acciones derivadas del diagnóstico y tratamiento médico y el deber de velar por la mejor administración de los recursos de asistencia para el paciente.
+NOTA:
+Véanse los artículos 313 a, 313 b y 313 c del Código Penal, agregados por la Ley N° 17.155.
 
 Artículo 114°.- Prohíbese a una misma persona ejercer conjuntamente las profesiones de médico-cirujano y las de farmacéutico, químico-farmacéutico o bío-químico.
 
@@ -579,9 +578,9 @@ podrán ejercer sus actividades a indicación de cirujano-dentistas, quedándole
 NOTA
 Véase el Decreto 1967, Salud, publicado el 29.08.1997, que establece el Reglamento de Laboristas dentales y de laboratorios dentales.
 
-Artículo 117°.- El ejercicio de la profesión de matrona comprenderá la atención del embarazo, parto o puerperio normales.
+Artículo 117°.- Los servicios profesionales de la matrona comprenden la atención del embarazo, parto y puerperio normales y la atención del recién nacido, como, asimismo, actividades relacionadas con la lactancia materna, la planificación familiar y la ejecución de acciones derivadas del diagnóstico y tratamiento médico y el deber de velar por la mejor administración de los recursos de asistencia para el paciente.
 En la asistencia de partos, sólo podrán intervenir mediante maniobras en que se apliquen técnicas manuales y practicar aquellas curaciones que signifiquen atención inmediata de la parturienta.
-Podrán usar y prescribir sólo aquellos medicamentos que el Reglamento clasifique como necesarios para la atención de partos normales.
+Podrán usar y prescribir sólo aquellos medicamentos que el reglamento clasifique como necesarios para la atención de partos normales.
 
 Artículo 118°.- Los consultorios de matronas podrán ser destinados al control de la evolución del embarazo y quedarán incluidas en la reglamentación sobre maternidades particulares.
 
