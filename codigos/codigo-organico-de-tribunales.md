@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1988-10-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1989-02-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1988-10-17
-fetched_at: 2026-08-03T00:45:34.400765+00:00
+version_date: 1989-02-16
+fetched_at: 2026-08-03T00:46:22.441634+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -291,7 +291,7 @@ Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a 
 5.- La Corte de Apelaciones de Valparaíso tendrá once miembros;
 6.- La Corte de Apelaciones de Santiago tendrá veinticinco miembros.
 
-Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán dos años contados desde el 1°. de Enero del año en que se inicie el período respectivo y serán desempeñados por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
+Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado del 1° de marzo y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
 Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón.
 
 Art. 58. Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá seis Fiscales; las Cortes de Apelaciones de Valparaíso y Presidente Aguirre Cerda tendrán tres Fiscales; las Cortes de Apelaciones de Concepción y Temuco tendrán dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal, como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
@@ -308,11 +308,10 @@ Art. 60. Cada Corte de Apelaciones tendrá un secretario.
 La Corte de Apelaciones de Santiago tendrá tres secretarios. El tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
 
 Art. 61. Las Cortes de Presidente Aguirre Cerda, Valparaíso y Concepción se dividirán en tres salas de tres miembros cada una, con excepción de la primera, que tendrá cuatro miembros.
-Inciso derogado.
 La Corte de Santiago se dividirá en siete salas de tres miembros cada una, excepto la primera, la segunda y la tercera, que se compondrá de cuatro ministros. En caso de funcionamiento extraordinario en ocho salas, la octava sala será integrada por un ministro de cada una de las salas primera, segunda y tercera, designados por sorteo.
 La Corte de Apelaciones de Temuco se dividirá en dos salas compuesta la primera por cuatro y la segunda por tres ministros.
 Cada sala representa a la Corte en los asuntos de que conoce.
-La designación de los ministros que correspondan a cada sala se hará por sorteo anual.
+La designación de los ministros que correspondan a cada sala se hará por sorteo anual, la que regirá a contar del 1° de marzo de cada año.
 Para la constitución de las salas de las Cortes de Apelaciones de Valparaíso y Santiago, se sortearán los miembros del tribunal, con excepción de su presidente, para quien la integración de salas será facultativa.
 El ministro a quien corresponda la presidencia de la Corte no entrará al sorteo y por derecho propio integrará la Primera Sala.
 
@@ -446,7 +445,7 @@ La Corte Suprema
 ### § 1. Su organización y atribuciones
 
 Art. 93. La Corte Suprema se compondrá de diecisiete miembros, uno de los cuales será su Presidente.
-El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones cinco años, pudiendo ser reelegido.
+El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones tres años, pudiendo ser reelegido.
 Los demás miembros se llamarán ministros y gozarán de precedencia los unos respecto de los otros por el orden de su antigüedad.
 La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y seis relatores.
 
