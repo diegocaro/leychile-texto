@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1991-02-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1993-06-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1991-02-14
-fetched_at: 2026-08-03T00:50:58.737401+00:00
+version_date: 1993-06-01
+fetched_at: 2026-08-03T00:55:27.630905+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -80,6 +80,8 @@ Art. 13. Derogado.
 Art. 14. La mujer casada no será considerada como comerciante si no hace un comercio separado del de su marido.
 
 Art. 15. Derogado.
+
+Art. 16. La mujer divorciada y la separada de bienes pueden comerciar, previo al registro y publicación de la sentencia de divorcio y separación o de las capitulaciones matrimoniales, en su caso, y sujetándose, además, si fueren menores de dieciocho años, a las reglas concernientes a los menores bajo guarda.
 
 Art. 17. Derogado.
 
