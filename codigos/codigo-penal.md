@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1995-11-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1996-03-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1995-11-20
-fetched_at: 2026-08-03T01:01:14.601747+00:00
+version_date: 1996-03-08
+fetched_at: 2026-08-03T01:01:51.903367+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2181,7 +2181,7 @@ Para los efectos del presente párrafo se estimarán por violencia o intimidaci�
 Del robo con fuerza en las cosas.
 
 ART. 440.
-El culpable de robo con fuerza en las cosas efectuado en lugar habitado o destinado a la habitación o en sus dependencias, sufrirá la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo si cometiere el delito:
+El culpable de robo con fuerza en las cosas efectuado en lugar habitado o destinado a la habitación o en sus dependencias, sufrirá la pena de presidio mayor en su grado mínimo si cometiere el delito:
 1.º Con escalamiento, entendiéndose que lo hay cuando se entra por vía no destinada al efecto, por forado o con rompimiento de pared o techos, o fractura de puertas o ventanas.
 2.º Haciendo uso de llaves falsas, o verdadera que hubiere sido sustraída, de ganzúas u otros instrumentos semejantes para entrar en el lugar del robo.
 3.º A Introduciéndose en el lugar del robo mediante la seducción de algún doméstico, o a favor de nombres supuestos o simulación de autoridad.
@@ -2239,8 +2239,11 @@ El que se apropie de las plumas, pelos, crines o cerdas de animales ajenos, esqu
 ART. 450.
 Los delitos a que se refiere al Párrafo 2 y el artículo 440 del Párrafo 3 de este Título se castigarán como consumados desde que se encuentren en grado de tentativa.
 Serán castigados con presidio mayor en su grado mínimo a presidio mayor en su grado máximo los culpables de robo o hurto cuando hagan uso de armas o sean portadores de ellas, siempre que no les corresponda una pena mayor por el delito cometido.
-Sin embargo, la mera circunstancia de portar armas en los delitos de hurto o robo, no producirá el efecto de aumentar la pena, si, a juicio del Tribunal, aquéllas fueren llevadas por el delincuente con un propósito ajeno a la comisión del delito.
+En el caso del delito de hurto, el aumento de la pena contemplado en el inciso anterior se producirá si las armas que se portan son de fuego, cortantes o punzantes. Tratándose de otras armas, la mera circunstancia de portarlas no aumentará la pena si, a juicio del tribunal, fueren llevadas por el delincuente con un propósito ajeno a la comisión del delito.
 Para determinar cuando el robo o hurto se comete con armas, se estará a lo dispuesto en el art. 132.
+
+ART. 450 bis.
+En el robo con violencia o intimidación en las personas no procederá la atenuante de responsabilidad penal contenida en el artículo 11, N° 7.
 
 ART. 451.
 En los casos de reiteración de hurtos a una misma persona o en una misma casa a distintas personas, el tribunal hará la regulación de la pena tomando por base el importe total de los objetos sustraídos, y la impondrá al delincuente en su grado superior.
