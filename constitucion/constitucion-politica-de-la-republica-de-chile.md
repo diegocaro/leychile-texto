@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1976-09-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1977-03-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 241203
-version_date: 1976-09-13
-fetched_at: 2026-08-05T02:22:48.153170+00:00
+version_date: 1977-03-12
+fetched_at: 2026-08-05T02:23:06.156882+00:00
 titulo_norma: "FIJA TEXTO DE LA CONSTITUCION POLITICA DEL ESTADO"
 compuesto: DTO-1333
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -98,7 +98,7 @@ Los partidos políticos gozarán de libertad para darse la organización interna
 Los partidos políticos tendrán libre acceso a los medios de difusión y comunicación social de propiedad estatal o controlados por el Estado, en las condiciones que la ley determine, sobre la base de garantizar una adecuada expresión a las distintas corrientes de opinión en proporción a los sufragios obtenidas por cada una en la última elección general de diputados y senadores o regidores. (5)
 (5) Artículo agregado por la Reforma Constitucional contenida en la Ley N.o 17.398, de 9 de Enero de 1971.
 NOTA:
-El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, dispuso que en conformidad con la ley se mantiene la suspensión de vigencia del presente artículo.
+El Art. 8º Transitorio del DL 1552, Justicia, publicado el 13.09.1976, en su texto modificado por el Art. 6º del DL 1697, Interior, publicado el 12.03.1977, dispuso la suspensión de vigencia del presente artículo.
 
 ART. 10.
 Las iglesias, las confesiones e instituciones religiosas de cualquier culto, tendrán los derechos que otorgan y reconocen, con respecto a los bienes, las leyes actualmente en vigor; pero quedarán sometidas,
