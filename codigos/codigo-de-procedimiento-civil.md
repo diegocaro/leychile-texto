@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1998-12-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2001-08-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1998-12-01
-fetched_at: 2026-08-03T01:07:26.627105+00:00
+version_date: 2001-08-08
+fetched_at: 2026-08-03T01:15:59.066410+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -968,6 +968,7 @@ Art. 259 (256). Si el demandado se encuentra en un territorio jurisdiccional div
 Esta tabla se formará en el mes de Noviembre del año que preceda al del vencimiento de los cinco años indicados, para que se ponga en vigor en toda la República desde el 1° de Marzo siguiente; se publicará en el "Diario Oficial", y se fijará a lo menos, dos meses antes de su vigencia, en los oficios de todos los secretarios de Cortes y Juzgados de Letras.
 
 Art. 260 (257). Si los demandados son varios, sea que obren separada o conjuntamente, el término para contestar la demanda correrá para todos a la vez, y se contará hasta que expire el último término parcial que corresponda a los notificados.
+En los casos en que proceda la pluralidad de demandantes de acuerdo al artículo 18, el plazo para contestar la demanda, determinado según lo dispuesto en los dos artículos anteriores, se aumentará en un día por cada tres demandantes sobre diez que existan en el proceso. Con todo, este plazo adicional no podrá exceder de treinta días.
 
 Art. 261 (258). Notificada la demanda a cualquiera de los demandados y antes de la contestación, podrá el demandante hacer en ella las ampliaciones o rectificaciones que estime convenientes.
 Estas modificaciones se considerarán como una demanda nueva para los efectos de su notificación, y sólo desde la fecha en que esta diligencia se practique correrá el término para contestar la primitiva demanda.
