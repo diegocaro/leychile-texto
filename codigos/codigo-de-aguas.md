@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=1992-06-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=1992-11-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 1992-06-25
-fetched_at: 2026-08-03T00:53:23.608178+00:00
+version_date: 1992-11-30
+fetched_at: 2026-08-03T00:54:44.173208+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -851,7 +851,7 @@ ARTICULO 233°- En caso de muerte, renuncia, pérdida de la calidad de comunero,
 Si se produjere la renuncia total del directorio o de su mayoría, el secretario citará, dentro de los cinco días hábiles siguientes, a junta general extraordinaria de comuneros, la que deberá celebrarse dentro de los quince días siguientes a la renuncia.
 A falta de citación por el secretario, se procederá en la forma descrita en el artículo 230.
 
-ARTICULO 234°- El comunero que sea declarado reo por crimen o simple delito que merezca pena aflictiva, quedará suspendido del cargo de director o de cualquier empleo en la comunidad, mientras continúe en dicha situación; en tal caso, no podrá optar a ser elegido director de ella. Si es condenado por sentencia de término, quedará inhabilitado para desempeñar el cargo de director o cualquier empleo en la comunidad.
+ARTICULO 234°- El comunero que esté siendo procesado por crimen o simple delito que merezca pena aflictiva, quedará suspendido del cargo de director o de cualquier empleo en la comunidad, mientras continúe en dicha situación; en tal caso, no podrá optar a ser elegido director de ella. Si es condenado por sentencia de término, quedará inhabilitado para desempeñar el cargo de director o cualquier empleo en la comunidad.
 
 ARTICULO 235°- Si el número de comuneros es superior a cinco, se elegirá el directorio de la comunidad. En caso contrario, se designará uno o más administradores con las mismas facultades que el directorio.
 El directorio se compondrá por no menos de tres miembros, ni más de once y celebrará sesión con un quórum que represente la mayoría absoluta de éstos.
