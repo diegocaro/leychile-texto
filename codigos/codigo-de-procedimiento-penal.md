@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1906-02-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1906-02-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1906-02-19
-fetched_at: 2026-08-02T23:56:50.096893+00:00
+version_date: 1906-02-20
+fetched_at: 2026-08-02T23:57:02.101794+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -21,3 +21,1631 @@ El testo de estos ejemplares se tendrá como el auténtico del Código de Proced
 Art. 3°. Concédese a don Luis Barriga la cantidad de cuatro mil pesos ($ 4,000) en remuneracion de los servicios que ha prestado como secretario de la Comision Mista encargada del estudio del proyecto de Código de Procedimiento Penal.
 I por cuanto, oido el Consejo de Estado, he tenido a bien aprobarlo i sancionarlo; por tanto, promúlguese i llévese a efecto como lei de la República.
 Santiago, trece de febrero de mil novecientos seis.- JERMAN RIESCO.- Guillermo Pinto Agüero.
+
+## Libro Primero
+DISPOSICIONES GENERALES RELATIVAS AL JUICIO
+CRIMINAL
+
+### Título I
+DE LA JURISDICCION Y COMPETENCIA EN MATERIA PENAL
+
+Artículo 1°. Los tribunales de la República ejercen jurisdicción sobre los chilenos y sobre los extranjeros para el efecto de juzgar los delitos que se cometan en su territorio, salvo los casos
+NOTA: 1.1.-
+exceptuados por leyes especiales, tratados o convenciones internacionales en
+NOTA: 1.1.-
+que Chile es parte o por las reglas generalmente reconocidas del Derecho Internacional.
+NOTA: 1
+Veánse el Código de Derecho Internacional Privado y las Convenciones de Viena, de 18 de abril de 1961, sobre Relaciones Diplomáticas, y de 24 de abril de 1963, sobre Relaciones Consulares.
+NOTA: 1.1.-
+Las modificaciones introducidas al presente Código por la Ley N° 18.857, publicada en el Diario Oficial de 6 de Diciembre de 1989, rigen, según lo dispone su artículo vigésimo, noventa días después de su publicación en el Diario Oficial.
+
+Artículo 2°. No se aplicarán en el territorio nacional las leyes penales y de procedimiento de otros países, sin perjuicio de su consideración previa cuando sea necesaria para determinar la aplicación de las leyes patrias.
+
+Art. 4° (23) Siempre que para el juzgamiento
+NOTA: 2
+c
+NOTA: 2
+rimi
+NOTA: 2
+nal se requiera la resolución previa de una cuestión civil de que deba conocer otro tribunal, el juicio criminal no se adelantará sino para practicar aquellas diligencias del sumario necesarias a la compro
+NOTA: 2
+bación de los hechos; y se paralizará en seguida hasta que sea fallada la cuestión civil.
+En el juicio civil prejudicial intervendrá el Ministerio Público, cuando la causa criminal verse sobre delito que deba perseguirse de oficio, para hacer todas las gestiones conducentes a la iniciación o a la pronta terminación de dicho juicio.
+Podrá también hacerse parte principal cuando lo estime conveniente.
+NOTA: 2
+Véase, el DFL N° 426, de 28 de febrero de 1927, publicado en el Diario Oficial de 3 de marzo del mismo año.
+
+Art. 5° (24) Pueden ejercitarse separadamente ante el tribunal civil correspondiente las acciones para perseguir las responsabilidades civiles provenientes del hecho punible, salvo la que tenga por objeto la mera restitución de un cosa, que deberá ser deducida, precisamente, ante el juez que conozca del respectivo proceso penal.
+Cuando la acción civil se ejercite separadamente de la penal, aquélla podrá quedar en suspenso desde que el procedimiento criminal pase al estado de plenario, y se observará lo dispuesto en el artículo 167 del Código de Procedimiento Civil.
+
+Artículo 6°.- Cualquiera que sea el tribunal llamado a conocer de un juicio criminal, los jueces letrados con competencia penal y los demás jueces que tengan esta competencia, aunque sólo sea respecto de delitos menores, faltas o contravenciones, están obligados a practicar las primeras diligencias de instrucción del sumario con respecto a los delitos cometidos en el territorio de su jurisdicción, sin perjuicio de dar inmediato aviso al tribunal a quien por ley corresponda el conocimiento de la causa.
+INCISO SEGUNDO.- DEROGADO.-
+INCISO TERCERO.- DEROGADO.-
+
+Art. 7° (27) Considéranse como primeras diligencias: LEY 18857 dar protección a los perjudicados, consignar las pruebas ART UNICO del delito que puedan desaparecer, recoger y poner en custodia cuanto conduzca a su comprobación y a la identificación de los delincuentes, decretar el arraigo de los inculpados cuando proceda y detenerlos en su caso, procediendo a la detención con arreglo a lo dispuesto en los párrafos 2° y 5° del Título IV, Primera Parte del Libro Segundo.
+Para estos efectos, el juez de prevención interrogará a los testigos y a los inculpados, y practicará los careos y reconocimientos que fueren necesarios.
+
+Artículo 8°.- Los jueces de letras deberán practicar, además, todas las diligencias que les cometan Art. sexto otros tribunales para la investigación de los hechos en materias criminales, sin que sea menester que la orden
+NOTA: 3.1
+emane del superior jerárquico respectivo.
+Los jueces del crimen que conozcan de uno de los delitos tipificados en los art
+NOTA: 3.1
+ículos 346 a 372 del Código Penal, en que sea víctima un menor, deberán poner el hecho en conocimiento del juez de menores competente, a fin de que pueda dictar, si procediere, alguna medida de protección en su favor.
+NOTA: 3.1
+Las modificaciones introducidas por la Ley 18.776, publicada en el "Diario Oficial" de 18 de enero de 1989, rigen, según su artículo décimo tercero, a partir del día primero del mes subsiguiente a la fecha de su publicación en el Diario Oficial.
+
+Art. 9° (29) La competencia criminal no puede, en caso alguno, ser prorrogada por la simple voluntad de las partes.
+
+### Título II
+DE LA ACCION PENAL Y DE LA ACCION CIVIL EN EL
+PROCESO PENAL.
+
+Art. 10. (30) Se concede acción penal para impetrar la averiguación de todo hecho punible y sancionar, en su caso, el delito que resulte probado. En el proceso penal podrán deducirse también, con arreglo a las prescripciones de este Código, las acciones civiles que tengan por objeto reparar los efectos civiles del hecho punible, como son, entre otras, las que persigan la restitución de la cosa o su valor, o la indemnización de los perjucios causados.
+En consecuencia, podrán intentarse ante el juez que conozca del proceso penal las acciones civiles que persigan la reparación de los efectos patrimoniales que las conductas de los procesados por sí mismas hayan causado o que puedan atribuírseles como consecuencias próximas o directas, de modo que el fundamento de la respectiva acción civil obligue a juzgar las mismas conductas que constituyen el hecho punible objeto del proceso penal.
+
+Art. 11. (31) La acción penal es pública o privada. La primera se ejercita a nombre de la sociedad para obtener el castigo de todo delito que deba perseguirse de oficio; la segunda sólo puede ejercitarse por la parte agraviada.
+
+Artículo 12.- Cuando se ejercite sólo la acción civil respecto de un hecho punible que no puede perseguirse de oficio, se considerará extinguida por ese hecho la acción penal.
+
+Art. 13. (33) Cuando el acusado hubiere sido condenado en el juicio criminal como responsable del delito, no podrá ponerse en duda, en el juicio civil, la existencia del hecho que constituya el delito, ni sostenerse la inculpabilidad del condenado.
+
+Art. 14. (34) Extinguida la acción civil no se entiende extinguida por el mismo hecho la acción penal para la persecución del hecho punible.
+La sentencia firme absolutoria dictada en el pleito promovido para el ejercicio de la acción civil, no será obstáculo para el ejercicio de la acción penal correspondiente cuando se trate de delitos que deban perseguirse de oficio.
+
+Art. 15. (35) La acción penal pública puede ser ejercida por toda persona capaz de parecer en juicio, siempre que no tenga especial prohibición de la ley y que se trate de delitos que deban ser perseguidos de oficio.
+
+Art. 16. (36) No puede ejercitar la acción pública penal:
+1° El que fuere criminal o civilmente responsable del delito materia del proceso;
+2° El procesado o condenado por delito de igual o mayor gravedad que aquel de que se trata; y
+3° El que ha perjurado o recibido paga por acusar, en el mismo juicio o en otro distinto.
+Pueden, sin embargo, las personas designadas en los números 2° y 3°, ejercitar la acción pública por delitos cometidos contra ellas o contra sus ascendientes, descendientes, o hermanos legítimos o ilegítimos.
+
+Art. 17. (37) Tampoco pueden ejercitar entre sí acción penal, sea pública o privada:
+1° Los cónyuges; a no ser que por delito que el uno hubiere cometido contra la persona del otro o contra la de sus hijos, o por el delito de bigamia.
+2° Los consanguíneos legítimos o naturales en tod
+NOTA: 1.2
+a la línea recta, los colaterales hasta el 4° grado ni los afines hasta el 2°; a no ser por delitos cometidos por los unos contra la persona de los otros, o la de su cónyuge o hijos.
+NOTA: 1.2
+NOTA: 1.2
+NOTA: 1.2
+El Artículo 37 de la Ley N° 19.335, publicado en el "Diario Oficial" de 23 de Septiembre de 1994, dispuso que la modificación introducida al presente artículo, rige transcurridos tres meses de su publicación en el Diario Oficial.
+
+Art. 18. (38) No podrán ser ejercidas por el Ministerio Público ni por otra persona que no fuere la ofendida o su representante legal, las acciones que nacen de los delitos siguientes:
+1.- El retardo o la denegación a los particulares de la protección o servicio que deba dispensarles un empleado público en conformidad a las leyes y reglamentos;
+2.- La comunicación fraudulenta de secretos de la fábrica en que el culpable ha estado o está empleado;
+3.- El estupro, que puede también ser perseguido por los padres o abuelos de la persona ofendida, aun cuando no la representen legalmente;
+4.- Derogado.-
+5.- Derogado.-
+6.- El matrimonio del menor llevado a efecto sin el consentimiento de las personas designadas por la ley y celebrado de acuerdo con el funcionario llamado a autorizarlo; acción que se entiende abandonada cuando la acusación no se entablare en el término de dos meses después de tenerse noticia de la celebración del matrimonio;
+7.- La provocación a duelo y el denuesto o descrédito público inferido a otro por no haberlo aceptado;
+8.- La calumnia y la injuria contra personas privadas, delitos que pueden, además, ser perseguidos por el cónyuge, los hijos, nietos, padres, abuelos y hermanos legítimos y por los hijos y padres naturales del ofendido, que se encuentre moral o físicamente imposibilitado. Si ha muerto el ofendido, las mismas personas, y además de sus herederos, pueden deducir las acciones correspondientes, y
+9.- La falta descrita en el número 11 del artículo 496 del Código Penal.
+
+Artículo 19.- No puede procederse de oficio en las causas de violación y de rapto, sin que a lo menos se haya denunciado el hecho a la justicia o a la policía por la persona ofendida, por sus padres, abuelos o guardadores, o por quien tuviere su tuición o su cuidado.
+Si la persona ofendida, a causa de su edad o estado moral, no pudiere hacer por sí misma la denuncia, ni tuviere padres, abuelos, guardadores o persona encargada de su tuición o cuidado, o si éstas estuvieren imposibilitadas o implicadas en el delito, podrá el Ministerio Público denunciar el hecho y deducir la acción civil para los efectos de obtener la indemnización establecida en el artículo 370 del Código Penal.
+Iniciado el procedimiento, no se suspenderá sino por las mismas causas por las que debe suspenderse en los juicios que se siguen de oficio y, además, por haberse verificado el matrimonio de la ofendida con el ofensor.
+
+Artículo 20.- Los empleados públicos tienen derecho a exigir que se entable acción para que se persiga la responsabilidad por las injurias y calumnias de que se les hiciere objeto con motivo del desempeño de sus funciones, en la forma prevista en el Estatuto Administrativo.
+Si no les fuera aplicable ese Estatuto, deberá deducirse la acción por el Ministerio Público, a requerimiento de la persona ofendida.
+Los agentes diplomáticos extranjeros acreditados ante el Gobierno de la Nación tienen el derecho indicado en este artículo, aun respecto de las calumnias o injurias que les fueren inferidas en su carácter privado. El requerimiento al Ministerio Público deberá hacerlo el propio afectado.
+Deducida la denuncia o querella, el procedimiento se seguirá de acuerdo con las reglas del juicio ordinario de acción pública.
+Lo dicho en los incisos anteriores no obsta lo dispuesto en leyes especiales.
+Para los efectos indicados en este artículo, actuará, aun en la primera instancia, el fiscal de la Corte de Apelaciones correspondiente.
+
+Art. 21. (41) Si varias personas no exceptuadas pretendieren ejercer la acción pública con respecto a un mismo delito, podrán hacerlo procediendo conjuntamente por medio de un mandatario común.
+Pero serán preferidas las personalmente ofendidas por el delito, si procedieren también conjuntamente. Si estas personas fallecieren o desistieren de la prosecución del juicio, revivirá el derecho de aquéllas, quienes podrán intervenir en el juicio tomándolo en el estado en que lo encontraren.
+
+Art. 22. (42) El que ejercita la acción pública está obligado a afianzar las resultas del juicio.
+
+Art. 23. (43) Los oficiales del Ministerio Público tienen obligación de ejercer la acción pública con respecto a todo delito que deba perseguirse de oficio. Si el delito es de aquellos que, para ser perseguido, necesita denuncia o requisición previa de la persona ofendida, la acción pública debe ponerse en ejercicio tan pronto como se presente la denuncia o requisición.
+
+Art. 24. (44) Siempre que se trate de delitos que deban perseguirse de oficio, los tribunales competentes estarán obligados a proceder, aun cuando el Ministerio Público no crea procedente la acción.
+En general, tienen los tribunales perfecta libertad para aceptar o rechazar las peticiones del Ministerio Público.
+
+Artículo 25.- La intervención del querellante que ha ejercitado la acción pública no obsta a la del Ministerio Público, ni la de éste a la de aquél. Sin embargo, el querellante o las otras partes del juicio no podrán oponerse a las diligencias probatorias que solicite el Ministerio Público.
+
+Art. 26. (46) El oficial del Ministerio Público de un tribunal superior encargado de rever el fallo del tribunal inferior, puede continuar el ejercicio de la acción pública ante el tribunal cerca del cual funciona, no obstante que el oficial del tribunal inferior haya aceptado expresa o tácitamente aquel fallo.
+
+Artículo 26 bis.- Los fiscales de las Cortes de Apelaciones podrán intervenir en la primera instancia en todos los juicios criminales de acción pública, cuando juzguen conveniente su actuación.
+El Fiscal de la Corte Suprema podrá ordenar a los Fiscales de las Cortes de Apelaciones que actúen en la primera instancia para efectos determinados o durante toda la tramitación de uno o más juicios, y en este último caso tendrán las mismas facultades y obligaciones que este Código señala al Ministerio Público en dicha instancia.
+Siempre que un Ministro, en carácter de juez de primera instancia, deba conocer de uno o más delitos, se entenderá designado para actuar en todas las instancias del proceso el Fiscal de la Corte correspondiente.
+
+Art. 27. (47) Es prohibido a los oficiales del Ministerio Público renunciar de antemano, expresa o tácitamente, al ejercicio de la acción pública, en los casos en que ella es procedente.
+
+Art. 28. (48) La acción penal pública no se extingue por la renuncia de la persona ofendida.
+Pero se extinguen por esa renuncia la acción penal privada y la civil derivada de cualquiera clase de delitos.
+Si el delito no puede ser perseguido sin previa denuncia o requisición, cualquiera que no sea el Ministerio Público puede renunciar al derecho de hacer la denuncia o la requisición; y en tal caso queda también extinguida la acción pública.
+
+Art. 29. (49) La renuncia de una acción civil o penal renunciable sólo afectará al renunciante y a sus sucesores, y no a otras personas a quienes también correspondiere una u otra acción.
+
+Art. 30. (50) El querellante podrá desistirse de la acción penal, sea ésta pública o privada.
+Si la acción fuere pública, el juicio seguirá adelante, constituyéndose el Ministerio Público en parte principal, a falta de otro acusador particular.
+Si la acción fuere privada, podrá, además, ponerse término al juicio mediante una transacción. Pero el desistimiento o la transacción no producirá en ningún caso el efecto de que se devuelva la multa que hubiere sido satisfecha por vía de pena.
+
+Art. 31. (51) El querellante que se desistiere del ejercicio de la acción pública no quedará por eso exento de la obligación de comparecer al tribunal cuando el juez lo creyere necesario para la instrucción del proceso.
+
+Art. 32. (52) El desistimiento de la acción privada producirá el sobreseimiento definitivo de la causa, cualquiera que sea el estado en que se encontrare; y el tribunal condenará al querellante al pago de las costas.
+
+Art. 33. (53) No se dará lugar al desistimiento de la acción privada si el querellado se opusiere a él.
+
+Art. 34. (54) El desistimiento de la acción pública o privada deja a salvo el derecho del querellado para ejercitar, a su vez, contra el querellante la acción penal o civil a que dieren lugar la querella o acusación calumniosa, y los perjuicios que les hubiere causado en su persona o bienes.
+Se exceptúa el caso de que el querellado haya aceptado expresa o tácitamente el desistimiento del querellante.
+
+Art. 35. (55) Es aplicable al desistimiento de una querella o acusación deducida, lo dispuesto en el artículo 29 con respecto a la renuncia de la acción civil o penal que aún no se ha hecho valer en juicio.
+
+Artículo 37.- La acción penal pública se suspende, con arreglo al Derecho Internacional:
+1.- Cuando el inculpado es entregado a los tribunales de la República por la vía de la extradición y la convención diplomática ha limitado los efectos de la persecución;
+2.- Cuando, entregado el procesado por un delito, se trata de procesarlo además por otro delito diferente del que ha motivado la extradición; y
+3.- Cuando el inculpado es arrestado a bordo de un buque que ha hecho arribada forzosa bajo bandera amiga o neutral.
+En este último caso no se suspende el procedimiento iniciado contra individuos que, cubiertos con aquella bandera, se encuentren en hostilidad contra el Gobierno de la República, o que hayan sido inculpados de crímenes o simples delitos contra la seguridad exterior o interior del Estado.
+
+Art. 38. (58) Muerto el querellante, sus herederos no están obligados a continuar el juicio; pero no quedan exentos de la responsabilidad civil que haya podido contraer el difunto respecto del querellado.
+
+Art. 39 (59) La acción penal, sea pública o privada, no puede dirigirse sino contra los personalmente responsables del delito o cuasidelito.
+La responsabilidad penal sólo puede hacerse efectiva a las personas naturales. Por las personas jurídicas responden los que hayan intervenido en el acto punible, sin perjuicio de la responsabilidad civil que afecte a la corporación en cuyo nombre hubieren obrado.
+
+Artículo 40.- La acción civil puede entablarse contra los responsables del hecho punible, contra los terceros civilmente responsables y contra los herederos de unos y otros.
+
+Art. 41. (62) Sin perjuicio de lo dispuesto en el presente título, la extinción de la responsabilidad penal, la prescripción de la acción civil y de la penal, y la prescripción de la pena, se regirán respectivamente por las reglas establecidas en el artículo 2332 del Código Civil, y en el Título V del Libro I del Código Penal.
+En cuanto a la prescripción de la acción civil, se estará además a lo dispuesto en los artículos 103 bis y 450 bis.
+
+### Título IV
+DE LA POLICIA
+
+Artículo 74.- La Policía de Investigaciones de Chile deberá cumplir en sus respectivos territorios jurisdiccionales las órdenes y resoluciones emanadas de los Tribunales de Justicia y también fuera de ellos, cuando éstos así lo dispongan.
+NOTA: 4
+Carabineros de Chile, deberá desempeñar las funciones indicadas precedentemente en aquellos lugares en que no exista Policía de Investigaciones y, aun existiendo, cuando el tribunal así lo resuelva.
+Gendarmería de Chile, deberá cumplir las órdenes y resoluciones de los Tribunales de Justicia respecto de los delitos cometidos en el interior de los establecimientos penales, sin perjuicio que el Tribunal pueda encomendar su cumplimiento a Carabineros de Chile o a la Policía de Investigaciones.
+El personal de las instituciones indicadas, cuando cumpla órdenes o resoluciones judiciales actuará de conformidad a lo dispuesto en este Código.
+NOTA: 4
+Véase el Decreto-Ley N° 2.460, de 9 de enero de 1979, publicado en el Diario Oficial de 24 del mismo mes, Ley Orgánica de Policía de Investigaciones de Chile.
+
+Artículo 74 bis.- No obstante las atribuciones que correspondan al Presidente de la República, el personal de la Policía de Investigaciones de Chile, en cuanto auxiliar de la administración de justicia, quedará sujeto a la jurisdicción correccional y económica de los tribunales de justicia respectivos, sin perjuicio de la intervención de los tribunales superiores que corresponda.
+
+Artículo 74 bis A.- Los funcionarios de las instituciones indicadas en el artículo 74, sólo podrán cumplir, en lo que se refiere a la investigación de los delitos, las órdenes emanadas de autoridad competente.
+Estas órdenes deberán constar siempre por escrito y serán exhibidas a la persona a quien afecten al efectuarse su cumplimiento, cualquiera que sea la autoridad de que provengan o la persona contra quien se dicten, sin perjuicio de lo dispuesto en los artículos 260, 261, 262 y 282 y en el siguiente inciso.
+El juez que conoce de un proceso podrá designar funcionarios determinados de las instituciones señaladas en el artículo 74, para que se hagan cargo preferentemente de la investigación de delitos de especial gravedad o complejidad, o para el cumplimiento de órdenes judiciales.
+
+Artículo 74 bis B.- Se prohibe a todo funcionario de las instituciones indicadas en el artículo 74 dar informaciones sobre los resultados de las pesquisas que practiquen y de las órdenes que deban cumplir.
+El juez podrá dar conocimiento a los funcionarios investigadores de los datos del proceso que estime conducentes al éxito de las indagaciones que se les encarguen. Asimismo, podrá proporcionarles copia de los informes, autopsias y demás pericias, cuando sean solicitadas por los jefes de las unidades que tengan a su cargo la investigación del caso.
+Los funcionarios que hayan tomado conocimiento de datos del proceso o recibido copias de los informes indicados en el inciso precedente, quedan obligados a no revelarlos.
+La infracción de las disposiciones de los incisos primero y tercero de este artículo será sancionada con reclusión o presidio menor en su grado mínimo a medio, a menos que los hechos constituyan otro delito sancionado con igual o mayor pena.
+
+Artículo 75.- El Fiscal de la Corte Suprema tendrá la supervigilancia del cumplimiento de las órdenes judiciales y podrá, en tal carácter, por sí o por medio de los oficiales del Ministerio Público, recabar informes, hacer inspecciones, prescribir órdenes para que los decretos judiciales sean legal y oportunamente acatados, practicar indagaciones y recibir declaraciones sin juramento, con el objeto de hacer efectiva la responsabilidad funcionaria o penal de los infractores.
+
+Artículo 75 bis.- Ejecutoriada una sentencia que imponga la pena de sujeción a la vigilancia de la autoridad, el juez determinará los lugares prohibidos al al penado, mientras quede sujeto a esa vigilancia, y también las obligaciones que le imponga conforme al artículo 45 del Código Penal.
+
+## Libro Segundo
+DEL JUICIO ORDINARIO SOBRE CRIMEN O SIMPLE DELITO
+
+### Primera Parte
+DEL SUMARIO
+
+#### Título I
+DEL SUMARIO EN GENERAL
+
+Art. 76. (97) Todo juicio criminal a que dé origen la perpetración de un crimen o simple delito comenzará por la investigación de los hehos que constituyan la infracción y determinen la persona o personas responsables de ella, y las circunstancias que puedan influir en su calificación y penalidad; sin perjuicio de las reglas especiales establecidas en el Libro III.
+Las diligencias dirigidas a preparar el juicio por medio de tales esclarecimientos y asegurar la persona de los presuntos culpables y su responsabilidad pecuniaria, constituyen el sumario.
+
+Art. 77. (98) Cada crimen o simple delito de que conozca un tribunal será materia de un sumario.
+Sin embargo, se comprenderá en un solo sumario:
+1° Los delitos conexos; y
+2° Los diversos crímenes, simples delitos y faltas que se imputaren a un solo procesado, ya sea al iniciarse la causa o durante el progreso de ésta.
+
+Art. 78. (99) Las actuaciones del sumario son secretas, salvo las excepciones establecidas por la ley.
+
+Art. 79. (100) El juez puede autorizar al procesado para que tome conocimiento de aquellas diligencias que se relacionen con cualquier derecho que trate de ejercitar, siempre que haciéndolo no se entorpezca la investigación.
+Todo aquel a quien se notifica una resolución tiene derecho a sacar copia de ella.
+
+#### Título III
+DE LA COMPROBACION DEL HECHO PUNIBLE Y AVERIGUACION
+DEL DELINCUENTE
+
+##### 1. Disposiciones generales
+
+Artículo 108.- La existencia del hecho punible es el fundamento de todo juicio criminal, y su comprobación por los medios que admite la ley es el primer objeto a que deben tender las investigaciones del sumario
+
+Art. 109. (130) El juez debe investigar, con igual celo, no sólo los hechos y circunstancias que establecen y agravan la responsabilidad de los inculpados, sino también los que les eximan de ella o la extingan o atenúen.
+
+Art. 110. (131) El delito se comprueba con el examen practicado por el juez, auxiliado por peritos, en caso necesario, de la persona o cosa que ha sido objeto del delito, de los instrumentos que sirvieron para su perpetración y de las huellas, rastros y señales que haya dejado el hecho; con las disposiciones de los testigos que hayan visto o sepan de otro modo la manera como se ejecutó; con documentos de carácter público o privado; o con presunciones o indicios necesarios o vehementes que produzcan el pleno convencimiento de su existencia.
+Las informaciones que la policía proporcione sobre hechos en que haya intervenido, que se relaten en las comunicaciones o partes que se envíen a los tribunales, tendrán el mérito de un antecedente que el juez apreciará conforme a las reglas generales, sin perjuicio de que pueda citar a los funcionarios respectivos para interrogarlos sobre esos hechos, o para otras diligencias del proceso; y sin perjuicio también del derecho de los inculpados para solicitar que se les interrogue al respecto, se les caree o contrainterrogue.
+
+Artículo 111.- El delincuente puede ser determinado por uno o más de los medios expresados en el artículo que precede, y además por la confesión de él mismo, acorde con los datos que comprueben el hecho punible.
+
+Art. 112. (133) Cuando el delito que se persigue haya dejado rastros o señales, el juez procederá personalmente a tomar nota de ellos, y describirá detalladamente en el proceso los que puedan servir para determinar el hecho punible o la persona del delincuente.
+Con este fin, consignará la descripción del lugar en que se cometió el delito, del sitio y estado de los objetos que en él se encuentren, de los accidentes del terreno, de la situación de las habitaciones, y de todos los demás datos que pueden utilizarse en favor o en contra de los presuntos culpables.
+Del mismo modo, si fuere habida la persona o cosa objeto del delito, el juez describirá su estado, con aquellos datos especiales que tengan relación con el hecho punible.
+
+Artículo 113.- Siempre que fuere necesario para el esclarecimiento de los hechos, el juez hará levantar el plano del lugar, retratar a las personas que hayan sido objeto del delito, o poner en autos el diseño de los efectos o instrumentos del mismo, que fueren encontrados.
+Para los mismos fines, podrá también disponer la fotografía, filmación o grabación y, en general, la reproducción de imágenes, voces o sonidos por los medios técnicos que estime convenientes. Asimismo, podrá valerse de resultados obtenidos por la utilización de aparatos destinados a desarrollar exámenes o demostraciones científicas o por medio de la computación. Regirá, para estos efectos, lo que disponen los dos últimos incisos del artículo siguiente.
+
+Artículo 113 bis.- Podrán admitirse como pruebas películas cinematográficas, fotografías, fonografías, y otros sistemas de reproducción de la imagen y del sonido, versiones taquigráficas y, en general, cualquier medio apto para producir fe. Estos medios podrán servir de base a presunciones o indicios.
+La admisión como pruebas de los elementos de juicio a que se refiere este artículo se decretará con citación, cuando fuere ofrecida por una de las partes; pero en el sumario podrán tenerse en consideración aunque esté pendiente el plazo de citación o cualquiera objeción sobre ellas.
+El juez determinará la forma como ha de dejarse constancia en el proceso de estas pruebas, cuando hicieren necesarias operaciones técnicas especiales para ello o para su realización. Para tal efecto, podrá designar un asesor técnico que desarrolle y explique la prueba, de entre los que ejercieren los oficios especializados. Si la prueba fuere ofrecida por una de las partes y el juez lo estimare conveniente, ésta suministrará el personal e instrumentos necesarios para llevar a cabo la demostración, sin perjuicio de lo que se resuelva sobre costas. En todo caso, si el tribunal cuenta con los instrumentos requeridos y no es necesaria la cooperación de un técnico, procederá a realizar la prueba por sí mismo.
+Se certificará, después de verificada la operación, el día y la hora en que se verificó, el nombre y dirección de los que intervinieron en ella, y el lugar, la persona, cosa, suceso o fenómeno que se reproduce o explica, y el juez deberá tomar las medidas necesarias para evitar que puedan ser alterados los originales de estas pruebas.
+
+Art. 114. (135) Los instrumentos, armas u objetos de cualquiera clase que parezca haber servido o haber estado destinado para cometer el delito, y los efectos que de él provengan, ya estén en poder del presunto culpable o de otra persona, serán recogidos por el juez, quien mandará conservarlos bajo sello y levantar acta de la diligencia, que firmará, si pudiere, la persona en cuyo poder aquéllos han sido encontrados.
+El juez adoptará las medidas conducentes para que las especies recogidas se mantengan en el mejor estado posible.
+Si entre dichos objetos se encuentran vasos u otras cosas sagradas, el juez ordenará que sean separados de los demás y guardados con especial cuidado.
+
+Art. 115. (136) Las reclamaciones o tercerías que las partes o terceros entablen durante el juicio con el fin de obtener la restitución de los objetos de que se trata en el artículo precedente, se tramitarán por separado en la forma de un incidente, y la sentencia se limitará a declarar el derecho de los reclamantes sobre dichos objetos; pero no se efectuará la devolución de éstos sino después de terminado el juicio criminal o antes, si en concepto del juez no fuere necesario conservarlos.
+Lo dispuesto en el inciso precedente no se extiende a las cosas hurtadas, robadas o estafadas, las cuales se entregarán al dueño en cualquier estado del juicio, una vez que resulte comprobado su dominio y sean valoradas en conformidad a la ley.
+
+Artículo 116.- Si no hubieren quedado huellas de la perpetración del delito, el juez hará constar por cualquier medio de prueba el hecho de haber sido cometido, con las circunstancias que sirvan para graduar la pena, y acreditará, del mismo modo, la preexistencia de la cosa cuya subtracción fuere materia del sumario.
+
+Art. 117. (138) Toda diligencia practicada por el juez durante el sumario se extenderá por escrito en el acto mismo de llevarse a cabo, y será firmado por el juez, las personas que han intervenido en ella y el secretario.
+En la diligencia se mencionarán el lugar, día y hora en que se verificó el acto, el nombre de las personas que hubieren asistido y las indicaciones que permitan comprobar que se han cumplido las formas esenciales del procedimiento.
+Lo establecido en los dos incisos precedentes no se opone al uso de instrumentos de reproducción o captación de sonidos o de imágenes, como medios auxiliares para levantar el acta.
+Si el juez necesita dejar testimonio, como complemento de una diligencia, de la existencia o contenido de documentos públicos, oficiales, protocolizados o incorporados a registros públicos que se encuentren en otras oficinas, podrá cometer al secretario la inspección de ellos y el levantamiento del acta correspondiente, la cual tendrá el mismo mérito, que si hubiere sido hecha por el tribunal.
+Lo prescrito en el inciso anterior no obsta a que el juez recabe directamente, del funcionario correspondiente, las copias que estime necesarias para agregarlas al proceso.
+
+Art. 118. (139) Toda diligencia será leída a las personas que deban subscribirla y si alguna observa que la exposición contiene cualquiera inexactitud, se tomará nota de su observación, y si se negare a firmar, se expresará la razón que alegue para no hacerlo.
+
+Artículo 119.- Las diligencias deben extenderse sin abreviaturas, sin dejar blancos y sin raspar el papel para hacer enmiendas. Pero si fuere necesario enmendar o interlinear una o más palabras, el secretario rubricará al margen enfrente de las enmendaduras o interlineaciones, y las salvará al fin de la diligencia, antes de las firmas.
+
+Artículo 120 bis.- Las órdenes de investigar que el juez curse a la Policía de Investigaciones, Carabineros de Chile o Gendarmería, en su caso, facultan a estos organismos para practicar las diligencias que el juez determine y las siguientes, salvo expresa exclusión o limitación:
+1° Conservar las huellas del delito y hacerlas constar;
+2° Recoger los instrumentos usados para llevar a cabo el hecho delictuoso, salvo en cuanto sea necesario mantenerlos en el lugar en que fueron encontrados para su examen personal por el juez;
+3° Hacer constar el estado de las personas, cosas o lugares mediante inspecciones o con los medios a que se refiere el artículo 113 u otras operaciones aceptadas por la policía científica, y requerir la intervención de organismos especializados en la investigación, según la naturaleza del delito;
+4° Citar a los testigos presenciales del hecho delictuoso investigado para que comparezcan al tribunal a primera audiencia, entregándoles una boleta o comprobante de la citación. Si el testigo no compareciere, el juez podrá ordenar su arresto para obtener la comparecencia.
+Tratándose de los delitos de hurto o robo, requerir del denunciante una declaración jurada sobre la preexistencia de las cosas sustraídas y una apreciación de su valor.
+5° Consignar sumariamente las declaraciones que se allanaren a prestar el inculpado o los testigos, y
+6° Proceder a la citación del inculpado.
+
+##### 2. De la comprobación del delito en casos
+especiales
+
+###### I.- Homicidio, aborto y suicidio
+
+Art. 121. (142) Cuando se sospeche que la muerte de una persona es el resultado de un delito, se procederá, antes de la inhumación del cadáver o inmediatamente después de exhumado, a efectuar la descripción ordenada por el artículo 112, a practicar el reconocimiento y autopsia del cadáver y a identificar la persona del difunto.
+La descripción expresará circunstanciadamente el lugar y postura en que fue hallado el cadáver, el número de heridas o señales exteriores de violencia y partes del cuerpo en que las tenía, el vestido y efectos que le hallaren, los instrumentos o armas encontrados y de que se haya podido hacer uso, y la conformidad de su forma y dimensiones con las heridas y señales de violencia.
+En los casos de muerte causada por vehículos en la vía pública, y sin perjuicio de las facultades que corresponden al juez competente, efectuará la descripción a que se refiere el inciso anterior y ordenará el levantamiento del cadáver un oficial de Carabineros, asistido por un funcionario del mismo servicio, quien actuará como testigo. Se levantará un acta de lo obrado, que firmarán ambos funcionarios, la que se agregará al proceso.
+
+Artículo 122.- La identificación del occiso se hará mediante informes papilares, dactiloscópicos o de otro tipo, o por testigos que, a la vista de él, den razón
+satisfactoria de su conocimiento. Si existe alguna persona a quien se impute el delito, debe ser confrontada con el cadáver para que lo reconozca, siempre que sea posible esta diligencia.
+
+Artículo 123.- Si no se pudiere identificar en la forma indicada y el estado del cadáver lo permitiere, será expuesto, por lo menos durante veinticuatro horas, en un lugar que tenga acceso al público, y en un cartel fijado allí mismo, se expresarán el sitio, hora y día en que fue encontrado y el nombre del juez que instruye el sumario, a fin de que los que tuvieren algún dato que pueda contribuir al reconocimiento del difunto y a la averiguación del delito y sus circunstancia, lo comuniquen al juez de la causa.
+
+Art. 124. (145) Si, a pesar de las precauciones de que trata el artículo precedente, el cadáver no fuere reconocido, se hará de él una descripción que contenga sus señales y se conservarán las prendas del traje y los objetos que se le hubieren encontrado, a fin de que puedan servir oportunamente para hacer la identificación. Con el mismo objeto y cuando el caso lo requiera y las circunstancias lo permitan, el juez hará sacar la fotografía del cadáver, de la cual se agregará a los autos un ejemplar y otro conservará el secretario dentro de un sobre lacrado y sellado.
+
+Art. 125. (146) Aun cuando por la inspección externa del cadáver pueda colegirse cuál haya sido la causa de la muerte, el juez mandará que se proceda por facultativos a la autopsia judicial.
+Esta autopsia consiste en la apertura del cadáver en las regiones en que sea necesario para el efecto de descubrir la verdadera causa de la muerte.
+Puede ser llamado para presenciar la operación el médico que asistió al difunto en su última enfermedad, cuando convenga obtener de él datos sobre el curso de dicha enfermedad.
+
+Art. 126. (147) Los médicos deben expresar en su informe las causas inmediatas que hubieren producido la muerte, las que hubieren dado origen y, con la mayor aproximación posible, la data de ella.
+Si existen lesiones, deben manifestar su número, longitud y profundidad, la región en que se encuentran, los órganos ofendidos y el instrumento con que han sido hechas, especificando:
+1° Si son resultado de algún acto de tercero;
+2° Si, en tal caso, la muerte ha sido la consecuencia necesaria de tal acto, o si han contribuido a ella alguna particularidad inherente a la persona, o un estado especial de la misma, o circunstancias accidentales, o en general cualquiera otra causa ayudada eficazmente por el acto del tercero; y
+3° Si habría podido impedirse la muerte con socorros oportunos y eficaces.
+Los informes deben redactarse, en cuanto sea posible, en lenguaje vulgar, y responder a las cuestiones precedentes y a las que el juez propusiere sobre todas las circunstancias que interesen para formar juicio cabal de los hechos.
+
+Artículo 127.- Las autopsias se harán en un local dependiente del Servicio Médico Legal del Estado; donde no lo hubiere, se practicarán en las dependencias que para este fin existan en los Hospitales o Cementerios respectivos y, a falta de los anteriores, en el lugar
+NOTA: 5
+donde lo ordene el juez.
+NOTA: 6
+Cuando haya necesidad de practicar un reconocimiento
+NOTA: 7
+a cadáveres en estado de descomposición, éste se hará en los cementerios de las correspondientes ciudades, y si no existe un depósito apropiado para tal intervención médico-legal, en el sitio que determine el juez.
+NOTA: 5
+El Art. 10 del Decreto con Fuerza de Ley N° 196, de 25 de marzo de 1960, publicado en el Diario Oficial de 4 de abril del mismo año, que fijó el texto de la Ley Orgánica del Servicio Médico Legal, dispone que a la Sección Tanatología de los Servicios Médico-Legales de cabecera de provincias, departamentos y comunas corresponderán las pericias en cadáveres o restos humanos y que de dicha Sección dependerán las salas de autopsias y sus anexos.
+A su vez, el Art. 9° del Decreto con Fuerza de Ley N° 91 del Ministerio de Hacienda, de 23 de febrero de 1960, publicado en el Diario Oficial de 29 del mismo mes y año, dispone que el Jefe de la Sección Tanatología tiene jurisdicción nacional.
+NOTA: 6
+El Art. 2° de la Ley N° 14.657, de 6 de octubre de 1961, dispone que "en las ciudades en que el Servicio Médico Legal carezca de locales especiales para practicar autopsias, los cadáveres serán conducidos para dicho objeto a las dependencias que para este fin existan en los Hospitales respectivos, en donde serán puestos a disposición del Legista de aquel Servicio o a falta de éste, del que designe el tribunal conforme a lo dispuesto por el artículo 224 del Código de Procedimiento Penal.
+En los casos de cadáveres en estado de descomposición, con respecto a los cuales haya necesidad de practicarles un reconocimiento, éste se hará en los cementerios de las correspondientes ciudades, en los cuales será obligatorio que exista un depósito apropiado para la intervención médico-legal que deba realizarse".
+NOTA: 7
+Ver D.S. 427, de Justicia, de 28 de enero de 1943, sobre Reglamento Orgánico del Instituto Médico Legal "Dr. Carlos Ybar" y de los Sevicios Médicos Legales del país.
+
+Artículo 128.- Corresponderá practicar las autopsias a los médicos que se indican en artículo 221 bis.
+En los lugares en que no haya facultativos que practiquen la autopsia judicial reconocerán el cadáver el juez y dos trestigos, y éstos extenderán sus certificados con los pormenores indicados en el artículo 126, en cuanto les sea posible. El juez preferirá como testigos a dentistas, veterinarios, profesores, matronas, enfermeras u otras personas que tengan alguna idoneidad para el caso.
+
+Art. 129. (150) En el caso de muerte por envenenamiento y en todos aquellos en que se sospeche muerte violenta y no aparezcan lesiones exteriores que puedan haberlas causado, el juez hará reconocer los sitios en que estuvo el difunto inmediatamente antes de su muerte y con especialidad su casa, para ver si en aquéllos o en ésta se encuentran venenos o rastros de cualquiera especie que acredite haberse hecho uso de ellos, recogerá los que hallare, y pondrá testimonio en los autos de todas aquellas señales que contribuyan a impedir que se puedan confundir con otras, tales como la cantidad, color, peso y otras cualidades específicas.
+Estos objetos quedarán depositados en poder del secretario, quien los guardará en caja o lugar cerrado y sellado y no los sacará durante el proceso sino cuando sea necesario practicar su examen y en la cantidad que baste para ese fin.
+
+Art. 130. (151) En caso de presunto envenenamiento, las substancias sospechosas encontradas en el cadáver o en otra parte, serán analizadas por el funcionario especialmente encargado de ese género de operaciones y en su defecto, por químico o farmacéutico designado por el juez.
+El juez podrá ordenar que se haga el análisis con el concurso o bajo la dirección de un médico.
+
+Art. 131. (152) Cuando se extraiga del agua un cadáver, se averiguará principalmente:
+1° Si la muerte ha sido resultado de la asfixia producida por el agua;
+2° Si ha sido causada por alguna enfermedad de que padeciera el difunto; y
+3° Si la sumersión fue posterior a la muerte.
+
+Artículo 132.- En el caso de presunción de muerte causada por atropellamiento de algún vehículo, el facultativo tendrá especial cuidado de investigar si existen en el cadáver señales que manifiesten que la muerte se había producido con anterioridad o si fue resultado de las lesiones ocasionadas por el atropello.
+
+Artículo 133.- Si se pesquisa el delito de infanticidio, el juez tratará de acreditar, por los medios legales y especialmente por informe de facultativos, si la presunta madre estuvo embarazada, cuál fue la época probable del parto, si la criatura nació viva y en estado de poder vivir fuera del seno materno, las causas que probablemente han producido la muerte, las horas que permaneció viva, y si en el cadáver se notan lesiones.
+
+Art. 134. (155) En el caso de aborto, se hará constar la existencia de la preñez, la época del embarazo, los signos demostrativos de la expulsión del feto, las causas que la hubieren determinado y la circunstancia de haber sido provocado por la madre, o por un extraño que hubiere procedido, ya sea con su consentimiento, ya sea ejecutando en ella actos de violencia, ya, por fin, abusando de su oficio de facultativo.
+Cuando el feto muerto en el vientre materno no hubiere sido expulsado, se averiguará también si por acción provocada se puso fin al desarrollo intrauterino.
+
+Art. 135. (156) Si se encontrare ahorcado a un individuo la investigación se dirigirá principalmente a establecer:
+1° Si el sujeto fue ahorcado vivo o suspendido después de muerto; y
+2° Si se ahorcó a sí mismo o fue ahorcado por otro.
+
+Art. 136. (157) Si se presumiere que ha habido suicidio, debe procederse a averiguar si alguien prestó ayuda a la víctima y en qué consistió la cooperación.
+
+Art. 137. (158) Si el cadáver ha sido sepultado antes del examen pericial, y las circunstancias permitieren creer que la autopsia puede practicarse útilmente y sin peligro para la salud de los que deben ejecutarla, el juez dará aviso al administrador del cementerio de que va a proceder a la exhumación, indicándole el día y hora en que se va a practicar.
+Trasladándose en seguida a ese establecimiento, acompañado de uno o más facultativos, averiguará el sitio donde fue sepultado el cadáver, lo hará exhumar y lo identificará en la forma dispuesta por el artículo 122, siendo ello posible, o con el testimonio de las personas que lo inhumaron o de otras que puedan reconocer al difunto.
+Practicadas estas diligencias de que se pondrá testimonio en autos, y ejecutada la operación pericial, el cadáver será nuevamente sepultado.
+
+###### II.- Lesiones corporales
+
+Artículo 138.- Toda persona a cuyo cargo inmediato se encuentre un hospital u otro establecimiento de salud semejante, sea público o privado, dará en el acto cuenta al juzgado del crimen de la entrada de cualquier individuo que tenga lesiones corporales, indicando brevemente el estado del paciente y la exposición que hagan el o las personas que le hubieren conducido acerca del origen de dichas lesiones y del lugar y estado en que se le hubiere encontrado. La denuncia deberá consignar el estado del paciente, describir los signos externos de las lesiones e incluir la exposición que hagan el afectado, o las personas que lo hubieren conducido, acerca del origen de dichas lesiones y del lugar y estado en que se le hubiere encontrado.
+En ausencia del jefe del establecimiento, dará cuenta el que le subrogue en el momento de entrada del enfermo.
+El incumplimiento de la obligación prevista en este artículo se castigará con la pena que señala el artículo 494 del Código Penal.
+
+Art. 139. (160) Siempre que llegue al conocimiento del juez, sea por el medio indicado en el artículo anterior o por cualquiera otro, que una persona ha sido herida, se trasladará al lugar en que se encuentre el herido con el fin de tomarle declaración, y dispondrá que uno o más facultativos procedan al examen de las lesiones.
+Si en el lugar no hubiere médico, el reconocimiento será hecho por el juez, asociado de dos testigos y se pondrá en autos testimonio de lo que observaren. Se considerará especialmente a los testigos que tengan alguna de las calidades mencionadas en el artículo 128.
+La descripción de las lesiones contenida en la denuncia a que se refiere el artículo 138, servirá de antecedente suficiente para acreditar la existencia de lesiones leves o menos graves, cuando entre la fecha en que éstas se ocasionaron y aquella en que se practique el examen médico pericial que decrete el tribunal, haya transcurrido un número tal de días que haya hecho desaparecer los signos y efectos de las lesiones.
+
+Art. 140. (161) El herido prestará su declaración bajo juramento y si, por razón de su estado, no pudiere referir todos los hechos cuyo conocimiento sea indispensable para la instrucción del sumario, debe tratarse de que exprese, a lo menos, quién le infirió las lesiones, para proceder a la citación o captura del inculpado en conformidad a la ley.
+La declaración completa será tomada en forma, tan pronto como el herido pueda prestarla.
+
+Art. 141. (162) Los facultativos describirán las lesiones, indicando el instrumento con que han sido causadas, su gravedad, los órganos afectados o mutilados, las consecuencias que ordinariamente tienen heridas de esta naturaleza y las que hayan acarreado en el caso actual, y expresarán además el tiempo que, según su parecer, el ofendido permanecerá enfermo o incapacitado para el trabajo a consecuencia de las lesiones.
+
+Artículo 142.- Mientras lo haga necesario la gravedad de sus lesiones, el herido deberá ser atendido y permanecer en los servicios hospitalarios del Estado, a menos que tuviere derecho o medios para ser atendido por su cuenta en un establecimiento particular.
+
+Artículo 143.- No siendo necesaria la hospitalización del herido, si careciere de medios para proveer por su cuenta a su curación será atendido en alguno de los establecimientos indicados en el artículo precedente.
+
+Art. 144. (165) El procesado tendrá también derecho de designar otro médico que, a su costa, intervenga en la asistencia del herido.
+
+Art. 145. (166) Los médicos que asistan al herido en un hospital u otro establecimiento público o privado semejante o fuera de él, darán parte de su estado en los períodos que el juez señale, y si el herido falleciere o sanare, comunicarán inmediatamente el hecho al mismo juez.
+En caso de muerte, se procederá con arreglo a lo dispuesto en los artículos 125 y 126.
+Si el herido sanare de las lesiones, los médicos, al dar cuenta del hecho, pondrán en conocimiento del juez el tiempo que ha durado la curación, o la circunstancia de haber quedado el ofendido temporal o absolutamente inútil para el trabajo, demente, impotente, impedido de algún miembro importante o notablemente deforme.
+Los datos expresados en los dos incisos anteriores deben constar en autos antes del pronunciamiento de la sentencia definitiva; salvo que el estado del herido permita presumir que no ocurrirá ninguna complicación posterior que influya en la agravación o disminución de la pena.
+
+###### III.- Delitos contra la propiedad
+
+Art. 146. (167) En los sumarios que se instruyen sobre delitos de hurto, robo, estafa y otros engaños, se acreditará la preexistencia de los objetos substraídos; se comprobará, en cuanto fuere posible, la identidad de los que se encontraren en poder del procesado o de una tercera persona; se reconocerá la fractura de puertas, armarios, arcas u otros objetos cerrados o sellados, y se pondrá testimonio de los rastros o vestigios que hubiere dejado el delito.
+En los delitos de hurto o robo será antecedente suficiente para acreditar la preexistencia de los objetos sustraídos, para todos los efectos procesales, la declaración jurada a que se refiere el inciso tercero del artículo 83 y el párrafo segundo del número 4° del artículo 120 bis.
+En los casos contemplados en el artículo 454 del Código Penal, no se requerirá acreditar la preexistencia de las cosas encontradas en poder del inculpado, ni el dominio ajeno. Ambas circunstancias se presumirán por el solo hecho de que el inculpado no pueda acreditar su legítima tenencia.
+Si del robo con violencia en las personas resultaren homicidios o lesiones, se procederá, además, en la forma que se indica en los artículos precedentes.
+
+Art. 147. (168) Siempre que sea necesario fijar el valor de la cosa objeto del delito, el juez la hará tasar por peritos. Al efecto, de estar la cosa en poder del tribunal, la entregará a éstos o les permitirá su inspección proporcionándoles los elementos directos de apreciación sobre los que deberá recaer el informe. De no estar la cosa en poder del tribunal, les proporcionará los antecedentes que obren en el proceso, en base a los cuales los peritos deberá emitir su informe.
+Si las cosas han sido hurtadas o robadas en lugar destinado al ejercicio de un culto permitido, se tasarán separadamente los objetos destinados a dicho culto de los que no lo son.
+Se tasarán por separado los animales hurtados o robados y las monturas u otros objetos que con ellos hayan sido substraídos.
+Todo lo anterior es sin perjuicio de lo dispuesto en LEY 18857 el artículo 455 del Código Penal.
+
+###### IV.- Falsedad
+
+Art. 149. (170) Si se tratare de la falsedad de un instrumento público o privado, en el acto de presentarse será firmado en todas las páginas por el juez y por la persona que lo presente.
+Antes de agregarlo al proceso o de ordenar su custodia, se levantará un acta en la que se expresará el estado material del instrumento y se enunciarán todas N° 30 las circunstancias que puedan indicar la falsedad o alteración, pudiendo agregarse su fotocopia autorizada.
+
+Art. 150. (171) El instrumento denunciado como falso será cotejado por peritos con el verdadero.
+
+Art. 151. (172) En los casos de falsificación de monedas o de documentos de créditos del Estado, de las municipalidades, de los establecimientos públicos, sociedades anónimas o bancos de emisión, u otros que sean registrados en la Casa de Moneda, las monedas o documentos falsificados serán examinados por el Jefe de aquella Casa, a fin de que informe sobre la existencia de la falsificación y sobre la manera como probablemente hubiere sido verificada.
+
+Art. 152. (173) Todo depositario público o privado de documentos impugnados de falsos está obligado a entregarlos al juez; pero dejará copia autorizada de ellos, cuando deban conservarse en una oficina pública.
+Previa la diligencia indicada en el artículo 149, el documento se agregará al proceso.
+Si éste formare parte de un registro del cual no pudiere ser desglosado, podrá disponer el tribunal que el registro en que figura la pieza se deposite en la secretaría.
+Terminado el juicio se devolverán los documentos y el registro o protocolo a la persona u oficina que los entregó.
+Si se hubiere declarado falso en todo o en parte un instrumento público, el tribunal ordenará al mismo tiempo que su devolución, que se le reconstituya, cancele o modifique, de acuerdo con la sentencia que hubiere expedido.
+
+Art. 153. (174) Cuando la falsedad consista en haberse contrahecho o fingido letra, firma o rúbrica, el juez hará cotejar por peritos la letra, firma o rúbrica que se dice falsificada con otras cuya autenticidad no ofrezca dudas.
+Puede además el juez ordenar a quien se supone autor del delito que escriba en su presencia algunas palabras o frases, cuando crea que esta diligencia pueda arrojar luz para la averiguación del delito o del delincuente.
+
+Art. 154. (175) Si, para la existencia del delito, se requiere que haya perjuicio de tercero, el juez investigará en qué consiste este perjuicio.
+
+###### V.- Incendio
+
+Artículo 155.- En los casos de incendio, deberá el juez inquirir si el fuego ha tenido origen en la casa o establecimiento de algún comerciante.
+Si así fuere y no se descubriere al autor desde el primer momento, hará tomar los libros y papeles del
+NOTA: 8
+comerciante, averiguará si el establecimiento incendiado estaba o no asegurado, el monto del seguro, y el valor del edificio, mercaderías o muebles objeto del seguro, existentes en la casa o establecimiento en el momento del incendio.
+Lo dicho es sin perjuicio de las normas especiales establecidas en el decreto con fuerza de ley N° 251, de 1931.
+NOTA: 8
+Véanse los artículos 30, 31, 32, 33, 34 y 36 del DFL N° 251, de 20 de mayo de 1931, sobre Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio.
+
+##### 3. De la entrada y registro en lugar cerrado, del registro de libros, papeles y vestidos y de la detención y apertura de la correspondencia epistolar y telegráfica
+
+Artículo 156.- Los tribunales pueden decretar la entrada y registro en cualquier edificio o lugar cerrado, sea público o particular, cuando hubiere indicio de encontrarse allí el inculpado o procesado, o efectos o instrumentos del delito, o libros, papeles
+NOTA: 9
+o cualesquiera otros objetos que puedan servir para descubrir un delito o comprobarlo.
+El registro deberá hacerse en el tiempo que media entre las siete y las veintiuna horas; pero podrá verificarse fuera de estas horas en casas de juego o de prostitución, o habitada por personas que se hallen sujetas a la vigilancia de la autoridad, o en lugares a que el público tenga libre entrada, como los hoteles y cafés, o en los casos de delitos flagrantes, o cuando urja practicar inmediatamente la diligencia. En este último caso, el decreto será fundado.
+Carabineros de Chile y la Policía de Investigaciones, en caso de delito flagrante y siempre que hubieren fundadas sospechas de que responsables del delito se encuentren en un determinado recinto cerrado, podrán, para los efectos de proceder a su detención, efectuar el registro de inmediato y sin previa orden judicial. El funcionario que practique el registro deberá individualizarse y cuidará que la diligencia se realice causando el menor daño y las menores molestias posibles a los ocupantes del recinto.
+Además, deberá otorgar al propietario o encargado del local, un certificado que acredite el hecho del registro, la individualización de los funcionarios que lo practicaron y de quien lo ordenó. Copia de este certificado deberá adjuntarse al parte policial respectivo, el cual deberá enviarse al tribunal competente, dentro de las 24 horas siguientes de efectuada la diligencia.
+La infracción a las obligaciones establecidas en este artículo, serán sancionada con la pena de reclusión menor en sus grados mínimo a medio.
+NOTA: 9
+Véanse la "Convención de Viena sobre relaciones diplomáticas" y la "Convención de Viena sobre relaciones consulares", publicadas en el Diario Oficial los días 4 y 5 de marzo de 1968, respectivamente.
+
+Art. 157. (178) Salvo en los casos expresados en el tercer inciso del artículo precedente, el registro no se verificará sino después de interrogar al individuo cuya casa o persona hubiere de ser registrada, y sólo si se negare a entregar voluntariamente la cosa que es objeto de la pesquisa o no desvaneciere los motivos que hayan aconsejado la medida.
+En este caso el auto en que el tribunal ordene la diligencia será siempre fundado, debiendo expresar con toda claridad cuál es el edificio o lugar cerrado en que haya de verificarse el registro.
+En ausencia del dueño, se interrogará a las personas indicadas en el artículo 161.
+
+Art. 158. (179) Para proceder al examen y registro de lugares religiosos, de edificios en que funciona alguna autoridad pública, el juez hará pasar recado de atención a la autoridad o persona a cuyo cargo estuvieren, quien podrá asistir a la operación o nombrar a alguna persona que asista.
+Tratándose de recintos militares o policiales, las diligencias a que se refiere el inciso anterior deberán cumplirse por intermedio de los Tribunales Militares de la correspondiente jurisdicción.
+
+Artículo 159.- Para la entrada y registro de las casas y naves que, conforme al Derecho Internacional, gozan de inviolabilidad, el juez pedirá su consentimiento al respectivo agente diplomático por oficio, en el cual le rogará que conteste dentro de veinticuatro horas. Este será remitido por conducto del Ministerio de Relaciones Exteriores.
+Si el agente diplomático negare su consentimiento o no contestare en el término indicado, el juez lo comunicará al Ministeroi de Relaciones Exteriores. Mientras el Ministro no conteste manifestando el resultado de las gestiones que practique el juez se abstendrá de entrar al lugar indicado; pero adoptará las medidas de vigilancia que se expresan en el artículo 162.
+En casos urgentes y graves, podrá el juez solicitar la autorización al agente diplomático directamente o por intermedio del secretario, que certificará el hecho de haberse concedido.
+
+Artículo 160.- Para el registro de los locales consulares o partes de ellos que se utilicen exclusivamente para el trabajo de la oficina consular, se deberá recabar el consentimiento del jefe de la oficina consular o de una persona que él designe, o del jefe de la misión diplomática del mismo Estado.
+Regirá, en lo demás, lo dispuesto en el artículo precedente.
+
+Art. 161. (182) El auto de entrada y registro se notificará al dueño o arrendatario del lugar o edificio en que hubiere de practicarse la diligencia o al encargado de su conservación o custodia.
+Si no fuere habida alguna de las personas expresadas, la notificación se hará a cualquiera persona mayor de edad que se hallare en dicho lugar o edificio.
+Si no se hallare a nadie, se hará constar esta circunstancia en el acta de la diligencia.
+
+Art. 163. (184) Practicadas las diligencias prescritas en los artículos anteriores, se procederá a la entrada y registro, empleando para ello, si fuere necesario, el auxilio de la fuerza.
+
+Art. 164. (185) En los registros deben evitarse las inspecciones inútiles, procurando no perjudicar ni molestar al interesado más de lo estrictamente necesario. El que lo practique adoptará las precauciones convenientes para no comprometer la reputación de aquél, y respetará sus secretos en cuanto esta reserva no dañe a la investigación.
+
+Art. 165. (186) El propietario, arrendatario o persona a cuyo cargo esté el local que se registra, será invitado para presenciar el acto; y, si estuviere impedido o ausente, la invitación se hará a un miembro adulto de la familia, o en su defecto, a una persona de la casa o a un vecino.
+INCISO DEROGADO.-
+Todos los concurrentes que pudieren, firmarán el acta que al efecto se levante, y si nada se descubriere de sospechoso en el local registrado, se dará testimonio de ella al interesado, si lo pidiere.
+
+Art. 166. (187) De los objetos que se recojan durante el registro se formará inventario, que se agregará al proceso, y se dará copia autorizada de dicho inventario al interesado que la pidiere.
+
+Art. 167. (188) El registro se practicará en un solo acto; pero podrá suspenderse cuando no fuere posible continuarlo, debiendo reanudarse apenas cese el impedimento.
+Suspendido el registro, se cerrarán y sellarán la parte del local y de los muebles en que hubiere de continuarse, en cuanto esta precaución se considere necesaria para evitar la fuga de la persona o la substracción de las cosas que se buscaren. Se adoptarán además en este caso las medidas indicadas en el artículo 162.
+
+Art. 168. (189) En la diligencia de entrada y registro en lugar cerrado, se expresarán los nombres del juez o funcionario que la practicare y de las demás personas que intervinieren en ella, los incidentes ocurridos, la hora en que hubiere principiado y aquella en que concluyere, la relación del registro en el mismo orden en que se hubiere efectuado y los resultados obtenidos.
+
+Art. 169. (190) No se practicará el registro de los libros y papeles de contabilidad del procesado o de otra persona sino por el mismo juez y en el único caso de aparecer indicios graves de que esta diligencia haya de resultar el descubrimiento o la comprobación de algún hecho o circunstancia importante en la causa.
+
+Art. 170. (191) El juez o funcionario comisionado para practicar la diligencia, recogerá los instrumentos y efectos del delito y podrá recoger también los libros, papeles o cualesquiera otros objetos que se hubieren encontrado, si lo estimare conducente para el adelanto de la investigación.
+Los libros y papeles que se recojan serán foliados, sellados y rubricados en todas sus hojas por el juez y el secretario. En un certificado autorizado por este último funcionario y firmado por los asistentes al acto se consignará el número de fojas útiles que se contienen en dichos libros o papeles y de él se dará copia al interesado, si la pidiere.
+
+Art. 171. (192) Toda persona que tenga objetos o papeles que puedan servir para la investigación será obligada a exhibirlos y entregarlos.
+Si la persona que los tenga o bajo cuya custodia o autoridad estén, rehúsa la exhibición, podrá ser apremiada del mismo modo que el testigo que se niega a prestar declaración, salvo que fuere de aquéllas a quienes la ley autoriza para negarse a declarar como testigo.
+Tratándose de documentos que tengan el carácter de secretos de acuerdo a las disposiciones del Código de Justicia Militar, se aplicará lo dispuesto en el artículo 53 bis de este Código.
+No serán aplicables respecto de los documentos a que se refiere este artículo, los N°s. 3° y 4° del artículo 455 del Código Orgánico de Tribunales.
+
+Artículo 172.- Podrá el juez, siempre que sus ocupaciones no le permitan proceder por sí mismo, encargar al secretario, acompañado de la fuerza pública si fuere necesario, la entrada y registro en lugar cerrado de que se trata en el presente párrafo.
+Los papeles objeto del registro sólo podrá examinarlos el juez y no el secretario comisionado, a menos que sea expresamente autorizado.
+En casos calificados, el juez, además, podrá encargar a Carabineros de Chile o a la Policía de Investigaciones la entrada y registro en lugar cerrado, conforme a lo establecido en el artículo 156. La orden respectiva deberá señalar el lugar preciso del registro, su finalidad y las especies que se ordena incautar, en su caso. En el evento que disponga el retiro de libros, papeles, registros o documentación mercantil o privada, el funcionario que realice la diligencia, sin perjuicio de estar autorizado para identificarlos, no podrá imponerse de su contenido y se limitará a su retiro en paquetes que sellará. Deberá dar recibo detallado de lo incautado al propietario o encargado del lugar. Los paquetes sólo podrán ser abiertos por el juez, en presencia del secretario, levantándose acta de lo obrado.
+
+Art. 173. (194) Cuando se tratare sólo de aprehender a una persona, el juez podrá comisionar para esta diligencia a un agente de policía, autorizándolo para entrar en edificio o lugar cerrado. El juez observará previamente, en su caso, las prescripciones de los artículos 158, 159 y 160.
+
+Art. 174. (195) El ejecutor de la orden de aprehensión presentará copia autorizada de ella al dueño de casa o, a falta de éste, a cualquiera de las personas que ahí se encuentren; y si ninguna persona apareciere en ella, la leerá en alta voz y la fijará en la puerta de calle.
+Acto continuo procederá al registro, sin emplear fuerza sino para abrir las puertas o ventanas en los lugares que se le resistieren, respetando las personas a quienes no se refiera el mandamiento.
+Terminado el registro, el ejecutor tomará las precauciones convenientes para evitar perjuicios al dueño de la casa allanada.
+
+Art. 175. (196) Podrá el juez ordenar el registro de los vestidos que actualmente lleven personas respecto de quienes haya indicios para creer que ocultan en ellos objetos importantes para la investigación o comprobación de un delito.
+Para practicar este registro se comisionará a personas del mismo sexo de la registrada y se guardarán a éstas las consideraciones compatibles con la correcta ejecución del acto.
+
+Artículo 176.- Podrá el juez ordenar la retención de la correspondencia privada, sea postal, telegráfica o de otra clase, que el procesado o inculpado remitiere o recibiere, y la de aquella que, por razón de especial circunstancias, se presuma que emana de él o le está dirigida, aún bajo nombre supuesto, siempre que se pueda presumir que su contenido tiene importancia para la investigación. También podrá emitir esta orden el juez respecto de cualquier otro objeto que remitiere o recibiere el procesado.
+El decreto del juez se hará saber a los jefes de los respectivos servicios de comunicaciones para que lleven a efecto la retención de la correspondencia, que entregarán bajo recibo al secretario del juzgado.
+
+Artículo 177.- El juez podrá, asimismo, ordenar que por cualquiera empresa de telégrafos o cables, o de otros sistemas de comunicación semejantes, se le faciliten copias de los telegramas, cablegramas o comunicaciones transmitidos o recibidos por ella, si lo estimare conveniente para el descubrimiento o comprobación de algún hecho de la causa. Podrá, además, exigir las versiones que existieren de las transmisiones por radio o televisión.
+
+Artículo 178.- La apertura y registro de la correspondencia de que tratan los dos artículos precedentes, se decretará por resolución fundada, en la cual se determinará con la precisión posible la correspondencia que debe ser objeto de esta medida.
+
+Artículo 179.- DEROGADO.-
+
+Art. 180. (201) El juez abrirá por sí mismo la correspondencia y, después de leerla para sí, apartará la que haga referencia a los hechos de la causa y cuya conservación considerare necesaria.
+En seguida tomará las notas que convenga para practicar las investigaciones a que la correspondencia diere lugar, rubricará y hará que los asistentes rubriquen los sobres y hojas, los sellará con el sello del juzgado, y, encerrándolo todo en otro sobre, al cual pondrá un rótulo para su reconocimiento, lo conservará en su poder durante el sumario bajo su responsabilidad.
+Este cierro podrá abrirse cuantas veces el juez lo estime necesario, y cada vez que se habra se citará al interesado para que presencie la operación en la forma dispuesta en los artículos precedentes.
+
+Art. 181. (202) La correspondencia que no se relacionare con la causa será entregada en el acto a la persona a quien pertenezca o a la que ésta comisionare al efecto o, a falta de ambas, a algún miembro inmediato de su familia.
+En todo caso, será devuelta la correspondencia una vez terminado el sumario.
+La que hubiere sido extraída de servicios de comunicaciones será devuelta a ellos después de cerrada y escrita nuevamente la dirección que antes tenía, dándoseles para su resguardo el certificado correspondiente.
+
+Art. 182. (203) Si durante la pesquisa de que se trata en el presente párrafo, se descubrieren objetos o datos que permitan sospechar la existencia de un delito distinto del que es materia del sumario y del cual nazca acción pública, el juez, si tuviere competencia para el juzgamiento del nuevo delito, extenderá a él sus investigaciones, formando o no proceso separado según las reglas legales; pero si careciere de competencia, se limitará a recoger los datos u objetos encontrados y a ponerlos a disposición del juez correspondiente con una relación de los antecedentes del caso.
+En tal evento, se observarán las disposiciones establecidas en los artículos precedentes.
+
+Artículo 183.- Las disposiciones de este párrafo no obstan a las atribuciones que las leyes confieren a la autoridad administrativa en materia de allanamientos; pero desde que la autoridad judicial comience a obrar en un proceso, aquella se abstendrá de toda medida que con él se relacione, a menos que sea expresamente requerida por el juez de la causa.
+
+##### 4. De los documentos
+
+Artículo 184.- Para que los instrumentos públicos sean eficaces en juicio, se requiere:
+1° Que los traídos al proceso, sean puestos en conocimiento de la otra parte y cotejados con los originales, si los hubiere, si alguno de los interesados solicitare esta diligencia.
+Tratándose de documentos originales o que carecen de matriz, podrá pedirse, para que sean eficaces, que se reconozcan por el funcionario autorizante y, si no pudieren ser reconocidos por éste, el cotejo de firma o letra en la forma prevista en el artículo 188. El juez decretará esta diligencia si no la ha ordenado de oficio y sólo cuando los instrumentos tengan trascendencia para el resultado del proceso;
+2° Que los testimonios o certificados sean expedidos por el funcionario determinado por la ley, por el encargado del archivo o registro en que se hallen los originales, o por el secretario de la causa, y
+3° Que, si no se presenta íntegro el instrumento, se le adicione, a petición de cualquiera de los interesados o de oficio, con las otras partes de él que tengan relación con el proceso.
+
+Artículo 185.- El cotejo de instrumentos públicos se hará por el juez o por el secretario de la causa, cuando el primero lo ordene.
+
+Art. 186. (207) Los instrumentos extendidos en idioma diverso del castellano, que las partes presentaren al juicio, serán acompañadas de su respectiva traducción.
+El juez, de oficio o a petición de parte, podrá ordenar que la traducción sea revisada por un perito, que designará al efecto.
+Si el documento fuere agregado por orden del juez expedida de oficio, será mandado traducir por un perito; y se agregarán a los autos el original y la traducción.
+Los instrumentos públicos otorgados fuera de Chile se legalizarán en la forma expresada en el artículo 345 del Código de Procedimiento Civil.
+
+Artículo 187.- Los instrumentos privados deben ser reconocidos por las personas que los han escrito o firmado. Este reconocimiento se efectuará en la forma de una confesión o de una declaración de testigos, según emanare de alguna de las partes o de otra persona.
+Empero, si pareciere que la exhibición de estos instrumentos a tales personas hubiere de frustrar las diligencias del sumario, se podrá entretanto establecer la procedencia u origen de dichos instrumentos por declaraciones de testigos o por cualquier otro medio probatorio.
+
+Art. 188. (209) Si se negare o pusiere en duda la autenticidad de un instrumento privado, el juez nombrará dos peritos calígrafos para que cotejen la letra o firma del documento con la de otra que sea realmente de la persona a quien se atribuya.
+
+##### 5. De las declaraciones de testigos
+
+Art. 189. (210) Toda persona que resida en el territorio chileno y que se hallare legalmente exceptuada, tiene obligación de concurrir al llamamiento judicial para declarar en causa criminal cuando supiere sobre lo que el juez le preguntare, si para ello ha sido citada con las formalidades prescritas por la ley.
+Todo testigo consignado en el parte policial, o que se presente voluntariamente a Carabineros de Chile, a la Policía de Investigaciones, o al tribunal, podrá requerir de éstos la reserva de su identidad respecto de terceros.
+Las autoridades referidas deberán dar a conocer este derecho al testigo y dejar constancia escrita de su decisión, quedando de inmediato afectas a la prohibición que se establece en el inciso siguiente.
+Si el testigo hiciere uso de este derecho, queda prohibida la divulgación, en cualquier forma, de su identidad o de antecedentes que conduzcan a ella. El tribunal deberá decretar esta prohibición. La infracción a esta norma será sancionada con la pena que establece el inciso segundo del artículo 240 del Código de Procedimiento Civil, tratándose de quien proporcione la información. En caso que la información sea difundida por algún medio de comunicación social, su director será castigado con una multa de diez a cincuenta ingresos mínimos mensuales.
+Esta prohibición regirá hasta el término del secreto del sumario.
+Sin perjuicio de lo anterior, el juez, en casos graves y calificados, podrá disponer medidas especiales destinadas a proteger la seguridad del testigo que lo solicite. Dichas medidas durarán el tiempo razonable que el tribunal disponga y podrán ser renovadas cuantas veces fueren necesarias.
+
+Art. 190. (211) El testigo que legalmente citado no compareciere podrá ser compelido por medio de la fuerza a presentarse ante el tribunal que haya expedido la citación, a menos que compruebe que ha estado en la imposibilidad de concurrir.
+Si compareciendo se negare sin justa causa a declarar, podrá ser mantenido en arresto hasta que preste su declaración.
+Todo lo cual se entiende sin perjuicio de la responsabilidad penal que pueda afectar al testigo rebelde.
+Ninguna de estas medidas se hará efectiva contra el testigo que comprobare su imposibilidad para asistir al llamamiento del juez.
+
+Art. 191. (212) No están obligados a concurrir al llamamiento judicial de que se trata en los artículos precedentes:
+1° El Presidente de la República y los ex Presidentes; los Ministros de Estado;
+los Subsecretarios; los senadores y diputados; el Contralor General de la República y los ex Contralores Generales; los intendentes y los gobernadores, dentro del territorio de su jurisdicción; los miembros de la Corte Suprema o de alguna Corte de Apelaciones; los fiscales de estos tribunales; los ex Ministros de la Corte Suprema; los jueces letrados; los Oficiales Generales en servicio activo o en retiro; el arzobispo y los obispos; los vicarios generales y los vicarios capitulares;
+2° Las personas que gozan en el país de inmunidades diplomáticas;
+3° Las religiosas y las mujeres que por su estado o posición no pueden concurrir sin grave molestia; y
+4° Los que, por enfermedad u otro impedimento calificado por el juez, se hallen en imposibilidad de hacerlo.
+
+Artículo 192.- Las personas comprendidas en el número 1° del artículo precedente, prestarán su declaración por medio de informe, expresando que lo hacen bajo el juramento o promesa que la ley exige a los testigos; pero los miembros y fiscales de los
+NOTA: 10
+tribunales superiores no declararán sin permiso de la Corte respectiva, quien no lo concederá si juzga que sólo se trata de establecer una causal de recusación contra el miembro o fiscal de ella, cuya declaración se solicita.
+Podrán también ser examinados en su domicilio o en su residencia oficial, previo aviso y fijación de día y hora, siempre que el juez de la causa lo estimare necesario para los efectos a que se refiere el inciso segundo del artículo 198, para lo cual dictará un auto motivado ordenando la práctica de la diligencia.
+Las personas comprendidas en el número 2° declararán también por medio de informe, si se prestan a ello voluntariamente y al efecto, se les dirigirá oficio respetuoso por intermedio del Ministerio respectivo. El chileno que ejerza en el país funciones diplomáticas por encargo de un Gobierno extranjero, no podrá negarse a informar.
+Los comprendidos en los números 3° y 4° serán examinados en su propia morada por el juez de la causa, acompañado del secretario.
+El privilegio a que se refieren este artículo y el anterior es esencialmente renunciable, compareciendo a declarar ante el tribunal. Si informaren, deberán hacerlo en el término de diez días contados desde la remisión del oficio correspondiente, hecho que se certificará en el proceso. Si no lo hicieren dentro de dicho plazo, deberán comparecer a declarar, previa citación.
+Si en concepto del juez no fuere necesaria la comparecencia personal de un jefe de servicio de la Administración del Estado a declarar sobre hechos relativos a esas instituciones, podrá limitarse a recabar de ellos un informe escrito prestado bajo juramento o promesa, el que se apreciará conforme a las reglas de la prueba testimonial.
+Las personas a que se refiere el inciso precedente y aquellas no comprendidas en el artículo 191, respecto de quienes leyes especiales prescriban que prestarán su declaración por oficio, estarán obligadas a concurrir al tribunal, si éste estima que la declaración que hubieren hecho mediante informe es insuficiente para los fines de la investigación.
+NOTA: 10
+Ver artículo 192 de la ley 10336 sobre Organización y Atribuciones de la Contraloría General de la República.
+
+Art. 193. (214) El juez hará concurrir a su presencia y examinará por sí mismo a los testigos indicados en la denuncia, querella o auto cabeza de procesos, o en cualesquiera otras declaraciones o diligencias y a todos los demás que supieren hechos o circunstancias, o poseyendo datos convenientes para la comprobación o averiguación del delito y del delincuente.
+
+Art. 194. (215) El juez mandará extender orden de citación para cada persona designada como testigo que, residiendo en el territorio de su jurisdicción, no fuere de las exceptuadas por el artículo 191.
+Esta orden será firmada por el secretario y en ella se expresarán el día, hora y lugar que el testigo debe presentarse.
+Cuando sea urgente el examen de un testigo, podrá citársele verbalmente para que comparezca en el acto sin esperar que se expida orden escrita de citación; pero se hará constar en los autos el motivo de la urgencia.
+
+Artículo 195.- La citación se practicará por un agente de policía. Podrá también llevarse a efecto por cualquier ministro de fe o empleado del tribunal comisionado para ello, quien podrá exigir de la persona citada que firme en la misma boleta y que, en caso de impedimento para concurrir, anote la causa que lo motiva. El encargado de la diligencia, que no fuere ministro de fe, podrá llevar un testigo que dé testimonio de haberse efectuado, cuando la persona a quien se notifica no quisiere o no pudiere firmarla.
+
+Art. 196. (217) La citación personal del testigo se hará en cualquier lugar en que éste sea habido.
+El testigo que, estando presente en el lugar del juicio, no pudiere, sin embargo, ser encontrado para citarlo, después de haber sido buscado en su casa en dos días diversos, o dos veces en un solo día con intervalo de cuatro horas, será citado por cédula, previo decreto judicial.
+El encargado de practicar la diligencia devolverá la boleta al juzgado con certificación del día y hora en que hubiere ejecutado la orden recibida o del inconveniente que haya impedido darle cumplimiento, de lo cual pondrá el secretario testimonio en autos.
+
+Art. 197. (218) Si la persona llamada a declarar ejerce funciones de servicio público que no puedan ser desamparadas, conjuntamente con citarla el juez dará aviso de la citación al jefe respectivo. Este tomará inmediatamente las providencias necesarias para que, sin daño del servicio, sea cumplida la orden del juez.
+Tratándose de personal de las Fuerzas Armadas y Carabineros de Chile, que no esté exento de la obligación de concurrir, el juez de la causa podrá encomendar la práctica de la diligencia al juez militar de instrucción que corresponda en virtud del exhorto que se regirá por las disposiciones señaladas en el artículo 198.
+Si el tribunal no hiciere uso de la facultad contemplada en el inciso anterior, deberá comunicar la citación al jefe respectivo quien hará que se cumpla la orden del tribunal. No obstante, si razones impostergables de servicio lo hicieren necesario, la autoridad militar o de carabineros correspondiente podrá solicitar al juez de la causa que proceda en la forma establecida en el inciso segundo del artículo 192. Si el juez denegare esta solicitud, deberá hacerlo en un auto motivado.
+
+Art. 198. (219) Si el testigo reside en un lugar distinto de aquel en que tiene su territorio jurisdiccional el tribunal que instruye el sumario, será examinado por el juez de letras o de policía local a quien se cometa la diligencia, en virtud del exhorto en que se expresen los hechos, citas y preguntas acerca de los cuales deba ser interrogado.
+Pero si el juez de la causa estime necesario oír por sí mismo al testigo, para la comprobación del delito, para el reconocimiento de la persona del delincuente o para otro objeto, igualmente importante, puede ordenar en auto motivado que el testigo comparezca ante él.
+El exhorto, una vez cumplido, será devuelto cerrado y sellado al tribunal de su origen, quien mandará agregarlo al sumario.
+
+Art. 199. (220) Si el testigo se encontrare en el extranjero, se dirigirá por la vía diplomática una carta rogatoria al tribunal del lugar en que aquél residiere o se hallare actualmente, a fin de que le tome su declaración. Dicha carta contendrá los antecedentes necesarios e indicará las preguntas que deban hacerse al testigo, sin perjuicio de que dicho juez las amplíe según le sugieran su discreción y prudencia.
+La carta contendrá la promesa de reciprocidad, y será examinada por la Corte Suprema antes de que este tribunal la remita al Ministerio de Relaciones Exteriores para hacerla llegar al tribunal a quien va dirigida.
+No obstante, los funcionarios del servicio diplomático o consular chileno que se encuentren en el extranjero, deberán declarar por oficio, si así lo ordena el juez. El oficio se dirigirá por intermedio del Ministerio de Relaciones Exteriores al jefe de aquellos servicios, según corresponda, para que proceda a darle cumplimiento en un breve plazo y devolver lo obrado por la misma vía.
+
+Art. 200. (221) Si el testigo no tuviere domicilio conocido o si se ignorare su paradero, el juez dictará las órdenes convenientes para que la policía lo averigüe.
+
+Art. 202. (223) El juez advertirá al testigo que se halle comprendido en el número 1° del artículo anterior que no tiene la obligación de declarar en contra del procesado; pero que puede hacer las manifestaciones que considere oportunas, y se consignará la contestación que diere a esta advertencia. El testigo podrá retractar cuando quisiere el consentimiento que hubiere dado para prestar su declaración.
+Los testigos comprendidos, tanto en el número 1° como en el 2° del artículo precedente, estarán obligados a declarar respecto de los demás procesados a quienes no estén ligados con las relaciones que en dichos números se expresan, a no ser que su declaración pueda comprometer a aquellos con quienes tienen esa relación.
+
+Artículo 203.- Todo testigo, antes de ser interrogado, prestará juramento o promesa de decir la verdad sobre lo que fuere preguntado, sin añadir ni ocultar nada de lo que conduzca al esclarecimiento de los hechos.
+No se tomará juramento ni promesa a los menores de dieciséis años, a las personas indicadas en el número 1° del artículo 201, ni a aquellos de quienes se sospeche que hayan tomado parte en los delitos que se investigan, en calidad de autores, cómplices o encubridores.
+
+Art. 204.(225) Inmediatamente después de haber prestado juramento o promesa el testigo, el juez le instruirá de la obligación que tiene de ser veraz y de las penas con que la ley castiga el delito de falso testimonio en causa criminal.
+Podrá omitirse esta instrucción respecto de aquellos testigos que manifiestamente no la necesiten.
+
+Art. 205. (226) Salvo los casos exceptuados por la ley, los testigos serán examinados separada y secretamente por el juez en presencia del secretario.
+
+Art. 206. (227) Se comenzará el examen por aquellos a quienes se presuma sabedores del hecho, entre los que deben contarse el ofendido, las personas de su familia y aquellas que dieron parte del delito.
+
+Art. 207. (228) Todo testigo comenzará por manifestar su nombre y apellidos paterno y materno, su edad, lugar de su nacimiento, su estado, profesión, industria o empleo, la casa en que vive, si conoce al ofendido y al procesado, y si tiene con ellos parentesco, amistad o relaciones de cualquier clase.
+Cuando lo estime necesario, podrá también el juez interrogar al testigo sobre si ha estado alguna vez preso y cuál ha sido el resultado del proceso a que se le hubiere sometido.
+
+Art. 208. (229) El juez dejará que el testigo que no sea de referencia, narre sin interrupción los hechos sobre los cuales declara, y solamente le exigirá las explicaciones complementarias que sirvan para desvanecer la obscuridad o contradicción de que pudieran adolecer algunos conceptos.
+Después le dirigirá las preguntas que crea oportunas para el esclarecimiento de los hechos.
+
+Art. 209. (230) Los testigos de referencia serán examinados al tenor de las citas que de ellos se hubieren hecho.
+Al efecto, el juez les manifestará cuál es el punto sobre que versa la cita y les dará todas las explicaciones convenientes para la recta inteligencia del negocio. Instruidos de esta manera, contestarán afirmativa o negativamente sobre los hechos, y si agregaren algunos esclarecimientos, se expresarán en la diligencia en que se consigne la declaración.
+
+Art. 210. (231) Todo testigo debe explicar circunstanciadamente los hechos sobre que declara y dar razón de su dicho, expresando si los ha presenciado, si los deduce de antecedentes que conoce, o si los ha oído referir a otras personas, cuyo nombre y residencia determinará en cuanto le sea posible.
+
+Art. 211. (232) La declaración se prestará de viva voz y sólo se permitirá que el testigo consulte apuntes o memorias escritas cuando se trate de consignar datos minuciosos o complicados, que sea difícil retener en la memoria.
+
+Art. 212. (233) El juez podrá ordenar que se conduzca al testigo al lugar en que hubieren ocurrido los hechos, a fin de examinar allí, o poner a su presencia los objetos sobre los cuales hubiere de versar la declaración.
+Podrá también hacer que el testigo describa circunstanciadamente dichos objetos y que los reconozca entre otros semejantes, o adoptar las medidas que su prudencia le sugiera para asegurarse de la exactitud de la declaración.
+
+Art. 213. (234) No se harán al testigo preguntas capciosas ni sugestivas, ni se empleará coacción, promesa, engaño ni artificio alguno para obligarlo o inducirlo a declarar en determinado sentido.
+
+Art. 214. (235) Si el testigo no supiere el idioma castellano, será examinado por medio de un intérprete mayor de dieciocho años, quien prometerá bajo juramento desempeñar bien y fielmente el cargo.
+Por conducto del intérprete se interrogará al testigo y se recibirán sus contestaciones, las cuales serán consignadas en el idioma del testigo, si éste no entendiere absolutamente el castellano. En tal caso, se pondrá al pie de la declaración la traducción que de ella haga el intérprete.
+
+Art. 215. (236) Si el testigo fuere sordo, las preguntas le serán dirigidas por escrito; y si fuere mudo, dará por escrito sus contestaciones.
+Si no fuere posible proceder de esta manera, la declaración del testigo será recibida por intermedio de una o más personas que puedan entenderse con él por signos, o que comprendan a los sordo-mudos. Estas personas prestarán previamente el juramento de que se trata en el primer inciso del artículo precedente.
+
+Art. 216. (237) Terminada la declaración, se la extenderá por escrito en el proceso; y el testigo podrá, bajo la dirección del juez, dictar por sí mismo sus contestaciones.
+La diligencia comenzará por expresar la fecha en que se hubiere practicado y los demás pormenores indicados en el artículo 207.
+Redactada la declaración, será leída por el testigo, o por el secretario o por el intérprete en su caso, si aquél no pudiere o no quisiere hacerlo después de advertido de su derecho para leer la declaración por sí mismo, de todo lo cual se pondrá testimonio al pie de ella.
+El testigo podrá hacer las enmiendas, adiciones o aclaraciones que tenga a bien, todo lo cual se expresará con claridad a la conclusión de la diligencia, sin enmendar por eso lo que en ella se hubiere escrito.
+La diligencia será firmada por el juez, y demás personas que hubieren intervenido en ella si pudieren hacerlo, y autorizada por el secretario. Si alguno se negare a firmar, se hará mención de esta circunstancia.
+
+Art. 217. (238) No se consignarán en el proceso las declaraciones de los testigos que, en concepto del juez, fueren manifiestamene inconducentes para la comprobación de los hechos objeto del sumario. Tampoco se consignarán en cada declaración las manifestaciones del testigo que se hallaren en el mismo caso, pero sí todo lo que pueda servir tanto de cargo como de descargo.
+En el primer caso se pondrá testimonio de la comparecencia del testigo y del motivo de no escribirse su declaración.
+
+Art. 218. (239) El juez hará saber al testigo la obligación que tiene de comparecer a declarar cada vez que se le cite y a poner en conocimiento de dicho juez cualquier cambio de domicilio o de morada que efectúe dentro de los cuatro meses subsiguientes a su declaración, o hasta que se ratifique durante el plenario, en el caso de que se pida esta diligencia.
+De estas prevenciones se dejará testimonio al final de la declaración, y al margen de la misma se anotarán los cambios de domicilio o de morada del testigo.
+Cesará la obligación que el inciso 1° impone al testigo si, pedida su ratificación, se practica la diligencia antes del vencimiento del plazo señalado en dicho inciso.
+
+Art. 220. (241) El testigo que viviere solamente de su jornal diario, tendrá derecho a que la persona que lo presente le indemnice de la pérdida de tiempo que le ocasionare su comparecencia para prestar declaración o para practicar otra diligencia de interés en el juicio.
+Se entenderá renunciado este derecho si no se ejerciere en el plazo de veinte días contados desde la fecha en que se presta la declaración o se practica la diligencia.
+En caso de desacuerdo, estos gastos serán regulados por el tribunal sin forma de juicio y sin ulterior recurso.
+Si la diligencia ha sido practicada de oficio o a petición del Ministerio Público o de una parte que goce del beneficio de pobreza, la indemnización será pagada por la respectiva Municipalidad, que podrá repetir contra el civilmente responsable, en el caso de que alguno fuere declarado tal.
+
+##### 6. Del informe pericial
+
+Artículo 221.- El juez pedirá informe de peritos en los casos determinados por la ley, y siempre que para apreciar algún hecho o circunstancia importante, fueren necesarios o convenientes conocimientos especiales de alguna ciencia, arte u oficio.
+En las comunas o agrupaciones de comunas en que exista un servicio público costeado con fondos fiscales o municipales destinado a practicar actuaciones o diligencias periciales de la naturaleza de las requeridas por el tribunal para el proceso, deberá encargarse de preferencia a dicho servicio evacuar el respectivo dictamen pericial y en caso de que alguno de los empleados de esa oficina sea designado nominativamente para efectuar la diligencia, no tendrá remuneración especial por esta labor.
+Si en la comuna o agrupación de comunas no existiere dicho servicio, los peritajes se encargarán de preferencia a los servicio o empresas fiscales, semifiscales, de administración autónoma o municipales que tengan idoneidad para practicarlos; pero si alguno de sus funcionarios fuere designado nominativamente para llevar a cabo la pericia, tendrá derecho a honorarios.
+No obstante lo dispuesto en los incisos anteriores, el tribunal podrá, cuando fuere necesario, designar peritos que figuren a las listas a que se refiere el inciso siguiente.
+Las listas de peritos serán propuestas cada dos años por la Corte de Apelaciones respectiva, previa determinación del número de peritos que en su concepto deban figurar en cada especialidad.
+En el mes de octubre del final del bienio correspondiente, se elevarán estas listas a la Corte Suprema, la cual formará las listas definitivas, pudiendo suprimir o agregar nombres sin expresar causa.
+Estas listas definitivas de peritos serán publicadas en el Diario Oficial en la primera quincena del mes de enero y regirán durante dos años desde la fecha de su publicación.
+Se entenderá que pertenecen de pleno derecho a las listas los institutos científicos de las universidades, las personas que los integren y las que profesen docencia universitaria, aunque no figuren en ellas.
+Con todo, el juez podrá designar como peritos a otras personas.
+El Presidente de la República, por intermedio del Ministerio de Justicia, fijará, periódicamente y cuando lo estime conveniente, el arancel que deberán cobrar los peritos nombrados en virtud de lo dispuesto en el inciso cuarto de este artículo.
+
+Artículo 221 bis.- En los casos de autopsia o examen médico, el juez deberá designar al legista correspondiente, a menos que existan razones que aconsejen el nombramiento de un perito diverso en determinado caso, las que se expondrán en auto motivado.
+En los lugares en que los médicos legistas no tuvieren la especialidad precisa que requiera el informe, se designará otro u otros peritos, según las reglas establecidas en el artículo 221.
+
+Art. 222. (243) Sólo en defecto de personas que tengan título profesional conferido conforme a la ley, podrán ser nombrados en el carácter de peritos personas no tituladas, pero que tengan competencia especial en la materia sobre que debe versar el informe.
+En los delitos contra la honestidad se hará recaer el nombramiento, siempre que fuere posible sin contrariar la disposición del inciso precedente, en persona del mismo sexo de aquella que debiere ser reconocida.
+
+Art. 223. (244) El tribunal determinará, en cada caso, si el reconocimiento debe hacerse por uno o más peritos.
+
+Artículo 224.- En los juicios en que se ejercite la acción pública, el nombramiento de perito corresponde al juez, quien habrá de designar como tal, en los casos de autopsia o examen médico, al facultativo que lo sea de la ciudad o, a falta de éste, al de la Municipalidad respectiva, a menos de existir razones especiales que aconsejen la designación de otro y que se expondrán en auto motivado.
+Sin perjuicio de lo dispuesto en el inciso anterior, puede cada parte nombrar a su costa, un perito que se asocie al designado por el juez, salvo que, en concepto del tribunal, la intervención de estos peritos pudiera perjudicar al éxito de las investigaciones. Los trámites de nombramiento y aceptación del cargo no retardarán en este caso el reconocimiento, y sólo podrá nombrarse un perito por todos los querellantes y otro por las demás partes, y cuando aquéllos o éstas sean varios. No obstante, el juez, por motivos calificados, podrá aceptar un mayor número de peritos por cada parte y determinar si deben actuar en forma separada o asociados.
+
+Artículo 225.- Si las partes hicieren uso de la facultad que les concede el inciso segundo del artículo anterior, manifestarán al juez el nombre del perito, y ofrecerán, al hacer esta manifestación, los comprobantes de tener dichos peritos título profesional conferido conforme a la ley, salvo el caso de excepción indicado en el artículo 222.
+En ningún caso podrán hacer uso de dicha facultad después de iniciada la diligencia pericial.
+El juez resolverá sobre la admisión de estos peritos breve y sumariamente, procediendo en la forma determinada para las recusaciones en el artículo 234.
+
+Artículo 226.- El nombramiento se hará saber a los peritos por medio de oficio o de notificación. La notificación podrá hacerse en casos urgentes, y previo decreto del juez, por un oficial del tribunal o por un agente de policía.
+
+Artículo 227.- Toda persona designada como perito está obligada a aceptar el encargo que se le confía, siempre que esté oficialmente comisionada para este objeto, como el médico legista, o que tenga título oficial, o que ejerza públicamente la ciencia, arte, u oficio cuyo conocimiento se juzga necesario para el informe pericial.
+Las personas que no se hallaren en ese caso o que tengan algún impedimento, deberán exponer su excusa al juez, dejándose constancia en el acto de la notificación o manifestándola por escrito presentado en el mismo día.
+
+Art. 228. (250) El perito que, sin alegar excusa, o cuya excusa sea desechada por el juez, se negare a desempeñar el encargo podrá ser apremiado en la forma establecida para los testigos en el artículo 190.
+
+Art. 229. (251) No podrán prestar informe pericial acerca del delito las personas a quienes el artículo 201 exime de la obligación de declarar como testigos.
+
+Art. 230. (252) El nombramiento de peritos se notificará inmediatamente a las partes.
+
+Artículo 231.- Los peritos nombrados por el tribunal podrán ser recusados por las partes en virtud de una causa legal. Los que fueren designados por las partes podrán ser tachados del mismo modo que los testigos, durante el plenario.
+
+Art. 233. (255) La parte que intente recusar a un perito, deberá hacerlo por escrito antes de empezar la diligencia pericial, expresando la causa de la recusación, el nombre y residencia de los testigo de que piensa valerse, y acompañando la prueba documental, o designando el lugar en que ésta se halle, si no la tuviere a su disposición.
+
+Artículo 234.- Cuando la causa alegada fuere una de las señaladas en el artículo 232 y el perito la reconozca como cierta, el tribunal podrá tenerlo por recusado y designar otro perito de inmediato, si estima que el fundamento reconocido es suficiente para configurarla.
+Si el perito no la reconoce o el juez estima que el motivo aceptado es insuficiente, ordenará que se agregue a los autos la prueba documental de que haya hecho mención el recusante y mandará que comparezcan los testigos indicados, notificando previamente a las partes la resolución correspondiente y fijando para ello un plazo de hasta diez días.
+En el día y hora fijados y en presencia de las partes que concurran, examinará en forma legal a los testigos, acerca de la existencia de la causa de recusación. Con el mérito de estas declaraciones o el de la prueba instrumental rendida, se pronunciará sin más trámites sobre la recusación; y si da lugar a ella, procederá a nombrar nuevo perito.
+Si la causa no fuere una de las designadas en el artículo 232, o si no se ofreciere prueba para acreditarla, el juez rechazará de plano la recusación. Las resoluciones a que se refiere este artículo no son apelables.
+
+Art. 235. (257) Si la diligencia de reconocimiento encomendada a peritos no pudiere retardarse, deberá procederse a efectuarla, no obstante la recusación.
+
+Artículo 236.- Las personas que por razón de su cargo están llamadas a desempeñar ordinariamente las funciones de perito, prestarán una sola vez juramento o promesa de buen desempeño del encargo en la forma que se indica en el inciso siguiente, ante el juez del crímen, y si hubiere dos o más en la comuna o agrupación de comunas, ante el del Primer Juzgado. De este juramento o promesa se pondrá testimonio en el libro de decretos económicos y será comunicado a los otros jueces para su debida constancia en el libro indicado del respectivo tribunal.
+Los demás peritos prestarán juramento o promesa ante un ministro de fe, de que emitirán su parecer con imparcialidad, en el menor tiempo posible y conforme a los principios de la ciencia o reglas del arte u oficio que profesan, y de que guardarán reserva sobre los datos y conclusiones de su informe.
+
+Art. 237. (259) El informe pericial se presentará por escrito y contendrá:
+1° La descripción de la persona o cosa que sea objeto de él, del estado y del modo en que se hallare;
+2° La relación circunstanciada de todas las operaciones practicadas y de su resultado; y
+3° Las conclusiones que, en vista de tales datos, formulen los peritos conforme a los principios o reglas de su ciencia, arte u oficio.
+Si las circunstancias lo exigieren, y sin perjuicio del informe definitivo, el juez podrá pedir a los peritos un preinforme provisorio, del que se dejará constancia en autos en la forma de una declaración.
+
+Art. 238. (260) Si para verificar el reconocimiento fuere necesario alterar o destruir la cosa que ha de reconocerse, se la dividirá, si fuere posible, y se reservará una parte, la cual se conservará intacta y en seguridad bajo el sello del juzgado para reiterar la operación, si llegare a ser necesario.
+
+Art. 239. (261) Podrán las partes asistir a los reconocimientos y someter a los peritos las observaciones que estimaren convenientes, salvo que el tribunal estime que la presencia de ella es ofensiva a la moral o perjudicial a la investigación.
+Si concurrieren las partes, deberá también asistir el juez o cometer la diligencia al secretario, quien pondrá testimonio en autos de las observaciones que hicieren.
+
+Art. 240. (262) El juez, de oficio o a instancia de las partes presentes en el reconocimiento, podrá hacer a los peritos, cuando produzcan de palabra sus conclusiones, las preguntas que estimare pertinentes; o pedirles, cuando las produzcan por escrito, las aclaraciones necesarias.
+Las contestaciones o aclaraciones de los peritos se considerarán como parte de su informe.
+
+Art. 241. (263) Si las opiniones de los peritos nombrados estuvieren en desacuerdo, el juez designará uno o más, según los casos, para que en compañía de los primeros procedan a practicar de nuevo la operación y a emitir otro informe.
+Si no fuere posible repetir la operación, los nuevos peritos se limitarán a deliberar con los demás en vista de los reconocimientos practicados, y a formular, de acuerdo o separadamente, sus conclusiones motivadas.
+Podrá además el juez, si lo creyere indispensable, remitir los informes periciales a alguna corporación científica del Estado o particular para que, examinando detenidamente las diversas conclusiones formuladas, emita su parecer acerca de las cuestiones debatidas, con arreglo a los principios de la ciencia que les sean aplicables.
+
+Art. 242. (264) El juez facilitará a los peritos los medios materiales necesarios para practicar las diligencias que les encomiende y los pedirá a la autoridad local, si no los tuviere a su disposición.
+Los peritos podrán también pedir que se les proporcionen los datos que juzguen indispensables para formar su opinión, ya sea por la lectura de algunas piezas del sumario, ya por la interrogación de las personas que figuran en el proceso como partes o testigos, acerca de puntos determinados. El juez dará lugar a estas diligencias, siempre que no existan motivos especiales que lo impidan.
+
+Artículo 243.- DEROGADO.-
+
+Artículo 244.- El informe pericial deberá ser presentado al juez dentro del quinto día a contar desde que se notifique a los peritos su nombramiento; pero si se necesitare de más tiempo para preparar el informe, el juez señalará un plazo razonable para que le sea presentado. Con todo, podrá exigir que en un plazo menor se le presente un informe provisorio.
+En caso de desobediencia, podrá el juez aplicarles una multa de medio a dos ingresos mínimos, junto con prescindir de su informe, y decretará el nombramiento de nuevos peritos. Las medidas aplicadas serán comunicadas a la Corte de Apelaciones para los efectos de la formación de las listas a que se refiere el artículo 221.
+
+Artículo 245.- Cuando los peritos nombrados por el juez en los juicios en que se ejercita la acción pública, no desempeñaren el encargo según lo dispuesto en el inciso segundo del artículo 221, tendrán derecho por los servicios que se les encomienden, a un honorario que será tasado por el juez de la causa y pagado por el Fisco, quien podrá repetir contra la parte que sea condenada en las costas del juicio.
+De la solicitud de cobro de honorarios de los peritos, se dará traslado al Fisco por el término de diez días. Dicha solicitud, que se presentará por separado y no necesitará cumplir con los requisitos de designación de abogado patrocinante y apoderado, deberá ir acompañada de una copia del respectivo informe pericial.
+En las comunas o agrupaciones de comunas en que no haya abogado-procurador fiscal, se notificará al presidente del Consejo de Defensa Fiscal o al abogado- procurador fiscal de la jurisdicción correspondiente. En este caso, el plazo indicado en el inciso anterior se aumentará con el emplazamiento a que se refiere el artículo 259 del Código de Procedimiento Civil.
+Las reglas del inciso anterior se aplicarán a las notificaciones de la resolución judicial que regule los honorarios y al plazo para interponer la apelación.
+Sólo será necesario el trámite de la consulta para las resoluciones que ordenen el pago de honorarios por una cantidad superior a diez unidades tributarias mensuales para cada perito. De la consulta y de la apelación conocerá la Corte de Apelaciones, en cuenta, salvo que el tribunal autorice alegatos, en cuyo caso ordenará traer los autos en relación.
+Cuando se cobren honorarios por pericias medico- legales de acuerdo con los montos determinados en el arancel a que se refiere el inciso final del artículo 221, las solicitudes deberán presentarse directamente al Servicio Médico Legal, acompañadas de dos copias del informe evacuado y de una certificación del tribunal que las decretó, que acredite el hecho de haberse evacuado el informe en los términos indicados en la respectiva solicitud.
+El Servicio Médico Legal, en representación del Fisco, procederá a pagar los honorarios devengados y comunicará tal circunstancia por oficio al Consejo de Defensa del Estado y al juzgado respectivo, para los efectos previstos en el inciso primero.
+
+#### Título IV
+DE LA CITACION, DETENCION, PRISION PREVENTIVA Y DEL
+ARRAIGO
+
+Art. 246. (268) Todo individuo contra quien las diligencias del sumario arrojen datos que hagan presumir su responsabilidad penal, quedará sujeto a la obligación de comparecer ante el juez de la causa o a la restricción de su libertad personal en la forma determinada en este título.
+Si la obligación de comparecer fuere para prestar declaración y ésta afectare a alguna de las personas señaladas en los números 1°, 3° y 4° del artículo 191, el juez de la causa concurrirá personalmente a interrogarla en su morada o domicilio, previo aviso y fijación del día y hora en que se llevará a efecto la diligencia, salvo que el citado comparezca voluntariamente ante el Tribunal. En lo demás, serán aplicables las normas del párrafo siguiente.
+
+##### Párrafo 1°
+De la citación
+
+Artículo 248.- La citación a que se refiere el artículo precedente se hará en la forma prevenida en los ART QUINTO artículos 194, 195 y 196 y contendrá, además, el apercibimiento de que, si el inculpado o procesado no comparece se librará contra él orden de detención o de prisión, según los casos.
+
+Artículo 249.- Si el citado con arreglo a lo prevenido en el artículo anterior, no compareciere ni justificare causa legítima que se lo impida, el juez hará efectivo el apercibimiento despachando la orden correspondiente.
+
+Art. 250. (272) Sometido a proceso el individuo a quien se imputa alguno de los delitos expresado en el artículo 247, quedará obligado a presentarse a todos los actos del juicio y a la ejecución de la sentencia, bajo apercibimiento de decretarse en su contra orden de prisión, si pasare más de dos días sin concurrir al juzgado cuando sea necesario.
+Rindiendo fianza bastante en concepto del juez, podrá hacerse representar por un procurador del número en todos los actos del juicio en que no fuere indispensable su comparecencia personal.
+
+##### 2. De la detención
+
+###### I. Régimen General
+
+Art. 251. (273) Para asegurar la acción de la justicia, podrán los jueces decretar la detención de una persona en la forma y en los casos determinados por la ley.
+
+Art. 252. (274) Por la detención se priva la libertad por breve tiempo a un individuo contra quien aparecen fundadas sospechas de ser responsable de un delito, o a aquel contra quien aparece motivo que induzca a creer que no ha de prestar a la justicia la cooperación oportuna a que lo obliga la ley, para la investigación de un heho punible.
+
+Art. 253. (275) Ningún habitante de la República puede ser detenido sino por orden de funcionario público expresamente facultado por la ley y después de que dicha orden le sea intimada en forma legal, a menos de ser sorprendido en delito flagrante, y, en este caso, para el único objeto de ser conducido ante el juez competente.
+
+Art. 254. (276) La detención podrá verificarse:
+1° Por orden del juez que instruye un sumario o conoce del delito;
+2° Por orden de un Intendente Regional o Gobernador Provincial en los casos que designe la ley;
+3° Por un agente de policía en los casos expresamente determinados por la ley; y
+4° Por cualquiera persona, cuando se trate de un delincuente sorprendido in fraganti, para el solo efecto de conducirlo ella misma o por medio de la policía, ante el juez competente.
+
+Art. 255. (277) El juez que instruye un sumario podrá decretar la detención:
+1° Cuando, estando establecida la existencia de un hecho que presente los caracteres de delito, tenga el juez fundadas sospechas para reputar autor, cómplice o encubridor a aquel cuya detención se ordene;
+2° Cuando en el lugar de la ejecución de un delito se encontraren reunidas varias personas en los momentos en que haya sido perpetrado y el juez cree necesario o conveniente practicar las diligencias indagatorias que correspondan;
+3° Cuando la indagación del delito exigiere la concurrencia de alguna persona para prestar informe o declaración y ésta se negare a comparecer; y
+4° Cuando haya temor fundado de que el testigo se oculte, se fugue o se ausente y su deposición se considerare necesaria para el esclarecimiento del delito y averiguación de los culpables.
+
+Art. 256. (278) Todo tribunal, aunque no ejerza jurisdicción en lo criminal, podrá dictar orden de detención contra las personas que, dentro de la sala de su despacho, cometieren algún crimen o simple delito.
+Los jueces de letras y los jueces que practican las primeras diligencias del sumario podrán también dictar órdenes de detención en los casos expresados en los artículos 6° y 7° de este Código, conformándose a las disposiciones del presente Título.
+
+Art. 257. (279) DEROGADO.-
+
+Artículo 258.- Los Intendentes Regionales y Gobernadores Provinciales podrán dictar orden de detención, siempre que estimen fundadamente que hay verdadero peligro en dejar burlada la acción de la justicia por la demora en recabarla de la autoridad judicial, para aprehender y poner de inmediato a disposición de dicha autoridad a los presuntos culpables de los siguentes delitos:
+1° Crímenes y simples delitos contra la seguridad exterior y soberanía del Estado, o contra la seguridad interior, previstos en los Títulos I y II del Libro II del Código Penal y en la Ley de Seguridad del Estado;
+2° Falsificación de monedas, papel moneda, instrumentos de crédito del Estado, de establecimientos públicos y sociedades anónimas o de bancos e instituciones financieras legalmente autorizadas;
+3° Crímenes o simples delitos de tráfico de estupefacientes;
+4° Crímenes o simples delitos que la ley tipifique como conductas terroristas;
+5° Crímenes y simples delitos de sustracción y secuestro de personas, y
+6° Cualquier crímen o simple delito perseguible de oficio cometido en la sala o recinto en que el Intendente Regional o Gobernador Provincial desempeña sus funciones y en los momentos en que las ejerce;
+
+Artículo 259.- Los alcaldes podrán dictar orden de detención contra los responsables de los delitos señalados en los números 4°, 5° y 6° del artículo precedente, cuando la demora en recabarla de la autoridad competente pueda dejar burlada la acción de la justicia.
+Las personas aprehendidas por estos funcionarios serán puestas inmediatamente a disposición del tribunal que corresponda.
+
+Art. 260. (282) Los agentes de policía estarán obligados a detener a todo delincuente de crimen o simple delito a quien se sorprenda infraganti.
+Están, además, autorizados para detener: 1° Al sentenciado a las penas de presidio, reclusión o prisión que hubiere quebrantado su condena;
+2° Al que se fugare estando detenido o preso;
+3° Al que anduviere con disfraz o de otra manera que dificulte o disimule su verdadera identidad y rehusare darla a conocer.
+4° Al que se encontrare a deshora o en lugares o en circunstancias que presten motivo fundado para atribuirle malos designios, si las explicaciones que diere de su conducta no desvanecieren las sospechas; y
+5° DEROGADO.-
+En los casos señalados, la detención podrá hacerse en los lugares o establecimientos a que tenga acceso el público, como los locales de espectáculos, cafés, restaurantes, hoteles, prostíbulos y otros semejantes, sin la necesidad de la orden correspondiente para la entrada a dichos sitios.
+La detención del que se encuentre en los casos previstos en el párrafo segundo del número 6° del artículo 10 del Código Penal, se hará efectiva en su casa. Carabineros o la Policía de Investigaciones, según el caso, deberá dar inmediata cuenta de los hechos al juez del crimen, para los efectos de lo previsto en el Título IX del Libro II de este Código.
+Si el detenido tuviese su casa fuera de la ciudad donde funciona el tribunal competente, la detención se hará efectiva en la casa que aquél señale dentro del territorio jurisdiccional de dicho tribunal.
+
+Artículo 261.- La policía podrá detener al que sorprenda infraganti cometiendo una falta, si no tuviere un domicilio conocido ni rindiere caución en la forma prevista por el artículo 266, de que comparecerá a la presencia judicial en la audiencia inmediata sin necesidad de otra citación.
+
+Artículo 262.- Cualquiera persona puede detener a un delincuente a quien sorprenda infraganti, para el efecto de ponerlo de inmediato y directamente o por medio de la policía, a disposición del juez a quien corresponda el el conocimiento del negocio.
+
+Art. 263. (285) Se reputa delincuente flagrante:
+1° Al que actualmente está cometiendo un delito;
+2° Al que acaba de cometerlo;
+3° Al que en los momentos en que acaba de cometerse huye del lugar en que se cometió y es designado por el ofendido u otra persona como autor o cómplice;
+4° Al que, en un tiempo inmediato a la perpetración del delito, fuere encontrado con objetos procedentes del delito o con señales en sí mismo o en sus vestidos que induzcan a sospechar su participación en él, o con las armas o instrumentos que se emplearon para cometerlo; y
+5° Al que personas asaltadas o heridas, o víctimas de un robo o hurto, que reclaman auxilio, señalen como autor o cómplice de un delito que acaba de cometerse.
+
+Art. 264. (286) Si el aprehendido en delito flagrante es presentado inmediatamente al juez competente, éste procederá a tomar declaración al aprehensor, a los testigos presenciales que concurran y a interrogar al detenido; y en vista de estas investigaciones lo dejará en libertad o mantendrá la detención, o la convertirá en prisión preventiva, según proceda de derecho.
+
+Art. 265. (287) Si, por no ser hora de despacho o por otra causa, el detenido por delito flagrante no fuere conducido en el acto ante el juez, el jefe de la unidad policial o de la casa de detención que recibiere al detenido, hará que la persona que lo conduzca le deje por escrito y bajo su firma una exposición del hecho que motivó la aprehensión y la designación de su propio domicilio.
+Si esta persona no supiere firmar, lo harán por ella dos testigos llamados al efecto.
+
+Artículo 266.- Si el delito flagrante que se imputa a la persona detenida fuere alguno de los mencionados en ART QUINTO el artículo 247, el funcionario que la reciba la pondrá en libertad, intimándole que comparezca ante el juez competente a primera hora de la audiencia inmediata, si el aprehendido tuviere domicilio conocido o ejerciere alguna profesión o industria, o si persona de responsabilidad y vecina del lugar se comprometiere por escrito a que el aprehendido obedecerá la intimación y se obligare a pagar como fiador, en caso de que éste no comparezca, una suma equivalente a media unidad tributaria si se tratare de una falta, y a una unidad tributaria si se tratare de un simple delito.
+La caución podrá consistir en un depósito de dinero hecho por ella o por otra persona, ascendente a un cuarto de unidad tributaria si se tratare de una falta y a una unidad tributaria si se tratare de un simple delito.
+Podrá también constituirse como una fianza nominal de persona cuya solvencia calificará el mismo funcionario o tribunal.
+Se facilitarán al detenido los medios racionales y expeditos que propusiere para acreditar las circunstancias o presentar al fiador de que se habla en el inciso precedente.
+
+Art. 267. (289) Cuando el delincuente flagrante o el detenido conforme al artículo 260 no fuere presentado inmediatamente al juez respectivo, el funcionario que lo reciba en calidad de detenido lo pondrá a disposición del juez con los antecedentes del caso, a primera hora de la audiencia más próxima o antes si éste así lo ordena.
+El juez procederá a practicar en el acto las diligencias indicadas en el artículo 264.
+
+Art. 268. (290) El particular que detuviere a otro justificará, si éste lo exige, haber obrado en virtud de motivos bastantes para estimar que el aprehendido era en realidad un delincuente flagrante.
+
+Art. 269. (291) La detención decretada por otra autoridad que no sea el juez, no durará sino hasta que el detenido sea puesto a disposición del juez competente; lo cual se verificará en el acto o, si no fuere hora de despacho, a primera hora de la audiencia inmediata.
+En todo caso, el juez podrá ordenar que en cualquier momento se le ponga a su disposición.
+Este magistrado apreciará las piezas o antecedentes que se le hubieren transmitido, y mantendrá el decreto de detención o lo suspenderá según el mérito que ellos arrojen.
+
+Artículo 270.- El jefe de policía ante quien sean conducidas las personas que sus agentes detengan en conformidad a los números 3° y 4° del artículo 260, mantendrá la detención de estas personas o las pondrá en libertad, según las explicaciones que den de su conducta y según los antecedentes que hayan motivado su detención. Lo dicho es sin perjuicio de proceder en la forma que indica el artículo 266, si el hecho imputado es alguno de los que se señalan en el artículo 247.
+Si las mantiene detenidas, se observará lo prescrito en el primer inciso del artículo precedente.
+
+Artículo 270 bis.- El plazo máximo de la detención en los casos de los artículos 267 y 269 será de veinticuatro horas para el del delito flagrante y de cuarenta y ocho horas en los demás.
+Antes de vencer estos plazos, deberá ponerse al detenido a disposición del juez, sin perjuicio de que pueda tener lugar, en su caso, el régimen especial establecido en el artículo 272 bis.
+
+Art. 271. (293) Si el juez a cuya disposición se pusiere a los individuos detenidos por la policía, con arreglo a los números 1° y 2° del artículo 260, fuere el propio de la causa, procederá según corresponda a la situación y estado de ésta.
+Si aquél no fuere el juez de la causa, extenderá una diligencia en que se expresen la persona que hubiere hecho la detención, su domicilio y demás circunstancias bastantes para buscarla e identificarla, los motivos que ella manifestare haber tenido para la detención, y el nombre, apellido y circunstancia del detenido; interrogará a éste y asentará su contestación.
+Inmediatamente después remitirá la diligencia y la persona del detenido al juez a quien correspondiere conocer la causa.
+Pero si el detenido comprobare sumariamente que no es la persona condenada o procesada a quien se trataba de aprehender, será puesto en libertad.
+
+Art. 272. (294) La detención no podrá durar en ningún caso más de cinco días, contados desde que el aprehendido sea puesto a disposición del tribunal, y terminará, aún antes de ese plazo, en los casos siguientes:
+1° Cuando el inculpado fuere procesado o cuando, por no existir mérito suficiente para hacer esta declaración, el juez ordenare que sea puesto en libertad;
+2° Tratándose del caso previsto en el número 2° del artículo 255, la detención terminará en el acto de recibirse las declaraciones o informaciones de las personas allí expresadas, siempre que no resulten complicadas en el hecho que la ha motivado; y
+3° En los casos de los números 3° y 4° del mismo artículo, la detención se limitará al tiempo necesario para tomar declaración al testigo, o para que preste el informe si fuere un perito.
+El juez deberá recibir esa declaración o ese informe inmediatamente después de encontrarse el testigo o el perito a su disposición.
+
+###### II.- Plazos excepcionales de detención.
+
+Artículo 272 bis.- El juez podrá, por resolución fundada, ampliar hasta un total de cinco días el plazo de cuarenta y ocho horas de detención ordenada o practicada por cualquiera otra autoridad.
+Cuando se investiguen hechos calificados por la ley como conductas terroristas, el juez podrá ampliar el plazo de cuarenta y ocho horas hasta un total de diez días.
+En la misma resolución que amplíe el plazo, en cualquiera de los casos señalados en los incisos precedentes, el Tribunal ordenará que el detenido sea examinado por el médico que el Juez designe, el cual deberá practicar el examen e informar al Tribunal el mismo día de la resolución, debiendo en todo caso cumplirse con lo preceptuado en el artículo 290. El nombramiento en ningún caso podrá recaer en un funcionario del organismo policial que hubiere efectuado la detención o en cuyo poder se encontrare el detenido.
+Tanto la petición de ampliación que en su caso hiciere la Policía como la orden del juez, deberán constar por escrito.
+La petición de ampliación será considerada denuncia para todos los efectos legales.
+El juez podrá denegar la ampliación sin expresar causa; o concederla por resolución fundada, si estima que la ampliación es útil para el éxito de las indagaciones, mediante orden escrita y firmada en que se mencione el nombre del detenido, el período que durará la detención y el nombre y grado del Jefe de Policía bajo cuya responsabilidad quedará el detenido debiendo el Juez velar en todo momento por la debida protección de éste.
+El juez podrá revocar en cualquier momento la ampliación que hubiere concedido y ordenar que se le envíe el detenido inmediatamente a su disposición sin expresar motivo; determinar el lugar de la detención; disponer que se lleve a su despacho para interrogarlo; decretar exámenes médicos, pudiendo recaer la designación en cualquier facultativo de su confianza; levantar la incomunicación o establecer un régimen de incomunicación determinado; visitar al detenido; y hacerse informar acerca de las pesquisas realizadas y las que se verifiquen durante la detención.
+Expirada la autorización del juez, el detenido será siempre y de inmediato llevado a su presencia y disposición.
+Estos plazos se contarán desde la detención ordenada o practicada por otra autoridad, y sólo podrán prorrogarse hasta el número de días que falten para completar los cinco o los diez a que se refiere este artículo.
+Tanto la petición como una copia de la orden deberá siempre agregarse al proceso; otra copia expedida por el juez, deberá ser entregada al detenido tan pronto como sea recibida la orden por la policía.
+La negligencia grave del juez en la debida protección del detenido será considerada como infracción a sus deberes, de acuerdo con el artículo 324 del Código Orgánica de Tribunales.
+
+Art. 273. (295) Cuando se ejercite la acción privada que procede de los delitos de injuria o calumnia y no se recibiere información previa, no habrá lugar a detención, sino sólo a prisión preventiva, si ésta fuere procedente con arreglo a la ley.
+
+##### 3. DEL PROCESAMIENTO Y LA PRISION PREVENTIVA
+
+Artículo 274.- Después que el juez haya interrogado al inculpado, lo someterá a proceso, si de los antecedentes resultare:
+1° Que está justificada la existencia del delito que se investiga, y
+2° Que aparecen presunciones fundadas para estimar que el inculpado ha tenido participación en el delito como autor, cómplice o encubridor.
+El juez procesará al inculpado por cada uno de los hechos punibles que se le imputen, cuando concurran las circunstancias señaladas.
+
+Artículo 276.- La resolución de que trata el artículo anterior será notificada en persona al procesado y personalmente o mediante oficio al jefe de la casa de detención, si aquél se encontrare detenido.
+Si el procesado se encontrare en libertad, se le citará o se despachará en su contra orden de prisión, según corresponda.
+Cuando estuviere en libertad provisional, se le citará para notificarlo, si no se hubieren alterado con el procesamiento las circunstancias que hicieron procedente la excarcelación.
+
+Artículo 277.- Por el procesamiento la detención se convierte en prisión preventiva.
+
+Artículo 278 bis.- El auto de procesamiento puede ser dejado sin efecto o modificado durante todo el sumario, de oficio o a petición de parte; pero el juez no podrá hacerlo desde que se ha concedido apelación en contra de él, ni sin nuevos antecedentes probatorios cuando haya sido revisado por la vía de ese recurso.
+
+Artículo 279 bis.- Podrá el juez no someter a proceso al inculpado y disponer su libertad aunque aparezcan reunidos los requisitos para procesarlo, cuando al tiempo de cumplirse el plazo de la detención judicial o al pronunciarse sobre la respectiva solicitud, hubiere adquirido la convicción de que con los antecedentes hasta entonces acumulados se encuentra establecido alguno de los motivos que dan lugar al sobreseimiento definitivo previstos en los números 4° a 7° del artículo 408, sin perjuicio de continuar las indagaciones del sumario hasta agotarlas.
+Con el mérito de nuevos antecedentes, podrá el juez durante todo el sumario dejar sin efecto el auto fundado que haya dictado y procesar al inculpado, a petición de parte o de oficio. Si no ocurriere así hasta el término del suamrio, el juez dictará sobreseimiento en favor del imputado, ordenando su consulta cuando fuere procedente.
+El que no fuere sometido a proceso en virtud de esta disposición, conservará su calidad de inculpado y podrá hacer uso de los derechos que a éste se le confieren. Antes de ser puesto en libertad, deberá designar domicilio y quedará obligado a presentarse a todos los actos del sumario para que fuere llamado.
+Además, el juez podrá decretar su arraigo en el territorio nacional mientra dure el proceso y ordenar que se presente periódicamente al tribunal.
+
+##### 4. Disposiciones comunes a la detención y a la
+prisión preventiva
+
+Art. 280. (302) Toda orden de detención o de prisión será expedida por escrito, y para llevarla a efecto, el juez o la autoridad que la dictare despachará un mandamiento firmado, en que dicha orden se encuentre transcrita literalmente.
+
+Art. 281. (303) El mandamiento de detención o de prisión contendrá:
+1° La designación del funcionario que lo expide;
+2° El nombre de la persona a quien se encarga su ejecución, si el encargo no se hiciere de un modo genérico a la fuerza pública representada por la policía de seguridad o por algún cuerpo de ejército, o de otro modo;
+3° El nombre y apellido de la persona que debe ser aprehendida o, en su defecto, las circunstancias que la individualicen o determinen;
+4° El motivo de la detención o prisión siempre que alguna causa grave no aconseje omitirlo;
+5° La determinación de la cárcel o lugar público de detención a donde deba conducirse al aprehendido, o de su casa cuando así se hubiere decretado.
+6° La circunstancia de si debe o no mantenérsele en incomunicación; y
+7° La firma entera del funcionario y del secretario, si lo tuviere.
+
+Art. 282. (304) Cuando la ejecución del mandamiento sea cometida a la fuerza pública, el jefe de ella designará al individuo o individuos que hayan de darle cumplimiento.
+Si el mandamiento se dictare para la aprehensión de malhechores que anduvieren en cuadrilla, bastará que designe determinadamente a uno o varios, para que se pueda aprehender a los demás que se encontraren en su compañía.
+
+Art. 283. (305) Los autos en que se decrete o deniegue la detención o prisión o la excarcelación serán apelables en el solo efecto devolutivo.
+El mandamiento de detención o prisión será ejecutorio en todo el territorio de la República.
+
+Art. 284. (306) El mandamiento debe intimarse, al tiempo de ejecutarlo, a la persona en quien debe cumplirse; se le exhibirá en el mismo momento de su detención y se le entregará copia de él.
+
+Art. 285. (307) Si el juez que hubiere expedido el mandamiento sabe que la persona cuya aprehensión ordena se encuentra gravemente enferma, de tal manera que no pueda trasladársele a la cárcel sin peligro, adoptará las medidas que estime convenientes para evitar la fuga.
+Si la enfermedad no fuere conocida del juez, el encargado de cumplir la orden no la llevará a efecto hasta darle parte; pero tomará entre tanto las precauciones convenientes para impedir la fuga del que debe ser capturado.
+
+Artículo 286.- Siempre que se trate de aprehender a un empleado público o a un individuo de las Fuerzas Armadas o Carabineros, se dará aviso , al tiempo de expedirse el mandamiento, al jefe de la persona que se manda a aprehender.
+Si esta persona tuviere a su cargo caudales o efectos públicos, se llenarán además las formalidades prescritas por las leyes del ramo para asegurar dichos caudales y la formación de la correspondiente cuenta.
+
+Art. 287. (309) Todo el que aprehendiere a un presunto delincuente tomará las precauciones necesarias para impedir que haga en su persona o en su traje alteraciones que puedan dificultar su reconocimiento.
+
+Art. 288. (310) Cualquier resistencia para que se lleve a efecto el mandamiento de detención o de prisión expedido conforme a la ley, autoriza el empleo de la fuerza con el solo objeto de asegurar la persona que deba ser aprehendida.
+Podrá el juez, además, decretar el allanamiento de la casa en que haya sospecha fundada de que se encuentre; y se procederá entonces con arreglo a lo dispuesto en los artículos 173 y 174.
+
+Art. 289. (311) Si se temiere fundadamente la fuga o la resistencia de aquel a quien se trata de aprehender, se podrá, con el objeto de asegurar su persona, emplear la fuerza antes de intimar el mandamiento; pero en tal caso deberá hacerse la intimación tan pronto como cese el peligro de la fuga o resistencia.
+La fuerza pública civil o militar, estará obligada a prestar su auxilo inmediatamente que sea requerida al efecto por cualquier persona que le presente el mandamiento expedido por el juez.
+
+Art. 290. (312) Todo individuo aprehendido por orden de autoridad competente, será conducido en el acto a la cárcel o al lugar público de detención que el respectivo mandamiento señalare.
+Al recibirlo, el alcaide o el encargado del lugar de detención o prisión copiará en su registro la orden transcrita en dicho mandamiento o el mandamiento mismo, y hará mención de la persona que ha conducido o aprehendido al individuo.
+
+Art. 291. (313) El jefe de un establecimiento que recibiere a una persona en calidad de detenido o preso, dará parte del hecho al juez competente inmediatamente después del ingreso o, si no fuere hora de despacho, en la primera hora de la audiencia próxima.
+Si la aprehensión hubiere sido efectuada sin orden judicial por un particular, por un Alcalde o por la policía, el detenido será puesto a disposición del juez al tiempo de comunicarle la detención. Si ésta hubiere sido decretada por un Intendente o Gobernador, el el inculpado será puesto a disposición del juez, con todos los antecedentes relativos a la detención, en el el menor plazo posible; el cual nunca podrá exceder de cuarenta y ocho horas.
+El individuo detenido o preso por orden judicial, queda por el mismo hecho a dispoción del juez de la causa.
+
+Art. 293. (315) La detención, así como la prisión preventiva, debe efectuarse de modo que se moleste la persona o se dañe la reputación del procesado lo menos posible. La libertad de éste será restringida en los límites estrictamente necesarios para mantener el orden del establecimiento y para asegurar su persona e impedir las comunicaciones que puedan entorpecer la investigación.
+El detenido o preso, aunque se encuentre incomunicado, tiene el derecho de que se informe por la policía o por el tribunal a cuya disposición estuviere, a su familia, a su abogado o a la persona que él indique, el hecho de su detención o prisión.
+El funcionario encargado del establecimiento policial o carcelario en que se encuentre el detenido antes de ser puesto a disposición del tribunal, no podrá rehusar que éste conferencie con su abogado en presencia de aquél, hasta por treinta minutos cada día, exclusivamente sobre el trato recibido, las condiciones de su detención y sobre los derechos que puedan asistirle.
+
+Art. 294. (316) El detenido o preso tendrá derecho para procurarse, a sus expensas, las comodidades y ocupaciones que sean compatibles con el objeto de su detención o prisión y con el régimen del establecimiento.
+Podrá, además, en el caso de no estar incomunicado por disposición del juez, recibir la visita de un ministro de su religión, de su abogado o de su procurador, o de aquellas personas con quienes esté en relación de familia, de intereses o que puedan darle consejos, observándose en este caso las prescripciones del reglamento de la casa. Si el juez lo estimare conveniente, podrá ordenar que las conferencias del detenido con dichas personas sean presenciadas por algunos de los empleados del establecimiento o del juzgado, o suspenderlas temporalmente mientras sea necesario para el éxito de la investigación.
+
+Art. 295. (317) El juez autorizará, en cuanto no se perjudique el éxito del sumario, los medios de correspondencia y comunicación de que pueda hacer uso el detenido o preso. Podrá ordenar que éste no reciba ni dirija cartas, telegramas ni mensajes de ninguna especie, sin que antes sean puestos en su conocimiento para ver si existe inconveniente en hacerlos llegar a su destino. En ningún caso se podrá impedir a los detenidos o presos que escriban a los funcionarios superiores del orden judicial, ni a los oficiales del Ministerio Público.
+
+#### Título V
+DEL PROCEDIMIENTO DE AMPARO
+
+Art. 306. (328) Todo individuo contra el cual existiere orden de arraigo, detención o prisión emanada de autoridad que no tenga facultad de disponerla, o expedida fuera de los casos previstos por la ley, o con infracción de cualquiera de las formalidades determinadas en este Código, o sin que haya mérito o antecedentes que lo justifiquen, sea que dicha orden se haya ejecutado o no, podrá, si no hubiere deducido los otros recursos legales, reclamar su inmediata libertad o que se subsanen los defectos denunciados.
+
+Art. 307. (329) Este recurso se deducirá ante la Corte de Apelaciones respectiva por el interesado o, en su nombre, por cualquiera persona capaz de parecer en juicio, aunque no tenga para ello mandato especial, y puede interponerse por telégrafo; y pedir el tribunal, en la misma forma, los datos e informes que considere necesarios.
+
+Art. 308. (330) El tribunal fallará el recurso en el término de veinticuatro horas.
+Sin embargo, si hubiere necesidad de practicar alguna investigación o esclarecimiento para establecer los antecedentes del recurso, fuera del lugar en que funcione el tribunal llamado a resolverlo, se aumentará dicho plazo a seis días, o con el término de emplazamiento que corresponda si éste excediere de seis días.
+
+Art. 309. (331) Podrá el tribunal comisionar a alguno de sus ministros para que, trasladándose al lugar en que se encuentra el detenido o preso, oiga a éste, y, en vista de los antecedentes que obtenga, disponga o no su libertad o subsane los defectos reclamados. El ministro dará cuenta inmediata al tribunal de las resoluciones que adoptare, acompañando los antecedentes que las hayan motivado.
+
+Art. 310. (332) El tribunal que conoce del recurso podrá ordenar que, dentro del plazo que fijará según la distancia, el detenido o preso sea traído a su presencia, siempre que lo creyera necesario y éste no se opusiere; o que sea puesto a disposición del ministro a quien hubiere comisionado, en el caso del artículo anterior.
+Este decreto será precisamente obedecido por todos los encargados de las cárceles o del lugar en que estuviere el detenido y la demora en darle cumplimiento o la negativa para cumplirlo sujetará al culpable a las penas determinadas por el artículo 149 del Código Penal.
+
+Art. 311. (333) Si el tribunal revocare la orden de detención o de prisión, o mandare subsanar sus defectos, ordenará que pasen los antecedentes al Ministerio Público y éste estará obligado a deducir querella contra el autor del abuso, dentro del plazo de diez días, y a acusarlo, a fin de hacer efectiva su responsabilidad civil y la criminal que corresponda en conformidad al artículo 148 del Código Penal.
+En uno y otro caso el funcionario culpable deberá indemnizar los perjuicios que haya ocasionado.
+El detenido o preso podrá igualmente deducir esta querella.
+
+Art. 312. (334) Cuando de los antecedentes apareciere que no hay motivo bastante para expedir la orden a que se refiere el artículo anterior, el tribunal lo declarará así en auto motivado. Esta declaración no exime al autor del abuso de la responsabilidad que pudiere afectarle conforme a las leyes.
+
+Artículo 313.- El oficial del Ministerio Público que no dedujere querella en el plazo indicado en el artículo 311, será objeto siempre de suspensión disciplinaria de su cargo hasta por treinta días, para cuyo efecto se elevarán los antecedentes en original o copia, al superior jerárquico correspondiente.
+
+Artículo 313 bis.- Cuando la Corte comprobare que el arresto, detención o prisión arbitraria o la irregularidad que dió lugar al recurso existió al momento de su interposición, pero que con posterioridad fue puesto en libertad el detenido o preso o se subsanaron los defectos reclamados, acogerá el amparo para los efectos de declarar la existencia de la infracción y hacer uso de sus facultades disciplinarias, o de las medidas que se indican en los artículos 311 y y 313.
+
+Art. 314. (336) Se considerará como prisión arbitraria y dará lugar al recurso de que trata este título, cualquiera demora en tomar su declaración al inculpado dentro del plazo que el artículo 319 establece.
+
+Art. 315. (337) El recurso a que se refiere este título no podrá deducirse cuando la privación de la libertad hubiere sido impuesta como pena por autoridad competente, ni contra la orden de detención o de prisión preventiva que dicha autoridad expidiere en la secuela de una causa criminal, siempre que hubiere sido confirmada por el tribunal correspondiente.
+
+Artículo 316.- La resolución que libre la Corte de Apelaciones en este recurso será apelable para ante la Corte Suprema, pero sólo en el efecto devolutivo cuando sea favorable al recurrente de amparo.
+La apelación deberá interponerse en el perentorio término de vienticuatro horas.
+
+Art. 317. (339) El que tuviere conocimiento de que una persona se encuentra detenida en un lugar que no sea de los destinados a servir de casa de detención o de prisión, estará obligado a denunciar el hecho, bajo la responsabilidad penal que pudiere afectarle, a cualquiera de los funcionarios indicados en el artículo 83, quienes deberán transmitir inmediatamente la denuncia al tribunal que juzguen competente.
+A virtud del aviso recibido o noticia adquirida de cualquier otro modo, se trasladará el juez, en el acto, al lugar en que se encuentre la persona detenida o secuestrada y la hará poner en libertad. Si se alegare algún motivo legal de detención, dispondrá que sea conducida a su presencia e investigará si efectivamente la medida de que se trata es de aquellas que en casos extraordinarios o especiales autorizan la Constitución o las leyes.
+Se levantará acta circunstanciada de todas estas diligencias en la forma ordinaria.
+
+Artículo 317 bis.- La negativa o demora injustificada de cualquiera autoridad en dar cumplimento a las órdenes dictadas por la Corte de Apelaciones en el conocimiento de un recurso de amparo, sujetarán al culpable a las penas determinadas en el artículo 149 del Código Penal. En todos estos casos el Ministerio Público está obligado a perseguir la responsabilidad de los infractores.
+
+#### Título VI
+DE LAS DECLARACIONES DEL INCULPADO
+
+Art. 318. (340) El juez que instruye el sumario tomará al sindicado del delito cuantas declaraciones considere convenientes para la averiguación de los hechos.
+
+Artículo 318 bis.- Es derecho del imputado libre presentarse ante el juez a declarar; en su ejercicio, nadie podrá impedirle el acceso al tribunal.
+El juez dejará constancia expresa en los autos de la presentación voluntaria, la cual no impedirá que se disponga su detención con posterioridad a la declaración.
+
+Artículo 319.- Todo detenido debe ser interrogado por el juez dentro de las veinticuatro horas siguientes a aquella en que hubiere sido puesto a su disposición. Lo dispuesto en el inciso precedente es sin perjuicio de lo que establece el artículo 272 bis.
+Si la detención ha tenido lugar con motivo de un delito flagrante, el juez procederá conforme lo prescribe el artículo 264.
+
+Art. 320. (342) La declaración del inculpado no podrá recibirse bajo juramento. El juez se limitará a exhortarlo a que diga la verdad, advirtiéndole que debe responder de una manera clara y precisa a las preguntas que le dirigiere.
+
+Artículo 321.- La primera declaración del inculpado o procesado comenzará con un interrogatorio de identificación, al cual deberá siempre responder. Se le preguntará su nombre, apellido paterno y materno, su apodo si lo tuviere, su edad, lugar de nacimiento y de su residencia actual, estado, profesión, oficio o modo de vivir, si ha sido procesado anteriormente, por qué delito, en qué juzgado, qué pena se le impuso, si la cumplió, si sabe leer y escribir y si conoce el motivo de su detención. Se le interrogará también sobre los lugares donde trabaja y se dejará constancia de los números de teléfonos por medio de los cuales sea posible comunicarse con él y de los datos que arroje su cédula de identidad, la que deberá exhibir.
+Si es menor, deberá indicar el nombre de los padres o de las personas a cuyo cuidado se encuentre, y todos los datos necesarios para verificar su edad.
+
+Artículo 322.- Las demás preguntas que se dirijan al inculpado o procesado tendrán por objeto la averiguación de los hechos y de la participación que en ellos hubiere cabido a él u otras personas.
+Según la naturaleza y circunstancias del delito, se le preguntará también acerca de los bienes que tiene y de los ingresos que percibe; el nombre, estado y profesión de las personas con quienes vive, las labores específicas a que está dedicado y demás circunstancias personales y domésticas que puedan influir en la determinación de los móviles del delito.
+El juez informará al inculpado cual es el hecho que se le atribuye y podrá hacerle saber las pruebas que existieren en su contra, invitándole en seguida a manifestar cuanto tenga por conveniente para su descargo o aclaración de los hechos, según lo previsto en el artículo 329, y a indicar las pruebas que estime oportunas. Si las circunstancias exigieren explicaciones de su conducta que puedan establecer su inculpabilidad o culpabilidad o la de otras personas imputadas en el delito que se investiga, el juez procurará insertar literalmente las preguntas y respuestas que versaren sobre esta materia.
+
+Art. 324. (346) Las relaciones que haga y las respuestas que dé el inculpado serán orales.
+Podrá, no obstante, el juez, en vista de las circunstancias del inculpado o de la naturaleza de la causa, permitirle que redacte a su presencia una contestación escrita sobre puntos difíciles de explicar, o que consulte, también a su presencia, apuntes o notas.
+
+Art. 325. (347) Se pondrán de manifiesto al inculpado todos los objetos que contribuyan a comprobar el cuerpo del delito a fin de que declare si los reconoce. Se le interrogará acerca de la procedencia y el destino de los objetos que reconociere y acerca de la razón de haberlos encontrado en su poder y, en general, sobre cualquiera otra circunstancia que conduzca al esclarecimiento de la verdad.
+
+Art. 326. (348) Cuando el juez considere conveniente el examen del inculpado en el lugar mismo en que ocurrieron los hechos sobre los cuales deba ser interrogado, o ante las personas o cosas con ellos relacionadas, procederá a practicar la diligencia en la forma dispuesta por el artículo 212.
+
+Artículo 327.- Si el inculpado, rehúsa contestar, o se finge loco, sordo o mudo, y el juez, en estos últimos casos, llegare a suponer como fundamento la simulación, sea por sus observaciones personales, sea por el testimonio de testigos o el dictamen de uno o más peritos, se limitará a hacer notar al inculpado que su actitud no impedirá la prosecución del proceso y que puede producir el resultado de privarle de algunos de sus medios de defensa.
+
+Art. 328. (350) El inculpado no podrá negarse a contestar a las preguntas del juez, fundándose en la incompetencia de este funcionario, pero se pondrá testimonio en autos de la protesta que formulare a este respecto.
+
+Art. 329 (351) Se permitirá al inculpado manifestar cuanto tenga por conveniente para demostrar su inocencia y para explicar los hechos, y se evacuarán con prontitud las citas que hiciere y las demás diligencias que propusiere y que sean conducentes para comprobar sus aseveraciones.
+
+Artículo 330.- El inculpado o procesado podrá dictar por sí mismo su declaración bajo la dirección del juez. Si no lo hiciere, la dictará éste, procurando en lo posible emplear las mismas palabras de que aquél se hubiere valido.
+El inculpado podrá, asimismo, leer la declaración una vez escrita, y el juez le advertirá que tiene este derecho. Si no usare de él la leerá en alta voz el secretario a su presencia. Si agrega o corrige alguna parte de su declaración, se consignará al final sin alterar lo escrito.
+El juez podrá ordenar que la declaración del inculpado se recoja mediante versión taquigráfica o en aparatos de estenotipia o fonograbadores.
+Los taquígrafos o estenotipistas prestarán juramento de ser veraces y de no revelar el secreto del sumario, y deberán traducir el texto inmediatamente.
+Si la versión es fonograbada, tendrá el inculpado derecho a oírla, y de ampliar o de aclarar su dichos de inmediato. Se levantará un acta en que se transcriba la versión fonograbada bajo la vigilancia del secretario, salvo que el juez quisiere controlarla personalmente. El declarante, en ambos casos, tendrá derecho a cerciorarse del acta y firmarla.
+El texto taquigráfico se guardará en la custodia del secretario. Lo mismo se hará con la versión fonograbada si el juez lo estima necesario; pero podrá hacerla desaparecer si se ha transcrito la declaración y el inculpado ha aceptado la transcripción.
+Igual sistema podrá adoptar el juez, si lo estima conveniente, con respecto a las declaraciones de los testigos.
+
+Art. 331. (353) La declaración será firmada por el juez, por todos los que hubieren intervenido en el acto, si pudieren hacerlo, y autorizada por el secretario.
+Si el inculpado se excusa de firmar, se consignará el motivo que alegare para ello; pero en ningún caso será esta negativa razón para anular la diligencia.
+
+Art. 332. (354) Si el inculpado no supiere la lengua castellana o si es sordo, o mudo, o sordo-mudo, se procederá a tomarle declaración en la forma preceptuada por los artículos 214 y 215.
+
+Artículo 333.- Si el examen del inculpado se prolongare mucho tiempo, o si se le ha hecho un número de preguntas tan considerable que llegare a perder la serenidad de juicio necesaria para contestar a lo demás que deba preguntársele, se suspenderá el examen y se le concederá el descanso prudente y necesario para recuperar la calma.
+Se hará constar en la diligencia el tiempo invertido en el interrogatorio.
+
+Art. 334. (356) Si en declaraciones posteriores se contradice el inculpado con lo declarado anteriormente, o retractare lo que ya había confesado, se le interrogará sobre el móvil de sus contradicciones y sobre las causas de su retractación.
+
+Art. 335. (357) Si son varios los inculpados, sus declaraciones serán tomadas una en pos de otra, sin permitirles que se comuniquen entre sí hasta la terminación de estas diligencias.
+
+Art. 336. (358) El inculpado podrá declarar cuantas veces quisiere, y el juez le recibirá inmediatamente la declaración si tuviere relación con la causa.
+
+Artículo 337.- DEROGADO.-
+
+Artículo 338.- DEROGADO.-
+
+Artículo 339.- DEROGADO.-
+
+Art. 340. (362) Si el inculpado reconociere francamente su participación en el hecho punible que se pesquisa, una vez comprobada la existencia del cuerpo del delito, podrá el juez someterlos a proceso.
+Esto no obstante, el juez continuará practicando las digilencias conducentes para adquirir el convencimiento de la verdad de la confesión y averiguar las circunstancias del delito; interrogará al procesado acerca de si hubo otros autores o cómplices, si conoce algunas personas que hubieran sido testigos o tuvieren conocimiento del hecho y, en general, sobre todo aquello que pueda aclarar o confirmar su confesión.
+
+Art. 341. (363) Se podrá asimismo, omitir la declaración previa del inculpado y proceder desde luego a procesarlo, cuando, al ponérsele a disposición del juez, estuvieren ya suficientemente comprobados el cuerpo del delito y la participación que en él haya cabido al inculpado.
+
+#### Título VII
+DE LA IDENTIFICACION DEL DELINCUENTE Y SUS
+CIRCUNSTANCIAS PERSONALES
+
+Art. 342. (364) Todo aquel que acrimine a una persona determinada, deberá reconocerla judicialmente cuando el juez o las partes lo crean necesario, a fin de que no pueda dudarse cuál es la persona a quien se refiere.
+
+Art. 343. (365) La diligencia de reconocimiento se practicará poniendo a la vista del que hubiere de verificarlo, la persona que haya de ser reconocida, vestida, si fuere posible, con el mismo traje que llevaba en el momento en que se dice cometido el delito, y acompañada de otras seis o más personas de circunstancias exteriores semejantes.
+A presencia de todas ellas o desde un punto en que no pueda ser visto, según el juez lo estimare más conveniente, el que practicare el reconocimiento, juramentado de antemano, manifestará si se encuentra entre las personas que forman la rueda o grupo, aquella a quien se hubiere referido en sus declaraciones y, en caso afirmativo, cuál de ellas es.
+Antes del reconocimiento, el juez interrogará al testigo, preguntándole si conocía al inculpado y desde qué fecha, si lo había visto personalmente o en imágen, invitándolo a que lo describa en sus rasgos más característicos, y cuidará de que no reciba indicación alguna de que pueda deducir cuál es la persona a quién va a señalar.
+
+Art. 344. (366) Cuando fueren varios los que hubieren de reconocer a una persona, la diligencia de reconocimiento se practicará separadamente con cada uno de ellos, sin que puedan comunicarse entre sí hasta que se haya efectuado el último reconocimiento.
+Cuando fueren varios los que hubieren de ser reconocidos por una misma persona, podrá hacerse el reconocimiento de todos en un solo acto.
+
+Artículo 345.- Los alcaides de las cárceles y los jefes de los lugares de detención, tomarán las precauciones necesarias para que los presos o detenidos, no hagan en su persona o traje alteración alguna que pueda dificultar su reconocimiento; y si en los establecimientos expresados hubiere traje reglamentario, conservarán el que lleven dichos presos o detenidos al ingresar en ellos, a fin de que puedan vestirlo cuantas veces sea necesario para diligencias de reconocimiento.
+
+Artículo 347 bis.- Si el inculpado expresa ser menor de dieciocho años o esta circunstancia es conocida o presumida por otro medio, el juez mandará agregar al proceso su certificado de nacimiento, practicando, al efecto, las diligencias del caso.
+Los jueces podrán encomendar, aun telefónicamente, a otros jueces, a las autoridades de Investigaciones o de Carabineros del lugar donde haya sido inscrito el nacimiento del presunto menor, que se constituyan en las oficinas del Registro Civil para determinar la fecha del nacimiento y la comunique por la misma vía o por otra, y de la información así obtenida se dejará constancia en la causa. Podrán también obtener esta información directamente del Oficial Civil, por las vías más rápidas, incluso por teléfono o radio.
+No encontrándose la inscripción, el juez hará lo posible por agregar, en los mismos términos que preceden, el certificado de parto o su fe de bautismo y oirá al Consejo Técnico de la casa de Menores correspondiente, o al funcionario que se haya designado en su lugar; en su defecto, pedirá dictamen a algún facultativo y recibirá las informaciones de parientes o conocidos del menor, a fin de determinar su edad, sobre el cual dictará resolución expresa.
+Si es ostensible que el inculpado es menor de dieciséis años, se lo pondrá de inmediato y provisionalmente a disposición del Juez de Menores, sin perjuicio de practicar las diligencias previstas en los incisos anteriores, y de proceder en consecuencia según fuere el resultado de las mismas.
+
+Artículo 347 bis A.- En ningún caso la declaración acerca de si el menor ha obrado o no con discernimiento prevista en la Ley de Menores, podrá ser demorada más de quince días. Si el Juez de Menores no ha recibido los informes técnicos correspondientes, prescindirá de ellos para formular la declaración.
+NOTA: 11
+La internación del menor, cuando proceda con arreglo a la ley, será considerada privación de libertad para todos los efectos legales. El juez del crimen deberá
+NOTA: 11
+otorgarle la excarcelación, si fuere procedente de acuerdo con las reglas generales, sin que constituya impedimento para hacerlo el hecho de no haberse efectuado o estar pendiente la declaración de discernimiento.
+NOTA: 11
+El Artículo transitorio de la Ley N° 19.343, publicada en el "Diario Oficial" de 31 de Octubre de 1994, dispuso que la modificación introducida al presente artículo rige sesenta días después de su publicación en el Diario Oficial.
+
+Artículo 349.- El inculpado o encausado será sometido a examen mental siempre que se le atribuya algún delito que la ley sanciones con presidio o reclusión mayor en grado máximo u otra superior; o cuando fuere sordomudo o mayor de setenta años, cualquiera sea la penalidad del delito que se le atribuye.
+
+#### Título VIII
+DEL CAREO
+
+Artículo 351.- Cuando los testigos o los procesados entre sí, o aquéllos con éstos, discordaren acerca de algún hecho o de alguna circunstancia que tenga interés en el sumario, podrá el juez confrontar a los discordantes a fin de que expliquen la contradicción o se pongan de acuerdo sobre la verdad de lo sucedido. Procederá asimismo esta diligencia con respecto a los querellantes y meros inculpados.
+No será procedente el careo de las personas que no tienen obligación de prestar declaración como testigos, salvo que hubieren consentido en declarar ni lo será tampoco con respecto a aquellas que no están obligadas a concurrir.
+
+Art. 352 (375) Para verificar el careo, el juez hará comparecer ante él a las personas cuya declaración sea contradictoria, y juramentando o tomando promesa a los que sean testigos o querellantes y exhortando a todos a decir verdad, hará leer o leerá por sí mismo el punto en que las declaraciones se contradigan, y preguntará a cada uno de los discordantes si se ratifica en su dicho o si tiene algo que agregar o modificar a lo expuesto.
+Si alguno altera su declaración concordándola con la de otro, el juez indagará la razón que tenga para alterarla, y la que tuvo para haber declarado en los términos en que antes lo hizo.
+Si los discordantes se limitaren a ratificarse, el juez les manifestará la contradicción que existe entre sus respectivos dichos y les amonestará para que se pongan de acuerdo en la verdad, permitiendo al efecto que cada uno de los careados haga a cualquiera de los otros las preguntas que estime conducentes y las reconvenciones a que las respuestas dieren lugar, y cuidando de que no se desvíen del punto en cuestión, ni se insulten o amenacen.
+
+Art. 353. (376) Si fueren diversos los hechos o circunstancias acerca de los cuales ocurre la divergencia, el careo se referirá separada y sucesivamente a cada uno de ellos.
+
+Art. 354. (377) En el acta que se levantará para hacer constar la diligencia del careo, se pondrá testimonio con toda exactitud de las preguntas, reconvenciones y respuestas de las personas careadas, redactándolas el juez, en cuanto sea posible, con las mismas palabras con que hubieren sido expresadas.
+El careo podrá ser recogido mediante versión taquigráfica o en aparatos de estenotipia o fonograbadores y en tal caso tendrá aplicación lo dispuesto en el artículo 330.
+
+Art. 355. (378) Cuando apareciere contradicción entre la declaración de un testigo ausente y la del procesado o de otro testigo presente, y el juez creyere indispensable aclarar el punto en que ella ocurra, leerá al procesado o al testigo presente su declaración y las particularidades de la del ausente en que se note el desacuerdo; y las explicaciones que dé o las observaciones que haga para confirmar, variar o modificar sus anteriores asertos se consignarán en la diligencia.
+Subsistiendo la disconformidad, se librará exhorto al juez de la residencia del testigo ausente, en el cual se insertarán a la letra la declaración que haya prestado y la parte conducente de la diligencia a que se refiere el inciso anterior, a fin de que se complete esta diligencia con la de aquel testigo en la misma forma indicada en el precedente inciso.
+En casos graves, y juzgándolo el juez absolutamente necesario, ordenará la comparecencia del testigo ausente a fin de practicar el careo ante él y en la forma ordinaria. Procederá también esta diligencia con respecto a los denunciantes, querellantes y meros inculpados.
+
+#### Título IX
+DE LA LIBERTAD PROVISIONAL
+
+Artículo 356 bis.- En los casos del artículo 10 números 4°, 5° y 6° del Código Penal y de los dos incisos finales del artículo 260 de este Código, la libertad provisional del detenido será resuelta inmediatamente por el juez de la causa, aun verbalmente, de oficio o a petición de parte, y con caución o sin ella, cualquiera que sea el daño causado al agresor. Esta resolución no requerirá del trámite de consulta, ni será necesario cumplir con los requisitos del artículo 361, en su caso y la apelación se concederá en el solo efecto devolutivo.
+
+Art. 357. (380) Una vez averiguado que el delito de que se trata está sancionado únicamente con penas pecuniarias o privativas de derechos, o con una pena privativa o restrictiva de la libertad de duración no superior a la de presidio menor en su grado mínimo, se decretará la libertad provisional del procesado, sin exigirle caución alguna.
+Pero éste deberá permanecer en el lugar del juicio hasta su terminación y presentarse a los actos del procedimiento y a la ejecución de la sentencia, inmediatamente que fuere requerido o citado conforme a los artículos 247, 249 y 250.
+
+Art. 361. (384) Si el delito tiene asignada por ley pena aflictiva, el detenido o preso tendrá derecho a que Art Unico se le conceda la excarcelación, salvo en los casos a que se refiere el artículo 363.
+En este caso, la resolución que otorgue la libertad provisional deberá consultarse al tribunal de alzada que corresponda.
+Para los efectos de este artículo no se aceptará otra caución que hipoteca o depósito de dinero o de efectos públicos de un valor equivalente. Estas cauciones podrán ser constituidas también por terceros.
+
+Art. 363. (386) Sólo podrá denegarse la libertad provisional, por resolución fundada, basada en antecedentes calificados del proceso, cuando la detención o prisión sea estimada por el Juez estrictamente indispensable para el éxito de diligencias precisas y determinadas de la investigación, o cuando la libertad del detenido o preso sea peligrosa para la seguridad de la sociedad o del ofendido.
+Se entenderá que la seguridad de la víctima del delito se encuentra en peligro por la libertad del detenido o preso cuando existan antecedentes calificados que permitan presumir que éste pueda realizar atentados graves en su contra.
+El tribunal deberá dejar constancia en el proceso, en forma pormenorizada, de los antecedentes calificados que hayan obstado a la libertad provisional, cuando no pueda mencionarlos en la resolución, por afectar el éxito de la investigación.
+El juez, en caso que estime necesario conocer los antecedentes del detenido o preso para concederle la libertad provisional, requerirá del Servicio de Registro Civil e Identificación, por el medio escrito u oral que estime más conveniente y expedito, la información pertinente. El Servicio de Registro Civil e Identificación estará obligado a proporcionarla de inmediato, usando el medio mas expedito y rápido para ello, sin perjuicio de remitir con posterioridad el certificado de antecedentes correspondiente.
+El secretario del tribunal dejará testimonio en el proceso de la fecha y forma en que requirió ese informe y, si la respuesta es oral, señalará además su fecha de recepción, la individualización de la persona que la emitió y su tenor.
+Lo dispuesto en los dos incisos precedentes se entenderá sin perjuicio de las actuaciones que se deban efectuar para prontuariar al procesado.
+
+Art. 364. (387) La libertad provisional se puede pedir y otorgar en cualquier estado del juicio.
+INCISO SEGUNDO.- DEROGADO.-
+Cuando el juez de la causa oficie a otro juez para la aprehensión de una persona, expresará en el oficio, si puede concederse o no la libertad provisional, con caución o sin ella; y el juez exhortado la otorgará o no en conformidad a esa expresión.
+Si otorga la libertad, exigirá a la persona fianza de presentarse al juez de la causa en un plazo breve que fijará.
+
+Art. 365. (388) La solicitud sobre libertad provisional será resuelta, a más tardar, veinticuatro horas después de presentada.
+INCISO SEGUNDO.- DEROGADO.-
+
+Art. 368. (391) La cuantía de la caución será determinada por el juez, tomando en consideración la naturaleza del delito, el estado social y antecedentes del procesado y las demás circunstancias que pudieran influir en el mayor o menor interés de éste para ponerse fuera del alcance de la justicia.
+
+Art. 369. (392) La fianza podrá constituirse por escritura pública o por un acta firmada ante el juez por el procesado y el fiador.
+El fiador deberá ser vecino del lugar, tener la solvencia determinada por el artículo 2350 del Código Civil, y no encontrarse comprendido entre las personas a quienes prohíbe obligarse como fiador el artículo 2342 del mismo Código.
+
+Art. 371. (394) Podrá substituirse la fianza por un depósito de dinero, prenda de efectos públicos o hipoteca suficiente.
+
+Art. 372. (395) El procesado y el fiador deberán designar casa para el efecto de las notificaciones y citaciones que ocurrierén y que sea menester hacerles personalmente, aun cuando hayan constituido apoderado.
+Las notificaciones que se hagan al procesado o a su procurador, deberán ser hechas también al fiador cuando se relacionen con la obligación de éste.
+El procesado y su fiador darán aviso de todo cambio de morada al secretario de la causa, quien dejará de ello testimonio en el proceso.
+
+Artículo 372 bis.- Al encarcelado sin caución que fuere notificado de una citación personalmente en el domicilio señalado, o por cédula si no se le encontrare en él, y no compareciere en el término fijado por el juez, se le dejará sin efecto la libertad provisional.
+Si comparece o es aprehendido después, para ser excarcelado por segunda vez podrá exigírsele que rinda caución.
+
+Art. 373. (396) Si el procesado mandado citar por el juez y notificado personalmente en el domicilio que tuviere señalado, o por cédula si no se le encontrare allí, no compareciere en el término que se le fijare, mandará el juez que se notifique a su fiador para que lo presente en el plazo de cinco días.
+Este plazo podrá ampliarse a solicitud del fiador siempre que hubiere motivo fundado.
+Se notificará al fiador en el domicilio que hubiere señalado, o por cédula si no fuere encontrado en él. No compareciendo el procesado en el término de los cinco días o en el que se fijare, se procederá a hacer efectiva la fianza, para lo cual dictará el juez el auto respectivo, que quedará ejecutoriado sin necesidad de más trámite.
+
+Art. 375. (398) El procedimiento ejecutivo se seguirá de oficio y sin dilación alguna, en cuaderno separado y conforme a las reglas del Título siguiente, hasta enterar en alguna institución bancaria a la orden de la Junta de Servicios Judiciales, o en dinero en la secretaría del juzgado, la suma a que ascienda la cuantía de la fianza, depósito, hipoteca o prenda mandados constituir.
+
+Artículo 375 bis.- Si la caución ha consistido en un depósito de dinero, y no comparece el procesado en el tiempo que se le fijare por el juez, éste hará efectiva la caución girando la cantidad consignada a la orden de la Junta de Servicios Judiciales.
+
+Art. 377. (400) Podrá el juez poner término a la libertad provisional por resolución fundada, cuando aparezcan nuevos antecedentes que así lo justifiquen, al tenor de lo dispuesto en los incisos primero y segundo del artículo 363, y procediendo en lo demás en conformidad a lo establecido en el inciso tercero del mismo artículo.
+
+Artículo 379.- Hecha efectiva en todo o parte la caución, no tendrá acción el que la hubiere constituido para pedir la devolución a título de pago indebido, pero le quedará a salvo su derecho para reclamar la indemnización que corresponda, del procesado o de sus causas-habientes, en conformidad a las reglas legales.
+
+#### Título X
+DEL EMBARGO Y DE LAS DEMAS MEDIDAS PARA ASEGURAR LA
+RESPONSABILIDAD PECUNIARIA DEL PROCESADO Y DE LOS TERCEROS
+CIVILMENTE RESPONSABLES
+
+Artículo 381.- En casos graves y urgentes, o cuando sea de temer que el inculpado o el responsable civil oculten sus bienes o se desprendan de ellos, o si la persona a la cual deba afectar no es de conocida solvencia, el embargo podrá ordenarse de oficio o a petición de parte desde que aparezcan contra el inculpado fundadas sospechas de su participación en un hecho que presente caracteres de delito.
+
+Artículo 382.- Por el embargo quedan afectados bienes del procesado o del inculpado, o de terceros civiles responsables, para asegurar las responsabilidades pecuniarias que contra ellos puedan declararse. En tanto estas responsabilidades no se pronuncien por sentencia firme, el embargo tendrá carácter cautelar, pero ejecutoriada la sentencia los bienes embargados serán realizados para la satisfacción de aquéllas.
+
+Artículo 383.- Tan pronto ordene el embargo, el juez despachará un mandamiento que contendrá:
+1° La orden de embargar bienes de una o más personas, a quienes se individualizará, por las cantidades que se indicarán;
+2° Los bienes que deberán embargarse, si el juez estima convenientes señalarlos determinadamente;
+3° La designación de un depositario provisional, que podrá ser el propio inculpado o procesado, y
+4° La orden de prestar el auxilio de la fuerza pública al ministro de fe o al depositario, en caso de que la soliciten.
+Con el mandamiento despachado por el juez, el ministro de fe procederá al embargo de los bienes determinados en él y en seguida notificará al afectado, personalmente si es habido, por cédula si, no siéndolo, se conoce su domicilio o morada, y si ésta es desconocida, mediante un aviso que se insertará en el estado diario.
+El mandamiento de embargo y las demás diligencias a que se refiere este Título deberán ser practicados en cuaderno separado por el receptor, o por el funcionario del tribunal o de policía que el juez designe como ministro de fe para estos efectos en el proceso.
+
+Artículo 384.- El mandamiento de embargo decretado contra los bienes de la mujer casada, no divorciada ni separada de bienes, se trabará en sus bienes propios, en los de la sociedad conyugal o en los de ambos.
+
+Art. 385. (408) Si los bienes embargados consistieren en dinero efectivo, efectos públicos, créditos realizables en el acto, alhajas de oro, plata o pedrería, se depositarán en un banco o en poder de la persona que el juez designe y quedarán dichos bienes a disposición de éste.
+
+Art. 386. (409) Si el embargo se trabare en otros bienes muebles, no semovientes, o en frutos y rentas embargables, el ministro de fe encargado del embargo los entregará bajo inventario al depositario.
+El depositario firmará la diligencia de recibo, obligándose a conservar los bienes a disposición del juez que conozca de la causa y, en caso de pérdida, a pagar la cantidad a que ascendiere el valor de lo depositado, sin perjuicio de la responsabilidad criminal en que pudiere incurrir.
+El depositario podrá recoger y conservar en su poder los bienes embargados, o dejarlos bajo su responsabilidad en poder del procesado.
+El juez determinará, bajo su responsabilidad, si el depositario ha de afianzar el buen cumplimiento del cargo, y el importe de la fianza, en su caso.
+
+Art. 387. (410) Si se embargaren sementeras, plantíos o, en general, frutos pendientes o algún establecimiento industrial o mercantil, podrá el juez decretar, cuando, atendidas las cirunstancias, lo creyere conveniente, que continúe administrándolos el procesado por sí o por medio de la persona que designe.
+Si el procesado conservare la administración, el juez le nombrará un interventor que lleve cuenta y razón de los frutos que se perciban y consuman. Si el juez determinare nombrar un administrador, éste afianzará el buen desempeño de su cargo, y el procesado podrá nombrar un interventor.
+
+Art. 388. (411) En los casos de los dos artículos anteriores, cesará el embargo tan pronto como los frutos percibidos alcancen a una suma equivalente a la cantidad fijada por el juez en conformidad al artículo 380.
+
+Art. 390. (413) DEROGADO.-
+
+Art. 392. (415) Durante el juicio podrá el tribunal que actualmente conociere de él, ampliar o reducir el embargo y demás medidas, según los motivos que sobrevinieren para estimar que han aumentado o disminuido las responsabilidades pecuniarias del procesado.
+
+Art. 393. (416) El juez podrá también, para los fines de que trata este Título y de oficio o a petición de parte, decretar en lugar del embargo o junto con él cualesquiera de las medidas precautorias previstas en el Título V del Libro II del Código de Procedimiento Civil en la forma allí regulada.
+
+Art. 394. (417) Se omitirán o alzarán el embargo o la prohibición de enajenar o gravar, siempre que el procesado caucione confianza o hipoteca suficiente las resposabilidades pecuniarias que pudieran imponérsele en definitiva.
+
+Art. 395. (418) Asimismo se omitirá el embargo siempre que no hubiere bienes suficientes y conocidos en que hacerlo efectivo.
+
+Art. 396. (419) En cualquier estado del juicio en que fuere reconocida la inocencia del procesado, se procederá a alzar inmediatamente el embargo trabado en sus bienes, o a cancelar las fianzas o levantar la prohibición de enajenar, que le hubieren sido impuestas.
+El Conservador no podrá exigir pago de derechos por estas diligencias.
+
+Art. 397. (420) Las tramitaciones a que dieren origen las diligencias prescritas en este Título, se instruirán en cuaderno separado, y la medidas que el juez adoptare serán apelables sólo en el efecto devolutivo, salvo que se refieran a la realización de los bienes embargados, en cuyo caso la apelación se concederá en ambos efectos. En lo demás, el proceso sigue su curso legal.
+
+Art. 398. (421) Cuando la reponsabilidad civil recaiga sobre terceras personas, el embargo y las medidas cautelares se trabará sobre bienes de éstas, y se procederá en todo de conformidad con las disposiciones de este Título.
+Las terceras personas que aparecieren como civilmente responsables, tendrán derecho para intervenir en todo lo relativo a las diligencias ordenadas en este título, y podrán sostener su irresponsabilidad y comprobarla por los medios que determina la ley.
+Esta intervención no suspenderá en ningún caso la substanciación del juicio criminal; y el juicio a que diere lugar se tramitará en la forma de un incidente.
+
+Art. 399. (422) Declaradas por sentencia firme las responsabilidades civiles que deban satisfacer los procesados o los civilmente responsables, se procederá a la realización de los bienes embargados o afectos a medidas precautorias, en cuanto sea procedente, de conformidad con las reglas generales.
+En todo lo que no estuviere previsto en este título, se aplicarán las reglas que el Código de Procedimiento Civil establece sobre embargo, administración y procedimiento de apremio y sobre medidas precautorias, en su caso.
+
+Art. 400. (423) En los casos de quiebra del procesado o del tercero civilmente responsable, el representante del Fisco, el querellante particular y el actor civil, en su caso, figurarán como acreedores por las cantidades que haya fijado el juez que conoce del proceso, con arreglo a los artículos 380 y 381, y con la prelación que les corresponda, según las reglas generales.
+
+#### Título XI
+DE LA CONCLUSION DEL SUMARIO
+
+Art. 401. (432) Practicadas las diligencias que se hayan considerado necesarias para la averiguación del hecho punible y sus autores, cómplices y encubridores, el juez declarará cerrado el sumario. Las partes tendrán el plazo común de cinco días para pedir que se deje sin efecto esta resolución y se practiquen las diligencias que se consideren omitidas, las que deberán mencionar concretamente.
+El término se considerará ampliado, cuando el sumario constare de más de cien fojas, con un día más por cada veinticinco fojas que excedan del número indicado, pero en ningún caso podrá ser mayor de quince días.
+Vencido el término, el juez resolverá de plano todas las solicitudes conjuntamente y ordenará practicar las diligencias que estime necesarias, reabriendo el sumario en tal caso. Es inapelable esta resolución en cuanto ordena diligencias.
+Una vez cumplidas las actuaciones ordenadas cerrará nuevamente el sumario.
+
+Art. 402. (433) DEROGADO.-
+
+Art. 403. No podrá elevarse a plenario un proceso por crimen o simple delito sino en contra de las personas que están sometidas a proceso.
+
+Art. 404. (434) DEROGADO.-
+
+Art. 405. (435) Si durante el sumario, el procesado dedujere algunas de las excepciones de previo y especial pronunciamiento enunciadas en el artículo 433, se la tramitará en cuaderno separado y no se suspenderá la investigación, ni aun por apelación pendiente.
+
+### Segunda Parte
+DEL PLENARIO
+
+#### Título I
+DE LA ACUSACION
+
+Art. 425. (456) Si en el sumario hubieren obrado querellantes o actores civiles, que no se hubieren desistido, el juez les dará traslado de la acusación por el término fatal y común de diez días, que se aumentará en un día por cada doscientas fojas de que consten los autos, no pudiendo exceder de veinte días. Dentro de este plazo, el querellante podrá adherir a la acusación de oficio o presentar otra por su parte y deducir las acciones civiles que le correspondan. El actor civil podrá interponer formalmente las suyas, en igual término.
+Se entenderá abandonada la acción por el querellante que no hubiere presentado su adhesión o su acusación dentro de plazo.
+
+Art. 426. (457) Los autos y los libros y piezas de convicción podrán ser examinados en la secretaría del tribunal, a menos que el juez, por motivo calificado, permita que sean llevados a otro lugar por un procurador, con las debidas garantías, por un plazo determinado. Vencido este plazo, podrá ser apremiado con arresto el procurador que ho hubiere devuelto al secretario del tribunal los autos, libros o piezas que se le hayan confiado.
+
+Art. 428. El ejercicio de las acciones civiles en el plenario se efectúa por medio de una demanda, que deberá cumplir los requisitos exigidos por el artículo 254 del Código de Procedimiento Civil.
+El querellante deberá interponer su demanda civil conjuntamente con su acusación o adhesión, en un mismo escrito. Podrá, también, abandonar la acciòn penal e interponer, dentro del plazo del articulo 425, únicamente su demanda civil.
+La falta de ejercicio de la acción civil en el proceso penal, sea que se abandone la acción penal o no, no obsta a su ejercicio ante el juez civil competente.
+
+Art. 429. En sus escritos de adhesión, de acusación y de demanda civil, el querellante y el actor civil deberán expresar los medios probatorios de que intentan valerse, o si se atienen al mérito del sumario, renunciando a la prueba y al derecho de pedir que se ratifiquen los testigos. Si ofrecen rendir prueba de testigos presentarán una lista, individualizándolos con nombre, apellidos, profesión y domicilio o residencia y una minuta de interrogatorio.
+En los mismos escritos deberán, individualizar de igual modo, al perito o a los peritos que propongan, para los efectos del artículo 471, indicando, además, sus títulos o calidades.
+
+Art. 432. Los mandatarios judiciales ya constituidos en el proceso, cuyos mandatos no hubieren expirado, se entienden facultados para interponer demandas civiles y para ser notificados de ellas, en su caso, a menos que se les haya negado expresamente tal facultad. En este caso y respecto de quienes no tengan mandatario en el proceso, regirán las reglas generales.
+
+#### Título II
+DE LAS EXCEPCIONES DE PREVIO Y ESPECIAL
+PRONUNCIAMIENTO
+
+Art. 436. (464) Del escrito en que el procesado o acusado deduzca el artículo se dará traslado por el término común de seis días al querellante o acusador particular, según corresponda.
+
+Art. 439. (437) Los artículos de previo y especial pronunciamiento se substanciarán y fallarán como incidentes.
+
+Art. 440. (468) Si alguna de las excepciones opuestas fuere la de declinatoria de jurisdicción o la de litis pendencia, el juez la resolverá antes de las demás. Cuando considere procedente alguna de éstas, y la litis anterior no pendiere ante él, mandará remitir los autos al juez que considere competente, absteniéndose de resolver sobre las otras excepciones.
+
+Art. 442. (470) Si se declarare haber lugar al artículo de falta de autorización para procesar, el juez mandará inmediatamente subsanar este defecto.
+La causa quedará, entre tanto, en suspenso y se continuará según su estado, una vez obtenida la autorización.
+Si ésta fuere denegada, todo lo actuado quedará nulo y se sobreseerá definitivamente en la causa.
+Todo lo cual se entiende sin perjuicio de lo dispuesto en el artículo 618.
+
+Art. 443. (471) La resolución que deseche las excepciones 4a, 5a, 6a, 7a y 8a de las enumeradas en el artículo 433, no es apelable.
+La resolución que deseche las excepciones 1a, 2a, y 3a del citado precepto, es apelable en el solo efecto devolutivo.
+
+Art. 444. (472) Admitida alguna de las excepciones de que se trata en el inciso 1° del artículo precedente, el auto será consultado a la Corte de Apelaciones en los mismos casos en que la ley prescriba la consulta de una sentencia definitiva.
+
+Art. 445. (473) Cuando se suscitare durante el sumario un artículo de previo y especial pronunciamiento, se le substanciará y fallará en pieza separada, sin perjuicio de tomarse en cuenta para el fallo los antecedentes que arroja el sumario.
+Si durante el plenario se opusieren excepciones de previo pronunciamiento, se suspenderá el juicio principal.
+
+#### Título III
+DE LA CONTESTACION A LA ACUSACION
+
+Art. 447. (475) El acusado y el civilmente responsable tienen para contestar el plazo de seis días. Si son varios los acusados, o varios los demandados civiles, tendrán el término común de diez días, sin perjuicio del aumento que señala el artículo 425.
+Respecto del examen del expediente, regirán en cuanto sean aplicables, las reglas establecidas en el artículo 426.
+
+Art. 450. (478) Los acusados y el responsable civilmente manifestarán en su escrito de contestación, cuáles son los medios probatorios de que intentan valerse, y presentarán listas de testigos que hubieren de declarar a su instancia.
+En dichas listas se expresarán el nombre y apellido de los testigos, su apodo si por él son conocidos, y su domicilio o residencia. La parte que los presentare manifestará además si se encarga de hacerlos comparecer o si pide que sean citados judicialmente.
+En los mismos escritos, deberán proponer el perito o peritos para los efectos del artículo 471. Los individualizarán por su nombre y apellidos, señalarán su domicilio, las calidades y títulos que justifiquen su designación e indicarán si solicitan su informe escrito u oral, y en este último caso, si deberán ser citados o los harán comparecer.
+
+Artículo 450 bis.- Los demandados civiles deberán oponer todas sus excepciones en el escrito de contestación y el juez las fallará en la sentencia definitiva.
+Si se rechaza la demanda por vicios formales, sin resolver el fondo de la acción deducida, podrá renovarse ante el juez de letras en lo civil, entendiéndose suspendida la prescripción en favor del demandante civil, desde que interpuso la demanda o, en su caso, desde que se constituyó en parte civil.
+
+#### Título IV
+DE LA PRUEBA Y DE LA MANERA DE APRECIARLA
+
+##### 1. De la prueba en general
+
+Art. 452 (480) No se llevará a efecto ninguna diligencia probatoria si no está ordenada por decreto judicial notificado a las partes.
+El juez no permitirá que se practiquen diligencias probatorias que no sean conducentes a demostrar los hechos materia del juicio.
+
+Art. 453. (481) En la resolución que recibe la causa a prueba, el juez fijará una o más audiencias dentro del probatorio para recibir las declaraciones de las partes, de testigos o de peritos. La recepción de estas pruebas continuará en las audiencias consecutivas que fueren necesarias, hasta su término.
+Las partes del juicio deberán ser notificadas con un día de anticipación a lo menos, para que por sí o por procurador puedan concurrir al acto.
+Cuando la prueba deba recibirse fuera del lugar de asiento del tribunal, las órdenes y exhortos serán librados dentro de veinticuatro horas, a más tardar.
+
+Art. 454. (482) Las diferentes actuaciones de prueba se practicarán en audiencia pública, excepto cuando la publicidad fuere peligrosa para las buenas costumbres; lo cual declarará en auto especial el juez de la causa.
+Los jueces durante el plenario cuidarán de señalar horas diversas para recibir la prueba en cada causa.
+
+Art. 455. (483) Contra la resolución que decrete o rechace una diligencia, sólo cabe reposición dentro de tercero día, sin perjuicio de que pueda ordenarse en la segunda instancia del juicio, si se renueva la petición, o de oficio.
+
+Art. 456. (483) Se levantará acta de lo actuado, pudiendo el juez dejar constancia de las preguntas y respuestas o de un resumen de ellas, según convenga al caso.
+El acta será suscrita por todos los asistentes; el juez podrá permitir la firma inmediata de las personas a quienes autorice para retirarse antes del término de la audiencia.
+
+Art. 457. (485) Los medios por los cuales se acreditan los hechos en un juicio criminal, son:
+1° Los testigos;
+2° El informe de peritos;
+3° La inspección personal del juez;
+4° Los instrumentos públicos o privados;
+5° La confesión; y
+6° Las presunciones o indicios.
+Sobre cada uno de estos medios de prueba rigen las disposiciones dictadas a su respecto en la parte primera de este libro y en los párrafos siguientes.
+
+##### 2. De la prueba de testigos
+
+Art. 458. (486) Cada parte podrá presentar, durante el plenario, hasta seis testigos para probar cada uno de los hechos que le convengan.
+INCISO SEGUNDO.- DEROGADO.-
+
+Art. 459. (487) La declaración de dos testigos hábiles, contestes en el hecho, lugar y tiempo en que acaeció, y no contradicha por otro u otros igualmente hábiles, podrá ser estimada por los tribunales como demostración suficiente de que ha existido el hecho, siempre que dicha declaración se haya prestado bajo juramento, que el hecho haya podido caer directamente bajo la acción de los sentidos del testigo que declara y que éste dé razón suficiente, expresando por qué y de qué manera sabe lo que ha aseverado.
+
+Art. 461. (489) El testimonio del mayor de dieciocho años valdrá, aun cuando se refiera a hechos ocurridos en los cuatro años anteriores a la fecha en que cumplió aquella edad.
+
+Art. 462. (490) Se presumirá ebrio consuetudinario al testigo que hubiere sido condenado tres veces por ebriedad, dentro de los últimos cinco años.
+
+Art. 463. (491) Las inhabilidades que se fundan en las circunstancias de parentesco, amistad, enemistad, vínculo social o dependencia del testigo con relación a algunas de las partes, sólo se considerarán como tales en cuanto los testigos puedan ser inspirados por el interés, afecto u odio que pudieran nacer de aquellas relaciones.
+
+Art. 465. (493) El juez examinará a los testigos acerca de los hechos pertinentes expuestos por el que los presentare, en los escritos de acusación y de contestación.
+
+Art. 466. (494) Los interrogatorios o contra-interrogatorios que presentaren las partes, los mandará poner el juez en conocimiento de las otras partes; quienes podrán objetarlos dentro de veinticuatro horas; y el juez resolverá dentro de las veinticuatro horas siguientes.
+El juez interrogará a los testigos al tenor de las preguntas que hubiere declarado pertinentes.
+Podrá también interrogarlos sobre otros hechos conducentes y hacerles preguntas para aclarar las formuladas por las partes.
+Estas podrán también interrogarlos con permiso del juez; quien lo concederá para hechos pertinentes sobre los cuales no hubiere declarado antes el testigo. Tampoco podrá negarlo cuando las preguntas se dirijan a establecer causales de inhabilidad de los testigos.
+
+Art. 467. (495) No serán apelables las resoluciones que el juez dicte en virtud de lo dispuesto en el artículo precedente; pero el tribunal podrá, al rever la sentencia, mandar adelantar las diligencias que estimare incompletas, comisionando a uno de sus miembros o al juez de primera instancia.
+
+Art. 468. (496) Durante el término probatorio, el juez ratificará a los testigos del sumario o a alguno de ellos, cuando lo considere conveniente o cuando lo pida alguna de las partes.
+Estas pueden asistir a la diligencia de ratificación y hacer a los testigos las preguntas que el juez estime conducentes con arreglo a lo dispuesto en el artículo 466.
+
+Art. 469. (497) No es necesario ratificar en el juicio plenario a los testigos del sumario, para la validez de sus declaraciones; pero, si alguna de las partes lo solicitare, se ratificará a los testigos que sean habidos y que no se hayan ratificado conforme a lo establecido en el artículo 219.
+
+Art. 470. (498) Si alguno de los testigos del sumario hubiere fallecido, o se ha ausentado o no pudiere ser habido, y se objeta su declaración por no estar ratificado en el plenario, el juez interrogará bajo juramento a dos personas dignas de crédito que hayan conocido a aquel testigo, acerca del concepto que tengan de la veracidad de él; y el dicho favorable de estas personas producirá el efecto de la ratificación.
+Si no pudiere practicarse esta diligencia o si las personas indicadas no abonaren al testigo, se aplicará a su declaración la regla del artículo 464.
+
+##### 3. Del informe de peritos
+
+Art. 471. (499) Cuando se hubiere presentado informe pericial durante el sumario, las partes podrán pedir en los respectivos escritos de acusación y contestación, que el perito amplíe su informe con el solo objeto de aclarar o desvanecer dudas, o subsanar errores de que éste pueda adolecer, los que deberán ser señalados determinadamente.
+Además, podrán pedir un nuevo informe pericial y el juez resolverá de acuerdo con el inciso primero del artículo 221.
+Si en el sumario no se hubiere practicado examen pericial y las partes piden alguno durante el término probatorio, el juez lo ordenará cuando lo estimare conducente.
+En uno u otro caso, se observarán las prescripciones del Párrafo VI, Título III del Libro II.
+Los peritos pueden ser tachados por las mismas causales que los testigos.
+
+Art. 472. (500) El dictamen de dos peritos perfectamente acordes, que afirmen con seguridad la existencia de un hecho que han observado o deducido con arreglo a los principios de la ciencia, arte u oficio que profesan, podrá ser considerado como prueba suficiente de la existencia de aquel hecho, si dicho dictamen no estuviere contradicho por el de otro u otros peritos.
+
+Art. 473. (501) Fuera del caso expresado en el artículo anterior, la fuerza probatoria del dictamen pericial será estimada por el juez como una presunción más o menos fundada, según sean la competencia de los peritos, la uniformidad o disconformidad de sus opiniones, los principios científicos en que se apoyen, la concordancia de su aplicación con las leyes de la sana lógica y las demás pruebas y elementos de convicción que ofrezca el proceso.
+
+##### 4. De la inspección personal del juez
+
+Art. 474. (502) Acerca de la existencia de los rastros, huellas y señales que dejare un delito y acerca de las armas, instrumentos y efectos relacionados con él, hará completa prueba la diligencia de la inspección ocular que haya practicado el juez asistido por el secretario, asentada en el acta correspondiente.
+
+Art. 475. (503) Acerca de los hechos que hubieren pasado en presencia del juez y ante el respectivo secretario, hará completa prueba la diligencia que, con las debidas formalidades, se hubiere asentado sobre el particular.
+
+Art. 476. (504) Se tendrá asimismo como prueba completa toda diligencia en que se hicieren constar las observaciones que el juez haya hecho por sí mismo con asistencia del secretario, en los lugares que hubiere visitado con motivo del suceso, o los hechos que hubieren pasado ante uno y otro funcionario.
+
+##### 5. De la prueba instrumental
+
+Art. 477. (505) Todo instrumento público constituye pueba completa de haber sido otorgado, de su fecha y de que las partes han hecho las declaraciones en él consignadas.
+
+Art 479. (507) Se mandarán agregar al proceso los papeles y cartas de terceros presentados con el consentimiento de sus autores o dueños.
+Aun sin ese consentimiento, se agregarán los que el tribunal estime conducentes a la comprobación del delito o de sus perpetradores.
+
+Art. 480. (508) El cotejo de letras o firmas formarán una presunción o indicio de haber sido escrito o firmado un papel o documento por la persona a quien lo atribuyan los peritos que hubieren practicado la diligencia.
+
+##### 6. De la confesión
+
+Art. 484. (512) La confesión que no se prestare ante el juez de la causa, determinado en el número 1° del artículo 481, y en presencia del secretario, no constituirá una prueba completa, sino un indicio o presunción, más o menos grave según las circunstancias en que se hubiere prestado y el mérito que pueda atribuirse a la declaración de aquellos que aseguren haberla presenciado.
+El silencio del imputado no implicará un indicio de participación, culpabilidad o inocencia.
+No se dará valor a la confesión extrajudicial obtenida mediante la intercepción de comunicaciones telefónicas privadas, o con el uso oculto o disimulado de micrófonos, grabadoras de la voz u otros instrumentos semejantes.
+
+Artículo 484 bis.- Si alguna de las partes lo pidiere, el acusado deberá concurrir a una o más audiencias determinadas, para ser interrogado sobre lo que haya manifestado en el sumario o sobre las declaraciones que hayan formulado los comparecientes en las audiencias del plenario. Esta diligencia podrá pedirse hasta dentro del plazo indicado en el artículo 499.
+
+Artículo 484 bis A.- Las demás partes podrán ser llamadas a prestar declaración en el plenario, para ser interrogadas al tenor de los puntos relativos a los hechos objeto de la acusación y de la defensa que se indiquen por la parte que lo solicite, en un sobre cerrado, que el tribunal abrirá en la audiencia.
+Las partes llamadas estarán obligadas a concurrir y con este objeto serán citadas en la forma prevista para los testigos y bajo los mismos apercibimientos.
+El juez podrá pronunciarse, de oficio o previa petición de parte y sin ulterior recurso, sobre la pertinencia de las preguntas, al momento de ser formuladas.
+No hay confesión ficta en el proceso penal.
+
+##### 7. De las presunciones
+
+Art. 485. (513) Presunción en el juicio criminal es la consecuencia que, de hechos conocidos o manifestados en el proceso, deduce el tribunal ya en cuanto a la perpetración de un delito, ya en cuanto a las circunstancias de él, ya en cuanto a su imputabilidad a determinada persona.
+
+Art. 486. (514) Las presunciones pueden ser legales o judiciales. Las primeras son las establecidas por la ley, y constituyen por sí mismas una prueba completa, pero susceptible de ser desvanecida mediante la comprobación de ciertos hechos determinados por la misma ley.
+Las demás presunciones se denominan "presunciones judiciales" o "indicios".
+
+Art. 487. (515) Respecto a la fuerza probatoria de las presunciones legales y al modo de desvanecerlas, se estará a lo dispuesto por la ley en los respectivos casos.
+
+Art. 488. (516) Para que las presunciones judiciales puedan constituir la prueba completa de un hecho, se requiere:
+1° Que se funden en hechos reales y probados y no en otras presunciones, sean legales o judiciales;
+2° Que sean múltiples y graves;
+3° Que sean precisas, de tal manera que una misma no pueda conducir a conclusiones diversas;
+4° Que sean directas, de modo que conduzcan lógica y naturalmente al hecho que de ellas se deduzca; y
+5° Que las unas concuerden con las otras, de manera que los hechos guarden conexión entre sí, e induzcan todas, sin contraposición alguna, a la misma conclusión de haber existido el de que se trata.
+
+#### Título V
+DEL TERMINO PROBATORIO
+
+Art. 489. (517) Regirán en las causas criminales las disposiciones contenidas en el Título Del Término Probatorio del Libro II del Código de Procedimiento Civil.
+
+Art. 490. (518) Las diligencias de prueba deberán ser pedidas, ordenadas y practicadas dentro del término probatorio. Si alguna de las pedidas durante el término dejare de practicarse dentro de él sin culpa de la parte que la pidió ésta podrá, dentro del plazo indicado en el artículo 499, exigir que se la lleve a efecto.
+
+Art. 491. (519) Durante el término probatorio, las partes podrán examinar los autos en la secretaría e imponerse de la prueba.
+Podrán también, durante el término probatorio y aun después de vencido éste, antes de la dictación de la sentencia, presentar escritos para fundar sus conclusiones en el mérito de la prueba rendida.
+
+#### Título VI
+DE LAS TACHAS
+
+Art. 492. (520) Cada parte puede tachar a los testigos examinados durante el sumario y a aquellos que la parte contraria presentare durante el término probatorio, que tengan alguna de las inhabilidades expresadas en el artículo 460.
+
+Art. 493. (521) Las tachas se deducirán, respecto de los testigos del sumario en los escritos de acusación y de contestación, y respecto de los demás, dentro de los cinco primeros días del término probatorio.
+No se admitirán las tachas alegadas cuando no se indicare circunstanciadamente la inhabilidad que afecta a los testigos y los medios de prueba con que se pretende acreditarlas.
+Si apareciere que la inhabilidad ha llegado a conocimiento de la parte a quien perjudica la declaración del testigo después de transcurridos los cinco días de que se habla en el inciso 1°, la tacha podrá ser alegada hasta dos días antes de vencerse el término probatorio.
+
+Art. 494. (522) El decreto recaído sobre las tachas se notificará al contendor dentro de segundo día.
+
+Art. 495. (523) Las diligencias con que las partes intenten acreditar o contradecir las tachas, se practicarán dentro del término de prueba.
+
+Art. 496. (524) El juez se pronunciará sobre las tachas en la sentencia definitiva.
+
+Art. 497 (525) La declaración del testigo estimado inhábil por el juez, podrá tener el valor que indica el artículo 464 de este Código.
+
+#### Título VII
+DE LA SENTENCIA
+
+Art. 498. (526) Vencido el término probatorio, el secretario certificará este hecho y notificará personalmente al procesado sometido a prisión preventiva quinto, 1.- y por el estado a las demás partes el mismo día o a más tardar el siguiente, sin necesidad de que lo ordene el juez.
+-
+
+Art. 499. (527) Notificada a las partes la certificación del artículo precedente, el secretario, sin demora, presentará los autos al juez, quien, dentro del plazo fatal de seis días, los examinará para ver si se ha omitido alguna diligencia de importancia.
+Si notare alguna omisión, o si creyere necesario esclarecer algún punto dudoso, mandará practicar las diligencias conducentes, determinándolas con toda precisión, y disponiendo que se proceda con la posible brevedad.
+No faltando diligencia alguna o hechas las ordenadas conforme al inciso anterior, el juez pronunciará sentencia en el plazo legal.
+
+Art. 501. (529) En la sentencia definitiva, el que ha sido emplazado de la acusación debe ser siempre condenado o absuelto. De consiguiente, no puede dejarse en suspenso el pronunciamiento del tribunal, ni aun cuando la absolución haya de dictarse por insuficiencia de la prueba, salvo en los casos en que la ley permite el sobreseimiento respecto del acusado ausnte o demente.
+
+Art. 504. (532) Toda sentencia condenatoria expresará la obligación del condenado de pagar las costas de la causa.
+Estas comprenden tanto las procesales como las personales y además los gastos ocasionados por el juicio y que no se incluyen en la costas.
+La sentencia condenatoria podrá disponer también el comiso de los instrumentos o efectos del delito cuando fuera procedente, o decretar su restitución cuando no deban caer en comiso.
+
+Art. 506. (534) Si el estudio de los antecedentes produjere en el juez el convencimiento de que el delito de que se trata es una mera falta, dictará su sentencia con arreglo a esa convicción, pero conformándose a las disposiciones de este título.
+
+Artículo 509 bis.- Ejecutoriada que sea la sentencia, el juez revisará personalmente los autos y decretará una a una todas las diligencias y comunicaciones que se requieran para dar total cumplimiento al fallo.
+En consecuencia, deberá remitir las copias que sean necesarias al establecimiento penitenciario, ordenar y controlar el efectivo cumplimiento de las multas y comisos, hacer efectiva la fianza, cuando procediere, y dirigirse a la Contraloría General de la República, al Servicio de Registro Civil e Identificación, al Servicio Electoral, en su caso, y a las demás autoridades que deban intervenir en la ejecución de lo resuelto.
+No se ordenará el archivo de los antecedentes sino después de constatarse que no hay órdenes pendientes u omitidas para el total cumplimiento y ejecución de lo resuelto.
+
+#### Título VIII
+DE LA APELACION DE LA SENTENCIA DEFINITIVA
+
+Art. 510. (538) Toda sentencia definitiva puede ser apelada por cualquiera de las partes, dentro de los cinco días siguientes al de la respectiva notificación.
+La apelación será entablada verbalmente o por escrito; y el recurso se otorgará siempre en ambos efectos.
+Las partes se considerarán emplazadas para concurrir al tribunal superior por el hecho de notificárseles la concesión del recurso de apelación, pudiendo hacer las peticiones que crean del caso, respecto de la sentencia apelada, al deducir el recurso o en la oportunidad a que se refiere el artículo 513.
+
+Art. 511. (539) El Ministerio Público tendrá el deber de apelar de toda sentencia en que, a su juicio, no se haya apreciado correctamente el delito, o no se haya impuesto al culpable la pena determinada por la ley.
+
+Art. 512. (540) Concedido el recurso, el juez ordenará elevar los autos al tribunal de alzada a quien corresponda conocer de la apelación, con citación y emplazamiento de las partes.
+El expediente, libros y papeles anexos serán remitidos al secretario de la Corte dentro de las veinticuatro horas siguientes a la última notificación del decreto que otorgó el recurso. El administrador del correo dará el correspondiente recibo al secretario del juzgado; y el de la Corte lo dará a la respectiva administración de correos. Si el juzgado de primera instancia tiene su asiento en la misma ciudad en que reside la Corte, los recibos se darán de secretario a secretario.
+
+Art. 513. Ingresados los autos, la Corte se pronunciará en cuenta sobre la admisibilidad del recurso. Si nota algún defecto, mandará subsanarlo y si encuentra mérito para considerarlo inadmisible o extemporáneo se estará a lo prescrito en el artículo 213 del Código de Procedimiento Civil.
+En caso contrario, se mantendrán los autos en secretaría por el término fatal de seis días, para que las partes puedan presentar sus observaciones escritas y transcurrido dicho plazo, se oirá la opinión del fiscal, quien deberá dictaminar en el término de seis días; pero si el proceso tiene más de cien fojas, se aplicará lo dispuesto en el inciso tercero del artículo 401.
+El apelado podrá adherirse a la apelación en el plazo fatal indicado en el inciso anterior.
+
+Art. 515. (550) Antes de ser notificado del decreto de autos, podrán los interesados presentar los documentos de que no hubieren tenido conocimiento o que no hubieren podido proporcionarse hasta entonces, jurando que así es la verdad.
+El tribunal mandará agregar tales documentos al proceso con citación de las demás partes, quienes podrán deducir las objeciones que tengan contra ellos, en el término de tercero día. El escrito de objeciones se agregará también al proceso con conocimiento de las partes.
+
+Art. 517. (552) Las partes podrán igualmente pedir, hasta el momento de entrar la causa en acuerdo, que ésta se reciba a prueba en segunda instancia.
+1° Cuando se alegare algún hecho nuevo que pueda tener importancia para la resolución del recurso, ignorado hasta el vencimiento del término de prueba en primera instancia; y
+2° Cuando no se hubiere practicado la prueba ofrecida por el solicitante, por causas ajenas a su voluntad; con tal que dicha prueba tienda a demostrar la existencia de un hecho importante para el éxito del juicio.
+
+Art. 518. (553) Cuando la petición de que se reciba prueba, en conformidad al artículo anterior, no apareciere, a primera vista, bastante justificada, el tribunal dispondrá que se la tenga presente para resolverla después de vista la causa. Apreciados entonces los motivos en que se funda la solicitud, resolverá si debe o no recibirse la causa a prueba.
+La denegación será fundada y se la dictará al fallar el negocio principal.
+
+Art. 519. (554) El tribunal de apelación, cuando acuerde recibir la causa a prueba, fijará el término, sin extenderlo a más de la mitad del concedido por la ley para la primera instancia; y determinará los hechos a que haya de concretarse la prueba.
+
+Art. 520. (555) Al solicitar el nuevo término probatorio, la parte nombrará a los testigos de que piensa valerse; y abierto el plazo, cada una de las otras partes presentará, dentro de tercero día, una lista de los suyos. La designación ha de individualizar completamente a los testigos y expresar la residencia de cada uno.
+No podrá examinarse sino a las personas comprendidas en aquella solicitud y en estas listas.
+
+Art. 521. (556) La prueba será recibida por el ministro del tribunal que sea comisionado o por el juez a quo o por otro juez a quien el tribunal juzgare conveniente cometerla.
+
+Art. 522. (557) Durante el término, podrá cada parte rendir las pruebas necesarias para acreditar que los testigos a quienes se ésta examinando tienen alguna de las inhabilidades designadas en el artículo 460.
+La lista de testigos con que se trate de comprobar las tachas será presentada, al menos, veinticuatro horas antes del examen, y mandada poner inmediatamente en conocimiento de las otras partes.
+
+Art. 523. (558) Vencido el término, el secretario pondrá en autos testimonio de este hecho y de la prueba rendida por cada parte; y con la cuenta que diere el relator, el tribunal llamará autos para sentencia.
+
+Art. 524. (559) Notificadas las partes que hayan comparecido del decreto de autos, la causa será inscrita en el rol de las que estén para tabla, y colocada en ésta tan pronto como le llegue el turno.
+Si el tribunal ejerce otra jurisdicción a más de la criminal, dará preferencia en la tabla a las causas criminales sobre las de cualquier otro orden.
+
+Art. 525. (560) Si el tribunal notare alguna deficiencia en la instrucción del proceso o si estimare necesarios nuevos datos para el mejor acierto del fallo, dictará un auto en que exprese las diligencias que manda practicar y el funcionario a quien las comete, que puede ser alguno de los designados en el artículo 521.
+Evacuadas las diligencias con citación de las partes, el tribunal fallará la causa, a menos que crea conveniente oír a las partes. En este caso, llamará autos; verán la causa los mismos jueces que ordenaron las diligencias del inciso anterior, y se observarán las disposiciones del artículo precedente.
+
+Art. 526. (561) La causa será vista en el día designado, si hubiere tiempo y no se presenta algún inconveniente; y en cuanto a la relación, informes orales y acuerdo, se observarán las reglas dadas por el Código de Procedimiento Civil y por el Código Orgánico de Tribunales, en lo que no estén modificadas por el presente.
+Durante los alegatos la Corte, por intermedio de su presidente, podrá invitar a los abogados a que extiendan sus consideraciones a cualquier punto de hecho o de derecho comprendido en el proceso, pero esta invitación no constituirá una obligación para los defensores.
+El tribunal fallará inmediatamente o dentro de seis días; pero este plazo se ampliará hasta veinte días cuando uno o más de los jueces lo pidiere para estudiar mejor el asunto, de lo cual se pondrá testimonio en los autos.
+Sin embargo, cuando la sentencia de primera instancia contuviere una condena a muerte, el tribunal no podrá fallar la causa de inmediato, y deberá hacer una segunda deliberación no antes de tres días.
+
+Art. 527. (562) El tribunal de alzada tomará en consideración y resolverá las cuestiones de hecho y las de derecho que sean pertinentes y se hallen comprendidas en la causa, aunque no haya recaído discusión sobre ellas ni las comprenda la sentencia de primera instancia.
+Si la sentencia de primera instancia omite considerar o resolver las acciones y excepciones civiles, el tribunal de alzada deberá resolverlas de oficio o a petición de parte.
+
+Artículo 527 bis.- En el cumplimiento de la decisión civil de la sentencia, regirán las disposiciones sobre ejecución de las resoluciones judiciales que establece el Código de Procedimiento Civil. Cuando el cumplimiento corresponda al tribunal que dictó el fallo de primera instancia, se llevará a efecto en cuaderno separado del juicio penal.
+
+Art. 529. (564) Cuando la sentencia de segunda instancia confirmare la de primera en todas sus partes, condenará en costas al apelante, a menos de ser éste el oficial del Ministerio Público.
+
+Art. 530. (565) Cuando un procesado fuere condenado por sentencia de primera instancia y absuelto por la de segunda, el tribunal hará comunicar sin demora el fallo absolutorio al juez a quo, a fin de que éste ponga inmediatamente en libertad al procesado; para lo cual podrá utilizar el telégrafo u otro medio de comunicación idóneo con las precauciones que garanticen la autenticidad de la comunicación.
+Lo mismo se observará cuando una sentencia de segunda instancia ponga término a la prisión de un individuo.
+
+Art. 531. (566) Cuando el tribunal de alzada pronunciare una condenación a muerte, procederá inmediatamente a deliberar sobre si el condenado parece digno de indulgencia y sobre qué pena proporcionada a su culpabilidad podría substituirse a la de muerte. El resultado de esta deliberación será consignado en un oficio que la Corte remitirá al Ministerio de Justicia, juntamente con una copia de las sentencias de primera y de segunda instancia. El Ministerio hará llegar los antecedentes al Presidente de la República, a fin de que resuelva si ha o no lugar a la conmutación de la pena o al indulto.
+
+Art. 532. (567) Transcurrido el plazo legal para deducir el recurso de casación, sin que las partes lo hayan entablado y no tratándose de los casos de excepción que establecen los incisos siguientes, serán devueltos los autos al juez de primera instancia dentro de veinticuatro horas, para que se dé cumplimiento a la sentencia pronunciada.
+Si se hubiere deducido recurso de casación, y éste hubiere sido desechado por la Corte Suprema, o si este tribunal hubiere dado lugar a la casación en el fondo, la devolución de los autos se hará dentro de las veinticuatro horas siguientes a la última notificación del decreto que mandare cumplir la resolución de la Corte Suprema.
+Si la sentencia contiene alguna condenación a muerte, los autos serán devueltos dentro de las veinticuatro horas siguientes a aquella en que el tribunal reciba el oficio en que se le comunique la resolución del Presidente de la República. De dicha resolución se pondrá copia en el expediente.
+INCISO CUARTO.- DEROGADO.-
+En todos estos casos se observarán para la devolución, en sentido inverso, los mismos trámites indicados en el 2° inciso del artículo 512.
+
+#### Título IX
+DE LA CONSULTA
+
+Art. 533. (568) Las sentencias definitivas de primera instancia que no fueren revisadas por el respectivo tribunal de alzada por la vía de la apelación, lo serán por la vía de la consulta en los casos siguientes:
+1° Cuando la sentencia imponga pena de más de un año de presidio, reclusión, confinamiento, extrañamiento o destierro o alguna otra superior a éstas;
+2° Cuando el fallo aplique diversas penas que, sumadas, excedan de un año de privación o de restricción de la libertad, debiendo, en uno y otro caso, considerarse consultable el fallo respecto de todos los delitos sancionados, y
+3° Cuando el proceso verse sobre delito a que la ley señale pena aflictiva.
+Regirá lo dispuesto en el artículo 528 bis, en cuanto sea aplicable a la consulta.
+
+#### Título X
+DEL RECURSO DE CASACION
+
+##### 1. De la casación en general
+
+Art. 535. (575) La cas
+NOTA: 11.1
+ación
+NOTA: 11.1
+en materia penal se rige, salvo lo dispuesto en el Título I del Libro III de este Código, por las prescripciones de los párrafos 1° y 4° del Título XIX, Libro III del Código de Procedimiento Civil, en lo que no sea contrario a lo establecido en el presente título. Regirá también lo dispuesto en el artículo 798 del citado Código.
+No será aplicable lo dispuesto en el inciso segundo del artículo 782 del Código de Procedimiento Civil a los recursos de casación en el fondo que se interpongan en
+NOTA: 11.1
+contra de sentencias condenatorias que apliquen penas privativas de libertad.
+NOTA: 11.1
+El artículo 1° transitorio de la Ley N° 19.374, publicada en el "Diario Oficial" de 18 de Febrero de 1995, dispuso su entrada en vigencia noventa días después de su publicación en el Diario Oficial, con las excepciones que la misma ley indica.
+
+Art. 536. (576) Pueden interponer el recurso de casación los que son parte en el juicio, y los que aun sin haber litigado, sean comprendidos en la sentencia como terceros civilmente responsables.
+El actor civil podrá deducirlo en cuanto la sentencia resuelva acerca de sus pretensiones civiles.
+
+Artículo 536 bis.- El recurso de casación en la forma contra la sentencia de primera instancia debe ser interpuesto dentro del plazo concedido para apelar.
+Si también se deduce el recurso de apelación, se entablarán ambos conjuntamente, a menos que se haya apelado en el acto de la notificación o que la ley establezca un plazo inferior para alzarse, en cuyo caso el escrito de casación podrá presentarse por separado, en el término de cinco días.
+
+Art. 537. (577) DEROGADO.-
+
+Art. 538. DEROGADO.-
+
+Art. 540. (579) Para la elevación de los autos al tribunal superior y su devolución al inferior, se observarán las prescripciones establecidas en el artículo 512.
+Inciso segundo.- Derogado
+
+##### 2. Del recurso de casación en la forma
+
+Art. 541. (580) El recurso de casación en la forma sólo podrá fundarse en alguna de las causales siguientes:
+1a. Falta de emplazamiento de alguna de las partes;
+2a. No haber sido recibida la causa a prueba, o no haberse permitido a alguna de las partes rendir la suya o evacuar diligencias probatorias que tengan importancia para la resolución del negocio. Para alegar esta causal contra una sentencia de segunda instancia será menester que se haya pedido expresamente, en dicha instancia, que se reciba la causa a prueba y que este trámite sea procedente;
+3a. No haberse agregado los instrumentos presentados por las partes;
+4a. No haberse hecho la notificación de las partes para alguna diligencia de prueba;
+5a. No haberse fijado la causa en la tabla para su vista en los tribunales colegiados, en la forma establecida en el artículo 163 del Código de Procedimiento Civil;
+6a. Haber sido pronunciada la sentencia por un tribunal manifiestamente incompetente, o no integrado con los funcionarios designados por la ley;
+7a. Haber sido pronunciada por un juez o con la concurrencia de un juez legalmente implicado, o cuya recusación estuviere pendiente o hubiere sido declarada por tribunal competente;
+8a. Haber sido acordada en un tribunal colegiado por menor número de votos o pronunciada por menor número de jueces que el requerido por la ley; o con la concurrencia de jueces que no hayan asistido a la vista de la causa o faltando alguno de los que hayan asistido a ella;
+9a. No haber sido extendida en la forma dispuesta por la ley;
+10. Haber sido dada ultra petita, esto es, extendiéndola a puntos inconexos con los que hubieren sido materia de la acusación y de la defensa;
+11. Haber sido dictada en oposición a otra sentencia criminal pasada en autoridad de cosa juzgada; y
+12. Haberse omitido, durante el juicio, la práctica de algún trámite o diligencia dispuesto expresamente por la ley bajo pena de nulidad.
+Cuando el recurso de casación en la forma se dirija contra la decisión civil, podrá fundarse en las causales anteriores, en cuanto le sean aplicables, y además en alguna de las causales 4a., 6a. y 7a. del artículo 768 del Código de Procedimiento Civil.
+
+Art. 542. (581) Cuando la causa alegada necesitare de prueba, el tribunal abrirá para rendirla un término prudencial, que no exceda de diez días.
+
+Art. 543. (582) La vista de la causa se hará en la misma forma que la del recurso de apelación; y el fallo se expedirá en el término fijado para dicho recurso.
+
+Art. 544. (583) La sentencia que se pronuncie sobre el recurso de casación en la forma expondrá brevemente las causales de nulidad deducidas y los fundamentos alegados; las razones en cuya virtud el tribunal acepta una o rechaza cada una de las causales deducidas; y la decisión que declare la validez o la nulidad de la sentencia atacada.
+Aceptando una de las causales, el tribunal no necesita pronunciarse sobre las otras.
+Cuando se acoja un recurso de casación en la forma por algunas de las causales 9a., 10a. y 11a. del artículo 541, el tribunal dictará, acto continuo y sin nueva vista, pero separadamente, la sentencia que crea conforme a la ley y al mérito del proceso, pudiendo para estos efectos reproducir los fundamentos de la resolución casada que en su concepto sean válidos para fundar la decisión.
+Las mismas reglas se aplicarán si la sentencia es casada de oficio.
+En los demás casos, se procederá como lo ordena el artículo 786 del Código de Procedimiento Civil.
+
+Art. 545. (584) Cuando el tribunal estimare que la falta de observancia de la ley de procedimiento que ha dado causa a la nulidad, proviene de mera desidia del juez o jueces que dictaron la sentencia anulada, impondrá a éstos el pago de las costas causadas, sin perjuicio de alguna otra medida correccional indicada por la ley.
+Si hay antecedentes para estimar que la contravención a la ley fue cometida a sabiendas o por negligencia e ignorancia inexcusables, se ordenará someter a juicio al juez o jueces a quienes se presuma culpables.
+
+##### 3. Del recurso de casación en el fondo
+
+Art. 547. (586) En la sentencia, que deberá dictarse dentro de los veinte días siguientes, se expondrá: los fundamentos que sirvan de base a la resolución del tribunal; la decisión de las diversas cuestiones controvertidas; y la declaración explícita de si es nula o no la sentencia reclamada.
+
+Art. 549. (588) Notificada a las partes la sentencia de este tribunal, el proceso será devuelto a la Corte de Apelaciones dentro de segundo día, con las formalidades a que se refiere el artículo 540.
+La sentencia de la Corte Suprema y la de la Corte de Apelaciones serán publicadas en la "Gaceta de los
+NOTA: 11
+Tribunales".
+NOTA: 11
+NOTA: 11
+Actualmente es la "Revista de derecho, Jurisprudencia y Ciencias Sociales y Gaceta de los Tribunales" la cual se reputa como "Gaceta de los Tribunales" para todos los efectos legales y reglamentarios, según al Art. 2° del Decreto N° 3.914, de 7 de agosto de 1950, publicado en el Diario Oficial de 21 de noviembre de 1950, que refundió ambas revistas a partir del 1° de enero de 1951.
+
+## LIBRO CUARTO
+DEL CUMPLIMIENTO Y EJECUCION
+
+### Título I
+DEL DESTINO DE LAS ESPECIES
+
+#### Párrafo I
+De las especies decomisadas
+
+Artículo 673.- Las armas de fuego, municiones, explosivos y demás elementos a que se refiere la Ley sobre Control de Armas que sean decomisados, se remitirán a la autoridad que señala esa misma ley.
+Las demás especies decomisadas se pondrán a disposición del Fisco, para los efectos establecidos en el artículo 60 del Código Penal. Esta autoridad podrá ordenar la destrucción de las que no tuvieren valor y no fueren utilizables.
+Los dineros y otros valores decomisados en favor del Fisco se destinarán a beneficio de la Junta de Servicios Judiciales.
+
+Artículo 674.- Tratándose de especies corruptibles o perecibles el juez las pondrá a disposición de un martillero para que proceda a su venta directa o subasta.
+Si se decretare el comiso, se hará efectivo sobre el producto de la enajenación.
+Si en definitiva no fuere procedente el comiso, se entregará el producto de la enajenación a quien corresponda.
+
+#### Párrafo 2
+De las especies retenidas y no decomisadas
+
+Artículo 676.- En la subasta de especies de venta controlada se estará a lo establecido en los reglamentos Art. decimo vigentes.
+
+Artículo 677.- Los dineros puestos a disposición de los tribunales que no caigan en comiso ni hayan sido reclamados dentro de los plazos señalados en el artículo 675, se girarán a la orden de la Junta de Servicios Judiciales para sus fines.
+
+Artículo 678.- En el mes de junio de cada año, los secretarios de juzgados presentarán a la respectiva Corte de Apelaciones un informe detallado sobre el destino dado a las especies que hayan sido puestas a disposición del tribunal.
+
+Artículo 679.- Las disposiciones de este Título se aplicarán en defecto de normas especiales relativas a las especies decomisadas o a las otras materias contenidas en él.
+
+### TITULO II
+DE LAS COSTAS
+
+Artículo 681.- Cuando sean varios los condenados al pago de costas, el tribunal fijará la parte o proporción que corresponda a cada uno.
+
+### TITULO III
+DE LAS MEDIDAS APLICABLES A LOS ENAJENADOS
+MENTALES
+
+#### 2.- Del procesado que cae en enajenación
+
+Artículo 685.- Cuando, en los casos del artículo anterior, se ordenare la continuación del procedimiento, se estará a lo previsto en los artículos 682 y 683 si resultare absuelto, o a lo establecido en el artículo 687 si fuere condenado a penas privativas o restrictivas de libertad.
+
+Artículo 687.- Si después de la sentencia condenatoria cayere el condenado en enajenación mental, dictará el juez una resolución fundada declarando que no se deberá cumplir la sanción restrictiva o privativa de libertad. El condenado cuya libertad constituya peligro será puesto a disposición de la autoridad sanitaria. Aquél cuya libertad no constituya riesgo será entregado bajo fianza de custodia y tratamiento, siempre que la pena o penas aplicadas constituyan en conjunto una privación o restricción de libertad por más de cinco años, si es inferior la condena, se le pondrá en libertad.
+Siendo curable la enfermedad, se suspenderá el cumplimiento de la sentencia en una resolución fundada, hasta que el enajenado recupere la razón. El condenado cuya libertad constituya riesgo, y el que, sin estar en tal caso, haya sido condenado a penas superiores a cinco años de restricción o privación de libertad, será internado en un establecimiento para enfermos mentales; en las demás situaciones será entregado bajo fianza de custodia o tratamiento de acuerdo a lo dispuesto en el artículo 692.
+En cualquier tiempo que el enfermo mental recupere la razón se hará efectiva la sentencia si no hubiere prescrito la pena. Si ella le impusiere privación o restricción de la libertad, se imputará a su cumplimiento el tiempo que haya durado la enajenación mental.
+
+#### 3.- Reglas comunes
+
+Artículo 691.- La medida de seguridad y protección de internación de un enajenado mental deberá cumplirse en un establecimiento destinado a enfermos mentales, y se llevará a efecto en la forma y condiciones que establezca el juez.
+
+Artículo 692.- Cuando se decrete como medida de seguridad y protección la custodia y tratamiento de un enfermo mental, se dispondrá su entrega a su familia, a su guardador, o a alguna institución pública o particular de beneficencia, socorro o caridad. El juez fijará las condiciones de la custodia y controlará que se realice el tratamiento médico a que deba ser sometido, pudiendo exigir informaciones periódicas. Podrá también exigir fianza de que serán cumplidas las condiciones impuestas.
+
+Artículo 695.- Cuando el proceso penal no pueda proseguirse por enajenación mental del imputado, la acción civil que no hubiere sido intentada sólo podrá ser ejercida ante el juzgado civil. Si dicha acción ya hubiere sido interpuesta en el proceso penal, continuará su ejercicio en él hasta la dictación y el cumplimiento de la sentencia que resuelva la demanda civil.
+
+Artículo 696.- Los fiscales de las Cortes de x Apelaciones deberán inspeccionar periódicamente los establecimientos especiales y carcelarios donde se encuentren internados enajenados mentales. La visita la practicarán por lo menos cada tres meses y los jefes de los respectivos establecimientos emitirán un informe relativo a todas las personas que allí se encuentren por orden judicial, indicando el proceso, el juzgado de origen y los datos esenciales relativos al estado actual de la enfermedad de cada internado.
+Los fiscales remitirán al jefe del Ministerio Público un informe sobre las condiciones del local y de la atención de los enfermos, con una copia de la nómina indicada. El fiscal de la Corte Suprema deberá dirigirse a las autoridades judiciales y administrativas representando las deficiencias que se hayan observado.
+Deberán también los fiscales de las Cortes de Apelaciones, de oficio o a petición de parte, solicitar las medidas judiciales tendientes a poner remedio a todo error, abuso o deficiencia que se observe en la tramitación, en las medidas adoptadas o en su cumplimiento, en lo que se refiere a los enfermos mentales.
+
+Santiago, a treinta de agosto de mil novecientos cuarenta y cuatro.- JUAN ANTONIO RIOS M.- Oscar Gajardo V.
