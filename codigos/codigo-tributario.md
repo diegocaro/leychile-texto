@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2003-08-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2003-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2003-08-06
-fetched_at: 2026-08-03T01:21:04.902552+00:00
+version_date: 2003-10-10
+fetched_at: 2026-08-03T01:22:17.188216+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -607,7 +607,7 @@ Tratándose de infracciones cometidas en una sucursal del contribuyente, conocer
 
 Artículo 116.- El Director Regional podrá autorizar a funcionarios del Servicio para conocer y fallar reclamaciones y denuncias obrando "por orden del Director Regional".
 
-Artículo 117.- Conocerá en primera instancia de todo asunto relacionado con la determinación de los impuestos a las asignaciones por causa de muerte y a las donaciones y con la aprobación del pago respectivo, el Juez de Letras de Mayor Cuantía en lo Civil que haya concedido o deba conceder la posesión efectiva de la herencia del causante o el del domicilio del donante, en su caso. El mismo Juez conocerá de la aplicación de las sanciones que correspondan, en relación a estos impuestos.
+Artículo 117.- Derogado.
 
 Artículo 118.- Para resolver en primera instancia sobre la fijación de los impuestos de la Ley de Timbres, Estampillas y Papel Sellado, en el caso del artículo 158°, será Juez competente el de Letras en lo Civil de Mayor Cuantía del lugar donde se otorgue el instrumento público o se solicite la autorización o protocolización del instrumento privado. En los demás casos, lo será el del domicilio del recurrente.
 
@@ -754,13 +754,11 @@ Artículo 154.- El fallo a que se refiere el artículo anterior deberá dictarse
 ###### Párrafo 2°.
 Del procedimiento de reclamo del impuesto a las asignaciones por causa de muerte y a las donaciones
 
-Artículo 155.- La resolución judicial que determine o apruebe un impuesto a las asignaciones por causa de muerte y a las donaciones, diferente al propuesto por el Servicio, deberá notificarse personalmente o por cédula al jefe de éste en el lugar donde se tramite el asunto.
-La resolución que determine el impuesto será en todo caso apelable y contra la sentencia de segunda instancia procederán los recursos de casación en la forma y en el fondo, conforme a las reglas generales.
-Sin perjuicio de los plazos y recursos legales, el interesado podrá solicitar en cualquier tiempo el cumplimiento de la resolución o del acto de partición, o disponer de los bienes hereditarios, pagando previamente la parte no discutida del impuesto y caucionado a satisfacción de la Dirección Regional o depositando a la orden del tribunal la parte controvertida.
+Artículo 155.- Derogado.
 
-Artículo 156.- El recurso de apelación contra la resolución que fije el impuesto deberá interponerse en el término fatal de quince días, contados desde la notificación.
+Artículo 156.- Derogado.
 
-Artículo 157.- Corresponderá al Director Regional la representación y defensa del Fisco, en primera instancia, en los trámites de determinación del impuesto.
+Artículo 157.- Derogado.
 
 ###### Párrafo 3°
 Del procedimiento de determinación judicial del impuesto de Timbres y Estampillas
@@ -837,10 +835,9 @@ En contra de la sentencia de segunda instancia no procerán los recursos de casa
 ###### Párrafo 3°.
 De las denuncias por infracciones a los impuestos a las asignaciones por causa de muerte y a las donaciones
 
-Artículo 166.- En los casos en que la Dirección Regional estime procedente la denuncia formulada y con motivo de ella deban determinarse impuestos a las asignaciones por causa de muerte o a las donaciones, pedirá el juez competente, además de la liquidación del impuesto, la aplicación de las sanciones que corresponda. El juez deberá comprender en el fallo la determinación de los impuestos y la aplicación de las sanciones que sean procedentes.
-Serán aplicables en estos casos las normas establecidas en el Párrafo 1° del Título IV de este Libro, en lo que sean pertinentes, y los recursos que se deduzcan comprenderán en su caso las sanciones y los impuestos a que el fallo se refiera.
+Artículo 166.- Derogado.
 
-Artículo 167.- Si con motivo de la infracción cometida no procediere la liquidación o reliquidación de impuestos, se dará tramitación a la denuncia de acuerdo con las normas del Párrafo 1° de este Título.
+Artículo 167.- Derogado.
 
 ##### TITULO V
 Del cobro ejecutivo de las obligaciones tributarias de dinero
@@ -1010,8 +1007,7 @@ En el caso del número 1°, a la prescripción del presente artículo sucederá 
 Decretada la suspensión del cobro judicial a que se refiere el artículo 147, no procederá el abandono de la instancia en el juicio ejecutivo correspondiente mientras subsista aquélla.
 Los plazos establecidos en el presente artículo y en el que antecede se suspenderán durante el período en que el Servicio esté impedido, de acuerdo a lo dispuesto en el inciso 2° del artículo 24, de girar la totalidad o parte de los impuestos comprendidos en una liquidación cuyas partidas o elementos hayan sido objeto de una reclamación tributaria.
 
-Artículo 202.- Sin perjuicio de las normas de los artículos 200 y 201, el plazo de prescripción para el cobro del impuesto a las asignaciones por causa de muerte y a las donaciones, será de seis años si el contribuyente no hubiere solicitado la determinación provisoria o definitiva del impuesto. En los demás casos dicho término será de tres años.
-Para los efectos del número 2° del artículo 201, se entenderá que se cumple con los requisitos que ese número establece, desde que el Servicio pida la determinación provisoria o definitiva del impuesto.
+Artículo 202.- Derogado.
 
 #### TITULO FINAL
 

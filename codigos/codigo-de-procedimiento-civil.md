@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2003-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2003-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2003-10-03
-fetched_at: 2026-08-03T01:21:40.284145+00:00
+version_date: 2003-10-10
+fetched_at: 2026-08-03T01:22:04.746375+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1695,7 +1695,9 @@ el alimentante en conformidad al inciso anterior;
 NOTA
 neraciones de los empleados y obreros en la forma que determinan los artículos 40 y 153 del Código del Trabajo;
 3°. Las pensiones alimenticias forzosas;
-4°. Las rentas periódicas
+4°. Las rentas p
+NOTA
+eriódicas
 NOTA
 que el deudor cobre de una fundación o que deba a la liberalidad de un tercero, en la parte que estas rentas sean absolutamente necesarias para sustentar la vida del deudor, de su cónyuge y de los hijos que viven con él y a sus expensas;
 5°. Los fondos que gocen de este beneficio, en conformidad a la Ley
@@ -3306,29 +3308,26 @@ Art. 878. (1057). Se dará igualmente al heredero abintestato que acredite el es
 Art. 879. La posesión efectiva de una herencia deberá solicitarse para todos los herederos indicándolos por sus nombres, apellidos, domicilios y calidades con que heredan.
 En la solicitud se expresará, además, el nombre, apellido, profesión u oficio, estado civil, lugar y fecha de la muerte y último domicilio del causante, si la herencia es o no testamentaria, acompañándose en el primer caso copia del testamento.
 
-Art. 880. Los herederos que no estén obligados a practicar inventario solemne o no lo exijan al tiempo de pedir la posesión efectiva, deberán presentar inventario simple en papel competente y en los términos de los artículos 382 y 384 del Código Civil.
-Dicho inventario, que se acompañará a la solicitud de posesión efectiva, llevará la firma de todos los que la hayan pedido.
+Art. 880. Los herederos que no estén obligados a practicar inventario solemne o no lo exijan al tiempo de pedir la posesión efectiva, deberán presentar inventario simple en los términos de los artículos 382 y 384 del Código Civil. Dicho inventario, que se acompañará a la solicitud de posesión efectiva, llevará la firma de todos los que la hayan pedido.
+En todo caso, los inventarios deberán incluir una valoración de los bienes de acuerdo a lo previsto en el artículo 46 de la ley Nº16.271.
 
-Art. 881. (1058). La posesión efectiva se entenderá dada a toda la sucesión, aun cuando uno solo de los herederos la pida.
+Art. 881. (1058). La posesión efectiva se entenderá dada a toda la sucesión, aun cuando sólo uno de los herederos la pida. Para este efecto, una vez presentada la solicitud, el tribunal solicitará informe al Servicio de Registro Civil e Identificación respecto de las personas que posean presuntamente la calidad de herederos conforme a los registros del Servicio, y de los testamentos que aparezcan otorgados por el causante en el Registro Nacional de Testamentos. El hecho de haber cumplido con este trámite deberá constar expresamente en la resolución que conceda la posesión efectiva.
 La resolución que la conceda contendrá el nombre, apellido, profesión u oficio, lugar y fecha de la muerte, y último domicilio del causante, la calidad de la herencia, indicando el testamento cuando lo haya, su fecha y la notaría en que fue extendido o protocolizado, la calidad de los herederos, designándolos por sus nombres, apellidos, profesiones u oficios y domicilios.
 La resolución terminará, según el caso, ordenando la facción de inventario solemne de los bienes cuya posesión efectiva se solicita, o la protocolización del inventario simple de los mismos, sellado previamente en cada hoja por el secretario.
 
 Art. 882. (1060). La resolución que concede la posesión efectiva de la herencia, se publicará en extracto por tres veces en un diario de la comuna, o de la capital de la provincia o de la capital de la región cuando allí no lo haya.
 En dicho aviso podrá también anunciarse la facción del inventario solemne.
-Hechas las publicaciones a que se refieren los incisos anteriores y previa agregación de una copia autorizada del inventario, el tribunal ordenará la inscripción de la posesión efectiva previo informe de la Dirección General de Impuestos Internos.
-La Dirección al informar exigirá que se acredite por los medios legales correspondientes el parentesco que ligue a los asignatarios con el causante.
+Hechas las publicaciones a que se refieren los incisos anteriores y previa agregación de una copia autorizada del inventario, el tribunal ordenará la inscripción de la posesión efectiva y oficiará al Servicio de Registro Civil e Identificación dando conocimiento de este hecho.
 El secretario deberá dejar constancia en el proceso que se hicieron las publicaciones en forma legal.
+NOTA
+La letra b) del N° 3 del Artículo 15 de la Ley 19903, publicada el 10.10.2003, suprimió el inciso 4° de la presente norma.
 
 Art. 883. (1061). La inscripción a que se refiere el artículo anterior se hará en el Registro de Propiedad del Conservador de Bienes Raíces del territorio jurisdiccional en que haya sido pronunciada la resolución de posesión efectiva, con indicación de la notaría en que se protocolizó el inventario y la enumeración de los bienes raíces que en él se comprenda.
 Con el mérito de esa inscripción, los conservadores deberán proceder a efectuar las especiales que procedan, sin necesidad de otro trámite.
 Cuando entre los bienes hereditarios no haya inmuebles, la inscripción de la posesión efectiva sólo se hará en el conservador del territorio jurisdiccional en donde se haya concedido.
 Las adiciones, supresiones o modificaciones que se hagan al inventario cuando se trate de bienes raíces, deberán protocolizarse en la misma notaría en que se protocolizó el inventario y anotarse en el Registro Conservatorio, al margen de la inscripción primitiva.
 
-Art. 884. La posesión efectiva de las herencias cuyo cuerpo o masa de bienes no exceda de trescientos escudos, podrá solicitarse en formularios especiales que hará la Dirección de Impuestos Internos y su tramitación se ajustará, en ese caso, a las reglas que se prescriben en la ley sobre Impuestos a las Herencias,
-NOTA: 57
-Asignaciones y Donaciones.
-NOTA: 57
-Véase el Art. 33 de la ley N° 16.271.
+Art. 884. Derogado.
 
 #### 4. De la declaración de herencia yacente y de los
 procedimientos subsiguientes a esta declaración

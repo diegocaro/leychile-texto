@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2003-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2003-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2003-03-01
-fetched_at: 2026-08-03T01:20:22.885635+00:00
+version_date: 2003-10-10
+fetched_at: 2026-08-03T01:22:11.184407+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2242,9 +2242,8 @@ Art. 437. Los protocolos o documentos perdidos o inutilizados deberán reponerse
 Art. 438. La reposición, en cuanto sea posible, se efectuará con las copias autorizadas expedidas por el notario, declaraciones de testigos y demás pruebas que el tribunal estime convenientes.
 Las personas que tengan copias autorizadas de las originales estarán obligadas a presentarlas al tribunal, y en caso de negarse a ello, se aplicará el procedimiento de apremio establecido en el artículo 276 del Código de Procedimiento Civil.
 
-Art. 439. Los testamentos abiertos o cerrados que se otorguen ante notario u otros funcionarios públicos que hagan sus veces, deberán figurar, sin perjuicio de su inserción en los índices a que se refiere el artículo 431, en un registro índice general de disposiciones de última voluntad, que estará a cargo y bajo la responsabilidad del Archivero Judicial de Santiago. Este registro tendrá dos índices, uno para los testamentos abiertos y otro para los testamentos cerrados, los que se regirán por lo dispuesto en el inciso final del artículo 431 y deberán indicar, además, el funcionario ante quien se haya otorgado.
-Estos registros serán reservados sin que ellos puedan ser exhibidos o se informe respecto de ellos, salvo por orden judicial o ante una petición de un particular que acompañe el certificado de defunción que corresponda al otorgante del testamento.
-Los notarios de las tres primeras categorías del Escalafón deberán remitir al Archivero Judicial de Santiago, dentro de los diez primeros días de cada mes, por carta certificada, las nóminas de los testamentos abiertos y de los testamentos cerrados que se hubieren otorgado en sus oficios durante el mes anterior, con los datos indicados en el inciso tercero del artículo 431. Los notarios de la cuarta categoría del Escalafón y los funcionarios públicos que hagan las veces de notario, deberán hacer igual remisión por períodos bimestrales, dentro de los diez primeros días siguientes al vencimiento del respectivo bimestre.
+Art. 439. El hecho de haberse otorgado un testamento abierto o cerrado ante notario u otros funcionarios públicos que hagan sus veces, deberá figurar, sin perjuicio de su inserción en los índices a que se refiere el artículo 431, en un Registro Nacional de Testamentos, que estará a cargo y bajo la responsabilidad del Servicio de Registro Civil e Identificación. Igualmente, deberán figurar en este Registro todos los testamentos protocolizados ante notario.
+Los notarios y los referidos funcionarios deberán remitir al Servicio de Registro Civil e Identificación, dentro de los diez primeros días de cada mes, por carta certificada, las nóminas de los testamentos que se hubieren otorgado o protocolizado en sus oficios, durante el mes anterior, indicando su fecha, el nombre y rol único nacional del testador y la clase de testamento de que se trata.
 
 #### 7). De las infracciones y sanciones
 
