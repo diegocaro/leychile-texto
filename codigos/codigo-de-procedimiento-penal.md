@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1996-03-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1997-05-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1996-03-18
-fetched_at: 2026-08-03T01:02:03.913239+00:00
+version_date: 1997-05-15
+fetched_at: 2026-08-03T01:03:21.988539+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2420,6 +2420,9 @@ Art. 551. (590) El juicio sobre faltas será verbal y breve; pero si se sigue an
 Art. 552. (591) Pueden perseguirse de oficio las faltas no expresadas en el número 11 del artículo 18.
 
 Art. 553. (592) En la primera instancia del juicio sobre faltas seguido de oficio, hará de acusador público el empleado de policía que dio parte del hecho al tribunal o le presentó al inculpado; o la persona a quien el tribunal designare a falta de ellos.
+Con todo, no será necesaria la asistencia a declarar de los mencionados funcionarios policiales, ni de los que figuren como testigos en la denuncia, salvo que el inculpado impugne la declaración del funcionario o del testigo y que el juez por resolución fundada ordene su comparecencia.
+La denuncia contenida en un parte policial deberá expresar si se citó al inculpado para que concurriere al tribunal en día y hora determinado, bajo apercibimiento de proceder en su rebeldía. Tal citación deberá hacerse por escrito, entregándole el respectivo documento si estuviese presente, o mediante nota que se dejará en lugar visible de su domicilio, si estuviese ausente. Una copia de la citación se acompañará a la denuncia, con indicación de la forma en que se puso en conocimiento del inculpado.
+Si la falta consistiere en el hurto de especies cuyo valor no exceda de una unidad tributaria mensual, se acompañará al respectivo parte policial una declaración jurada del afectado, si fuese habido, sobre la preexistencia de las cosas sustraídas y una apreciación de su valor.
 
 Art. 554. (593) Hecha la denuncia o presentada la querella, el tribunal la mandará poner en conocimiento del querellado; fijará día y hora para el juicio, dentro de quinto día; y ordenará que el acusador y el acusado comparezcan con sus testigos y documentos, bajo apercibimiento de proceder en rebeldía de los inasistentes.
 Al mismo tiempo, requerirá informe acerca de las anotaciones del inculpado en el Registro General de Condenas.
@@ -2434,13 +2437,14 @@ El tribunal podrá, por esta solicitud, postergar la vista de la causa hasta por
 Art. 556. (595) Aunque no comparezcan todos los testigos citados, se hará la vista de la causa, oyendo a las partes y a los testigos presentes.
 Si una de las partes estimare innecesario presentar otros testigos, a más de los que han comparecido, podrá pedir al tribunal que pronuncie sentencia sin esperar a los inasistentes.
 En el caso contrario, el tribunal señalará nuevo día para continuar la vista con las partes y los testigos que no habían comparecido; decretará orden de detención contra ellos y los declarará incursos en el apercibimiento del 2° inciso del artículo 555.
-En los juicios a que se refiere este título se apreciará la prueba en conciencia.
+INCISO DEROGADO
 
 Artículo 557.- Si alguno de los testigos residentes en el territorio jurisdiccional del tribunal que conoce del proceso, estuviere imposibilitado para comparecer, el tribunal irá a tomarle declaración o cometerá esta diligencia a un ministro de fe.
 
 Art. 558. (597) Si el inculpado o los testigos residieren fuera del distrito jurisdiccional en que se dice que se cometió la falta, el juez dirigirá exhorto a la autoridad judicial respectiva para que, antes del día de la vista de la causa, les tome declaración al tenor de los hechos que expresará.
 
-Art. 559. (598) Si el inculpado hubiere sido detenido, la vista de la causa se hará en la audiencia inmediata, a menos que sea necesario postergarla para reunir las pruebas. En tal caso, el inculpado será puesto en libertad, cuando proceda esta medida con arreglo a la ley, pero con la obligación de comparecer al juicio.
+Artículo 559.- Si el inculpado hubiere sido detenido, el juez pondrá en su conocimiento la denuncia respectiva y lo interrogará de acuerdo a su contenido. En caso que el inculpado reconociera ante el tribunal su participación en los hechos constitutivos de la falta que se le atribuye y se allanare a la sanción que el mismo tribunal le advirtiere que contempla la ley para estos casos, se dictará sentencia definitiva de inmediato, la que no será susceptible de recurso alguno. El juez, en este evento, no aplicará la sanción en su grado máximo, salvo que el infractor sea reincidente o haya incurrido en faltas reiteradas. La sentencia se notificará al denunciante o querellante particular, si lo hubiere.
+Si el detenido negase la existencia de la falta o su participación punible en ésta, se procederá a la vista de la causa en la audiencia inmediata, a menos que sea necesario postergarla para reunir las pruebas. En tal caso, el inculpado será puesto en libertad, cuando proceda esta medida con arreglo a la ley, pero con la obligación de comparecer al juicio.
 
 Art. 560. (599) Puede, no obstante, el inculpado excusarse de comparecer personalmente nombrando un apoderado que lo represente; o defendiéndose en escrito, que será leído en la audiencia; salvo el caso de que su presencia sea indispensable, a juicio del juez, para la acertada resolución del negocio.
 
