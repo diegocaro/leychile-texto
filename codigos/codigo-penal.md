@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1973-05-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1974-04-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1973-05-16
-fetched_at: 2026-08-03T00:22:31.676587+00:00
+version_date: 1974-04-08
+fetched_at: 2026-08-03T00:23:31.736057+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2352,7 +2352,7 @@ ART. 476.
 Se castigará con presidio mayor en cualquiera de sus grados:
 1.° Al que incendiare un edificio destinado a servir de morada, que no estuviere actualmente habitado.
 2.º Al que dentro de poblado incendiare cualquier edificio o lugar, aun cuando no estuviere destinado ordinariamente a la habitación.
-3.º Al que incendiare mieses, pastos, montes, cierros o plantíos.
+3.º Al que incendiare bosques, mieses, pastos, montes, cierros o plantíos.
 
 Artículo 477. El incendiario de objetos no comprendidos en los artículos anteriores, será penado:
 1.° Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, siempre que el daño causado a terceros, excediere de cuarenta sueldos vitales;
