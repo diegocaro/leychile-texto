@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2004-05-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2004-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2004-05-17
-fetched_at: 2026-08-03T01:24:57.334868+00:00
+version_date: 2004-08-30
+fetched_at: 2026-08-03T01:26:03.599933+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1699,6 +1699,7 @@ neraciones de los empleados y obreros en la forma que determinan los artículos 
 NOTA
 eriódicas
 NOTA
+NOTA
 que el deudor cobre de una fundación o que deba a la liberalidad de un tercero, en la parte que estas rentas sean absolutamente necesarias para sustentar la vida del deudor, de su cónyuge y de los hijos que viven con él y a sus expensas;
 5°. Los fondos que gocen de este beneficio, en conformidad a la Ley
 NOTA
@@ -2480,17 +2481,17 @@ Art. 679. Derogado.
 ### Título XI
 DEL PROCEDIMIENTO SUMARIO
 
-Art. 680. (838). El procedimiento de que trata este
-NOTA:
-Título se aplicará en defecto de otra regla especial a los casos en que la acción deducida requiera, por su naturaleza, tramitación rápida para que sea eficaz.
+Art. 680. (838). El procedimiento de que trata este Título se aplicará en defecto de otra regla especial a los casos en que la acción deducida requiera, por su naturaleza, tramitación rápida para que sea eficaz.
 Deberá aplicarse, además, a los siguientes casos:
 1°. A los casos en que la ley ordene proceder sumariamente, o breve y sumariamente, o en otra forma análoga;
 2°. A las cuestiones que se susciten sobre constitución, ejercicio, modificación o extinción de servidumbres naturales o legales y sobre las prestaciones a que ellas den lugar;
 3°. A los juicios sobre cobro de honorarios, excepto el caso del artículo 697;
 4°. A los juicios sobre remoción de guardadores y a los que se susciten entre los representantes legales y sus representados;
-5°. A los juicios sobre separación de bienes;
+5°. DEROGADO;
 6°. A los juicios sobre depósito necesario y comodato precario;
-7°. A los juicios en que se deduzcan acciones ordinarias a que se hayan convertido las ejecutivas, a virtud de lo dispuesto en el artículo 2515 del Código Civil;
+7°. A los juicios en que se deduzcan acciones
+NOTA:
+ordinarias a que se hayan convertido las ejecutivas, a virtud de lo dispuesto en el artículo 2515 del Código Civil;
 8°. A los juicios en que se persiga únicamente la declaración impuesta por la ley o el contrato, de rendir una cuenta, sin perjuicio de lo dispuesto en el artículo 696; y
 9°. A los juicios en que se ejercita el derecho que
 NOTA: 44
@@ -2498,7 +2499,7 @@ concede el artículo 945 del Código Civil para hacer
 NOTA: 45
 cegar un pozo.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 NOTA: 44
 La referencia al Art. 945 del Código Civil debe entenderse hecha al Art. 65 del Código de Aguas.
 NOTA: 45
@@ -3129,12 +3130,8 @@ DE LA EMANCIPACIÓN VOLUNTARIA
 NOTA
 De acuerdo al nuevo artículo 269, incorporado por el N° 24 del Artículo 1° de la Ley 19585, publicada el 26.10.1998, debe entenderse derogado el presente Título, puesto que eliminó la emancipación voluntaria.
 
-Art. 836. (1008). Para obtener la aprobación
-NOTA:
-judicial de la emancipación voluntaria se presentarán por escrito al tribunal el padre y el hijo, declarando el primero que quiere emancipar al hijo y el segundo que consiente en ello.
+Art. 836. (1008). Para obtener la aprobación judicial de la emancipación voluntaria se presentarán al tribunal el padre y el hijo, declarando el primero que quiere emancipar al hijo y el segundo que consiente en ello.
 El tribunal, previo conocimiento de causa en la forma expresada en el inciso 2° del artículo 824, autorizará la emancipación y mandará reducirla a escritura pública, si la encuentra ventajosa para el hijo, o denegará la autorización en caso contrario.
-NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
 ### Título V
 DE LA AUTORIZACIÓN JUDICIAL PARA REPUDIAR EL RECONOCIMIENTO DE UN INTERDICTO COMO HIJO NATURAL
@@ -3151,15 +3148,12 @@ DISCERNIMIENTO DE ESTOS CARGOS
 
 Art. 838. (1017). Cuando haya de procederse al nombramiento de tutor o curador legítimo para un menor, en los casos previstos por el Código Civil, se acreditará que ha lugar a la guarda legítima, que la persona designada en la que debe desempeñarla en conformidad a la ley, y que ella tiene las condiciones exigidas para ejercer el cargo.
 
-Art. 839. (1018). Para conferir la tutela o
-NOTA:
-curaduría legítima del menor a su padre o madre legítimos o a los demás ascendientes de uno u otro sexo, procederá el tribunal oyendo sólo al defensor de menores.
+Art. 839. (1018). Para conferir la tutela o curaduría legítima del menor a su padre o madre legítimos o a los demás ascendientes de uno u otro sexo, procederá el tribunal oyendo sólo al defensor de menores.
 En los demás casos de tutela o curaduría legítima, para la elección del tutor o curador oirá el tribunal al defensor de menores y a los parientes del pupilo.
-Al defensor de menores se le pedirá dictamen por escrito, pero si ha de consultarse a los parientes del pupilo, bastará que se les cite para la misma audiencia a que deben éstos concurrir, en la cual será también oído el defensor.
-Si el defensor no concurre a la reunión, se le pasarán los antecedentes en vista.
+Al defensor de menores se le pedirá dictamen por escrito; pero si ha de consultarse a los parientes del pupilo, bastará que se les cite para la misma audiencia a que deben éstos concurrir, en la cual será también oído el defensor.
 La notificación y audiencia de los parientes tendrán lugar en la forma que establece el artículo 689.
-NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+NOTA
+El N° 3 del artículo 123 de la Ley 19968, publicada el 30.08.2004, suprimió el primitivo inciso cuarto de la presente norma.
 
 Art. 840. (1019). Cuando haya de nombrarse tutor o curador dativo, se acreditará la procedencia legal del nombramiento, designando el menor la persona del curador si le corresponde hacer esta designación, y se observarán en lo demás las disposiciones de los cuatro últimos incisos del artículo anterior.
 
