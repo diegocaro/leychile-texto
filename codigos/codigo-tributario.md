@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1987-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1987-12-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1987-10-01
-fetched_at: 2026-08-03T00:43:38.149129+00:00
+version_date: 1987-12-31
+fetched_at: 2026-08-03T00:44:14.192797+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -135,7 +135,8 @@ El Director Regional dispondrá, a su juicio exclusivo, la aplicación de las no
 
 Artículo 17.- Toda persona que deba acreditar la renta efectiva, lo hará mediante contabilidad fidedigna, salvo norma en contrario.
 Los libros de contabilidad deberán ser llevados en lengua castellana y sus valores expresarse en la forma señalada en el artículo 18, debiendo ser conservados por los contribuyentes, junto con la documentación correspondiente, mientras esté pendiente el plazo que tiene el Servicio para la revisión de las declaraciones. Esta obligación se entiende sin perjuicio del derecho de los contribuyentes de llevar contabilidad en moneda extranjera para otros fines.
-El Director Regional podrá autorizar la sustitución de los libros de contabilidad por hojas sueltas, escritas a mano o en otra forma, consultando las garantías necesarias para el resguardo de los intereses fiscales; dichas hojas deberán foliarse con numeración corrida y timbrarse previamente por el Servicio o la Tesorería.
+El Director determinará las medidas de control a que deberán sujetarse los libros de contabilidad y las hojas sueltas que los sustituyan en los casos contemplados en el inciso siguiente.
+El Director Regional podrá autorizar la sustitución de los libros de contabilidad por hojas sueltas, escritas a mano o en otra forma, consultando las garantías necesarias para el resguardo de los intereses fiscales.
 Sin perjuicio de los libros de contabilidad exigidos por la ley, los contribuyentes deberán llevar los libros adicionales o auxiliares que exija el Director Regional, a su juicio exclusivo, de acuerdo con las normas que dicte el mejor cumplimiento o fiscalización de las obligaciones tributarias.
 Las anotaciones en los libros a que se refieren los incisos anteriores deberán hacerse normalmente a medida que se desarrollan las operaciones.
 
@@ -200,7 +201,7 @@ No obstante, lo dispuesto en los incisos anteriores, en cada una de las Unidades
 
 Artículo 36.- El plazo de declaración y pago de los diversos impuestos se regirá por las disposiciones legales y reglamentarias vigentes.
 No obstante lo dispuesto en el inciso anterior, el Presidente de la República podrá fijar y modificar las fechas de declaración y pago de los diversos impuestos y establecer los procedimientos administrativos que juzgue más adecuados a su expedita y correcta percepción.
-Cuando el plazo de declaración y pago de un impuesto venza en día feriado o en día Sábado, éste se prorrogará hasta el primer día hábil siguiente. Esta prórroga no se considerará para los efectos de determinar los reajustes que procedan, sin perjuicio de lo dispuesto en el inciso segundo del artículo 53.
+Cuando el plazo de declaración y pago de un impuesto venza en día feriado, en día sábado o el día 31 de diciembre, éste se prorrogará hasta el primer día hábil siguiente. Esta prórroga no se considerará para los efectos de determinar los reajustes que procedan, sin perjuicio de lo dispuesto en el inciso segundo del artículo 53.
 
 ##### Título III
 GIROS, PAGOS, REAJUSTES E INTERESES
@@ -265,7 +266,7 @@ Reajustes e Intereses moratorios
 
 Artículo 53.- Todo impuesto o contribución que no se pague dentro del plazo legal se reajustará en el mismo porcentaje de aumento que haya experimentado el índice de precios al consumidor en el período comprendido entre el último día del segundo mes que precede al de su vencimiento y el último día del segundo mes que precede al de su pago.
 Los impuestos pagados fuera de plazo, pero dentro del mismo mes calendario de su vencimiento, no serán objeto de reajuste. Sin embargo, para determinar el mes calendario de vencimiento, no se considerará la prórroga a que se refiere el inciso tercero del artículo 36 si el impuesto no se pagare oportunamente.
-El contribuyente estará afecto, además, a un interés penal del dos y medio por ciento mensual por cada mes o fracción de mes, en caso de mora en el pago del todo o de la parte que adeudare de cualquier clase de impuestos y contribuciones. Este interés se calculará sobre los valores reajustados en la forma señalada en el inciso primero.
+El contribuyente estará afecto, además, a un interés penal del uno y medio por ciento mensual por cada mes o fracción de mes, en caso de mora en el pago del todo o de la parte que adeudare de cualquier clase de impuestos y contribuciones. Este interés se calculará sobre los valores reajustados en la forma señalada en el inciso primero.
 El monto de los intereses así determinados, no estará afecto a ningún recargo.
 No procederá el reajuste ni se devengarán los intereses penales a que se refieren los incisos precedentes, cuando el atraso en el pago se haya debido a causa imputable a los Servicios de Impuestos Internos o Tesorería, lo cual deberá ser declarado por el respectivo Director Regional o Tesorero Provincial, en su caso.
 Sin embargo, en caso de convenios de pago, cada cuota constituye un abono a los impuestos adeudados y, en consecuencia, las cuotas pagadas no seguirán devengando intereses ni serán susceptibles de reajuste.
@@ -455,6 +456,7 @@ De los contribuyentes y otros obligados
 Artículo 97.- Las siguientes infracciones a las disposiciones tributarias serán sancionadas en la forma que a continuación se indica:
 1°.- El retardo u omisión en la presentación de declaraciones, informes o solicitudes de inscripciones en roles o registros obligatorios, que no constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de una unidad tributaria mensual a una unidad tributaria anual.
 2°.- El retardo u omisión en la presentación de declaraciones o informes, que constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de diez por ciento de los impuestos que resulten de la liquidación, siempre que dicho retardo u omisión no sea superior a 5 meses. Pasado este plazo, la multa indicada se aumentará en un dos por ciento por cada mes o fracción de mes de retardo, no pudiendo exceder el total de ella del treinta por ciento de los impuestos adeudados.
+Esta multa no se impondrá en aquellas situaciones en que proceda también la aplicación de la multa por atraso en el pago, establecida en el N° 11 de este artículo y la declaración no haya podido efectuarse por tratarse de un caso en que no se acepta la declaración sin el pago.
 El retardo u omisión en la presentación de declaraciones que no impliquen la obligación de efectuar un pago inmediato, por estar cubierto el impuesto a juicio del contribuyente, pero que puedan constituir la base para determinar o liquidar un impuesto, con multa de una unidad tributaria mensual a una unidad tributaria anual.
 3°.- La declaración incompleta o errónea, la omisión de balances o documentos anexos a la declaración o la presentación incompleta de éstos que puedan inducir a la liquidación de un impuesto inferior al que corresponda, a menos que el contribuyente pruebe haber empleado la debida diligencia, con multa del cinco por ciento al veinte por ciento de las diferencias de impuesto que resultaren.
 4°.- Las declaraciones maliciosamente incompletas o falsas que puedan inducir a la liquidación de un impuesto inferior al que corresponda o la omisión maliciosa en los libros de contabilidad de los asientos relativos a las mercaderías adquiridas, enajenadas o permutadas o a las demás operaciones gravadas, la adulteración de balances o inventarios o la presentación de éstos dolosamente falseados, el uso de boletas, notas de débito, notas de crédito o facturas ya utilizadas en operaciones anteriores, o el empleo de otros procedimientos dolosos encaminados a ocultar o desfigurar el verdadero monto de las operaciones realizadas o a burlar el impuesto, con multa del cincuenta por ciento al trescientos por ciento del valor del tributo eludido y con presidio menor en sus grados medio a máximo.
@@ -565,7 +567,7 @@ De los Tribunales, de los procedimientos y de la prescripción
 De los Tribunales
 
 Artículo 115.- El Director Regional conocerá en primera o en única instancia, según proceda, de las reclamaciones deducidas por los contribuyentes y de las denuncias por infracción a las disposiciones tributarias, salvo que expresamente se haya establecido una regla diversa.
-Será competente para conocer de las reclamaciones el Director Regional de la unidad del Servicio que emitió la liquidación o el giro o que dictó la resolución en contra de la cual se reclame. En el caso de reclamaciones en contra del pago, será competente el Director Regional de la unidad que emitió el giro al cual corresponda el pago.
+Será competente para conocer de las reclamaciones, ya sean en contra de liquidaciones, o de giros, o resoluciones, o de los pagos, el Director Regional dentro de cuyo territorio tenga su domicilio el contribuyente que reclame.
 El conocimiento de las infracciones a las normas tributarias y la aplicación de las sanciones pecuniarias por tales infracciones, corresponderá al Director Regional que tenga competencia en el territorio donde tiene su domicilio el infractor.
 Tratándose de infracciones cometidas en una sucursal del contribuyente, conocerá de ellas el Director Regional que tenga competencia en el territorio dentro del cual se encuentre ubicada dicha sucursal.
 
