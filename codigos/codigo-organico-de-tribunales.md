@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1945-06-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1947-04-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1945-06-21
-fetched_at: 2026-08-03T00:08:43.363663+00:00
+version_date: 1947-04-19
+fetched_at: 2026-08-03T00:09:01.371765+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1155,7 +1155,7 @@ El fiscal podrá integrar el tribunal para los efectos de este artículo.
 Art. 283. Para proveer el cargo de ministro o fiscal de la Corte Suprema, este tribunal enviará al Presidente de la República una lista de cinco personas, en la que deberán figurar los dos miembros más antiguos de las Cortes de Apelaciones. Los otros tres lugares se llenarán en atención a los méritos de los candidatos pudiendo figurar personas extrañas a la Administración de Justicia.
 
 Art. 284. Las ternas para proveer los cargos que se indican se formarán del modo siguiente:
-Para ministros y fiscales de las Cortes de Apelaciones con el juez letrado más antiguo de la tercera categoría, y con dos funcionarios elegidos por méritos de esa misma categoría, salvo que también se presenten al concurso funcionarios de la segunda categoría, en cuyo caso deberá elegirse a uno de éstos para un lugar de la terna.
+Para Ministros y Fiscales de Cortes de Apelaciones, con el Juez Letrado más antiguo de la tercera categoría y con dos funcionarios de la segunda o tercera categoría, elegidos por méritos.
 Para jueces letrados de las categorías tercera, cuarta, quinta y sexta, con el juez letrado más antiguo de la categoría inferior y con dos funcionarios de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos por mérito. Sin embargo, en las ternas para jueces letrados de las categorías quinta y sexta podrán figurar abogados.
 Para jueces letrados de la séptima categoría: con los funcionarios de la misma categoría o con otros abogados.
 
