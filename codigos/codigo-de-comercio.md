@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1957-10-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1968-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1957-10-21
-fetched_at: 2026-08-03T00:14:19.634196+00:00
+version_date: 1968-10-01
+fetched_at: 2026-08-03T00:19:18.343974+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1241,6 +1241,13 @@ Art. 418. Haciendo por sí mismos la liquidación, los socios se ajustarán a la
 
 #### § 7. De la prescripción de las acciones procedentes de la sociedad colectiva
 
+Art. 419. Todas las acciones contra los socios no liquidadores, sus herederos o causahabientes prescriben en cuatro años contados desde el día en que se disuelva la sociedad, siempre que la escritura social haya fijado su duración o la escritura de disolución haya sido inscrita conforme al artículo 354.
+Si el crédito fuere condicional, la prescripción correrá desde el advenimiento de la condición.
+
+Art. 420. La prescripción corre contra los menores y personas jurídicas que gocen de los derechos de tales, aunque los créditos sean ilíquidos, y no se interrumpe sino por las gestiones judiciales que dentro de los cuatro años hagan los acreedores contra los socios no liquidadores.
+
+Art. 421. Pasados los cuatro años, los socios no liquidadores no serán obligados a declarar judicialmente acerca de la subsistencia de las deudas sociales.
+
 Art. 422. La prescripción no tiene lugar cuando los socios verifican por sí mismos la liquidación o la sociedad se encuentra en quiebra.
 
 Art. 423. Las acciones de los acreedores contra el socio o socios liquidadores, considerados en esta última cualidad, y las que tienen los socios entre sí prescriben por el transcurso de los plazos que señala el Código Civil.
@@ -1856,12 +1863,8 @@ Art. 821. El fiador puede estipular con su afianzado una remuneración por la re
 ### Título XVII
 DE LA PRESCRIPCION
 
-Art. 822. Las acciones que procedan de las obligaciones de que trata el presente Libro y que no tengan señalado un plazo especial de prescripción,
-NOTA:
-durarán cuatro años.
+Art. 822. Las acciones que procedan de las obligaciones de que trata el presente Libro y que no tengan señalado un plazo especial de prescripción, durarán cuatro años.
 Las prescripciones establecidas en este Código corren contra toda clase de personas.
-NOTA:
-El plazo establecido en este inciso por fijado por el Art. 3° de la Ley N° 16.952, de 1° de Octubre de 1968, que comenzó a regir el 1° de Octubre de 1969.
 
 Artículo Final. El presente Código comenzará a regir desde el 1° de Enero de 1867, y en esa fecha quedarán derogadas, aun en la parte que no fueren contrarias a él, las leyes preexistentes sobre todas las materias que en él se tratan, en cuanto puedan afectar los asuntos mercantiles.
 FIN DEL CODIGO DE COMERCIO
