@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1941-02-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1941-04-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1941-02-28
-fetched_at: 2026-08-03T00:06:19.268640+00:00
+version_date: 1941-04-14
+fetched_at: 2026-08-03T00:06:31.274277+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2065,6 +2065,7 @@ De la apropiación de las cosas muebles ajenas contra la voluntad de su dueño.
 
 ART. 432.
 El que sin la voluntad de su dueño y con ánimo de lucrarse se apropia cosa mueble ajena usando de violencia o intimidación en las personas o de fuerza en las cosas, comete robo; si faltan la violencia, la intimidación y la fuerza, el delito se califica de hurto.
+No obstante, la apropiación de los animales a que se refiere el inciso 2.o del artículo 449 cuya cuantía exceda de ciento cincuenta pesos, se castigará en todo caso como robo.
 
 #### § II.
 Del robo con violencia o intimidación en las personas.
@@ -2165,6 +2166,8 @@ Cuando se reunieren en un hecho varias de las circunstancias a que se señala pe
 
 ART. 454.
 Se presumirá autor del robo o hurto de una cosa aquel en cuyo poder se encuentre, salvo que justifique su legítima adquisición o que la prueba de su buena conducta anterior establezca una presunción en contrario.
+Se presumirá también autor del robo de animales aquel en cuyo poder se encuentren partes identificables de la especie robada.
+La marca registrada puesta sobre el animal robado, constituye presunción de dominio a favor del dueño de la marca.
 Se castigará como encubridor del robo o hurto de una cosa al que la compre o reciba a cualquier título, sabiendo su origen o no pudiendo menos de conocerlo.
 
 ART. 455.
