@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1997-04-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1997-11-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1997-04-11
-fetched_at: 2026-08-03T01:03:03.976585+00:00
+version_date: 1997-11-04
+fetched_at: 2026-08-03T01:04:22.006403+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -360,8 +360,7 @@ Art. 109. Cumplido el contrato o pagada una indemnización, las arras serán dev
 
 Art. 110. En la computación de los plazos de días, meses y años, se observarán las reglas que contienen los artículos 48 y 49 del Código Civil, a no ser que la ley o la convención dispongan otra cosa.
 
-Art. 111. La obligación que vence en día domingo o en otro día festivo, es pagadera al siguiente.
-La misma regla se aplicará a las obligaciones que venzan los días Sábado de cada semana y 31 de Diciembre de cada año.
+Art. 111. La obligación que vence en día domingo o en otro día festivo, es pagadera al siguiente. La misma regla se aplicará a las obligaciones que venzan los días Sábado de cada semana.
 
 Art. 112. No se reconocen términos de gracia o uso que difieran el cumplimiento de las obligaciones más allá del plazo que señale la convención o la ley.
 
