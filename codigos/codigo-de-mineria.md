@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=1983-10-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=1984-01-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 29668
-version_date: 1983-10-14
-fetched_at: 2026-08-03T00:38:10.286161+00:00
+version_date: 1984-01-02
+fetched_at: 2026-08-03T00:38:46.327010+00:00
 titulo_norma: "CODIGO DE MINERIA"
 compuesto: LEY-18248
 organismos: ['MINISTERIO DE MINERIA']
@@ -54,11 +54,15 @@ Todas las cuestiones que suscite la aplicación de este artículo serán resuelt
 
 Artículo 10.- El Estado tiene, al precio y modalidades habituales del mercado, el derecho de primera opción de compra de los productos mineros originados en explotaciones mineras desarrolladas en el país en los que el torio o el uranio tengan presencia significativa.
 Si estos productos se obtienen esporádicamente, su productor deberá comunicar su obtención a la Comisión Chilena de Energía Nuclear a fin de que ésta pueda ejercer aquel derecho por cuenta del Estado, y le señalará la cantidad, calidad y demás características del producto, su precio de mercado y la forma, oportunidad y lugar de su entrega. Esta comunicación constituirá una oferta de venta con plazo de espera y obligará a no disponer del producto durante los tres meses siguientes a la fecha de su recepción.
-La Comisión podrá aceptar o rechazar libremente la oferta, en todo o parte. Si la aceptare, indicará un plazo, no mayor de dos meses contado desde la respectiva entrega de productos, en el cual se pagara su precio.
+La Comisión podrá aceptar o rechazar libremente la oferta, en todo o parte. Si la aceptare, indicará un plazo, no mayor de dos meses contado desde la respectiva entrega de productos, en el cual se pagará su precio.
 La oferta caducará si no es aceptada dentro de los tres meses de espera. Con todo, la oferta no caducará si, dentro de este plazo, la Comisión pide al juez que, con citación del productor, designe un experto para que éste, como tercero, establezca el precio y las modalidades de la compraventa. La Comisión dispondrá de un mes, desde que el experto le comunique su resolución, para aceptar, en todo o parte, la oferta en los términos establecidos por el experto. Si no lo hace en ese plazo, caducará la oferta.
 Si estos productos se obtienen en forma habitual, su productor, a más tardar en septiembre de cada año, comunicará a la Comisión sus programas mensuales de producción estimados para el año calendario siguiente, a fin de que ésta pueda ejercer, por cuenta del Estado, el derecho de primera opción de compra. El productor también dará cuenta a la Comisión, de inmediato, de todas las variaciones que experimenten esos programas. La comunicación, que deberá contener todas las menciones indicadas en el inciso segundo, constituirá una oferta de venta con plazo de espera y obligará a no disponer del producto de cada mes hasta el último día del mes de su obtención.
 La Comisión podrá aceptar o rechazar libremente la oferta, en todo o parte. Si la aceptare, el precio de cada entrega se pagará dentro de los dos meses siguientes a ella.
-La oferta caducará si no es aceptada dentro del plazo establecido en el inciso sexto. En lo demás, se aplicarán las normas del inciso cuarto.
+La oferta caducará si no es aceptada dentro del plazo establecido en el inciso
+NOTA
+sexto. En lo demás, se aplicarán las normas del inciso cuarto.
+NOTA
+La referencia al inciso sexto debe entenderse hecha al inciso quinto.
 
 Artículo 11.- El incumplimiento de las obligaciones que le impone el artículo precedente sujetará al productor al pago de una multa, a beneficio fiscal, hasta por el valor de mercado de los productos de que se trate. Si el incumplimiento consiste en que ellos se han enajenado a terceros dentro del plazo en que la Comisión tiene el derecho de primera opción de compra, se aplicará precisamente el monto máximo de la multa.
 La Comisión aplicará administrativamente la multa, y su resolución tendrá mérito ejecutivo. Contra ella podrá reclamarse ante la Corte de Apelaciones dentro del plazo de diez días, contado desde su notificación, acompañando boleta de consignación a la orden de la Corte por el diez por ciento de la multa.
@@ -216,9 +220,9 @@ El largo y el ancho no podrán tener una relación superior de cinco a uno.
 
 Artículo 47.- El secretario del juzgado pondrá en el pedimento o en la manifestación certificado del día y hora de su presentación al juzgado; tomará nota en un registro numerado que llevará al efecto, y dará recibo a la persona que lo hubiere presentado, si se lo pide.
 
-Artículo 48.- El juez examinará el pedimento o la manifestación y, si cumple con lo dispuesto en el artículo 43 ó en los artículos 44 y 45, respectivamente, ordenará su inscripción y publicación.
+Artículo 48.- El juez examinará el pedimento o la manifestación y, si cumple con lo dispuesto en el artículo 43 o en los artículos 44 y 45, respectivamente, ordenará su inscripción y publicación.
 
-Artículo 49.- Si el pedimento o la manifestación no cumple con las disposiciones del artículo 43 ó de los artículos 44 y 45, según corresponda, el juez señalará determinadamente sus defectos y ordenará que el solicitante, o cualquiera de ellos si fueren varios, los subsane dentro del plazo de ocho días, contado desde la fecha de la respectiva resolución, subsistiendo para todos los efectos legales la fecha de la presentación primitiva. Subsanados los defectos oportunamente, el juez procederá conforme al artículo precedente; en caso contrario, el pedimento o la manifestación se tendrá por no hecho.
+Artículo 49.- Si el pedimento o la manifestación no cumple con las disposiciones del artículo 43 o de los artículos 44 y 45, según corresponda, el juez señalará determinadamente sus defectos y ordenará que el solicitante, o cualquiera de ellos si fueren varios, los subsane dentro del plazo de ocho días, contado desde la fecha de la respectiva resolución, subsistiendo para todos los efectos legales la fecha de la presentación primitiva. Subsanados los defectos oportunamente, el juez procederá conforme al artículo precedente; en caso contrario, el pedimento o la manifestación se tendrá por no hecho.
 Con todo, si el pedimento omite indicar las coordenadas del punto medio de la concesión de exploración pedida, o si la manifestación omite indicar las coordenadas del punto de interés o sus señales más precisas y características, en su caso, el juez ordenará sin más trámite tener por no hecha la respectiva presentación.
 El error o la imprecisión en que se incurra al indicar las coordenadas del punto medio o del punto de interés no será subsanable en caso alguno.
 
@@ -396,7 +400,7 @@ Artículo 85.- El juez examinará los autos y, si se reúnen los requisitos lega
 Si nota faltas o ilegalidades insubsanables, dictará sentencia denegando la constitución de la pertenencia y mandando cancelar las inscripciones respectivas.
 Si nota, en cambio, faltas o ilegalidades subsanables, ordenará su corrección dentro del plazo que prudencialmente fijará y, hecho, dictará la sentencia constitutiva de la pertenencia. Si la corrección no se efectúa dentro del plazo fijado, el juez, de oficio, procederá conforme al inciso anterior.
 
-### Párrafo 4a
+### Párrafo 4°
 De la sentencia constitutiva de la concesión
 
 Artículo 86.- Si el juez nota, en cualquier momento durante la tramitación de la constitución de la concesión y mientras no se haya dictado la sentencia constitutiva de ella, que no se ha cumplido dentro del plazo cualquiera de los requisitos o actuaciones para los cuales el juez, conforme al artículo 82, o este Código, hayan señalado plazos fatales, dictará sentencia declarando la caducidad de los derechos emanados del pedimento o de la manifestación, y ordenando cancelar las inscripciones correspondientes.
@@ -745,7 +749,7 @@ Lo dispuesto en los incisos segundo y tercero se aplicará también al contrato 
 
 Artículo 170.- No hay rescisión por causa de lesión enorme en los contratos de compraventa y de permuta de una concesión o de una cuota o una parte material de ella.
 
-Artículo 171.- Tratándose de arrendamiento o de usufructo de pertenencia, se entenderá que la explotación hecha conforme al título constituye uso y goce legítimo de ella y el arrendatario o el usufructario no será responsable de la disminución de sustancias minerales que a consecuencia de tal explotación sobrevenga.
+Artículo 171.- Tratándose de arrendamiento o de usufructo de pertenencia, se entenderá que la explotación hecha conforme al título constituye uso y goce legítimo de ella y el arrendatario o el usufructuario no será responsable de la disminución de sustancias minerales que a consecuencia de tal explotación sobrevenga.
 Lo dispuesto en el inciso anterior es sin perjuicio de la observancia de las normas sobre policía y seguridad mineras.
 
 ### Párrafo 2°
@@ -1055,7 +1059,7 @@ Las disposiciones de este artículo operarán al entrar en vigencia el presente 
 En todo caso, las disposiciones de este artículo operarán de pleno derecho y sin necesidad de resolución judicial ni de inscripción alguna.
 
 Artículo 2°.- Dentro del plazo de ciento ochenta días, contado desde la fecha de publicación de este Código, sólo la Comisión Chilena de Energía Nuclear podrá presentar pedimentos y manifestaciones respecto de torio o uranio, y sólo la Corporación de Fomento de la Producción podrá presentarlos respecto de nitratos y sales análogas, yodo y compuestos químicos de estos productos, carbón en el caso del artículo 219 del Código de 1932, o guano, que en virtud de lo dispuesto en los incisos segundo y siguientes del artículo 3° de la ley N° 18.097, pasen a ser concesibles. Con todo, la Comisión y la Corporación podrán ejercer estos derechos sólo respecto de las sustancias que, referidas en este artículo, no sean objeto de pertenencia, o de concesión administrativa, que estén actualmente vigentes; a los titulares de estas concesiones administrativas les será aplicable lo dispuesto en los incisos siguientes y a los titulares de esas pertenencias, lo dispuesto en el artículo 7° transitorio.
-Dentro del plazo de ciento ochenta días, contado desde la vigencia de este Código, los titulares de concesiones judiciales para explorar y los titulares de concesiones administrativas para explorar o para explotar, como asimismo los titulares de solicitudes de dichas concesiones, deberán presentar manifestación o manifestaciones respecto de la o las sustancias concedidas o solicitadas, so pena de extinción de sus derechos por el sólo transcurso de ese plazo. Cuando abarquen el mismo terreno, esas manifestaciones preferirán entre sí según las fechas en que se hayan presentado las respectivas solicitudes de concesión, constituidas o en trámite.
+Dentro del plazo de ciento ochenta días, contado desde la vigencia de este Código, los titulares de concesiones judiciales para explorar y los titulares de concesiones administrativas para explorar o para explotar, como asimismo los titulares de solicitudes de dichas concesiones, deberán presentar manifestación o manifestaciones respecto de la o las sustancias concedidas o solicitadas, so pena de extinción de sus derechos por el solo transcurso de ese plazo. Cuando abarquen el mismo terreno, esas manifestaciones preferirán entre sí según las fechas en que se hayan presentado las respectivas solicitudes de concesión, constituidas o en trámite.
 Si una pertenencia resultante de lo dispuesto en el inciso anterior queda superpuesta a o por otra u otras, se aplicarán las normas de los artículos 1° y 3° transitorios.
 Las pertenencias que se constituyan en virtud de lo dispuesto en el inciso primero o segundo, tendrán por objeto, además, todas las sustancias concesibles que existen en ellas. Sin embargo, en la parte correspondiente, la pertenencia sólo tendrá por objeto la o las sustancias señaladas en el inciso primero que se hayan mencionado en la manifestación, o la o las sustancias que fueron materia de la respectiva concesión o solicitud, cuando aquella quede superpuesta a o por otra u otras pertenencias constituidas o que se constituyan en virtud de manifestaciones o de solicitudes de concesión, presentadas antes de la vigencia de este Código.
 
