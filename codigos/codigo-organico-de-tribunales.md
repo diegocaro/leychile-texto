@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1980-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1980-07-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1980-03-01
-fetched_at: 2026-08-03T00:31:23.165192+00:00
+version_date: 1980-07-25
+fetched_at: 2026-08-03T00:31:59.212995+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1748,7 +1748,7 @@ Art. 428. Las palabras que en cualquier documento notarial aparezcan interlinead
 
 #### 6). De los libros que deben llevar los notarios
 
-Art. 429. Todo notario deberá formar un protocolo en el papel sellado que la correspondiente ley determine, en cuadernillos enteros de cinco pliegos cada uno, metido un pliego dentro del otro, de manera que la primera foja del cuadernillo sea la mitad del pliego cuya otra mitad corresponda a la décima foja del mismo; y que ordenará por riguroso orden de fecha del otorgamiento de las escrituras que en él se inserten, debiendo numerar cada foja en su parte superior con las letras y números, numerando y rotulando cada escritura al margen y a la altura de su comienzo, no pudiendo dejar entre escritura y escritura más espacio en blanco que el indispensable para las firmas de los otorgantes, notario y testigos.
+Art. 429. Todo notario deberá formar un protocolo en el papel que la correspondiente ley determine, en cuadernillos enteros de cinco pliegos cada uno, metido un pliego dentro del otro, de manera que la primera foja del cuadernillo sea la mitad del pliego cuya otra mitad corresponda a la décima foja del mismo; y que ordenará por riguroso orden de fecha del otorgamiento de las escrituras que en él se inserten, debiendo numerar cada foja en su parte superior con las letras y números, numerando y rotulando cada escritura al margen y a la altura de su comienzo, no pudiendo dejar entre escritura y escritura más espacio en blanco que el indispensable para las firmas de los otorgantes, notario y testigos.
 Los protocolos deberán empastarse, a lo menos, cada dos meses, no pudiendo formarse con más de quinientas fojas cada uno.
 Cada protocolo se iniciará con un certificado del notario en que exprese la fecha en que lo inicie con indicación del período de tiempo que comprenderá, enunciación del contrato o escritura y nombre de los otorgantes de la con que principia.
 
