@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1973-11-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1973-12-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 241203
-version_date: 1973-11-29
-fetched_at: 2026-08-05T02:20:02.069005+00:00
+version_date: 1973-12-06
+fetched_at: 2026-08-05T02:20:08.008868+00:00
 titulo_norma: "FIJA TEXTO DE LA CONSTITUCION POLITICA DEL ESTADO"
 compuesto: DTO-1333
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -529,7 +529,10 @@ ART. 84. Los jueces son personalmente responsables por los delitos de cohecho, f
 ART. 85. Los jueces permanecerán en sus cargos durante su buen comportamiento; pero los inferiores desempeñarán su respectiva judicatura por el tiempo que determinen las leyes.
 Los jueces, sean temporales o perpetuos, sólo podrán ser depuestos de sus destinos por causa legalmente sentenciada.
 No obstante, el Presidente de la República, a propuesta o con acuerdo de la Corte Suprema, podrá autorizar permutas, u ordenar el traslado de los jueces a otro cargo de igual categoría.
-En todo caso, la Corte Suprema, por requerimiento del Presidente de la República, a solicitud de parte interesada, o de oficio, podrá declarar que los jueces no han tenido buen comportamiento, y, previo informe del inculpado y de la Corte de Apelaciones respectiva, acordar su remoción, por las dos terceras partes de sus miembros. Estos acuerdos se comunicarán al Presidente de la República para su cumplimiento.
+En todo caso, la Corte Suprema, por requerimiento del Presidente de la República, a solicitud de parte interesada, o de oficio, podrá declarar que los jueces no han tenido buen comportamiento, y, previo informe del inculpado y de la Corte de Apelaciones respectiva, acordar su remoción, por las dos terceras partes de sus miembros.
+Anualmente se practicará una calificación de todo el personal del Poder Judicial, en la forma que determine la ley.
+Para acordar la remoción del personal que goce de inamovilidad y que sea mal calificado, la Corte Suprema requerirá del acuerdo de la mayoría de sus miembros en ejercicio.
+Los acuerdos que adopte la Corte Suprema se comunicarán al Presidente de la República para su cumplimiento.
 
 ART. 86. La Corte Suprema tiene la superintendencia directiva, correccional y económica de todos los Tribunales de la Nación, con arreglo a la ley que determine su organización y atribuciones.
 La Corte Suprema, en los casos particulares de que conozca o le fueren sometidos en recurso interpuesto en juicio que se siguiere ante otro Tribunal, podrá declarar inaplicable, para ese caso, cualquier precepto legal, contrario a la Constitución. Este recurso podrá deducirse en cualquier estado del juicio, sin que se suspenda su tramitación.
