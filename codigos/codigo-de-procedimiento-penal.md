@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1991-02-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1992-01-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1991-02-14
-fetched_at: 2026-08-03T00:51:16.746095+00:00
+version_date: 1992-01-04
+fetched_at: 2026-08-03T00:52:10.792338+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -440,6 +440,9 @@ Art. 78. (99) Las actuaciones del sumario son secretas, salvo las excepciones es
 
 Art. 79. (100) El juez puede autorizar al procesado para que tome conocimiento de aquellas diligencias que se relacionen con cualquier derecho que trate de ejercitar, siempre que haciéndolo no se entorpezca la investigación.
 Todo aquel a quien se notifica una resolución tiene derecho a sacar copia de ella.
+
+Art. 80. (101) Si el sumario se prolongare por más de cuarenta días desde aquel en que el inculpado hubiere sido procesado, éste tendrá derecho para que se ponga en su conocimiento todo lo obrado, a fin de instar por la terminación. Esta solicitud no puede ser denegada sino en cuanto sea peligroso para el éxito de la investigación; y la apelación que en tal caso se entablare será otorgada en el solo efecto devolutivo cuando hubiere pendientes ante el tribunal diligencias de importancia que no deban retardarse.
+En los procesos por delitos de robos con violencia o intimidación en las personas, el sumario deberá cerrarse dentro de 40 días contados desde aquel en que el inculpado haya sido procesado. Este plazo será prorrogable por una sola vez y por igual tiempo, mediante resolución fundada. Sin perjuicio de lo anterior, el procesado tendrá siempre derecho al conocimiento del sumario transcurridos 120 días desde la fecha de la resolución que lo sometió a proceso.
 
 #### Título III
 DE LA COMPROBACION DEL HECHO PUNIBLE Y AVERIGUACION
