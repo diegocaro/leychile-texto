@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1979-11-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1980-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1979-11-23
-fetched_at: 2026-08-03T00:30:41.110547+00:00
+version_date: 1980-01-01
+fetched_at: 2026-08-03T00:31:05.136566+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -442,7 +442,7 @@ La Corte Suprema
 Art. 93. La Corte Suprema se compondrá de trece miembros, uno de los cuales será su Presidente.
 El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones tres años, pudiendo ser reelegido.
 Los demás miembros se llamarán ministros y gozarán de precedencia los unos respecto de los otros por el orden de su antigüedad.
-La Corte Suprema tendrá un fiscal, un secretario y tres relatores.
+La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y tres relatores.
 
 Art. 94. La Corte Suprema tendrá su sede en la capital de la República.
 
@@ -1082,7 +1082,7 @@ TERCERA CATEGORIA. Jueces letrados de mayor cuantía que funcionen en el asiento
 CUARTA CATEGORIA. Jueces letrados de mayor cuantía de capital de provincia; y defensores públicos de Santiago y de Valparaíso.
 QUINTA CATEGORIA. Jueces letrados de mayor cuantía de departamento, y secretarios de juzgados de letras de mayor cuantía de asiento de Corte de Apelaciones.
 SEXTA CATEGORIA. Secretarios de juzgados de letras de mayor cuantía de capital de provincia; Defensores públicos de asiento de Corte y de capital de provincia.
-SEPTIMA CATEGORIA. Secretarios de juzgados de letras de mayor cuantía de departamento, y Defensores públicos de departamentos.
+SEPTIMA CATEGORIA. Secretarios de Juzgados de Letras de Mayor Cuantía de Departamento; Defensores públicos de departamento; Prosecretario de la Corte Suprema; y Secretario Abogado del Fiscal de la misma Corte.
 
 Art. 268. Los jueces letrados de departamento y los secretarios de juzgados de letras de mayor cuantía, con más de cinco años de permanencia en la categoría, tendrán para los efectos de los ascensos, los mismos derechos que los funcionarios de la categoría inmediatamente superior.
 Igual regla se aplicará a los defensores públicos de las categorías sexta y séptima, con más de diez años de permanencia en el cargo o de veinte en el servicio judicial.
@@ -1159,6 +1159,10 @@ Una vez recibida por el Poder Ejecutivo la nómina de las personas calificadas e
 Las audiencias que celebren las Cortes de Apelaciones para calificar a su personal y para conocer de las reclamaciones a que se refiere el inciso sexto, se realizarán dentro de las dos primeras horas fijadas para el funcionamiento diario del tribunal, serán secretas y se aplicarán las reglas contenidas en el párrafo segundo del Título V, en lo que fueren compatibles.
 Regirá para los empleados a que se refiere este artículo y para los oficiales de sala, lo dispuesto en el artículo 277.
 
+Art. 278 bis. La Corte Suprema, no obstante lo dispuesto en el inciso 8° del artículo 275 y en el inciso 5° del artículo 278, con el voto de la mayoría de sus miembros en ejercicio, podrá pedir la renuncia de sus cargos a funcionarios y empleados del Poder Judicial, esto es, de la Judicatura Ordinaria, de Menores, del Trabajo, de la Oficina de Presupuestos y de la Junta de Servicios Judiciales, que por dos años consecutivos, comprendido el correspondiente a la calificación de que se trate, hayan sido incluidos en lista tres.
+Esta renuncia será considerada como no voluntaria y dará derecho al afectado para acogerse a jubilación siempre que acredite a lo menos, veinte años de servicios computables.
+Si los afectados no presentaren la renuncia en el plazo de veinte días, contados desde la fecha en que por carta certificada se les comunique esa medida, dirigida al lugar en que desempeñan sus funciones, regirá lo dispuesto en los artículos 275, inciso 8°; 277, inciso 1°, y 278, incisos 5° y 15 de este Código.
+
 #### 4). Los nombramientos
 
 Art. 279. Si el nombramiento se hace en propiedad, será necesario abrir concurso, por un plazo no inferior a diez días, salvo para la provisión de los cargos de ministros o fiscal de la Corte Suprema, en que se procederá sin previo concurso.
@@ -1181,7 +1185,7 @@ Art. 283. Para proveer el cargo de ministro o fiscal de la Corte Suprema, este t
 Incisos derogados.
 
 Art. 284. Las ternas para proveer los cargos que se indican se formarán del modo siguiente:
-Para Ministros y Fiscales de Cortes de Apelaciones, con el Juez Letrado más antiguo de la tercera categoría y con dos funcionarios de la segunda o tercera categoría, elegidos por méritos.
+Para ministros y fiscales de Cortes de Apelaciones, con el juez letrado más antiguo de la tercera categoría, y con dos funcionarios de la segunda o tercera categorías o con dicho juez y un funcionario de cualquiera de esas categorías y un abogado extraño a la Administración de Justicia, con 15 o más años de ejercicio profesional que cumpla con los demás requisitos exigidos por el artículo 253 de este Código, elegidos por méritos.
 Sin embargo, en la formación de las ternas para Ministros y Fiscales de la Corte de Apelaciones de Santiago, tendrán preferencia, en uno de los dos lugares de libre elección, los funcionarios de la segunda categoría que se opongan al concurso.
 Para jueces letrados de las categorías tercera y cuarta, con el juez letrado más antiguo de la categoría inferior y con dos funcionarios de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos por méritos.
 Para jueces letrados de la categoría quinta, con el secretario más antiguo de la categoría inferior y con dos funcionarios de aquella categoría o de la inmediatamente inferior, elegidos por mérito. Sin embargo, en la terna, podrán figurar abogados.
@@ -1196,6 +1200,12 @@ Para defensores públicos de la sexta categoría: con tres funcionarios de esa m
 Para defensores públicos de departamento: con tres funcionarios de la séptima categoría, y a falta de ellos, con abogados;
 Para secretarios de las categorías segunda y tercera: con el secretario más antiguo de la categoría inferior, y con dos funcionarios de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos por mérito; y
 Para secretarios de las categorías quinta, sexta y séptima: con los funcionarios de ellas mismas o con abogados, y sólo a falta de éstos, con otros oponentes idóneos.
+El nombramiento del prosecretario de la Corte Suprema se hará a propuesta de este tribunal y sólo podrá recaer en persona con título de abogado.
+Este funcionario subrogará al Secretario en casos de impedimento o licencias y la norma del inciso 2° del artículo 500 se aplicará a estas subrogaciones.
+Además de las otras funciones que le corresponden, desempeñará el cargo de relator cuando el tribunal lo estime necesario.
+Después de haber servido tres años en el cargo, se le considerará, para los efectos de su ascenso, como figurando en la cuarta categoría.
+Todas las menciones que en las leyes se hagan al oficial primero de la Secretaría o al Oficial primero de la Corte Suprema, se entenderán referidas al prosecretario.
+El secretario abogado del Fiscal de la Corte Suprema será designado a propuesta unipersonal de dicho Fiscal.
 
 Art. 287. La terna para el nombramiento de notarios, Conservadores y Archiveros de las tres primeras categorías se formará con el funcionario más antiguo de la misma serie de la categoría inmediatamente inferior que se oponga al concurso y con dos funcionarios de esa categoría o de la misma categoría del cargo que se trata de proveer, también de la misma serie.
 Podrán figurar funcionarios de la misma serie de la categoría subsiguiente, siempre que tengan más de 10 años de antigüedad en el grado.
@@ -1586,7 +1596,7 @@ Art. 387. Los secretarios de los juzgados del crimen entregarán a la prefectura
 La prefectura archivará estos certificados por el orden de su fecha y llevará un índice de todos por el apellido de los reos.
 
 Art. 388. Cuando algún secretario se enfermare, o falleciere, o estuviere implicado, o fuere recusado, o faltare por cualquiera otra causa, será subrogado en la forma siguiente:
-El secretario de la Corte Suprema por el oficial primero de la secretaría y el de una Corte de Apelaciones, por el otro, si lo hubiere.
+El secretario de la Corte Suprema por el prosecretario y el de una Corte de Apelaciones, por el otro, si lo hubiere.
 El de un juzgado de letras de mayor cuantía, por el oficial primero de la secretaría.
 Cuando no puedan observarse las reglas dadas en los dos incisos anteriores, la subrogación se hará por el oficial primero de la Corte o por el ministro de fe que respectivamente designen los presidentes de las referidas Cortes o el juez en su caso.
 
@@ -1995,16 +2005,14 @@ Art. 498. Las leyes determinarán la planta y los sueldos de los empleados subal
 Especialmente formarán parte de la secretaría de la Corte Suprema, cinco oficiales auxiliares, que prestarán sus servicios como escribientes de los miembros del tribunal, en la forma que éste determine. Estos oficiales serán nombrados por el Presidente de la República, a propuesta de la Corte Suprema, deberán haber cursado cuarto año de Derecho, a lo menos, y durarán sólo tres años en el ejercicio de sus funciones.
 
 Art. 499. Los oficiales a que se refiere el inciso 1° del artículo anterior serán nombrados por el Presidente de la República, previa propuesta del tribunal en que deben prestar sus servicios con sujeción a las normas que se indican en el párrafo tercero del Título X.
-El Secretario Abogado del Fiscal de la Corte Suprema, los Oficiales de los Fiscales de las Cortes de Apelaciones, y los Oficiales de los Defensores Públicos serán designados por el Presidente de la República a propuesta unipersonal del Fiscal o Defensor Público respectivo, sin sujeción a las exigencias que se prescriban para el nombramiento de los demás empleados subalternos del Poder Judicial.
+Los Oficiales de los Fiscales de las Cortes de Apelaciones y los Oficiales de los Defensores Públicos serán designados por el Presidente de la República a propuesta unipersonal del Fiscal o Defensor Público respectivo, sin sujeción a las exigencias que se prescriban para el nombramiento de los demás empleados subalternos del Poder Judicial.
 Será aplicable a los funcionarios a que se refiere este artículo lo dispuesto en el artículo 493.
 
 Art. 500. Los oficiales primeros de las secretarías, sin perjuicio de las otras funciones que les correspondan según las leyes, estarán obligados a desempeñar, bajo la responsabilidad de los secretarios, las funciones que a éstos les encomienda el Título VI del Libro I del Código de Procedimiento Civil.
 Cuando la subrogación de los secretarios se prolongue por un espacio superior a quince días, en los casos señalados en el artículo 388, los oficiales primeros tendrán derecho a percibir la diferencia que existía entre la remuneración de su cargo y el que deban subrogar, incluida la asignación establecida en el artículo 39, de la ley 17.272, por el período que dure dicho reemplazo.
 Deberán prestar juramento para el desempeño de su cargo ante el juez respectivo o ante el presidente del tribunal, si fuere colegiado.
 
-Art. 501. Para ser nombrado oficial primero de la secretaría de la Corte Suprema, se requiere el título de abogado. Este funcionario subrogará al secretario en casos de impedimento o licencia.
-Además de las otras funciones que le corresponden, desempeñará el cargo de relator cuando el tribunal lo estime necesario.
-Después de haber servido tres años en el cargo, se le considerará, para los efectos de su ascenso, como figurando en la cuarta categoría del Escalafón Primario.
+Art. 501. Derogado.
 
 Art. 502. Las incapacidades establecidas en los artículos 258 y 469 son aplicables al secretario de una Corte con respecto al personal de su secretaría.
 
