@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1961-03-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1961-10-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1961-03-03
-fetched_at: 2026-08-03T00:16:23.071095+00:00
+version_date: 1961-10-24
+fetched_at: 2026-08-03T00:16:35.087381+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -242,7 +242,7 @@ El Presidente de la República podrá modificar los límites de la jurisdicción
 Art. 44. Habrá también un Juzgado de Mayor Cuantía en las ciudades de Petorca, Putaendo, Casablanca, Limache, Florida (Concepción) y Lota.
 En la comuna de San Miguel, del departamento de Santiago, habrá dos Juzgados de Letras de Mayor Cuantía, uno de los cuales tendrá competencia exclusivamente sobre los asuntos criminales que se promuevan dentro de su jurisdicción y el otro en materia civil y del Trabajo.
 Los territorios jurisdiccionales de los tribunales a que se refiere este artículo, serán las comunas-subdelegaciones de sus respectivos nombres.
-El Juzgado de Limache comprenderá, además, las comunas de Quilpué y Villa Alemana; el de Casablanca, comprenderá también la comuna de Algarrobo y la de Curacaví, del departamento de Santiago, y los de San Miguel comprenderán, además, las de Cisterna y La Granja, del departamento de Santiago.
+El Juzgado de Limache comprenderá, además, las comunas de Quilpué y Villa Alemana; el de Casablanca, comprenderá también la comuna de Algarrobo, y los de San Miguel comprenderán, además, las de Cisterna y La Granja, del departamento de Santiago.
 Las divisiones administrativas señaladas en los incisos anteriores, serán consideradas como departamentos para todos los efectos del servicio judicial.
 
 Art. 45. Los jueces de letras de mayor cuantía conocerán:
