@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1947-04-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1947-09-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1947-04-19
-fetched_at: 2026-08-03T00:09:01.371765+00:00
+version_date: 1947-09-08
+fetched_at: 2026-08-03T00:09:13.384042+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1057,7 +1057,7 @@ Art. 259. No podrán ser nombrados ministros de una Corte de Apelaciones las per
 
 Art. 260. No podrá existir el parentesco de consanguinidad hasta el cuarto grado o de afinidad hasta el segundo grado inclusive entre los miembros de la Corte Suprema y los de las Cortes de Apelaciones, ni entre éstos y los jueces letrados de su respectiva jurisdicción.
 
-Art. 261. Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las escuelas dependientes de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas.
+Art. 261. Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las escuelas dependientes de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, de la enseñanza secundaria y especial hasta un límite de ocho horas semanales y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas.
 
 ### § 3. De los nombramientos y del escalafón de los funcionarios judiciales
 
@@ -1199,7 +1199,7 @@ Tercera categoría: Oficiales 4ºs. de la Corte Suprema, Oficiales 3ºs. de las 
 Cuarta categoría: Oficiales 4ºs. de los Juzgados de Letras de Mayor Cuantía de asiento de Corte, Oficiales de los Defensores Públicos de Santiago y Valparaíso, Oficiales 2ºs. de los Juzgados de Letras de Mayor Cuantía de capital de provincia, Oficiales 1ºs. de los Juzgados de Letras de Mayor Cuantía de departamento y Oficiales 1ºs. de los Juzgados de Letras de Menor Cuantía de asiento de Corte;
 Quinta categoría: Oficiales Auxiliares de la Corte Suprema, Oficiales 3ºs. de los Juzgados de Letras de Mayor Cuantía de capital de provincia, Oficiales 2ºs. de los Juzgados de Letras de Mayor Cuantía de departamento, Oficiales 2ºs. de los Juzgados de Letras de Menor Cuantía de asiento de Corte, Oficiales 1ºs. de los demás Juzgados de Letras de Menor Cuantía, Oficiales 3ºs. de los Juzgados de Letras de Mayor Cuantía de departamento, Oficial-Intérprete de los Juzgados de Temuco y Oficiales 2ºs. de los demás Juzgados de Letras de Menor Cuantía.
 
-Art. 294. Las ternas para el nombramiento de empleados del Escalafón subalterno, serán formadas, previo concurso, por el tribunal en que deban prestar sus servicios, con un empleado de la misma categoría del cargo que se trata de proveer y dos de la categoría inferior. A falta de oponentes de la misma categoría, la terna se formará con tres empleados de la categoría inferior y si en ella no hubiere interesados en número suficiente, ocuparán sus lugares los de la categoría siguiente o personas extrañas a la carrera.
+Art. 294. Las ternas para el nombramiento de empleados del Escalafón subalterno, serán formadas, previo concurso, por el tribunal en que deban prestar sus servicios, con un empleado de la misma categoría del cargo que se trata de proveer y dos de la categoría inferior. A falta de oponentes de la misma categoría, la terna se formará con tres empleados de la categoría inferior y si en ella no hubiere interesados en número suficiente, ocuparán sus lugares los de la categoría siguiente y, a falta de éstos, personan extrañas a la carrera.
 En las ternas para el nombramiento de empleados de las categorías cuarta y quinta, podrá figurar una persona extraña a la carrera.
 
 Art. 295. En las ternas para proveer los cargos de Receptores, los empleados del Escalafón subalterno se considerarán con las calidades establecidas en la letra b), del artículo 289.
@@ -2014,6 +2014,9 @@ La Corte Suprema podrá practicar las averiguaciones que estime necesarias acerc
 5°) Haber servido, a satisfacción del Consejo del Colegio de Abogados respectivo, en el Consultorio Jurídico para Pobres, durante seis meses en la forma que determine el Reglamento de su Ley Orgánica.
 La obligación establecida en el N° 5 se entenderá cumplida por los postulantes que sean funcionarios o empleados del Poder Judicial o de los Tribunales del Trabajo por el hecho de haber desempeñado sus funciones durante cinco años.
 Si la comisión a que se refiere el número anterior no admitiere a examen al postulante, por estimar que no concurren los requisitos señalados en este artículo, el afectado podrá reclamar ante la Corte Suprema, la que resolverá como jurado.
+También se entenderá cumplida la obligación impuesta en el N.o 5 por los postulantes que hayan servido más de seis meses consecutivos gratuitamente a las órdenes de Juzgados de Mayor o Menor Cuantía, para atender los asuntos y desempeñar las funciones que estos Tribunales les encomendaren, de acuerdo con la reglamentación que dicte el Consejo General del Colegio de Abogados.
+Los Tribunales expresados en el inciso anterior no podrán ocupar sino a los egresados que estén en condiciones de hacer su práctica judicial, previo certificado de la Universidad de Chile que así lo acredite, deberán dar cuenta al Consejo del Colegio de Abogados respectivo de la fecha en que los postulantes ingresen a su servicio, tomar la asistencia diaria de ellos y expedir al retirarse un certificado en que conste la asistencia a las funciones desempeñadas y la apreciación personal del Juez respecto del postulante.
+Para usar de esta facultad los egresados deberán presentar al Juez un certificado del respectivo Colegio de Abogados, por el cual se les autoriza para hacer su práctica en esta forma.
 
 Art. 524. Derogado.
 
