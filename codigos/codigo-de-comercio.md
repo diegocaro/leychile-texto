@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1982-01-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1982-05-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1982-01-14
-fetched_at: 2026-08-03T00:35:28.109098+00:00
+version_date: 1982-05-25
+fetched_at: 2026-08-03T00:36:40.179203+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -250,6 +250,40 @@ Art. 79. En las operaciones de corretaje marítimo los corredores deberán asent
 Deberán asimismo conservar un ejemplar de las cartas de los fletamentos ajustados por su intermedio.
 
 Art. 80. Sólo los corredores titulados tendrán el carácter de oficiales públicos. Sin embargo, podrá ejercer la correduría cualquiera persona que no se halle incluida en alguna de las prohibiciones establecidas en el artículo 55.
+
+### TITULO IV
+DE LOS MARTILLEROS
+Derogado.
+
+Art. 81. Derogado.
+
+Art. 82. Derogado.
+
+Art. 83. Derogado.
+
+Art. 84. Derogado.
+
+Art. 85. Derogado.
+
+Art. 86. Derogado.
+
+Art. 87. Derogado.
+
+Art. 88. Derogado.
+
+Art. 89. Derogado.
+
+Art. 90. Derogado.
+
+Art. 91. Derogado.
+
+Art. 92. Derogado.
+
+Art. 93. Derogado.
+
+Art. 94. Derogado.
+
+Art. 95. Derogado.
 
 ## Libro II
 DE LOS CONTRATOS Y OBLIGACIONES
