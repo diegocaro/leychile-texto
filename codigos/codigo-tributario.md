@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1977-05-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1977-10-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1977-05-14
-fetched_at: 2026-08-03T00:28:16.922788+00:00
+version_date: 1977-10-29
+fetched_at: 2026-08-03T00:28:34.944926+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -452,9 +452,9 @@ Las mismas penas se aplicarán a los contribuyentes afectos al Impuesto a las Ve
 7°.- El hecho de no llevar la contabilidad o los libros auxiliares exigidos por la Dirección Regional de acuerdo con las disposiciones legales, o de mantenerlos atrasados, o de llevarlos en forma distinta a la ordenada o autorizada por la ley, y siempre que no se dé cumplimiento a las obligaciones respectivas dentro del plazo que señale el Servicio, que no podrá ser inferior a diez días, con multa de un cinco por ciento al cincuenta por ciento de una unidad tributaria anual.
 8°.- El comercio ejercido a sabiendas sobre mercaderías, valores o especies de cualquiera naturaleza sin que se hayan cumplido las exigencias legales relativas a la declaración y pago de los impuestos que graven su producción o comercio, con multa del cuarenta por ciento al doscientos por ciento de los impuestos eludidos y con presidio o relegación menores en sus grados mínimo o medio. La reincidencia será sancionada con pena de presidio menor en sus grados medio a máximo.
 9°.- El ejercicio efectivamente clandestino del comercio o de la industria con multa del treinta por ciento al doscientos por ciento de una unidad tributaria anual y con presidio o relegación menores en sus grados mínimo a medio y, además, con el comiso de los productos en instalaciones de fabricación y envases respectivos.
-10°.- El no otorgamiento de facturas o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas sin el timbre fijo correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa del doscientos por ciento del monto de la operación, con mínimo de una unidad tributaria mensual.
-En el caso de las infracciones señaladas en el inciso primero éstas podrán ser, además sancionadas a juicio exclusivo del Director Regional, con clausura de hasta veinte días del establecimiento o sucursal en que se hubiere cometido la infracción.
-La reiteración de las infracciones señaladas en el inciso primero se sancionará además con presidio o relegación menores en su grado medio. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a un año.
+10°.- El no otorgamiento de facturas o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas sin el timbre fijo correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa de 5 veces el monto de la operación, con un mínimo de 5 unidades tributarias mensuales
+En el caso de las infracciones señaladas en el inciso primero, éstas deberán ser, además, sancionadas con clausura de hasta 20 días de la oficina, estudio, establecimiento o sucursal en que hubiere cometido la infracción.
+La reiteración de las infracciones señaladas en el inciso primero se sancionará además con presidio o relegación menores en su grado medio. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a tres años.
 Para los efectos de aplicar la clausura, el Servicio podrá requerir el auxilio de la fuerza pública, la que será concedida sin ningún trámite previo por el Cuerpo de Carabineros, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario. En todo caso, se pondrán sellos oficiales y carteles en los establecimientos clausurados.
 Cada sucursal se entenderá como establecimiento distinto para los efectos de este número.
 En los casos de clausura, el infractor deberá pagar a sus dependientes las correspondientes remuneraciones mientras dure aquélla. No tendrán este derecho los dependientes que hubieren hecho incurrir al contribuyente en la sanción.
