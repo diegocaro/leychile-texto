@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1981-10-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1982-01-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1981-10-22
-fetched_at: 2026-08-03T00:34:34.049462+00:00
+version_date: 1982-01-14
+fetched_at: 2026-08-03T00:35:28.109098+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -326,6 +326,10 @@ Art. 120. El finiquito de una cuenta hará presumir el de las anteriores, cuando
 Art. 121. El acreedor que tiene varios créditos vencidos contra un deudor, puede imputar el pago a cualquiera de las deudas, cuando el deudor no hubiere hecho la imputación al tiempo de hacer el pago.
 
 Art. 122. El comerciante que al recibir una cuenta paga o da finiquito, no pierde el derecho de solicitar la rectificación de los errores, omisiones, partidas duplicadas u otros vicios que aquélla contenga.
+
+Art. 123. Derogado.
+
+Art. 124. Derogado.
 
 Art. 125. Si se dieren en pago documentos al portador, se causará novación si el acreedor al recibirlos no hubiere hecho formal reserva de sus derechos para el caso de no ser pagados.
 
@@ -1847,6 +1851,331 @@ DEL CONTRATO DE CAMBIO
 Art. 620. El contrato de cambio es una convención por la cual una de las partes se obliga, mediante un valor prometido o entregado, a pagar o hacer pagar a la otra parte o a su cesionario legal cierta cantidad de dinero en un lugar distinto de aquel en que se celebra la convención.
 
 Art. 621. El contrato de cambio se perfecciona por el solo consentimiento de las partes acerca de la cantidad que debe ser pagada, el precio de ella, el lugar y época del pago y puede ser probado por cualquiera de los medios que admite este Código.
+
+Art. 622. Las personas que pueden obligarse pueden celebrar el contrato de cambio por su propia cuenta o por la de un tercero que las haya autorizado especialmente al efecto.
+NOTA
+NOTA
+El N° 5 del Artículo 108 de la Ley 18092, publicada el 14.01.1982, deroga el inciso segundo de la presente norma.
+
+Art. 623. Derogado.
+
+Art. 624. Derogado.
+
+Art. 625. Derogado.
+
+Art. 626. Derogado.
+
+Art. 627. Derogado.
+
+Art. 628. Derogado.
+
+Art. 629. Derogado.
+
+Art. 630. Derogado.
+
+Art. 631. Derogado.
+
+Art. 632. Derogado.
+
+Art. 633. Derogado.
+
+Art. 634. Derogado.
+
+Art. 635. Derogado.
+
+Art. 636. Derogado.
+
+Art. 637. Derogado.
+
+Art. 638. Derogado.
+
+Art. 639. Derogado.
+
+Art. 640. Derogado.
+
+Art. 641. Derogado.
+
+Art. 642. Derogado.
+
+Art. 643. Derogado.
+
+Art. 644. Derogado.
+
+Art. 645. Derogado.
+
+Art. 646. Derogado.
+
+Art. 647. Derogado.
+
+Art. 648. Derogado.
+
+Art. 649. Derogado.
+
+Art. 650. Derogado.
+
+Art. 651. Derogado.
+
+Art. 652. Derogado.
+
+Art. 653. Derogado.
+
+Art. 654. Derogado.
+
+Art. 655. Derogado.
+
+Art. 656. Derogado.
+
+Art. 657. Derogado.
+
+Art. 658. Derogado.
+
+Art. 659. Derogado.
+
+Art. 660. Derogado.
+
+Art. 661. Derogado.
+
+Art. 662. Derogado.
+
+Art. 663. Derogado.
+
+Art. 664. Derogado.
+
+Art. 665. Derogado.
+
+Art. 666. Derogado.
+
+Art. 667. Derogado.
+
+Art. 668. Derogado.
+
+Art. 669. Derogado.
+
+Art. 670. Derogado.
+
+Art. 671. Derogado.
+
+Art. 672. Derogado.
+
+Art. 673. Derogado.
+
+Art. 674. Derogado.
+
+Art. 675. Derogado.
+
+Art. 676. Derogado.
+
+Art. 677. Derogado.
+
+Art. 678. Derogado.
+
+Art. 679. Derogado.
+
+Art. 680. Derogado.
+
+Art. 681. Derogado.
+
+Art. 682. Derogado.
+
+Art. 683. Derogado.
+
+Art. 684. Derogado.
+
+Art. 685. Derogado.
+
+Art. 686. Derogado.
+
+Art. 687. Derogado.
+
+Art. 688. Derogado.
+
+Art. 689. Derogado.
+
+Art. 690. Derogado.
+
+Art. 691. Derogado.
+
+Art. 692. Derogado.
+
+Art. 693. Derogado.
+
+Art. 694. Derogado.
+
+Art. 695. Derogado.
+
+Art. 696. Derogado.
+
+Art. 697. Derogado.
+
+Art. 698. Derogado.
+
+Art. 699. Derogado.
+
+Art. 700. Derogado.
+
+Art. 701. Derogado.
+
+Art. 702. Derogado.
+
+Art. 703. Derogado.
+
+Art. 704. Derogado.
+
+Art. 705. Derogado.
+
+Art. 706. Derogado.
+
+Art. 707. Derogado.
+
+Art. 708. Derogado.
+
+Art. 709. Derogado.
+
+Art. 710. Derogado.
+
+Art. 711. Derogado.
+
+Art. 712. Derogado.
+
+Art. 713. Derogado.
+
+Art. 714. Derogado.
+
+Art. 715. Derogado.
+
+Art. 716. Derogado.
+
+Art. 717. Derogado.
+
+Art. 718. Derogado.
+
+Art. 719. Derogado.
+
+Art. 720. Derogado.
+
+Art. 721. Derogado.
+
+Art. 722. Derogado.
+
+Art. 723. Derogado.
+
+Art. 724. Derogado.
+
+Art. 725. Derogado.
+
+Art. 726. Derogado.
+
+Art. 727. Derogado.
+
+Art. 728. Derogado.
+
+Art. 729. Derogado.
+
+Art. 730. Derogado.
+
+Art. 731. Derogado.
+
+Art. 732. Derogado.
+
+Art. 733. Derogado.
+
+Art. 734. Derogado.
+
+Art. 735. Derogado.
+
+Art. 736. Derogado.
+
+Art. 737. Derogado.
+
+Art. 738. Derogado.
+
+Art. 739. Derogado.
+
+Art. 740. Derogado.
+
+Art. 741. Derogado.
+
+Art. 742. Derogado.
+
+Art. 743. Derogado.
+
+Art. 744. Derogado.
+
+Art. 745. Derogado.
+
+Art. 746. Derogado.
+
+Art. 747. Derogado.
+
+Art. 748. Derogado.
+
+Art. 749. Derogado.
+
+Art. 750. Derogado.
+
+Art. 751. Derogado.
+
+Art. 752. Derogado.
+
+Art. 753. Derogado.
+
+Art. 754. Derogado.
+
+Art. 755. Derogado.
+
+Art. 756. Derogado.
+
+Art. 757. Derogado.
+
+Art. 758. Derogado.
+
+Art. 759. Derogado.
+
+Art. 760. Derogado.
+
+Art. 761. Derogado.
+
+Art. 762. Derogado.
+
+Art. 763. Derogado.
+
+Art. 764. Derogado.
+
+Art. 765. Derogado.
+
+Art. 766. Derogado.
+
+Art. 767. Derogado.
+
+Art. 768. Derogado.
+
+Art. 769. Derogado.
+
+Art. 770. Derogado.
+
+Art. 771. Derogado.
+
+Art. 772. Derogado.
+
+Art. 773. Derogado.
+
+Art. 774. Derogado.
+
+Art. 775. Derogado.
+
+Art. 776. Derogado.
+
+Art. 777. Derogado.
+
+Art. 778. Derogado.
+
+Art. 779. Derogado.
+
+Art. 780. Derogado.
+
+Art. 781. Derogado.
+
+Art. 781 bis. Derogado.
 
 ### Título XII
 DE LAS CARTAS ORDENES DE CREDITO
