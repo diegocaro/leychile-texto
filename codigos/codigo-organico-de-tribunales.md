@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1990-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1990-03-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1990-03-01
-fetched_at: 2026-08-03T00:49:46.664079+00:00
+version_date: 1990-03-10
+fetched_at: 2026-08-03T00:49:52.674211+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -51,15 +51,11 @@ Art. 3° Los tribunales tienen, además, las facultades conservadoras, disciplin
 
 Art. 4° Es prohibido al Poder Judicial mezclarse en las atribuciones de otros poderes públicos y en general ejercer otras funciones que las determinadas en los artículos precedentes.
 
-Art. 5° A los tribunales que establece el presente Código estará sujeto el conocimiento de todos los asuntos judiciales que se promuevan en el orden temporal dentro del territorio de la República, cualquiera que sea su naturaleza o la calidad de las personas que en ellos intervengan, con las solas excepciones siguientes:
-1°) Las acusaciones que se entablen con arreglo a lo dispuesto por los artículos 30 y 42 de la Constitución Política de la República;
-2°) Las causas cuyo conocimiento corresponda a los Tribunales Militares, Navales y Aeronáuticos;
-3°) Las causas sobre cuentas cuyo conocimiento corresponda a la Contraloría General de la República;
-4°) Las causas cuyo conocimiento corresponda a los Tribunales de Menores;
-5°) Las causas cuyo conocimiento corresponde a los juzgados de letras del trabajo.
-6°) Las causas cuyo conocimiento corresponda a los Alcaldes y a los Juzgados de Policía Local; y
-7°) Los demás asuntos judiciales del orden temporal que leyes especiales encomienden a otros tribunales.
-Las penas que la autoridad eclesiástica imponga en virtud de su jurisdicción espiritual no se entenderán que dejan de ser espirituales porque produzcan efectos temporales, como por ejemplo, la suspensión o privación de un beneficio eclesiástico, o de sus frutos.
+Art. 5° A los tribunales mencionados en este artículo corresponderá el conocimiento de todos los asuntos judiciales que se promuevan en el orden temporal dentro del territorio de la República, cualquiera que sea su naturaleza o la calidad de las personas que en ellos intervengan, sin perjuicio de las excepciones que establezcan la Constitución y las leyes.
+Integran el Poder Judicial, como tribunales ordinarios de justicia, la Corte Suprema, los presidentes y ministros de Corte, y los juzgados de letras.
+Forman parte del Poder Judicial, como tribunales especiales, los Juzgados de Letras de Menores, los Juzgados de Letras del Trabajo y los Tribunales Militares en tiempo de paz, los cuales se regirán en su organización y atribuciones por las disposiciones orgánicas constitucionales contenidas en la ley N° 16.618, en el Código del Trabajo, y en el Código de Justicia Militar y sus leyescomplementarias, respectivamente, rigiendo para ellos las disposiciones de este Código sólo cuando los cuerpos legales citados se remitan en forma expresa a él.
+Los demás tribunales especiales se regirán por las leyes que los establecen y reglamentan, sin perjuicio de quedar sujetos a las disposiciones generales de este Código.
+Los jueces árbitros se regirán por el Título IX de este Código.
 
 Art. 6° Quedan sometidos a la jurisdicción chilena los crímenes y simples delitos perpetrados fuera del territorio de la República que a continuación se indican:
 1°) Los cometidos por un agente diplomático o consular de la República, en el ejercicio de sus funciones;
@@ -125,10 +121,11 @@ Artículo 25°.- Derogado.
 
 Artículo 26°.- Derogado.
 
-Artículo 27°.- Derogado.
-
 ## TITULO III
 De los Jueces de Letras
+
+Art. 27. Sin perjuicio de lo que se previene en los artículo 28 al 40, en cada comuna habrá, a lo menos, un juzgado de letras.
+Los nuevos juzgados que se instalen tendrán como territorio jurisdiccional la respectiva comuna y, en consecuencia, dejarán de ser competentes en esos territorios los juzgados que anteriormente tenían jurisdicción sobre dichas comunas.
 
 Art. 28. En la Primera Región, de Tarapacá, existirán los siguientes juzgados de letras:
 Cuatro juzgados con asiento en la comuna de Arica, con jurisdicción sobre las comunas de las provincias de Arica y Parinacota;
@@ -153,10 +150,10 @@ Art. 31. En la Cuarta Región, de Coquimbo, existirán los siguientes juzgados d
 Tres juzgados con asiento en la comuna de La Serena, con jurisdicción sobre las comunas de La Serena y La Higuera;
 Dos juzgados con asiento en la comuna de Coquimbo, con jurisdicción sobre la misma comuna;
 Un juzgado con asiento en la comuna de Vicuña, con jurisdicción sobre las comunas de Vicuña y Paihuano;
-Un juzgado con asiento en la comuna de Andacollo, con jurisdicción sobre la misma comuna;
+Un juzgado con asiento en la comuna de Andacollo, con jurisdicción sobre la misma comuna:
 Tres juzgados con asiento en la comuna de Ovalle, con jurisdicción sobre las comunas de Ovalle, Río Hurtado, Monte Patria y Punitaqui;
-Un juzgado con asiento en la comuna de Combarbalá, con jurisdicción sobre la misma comuna, y
-Un juzgado con asiento en la comuna de Illapel, con jurisdicción sobre las comunas de la provincia de Choapa.
+Un juzgado con asiento en la comuna de Combarbalá, con jurisdicción sobre la misma comuna;
+Un juzgado con asiento en la comuna de Illapel, con jurisdicción sobre las comunas de Illapel y Salamanca, y Un juzgado con asiento en la comuna de los Vilos, con jurisdicción sobre las comunas de Los Vilos y Canela.
 
 Art. 32. En la Quinta Región, de Valparaíso, existirán los siguientes juzgados de letras que tendrán jurisdicción en los territorios que se indican:
 A.- JUZGADOS CIVILES:
@@ -299,11 +296,11 @@ Art. 44. Derogado.
 
 Art. 45. Los Jueces de Letras conocerán:
 1° En única instancia:
-a) De las causas civiles cuya cuantía no exceda de tres mil pesos, que se promuevan dentro de los límites urbanos de la ciudad asiento del tribunal;
-b) De las causas de comercio cuya cuantía no exceda de tres mil pesos, y
+a) De las causas civiles cuya cuantía no exceda de 10 Unidades Tributarias Mensuales;
+b) De las causas de comercio cuya cuantía no exceda de 10 Unidades Tributarias Mensuales, y
 c) Suprimido.
 2° En primera instancia:
-a) De las causas civiles y de comercio cuya cuantía exceda de tres mil pesos;
+a) De las causas civiles y de comercio cuya cuantía exceda de 10 Unidades Tributarias Mensuales;
 b) De las causas de minas, cualquiera que sea su cuantía. Se entiende por causas de minas, aquellas en que se ventilan derechos regidos especialmente por el Código de Minería;
 c) De los actos judiciales no contenciosos, cualquiera sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil;
 d) De las causas por crimen o simple delito, salvo de aquellas cuyo conocimiento corresponde a los Juzgados de Policía Local para el juzgamiento de los delitos de vagancia y mendicidad que se cometan fuera de los límites urbanos de la ciudad en que tenga su asiento el tribunal;
@@ -378,36 +375,23 @@ p) El de la Corte de Coihaique comprenderá la Décimo Primera Región de Aisén
 q) El de la Corte de Punta Arenas comprenderá la Décimo Segunda Región de Magallanes y de la Antártica Chilena.
 
 Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indican:
-1.- Las Cortes de Apelaciones de Arica, Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Chillán, Valdivia, Puerto Montt, Coyhaique y Punta Arenas tendrán cuatro miembros.
-2.- La Corte de Apelaciones de Talca tendrá cinco miembros.
-3.- La Corte de Apelaciones de Temuco tendrá siete miembros.
-4.- Las Cortes de Apelaciones de San Miguel y Concepción tendrán diez miembros;
-5.- La Corte de Apelaciones de Valparaíso tendrá once miembros;
-6.- La Corte de Apelaciones de Santiago tendrá veinticinco miembros.
+1.- Las Cortes de Apelaciones de Arica, Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Chillán, Puerto Montt, Coihaique y Punta Arenas tendrán cuatro miembros;
+2.- Las Cortes de Apelaciones de Talca, Temuco y Valdivia tendrán siete miembros;
+3.- Las Cortes de Apelaciones de San Miguel y Concepción tendrán diez miembros;
+4.- La Corte de Apelaciones de Valparaíso tendrá trece miembros;
+5.- La Corte de Apelaciones de Santiago tendrá veinticinco miembros.
 
 Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado del 1° de marzo y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
 Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón.
 
-Art. 58. Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá seis Fiscales; las Cortes de Apelaciones de Valparaíso y San Miguel tendrán tres Fiscales; las Cortes de Apelaciones de Concepción y Temuco tendrán dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal, como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
+Art. 58. Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá seis Fiscales; las Cortes de Apelaciones de Valparaíso y de San Miguel tendrán tres Fiscales; y las Cortes de Talca, Concepción, Temuco y Valdivia tendrán dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
-Art. 59. Las Cortes de Apelaciones tendrán el número de relatores que a continuación se indican:
-1.- Las Cortes de Apelaciones de Arica, Iquique y Coyhaique tendrán un relator.
-2.- Las Cortes de Apelaciones de Antofagasta, Copiapó, La Serena, Rancagua, Talca, Chillán, Valdivia, Puerto Montt y Punta Arenas, tendrán dos relatores.
-3.- La Corte de Apelaciones de Temuco tendrá tres relatores.
-4.- Las Cortes de Apelaciones de San Miguel y Concepción tendrán seis relatores.
-5.- La Corte de Apelaciones de Valparaíso tendrá siete relatores.
-6.- La Corte de Apelaciones de Santiago tendrá catorce relatores.
+Art. 59. Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Talca, Temuco y Valdivia, tendrán cuatro; las Cortes de Apelaciones de San Miguel y Concepción tendrán seis; la Corte de Apelaciones de Valparaíso tendrá ocho y la Corte de Apelaciones de Santiago tendrá dieciocho relatores.
 
 Art. 60. Cada Corte de Apelaciones tendrá un secretario.
 La Corte de Apelaciones de Santiago tendrá tres secretarios. El tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
 
-Art. 61. Las Cortes de San Miguel, Valparaíso y Concepción se dividirán en tres salas de tres miembros cada una, con excepción de la primera, que tendrá cuatro miembros.
-La Corte de Santiago se dividirá en siete salas de tres miembros cada una, excepto la primera, la segunda y la tercera, que se compondrá de cuatro ministros. En caso de funcionamiento extraordinario en ocho salas, la octava sala será integrada por un ministro de cada una de las salas primera, segunda y tercera, designados por sorteo.
-La Corte de Apelaciones de Temuco se dividirá en dos salas compuesta la primera por cuatro y la segunda por tres ministros.
-Cada sala representa a la Corte en los asuntos de que conoce.
-La designación de los ministros que correspondan a cada sala se hará por sorteo anual, la que regirá a contar del 1° de marzo de cada año.
-Para la constitución de las salas de las Cortes de Apelaciones de Valparaíso y Santiago, se sortearán los miembros del tribunal, con excepción de su presidente, para quien la integración de salas será facultativa.
-El ministro a quien corresponda la presidencia de la Corte no entrará al sorteo y por derecho propio integrará la Primera Sala.
+Art. 61. Las Cortes de Apelaciones de Talca, Temuco y Valdivia se dividirán en dos salas; las Cortes de Apelaciones de San Miguel y de Concepción en tres salas; la Corte de Apelaciones de Valparaíso en cuatro salas; y la Corte de Apelaciones de Santiago en siete salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo par él integrarla. El sorteo correspondiente se efectuará el último día hábil del mes de enero de cada año.
 
 Art. 62. Las Cortes de Apelaciones integradas por sus fiscales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo.
 Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla y de las apelaciones que deban conocerse en cuenta, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento.
@@ -428,6 +412,7 @@ Art. 64. La Corte de Santiago conocerá de los recursos de apelación y de casac
 Art. 65. Suprimido.
 
 Art. 66. El conocimiento de todos los asuntos entregados a la competencia de las Cortes de Apelaciones pertenecerá a las salas en que estén divididas, a menos que la ley disponga expresamente que deban conocer de ellos en Pleno.
+Cada sala representa a la Corte en los asuntos de que conoce.
 En caso que ante una misma Corte de Apelaciones se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma. Esta disposición no se aplicará al recurso de queja, sin perjuicio de las facultades propias del tribunal.
 Corresponderá a todo el tribunal el ejercicio de las facultades disciplinarias, administrativas y económicas, sin perjuicio de que las salas puedan ejercer las primeras en los casos de los artículos 542 y 543 en los asuntos que estén conociendo. También corresponderá a todo el tribunal el conocimiento de los desafueros de los Diputados y de los Senadores y de los juicios de amovilidad en contra de los jueces de letras.
 No obstante lo dispuesto en el inciso anterior, los recursos de queja serán conocidos y fallados por las salas del tribunal, según la distribución que de ellos haga el Presidente; pero la aplicación de medidas disciplinarias corresponderá al tribunal pleno.
@@ -445,7 +430,7 @@ Sin embargo, los recursos de amparo, las apelaciones que se deduzcan en un mismo
 Serán agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, en casos urgentes: 1° las apelaciones y consultas relativas a la libertad provisional de los inculpados y reos; 2° los recursos de amparo; y 3° las demás que determinen las leyes.
 Se agregarán extraordinariamente, también, las apelaciones de las resoluciones relativas al auto de procesamiento señaladas en el inciso cuarto, en causas en que haya reos privados de libertad. La agregación se hará a la tabla del día que determine el Presidente de la Corte, dentro del término de cinco días desde el ingreso de los autos a la Secretaría del Tribunal.
 
-Art. 70. La tramitación de los asuntos entregados a las Cortes de Apelaciones corresponderá a la sala en que funciona el Presidente del Tribunal. En Santiago corresponderá a la Primera Sala.
+Art. 70. La tramitación de los asuntos entregados a las Cortes de Apelaciones corresponderá, en aquellas que se compongan de más de una sala, a la primera.
 Para dictar las providencias de mera sustanciación bastará un solo ministro.
 Se entienden por providencias de mera sustanciación las que tienen por objeto dar curso progresivo a los autos, sin decidir ni prejuzgar ninguna cuestión debatida entre partes.
 Sin embargo, deberán dictarse por la sala respectiva las resoluciones de tramitación que procedan cuando ya estén conociendo de un asunto.
@@ -546,31 +531,33 @@ La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y seis relat
 Art. 94. La Corte Suprema tendrá su sede en la capital de la República.
 
 Art. 95. La Corte Suprema funcionará ordinariamente dividida en tres salas o en pleno, correspondiendo a la propia Corte determinar la forma de su funcionamiento.
-La distribución de los Ministros entre las tres salas se hará por sorteo, exceptuando al Presidente, de modo que a la primera correspondan seis miembros y cinco a cada una de las dos salas restantes. El sorteo se hará el 1° de marzo de cada año.
+La distribución de los Ministros entre las tres salas se hará por sorteo, exceptuando al Presidente, de modo que a la primera correspondan seis miembros y cinco a cada una de las dos salas restantes. El sorteo se hará el primer día hábil del mes de marzo.
 Las salas funcionarán con no menos de cinco jueces cada una, y el pleno, con la concurrencia de once de sus miembros a lo menos, y se integrarán en conformidad a la ley; pero para el Presidente de la Corte esta integración será facultativa.
 Cada sala en que se divida la Corte Suprema será presidida por el ministro más antiguo, cuando no esté presente el Presidente de la Corte, quien podrá funcionar en cualquiera de las salas.
 
-Art. 96. Corresponde a la Corte Suprema en Pleno:
-1.o.- Conocer del recurso de inaplicabilidad reglado en el artículo 86 de la Constitución Política del Estado y de las contiendas de competencia de que trata el inciso final de ese mismo artículo;
-2.o.- Conocer de las apelaciones que se deduzcan en las causas por desafuero de Senadores y Diputados a que se refieren los artículos 33, 34 y 35 de la Constitución Política;
-3.o.- Conocer, en segunda instancia, de los juicios de amovilidad fallados en primera por las Cortes de Apelaciones o por el Presidente de la Corte Suprema, seguidos contra jueces de letras o Ministros de Cortes de Apelaciones, respectivamente,
-4.o.- Ejercer las facultades administrativas, disciplinarias y económicas que las leyes le asignan, sin perjuicio de las que les correspondan a las Salas en los asuntos que estén conociendo, en conformidad a los artículos 542 y 543. En uso de tales facultades, podrá determinar la forma de funcionamiento de los Tribunales y demás servicios judiciales, fijando los días y horas de trabajo en atención a las necesidades del servicio;
-5.o.- Informar al Presidente de la República, cuando se solicite su dictamen, sobre cualquier punto relativo a la administración de justicia y sobre el cual no exista cuestión de que deba conocer; y
-6.o.- Conocer de todos los asuntos que leyes especiales le encomiendan expresamente.
+Art. 96. Corresponde a la Corte Suprema en pleno:
+1° Conocer del recurso de inaplicabilidad reglado en el artículo 80 de la Constitución Política de la República y de las contiendas de competencia de que trata el inciso final de su artículo 79;
+2° Conocer de las apelaciones que se deduzcan en las causas por desafuero de senadores y diputados a que se refiere el artículo 58 de la Constitución Política;
+3° Conocer en segunda instancia, de los juicios de amovilidad fallados en primera por las Cortes de Apelaciones o por el Presidente de la Corte Suprema, seguidos contra jueces de letras o Ministros de Cortes de Apelaciones, respectivamente;
+4° Ejercer las facultades administrativas, disciplinarias y económicas que las leyes le asignan, sin perjuicio de las que les correspondan a las salas en los asuntos de que estén conociendo, en conformidad a los artículos 542 y 543. En uso de tales facultades, podrá determinar la forma de funcionamiento de los tribunales y demás servicios judiciales, fijando los días y horas de trabajo en atención a las necesidades del servicio;
+5° Informar al Presidente de la República, cuando se solicite su dictamen, sobre cualquier punto relativo a la administración de justicia y sobre el cual no exista cuestión de que deba conocer;
+6° Informar las modificaciones que se propongan a la ley orgánica constitucional relativa a la Organización y Atribuciones de los Tribunales, de acuerdo a lo dispuesto en el artículo 74 de la Constitución Política;
+7° Conocer de todos los asuntos que leyes especiales le encomiendan expresamente.
 Todos los autos acordados de carácter y aplicación general que dicte la Corte Suprema deberán ser publicados en el Diario Oficial.
 
 Art. 97. Derogado.
 
 Art. 98. Las salas de la Corte Suprema conocerán:
-1.o.- De los recursos de casación en el fondo;
-2.o.- De los recursos de casación en la forma interpuestos contra las sentencias dictadas por las Cortes de Apelaciones o por un tribunal arbitral de segunda instancia constituído por árbitros de derecho en los casos en que estos árbitros hayan conocido de negocios de la competencia de dichas Cortes,
-3.o.- De las apelaciones sobre admisibilidad o inadmisibilidad de los recursos de casación;
-4.o- De los recursos de revisión;
-5.o.- En la segunda instancia, de las causas a que se refieren los números 2.o y 3.o del artículo 53.o. En estas causas no procederán los recursos de casación en la forma ni en el fondo;
-6.o.- De los recursos de queja, pero la aplicación de medidas disciplinarias será de la competencia del Tribunal pleno, y
-7.o.- De los demás negocios judiciales de que corresponda conocer a la Corte Suprema y que no estén entregados expresamente al conocimiento del Pleno.
+1.- De los recursos de casación en el fondo:
+2.- De los recursos de casación en la forma interpuestos contra las sentencias dictadas por las Cortes de Apelaciones o por un tribunal arbitral de segunda instancia constituido por árbitros de derecho en los casos en que estos árbitros hayan conocido de negocios de la competencia de dichas Cortes;
+3.- De las apelaciones deducidas contra las sentencias dictadas por las Cortes de Apelaciones en los recursos de amparo y de protección;
+4.- De los recursos de revisión;
+5.- En segunda instancia, de las causas a que se refieren los números 2° y 3° del artículo 53. En estas causas no procederán los recursos de casación en la forma ni en el fondo;
+6.- De los recursos de queja, pero la aplicación de medidas disciplinarias será de la competencia del tribunal pleno;
+7.- De los recursos de queja en juicio de cuentas contra las sentencias de segunda instancia dictadas con falta o abuso, con el solo objeto de poner pronto remedio al mal que lo motiva, y
+8.- De los demás negocios judiciales de que corresponda conocer a la Corte Suprema y que no estén entregados expresamente al conocimiento del pleno.
 
-Art. 99. Las salas de la Corte Suprema conocerán por turnos mensuales: una, de todos los asuntos indicados en el artículo 98; otra, de los mismos negocios, con excepción de los recursos de casación en el fondo y en la forma que se hayan interpuesto en materia civil; y la otra, de los recursos de casación en el fondo y en la forma que se hubieren interpuesto en materia civil. De los recursos de queja conocerá cualquiera de las salas.
+Art. 99. Las salas de la Corte Suprema conocerán por turnos mensuales: una, de todos los asuntos indicados en el artículo 98; otra, de los mismos negocios, con excepción de los recursos de casación en el fondo y en la forma que se hayan interpuesto en materia civil; y la otra, de los recursos de casación en el fondo y en la forma que se hubieren interpuesto en materia civil. De los recursos de amparo, de protección y de queja conocerá cualquiera de las salas.
 En caso que ante la Corte Suprema se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma. Esta disposición no se aplicará al recurso de queja, sin perjuicio de las facultades propias del tribunal.
 No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera, el Presidente de la Corte Suprema podrá incluir en la tabla de cualquiera de las salas causas de naturaleza tanto civil como criminal.
 
@@ -578,11 +565,11 @@ Art. 100. Derogado.
 
 Art. 101. La Corte Suprema, integrada por su fiscal o abogados integrantes, podrá dividirse extraordinariamente en cuatro salas de cinco miembros cada una, cuando el presidente así lo determine, para conocer de los negocios a que se refiere el artículo 98.
 La distribución de los Ministros de la Corte Suprema entre estas cuatro salas se efectuará por sorteo, de modo que a cada una correspondan cuatro miembros. La integración de sala para el Presidente de la Corte será facultativa.
-Producida la división en cuatro salas, corresponderá, por turnos mensuales, conocer, a dos de ellas, de todas las materias a que se refiere el artículo 98, a otra, de los asuntos a que se refiere el mismo artículo, con excepción de los recursos de casación en el fondo y en la forma de naturaleza civil; y a la otra, indistintamente, de los recursos de casación en la forma y en el fondo de naturaleza civil o criminal. A las cuatro les corresponderá conocer de los recursos de queja de cualquier naturaleza.
+Producida la división en cuatro salas, corresponderá, por turnos mensuales, conocer, a dos de ellas, de todas las materias a que se refiere el artículo 98, a otra, de los asuntos a que se refiere el mismo artículo, con excepción de los recursos de casación en el fondo y en la forma de naturaleza civil; y a la otra, indistintamente, de los recursos de casación en la forma y en el fondo de naturaleza civil o criminal. A las cuatro les corresponderá conocer de los recursos de amparo, de protección y de queja.
 No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera, el Presidente podrá disponer que dos de las salas conozcan exclusivamente de los recursos de casación en la forma y en el fondo, y en tal caso, las dos salas restantes conocerán, una de todas las materias a que se refiere el artículo 98, con excepción de los recursos de casación en el fondo y en la forma de naturaleza criminal, y la otra de los asuntos a que se refiere el mismo artículo, con excepción de los recursos de casación en el fondo y en la forma de naturaleza civil.
 Producida la división extraordinaria de la Corte Suprema, el Tribunal designará los relatores interinos que estime necesarios, quienes gozarán durante el tiempo en que sirvieren el cargo de igual remuneración que los propietarios.
 
-Art. 102. El primero de Marzo de cada año la Corte Suprema iniciará sus funciones en audiencia pública, a la cual deberán concurrir su fiscal y los miembros y fiscales de la Corte de Apelaciones de Santiago.
+Art. 102. El primer día hábil de marzo la Corte Suprema iniciará sus funciones en audiencia pública, a la cual deberán concurrir su fiscal y los miembros y fiscales de la Corte de Apelaciones de Santiago.
 El Presidente de la Corte Suprema dará cuenta en esta audiencia:
 1°) Del trabajo efectuado por el tribunal en el año judicial anterior;
 2°) Del que haya quedado pendiente para el año que se inicia;
@@ -697,19 +684,20 @@ Tampoco se tomará en cuenta el que tengan los acreedores en el juicio de quiebr
 
 Art. 134. En general, es juez competente para conocer de una demanda civil o para intervenir en un acto no contencioso, el del domicilio del demandado o interesado, sin perjuicio de las reglas establecidas en los artículos siguientes y de las demás excepciones legales.
 
-Art. 135. Si la acción entablada fuere inmueble, serán competentes para conocer del juicio, a elección del demandante:
-1°) El juez del lugar donde debe cumplirse la obligación, según lo establecido por los artículos 1587, 1588 y 1589 del Código Civil;
-2°) El del lugar donde se contrajo la obligación;
-3°) El del lugar donde se encontrare la especie reclamada.
+Art. 135. Si la acción entablada fuere inmueble, será competente para conocer del juicio el juez del lugar que las partes hayan estipulado en la respectiva convención. A falta de estipulación será competente, a elección del demandante:
+1° El juez del lugar donde se contrajo la obligación; o
+2° El del lugar donde se encontrare la especie reclamada.
+Si el inmueble o inmuebles que son objeto de la acción estuvieren situados en distintos territorios jurisdiccionales, será competente cualquiera de los jueces en cuya comuna o agrupación de comunas estuvieren situados.
 
-Art. 136. Si el inmueble o inmuebles que son objeto de la acción real estuvieren situados en diversos distritos jurisdiccionales, será competente cualquiera de los jueces en cuyo distrito estuvieren situados.
+Art. 136. Derogado.
 
 Art. 137. Si una misma acción tuviere por objeto reclamar cosas muebles e inmuebles, será juez competente el del lugar en que estuvieren situados los inmuebles.
 Esta regla es aplicable a los casos en que se entablen conjuntamente dos o más acciones, con tal que una de ellas por lo menos sea inmueble.
 
-Art. 138. Si la acción entablada fuere de las que se reputan muebles con arreglo a lo prevenido por el artículo 580 del Código Civil, será competente para conocer del juicio el juez del lugar donde debe cumplirse la obligación según lo establecido por los artículos 1587, 1588 y 1589 del mismo Código.
+Art. 138. Si la acción entablada fuere de las que se reputan muebles con arreglo a lo prevenido en los artículos 580 y 581 del Código Civil, será competente el juez del lugar que las partes hayan estipulado en la respectiva convención.
+A falta de estipulación de las partes, lo será el del domicilio del demandado.
 
-Art. 139. Si una misma demanda comprendiere obligaciones que deban cumplirse en diversos lugares, será competente para conocer del juicio el juez de aquél en que se reclame el cumplimiento de todas las obligaciones, sin perjuicio de cumplirse cada una de éstas en su respectivo lugar.
+Art. 139. Si una misma demanda comprendiere obligaciones que deban cumplirse en diversos territorios jurisdiccionales, será competente para conocer del juicio el juez del lugar en que se reclame el cumplimiento de cualquiera de ellas.
 
 Art. 140. Si el demandado tuviere su domicilio en dos o más lugares, podrá el demandante entablar su acción ante el juez de cualquiera de ellos.
 
@@ -718,7 +706,7 @@ Art. 141. Si los demandados fueren dos o más y cada uno de ellos tuviere su dom
 Art. 142. Cuando el demandado fuere una persona jurídica, se reputará por domicilio, para el objeto de fijar la competencia del juez, el lugar donde tenga su asiento la respectiva corporación o fundación.
 Y si la persona jurídica demandada tuviere establecimientos, comisiones u oficinas que la representen en diversos lugares, como sucede con las sociedades comerciales, deberá ser demandada ante el juez del lugar donde exista el establecimiento, comisión u oficina que celebró el contrato o que intervino en el hecho que da origen al juicio.
 
-Art. 143. Los interdictos posesorios se reputan de mayor cuantía, cualquiera que sea el valor de los bienes a que se refieren, y sólo es competente para conocer de ellos el juez letrado del territorio jurisdiccional en que estuvieren situados dichos bienes. Si los bienes por su situación pertenecieren a varios territorios jurisdiccionales, será competente el juez de cualquiera de éstos.
+Art. 143. Es competente para conocer de los interdictos posesorios el juez de letras del territorio jurisdiccional en que estuvieren situados los bienes a que se refieren. Si ellos, por su situación, pertenecieren a varios territorios jurisdiccionales, será competente el juez de cualquiera de éstos.
 
 Art. 144. Será juez competente para conocer de los juicios de distribución de aguas el de la comuna o agrupación de comunas en que se encuentra el predio del demandado. Si el predio estuviere ubicado en comunas o agrupaciones de comunas cuyo territorio correspondiere a distintos juzgados, será competente el de cualquiera de ellas.
 
@@ -832,23 +820,21 @@ Asimismo, en el territorio jurisdiccional de la Corte de Apelaciones de Santiago
 Art. 180. En la misma forma establecida en el artículo 176 se distribuirán los juicios criminales que se inicien por querella en las comunas o agrupaciones de comunas de asiento de Corte de Apelaciones en que hubiere más de un juzgado en lo criminal.
 Lo dispuesto en el inciso anterior no regirá respecto de los jueces del crimen de la Región Metropolitana de Santiago, a los cuales se les asigne un territorio jurisdiccional determinado.
 
-### § 8. De la prórroga de jurisdicción
+### § 8. De la prórroga de la competencia
 
-Art. 181. Un tribunal que no es naturalmente competente para conocer de un determinado asunto, puede llegar a serlo si para ello se le prorroga la jurisdicción.
-La prórroga de jurisdicción se verifica cuando las partes expresa o tácitamente convienen en ser juzgadas por un tribunal diverso de aquel a quien según la ley corresponda el conocimiento del asunto.
+Art. 181. Un tribunal que no es naturalmente competente para conocer de un determinado asunto, puede llegar a serlo si para ello las partes, expresa o tácitamente, convienen en prorrogarle la competencia para este negocio.
 
-Art. 182. La prórroga de jurisdicción sólo procede en los negocios contenciosos civiles.
+Art. 182. La prórroga de competencia sólo procede en primera instancia, entre tribunales ordinarios de igual jerarquía y respecto de negocios contenciosos civiles.
 
-Art. 183. La prórroga de jurisdicción sólo puede tener lugar cuando el tribunal a quien se otorga ejerce una jurisdicción análoga a la del tribunal a quien por la ley corresponde rigurosamente el conocimiento del asunto.
-Así la jurisdicción de un juez de letras encargado de conocer de negocios civiles puede prorrogarse para que conozca de un negocio sujeto a otro funcionario de igual clase; pero no puede prorrogarse la jurisdicción de un tribunal militar para que conozca de un negocio sujeto a un juez de letras o viceversa.
+Art. 183. Derogado.
 
-Art. 184. Pueden prorrogar jurisdicción todas las personas que según la ley son hábiles para estar en juicio por sí mismas, y por las que no lo son pueden prorrogarla sus representantes legales.
+Art. 184. Pueden prorrogar competencia todas las personas que según la ley son hábiles para estar en juicio por sí mismas, y por las que no lo son pueden prorrogarla sus representantes legales.
 
-Art. 185. La prórroga de jurisdicción sólo surte efectos entre las personas que han concurrido a otorgarla, mas no respecto de otras personas como los fiadores o codeudores.
+Art. 185. La prórroga de competencia sólo surte efectos entre las personas que han concurrido a otorgarla, mas no respecto de otras personas como los fiadores o codeudores.
 
-Art. 186. Se prorroga la jurisdicción expresamente cuando en el contrato mismo o en un acto posterior han convenido en ello las partes, designando con toda precisión el juez a quien se someten.
+Art. 186. Se prorroga la competencia expresamente cuando en el contrato mismo o en un acto posterior han convenido en ello las partes, designando con toda precisión el juez a quien se someten.
 
-Art. 187. Se entiende que prorrogan tácitamente la jurisdicción:
+Art. 187. Se entiende que prorrogan tácitamente la competencia:
 1°) El demandante, por el hecho de ocurrir ante el juez interponiendo su demanda;
 2°) El demandado, por hacer, después de personado en el juicio, cualquiera gestión que no sea la de reclamar la incompetencia del juez.
 
@@ -865,8 +851,10 @@ Si los tribunales fueren de distinta jerarquía, será competente para resolver 
 Si dependieren de diversos superiores, iguales en jerarquía, resolverá la contienda el que sea superior del tribunal que hubiere prevenido en el conocimiento del asunto.
 Los jueces árbitros de primera, de segunda o de única instancia tendrán por superior, para los efectos de este artículo, a la respectiva Corte de Apelaciones.
 
-Art. 191. Sin perjuicio de las disposiciones expresas en contrario, las contiendas de competencia que se susciten entre los tribunales especiales o entre éstos y los tribunales ordinarios serán resueltas por la Corte Suprema.
-Este tribunal conocerá, además, de las contiendas de competencia que se susciten entre las autoridades políticas o administrativas y los Tribunales de Justicia, que no correspondan al Senado según el N° 4 del artículo 42 de la Constitución.
+Art. 191. Sin perjuicio de las disposiciones expresas en contrario, las contiendas de competencia que se susciten entre tribunales especiales o entre éstos y los tribunales ordinarios, dependientes ambos de una misma Corte de Apelaciones, serán resueltas por ella.
+Si dependieren de diversas Cortes de Apelaciones, resolverá la contienda la que sea superior jerárquico del tribunal que hubiere prevenido en el conocimiento del asunto.
+Si no pudieren aplicarse las reglas precedentes, resolverá la contienda la Corte Suprema.
+Corresponderá también a la Corte Suprema conocer de las contiendas de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales de justicia, que no correspondan al Senado.
 
 Art. 192. Las contiendas de competencia serán falladas en única instancia.
 
@@ -985,14 +973,14 @@ El llamamiento de los integrantes se hará en el orden indicado y los abogados s
 Art. 218. En los casos en que no pudiere funcionar la Corte Suprema por inhabilidad de la mayoría o de la totalidad de sus miembros, será integrada por ministros de la Corte de Apelaciones de Santiago, llamados por su orden de antigüedad.
 Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados integrantes, tanto en su funcionamiento ordinario como en el extraordinario de que trata el artículo 101.
 
-Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, quince para la Corte de Apelaciones de Santiago, siete para las Cortes de Valparaíso y Presidente Aguirre Cerda, cinco para la Corte de Concepción y tres para cada una de las demás Cortes de Apelaciones, previa formación por la Corte Suprema, de ternas.
-La designación de abogados integrantes de las Cortes de Apelaciones se hará en el mes de Enero de cada año. Los abogados designados para la Corte Suprema lo serán por un período de tres años, efectuándose el nombramiento en el mes de Enero en que comienza el trienio respectivo.
-Las ternas para abogados integrantes de las Cortes de Apelaciones serán formadas tomando los nombres de una lista que, en el mes de Diciembre de cada año, enviarán a la Corte Suprema las respectivas Cortes de Apelaciones. En esta lista deberán figurar abogados que tengan su residencia en la ciudad que sirve de asiento al tribunal respectivo, que reúnan las condiciones requeridas para ejercer los cargos de ministros, con excepción del límite de edad establecido en el artículo 77 de la Constitución Política de la República de Chile, y que hayan destacado en la actividad profesional o universitaria.
-Estas listas se compondrán, para Santiago, de sesenta nombres; para Valparaíso y Presidente Aguirre Cerda de treinta y cinco; para Concepción de veinticinco, y de quince para las demás Cortes.
-Las ternas para abogados integrantes de la Corte Suprema serán formadas tomando los nombres de una lista que, en el mes de Diciembre en que termina el trienio respectivo, el Senado enviará a dicha Corte. En esta lista deberán figurar cuarenta y cinco abogados con residencia en la ciudad de Santiago, que reúnan las condiciones requeridas para ejercer los cargos de ministros, con excepción del límite de edad establecido en el artículo 77 de la Constitución Política de la República de Chile, y que hayan destacado en la actividad profesional o universitaria.
+Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema; quince para la Corte de Apelaciones de Santiago; ocho para la Corte de Apelaciones de Valparaíso; siete para las Cortes de Apelaciones de San Miguel y de Concepción; cinco para las Cortes de Apelaciones de Talca, Temuco y Valdivia; y tres para cada una de las demás Cortes, previa formación por la Corte Suprema, de las respectivas ternas.
+La designación de abogados integrantes de las Cortes de Apelaciones se hará en el mes de enero de cada año. Los abogados designados para la Corte Suprema lo serán por un período de tres años, efectuándose el nombramiento en el mes de enero, en que comienza el trienio respectivo.
+Las ternas para abogados integrantes de las Cortes de Apelaciones serán formadas tomando los nombres de una lista que, en el mes de diciembre de cada año, enviarán a la Corte Suprema las respectivas Cortes de Apelaciones. En esta lista deberán figurar abogados que tengan su residencia en la ciudad que sirve de asiento al tribunal respectivo, que reúnan las condiciones requeridas para ejercer los cargos de ministros, con excepción del límite de edad establecido en el artículo 77 de la Constitución Política de la República de Chile, y que hayan destacado en la actividad profesional o universitaria.
+Estas listas se compondrán, para Santiago, de setenta y cinco nombres; para Valparaíso, de cuarenta; para San Miguel y Concepción, de treinta y cinco; para Talca, Temuco y Valdivia, de veinticinco; y de quince para las demás Cortes.
+Las ternas para abogados integrantes de la Corte Suprema serán formadas tomando los nombres de una lista que, en el mes diciembre en que termina el trienio respectivo, formará la misma Corte. En esta lista deberán figurar cuarenta y cinco abogados, con residencia en la ciudad de Santiago, que reúnan las condiciones requeridas para ejercer los cargos de ministros, con excepción del límite de edad establecido en el artículo 77 de la Constitución Política de la República de Chile, y que hayan destacado en la actividad profesional o universitaria.
 No podrán incluirse en las listas a que se refiere este artículo a profesionales que hayan sido separados de sus cargos como funcionarios judiciales, sea en la calificación anual o en cualquiera otra oportunidad.
 Si por cualquiera causa alguno de los abogados designados para la Corte Suprema no pudiere continuar en las funciones, el Presidente de la República podrá nombrar en su reemplazo por el resto del período a uno de los componentes de las ternas que formó la Corte Suprema en su oportunidad, o requerir de dicho tribunal la formación de una nueva terna, en conformidad con lo previsto en los incisos anteriores.
-En las ternas, no se podrán repetir nombres.
+En las ternas no se podrán repetir nombres.
 
 Art. 220. Los secretarios de los tribunales colegiados, llevarán un libro público de integraciones y de asistencia al tribunal, en el que anotarán diariamente los nombres de los miembros que no hayan asistido, con expresión de la causa de esta inasistencia, y de los funcionarios o abogados que hayan sido llamados a integrar.
 De la integración deberá dejarse testimonio en el respectivo proceso.
@@ -1032,7 +1020,7 @@ Art. 228. Fuera de los casos expresados en el artículo precedente, nadie puede 
 
 Art. 229. No Podrán ser sometidas a la resolución de árbitros las cuestiones que versen sobre alimentos o sobre derecho de pedir separación de bienes entre marido y mujer.
 
-Art. 230. Tampoco podrán someterse a la decisión de árbitro las causas en que debe ser oído el Ministerio Público, ni las que se susciten entre un representante legal y su representado.
+Art. 230. Tampoco podrán someterse a la decisión de árbitro las causas criminales, las de policía local, las que se susciten entre un represente legal y su representado, y aquellas en que debe ser oído el ministerio público.
 Todo lo cual se entiende sin perjuicio de lo dispuesto en el artículo 227.
 
 Art. 231. Pueden las partes, si obran de acuerdo, nombrar para la resolución de un litigio dos o más árbitros.
@@ -1053,13 +1041,16 @@ Faltando la expresión de cualquiera de los puntos indicados en los N.os 1°, 2�
 Art. 235. Si las partes no expresaren con qué calidad es nombrado el árbitro, se entiende que lo es con la de árbitro de derecho.
 Si faltare la expresión del lugar en que deba seguirse el juicio, se entenderá que lo es aquel en que se ha celebrado el compromiso.
 Si faltare la designación del tiempo, se entenderá que el árbitro debe evacuar su encargo en el término de dos años contados desde su aceptación.
+No obstante, si se hubiere pronunciado sentencia dentro de plazo, podrá ésta notificarse válidamente aunque él se encontrare vencido, como asimismo, el árbitro estará facultado para dictar las providencias pertinentes a los recursos que se interpusieren.
+Si durante el arbitraje el árbitro debiere elevar los autos a un tribunal superior, o paralizar el procedimiento por resolución de esos mismos tribunales, el plazo se entenderá suspendido mientras dure el impedimento.
 
 Art. 236. El árbitro que acepta el encargo deberá declararlo así, y jurará desempeñarlo con la debida fidelidad y en el menor tiempo posible.
 
-Art. 237. Si los árbitros no se pusieren de acuerdo, será llamado el tercero en discordia, si lo hubiere.
-Los árbitros y el tercero acordarán la sentencia en la forma prevenida por el Código de Procedimiento Civil para el acuerdo de las sentencias de los tribunales colegiados.
+Art. 237. Si los árbitros son dos o más, todos ellos deberán concurrir al pronunciamiento de la sentencia y a cualquier acto de substanciación del juicio, a menos que las partes acuerden otra cosa.
+No poniéndose de acuerdo los árbitros, se reunirá con ellos el tercero, si lo hay, y la mayoría pronunciará resolución conforme a las normas relativas a los acuerdos de las Cortes de Apelaciones.
 
-Art. 238. En el caso de no resultar mayoría en el pronunciamiento de la sentencia definitiva o de otra clase de resoluciones, se estará a lo dispuesto en los artículos 788 y 798 del Código de Procedimiento Civil.
+Art. 238. En caso de no resultar mayoría en el pronunciamiento de la sentencia definitiva o de otra clase de resoluciones, siempre que ellas no sean apelables, quedará sin efecto el compromiso, si éste es voluntario. Si es forzoso, se procederá a nombrar nuevos árbitros.
+Cuando pueda deducirse el recurso, se elevarán los antecedentes al tribunal de alzada para que resuelva la cuestión que motiva el desacuerdo conforme a derecho o equidad, según corresponda.
 
 Art. 239. Contra una sentencia arbitral se pueden interponer los recursos de apelación y casación para ante el tribunal que habría conocido de ellos si se hubieran interpuesto en juicio ordinario; a menos que las partes, siendo mayores de edad y libres administradoras de sus bienes, hayan renunciado dichos recursos, o sometídolos también a arbitraje en el instrumento del compromiso o en un acto posterior.
 Sin embargo, el recurso de casación en el fondo no procederá en caso alguno contra las sentencias de los arbitradores; y el de apelación sólo procederá contra dichas sentencias cuando las partes, en el instrumento en que constituyen el compromiso, expresaren que se reservan dicho recurso para ante otros árbitros del mismo carácter y designaren las personas que han de desempeñar este cargo.
@@ -1091,7 +1082,7 @@ Art. 245. Nombrado un juez en la forma prescrita por la ley para ocupar una plaz
 
 Art. 246. Ninguna plaza de la magistratura podrá permanecer vacante, ni aun en el caso de estar servida interinamente, por más de cuatro meses. Vencido este término, el juez interino cesará de hecho en el ejercicio de sus funciones, y el Presidente de la República proveerá la plaza en propiedad.
 
-Art. 247. La inamovilldad de que habla el artículo 85 de la Constitución del Estado rige no sólo respecto de los jueces propietarios sino también respecto de los interinos y suplentes. La inamovilidad de los interinos durará hasta el nombramiento del respectivo propietario, y la de los suplentes hasta que expire el tiempo por el cual hubieren sido nombrados.
+Art. 247. La inamovilidad de que habla el artículo 77 de la Constitución del Estado rige no sólo respecto de los jueces propietarios sino también respecto de los interinos y suplentes. La inamovilidad de los interinos durará hasta el nombramiento del respectivo propietario, y la de los suplentes hasta que expire el tiempo por el cual hubieren sido nombrados.
 
 ### § 2. Requisitos, inhabilidades e incompatibilidades
 
@@ -1214,7 +1205,7 @@ El informe deberá contener respecto de cada funcionario proposición para su in
 Antes de enviar sus informes, las Cortes o el fiscal deberán poner en conocimiento de los funcionarios respectivos las partes que les conciernen a fin de que dentro de un plazo no superior a diez días puedan formular por escrito las rectificaciones de hecho y descargos que estimen necesarios. Estas comunicaciones serán igualmente confidenciales y las rectificaciones y descargos se agregarán en todo caso al informe, cualquiera que sea en definitiva la apreciación que contenga respecto del funcionario.
 Incisos suprimidos.
 
-Art. 274. Para los efectos del artículo anterior, las Cortes de Apelaciones se reunirán, a contar desde el 1º de Diciembre de cada año, en audiencias secretas, que se llevarán a cabo dentro de las dos primeras horas fijadas para el funcionamiento diario del tribunal.
+Art. 274. Para los efectos del artículo anterior, las Cortes de Apelaciones se reunirán, a contar del 1° de diciembre de cada año, en sesiones secretas, que se llevarán a cabo fuera de las horas ordinarias de audiencia.
 Los acuerdos se tomarán por las Cortes reunidas en Pleno, con el voto conforme de la mayoría absoluta de los Ministros que asistan a la audiencia y se aplicarán las reglas contenidas en el Párrafo 2 del Título V, en lo que fueren compatibles.
 De los acuerdos se dejará constancia en un libro especial, que se mantendrá reservado.
 
@@ -1351,7 +1342,7 @@ Sin embargo, si se opusieren a los concursos para proveer cargos de las categor�
 Los egresados de derecho de las Universidades mencionadas en el inciso anterior, con dos años de permanencia en el Escalafón, sí opusieren a los concursos para proveer cargos de la segunda categoría, tendrán las mismas prerrogativas que el inciso anterior confiere a los alumnos regulares de Cuarto y Quinto años de de Derecho, para figurar en terna.
 Las ternas para el nombramiento de empleados de la Quinta Categoría, se formarán con un empleado de la Categoría Sexta que se presente a concurso y con personas extrañas a la carrera.
 Para figurar en las ternas que se formen para proveer en propiedad o internamente, los cargos a que se refieren los incisos anteriores, será necesario poseer los requisitos exigidos por el párrafo 2.o del Título 1.o del decreto con fuerza de ley N.o 338, de 6 de Abril de 1960, sobre Estatuto Administrativo, entendiéndose que los cargos de categorías son los de Primera a Quinta Categorías, inclusive, del Escalafón del Personal de empleados.
-En las ternas y propuestas para el nombramiento de suplentes de esos mismos empleos, sólo se exigirá el requisito contemplado en el artículo 13 del citado cuerpo legal. Tratándose de suplencias que no excedan de un mes, el nombramiento se efectuará a propuesta unipersonal de la Corte de Apelaciones o del juez letrado respectivo, la que se enviará de inmediato al Ministerio de Justicia o al Secretario Regional Ministerial de Justicia, si le correspondiere el nombramiento. Si el tribunal estuviere ubicado fuera de la comuna en que funciona el Ministerio o la Secretaría Regional respectiva, la propuesta se enviará por telégrafo.
+Los nombramientos de suplentes se proveerán por la Corte Suprema a propuesta unipersonal del tribunal respectivo, cuando sean por plazos que excedan de quince días y no superiores a treinta días, no prorrogables.
 Dentro de la 6a. Categoría, los cargos también se proveerán mediante ternas que se formarán previo concurso, en el cual deberá acreditarse el cumplimento de los requisitos de ingresos señalados anteriormente, según sea la calidad en el que se provea el empleo, a excepción del relativo a estudios.
 El tribunal respectivo deberá formar las ternas preferentemente, con empleados de la misma categoría que se opongan, y que desempeñen sus cargos dentro de la jurisdicción de la misma Corte de Apelaciones.
 Sin embargo, el nombramiento de empleados de Secretaría de la Corte Suprema, de la Oficina del Presupuesto y de la Biblioteca de esa Corte, se efectuará a propuesta unipersonal del Tribunal, pudiendo éste proponer a las personas que estime más idóneas para los cargos respectivos. Los Oficiales de Sala de la Corte Suprema, de la Oficina del Presupuesto y de la Biblioteca y los oficiales de aseo y ascensoristas serán nombrados a propuesta unipersonal del Presidente de la Corte Suprema; lo mismo regirá para el nombramiento de chofer de la Presidencia de dicha Corte.
@@ -1413,7 +1404,7 @@ Sin embargo, las Cortes de Apelaciones podrán, en casos calificados, autorizar 
 Art. 312. Están igualmente obligados a asistir todos los días a la sala de su despacho, y a permanecer en ella desempeñando sus funciones durante cuatro horas como mínimum cuando el despacho de causas estuviere al corriente, y de cinco horas, a lo menos, cuando se hallare atrasado, sin perjuicio de lo que, en virtud del N° 4 del artículo 96, establezca la Corte Suprema.
 Lo anterior se entenderá sin perjuicio de que el juez, cuando las necesidades del Servicio lo aconsejen, se constituya una vez a la semana, a lo menos en poblados que estén fuera de los límites urbanos de la ciudad en que tenga su asiento el tribunal, en cuyo caso será reemplazado por el Secretario en el despacho ordinario del Juzgado, pudiendo designarse para tales efectos actuarios que como Ministros de Fe autoricen las diligencias que dichos funcionarios practiquen.
 
-Art. 313. Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que comenzará el primero de Febrero y durará hasta el primero de Marzo.
+Art. 313. Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que comenzará el primero de Febrero y durará hasta el primer día hábil de marzo.
 Lo dispuesto en este artículo no regirá, respecto del feriado de vacaciones, con los jueces letrados que ejercen jurisdicción criminal.
 
 Art. 314. Durante el feriado de vacaciones funcionarán de lunes a viernes de cada semana los jueces de letras que ejerzan jurisdicción en lo civil para conocer de aquellos asuntos a que se refiere el inciso segundo de este artículo. En las comunas o agrupaciones de comunas en donde haya más de uno, desempeñará estas funciones el juez que corresponda de acuerdo con el turno que para este efecto establezca la Corte de Apelaciones respectiva. En Santiago funcionarán dos juzgados de letras en lo civil, de acuerdo con el turno que señale la Corte de Apelaciones de Santiago para tal efecto. La distribución de las causas entre estos juzgados se hará por el Presidente de este Tribunal.
@@ -1538,8 +1529,9 @@ Art. 345. Derogado
 Art. 346. Las licencias deberán solicitarse por conducto y con informe del superior respectivo.
 Inciso derogado.
 
-Art. 347. El presidente de la Corte Suprema y los presidentes de las Cortes de Apelaciones podrán autorizar hasta por tres días la inasistencia de los ministros de los tribunales respectivos. Si ésta debiere prolongarse por más de ese plazo, sólo podrá ser autorizada por el Presidente de la República.
-Los presidentes de las Cortes darán cuenta al Ministerio de Justicia, en el último día de cada mes, de las licencias que hubieren concedido en conformidad a este artículo.
+Art. 347. El Presidente de la Corte Suprema y los presidentes de las Cortes de Apelaciones podrán autorizar hasta por tres días la inasistencia de los ministros de los tribunales respectivos. Si ésta debiere prolongarse por más de ese plazo, sólo podrá ser autorizada por el Presidente de la República;
+Además, los presidentes de las Cortes de Apelaciones podrán conceder permisos hasta por tres días en cada bimestre a los jueces de su jurisdicción. Todos los funcionarios y empleados judiciales tendrán derecho a permisos por un plazo máximo de veinte días en el año, sin derecho a viático, para concurrir a los cursos de perfeccionamiento judicial cuyos programas hayan sido aprobados por la Corte Suprema, la que además regulará el número de asistentes, sus requisitos y demás condiciones o formas para su otorgamiento.
+Los presidentes de las Cortes de Apelaciones darán cuenta al Presidente de la Corte Suprema, en el último día de cada mes, de las licencias que hubieren concedido en conformidad a este artículo.
 
 Art. 348. Si transcurridos los plazos establecidos en este párrafo no se presentare el funcionario a servir su destino, se tendrá esta inasistencia como causal bastante para que la autoridad competente, siguiendo los trámites legales, pueda declarar vacante el empleo.
 
@@ -1713,8 +1705,11 @@ Deben recibir, además, las informaciones sumarias de testigos en actos de juris
 Art. 391. Los receptores estarán al servicio de la Corte Suprema, de las Cortes de Apelaciones y de los juzgados de letras del territorio jurisdiccional al que estén adscritos.
 Los receptores ejercerán sus funciones en todo el territorio jurisdiccional del respectivo tribunal. Sin embargo, también podrán practicar las actuaciones ordenadas por éste, en otra comuna comprendida dentro del territorio jurisdiccional de la misma Corte de Apelaciones.
 
-Art. 392. Para cada comuna o agrupación de comunas que constituya el territorio jurisdiccional de juzgados de letras, habrá el número de receptores que determine el Presidente de la República, previo informe de la respectiva Corte de Apelaciones.
-Sin perjuicio de lo anterior, podrá el tribunal de la causa designar receptor a un empleado de la secretaría del mismo tribunal para el sólo efecto de que practique una diligencia determinada que no pueda realizarse por ausencia, inhabilidad u otro motivo calificado, por los receptores judiciales a que se refiere el inciso anterior. Esta designación deberá hacerse mediante resolución fundada, escrita en el libro establecido en el inciso final del artículo 384°, dejándose constancia en el respectivo expediente. La persona designada prestará el juramento exigido por el artículo 471° ante el mismo tribunal; practicará la diligencia encomendada ciñéndose a las obligaciones impuestas por el artículo 393°, y quedará facultada para cobrar los derechos que correspondan de acuerdo con el arancel de receptores judiciales.
+Art. 392. Para cada comuna o agrupación de comunas que constituya el territorio jurisdiccional de juzgados de letras, habrá el número de receptores que determine el Presidente de la República, previo informe favorable de la respectiva Corte de Apelaciones.
+Sin perjuicio de lo anterior, podrá el tribunal de la causa designar receptor a un empleado de la secretaría del mismo tribunal para el solo efecto de que practique una diligencia determinada que no pueda realizarse por ausencia, inhabilidad u otro motivo calificado, por los receptores judiciales a que se refiere el inciso anterior. Esta designación deberá hacerse mediante resolución fundada, escrita en el libro establecido en el inciso final del artículo 384, dejándose constancia en el respectivo expediente.
+La persona designada prestará el juramento exigido por el artículo 471 ante el mismo tribunal; practicará la diligencia encomendada ciñéndose a las obligaciones impuestas por el artículo 393, y quedará facultada para cobrar los derechos que correspondan de acuerdo con el arancel de receptores judiciales.
+La designación mencionada se transcribirá, en cada caso, al respectivo ministro visitador del tribunal.
+Las disposiciones de los dos incisos anteriores no tendrán aplicación en los juzgados de letras dependientes de la Corte de Apelaciones de Santiago.
 
 Art. 393. Los receptores deberán cumplir con prontitud y fidelidad las diligencias que se les encomienden, ciñéndose en todo a la legislación vigente, y dejar testimonio íntegro de ellas en los autos respectivos.
 Toda falsedad en un testimonio castigada por la ley llevará consigo la pena accesoria de inhabilitación especial perpetua para desempeñar funciones en la Administración de Justicia, sin perjuicio de las otras penas accesorias que procedan en conformidad con la ley.
@@ -1745,7 +1740,7 @@ El litigante rebelde sólo podrá comparecer ante estos últimos tribunales repr
 Art. 399. Los notarios son ministros de fe pública encargados de autorizar y guardar en su archivo los instrumentos que ante ellos se otorgaren, de dar a las partes interesadas los testimonios que pidieren, y de practicar las demás diligencias que la ley les encomiende.
 
 Art. 400. En cada comuna o agrupación de comunas que constituya territorio jurisdiccional de jueces de letras, habrá a lo menos un notario.
-En aquellos territorios jurisdiccionales formados por una agrupación de comunas, el Presidente de la República, previo informe de la Corte de Apelaciones respectiva, podrá crear nuevas notarías disponiendo que los titulares establezcan sus oficios dentro del territorio de una comuna determinada. Estos notarios podrán ejercer sus funciones dentro de todo el territorio del juzgado de letras en lo civil que corresponda.
+En aquellos territorios jurisdiccionales formados por una agrupación de comunas, el Presidente de la República, previo informe favorable de la Corte de Apelaciones respectiva, podrá crear nuevas notarías disponiendo que los titulares establezcan sus oficios dentro del territorio de una comuna determinada. Estos notarios podrán ejercer sus funciones dentro de todo el territorio del juzgado de letras en lo civil que corresponda.
 En aquellas comunas en que exista más de una notaría, el Presidente de la República asignará a cada una de ellas una numeración correlativa, independientemente del nombre de quienes las sirvan.
 Ningún notario podrá ejercer sus funciones fuera de su respectivo territorio.
 
@@ -1765,6 +1760,7 @@ Art. 401. Son funciones de los notarios:
 Art. 402. Cuando un notario se ausentare o inhabilitare para el ejercicio de sus funciones, el juez de letras respectivo de turno, designará al abogado que haya de reemplazarle, mientras dure el impedimiento o estuviere sin proveerse el cargo.
 En los lugares de asiento de Corte de Apelaciones la designación de reemplazante corresponderá al Presidente de ella.
 En ambos casos y siempre que no se trate de la aplicación de medidas disciplinarias que provoquen la inhabilidad del notario, éste podrá proponer al juez, el abogado que deba reemplazarlo bajo su responsabilidad.
+Durante el tiempo que durare la ausencia o inhabilidad del notario, el reemplazante designado podrá autorizar las escrituras públicas y dar término a aquellas actuaciones iniciadas por el titular que hayan quedado pendientes, debiendo dejar constancia de tal circunstancia en el respectivo instrumento. Del mismo modo podrá proceder el titular respecto de las escrituras públicas y actuaciones iniciadas por el reemplazante.
 
 #### 2). De las escrituras públicas
 
@@ -1908,7 +1904,8 @@ Art. 441. Si en alguno de los hechos descritos en las letras a), b), c) y e) del
 
 Art. 442. El notario que ejerciere funciones de tal fuera del territorio para el que hubiere sido nombrado, sufrirá la pena de reclusión menor en cualquiera de sus grados.
 
-Art. 443. El notario que hubiere autenticado una firma en conformidad con el artículo 425 que no corresponda a la persona que haya suscrito el instrumento respectivo, incurrirá en las penas del artículo 193 del Código Penal.
+Art. 443. El notario que incurriere en falsedad autentificando una firma en conformidad con el artículo 425, que no corresponda a la persona que haya suscrito el instrumento respectivo, incurrirá en las penas del artículo 193 del Código Penal.
+Cuando por negligencia o ignorancia inexcusables autentificare una firma que no corresponda a la persona que aparece suscribiéndola, sufrirá la pena de presidio menor en su grado mínimo o multa de cinco a diez ingresos mínimos mensuales.
 
 Art. 444. Derogado.
 
@@ -1937,7 +1934,8 @@ No obstante, para los efectos de las visitas judiciales, cada registro o secció
 Las funciones y guarda de los libros y documentos que otras leyes encomienden a los conservadores de bienes raíces, corresponderán en Santiago, al conservador del registro de hipotecas.
 En el caso de los conservadores a que se refiere este artículo, si faltare o se inhabilitare alguno para el ejercicio de sus funciones, será reemplazado por los otros conservadores conforme al orden de su antigüedad.
 
-Art. 450. Derogado.
+Art. 450. El Presidente de la República, previo informe favorable de la Corte de Apelaciones, podrá determinar la separación de los cargos de notario y conservador, servidos por una misma persona, la que podrá optar a uno u otro cargo.
+De igual manera, el Presidente de la República podrá disponer, previo informe favorable de la Corte de Apelaciones, la división del territorio jurisdiccional servido por un conservador, cuando él esté constituido por una agrupación de comunas, creando al efecto los oficios conservatorios que estimare convenientes para el mejor servicio público.
 
 Art. 451. Derogado.
 
@@ -2156,65 +2154,76 @@ El Presidente de cada tribunal colegiado y los jueces respectivos fijarán los t
 Los oficiales a que se refieren los incisos anteriores y los contemplados en el artículo precedente estarán sometidos al régimen de jubilación y de previsión social que determinen las leyes.
 
 ## TITULO XIV
-La Junta de Servicios Judiciales
+La Corporación Administrativa del Poder Judicial
 
-Art. 506. Habrá una persona jurídica, denominada Junta de Servicios Judiciales, compuesta del Presidente de la Corte Suprema que será su representante legal, de un Ministro de este Tribunal designado por la misma Corte y del Presidente de la Corte de Apelaciones de Santiago, que se encargará de administrar e invertir los fondos e intereses que produzcan los depósitos a que se refieren los artículos de este Título, y demás recursos que las leyes consultan para el cumplimiento de sus fines.
-Sin perjuicio de los recursos que se consulten anualmente en la Ley de Presupuestos, estos fondos se destinarán a la atención de las siguientes necesidades de los Tribunales de Justicia, ya sean éstos Ordinarios, Juzgados de Letras de Indios, Especiales del Trabajo y de Menores:
-1.o- Adquisición de libros, artículos de escritorio o aseo y otros bienes muebles que sean necesarios, a juicio de la Junta;
-2.o- Acondicionamiento y reparación de los inmuebles fiscales o particulares, en que funcionen los referidos Tribunales o que hayan sido adquiridos o construidos de acuerdo con el presente artículo.
-Sólo podrán efectuarse reparaciones en inmuebles de propiedad particular cuando el respectivo contrato de arrendamiento haya sido celebrado por un plazo no inferior a tres años;
-3.o- Reparación y mantenimiento de los automóviles fiscales del Poder Judicial, como asimismo, de los servicios de calefacción, agua, luz, gas y ascensores;
-4.o- Organización de cursos conferencias destinados al perfeccionamiento del personal judicial;
-5.o- Adquisición de inmuebles y construcción de edificios para el funcionamiento de los Tribunales o casa-habitación de los Jueces de Letras. Estas propiedades sólo podrán ser habitadas por los jueces mientras se desempeñen en la respectiva ciudad, quienes, además, deberán pagar a la Junta de Servicios Judiciales la renta legal de arrendamiento que formará parte de los recursos ordinarios de este organismo.
-Sin embargo, para efectuar las adquisiciones y construcciones a que se refiere el presente número, la Junta requerirá, en cada caso, la autorización del Presidente de la República, y
-6.o- Creación, implementación y mantención de salas cunas en aquellos lugares en que sean necesarias en conformidad a la ley, para los hijos del personal del Poder Judicial.
-Para estos efectos, la Junta de Servicios Judiciales podrá contratar el personal que se requiera.
+Art. 506. La administración de los recursos financieros, tecnológicos y materiales destinados al funcionamiento de la Corte Suprema, de las Cortes de Apelaciones y de los Juzgados de Letras, de Menores y del Trabajo, la ejercerá la Corte Suprema a través de un organismo denominado Corporación Administrativa del Poder Judicial, con personalidad jurídica, que dependerá exclusivamente de la misma Corte y tendrá su domicilio en la ciudad en que ésta funcione.
+La referida Corporación se regirá por las disposiciones de este Título y por los autos acordados que al efecto dicte la Corte Suprema, dentro de sus atribuciones, y le serán también aplicables las normas sobre administración financiera del Estado.
+Corresponderá especialmente a la Corporación Administrativa del Poder Judicial:
+1° La elaboración de los presupuestos y la administración, inversión y control de los fondos que la Ley de Presupuestos asigne al Poder Judicial.
+2° La administración, adquisición, construcción, acondicionamiento, mantención y reparación de los bienes muebles e inmuebles destinados al funcionamiento de los tribunales y de los servicios judiciales o a viviendas fiscales para los jueces. Estas sólo podrán ser habitadas por los jueces de letras mientras se desempeñen en la respectiva ciudad, quienes, además, deberán pagar a la Corporación Administrativa la renta legal de arrendamiento la que formará parte de los recursos ordinarios de este organismo.
+En los inmuebles de propiedad particular que se arrienden para que en ellos funcionen tribunales, sólo podrán efectuarse reparaciones cuando el respectivo contrato haya sido celebrado por un plazo no inferior a tres años.
+3° Asesorar técnicamente a la Corte Suprema en el diseño y análisis de la información estadística, en el desarrollo y aplicación de sistemas computacionales y, en general, respecto de la asignación, incremento y administración de todos los recursos del Poder Judicial, para obtener su aprovechamiento o rendimiento óptimo.
+4° La organización de cursos y conferencias destinados al perfeccionamiento del personal judicial.
+5° La creación, implementación y mantención de salas cunas en aquellos lugares en que sean necesarias en conformidad a la ley, para los hijos del personal del Poder Judicial.
 Podrá, asimismo, destinar los fondos que sean necesarios, de sus recursos propios, para solventar los gastos de atención y locomoción de los hijos de dicho personal judicial, en salas cunas externas, que cuenten con la autorización de la Junta Nacional de Jardines Infantiles.
-La Junta podrá poner o disposición de los Tribunales las sumas necesarias para el cumplimiento de los fines previstos en este artículo, los cuales deberán rendir, ante ella, cuenta detallada de la inversión de estos fondos.
-Esta Junta llevará una cuenta en conformidad a lo establecido en el artículo 508.o.
-La Junta de Servicios Judiciales estará exenta de toda clase de derechos, contribuciones e impuestos fiscales, con excepción de los de compraventa y cifra de negocios, sea que recaiga en sus bienes, en los actos o contratos que ejecute o celebre o que en cualquiera forma pudieren afectarla. Esta exención no favorecerá a los terceros que contraten con Junta.
-Los bienes muebles e inmuebles adquiridos por la Junta, serán de dominio fiscal y estos últimos se inscribirán a nombre del Fisco. Los primeros deberán figurar en los inventarios del Estado y no se regirán con respecto a la adquisición de los segundos las limitaciones relativas o precio, establecidas en el artículo 7.o de ley número 4.174, modificado por el artículo 99.o de la ley N.o 8.283, ni las demás que las leyes prescriban para adquisición de bienes raíces por el Fisco.
-La Junta de Servicios Judiciales podrá vender en pública subasta y con arreglo a las bases que determine, las especies muebles que haya excluido de los inventarios de los tribunales de justicia.
-El producto que se obtenga de estas enajenaciones incrementará los fondos de la Junta.
-También podrá, previa autorización del Presidente de la República, vender o permutar los bienes raíces adquiridos por ella, debiendo destinar el producto de la venta o permuta a la adquisición o construcción de otro inmueble para el funcionamiento de los tribunales o para casa habitación de los funcionarios judiciales.
-Los bienes muebles deteriorados que, a juicio de la Junta no admitieren reparación, por ser ésta antieconómica, de lo que se dejará expresa constancia en el acta del respectivo acuerdo, podrán ser donados al Departamento de Bienestar del Personal del Poder Judicial, a instituciones del Estado, entidades gremiales, juntas de vecinos, centros de madres y cualesquiera otras entidades similares, que no persigan fines de lucro, o vendidas directamente a terceras personas, incrementando el producto sus fondos.
-Si esas especies estuvieren destruidas o fueren inservibles, la Junta se deshará de ellas ordenando su entrega a los servicios de aseo municipal.
+La Corporación Administrativa del Poder Judicial podrá poner a disposición de los tribunales las sumas necesarias para el cumplimiento de los fines previstos en este artículo, los cuales deberán rendir, ante ella, cuenta detallada de la inversión de estos fondos. Dicho organismo llevará una cuenta en conformidad a lo establecido en el artículo 516.
+La Corporación Administrativa del Poder Judicial estará exenta de toda clase de contribuciones e impuestos fiscales, excepto el impuesto al valor agregado, sea que recaigan en sus bienes, en los actos o contratos que ejecute o celebre o que en cualquier forma pudieren afectarla. Esta exención no favorecerá a los terceros que contraten con la Corporación.
 
-Art. 507. Todos los dineros que sea necesario poner a disposición de los Tribunales de Justicia y del Trabajo deberán colocarse en alguna oficina del Banco del Estado a la orden del tribunal respectivo.
-En los lugares en que no exista oficina del Banco del Estado, el depósito deberá hacerse en alguna Tesorería Comunal. El tesorero en el plazo de cinco días, deberá enviar los fondos que se le hayan entregado a la oficina del Banco en que tenga su cuenta el tribunal a cuya orden se consignan los fondos.
-Los secretarios de las Cortes y de los juzgados, llevarán un libro en que anotarán los depósitos consignados a la orden del tribunal, con indicación de la fecha, nombre, juicio o proceso en que inciden y de los giros que se hagan. No obstante lo dispuesto en los incisos anteriores, continuarán consignándose en arcas fiscales, en conformidad a las disposiciones que estaban vigentes el 21 de Septiembre de 1939 y especialmente a las de la ley N° 5493, de 28 de Septiembre de 1934, los dineros que para responder al pago de multas debían consignarse en dichas arcas.
+Art. 507. La Corporación Administrativa del Poder Judicial tendrá un Consejo Superior, un director, un subdirector, un jefe de finanzas y presupuestos, un jefe de adquisiciones y mantenimiento, un jefe de informática y computación, y un contralor interno. Su estructura orgánica funcional básica estará constituida por un Departamento de Finanzas y Presupuestos, un Departamento de Adquisiciones y Mantenimiento, un Departamento de Informática y Computación, y una Contraloría Interna.
 
-Art. 508. Los juzgados de letras y los del trabajo, mantendrán una cuenta corriente bancaria de depósito en la oficina del Banco del Estado del lugar en que funcionen, o del más próximo al de asiento del tribunal.
-Los pagos que deban hacer estos tribunales se efectuarán por medio de cheques girados contra esa cuenta, los que deberán llevar la firma del juez y del secretario y el timbre del tribunal.
+Art. 508. La dirección de la Corporación Administrativa corresponderá al Consejo Superior, integrado por el Presidente de la Corte Suprema, que lo presidirá, y por cuatro ministros del mismo tribunal elegidos por éste en votaciones sucesivas y secretas, por un período de dos años, pudiendo ser reelegidos.
+Asimismo, y por igual período, la Corte Suprema elegirá de entre sus miembros dos consejeros suplentes, que subrogarán según el orden de su elección e indistintamente a cualquiera de los titulares en caso de ausencia por cualquier causa.
+El Consejo Superior no podrá sesionar con menos de tres miembros y sus acuerdos se adoptarán por mayoría de votos. En caso de empate, se repetirá la votación en la misma sesión y si aquel perseverare, decidirá el que presida.
+En caso de ausencia del presidente titular de la Corte Suprema o de su subrogante legal, la sesión será presidida por un consejero titular siguiéndose el orden de su elección.
 
-Art. 509. Los depósitos a la orden judicial ganarán el interés que, para estos efectos, fije la Superintendencia de Bancos en beneficio de la Junta de Servicios Judiciales.
+Art. 509. El Presidente del Consejo Superior tiene la representación legal de la Corporación Administrativa del Poder Judicial.
+Sin perjuicio de lo dispuesto en el inciso anterior, el Consejo Superior está investido de todas las facultades de administración y disposición que sean necesarias para el cumplimiento de los fines de aquella, incluso para acordar la celebración de aquellos actos y contratos que según las leyes requieren del otorgamiento de un poder especial.
+El Consejo Superior podrá delegar parte de sus facultades en un consejero o comisión de consejeros, en el director, en el subdirector, en los jefes de departamentos y en los delegados zonales de la Corporación.
 
-Art. 510. Lo dispuesto en los artículos anteriores no se aplica a las boletas de garantía o fianza que emitan las instituciones de crédito para tomar parte en los remates, para responder de medidas precautorias o para otorgar fianzas.
-Cuando el tribunal deba hacer efectivas estas boletas las depositará en la cuenta del juzgado para efectuar los pagos correspondientes. Si procede su devolución al interesado las entregará directamente a éste mediante el endoso respectivo.
+Art. 510. El director se desempeñará como secretario del Consejo Superior y tendrá derecho a voz en sus reuniones.
+Sin perjuicio de las demás atribuciones y deberes que le fije el Consejo Superior, con el acuerdo de éste corresponderá al director organizar y determinar las diversas tareas y responsabilidades específicas tanto del personal y de las unidades con que se estructurará la Corporación, como de las oficinas de ésta que el Consejo Superior estime necesario establecer en las Cortes de Apelaciones, debiendo velar por su debida coordinación para una administración eficiente de los recursos.
+Compete al director impartir instrucciones al subdirector y demás personal de la Corporación; supervigilar y fiscalizar el cumplimiento de las mismas y, en general, realizar todos los actos y gestiones necesarias para dar cumplimiento y eficacia a los acuerdos del Consejo Superior así como para instar por el cumplimiento de los fines de la Corporación conforme a las decisiones generales del referido Consejo.
 
-Art. 511. Las multas, consignaciones, intereses y demás sumas que corresponda entregar en definitiva al Fisco, a la Junta de Servicios Judiciales, o a otras instituciones señaladas por la ley, las pagará el tribunal al respectivo beneficiario en la primera quincena de Enero de cada año, exceptuándose las multas que se perciban por infracción a la Ley de Alcoholes, cuyo pago se hará en conformidad a dicha ley.
+Art. 511. Sin perjuicio de las obligaciones que les asigne el Consejo Superior o el director con el acuerdo de dicho Consejo, los jefes de finanzas y presupuestos, de adquisiciones y mantenimiento y de informática y computación, serán directamente responsables del funcionamiento de los respectivos departamentos; el subdirector, de la administración interna de la Corporación y de la coordinación de las diferentes unidades; y el contralor interno, de la auditoría financiera y operativa de las mismas. Estos dos últimos empleados informarán de su gestión directamente al director.
 
-Art. 512. Las cuentas indicadas en el artículo 508 y los cheques respectivos, estarán libres de toda comisión o impuesto.
+Art. 512. En caso de ausencia o impedimento por cualquier causa y sin necesidad de previo acuerdo del Consejo Superior, el director será subrogado por el subdirector. A falta de éste, lo subrogará del mismo modo el jefe de finanzas y presupuestos.
 
-Art. 513. Para los efectos contemplados en los artículos anteriores la Contraloría General de la República deberá comunicar a la respectiva institución de crédito, todo nombramiento de propietario, interino o suplente, que se produzca respecto de la persona del juez o del secretario.
-Los jueces o secretarios que subroguen al tribunal podrán girar en estas cuentas, debiendo expresar esta circunstancia en la antefirma. No podrán girar los demás subrogantes legales de los jueces.
+Art. 513. El director, el subdirector, los jefes de departamentos y el contralor interno, deberán tener título profesional universitario de la especialidad que determine la Corte Suprema. En todo caso, sólo podrán ser nombrados en estos cargos personas que posean título profesional de carreras universitarias de a lo menos ocho semestres académicos.
+Todo el personal de la Corporación se regirá por las normas legales y reglamentaria aplicables a los empleados del Poder Judicial, con las excepciones que se indican en los incisos siguientes.
+Su nombramiento se hará directamente por la Corte Suprema previo concurso de antecedentes y examen de oposición, en su caso, a que llamará el Consejo Superior. Serán de la exclusiva confianza de la Corte Suprema y ésta podrá removerlos a su arbitrio.
+En ningún caso podrán ser designados como director o subdirector los cónyuges ni los parientes consanguíneos o afines de un funcionario del Escalafón Primario del Poder Judicial o de la Corporación, que se hallen dentro del segundo grado en la línea recta o del tercero en la colateral.
+La calificación anual de este personal la hará la Corte Suprema previo informe del Consejo Superior.
 
-Art. 514. Los tribunales a que se refiere el artículo 508 deberán rendir cuenta anualmente a la Contraloría General de la República del movimiento de la cuenta corriente bancaria de que trata ese mismo artículo.
+Art. 514. La Corporación Administrativa del Poder Judicial tendrá un patrimonio propio formado por:
+a) Los fondos que se consulten anualmente en la Ley de Presupuestos de la Nación para su funcionamiento;
+b) Los valores y bienes raíces o muebles que la Corporación adquiera a cualquier título;
+c) Los frutos y rentas que produzcan tanto sus bienes como los fondos depositados en las cuentas corrientes de los tribunales de justicia;
+d) El producto de las multas y consignaciones que las leyes establezcan a beneficio de la Corporación Administrativa del Poder Judicial, y
+e) Los depósitos a que se refiere el artículo 515.
 
-Art. 515. En todo lo que no esté previsto en este Título, regirán las disposiciones sobre cheques y cuentas corrientes.
-
-Art. 516. Los depósitos judiciales que tengan más de cinco años, contados desde que exista resolución ejecutoriada declaratoria del abandono de la instancia, pasarán a la Junta de Servicios Judiciales, siempre que los interesados no los reclamen.
-Las cantidades que deban aplicarse a beneficio fiscal en los casos en que se exige consignación previa de dinero para recurrir de apelación, casación, revisión o queja, se destinarán a la Junta de Servicios Judiciales.
-Los fondos que se obtengan por la aplicación del inciso anterior, se remesarán a la referida Junta por los respectivos tribunales, en cuyas cuentas corrientes se encontraren depositados, en la primera quincena de Enero de cada año.
+Art. 515. Pasarán a la Corporación los depósitos judiciales cuya restitución no fuere solicitada por los interesados dentro del plazo de cinco años, contado desde que exista resolución ejecutoriada declaratoria del abandono del procedimiento.
+Los depósitos judiciales que tengan más de diez años y que incidan en juicios o gestiones cuyos expedientes no se encuentren o no puedan determinarse, figurarán en lista que el secretario colocará durante treinta días en un lugar visible de la secretaría del tribunal. Transcurrido este último plazo sin que se pidiere la restitución, o desechada esta solicitud que se tramitará en forma incidental, el tribunal decretará el ingreso del depósito a favor de la Corporación.
+Las cantidades que deban aplicarse a beneficio fiscal en los casos en que se exige consignación previa de dinero para recurrir de apelación, casación, revisión o queja, se destinarán a la Corporación Administrativa.
+En los casos a que se refiere los incisos precedentes, el traspaso de los fondos los ordenará cada tribunal en el mes de enero de cada año, mediante decreto económico en el cual se indicarán los procesos a que correspondan, el monto y fecha de cada depósito y el motivo de su ingreso a la orden de la Corporación. El decreto económico se transcribirá a esta última y a la Corte de Apelaciones cuando procediere, y de él se dejará constancia en el expediente respectivo, en su caso.
 En cuanto al destino de las fianzas y de los dineros decomisados, y de los que no hayan caído en comiso y no fueren reclamados, se estará a lo previsto en el Código de Procedimiento Penal.
 
-Art. 517. El Secretario de cada Tribunal dará cuenta anualmente a su superior respectivo y a la Junta de Servicios Judiciales, en la primera semana del mes de marzo, de los depósitos que se encuentren en la situación indicada en el artículo anterior, y el Tribunal decretará, en los procesos correspondientes, el ingreso de dichos depósitos a la orden de la Junta. La resolución se notificará por el estado diario. Si el expediente estuviere en otro tribunal, se le dirigirá oficio con inserción del decreto. Este oficio se agregará al proceso y se notificará en la forma antedicha.
+Art. 516. Los tribunales de justicia mantendrán una cuenta corriente bancaria de depósito en la oficina del Banco del Estado del lugar en que funcionen, o del más próximo al de asiento del tribunal, y del movimiento de ella deberán rendir cuenta anualmente a la Contraloría General de la República.
+Los pagos que deban hacer esos tribunales se efectuarán por medio de cheques girados contra esa cuenta, los que deberán llevar la firma del juez y del secretario y el timbre del tribunal.
+Los jueces o secretarios que subroguen al tribunal podrán girar en esas cuentas, debiendo expresar esta circunstancia en la antefirma. No podrán girar los demás subrogantes legales de los jueces.
+Para estos efectos, la Contraloría General de la República deberá comunicar a la respectiva institución de crédito todo nombramiento de propietario, interino o suplente que se produzca respecto de la persona del juez o del secretario.
+Estas cuentas y los cheques respectivos estarán libres de toda comisión o impuesto.
+En todo lo que no esté previsto en este título, regirán las disposiciones sobre cheques y cuentas corrientes.
 
-Art. 518. Los depósitos que tengan más de diez años, y que incidan en juicios o procesos cuyos expedientes no se encuentren o no puedan determinarse, figurarán en una lista que el tribunal hará colocar en un lugar visible de la secretaría y publicar, a costa del Fisco, en un diario de la comuna o agrupaciones de comunas en que tenga competencia el tribunal y, si en ella no lo hubiere, en uno de la ciudad asiento de la respectiva Corte de Apelaciones.
+Art. 517. Todos los dineros que sea necesario poner a disposición de los tribunales de justicia deberán colocarse en alguna oficina del Banco del Estado a la orden del tribunal respectivo.
+Los depósitos a la orden judicial ganarán el interés que, para estos efectos, fije la Superintendencia de Bancos en beneficio de la Corporación Administrativa del Poder Judicial.
+En los lugares en que no exista oficina del Banco del Estado, el depósito deberá hacerse en alguna Tesorería Comunal. El tesorero, en el plazo de cinco días, deberá enviar los fondos que se le hayan entregado a la oficina del Banco en que tenga su cuenta el tribunal a cuya orden se consignan los fondos.
+Los secretarios de las Cortes y de los juzgados llevarán un libro en que anotarán los depósitos consignados a la orden del tribunal, con indicación de la fecha, nombre, juicio o proceso en que inciden y de los giros que se hagan.
+No obstante lo dispuesto en los incisos anteriores, continuarán consignándose en arcas fiscales, en conformidad a las disposiciones que estaban vigentes el 21 de septiembre de 1939 y especialmente a las de la ley N° 5.493, los dineros que para responder al pago de multas debían consignarse en dichas arcas.
 
-Art. 519. Las reclamaciones a que diere lugar lo dispuesto en los tres artículos anteriores, deberán interponerse dentro de los treinta días siguientes a la notificación de la resolución respectiva y se tramitarán en forma incidental.
-Transcurrido dicho plazo, o desechada la reclamación, el tribunal decretará el ingreso del depósito en favor de la Junta de Servicios Judiciales.
-Los jueces enviarán a la Corte de Apelaciones respectiva, en el mes de junio de cada año, una nómina confeccionada por el secretario, de los depósitos que hayan pasado o deban pasar a poder de la Junta según lo previsto en este artículo y los anteriores y, previa su revisión, el Presidente de la Corte la remitirá al Presidente de la Junta de Servicios Judiciales.
+Art. 518. Lo dispuesto en los artículos anteriores no se aplicará a las boletas de garantía o fianza que emitan las instituciones de crédito para tomar parte en los remates, para responder de medidas precautorias o para otorgar fianzas.
+Cuando el tribunal deba hacer efectivas estas boletas las depositará en la cuenta del juzgado para efectuar los pagos correspondientes. Si procede su devolución al interesado las entregará directamente a éste mediante el endoso respectivo.
+
+Art. 519. Las multas, consignaciones, intereses y demás sumas que corresponda entregar en definitiva al Fisco o a otras instituciones señaladas por la ley, las pagará el tribunal al respectivo beneficiario en la primera quincena de enero de cada año, exceptuándose las multas que se perciban por infracción a la Ley de Alcoholes, cuyo pago se hará en conformidad a dicha ley.
 
 ## TITULO XV
 Los Abogados
@@ -2330,14 +2339,11 @@ Art. 544. Las facultades disciplinarias que corresponden a la Corte Suprema o a 
 7°) Cuando los nombramientos que dependieren de los jueces de letras para cargos de síndicos, depositarios, peritos u otros análogos, recayeren generalmente sobre las mismas personas o pareciere manifiestamente que no se consulta en ellos el interés de las partes y la recta administración de justicia; y
 8°) Cuando infringieren las prohibiciones que les impongan las leyes.
 
-Art. 545. Las faltas o abusos que los funcionarlos judiciales cometieren en la sustanciación o fallo de los juicios, deberán corregirse especialmente en los casos que siguen:
-1°) Cuando el tribunal que conoce de un juicio no proveyere al día siguiente de presentados los escritos de mero trámite;
-2°) Cuando retardaren por más de cuarenta y ocho horas la providencia de los escritos que exigieren conocimiento de los antecedentes para ser proveídos;
-3°) Cuando retardaren por más de tres días la resolución de los incidentes suscitados en el curso del juicio;
-4°) Cuando las sentencias definitivas no fueren pronunciadas dentro del plazo señalado por la ley;
-5°) Cuando de ordinario dictaren providencias manifiestamente innecesarias, que importen dilación en la tramitación de los juicios y gravamen para los litigantes;
-6°) Cuando las audiencias a que citen a las partes o sus testigos no se verifiquen por culpa injustificada del juez; y
-7°) Cuando dictaren medidas precautorias manifiestamente injustificadas e innecesarias o negaren en la misma forma las que se soliciten con fundamentos plausibles y apareciere en uno y otro caso que se ha producido un daño irreparable a la parte que reclama de ellas.
+Art. 545. Los tribunales superiores de justicia conocerán los recursos de queja que las partes afectadas interpusieren para la corrección de cualesquiera faltas o abusos que los funcionarios judiciales cometieren en la dictación de resoluciones y especialmente en los casos que siguen:
+1° Cuando no fueren pronunciadas dentro de los plazos señalados en la ley;
+2° Cuando las que dictaren fueren manifiestamente innecesarias o importaren dilación en la tramitación del proceso o gravamen para los litigantes;
+3° Cuando decretaren medidas precautorias manifiestamente injustificadas o innecesarias o negaren en la misma forma las que se solicitaren con fundamento plausible y apareciere en uno y otro caso que de ello deriva un daño irreparable al recurrente, y
+4° Cuando con falta o abuso dictaren cualquiera resolución en perjuicio de alguna de las partes.
 
 Art. 546. Las facultades disciplinarias que por la ley corresponden a los tribunales respecto de los abogados que intervienen en las causas de que dichos tribunales conozcan, deberán especialmente ejercerse:
 1°) Cuando en el ejercicio de la profesión faltaren oralmente, por escrito o de obra al respeto debido a los funcionarios judiciales;
@@ -2530,7 +2536,7 @@ Art. 599. Están exentos de la obligación establecida por el artículo preceden
 1°) Los abogados que se hallaren en actual ejercicio de algún cargo concejil; y
 2°) Los que estuvieren nombrados por el Presidente de la República para integrar la Corte Suprema y las Cortes de Apelaciones.
 
-Art. 600. Las personas patrocinadas por alguna de las entidades públicas o privadas destinadas a prestar asistencia jurídica y judicial gratuita gozarán por el solo ministerio de la ley de los beneficios establecidos en los incisos segundo y tercero del artículo 591 y no regirán para ellas las consignaciones que las leyes exigen para interponer recursos ante autoridades judiciales o administrativas. En los asuntos y gestiones que patrocinen las entidades referidas, los procuradores del número y receptores de turno y los demás funcionarios del orden judicial o administrativo, prestarán sus servicios gratuitamente. Lo anterior se entiende sin perjuicio de lo dispuesto en el artículo 594 de este Código.
+Art. 600. Las personas patrocinadas por las Corporaciones de Asistencia Judicial o alguna de las entidades públicas o privadas destinadas a prestar asistencia jurídica y judicial gratuita gozarán por el solo ministerio de la ley de los beneficios establecidos en los incisos segundo y tercero del artículo 591 y no regirán para ellas las consignaciones que las leyes exigen para interponer recursos ante autoridades judiciales o administrativas. En los asuntos y gestiones que patrocinen las entidades referidas, los procuradores del número y receptores de turno y los demás funcionarios del orden judicial o administrativo, prestarán sus servicios gratuitamente. Lo anterior se entiende sin perjuicio de lo dispuesto en el artículo 594 de este Código.
 Los abogados y procuradores de estas entidades, y los abogados y procuradores del número de turno cuando actúan en tal calidad, no serán responsables del pago de las costas y demás cargos pecuniarios a que sean condenados sus patrocinados.
 Las personas que gocen de privilegio de pobreza no serán condenadas al pago de costas, a menos que el tribunal respectivo, en resolucion fundada, declare que han obrado como litigantes temerarios o maliciosos.
 El patrocinio a que se refiere este artículo se acreditará con un certificado otorgado por el representante de la respectiva entidad.
