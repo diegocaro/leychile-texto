@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1994-08-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1994-10-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1994-08-08
-fetched_at: 2026-08-03T00:57:56.432651+00:00
+version_date: 1994-10-07
+fetched_at: 2026-08-03T00:58:14.454258+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -401,6 +401,16 @@ Art. 259 (256). Si el demandado se encuentra en un territorio jurisdiccional div
 Esta tabla se formará en el mes de Noviembre del año que preceda al del vencimiento de los cinco años indicados, para que se ponga en vigor en toda la República desde el 1° de Marzo siguiente; se publicará en el "Diario Oficial", y se fijará a lo menos, dos meses antes de su vigencia, en los oficios de todos los secretarios de Cortes y Juzgados de Letras.
 
 Art. 260 (257). Si los demandados son varios, sea que obren separada o conjuntamente, el término para contestar la demanda correrá para todos a la vez, y se contará hasta que expire el último término parcial que corresponda a los notificados.
+
+### Título II
+DE LA CONCILIACION
+
+Art. 264. A los comparendos de conciliación deberán concurrir las partes por sí o por apoderado. No obstante, el juez podrá exigir la comparecencia personal de las partes, sin perjuicio de la asistencia de sus abogados.
+En los procesos en que hubiere pluralidad de partes, la audiencia se llevará a efecto aunque no asistan todas. La conciliación operará entre aquellas que la acuerden y continuará el juicio con las que no hubieren concurrido o no hubieren aceptado la conciliación.
+
+Art. 267. De la conciliación total o parcial se levantará acta, que consignará sólo las especificaciones del arreglo; la cual subscribirán el juez, las partes que lo deseen y el secretario, y se estimará como sentencia ejecutoriada para todos los efectos legales.
+
+Art. 268. Si se rechaza la conciliación, o no se se efectúa el comparendo, el secretario certificará este hecho de inmediato, y entregará los autos al juez para que éste, examinándolos por sí mismo, proceda enseguida a dar cumplimiento a lo señalado en el artículo 318.
 
 ### Título IV
 DE LAS MEDIDAS PREJUDICIALES
@@ -929,6 +939,17 @@ Art. 789. (963). En estos juicios sólo se considerarán diligencias o trámites
 Art. 791. (965). El recurso de casación se interpondrá en el plazo fatal de cinco días, y si se trata de una sentencia de primera instancia, conjuntamente con el de apelación en caso de intentarse también este último.
 
 Art. 792. (966). La tramitación del recurso de casación de que deba conocer un tribunal unipersonal se regirá por las mismas reglas de la apelación en estos juicios.
+
+#### 3. Disposiciones especiales de los recursos de casación contra sentencias pronunciadas en primera o en única instancia en juicios de mayor o menor cuantía y en juicios especiales
+
+Art. 795. (967). En general, son trámites o diligencias esenciales en la primera o en la única instancia en los juicios de mayor o de menor cuantía y en los juicios especiales:
+1°. El emplazamiento de las partes en la forma prescrita por la ley;
+2°. El llamado a las partes a conciliación, en los casos en que corresponda conforme a la ley;
+3°. El recibimiento de la causa a prueba cuando proceda con arreglo a la ley;
+4°. La práctica de diligencias probatorias cuya omisión podría producir indefensión;
+5°. La agregación de los instrumentos presentados oportunamente por las partes, con citación o bajo el apercibimiento legal que corresponda respecto de aquélla contra la cual se presentan;
+6°. La citación para alguna diligencia de prueba; y
+7°. La citación para oír sentencia definitiva, salvo que la ley no establezca este trámite.
 
 #### 4. Disposiciones especiales de los recursos de
 casación contra sentencias pronunciadas en segunda
