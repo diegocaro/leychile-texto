@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1983-10-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1983-12-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1983-10-27
-fetched_at: 2026-08-03T00:38:22.297497+00:00
+version_date: 1983-12-03
+fetched_at: 2026-08-03T00:38:34.313756+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -622,6 +622,9 @@ Artículo 144°.- La exhumación, transporte internacional, internación y trasl
 
 ## LIBRO IX
 DEL APROVECHAMIENTO DE ORGANOS, TEJIDOS O PARTES DEL CUERPO DE UN DONANTE VIVO Y DE LA UTILIZACION DE CADAVERES O PARTE DE ELLOS CON FINES CIENTIFICOS O TERAPEUTICOS
+NOTA
+NOTA
+Véase el Reglamento de este Libro IX, aprobado por Decreto 240, Salud, publicado el 03.12.1983.
 
 Artículo 145°. El aprovechamiento de órganos, tejidos o partes del cuerpo de un donante vivo para su injerto o trasplante en otra persona, sólo se permitirá cuando fuere a título gratuito y con fines terapéuticos, y se cumplan, además, los siguientes requisitos:
 1.- Que el donante sea legalmente capaz. No obstante, podrá efectuar estas donaciones la mujer casada en régimen de sociedad conyugal, siempre que sea mayor de edad, y
