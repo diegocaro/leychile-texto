@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1972-10-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1973-02-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1972-10-21
-fetched_at: 2026-08-03T00:22:07.640427+00:00
+version_date: 1973-02-15
+fetched_at: 2026-08-03T00:22:19.656357+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -302,7 +302,7 @@ La pena de inhabilitación absoluta perpetua para cargos y oficios públicos, de
 1.° La privación de todos los honores, cargos, empleos y oficios públicos y profesiones titulares de que estuviere en posesión el penado, aun cuando sean de elección popular.
 2.° La privación de todos los derechos políticos activos y pasivos y la incapacidad perpetua para obtenerlos.
 3.° La incapacidad para obtener los honores, cargos, empleos, oficios y profesiones mencionados, perpetuamente si la inhabilitación es perpetua y durante el tiempo de la condena si es temporal.
-4.° La pérdida de todo derecho para obtener jubilación u otra pensión por los empleos servidos con anterioridad.
+4.° Derogado.
 
 ART. 39.
 Las penas de inhabilitación especial perpetua y temporal para algún cargo u oficio público o profesión titular, producen:
