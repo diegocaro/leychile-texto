@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1982-11-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1982-12-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1982-11-19
-fetched_at: 2026-08-03T00:37:16.220133+00:00
+version_date: 1982-12-07
+fetched_at: 2026-08-03T00:37:22.226178+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -397,10 +397,14 @@ DE LA CONTAMINACION DEL AIRE Y DE LOS RUIDOS Y VIBRACIONES
 Artículo 89°.- El Reglamento comprenderá normas como
 NOTA
 las que se refieren a:
-a) la conservación y pureza del aire y evitar en él la presencia de materias u olores que constituyan una amenaza para la salud, seguridad o bienestar del hombre o que tengan influencia desfavorable sobre el uso y goce de los bienes.
+a) la conservación y pureza del aire y evitar en él
+NOTA 1:
+la presencia de materias u olores que constituyan una amenaza para la salud, seguridad o bienestar del hombre o que tengan influencia desfavorable sobre el uso y goce de los bienes.
 La reglamentación determinará, además, los casos y condiciones en que podrá ser prohibida o controlada la emisión a la atmósfera de dichas substancias;
 b) la protección de la salud, seguridad y bienestar de los ocupantes de edificios o locales de cualquier naturaleza, del vecindario y de la población en general, así como la de los animales domésticos y de los bienes, contra los perjuicios, peligros e inconvenientes de carácter mental o material que provengan de la producción de ruidos, vibraciones o trepidaciones molestos, cualquiera que sea su origen.
 NOTA
+Véanse la LEY 18122, publicada el 17.05.1982, que creó el Servicio de Salud del Ambiente en la Región Metropolitana; y el Decreto 206, Salud, publicado el 07.12.1982, Reglamento Orgánico de dicho Servicio.
+NOTA 1:
 Véase el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza.
 
 #### Párrafo II
