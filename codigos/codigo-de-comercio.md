@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1968-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1971-12-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1968-10-01
-fetched_at: 2026-08-03T00:19:18.343974+00:00
+version_date: 1971-12-20
+fetched_at: 2026-08-03T00:21:36.500860+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -314,6 +314,9 @@ Art. 115. Cuando las partes se refieran a medidas desautorizadas por la ley, ser
 Art. 116. Si antes del vencimiento del plazo fueren excluidas de la circulación las piezas de moneda a que se refiera la obligación, el pago se hará en las monedas corrientes al tiempo del cumplimiento del contrato según el valor legal que éstas tuvieren.
 
 Art. 117. El acreedor no está obligado a aceptar el pago antes del vencimiento de la obligación.
+
+Art. 118. Ninguna persona, con excepción del Fisco, sus reparticiones y demás instituciones públicas, de las empresas estatales y del Banco Central de Chile, está obligada a recibir en pago y de una sola vez más de cincuenta monedas de cada tipo de las que se acuñen en el país.
+Las monedas cortadas, perforadas, corroídas o deterioradas en cualquiera forma en que no sea visible la acuñación, perderán su carácter de moneda legal.
 
 Art. 119. El deudor que paga tiene derecho a exigir un recibo, y no está obligado a contentarse con la devolución o entrega del título de la deuda.
 El recibo prueba la liberación de la deuda.
