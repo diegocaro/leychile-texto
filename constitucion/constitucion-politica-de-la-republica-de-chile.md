@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1994-03-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1996-02-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 1994-03-04
-fetched_at: 2026-08-05T02:25:51.459960+00:00
+version_date: 1996-02-20
+fetched_at: 2026-08-05T02:26:09.468536+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -935,6 +935,11 @@ NOTA:
 El artículo único de la LEY 19174, publicada el 12.11.1992, interpretó el presente inciso, disponiendo que el plazo contemplado en la segunda parte de este inciso se contará desde que se hayan instalado todos los concejos.
 
 Trigésimacuarta.- No obstante lo dispuesto en el inciso segundo del artículo 54, para las elecciones de diputados y senadores que corresponda realizar en 1993, no podrán ser candidatos los ciudadanos que resulten elegidos alcaldes, miembros de los consejos regionales o concejales en las elecciones que se celebren en 1992.
+
+Trigésimaquinta.- Las elecciones destinadas a renovar los actuales concejos municipales se realizarán el día 27 de octubre de 1996. En todo caso, los concejos se instalarán el día 6 de diciembre del mismo año.
+El Secretario Municipal cumplirá las funciones de aquellos concejos que no se constituyan el día señalado, hasta la instalación de éstos.
+El período de los alcaldes y concejales en ejercicio se extenderá hasta el día 6 de diciembre de 1996.
+El período de los consejeros regionales en ejercicio expirará el 19 de febrero de 1997, aplicándose en lo demás la ley correspondiente.
 
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio Fernández Fernéndez, Ministro del Interior.- René Rojas Galdames, Ministro de Relaciones Exteriores.- César Raúl Benavides Escobar, Teniente General, Ministro de Defensa Nacional.- José Luis Federici Rojas, Ministro de Economía, Fomento y Reconstrucción.- Sergio de Castro Spikula, Ministro de Hacienda.- Alfredo Prieto Bafalluy, Ministro de Educación Pública.- Mónica Madariaga Gutiérrez, Ministro de Justicia.- Patricio Torres Rojas, General de Brigada, Ministro de Obras Públicas.- Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura.- Rene Peri Fagerstrom, General Inspector de Carabineros, Ministro de Bienes Nacionales.- Jose Piñera Echenique, Ministro del Trabajo y Previsión Social.- Alejandro Medina Lois, General de Brigada, Ministro de Salud.- Carlos Quiñones López, Contralmirante, Ministro de Minería.- Jaime Estrada Leigh, General de Brigada, Ministro de la Vivienda y Urbanismo.- Caupolicán Boisset Mujica, General de Brigada Aérea, Ministro de Transportes y Telecomunicaciones.- Sergio Badiola Broberg, General de Brigada, Ministro Secretario General de Gobierno.
 Lo que transcribo a Ud. para su conocimiento.- Mario Duvauchelle Rodríguez, Capitán de Navío JT, Secretario de Legislación de la Junta de Gobierno.
