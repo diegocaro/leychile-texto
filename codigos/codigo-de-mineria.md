@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=1987-12-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=1989-02-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 29668
-version_date: 1987-12-31
-fetched_at: 2026-08-03T00:44:08.182655+00:00
+version_date: 1989-02-25
+fetched_at: 2026-08-03T00:46:34.456996+00:00
 titulo_norma: "CODIGO DE MINERIA"
 compuesto: LEY-18248
 organismos: ['MINISTERIO DE MINERIA']
@@ -1096,6 +1096,8 @@ En virtud de lo establecido en el inciso segundo de la segunda disposición tran
 
 Artículo 7°.- Las pertenencias constituidas sobre nitratos y sales análogas que se encuentran vigentes, subsistirán como tales y, para todos los efectos legales, se regirán por las disposiciones de este Código en lo que ellas le sean aplicables, pero la obligación establecida en el artículo 142 sólo será exigible, a su respecto, desde el 1° de marzo de 1989.
 Los titulares de las concesiones y solicitudes de concesiones a que se refiere la parte final del inciso primero y el inciso segundo del artículo 2° transitorio, no estarán afectos a la obligación de pagar la tasa de manifestación a que se refiere el artículo 51, con ocasión de la correspondiente manifestación o manifestaciones.
+NOTA: 2
+El artículo 1° del Decreto N° 141, de Minería, publicado en el "Diario Oficial" de 25 de febrero de 1989, dispuso que el pago de la primera patente anual a que se refiere el inciso primero del presente artículo, se efectuará conforme a lo dispuesto en los artículos 142 y y siguientes de este Código, siéndole aplicable a este pago, el inciso primero del artículo 56 de su Reglamento sin necesidad de figurar en alguna de las nóminas mencionadas en el artículo 58 del mismo. El artículo 2° del citado decreto supremo, dispone que, con la información proporcionada por el Servicio de Tesorerías, el Servicio Nacional de Geología y Minería confeccionará el rol de las pertenencias sobre nitratos y sales análogas respecto de las cuales se haya hecho exigible la obligación de pago de patente, establecida en el presente artículo transitorio.
 
 ## TITULO FINAL
 
