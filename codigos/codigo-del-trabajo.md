@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2026-07-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2027-06-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2026-07-23
-fetched_at: 2026-08-03T09:31:03.889586+00:00
+version_date: 2027-06-01
+fetched_at: 2026-08-03T09:32:09.962710+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1482,6 +1482,30 @@ Artículo 152 quinquies H.- Derechos colectivos de los trabajadores de plataform
 Sin perjuicio de las demás normas establecidas en el Libro IV del presente Código, las organizaciones sindicales que afilien a trabajadores dependientes e independientes de plataformas digitales o únicamente a estos últimos, podrán negociar conforme a lo dispuesto en el artículo 314 con las empresas de plataformas digitales. En el caso de que el proyecto de convenio colectivo se presente a dos o más empresas y cada una de éstas acceda a negociar, cada empresa deberá decidir si negocia en forma conjunta o separada, y comunicará su decisión a la comisión negociadora sindical en su respuesta al proyecto de convenio colectivo.
 
 Artículo 152 quinquies I.- La Dirección del Trabajo fiscalizará, dentro del ámbito de su competencia, el cumplimiento de las normas de este Capítulo, especialmente, las obligaciones establecidas en los artículos 152 quáter Z y 152 quinquies E. Las infracciones a este respecto se sancionarán con las multas a que se refiere el artículo 506, las que se duplicarán en caso de reincidencia.
+
+#### Capítulo XI
+Del contrato del trabajador adulto mayor
+
+Artículo 152 quinquies J.- Ámbito de aplicación. Se podrá regir por las normas de este Capítulo el contrato individual que el trabajador adulto mayor celebre con el empleador. Para estos efectos, se considerará trabajador adulto mayor a toda persona que cumpla el requisito de edad establecido en el inciso segundo del artículo 1° de la ley N° 19.828, que crea el Servicio Nacional del Adulto Mayor.
+
+Artículo 152 quinquies K.- Compatibilidad de las funciones con la salud del trabajador adulto mayor. Las funciones del trabajador adulto mayor pactadas en el contrato de trabajo deberán ser compatibles con su condición física y sus capacidades, considerando los requerimientos de dichas funciones, de conformidad a lo dispuesto en el artículo 184.
+
+Artículo 152 quinquies L.- Duración y distribución de la jornada de trabajo. Bajo esta modalidad de contratación, la jornada de trabajo estará sujeta al límite semanal establecido en el inciso primero del artículo 22 y al límite diario establecido en el inciso segundo del artículo 28, ambos de este Código.
+Las partes podrán distribuir la jornada ordinaria señalada en el inciso anterior, de acuerdo a una de las siguientes alternativas:
+a) Jornada con bandas horarias. El contrato podrá contener una o más bandas horarias, con horarios diferidos de entrada y de salida.
+Si las partes acordaren diferentes bandas horarias, el trabajador adulto mayor tendrá la facultad de optar, unilateralmente, por cualquiera de aquéllas, indicándose en el contrato la anticipación del aviso del cambio de banda y la cantidad de veces en el mes que el trabajador adulto mayor podrá hacer uso de esta facultad. En caso que nada se señale en el contrato, se entenderá que el trabajador adulto mayor no requerirá de anticipación del aviso, ni tendrá limitación en la cantidad de veces al mes que podrá hacer uso de esta facultad.
+b) Jornada de libre elección horaria. La jornada convenida por las partes se podrá distribuir como libremente escoja el trabajador adulto mayor, pero considerando que el cumplimiento de sus obligaciones deberá realizarse dentro del horario de funcionamiento de la empresa o establecimiento, o dentro del rango horario que libremente elijan las partes, y conforme a la naturaleza de sus funciones.
+La elección de la alternativa de distribución de jornada, ya sea con bandas horarias o de libre elección, deberá constar por escrito y estará vigente mientras no se pacte una nueva opción. Esta elección podrá fundarse, entre otras, en la naturaleza de las funciones, la condición física o de salud del trabajador adulto mayor, su situación familiar, la distancia de su domicilio, o bien, diferentes jornadas en invierno o verano.
+Por su parte, cuando la naturaleza de las funciones a desarrollar o la condición física del trabajador adulto mayor lo aconsejen, éste podrá regirse por lo dispuesto en el inciso segundo del artículo 22, lo que deberá consignarse en el contrato de trabajo.
+En cualquier caso, la prestación de servicios deberá considerar las reglas generales de descansos diario y semanal establecidas en este Código.
+
+Artículo 152 quinquies M.- Suspensión de los efectos del contrato. Se entiende por suspensión de los efectos del contrato de trabajo, el cese temporal de la obligación de prestar servicios por parte del trabajador adulto mayor y de la obligación de pagar la remuneración y demás asignaciones que no constituyan remuneración, señaladas en el inciso segundo del artículo 41 de este Código, por parte del empleador.
+Las partes podrán pactar la suspensión de los efectos del contrato de trabajo en cualquier momento de la relación laboral, debiendo constar dicho acuerdo por escrito, en el que establezcan las condiciones en las que se producirá tal suspensión, la que no afectará la antigüedad del trabajador adulto mayor ni los derechos que emanen de la relación laboral.
+Durante el período de suspensión, el trabajador adulto mayor tendrá derecho a prestar servicios a otros empleadores. Con todo, transcurrido el plazo de suspensión acordado, el trabajador adulto mayor deberá reintegrarse a sus funciones en condiciones laborales no inferiores a las vigentes con anterioridad a la misma.
+
+Artículo 152 quinquies N.- Feriado anual. El trabajador adulto mayor podrá hacer uso anticipado de su feriado anual y de forma proporcional a los días devengados, a partir del séptimo mes contado desde el inicio de la prestación de servicios. En estos casos, no se aplicará la regla del fraccionamiento establecida en el inciso primero del artículo 70 de este Código.
+
+Artículo 152 quinquies Ñ.- Contratación previa a tener la calidad de trabajador adulto mayor. Los trabajadores que adquieran la calidad de trabajador adulto mayor durante la vigencia del contrato de trabajo continuarán rigiéndose por los términos y condiciones del contrato de trabajo que se encontrare vigente con anterioridad a adquirir la mencionada calidad, salvo que las partes acuerden acogerse a las normas de este Capítulo.
 
 ### Título III
 Del Reglamento Interno y la Inclusión Laboral de Personas con Discapacidad y/o Asignatarias de una Pensión de Invalidez
