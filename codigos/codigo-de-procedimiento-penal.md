@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1906-02-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1953-06-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1906-02-20
-fetched_at: 2026-08-02T23:57:02.101794+00:00
+version_date: 1953-06-10
+fetched_at: 2026-08-03T00:11:55.527568+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1582,6 +1582,9 @@ Si hay antecedentes para estimar que la contravención a la ley fue cometida a s
 ##### 3. Del recurso de casación en el fondo
 
 Art. 547. (586) En la sentencia, que deberá dictarse dentro de los veinte días siguientes, se expondrá: los fundamentos que sirvan de base a la resolución del tribunal; la decisión de las diversas cuestiones controvertidas; y la declaración explícita de si es nula o no la sentencia reclamada.
+
+Art. 548. (587) En los casos en que la Corte Suprema acoja el recurso deducido en interés del condenado, podrá aplicar a éste, como consecuencia de la causal acogida y dentro de los límites que la ley autoriza, una pena más severa que la impuesta por la sentencia invalidada.
+Si sólo uno de entre varios procesados ha entablado el recurso, la nueva sentencia aprovechará a los demás en lo que les sea favorable, siempre que se encuentren en la misma situación que el recurrente y les sean aplicables los motivos alegados para declarar la casación de la sentencia.
 
 Art. 549. (588) Notificada a las partes la sentencia de este tribunal, el proceso será devuelto a la Corte de Apelaciones dentro de segundo día, con las formalidades a que se refiere el artículo 540.
 La sentencia de la Corte Suprema y la de la Corte de Apelaciones serán publicadas en la "Gaceta de los
