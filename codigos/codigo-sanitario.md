@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1975-07-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1976-06-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1975-07-10
-fetched_at: 2026-08-03T00:25:20.567412+00:00
+version_date: 1976-06-25
+fetched_at: 2026-08-03T00:27:03.905722+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -57,13 +57,17 @@ El personal así contratado cesará automáticamente en sus funciones a la expir
 ### Párrafo III
 DE LAS ATRIBUCIONES Y OBLIGACIONES SANITARIAS DE LAS MUNICIPALIDADES
 
-Artículo 11°.- Sin perjuicio de las atribuciones que competen al Servicio Nacional de Salud, corresponde, en el orden sanitario, a las Municipalidades:
+Artículo 11°.- Sin perjuicio de
+NOTA
+las atribuciones que competen al Servicio Nacional de Salud, corresponde, en el orden sanitario, a las Municipalidades:
 a) proveer a la limpieza y a las condiciones de seguridad de sitios públicos, de tránsito y de recreo;
 b) recolectar, transportar y eliminar por métodos adecuados, a juicio del Servicio Nacional de Salud, las basuras, residuos y desperdicios que se depositen o produzcan en la vía urbana;
 c) velar por el cumplimiento de las disposiciones que sobre higiene y seguridad se establecen en la Ordenanza General de Construcciones y Urbanización;
 d) reglamentar y controlar las condiciones de limpieza y conservación exterior de las casas-habitación, fábricas, edificios públicos, cuarteles, conventos, teatros y otros locales públicos y particulares;
 e) establecer plazas, parques o locales públicos de juego o recreo para adultos y niños, así como baños y servicios higiénicos públicos; y
 f) proveer a la limpieza y conservación de los canales, acequias y bebederos, considerando además las condiciones de seguridad necesarias para prevenir accidentes.
+NOTA
+Véase el D.L. N° 1.480, del Ministerio de Salud Pública, de 31 de mayo de 1976, publicado en el D. Of. de 25 de junio de 1976, que faculta al Director General el Servicio Nacional de Salud para delegar en el Alcalde de la I. Municipalidad de Santiago las facultades que indica.
 
 Artículo 12°.- El Presidente de la República, por intermedio de los Ministerios del Interior y Salud Pública, y a propuesta del Director General de Salud, deberá, estableciendo servicios y obligaciones mínimas, reglamentar la forma cómo las Municipalidades ejercerán las funciones sanitarias que se les encomienden en la presente ley. Todo acto o reglamento municipal que esté en pugna con dichas normas sanitarias es nulo y esta nulidad será declarada por el Presidente de la República.
 
