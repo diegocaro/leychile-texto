@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1981-04-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1981-05-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1981-04-30
-fetched_at: 2026-08-03T00:34:10.024053+00:00
+version_date: 1981-05-01
+fetched_at: 2026-08-03T00:34:22.042189+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -56,7 +56,7 @@ Art. 5° A los tribunales que establece el presente Código estará sujeto el co
 2°) Las causas cuyo conocimiento corresponda a los Tribunales Militares, Navales y Aeronáuticos;
 3°) Las causas sobre cuentas cuyo conocimiento corresponda a la Contraloría General de la República;
 4°) Las causas cuyo conocimiento corresponda a los Tribunales de Menores;
-5°) Las causas cuyo conocimiento corresponda a los Tribunales del Trabajo;
+5°) Derogado.
 6°) Las causas cuyo conocimiento corresponda a los Alcaldes y a los Juzgados de Policía Local; y
 7°) Los demás asuntos judiciales del orden temporal que leyes especiales encomienden a otros tribunales.
 Las penas que la autoridad eclesiástica imponga en virtud de su jurisdicción espiritual no se entenderán que dejan de ser espirituales porque produzcan efectos temporales, como por ejemplo, la suspensión o privación de un beneficio eclesiástico, o de sus frutos.
@@ -216,9 +216,10 @@ c) De los actos judiciales no contenciosos, cualquiera sea su cuantía, salvo lo
 d) De las causas por crimen o simple delito, salvo de aquellas cuyo conocimiento corresponde a los Juzgados de Policía Local para el juzgamiento de los delitos de vagancia y mendicidad que se cometan fuera de los límites urbanos de la ciudad en que tenga su asiento el tribunal;
 e) De las causas por faltas del Código Penal, que se cometan en la ciudad donde tenga su asiento el tribunal, siempre que no haya en ella juez de Policía Local que sea abogado.
 Sin embargo, los jueces del crimen de Santiago, conocerán de las faltas sancionadas en los artículos 494, N°s. 5, 7, 12, 16, 19, 20 y 21; 495, Nos. 3, 15, 21 y 22; 496, Nos. 1, 8, 18, 31 y 33; y 497 del Código Penal, que se cometan dentro de las comunas de Santiago, Quinta Normal, Ñuñoa, Providencia, Las Condes y La Reina.
-f) De las infracciones a la Ley de Alcoholes que trata el Libro II de dicha ley, con excepción de las contempladas en los artículos 113 y 117, que se cometan fuera de la comuna asiento del tribunal,
-No obstante, las infracciones mencionadas en el inciso anterior que se cometan dentro del territorio jurisdiccional de los Juzgados del Crimen de Santiago, y del Departamento Presidente Aguirre Cerda, serán juzgadas por el respectivo tribunal.
-g) De las causas civiles y de comercio cuya cuantía sea inferior a las señaladas en las letras a) y b), del N° 1 de este artículo, en que sean parte o tengan interés los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, el General Director de Carabineros, los Ministros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos tribunales, los jueces letrados, los párrocos y vicepárrocos, los cónsules generales, cónsules o vicecónsules de las naciones extranjeras reconocidas por el Presidente de la República, las corporaciones y fundaciones de derecho público o los establecimientos públicos de beneficencia.
+f) De las infracciones a la Ley de Alcoholes que trata el Libro II de dicha ley, con excepción de las contempladas en los artículos 113 y 117, que se cometan fuera de la comuna asiento del tribunal.
+No obstante, las infracciones mencionadas en el inciso anterior que se cometan dentro del territorio jurisdiccional de los Juzgados del Crimen de Santiago, y del Departamento Presidente Aguirre Cerda, serán juzgadas por el respectivo tribunal, y
+g) De las causas civiles y de comercio cuya cuantía sea inferior a las señaladas en las letras a) y b), del N° 1 de este artículo, en que sean parte o tengan interés los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, el General Director de Carabineros, los Ministros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos tribunales, los jueces letrados, los párrocos y vicepárrocos, los cónsules generales, cónsules o vicecónsules de las naciones extranjeras reconocidas por el Presidente de la República, las corporaciones y fundaciones de derecho público o los establecimientos públicos de beneficencia y
+h) De las causas del trabajo.
 3° En segunda instancia:
 a) De las causas civiles de que hayan conocido en primera los jueces de subdelegación del departamento;
 b) De las causas por faltas o contravenciones de que hayan conocido los alcaldes o los jueces de policía local.
@@ -306,7 +307,7 @@ Art. 59. Las Cortes de Apelaciones tendrán el número de Relatores que a contin
 5°.- La Corte de Santiago tendrá catorce relatores.
 
 Art. 60. Cada Corte de Apelaciones tendrá un secretario.
-La Corte de Apelaciones de Santiago tendrá dos secretarios. El tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
+La Corte de Apelaciones de Santiago tendrá tres secretarios. El tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
 
 Art. 61. Las Cortes de Valparaíso y Concepción se dividirán en tres salas de tres miembros cada una, con excepción de la primera, que tendrá cuatro miembros.
 La Corte de Presidente Aguirre Cerda se dividirá en dos salas de cuatro y tres ministros respectivamente.
@@ -320,7 +321,7 @@ Se entenderá que hay retardo cuando dividido el total de causas en estado de ta
 Producido este caso y si no bastaren los relatores en propiedad, el tribunal designará por mayoría de votos los relatores interinos que estime conveniente, quienes gozarán durante el tiempo en que sirvieren de igual remuneración que los propietarios.
 
 Art. 63. Las Cortes de Apelaciones conocerán:
-1°) En segunda instancia, de las causas civiles y criminales y de los actos no contenciosos de que hayan conocido en primera los jueces de letras de mayor cuantía de su jurisdicción o uno de sus ministros.
+1°) En segunda instancia, de las causas civiles, criminales y del trabajo y de los actos no contenciosos de que hayan conocido en primera los jueces de letras de su jurisdicción o uno de sus ministros.
 2°) En única instancia de los recursos de casación en la forma que se interpongan en contra de las sentencias dictadas por los tribunales indicados en el número anterior.
 3°) De las consultas de las sentencias civiles y criminales dictadas por esos mismos tribunales.
 4°) En primera instancia:
