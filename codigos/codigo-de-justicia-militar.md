@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1982-02-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1984-09-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1982-02-16
-fetched_at: 2026-08-03T00:35:46.133331+00:00
+version_date: 1984-09-26
+fetched_at: 2026-08-03T00:40:04.403758+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -171,6 +171,10 @@ Art. 28. Los Fiscales a que se refiere el inciso segundo del artículo precedent
 Art. 29. En caso de ausencia, licencia, imposibilidad legal o cualquier otro impedimento del Fiscal, será reemplazado por el oficial de la respectiva Institución que el Juez designe.
 El primer día hábil de marzo de cada año las Cortes Marciales formarán una lista de fiscales de turno, seleccionados de entre los oficiales de los Escalafones de Justicia de cada Institución de las Fuerzas Armadas y de Orden que sean abogados. Cuando las necesidades del servicio lo requieran y previa consulta a la Corte Marcial, el Juez podrá designar al fiscal de turno que corresponda según el orden de precedencia en la lista, para que tramite una o más causas que se encuentren atrasadas.
 La Corte Suprema y las Cortes Marciales podrán decretar visitas extraordinarias en los tribunales de la jurisdicción militar, con arreglo a los artículos 559 y 560 del Código Orgánico de Tribunales.
+
+Art. 30. Derogado.
+
+Art. 31. Derogado.
 
 Art. 32. Los Fiscales tendrán las mismas atribuciones disciplinarias que el Código Orgánico de Tribunales otorga a los Jueces de Letras de Mayor Cuantía, respecto de los abusos que se cometieren dentro de la sala de su despacho, mientras ejercen sus funciones; de las faltas de respeto que se cometieren en los escritos que se les presentaren, y de la conducta funcionaria del personal que les está subordinado.
 De las resoluciones que dicten sobre estas materias podrá reclamarse, pero únicamente en el efecto devolutivo, al respectivo Juzgado.
@@ -903,6 +907,8 @@ Art. 200. Todo Tribunal Militar, sea de tiempo de paz o tiempo de guerra, que de
 No obstante, aquellas causas incoadas en tiempo de guerra con el procedimiento respectivo y cuya tramitación se hubiere suspendido, en los casos en que legalmente proceda su continuación, se sustanciarán por el tribunal que corresponda y con arreglo al procedimiento vigente al tiempo de su prosecución.
 
 Art. 201. Derogado.
+
+Art. 202. Derogado.
 
 ### Título VI
 TRIBUNALES DE HONOR
@@ -1690,6 +1696,8 @@ Art. 416. El que violentare o maltratare de obra a un Carabinero en el ejercicio
 2° Con la de presidio menor en su grado máximo a presidio mayor en su grado medio si le causare lesiones graves;
 3° Con la de presidio menor en su grado mínimo a medio si le causare lesiones menos graves; y
 4° Con la de presidio menor en su grado mínimo o multa de once a veinte sueldos vitales si no le causare lesiones o si éstas fueren leves.
+
+Art. 416 Bis. El que atentare en contra de un carabinero en su calidad de tal y no le causare lesiones o éstas fueren de las contempladas en los artículos 397 N° 2°, 399 ó 494 N° 5 del Código Penal, será castigado con presidio menor en su grado mínimo a medio.
 
 Artículo 416 ter.- Las penas establecidas en los artículos 395 y 396 del Código Penal, serán aumentadas en un grado cuando la víctima sea un Carabinero en el ejercicio de sus funciones.
 
