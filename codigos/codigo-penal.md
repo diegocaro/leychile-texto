@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1950-11-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1952-03-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1950-11-10
-fetched_at: 2026-08-03T00:10:37.442620+00:00
+version_date: 1952-03-17
+fetched_at: 2026-08-03T00:11:01.474125+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -346,8 +346,8 @@ Si los bienes del culpable no fueren bastantes para cubrir las responsabilidades
 En caso de concurso o quiebra, estos créditos se graduarán, considerándose como uno solo, entre los que no gozan de preferencia.
 
 ART. 49.
-Si el sentenciado no tuviere bienes para satisfacer la multa, sufrirá por vía de sustitución y apremio, la pena de reclusión, regulándose un día por cada peso; pero sin que ella pueda exceder nunca de dos años.
-Queda exento de este apremio el condenado a reclusión menor en su grado máximo o a otra pena más grave.
+Si el sentenciado no tuviere bienes para satisfacer la multa, sufrirá por vía de substitución o apremio la pena de reclusión, regulándose un día por cada $ 20, sin que ella pueda nunca exceder de un año.
+Queda exento de este apremio el condenado a reclusion menor en su grado máximo o a otra pena mas grave.
 
 #### § IV.
 De la aplicación de las penas.
