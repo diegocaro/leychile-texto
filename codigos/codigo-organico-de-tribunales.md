@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1963-01-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1963-09-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1963-01-17
-fetched_at: 2026-08-03T00:16:59.112639+00:00
+version_date: 1963-09-12
+fetched_at: 2026-08-03T00:17:17.126057+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1087,8 +1087,9 @@ Art. 259. No podrán ser nombrados ministros de una Corte de Apelaciones las per
 
 Art. 260. No podrá existir el parentesco de consanguinidad hasta el cuarto grado o de afinidad hasta el segundo grado inclusive entre los miembros de la Corte Suprema y los de las Cortes de Apelaciones, ni entre éstos y los jueces letrados de su respectiva jurisdicción.
 
-Art. 261. Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las escuelas dependientes de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, de la enseñanza secundaria y especial hasta un límite de diez horas semanales y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas.
+Art. 261. Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las
 NOTA
+escuelas dependientes de la Universidad de Chile, de la enseñanza secundaria y especial hasta un límite de diez horas semanales y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas.
 NOTA
 El artículo único de la ley 9585, publicada el 04.04.1950, declaró que el sentido de la incompatibilidad establecida en el presente artículo es que aquella no rige para los abogados integrantes de los Tribunales Superiores ni para los abogados subrogantes de los jueces.
 
