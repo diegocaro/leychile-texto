@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1977-01-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1977-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1977-01-25
-fetched_at: 2026-08-03T00:27:46.881975+00:00
+version_date: 1977-03-01
+fetched_at: 2026-08-03T00:27:58.897743+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -96,7 +96,7 @@ De los Jueces de Distrito y de los Jueces de Subdelegación
 
 ### § 1. Los Jueces de Distrito.
 
-Art. 14. En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo los distritos del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de cincuenta pesos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de cien pesos.
+Art. 14. En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo los distritos del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de $ 140 pesos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de $ 270 pesos.
 Le corresponderá, asimismo, el nombramiento de curador ad-litem en su caso.
 Lo dispuesto en los incisos precedentes regirá también en toda sección de distrito no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
 Los jueces de distrito no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
@@ -139,12 +139,12 @@ Art. 24. A los jueces de distrito corresponden las atribuciones propias de minis
 ### § 2. Los Jueces de Subdelegación
 
 Art. 25. En cada subdelegación de la República que no esté comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo las subdelegaciones del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Subdelegación conocerá:
-1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de cien pesos y no pase de ciento cincuenta pesos;
+1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de $ 270 pesos y no pase de $ 410 pesos;
 2°) En segunda instancia, de las causas de que conocieren en primera los respectivos jueces de distrito; y
 3°) En única instancia, de los recursos de casación en la forma que se interpusieren contra las sentencias pronunciadas por los jueces de distrito indicados en el número anterior.
 Les corresponderá, asimismo, el nombramiento de curador ad litem en su caso.
 Lo dispuesto en este artículo regirá también en toda sección de subdelegación no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
-No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de cincuenta pesos.
+No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de $ 140 pesos.
 Los jueces de subdelegación de las ciudades cabeceras de departamento no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 Los Jueces de Subdelegación no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 No obstante lo dispuesto en el inciso primero, el Presidente de la República, previo informe de la Corte de Apelaciones respectiva, podrá crear o mantener Juzgados de subdelegación, fijando en el decreto correspondiente el territorio sobre el cual ejercerán jurisdicción, pudiendo, además, restringir la competencia asignada a dichos tribunales a una o más de las materias de que ordinariamente deban conocer.
@@ -178,13 +178,13 @@ Art. 31. El decreto que fije o que modifique los límites del territorio jurisdi
 Los jueces de letras de menor cuantía de Santiago y Valparaíso deberán funcionar, en cuanto sea posible, en locales que estén vecinos.
 
 Art. 32. Los jueces de letras de menor cuantía conocerán:
-1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de ciento cincuenta pesos;
-2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de ciento cincuenta pesos y no sea superior a tres mil pesos y
-3.o) En única instancia, de los juicios de desahucio, restitución y demás que deriven del contrato de arrendamiento, cuya cuantía se determina por el monto de la renta para cada período de pago, cuando el valor de esa renta no exceda de ciento cincuenta pesos, y en primera instancia cuando pase de esa cantidad y no exceda de ochocientos pesos.
+1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de $ 410 pesos;
+2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de $ 410 pesos y no sea superior a $ 8.230 pesos y
+3.o) En única instancia, de los juicios de desahucio, restitución y demás que deriven del contrato de arrendamiento, cuya cuantía se determina por el monto de la renta para cada período de pago, cuando el valor de esa renta no exceda de $ 410 pesos, y en primera instancia cuando pase de esa cantidad y no exceda de $ 2.190 pesos.
 En cuanto a los juicios de reconvenciones de pago regirá lo dispuesto en los N°s. 1° y 2°.
 4.o) De los asuntos que otras leyes entreguen a su conocimiento.
 Incisos derogados.
-Conocerán también estos jueces, en primera instancia, de los juicios sobre alimentos futuros, siempre que la pensión mensual que se cobre no exceda de doscientos pesos. No tendrán esta competencia cuando ella corresponda a un juez especial de menores.
+Conocerán también estos jueces, en primera instancia, de los juicios sobre alimentos futuros, siempre que la pensión mensual que se cobre no exceda de $ 550 pesos. No tendrán esta competencia cuando ella corresponda a un juez especial de menores.
 Los Jueces de Letras de Menor Cuantía no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 
 Art. 33. En materia de jurisdicción voluntaria los jueces letrados de menor cuantía conocerán:
@@ -211,8 +211,8 @@ La ubicación del predio sirviente determinará el tribunal que deba conocer de 
 2°) De las acciones posesorias a que se refieren los artículos 928, 936, 937, 938, 939, 940, 941, 942, 943, 944 y 945 del Código Civil.
 Será competente para conocer de estos juicios el juez del lugar donde hubiere ocurrido el hecho de que se reclama.
 3°) De las notificaciones de las actas de protestos de cheques a las personas domiciliadas en la respectiva jurisdicción.
-Si el valor del cheque excediere de tres mil pesos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
-4°) De las cuestiones civiles valorizables hasta tres mil pesos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
+Si el valor del cheque excediere de $ 8.230 pesos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
+4°) De las cuestiones civiles valorizables hasta $ 8.230 pesos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
 
 Art. 39. Habrá en Santiago cuatro Juzgados de Letras de Menor Cuantía en lo Criminal.
 Estos Juzgados ejercerán su jurisdicción dentro del territorio que les fije el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago; pero podrán practicar actuaciones dentro de la jurisdicción asignada a cualesquiera de ellos en los asuntos sometidos a su conocimiento.
@@ -258,9 +258,9 @@ El Juzgado de Limache comprenderá, además, la comuna de Villa Alemana; el de L
 
 Art. 45. Los jueces de letras de mayor cuantía conocerán:
 1°) En única o en primera instancia, conforme al inciso final de este número:
-a) De las causas civiles sobre cosas cuyo valor exceda de ciento cincuenta pesos; pero, tratándose de los juicios del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de cincuenta pesos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía y a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
+a) De las causas civiles sobre cosas cuyo valor exceda de $ 410 pesos; pero, tratándose de los juicios del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de $ 140 pesos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía y a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 b) De las causas de comercio, con la misma salvedad de la letra precedente.
-Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de cincuenta pesos y las causas de comercio que no excedan de ciento cincuenta pesos y en primera todas las demás.
+Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de $ 140 pesos y las causas de comercio que no excedan de $ 410 pesos y en primera todas las demás.
 2°) En primera instancia:
 a) De las causas de minas, cualquiera que sea su cuantía. Se entiende por causa de minas aquella en que ventilen derechos regidos especialmente por el Código de Minería.
 b) De los actos judiciales no contenciosos, cualquiera que sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil y en el artículo 33 de este Código;
@@ -866,7 +866,7 @@ Art. 197. En los casos en que se trate de recusar al juez por parentesco ilegít
 
 Art. 198. Además de las causales de implicancia o recusación de los jueces, que serán aplicables a los abogados llamados a Integrar la Corte Suprema o las Cortes de Apelaciones, será causal de recusación respecto de ellos la circunstancia de patrocinar negocios en que se ventile la misma cuestión que debe resolver el tribunal.
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de treinta pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de veinte pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 80 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 60 pesos.
 
 Art. 199. Los jueces que se consideren comprendidos en alguna de las causas legales de implicancia o recusación, deberán tan pronto como tengan noticia de ello, hacerlo constar en el proceso, declarándose inhabilitados para continuar funcionando, o pidiendo se haga esta declaración por el tribunal de que formen parte.
 No obstante, se necesitará de solicitud previa para declarar la inhabilidad de los jueces de la Corte Suprema y de las Cortes de Apelaciones, fundada en cualquiera de las causales de recusación y la de los demás jueces producida por el hecho de ser parte o tener interés en el pleito una sociedad anónima de que éstos sean accionistas, sin perjuicio en uno y otro caso de que se haga constar en el proceso la existencia de la causal.
