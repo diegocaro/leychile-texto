@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1988-12-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1990-06-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1988-12-29
-fetched_at: 2026-08-03T00:46:04.432351+00:00
+version_date: 1990-06-28
+fetched_at: 2026-08-03T00:50:10.696567+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -363,6 +363,10 @@ Para los efectos contemplados en este artículo, no regirán los plazos de decla
 Con todo, el Director Regional podrá, a su juicio exclusivo, determinar que la declaración y pago del impuesto se haga dentro de los plazos indicados en esa ley, cuando estime debidamente resguardado el interés fiscal.
 Los notarios y demás ministros de fe deberán autorizar siempre los documentos a que se refiere este artículo, pero no podrán entregarlos a los interesados ni otorgar copias de ellos sin que previamente se encuentren pagados estos tributos.
 En los casos de venta o promesa de venta de bienes corporales inmuebles, o de un contrato general de construcción, la obligación establecida en el inciso primero se entenderá cumplida dejando constancia del número y fecha de la factura o facturas correspondientes.
+
+Artículo 75 bis.- En los documentos que den cuenta del arrendamiento o cesión temporal en cualquier forma, de un bien raíz agrícola, el arrendador o cedente deberá declarar si es un contribuyente del impuesto de primera categoría de la Ley de Impuesto a la Renta que tributa sobre la base de renta efectiva o bien sobre renta presunta. Esta norma se aplicará también respecto de los contratos de arrendamiento o cesión temporal de pertenencias mineras o de vehículos de transporte de carga terrestre.
+Los Notarios no autorizarán las escrituras públicas o documentos en los que falte la declaración a que se refiere el inciso anterior.
+Los arrendadores o cedentes que no den cumplimiento a la obligación contemplada en el inciso primero o que hagan una declaración falsa respecto de su régimen tributario, serán sancionados en conformidad con el artículo 97, N° 1, de este Código, con multa de una unidad tributaria anual a cincuenta unidades tributarias anuales, y, además deberán indemnizar los perjuicios causados al arrendatario o cesionario.
 
 Artículo 76.- Los notarios titulares, suplentes o interinos comunicarán al Servicio todos los contratos otorgados ante ellos que se refieran a transferencia de bienes, hipotecas y otros asuntos que sean susceptibles de revelar la renta de cada contribuyente. Todos los funcionarios encargados de registros públicos comunicarán igualmente al Servicio los contratos que les sean presentados para su inscripción. Dichas comunicaciones serán enviadas a más tardar el 1° de Marzo de cada año y en ellas se relacionarán los contratos otorgados o inscritos durante el año anterior.
 
