@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1999-10-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1999-11-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 1999-10-02
-fetched_at: 2026-08-05T02:29:40.351500+00:00
+version_date: 1999-11-04
+fetched_at: 2026-08-05T02:29:58.355439+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -243,8 +243,8 @@ El Presidente de la República durará en el ejercicio de sus funciones por el t
 El Presidente de la República no podrá salir del territorio nacional por más de treinta días ni en los últimos noventa días de su período, sin acuerdo del Senado.
 En todo caso, el Presidente de la República comunicará con la debida anticipación al Senado su decisión de ausentarse del territorio y los motivos que la justifican.
 
-Artículo 26.- El Presidente será elegido en votación directa y por mayoría absoluta de los sufragios válidamente emitidos. La elección se realizará, en la forma que determine la ley, noventa días antes de aquel en que deba cesar en el cargo el que esté en funciones.
-Si a la elección de Presidente se presentaren más de dos candidatos y ninguno de ellos obtuviere más de la mitad de los sufragios válidamente emitidos, se procederá a una nueva elección que se verificará, en la forma que determine la ley, quince días después de que el Tribunal Calificador, dentro del plazo señalado en el artículo siguiente, haga la correspondiente declaración. Esta elección se circunscribirá a los dos candidatos que hubieren obtenido las más altas mayorías relativas.
+Artículo 26.- El Presidente de la República será elegido en votación directa y por mayoría absoluta de los sufragios válidamente emitidos. La elección se realizará, en la forma que determine la ley, noventa días antes de aquel en que deba cesar en el cargo el que esté en funciones.
+Si a la elección de Presidente de la República se presentaren más de dos candidatos y ninguno de ellos obtuviere más de la mitad de los sufragios válidamente emitidos, se procederá a una segunda votación que se circunscribirá a los candidatos que hayan obtenido las dos más altas mayorías relativas y en ella resultará electo aquel de los candidatos que obtenga el mayor número de sufragios. Esta nueva votación se verificará, en la forma que determine la ley, el trigésimo día después de efectuada la primera, si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente al referido trigésimo día.
 Para los efectos de lo dispuesto en los dos incisos precedentes, los votos en blanco y los nulos se considerarán como no emitidos.
 
 Artículo 27.- El proceso de calificación de la elección presidencial deberá quedar concluido dentro de los cuarenta días siguientes a la primera elección o de los veinticinco días siguientes a la segunda.
