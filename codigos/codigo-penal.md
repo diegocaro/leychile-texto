@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2002-05-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2002-10-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2002-05-31
-fetched_at: 2026-08-03T01:18:19.884232+00:00
+version_date: 2002-10-04
+fetched_at: 2026-08-03T01:19:13.908606+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1468,11 +1468,15 @@ El que con violencia o fraude impidiere ejercer sus funciones a un miembro del C
 ART. 268.
 El que ocasionare, tumulto o excitare al desorden en el despacho de una autoridad o corporación pública hasta el punto de impedir o interrumpir sus actos, será castigado con reclusión menor en cualquiera de sus grados y multa de once a veinte unidades tributarias mensuales.
 
+ART. 268 bis.
+El que diere falsa alarma de incendio, emergencia o calamidad pública a los Cuerpos de Bomberos u otros servicios de utilidad pública, incurrirá en la pena de reclusión menor en su grado mínimo.
+
 #### § II.
 Desórdenes públicos.
 
 ART. 269.
 Los que turbaren gravemente la tranquilidad pública para causar injuria u otro mal a alguna persona particular o con cualquier otro fin reprobado, incurrirán en la pena de reclusión menor en su grado mínimo, sin perjuicio de las que les correspondan por el daño u ofensa causados.
+Incurrirá en la pena de presidio menor, en su grado mínimo a medio, el que impidiere o dificultare la actuación del personal de los Cuerpos de Bomberos u otros servicios de utilidad pública, destinada a combatir un siniestro u otra calamidad o desgracia que constituya peligro para la seguridad de las personas.
 
 #### § II bis. De la obstrucción a la justicia.
 
