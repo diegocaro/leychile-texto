@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=2001-08-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=2003-01-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 2001-08-25
-fetched_at: 2026-08-05T02:38:35.487836+00:00
+version_date: 2003-01-06
+fetched_at: 2026-08-05T02:38:53.496438+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -29,7 +29,7 @@ La familia es el núcleo fundamental de la sociedad. El Estado reconoce y ampara
 El Estado está al servicio de la persona humana y su finalidad es promover el bien común, para lo cual debe contribuir a crear las condiciones sociales que permitan a todos y a cada uno de los integrantes de la comunidad nacional su mayor realización espiritual y material posible, con pleno respeto a los derechos y garantías que esta Constitución establece.
 Es deber del Estado resguardar la seguridad nacional, dar protección a la población y a la familia, propender al fortalecimiento de ésta, promover la integración armónica de todos los sectores de la Nación y asegurar el derecho de las personas a participar con igualdad de oportunidades en la vida nacional.
 
-Artículo 2°.- Son emblemas nacionales la bandera nacional, el escudo de armas de la República y el himno nacional.
+Artículo 2º.- Son emblemas nacionales la bandera nacional, el escudo de armas de la República y el himno nacional.
 
 Artículo 3º.- El Estado de Chile es unitario, su territorio se divide en regiones. Su administración será funcional y territorialmente descentralizada, o desconcentrada en su caso, en conformidad con la ley.
 
@@ -42,7 +42,7 @@ Artículo 6º.- Los órganos del Estado deben someter su acción a la Constituci
 Los preceptos de esta Constitución obligan tanto a los titulares o integrantes de dichos órganos como a toda persona, institución o grupo.
 La infracción de esta norma generará las responsabilidades y sanciones que determine la ley.
 
-Artículo 7°.- Los órganos del Estado actúan válidamente previa investidura regular de sus integrantes, dentro de su competencia y en la forma que prescriba la ley.
+Artículo 7º.- Los órganos del Estado actúan válidamente previa investidura regular de sus integrantes, dentro de su competencia y en la forma que prescriba la ley.
 Ninguna magistratura, ninguna persona ni grupo de personas pueden atribuirse, ni aun a pretexto de circunstancias extraordinarias, otra autoridad o derechos que los que expresamente se les hayan conferido en virtud de la Constitución o las leyes.
 Todo acto en contravención a este artículo es nulo y originará las responsabilidades y sanciones que la ley señale.
 
@@ -220,7 +220,7 @@ La disposición cuadragésima transitoria de esta Constitución prescribe que la
 Artículo 20.- El que por causa de actos u omisiones arbitrarios o ilegales sufra privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías establecidos en el artículo 19, números 1º., 2º. 3º. inciso cuarto, 4º., 5º., 6º., 9º. inciso final, 11º., 12º., 13º., 15º., 16º. en lo relativo a la libertad de trabajo y al derecho a su libre elección y libre contratación, y a lo establecido en el inciso cuarto, 19º., 21º., 22º., 23º., 24o. y 25º. podrá ocurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectivas, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes.
 Procederá, también, el recurso de protección en el caso del Nº. 8º. del artículo 19, cuando el derecho a vivir en un medio ambiente libre de contaminación sea afectado por un acto arbitrario e ilegal imputable a una autoridad o persona determinada.
 
-Artículo 21.- Todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, podrá ocurrir por sí, o por cualquiera a su nombre, a la magistraturá que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
+Artículo 21.- Todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, podrá ocurrir por sí, o por cualquiera a su nombre, a la magistratura que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
 Esa magistratura podrá ordenar que el individuo sea traído a su presencia y su decreto será precisamente obedecido por todos los encargados de las cárceles o lugares de detención. Instruida de los antecedentes, decretará su libertad inmediata o hará que se reparen los defectos legales o pondrá al individuo a disposición del juez competente, procediendo en todo breve y sumariamente, y corrigiendo por sí esos defectos o dando cuenta a quien corresponda para que los corrija.
 El mismo recurso, y en igual forma, podrá ser deducido en favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual. La respectiva magistratura dictará en tal caso las medidas indicadas en los incisos anteriores que estime conducentes para restablecer el imperio del derecho y asegurar la debida protección del afectado.
 
@@ -301,15 +301,15 @@ Artículo 32.- Son atribuciones especiales del Presidente de la República:
 
 Artículo 33.- Los Ministros de Estado son los colaboradores directos e inmediatos del Presidente de la República en el gobierno y administración del Estado.
 La ley determinara el número y organización de los Ministerios, como también el orden de precedencia de los Ministros titulares.
-El Presidente de la República podra encomendar a uno o más Ministros la coordinación de la labor que corresponde a los Secretarios de Estado y las relaciones del Gobierno con el Congreso Nacional.
+El Presidente de la República podrá encomendar a uno o más Ministros la coordinación de la labor que corresponde a los Secretarios de Estado y las relaciones del Gobierno con el Congreso Nacional.
 
 Artículo 34.- Para ser nombrado Ministro se requiere ser chileno, tener cumplidos veintiún años de edad y reunir los requisitos generales para el ingreso a la Administración Pública.
-En los casos de ausencia, impedimento o renuncia de un Ministro, o cuando por otra causa se produzca la vacancia del cargo, sera reemplazado en la forma que establezca la ley.
+En los casos de ausencia, impedimento o renuncia de un Ministro, o cuando por otra causa se produzca la vacancia del cargo, será reemplazado en la forma que establezca la ley.
 
-Artículo 35.- Los reglamentos y decretos del Presidente de la República deberan firmarse por el Ministro respectivo y no seran obedecidos sin este esencial requisito.
-Los decretos e instrucciones podran expedirse con la sola firma del Ministro respectivo, por orden del Presidente de la República, en conformidad a las normas que al efecto establezca la ley.
+Artículo 35.- Los reglamentos y decretos del Presidente de la República deberán firmarse por el Ministro respectivo y no serán obedecidos sin este esencial requisito.
+Los decretos e instrucciones podrán expedirse con la sola firma del Ministro respectivo, por orden del Presidente de la República, en conformidad a las normas que al efecto establezca la ley.
 
-Artículo 36.- Los Ministros seran responsables individualmente de los actos que firmaren y solidariamente de los que suscribieren o acordaren con los otros Ministros.
+Artículo 36.- Los Ministros serán responsables individualmente de los actos que firmaren y solidariamente de los que suscribieren o acordaren con los otros Ministros.
 
 Artículo 37.- Los Ministros podrán, cuando lo estimaren conveniente, asistir a las sesiones de la Cámara de Diputados o del Senado, y tomar parte en sus debates, con preferencia para hacer uso de la palabra, pero sin derecho a voto. Durante la votación podrán, sin embargo, rectificar los conceptos emitidos por cualquier diputado o senador al fundamentar su voto.
 
@@ -438,8 +438,8 @@ Convocado por el Presidente de la República, el Congreso sólo podrá ocuparse 
 Convocado por el Presidente del Senado podrá ocuparse de cualquier materia de su incumbencia.
 El Congreso se entenderá siempre convocado de pleno derecho para conocer de la declaración de estado de sitio.
 
-Artículo 53.- La Cámara de Diputados y el Senado no podran entrar en sesión ni adoptar acuerdos sin la concurrencia de la tercera parte de sus miembros en ejercicio.
-Cada una de las Cámaras establecera en su propio reglamento la clausura del debate por simple mayoría.
+Artículo 53.- La Cámara de Diputados y el Senado no podrán entrar en sesión ni adoptar acuerdos sin la concurrencia de la tercera parte de sus miembros en ejercicio.
+Cada una de las Cámaras establecerá en su propio reglamento la clausura del debate por simple mayoría.
 
 ### Normas comunes para los diputados y senadores
 
@@ -476,7 +476,7 @@ Ningún diputado o senador, desde el día de su elección o designación, o desd
 En caso de ser arrestado algún diputado o senador por delito flagrante, será puesto inmediatamente a disposición del Tribunal de Alzada respectivo, con la información sumaria correspondiente. El Tribunal procederá, entonces, conforme a lo dispuesto en el inciso anterior.
 Desde el momento en que se declare, por resolución firme, haber lugar a formación de causa, queda el diputado o senador acusado suspendido de su cargo y sujeto al juez competente.
 
-Artículo 59.- Los diputados y senadores percibiran como única renta una dieta equivalente a la remuneración de un Ministro de Estado incluidas todas las asignaciones que a éstos correspondan.
+Artículo 59.- Los diputados y senadores percibirán como única renta una dieta equivalente a la remuneración de un Ministro de Estado incluidas todas las asignaciones que a éstos correspondan.
 
 ### Materias de Ley
 
@@ -530,22 +530,23 @@ Las normas legales a las cuales la Constitución confiere el carácter de ley or
 Las normas legales de quórum calificado se establecerán, modificarán o derogarán por la mayoría absoluta de los diputados y senadores en ejercicio.
 Las demás normas legales requerirán la mayoría de los miembros presentes de cada Cámara, o las mayorías que sean aplicables conforme a los artículos 65 y siguientes.
 
-Artículo 64.- El proyecto de Ley de Presupuéstos debera ser presentado por el Presidente de la República al Congreso Nacional, a lo menos con tres meses de anterioridad a la fecha en que debe empezar a regir; y si el Congreso no lo despachare dentro de los sesenta días contados desde su presentación, regira el proyecto presentado por el Presidente de la República.
-El Congreso Nacional no podra aumentar ni disminuir la estimación de los ingresos: sólo podra reducir los gastos contenidos en el proyecto de Ley de Presupuéstos, salvo los que estén establecidos por ley permanente.
-La estimación del rendimiento de los recursos que consulta la Ley de Presupuéstos y de los nuevos que establezca cualquiera otra iniciativa de ley, correspondera exclusivamente al Presidente, previo informe de los organismos técnicos respectivos.
-No podra el Congreso aprobar ningún nuevo gasto con cargo a los fondos de la Nación sin que se indiquen, al mismo tiempo, las fuentes de recursos necesarios para atender dicho gasto. Si la fuente de recursos otorgada por el Congreso fuere insuficiente para financiar cualquier nuevo gasto que se apruebe, el Presidente de la República, al promulgar la ley, previo informe favorable del servicio o institución a través del cual se recaude el nuevo ingreso, refrendado por la Contraloría General de la República, debera reducir proporcionalmente todos los gastos, cualquiera que sea su naturaleza.
+Artículo 64.- El proyecto de Ley de Presupuestos deberá ser presentado por el Presidente de la República al Congreso Nacional, a lo menos con tres meses de anterioridad a la fecha en que debe empezar a regir; y si el Congreso no lo despachare dentro de los sesenta días contados desde su presentación, regirá el proyecto presentado por el Presidente de la República.
+El Congreso Nacional no podrá aumentar ni disminuir la estimación de los ingresos: sólo podrá reducir los gastos contenidos en el proyecto de Ley de Presupuestos, salvo los que estén establecidos por ley permanente.
+La estimación del rendimiento de los recursos que consulta la Ley de Presupuestos y de los nuevos que establezca cualquiera otra iniciativa de ley, corresponderá exclusivamente al Presidente, previo informe de los organismos técnicos respectivos.
+No podrá el Congreso aprobar ningún nuevo gasto con cargo a los fondos de la Nación sin que se indiquen, al mismo tiempo, las fuentes de recursos necesarios para atender dicho gasto.
+Si la fuente de recursos otorgada por el Congreso fuere insuficiente para financiar cualquier nuevo gasto que se apruebe, el Presidente de la República, al promulgar la ley, previo informe favorable del servicio o institución a través del cual se recaude el nuevo ingreso, refrendado por la Contraloría General de la República, deberá reducir proporcionalmente todos los gastos, cualquiera que sea su naturaleza.
 
 Artículo 65.- El proyecto que fuere desechado en general en la Cámara de su origen no podrá renovarse sino después de un año. Sin embargo, el Presidente de la República, en caso de un proyecto de su iniciativa, podrá solicitar que el mensaje pase a la otra Cámara y, si ésta lo aprueba en general por los dos tercios de sus miembros presentes, volverá a la de su origen y sólo se considerará desechado si esta Cámara lo rechaza con el voto de los dos tercios de sus miembros presentes.
 
 Artículo 66.- Todo proyecto puede ser objeto de adiciones o correcciones en los trámites que corresponda, tanto en la Cámara de Diputados como en el Senado; pero en ningún caso se admitirán las que no tengan relación directa con las ideas matrices o fundamentales del proyecto.
 Aprobado un proyecto en la Cámara de su origen, pasará inmediatamente a la otra para su discusión.
 
-Artículo 67.- El proyecto que fuere desechado en su totalidad por la Cámara revisora sera considerado por una comisión mixta de igual numero de diputados y senadores, la que propondra la forma y modo de resolver las dificultades. El proyecto de la comisión mixta volvera a la Cámara de origen y, para ser aprobado tanto en ésta como en la revisora, se requerira de la mayoría de los miembros presentes en cada una de ellas. Si la comisión mixta no llegare a acuerdo, o si la Cámara de origen rechazare el proyecto de esa comisión, el Presidente de la República podra pedir que esa Cámara se pronuncie sobre si insiste por los dos tercios de sus miembros presentes en el proyecto que aprobó en el primer trámite. Acordada la insistencia, el proyecto pasara por segúnda vez a la Cámara que lo desechó, y sólo se entendera que ésta lo reprueba si concurren para ello las dos terceras partes de sus miembros presentes.
+Artículo 67.- El proyecto que fuere desechado en su totalidad por la Cámara revisora será considerado por una comisión mixta de igual número de diputados y senadores, la que propondrá la forma y modo de resolver las dificultades. El proyecto de la comisión mixta volverá a la Cámara de origen y, para ser aprobado tanto en ésta como en la revisora, se requerirá de la mayoría de los miembros presentes en cada una de ellas. Si la comisión mixta no llegare a acuerdo, o si la Cámara de origen rechazare el proyecto de esa comisión, el Presidente de la República podrá pedir que esa Cámara se pronuncie sobre si insiste por los dos tercios de sus miembros presentes en el proyecto que aprobó en el primer trámite. Acordada la insistencia, el proyecto pasará por segunda vez a la Cámara que lo desechó, y sólo se entenderá que ésta lo reprueba si concurren para ello las dos terceras partes de sus miembros presentes.
 
 Artículo 68.- El proyecto que fuere adicionado o enmendado por la Cámara revisora volverá a la de su origen, y en ésta se entenderán aprobadas las adiciones y enmiendas con el voto de la mayoría de los miembros presentes.
 Si las adiciones o enmiendas fueren reprobadas, se formará una comisión mixta y se procederá en la misma forma indicada en el artículo anterior. En caso de que en la comisión mixta no se produzca acuerdo para resolver las divergencias entre ambas Cámaras, o si alguna de las Cámaras rechazare la proposición de la comisión mixta, el Presidente de la República podrá solicitar a la Cámara de origen que considere nuevamente el proyecto aprobado en segundo trámite por la revisora. Si la Cámara de origen rechazare las adiciones o modificaciones por los dos tercios de sus miembros presentes, no habrá ley en esa parte o en su totalidad; pero, si hubiere mayoría para el rechazo, menor a los dos tercios, el proyecto pasará a la Cámara revisora, y se entenderá aprobado con el voto conforme de las dos terceras partes de los miembros presentes de esta última.
 
-Artículo 69.- Aprobado un proyecto por ambas Cámaras sera remitido al Presidente de la República, quien, si tambien lo aprueba, dispondra su promulgación como ley.
+Artículo 69.- Aprobado un proyecto por ambas Cámaras será remitido al Presidente de la República, quien, si también lo aprueba, dispondrá su promulgación como ley.
 
 Artículo 70.- Si el Presidente de la República desaprueba el proyecto, lo devolverá a la Cámara de su origen con las observaciones convenientes, dentro del término de treinta días.
 En ningún caso se admitirán las observaciones que no tengan relación directa con las ideas matrices o fundamentales del proyecto, a menos que hubieran sido consideradas en el mensaje respectivo.
@@ -586,7 +587,7 @@ El juez letrado en lo civil o criminal más antiguo de asiento de Corte o el jue
 Sin embargo, cuando se trate del nombramiento de ministros de Corte suplentes, la designación podrá hacerse por la Corte Suprema y, en el caso de los jueces, por la Corte de Apelaciones respectiva. Estas designaciones no podrán durar más de sesenta días y no serán prorrogables. En caso de que los tribunales superiores mencionados no hagan uso de esta facultad o de que haya vencido el plazo de la suplencia, se procederá a proveer las vacantes en la forma ordinaria señalada precedentemente.
 
 Artículo 76.- Los jueces son personalmente responsables por los delitos de cohecho, falta de observancia en materia sustancial de las leyes que reglan el procedimiento, denegación y torcida administración de justicia y, en general, de toda prevaricación en que incurran en el desempeño de sus funciones.
-Tratándose de los miembros de la Corte Suprema, la ley determinara los casos y el modo de hacer efectiva esta responsabilidad.
+Tratándose de los miembros de la Corte Suprema, la ley determinará los casos y el modo de hacer efectiva esta responsabilidad.
 
 Artículo 77.- Los jueces permanecerán en sus cargos durante su buen comportamiento; pero los inferiores desempeñarán su respectiva judicatura por el tiempo que determinen las leyes.
 No obstante lo anterior, los jueces cesarán en sus funciones al cumplir 75 años de edad; o por renuncia o incapacidad legal sobreviniente o en caso de ser depuestos de sus destinos, por causa legalmente sentenciada. La norma relativa a la edad no regirá respecto al Presidente de la Corte Suprema, quién continuará en su cargo hasta el término de su período.
@@ -702,7 +703,7 @@ Los miembros de estos tribunales durarán cuatro años en sus funciones y tendr�
 Estos tribunales procederán como jurado en la apreciación de los hechos y sentenciarán con arreglo a derecho.
 La ley determinará las demás atribuciones de éstos tribunales y regulará su organización y funcionamiento.
 
-Artículo 86.- Anualmente, se destinaran en la ley de Presupuesto de la Nación los fondos necesarios para la organización y funcionamiento de éstos tribunales, cuyas plantas, remuneraciones y estatuto del personal seran establecidos por ley.
+Artículo 86.- Anualmente, se destinarán en la ley de Presupuesto de la Nación los fondos necesarios para la organización y funcionamiento de estos tribunales, cuyas plantas, remuneraciones y estatuto del personal serán establecidos por ley.
 
 ## CAPITULO IX
 Contraloría General de la República
@@ -710,12 +711,12 @@ Contraloría General de la República
 Artículo 87.- Un organismo autónomo con el nombre de Contraloría General de la República ejercerá el control de la legalidad de los actos de la Administración, fiscalizará el ingreso y la inversión de los fondos del Fisco, de las municipalidades y de los demás organismos y servicios que determinen las leyes; examinará y juzgará las cuentas de las personas que tengan a su cargo bienes de esas entidades; llevará la contabilidad general de la Nación, y desempeñará las demás funciones que le encomiende la ley orgánica constitucional respectiva.
 El Contralor General de la República será designado por el Presidente de la República con acuerdo del Senado adoptado por la mayoría de sus miembros en ejercicio, será inamovible en su cargo y cesará en él al cumplir 75 años de edad.
 
-Artículo 88.- En el ejercicio de la función de control de legalidad, el Contralor General tomara razón de los decretos y resoluciones que, en conformidad a la ley, deben tramitarse por la Contraloría o representara la ilegalidad de que puedan adolecer; pero debera darles curso cuando, a pesar de su representación, el Presidente de la República insista con la firma de todos sus Ministros, caso en el cual debera enviar copia de los respectivos decretos a la Cámara de Diputados. En ningún caso dara curso a los decretos de gastos que excedan el límite señalado en la Constitución y remitira copia íntegra de los antecedentes a la misma Cámara.
-Correspondera, asimismo, al Contralor General de la República tomar razón de los decretos con fuerza de ley, debiendo representarlos cuando ellos excedan o contravengan la ley delegatoria o sean contrarios a la Constitución.
-Si la representación tuviere lugar con respecto a un decreto con fuerza de ley, a un decreto promulgatorio de una ley o de una reforma constitucional por apartarse del texto aprobado, o a un decreto o resolución por ser contrario a la Constitución, el Presidente de la República no tendra la facultad de insistir, y en caso de no conformarse con la representación de la Contraloría debera remitir los antecedentes al Tribunal Constitucional dentro del plazo de diez días, a fin de que éste resuelva la controversia.
-En lo demás, la organización, el funcionamiento y las atribuciones de la Contraloría General de la República seran materia de una ley orgánica constitucional.
+Artículo 88.- En el ejercicio de la función de control de legalidad, el Contralor General tomará razón de los decretos y resoluciones que, en conformidad a la ley, deben tramitarse por la Contraloría o representará la ilegalidad de que puedan adolecer; pero deberá darles curso cuando, a pesar de su representación, el Presidente de la República insista con la firma de todos sus Ministros, caso en el cual deberá enviar copia de los respectivos decretos a la Cámara de Diputados. En ningún caso dará curso a los decretos de gastos que excedan el límite señalado en la Constitución y remitirá copia íntegra de los antecedentes a la misma Cámara.
+Corresponderá, asimismo, al Contralor General de la República tomar razón de los decretos con fuerza de ley, debiendo representarlos cuando ellos excedan o contravengan la ley delegatoria o sean contrarios a la Constitución.
+Si la representación tuviere lugar con respecto a un decreto con fuerza de ley, a un decreto promulgatorio de una ley o de una reforma constitucional por apartarse del texto aprobado, o a un decreto o resolución por ser contrario a la Constitución, el Presidente de la República no tendrá la facultad de insistir, y en caso de no conformarse con la representación de la Contraloría deberá remitir los antecedentes al Tribunal Constitucional dentro del plazo de diez días, a fin de que éste resuelva la controversia.
+En lo demás, la organización, el funcionamiento y las atribuciones de la Contraloría General de la República serán materia de una ley orgánica constitucional.
 
-Artículo 89.- Las Tesorerías del Estado no podran efectuar ningún pago sino en virtud de un decreto o resolución expedido por autoridad competente, en que se exprese la ley o la parte del presupuesto que autorice aquel gasto. Los pagos se efectuaran considerando, además, el orden cronológico establecido en ella y previa refrendación presupuestaria del documento que ordene el pago.
+Artículo 89.- Las Tesorerías del Estado no podrán efectuar ningún pago sino en virtud de un decreto o resolución expedido por autoridad competente, en que se exprese la ley o la parte del presupuesto que autorice aquel gasto. Los pagos se efectuarán considerando, además, el orden cronológico establecido en ella y previa refrendación presupuestaria del documento que ordene el pago.
 
 ## CAPITULO X
 Fuerzas Armadas, de Orden y Seguridad Pública
@@ -725,10 +726,10 @@ Las Fuerzas Armadas están integradas sólo por el Ejército, la Armada y la Fue
 Las Fuerzas de Orden y Seguridad Pública están integradas sólo por Carabineros e Investigaciones, constituyen la fuerza pública y existen para dar eficacia al derecho, garantizar el orden público y la seguridad pública interior, en la forma que lo determinen sus respectivas leyes orgánicas. Carabineros se integrará, además, con las Fuerzas Armadas en la misión de garantizar el orden institucional de la República.
 Las Fuerzas Armadas y Carabineros, como cuerpos armados, son esencialmente obedientes y no deliberantes. Las fuerzas dependientes del Ministerio encargado de la Defensa Nacional son además profesionales, jerarquizadas y disciplinadas.
 
-Artículo 91.- La incorporación a las plantas y dotaciones de las Fuerzas Armadas y de Carabineros sólo podra hacerse a través de sus propias Escuelas, con excepción de los escalafones profesionales y de empleados civiles que determine la ley.
+Artículo 91.- La incorporación a las plantas y dotaciones de las Fuerzas Armadas y de Carabineros sólo podrá hacerse a través de sus propias Escuelas, con excepción de los escalafones profesionales y de empleados civiles que determine la ley.
 
-Artículo 92.- Ninguna persona, grupo u organización podra poseer o tener armas u otros elementos similares que señale una ley aprobada con quórum calificado, sin autorización otorgada en conformidad a ésta.
-El Ministerio encargado de la Defensa Nacional o un organismo de su dependencia ejercera la supervigilancia y control de las armás en la forma que determine la ley.
+Artículo 92.- Ninguna persona, grupo u organización podrá poseer o tener armas u otros elementos similares que señale una ley aprobada con quórum calificado, sin autorización otorgada en conformidad a ésta.
+El Ministerio encargado de la Defensa Nacional o un organismo de su dependencia ejercerá la supervigilancia y control de las armas en la forma que determine la ley.
 
 Artículo 93.- Los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, y el General Director de Carabineros serán designados por el Presidente de la República de entre los cinco oficiales generales de mayor antigüedad, que reúnan las calidades que los respectivos estatutos institucionales exijan para tales cargos; durarán cuatro años en sus funciones, no podrán ser nombrados para un nuevo período y gozarán de inamovilidad en su cargo.
 En casos calificados, el Presidente de la República con acuerdo del Consejo de Seguridad Nacional, podrá llamar a retiro a los Comandantes en Jefe del Ejército, de la Armada, de la Fuerza Aérea o al General Director de Carabineros, en su caso.
@@ -755,12 +756,12 @@ Un reglamento dictado por el propio Consejo establecerá las demás disposicione
 ## CAPITULO XII
 Banco Central
 
-Artículo 97.- Existira un organismo autónomo, con patrimonio propio, de carácter técnico, denominado Banco Central, cuya composición, organización, funciones y atribuciones determinara una ley orgánica constitucional.
+Artículo 97.- Existirá un organismo autónomo, con patrimonio propio, de carácter técnico, denominado Banco Central, cuya composición, organización, funciones y atribuciones determinará una ley orgánica constitucional.
 
-Artículo 98.- El Banco Central sólo podra efectuar operaciones con instituciones financieras, sean públicas o privadas. De manera alguna podra otorgar a ellas su garantía, ni adquirir documentos emitidos por el Estado, sus organismos o empresas.
-Ningún gasto público o préstamo podra financiarse con créditos directos o indirectos del Banco Central.
-Cón todo, en caso de guerra exterior o de peligro de ella, que calificara el Consejo de Seguridad Nacional, el Banco Central podra obtener, otorgar o financiar créditos al Estado y entidades públicas o privadas.
-El Banco Central no podra adoptar ningún acuerdo que signifique de una manera directa o indirecta establecer normás o requisitos diferentes o discriminatorios en relación a personas, instituciones o entidades que realicen operaciones de la misma naturaleza.
+Artículo 98.- El Banco Central sólo podrá efectuar operaciones con instituciones financieras, sean públicas o privadas. De manera alguna podrá otorgar a ellas su garantía, ni adquirir documentos emitidos por el Estado, sus organismos o empresas.
+Ningún gasto público o préstamo podrá financiarse con créditos directos o indirectos del Banco Central.
+Con todo, en caso de guerra exterior o de peligro de ella, que calificará el Consejo de Seguridad Nacional, el Banco Central podrá obtener, otorgar o financiar créditos al Estado y entidades públicas o privadas.
+El Banco Central no podrá adoptar ningún acuerdo que signifique de una manera directa o indirecta establecer normas o requisitos diferentes o discriminatorios en relación a personas, instituciones o entidades que realicen operaciones de la misma naturaleza.
 
 ## CAPITULO XIII
 Gobierno y Administración Interior del Estado
@@ -796,7 +797,7 @@ Artículo 105.- En cada provincia existirá una gobernación que será un órgan
 Corresponde al gobernador ejercer, de acuerdo a las instrucciones del intendente, la supervigilancia de los servicios públicos existentes en la provincia. La ley determinará las atribuciones que podrá delegarle el intendente y las demás que le corresponden.
 En cada provincia existirá un consejo económico y social provincial de carácter consultivo. La ley orgánica constitucional respectiva determinará su composición, forma de designación de sus integrantes, atribuciones y funcionamiento.
 
-Artículo 106.- Los gobernadores, en los casos y forma que determine la ley, podran designar delegados para el ejercicio de sus facultades en una o más localidades.
+Artículo 106.- Los gobernadores, en los casos y forma que determine la ley, podrán designar delegados para el ejercicio de sus facultades en una o más localidades.
 
 ### Administración Comunal
 
@@ -852,10 +853,10 @@ La ley orgánica constitucional relativa al Congreso regulará en lo demás lo c
 
 Artículo 118.- DEROGADO
 
-Artículo 119.- La convocatoria a plebiscito debera efectuarse dentro de los treinta días siguientes a aquel en que ambas Cámaras insistan en el proyecto aprobado por ellas, y se ordenara mediante decreto supremo que fijara la fecha de la votación plebiscitaria, la que no podra tener lugar antes de treinta días ni después de sesenta, contado desde la públicación de dicho decreto. Transcurrido éste plazo sin que el Presidente convoque a plebiscito, se promulgara el proyecto que hubiere aprobado el Congreso.
-El decreto de convocatoria contendra, según corresponda, el proyecto aprobado por el Congreso Pleno y vetado totalmente por el Presidente de la República, o las cuestiones del proyecto en las cuales el Congreso haya insistido. En éste último caso, cada una de las cuestiones en desacuerdo debera ser votada separadamente en el plebiscito.
-El Tribunal Calificador comunicara al Presidente de la República el resultado del plebiscito, y especificara el texto del proyecto aprobado por la ciudadanía, el que debera ser promulgado como reforma constitucional dentro de los cinco días siguientes a dicha comunicación.
-Una vez promulgado el proyecto y desde la fecha de su vigencia, sus disposiciones formaran parte de la Constitución y se tendran por incorporadas a ésta.
+Artículo 119.- La convocatoria a plebiscito deberá efectuarse dentro de los treinta días siguientes a aquel en que ambas Cámaras insistan en el proyecto aprobado por ellas, y se ordenará mediante decreto supremo que fijará la fecha de la votación plebiscitaria, la que no podrá tener lugar antes de treinta días ni después de sesenta, contado desde la publicación de dicho decreto. Transcurrido este plazo sin que el Presidente convoque a plebiscito, se promulgará el proyecto que hubiere aprobado el Congreso.
+El decreto de convocatoria contendrá, según corresponda, el proyecto aprobado por el Congreso Pleno y vetado totalmente por el Presidente de la República, o las cuestiones del proyecto en las cuales el Congreso haya insistido. En este último caso, cada una de las cuestiones en desacuerdo deberá ser votada separadamente en el plebiscito.
+El Tribunal Calificador comunicará al Presidente de la República el resultado del plebiscito, y especificará el texto del proyecto aprobado por la ciudadanía, el que deberá ser promulgado como reforma constitucional dentro de los cinco días siguientes a dicha comunicación.
+Una vez promulgado el proyecto y desde la fecha de su vigencia, sus disposiciones formarán parte de la Constitución y se tendrán por incorporadas a ésta.
 
 Artículo final.- La presente Constitución entrará en vigencia seis meses después de ser aprobada mediante plebiscito, con excepción de las disposiciones transitorias novena y vigésimatercera que tendrán vigor desde la fecha de esa aprobación. Su texto oficial será el que consta en este decreto ley.
 Un decreto ley determinará la oportunidad en la cual se efectuará el señalado plebiscito, así como las normas a que él se sujetará, debiendo establecer las reglas que aseguren el sufragio personal, igualitario y secreto y, para los nacionales, obligatorio.
@@ -863,21 +864,21 @@ La norma contenida en el inciso anterior entrará en vigencia desde la fecha de 
 
 ## DISPOSICIONES TRANSITORIAS
 
-PRIMERA.- Mientras se dictan las disposiciones que den cumplimiento a lo prescrito en el inciso tercero del numero 1o. del artículo 19 de esta Constitución, continuaran rigiendo los preceptos legales actualmente en vigor.
+PRIMERA.- Mientras se dictan las disposiciones que den cumplimiento a lo prescrito en el inciso tercero del número 1º. del artículo 19 de esta Constitución, continuarán rigiendo los preceptos legales actualmente en vigor.
 
-SEGUNDA.- Mientras se dicta el nuevo Código de Minería, que debera regular, entre otras materias, la forma, condiciones y efectos de las concesiones mineras a que se refieren los incisos séptimo al décimo del numero 24o. del artículo 19 de esta Constitución Politica, los titulares de derechos mineros seguiran regidos por la legislación que estuviere en vigor al momento en que entre en vigencia esta Constitución, en calidad de concesionarios.
-Los derechos mineros a que se refiere el inciso anterior subsistiran bajo el imperio del nuevo Código, pero en cuanto a sus goces y cargas y en lo tocante a su extinción, prevaleceran las disposiciones de dicho nuevo Código de Minería. Este nuevo Código debera otorgar plazo a los concesionarios para cumplir los nuevos requisitos que se establezcan para merecer amparo legal.
-En el lapso que medie entre el momento en que se ponga en vigencia esta Constitución y aquel en que entre en vigor el nuevo Código de Minería, la constitución de derechos mineros con el carácter de concesión señalado en los incisos séptimo al décimo del numero 24o. del artículo 19 de esta Constitución, continuara regida por la legislación actual, al igual que las concesiones mismás que se otorguen.
+SEGUNDA.- Mientras se dicta el nuevo Código de Minería, que deberá regular, entre otras materias, la forma, condiciones y efectos de las concesiones mineras a que se refieren los incisos séptimo al décimo del número 24º. del artículo 19 de esta Constitución Política, los titulares de derechos mineros seguirán regidos por la legislación que estuviere en vigor al momento en que entre en vigencia esta Constitución, en calidad de concesionarios.
+Los derechos mineros a que se refiere el inciso anterior subsistirán bajo el imperio del nuevo Código, pero en cuanto a sus goces y cargas y en lo tocante a su extinción, prevalecerán las disposiciones de dicho nuevo Código de Minería. Este nuevo Código deberá otorgar plazo a los concesionarios para cumplir los nuevos requisitos que se establezcan para merecer amparo legal.
+En el lapso que medie entre el momento en que se ponga en vigencia esta Constitución y aquél en que entre en vigor el nuevo Código de Minería, la constitución de derechos mineros con el carácter de concesión señalado en los incisos séptimo al décimo del número 24º. del artículo 19 de esta Constitución, continuará regida por la legislación actual, al igual que las concesiones mismas que se otorguen.
 
-TERCERA.- La gran minería del cobre y las empresas consideradas como tal, nacionalizadas en virtud de lo prescrito en la disposición 17a. transitoria de la Constitución Política de 1925, continuaran rigiéndose por las normás constitucionales vigentes a la fecha de promulgación de esta Constitución.
+TERCERA.- La gran minería del cobre y las empresas consideradas como tal, nacionalizadas en virtud de lo prescrito en la disposición 17a. transitoria de la Constitución Política de 1925, continuarán rigiéndose por las normas constitucionales vigentes a la fecha de promulgación de esta Constitución.
 
 CUARTA.- La primera vez que se constituya el Tribunal Constitucional, los Ministros de la Corte Suprema a que se refiere la letra a) del artículo 81, que hayan sido elegidos en la segunda y tercera votación, y el abogado designado por el Presidente de la República a que se refiere la letra b) de dicho artículo, durarán cuatro años en sus cargos y los restantes, ocho años.
 
-QUINTA.- Se entenderá que las leyes actualmente en vigor sobre materias que conforme a esta Constitución deben ser objeto de leyes orgánicas constitucionales o aprobadas con quórum calificado, cumplen éstos requisitos y seguirán aplicándose en lo que no sean contrarias a la Constitución, mientras no se dicten los correspondientes cuerpos legales.
+QUINTA.- Se entenderá que las leyes actualmente en vigor sobre materias que conforme a esta Constitución deben ser objeto de leyes orgánicas constitucionales o aprobadas con quórum calificado, cumplen estos requisitos y seguirán aplicándose en lo que no sean contrarias a la Constitución, mientras no se dicten los correspondientes cuerpos legales.
 
-SEXTA.- No obstante lo dispuesto en el numero 8o. del artículo 32, mantendran su vigencia los preceptos legales que a la fecha de promulgación de esta Constitución hubieren reglado materias no comprendidas en el artículo 60, mientras ellas no sean expresamente derogadas por ley.
+SEXTA.- No obstante lo dispuesto en el número 8º. del artículo 32, mantendrán su vigencia los preceptos legales que a la fecha de promulgación de esta Constitución hubieren reglado materias no comprendidas en el artículo 60, mientras ellas no sean expresamente derogadas por ley.
 
-SEPTIMA.- Sin perjuicio de lo dispuesto en el inciso tercero del numero 20o. del artículo 19, mantendran su vigencia las disposiciones legales que hayan establecido tributos de afectación a un destino determinado, mientras no sean expresamente derogadas.
+SEPTIMA.- Sin perjuicio de lo dispuesto en el inciso tercero del número 20º. del artículo 19, mantendrán su vigencia las disposiciones legales que hayan establecido tributos de afectación a un destino determinado, mientras no sean expresamente derogadas.
 
 OCTAVA.- Las normas relativas a la edad establecidas en el inciso segundo del artículo 77 regirán a contar del 1º de enero de 1998, respecto de los magistrados de los tribunales superiores de justicia que se hallaban en servicio al 11 de marzo de 1981.
 Las vacantes de ministro de la Corte Suprema correspondientes a las cuatro nuevas plazas que se crean en virtud de la modificación al artículo 75 y las que se produzcan en dicho tribunal al aplicarse la norma relativa a la edad a que se refiere el inciso precedente, serán provistas en conformidad a las normas siguientes.
@@ -1033,5 +1034,5 @@ decreto ley Nº 679, de 1974.
 NOTA:
 La LEY 19846, publicada el 04.01.2003, estableció las nuevas normas sobre calificación cinematográfica, a que se hace referencia. El Art. 32 de la misma ley derogó el decreto ley N° 679.
 
-Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio Fernández Fernéndez, Ministro del Interior.- René Rojas Galdames, Ministro de Relaciones Exteriores.- César Raúl Benavides Escobar, Teniente General, Ministro de Defensa Nacional.- José Luis Federici Rojas, Ministro de Economía, Fomento y Reconstrucción.- Sergio de Castro Spikula, Ministro de Hacienda.- Alfredo Prieto Bafalluy, Ministro de Educación Pública.- Mónica Madariaga Gutiérrez, Ministro de Justicia.- Patricio Torres Rojas, General de Brigada, Ministro de Obras Públicas.- Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura.- Rene Peri Fagerstrom, General Inspector de Carabineros, Ministro de Bienes Nacionales.- Jose Piñera Echenique, Ministro del Trabajo y Previsión Social.- Alejandro Medina Lois, General de Brigada, Ministro de Salud.- Carlos Quiñones López, Contralmirante, Ministro de Minería.- Jaime Estrada Leigh, General de Brigada, Ministro de la Vivienda y Urbanismo.- Caupolicán Boisset Mujica, General de Brigada Aérea, Ministro de Transportes y Telecomunicaciones.- Sergio Badiola Broberg, General de Brigada, Ministro Secretario General de Gobierno.
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio Fernández Fernández, Ministro del Interior.- René Rojas Galdames, Ministro de Relaciones Exteriores.- César Raúl Benavides Escobar, Teniente General, Ministro de Defensa Nacional.- José Luis Federici Rojas, Ministro de Economía, Fomento y Reconstrucción.- Sergio de Castro Spikula, Ministro de Hacienda.- Alfredo Prieto Bafalluy, Ministro de Educación Pública.- Mónica Madariaga Gutiérrez, Ministro de Justicia.- Patricio Torres Rojas, General de Brigada, Ministro de Obras Públicas.- Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura.- Rene Peri Fagerstrom, General Inspector de Carabineros, Ministro de Bienes Nacionales.- Jose Piñera Echenique, Ministro del Trabajo y Previsión Social.- Alejandro Medina Lois, General de Brigada, Ministro de Salud.- Carlos Quiñones López, Contralmirante, Ministro de Minería.- Jaime Estrada Leigh, General de Brigada, Ministro de la Vivienda y Urbanismo.- Caupolicán Boisset Mujica, General de Brigada Aérea, Ministro de Transportes y Telecomunicaciones.- Sergio Badiola Broberg, General de Brigada, Ministro Secretario General de Gobierno.
 Lo que transcribo a Ud. para su conocimiento.- Mario Duvauchelle Rodríguez, Capitán de Navío JT, Secretario de Legislación de la Junta de Gobierno.
