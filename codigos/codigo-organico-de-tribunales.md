@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1995-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1995-05-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1995-03-01
-fetched_at: 2026-08-03T00:59:26.502243+00:00
+version_date: 1995-05-18
+fetched_at: 2026-08-03T00:59:32.503119+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -361,6 +361,7 @@ Art. 53. El Presidente de la Corte Suprema conocerá en primera instancia:
 2°) De las acusaciones o demandas civiles que se entablen contra uno o más miembros o fiscales de las Cortes de Apelaciones para hacer efectiva su responsabilidad por actos cometidos en el desempeño de sus funciones;
 3°) De las causas de presas, de extradicción pasiva y demás que deban juzgarse con arreglo al Derecho Internacional; y
 4°) De los demás asuntos que otras leyes entreguen a su conocimiento.
+En estas causas no procederán los recursos de casación en la forma ni en el fondo en contra de la sentencia dictada por la sala que conozca del recurso de apelación que se interpusiere en contra de la resolución del Presidente.
 
 ## TITULO V
 Las Cortes de Apelaciones
@@ -412,11 +413,13 @@ Producido este caso y si no bastaren los relatores en propiedad, el tribunal des
 
 Art. 63. Las Cortes de Apelaciones conocerán:
 1°) En segunda instancia, de las causas civiles, criminales y del trabajo y de los actos no contenciosos de que hayan conocido en primera los jueces de letras de su jurisdicción o uno de sus ministros.
-2°) En única instancia de los recursos de casación en la forma que se interpongan en contra de las sentencias dictadas por los tribunales indicados en el número anterior.
+2°) En única instancia:
+a) De los recursos de casación en la forma que se interpongan en contra de las sentencias dictadas por los tribunales indicados en el número anterior y de las sentencias definitivas de primera instancia dictadas por jueces árbitros, y
+b) De los recursos de queja que se deduzcan en contra de jueces de letras, jueces de policía local, jueces árbitros y órganos que ejerzan jurisdicción, dentro de su territorio jurisdiccional.
 3°) De las consultas de las sentencias civiles y criminales dictadas por esos mismos tribunales.
 4°) En primera instancia:
 a) De los desafueros de los Diputados y Senadores;
-b) De los recursos de amparo; y
+b) De los recursos de amparo y de protección; y
 c) De los procesos por amovilidad que se entablen en contra de los jueces de letras.
 5°) De los demás asuntos que otras leyes les encomienden.
 
@@ -426,7 +429,7 @@ Art. 65. Suprimido.
 
 Art. 66. El conocimiento de todos los asuntos entregados a la competencia de las Cortes de Apelaciones pertenecerá a las salas en que estén divididas, a menos que la ley disponga expresamente que deban conocer de ellos en Pleno.
 Cada sala representa a la Corte en los asuntos de que conoce.
-En caso que ante una misma Corte de Apelaciones se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma. Esta disposición no se aplicará al recurso de queja, sin perjuicio de las facultades propias del tribunal.
+En caso que ante una misma Corte de Apelaciones se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma. En caso que, además de haberse interpuesto recursos jurisdiccionales, se haya deducido recurso de queja, éste se acumulará a los recursos jurisdiccionales, y deberá resolverse conjuntamente con ellos.
 Corresponderá a todo el tribunal el ejercicio de las facultades disciplinarias, administrativas y económicas, sin perjuicio de que las salas puedan ejercer las primeras en los casos de los artículos 542 y 543 en los asuntos que estén conociendo. También corresponderá a todo el tribunal el conocimiento de los desafueros de los Diputados y de los Senadores y de los juicios de amovilidad en contra de los jueces de letras.
 No obstante lo dispuesto en el inciso anterior, los recursos de queja serán conocidos y fallados por las salas del tribunal, según la distribución que de ellos haga el Presidente; pero la aplicación de medidas disciplinarias corresponderá al tribunal pleno.
 La Corte de Apelaciones de Santiago conocerá en pleno de los recursos de apelación y casación en la forma y de la consulta, en su caso, que incidan en los juicios de amovilidad y en las acusaciones y demandas civiles contra los ministros y el fiscal de la Corte Suprema.
@@ -537,9 +540,9 @@ La Corte Suprema
 ### § 1. Su organización y atribuciones
 
 Art. 93. La Corte Suprema se compondrá de diecisiete miembros, uno de los cuales será su Presidente.
-El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones tres años, pudiendo ser reelegido.
+El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones tres años, no pudiendo ser reelegido.
 Los demás miembros se llamarán ministros y gozarán de precedencia los unos respecto de los otros por el orden de su antigüedad.
-La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y seis relatores.
+La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y ocho relatores.
 
 Art. 94. La Corte Suprema tendrá su sede en la capital de la República.
 
@@ -561,14 +564,14 @@ Art. 96. Corresponde a la Corte Suprema en pleno:
 7° Conocer de todos los asuntos que leyes especiales le encomiendan expresamente.
 Todos los autos acordados de carácter y aplicación general que dicte la Corte Suprema deberán ser publicados en el Diario Oficial.
 
-Art. 97. Derogado.
+Art. 97. Las sentencias que dicte la Corte Suprema al fallar recursos de casación de fondo, de forma, de queja, de protección, de amparo y de revisión no son susceptibles de recurso alguno, salvo el de aclaración, rectificación o enmienda que establece el artículo 182 del Código de Procedimiento Civil. Toda reposición o reconsideración a las resoluciones a que se refiere este artículo es inadmisible y será rechazada de plano por el Presidente de la Corte, salvo la reposición que se establece en los artículos 778, 781 y 782 del Código de Procedimiento Civil.
 
 Art. 98. Las salas de la Corte Suprema conocerán:
 1.- De los recursos de casación en el fondo:
 2.- De los recursos de casación en la forma interpuestos contra las sentencias dictadas por las Cortes de Apelaciones o por un tribunal arbitral de segunda instancia constituido por árbitros de derecho en los casos en que estos árbitros hayan conocido de negocios de la competencia de dichas Cortes;
 3.- De las apelaciones deducidas contra las sentencias dictadas por las Cortes de Apelaciones en los recursos de amparo y de protección;
 4.- De los recursos de revisión;
-5.- En segunda instancia, de las causas a que se refieren los números 2° y 3° del artículo 53. En estas causas no procederán los recursos de casación en la forma ni en el fondo;
+5.- En segunda instancia, de las causas a que se refieren los números 2° y 3° del artículo 53;
 6.- De los recursos de queja, pero la aplicación de medidas disciplinarias será de la competencia del tribunal pleno;
 7.- De los recursos de queja en juicio de cuentas contra las sentencias de segunda instancia dictadas con falta o abuso, con el solo objeto de poner pronto remedio al mal que lo motiva, y
 8.- De los demás negocios judiciales de que corresponda conocer a la Corte Suprema y que no estén entregados expresamente al conocimiento del pleno.
@@ -580,11 +583,7 @@ En caso que ante la Corte Suprema se encuentren pendientes distintos recursos de
 
 Art. 100. Derogado.
 
-Art. 101. La Corte Suprema, integrada por su fiscal o abogados integrantes, podrá dividirse extraordinariamente en cuatro salas de cinco miembros cada una, cuando el presidente así lo determine, para conocer de los negocios a que se refiere el artículo 98.
-La distribución de los Ministros de la Corte Suprema entre estas cuatro salas se efectuará por sorteo, de modo que a cada una correspondan cuatro miembros. La integración de sala para el Presidente de la Corte será facultativa.
-Producida la división en cuatro salas, corresponderá, por turnos mensuales, conocer, a dos de ellas, de todas las materias a que se refiere el artículo 98, a otra, de los asuntos a que se refiere el mismo artículo, con excepción de los recursos de casación en el fondo y en la forma de naturaleza civil; y a la otra, indistintamente, de los recursos de casación en la forma y en el fondo de naturaleza civil o criminal. A las cuatro les corresponderá conocer de los recursos de amparo, de protección y de queja.
-No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera, el Presidente podrá disponer que dos de las salas conozcan exclusivamente de los recursos de casación en la forma y en el fondo, y en tal caso, las dos salas restantes conocerán, una de todas las materias a que se refiere el artículo 98, con excepción de los recursos de casación en el fondo y en la forma de naturaleza criminal, y la otra de los asuntos a que se refiere el mismo artículo, con excepción de los recursos de casación en el fondo y en la forma de naturaleza civil.
-Producida la división extraordinaria de la Corte Suprema, el Tribunal designará los relatores interinos que estime necesarios, quienes gozarán durante el tiempo en que sirvieren el cargo de igual remuneración que los propietarios.
+Art. 101. Derogado.
 
 Art. 102. El primer día hábil de marzo la Corte Suprema iniciará sus funciones en audiencia pública, a la cual deberán concurrir su fiscal y los miembros y fiscales de la Corte de Apelaciones de Santiago.
 El Presidente de la Corte Suprema dará cuenta en esta audiencia:
@@ -593,7 +592,6 @@ El Presidente de la Corte Suprema dará cuenta en esta audiencia:
 3°) De los datos que se hayan remitido al tribunal por las Cortes de Apelaciones en conformidad al artículo 90 N° 9, de la apreciación que le mereciere la labor de estos tribunales y de las medidas que a su juicio o a juicio del tribunal fuere necesario adoptar para mejorar la administración de justicia; y
 4°) De las dudas y dificultades que hayan ocurrido a la Corte Suprema y a las Cortes de Apelaciones en la inteligencia y aplicación de las leyes y de los vacíos que se noten en ellas y de que se haya dado cuenta al Presidente de la República en cumplimiento del artículo 5° del Código Civil.
 Esta exposición será publicada en el Diario Oficial y en la Gaceta de los Tribunales.
-La Corte Suprema procederá en seguida, al sorteo de los miembros que deben formar las salas en que el tribunal debe dividirse.
 
 Art. 103. Es aplicable a la Corte Suprema lo dispuesto para los acuerdos de las Cortes de Apelaciones por los artículos 72, 73 inciso 2, 74 y siguientes, hasta el 89 inclusive.
 
@@ -985,17 +983,19 @@ La Corte de Apelaciones de Coihaique será subrogada por la de Puerto Montt.
 En los casos en que no puedan aplicarse las reglas precedentes, conocerá la Corte de Apelaciones cuya sede esté más próxima a la de la que debe ser subrogada.
 
 Art. 217. Si la Corte Suprema o algunas de sus salas se hallare en el caso previsto en el artículo 215 se llamará a integrar a los miembros no inhabilitados de la misma Corte Suprema, al fiscal del tribunal o a los abogados que se designen anualmente con este objeto.
-El llamamiento de los integrantes se hará en el orden indicado y los abogados se llamarán por el orden de su designación en la lista de su nombramiento.
+El llamamiento de los integrantes se hará en el orden indicado, pero los abogados serán llamados guardando entre sí el orden a que se refieren los incisos siguientes.
+Cada vez que se regule por auto acordado las materias que conocerá cada una de las salas en el funcionamiento ordinario o extraordinario y cada vez que se produzcan nombramientos de abogados integrantes, la Corte, atendiendo a las especialidades de aquéllos, determinará la o las salas a que ellos se integrarán de preferencia.
+El llamamiento de los abogados asignados preferentemente a una misma sala se hará respetando el orden de su designación en la lista de su nombramiento. Igual orden se respetará para llamar a los demás abogados integrantes cuando no sea posible hacerlo con los que hubieren sido asignados preferentemente a la sala de que se trate..
 
 Art. 218. En los casos en que no pudiere funcionar la Corte Suprema por inhabilidad de la mayoría o de la totalidad de sus miembros, será integrada por ministros de la Corte de Apelaciones de Santiago, llamados por su orden de antigüedad.
-Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados integrantes, tanto en su funcionamiento ordinario como en el extraordinario de que trata el artículo 101.
+Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados integrantes, tanto en su funcionamiento ordinario como en el extraordinario.
 
 Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema; quince para la Corte de Apelaciones de Santiago; ocho para la Corte de Apelaciones de Valparaíso; siete para las Cortes de Apelaciones de San Miguel y de Concepción; cinco para las Cortes de Apelaciones de Talca, Temuco y Valdivia; y tres para cada una de las demás Cortes, previa formación por la Corte Suprema, de las respectivas ternas.
 La designación de abogados integrantes de las Cortes de Apelaciones se hará en el mes de enero de cada año. Los abogados designados para la Corte Suprema lo serán por un período de tres años, efectuándose el nombramiento en el mes de enero, en que comienza el trienio respectivo.
 Las ternas para abogados integrantes de las Cortes de Apelaciones serán formadas tomando los nombres de una lista que, en el mes de diciembre de cada año, enviarán a la Corte Suprema las respectivas Cortes de Apelaciones. En esta lista deberán figurar abogados que tengan su residencia en la ciudad que sirve de asiento al tribunal respectivo, que reúnan las condiciones requeridas para ejercer los cargos de ministros, con excepción del límite de edad establecido en el artículo 77 de la Constitución Política de la República de Chile, y que hayan destacado en la actividad profesional o universitaria.
 Estas listas se compondrán, para Santiago, de setenta y cinco nombres; para Valparaíso, de cuarenta; para San Miguel y Concepción, de treinta y cinco; para Talca, Temuco y Valdivia, de veinticinco; y de quince para las demás Cortes.
 Las ternas para abogados integrantes de la Corte Suprema serán formadas tomando los nombres de una lista que, en el mes diciembre en que termina el trienio respectivo, formará la misma Corte. En esta lista deberán figurar cuarenta y cinco abogados, con residencia en la ciudad de Santiago, que reúnan las condiciones requeridas para ejercer los cargos de ministros, con excepción del límite de edad establecido en el artículo 77 de la Constitución Política de la República de Chile, y que hayan destacado en la actividad profesional o universitaria.
-No podrán incluirse en las listas a que se refiere este artículo a profesionales que hayan sido separados de sus cargos como funcionarios judiciales, sea en la calificación anual o en cualquiera otra oportunidad.
+Las ternas para abogados integrantes de las Cortes de Apelaciones sólo podrán incluir abogados que, además de cumplir con los requisitos indicados en los números 1° y 2° del artículo 253, tengan no menos de doce años de ejercicio profesional o ex miembros del Escalafón Primario del Poder Judicial, siempre y cuando hubiesen figurado durante los últimos cinco años en lista de méritos. Las ternas para abogados integrantes de la Corte Suprema sólo podrán incluir abogados que, además de cumplir con los requisitos indicados en los números 1° y 2° del artículo 254, tengan no menos de quince años de ejercicio profesional o que hayan pertenecido a la primera o segunda categoría del Escalafón Primario del Poder Judicial y siempre que, de haber estado en la segunda categoría, hubiesen figurado durante los últimos cinco años en lista de méritos. En ningún caso podrán figurar en las ternas profesionales que hayan sido separados de sus cargos como funcionarios judiciales, sea en la calificación anual o en cualquiera otra oportunidad.
 Si por cualquiera causa alguno de los abogados designados para la Corte Suprema no pudiere continuar en las funciones, el Presidente de la República podrá nombrar en su reemplazo por el resto del período a uno de los componentes de las ternas que formó la Corte Suprema en su oportunidad, o requerir de dicho tribunal la formación de una nueva terna, en conformidad con lo previsto en los incisos anteriores.
 En las ternas no se podrán repetir nombres.
 
@@ -2283,7 +2283,7 @@ De la jurisdicción disciplinaria y de la inspección y vigilancia de los servic
 
 Art. 530. Los jueces de letras están autorizados para reprimir o castigar los abusos que se cometieren dentro de la sala de su despacho y mientras ejercen sus funciones de tales, con alguno de los medios siguientes:
 1°) Amonestación verbal e inmediata;
-2°) Multa que no exceda de una Unidad Tributaria Mensual, y
+2°) Multa que no exceda de cuatro unidades tributarias mensuales, y
 3°) Arresto que no exceda de cuatro días.
 Deberán emplear estos medios en el orden expresado y sólo podrán hacer uso del último en caso de ineficacia o insuficiencia de los primeros.
 
@@ -2291,7 +2291,7 @@ Art. 531. Podrán también los jueces de letras, para la represión o castigo de
 1°) Mandar devolver el escrito con orden de que no se admita mientras no se supriman las palabras o pasajes abusivos;
 2°) Hacer tarjar por el secretario esas mismas palabras o pasajes abusivos; y dejar copia de ellos en un libro privado que al efecto habrá en el juzgado;
 3°) Exigir firma de abogado para ese escrito y los demás que en adelante presente la misma parte, cuando ésta no esté patrocinada por un abogado en conformidad a la ley;
-4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de un sueldo vital, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
+4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de cinco unidades tributarias mensuales, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
 5°) Imponer efectivamente al abogado, o a la parte, o a ambos, las penas expresadas en el número anterior.
 Podrán los jueces de letras hacer uso de cualquiera de estos medios, o de dos o más de ellos simultáneamente, según lo estimaren necesario.
 
@@ -2319,7 +2319,7 @@ Art. 537. Las faltas o abusos de que habla el artículo anterior podrán corregi
 1°) Amonestación privada;
 2°) Censura por escrito;
 3°) Pago de costas;
-4°) Multa de 1 a 15 días de sueldo o una cantidad que no exceda de 15 sueldos vitales mensuales para la Región Metropolitana de Santiago, y;
+4°) Multa de 1 a 15 días de sueldo o multa no inferior a una ni superior a cinco unidades tributarias mensuales, y;
 5°) Suspensión de funciones hasta por cuatro meses. Durante este tiempo el funcionario gozará de medio sueldo.
 Lo dicho en este artículo se entiende sólo respecto de aquellas faltas o abusos que las leyes no califiquen de crimen o simple delito.
 
@@ -2339,9 +2339,9 @@ La Corte Suprema puede, además, siempre que lo juzgare conveniente a la buena a
 Art. 542. Para la represión y castigo de las faltas que se cometieren ante la Corte Suprema y ante las Cortes de Apelaciones, mientras ejercen sus funciones, estos tribunales podrán emplear alguno de los medios siguientes:
 1°) Amonestación privada;
 2°) Censura por escrito;
-3°) Multa de 1 a 15 días de sueldo o una cantidad que no exceda de 15 sueldos vitales mensuales para la Región Metropolitana de Santiago, y;
+3°) Multa de 1 a 15 días de sueldo o multa no inferior a dos ni superior a diez unidades tributarias mensuales, y;
 4°) Arresto que no exceda de ocho días.
-Este arresto será siempre conmutable en multa, en proporción de medio sueldo vital por cada día.
+Este arresto será siempre conmutable en multa, en proporción de media unidad tributaria mensual por cada día.
 Estos tribunales tendrán, también, las facultades que el artículo 531 otorga a los jueces de letras, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren.
 
 Art. 543. Si en las faltas de que habla el artículo anterior incurrieren los abogados, podrán también ser castigados con una suspensión del ejercicio de la profesión por un término que no exceda de dos meses y extensiva a todo el territorio de la República.
@@ -2356,11 +2356,9 @@ Art. 544. Las facultades disciplinarias que corresponden a la Corte Suprema o a 
 7°) Cuando los nombramientos que dependieren de los jueces de letras para cargos de síndicos, depositarios, peritos u otros análogos, recayeren generalmente sobre las mismas personas o pareciere manifiestamente que no se consulta en ellos el interés de las partes y la recta administración de justicia; y
 8°) Cuando infringieren las prohibiciones que les impongan las leyes.
 
-Art. 545. Los tribunales superiores de justicia conocerán los recursos de queja que las partes afectadas interpusieren para la corrección de cualesquiera faltas o abusos que los funcionarios judiciales cometieren en la dictación de resoluciones y especialmente en los casos que siguen:
-1° Cuando no fueren pronunciadas dentro de los plazos señalados en la ley;
-2° Cuando las que dictaren fueren manifiestamente innecesarias o importaren dilación en la tramitación del proceso o gravamen para los litigantes;
-3° Cuando decretaren medidas precautorias manifiestamente injustificadas o innecesarias o negaren en la misma forma las que se solicitaren con fundamento plausible y apareciere en uno y otro caso que de ello deriva un daño irreparable al recurrente, y
-4° Cuando con falta o abuso dictaren cualquiera resolución en perjuicio de alguna de las partes.
+Art. 545. El recurso de queja tiene por exclusiva finalidad corregir las faltas o abusos graves cometidos en la dictación de resoluciones de carácter jurisdiccional. Sólo procederá cuando la falta o abuso se cometa en sentencia interlocutoria que ponga fin al juicio o haga imposible su continuación o definitiva, y que no sean susceptibles de recurso alguno, ordinario o extraordinario, sin perjuicio de la atribución de la Corte Suprema para actuar de oficio en ejercicio de sus facultades disciplinarias. Se exceptúan las sentencias definitivas de primera o única instancia dictadas por árbitros arbitradores, en cuyo caso procederá el recurso de queja, además del recurso de casación en la forma.
+El fallo que acoge el recurso de queja contendrá las consideraciones precisas que demuestren la falta o abuso, así como los errores u omisiones manifiestos y graves que los constituyan y que existan en la resolución que motiva el recurso, y determinará las medidas conducentes a remediar tal falta o abuso. En ningún caso podrá modificar, enmendar o invalidar resoluciones judiciales respecto de las cuales la ley contempla recursos jurisdiccionales ordinarios o extraordinarios, salvo que se trate de un recurso de queja interpuesto contra sentencia definitiva de primera o única instancia dictada por árbitros arbitradores.
+En caso que un tribunal superior de justicia, haciendo uso de sus facultades disciplinarias, invalide una resolución jurisdiccional, deberá aplicar la o las medidas disciplinarias que estime pertinentes. En tal caso, la sala dispondrá que se dé cuenta al tribunal pleno de los antecedentes para los efectos de aplicar las medidas disciplinarias que procedan, atendida la naturaleza de las faltas o abusos, la que no podrá ser inferior a amonestación privada.
 
 Art. 546. Las facultades disciplinarias que por la ley corresponden a los tribunales respecto de los abogados que intervienen en las causas de que dichos tribunales conozcan, deberán especialmente ejercerse:
 1°) Cuando en el ejercicio de la profesión faltaren oralmente, por escrito o de obra al respeto debido a los funcionarios judiciales;
@@ -2370,17 +2368,17 @@ Las medidas que en ejercicio de estas facultades adoptaren los Tribunales Superi
 
 Art. 547. Las Cortes de Apelaciones tendrán diariamente una audiencia pública para oír las quejas verbales que alguien quiera interponer contra los subalternos dependientes de ellas.
 
-Art. 548. Los recursos de queja se verán fuera de las horas ordinarias de audiencia.
-El fallo que acoge el recurso de queja contendrá las consideraciones que demuestren la falta o abuso, o los errores u omisiones manifiestos y graves que los constituyan y que existan en la resolución que motiva el recurso; determinará las medidas conducentes a remediar tal falta o abuso y podrá disponer que se dé cuenta al tribunal pleno de los antecedentes para los efectos disciplinarios que procedan.
+Art. 548. El agraviado deberá interponer el recurso en el plazo fatal de cinco días hábiles, contado desde la fecha en que se le notifique la resolución que motiva el recurso. Este plazo se aumentará según la tabla de emplazamiento a que se refiere el artículo 259 del Código de Procedimiento Civil cuando el tribunal que haya pronunciado la resolución tenga su asiento en una comuna o agrupación de comunas diversa de aquélla en que lo tenga el tribunal que deba conocer el recurso. Con todo, el plazo total para interponer el recurso no podrá exceder de quince días hábiles, contado desde igual fecha.
+El recurso lo podrá interponer la parte personalmente, o su mandatario judicial, o su abogado patrocinante, o un procurador del número, y deberá ser expresamente patrocinado por abogado habilitado para el ejercicio de la profesión.
+En el escrito se indicarán nominativamente los jueces o funcionarios recurridos, se individualizará el proceso en el cual se dictó la resolución que motiva el recurso; se transcribirá ésta o se acompañará copia de ella, si se trata de sentencia definitiva o interlocutoria; se consignarán el día de su dictación, la foja en que rola en el expediente y la fecha de su notificación al recurrente; y se señalarán clara y específicamente las faltas o abusos que se imputan a los jueces o funcionarios recurridos.
+Asimismo, se deberá acompañar un certificado, emitido por el secretario del tribunal, en el que conste: el número de rol del expediente y su carátula; el nombre de los jueces que dictaron la resolución que motiva el recurso; la fecha de su dictación y la de su notificación al recurrente, y el nombre del mandatario judicial y del abogado patrocinante de cada parte. El secretario del tribunal deberá extender este certificado sin necesidad de decreto judicial y a sola petición, verbal o escrita, del interesado.
+El recurrente podrá solicitar orden de no innovar en cualquier estado del recurso. Formulada esta petición, el Presidente del Tribunal designará la Sala que deba decidir sobre este punto y a esta misma le corresponderá dictar el fallo sobre el fondo del recurso.
 
-Art. 549. Todo recurso de queja deberá interponerse en el plazo fatal de cinco días hábiles. Este plazo se aumentará conforme a la tabla de emplazamiento a que se refiere el artículo 259 del Código de Procedimiento Civil cuando el tribunal que haya pronunciado la resolución recurrida tenga su asiento en una comuna o agrupación de comunas diversa de aquella en que funciona el que haya de conocer el recurso. Con todo, el plazo total para interponer el recurso no podrá exceder de quince días hábiles contados desde la fecha de notificación a la parte recurrente de la resolución que motiva la queja.
-Para interponer un recurso de queja, el recurrente deberá consignar previamente en la cuenta corriente del tribunal que conocerá del mismo, una cantidad equivalente al uno por ciento de la cuantía del negocio, con un máximo de una unidad tributaria mensual.
-Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a una unidad tributaria mensual, si el recurso se interpone ante la Corte Suprema o ante la Corte de Apelaciones; y de media unidad tributaria mensual, si se interpone ante un juez de letras.
-No regirá la exigencia de consignación previa tratándose de los recursos de queja que deduzcan los oficiales del ministerio público, los defensores públicos, los representantes del Fisco, los trabajadores demandantes en los juicios seguidos ante los tribunales del trabajo, los procesados en causa criminal y los que gozan de privilegio de pobreza.
-La consignación a que se refiere este artículo se devolverá a la parte recurrente, si el recurso fuere acogido. Si fuere desechado, o el recurrente se desistiere de él, se aplicará a beneficio fiscal.
-Si el recurso fuere desechado por la unanimidad de un tribunal colegiado, se condenará en costas al recurrente y, además, al pago de una multa a beneficio fiscal de hasta dos unidades tributarias mensuales.
-El abogado patrocinante de un recurso de queja, que fuere rechazado por la unanimidad de un tribunal colegiado, será sancionado con alguna de las medidas establecidas en los N°s. 1°, 2° y 3° del artículo 532, de estimar el tribunal que el recurso ha carecido de todo fundamento o ha sido interpuesto en forma temeraria.
-Respecto de las multas a que este artículo se refiere, regirá también lo dispuesto en el artículo 252 del Código de Procedimiento Civil.
+Art. 549. El recurso de queja se tramitará de acuerdo a las siguientes normas:
+a) Interpuesto el recurso, la sala de cuenta del respectivo tribunal colegiado deberá comprobar que éste cumple con los requisitos que establece el artículo precedente y, en especial, si la resolución que motiva su interposición es o no susceptible de otro recurso. De no cumplir con los requisitos señalados o ser la resolución susceptible de otro recurso, lo declarará inadmisible, sin más trámite. Contra esta resolución sólo procederá el recurso de reposición fundado en error de hecho. No obstante, si no se ha acompañado el certificado a que se refiere el inciso cuarto del artículo anterior, por causa justificada, el tribunal dará un nuevo plazo fatal e improrrogable para ello, el cual no podrá exceder de seis días hábiles;
+b) Admitido a tramitación el recurso, se pedirá de inmediato informe al juez o jueces recurridos, el cual sólo podrá recaer sobre los hechos que, según el recurrente, constituyen las faltas o abusos que se les imputan. El tribunal recurrido deberá dejar constancia en el proceso del hecho de haber recibido la aludida solicitud de informe y disponer la notificación de aquélla a las partes, por el estado diario. El informe deberá ser evacuado dentro de los ocho días hábiles siguientes a la fecha de recepción del oficio respectivo;
+c) Vencido el plazo anterior, se haya o no recibido el informe, se procederá a la vista del recurso, para lo cual se agregará preferentemente a la tabla. No procederá la suspensión de su vista y el tribunal sólo podrá decretar medidas para mejor resolver una vez terminada ésta, y
+d) Cualquiera de las partes podrá comparecer en el recurso hasta antes de la vista de la causa.
 
 Art. 550. Los miembros del Poder Judicial gozarán del privilegio de pobreza para su defensa en los recursos de queja o en la sustanciación de medidas disciplinarias que les afecten personalmente.
 
