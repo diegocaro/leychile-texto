@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1981-02-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1981-09-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1981-02-12
-fetched_at: 2026-08-03T00:33:27.976819+00:00
+version_date: 1981-09-14
+fetched_at: 2026-08-03T00:34:28.042449+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -235,7 +235,7 @@ Artículo 45.- El Servicio deberá comunicar al contribuyente el monto de los im
 
 Artículo 46.- La falta de publicación de los avisos indicados en los artículos anteriores o el extravío de ellos en el caso de los artículos 44 y 45, no liberará al contribuyente del oportuno cumplimiento de sus obligaciones.
 
-Artículo 47.- El Ministro de Hacienda podrá facultar al Banco del Estado de Chile, a los bancos comerciales y a otras instituciones, para recibir de los contribuyentes el pago de cualquier impuesto que se haga dentro de los plazos legales o reglamentarios. Los pagos deberán comprender la totalidad de las cantidades incluídas en los respectivos boletines, giros u órdenes de ingreso. Si el impuesto debe legalmente enterarse por cuotas, el pago abarcará la totalidad de la cuota correspondiente.
+Artículo 47.- El Ministro de Hacienda podrá facultar al Banco del Estado de Chile, a los bancos comerciales y a otras instituciones, para recibir de los contribuyentes el pago de cualquier impuesto. Los pagos deberán comprender la totalidad de las cantidades incluídas en los respectivos boletines, giros u órdenes de ingreso. Si el impuesto debe legalmente enterarse por cuotas, el pago abarcará la totalidad de la cuota correspondiente.
 
 Artículo 48.- El pago hecho en la forma indicada en el artículo 47 extinguirá la obligación tributaria pertinente hasta el monto de la cantidad enterada, pero el recibo de ésta no acreditará por sí sólo que el contribuyente está al día en el cumplimiento de la obligación tributaria respectiva.
 
