@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1973-12-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1973-12-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 241203
-version_date: 1973-12-06
-fetched_at: 2026-08-05T02:20:08.008868+00:00
+version_date: 1973-12-10
+fetched_at: 2026-08-05T02:20:26.013989+00:00
 titulo_norma: "FIJA TEXTO DE LA CONSTITUCION POLITICA DEL ESTADO"
 compuesto: DTO-1333
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -53,9 +53,13 @@ ART. 6. La nacionalidad chilena se pierde:
 2º Por cancelación de la carta de nacionalización, de la que podrá reclamarse dentro del plazo de diez días ante la Corte Suprema, la que conocerá como jurado. La interposición de este recurso suspenderá los efectos de la cancelación de la carta de nacionalización.
 No podrá cancelarse la carta de nacionalización otorgada en favor de personas que desempeñen cargos de elección popular, y
 3º Por prestación de servicios durante una guerra, a enemigos de Chile o de sus aliados.
+4°.- Por atentar gravemente desde el extranjero contra los intereses esenciales del Estado durante las situaciones de excepción previstas en el artículo 72, número 17 de esta Constitución Política.
+NOTA:
 Los que hubieren perdido la nacionalidad chilena por cualquiera de las causales establecidas en este artículo, sólo podrán ser rehabilitados por ley.
 La causal de pérdida de la nacionalidad chilena prevista, en el Nº 1º del presente artículo no rige en los casos en que, a virtud de disposiciones legales o constitucionales de otros países, los chilenos residentes en ellos deban adoptar la nacionalidad del país en que residan como condición de su permanencia. (2)
 (2) Artículo modificado por la Reforma Constitucional contenida en la Ley N.o 12.548, de 30 de Septiembre de 1957.
+NOTA:
+El Art. 2º del DL 175, Interior, publicado el 10.12.1973, dispuso que para los efectos de la pérdida de nacionalidad en conformidad con este número, se requerirá de decreto supremo fundado, previo acuerdo del Consejo de Ministros, el que, en todo caso, deberá considerar el informe escrito de la autoridad diplomática o consular chilena respectiva.
 
 ART. 7. Son ciudadanos con derecho a sufragio los chilenos que hayan cumplido 18 años de edad y estén inscritos en los registros electorales.
 Estos registros serán públicos y las inscripciones continuas.
