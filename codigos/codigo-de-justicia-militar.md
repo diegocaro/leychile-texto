@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1991-02-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1992-06-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1991-02-14
-fetched_at: 2026-08-03T00:51:04.740487+00:00
+version_date: 1992-06-22
+fetched_at: 2026-08-03T00:53:11.598631+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -639,7 +639,10 @@ Conocerá de este recurso, en única instancia, la Corte Marcial respectiva, y s
 
 Art. 140. Las reglas sobre las declaraciones del inculpado, careos e identificación del inculpado y sus circunstancias personales, contenidas en la Primera Parte del Libro II del Código de Procedimiento Penal, serán también aplicables en el sumario militar.
 Se aplicarán, asimismo, las disposiciones de los artículos 274, 276, 278 y 279 del mismo Código.
-El auto de procesamiento será notificado al jefe de la casa de detención en que se encuentre el procesado, y a éste.
+El auto de procesamiento será notificado al jefe de la casa de detención en que se encuentre el reo y a éste.
+NOTA:
+NOTA:
+El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
 
 Art. 141. La prisión preventiva sólo durará mientras subsistan los motivos que la hubieren ocasionado.
 El detenido o preso será puesto en libertad en cualquier estado del sumario en que aparezca su inocencia.
@@ -1470,8 +1473,7 @@ Art. 363. El robo o hurto cometido por un militar en casa de su superior, se con
 Art. 364. Se presume autor de tentativa de robo al que se introdujere con forado, fractura, escalamiento, uso de llave falsa, de verdadera sustraída o de ganzúa, en un local donde se guarden armas, municiones, caudales, víveres, equipo, vestuario o cualesquiera otros objetos afectos al servicio militar.
 Igual presunción se establece en contra del que, con armas y sin la debida autorización, o con simulación de autoridad o de órdenes superiores, se introdujere a alguno de los locales señalados en el inciso precedente.
 
-Art. 365. El civil o militar que despoje del dinero, alhajas u otros objetos que tengan consigo, a los
-militares o auxiliares muertos en el campo de batalla, con el fin de apropiárselos, será procesado por robo con violencia en las personas.
+Art. 365. El civil o militar que despoje del dinero, alhajas u otros objetos que tengan consigo, a los militares o auxiliares muertos en el campo de batalla, con el fin de apropiárselos, será procesado por robo con violencia en las personas.
 
 Art. 366. Cuando alguno de los hechos delictuosos a que se refiere el presente Título merezca mayor pena conforme a otras disposiciones de este Código o del Código Penal, se aplicarán estas disposiciones preferentemente.
 
