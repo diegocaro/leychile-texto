@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1975-12-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1976-07-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1975-12-01
-fetched_at: 2026-08-03T00:26:14.621170+00:00
+version_date: 1976-07-09
+fetched_at: 2026-08-03T00:27:09.915888+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -915,7 +915,7 @@ No obstante lo dispuesto en el inciso anterior, la Tesorería Comunal podrá rev
 Transcurrido el plazo de tres años a que se refieren los artículos 200 y 201, prescribirá, en todo caso, la acción del Fisco.
 
 Artículo 198°.- Los créditos privilegiados de la primera clase establecidos en los cincos primeros números del artículo 2.472 del Código Civil serán los únicos que prevalecerán sobre el crédito privilegiado que el número sexto de ese artículo contempla a favor del Fisco en su calidad de acreedor de impuestos fiscales y municipales devengados.
-En todo caso los créditos fiscales privilegiados, prevalecerán sobre aquéllos que mantengan los Organismos de Previsión por deudas de imposiciones, desahucios, indemnizaciones y por cualquier otro concepto que no corresponda estrictamente al de remuneraciones.
+Para los efectos señalados en el inciso anterior, se entenderá que los créditos de que sean titulares los organismos de previsión por imposiciones adeudadas, o que se recauden por su intermedio para ser destinados a fines asistenciales o de seguridad social, se encuentren incluidos en el artículo 2.472, N° 4, del Código Civil, sin perjuicio de que deban prevalecer por sobre ellos los créditos por remuneraciones de empleados y obreros a que se refiere el mencionado artículo.
 
 Artículo 199°.- En los casos de realización de bienes raíces en que no hayan concurrido interesados a dos subastas distintas decretadas por el juez, el Abogado Provincial podrá solicitar que el bien o bienes raíces sean adjudicados al Fisco, por su avalúo fiscal, debiéndose en este caso, pagar al ejecutado el saldo que resultare a favor de éste previamente a la suscripción de la escritura de adjudicación.
 Los Tesoreros Comunales y recaudadores fiscales no podrán adquirir para sí, su cónyuge o para sus hijos las cosas o derechos en cuyo embargo o realización intervinieren.
