@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1989-06-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1989-11-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1989-06-10
-fetched_at: 2026-08-03T00:47:28.521852+00:00
+version_date: 1989-11-09
+fetched_at: 2026-08-03T00:47:46.538583+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1485,7 +1485,7 @@ Respecto a los jueces procesados se estará a lo dispuesto en el artículo 335; 
 3°) Por remoción acordada por la Corte Suprema en conformidad a la Constitución Política o a las leyes;
 4°) Por sentencia ejecutoriada recaída en el juicio de amovilidad, en que se declare que el juez no tiene la buena comportación exigida por la Constitución Política del Estado para permanecer en el cargo;
 5°) Por renuncia del cargo, hecha por el juez y aceptada por la autoridad competente;
-6°) Por la jubilación concedida por el Presidente de la República;
+6°) Por jubilación o pensión obtenida por servicios prestados al Poder Judicial, sea cual fuere el régimen previsional aplicable;
 7°) Por la promoción del juez a otro empleo del orden judicial, aceptada por él;
 8°) Por el traslado del juez a otro empleo del orden judicial;
 9°) Por haber sido declarado responsable criminal o civilmente por delito cometido en razón de sus actos ministeriales;
