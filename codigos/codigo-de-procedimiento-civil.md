@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2001-08-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2002-05-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2001-08-08
-fetched_at: 2026-08-03T01:15:59.066410+00:00
+version_date: 2002-05-31
+fetched_at: 2026-08-03T01:18:10.619864+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -173,7 +173,7 @@ Art. 35 (36). Siempre que se desglosen una o más fojas del proceso, deberá col
 
 Artículo 36.- El proceso se mantendrá en la oficina del secretario bajo su custodia y responsabilidad. Los autos no podrán retirarse de la secretaría sino por las personas y en los casos expresamente contemplados en la ley. Corresponderá al secretario velar por el estricto cumplimiento de lo establecido en el artículo 393 del Código Orgánico de Tribunales.
 
-Art. 37 (40). Siempre que los tribunales pidan o hayan de oír dictamen por escrito del respectivo oficial del ministerio público o de los defensores públicos, el secretario entregará el proceso a aquellos funcionarios, exigiendo el correspondiente recibo. Lo mismo se observará cuando haya de remitirse el proceso a una oficina distinta de aquella en que se ha formado.
+Art. 37 (40). Siempre que los tribunales pidan o hayan de oír dictamen por escrito del respectivo fiscal judicial o de los defensores públicos, el secretario entregará el proceso a aquellos funcionarios, exigiendo el correspondiente recibo. Lo mismo se observará cuando haya de remitirse el proceso a una oficina distinta de aquella en que se ha formado.
 Si los funcionarios a quienes se pide dictamen retardan la devolución del proceso, podrá el tribunal señalarles un plazo razonable para que la efectúen, y ordenar a su vencimiento que se recojan por el secretario los autos.
 En aquellos casos en que otro tribunal requiera la remisión del expediente original o de algún cuaderno o piezas del proceso, el trámite se cumplirá remitiendo, a costa del peticionario o de la parte que hubiere interpuesto el recurso o realizado la gestión que origina la petición, las copias o fotocopias respectivas. Estas deberán ser debidamente certificadas, en cada hoja, por el secretario del tribunal. Se enviará el expediente original sólo en caso que haya imposibilidad para sacar fotocopias en el lugar de asiento del tribunal, lo que certificará el secretario. En casos urgentes o cuando el tribunal lo estime necesario, por resolución fundada, o cuando el expediente tenga más de doscientas cincuenta fojas, podrá remitirse el original.
 
@@ -229,13 +229,9 @@ Art. 52 (55). Si transcurren seis meses sin que se dicte resolución alguna en e
 Art. 53 (56). La forma de notificación de que trata el artículo 50 se hará extensiva a las resoluciones comprendidas en el artículo 48, respecto de las partes que no hayan hecho la designación a que se refiere el artículo 49 y mientras ésta no se haga.
 Esta notificación se hará sin necesidad de petición de parte y sin previa orden del tribunal.
 
-Art. 54 (57). Cuando haya de notificarse personalmente o por cédula a personas cuya individualidad o residencia sea difícil determinar, o que por su número dificulten considerablemente la práctica de la diligencia, podrá hacerse la notificación por medio de avisos publicados en los diarios del lugar donde se sigue la causa, o de la cabecera de la provincia o de la capital de la región, si allí no los hay. Dichos avisos contendrán los mismos datos que se exigen para la notificación personal; pero si la publicación en esta forma es muy
-NOTA: 5.1.-
-dispendiosa, atendida la cuantía del negocio, podrá disponer el tribunal que se haga en extracto redactado por el secretario.
-Para autorizar esta forma de notificación, y para determinar los diarios en que haya de hacerse la publicación y el número de veces que deba repetirse, el cual no podrá bajar de tres, procederá el tribunal con conocimiento de causa y con audiencia del ministerio público.
+Art. 54 (57). Cuando haya de notificarse personalmente o por cédula a personas cuya individualidad o residencia sea difícil determinar, o que por su número dificulten considerablemente la práctica de la diligencia, podrá hacerse la notificación por medio de avisos publicados en los diarios del lugar donde se sigue la causa, o de la cabecera de la provincia o de la capital de la región, si allí no los hay. Dichos avisos contendrán los mismos datos que se exigen para la notificación personal; pero si la publicación en esta forma es muy dispendiosa, atendida la cuantía del negocio, podrá disponer el tribunal que se haga en extracto redactado por el secretario.
+Para autorizar esta forma de notificación, y para determinar los diarios en que haya de hacerse la publicación y el número de veces que deba repetirse, el cual no podrá bajar de tres, procederá el tribunal con conocimiento de causa.
 Cuando la notificación hecha por este medio sea la primera de una gestión judicial, será necesario, además, para su validez, que se inserte el aviso en los números del "Diario Oficial" correspondientes a los días primero o quince de cualquier mes, o al día siguiente, si no se ha publicado en las fechas indicadas.
-NOTA: 5.1.-
-Las modificaciones introducidas por la Ley 18.776, publicada en el "Diario Oficial" de 18 de enero de 1989 rigen, según su artículo décimo tercero, a partir del día primero del mes subsiguiente a la fecha de su publicación.
 
 Art. 55 (58). Aunque no se haya verificado notificación alguna o se haya efectuado en otra forma que la legal, se tendrá por notificada una resolución desde que la parte a quien afecte haga en el juicio cualquiera gestión que suponga conocimiento de dicha resolución, sin haber antes reclamado la falta o nulidad de la notificación.
 Asimismo, la parte que solicitó la nulidad de una notificación, por el solo ministerio de la ley, se tendrá por notificada de la resolución cuya notificación fue declarada nula, desde que se le notifique la sentencia que declara tal nulidad. En caso que la nulidad de la notificación haya sido declarada por un tribunal superior, esta notificación se tendrá por efectuada al notificársele el "cúmplase" de dicha resolución.
@@ -412,7 +408,7 @@ Art. 108 (113). Las apelaciones de que trata el artículo anterior se llevarán 
 
 Art. 109 (114). El superior que conozca de la apelación o que resuelva la contienda de competencia declarará cuál de los tribunales inferiores es competente o que ninguno de ellos lo es.
 Para pronunciar resolución, citará a uno y otro litigante, pudiendo pedir los informes que estime necesarios, y aun recibir a prueba el incidente.
-Si los tribunales de cuya competencia se trata ejercen jurisdicción de diferente clase, se oirá también al ministerio público.
+Si los tribunales de cuya competencia se trata ejercen jurisdicción de diferente clase, se oirá también al fiscal judicial.
 
 Art. 110 (115). Expedida la resolución, el mismo tribunal que la dictó remitirá los autos que ante él obren al tribunal declarado competente, para que éste comience o siga conociendo del negocio, y comunicará lo resuelto al otro tribunal.
 
@@ -628,7 +624,7 @@ Formulada la reclamación, se suspenderá la vista y deberá formalizarse aquél
 NOTA
 Véase el artículo 198 del Código Orgánico de Tribunales.
 
-Art. 167 (174). Cuando la existencia de un delito haya de ser fundamento preciso de una sentencia civil o tenga en ella influencia notoria, podrán los tribunales suspender el pronunciamiento de ésta hasta la terminación del proceso criminal, si en éste se ha dado lugar al procedimiento plenario.
+Art. 167 (174). Cuando la existencia de un delito haya de ser fundamento preciso de una sentencia civil o tenga en ella influencia notoria, podrán los tribunales suspender el pronunciamiento de ésta hasta la terminación del proceso criminal, si en éste se ha deducido acusación o formulado requerimiento, según el caso.
 Esta suspensión podrá decretarse en cualquier estado del juicio, una vez que se haga constar la circunstancia mencionada en el inciso precedente.
 Si en el caso de los dos incisos anteriores se forma incidente, se tramitará en pieza separada sin paralizar la marcha del juicio.
 Con todo, si en el mismo juicio se ventilan otras cuestiones que puedan tramitarse y resolverse sin aguardar el fallo del proceso criminal, continuará respecto de ellas el procedimiento sin interrupción.
@@ -674,11 +670,7 @@ Se entiende por causa de pedir el fundamento inmediato del derecho deducido en j
 
 Art. 178 (201). En los juicios civiles podrán hacerse valer las sentencias dictadas en un proceso criminal siempre que condenen al procesado
 
-Art. 179 (202). Las sentencias que absuelvan de la acusación o que ordenen el sobreseimiento definitivo, sólo producirán cosa juzgada en materia civil, cuando se funden en alguna de las circunstancias siguientes:
-1ª La no existencia del delito o cuasidelito que ha sido materia del proceso. No se entenderán comprendidos en este número los casos en que la absolución o sobreseimiento provengan de la existencia de circunstancias que eximan de responsabilidad criminal;
-2ª No existir relación alguna entre el hecho que se persigue y la persona acusada, sin perjuicio de la responsabilidad civil que pueda afectarle por actos de terceros, o por daños que resulten de accidentes, en conformidad a lo establecido en el Título XXXV, Libro IV, del Código Civil; y
-3ª No existir en autos indicio alguno en contra del acusado, no pudiendo en tal caso alegarse la cosa juzgada sino respecto de las personas que hayan intervenido en el proceso criminal como partes directas o coadyuvantes.
-Las sentencias absolutorias o de sobreseimiento en materia criminal relativas a los tutores, curadores, albaceas, síndicos, depositarios, tesoreros y demás personas que hayan recibido valores u objetos muebles por un título de que nazca obligación de devolverlos, no producirán en ningún caso cosa juzgada en materia civil.
+Art. 179 (202). Las sentencias que absuelvan de la acusación o que ordenen el sobreseimiento definitivo, sólo producirán cosa juzgada en materia civil, cuando se funden en alguna de las circunstancias siguientes: 1ª La no existencia del delito o cuasidelito que ha sido materia del proceso. No se entenderán comprendidos en este número los casos en que la absolución o sobreseimiento provengan de la existencia de circunstancias que eximan de responsabilidad criminal; 2ª No existir relación alguna entre el hecho que se persigue y la persona acusada, sin perjuicio de la responsabilidad civil que pueda afectarle por actos de terceros, o por daños que resulten de accidentes, en conformidad a lo establecido en el Título XXXV, Libro IV, del Código Civil; y 3ª No existir en autos indicio alguno en contra del acusado, no pudiendo en tal caso alegarse la cosa juzgada sino respecto de las personas que hayan intervenido en el proceso criminal. Las sentencias absolutorias o de sobreseimiento en materia criminal relativas a los tutores, curadores, albaceas, síndicos, depositarios, tesoreros y demás personas que hayan recibido valores u objetos muebles por un título de que nazca obligación de devolverlos, no producirán en ningún caso cosa juzgada en materia civil.
 
 Art. 180 (203). Siempre que la sentencia criminal produzca cosa juzgada en juicio civil, no será lícito en éste tomar en consideración pruebas o alegaciones incompatibles con lo resuelto en dicha sentencia o con los hechos que le sirvan de necesario fundamento.
 
@@ -775,7 +767,7 @@ No obstante y sin perjuicio de las demás facultades concedidas por el artículo
 
 Art. 208 (231). Podrá el tribunal de alzada fallar las cuestiones ventiladas en primera instancia y sobre las cuales no se haya pronunciado la sentencia apelada por ser incompatibles con lo resuelto en ella, sin que se requiera nuevo pronunciamiento del tribunal inferior.
 
-Art. 209 (232). Del mismo modo podrá el tribunal de segunda instancia, previa audiencia del ministerio público, hacer de oficio en su sentencia las declaraciones que por la ley son obligatorias a los jueces, aun cuando el fallo apelado no las contenga.
+Art. 209 (232). Del mismo modo podrá el tribunal de segunda instancia, previa audiencia del fiscal judicial, hacer de oficio en su sentencia las declaraciones que por la ley son obligatorias a los jueces, aun cuando el fallo apelado no las contenga.
 Si en virtud de estas declaraciones se establece la incompetencia del tribunal para entender en la cuestión sometida a su conocimiento, podrá apelarse de la resolución para ante el tribunal superior que corresponda, salvo que la declaración sea hecha por la Corte Suprema.
 
 Art. 210 (233). Las resoluciones que recaigan en los incidentes que se promuevan en segunda instancia, se dictarán sólo por el tribunal de alzada y no serán apelables.
@@ -917,9 +909,9 @@ Art. 246 (243). Las reglas de los artículos precedentes son aplicables a las re
 Art. 247 (244). En todos los casos a que se refieren los artículos precedentes, la resolución que se trate de ejecutar se presentará a la Corte Suprema en copia legalizada.
 
 Art. 248 (245). En los casos de jurisdicción contenciosa, se dará conocimiento de la solicitud a la parte contra quien se pide la ejecución, la cual tendrá para exponer lo que estime conveniente un término igual al de emplazamiento para contestar demandas.
-Con la contestación de la parte o en su rebeldía, y con previa audiencia del ministerio público, el tribunal declarará si debe o no darse cumplimiento a la resolución.
+Con la contestación de la parte o en su rebeldía, y con previa audiencia del fiscal judicial, el tribunal declarará si debe o no darse cumplimiento a la resolución.
 
-Art. 249 (246). En los asuntos de jurisdicción no contenciosa, el tribunal resolverá con sólo la audiencia del ministerio público.
+Art. 249 (246). En los asuntos de jurisdicción no contenciosa, el tribunal resolverá con sólo la audiencia del fiscal judicial.
 
 Art. 250 (247). Si el tribunal lo estima necesario, podrá abrir un término de prueba antes de resolver, en la forma y por el tiempo que este Código establece para los incidentes.
 
@@ -1356,19 +1348,19 @@ Art. 360 (349). No serán obligados a declarar:
 2°. Las personas expresadas en los números 1°, 2° y 3° del artículo 358; y
 3°. Los que son interrogados acerca de hechos que afecten el honor del testigo o de las personas mencionadas en el número anterior, o que importen un delito de que pueda ser criminalmente responsable el declarante o cualquiera de las personas referidas.
 
-Art. 361 (350). No están obligados a concurrir a la audiencia expresada en el artículo 359: 1° El Presidente de la República, los Ministros de Estado, los Senadores y Diputados, los Subsecretarios; los Intendentes Regionales, los Gobernadores y los
-NOTA: 23
-Alcaldes, dentro del territorio de su jurisdicción; los jefes superiores de Servicios, los miembros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos Tribunales, los Jueces Letrados; los Oficiales Generales en servicio activo o en retiro, los Oficiales Superiores y los Oficiales Jefes; el Arzobispo y los Obispos, los Vicarios Generales, los Provisores, los Vicarios y Provicarios Capitulares; y los Párrocos, dentro del territorio de la Parroquia a su cargo;
-2° Las personas que gozan en el país de inmunidades diplomáticas;
-3° Los religiosos, inclusos los novicios;
-4° Las mujeres, siempre que por su estado o posición no puedan concurrir sin grave molestia; y
-5° Los que por enfermedad u otro impedimento, calificado por el tribunal, se hallen en la imposibilidad de hacerlo.
-NOTA: 23
-El Art. 2° del Decreto-Ley N° 3.631, de 20 de Febrero de 1981, publicado en el Diario Oficial de 28 del mismo mes, dispone: "Declárase interpretado el artículo 361 del Código de Procedimiento Civil, modificado por el Decreto-Ley N° 3.434, de 1980, que en las expresiones "Jefes Superiores de Servicios, empleadas en dicho precepto, están comprendidos los Rectores de Universidades".
+Art. 361 (350). Podrán declarar en el domicilio que fijen dentro del territorio jurisdiccional del tribunal:
+1°. El Presidente de la República, los Ministros de Estado, los Senadores y Diputados, los Subsecretarios; los Intendentes Regionales, los Gobernadores y los Alcaldes, dentro del territorio de su jurisdicción; los jefes superiores de Servicios, los miembros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales Judiciales de estos Tribunales, los Jueces Letrados, el Fiscal Nacional y los fiscales regionales; los Oficiales Generales en servicio activo o en retiro, los Oficiales Superiores y los Oficiales Jefes; el Arzobispo y los Obispos, los Vicarios Generales, los Provisores, los Vicarios y Provicarios Capitulares; y los Párrocos, dentro del territorio de la Parroquia a su cargo;
+2°. Derogado;
+3°. Los religiosos, inclusos los novicios;
+4°. Las mujeres, siempre que por su estado o posición no puedan concurrir sin grave molestia; y
+5°. Los que por enfermedad u otro impedimento, calificado por el tribunal, se hallen en la imposibilidad de hacerlo.
+Para este efecto, dentro del tercer día hábil siguiente a su notificación, las personas mencionadas propondrán al tribunal el lugar y la fecha, comprendida dentro del término probatorio, de realización de la audiencia respectiva. El juez los fijará sin más trámite si el interesado así no lo hiciere ni comunicare su renuncia al derecho que le confiere este artículo.
+Con todo, los miembros y fiscales judiciales de las Cortes y los jueces letrados que ejerzan sus funciones en el asiento de éstas, no declararán sin previo permiso de la Corte Suprema, tratándose de algún miembro o fiscal judicial de este tribunal, o de la respectiva Corte de Apelaciones en los demás casos. Este permiso se concederá siempre que no parezca que sólo se trata de establecer, respecto del juez o fiscal judicial presentado como testigo, una causa de recusación.
+NOTA
+El Art. 2º del Decreto Ley 3631, Justicia, publicado el 28.02.1981, declara interpretado el artículo 361 del Código de Procedimiento Civil, modificado por el Decreto Ley 3434, Justicia, publicado el 01.07.1980, que en las expresiones "Jefes Superiores de Servicios, empleadas en dicho precepto, están comprendidos los Rectores de Universidades.
 
-Art. 362 (351). Las personas comprendidas en el número 1° del artículo precedente, prestarán su declaración por medio de informes y expresarán que lo hacen en virtud del juramento que la ley exige a los testigos. Pero los miembros y fiscales de las Cortes y los jueces letrados que ejerzan sus funciones en el asiento de éstas no declararán sin previo permiso de la Corte Suprema, tratándose de algún miembro o fiscal de este tribunal, o de la respectiva Corte de Apelaciones en los demás casos. Este permiso se concederá siempre que no parezca al tribunal que sólo se trata de establecer, respecto del juez o fiscal presentado como testigo, una causa de recusación.
-Las comprendidas en el número 2° declararán también por medio de informe y con el juramento expresado, si se prestan voluntariamente a declarar. Pero no se podrán excusar los chilenos que ejerzan en el país funciones diplomáticas, por encargo de un gobierno extranjero.
-Las comprendidas en los tres últimos números serán examinadas en su morada y en la forma establecida en los artículos 365 a 368.
+Art. 362 (351). No están obligados a declarar ni a concurrir a la audiencia judicial los chilenos o extranjeros que gocen en el país de inmunidad diplomática, en conformidad a los tratados vigentes sobre la materia.
+Estas personas declararán por informe, si consintieran a ello voluntariamente. Al efecto, se les dirigirá un oficio respetuoso, por medio del Ministerio respectivo.
 
 Art. 363 (352). Antes de examinar a cada testigo, se le hará prestar juramento al tenor de la fórmula siguiente: "¿Juráis por Dios decir verdad acerca de lo que se os va a preguntar?". El interrogado responderá:
 "Sí juro", conforme a lo dispuesto en el artículo 62.
@@ -1451,9 +1443,9 @@ Siempre que alguna de las partes lo pida, debe el tribunal recibir por sí mismo
 Si el litigante se encuentra fuera del territorio del tribunal que conoce de la causa, será tomada su declaración por el tribunal competente, quien procederá en conformidad a los dos incisos anteriores.
 
 Art. 389 (379). Están exentos de comparecer ante el tribunal a prestar la declaración de que tratan los artículos precedentes:
-1º El Presidente de la República, los Ministros de Estado, los Senadores y Diputados, los Intendentes dentro de la región en que ejercen sus funciones; los miembros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos tribunales, el Arzobispo, los Obispos, los Vicarios Generales, los Provisores y los Vicarios y Provicarios Capitulares;
-2º Los que por enfermedad o por cualquier otro impedimento calificado por el tribunal se hallen en imposibilidad de comparecer a la audiencia en que hayan de prestar la declaración; y
-3º Las mujeres, en caso que el tribunal estime prudente eximirlas de esta asistencia.
+1º. El Presidente de la República, los Ministros de Estado, los Senadores y Diputados, los Intendentes dentro de la región en que ejercen sus funciones; los miembros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales Judiciales de estos tribunales, el Fiscal Nacional y los fiscales regionales, el Arzobispo, los Obispos, los Vicarios Generales, los Provisores y los Vicarios y Provicarios Capitulares;
+2º. Los que por enfermedad o por cualquier otro impedimento calificado por el tribunal se hallen en imposibilidad de comparecer a la audiencia en que hayan de prestar la declaración; y
+3º. Las mujeres, en caso que el tribunal estime prudente eximirlas de esta asistencia.
 Cuando haya de prestar esta declaración alguna de las personas exceptuadas en los números precedentes, el juez se trasladará a casa de ella con el objeto de recibir la declaración o comisionará para este fin al secretario.
 En los tribunales colegiados se comisionará para esta diligencia a alguno de los ministros del mismo o al secretario.
 Si la persona que haya de prestar declaración en la forma prevenida en este artículo, se encuentra fuera del territorio del tribunal que conoce de la causa, encargará éste la diligencia al juez competente de la residencia actual del litigante. El juez exhortado practicará por sí mismo la diligencia o la cometerá a su secretario.
@@ -1683,9 +1675,13 @@ NOTA
 las Municipalidades
 NOTA 1
 .
-Sin embargo, tratándose de deudas que provengan de pensiones
+Sin embar
 NOTA
-alimenticias decretadas judicialmente, podrá embargarse has
+go, tratándose de deudas que provengan de pensiones
+NOTA
+alimenticias decretadas judicialmente, podrá embar
+NOTA
+garse has
 NOTA
 ta el 50% de las p
 NOTA
@@ -2509,8 +2505,8 @@ La solicitud en que se pida la substitución de un procedimiento a otro se trami
 
 Art. 682. (840). El procedimiento sumario será verbal; pero las partes podrán, si quieren, presentar minutas escritas en que se establezcan los hechos invocados y las peticiones que se formulen.
 
-Art. 683. (841). Deducida la demanda, citará el tribunal a la audiencia del quinto día hábil después de la última notificación, ampliándose este plazo, si el demandado no está en el lugar del juicio, con el aumento que corresponda en conformidad a lo previsto en el artículo 259.
-A esta audiencia concurrirá el respectivo oficial del ministerio público o defensor público, cuando deban intervenir conforme a la ley, o cuando el tribunal lo juzgue necesario. Con el mérito de lo que en ella se exponga, se recibirá la causa a prueba o se citará a las partes para oír sentencia.
+Art. 683. (841). Deducida la demanda, citará el tribunal a la audiencia del quinto día hábil después de la última notificación, ampliándose este plazo, si el demandado no está en el lugar del juicio, con todo el aumento que corresponda en conformidad a lo previsto en el artículo 259.
+A esta audiencia concurrirá el defensor público, cuando deba intervenir conforme a la ley, o cuando el tribunal lo juzgue necesario. Con el mérito de lo que en ella se exponga, se recibirá la causa a prueba o se citará a las partes para oír sentencia.
 
 Art. 684. (842). En rebeldía del demandado, se recibirá a prueba la causa, o, si el actor lo solicita con fundamento plausible, se accederá provisionalmente a lo pedido en la demanda.
 En este segundo caso, podrá el demandado formular oposición dentro del término de cinco días, contados desde su notificación, y una vez formulada, se citará a nueva audiencia, procediéndose como se dispone en el artículo anterior, pero sin que se suspenda el cumplimiento provisional de lo decretado con esta calidad, ni se altere la condición jurídica de las partes.
@@ -2736,17 +2732,7 @@ El Artículo 3°, inciso final, del Decreto con Fuerza de Ley 94, Hacienda, publ
 
 Art. 749. (923). Se omitirán en el juicio ordinario los escritos de réplica y dúplica, siempre que la cuantía del negocio no pase de quinientas unidades tributarias mensuales.
 
-Art. 750. (924). En los negocios en que el ministerio público no figure como parte principal, debe ser oído antes de la prueba y antes de la sentencia definitiva en una y otra instancia. El
-NOTA: 47
-tribunal le pasará al efecto en vista el proceso.
-NOTA: 47
-El Art. 3° de la ley N° 2.269, de 28 de Febrero de 1910, dispone: "En segunda instancia no se oirá al ministerio público:
-1° En los negocios que afecten los bienes de las corporaciones o fundaciones de derecho público;
-2° En los juicios de hacienda en que el ministerio público no figure como parte principal;
-3° En los asuntos de jurisdicción voluntaria;
-4° En los procesos contra reos ausentes o prófugos, y
-5° En los procesos criminales por faltas.".
-Véanse el Art. 358 del Código Orgánico de Tribunales y el Derecho con fuerza de Ley N° 426, de 28 de Febrero de 1927.
+Art. 750. (924). Derogado.
 
 Art. 751. (925). Toda sentencia definitiva pronunciada en primera instancia en juicios de hacienda y de que no se apele, se elevará en consulta a la Corte de Apelaciones respectiva, previa notificación de las partes, siempre que sea desfavorable al interés fiscal. Se entenderá que lo es, tanto la que no acoja totalmente la demanda del Fisco o su reconvención, como la que no deseche en todas sus partes la demanda deducida contra el Fisco o la reconvención promovida por el demandado
 NOTA 1
@@ -2770,7 +2756,7 @@ DE LOS JUICIOS DE NULIDAD DE MATRIMONIO Y DE DIVORCIO
 NOTA
 El presente Título fue derogado por el artículo segundo de la Ley 19947, publicada el 17.05.2004, Ley de matrimonio civil y que regula esta materia en el Capítulo IX, párrafos 1 y 2, y artículo 1° transitorio.
 
-Art. 753. (927). Las contiendas sobre nulidad de matrimonio y sobre divorcio perpetuo se substanciarán conforme a las reglas del juicio ordinario. Cuando la sentencia que dé lugar a la nulidad o al divorcio perpetuo no sea apelada, deberá elevarse en consulta al tribunal superior, y si él estima dudosa la legalidad del fallo consultado, retendrá el conocimiento del negocio y procederá como si en realidad se hubiera interpuesto oportunamente apelación, oyendo al ministerio público. En caso contrario, aprobará la sentencia.
+Art. 753. (927). Las contiendas sobre nulidad de matrimonio y sobre divorcio perpetuo se substanciarán conforme a las reglas del juicio ordinario. Cuando la sentencia que dé lugar a la nulidad o al divorcio perpetuo no sea apelada, deberá elevarse en consulta al tribunal superior, y si él estima dudosa la legalidad del fallo consultado, retendrá el conocimiento del negocio y procederá como si en realidad se hubiera interpuesto oportunamente apelación, oyendo al fiscal judicial. En caso contrario, aprobará la sentencia.
 
 Art. 754. (928). El juicio sobre divorcio temporal se someterá a los trámites del procedimiento sumario.
 
@@ -2800,7 +2786,7 @@ Esta acción se someterá a las reglas del juicio ordinario o a las del ejecutiv
 
 Art. 760. (934). Efectuado el abandono o el desposeimiento de la finca perseguida, se procederá conforme a lo dispuesto en los artículos 2397 y 2424 del Código Civil, sin necesidad de citar al deudor personal. Pero si éste comparece a la incidencia, será oído en los trámites de tasación y de subasta.
 
-Art. 761. (935). Si el deudor personal no es oído en el trámite de tasación esta diligencia deberá hacerse, con intervención del ministerio público, por peritos que nombrará el juez de la causa en la forma prescrita por este Código. La tasación, en este caso, no impide que el deudor personal pueda objetar la determinación del saldo de la obligación principal por el cual se le demande, si comprueba en el juicio correspondiente que se ha procedido en fraude de sus derechos.
+Art. 761. (935). Si el deudor personal no es oído en el trámite de tasación esta diligencia deberá hacerse por peritos que nombrará el juez de la causa en la forma prescrita por este Código. La tasación, en este caso, no impide que el deudor personal pueda objetar la determinación del saldo de la obligación principal por el cual se le demande, si comprueba en el juicio correspondiente que se ha procedido en fraude de sus derechos.
 
 Art. 762. (936). Lo dispuesto en el artículo 492 se aplicará también al caso en que se persiga la finca hipotecada contra terceros poseedores.
 
@@ -3001,6 +2987,7 @@ NOTA
 NOTA
 NOTA
 NOTA
+NOTA
 El N° 3 del artículo 2° de la Ley 19374, publicada el 18.02.1995, eliminó el inciso primero de la presente norma.
 
 Art. 798. El recurso de casación en la forma contra la sentencia de primera instancia se verá conjuntamente con la apelación. Deberá dictarse una sola sentencia para fallar la apelación y desechar la casación en la forma.
@@ -3025,9 +3012,9 @@ Art. 801. (972). Derogado.
 
 Art. 802. (973). Derogado.
 
-Artículo 803.- El recurrente, hasta antes de la vista del recurso, podrá designar un abogado para que lo defienda ante el tribunal ad quem, que podrá ser o no el mismo que patrocinó el recurso. En las causas criminales en que el recurso esté patrocinado por abogado con domicilio fuera del radio urbano de la ciudad asiento del tribunal ad quem y haya sido deducido en favor de procesado que se encuentra sometido a prisión preventiva, asumirá su defensa el abogado que designe la Corporación de Asistencia Judicial respectiva.
-El tribunal al dar cumplimiento a lo establecido en el artículo 781 ó 782, según sea el caso, si ordena traer los autos en relación, dispondrá que esta resolución sea notificada por el receptor de turno al representante de la Corporación de Asistencia Judicial para que, dentro de quinto día, designe al abogado que asumirá la defensa del recurso.
-Esta obligación cesará en caso que el recurrente, antes de la vista del recurso, designe abogado particular.
+Artículo 803.- El recurrente, hasta antes de la vista del recurso, podrá designar un abogado para que lo defienda ante el tribunal ad-quem, que podrá ser o no el mismo que patrocinó el recurso.
+NOTA
+El Artículo 2°de la Ley 19806, publicada el 31.05.2002, derogó los incisos 2°, 3° y 4° de la presente norma.
 
 Art. 804. (975). Derogado.
 
@@ -3063,10 +3050,10 @@ Sin embargo, si al terminar el año no se ha aún fallado el juicio dirigido a c
 Art. 812. (983). Derogado.
 
 Art. 813. (984). Presentado el recurso, el tribunal ordenará que se traigan a la vista todos los antecedentes del juicio en que recayó la sentencia impugnada y citará a las partes a quienes afecte dicha sentencia para que comparezcan en el término de emplazamiento a hacer valer su derecho.
-Los trámites posteriores al vencimiento de este término se seguirán conforme a lo establecido para la substanciación de los incidentes, oyéndose al ministerio público antes de la vista de la causa.
+Los trámites posteriores al vencimiento de este término se seguirán conforme a lo establecido para la substanciación de los incidentes, oyéndose al fiscal judicial antes de la vista de la causa.
 
 Art. 814. (985). Por la interposición de este recurso no se suspenderá la ejecución de la sentencia impugnada.
-Podrá, sin embargo, el tribunal, en vista de las circunstancias, a petición del recurrente, y oído el ministerio público, ordenar que se suspenda la ejecución de la sentencia, siempre que aquél dé fianza bastante para satisfacer el valor de lo litigado y los perjuicios que se causen con la inejecución de la sentencia, para el caso de que el recurso sea desestimado.
+Podrá, sin embargo, el tribunal, en vista de las circunstancias, a petición del recurrente, y oído el fiscal judicial, ordenar que se suspenda la ejecución de la sentencia, siempre que aquél dé fianza bastante para satisfacer el valor de lo litigado y los perjuicios que se causen con la inejecución de la sentencia, para el caso de que el recurso sea desestimado.
 
 Art. 815. (986). Si el tribunal estima procedente la revisión por haberse comprobado, con arreglo a la ley, los hechos en que se funda, lo declarará así, y anulará en todo o en parte la sentencia impugnada.
 En la misma sentencia que acepte el recurso de revisión declarará el tribunal si debe o no seguirse nuevo juicio. En el primer caso determinará, además, el estado en que queda el proceso, el cual se remitirá para su conocimiento al tribunal de que proceda.
@@ -3103,9 +3090,9 @@ Art. 823. (995). Si a la solicitud presentada se hace oposición por legítimo c
 Si la oposición se hace por quien no tiene derecho, el tribunal, desestimándola de plano, dictará resolución sobre el negocio principal.
 
 Art. 824. (996). En los negocios no contenciosos que no tengan señalada una tramitación especial en el presente Código, procederá el tribunal de plano, si la ley no le ordena obrar con conocimiento de causa.
-Si la ley exige este conocimiento, y los antecedentes acompañados no lo suministran, mandará rendir previamente información sumaria acerca de los hechos que legitimen la petición, y oirá después al ministerio público o al respectivo defensor público, según corresponda.
+Si la ley exige este conocimiento, y los antecedentes acompañados no lo suministran, mandará rendir previamente información sumaria acerca de los hechos que legitimen la petición, y oirá después al respectivo defensor público.
 
-Art. 825. (997). En todos los casos en que haya de obtenerse el dictamen por escrito de los oficiales del ministerio público o de los defensores públicos, se les pasará al efecto el proceso en la forma establecida en el artículo 37.
+Art. 825. (997). En todos los casos en que haya de obtenerse el dictamen por escrito de los oficiales del fiscal judicial o de los defensores públicos, se les pasará al efecto el proceso en la forma establecida en el artículo 37.
 
 Art. 826. (998). Las sentencias definitivas en los negocios no contenciosos expresarán el nombre, profesión u oficio y domicilio de los solicitantes, las peticiones deducidas y la resolución del tribunal. Cuando éste deba proceder con conocimiento de causa, se establecerán además las razones que motiven la resolución.
 Estas sentencias, como las que se expiden en las causas entre partes, se copiarán en el libro respectivo que llevará el secretario del tribunal.
@@ -3201,7 +3188,7 @@ Art. 847. (1026). La ocultación a que se refiere el inciso final del artículo 
 
 Art. 848. (1027). Se sacarán de los bienes del ausente las expensas de la litis, así como los fondos necesarios para dar cumplimiento a los fallos que se expidan en su contra y para cubrir los gastos que ocasione la curaduría.
 
-Art. 849. (1028). Declarada yacente la herencia en conformidad a lo prevenido en el párrafo respectivo de este Libro, se procederá inmediatamente al nombramiento de curador de la misma, con audiencia del ministerio público, cumplidas en su caso las disposiciones de los artículos 482 y 483 del Código Civil.
+Art. 849. (1028). Declarada yacente la herencia en conformidad a lo prevenido en el párrafo respectivo de este Libro, se procederá inmediatamente al nombramiento de curador de la misma cumplidas en su caso las disposiciones de los artículos 482 y 483 del Código Civil.
 
 Art. 850. (1029). Para proceder al nombramiento de curador de los derechos eventuales del que está por nacer, bastará la denunciación o declaración de la madre que se crea embarazada, y en el caso de haberse nombrado ese curador por el padre, bastará el hecho del testamento y la comprobación de la muerte de éste.
 
@@ -3302,7 +3289,7 @@ Véase el Artículo 516 del código Orgánico de Tribunales.
 
 Art. 875. (1054). Decretada la guarda y aposición de sellos, se pueden practicar estas diligencias aun cuando no esté presente ninguno de los interesados.
 
-Art. 876. (1055). La ruptura de los sellos deberá hacerse en todo caso judicialmente, con citación de las personas que pueden tomar parte en la facción del inventario, citadas en la forma que dispone el artículo 860; salvo que por la urgencia del caso el tribunal ordene prescindir de este trámite, debiendo en este caso proceder con citación del ministerio público.
+Art. 876. (1055). La ruptura de los sellos deberá hacerse en todo caso judicialmente, con citación de las personas que pueden tomar parte en la facción del inventario, citadas en la forma que dispone el artículo 860; salvo que por la urgencia del caso el tribunal ordene prescindir de este trámite.
 
 #### 3. De la dación de la posesión efectiva de la herencia
 NOTA
@@ -3348,7 +3335,7 @@ Toca al curador que se nombre cuidar de que se hagan la inserción y fijación o
 
 Art. 886. (1063). En el caso del artículo 482 del Código Civil, se hará saber por oficio dirigido al efecto al cónsul respectivo la resolución que declara yacente la herencia, a fin de que en el término de cinco días proponga, si lo tiene a bien, la persona o personas a quienes pueda nombrarse curadores.
 Si el cónsul propone curador, se procederá conforme a lo dispuesto en el artículo 483 del Código citado.
-En el caso contrario, el tribunal hará el nombramiento de oficio o a propuesta del ministerio público.
+En el caso contrario, el tribunal hará el nombramiento de oficio.
 
 #### 5. Disposiciones comunes a los párrafos precedentes
 
@@ -3417,7 +3404,7 @@ Art. 902. (1079). Son requisitos legales para la declaración de este derecho:
 Art. 903. (1080). Reclamado este derecho, el tribunal llamará por medio de tres avisos que se publicarán de ocho en ocho días a lo menos en un diario de la comuna, si lo hay, o de la capital de la región, en el caso contrario, a los que se crean llamados al goce del censo, a fin de que hagan uso de su derecho.
 
 Art. 904. (1081). Transcurridos ocho días después del último aviso de los indicados en el artículo anterior, el tribunal abrirá un término de prueba para que el compareciente acredite su derecho.
-Se rendirá esta prueba con citación del ministerio público, o del defensor de obras pías, cuando a éste corresponda intervenir.
+Se rendirá esta prueba con citación del defensor de obras pías, cuando a éste corresponda intervenir.
 
 Art. 905. (1082). Comprobada la constitución del censo y no presentándose contradictor, lo que certificará antes del último decreto el secretario, el tribunal decretará el derecho del compareciente, si acredita los requisitos establecidos en el artículo 902.
 
@@ -3441,17 +3428,15 @@ Art. 909. (1086). Los tribunales admitirán las informaciones de testigos que an
 
 Art. 910. (1087). En el mismo escrito en que se pida que se admita la información, se articularán los hechos sobre los cuales hayan de declarar los testigos.
 
-Art. 911. (1088). Para admitir estas informaciones los tribunales oirán previamente al ministerio público.
+Art. 911. (1088). Derogado.
 
-Art. 912. (1089). Admitida la información, serán examinados con citación del ministerio público los testigos que el interesado presente.
+Art. 912. (1089). Admitida la información, serán examinados los testigos que el interesado presente.
 Si los testigos son conocidos del juez o del ministro de fe que autoriza la diligencia, se dejará en ella testimonio de esta circunstancia.
-Si no lo son, se les exigirá que comprueben su
-NOTA: 59
-identidad con dos testigos conocidos.
-NOTA: 59
-Véase el Art. 6° del DL N° 26, de 1924, que establece el Servicio de Identificación Personal Obligatorio.
+Si no lo son, se les exigirá que comprueben su identidad con dos testigos conocidos.
+NOTA
+Véase el Artículo 6° del Decreto Ley 26, Interior, publicado el 18.11.1924, establece el Servicio de Identificación Personal Obligatorio.
 
-Art. 913. (1090). Concluida la información, se pasará al ministerio público para que examine las cualidades de los testigos y si se ha acreditado su identidad por alguno de los medios expresados.
+Art. 913. (1090). Concluida la información, se pasará al defensor público para que examine las cualidades de los testigos y si se ha acreditado su identidad por alguno de los medios expresados.
 
 Art. 914. (1091). Los tribunales aprobarán las informaciones rendidas con arreglo a lo dispuesto en este Título, siempre que los hechos aparezcan justificados con la prueba que expresa el número 2° del artículo 384, y mandarán archivar los antecedentes, dándose copia a los interesados.
 Estas informaciones tendrán el valor de una presunción legal.

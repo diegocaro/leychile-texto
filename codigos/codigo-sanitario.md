@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2001-09-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2002-05-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2001-09-13
-fetched_at: 2026-08-03T01:16:11.995391+00:00
+version_date: 2002-05-31
+fetched_at: 2026-08-03T01:18:31.890619+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -677,8 +677,8 @@ Artículo 133°.- Los Directores de establecimientos especializados de atención
 Para ejercer esta curaduría los funcionarios antes indicados no necesitarán de discernimiento, ni estarán obligados a rendir fianza ni hacer inventario. En lo demás se regirán por las disposiciones del derecho común.
 En el ejercicio de esta curaduría el Director del establecimiento gozará del privilegio de pobreza en las actuaciones judiciales y extrajudiciales que realice y no percibirá retribución alguna, sin perjuicio de los derechos que correspondan al Servicio Nacional de Salud en conformidad al arancel que se dicte de acuerdo con el presente Código.
 
-Artículo 134°.- Los registros, libros, fichas clínicas y documentos de los establecimientos mencionados en el artículo 130° tendrán el carácter de reservado, salvo para las autoridades judiciales y para el Servicio Nacional de Salud.
-Sólo el Director del Establecimiento en el caso de los establecimientos públicos, y el Director o el médico tratante, en el caso de los establecimientos privados podrán dar certificados sobre la permanencia de los enfermos en los establecimientos psiquiátricos, la naturaleza de su enfermedad o cualquier otra materia relacionada con su hospitalización. Este cerificado sólo podrán solicitarlo los enfermos, sus representantes legales o las autoridades judiciales.
+Artículo 134°.- Los registros, libros, fichas clínicas y documentos de los establecimientos mencionados en el artículo 130° tendrán el carácter de reservado, salvo para las autoridades judiciales, del Ministerio Público y para el Servicio Nacional de Salud.
+Sólo el Director del Establecimiento en caso de los establecimientos públicos, y el Director o el médico tratante, en el caso de los establecimientos privados podrán dar certificados sobre la permanencia de los enfermos en los establecimientos psiquiátricos, la naturaleza de su enfermedad o cualquiera otra materia relacionada con su hospitalización. Este certificado sólo podrán solicitarlo los enfermos, sus representantes legales o las autoridades judiciales.
 
 ## LIBRO VIII
 DE LAS INHUMACIONES, EXHUMACIONES Y TRASLADO DE CADAVERES
@@ -696,7 +696,7 @@ Artículo 137°.- No podrá rechazarse en un Cementerio la inhumación de un cad
 
 Artículo 138°.- Corresponderá a las Municipalidades de la República instalar cementerios, previa aprobación del Servicio Nacional de Salud, en los lugares en que no los hubiere o fueren insuficientes, pudiendo adquirir o expropiar terrenos para tal objeto.
 
-Artículo 139°.- Ningún cadáver podrá permanecer insepulto por más de cuarenta y ocho horas, a menos que el Servicio Nacional de Salud lo autorice, o cuando haya sido embalsamado o se requiera practicar alguna investigación de carácter científico o judicial.
+Artículo 139°.- Ningún cadáver podrá permanecer insepulto por más de cuarenta y ocho horas, a menos que el Servicio Nacional de Salud lo autorice, o cuando haya sido embalsamado o se requiera practicar alguna investigación de carácter científico, judicial o penal.
 El Servicio Nacional de Salud podrá ordenar la inhumación, en un plazo inferior cuando razones técnicas lo aconsejen.
 
 Artículo 140°.- La obligación de dar sepultura a un cadáver recaerá sobre el cónyuge sobreviviente o sobre el pariente más próximo que estuviere en condición de sufragar los gastos.

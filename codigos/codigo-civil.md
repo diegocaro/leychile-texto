@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2001-07-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2002-05-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2001-07-24
-fetched_at: 2026-08-03T01:15:36.751629+00:00
+version_date: 2002-05-31
+fetched_at: 2026-08-03T01:17:54.051503+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -8247,25 +8247,32 @@ Título II
 DE LA POLICIA DE MENORES Y SUS FUNCIONES
 Art. 15. Créase en la Dirección General de Carabineros un Departamento denominado "Policía de Menores", con personal especializado en el trabajo con menores. Este departamento establecerá en cada ciudad cabecera de provincia y en los lugares que sean asiento de un Juzgado de Letras de Menores, Comisarías o Subcomisarías de Menores.
 La Policía de Menores tendrá las siguientes finalidades:
-a) Recoger a los menores en situación irregular con necesidad de asistencia o protección; b) Ejercer, de acuerdo con las instrucciones que imparta el Consejo Nacional de Menores, el control de los sitios estimados como centros de corrupción de menores;
-c) Fiscalizar los espectáculos públicos, centros de diversión o cualquier lugar donde haya afluencia de público, con el fin de evitar la concurrencia de menores, cuando no sean apropiados para ellos, y
-d) Denunciar al Juzgado de Letras de Menores los hechos penados por el artículo 62.
+a) Recoger a los menores en situación irregular con necesidad de asistencia o protección;
+b) Ejercer, de acuerdo con las instrucciones que imparta el Servicio Nacional de Menores, el control de los sitios estimados como centros de corrupción de menores; c) Fiscalizar los espectáculos públicos, centros de diversión o cualquier lugar donde haya afluencia de público, con el fin de evitar la concurrencia de menores, cuando no sean apropiados para ellos, y
+d) Denunciar al Ministerio Público los hechos penados por el artículo 62.
 
-Art. 16. Los menores de dieciocho años sólo podrán ser retenidos en las Comisarías o Subcomisarías de Menores, en un Centro de Tránsito y Distribución, en un Centro de Observación y Diagnóstico o, en aquellos lugares en que estos últimos no existan y sólo tratándose de menores que pudieren ser sometidos a examen de discernimiento, en algún establecimiento que determine el Presidente de la República, en conformidad con lo establecido en el artículo 71 de esta ley.
-La retención de una persona visiblemente menor en un establecimiento distinto de los señalados en el inciso anterior, constituirá una infracción grave a dicha obligación funcionaria, y será sancionada con la medida disciplinaria que proceda de acuerdo al mérito de los antecedentes, sin perjuicio de las demás responsabilidades en que pueda haber incurrido el infractor.
-Carabineros de Chile deberá poner a los menores inculpados de haber cometido un hecho constitutivo de crimen o simple delito, directa e inmediatamente, a disposición del tribunal competente.
-Sólo si ello fuere imposible, deberá ingresarlo al Centro de Observación y Diagnóstico respectivo dentro de las veinticuatro horas siguientes. El funcionario que lo reciba lo pondrá a disposición del juez con los antecedentes del caso, a primera hora de la audiencia más próxima o antes si éste así lo ordena.
-Si se tratare de una falta, y el menor tuviera domicilio conocido, o ejerciere alguna actividad o industria, o rindiere caución, en la forma prevista en el artículo 266 del Código de Procedimiento Penal, de que comparecerá a la presencia judicial en la audiencia inmediata, se limitará a citarlo y lo dejará en libertad.
-Tratándose de un menor que hubiere sido retenido por otra causa, notificará el motivo a sus padres o guardadores y procederá a devolvérselos. Si no los tuviese, y apareciere de manifiesto la necesidad de brindarle asistencia o protección, lo pondrá a disposición del juez de menores, para que éste resuelva a su respecto la medida que proceda. Las disposiciones contenidas en los incisos tercero, cuarto y quinto precedentes serán aplicables a la Policía de Investigaciones.
+Art. 16. Carabineros de Chile deberá poner a los menores de dieciocho años y mayores de dieciséis que se encuentren en las situaciones previstas en los artículos 129 y 131 del Código Procesal Penal, directa e inmediatamente, a disposición del juez de garantía competente. Dicha detención se regulará, salvo en los aspectos previstos en este artículo, por el párrafo III, Título V, del Libro Primero del Código Procesal Penal. Si se diere lugar a la ampliación del plazo de la detención, conforme al artículo 132 del Código Procesal Penal, ésta sólo podrá ser ejecutada en los Centros de Observación y Diagnóstico o en los establecimientos que determine el Presidente de la República en aquellos lugares donde los primeros no existan, en conformidad con lo establecido en el artículo 71 de esta ley.
+La detención de una persona visiblemente menor en un establecimiento distinto de los señalados en el inciso anterior, constituirá una infracción grave a dicha obligación funcionaria, y será sancionada con la medida disciplinaria que proceda de acuerdo al mérito de los antecedentes, sin perjuicio de las demás responsabilidades en que pueda haber incurrido el infractor.
+La prisión preventiva que se decrete, mientras se practica el examen de discernimiento, sólo podrá ejecutarse en los lugares señalados en el inciso primero. Una vez que se encuentre firme la resolución que declare que el menor actuó con discernimiento, la prisión preventiva se ejecutará en los establecimientos penitenciarios correspondientes, caso en el cual deberá darse cumplimiento a lo previsto en los artículos 17 de esta ley y 37, letra c), de la Convención sobre los Derechos del Niño. El menor privado de libertad siempre podrá ejercer los derechos consagrados en los artículos 93 y 94 del Código Procesal Penal y en los artículos 37 y 40 de esa Convención.
+Los encargados de los Centros o establecimientos aludidos en el inciso primero no podrán aceptar el ingreso de menores sino en virtud de órdenes impartidas por el juez de garantía competente.
+Si el hecho imputado al menor fuere alguno de aquellos señalados en el artículo 124 del Código Procesal Penal, Carabineros de Chile se limitará a citar al menor a la presencia del fiscal y lo dejará en libertad, previo señalamiento de domicilio en la forma prevista por el artículo 26 del mismo Código.
+Las disposiciones contenidas en los incisos anteriores serán aplicables a la Policía de Investigaciones.
 
-Art. 17. Se prohíbe a los jefes de establecimientos de detención mantener a los menores de dieciocho años en comunicación con otros detenidos o procesados mayores de esa edad.
-El funcionario que no diere cumplimiento a esta disposición será castigado, administrativamente, con suspensión de su cargo hasta por el término de un mes.
+Artículo 16 bis.- En aquellos casos en que aparezcan gravemente vulnerados o amenazados los derechos de un menor de edad, Carabineros de Chile deberá conducirlo al hogar de sus padres o cuidadores, en su caso, y entregarlo a ellos, informándoles de los hechos que motivaron la actuación policial.
+Si, para cautelar la integridad física o psíquica del menor, fuere indispensable separarlo de su medio familiar o de las personas que lo tuvieren bajo su cuidado, Carabineros de Chile lo conducirá a un Centro de Tránsito y Distribución e informará de los hechos a primera audiencia al juez de menores respectivo. De la misma forma procederá respecto de un menor de dieciséis años imputado de haber cometido una falta.
+Tratándose de la comisión de un delito de que fuere víctima un menor de edad, Carabineros deberá, además, poner los antecedentes en conocimiento del Ministerio Público de acuerdo a las reglas generales.
+Cuando un menor de dieciséis años de edad fuere imputado de haber cometido un crimen o simple delito, Carabineros deberá conducirlo a los mismos Centros señalados en el inciso segundo, informando inmediatamente al juez de menores.
+En todas las hipótesis previstas en este artículo en que Carabineros hubiere llevado a un menor a un Centro de Tránsito y Distribución, el encargado del Centro que reciba al menor de edad deberá conducirlo ante el referido juez, a primera audiencia, a fin que éste adopte las medidas que procedan de conformidad con esta ley.
+
+Art. 17. Se prohíbe a los jefes de establecimientos de detención mantener a los menores de dieciocho años en comunicación con otros detenidos o presos mayores de esa edad. El funcionario que no diere cumplimiento a esta disposición será castigado, administrativamente, con suspensión de su cargo hasta por el término de un mes.
 
 #### Título III
 DE LA JUDICATURA DE MENORES, SU ORGANIZACION Y ATRIBUCIONES
 
-Art. 18. El conocimiento de los asuntos de que trata este título y la facultad de hacer cumplir las resoluciones que recaigan en ellos, corresponderá a los Juzgados de Letras de Menores.
-Estos tribunales formarán parte del Poder Judicial y se regirán por las disposiciones relativas a los Juzgados de Letras de Mayor Cuantía establecidas en el Código Orgánico de Tribunales y leyes que lo complementan, en lo que no se oponga a lo dispuesto en la presente ley y en la ley sobre abandono de familia y pago de pensiones alimenticias.
+Art. 18. El conocimiento de los asuntos de que trata este Título y la facultad de hacer cumplir las resoluciones que recaigan en ellos corresponderá a los Juzgados de Letras de Menores, excepto aquellos que se encomiendan a los tribunales con competencia en lo criminal.
+Los Juzgados de Letras de Menores formarán parte del Poder Judicial y se regirán por las disposiciones relativas a los Juzgados de Letras, establecidas en el Código Orgánico de Tribunales y las leyes que lo complementan, en lo que no se oponga a lo dispuesto en esta ley y en la ley sobre abandono de familia y pago de pensiones alimenticias.
+NOTA:
+El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
 Art. 19. Habrá en el departamento de Santiago cinco Juzgados de Letras de Menores, dos en el de Valparaíso, uno en el departamento del Presidente Aguirre Cerda y otro en el de Concepción, los cuales tendrán su asiento en las capitales de esos departamentos.
 El Primer Juzgado de Letras de Menores de Santiago, conocerá, con arreglo a lo dispuesto por el artículo 28 de la presente ley, de todos los asuntos en que aparezcan menores inculpados de crímenes, simples delitos y faltas, y de la materia a que se refiere el número 7 del artículo 26.
@@ -8310,19 +8317,25 @@ Si el secretario del tribunal se ausentare, estuviere inhabilitado o se encontra
 NOTA:
 El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
-Art. 26. Corresponderá a los jueces de letras de menores:
+Art. 26. Corresponderá a los jueces de letras de
+NOTA:
+menores:
 1) Determinar a quién corresponde la tuición de los menores; establecer, en caso de desacuerdo entre los padres, la forma en que ha de ejercerse el derecho a que se refiere el artículo 229 del Código Civil, así como suspender o restringir su ejercicio, según corresponda, y declarar la suspensión o pérdida de la patria potestad y autorizar la emancipación;
 2) Conocer de las demandas de alimentos y de las solicitudes de rebaja, aumento o cese de la pensión alimenticia que se deban a menores, al cónyuge del alimentante cuando éste los solicitare conjuntamente con sus hijos menores, o a parientes mayores y menores de edad que los reclamaren conjuntamente, aun cuando hayan adquirido la mayoría de edad estando pendiente el juicio.
 3) Ordenar la entrega a la madre de hijos menores, o a la persona que los tenga a su cargo, de hasta un cincuenta por ciento del sueldo, salario, pensión o de cualquiera otra retribución en dinero que perciba el padre de esos menores en razón de su trabajo u oficio, en el caso de que hubiere sido declarado vicioso por el juez de letras de menores.
-Para los efectos del inciso anterior, se presumirá de derecho que el padre es vicioso cuando hubiere sido condenado por ebriedad más de una vez en el año.
+PARRAFO SEGUNDO ELIMINADO
 El juez ordenará, igualmente, la entrega del mismo porcentaje en dinero a la madre de hijos menores que se encontraren en los casos de los incisos anteriores;
 4) Conocer de los disensos para contraer matrimonio;
-5) Derogado ; 6) Nombrar guardador al menor que carezca de bienes o que consistan sólo en derecho a seguros, montepíos, pensiones, indemnizaciones u otros beneficios semejantes; y conocer del juicio de remoción respectivo o acordar ésta de oficio en los casos de incapacidad legal del guardador;
-7) Resolver sobre la vida futura del menor en el caso del inciso tercero del artículo 234, del Código Civil, y cuando éste se encontrare en peligro material o moral;
+5) DEROGADO
+6) Nombrar guardador al menor que carezca de bienes o que consistan sólo en derecho a seguros, montepíos, pensiones, indemnizaciones u otros beneficios semejantes; y conocer del juicio de remoción respectivo o acordar ésta de oficio en los casos de incapacidad legal del guardador;
+7) Resolver sobre la vida futura del menor en el caso del inciso tercero del artículo 234 del Código Civil, y conocer de todos los asuntos en que aparezcan menores de edad gravemente vulnerados o amenazados en sus derechos, respecto de los cuales se requiera adoptar una medida de protección conforme al artículo 30;
 8) Conocer de la gestión de citación a confesar paternidad o maternidad establecida en el artículo 188 del Código Civil cuando se solicite en favor de un hijo menor de edad.
-9) Conocer de todos los asuntos en que aparezcan menores inculpados de crímenes, simples delitos o faltas, con arreglo a lo dispuesto por el artículo 28, y expedir la declaración previa sobre si el mayor de dieciséis años y menor de dieciocho ha obrado o no con discernimiento;
-10) Aplicar las medidas contempladas en el artículo 29 a los menores de dieciséis años, como a los mayores de esa edad y menores de dieciocho que hayan obrado sin discernimiento y ejecutado un hecho que, si se hubiere cometido por mayores de esa edad, habría constituido delito;
-11) Conocer de las causas que se promovieren de acuerdo con el artículo 116 de la Ley Nº 17.105 de Alcoholes, Bebidas Alcohólicas y Vinagres, y 12) Conocer de los delitos penados por el artículo 62 de la presente ley y de las faltas contempladas en el número 13 del artículo 494 del Código Penal, y en los números 5.º y 6.º del artículo 495 del mismo Código, cuando la ofensa o el escándalo fueren presenciados por menores o afectaren a éstos.
+9) Expedir la declaración previa sobre si el mayor de dieciséis años y menor de dieciocho, inculpado de haber cometido un delito, ha obrado o no con discernimiento, en los casos y en la forma prevista en el artículo 28;
+10) Conocer de todos los asuntos en que se impute un hecho punible a menores de dieciséis años, o mayores de esa edad y menores de dieciocho que hayan obrado sin discernimiento, y aplicar, cuando corresponda, las medidas contempladas en el artículo 29;
+11) DEROGADO
+12) DEROGADO
+NOTA:
+El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
 Art. 27. Se aplicará el apremio establecido en el
 NOTA:
@@ -8330,35 +8343,53 @@ artículo 14 de la ley sobre abandono de familia y pago de pensiones alimenticia
 NOTA:
 El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
-Art. 28. Tanto el menor de dieciséis años, como el mayor de esa edad y menor de dieciocho años, que haya obrado sin discernimiento, que aparezcan como inculpados de un crimen, simple delito o falta, serán juzgados por el juez de letras de menores respectivo, quien no podrá adoptar respecto de ellos otras medidas que las establecidas en esta ley.
-La declaración previa acerca de si ha obrado o no con discernimiento, deberá hacerla el juez de letras de menores, oyendo al Consejo Técnico de la Casa de Menores, o a alguno de sus miembros en la forma que determine el reglamento. En caso de no existir Casa de Menores, deberá oír al funcionario indicado en la letra l) del artículo 3.º.
-La resolución que declare la falta de discernimiento será consultada a la respectiva Corte de Apelaciones, cuando el delito merezca pena aflictiva. La Corte se pronunciará en cuenta sin otro trámite que la vista del fiscal, salvo que se pidan alegatos.
+Art. 28. Cuando a un mayor de dieciséis y menor de dieciocho años de edad se le imputare un hecho constitutivo de delito que la ley sancione con penas superiores a presidio o reclusión menores en su grado
+NOTA:
+mínimo, la declaración previa de si ha obrado o no con discernimiento deberá hacerla el juez de letras de menores a petición del Ministerio Público, inmediatamente de formalizada la investigación. Para estos efectos, el juez de menores oirá al órgano técnico correspondiente del Servicio Nacional de Menores, a los intervinientes en el proceso penal respectivo y, en todo caso, al defensor del menor. Dicha declaración no podrá ser demorada más de quince días, aun cuando no se hayan recibido los informes técnicos. Esta resolución será notificada al Ministerio Público y al defensor en conformidad a los artículos 27 y 28 del Código Procesal Penal.
+Cuando a un mayor de dieciséis y menor de dieciocho años de edad se le atribuyere un hecho constitutivo de falta o de simple delito que la ley no sancione con penas privativas o restrictivas de libertad, o bien cuando éstas no excedan la de presidio o reclusión menor en su grado mínimo, la declaración previa acerca del discernimiento será emitida por el juez de garantía competente, a petición del Ministerio Público, en el mismo plazo señalado en el inciso anterior. Con dicho objeto, se citará a una audiencia a todos los intervinientes, previa designación de un defensor para el menor, si no tuviere uno de su confianza, a la que deberán concurrir con todos sus medios de prueba. Si se declarare que el menor ha obrado con discernimiento, el proceso se regulará de acuerdo a lo previsto en el Título I del Libro Cuarto del Código Procesal Penal, cualquiera sea la pena requerida por el fiscal.
+La resolución del juez de menores que declare la falta de discernimiento únicamente será susceptible del recurso de apelación, que se concederá en el solo efecto devolutivo.
+Encontrándose firme la resolución del juez de garantía que declare que el menor ha actuado sin discernimiento, la comunicará al juez de menores, a fin de que este último determine si corresponde la aplicación de alguna de las medidas contempladas en el artículo 29.
+En el evento de que se declare que el menor ha actuado con discernimiento, el fiscal podrá igualmente ejercer las facultades contempladas en el Párrafo 1º del Título I del Libro Segundo del Código Procesal Penal o deducir los respectivos requerimientos o acusaciones.
+NOTA:
+El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
-Art. 29. En los casos de la presente ley, el juez de letras de menores podrá aplicar alguna o algunas de las medidas siguientes:
+Art. 29. En los casos previstos en el artículo 26, Nº 10, de esta ley, el juez de letras de menores podrá aplicar alguna o algunas de las medidas siguientes:
+NOTA:
 1.º Devolver el menor a sus padres, guardadores o personas a cuyo cargo estuviere, previa amonestación;
 2.º Someterlo al régimen de libertad vigilada, lo que se efectuará en la forma que determine el reglamento;
-3.º Confiarlo, por el tiempo que estime necesario, a los establecimientos especiales de educación que esta ley señala, y 4.º Confiarlo al cuidado de alguna persona que se preste para ello, a fin de que viva con su familia, y que el juez considere capacitada para dirigir su educación.
-En el caso del N.º 4.º, el menor quedará sometido al régimen de libertad vigilada establecido en el N.º 2.
-Estas medidas durarán el tiempo que determine el juez de letras de menores, quien podrá revocarlas o modificarlas, si variaren las circunstancias, oyendo al consejo técnico de la Casa de Menores o a alguno de sus miembros en la forma que determine el reglamento. En caso de no existir Casa de Menores, deberá oír al funcionario indicado en la letra l) del artículo 3.º.
-Tratándose de un menor que ha sido víctima del maltrato, el Juez podrá, además de decretar las medidas indicadas en el inciso primero, remitir los antecedentes a los Tribunales competentes para aplicar sanciones penales a quienes resulten responsables, o para decretar otras medidas cautelares en beneficio del menor y de su grupo familiar.
+3.º Confiarlo a los establecimientos especiales de tránsito o rehabilitación que esta ley señala, según corresponda, y
+4.º Confiarlo al cuidado de alguna persona que se preste para ello, a fin de que viva con su familia, y que el juez considere capacitada para dirigir su educación.
+Estas medidas durarán el tiempo que determine el juez de letras de menores, quien podrá revocarlas o modificarlas, si variaren las circunstancias que hubieren llevado a decretarlas, oyendo al director o encargado del centro o programa respectivo. Tratándose del Nº 3º), la medida de internación sólo procederá en los casos y por el plazo que sea estrictamente necesario.
 En caso alguno el juez de letras de menores podrá ordenar el ingreso de una persona menor de dieciocho años en un establecimiento penitenciario de adultos.
+NOTA:
+El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
-Art. 30. Cuando se recoja un menor por hechos que no sean constitutivos de crimen, simple delito o falta, el juez de letras de menores podrá, sin necesidad de llamarlo a su presencia, aplicarle alguna de las medidas indicadas en el artículo anterior, según más convenga a la irregularidad que presente.
-En casos calificados, el juez podrá autorizar al Consejo Técnico de la Casa de Menores respectiva para que aplique la medida procedente, en el plazo que indique, que, en ningún caso, podrá exceder de veinte días.
-Estas medidas podrán ser revocadas o modificadas en la misma forma indicada en el inciso final del artículo 29.
+Art. 30. En los casos previstos en el artículo 26, Nº 7, el juez de letras de menores, mediante resolución fundada, podrá decretar las medidas que sean necesarias para proteger a los menores de edad
+NOTA:
+gravemente vulnerados o amenazados en sus derechos.
+En particular, el juez podrá:
+1) disponer la concurrencia a programas o acciones de apoyo, reparación u orientación a los menores de edad, a sus padres o a las personas que lo tengan bajo su cuidado, para enfrentar y superar la situación de crisis en que pudieren encontrarse, e impartir las instrucciones pertinentes, y
+2) disponer el ingreso del menor de edad en un Centro de Tránsito o Distribución, hogar substituto o en un establecimiento residencial.
+Si adoptare la medida a que se refiere el número 2), el juez preferirá, para que asuman provisoriamente el cuidado del menor, a sus parientes consanguíneos o a otras personas con las que aquél tenga una relación de confianza.
+La medida de internación en un establecimiento de protección sólo procederá en aquellos casos en que, para cautelar la integridad física o síquica del menor de edad, resulte indispensable separarlo de su medio familiar o de las personas que lo tienen bajo su cuidado, y en defecto de las personas a que se refiere el inciso anterior. Esta medida tendrá un carácter esencialmente temporal, no se decretará por un plazo superior a un año, y deberá ser revisada por el tribunal cada seis meses, para lo cual solicitará los informes que procedan al encargado del Centro u hogar respectivo. Sin perjuicio de ello, podrá renovarse en esos mismos términos y condiciones, mientras subsista la causal que le dio lugar. En todo caso, el tribunal podrá sustituir o dejar sin efecto la medida antes del vencimiento del plazo por el que la hubiere dispuesto.
+NOTA:
+El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
-Art. 31. El juez podrá ejercer las facultades que le otorga esta ley, a petición de la Policía de Menores, de los organismos o entidades que presten atención a menores, de cualquiera persona y aun de oficio. En el ejercicio de estas facultades podrá el juez ordenar las diligencias e investigaciones que estime conducentes.
+Art. 31. El juez podrá ejercer las facultades que le otorga esta ley, a petición del Ministerio Público, de los organismos o entidades que presten atención a menores, de cualquiera persona y aun de oficio. En el ejercicio de estas facultades podrá el juez ordenar las diligencias e investigaciones que estime conducentes.
 Siempre que el hecho que motive el denuncio fuere de aquellos que sólo dan acción privada, el juez practicará personalmente la investigación, evitando comprometer la reputación de las personas.
 
-Art. 32. Antes de aplicarse a un menor de dieciocho años algunas de las medidas contempladas en la presente ley, por un hecho que, cometido por un mayor, constituiría delito, el juez deberá establecer la circunstancia de haberse cometido tal hecho y la participación que en él ha cabido al menor.
-Sin embargo, aunque se llegue a la conclusión de que el hecho no se ha cometido o que al menor no le ha cabido participación alguna en él, el juez podrá aplicarle las medidas de protección que contempla esta ley, siempre que el menor se encontrare en peligro material o moral.
+Art. 32. DEROGADO
 
 Art. 33. Si con ocasión del desempeño de sus funciones el juez de letras de menores tuviere conocimiento de la comisión de un delito que comprometa la salud, educación o buenas costumbres de un menor, y cuyo juzgamiento corresponda a otros tribunales, deberá denunciarlo, remitiéndole copia de los antecedentes.
-En estos casos, el Vicepresidente del Consejo Nacional de Menores podrá figurar como parte, por sí o por medio de apoderados, en los procesos que se instruyan.
+INCISO SEGUNDO DEROGADO
 
-Art. 34. En los asuntos de competencia de los Juzgados de Letras de Menores en que no hay contiendas entre partes, el procedimiento será verbal y sin forma de juicio, pero el juez dictará sus resoluciones con conocimiento de causa.
+Art. 34. En los asuntos de competencia de los
+NOTA:
+Juzgados de Letras de Menores en que no hay contiendas entre partes, el procedimiento será verbal y sin forma de juicio, pero el juez dictará sus resoluciones con conocimiento de causa.
 En los asuntos contenciosos o cuando las medidas o resoluciones adoptadas por el juez, siempre que su naturaleza lo permita, sean objeto de oposición de parte de los padres, guardadores o de cualquiera otra persona que en el hecho tenga al menor bajo su cuidado, se aplicará el procedimiento sumario señalado en el Título XI del Libro Tercero del Código de Procedimiento Civil; pero el comparendo y la prueba testimonial tendrán lugar en la fecha o fechas que fije el tribunal. No podrá decretarse la continuación del procedimiento conforme a las reglas del juicio ordinario. Las sentencias definitivas sólo deberán cumplir los requisitos indicados en el artículo 171 del citado Código.
-En los asuntos de competencia de los jueces de letras de menores, sólo procederá oír el dictamen del Ministerio de Defensores Públicos, en casos calificados mediante resolución fundada.
+En los asuntos de competencia de los jueces de letras de menores, sólo procederá oír el dictamen del defensor público, en casos calificados mediante resolución fundada.
+NOTA:
+El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
 Art. 35. Las notificaciones se harán por el
 NOTA:
@@ -8463,9 +8494,9 @@ Art. 50. Derogado.
 #### Título IV
 DE LAS CASAS DE MENORES E INSTITUCIONES ASISTENCIALES
 
-Art. 51. Para los efectos de esta ley, se crearán Casas de Menores. Estas funcionarán a través de dos centros independientes y autónomos entre sí.
-Uno de ellos, denominado Centro de Tránsito y Distribución, atenderá a los menores que requieran de diagnóstico, asistencia y protección, mientras se adopta alguna medida que diga relación con ellos.
-El otro, que se denominará Centro de Observación y Diagnóstico, estará destinado a acoger a los menores que hubieren cometido hechos constitutivos de crimen o simple delito, los que permanecerán en él hasta que el juez adopte una resolución a su respecto o resuelva acerca de su discernimiento. Con todo, estos menores podrán ser atendidos en el Centro de Tránsito y Distribución, cuando no proceda su privación de libertad.
+Art. 51. Para los efectos de esta ley, se crearán Casas de Menores. Estas funcionarán a través de los Centros de que trata este artículo. Los Centros de Tránsito y Distribución atenderán a los menores que requieran de diagnóstico, asistencia y protección, mientras se adopta alguna medida que diga relación con ellos.
+Los Centros de Observación y Diagnóstico estarán destinados a acoger a los menores de dieciocho años y mayores de dieciséis, detenidos conforme al artículo 16 de esta ley o que se encuentren en prisión preventiva mientras se practica el examen de discernimiento, los que permanecerán en ellos hasta que el juez de garantía adopte una resolución a su respecto o se encuentre aprobada la decisión que el fiscal haya adoptado en conformidad con las facultades contempladas en el Párrafo 1º del Título I del Libro Segundo del Código Procesal Penal. Con todo, estos menores podrán ser atendidos en un Centro de Tránsito y Distribución, cuando no proceda su privación de libertad.
+Los Centros de Rehabilitación Conductual tendrán por finalidad procurar la integración definitiva del menor en el medio social.
 
 Art. 52. En cada Casa de Menores funcionará un Consejo Técnico integrado por las siguientes personas:
 a) El Director de la Casa de Menores, quien lo presidirá;
@@ -8477,27 +8508,23 @@ f) Un profesor, y
 g) El funcionario a cargo directo del menor respectivo.
 El reglamento fijará las normas necesarias para el funcionamiento de los Consejos, la forma en que se designarán sus integrantes y las calidades que éstos deben reunir.
 
-Art. 53. Los Consejos Técnicos tendrán las siguientes atribuciones:
-a) Apreciar la clase de irregularidades que afecta al menor;
-b) Aplicar las medidas del artículo 29 en los casos indicados en el inciso segundo del artículo 30, y
-c) Asesorar al juez de letras de menores cuando éste lo requiera.
+Art. 53. Los Consejos Técnicos tendrán las siguientes atribuciones: a) apreciar la clase de irregularidad que afecta al menor, y
+b) asesorar al juez de garantía y al juez de letras de menores cuando lo requieran.
 
 Art. 54. Los establecimientos que dependan del Servicio Nacional de Salud, del Ministerio de Educación Pública o de otros organismos fiscales o autónomos, deberán recibir a los menores enviados por los Juzgados de Letras de Menores o los Consejos Técnicos, de acuerdo a las normas que fije el reglamento.
 
-Art. 55. Las instituciones privadas reconocidas como colaboradoras del Consejo Nacional de Menores, deberán disponer a lo menos de un 20% de las plazas de sus establecimientos para admitir a los menores que el Juzgado de Letras de Menores o el Consejo Técnico respectivo destine para su internación en ellos.
-La obligación establecida en el inciso anterior se hará efectiva de conformidad al convenio que celebre cada institución con el Consejo Nacional de Menores y a lo que determine el reglamento.
-Si el Director del establecimiento estima inconveniente el ingreso o permanencia de alguno de estos menores, podrá pedir a la autoridad que haya dictado la medida, la reconsideración de ésta.
-Los directores de establecimientos particulares que estimaren inconveniente la permanencia en ellos de algún menor ingresado por motivos distintos de los indicados en el inciso primero, deberán ponerlos a disposición del juez de letras de menores, con el fin de que éste adopte, si lo estimare pertinente, las medidas señaladas en el artículo 29, en las mismas condiciones establecidas en él.
+Art. 55. Las instituciones privadas reconocidas como colaboradoras del Servicio Nacional de Menores, deberán disponer a lo menos de un 20% de las plazas de sus establecimientos para admitir a los menores que el Juzgado de Letras de Menores o el Consejo Técnico respectivo destine para su internación en ellos.
+La obligación establecida en el inciso anterior se hará efectiva de conformidad al convenio que celebre cada institución con el Servicio Nacional de Menores y a lo que determine el reglamento. Si el Director del establecimiento estima inconveniente el ingreso o permanencia de alguno de estos menores, podrá pedir a la autoridad que haya dictado la medida, la reconsideración de ésta.
+Los directores de establecimientos particulares que estimaren inconveniente la permanencia en ellos de algún menor ingresado por motivos distintos de los indicados en el inciso primero, deberán ponerlos a disposición del juez de letras de menores, con el fin de que éste adopte, si lo estimare pertinente, las medidas señaladas en los artículos 26, Nº 7), y 29 en las mismas condiciones establecidas en él.
 
-Art. 56. Los establecimientos de protección de menores y hogares sustitutos, deberán mantener a los menores hasta su mayoría de edad, sin perjuicio de la facultad del juez de letras de menores establecida en el inciso final del artículo 29.
+Art. 56. Los establecimientos de protección de menores y hogares sustitutos, deberán mantener a los menores hasta su mayoría de edad, sin perjuicio de la facultad del juez de letras de menores de modificar o revocar las medidas decretadas.
 
-Art. 57. En tanto un menor permanezca en alguno de los establecimientos u hogares sustitutos regidos por la presente ley, su cuidado personal, la dirección de su educación y el derecho a corregirlo, corresponderá al director del establecimiento o al jefe del hogar sustituto respectivo.
+Art. 57. En tanto un menor permanezca en alguno de los establecimientos u hogares sustitutos regidos por la presente ley, su cuidado personal, la dirección de su educación y la facultad de corregirlo corresponderán al director del establecimiento o al jefe del hogar sustituto respectivo. La facultad de corrección deberá ejercerse de forma que no menoscabe la salud o desarrollo personal del niño, conforme al artículo 234 del Código Civil.
+La obligación de cuidado personal incluirá la de informar periódicamente al juez de menores sobre la aplicación de la medida decretada.
 
-Art. 58. La pena privativa de libertad que el juez del crimen aplique al menor de edad declarado con discernimiento, será cumplida en centros de readaptación.
+Art. 58. La pena privativa de libertad que el tribunal con competencia en lo criminal aplique al menor de edad declarado con discernimiento, será cumplida en un Centro de Rehabilitación Conductual.
 
-Art. 59. Cuando un menor de edad deba egresar de un centro de readaptación, el juez de letras de menores determinará si queda en libertad o debe ser enviado a los Centros de Rehabilitación, donde permanecerá hasta su mayoría de edad, sin perjuicio de las facultades del juez establecidas en el artículo 29, inciso final.
-Los Directores de los Centros de Readaptación remitirán mensualmente al juez de letras de menores la nómina y antecedentes de los menores que deban egresar en los treinta días siguientes.
-Los Centros de Rehabilitación tendrán por finalidad posibilitar la integración definitiva del menor en el medio social.
+Art. 59. DEROGADO
 
 Art. 60. El plan escolar de los establecimientos o servicios regidos por esta ley, deberá permitir a los alumnos continuar sus estudios en otros establecimientos educacionales.
 
@@ -8507,28 +8534,39 @@ Su funcionamiento será regido por un reglamento.
 #### Título V
 DISPOSICIONES PENALES
 
-Art. 62. Será castigado con prisión en cualquiera de sus grados o presidio menor en su grado mínimo, o con multa de diez a cien escudos:
+Art. 62. Será castigado con prisión en cualquiera de sus grados o presidio menor en su grado mínimo, o con multa de seis a diez unidades tributarias mensuales:
 1.º El que ocupare a menores de dieciocho años en trabajos u oficios que los obliguen a permanecer en cantinas o casas de prostitución o de juego;
-2.º El empresario, propietario o agente de espectáculos públicos en que menores de dieciséis años hagan exhibiciones de agilidad, fuerza u otras semejantes con propósito de lucro;
-3.º El que ocupare a menores de dieciséis años en trabajos nocturnos, entendiéndose por tales aquellos que se ejecutan entre las diez de la noche y las cinco de la mañana, y
+2.º El empresario, propietario o agente de espectáculos públicos en que menores de edad hagan exhibiciones de agilidad, fuerza u otras semejantes con propósito de lucro;
+3.º El que ocupare a menores de edad en trabajos nocturnos, entendiéndose por tales aquellos que se ejecutan entre las diez de la noche y las siete de la mañana, y
 El maltrato resultante de una acción u omisión que produzca menoscabo en la salud física o psíquica de los menores, no comprendido en leyes especiales sobre materias similares, será sancionado con todas o algunas de las siguientes medidas:
 1) Asistencia del agresor a programas terapéuticos o de orientación familiar, bajo el control de la institución que el juez estime más idónea o conveniente, tales como el Servicio Nacional de la Mujer, el Servicio Nacional de Menores, el Centro de Diagnósticos del Ministerio de Educación o los Centros Comunitarios de Salud Mental Familiar, declarándolo así en la sentencia definitiva. La Institución designada deberá, periódicamente, remitir los informes de cumplimiento al tribunal en que esté radicada la causa;
 2) Realización de trabajos determinados, a petición expresa del ofensor, en beneficio de la comunidad, para la Municipalidad o para las corporaciones municipales existentes en la comuna correspondiente a su domicilio, análogos a la actividad, profesión u oficio del condenado o relacionados con ellos, sin que estos trabajos alteren sus labores habituales, y
 3) Multa, a beneficio municipal, equivalente al ingreso diario del condenado, de uno a diez días, la que se fijará prudencialmente por el juez.
-En todos los casos en que los hechos denunciados ocasionen lesiones graves o menos graves, los antecedentes serán remitidos al tribunal del crimen respectivo.
+En todos los casos en que los hechos denunci
+NOTA 1:
+ados ocasionen lesiones graves o menos graves, los antecedentes serán remitidos al tribunal del crimen respectivo.
 Lo dispuesto en este artículo será también aplicable cuando las personas indicadas en el inciso primero abandonen al menor sin velar por su crianza y educación o lo corrompan.
+NOTA:
+El Art. único de la LEY 19324, D.O.26.08.1994, al suprimir el Nº 4 siguiente de éste inc no cambió la coma ni eliminó la letra "y" de éste Nº 3, como tampoco en la versión anterior ni en éste texto refundido.
+NOTA 1:
+El Art. 37 de la Ley 19806, D.O. 31.05.2002, derogó el inciso tercero del presente artículo. No se ha eliminado del texto, pues de acuerdo a la nota anterior, se alteró la división de los incs. y en estricto criterio formal se derogaría el actual inc. 4 siguiente.
 
-Art. 63. En los procesos relativos a delitos cometidos por mayores y de que conocieren los jueces de letras de menores, el procedimiento será el señalado en el Título I del Libro III del Código de Procedimiento Penal.
+Art. 63. DEROGADO
 
-Art. 64. Si en la tramitación de algún proceso se comprobaren hechos en que deba intervenir el juez de letras de menores, el tribunal correspondiente deberá ponerlos en su conocimiento.
+Art. 64. Si en una investigación aparecieren hechos respecto de los cuales deba intervenir el juez de letras de menores, el Ministerio Público deberá ponerlos en su conocimiento. De la misma manera procederá el tribunal que constate la existencia de esos hechos durante la tramitación de un proceso.
 
-Art. 65. Cuando en la instrucción de un proceso apareciere comprometido como autor, cómplice o encubridor un menor que, con arreglo a la ley, esté exento de responsabilidad, el tribunal deberá ponerlo a disposición del juez de letras de menores, sin perjuicio de lo dispuesto en el inciso siguiente.
-Las disposiciones de esta ley no impedirán las medidas de investigación u otras privativas de los Tribunales Ordinarios de Justicia.
+Art. 65. Cuando en una investigación apareciere comprometido un menor como autor, cómplice o encubridor, el Ministerio Público, dependiendo de la pena que la ley asigne al hecho, deberá ponerlo a disposición del
+NOTA:
+juez de garantía o del juez de letras de menores, recabando la declaración sobre el discernimiento cuando corresponda, sin perjuicio de lo dispuesto en el inciso siguiente.
+Las disposiciones de esta ley no impedirán la realización de actuaciones de investigación por el Ministerio Público ni el ejercicio de las facultades privativas de los tribunales ordinarios de justicia.
+NOTA:
+El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
-Art. 66. Deberán denunciar los hechos constitutivos de maltrato de menores aquellos que en conformidad a las reglas generales del Código de Procedimiento Penal estuvieren obligados a hacerlo; la misma obligación y sanciones afectarán a los maestros y otras personas encargadas de la educación de los menores. El que se negare a proporcionar a los funcionarios que establece esta ley datos o informes acerca de un menor o que los falseare, o que en cualquiera otra forma dificultare su acción, será castigado con prisión en su grado mínimo, conmutable en multa de dos escudos por cada día de prisión. Si el autor de esta falta fuere un funcionario público, podrá ser, además, suspendido de su cargo hasta por un mes.
+Art. 66. Deberán denunciar los hechos constitutivos de maltrato de menores aquellos que en conformidad a las reglas generales del Código Procesal Penal estuvieren obligados a hacerlo; la misma obligación y sanciones afectarán a los maestros y otras personas encargadas de la educación de los menores.
+El que se negare a proporcionar a los funcionarios que establece esta ley datos o informes acerca de un menor o que los falseare, o que en cualquiera otra forma dificultare su acción, será castigado con prisión en su grado mínimo, conmutable en multa de un quinto de unidad tributaria mensual por cada día de prisión. Si el autor de esta falta fuere un funcionario público, podrá ser, además, suspendido de su cargo hasta por un mes.
 El que fuere condenado en procedimiento de tuición, por resolución judicial que cause ejecutoria, a hacer entrega de un menor y no lo hiciere o se negare a hacerlo en el plazo señalado por el tribunal, o bien, infringiere las resoluciones que determinan ejercicio del derecho a que se refiere el artículo 229 del Código Civil, será apremiado en la forma establecida por el artículo 543 del Código de Procedimiento Civil. En igual apremio incurrirá el que retuviese especies del menor o se negare a hacer entrega de ellas a requerimiento del tribunal.
 
-Art. 67. Cuando en la instrucción de un proceso aparecieren comprometidos mayores y menores, no se considerará la confesión de estos últimos en cuanto persiga eludir o atenuar la responsabilidad de los primeros.
+Art. 67. DEROGADO
 
 #### Título VI
 DISPOSICIONES GENERALES

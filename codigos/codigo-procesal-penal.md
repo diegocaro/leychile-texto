@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2002-01-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2002-05-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2002-01-30
-fetched_at: 2026-08-03T01:17:00.025450+00:00
+version_date: 2002-05-31
+fetched_at: 2026-08-03T01:18:25.885782+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1403,7 +1403,7 @@ Cuando se hubiere declarado falso, en todo o en parte, un instrumento público, 
 
 Artículo 349.- Pronunciamiento sobre la demanda civil.Tanto en el caso de absolución como en el de condena deberá el tribunal pronunciarse acerca de la demanda civil válidamente interpuesta.
 
-Artículo 350.- Improcedencia de la pena de muerte por solas presunciones. La pena de muerte no podrá imponerse con el solo mérito de presunciones.
+Artículo 350.- DEROGADO
 
 Artículo 351.- Reiteración de crímenes o simples delitos de una misma especie. En los casos de reiteración de crímenes o simples delitos de una misma especie se impondrá la pena correspondiente a las diversas infracciones, estimadas como un solo delito, aumentándola en uno o dos grados.
 Si, por la naturaleza de las diversas infracciones, éstas no pudieren estimarse como un solo delito, el tribunal aplicará la pena señalada a aquella que, considerada aisladamente, con las circunstancias del caso, tuviere asignada una pena mayor, aumentándola en uno o dos grados, según fuere el número de los delitos.
@@ -1616,9 +1616,7 @@ Artículo 405.- Normas supletorias. En lo que no proveyere este título, el proc
 ### Título III
 Procedimiento abreviado
 
-Artículo 406.- Presupuestos del procedimiento abreviado. Se aplicará el procedimiento abreviado para conocer y fallar, en la audiencia de preparación del juicio oral, los hechos respecto de los cuales el fiscal requiriere la imposición de una pena privativa de libertad no superior a cinco años de presidio o reclusión menores en su grado máximo, o bien cualesquiera otras penas de distinta naturaleza, cualquiera fuere su entidad o monto, exceptuada la de muerte, ya fueren ellas únicas, conjuntas o alternativas.
-Para ello, será necesario que el imputado, en conocimiento de los hechos materia de la acusación y de los antecedentes de la investigación que la fundaren, los acepte expresamente y manifieste su conformidad con la aplicación de este procedimiento.
-La existencia de varios acusados o la atribución de varios delitos a un mismo acusado no impedirá la aplicación de las reglas del procedimiento abreviado a aquellos acusados o delitos respecto de los cuales concurrieren los presupuestos señalados en este artículo.
+Artículo 406.- Presupuestos del procedimiento abreviado. Se aplicará el procedimiento abreviado para conocer y fallar, en la audiencia de preparación del juicio oral, los hechos respecto de los cuales el fiscal requiriere la imposición de una pena privativa de libertad no superior a cinco años de presidio o reclusión menores en su grado máximo, o bien cualesquiera otras penas de distinta naturaleza, cualquiera fuere su entidad o monto, ya fueren ellas únicas, conjuntas o alternativas. Para ello, será necesario que el imputado, en conocimiento de los hechos materia de la acusación y de los antecedentes de la investigación que la fundaren, los acepte expresamente y manifieste su conformidad con la aplicación de este procedimiento. La existencia de varios acusados o la atribución de varios delitos a un mismo acusado no impedirá la aplicación de las reglas del procedimiento abreviado a aquellos acusados o delitos respecto de los cuales concurrieren los presupuestos señalados en este artículo.
 
 Artículo 407.- Oportunidad para solicitar el procedimiento abreviado. La solicitud del fiscal de proceder de conformidad al procedimiento abreviado podrá ser planteada al juez de garantía por escrito, en la oportunidad que señala el artículo 248, o verbalmente, en la misma audiencia de preparación del juicio oral. En este último caso, el fiscal y el acusador particular, si lo hubiere, podrán modificar su acusación, así como la pena requerida, a fin de permitir la tramitación del procedimiento conforme a las normas de este Título.
 
@@ -1878,7 +1876,7 @@ Apareciendo interpuesta en forma legal, se dará traslado de la petición al fis
 
 Artículo 476.- Improcedencia de la prueba testimonial. No podrá probarse por testigos los hechos en que se funda la solicitud de revisión.
 
-Artículo 477.- Efectos de la interposición de la solicitud de revisión. La solicitud de revisión no suspenderá el cumplimiento de la sentencia que se intentare anular, a menos que el fallo impusiere la pena de muerte.
+Artículo 477.- Efectos de la interposición de la solicitud de revisión. La solicitud de revisión no suspenderá el cumplimiento de la sentencia que se intentare anular.
 Con todo, si el tribunal lo estimare conveniente, en cualquier momento del trámite podrá suspender la ejecución de la sentencia recurrida y aplicar, si correspondiere, alguna de las medidas cautelares personales a que se refiere el Párrafo 6º del Título V del Libro Primero.
 
 Artículo 478.- Decisión del tribunal. La resolución de la Corte Suprema que acogiere la solicitud de revisión declarará la nulidad de la sentencia.
