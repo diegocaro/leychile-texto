@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1980-02-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1980-08-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1980-02-23
-fetched_at: 2026-08-03T00:31:17.160107+00:00
+version_date: 1980-08-01
+fetched_at: 2026-08-03T00:32:11.225012+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -36,7 +36,11 @@ Véanse el Capítulo I del Decreto ley 2763, Salud, publicado el 03.08.1979, que
 
 Artículo 4°.- A las Municipalidades corresponde atender los asuntos de orden sanitario que le entregan el artículo 105° de la Constitución Política del Estado y las disposiciones de este Código.
 
-Artículo 5°.- Cada vez que el presente Código haga referencia a la autoridad sanitaria, se entenderá por ella el Director General de Salud o las personas en quienes éste delegue sus funciones o atribuciones.
+Artículo 5°.- Cada vez que el presente Código haga
+NOTA:
+referencia a la autoridad sanitaria, se entenderá por ella el Director General de Salud o las personas en quienes éste delegue sus funciones o atribuciones.
+NOTA:
+El Art. 16 del Decreto Ley 2763, Salud, publicado el 03.08.1979, vigente desde el 1° de agosto de 1980 según dispone el Decreto 227, Salud, publicado el 18.06.1980, creó los "Servicios de Salud", fijó su distribución territorial, y estableció que tales Servicios serán los continuadores legales del Servicio Nacional de Salud en sus respectivos territorios, con sus mismos derechos y obligaciones, de acuerdo con las funciones señaladas en el Art. 17 del mismo decreto ley.
 
 Artículo 6°.- Las definiciones que se contienen en los preceptos siguientes, valdrán para el solo efecto de la aplicación de este Código y de sus reglamentos.
 
