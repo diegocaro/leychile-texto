@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1994-08-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1995-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1994-08-08
-fetched_at: 2026-08-03T00:58:08.444089+00:00
+version_date: 1995-03-01
+fetched_at: 2026-08-03T00:59:26.502243+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -543,10 +543,13 @@ La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y seis relat
 
 Art. 94. La Corte Suprema tendrá su sede en la capital de la República.
 
-Art. 95. La Corte Suprema funcionará ordinariamente dividida en tres salas o en pleno, correspondiendo a la propia Corte determinar la forma de su funcionamiento.
-La distribución de los Ministros entre las tres salas se hará por sorteo, exceptuando al Presidente, de modo que a la primera correspondan seis miembros y cinco a cada una de las dos salas restantes. El sorteo se hará el primer día hábil del mes de marzo.
-Las salas funcionarán con no menos de cinco jueces cada una, y el pleno, con la concurrencia de once de sus miembros a lo menos, y se integrarán en conformidad a la ley; pero para el Presidente de la Corte esta integración será facultativa.
-Cada sala en que se divida la Corte Suprema será presidida por el ministro más antiguo, cuando no esté presente el Presidente de la Corte, quien podrá funcionar en cualquiera de las salas.
+Art. 95. La Corte Suprema funcionará dividida en salas especializadas o en pleno.
+Para el conocimiento de los asuntos a que se refiere el artículo 98, la Corte funcionará ordinariamente dividida en tres salas o extraordinariamente en cuatro, correspondiéndole a la propia Corte determinar uno u otro modo de funcionamiento.
+Durante el funcionamiento extraordinario de la Corte Suprema, el tribunal designará los relatores interinos que estime necesarios, quienes, durante el tiempo que sirvieren el cargo, gozarán de igual remuneración que los titulares.
+En cualquier caso, las salas deberán funcionar con no menos de cinco jueces cada una y el pleno con la concurrencia de once de sus miembros a lo menos.
+Corresponderá a la propia Corte, mediante auto acordado, establecer la forma de distribución de sus ministros entre las diversas salas de su funcionamiento ordinario o extraordinario. La distribución de ministros que se efectúe permanecerá invariable por un período de, a lo menos, dos años.
+La integración de sala será facultativa para el Presidente de la Corte. Si opta por hacerlo, podrá integrar cualquiera de las salas.
+Cada sala en que se divida la Corte Suprema será presidida por el ministro más antiguo, cuando no esté presente el Presidente de la Corte.
 
 Art. 96. Corresponde a la Corte Suprema en pleno:
 1° Conocer del recurso de inaplicabilidad reglado en el artículo 80 de la Constitución Política de la República y de las contiendas de competencia de que trata el inciso final de su artículo 79;
@@ -570,9 +573,10 @@ Art. 98. Las salas de la Corte Suprema conocerán:
 7.- De los recursos de queja en juicio de cuentas contra las sentencias de segunda instancia dictadas con falta o abuso, con el solo objeto de poner pronto remedio al mal que lo motiva, y
 8.- De los demás negocios judiciales de que corresponda conocer a la Corte Suprema y que no estén entregados expresamente al conocimiento del pleno.
 
-Art. 99. Las salas de la Corte Suprema conocerán por turnos mensuales: una, de todos los asuntos indicados en el artículo 98; otra, de los mismos negocios, con excepción de los recursos de casación en el fondo y en la forma que se hayan interpuesto en materia civil; y la otra, de los recursos de casación en el fondo y en la forma que se hubieren interpuesto en materia civil. De los recursos de amparo, de protección y de queja conocerá cualquiera de las salas.
-En caso que ante la Corte Suprema se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma. Esta disposición no se aplicará al recurso de queja, sin perjuicio de las facultades propias del tribunal.
-No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera, el Presidente de la Corte Suprema podrá incluir en la tabla de cualquiera de las salas causas de naturaleza tanto civil como criminal.
+Art. 99. Corresponderá a la Corte Suprema, mediante auto acordado, establecer cada dos años las materias de que conocerá cada una de las salas en que ésta se divida, tanto en funcionamiento ordinario como extraordinario. Al efecto, especificará la o las salas que conocerán de materias civiles, penales, constitucionales, contencioso administrativas, laborales, de menores, tributarias u otras que el propio tribunal determine. Asimismo, señalará la forma y periodicidad en que las salas especializadas decidirán acerca de las materias indicadas en el inciso primero del artículo 781 y en los incisos primero y segundo del artículo 782, ambos del Código de Procedimiento Civil, respecto de los recursos de casación que hayan ingresado hasta quince días antes de la fecha en que se deba resolver sobre la materia. En todo caso, la mencionada periodicidad no podrá ser superior a tres meses.
+Corresponderá al Presidente de la Corte Suprema, sin ulterior recurso, asignar los asuntos a cada una de las salas, según la materia en que incidan, en conformidad a lo dispuesto en el inciso anterior.
+No obstante lo dispuesto en el inciso primero, la Corte Suprema, siempre mediante auto acordado, podrá modificar la distribución de las materias de que conoce cada una de las salas, cuando una repartición más equitativa de las mismas así lo requiera.
+En caso que ante la Corte Suprema se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma.
 
 Art. 100. Derogado.
 
@@ -917,7 +921,7 @@ Art. 197. En los casos en que se trate de recusar al juez por parentesco ilegít
 
 Art. 198. Además de las causales de implicancia o recusación de los jueces, que serán aplicables a los abogados llamados a Integrar la Corte Suprema o las Cortes de Apelaciones, será causal de recusación respecto de ellos la circunstancia de patrocinar negocios en que se ventile la misma cuestión que debe resolver el tribunal.
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 3.008 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 2.248 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 3.276 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 2.448 pesos.
 
 Art. 199. Los jueces que se consideren comprendidos en alguna de las causas legales de implicancia o recusación, deberán tan pronto como tengan noticia de ello, hacerlo constar en el proceso, declarándose inhabilitados para continuar funcionando, o pidiendo se haga esta declaración por el tribunal de que formen parte.
 No obstante, se necesitará de solicitud previa para declarar la inhabilidad de los jueces de la Corte Suprema y de las Cortes de Apelaciones, fundada en cualquiera de las causales de recusación y la de los demás jueces producida por el hecho de ser parte o tener interés en el pleito una sociedad anónima de que éstos sean accionistas, sin perjuicio en uno y otro caso de que se haga constar en el proceso la existencia de la causal.
