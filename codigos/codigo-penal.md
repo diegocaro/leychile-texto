@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1934-12-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1937-02-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1934-12-07
-fetched_at: 2026-08-03T00:05:37.246203+00:00
+version_date: 1937-02-12
+fetched_at: 2026-08-03T00:06:01.260294+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -705,10 +705,9 @@ ART. 123.
 Los que tocaren o mandaren tocar campanas u otro instrumento cualquiera para excitar al pueblo al alzamiento y los que, con igual fin, dirigieren discursos a la muchedumbre o le repartieren impresos, si la sublevación llega a consumarse, serán castigados con la pena de reclusión menor o de extrañamiento menor en sus grados medios, a no ser que merezcan la calificación de promovedores.
 
 ART. 124.
-Los que sin cometer los crímenes enumerados en el art. 121, pero con el propósito de ejecutarlos, sedujeren tropas, usurparen el mando de ellas, de un buque de guerra, de una plaza fuerte, de un puesto de guardia, de un puerto o de una ciudad, o retuvieren contra la orden del Gobierno un mando político o militar cualquiera, sufrirán la pena de reclusión mayor o de confinamiento mayor en sus grados medios.
-Los que, por cualquier medio, incitaren a las tropas a faltar a sus deberes de obediencia y disciplina, serán castigados con presidio, confinamiento o relegación menores en cualesquiera de sus grados, y multa de cien a mil pesos.
-Si la incitación tiene por objeto inducir a los ciudadanos a faltar a los deberes que las leyes sobre el Servicio Militar les señalan, la pena será de presidio menor en su grado mínimo y multa de 50 a 500 pesos.
-Igualmente, los que excitaren al personal civil que presta sus servicios de guerra o de movilización civil en fábricas, arsenales, almacenes, etc., y a los que se ocupan en los servicios de transportes, comunicaciones agrícolas e industrias declaradas para la conservación de la capacidad guerrera del país.
+Los que sin cometer los crímenes enumerados en el art. 121, pero con el propósito de ejecutarlos, sedujeren tropas, usurparen el mando de ellas, de un buque de guerra, de una plaza fuerte, de un puesto de guardia, de un puerto o de una ciudad, o retuvieren contra la orden del Gobierno un mando político o militar cualquiera, sufrirán la pena de reclusion mayor o de confinamiento mayor en sus grados medios.
+NOTA
+El artículo 25 de la Ley N° 6.026, sobre Seguridad Interior el Estado, M. Interior, publicada el 12.02.1937, derogó el Decreto Ley N° 672 de 1925, norma que en su artículo 1° había incorporado los incisos segundo, tercero y cuarto al presente artículo. El texto oficial de la Editorial Jurídica no contempla tales incisos, razón por la cual se han eliminado en este texto actualizado.
 
 ART. 125.
 En los crímenes de que tratan los arts. 121, 122 y 124, la conspiración se pena con extrañamiento mayor en su grado medio y la proposición con extrañamiento menor en su grado medio.
@@ -748,8 +747,12 @@ ART. 135
 Los empleados que continuaren funcionando bajo las órdenes de los sublevados o que sin haberles admitido la renuncia de su empleo, lo abandonaren cuando haya peligro de alzamiento, incurrirán en la pena de inhabilitación absoluta temporal para cargos y oficios públicos en sus grados medio a máximo.
 
 ART. 136.
-Los que aceptaren cargos o empleos de los sublevados, serán castigados con inhabilitación absoluta temporal para cargos y oficios públicos en su grado mínimo y multa de ciento a mil pesos.
-El que de hecho o palabra hiciere objeto de mofa o de desprecio a la bandera o himno nacional de la República, será castigado con pena de prisión, en cualquiera de sus grados, y multas de veinte a mil pesos.
+Los
+NOTA
+NOTA
+que aceptaren cargos o empleos de los sublevados, serán castigados con inhabilitación absoluta temporal para cargos y oficios públicos en su grado mínimo y multa de ciento a mil pesos.
+NOTA
+El artículo 25 de la Ley N° 6.026, sobre Seguridad Interior el Estado, M. Interior, publicada el 12.02.1937, derogó el Decreto Ley N° 672 de 1925, norma que en su artículo 2° agregaba, a continuación del presente artículo, lo siguiente: "El que de hecho o palabra hiciere objeto de mofa o de desprecio a la bandera o himno nacional de la República, será castigado con pena de prisión, en cualquiera de sus grados, y multas de veinte a mil pesos.". Sin embargo, no lo contempla el texto oficial de la Editorial Jurídica, razón por la cual se ha eliminado en este texto actualizado.
 
 ### TÍTULO TERCERO.
 DE LOS CRÍMENES Y SIMPLES DELITOS QUE AFECTAN LOS DERECHOS GARANTIDOS POR LA CONSTITUCIÓN.
