@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2000-03-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2000-05-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2000-03-09
-fetched_at: 2026-08-03T01:10:28.681951+00:00
+version_date: 2000-05-05
+fetched_at: 2026-08-03T01:11:00.996903+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -640,7 +640,7 @@ a) De los recursos de casación en la forma que se interpongan en contra de las 
 b) De los recursos de queja que se deduzcan en contra de jueces de letras, jueces de policía local, jueces árbitros y órganos que ejerzan jurisdicción, dentro de su territorio jurisdiccional.
 3°) De las consultas de las sentencias civiles y criminales dictadas por esos mismos tribunales.
 4°) En primera instancia:
-a) De los desafueros de los Diputados y Senadores;
+a) De los desafueros de las personas a quienes les fueren aplicables los incisos segundo, tercero y cuarto del artículo 58 de la Constitución Política de la República;
 b) De los recursos de amparo y de protección; y
 c) De los procesos por amovilidad que se entablen en contra de los jueces de letras.
 5°) De los demás asuntos que otras leyes les encomienden.
@@ -779,7 +779,7 @@ Cada sala en que se divida la Corte Suprema será presidida por el ministro más
 
 Art. 96. Corresponde a la Corte Suprema en pleno:
 1° Conocer del recurso de inaplicabilidad reglado en el artículo 80 de la Constitución Política de la República y de las contiendas de competencia de que trata el inciso final de su artículo 79;
-2° Conocer de las apelaciones que se deduzcan en las causas por desafuero de senadores y diputados a que se refiere el artículo 58 de la Constitución Política;
+2° Conocer de las apelaciones que se deduzcan en las causas por desafuero de las personas a quienes les fueren aplicables los incisos segundo, tercero y cuarto del artículo 58 de la Constitución Política;
 3° Conocer en segunda instancia, de los juicios de amovilidad fallados en primera por las Cortes de Apelaciones o por el Presidente de la Corte Suprema, seguidos contra jueces de letras o Ministros de Cortes de Apelaciones, respectivamente;
 4° Ejercer las facultades administrativas, disciplinarias y económicas que las leyes le asignan, sin perjuicio de las que les correspondan a las salas en los asuntos de que estén conociendo, en conformidad a los artículos 542 y 543. En uso de tales facultades, podrá determinar la forma de funcionamiento de los tribunales y demás servicios judiciales, fijando los días y horas de trabajo en atención a las necesidades del servicio;
 5° Informar al Presidente de la República, cuando se solicite su dictamen, sobre cualquier punto relativo a la administración de justicia y sobre el cual no exista cuestión de que deba conocer;

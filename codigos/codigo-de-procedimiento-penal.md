@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2000-02-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2000-05-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 2000-02-10
-fetched_at: 2026-08-03T01:10:10.674068+00:00
+version_date: 2000-05-05
+fetched_at: 2026-08-03T01:10:46.687034+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2639,27 +2639,24 @@ FUERO CONSTITUCIONAL
 
 #### 1. Diputados y Senadores
 
-Art. 611. (656) Ningún tribunal, aunque halle mérito para imputar un delito a un Diputado o Senador, procedederá contra él, sino cuando la Corte de Apelaciones respectiva reunida en tribunal pleno, declare que ha lugar a formarle causa.
+Art. 611. (656) Ningún tribunal, aunque halle mérito para imputar un delito a una persona con el fuero del artículo 58 de la Constitución, procederá contra ella, sino cuando la Corte de Apelaciones respectiva reunida en tribunal pleno, declare que ha lugar a formarle causa.
 
-Art. 612 (657) Tan pronto como de los antecedentes del proceso o de la información rendida, a petición de parte, aparezcan contra un Diputado o Senador datos que podrían bastar para decretar la detención de un inculpado, el juez de primera instancia elevará los autos al tribunal de alzada correspondiente, a fin de que si halla mérito, haga la declaración de que ha lugar a formación de causa.
+Art. 612. (657) Tan pronto como de los antecedentes del proceso o de la información rendida, a petición de parte, aparezcan contra una persona con el fuero del artículo 58 de la Constitución datos que podrían bastar para decretar la detención de un inculpado, el juez de primera instancia elevará los autos al tribunal de alzada correspondiente, a fin de que si halla mérito, haga la declaración de que ha lugar a formación de causa.
 Si viendo el proceso por cualquier otro motivo, el tribunal de alzada halla mérito, hará igual declaración.
 
 Art. 613. (658) La resolución en que se declare haber lugar a formación de causa, es apelable para ante la Corte Suprema; y una vez que se halle firme será comunicada por la Corte de Apelaciones respectiva a la rama del Congreso a que pertenece el inculpado.
 
-Art. 614. (659) Si un Diputado o Senador es detenido por habérsele sorprendido en delito flagrante, el juez a quien corresponda el conocimiento del negocio, lo pondrá inmediatamente a disposición de la Corte de Apelaciones respectiva, acompañando originales o en copia las diligencias que practique en conformidad a lo dispuesto en el artículo 264 de este Código.
+Art. 614. (659) Si una persona que tiene el fuero del artículo 58 de la Constitución es detenida por habérsele sorprendido en delito flagrante, el juez a quien corresponda el conocimiento del negocio la pondrá inmediatamente a disposición de la Corte de Apelaciones respectiva, acompañando originales o copia de las diligencias que practique en conformidad a lo dispuesto en el artículo 264 de este Código.
 Sin perjuicio, remitirá más adelante, en la misma forma, las diligencias que practique con posterioridad y que sean conducentes.
 
-Art. 615. (660) Lo prescrito en los artículos precedentes de este título se extiende a la persona que haya sido elegida Diputado o Senador, desde el día de su elección.
+Art. 615. (660) Lo prescrito en los artículos precedentes de este título se extiende a la persona que haya sido elegida Diputado o Senador, desde el día de su elección, y en los demás casos, desde que se adquiera la respectiva calidad, de conformidad a la Constitución Política de la República.
 Si el juez estuviere conociendo ya, suspenderá todo procedimiento que a ella se refiera, mientras la Corte respectiva no declare que ha lugar a formarle causa.
 
-Art. 616. (661) Mientras no se declare haber lugar la formación de causa, el tribunal que conozca del proceso se abstendrá de practicar actuaciones que se refieran al Diputado o Senador a quien se impute el delito, a menos de recibir expreso encargo de la respectiva Corte de Apelaciones.
+Art. 616. (661) Mientras no se declare haber lugar la formación de causa, el tribunal que conozca del proceso se abstendrá de practicar actuaciones que se refieran a la persona con el fuero del artículo 58 de la Constitución a quien se impute el delito, a menos de recibir expreso encargo de la respectiva Corte de Apelaciones.
 
-Art. 617. (662) Si la Corte declara no haber lugar la formación de causa, el tribunal ante quien penda el proceso mandará sobreseer definitivamente con respecto al Diputado o Senador favorecido con aquella declaración y hará archivar los antecedentes, si no hay otros inculpados o reos en el mismo proceso.
-NOTA:
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Art. 617. (662) Si la Corte declara no haber lugar a la formación de causa, el tribunal ante quien penda el proceso sobreseerá definitivamente a la persona favorecida con aquella declaración y hará archivar los antecedentes, si no hay otros inculpados o procesados en el mismo proceso.
 
-Art. 618. (663) Cuando en un mismo proceso aparezcan complicados individuos que no fueren miembros del Congreso con otros que lo sean, el juicio seguirá adelante con relación a los primeros y se observarán respecto a los segundos las reglas establecidas en el presente título.
+Art. 618. (663) Cuando en un mismo proceso aparezcan complicados individuos que no tuvieren el fuero del artículo 58 de la Constitución con otros que lo posean, el juicio seguirá adelante con relación a los primeros y se observarán respecto a los segundos las reglas establecidas en el presente título.
 
 #### 2. Intendentes y Gobernadores
 
