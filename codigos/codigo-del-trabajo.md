@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2004-09-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2004-10-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2004-09-10
-fetched_at: 2026-08-03T01:26:09.600422+00:00
+version_date: 2004-10-28
+fetched_at: 2026-08-03T01:26:57.614090+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -223,7 +223,7 @@ Art. 38. Exceptúanse de lo ordenado en los artículos anteriores los trabajador
 4.- en los trabajos necesarios e impostergables para la buena marcha de la empresa;
 5.- a bordo de naves;
 6.- en las faenas portuarias, y
-7.- en los establecimientos de comercio y de servicios que atiendan directamente al público, respecto de los trabajadores que realicen dicha atención y según las modalidades del establecimiento respectivo. Con todo, esta excepción no será aplicable a los trabajadores de centros o complejos comerciales administrados bajo una misma razón social o personalidad jurídica, en lo relativo al feriado legal establecido en el artículo 169 de la ley Nº 18.700.
+7.- en los establecimientos de comercio y de servicios que atiendan directamente al público, respecto de los trabajadores que realicen dicha atención y según las modalidades del establecimiento respectivo. Con todo, esta excepción no será aplicable a los trabajadores de centros o complejos comerciales administrados bajo una misma razón social o personalidad jurídica, en lo relativo al feriado legal establecido en el artículo 169 de la ley Nº 18.700 y en el artículo 106 de la Ley Orgánica Constitucional de Municipalidades.
 Las empresas exceptuadas de este descanso podrán distribuir la jornada normal de trabajo, en forma que incluya los días domingo y festivos. Las horas trabajadas en dichos días se pagarán como extraordinarias siempre que excedan de la jornada ordinaria semanal.
 Las empresas exceptuadas del descanso dominical deberán otorgar un día de descanso a la semana en compensación a las actividades desarrolladas en día domingo, y otro por cada festivo en que los trabajadores debieron prestar servicios, aplicándose la norma del artículo 36. Estos descansos podrán ser comunes para todos los trabajadores, o por turnos para no paralizar el curso de las labores.
 No obstante, en los casos a que se refieren los números 2 y 7 del inciso primero, al menos dos de los días de descanso en el respectivo mes calendario deberán necesariamente otorgarse en día domingo. Esta norma no se aplicará respecto de los trabajadores que se contraten por un plazo de treinta días o menos, y de aquellos cuya jornada ordinaria no sea superior a veinte horas semanales o se contraten exclusivamente para trabajar los días sábado, domingo o festivos.
