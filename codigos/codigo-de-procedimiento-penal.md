@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2000-10-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2000-12-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 2000-10-12
-fetched_at: 2026-08-03T01:12:23.264291+00:00
+version_date: 2000-12-13
+fetched_at: 2026-08-03T01:12:59.506484+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -618,9 +618,13 @@ especiales
 
 ###### I.- Homicidio, aborto y suicidio
 
-Art. 121. (142) Cuando se sospeche que la muerte de una persona es el resultado de un delito, se procederá, antes de la inhumación del cadáver o inmediatamente después de exhumado, a efectuar la descripción ordenada por el artículo 112, a practicar el reconocimiento y autopsia del cadáver y a identificar la persona del difunto.
+Art. 121. (142) Cuando se sospeche que la muerte de
+NOTA:
+una persona es el resultado de un delito, se procederá, antes de la inhumación del cadáver o inmediatamente después de exhumado, a efectuar la descripción ordenada por el artículo 112, a practicar el reconocimiento y autopsia del cadáver y a identificar la persona del difunto.
 La descripción expresará circunstanciadamente el lugar y postura en que fue hallado el cadáver, el número de heridas o señales exteriores de violencia y partes del cuerpo en que las tenía, el vestido y efectos que le hallaren, los instrumentos o armas encontrados y de que se haya podido hacer uso, y la conformidad de su forma y dimensiones con las heridas y señales de violencia.
 En los casos de muerte causada por vehículos en la vía pública, y sin perjuicio de las facultades que corresponden al juez competente, efectuará la descripción a que se refiere el inciso anterior y ordenará el levantamiento del cadáver un oficial de Carabineros, asistido por un funcionario del mismo servicio, quien actuará como testigo. Se levantará un acta de lo obrado, que firmarán ambos funcionarios, la que se agregará al proceso.
+NOTA:
+El considerando 4 de la RES 1345 EXENTA, Servicio Médico Legal, publicada el 13.12.2000, señala que el Código de Procedimiento Penal, establecido por LEY 19696, en su Art. 201 deroga tácitamente el presente artículo, otorgando un nuevo concepto de muerte médico legal, lo que se aplicará gradualmente en las regiones del país de acuerdo a los artículos 483 y siguientes de la LEY 19696.-
 
 Artículo 122.- La identificación del occiso se hará mediante informes papilares, dactiloscópicos o de otro tipo, o por testigos que, a la vista de él, den razón
 satisfactoria de su conocimiento. Si existe alguna persona a quien se impute el delito, debe ser confrontada con el cadáver para que lo reconozca, siempre que sea posible esta diligencia.
