@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1970-11-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1971-03-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1970-11-07
-fetched_at: 2026-08-03T00:20:54.466348+00:00
+version_date: 1971-03-16
+fetched_at: 2026-08-03T00:21:00.469663+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -96,7 +96,7 @@ De los Jueces de Distrito y de los Jueces de Subdelegación
 
 ### § 1. Los Jueces de Distrito.
 
-Art. 14. En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo los distritos del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de cuarenta escudos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de noventa escudos.
+Art. 14. En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo los distritos del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de noventa escudos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de doscientos escudos.
 Le corresponderá, asimismo, el nombramiento de curador ad-litem en su caso.
 Lo dispuesto en los incisos precedentes regirá también en toda sección de distrito no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
 Los jueces de distrito no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
@@ -139,12 +139,12 @@ Art. 24. A los jueces de distrito corresponden las atribuciones propias de minis
 ### § 2. Los Jueces de Subdelegación
 
 Art. 25. En cada subdelegación de la República que no esté comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo las subdelegaciones del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Subdelegación conocerá:
-1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de noventa escudos y no pase de ciento ochenta escudos;
+1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de doscientos escudos y no pase de cuatrocientos escudos;
 2°) En segunda instancia, de las causas de que conocieren en primera los respectivos jueces de distrito; y
 3°) En única instancia, de los recursos de casación en la forma que se interpusieren contra las sentencias pronunciadas por los jueces de distrito indicados en el número anterior.
 Les corresponderá, asimismo, el nombramiento de curador ad litem en su caso.
 Lo dispuesto en este artículo regirá también en toda sección de subdelegación no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
-No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de cuarenta escudos.
+No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de noventa escudos.
 Los jueces de subdelegación de las ciudades cabeceras de departamento no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 Los Jueces de Subdelegación no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 No obstante lo dispuesto en el inciso primero, el Presidente de la República, previo informe de la Corte de Apelaciones respectiva, podrá crear o mantener Juzgados de subdelegación, fijando en el decreto correspondiente el territorio sobre el cual ejercerán jurisdicción, pudiendo, además, restringir la competencia asignada a dichos tribunales a una o más de las materias de que ordinariamente deban conocer.
@@ -178,11 +178,11 @@ Art. 31. El decreto que fije o que modifique los límites del territorio jurisdi
 Los jueces de letras de menor cuantía de Santiago y Valparaíso deberán funcionar, en cuanto sea posible, en locales que estén vecinos.
 
 Art. 32. Los jueces de letras de menor cuantía conocerán:
-1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de ciento ochenta escudos;
-2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de ciento ochenta escudos y no sea superior a tres mil seiscientos cincuenta escudos, y
+1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de cuatrocientos escudos;
+2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de cuatrocientos escudos y no sea superior a ocho mil ciento cincuenta escudos, y
 3.o) De los asuntos que otras leyes entreguen a su conocimiento.
 Incisos derogados.
-Conocerán también estos jueces, en primera instancia, de los juicios sobre alimentos futuros, siempre que la pensión mensual que se cobre no exceda de doscientos setenta escudos. No tendrán esta competencia cuando ella corresponda a un juez especial de menores.
+Conocerán también estos jueces, en primera instancia, de los juicios sobre alimentos futuros, siempre que la pensión mensual que se cobre no exceda de seiscientos escudos. No tendrán esta competencia cuando ella corresponda a un juez especial de menores.
 Los Jueces de Letras de Menor Cuantía no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 
 Art. 33. En materia de jurisdicción voluntaria los jueces letrados de menor cuantía conocerán:
@@ -203,14 +203,14 @@ Art. 37. Los jueces de letras de menor cuantía que tengan el asiento de sus fun
 Si en la capital del departamento hubiere dos o más jueces letrados de menor cuantía, la Corte de Apelaciones respectiva establecerá entre ellos un turno semanal, y será competente para el conocimiento de estos recursos el juez que estuviere en el ejercicio del turno a la fecha de su interposición.
 
 Art. 38. Los jueces de letras de menor cuantía conocerán, además, de las siguientes materias:
-1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar, siempre que el valor de estas últimas no exceda de tres mil seiscientos cincuenta escudos.
+1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar, siempre que el valor de estas últimas no exceda de ocho mil ciento cincuenta escudos.
 Pero si se promoviere contienda sobre el dominio del predio dominante o sirviente, o sobre la adquisición por prescripción u otro título de una manera especial de ejercer la servidumbre, se inhibirán de todo conocimiento.
 La ubicación del predio sirviente determinará el tribunal que deba conocer de estos juicios; y si abarcara dos o más jurisdicciones territoriales quedará al demandante la elección del juez.
 2°) De las acciones posesorias a que se refieren los artículos 928, 936, 937, 938, 939, 940, 941, 942, 943, 944 y 945 del Código Civil.
 Será competente para conocer de estos juicios el juez del lugar donde hubiere ocurrido el hecho de que se reclama.
 3°) De las notificaciones de las actas de protestos de cheques a las personas domiciliadas en la respectiva jurisdicción.
-Si el valor del cheque excediere de tres mil seiscientos cincuenta escudos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
-4°) De las cuestiones civiles valorizables hasta tres mil seiscientos cincuenta escudos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
+Si el valor del cheque excediere de ocho mil ciento cincuenta escudos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
+4°) De las cuestiones civiles valorizables hasta ocho mil ciento cincuenta escudos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
 
 Art. 39. Habrá en Santiago cuatro Juzgados de Letras de Menor Cuantía en lo Criminal.
 Estos Juzgados ejercerán su jurisdicción dentro del territorio que les fije el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago; pero podrán practicar actuaciones dentro de la jurisdicción asignada a cualesquiera de ellos en los asuntos sometidos a su conocimiento.
@@ -249,9 +249,9 @@ El Juzgado de Limache comprenderá, además, la comuna de Villa Alemana; el de L
 
 Art. 45. Los jueces de letras de mayor cuantía conocerán:
 1°) En única o en primera instancia, conforme al inciso final de este número:
-a) De las causas civiles sobre cosas cuyo valor exceda de ciento ochenta escudos; pero, tratándose de los juicios especiales del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de cuarenta escudos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía y a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
+a) De las causas civiles sobre cosas cuyo valor exceda de cuatrocientos escudos; pero, tratándose de los juicios especiales del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de noventa escudos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía y a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 b) De las causas de comercio, con la misma salvedad de la letra precedente.
-Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de cuarenta escudos y las causas de comercio que no excedan de ciento ochenta escudos y en primera todas las demás.
+Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de noventa escudos y las causas de comercio que no excedan de cuatrocientos escudos y en primera todas las demás.
 2°) En primera instancia:
 a) De las causas de minas, cualquiera que sea su cuantía. Se entiende por causa de minas aquella en que ventilen derechos regidos especialmente por el Código de Minería.
 b) De los actos judiciales no contenciosos, cualquiera que sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil y en el artículo 33 de este Código;
@@ -851,7 +851,7 @@ Art. 197. En los casos en que se trate de recusar al juez por parentesco ilegít
 
 Art. 198. Además de las causales de implicancia o recusación de los jueces, que serán aplicables a los abogados llamados a Integrar la Corte Suprema o las Cortes de Apelaciones, será causal de recusación respecto de ellos la circunstancia de patrocinar negocios en que se ventile la misma cuestión que debe resolver el tribunal.
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
-Para recusar a un abogado integrante de la Corte Suprema, deberá pagarse en estampillas un impuesto de diez escudos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de diez escudos.
+Para recusar a un abogado integrante de la Corte Suprema, deberá pagarse en estampillas un impuesto de veinte escudos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de diez escudos.
 
 Art. 199. Los jueces que se consideren comprendidos en alguna de las causas legales de implicancia o recusación, deberán tan pronto como tengan noticia de ello, hacerlo constar en el proceso, declarándose inhabilitados para continuar funcionando, o pidiendo se haga esta declaración por el tribunal de que formen parte.
 No obstante, se necesitará de solicitud previa para declarar la inhabilidad de los jueces de la Corte Suprema y de las Cortes de Apelaciones, fundada en cualquiera de las causales de recusación y la de los demás jueces producida por el hecho de ser parte o tener interés en el pleito una sociedad anónima de que éstos sean accionistas, sin perjuicio en uno y otro caso de que se haga constar en el proceso la existencia de la causal.
@@ -1776,7 +1776,7 @@ Art. 439. Las personas que tengan copias autorizadas de las matrices estarán ob
 
 Art. 440. El notario que ejerciere funciones de tal, fuera del departamento para que hubiere sido nombrado, sufrirá la pena de reclusión menor en cualquiera de sus grados.
 
-Art. 441. El notario que faltare a las obligaciones que le señalan los números 8° y 9° del art. 401, será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de veinte escudos a ciento ochenta escudos.
+Art. 441. El notario que faltare a las obligaciones que le señalan los números 8° y 9° del art. 401, será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de cuarenta escudos a cuatrocientos escudos.
 
 Art. 442. En las mismas penas incurrirá el notario por cuya culpa o negligencia deje de tener su calidad de pública o auténtica una escritura, en virtud de cualquiera de las circunstancias previstas en el artículo 426.
 
@@ -2120,7 +2120,7 @@ De la jurisdicción disciplinaria y de la inspección y vigilancia de los servic
 
 Art. 530. Los jueces de distrito y de subdelegación y los jueces de letras de mayor y de menor cuantía están autorizados para reprimir o castigar los abusos que se cometieren dentro de la sala de su despacho y mientras ejercen sus funciones de tales, con alguno de los medios siguientes:
 1°) Amonestación verbal e inmediata;
-2°) Multa que no exceda de dos escudos, cuatro escudos, veinte escudos o cincuenta escudos según se trate respectivamente de un juez de distrito, de subdelegación o de un juez de letras de menor o de mayor cuantía; y
+2°) Multa que no exceda de cuatro escudos, nueve escudos, cuarenta escudos o ciento diez escudos según se trate respectivamente de un juez de distrito, de subdelegación o de un juez de letras de menor o de mayor cuantía; y
 3°) Arresto que no exceda de veinticuatro o cuarenta y ocho horas, según se trate de un juez de distrito en el primer caso, o de un juez de subdelegación o de letras de menor cuantía en el segundo, y de cuatro días, si se trata de un juez de letras de mayor cuantía.
 Deberán emplear estos medios en el orden aquí expresado, y sólo podrán hacer uso de los dos últimos en caso de ineficacia o insuficiencia de los primeros.
 
@@ -2128,7 +2128,7 @@ Art. 531. Podrán también los jueces de letras de mayor cuantía, para la repre
 1°) Mandar devolver el escrito con orden de que no se admita mientras no se supriman las palabras o pasajes abusivos;
 2°) Hacer tarjar por el secretario esas mismas palabras o pasajes abusivos; y dejar copia de ellos en un libro privado que al efecto habrá en el juzgado;
 3°) Exigir firma de abogado para ese escrito y los demás que en adelante presente la misma parte, cuando ésta no esté patrocinada por un abogado en conformidad a la ley;
-4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de cuarenta escudos, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
+4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de noventa escudos, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
 5°) Imponer efectivamente al abogado, o a la parte, o a ambos, las penas expresadas en el número anterior.
 Podrán los jueces de letras de mayor cuantía hacer uso de cualquiera de estos medios, o de dos o más de ellos simultáneamente, según lo estimaren necesario.
 Los jueces de letras de menor cuantía, en estos casos, solamente podrán usar alguno de los medios señalados en los tres primeros números de este artículo.
@@ -2154,7 +2154,7 @@ Art. 537. Las faltas o abusos de que habla el artículo anterior podrán corregi
 1°) Amonestación privada;
 2°) Censura por escrito;
 3°) Pago de costas;
-4°) Multa que no sea inferior a veinte escudos ni exceda de noventa escudos;
+4°) Multa que no sea inferior a cuarenta escudos ni exceda de doscientos escudos;
 5°) Suspensión de funciones hasta por cuatro meses. Durante este tiempo el funcionario gozará de medio sueldo.
 Lo dicho en este artículo se entiende sólo respecto de aquellas faltas o abusos que las leyes no califiquen de crimen o simple delito.
 
@@ -2174,9 +2174,9 @@ La Corte Suprema puede, además, siempre que lo juzgare conveniente a la buena a
 Art. 542. Para la represión y castigo de las faltas que se cometieren ante la Corte Suprema y ante las Cortes de Apelaciones, mientras ejercen sus funciones, estos tribunales podrán emplear alguno de los medios siguientes:
 1°) Amonestación privada;
 2°) Censura por escrito;
-3°) Multa que no exceda de noventa escudos;
+3°) Multa que no exceda de doscientos escudos;
 4°) Arresto que no exceda de ocho días.
-Este arresto será siempre conmutable en multa, en proporción de veinte escudos por cada día.
+Este arresto será siempre conmutable en multa, en proporción de cuarenta escudos por cada día.
 Estos tribunales tendrán, también, las facultades que el artículo 531 otorga a los jueces de letras de mayor cuantía, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren.
 
 Art. 543. Si en las faltas de que habla el artículo anterior incurrieren los abogados, podrán también ser castigados con una suspensión del ejercicio de la profesión por un término que no exceda de dos meses y extensiva a todo el territorio de la República.
@@ -2214,11 +2214,11 @@ Art. 549. Todo recurso de queja deberá interponerse en el plazo fatal de cinco 
 Para interponer un recurso de queja, el recurrente deberá consignar previamente en arcas fiscales la cantidad que señala la escala siguiente:
 Cuantía del Juicio Monto de la
 consignación
-Hasta E° 100, ..... E° 1,00 De E° 100,01 a
-E° 1.000 ........ E° 3,00 De E° 1.000,01 a
-E° 5.000 ........ E° 10,00
-Si la cuantía del negocio fuere superior a E° 5.000 se aumentará la consignación indicada en el último lugar de la escala anterior en dos escudos por cada mil escudos o fracción, con un máximo de quinientos cincuenta escudos.
-Tratándose de un asunto criminal o de un negocio no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será de diez escudos si el recurso se interpone ante la Corte Suprema; de diez escudos, si se interpone ante una Corte de Apelaciones; de tres escudos, si se interpone ante un Juez de Letras de Mayor Cuantía, y de un escudo, si se interpone ante un Juez de Letras de Menor Cuantía.
+Hasta E° 100, ..... E° 2,00 De E° 100,01 a
+E° 1.000 ........ E° 7,00 De E° 1.000,01 a
+E° 5.000 ........ E° 20,00
+Si la cuantía del negocio fuere superior a E° 5.000 se aumentará la consignación indicada en el último lugar de la escala anterior en cuatro escudos por cada mil escudos o fracción, con un máximo de mil doscientos treinta escudos.
+Tratándose de un asunto criminal o de un negocio no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será de veinte escudos si el recurso se interpone ante la Corte Suprema; de veinte escudos, si se interpone ante una Corte de Apelaciones; de siete escudos, si se interpone ante un Juez de Letras de Mayor Cuantía, y de dos escudos, si se interpone ante un Juez de Letras de Menor Cuantía.
 No regirá la exigencia de la consignación previa tratándose de los recursos de queja que incidan en negocios en que se litiga en papel común, ni respecto de los que deduzcan los Oficiales del Ministerio Público, los Defensores Públicos, los representantes del Fisco y los que gozan de privilegio de pobreza.
 La consignación a que se refiere este artículo se devolverá a la parte recurrente, si el recurso fuere acogido. Si fuere desechado, o el recurrente se desistiere de él, se aplicará a beneficio fiscal.
 Si el recurso fuere desechado por un tribunal colegiado y por la unanimidad de sus miembros, el tribunal ordenará que la multa establecida en el inciso anterior se eleve al doble de la cantidad consignada.
