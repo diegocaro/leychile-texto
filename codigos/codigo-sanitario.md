@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1968-02-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1968-05-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1968-02-06
-fetched_at: 2026-08-03T00:18:29.614756+00:00
+version_date: 1968-05-16
+fetched_at: 2026-08-03T00:18:48.329898+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -435,6 +435,8 @@ Artículo 104°.- La Oficina de Marcas Comerciales del Ministerio de Economía, 
 Artículo 105°.- El Ministerio de Salud Pública, previo informe de la Comisión a que se refiere el artículo 101°, aprobará la o las Farmacopeas que regirán en el país.
 
 Artículo 106°.- La fabricación, importación, transferencia, posesión, tenencia o consumo de narcóticos, estupefacientes, alucinógenos y demás substancias que produzcan efectos análogos, se someterán a las disposiciones de un Reglamento especial, como asimismo, el tránsito en la República hacia países extranjeros de estas substancias, respetándose las obligaciones contraídas por el Estado en sus Convenios y Tratados Internacionales.
+NOTA
+Véase el Decreto 35, Relaciones Exteriores, publicado el 16.05.1968, que sanciona la Convención Única de Estupefacientes, firmada en Nueva York el 30 de marzo de 1961.
 
 Artículo 107°.- Cuando lo requiera la debida protección de la salud pública, el Presidente de la República podrá, previo informe del Director General de Salud, aplicar las normas contenidas en el artículo anterior a medicamentos tales como estimulantes, sedativos, hipnóticos, tranquilizantes o ataráxicos.
 
