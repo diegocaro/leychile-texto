@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1954-11-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1955-09-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1954-11-03
-fetched_at: 2026-08-03T00:13:07.585530+00:00
+version_date: 1955-09-17
+fetched_at: 2026-08-03T00:13:25.603572+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -154,7 +154,7 @@ De los Jueces de Letras
 
 ### § 1. Los Jueces de Letras de Menor Cuantía
 
-Art. 28. Habrá en las ciudades de Santiago y Valparaíso ocho y dos Juzgados de Letras de Menor Cuantía en lo Civil, respectivamente, cuyo territorio jurisdiccional conjunto se fijará por el Presidente de la República, previo informe de las respectivas Cortes de Apelaciones. Al efecto, estos tribunales podrán consultar la opinión de los jueces de departamento, de los prefectos de policía y de otras autoridades.
+Art. 28. Habrá en las ciudades de Santiago y Valparaíso siete y dos Juzgados de Letras de Menor Cuantía en lo Civil, respectivamente, cuyo territorio jurisdiccional conjunto se fijará por el Presidente de la República, previo informe de las respectivas Cortes de Apelaciones. Al efecto, estos tribunales podrán consultar la opinión de los jueces de departamento, de los prefectos de policía y de otras autoridades.
 El ejercicio de la jurisdicción se dividirá entre los juzgados de cada ciudad, en conformidad a lo dispuesto en los artículos 176 y 179.
 Sin embargo, los Jueces de Letras de menor cuantía a que se refiere el inciso primero, conocerán de los juicios de mínima cuantía, conforme al territorio jurisdiccional que para tal efecto fijará a cada uno el Presidente de la República, previo informe de las respectivas Cortes de Apelaciones.
 Podrá también el Presidente de la República, a instancia de las mismas Cortes, modificar los límites de la jurisdicción territorial de los juzgados de letras de menor cuantía.
@@ -206,7 +206,7 @@ Será competente para conocer de estos juicios el juez del lugar donde hubiere o
 Si el valor del cheque excediere de cincuenta mil pesos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
 4°) De las cuestiones civiles valorizables hasta cincuenta mil pesos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
 
-Art. 39. Habrá en Santiago cinco Juzgados de Letras de Menor Cuantía en lo Criminal.
+Art. 39. Habrá en Santiago cuatro Juzgados de Letras de Menor Cuantía en lo Criminal.
 Estos Juzgados ejercerán su jurisdicción dentro del territorio que les fije el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago; pero podrán practicar actuaciones dentro de la jurisdicción asignada a cualesquiera de ellos en los asuntos sometidos a su conocimiento.
 El Presidente de la República podrá también, a instancia de la misma Corte, modificar los límites de su jurisdicción territorial.
 Estos juzgados conocerán en primera instancia:
@@ -233,11 +233,15 @@ Art. 42. En cada departamento habrá un Juzgado de Letras de Mayor Cuantía, que
 Existirán dos juzgados de mayor cuantía en los departamentos de Iquique, Antofagasta, Ovalle, Rancagua, Talca, Chillán, La Laja, Temuco, Valdivia y Osorno, y tres en Concepción.
 En el departamento de Santiago habrá cinco juzgados de mayor cuantía, que ejercerán jurisdicción exclusivamente en materia civil y siete en materia criminal, y en el de Valparaíso dos en lo civil y tres en lo criminal.
 
-Art. 43. Para todos los efectos del servicio judicial se considerarán como parte integrante del departamento de San Bernardo las comunas-subdelegaciones de La Cisterna, La Granja, San José de Maipo y Puente Alto del departamento de Santiago; y del departamento de Maipo, la comuna-subdelegación de Pirque del mismo departamento de Santiago.
+Art. 43. Para todos los efectos del servicio judicial se considerarán como parte integrante del departamento de San Bernardo las comunas-subdelegaciones de San José de Maipo y Puente Alto del departamento de Santiago; y del departamento de Maipo, la comuna-subdelegación de Pirque del mismo departamento de Santiago.
 Los jueces del crimen del departamento de Santiago ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago; pero podrán practicar actuaciones en todo el departamento, en los asuntos sometidos a su conocimiento.
 El Presidente de la República podrá modificar los límites de la jurisdicción territorial de los juzgados a que se refiere el inciso anterior, previo acuerdo de la misma Corte. No podrá hacer uso de esta facultad más de una vez al año.
 
-Art. 44. También habrá juzgados de mayor cuantía en las ciudades de Petorca, Putaendo, Casablanca, Limache y Florida (Concepción), cuyos territorios jurisdiccionales serán las comunas-subdelegaciones de sus respectivos nombres, salvo el de Limache, que conmprenderá, además, las comunas de Quilpué y Villa Alemana y el de Casablanca, que comprenderá también la comuna de Algarrobo y la comuna de Curacaví del departamento de Santiago. Estas divisiones administrativas serán consideradas como departamentos para todos los efectos del servicio judicial.
+Art. 44. Habrá también un Juzgado de Mayor Cuantía en las ciudades de Petorca, Putaendo, Casablanca, Limache, Florida (Concepción) y Lota.
+En la comuna de San Miguel, del departamento de Santiago, habrá dos Juzgados de Letras de Mayor Cuantía, uno de los cuales tendrá competencia exclusivamente sobre los asuntos criminales que se promuevan dentro de su jurisdicción y el otro en materia civil, de Menores y del Trabajo.
+Los territorios jurisdiccionales de los tribunales a que se refiere este artículo, serán las comunas-subdelegaciones de sus respectivos nombres.
+El Juzgado de Limache comprenderá, además, las comunas de Quilpué y Villa Alemana; el de Casablanca, comprenderá también la comuna de Algarrobo y la de Curacaví, del departamento de Santiago, y los de San Miguel comprenderán, además, las de Cisterna y La Granja, del departamento de Santiago.
+Las divisiones administrativas señaladas en los incisos anteriores, serán consideradas como departamentos para todos los efectos del servicio judicial.
 
 Art. 45. Los jueces de letras de mayor cuantía conocerán:
 1°) En única o en primera instancia, conforme al inciso final de este número:
