@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1981-01-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1981-02-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1981-01-29
-fetched_at: 2026-08-03T00:33:11.287611+00:00
+version_date: 1981-02-28
+fetched_at: 2026-08-03T00:33:33.985604+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2114,14 +2114,16 @@ Dicho título deberá inscribirse en el Registro de la Orden a cargo del Consejo
 
 Art. 523. Para poder ser abogado se requiere:
 1°) Tener veinte años de edad;
-2°) Tener el título de Licenciado en la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, o Universidad Católi
-NOTA
-ca de Chile, o Universidad Católica de Valparaíso o Universidad de Concepción;
+2°) Tener el grado de LiceDL 3631, JUSTICIA
+Art. 1
+D.O. 28.02.1981nciado en Ciencias Jurídicas otorgado por una Universidad, en conformidad a la ley;
 3°) No haber sido condenado ni estar actualmente procesado por delito que merezca pena corporal, salvo que se trate de delitos contra la seguridad interior del Estado;
 4°) Antecedentes de buena conducta.
 La Corte Suprema podrá practicar las averiguaciones que estime necesarias acerca de los antecedentes personales del postulante y, con el mismo objeto, pedirá informe al Colegio de Abogados respectivo; y
 5°) Haber servido, a satisfacción del Consejo del Colegio de Abogados respectivo, en el Consultorio Jurídico para Pobres, durante seis meses en la forma que determine el Reglamento de su Ley Orgánica.
-La obligación establecida en el N° 5 se entenderá cumplida por los postulantes que sean funcionarios o empleados del Poder Judicial o de los Tribunales del Trabajo por el hecho de haber desempeñado sus funciones durante cinco años.
+La obligación establecida en el N° 5 se entenderá cumplida por los postulantes que sean funcionarios o empleados del Poder Judicial o de los Trib
+NOTA
+unales del Trabajo por el hecho de haber desempeñado sus funciones durante cinco años.
 Si la comisión a que se refiere el número anterior no admitiere a examen al postulante, por estimar que no concurren los requisitos señalados en este artículo, el afectado podrá reclamar ante la Corte Suprema, la que resolverá como jurado.
 Incisos derogad
 NOTA
