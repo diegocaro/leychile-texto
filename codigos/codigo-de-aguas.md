@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=1987-12-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=1992-06-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 1987-12-31
-fetched_at: 2026-08-03T00:43:56.170713+00:00
+version_date: 1992-06-25
+fetched_at: 2026-08-03T00:53:23.608178+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -205,7 +205,8 @@ ARTICULO 57°- El derecho de aprovechamiento de las aguas subterráneas para cua
 #### 2. De la exploración de las aguas subterráneas
 
 ARTICULO 58°- Cualquiera persona puede explorar con el objeto de alumbrar aguas subterráneas, sujetándose a las normas que establezca la Dirección General de Aguas.
-En suelo ajeno sólo se podrá explorar previo acuerdo con el dueño del predio, y en bienes nacionales con la autorización de la Dirección General de Aguas.
+El suelo ajeno sólo se podrá explotar previo acuerdo con el dueño del predio, y en bienes nacionales con la autorización de la Dirección General de Aguas.
+No se podrán efectuar exploraciones en terrenos públicos o privados de zonas que alimenten áreas de vegas y de los llamados bofedales en las Regiones de Tarapacá y de Antofagasta, sino con autorización fundada de la Dirección General de Aguas, la que previamente deberá identificar y delimitar dichas zonas.
 
 #### 3. De la explotación de aguas subterráneas
 
@@ -218,7 +219,9 @@ ARTICULO 61°- La resolución que otorgue el derecho de aprovechamiento de aguas
 ARTICULO 62°- Si la explotación de aguas subterráneas por algunos usuarios ocasionare perjuicios a los otros titulares de derechos, la Dirección General de Aguas, a petición de uno o más afectados, podrá establecer la reducción temporal del ejercicio de los derechos de aprovechamiento, a prorrata de ellos.
 Esta medida quedará sin efecto cuando los solicitantes reconsideren su petición o cuando a juicio de dicha Dirección hubieren cesado las causas que la originaron.
 
-ARTICULO 63°- La Dirección General de Aguas podrá declarar zonas de prohibición para nuevas explotaciones, mediante resolución fundada en la protección del acuífero, la cual se publicará en el Diario Oficial.
+ARTICULO 63°- La Dirección General de Aguas podrá declarar zonas de prohibición para nuevas explotaciones, mediante resolución fundada en la protección de acuífero, la cual se publicará en el Diario Oficial.
+Las zonas que correspondan a acuíferos que alimenten vegas y los llamados bofedales de las Regiones de Tarapacá y de Antofagasta se entenderán prohibidas para mayores extracciones que las autorizadas, así como para nuevas explotaciones, sin necesidad de declaración expresa. La Dirección General de Aguas deberá previamente identificar y delimitar dichas zonas.
+Sin perjuicio de lo dispuesto en el inciso anterior, la Dirección General de Aguas podrá alzar la prohibición de explotar, de acuerdo con el procedimiento indicado en el artículo siguiente.
 
 ARTICULO 64°- La autoridad deberá dictar una nueva resolución sobre la mantención o alzamiento de la prohibición de explotar, a petición justificada de parte, si así lo aconsejan los resultados de nuevas investigaciones respecto de las características del acuífero o la recarga artificial del mismo.
 
