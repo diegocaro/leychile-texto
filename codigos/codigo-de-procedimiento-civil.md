@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1994-10-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1995-02-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1994-10-07
-fetched_at: 2026-08-03T00:58:14.454258+00:00
+version_date: 1995-02-18
+fetched_at: 2026-08-03T00:59:20.501754+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -383,6 +383,19 @@ Art. 248 (245). En los casos de jurisdicción contenciosa, se dará conocimiento
 Con la contestación de la parte o en su rebeldía, y con previa audiencia del ministerio público, el tribunal declarará si debe o no darse cumplimiento a la resolución.
 
 Art. 249 (246). En los asuntos de jurisdicción no contenciosa, el tribunal resolverá con sólo la audiencia del ministerio público.
+
+### Título XX
+DE LAS MULTAS
+
+Art. 252 (249). Todas las multas que este Código establece o autoriza, se impondrán a beneficio fiscal enterándose en la cuenta corriente del tribunal respectivo y se entregarán anualmente a los respectivos Consejos del Colegio de Abogados, para que con ellas atiendan de preferencia a los fines que señalan la letra m) del artículo 12 y las letras j) y k) del artículo 13 de la Ley N° 4.409, de 11 de Septiembre de 1928.
+NOTA:
+Las multas deberán pagarse dentro de los quince días
+NOTA 1
+siguientes a la fecha de notificación de la respectiva resolución. El incumplimiento se comunicará a la Tesorería General de la República y a la Contraloría General de la República para los efectos de su cobranza y de su inclusión en la lista de deudores fiscales.
+NOTA:
+El artículo 1° del decreto ley 3621, Justicia, publicado el 07.02.1981, dispuso que a partir de su vigencia los Colegios Profesionales tendrán el carácter de asociaciones gremiales regidas por el decreto ley 2.757, del año 1979; estableciendo su artículo 11 la composición del patrimonio de las asociaciones, entre cuyas menciones no se considera el financiamiento con fondos fiscales.
+NOTA 1
+El artículo 1° de la ley 17995, publicada el 08.05.1981, dispuso que los consultorios jurídicos gratuitos para pobres dependientes del Colegio de Abogados, se transformaran en tres "Corporaciones de Asistencia Judicial" con domicilio en Santiago, Valparaíso y Concepción, respectivamente, las que serán continuadoras legales del Colegio de Abogados en lo referente a los Servicios de Asistencia Judicial y al régimen de personal de esos Servicios.
 
 ## Libro Segundo
 DEL JUICIO ORDINARIO
@@ -928,7 +941,96 @@ DEL RECURSO DE CASACION
 
 #### 1. Disposiciones generales
 
-Art. 787. (961). Siempre que se declare inadmisible o sin lugar el recurso de casación, se condenará solidariamente en las costas al litigante que lo haya interpuesto y al abogado que lo haya firmado o que haya aceptado su patrocinio, y de ellas responderá personalmente el procurador que comparezca en representación del primero.
+Art. 764. El recurso de casación se concede para invalidar una sentencia en los casos expresamente señalados por la ley.
+
+Art. 765. El recurso de casación es de dos especies: de casación en el fondo y de casación de la forma.
+Es de casación en el fondo en el caso del artículo 767.
+Es de casación en la forma en los casos del artículo 768.
+
+Art. 766. El recurso de casación en la forma se concede contra las sentencias definitivas, contra las interlocutorias cuando ponen término al juicio o hacen imposible su continuación y, excepcionalmente, contra las sentencias interlocutorias dictadas en segunda instancia sin previo emplazamiento de la parte agraviada, o sin señalar día para la vista de la causa.
+Procederá, asimismo, respecto de las sentencias que se dicten en los juicios o reclamaciones regidos por leyes especiales, con excepción de aquéllos que se refieran a la constitución de las juntas electorales y a las reclamaciones de los avalúos que se practiquen en conformidad a la Ley N° 17.235, sobre Impuesto Territorial y de los demás que prescriban las leyes.
+
+Artículo 767.- El recurso de casación en el fondo tiene lugar contra sentencias definitivas inapelables y contra sentencias interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas por Cortes de Apelaciones o por un tribunal arbitral de segunda instancia constituído por árbitros de derecho en los casos en que estos árbitros hayan conocido de negocios de la competencia de dichas Cortes, siempre que se hayan pronunciado con infracción de ley y esta infracción haya influido substancialmente en lo dispositivo de la sentencia.
+
+Art. 768. El recurso de casación en la forma ha de fundarse precisamente en alguna de las causas siguientes:
+1a. En haber sido la sentencia pronunciada por un tribunal incompetente o integrado en contravención a lo dispuesto por la ley;
+2a. En haber sido pronunciada por un juez, o con la concurrencia de un juez legalmente implicado, o cuya recusación esté pendiente o haya sido declarada por tribunal competente;
+3a. En haber sido acordada en los tribunales colegiados por menor número de votos o pronunciadas por menor número de jueces que el requerido por la ley o con la concurrencia de jueces que no asistieron a la vista de la causa, y viceversa;
+4a. En haber sido dada ultra petita, esto es, otorgando más de lo pedido por las partes, o extendiéndola a puntos no sometidos a la decisión del tribunal, sin perjuicio de la facultad que éste tenga para fallar de oficio en los casos determinados por la ley;
+5a. En haber sido pronunciada con omisión de cualquiera de los requisitos enumerados en el artículo 170;
+6a. En haber sido dada contra otra pasada en autoridad de cosa juzgada, siempre que ésta se haya alegado oportunamente en el juicio;
+7a. En contener decisiones contradictorias;
+8a. En haber sido dada en apelación legalmente declarada desierta, prescrita o desistida, y
+9a. En haberse faltado a algún trámite o diligencia declarados esenciales por la ley o a cualquier otro requisito por cuyo defecto las leyes prevengan expresamente que hay nulidad.
+En los negocios a que se refiere el inciso segundo del artículo 766 sólo podrá fundarse el recurso de casación en la forma en alguna de las causales indicadas en los números 1°, 2°, 3°, 4°, 6°, 7° y 8° de este artículo y también en el número 5° cuando se haya omitido en la sentencia la decisión del asunto controvertido.
+No obstante lo dispuesto en este artículo, el tribunal podrá desestimar el recurso de casación en la forma, si de los antecedentes aparece de manifiesto que el recurrente no ha sufrido un perjuicio reparable sólo con la invalidación del fallo o cuando el vicio no ha influido en lo dispositivo del mismo.
+El tribunal podrá limitarse, asimismo, a ordenar al de la causa que complete la sentencia cuando el vicio en que se funda el recurso sea la falta de pronunciamiento sobre alguna acción o excepción que se haya hecho valer oportunamente en el juicio.
+
+Art. 769. Para que pueda ser admitido el recurso de casación en la forma es indispensable que el que lo entabla haya reclamado de la falta, ejerciendo oportunamente y en todos sus grados los recursos establecidos por la ley.
+No es necesaria esta reclamación cuando la ley no admite recurso alguno contra la resolución en que se haya cometido la falta, ni cuando ésta haya tenido lugar en el pronunciamiento mismo de la sentencia que se trata de casar, ni cuando dicha falta haya llegado al conocimiento de la parte después de pronunciada la sentencia.
+Es igualmente innecesario para interponer este recurso contra la sentencia de segunda instancia por las causales cuarta, sexta y séptima del artículo 768, que se haya reclamado contra la sentencia de primera instancia, aun cuando hayan afectado también a ésta los vicios que lo motivan.
+La reclamación a que se refiere el inciso primero de este artículo deberá hacerse por la parte o su abogado antes de verse la causa, en el caso del número 1° del artículo 768.
+
+Artículo 770.- El recurso de casación deberá interponerse dentro de los quince días siguientes a la fecha de notificación de la sentencia contra la cual se recurre, sin perjuicio de lo establecido en el artículo 791. En caso que se deduzca recurso de casación de forma y de fondo en contra de una misma resolución, ambos recursos deberán interponerse simultáneamente y en un mismo escrito.
+El recurso de casación en la forma contra sentencia de primera instancia deberá interponerse dentro del plazo concedido para deducir el recurso de apelación, y si también se deduce este último recurso, conjuntamente con él.
+
+Art. 771. El recurso debe interponerse por la parte agraviada ante el tribunal que haya pronunciado la sentencia que se trata de invalidar y para ante aquel a quien corresponde conocer de él conforme a la ley.
+
+Art. 772. El escrito en que se deduzca el recurso de casación en el fondo deberá:
+1) Expresar en qué consiste el o los errores de derecho de que adolece la sentencia recurrida, y
+2) Señalar de qué modo ese o esos errores de derecho influyen sustancialmente en lo dispositivo del fallo.
+Si el recurso es en la forma, el escrito mencionará expresamente el vicio o defecto en que se funda y la ley que concede el recurso por la causal que se invoca.
+En uno y otro caso, el recurso deberá ser patrocinado por abogado habilitado, que no sea procurador del número.
+
+Art. 773. El recurso de casación no suspende la ejecución de la sentencia, salvo cuando su cumplimiento haga imposible llevar a efecto la que se dicte si se acoge el recurso, como sería si se tratare de una sentencia que declare la nulidad de un matrimonio o permita el de un menor.
+La parte vencida podrá exigir que no se lleve a efecto la sentencia mientras la parte vencedora no rinda fianza de resultas a satisfacción del tribunal que haya dictado la sentencia recurrida, salvo que el recurso se interponga por el demandado contra la sentencia definitiva pronunciada en el juicio ejecutivo, en los juicios posesorios, en los de desahucio y en los de alimentos.
+El recurrente deberá ejercer este derecho conjuntamente con interponer el recurso de casación y en solicitud separada que se agregará al cuaderno de fotocopias o de compulsas que deberá remitirse al tribunal que deba conocer del cumplimiento del fallo. El tribunal a quo se pronunciará de plano y en única instancia a su respecto y fijará el monto de la caución antes de remitir el cuaderno respectivo a dicho tribunal.
+El tribunal a quo conocerá también en única instancia en todo lo relativo al otorgamiento y subsistencia de la caución.
+
+Art. 774. Interpuesto el recurso, no puede hacerse en él variación de ningún género.
+Por consiguiente, aun cuando en el progreso del recurso se descubra alguna nueva causa en que haya podido fundarse, la sentencia recaerá únicamente sobre las alegadas en tiempo y forma.
+
+Art. 775. (949). No obstante lo dispuesto en los artículos 769 y 774, pueden los tribunales, conociendo por vía de apelación, consulta o casación o en alguna incidencia, invalidar de oficio las sentencias cuando los antecedentes del recurso manifiesten que ellas adolecen de vicios que dan lugar a la casación en la forma, debiendo oír sobre este punto a los abogados que concurran a alegar en la vista de la causa e indicar a los mismos los posibles vicios sobre los cuales deberán alegar.
+Si el defecto que se advierte es la omisión del fallo sobre alguna acción o excepción que se haya hecho valer en el juicio, el tribunal superior podrá limitarse a ordenar al de la causa que complete la sentencia, dictando resolución sobre el punto omitido, y entre tanto, suspenderá el fallo del recurso.
+
+Art. 776. Presentado el recurso, el tribunal examinará si ha sido interpuesto en tiempo y si ha sido patrocinado por abogado habilitado. En el caso que el recurso se interpusiere ante un tribunal colegiado, el referido examen se efectuará en cuenta.
+Si el recurso reúne estos requisitos, dará cumplimiento a lo establecido en el inciso primero del artículo 197 para los efectos del cumplimiento de la sentencia y ordenará elevar los autos originales al tribunal superior para que conozca del recurso y devolver las fotocopias o compulsas respectivas al tribunal que deba conocer del cumplimiento del fallo. Se aplicará al recurrente lo establecido en el inciso segundo del artículo 197.
+Se omitirá lo anterior cuando contra la misma sentencia se hubiese interpuesto y concedido apelación en ambos efectos.
+NOTA
+La referencia al inciso 2° del artículo 197 de la presente norma, debe entenderse hecha al inciso 3° del mismo artículo.
+
+Art. 777. Si el recurrente no franquea la remisión del proceso, podrá pedirse al tribunal que se le requiera para ello, bajo apercibimiento de declararse no interpuesto el recurso.
+
+Artículo 778.- Si el recurso no cumple con los requisitos establecidos en el inciso primero del artículo 776, el tribunal lo declarará inadmisible, sin más trámite.
+En contra del fallo que se dicte, sólo podrá interponerse el recurso de reposición, el que deberá fundarse en error de hecho y deducirse en el plazo de tercero día. La resolución que resuelva la reposición será inapelable.
+
+Art. 779. Es aplicable al recurso de casación lo dispuesto en los artículos 200, 202 y 211.
+El artículo 201 sólo será aplicable en cuanto a la no comparecencia del recurrente dentro de plazo.
+
+Artículo 780.- Interpuesto el recurso de casación en el fondo, cualquiera de las partes podrá solicitar, dentro del plazo para hacerse parte en el tribunal ad quem, que el recurso sea conocido y resuelto por el pleno del tribunal. La petición sólo podrá fundarse en el hecho que la Corte Suprema, en fallos diversos, ha sostenido distintas interpretaciones sobre la materia de derecho objeto del recurso.
+
+Artículo 781.- Elevado un proceso en casación de forma, el tribunal examinará en cuenta si la sentencia objeto del recurso es de aquéllas contra las cuales lo concede la ley y si éste reúne los requisitos que establecen los artículos 772, inciso segundo, y 776, inciso primero.
+Si el tribunal encuentra mérito para considerarlo inadmisible, lo declarará sin lugar desde luego, por resolución fundada.
+En caso de no declarar inadmisible desde luego el recurso, ordenará traer los autos en relación, sin más trámite. Asimismo, podrá decretar autos en relación, no obstante haber declarado la inadmisibilidad del recurso, cuando estime posible una casación de oficio.
+La resolución por la que el tribunal de oficio declare la inadmisibilidad del recurso, sólo podrá ser objeto del recurso de reposición, el que deberá ser fundado e interponerse dentro de tercero día de notificada la resolución.
+
+Artículo 782.- Elevado un proceso en casación de fondo, el tribunal examinará en cuenta si la sentencia objeto del recurso es de aquéllas contra las cuales lo concede la ley y si éste reúne los requisitos que se establecen en los incisos primeros de los artículos 772 y 776.
+La misma sala, aun cuando se reúnan los requisitos establecidos en el inciso precedente, podrá rechazarlo de inmediato si, en opinión unánime de sus integrantes, adolece de manifiesta falta de fundamento.
+Esta resolución deberá ser, a lo menos, someramente fundada y será susceptible del recurso de reposición que establece el inciso final del artículo 781.
+En el mismo acto el tribunal deberá pronunciarse sobre la petición que haya formulado el recurrente, en cuanto a que el recurso sea visto por el pleno de la Corte Suprema, de conformidad a lo establecido en el artículo 780. La resolución que deniegue esta petición será susceptible del recurso de reposición que se establece en el inciso final del artículo 781.
+Es aplicable al recurso de casación de fondo lo dispuesto en los incisos segundo, tercero y cuarto del artículo 781.
+
+Art. 784. El recurso de casación se sujetará, además, a las disposiciones especiales de los Párrafos 2°, 3° y 4° de este Título, según sea la naturaleza del juicio en que se haya pronunciado la sentencia recurrida.
+
+Art. 785. Cuando la Corte Suprema invalide una sentencia por casación en el fondo, dictará acto continuo y sin nueva vista, pero separadamente, sobre la cuestión materia del juicio que haya sido objeto del recurso, la sentencia que crea conforme a la ley y al mérito de los hechos tales como se han dado por establecidos en el fallo recurrido, reproduciendo los fundamentos de derecho de la resolución casada que no se refieran a los puntos que hayan sido materia del recurso y la parte del fallo no afectada por éste.
+En los casos en que desechare el recurso de casación en el fondo por defectos en su formalización, podrá invalidar de oficio la sentencia recurrida, si se hubiere dictado con infracción de ley y esta infracción haya influido substancialmente en lo dispositivo de la sentencia. La Corte deberá hacer constar en el fallo de casación esta circunstancia y los motivos que la determinan, y dictará sentencia de reemplazo con arreglo a lo que dispone el inciso precedente.
+
+Art. 786. En los casos de casación en la forma, la misma sentencia que declara la casación determinará el estado en que queda el proceso, el cual se remitirá para su conocimiento al tribunal correspondiente.
+Este tribunal es aquel a quien tocaría conocer del negocio en caso de recusación del juez o jueces que pronunciaron la sentencia casada.
+Si el vicio que diere lugar a la invalidación de la sentencia fuere alguno de los contemplados en las causales 4a, 5a, 6a y 7a del artículo 768, deberá el mismo tribunal, acto continuo y sin nueva vista, pero separadamente, dictar la sentencia que corresponda con arreglo a la ley.
+Lo dispuesto en el inciso precedente regirá, también, en los casos del inciso primero del artículo 776, si el tribunal respectivo invalida de oficio la sentencia por alguna de las causales antes señaladas.
+
+Art. 787. Derogado
 
 #### 2. Disposiciones especiales del recurso de casación
 contra sentencias pronunciadas en juicios de mínima
@@ -951,10 +1053,46 @@ Art. 795. (967). En general, son trámites o diligencias esenciales en la primer
 6°. La citación para alguna diligencia de prueba; y
 7°. La citación para oír sentencia definitiva, salvo que la ley no establezca este trámite.
 
+Art. 797.
+NOTA
+NOTA
+(
+NOTA
+NOTA
+9
+NOTA
+6
+NOTA
+9). Re
+NOTA
+girán
+NOTA
+también para los recursos de casación,
+NOTA
+en los juicios de menor cuantía, lo dispuesto en el inciso 2° del artículo 699, y en los artículos 701 y 702.
+NOTA
+NOTA
+NOTA
+NOTA
+NOTA
+NOTA
+NOTA
+NOTA
+NOTA
+NOTA
+NOTA
+NOTA
+NOTA
+El N° 3 del artículo 2° de la Ley 19374, publicada el 18.02.1995, eliminó el inciso primero de la presente norma.
+
 #### 4. Disposiciones especiales de los recursos de
 casación contra sentencias pronunciadas en segunda
 instancia en juicios de mayor o de menor cuantía y en
 juicios especiales
+
+Art. 801. (972). Derogado.
+
+Art. 802. (973). Derogado.
 
 Artículo 803.- El recurrente, hasta antes de la vista del recurso, podrá designar un abogado para que lo defienda ante el tribunal ad quem, que podrá ser o no el mismo que patrocinó el recurso. En las causas criminales en que el recurso esté patrocinado por abogado con domicilio fuera del radio urbano de la ciudad asiento del tribunal ad quem y haya sido deducido en favor de procesado que se encuentra sometido a prisión preventiva, asumirá su defensa el abogado que designe la Corporación de Asistencia Judicial respectiva.
 El tribunal al dar cumplimiento a lo establecido en el artículo 781 ó 782, según sea el caso, si ordena traer los autos en relación, dispondrá que esta resolución sea notificada por el receptor de turno al representante de la Corporación de Asistencia Judicial para que, dentro de quinto día, designe al abogado que asumirá la defensa del recurso.
@@ -967,8 +1105,15 @@ No se podrá sacar los autos de la secretaría para estos informes.
 En la vista de la causa no se podrá hacer alegación alguna extraña a las cuestiones que sean objeto del recurso, ni se permitirá la lectura de escritos o piezas de los autos, salvo que el presidente lo autorice para esclarecer la cuestión debatida.
 El tribunal dictará sentencia dentro de los cuarenta días siguientes a aquel en que haya terminado la vista.
 
+Art. 808. (979). Si contra una misma sentencia se interponen recursos de casación en la forma y en el fondo, éstos se tramitarán y verán conjuntamente y se resolverán en un mismo fallo.
+Si se acoge el recurso de forma, se tendrá como no interpuesto el de fondo.
+
+Art. 809. Derogado.
+
 ### Título XX
 DEL RECURSO DE REVISION
+
+Art. 812. (983). Derogado.
 
 Art. 813. (984). Presentado el recurso, el tribunal ordenará que se traigan a la vista todos los antecedentes del juicio en que recayó la sentencia impugnada y citará a las partes a quienes afecte dicha sentencia para que comparezcan en el término de emplazamiento a hacer valer su derecho.
 Los trámites posteriores al vencimiento de este término se seguirán conforme a lo establecido para la substanciación de los incidentes, oyéndose al ministerio público antes de la vista de la causa.
