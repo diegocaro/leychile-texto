@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1984-09-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1984-12-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1984-09-17
-fetched_at: 2026-08-03T00:39:58.396037+00:00
+version_date: 1984-12-14
+fetched_at: 2026-08-03T00:40:16.422689+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -343,9 +343,11 @@ Artículo 77°.- El Reglamento comprenderá normas como las que se refieren a:
 a) las condiciones de saneamiento previo de los terrenos que se destinarán a nuevas construcciones, de acuerdo con las características y las necesidades higiénicas de la localidad, sin perjuicio de lo dispuesto en las leyes especiales que rijan la materia;
 b) la calidad, naturaleza y demás requisitos higiénicos que deberán tener los materiales empleados en las construcciones y reparaciones de casas, edificios y locales;
 c) las condiciones sanitarias y de seguridad que deben cumplir una casa, edificio o local, para ser habitados u ofrecidos en arrendamiento y la determinación del número máximo de personas que pueden ocuparlos;
-d) las condiciones sanitarias y de seguridad de los locales o sitios en que se efectúen espectáculos públicos y de esparcimiento o recreo, o se alberguen transitoriamente grupos de personas, como ser escuelas, teatros, cines, estadios, carpas, campamentos de verano, de faenas mineras u otras;
+d) las condiciones sanitarias y de seguridad de los locales o sitios en que se efectúen espectáculos públicos y de esparcimiento o recreo, o se alberguen transitoriamente grupos de personas, como ser escuelas, teatros, cines, estadios, carpas, campamentos de verano, de faenas mineras u otras.
 e) la prohibición de mantener determinadas especies de animales o el número máximo de ellos que pueden ser tolerados en una casa habitación o en locales públicos o privados, y las condiciones de higiene y seguridad que deben cumplirse para su mantención, y
 f) la protección contra insectos, roedores y otros animales capaces de transmitir enfermedades al hombre.
+NOTA:
+Véase el Decreto 301, Salud, publicado el 14.12.1984, que aprueba el Reglamento sobre condiciones sanitarias mínimas en campings o campamentos de turismo.
 
 #### PÁRRAFO III
 DE LOS DESPERDICIOS Y BASURAS
