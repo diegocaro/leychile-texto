@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1944-09-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1944-10-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1944-09-13
-fetched_at: 2026-08-03T00:07:55.316074+00:00
+version_date: 1944-10-25
+fetched_at: 2026-08-03T00:08:07.329594+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1757,6 +1757,7 @@ Las funciones y guardas de los libros y documentos que las leyes electoral y de 
 Lo dispuesto en este artículo es sin perjuicio de lo establecido en el artículo 43.
 
 Art. 452. Se extiende a los conservadores, en cuanto es adaptable a ellos, todo lo dicho en este Código respecto de los notarios.
+En el caso de los Conservadores a que se refiere el artículo anterior, si faltare o se inhabilitare alguno para el ejercicio de sus funciones, será reemplazado por los otros Conservadores conforme al orden de antigüedad.
 
 ### § 9. Los Archiveros
 
