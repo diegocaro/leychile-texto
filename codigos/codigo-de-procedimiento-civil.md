@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1976-04-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1978-10-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1976-04-29
-fetched_at: 2026-08-03T00:26:44.655895+00:00
+version_date: 1978-10-28
+fetched_at: 2026-08-03T00:29:41.035962+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -125,6 +125,12 @@ DE LA EJECUCION DE LAS RESOLUCIONES
 
 #### 2. De las resoluciones pronunciadas por tribunales
 extranjeros
+
+Art. 245 (242). En los casos en que no pueda aplicarse ninguno de los tres artículos precedentes, las resoluciones de tribunales extranjeros tendrán en Chile la misma fuerza que si se hubieran dictado por tribunales chilenos, con tal que reúnan las circunstancias siguientes:
+1a. Que no contengan nada contrario a las leyes de la República. Pero no se tomarán en consideración las leyes de procedimiento a que haya debido sujetarse en Chile la substanciación del juicio;
+2a. Que tampoco se opongan a la jurisdicción nacional;
+3a. Que la parte en contra de la cual se invoca la sentencia haya sido debidamente notificada de la acción. Con todo, podrá ella probar que, por otros motivos, estuvo impedida de hacer valer sus medios de defensa.
+4a. Que estén ejecutoriadas en conformidad a las leyes del país en que hayan sido pronunciadas.
 
 Art. 248 (245). En los casos de jurisdicción contenciosa, se dará conocimiento de la solicitud a la parte contra quien se pide la ejecución, la cual tendrá para exponer lo que estime conveniente un término igual al de emplazamiento para contestar demandas.
 Con la contestación de la parte o en su rebeldía, y con previa audiencia del ministerio público, el tribunal declarará si debe o no darse cumplimiento a la resolución.
