@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1995-09-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1995-12-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1995-09-20
-fetched_at: 2026-08-03T01:00:44.564377+00:00
+version_date: 1995-12-16
+fetched_at: 2026-08-03T01:01:27.884389+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1082,6 +1082,8 @@ Art. 795. (967). En general, son trámites o diligencias esenciales en la primer
 6°. La citación para alguna diligencia de prueba; y
 7°. La citación para oír sentencia definitiva, salvo que la ley no establezca este trámite.
 
+Art. 796. (968). En los juicios de mayor cuantía seguidos ante arbitradores son trámites esenciales los que las partes expresen en el acto constitutivo del compromiso, y, si nada han expresado acerca de esto, sólo los comprendidos en los números 1° y 5° del artículo precedente.
+
 Art. 797.
 NOTA
 NOTA
@@ -1118,6 +1120,13 @@ El N° 3 del artículo 2° de la Ley 19374, publicada el 18.02.1995, eliminó el
 casación contra sentencias pronunciadas en segunda
 instancia en juicios de mayor o de menor cuantía y en
 juicios especiales
+
+Art. 800. (971). En general, son trámites o diligencias esenciales en la segunda instancia de los juicios de mayor o de menor cuantía y en los juicios especiales:
+1°. El emplazamiento de las partes, hecho antes de que el superior conozca del recurso;
+2°. La agregación de los instrumentos presentados oportunamente por las partes, con citación o bajo el apercibimiento legal que corresponda respecto de aquélla contra la cual se presentan;
+3°. La citación para oír sentencia definitiva;
+4°. La fijación de la causa en tabla para su vista en los tribunales colegiados, en la forma establecida en el artículo 163, y
+5°. Los indicados en los números 3°, 4° y 6° del artículo 795, en caso de haberse aplicado lo dispuesto en el artículo 207.
 
 Art. 801. (972). Derogado.
 
