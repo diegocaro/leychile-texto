@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1917-09-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1923-10-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1917-09-27
-fetched_at: 2026-08-03T00:03:24.967445+00:00
+version_date: 1923-10-20
+fetched_at: 2026-08-03T00:03:36.974243+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -969,8 +969,7 @@ El que falsificare los sellos, timbres, punzones, matrices o marcas, que tengan 
 ART. 188.
 Las penas serán presidio menor en sus grados mínimo a medio i multa de ciento a mil pesos, cuando habiéndose procurado indebidamente los verdaderos sellos, timbres, punzones, matrices o marcas, se hubiere hecho de ellos en Chile una aplicacion o uso perjudicial a los derechos e intereses de esos paises, de una autoridad cualquiera o de un particular.
 
-ART. 189.
-El que hiciere desaparecer de estampillas de correos u otras adhesivas, o de boletas para el trasporte de personas o cosas la marca que indica que ya han servido, con el fin de utilizarlas, i el que a sabiendas espendiere o usare estampillas o boletas de las cuales se ha hecho desaparecer dicha marca, siempre que en uno i otro caso el valor de tales estampillas o boletas exceda de diez pesos, será castigado con reclusion menor en su grado mínimo o multa de ciento a trescientos pesos.
+Artículo 189. El que hiciere desaparecer de estampillas de correos u otras adhesivas, o de boletas para el transporte de personas o cosas, la marca que indica que ya han servido, con el fin de utilizarlas, y el que, a sabiendas espendiere o usare estampillas o boletas de las cuales se ha hecho desaparecer dicha marca, siempre que en uno y otro caso el valor de tales estampillas o boletas exceda de treinta pesos, será castigado con reclusion menor en su grado mínimo o multa de ciento a trescientos pesos.
 
 ART. 190.
 El que hiciere poner sobre objetos fabricados el nombre de un fabricante que no sea autor de tales objetos, o la razon comercial de una fábrica que no sea la de la verdadera fabricacion, sufrirá las penas de presidio menor en sus grados mínimo a medio i multa de ciento a quinientos pesos.
@@ -2074,12 +2073,11 @@ ART. 435.
 Cuando en el robo concurriere alguna de las circunstancias señaladas en el núm. 3.° del art. 433 i no se hubiere cometido en despoblado i en cuadrilla, el culpable sufrirá la pena de presidio mayor en su grado mínimo a medio.
 Causándose las lesiones de que trata el núm. 2° del art. 397, la pena será presidio menor en su grado máximo a presidio mayor en su grado mínimo.
 
-ART. 436.
-Fuera de los casos previstos en los artículos precedentes, los robos ejecutados con violencia o intimidacion en las personas serán penados:
-1.° Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, si el importe de las cosas robadas excediere de quinientos pesos.
-2.° Con presidio menor en sus grados medio a máximo, cuando excediere de cincuenta i no pasare do quinientos pesos.
-3.° Con presidio menor en su grado mínimo a medio, si no excediere de cincuenta pesos.
-Para la aplicacion de estas penas se estimará como circunstancia agravante, haberse cometido el delito arrebatando por sorpresa ropa, alhajas u otros objetos a la persona que los lleva consigo, o aparentando riñas en lugar de concurrencia o haciendo otras maniobras dirijidas a causar agolpamiento i confusion, a fin de robar por este medio o proporcionar ocasion para que roben los compañeros.
+Artículo 436. Fuera de los casos previstos en los artículos precedentes, los robos ejecutados con violencia o intimidacion en las personas, serán penados:
+1.° Con presidio menor en su grado máximo, a presidio mayor en su grado mínimo, si el importe de las cosas robadas excediere de mil pesos;
+2.° Con presidio menor en sus grados medio a máximo, cuando excediere de cien pesos y no pasare de mil pesos;
+3.° Con presidio menor en sus grados mínimo a medio, si no excediere de cien pesos.
+Para la aplicacion de estas penas, se estimará como circunstancia agravante, haberse cometido el delito arrebatando por sorpresa, ropa, alhajas otros objetos a la persona que los lleva consigo, aparentando riñas en lugar de concurrencia o haciendo otras maniobras dirijidas a causar agolpamiento y confusion, a fin de robar por este medio o proporcionar ocasion para que roben los compañeros.
 
 ART. 437.
 La tentativa de robo acompañada de alguno de los delitos expresados en el art. 433, será penada como el robo consumado.
@@ -2109,8 +2107,7 @@ El robo cometido con armas o sin ellas en lugar no habitado, se castigará con p
 2.º Fractura de puertas interiores, armarios, arcas u otra clase de muebles u objetos cerrados o sellados.
 3.º Haber hecho uso de llaves falsas, o verdadera que se hubiere sustraído, de ganzúas u otros instrumentos semejantes para entrar en el lugar del robo o abrir los muebles cerrados.
 
-ART. 443.
-En los casos de los tres artículos precedentes, la pena será presidio menor en su grado medio, si el importe del robo no excediere de cincuenta pesos.
+Artículo 443. En los casos de los tres artículos precedentes, la pena será presidio menor en su grado medio, si el importe del robo no excediere de cien pesos.
 
 ART. 444.
 Se presume autor de tentativa de robo al que se introdujere con forado, fractura, escalamiento, uso de llave falsa o de llave verdadera sustraída o de ganzúa en algun aposento, casa, edificio habitado o destinado a la habitacion o en sus dependencias.
@@ -2121,11 +2118,10 @@ El que fabricare, espendiere o tuviere en su poder llaves falsas, ganzúas u otr
 #### § IV.
 Del hurto.
 
-ART. 446.
-Los reos de hurto serán castigados:
-1.° Con presidio menor en sus grados medio a máximo, si el valor de la cosa hurtada excediere de quinientos pesos.
-2.° Con presidio menor en su grado medio, cuando su valor excediere de cincuenta i no pasare de quinientos pesos.
-3.° Con presidio menor en su grado mínimo, si el importe de la cosa hurtada no subiere de cincuenta pesos ni bajare de diez.
+Artículo 446. Los reos de hurto serán castigados:
+1.° Con presidio menor en sus grados medio a máximo, si el valor de la cosa hurtada excediere de mil pesos;
+2.° Con presidio menor en su grado medio, cuando su valor excediere de ciento y no pasare de mil pesos;
+3.° Con presidio menor en su grado mínimo, si el importe de la cosa hurtada no subiere de cien pesos ni bajare de treinta pesos.
 
 ART. 447.
 En los casos del artículo anterior podrá aplicarse la pena inmediatamente superior en grado:
@@ -2135,9 +2131,8 @@ En los casos del artículo anterior podrá aplicarse la pena inmediatamente supe
 4.° Si se cometiere por el posadero, fondista u otra persona que hospede jentes en cosas que hubieren llevado a la posada o fonda.
 5.° Cuando se cometiere por patrón o comandante de buque, lanchero, conductor o bodeguero de tren, guarda almacenes, carruajero, carretero o arriero en cosas que se hayan puesto en su buque, carro, bodega, etc.
 
-ART. 448.
-El que hallándose una especie mueble, al parecer perdida, cuyo valor exceda de diez pesos, no la entregare a la autoridad o a su dueño, siempre que le conste quien sea éste por hechos coexistentes o posteriores al hallazgo, será considerado reo de hurto i castigado con presidio menor en su grado mínimo.
-Tambien será considerado reo de hurto i castigado con presidio menor en su grado mínimo el que se hallare especies, al parecer perdidas o abandonadas a consecuencia de naufrajio, inundacion, incendio, terremoto, accidente en ferrocarril u otra causa análoga, i no las entregare a los dueños o a la autoridad en su defecto.
+Artículo 448. El que, hallándose una especie mueble, al parecer perdida, cuyo valor exceda de treinta pesos, no la entregare a la autoridad o a su dueño, siempre que le conste quién sea éste, por hechos coexistentes posteriores al hallazgo, será considerado reo de hurto y castigado con presidio menor en su grado mínimo.
+También será considerado reo de hurto y castigado con presidio menor en su grado mínimo, el que hallare especies, al parecer perdidas o abandonadas, a consecuencia de naufrajio, inundacion, incendio, terremoto, accidente en ferrocarril u otra causa análoga, y no las entregare a los dueños o a la autoridad en su defecto.
 
 #### § V.
 Disposiciones comunes a los tres párrafos anteriores.
@@ -2216,11 +2211,10 @@ En la misma pena incurrirá si otorgare, en perjuicio de dichos acreedores, cont
 #### § VIII.
 Estafas i otros engaños.
 
-ART. 467.
-El que defraudare a otro en la sustancia, cantidad o calidad de las cosas que le entregare en virtud de un título obligatorio, será penado:
-1.° Con presidio o relegacion menores en sus grados medios a máximos, si la defraudacion excediere de quinientos pesos.
-2.° Con presidio o relegacion menores en sus grados medios, cuando excediere de cincuenta i no pasare de quinientos pesos.
-3.° Con presidio o relegacion menores en sus grados mínimos, si el valor de la defraudacion no excediere de cincuenta pesos ni bajare de diez.
+Artículo 467. El que defraudare a otro en la sustancia, cantidad o calidad de las cosas que le entregare en virtud de un título obligatorio, será penado:
+1.° Con presidio o relegacion menores en sus grados medio a máximo, si la defraudación excediere de mil pesos:
+2.° Con presidio o relegacion menores en sus grados medios, cuando excediere de cien pesos y no pasare de mil pesos;
+3.° Con presidio o relegacion menores en sus grados mínimos, si el valor de la defraudacion no excediere de cien pesos ni bajare de treinta pesos.
 
 ART. 468.
 Incurrirá en las penas del artículo anterior el que defraudare a otro usando de nombre finjido, atribuyéndose poder, influencia o crédito supuestos, aparentando bienes, crédito, comision, empresa o negociacion imajinarios, o valiéndose de cualquier otro engaño semejante.
@@ -2277,14 +2271,12 @@ Se castigará con presidio mayor en cualquiera de sus grados:
 2.º Al que dentro de poblado incendiare cualquier edificio o lugar, aun cuando no estuviere destinado ordinariamente a la habitacion.
 3.º Al que incendiare mieses, pastos, montes, cierros o plantíos.
 
-ART. 477.
-El incendiario de objetos no comprendidos en los artículos anteriores será penado:
-1.° Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, siempre que el daño causado a tercero excediere de quinientos pesos.
-2.° Con presidio menor en sus grados medio a máximo, cuando el daño causado excediere de cincuenta i no pasare de quinientos pesos.
-3.° Con presidio menor en sus grados mínimo a medio, si el daño no excediere de cincuenta pesos.
+Artículo 447. El incendiario de objetos no comprendidos en los artículos anteriores, será penado:
+1.° Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, siempre que el daño causado a terceros, excediere de mil pesos;
+2.° Con presidio menor en sus grados medio a máximo, cuando el daño causado excediere de ciento y no pasare de mil pesos;
+3.° Con presidio menor en sus grados mínimo a medio, si el daño no excediere de cien pesos.
 
-ART. 478.
-En caso de aplicarse el incendio a chozas, pajar o cobertizo deshabitado o a cualquier otro objeto cuyo valor no excediere de cincuenta pesos, en tiempo i con circunstancias que manifiestamente escluyan todo peligro de propagacion, el culpable no incurrirá en las penas señaladas en este párrafo; pero sí en las que mereciere por el daño que causare, con arreglo a las disposiciones del párrafo siguiente.
+Artículo 478. En caso de aplicarse el incendio a chozas, pajar o cobertizo deshabitado o a cualquier otro objeto cuyo valor no excediere de cien pesos, en tiempo y con circunstancias que manifiestamente escluyan todo peligro de propagacion, el culpable no incurrirá en las penas señaladas en este párrafo; pero sí en las que mereciera por el daño que causare con arreglo a las disposiciones del párrafo siguiente.
 
 ART. 479.
 Cuando el fuego se comunicare del objeto que el culpable se propuso quemar, a otro u otros cuya destruccion, por su naturaleza o consecuencias, debe penarse con mayor severidad, se aplicará la pena mas grave, siempre que los objetos incendiados estuvieren colocados de tal modo que el fuego haya debido comunicarse de unos a otros, atendidas las circunstancias del caso.
@@ -2308,20 +2300,18 @@ De los daños.
 ART. 484.
 Son reos de daño i están sujetos a las penas de este párrafo, los que en la propiedad ajena causaren alguno que no se halle comprendido en el párrafo anterior.
 
-ART. 485.
-Serán castigados con la pena de reclusion menor en sus grados medio a máximo los que causaren daño cuyo importe exceda de quinientos pesos:
-1.° Con la mira de impedir el libre ejercicio de la autoridad o en venganza de sus determinaciones, bien se cometiere el delito contra empleados públicos, bien contra particulares que como testigos o de cualquiera otra manera hayan contribuido o puedan contribuir a la ejecucion o aplicacion de las leyes.
-2.° Produciendo por cualquier medio infeccion o contajio en animales o aves domésticos.
-3.° Empleando sustancias venenosas o corrosivas.
-4.° En cuadrilla i en despoblado.
-5.° En archivos, rejistros, bibliotecas o museos públicos.
-6.º En puentes, caminos, paseos u otros bienes de uso público.
-7.° En tumbas, signos conmemorativos, monumentos, estatuas, cuadros u otros objetos de artes colocados en edificios o lugares públicos.
+Artículo 485. Serán castigados con la pena de reclusion menor en sus grados medio a máximo, los que causaren daño cuyo importe exceda de mil pesos:
+1.° Con la mira de impedir el libre ejercicio de la autoridad o en venganza de sus determinaciones, bien se cometiere el delito contra empleados públicos, bien contra particulares que, como testigos o de cualquiera otra manera, hayan contribuido o puedan contribuir a la ejecucion o aplicacion de las leyes;
+2.° Produciendo, por cualquier medio, infeccion o contajio en animales o aves domésticas;
+3.° Empleando sustancias venenosas o corrosivas;
+4.° En cuadrilla y en despoblado;
+5.° En archivos, registros, bibliotecas o museos públicos;
+6.° En puentes, caminos, paseos u otros bienes de uso público;
+7.° En tumbas, signos conmemorativos, monumentos, estatuas, cuadros u otros objetos de arte colocados en edificios o lugares públicos;
 8.° Arruinando al perjudicado.
 
-ART. 486.
-El que con alguna de las circunstancias espresadas en el artículo anterior causare daño cuyo importe exceda de cincuenta i no pase de quinientos pesos, sufrirá la pena de reclusion menor en sus grados mínimo a medio.
-Cuando dicho importe no excediere de cincuenta pesos ni bajare de diez, la pena será reclusion menor en su grado mínimo.
+Artículo 486. El que, con alguna de las circunstancias espresadas en el artículo anterior, causare daño cuyo importe exceda de ciento y no pase de mil pesos, sufrirá la pena de reclusion menor en sus grados mínimo a medio.
+Cuando dicho importe no excediere de cien pesos ni bajare de treinta, la pena será reclusion menor en su grado mínimo.
 
 ART. 487.
 Los daños no comprendidos en los artículos anteriores, serán penados con reclusion menor en su grado mínimo o multa de ciento a mil pesos.
@@ -2385,7 +2375,7 @@ Sufrirán la pena de prision en sus grados medio a máximo o multa de diez a cie
 16.° El que sin estar lejítimamente autorizado impidiere a otro con violencia hacer lo que la lei no prohibe, o le compeliere a ejecutar lo que no quiera.
 17.° El que quebrantare los reglamentos o disposiciones de la autoridad sobre la custodia, conservacion i trasporte de materias inflamables o corrosivas o productos químicos que puedan causar estragos.
 18.° El dueño de animales feroces que en lugar accesible al público los dejare sueltos o en disposicion de causar mal.
-19.° El que ejecutare alguno de los hechos penados en los arts. 189, 446, inc. 1.° del 448, 467, 469 i 470, siempre que el delito se refiera a valores que no excedan de diez pesos.
+19.° El que ejecutare alguno de los hechos penados en los artículo 189, 446, inciso 1.° del 448, 467, 469 y 470, siempre que el delito se refiera a valores que no excedan de treinta pesos.
 20.° El que con violencia se apoderare de una cosa perteneciente a su deudor para hacerse pago con ella.
 21.° El que con violencia en las cosas entrare a cazar o pescar en lugar cerrado, o en lugar abierto contra espresa prohibicion intimada personalmente.
 
@@ -2411,8 +2401,8 @@ Serán castigados con prision en sus grados mínimo a medio conmutable en multa 
 18.° El dueño o encargado de fondas, cafés, confiterías u otros establecimientos destinados al despacho de comestibles o bebidas que faltare a los reglamentos de policía relativos a la conservacion o uso de vasijas o útiles destinados para el servicio.
 19.° El que faltando a las órdenes de la autoridad, descuidare reparar o demoler edificios ruinosos.
 20.° El que infrinjiere las reglas de seguridad concernientes a la apertura de pozos o escavaciones i al depósito de materiales o escombros, o a la colocacion de cualesquiera otros objetos en las calles, plazas, paseos públicos o en la parte esterior de los edificios que embaracen el tráfico o puedan causar daño a los transeuntes.
-21.° El que intencionalmente o con neglijencia culpable causare daño, que no exceda de diez pesos, en bienes públicos o de propiedad particular.
-22.° El que aprovechando aguas de otro o distrayéndolas de su curso, causare daño que no exceda de diez pesos.
+21.° El que intencionalmente o con negligencia culpable, causare daño que no exceda de treinta pesos en bienes públicos o de propiedad particular.
+22.° El que, aprovechando aguas de otro o distrayéndolas de su curso, causare daño que no exceda de treinta pesos.
 
 ART. 496.
 Sufrirán la pena de prision en su grado mínimo conmutable en multa de uno a treinta pesos:
