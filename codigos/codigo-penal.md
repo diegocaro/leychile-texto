@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1999-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2001-06-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1999-12-27
-fetched_at: 2026-08-03T01:09:58.668377+00:00
+version_date: 2001-06-04
+fetched_at: 2026-08-03T01:14:48.736872+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -896,7 +896,7 @@ Si la exacción de la contribución o servicio personal se hiciere con ánimo de
 
 Art. 158.
 Sufrirá la pena de suspensión en sus grados mínimo a medio, si gozare de renta, y la de reclusión menor en su grado mínimo o multa de once a veinte unidades tributarias mensuales, cuando prestare servicios gratuitos, el empleado público que arbitrariamente:
-1.° Impidiere la libre publicación de opiniones por la imprenta en la forma prescrita por la ley.
+1.° Derogado.
 2.° Prohibiere un trabajo o industria que no se oponga a la ley, a las buenas costumbres, seguridad y salubridad públicas.
 3.° Prohibiere o impidiere una reunión o manifestación pacífica y legal o la mandare disolver o suspender.
 4.° Impidiere a un habitante de la República permanecer en cualquier punto de ella, trasladarse de uno a otro o salir de su territorio, en los casos que la ley no lo prohíba; concurrir a una reunión o manifestación pacífica y legal; formar parte de cualquier asociación lícita, o hacer uso del derecho de petición que le garantiza la ley.

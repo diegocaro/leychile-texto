@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2001-03-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2001-06-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2001-03-10
-fetched_at: 2026-08-03T01:13:56.876273+00:00
+version_date: 2001-06-04
+fetched_at: 2026-08-03T01:14:42.731982+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -571,7 +571,7 @@ De los Presidentes y Ministros de Corte como tribunales unipersonales
 
 Art. 50. Un Ministro de la Corte de Apelaciones respectiva, según el turno que ella fije, conocerá en primera instancia de los siguientes asuntos:
 1°) Derogado.
-2°) De las causas civiles en que sean parte o tengan interés el Presidente de la República, los ex Presidentes de la República, los Ministros de Estado, los Intendentes y Gobernadores, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
+2°) De las causas civiles en que sean parte o tengan interés el Presidente de la República, los ex Presidentes de la República, los Ministros de Estado, Senadores, Diputados, miembros de los Tribunales Superiores de Justicia, Contralor General de la República, Comandantes en Jefe de las Fuerzas Armadas, General Director de Carabineros de Chile, Director General de la Policía de Investigaciones de Chile, los Intendentes y Gobernadores, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
 La circunstancia de ser accionista de sociedades anónimas las personas designadas en este número, no se considerará como una causa suficiente para que un Ministro de la Corte de Apelaciones conozca en primera instancia de los juicios en que aquéllas tengan parte, debiendo éstos sujetarse en su conocimiento a las reglas generales.
 3°) Derogado.
 4°) De las demandas civiles que se entablen contra los jueces de letras para hacer efectiva la responsabilidad civil resultante del ejercicio de sus funciones ministeriales.

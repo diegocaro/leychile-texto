@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2000-12-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2001-06-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 2000-12-13
-fetched_at: 2026-08-03T01:12:59.506484+00:00
+version_date: 2001-06-04
+fetched_at: 2026-08-03T01:14:30.728620+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2224,6 +2224,7 @@ En las causas acumuladas y en las que habiendo sido objeto de desacumulación de
 Art. 504. (532) Toda sentencia condenatoria expresará la obligación del condenado de pagar las costas de la causa.
 Estas comprenden tanto las procesales como las personales y además los gastos ocasionados por el juicio y que no se incluyen en la costas.
 La sentencia condenatoria podrá disponer también el comiso de los instrumentos o efectos del delito cuando fuera procedente, o decretar su restitución cuando no deban caer en comiso.
+La sentencia condenatoria por el artículo 374 del Código Penal ordenará la destrucción total o parcial, según proceda, de los impresos o de las grabaciones sonoras o audiovisuales de cualquier tipo que se hayan decomisado durante el proceso.
 
 Art. 505. (533) La sentencia de primera instancia y el cúmplase de las de segunda se notificarán en persona al reo y no a sus representantes.
 NOTA:
