@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=137535&idVersion=1871-08-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=137535&idVersion=1873-09-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 137535
-version_date: 1871-08-08
-fetched_at: 2026-08-05T02:17:44.011384+00:00
+version_date: 1873-09-25
+fetched_at: 2026-08-05T02:18:02.016268+00:00
 titulo_norma: "CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: LEY-S/N
 organismos: []
@@ -208,7 +208,7 @@ Art. 52. El Congreso abrirá sus sesiones ordinarias el día 1º de junio de cad
 
 Art. 53. Convocado estraordinariamente el Congreso, se ocupará en los negocios que hubieren motivado la convocatorias, con esclusión de todo otro.
 
-Art. 54. Ninguna de las Cámaras puede entrar en sesión sin la concurrencia de la mayoría absoluta de los miembros de que debe componerse.
+Art. 54. La Cámara de Senadores no podrá entrar en sesión ni continuar en ella sin la concurrencia de la tercera parte de sus miembros, ni la Cámara de Diputados sin la cuarta parte de los suyos.
 
 Art. 55. Si el día señalado por la Constitución para abrir las sesiones ordinarias, se hallase el Congreso en sesiones estraordinarias, cesarán éstas, i continuará tratando en sesiones ordinarias de los negocios para que había sido convocado.
 
