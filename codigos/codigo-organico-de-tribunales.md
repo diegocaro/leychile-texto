@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1945-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1945-06-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1945-03-01
-fetched_at: 2026-08-03T00:08:31.348570+00:00
+version_date: 1945-06-21
+fetched_at: 2026-08-03T00:08:43.363663+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -121,7 +121,7 @@ Art. 19. Si dentro de la sala de despacho del juez de distrito y mientras ejerce
 
 Art. 20. En los distritos que estén fuera de la cabecera del departamento, deberán los jueces de distrito, en conformidad al Art. 26 del Código de Procedimiento Penal, de oficio o a petición de parte, practicar las primeras diligencias de instrucción del sumario para la averiguación y castigo de los delitos que se cometan dentro del mismo, sin perjuicio de dar inmediato aviso al tribunal a quien por la ley corresponda el conocimiento del asunto.
 En la formación de estos sumarios procederán con la asistencia del ministro de fe o de los testigos de que trata el art. 22.
-Estos mismos jueces, en los distritos donde no resida el juez de subdelegación, serán competentes para conocer de las faltas indicadas en los arts. 107, 108 y 109 de la Ley sobre Alcoholes y Bebidas Alcohólicas.
+Inciso derogado.
 
 Art. 21. Son obligados los jueces de distrito a llevar y conservar en su poder dos libros: uno en materia civil y otro en materia penal, en los cuales se dejará copia íntegra de las sentencias y de todo avenimiento o transacción que ponga término al juicio, con la firma del juez de la causa y del actuario.
 Estos libros se entregarán en los primeros días de Marzo de cada año, para su custodia, al archivero del departamento, si lo hubiere, y en su defecto, al notario que sirviere en el oficio más antiguo.
@@ -146,7 +146,7 @@ Los jueces de subdelegación de las ciudades cabeceras de departamento no tendr�
 Art. 26. A los jueces de subdelegación corresponden las atribuciones propias de ministro de fe que el Código Civil y otras leyes confirieron a los subdelegados con anterioridad al 1° de Marzo de 1876 y que no hayan sido derogadas.
 
 Art. 27. Son aplicables a los jueces de subdelegación las disposiciones de los artículos 15, 16, 17, 18, 19, 20, incisos 1° y 2°, 21, 22 y 23 de este Código.
-Los jueces de subdelegación que estén fuera de las ciudades cabeceras de departamento serán, además, competentes para conocer de las faltas indicadas en los artículos 107, 108 y 109 de la Ley sobre Alcoholes y Bebidas Alcohólicas que se cometan en los distritos en donde tengan su asiento.
+Inciso derogado.
 
 ## TITULO III
 De los Jueces de Letras
@@ -203,15 +203,11 @@ Será competente para conocer de estos juicios el juez del lugar donde hubiere o
 Si el valor del cheque excediere de diez mil pesos, podrá pedirse la notificación al juez que habrá de conocer del cobro.
 4°) De las cuestiones civiles valorizables hasta diez mil pesos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
 
-Art. 39. Habrá en Santiago un Juez de Letras de Menor Cuantía en lo Criminal, con jurisdicción sobre los territorios municipales de las comunas-subdelegaciones de Santiago, Providencia y Ñuñoa.
-Este juzgado conocerá:
-1°) En primera instancia:
-a) De las faltas sancionadas por los artículos 494 N.os 5, 7, 12, 16, 19, 20 y 21; 495 N.os 3, 15, 21 y 22; 496 N.os 1, 8, 11, 18, 28, 31, 32 y 33; y 497 del Código Penal;
-b) De las infracciones a la Ley de Alcoholes relativas a la embriaguez, de que trata el Título I del Libro II de dicha ley;
-c) De las demás infracciones que sean sancionadas en leyes especiales con pena de falta y cuyo conocimiento no esté entregado a autoridades distintas de jueces del crimen; y
-d) De las infracciones a que se refiere el párrafo 13 del Título VI del Libro II del Código Penal sobre vagancia y mendicidad.
-2°) En segunda instancia, de las apelaciones que se interpongan en contra de las sentencias dictadas por los jueces inferiores del departamento, conociendo de las causas a que se refieren los incisos finales de los artículos 20 y 27 de este Código.
-3°) De los recursos de casación en la forma que se interpongan en contra de las sentencias indicadas en el número anterior.
+Art. 39. Habrá en Santiago un Juez de Letras de Menor Cuantía en lo Criminal con jurisdicción sobre el territorio municipal de la comuna-subdelegación de Santiago. Este Juzgado conocerá en primera instancia:
+1) De las faltas sancionadas por los artículos 494 N.os 5, 7, 12, 16, 19, 20 y 21; 495 N.os 3, 15, 21 y 22; 496 N.os 1, 8, 11, 18, 28, 31, 32 y 33; y 497 del Código Penal;
+2) De las infracciones a la Ley de Alcoholes relativas a la embriaguez, de que trata el Título I del Libro II de dicha ley;
+3) De las demás infracciones que sean sancionadas en leyes especiales con pena de falta y cuyo conocimiento no esté entregado a autoridades distintas de jueces del crimen; y
+4) De las infracciones a que se refiere el párrafo 13 del Título VI del Libro II del Código Penal sobre vagancia y mendicidad.
 
 Art. 40. Habrá en la ciudad de Quillota un juez de letras de menor cuantía con jurisdicción sobre todo el departamento, con excepción del conocimiento de aquellas causas sometidas al juez de letras de menor cuantía de La Calera.
 Este juez conocerá en única instancia de las causas civiles y de comercio hasta mil pesos, y en primera de las que excedan de esta suma y no sean superiores a diez mil.
@@ -240,17 +236,16 @@ Deberán fallar en única instancia los juicios de arrendamiento a que se ha alu
 2°) En primera instancia:
 a) De las causas de minas, cualquiera que sea su cuantía. Se entiende por causa de minas aquella en que ventilen derechos regidos especialmente por el Código de Minería.
 b) De los actos judiciales no contenciosos, cualquiera que sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil y en el artículo 33 de este Código;
-c) De las causas criminales por crimen o simple delito, salvo de aquellas cuyo conocimiento corresponde a los jueces de letras de menor cuantía;
-d) De las causas por faltas sancionadas en los artículos 494, número 19, y 495, números 21 y 22 del Código Penal, sin perjuicio de lo dispuesto en el artículo 39;
+c) De las causas criminales por crimen o simple delito, salvo de aquellas cuyo conocimiento corresponde a los jueces de letras de menor cuantía y a los Juzgados de Policía Local para el juzgamiento de los delitos de vagancia y mendicidad que se cometan fuera de la ciudad en que tiene su asiento el Tribunal;
+d) De las causas por faltas sancionadas en los artículos 494, número 19, y 495, números 21 y 22 del Código Penal que se cometan en la ciudad donde tiene su asiento el Tribunal, sin perjuicio de lo dispuesto en el artículo 39;
 e) De las faltas sancionadas en los artículos 107, 108 y 109 de la Ley sobre Alcoholes y Bebidas Alcohólicas, cometidas en la ciudad donde tiene su asiento el tribunal, sin perjuicio de la competencia que en esta materia corresponde al juez de letras de menor cuantía en lo criminal de Santiago;
 f) De las demás infracciones sancionadas por el Libro II de la precitada ley, salvo de aquéllas cuyo conocimiento corresponde a los jueces de letras de menor cuantía.
 g) De las causas civiles cuya cuantía sea inferior a la señalada en la letra a) del número primero de este artículo y de las de comercio cuyo conocimiento corresponde a los jueces de letras de menor cuantía, en que sean parte o tengan interés el Comandante en Jefe del Ejército, el Director General de la Armada, el Comandante en Jefe de la Fuerza Aérea, los Generales en Jefe de Ejército o Armada, los Ministros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos tribunales, los jueces letrados, los párrocos y vicepárrocos, los cónsules generales, cónsules o vicecónsules de las naciones extranjeras reconocidas por el Presidente de la República, las corporaciones y fundaciones de derecho público o los establecimientos públicos de beneficencia.
 3°) En segunda instancia:
 a) De las causas civiles de que hayan conocido en primera los jueces de subdelegación del departamento, salvo lo dispuesto en los artículos 37 y 40;
-b) De las causas por faltas sancionadas en los artículos 107, 108 y 109 de la Ley de Alcoholes y Bebidas Alcohólicas de que hubieren conocido los jueces de distrito o subdelegación del departamento, sin perjuicio de lo dispuesto en el artículo 39;
-c) De las causas por faltas o contravenciones falladas por los alcaldes o los jueces de policía local, con arreglo al artículo 30 de la ley 6827, de 28 de Febrero de 1941;
-d) De las causas de que hayan conocido los juzgados de abastos.
-4°) En única instancia de los recursos de casación en la forma en contra de las sentencias recaídas en las causas a que se refieren las letras a) y b) del número anterior.
+b) De las causas por faltas o contravenciones falladas por los alcaldes o los jueces de policía local, con arreglo al artículo 30 de la ley 6827, de 28 de Febrero de 1941;
+c) De las causas de que hayan conocido los juzgados de abastos.
+4°) En única instancia de los recursos de casación en la forma en contra de las sentencias recaídas en las causas a que se refiere la letra a) del número anterior.
 5°) De los delitos sancionados en la Ley de Elecciones y de los demás asuntos que otras leyes les encomienden.
 
 Art. 46. Los jueces de letras de mayor cuantía de capital de provincia conocerán en primera instancia:
@@ -270,7 +265,7 @@ De los Presidentes y Ministros de Corte como tribunales unipersonales
 
 Art. 50. Un Ministro de la Corte de Apelaciones respectiva, según el turno que ella fije, conocerá en primera instancia de los siguientes asuntos:
 1°) De las causas por los delitos contra la Seguridad Interior del Estado a que se refiere la ley 6026, de 12 de Febrero de 1937; de los delitos de los Títulos II y VI, párrafo 19 del Libro II del Código Penal, y de los delitos de los Títulos IV y V, párrafo I, del Código de Justicia Militar, cuando dichos delitos sean cometidos exclusivamente por civiles.
-2°) De las causas civiles y criminales en que sean parte o tengan interés el Presidente de la República, los ex-Presidentes de la República, los Ministros de Estado, los Intendentes de Provincia y Gobernadores de Departamento, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
+2°) De las causas civiles y de las criminales por crímenes o simples delitos en que sean parte o tengan interés el Presidente de la República, los ex-Presidentes de la República, los Ministros de Estado, los Intendentes de Provincia y Gobernadores de Departamento, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
 La circunstancia de ser accionista de sociedades anónimas las personas designadas en este número, no se considerará como una causa suficiente para que un Ministro de la Corte de Apelaciones conozca en primera instancia de los juicios en que aquéllas tengan parte, debiendo éstos sujetarse en su conocimiento a las reglas generales.
 3°) De las causas por delitos comunes en que sean parte o tengan interés los miembros de la Corte Suprema, los de las Cortes de Apelaciones, los Fiscales de estos tribunales y los jueces letrados de las ciudades de asiento de las Cortes de Apelaciones.
 4°) De las acusaciones o demandas civiles que se entablen contra los jueces de letras para hacer efectiva la responsabilidad criminal o civil resultante del ejercicio de sus funciones ministeriales.
