@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1979-07-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1979-09-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1979-07-01
-fetched_at: 2026-08-03T00:30:17.084994+00:00
+version_date: 1979-09-29
+fetched_at: 2026-08-03T00:30:29.094453+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -454,7 +454,7 @@ Las mismas penas se aplicarán a los contribuyentes afectos al Impuesto a las Ve
 7°.- El hecho de no llevar la contabilidad o los libros auxiliares exigidos por la Dirección Regional de acuerdo con las disposiciones legales, o de mantenerlos atrasados, o de llevarlos en forma distinta a la ordenada o autorizada por la ley, y siempre que no se dé cumplimiento a las obligaciones respectivas dentro del plazo que señale el Servicio, que no podrá ser inferior a diez días, con multa de un cinco por ciento al cincuenta por ciento de una unidad tributaria anual.
 8°.- El comercio ejercido a sabiendas sobre mercaderías, valores o especies de cualquiera naturaleza sin que se hayan cumplido las exigencias legales relativas a la declaración y pago de los impuestos que graven su producción o comercio, con multa del cuarenta por ciento al doscientos por ciento de los impuestos eludidos y con presidio o relegación menores en sus grados mínimo o medio. La reincidencia será sancionada con pena de presidio menor en sus grados medio a máximo.
 9°.- El ejercicio efectivamente clandestino del comercio o de la industria con multa del treinta por ciento al doscientos por ciento de una unidad tributaria anual y con presidio o relegación menores en sus grados mínimo a medio y, además, con el comiso de los productos en instalaciones de fabricación y envases respectivos.
-10°.- El no otorgamiento de facturas o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas sin el timbre fijo correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa de 5 veces el monto de la operación, con un mínimo de 5 unidades tributarias mensuales
+10°.- El no otorgamiento de guías de despacho de facturas o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas o guías de despacho sin el timbre fijo correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa de 5 veces el monto de la operación, con un mínimo de 5 unidades tributarias mensuales
 En el caso de las infracciones señaladas en el inciso primero, éstas deberán ser, además, sancionadas con clausura de hasta 20 días de la oficina, estudio, establecimiento o sucursal en que hubiere cometido la infracción.
 La reiteración de las infracciones señaladas en el inciso primero se sancionará además con presidio o relegación menores en su grado medio. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a tres años.
 Para los efectos de aplicar la clausura, el Servicio podrá requerir el auxilio de la fuerza pública, la que será concedida sin ningún trámite previo por el Cuerpo de Carabineros, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario. En todo caso, se pondrán sellos oficiales y carteles en los establecimientos clausurados.
@@ -472,14 +472,9 @@ a) Dar aviso al Servicio dentro de las 48 horas siguientes, y
 b) Reconstituir la contabilidad dentro del plazo y conforme a las normas que fije el Servicio, plazo que no podrá ser inferior a treinta días.
 En todo caso, la pérdida o inutilización de los libros de contabilidad suspenderá la prescripción establecida en el artículo 200°, hasta la fecha en que los libros legalmente reconstituidos queden a disposición del Servicio.
 Para los efectos previstos en el inciso primero de este número se entenderá por capital efectivo el definido en el artículo 2°, N° 5 de la Ley de Impuesto a la Renta.
-17°.- Caerán en comiso:
-a) Derogado.
-b) Los mismos productos que se movilicen o transporten sin sus documentos legales o con documentos que hayan sido adulterados o no correspondan al producto que se moviliza o transporta;
-c) Los alcoholes y bebidas alcohólicas cuyo origen o procedencia no puedan justificarse al ser controlados;
-d) Derogado.
-Se aplicará al infractor, además, y sin perjuicio del pago del tributo que proceda, una multa de un diez por ciento al doscientos por ciento de una unidad tributaria anual.
-La adulteración y la falsificación a que se refieren las letras b) y d) de este número serán sancionadas, además, con presidio menor en su grado medio.
-Las sanciones pecuniarias que se establecen en este número podrán aplicarse incluso al mero tenedor del producto.
+17°.- La movilización o traslado de bienes corporales muebles realizado en vehículos destinados al transporte de carga sin la correspondiente guía de despacho o factura, otorgadas en la forma exigida por las leyes, será sancionado con una multa del 10% al 200% de una unidad tributaria anual.
+Sorprendida la infracción, el vehículo no podrá continuar hacia el lugar de destino mientras no se exhiba la guía de despacho o factura correspondiente a la carga movilizada, pudiendo, en todo caso, regresar a su lugar de origen. Esta sanción se hará efectiva con la sola notificación del acta de denuncio y en su contra no procederá recurso alguno.
+Para llevar a efecto la medida de que trata el inciso anterior, el funcionario encargado de la diligencia podrá recurrir al auxilio de la fuerza pública, la que le será concedida por el Jefe de Carabineros más inmediato sin más trámite, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario.
 18°.- Los que compren y vendan fajas de control de impuestos o entradas a espectáculos públicos en forma ilícita, serán sancionados con multa de uno a diez unidades tributarias anuales y con presidio menor en su grado medio.
 La sanción pecuniaria establecida en el inciso precedente podrá hacerse efectiva indistintamente en contra del que compre, venda o mantenga fajas de control y entradas a espectáculos públicos en forma ilícita.
 19°.- El incumplimiento de la obligación de exigir el otorgamiento de la factura o boleta, en su caso, y retirarla del local o establecimiento del emisor, será sancionada con multa de hasta una unidad tributaria mensual, previos los trámites del procedimiento contemplado en el artículo 165 de este Código, y sin perjuicio de que al sorprenderse la infracción, el funcionario del Servicio pueda solicitar el auxilio de la fuerza pública para obtener la debida identificación del infractor, dejándose constancia en la unidad policial respectiva.
@@ -777,14 +772,18 @@ El denunciante no será considerado como parte ni tendrá derecho alguno en raz�
 ###### Párrafo 2°.
 Procedimientos especiales para la aplicación de ciertas multas
 
-Artículo 165.- Las denuncias por las infracciones sancionadas en los números 1°, 2°, 6°, 7°, 10°, 11° y 19°, del artículo 97, se someterán al procedimiento que a continuación se señala:
-1°- Las multas establecidas en los números 1°, 2° y 11°, del artículo 97, por atraso u omisión en declarar o por mora en el pago serán aplicadas por el Servicio o por la Tesorería según proceda, sin otro trámite que el de girarlas en el caso de atraso en la declaración o de cobrarlas conjuntamente con el impuesto cuando éste se entere en arcas fiscales.
-2°- En los casos a que se refieren los números 6°, 7°, 10° y 19°, del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio al sorprender la infracción, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
+Artículo 165.- Las denuncias por las infracciones sancionadas en los números 1°, 2°, 6°, 7°, 10°, 11° y 17, 19°, del artículo 97, se someterán al procedimiento que a continuación se señala:
+1°- Las multas establecidas en los números 1°, 2° y 11°, del artículo 97, por atraso u omisión en declarar o por mora en el pago serán aplicadas por el Servicio o por la Tesorería según proceda, sin otro trámite que el de girarlas
+NOTA
+en el caso de atraso en la declaración o de cobrarlas conjuntamente con el impuesto cuando éste se entere en arcas fiscales.
+2°- En los casos a que se refieren los números 6°, 7°, 10° y 17, 19°, del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio al sorprender la infracción, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
 3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar verbalmente o por escrito, dentro del plazo de cinco días, contado desde la notificación del giro o de la infracción, en su caso, ante el Administrador de Zona de su jurisdicción.
 4°- Junto al reclamo deberán acompañarse y producirse todas las pruebas que el interesado pretenda rendir. La prueba se apreciará en conciencia.
 5°- El reclamo deberá ser resuelto en el acto por el Administrador de Zona o a más tardar dentro de tercero día, y la resolución que se dicte no será susceptible de recurso alguno.
 6°- La iniciación del procedimiento y la aplicación de sanciones pecuniarias no constituirán impedimento para el ejercicio de la acción penal que corresponda.
 7°- Los Administradores de Zona podrán delegar las funciones y la facultad que se señala en los números 3° y 5° de este artículo en el Subadministrador, Jefes de Sección y/o Jefes de Inspección de su jurisdicción.
+NOTA
+Las letras c) y d) del Art. 8° del DL 2869, Hacienda, publicado el 29.09.1979, reemplazaron en el inciso primero y en el N° 2 la conjunción "y" por una coma, y agregaron a continuación de los números 11 y 10, respectivamente, lo siguiente: "y 17".
 
 ###### Párrafo 3°.
 De las denuncias por infracciones a los impuestos a las asignaciones por causa de muerte y a las donaciones
