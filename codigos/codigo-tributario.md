@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1991-12-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1992-08-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1991-12-30
-fetched_at: 2026-08-03T00:52:04.782219+00:00
+version_date: 1992-08-13
+fetched_at: 2026-08-03T00:53:59.647353+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -317,7 +317,7 @@ La citación producirá el efecto de aumentar los plazos de prescripción en los
 
 Artículo 64.- El Servicio podrá tasar la base imponible, con los antecedentes que tenga en su poder, en caso que el contribuyente no concurriere a la citación que se le hiciere de acuerdo con el artículo 63° o no contestare o no cumpliere las exigencias que se le formulen, o al cumplir con ellas no subsanare las deficiencias comprobadas o que en definitiva se comprueben.
 Asimismo, el Servicio podrá proceder a la tasación de la base imponible de los impuestos, en los casos del inciso 2° del artículo 21 y del artículo 22.
-Cuando el precio o valor asignado al objeto de la enajenación de una especie mueble sirva de base o sea uno de los elementos para determinar un impuesto, el Servicio, sin necesidad de citación previa, podrá tasar dicho precio o valor en los casos en que éste sea notoriamente inferior a los corrientes en plaza, considerando las circunstancias en que se realiza la operación.
+Cuando el precio o valor asignado al objeto de la enajenación de una especie mueble, corporal o incorporal, o al servicio prestado, sirva de base o sea uno de los elementos para determinar un impuesto, el Servicio, sin necesidad de citación previa, podrá tasar dicho precio o valor en los casos en que éste sea notoriamente inferior a los corrientes en plaza o de los que normalmente se cobren en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación.
 En igual forma, en todos aquellos casos en que proceda aplicar impuestos cuya determinación se basa en el precio o valor de bienes raíces, el Servicio de Impuestos Internos podrá tasar dicho precio o valor, si el fijado en el respectivo acto o contrato fuere notoriamente inferior al valor comercial de los inmuebles de características y ubicación similares, en la localidad respectiva, y girar de inmediato y sin otro trámite previo el impuesto correspondiente. De la tasación y giro sólo podrá reclamarse simultáneamente dentro del plazo de 30 días contado desde la fecha de la notificación de este último.
 La reclamación que se deduzca se sujetará al procedimiento general establecido en el Título II del Libro III de este Código.
 
