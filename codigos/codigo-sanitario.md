@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1992-08-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1993-09-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1992-08-27
-fetched_at: 2026-08-03T00:54:05.651949+00:00
+version_date: 1993-09-22
+fetched_at: 2026-08-03T00:56:23.100849+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -614,13 +614,17 @@ Artículo 129°.- Las instalación, ampliación, modificación
 NOTA:
 o traslado de establecimientos públicos y particulares de
 NOTA 1:
-asistencia médica, tales como hospitales, maternidades, clínicas, policlínicas, sanatorios, asilos, casas de reposo, establecimientos de óptica, laboratorios clínicos, institutos de fisioterapia y psicoterapia, será autorizada por el Servicio Nacional de Salud, a quien corresponderá también vigilar su funcionamiento.
+asistencia médica, tales como hospitales, maternidades, clínicas, policlínicas, sanatorios, asilos, casas de reposo,
+NOTA 2:
+establecimientos de óptica, laboratorios clínicos, institutos de fisioterapia y psicoterapia, será autorizada por el Servicio Nacional de Salud, a quien corresponderá también vigilar su funcionamiento.
 Igualmente, corresponde al Servicio Nacional de Salud vigilar el funcionamiento de peluquerías, institutos de belleza, gabinete de pedicuría y otros establecimientos similares.
 La dirección técnica de los establecimientos señalados en el inciso primero, estará a cargo de profesionales con el título que, en cada caso, determine el Servicio Nacional de Salud.
 NOTA:
 Véase el Decreto 161, Salud, publicado el 19.11.1982, que establece el Reglamento de Hospitales y Clínicas Privadas.
 NOTA 1:
 Véase el Decreto 334, Salud, publicado el 27.10.1983, que aprueba el Reglamento de Casas de Reposo, Asilos y otros Establecimientos Similares.
+NOTA 2:
+Véase el Decreto 433, Salud, publicado el 22.09.1993, sobre Laboratorios Clínicos.
 
 ## LIBRO VII
 DE LA OBSERVACION Y RECLUSION DE LOS ENFERMOS MENTALES, DE LOS ALCOHOLICOS Y DE LOS QUE PRESENTEN ESTADO DE DEPENDENCIA DE OTRAS DROGAS Y SUBSTANCIAS
