@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2002-07-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2003-12-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2002-07-11
-fetched_at: 2026-08-03T01:19:01.905425+00:00
+version_date: 2003-12-20
+fetched_at: 2026-08-03T01:22:53.196162+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1901,7 +1901,8 @@ Entrada en vigencia de este Código
 
 Artículo 483.- Aplicación de las disposiciones del Código. Las disposiciones de este Código sólo se aplicarán a los hechos acaecidos con posterioridad a su entrada en vigencia.
 
-Artículo 484.- Entrada en vigencia respecto de hechos acaecidos en el territorio nacional. Este Código comenzará a regir, para las distintas Regiones del país, al término de los plazos que establece el artículo 4º transitorio de la Ley Nº 19.640, Orgánica Constitucional del Ministerio Público. En consecuencia, regirá para las regiones de Coquimbo y de la Araucanía, desde el 16 de diciembre de 2000; para las regiones de Antofagasta, Atacama y del Maule, desde el 16 de octubre de 2001; para las regiones de Tarapacá, de Aisén del General Carlos Ibáñez del Campo y de Magallanes y de la Antártica Chilena, desde el 16 de diciembre de 2002; para las regiones de Valparaíso, del Libertador General Bernardo O'Higgins, del Bío Bío y de Los Lagos, desde el 16 de diciembre de 2003, y para la Región Metropolitana de Santiago, desde el 16 de diciembre de 2004.
+Artículo 484.- Entrada en vigencia respecto de hechos acaecidos en el territorio nacional. Este Código comenzará a regir, para las distintas Regiones del país, al término de los plazos que establece el artículo 4º transitorio de la Ley Nº 19.640, Orgánica Constitucional del Ministerio Público.
+En consecuencia, regirá para las regiones de Coquimbo y de la Araucanía, desde el 16 de diciembre de 2000; para las regiones de Antofagasta, Atacama y del Maule, desde el 16 de octubre de 2001; para las regiones de Tarapacá, de Aisén del General Carlos Ibáñez del Campo y de Magallanes y de la Antártica Chilena, desde el 16 de diciembre de 2002; para las regiones de Valparaíso, del Libertador General Bernardo O'Higgins, del Bío Bío y de Los Lagos, desde el 16 de diciembre de 2003, y para la Región Metropolitana de Santiago, desde el 16 de junio de 2005.
 
 Artículo 485.- Entrada en vigencia respecto de hechos acaecidos en el extranjero. Este Código se aplicará a partir de su entrada en vigencia en la Región Metropolitana de Santiago, respecto de aquellos hechos que acaecieren en el extranjero y fueren de competencia de los tribunales nacionales.
 Asimismo, se aplicará a partir de esa fecha, a las solicitudes de extradición pasiva y detención previa a las mismas que recibiere la Corte Suprema. En consecuencia, los Ministros de esa Corte a quienes, en virtud del artículo 52, Nº3, del Código Orgánico de Tribunales, correspondiere conocer las extradiciones pasivas solicitadas con anterioridad, continuarán aplicando el procedimiento establecido en el Código de Procedimiento Penal.
