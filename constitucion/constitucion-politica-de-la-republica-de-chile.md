@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1999-06-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1999-10-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 1999-06-16
-fetched_at: 2026-08-05T02:29:22.346321+00:00
+version_date: 1999-10-02
+fetched_at: 2026-08-05T02:29:40.351500+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -145,6 +145,7 @@ Cada persona tendrá el derecho a elegir el sistema de salud al que desee acoger
 10º.- El derecho a la educación.
 La educación tiene por objeto el pleno desarrollo de la persona en las distintas etapas de su vida.
 Los padres tienen el derecho preferente y el deber de educar a sus hijos. Corresponderá al Estado otorgar especial protección al ejercicio de este derecho.
+El Estado promoverá la educación parvularia.
 La educación básica es obligatoria, debiendo el Estado financiar un sistema gratuito con tal objeto, destinado a asegurar el acceso a ella de toda la población.
 Corresponderá al Estado, asimismo, fomentar el desarrollo de la educación en todos sus niveles; estimular la investigación científica y tecnológica, la creación artística y la protección e incremento del patrimonio cultural de la Nación.
 Es deber de la comunidad contribuir al desarrollo y perfeccionamiento de la educación.
