@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2000-04-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2001-09-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2000-04-29
-fetched_at: 2026-08-03T01:10:40.684199+00:00
+version_date: 2001-09-13
+fetched_at: 2026-08-03T01:16:11.995391+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -224,6 +224,8 @@ Este aviso se remitirá por escrito inmediatamente después de practicada la ins
 DE LA DIVULGACION Y EDUCACION SANITARIA
 
 Artículo 51°.- El Servicio Nacional de Salud deberá capacitar al individuo y a los grupos sociales mediante acciones educativas, tendientes a compenetrarlos de su responsabilidad en los problemas de salud personal y de la comunidad y para estimular su participación activa en la solución de ellos.
+NOTA:
+Véase el Decreto 214, Salud, publicado el 13.09.2001, que dicta normas sobre auspicios y patrocinios del Ministerio de Salud a actividades de difusión en Salud de las personas o del ambiente.
 
 Artículo 52°.- Las instituciones educacionales y las empresas informativas del Estado o particulares, deberán coordinar los programas que digan relación con salud u otros similares, con los del Servicio, cuando éste lo solicite.
 
