@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1984-02-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1984-05-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1984-02-20
-fetched_at: 2026-08-03T00:39:16.353578+00:00
+version_date: 1984-05-04
+fetched_at: 2026-08-03T00:39:40.371232+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -182,9 +182,7 @@ Las clausuras realizadas por el Cuerpo de Carabineros no podrán ser alzadas sin
 ### TITULO III
 DE LOS LABORATORIOS DE SALUD PUBLICA
 
-Artículo 42°.- El Servicio Nacional de Salud es
-NOTA
-tablecerá en los puntos del territorio de la República que sea necesario, los laboratorios indispensables para realizar los análisis e investigaciones que se estimen apropiadas para proteger y mantener la salud pública.
+Artículo 42°.- El Servicio Nacional de Salud establecerá en los puntos del territorio de la República que sea necesario, los laboratorios indispensables para realizar los análisis e investigaciones que se estimen apropiadas para proteger y mantener la salud pública.
 NOTA
 Véase el Capítulo IV, Arts. 35 a 45, del Decreto Ley 2763, Salud, publicado el 03.08.1979, que crea el Instituto de Salud Pública de Chile "Dr. Eugenio Suárez Herreros", como continuador legal, con todos sus derechos y obligaciones, del ex Servicio Nacional de Salud, en lo referente al ex Instituto Bacteriológico de Chile.
 
@@ -364,12 +362,11 @@ Artículo 81°.- Los vehículos y sistemas de transporte de materiales que, a ju
 ### TITULO III
 DE LA HIGIENE Y SEGURIDAD DE LOS LUGARES DE TRABAJO
 
-Artículo 82°.- El Reglamento comprenderá normas como las que se refieren a:
+Artículo 82.- El reglamento comprenderá normas como las que se refieren a:
 a) las condiciones de higiene y seguridad que deben reunir los lugares de trabajo, los equipos, maquinarias, instalaciones, materiales y cualquier otro elemento, con el fin de proteger eficazmente la vida, la salud y bienestar de los obreros y empleados y de la población en general;
 b) las medidas de protección sanitaria y de seguridad que deben adoptarse en la extracción, elaboración y manipulación de substancias producidas o utilizadas en los lugares en que se efectúe trabajo humano;
-c) las condiciones de higiene y seguridad que deben reunir los equipos de protección personal y la obligación de su uso, y
-d) las condiciones de seguridad que deben adoptarse en el uso de las radiaciones ionizantes, de los isótopos radioactivos y en la disposición de los residuos radioactivos.
-NOTA
+c) las condiciones de higiene y seguridad que deben reunir los equipos de protección personal y la obligación de su uso.
+NOTA:
 Véase el Decreto 655, Trabajo, publicado el 07.03.1941, que fija el Reglamento General de Higiene y Seguridad Industriales.
 
 Artículo 83°.- Las Municipalidades no podrán autorizar la instalación, ampliación o traslado de industrias, sin informe previo favorable del Servicio Nacional de Salud. Para evacuar dicho informe, la autoridad sanitaria tomará en cuenta los planos reguladores comunales o intercomunales y los peligros o molestias que el funcionamiento de la industria pueda ocasionar a sus obreros y empleados, al vecindario y a la comunidad o a sus bienes.
@@ -379,7 +376,16 @@ La autoridad sanitaria no podrá exigir el traslado antes del plazo de un año, 
 
 Artículo 85°.- Los planos reguladores comunales o intercomunales no podrán ser aprobados sin previo informe favorable del Servicio Nacional de Salud, respecto a las materias de que trata el presente título.
 
-Artículo 86°.- No podrán funcionar sin autorización del Servicio Nacional de Salud los establecimientos docentes, comerciales, industriales o mineros, en que se utilicen y manipulen substancias radioactivas o equipos que generen radiaciones ionizantes.
+Artículo 86.- Corresponderá a los Servicios de Salud, dentro de
+NOTA:
+l territorio de su competencia, otorgar la autorización previa para que puedan funcionar en él, instalaciones radiactivas, entendiéndose por tales aquellas
+NOTA:
+en que se produzcan, traten, manipulen, almacenen o utilicen materiales radiactivos o equipos que generen radiaciones ionizantes.
+La producción, fabricación, adquisición, posesión, uso, manipulación, almacenamiento, importación, exportación, distribución, venta, transporte, abandono o desecho de sustancias radiactivas que se utilicen o mantengan en las instalaciones radiactivas o en los equipos generadores de radiaciones ionizantes, deberán ser autorizados por dichos Servicios. Les corresponderá, asimismo, el control de las instalaciones radiactivas y de los equipos generadores de radiaciones ionizantes; y la prevención de los riesgos derivados del uso y aplicación de las sustancias radiactivas y de las radiaciones ionizantes, respecto de las personas expuestas, del elemento que las genera y del medio ambiente.
+Las personas que se desempeñen en las instalaciones radiactivas, utilizando o manipulando sustancias radiactivas u operando equipos o aparatos generadores de radiaciones ionizantes, deberán tener autorización del Servicio de Salud correspondiente.
+NOTA:
+Los incisos 2° y 3° del Art. 67 de la LEY 18302, publicada el 02.05.1984, sobre Seguridad Nuclear, complementan esta disposición estableciendo que: "corresponderá a los Servicios de Salud, conforme a las disposiciones del Código Sanitario, la autorización y el control de la aplicación y el manejo de las sustancias radiactivas en instalaciones radiactivas o en equipos generadores de radiaciones ionizantes, y la prevención de los riesgos derivados de su uso y manipulación.
+Sin embargo, competerá a la Comisión Chilena de Energía Nuclear la autorización, el control y la prevención de riesgos respecto de las instalaciones radiactivas que se encuentren dentro de una instalación nuclear, y de las que, conforme al reglamento, sean declaradas de primera categoría."
 
 Artículo 87°.- El Servicio Nacional de Salud tendrá a su cargo la recopilación y análisis de los datos estadísticos referentes a los accidentes y enfermedades profesionales, los que le deberán ser proporcionados por el empleador, en la forma y con la periodicidad que él señale.
 Las enfermedades profesionales serán notificadas por el médico que las constate, en la forma y condiciones que el Servicio Nacional de Salud establezca.
@@ -408,7 +414,7 @@ Véase el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para
 #### Párrafo II
 DE LAS SUBSTANCIAS TOXICAS O PELIGROSAS PARA LA SALUD
 
-Artículo 90°.- El Reglamento fijará las condiciones en que podrá realizarse la producción, importación, expendio, tenencia, transporte, distribución, utilización y eliminación de las substancias tóxicas y productos peligrosos de carácter corrosivo o irritante, inflamable o comburente; explosivos de uso pirotécnico y substancias radioactivas que signifiquen un riesgo para la salud, la seguridad o el bienestar de los seres humanos y animales.
+Artículo 90°.- El Reglamento fijará las condiciones en que podrá realizarse la producción, importación, expendio, tenencia, transporte, distribución, utilización y eliminación de las substancias tóxicas y productos peligrosos de carácter corrosivo o irritante, inflamable o comburente; explosivos de uso pirotécnico y demás sustancias que signifiquen un riesgo para la salud, la seguridad o el bienestar de los seres humanos y animales.
 Los productos señalados en el inciso anterior no podrán ser importados o fabricados en el país, sin autorización previa de la Dirección General de Salud.
 El Director General de Salud queda facultado para controlar y prohibir en casos calificados el expendio de tales substancias y productos, cuyo uso indiscriminado pueda dar origen a accidentes o intoxicaciones, así como para decomisarlos si las circunstancias lo requieren.
 
