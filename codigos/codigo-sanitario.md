@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1996-01-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1996-07-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1996-01-26
-fetched_at: 2026-08-03T01:01:39.887653+00:00
+version_date: 1996-07-09
+fetched_at: 2026-08-03T01:02:21.934870+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -691,34 +691,29 @@ Artículo 143°.- Los fallecimientos deberán ser inscritos en el Registro Civil
 Artículo 144°.- La exhumación, transporte internacional, internación y traslado de una localidad a otra del territorio nacional de cadáveres o restos humanos, sólo podrá efectuarse con autorización del Director General de Salud. Las exhumaciones que decrete la Justicia Ordinaria se exceptúan de esta obligación.
 
 ## LIBRO IX
-DEL APROVECHAMIENTO DE ORGANOS, TEJIDOS O PARTES DEL CUERPO DE UN DONANTE VIVO Y DE LA UTILIZACION DE CADAVERES O PARTE DE ELLOS CON FINES CIENTIFICOS O TERAPEUTICOS
+DEL APROVECHAMIENTO DE TEJIDOS O PARTES DEL CUERPO DE UN DONANTE VIVO Y DE LA UTILIZACION DE CADAVERES O PARTE DE ELLOS CON FINES CIENTIFICOS O TERAPEUTICOS
 NOTA
 NOTA
 Véase el Reglamento de este Libro IX, aprobado por Decreto 240, Salud, publicado el 03.12.1983.
 
-Artículo 145°. El aprovechamiento de órganos, tejidos o partes del cuerpo de un donante vivo para su injerto o trasplante en otra persona, sólo se permitirá cuando fuere a título gratuito y con fines terapéuticos, y se cumplan, además, los siguientes requisitos:
-1.- Que el donante sea legalmente capaz. No obstante, podrá efectuar estas donaciones la mujer casada en régimen de sociedad conyugal, siempre que sea mayor de edad, y
-2.- Que el donante, previamente informado, deje constancia en un acta firmada ante el director del establecimiento hospitalario donde se va a efectuar el trasplante, de su voluntad de efectuar la donación. El acta será también suscrita por el médico que informe al donante sobre los riesgos que corre con motivo del trasplante. El reglamento señalará las materias esenciales que deba contener dicha información, de la que se dejará, asimismo, constancia en el acta.
+Artículo 145°.- El aprovechamiento de tejidos o partes del cuerpo de un donante vivo, para su injerto en otra persona, sólo se permitirá cuando fuere a título gratuito y con fines terapéuticos.
 
-Artículo 146°.- Toda persona legalmente capaz y las mujeres casadas en régimen de sociedad conyugal que sean mayores de edad, tienen derecho a disponer de su cadáver o de partes de él con el objeto de que sea utilizado en fines de investigación científica, para la docencia universitaria, para la elaboración de productos terapéuticos o en la realización de injertos.
-También podrá destinarlo para trasplantes de órganos con fines terapéuticos.
-El donante manifestará su voluntad por escrito, pudiendo revocarla en la misma forma, todo ello de conformidad con las solemnidades que señale el reglamento. Estas donaciones se inscribirán en un registro que, para los efectos de este artículo, llevará el Ministerio de Salud el que dará información periódica de las inscripciones a todos los establecimientos a que se refiere el artículo 129, que lo soliciten.
+Artículo 146°.- Toda persona plenamente capaz podrá disponer de su cadáver, o de partes de él, con el objeto de que sea utilizado en fines de investigación científica, para la docencia universitaria, para la elaboración de productos terapéuticos o en la realización de injertos.
+El donante manifestará su voluntad por escrito, pudiendo revocarla en la misma forma, todo ello de conformidad con las formalidades que señale el reglamento.
 
 Artículo 147°.- Los cadáveres de personas fallecidas en establecimientos hospitalarios públicos o privados, o que se encuentren en establecimientos del Servicio Médico Legal, que no fueren reclamados dentro del plazo que señale el reglamento, podrán ser destinados a estudios e investigación científica, y sus órganos y tejidos, destinados a la elaboración de productos terapéuticos y a la realización de injertos.
 Podrán ser destinados a los mismos fines cuando el cónyuge o, a falta de éste, los parientes en primer grado de consanguinidad en la línea recta o colateral no manifestaren su oposición dentro del plazo y en la forma que señale el reglamento.
 
-Artículo 148°.- Podrán también destinarse a trasplantes con fines terapéuticos los órganos de cadáveres de personas cuyo cónyuge o, a falta de éste, los parientes en el orden señalado en el artículo 42 del Código Civil, otorguen autorización en un acta suscrita ante el director del establecimiento hospitalario donde hubiere ocurrido el fallecimiento.
+Artículo 148°.- Podrán también destinarse a injertos con fines terapéuticos los tejidos de cadáveres de personas cuyo cónyuge o, a falta de éste, los parientes en el orden señalado en el artículo 42 del Código Civil, otorguen autorización en un acta suscrita ante el director del establecimiento hospitalario donde hubiere ocurrido el fallecimiento.
 
-Artículo 149°.- Para los efectos de lo previsto en el inciso segundo del artículo 146 y en el precedente, la muerte se acreditará mediante certificación médica otorgada por dos facultativos, uno de los cuales, al menos, deberá desempeñarse en el campo de la neurología o neurocirugía.
-Los facultativos que otorguen la certificación no podrán formar parte del equipo que realice el trasplante.
-Sólo podrá otorgarse la certificación cuando se haya comprobado la abolición total e irreversible de todas las funciones encefálicas, lo que se acreditará mediante la certeza diagnóstica de la causa del mal y, a lo menos, dos evidencias electroencefalográficas, en la forma que señale el reglamento. Este podrá, además, indicar procedimientos adicionales para certificar la muerte.
-En estos casos, al certificado de defunción expedido por el médico se agregará un documento en que se dejará constancia de los antecedentes que permitieron acreditar la muerte.
+Artículo 149°.- Derogado.
 
 Artículo 150°.- No será aplicable a las donaciones de que trata este Libro lo dispuesto en los artículos 1137 a 1146 del Código Civil.
 
 Artículo 151°.- Cuando una persona hubiere fallecido en alguno de los casos indicados en el artículo 121 del Código de Procedimiento Penal o cuando su muerte hubiere dado lugar a un proceso penal, será necesaria la autorización del Director del Servicio Médico Legal o del médico cirujano en quien éste haya delegado esta atribución para destinar el cadáver a cualquiera de las finalidades previstas en este Libro, además del cumplimiento de los otros requisitos.
+En aquellos casos en que el Servicio Médico Legal no tenga la infraestructura material o de personal para la autorización, o ésta sea necesaria y requerida fuera de su horario normal de funcionamiento, la delegación recaerá en el director de un hospital del Servicio de Salud en cuyo territorio jurisdiccional se produjere la muerte del potencial donante.
 
-Artículo 152°.- Será nulo y sin ningún valor el acto o contrato que, a título oneroso, contenga la promesa o entrega de un órgano o parte del cuerpo humano para efectuar un trasplante.
+Artículo 152°.- Será nulo y sin ningún valor el acto o contrato que, a título oneroso, contenga la promesa o entrega de un tejido o parte del cuerpo humano para efectuar un injerto.
 
 Artículo 153°.- Las placentas y otros órganos y tejidos que determine el reglamento podrán destinarse a la elaboración de productos terapéuticos y a otros usos que el mismo reglamento indique.
 
