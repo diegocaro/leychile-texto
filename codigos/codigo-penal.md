@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2004-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2004-10-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2004-06-05
-fetched_at: 2026-08-03T01:25:39.350052+00:00
+version_date: 2004-10-05
+fetched_at: 2026-08-03T01:26:21.604593+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -123,7 +123,7 @@ Son circunstancias agravantes:
 3.° Ejecutar el delito por medio de inundación, incendio, veneno u otro artificio que pueda ocasionar grandes estragos o dañar a otras personas.
 4.° Aumentar deliberadamente el mal del delito causando otros males innecesarios para su ejecución.
 5.° En los delitos contra las personas, obrar con premeditación conocida o emplear astucia, fraude o disfraz.
-6.° Abusar el delincuente de la superioridad de su sexo, de sus fuerzas o de las armas, en términos que el ofendido no pudiera defenderse con probabilidades de repeler la ofensa.
+6.° Abusar el delincuente de la superioridad de su sexo o de sus fuerzas, en términos que el ofendido no pudiera defenderse con probabilidades de repeler la ofensa.
 7.° Cometer el delito con abuso de confianza.
 8.° Prevalerse del carácter público que tenga el culpable.
 9.° Emplear medios o hacer que concurran circunstancias que añadan la ignominia a los efectos propios del hecho.
@@ -138,6 +138,7 @@ El tribunal tomará o no en consideración esta circunstancia, según la natural
 17.° Cometer el delito en lugar destinado al ejercicio de un culto permitido en la República.
 18.° Ejecutar el hecho con ofensa o desprecio del respeto que por la dignidad, autoridad, edad o sexo mereciere el ofendido, o en su morada, cuando él no haya provocado el suceso.
 19.° Ejecutarlo por medio de fractura o escalamiento de lugar cerrado.
+20.° Ejecutarlo portando armas de fuego o de aquellas referidas en el artículo 132.
 
 #### § V.
 De las circunstancias que atenúan o agravan la responsabilidad criminal, según la naturaleza y accidentes del delito.
@@ -1585,6 +1586,10 @@ generales que dicte el Presidente de la República, sufrirá la pena de reclusi�
 NOTA
 El artículo 24 de la ley 17798, publicada el 21.10.1972, deroga parcialmente este artículo, sólo en cuanto se refiere a armas de fuego, explosivos y demás elementos contemplados en la referida ley.
 
+ART. 288 bis.
+El que portare armas cortantes o punzantes en recintos de expendio de bebidas alcohólicas que deban consumirse en el mismo local, sufrirá la pena de presidio menor en su grado mínimo o multa de 1 a 4 UTM.
+Igual sanción se aplicará al que en espectáculos públicos, en establecimientos de enseñanza o en vías o espacios públicos en áreas urbanas portare dichas armas, cuando no pueda justificar razonablemente su porte.
+
 #### § IX.
 Delitos relativos a la salud animal y vegetal.
 
@@ -2361,7 +2366,7 @@ El que se apropie de las plumas, pelos, crines o cerdas de animales ajenos, esqu
 
 ART. 450.
 Los delitos a que se refiere al Párrafo 2 y el artículo 440 del Párrafo 3 de este Título se castigarán como consumados desde que se encuentren en grado de tentativa.
-Serán castigados con presidio mayor en su grado mínimo a presidio mayor en su grado máximo los culpables de robo o hurto cuando hagan uso de armas o sean portadores de ellas, siempre que no les corresponda una pena mayor por el delito cometido.
+En los delitos de robo y hurto, la pena correspondiente será elevada en un grado cuando los culpables hagan uso de armas o sean portadores de ellas.
 En el caso del delito de hurto, el aumento de la pena contemplado en el inciso anterior se producirá si las armas que se portan son de fuego, cortantes o punzantes. Tratándose de otras armas, la mera circunstancia de portarlas no aumentará la pena si, a juicio del tribunal, fueren llevadas por el delincuente con un propósito ajeno a la comisión del delito.
 Para determinar cuando el robo o hurto se comete con armas, se estará a lo dispuesto en el art. 132.
 
