@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1988-12-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1989-11-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1988-12-09
-fetched_at: 2026-08-03T00:45:52.414854+00:00
+version_date: 1989-11-29
+fetched_at: 2026-08-03T00:48:16.566170+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1483,6 +1483,9 @@ Artículo 290.- Si la propagación de las enfermedades a que se refiere este pá
 
 Artículo 291.- Los que propagaren indebidamente organismos, productos, elementos o agentes químicos, virales, bacteriológicos, radiactivos, o de cualquier otro orden que por su naturaleza sean susceptibles de poner en peligro la salud animal o vegetal, o el abastecimiento de la población, serán penados con presidio menor en su grado máximo.
 
+ART. 291 BIS.
+El que cometiere actos de maltrato o crueldad con animales, será castigado con la pena de presidio menor en su grado mínimo y multa de uno a diez ingresos mínimos mensuales o sólo a esta última.
+
 #### § X.
 De las asociaciones ilícitas.
 
@@ -2552,7 +2555,7 @@ Sufrirán la pena de prisión en su grado mínimo conmutable en multa de uno a c
 32.° El que con objeto de lucro interpretare sueños, hiciere pronósticos o adivinaciones, o abusare de la credulidad de otra manera semejante.
 33.° El que entrare en heredad ajena para coger frutas y comerlas en el acto.
 34.° El que entrare sin violencia a cazar o pescar en sitio vedado o cerrado.
-35.° El que se hiciere culpable de actos de crueldad o mal trato excesivo para con los animales.
+35.° Derogado.
 36.° El que infringiere los reglamentos de caza o pesca en el modo y tiempo de ejecutar una u otra o de vender sus productos.
 37.° Los empresarios del alumbrado público que faltaren a las reglas establecidas para su servicio, y los particulares que infringieren dichas reglas.
 38.° El que indebidamente apagare el alumbrado público o del exterior de los edificios, o de los portales, teatros, u otros lugares de espectáculo o reunión, o el de las escaleras de los mismos.
