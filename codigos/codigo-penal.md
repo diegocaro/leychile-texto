@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1992-03-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1992-09-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1992-03-22
-fetched_at: 2026-08-03T00:52:41.555990+00:00
+version_date: 1992-09-01
+fetched_at: 2026-08-03T00:54:11.652245+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -227,11 +227,11 @@ PENAS COMUNES A LAS TRES CLASES ANTERIORES.
 Multa.
 Pérdida o comiso de los instrumentos o efectos del delito.
 PENAS ACCESORIAS DE LOS CRÍMENES Y SIMPLES DELITOS.
-Celda solitaria.
-Incomunicación con personas extrañas al establecimiento penal.
+ELIMINADA.
+Incomunicación con personas extrañas al establecimiento penal, en conformidad al Reglamento carcelario.
 
 ART. 22.
-Son también penas accesorias las de suspensión e inhabilitación para cargos y oficios públicos, derechos políticos y profesiones titulares en los casos en que, no imponiéndolas especialmente la ley, ordena que otras penas las lleven consigo.
+Son penas accesorias las de suspensión e inhabilitación para cargos y oficios públicos, derechos políticos y profesiones titulares en los casos en que, no imponiéndolas especialmente la ley, ordena que otras penas las lleven consigo.
 
 ART. 23.
 La caución y la sujeción a la vigilancia de la autoridad podrán imponerse como penas accesorias o como medidas preventivas, en los casos especiales que determinen este Código y el de Procedimientos.
@@ -252,7 +252,7 @@ La cuantía de la multa, tratándose de crímenes, no podrá exceder de treinta 
 La expresión "sueldo vital" en cualquiera disposición de los Códigos Penal, de Procedimiento Penal y de Justicia Militar y demás leyes penales especiales significa un sueldo vital mensual vigente a la fecha de la comisión del delito en la Región Metropolitana: Santiago. Para este efecto dicho sueldo vital se considerará vigente a partir del primer día del mes siguiente a aquél en que se publique en el Diario Oficial.
 Cuando la ley impone multas cuyo cómputo debe hacerse con relación a cantidades indeterminadas, nunca podrán aquéllas exceder de treinta sueldos vitales.
 En cuanto a la cuantía de la caución, se observarán las reglas establecidas para la multa, doblando las cantidades respectivamente, y su duración no podrá exceder del tiempo de la pena u obligación cuyo cumplimiento asegura, o de cinco años en los demás casos.
-La duración de las penas accesorias de encierro en celda solitaria e incomunicación con personas extrañas al establecimiento, salvo los casos contemplados en el número segundo del artículo 90 y en el inciso segundo del artículo 91, no podrá exceder de 180 días, no pudiendo dentro de este límite imponerse por más de la mitad del tiempo señalado a la pena principal. En todo caso, el Tribunal que impuso la pena, podrá, atendidas las circunstancias, de oficio o a petición de parte, suspender, en cualquier momento, la pena accesoria.
+INCISO SUPRIMIDO.
 
 ART. 26.
 La duración de las penas temporales empezará a contarse desde el día de la aprehensión del procesado.
@@ -500,6 +500,7 @@ ART. 80.
 Tampoco puede ser ejecutada pena alguna en otra forma que la prescrita por la ley, ni con otras circunstancias o accidentes que los expresados en su texto.
 Se observará también además de lo que dispone la ley, lo que se determine en los reglamentos especiales para el gobierno de los establecimientos en que deben cumplirse las penas, acerca de los castigos disciplinarios, de la naturaleza, tiempo y demás circunstancias de los trabajos, de las relaciones de los penados con otras personas, de los socorros que pueden recibir y del régimen alimenticio.
 En los reglamentos sólo podrán imponerse como castigos disciplinarios, el encierro en celda solitaria e incomunicación con personas extrañas al establecimiento penal por un tiempo que no exceda de un mes, u otros de menor gravedad.
+La repetición de estas medidas deberá comunicarse antes de su aplicación al juez del lugar de reclusión, quien sólo podrá autorizarla por resolución fundada y adoptando las medidas para resguardar la seguridad e integridad, del detenido o preso.
 
 Artículo 81.- Si después de cometido el delito cayere el delincuente en estado de locura o demencia, se observarán las reglas establecidas en el Código de Procedimiento Penal.
 
@@ -541,8 +542,8 @@ De las penas en que Incurren los que quebrantan las sentencias.
 
 ART. 90.
 Los sentenciados que quebrantaren su condena serán castigados con las penas que respectivamente se designan en los números siguientes:
-1.° Los condenados a presidio, reclusión o prisión sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un tiempo que, atendidas las circunstancias, podrá extenderse hasta ciento ochenta días, quedando durante el mismo tiempo sujetos al régimen más estricto del establecimiento.
-2° Los reincidentes en el quebrantamiento de tales condenas, a más de las penas de la regla anterior, serán encerrados en celda solitaria por un término prudencial, atendidas las circunstancias, que no podrá exceder de la mitad del que les falte por cumplir de la pena principal.
+1.° Los condenados a presidio, reclusión o prisión sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un tiempo que, atendidas las circunstancias, podrá extenderse hasta tres meses, quedando durante el mismo tiempo sujetos al régimen más estricto del establecimiento.
+2° Los reincidentes en el quebrantamiento de tales condenas, a más de las penas de la regla anterior, sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un término prudencial, atendidas las circunstancias, que no podrá exceder de seis meses.
 3.° DEROGADO.
 4.° Los condenados a confinamiento, extrañamiento, relegación o destierro, sufrirán las penas de presidio, reclusión o prisión, según las reglas siguientes:
 Primera.-El condenado a relegación perpetua sufrirá la de presidio mayor en su grado medio.
@@ -615,6 +616,7 @@ Esta prescripción se interrumpe quedando sin efecto el tiempo trascurrido, cuan
 
 ART. 100.
 Cuando el reo se ausentare del territorio de la República sólo podrá prescribir la acción penal o la pena contando por uno cada dos días de ausencia, para el cómputo de los años.
+Para los efectos de aplicar la prescripción de la acción penal o de la pena, no se entenderán ausentes del territorio nacional los que hubieren estado sujetos a prohibición o impedimento de ingreso al país por decisión de la autoridad política o administrativa, por el tiempo que les hubiere afectado tal prohibición o impedimento.
 
 ART. 101.
 Tanto la prescripción de la acción penal como la de la pena corren a favor y en contra de toda clase de personas.
@@ -1486,7 +1488,7 @@ De las asociaciones ilícitas.
 
 ART. 292.
 Toda asociación formada con el objeto de atentar contra el orden social, contra las buenas costumbres, contra las personas o las propiedades, importa un delito que existe por el solo hecho de organizarse.
-Se presumirá que la asociación ha tenido alguno de los objetos que se indican en el inciso anterior, cuando uno o más de sus miembros ha ejecutado algún acto que constituya un atentado contra el orden social, las buenas costumbres, las personas o las propiedades.
+INCISO DEROGADO.
 
 ART. 293.
 Si la asociación ha tenido por objeto la perpetración de crímenes, los jefes, los que hubieren ejercido mando en ella y sus provocadores, sufrirán la pena de presidio mayor en cualquiera de sus grados.
@@ -1995,6 +1997,8 @@ No constando tampoco los que causaron lesiones menos graves, se impondrán las p
 ART. 403.
 Cuando sólo hubieren resultado lesiones menos graves sin conocerse a los autores de ellas, pero sí a los que hicieron uso de armas capaces de producirlas, se impondrá a todos éstos las penas inmediatamente inferiores en grado a las que les hubieran correspondido por tales lesiones.
 En los casos de este artículo y del anterior, se estará a lo dispuesto en el 304 para la aplicación de la pena.
+
+Artículo 403 bis.- El que enviare cartas o encomiendas explosivas de cualquier tipo que afecten o puedan afectar la vida o integridad corporal de las personas, será penado con presidio mayor en su grado mínimo.
 
 #### § IV.
 Del duelo.
