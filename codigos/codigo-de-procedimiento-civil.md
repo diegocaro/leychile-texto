@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1952-04-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1976-04-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1952-04-02
-fetched_at: 2026-08-03T00:11:25.503725+00:00
+version_date: 1976-04-29
+fetched_at: 2026-08-03T00:26:44.655895+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -46,9 +46,20 @@ Santiago, a 28 de Agosto de 1902.- JERMAN RIESCO.- Rafael Balmaceda.
 ## Libro Primero
 DISPOSICIONES COMUNES A TODO PROCEDIMIENTO
 
+### Título II
+DE LA COMPARECENCIA EN JUICIO
+
+Art. 9°. (10). Si durante el curso del juicio termina por cualquiera causa el carácter con que una persona representa por ministerio de la ley derechos ajenos, continuará no obstante la representación y serán válidos los actos que ejecute, hasta la comparecencia de la parte representada, o hasta que haya testimonio en el proceso de haberse notificado a ésta la cesación de la representación y el estado del juicio. El representante deberá gestionar para que se practique esta diligencia dentro del plazo que el tribunal designe, bajo pena de pagar una multa de un cuarto a un sueldo vital y de abonar los perjuicios que resulten.
+
 ### Título V
 DE LA FORMACION DEL PROCESO, DE SU CUSTODIA Y DE SU
 COMUNICACION A LAS PARTES
+
+Art. 31 (32). Junto con cada escrito deberán acompañarse en papel simple tantas copias cuantas sean las partes a quienes debe notificarse la providencia que en él recaiga, y, confrontadas dichas copias por el secretario, se entregarán a la otra u otras partes, o se dejarán en la secretaría a disposición de ellas cuando la notificación no se haga personalmente o por cédula.
+Se exceptúan de esta disposición los escritos que tengan por objeto personarse en el juicio, acusar rebeldías, pedir apremios, prórroga de términos, señalamiento de visitas, su suspensión y cualesquiera otras diligencias de mera tramitación.
+Si no se entregan las copias o si resulta disconformidad substancial entre aquéllas y el escrito original, no le correrá plazo a la parte contraria y deberá el tribunal, de plano, imponer una multa de un cuarto a un sueldo vital.
+El tribunal ordenará, además, que la parte acompañe las copias dentro de tercero día, bajo apercibimiento de tener por no presentado el escrito.
+Las resoluciones que se dicten en conformidad a este artículo serán inapelables.
 
 Art. 37 (40). Siempre que los tribunales pidan o hayan de oír dictamen por escrito del respectivo oficial del ministerio público o de los defensores públicos, el secretario entregará el proceso a aquellos funcionarios, exigiendo el correspondiente recibo. Lo mismo se observará cuando haya de remitirse el proceso a una oficina distinta de aquella en que se ha formado.
 Si los funcionarios a quienes se pide dictamen retardan la devolución del proceso, podrá el tribunal señalarles un plazo razonable para que la efectúen, y ordenar a su vencimiento que se recojan por el secretario los autos.
@@ -72,8 +83,25 @@ Art. 109 (114). El superior que conozca de la apelación o que resuelva la conti
 Para pronunciar resolución, citará a uno y otro litigante, pudiendo pedir los informes que estime necesarios, y aun recibir a prueba el incidente.
 Si los tribunales de cuya competencia se trata ejercen jurisdicción de diferente clase, se oirá también al ministerio público.
 
+### Título XII
+DE LAS IMPLICANCIAS Y RECUSACIONES
+
+Art. 114 (119). La declaración de implicancia o de recusación cuando haya de fundarse en causa legal, deberá pedirse antes de toda gestión que ataña al fondo del negocio, o antes de que comience a actuar la persona contra quien se dirige, siempre que la causa alegada exista ya y sea conocida de la parte.
+Si la causa es posterior o no ha llegado a conocimiento de la parte, deberá proponerla tan pronto como tenga noticia de ella. No justificándose esta última circunstancia, será desechada la solicitud, a menos que se trate de una implicancia. En este caso, podrá el tribunal imponer a la parte que maliciosamente haya retardado el reclamo de la implicancia una multa que no exceda de un sueldo vital.
+
+Art. 122 (127). Si la implicancia o la recusación es desechada, se condenará en las costas al que la haya reclamado, y se le impondrá una multa que no baje de la mitad ni exceda del doble de la suma consignada en conformidad al artículo 118.
+Esta multa se elevará al doble cuando se trate de la segunda solicitud de inhabilitación deducida por la misma parte, al triple en la tercera y así sucesivamente.
+El tribunal fijará la cuantía de la multa, tomando en cuenta la categoría del funcionario contra quien se haya reclamado, la importancia del juicio, la fortuna del litigante y la circunstancia de haberse procedido o no con malicia.
+Sin perjuicio de lo dispuesto en los incisos precedentes, podrán los tribunales, a petición de parte o de oficio, después de haberse rechazado en la causa dos o más recusaciones interpuestas por un mismo litigante, fijar a éste y compartes un plazo razonable para que dentro de él deduzcan todas las que conceptúen procedentes a su derecho, bajo apercibimiento de no ser oídos después respecto de aquellas causales que se funden en hechos o circunstancias que hayan acaecido con anterioridad al decreto que fija dicho plazo.
+Las recusaciones que se interpongan por causas sobrevinientes a la fecha de este decreto serán admitidas previa consignación de la multa, y, en caso de ser desestimadas, pueden también las Cortes imponer al recurrente, a más de la multa establecida, otra que no deberá exceder de un sueldo vital por cada instancia de recusación.
+
 ### Título XVII
 DE LAS RESOLUCIONES JUDICIALES
+
+Art. 166 (173). Cuando haya de integrarse una sala con miembros que no pertenezcan a su personal ordinario, antes de comenzar la vista, se pondrá por conducto del relator o secretario en conocimiento de las partes o de sus abogados el nombre de los integrantes, y se procederá a ver la causa inmediatamente, a menos que en el acto se reclame, de palabra o por escrito, implicancia o recusación contra alguno de ellos.
+Formulada la reclamación, se suspenderá la vista y deberá formalizarse aquélla por escrito de tercero día, imponiéndose en caso contrario a la parte reclamante, por este solo hecho, una multa que no baje de medio sueldo vital ni exceda de dos sueldos vitales.
+NOTA
+Véase el artículo 198 del Código Orgánico de Tribunales.
 
 Art. 167 (174). Cuando la existencia de un delito haya de ser fundamento preciso de una sentencia civil o tenga en ella influencia notoria, podrán los tribunales suspender el pronunciamiento de ésta hasta la terminación del proceso criminal, si en éste se ha dado lugar al procedimiento plenario.
 Esta suspensión podrá decretarse en cualquier estado del juicio, una vez que se haga constar la circunstancia mencionada en el inciso precedente.
@@ -111,6 +139,13 @@ DE LA DEMANDA
 
 Art. 260 (257). Si los demandados son varios, sea que obren separada o conjuntamente, el término para contestar la demanda correrá para todos a la vez, y se contará hasta que expire el último término parcial que corresponda a los notificados.
 
+### Título IV
+DE LAS MEDIDAS PREJUDICIALES
+
+Art. 274 (264). Si, decretada la diligencia a que se refiere el número 1° del artículo anterior, se rehúsa prestar la declaración ordenada o ésta no es categórica, en conformidad a lo mandado, podrán imponerse al desobediente multas que no excedan de dos sueldos vitales, o arrestos hasta de dos meses, determinados prudencialmente por el tribunal; sin perjuicio de repetir la orden y el apercibimiento.
+NOTA
+El artículo 8 de la ley 18018, publicada el 14.08.1981, dispuso que las sumas expresadas en sueldos vitales o en porcentajes de ellos, en normas de carácter legal, entre otras, se reducirán a la cantidad numérica que representa a la misma fecha, cantidad que se expresará en "ingresos mínimos" reajustables o porcentajes de ellos, según corresponda. La conversión se fijo por Decreto 51, Justicia, publicado 13.02.1982.
+
 ### Título IX
 DE LA PRUEBA EN GENERAL
 
@@ -144,6 +179,9 @@ Art. 357 (346). No son hábiles para declarar como testigos:
 8° Los que en concepto del tribunal sean indignos de fe por haber sido condenados por delito; y
 9° Los que hagan profesión de testificar en juicio.
 
+Art. 359 (348). Toda persona, cualquiera que sea su estado o profesión, está obligada a declarar y a concurrir a la audiencia que el tribunal señale con este objeto.
+Cuando se exija la comparecencia de un testigo a sabiendas de que es inútil su declaración, podrá imponer el tribunal a la parte que la haya exigido una multa de un décimo a medio sueldo vital.
+
 Art. 361 (350). No están obligados a concurrir a la audiencia expresada en el artículo 359: 1° El Presidente de la República, los Ministros de Estado, los Senadores y Diputados, los Subsecretarios; los Intendentes Regionales, los Gobernadores y los
 NOTA: 23
 Alcaldes, dentro del territorio de su jurisdicción; los jefes superiores de Servicios, los miembros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos Tribunales, los Jueces Letrados; los Oficiales Generales en servicio activo o en retiro, los Oficiales Superiores y los Oficiales Jefes; el Arzobispo y los Obispos, los Vicarios Generales, los Provisores, los Vicarios y Provicarios Capitulares; y los Párrocos, dentro del territorio de la Parroquia a su cargo;
@@ -174,6 +212,10 @@ No se podrá comisionar al secretario para tomar la confesión cuando la parte h
 Art. 391 (381). La declaración deberá prestarse inmediatamente, de palabra y en términos claros y precisos. Si el confesante es sordo-mudo, podrá escribir su confesión delante del tribunal o ministro de fe encargado de recibirla.
 Si se trata de hechos personales, deberá prestarse afirmándolos o negándolos. Podrá, sin embargo, el tribunal admitir la excusa de olvido de los hechos, en casos calificados, cuando ella se funde en circunstancias verosímiles y notoriamente aceptables.
 En todo caso podrá el confesante añadir las circunstancias necesarias para la recta y cabal inteligencia de lo declarado.
+
+Art. 394 (384). Si el litigante no comparece al segundo llamado, o si, compareciendo, se niega a declarar o da respuestas evasivas, se le dará por confeso, a petición de parte, en todos aquellos hechos que estén categóricamente afirmados en el escrito en que se pidió la declaración.
+Si no están categóricamente afirmados los hechos, podrán los tribunales imponer al litigante rebelde una multa que no baje de medio sueldo vital ni exceda de un sueldo vital, o arrestos hasta por treinta días sin perjuicio de exigirle la declaración. Si la otra parte lo solicita, podrá también suspenderse el pronunciamiento de la sentencia hasta que la confesión se preste.
+Cuando el interrogado solicite un plazo razonable para consultar sus documentos antes de responder, podrá otorgársele, siempre que haya fundamento plausible para pedirlo y el tribunal lo estime indispensable, o consienta en ello el contendor. La resolución del tribunal que conceda plazo será inapelable.
 
 #### 6. Del informe de peritos
 
@@ -288,3 +330,10 @@ NOTA: 59
 Véase el Art. 6° del DL N° 26, de 1924, que establece el Servicio de Identificación Personal Obligatorio.
 
 Art. 913. (1090). Concluida la información, se pasará al ministerio público para que examine las cualidades de los testigos y si se ha acreditado su identidad por alguno de los medios expresados.
+
+### Título XV
+DE LA EXPROPIACIÓN POR CAUSA DE UTILIDAD PUBLICA
+NOTA
+Véase el Artículo 41 del Decreto Ley 2186, Justicia, publicado el 09.06.1978, Ley Orgánica de Procedimiento de Expropiaciones, que dispone que desde su vigencia, quedarán derogadas todas las leyes preexistentes sobre las materias que en ella se tratan, aun en la parte que no le sean contrarias, salvo respecto de los casos a que se refiere su artículo transitorio.
+
+Art. 917. (1094). Reunidos los peritos y el tercero en el día y hora que designe el tribunal, bajo una multa de un sueldo vital en caso de inasistencia, harán un avalúo circunstanciado de los bienes que se trata de expropiar y de los daños y perjuicios que con la expropiación se causen al propietario. No se tomará en cuenta para este avalúo el mayor valor que puedan obtener los bienes expropiados a consecuencia de las obras a que esté destinada la expropiación.
