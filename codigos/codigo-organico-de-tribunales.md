@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1949-10-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1950-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1949-10-20
-fetched_at: 2026-08-03T00:09:55.420771+00:00
+version_date: 1950-01-01
+fetched_at: 2026-08-03T00:10:01.423646+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -157,7 +157,7 @@ De los Jueces de Letras
 Art. 28. Habrá en las ciudades de Santiago y Valparaíso cuatro y dos Juzgados de Letras de Menor Cuantía en lo Civil, respectivamente, cuyo territorio jurisdiccional se fijará por el Presidente de la República, previo informe de las respectivas Cortes de Apelaciones. Al efecto, estos tribunales podrán consultar la opinión de los jueces de departamento, de los prefectos de policía y de otras autoridades.
 Podrá también el Presidente de la República, a instancia de las mismas Cortes, modificar los límites de la jurisdicción territorial de los juzgados de letras de menor cuantía.
 
-Art. 29. Habrá, además, un juzgado de letras de menor cuantía en Alto de San Antonio (Iquique), Pampa Unión (Antofagasta), Andacollo, Viña del Mar, Sewell (Rancagua), Curanilahue, Santa Juana, Lota, Temuco, Puerto Saavedra, Villarrica, Valdivia y San José de la Mariquina.
+Art. 29. Habrá, además, un juzgado de letras de menor cuantía en Alto de San Antonio (Iquique), Pampa Unión (Antofagasta), Andacollo, Viña del Mar, Sewell (Rancagua), Curanilahue, Santa Juana, Temuco, Puerto Saavedra, Villarrica, Valdivia y San José de la Mariquina.
 Los Juzgados de Viña del Mar y de San José de la Mariquina ejercerán jurisdicción sobre las subdelegaciones de sus respectivos nombres.
 El de Villarrica ejercerá jurisdicción sobre las comunas de Villarrica y Pucón, y tendrá su asiento en la primera.
 Respecto del territorio jurisdiccional de los demás juzgados a que se refiere este artículo, regirá lo dispuesto en el artículo anterior.
