@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1980-06-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1980-12-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1980-06-14
-fetched_at: 2026-08-03T00:31:29.168097+00:00
+version_date: 1980-12-18
+fetched_at: 2026-08-03T00:32:59.273241+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1060,6 +1060,8 @@ NOTA:
 El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
 
 Art. 243. Las penas comunes de privación de libertad impuestas a militares o no militares por delitos militares, se cumplirán en los establecimientos penitenciarios y carcelarios comunes. Sin embargo, tratándose de las penas de prisión o reclusión o de presidio que no excedieren de un año, tendrá aplicación la norma del inciso primero del artículo 242.
+
+Art. 243- A. Derogado.
 
 ### Título II
 DE LA TRAICION, DEL ESPIONAJE Y DEMAS DELITOS
