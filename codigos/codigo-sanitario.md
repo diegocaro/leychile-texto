@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1983-12-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1983-12-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1983-12-03
-fetched_at: 2026-08-03T00:38:34.313756+00:00
+version_date: 1983-12-13
+fetched_at: 2026-08-03T00:38:40.323482+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -332,7 +332,7 @@ Sin perjuicio de lo establecido en el Libro IX de este Código, la autoridad san
 NOTA:
 La referencia al Libro IX original del Código Sanitario debe entenderse hecha al Libro X en virtud de lo dispuesto en el Art. 3° de la LEY 18173, publicada el 15.11.1982, que incorporó un un nuevo Libro IX y reenumeró el anterior.
 
-Artículo 74°.- No se podrá explorar ni pedir pertenencia minera en sitios donde se han alumbrado aguas subterráneas en terrenos particulares ni en aquellos lugares cuya explotación pueda afectar el caudal o la calidad natural del agua, sin previa autorización del Servicio Nacional de Salud, el que fijará las condiciones de seguridad y el área de protección de la fuente o caudal correspondiente.
+Artículo 74°.- No se podrá ejecutar labores mineras en sitios donde se han alumbrado aguas subterráneas en terrenos particulares ni en aquellos lugares cuya explotación pueda afectar el caudal o la calidad natural del agua, sin previa autorización del Servicio Nacional de Salud, el que fijará las condiciones de seguridad y el área de protección de la fuente o caudal correspondiente.
 El Servicio Nacional de Salud podrá ordenar en todo caso la paralización de las obras o faenas cuando ellas puedan afectar el caudal o la calidad del agua.
 
 Artículo 75°.- Prohíbese usar las aguas de alcantarillado, desagües, acequias u otras aguas declaradas contaminadas por la autoridad sanitaria, para la crianza de moluscos y cultivos de vegetales y frutos que suelen ser consumidas sin cocer y crecen a ras de la tierra.
