@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=2000-04-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=2000-04-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 2000-04-28
-fetched_at: 2026-08-05T02:30:22.364298+00:00
+version_date: 2000-04-29
+fetched_at: 2026-08-05T02:30:40.375600+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -839,8 +839,8 @@ Artículo 116.- Los proyectos de reforma de la Constitución podrán ser iniciad
 El proyecto de reforma necesitará para ser aprobado en cada Cámara el voto conforme de las tres quintas partes de los diputados y senadores en ejercicio. Si la reforma recayere sobre los capítulos I, III, VII, X, XI o XIV, necesitará, en cada Cámara, la aprobación de las dos terceras partes de los diputados y senadores en ejercicio.
 Será aplicable a los proyectos de reforma constitucional el sistema de urgencias.
 
-Artículo 117.- Las dos Cámaras, reunidas en Congreso Pleno y en sesión pública, con asistencia de la mayoría del total de sus miembros, sesenta días después de aprobado un proyecto en la forma señalada en el artículo anterior, tomarán conocimiento de él y procederán a votarlo sin debate.
-Si en el día señalado no se reuniere la mayoría del total de los miembros del Congreso, la sesión se verificará al siguiente con los diputados y senadores que asistan.
+Artículo 117.- Las dos Cámaras, reunidas en Congreso Pleno, serán convocadas por el Presidente del Senado a una sesión pública, que se celebrará no antes de treinta ni después de sesenta días contados desde la aprobación de un proyecto en la forma señalada en el artículo anterior, en la que, con asistencia de la mayoría del total de sus miembros, tomarán conocimiento de él y procederán a votarlo sin debate.
+Si a la hora señalada no se reuniere la mayoría del total de los miembros del Congreso, la sesión se verificará el mismo día, a una hora posterior que el Presidente del Senado haya fijado en la convocatoria, con los diputados y senadores que asistan.
 El proyecto que apruebe la mayoría del Congreso Pleno pasará al Presidente de la República.
 Si el Presidente de la República rechazare totalmente un proyecto de reforma aprobado por el Congreso y éste insistiere en su totalidad por las dos terceras partes de los miembros en ejercicio de cada Cámara, el Presidente deberá promulgar dicho proyecto, a menos que consulte a la ciudadanía mediante plebiscito.
 Si el Presidente observare parcialmente un proyecto de reforma aprobado por el Congreso, las observaciones se entenderán aprobadas con el voto conforme de las tres quintas o dos terceras partes de los miembros en ejercicio de cada Cámara, según corresponda de acuerdo con el artículo anterior, y se devolverá al Presidente para su promulgación.
