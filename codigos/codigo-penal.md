@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1999-12-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1999-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1999-12-11
-fetched_at: 2026-08-03T01:09:22.653320+00:00
+version_date: 1999-12-27
+fetched_at: 2026-08-03T01:09:58.668377+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1556,14 +1556,14 @@ De las amenazas de atentado contra las personas y propiedades.
 
 ART. 296.
 El que amenazare seriamente a otro con causar a él mismo o a su familia, en su persona, honra o propiedad, un mal que constituya delito, siempre que por los antecedentes aparezca verosímil la consumación del hecho, será castigado:
-1°. Con presidio menor en sus grados medio a máximo, si hubiere hecho la amenaza exigiendo una cantidad o imponiendo cualquiera otra condición ilícita y el culpable hubiere conseguido su propósito; a no ser que merezca mayor pena el hecho consumado, en el cual caso se impondrá ésta.
+1º. Con presidio menor en sus grados medio a máximo, si hubiere hecho la amenaza exigiendo una cantidad o imponiendo ilegítimamente cualquiera otra condición y el culpable hubiere conseguido su propósito.
 2° Con presidio menor en sus grados mínimo a medio, si hecha la amenaza bajo condición el culpable no hubiere conseguido su propósito,
-3.° Con presidio menor en su grado mínimo, si la amenaza no fuere condicional.
+3.° Con presidio menor en su grado mínimo, si la amenaza no fuere condicional; a no ser que merezca mayor pena el hecho consumado, caso en el cual se impondrá ésta.
 Cuando las amenazas se hicieren por escrito o por medio de emisario, éstas se estimarán como circunstancias agravantes.
 Para los efectos de este artículo se entiende por familia el cónyuge, los parientes en la línea recta de consanguinidad o afinidad legítima, los padres e hijos naturales y la descendencia legítima de éstos, los hijos ilegítimos reconocidos y los colaterales hasta el tercer grado de consanguinidad o afinidad legítimas.
 
 ART. 297.
-Las amenazas de un mal que no constituya delito hechas en la forma expresada en el núm. 1.° del artículo anterior, serán castigadas con la pena de reclusión menor en cualquiera de sus grados.
+Las amenazas de un mal que no constituya delito hechas en la forma expresada en los números 1º o 2º del artículo anterior, serán castigadas con la pena de reclusión menor en sus grados mínimo a medio.
 
 ART. 298.
 En los casos de los dos artículos precedentes se podrá condenar además al amenazador a dar caución de no ofender al amenazado, y en su defecto a la pena de sujeción a la vigilancia de la autoridad.
