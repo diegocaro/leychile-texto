@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1957-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1959-04-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1957-08-30
-fetched_at: 2026-08-03T00:14:07.623595+00:00
+version_date: 1959-04-02
+fetched_at: 2026-08-03T00:14:55.674458+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -96,10 +96,10 @@ De los Jueces de Distrito y de los Jueces de Subdelegación
 
 ### § 1. Los Jueces de Distrito.
 
-Art. 14. En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de mil pesos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de dos mil pesos.
+Art. 14. En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de seis mil pesos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de doce mil pesos.
 Le corresponderá, asimismo, el nombramiento de curador ad-litem en su caso.
 Lo dispuesto en los incisos precedentes regirá también en toda sección de distrito no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
-Los jueces de distrito de las ciudades cabeceras de departamento no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
+Los jueces de distrito no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 
 Art. 15. Los jueces de distrito durarán dos años en el ejercicio de sus funciones; pero podrán indefinidamente volver a ser nombrados para el período sucesivo.
 
@@ -137,11 +137,12 @@ Art. 24. A los jueces de distrito corresponden las atribuciones propias de minis
 ### § 2. Los Jueces de Subdelegación
 
 Art. 25. En cada subdelegación de la República que no esté comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía, habrá un funcionario que con el título de Juez de Subdelegación conocerá:
-1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de dos mil pesos y no pase de cinco mil;
+1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de doce mil pesos y no pase de treinta mil;
 2°) En segunda instancia, de las causas de que conocieren en primera los respectivos jueces de distrito; y
 3°) En única instancia, de los recursos de casación en la forma que se interpusieren contra las sentencias pronunciadas por los jueces de distrito indicados en el número anterior.
 Les corresponderá, asimismo, el nombramiento de curador ad litem en su caso.
 Lo dispuesto en este artículo regirá también en toda sección de subdelegación no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
+No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de quince mil pesos.
 Los jueces de subdelegación de las ciudades cabeceras de departamento no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 
 Art. 26. A los jueces de subdelegación corresponden las atribuciones propias de ministro de fe que el Código Civil y otras leyes confirieron a los subdelegados con anterioridad al 1° de Marzo de 1876 y que no hayan sido derogadas.
@@ -173,11 +174,12 @@ Art. 31. El decreto que fije o que modifique los límites del territorio jurisdi
 Los jueces de letras de menor cuantía de Santiago y Valparaíso deberán funcionar, en cuanto sea posible, en locales que estén vecinos.
 
 Art. 32. Los jueces de letras de menor cuantía conocerán:
-1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de cinco mil pesos;
-2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de cinco mil pesos y no sea superior a cincuenta mil, y
+1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de treinta mil pesos;
+2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de treinta mil pesos y no sea superior a trescientos mil pesos, y
 3.o) De los asuntos que otras leyes entreguen a su conocimiento.
-No obstante lo dispuesto en los N.os 1.o y 2.o de este artículo, en los juicios especiales del contrato de arrendamiento, los jueces letrados de menor cuantía conocerán en única instancia hasta la suma de tres mil pesos, y en primera instancia hasta la suma de quince mil pesos.
-No conocerán, en ningún caso, de los juicios sobre alimentos futuros.
+En los juicios especiales del contrato de arrendamiento, los jueces letrados de menor cuantía conocerán en única instancia hasta la suma de nueve mil pesos, y en primera instancia hasta la suma de noventa mil pesos.
+Sin embargo, tratándose de los juicios de reconvenciones de pago, conocerán hasta la suma de treinta mil pesos en única instancia y hasta ochenta mil pesos en primera instancia.
+Conocerán también estos jueces, en primera instancia, de los juicios sobre alimentos futuros, siempre que la pensión mensual que se cobre no exceda de veinticinco mil pesos. No tendrán esta competencia cuando ella corresponda a un juez especial de menores.
 
 Art. 33. En materia de jurisdicción voluntaria los jueces letrados de menor cuantía conocerán:
 1°) De las autorizaciones para comparecer en los juicios que se promovieren ante ellos, y del nombramiento de curadores ad litem;
@@ -197,14 +199,14 @@ Art. 37. Los jueces de letras de menor cuantía que tengan el asiento de sus fun
 Si en la capital del departamento hubiere dos o más jueces letrados de menor cuantía, la Corte de Apelaciones respectiva establecerá entre ellos un turno semanal, y será competente para el conocimiento de estos recursos el juez que estuviere en el ejercicio del turno a la fecha de su interposición.
 
 Art. 38. Los jueces de letras de menor cuantía conocerán, además, de las siguientes materias:
-1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar, siempre que el valor de estas últimas no exceda de cincuenta mil pesos.
+1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar, siempre que el valor de estas últimas no exceda de trescientos mil pesos.
 Pero si se promoviere contienda sobre el dominio del predio dominante o sirviente, o sobre la adquisición por prescripción u otro título de una manera especial de ejercer la servidumbre, se inhibirán de todo conocimiento.
 La ubicación del predio sirviente determinará el tribunal que deba conocer de estos juicios; y si abarcara dos o más jurisdicciones territoriales quedará al demandante la elección del juez.
 2°) De las acciones posesorias a que se refieren los artículos 928, 936, 937, 938, 939, 940, 941, 942, 943, 944 y 945 del Código Civil.
 Será competente para conocer de estos juicios el juez del lugar donde hubiere ocurrido el hecho de que se reclama.
 3°) De las notificaciones de las actas de protestos de cheques a las personas domiciliadas en la respectiva jurisdicción.
-Si el valor del cheque excediere de cincuenta mil pesos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
-4°) De las cuestiones civiles valorizables hasta cincuenta mil pesos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
+Si el valor del cheque excediere de trescientos mil pesos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
+4°) De las cuestiones civiles valorizables hasta trescientos mil pesos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
 
 Art. 39. Habrá en Santiago cuatro Juzgados de Letras de Menor Cuantía en lo Criminal.
 Estos Juzgados ejercerán su jurisdicción dentro del territorio que les fije el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago; pero podrán practicar actuaciones dentro de la jurisdicción asignada a cualesquiera de ellos en los asuntos sometidos a su conocimiento.
@@ -245,9 +247,9 @@ Las divisiones administrativas señaladas en los incisos anteriores, serán cons
 
 Art. 45. Los jueces de letras de mayor cuantía conocerán:
 1°) En única o en primera instancia, conforme al inciso final de este número:
-a) De las causas civiles sobre cosas cuyo valor exceda de cinco mil pesos, y también de las de cuantías inferiores cuando se trate de los juicios especiales del contrato de arrendamiento que se promuevan dentro de la ciudad cabecera del departamento, salvo en los dos casos, de aquellas cuyo conocimiento corresponda a los jueces de letras de menor cuantía;
+a) De las causas civiles sobre cosas cuyo valor exceda de treinta mil pesos; pero, tratándose de los juicios especiales del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de quince mil pesos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía.
 b) De las causas de comercio, con la misma salvedad de la letra precedente.
-Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de tres mil pesos y las causas de comercio que no excedan de cinco mil y en primera, todas las demás.
+Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de quince mil pesos y las causas de comercio que no excedan de treinta mil pesos y en primera todas las demás.
 2°) En primera instancia:
 a) De las causas de minas, cualquiera que sea su cuantía. Se entiende por causa de minas aquella en que ventilen derechos regidos especialmente por el Código de Minería.
 b) De los actos judiciales no contenciosos, cualquiera que sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil y en el artículo 33 de este Código;
@@ -1109,10 +1111,10 @@ TERCERA CATEGORIA. Jueces letrados de mayor cuantía que funcionen en el asiento
 CUARTA CATEGORIA. Jueces letrados de mayor cuantía de capital de provincia; y defensores públicos de Santiago y de Valparaíso.
 QUINTA CATEGORIA. Jueces letrados de mayor cuantía de departamento; jueces letrados de menor cuantía de Santiago; y secretarios de juzgados de letras de mayor cuantía de asiento de Corte de Apelaciones.
 SEXTA CATEGORIA. Jueces letrados de menor cuantía que funcionen en el asiento de las demás Cortes de Apelaciones; secretarios de juzgados de letras de mayor cuantía de capital de provincia; y defensores públicos de asiento de Corte y de capital de provincia.
-SEPTIMA CATEGORIA. Jueces letrados de menor cuantía; secretarios de juzgados de letras de mayor cuantía de departamento; y defensores públicos de departamento.
-OCTAVA CATEGORIA. Secretarios de juzgados de letras de menor cuantía.
+SEPTIMA CATEGORIA. Jueces letrados de menor cuantía; Secretarios de Juzgados de letras de mayor cuantía de departamento; Secretarios de Juzgados de letras de menor cuantía de Santiago, y Defensores públicos de departamento.
+OCTAVA CATEGORIA. Secretarios de los demás juzgados de letras de menor cuantía.
 
-Art. 268. Los jueces letrados de departamento, los jueces de menor cuantía y los secretarios de juzgados de letras de mayor cuantía con más de cinco años de permanencia en la categoría, tendrán para los efectos de los ascensos, los mismos derechos que los funcionarios de la categoría inmediatamente superior.
+Art. 268. Los jueces letrados de departamento, los jueces de menor cuantía, los secretarios de juzgados de letras de mayor cuantía y los secretarios de juzgados de letras de menor cuantía de Santiago, con más de cinco años de permanencia en la categoría, tendrán para los efectos de los ascensos, los mismos derechos que los funcionarios de la categoría inmediatamente superior.
 Igual regla se aplicará a los defensores públicos de las categorías sexta y séptima, con más de diez años de permanencia en el cargo o de veinte en el servicio judicial.
 
 #### 2). Escalafón Secundario
@@ -1848,7 +1850,7 @@ Sin embargo, cuando a una oposición para proveer el cargo de secretario no se p
 Art. 467. Para ser receptor de mayor cuantía o receptor ante los juzgados de letras de menor cuantía y procurador del número es menester tener las cualidades requeridas para poder ejercer el derecho de sufragio en las elecciones populares y acreditar la aptitud necesaria para desempeñar el cargo. Siempre será necesaria la edad de veinticinco años a lo menos para desempeñar el cargo de procurador.
 Para ser receptor de menor cuantía ante los juzgados de distrito y subdelegación se requiere esta misma edad.
 
-Art. 468. Para ser secretario de juzgado de letras de menor cuantía se requiere tener más de veintiún años, y saber leer y escribir.
+Art. 468. Para ser secretario de juzgado de letras de menor cuantía se requiere tener más de veintiún años, y saber leer y escribir. Los Secretarios de estos juzgados en Santiago, deberán, además, ser abogados.
 
 Art. 469. Las incapacidades en razón de parentesco establecidas en el artículo 258, rigen para todos los funcionarios del Escalafón Primario y de la primera serie del Escalafón Secundario dependientes de una Corte de Apelaciones en su respectivo territorio jurisdiccional.
 No podrán ser oficiales del ministerio público en un tribunal, las personas que tengan con uno o más jueces de él alguno de los parentescos indicados en el citado artículo.
@@ -2080,7 +2082,7 @@ De la jurisdicción disciplinaria y de la inspección y vigilancia de los servic
 
 Art. 530. Los jueces de distrito y de subdelegación y los jueces de letras de mayor y de menor cuantía están autorizados para reprimir o castigar los abusos que se cometieren dentro de la sala de su despacho y mientras ejercen sus funciones de tales, con alguno de los medios siguientes:
 1°) Amonestación verbal e inmediata;
-2°) Multa que no exceda de dos, cuatro, veinte o cincuenta pesos según se trate respectivamente de un juez de distrito, de subdelegación o de un juez de letras de menor o de mayor cuantía; y
+2°) Multa que no exceda de doscientos, cuatrocientos, dos mil o cinco mil pesos según se trate respectivamente de un juez de distrito, de subdelegación o de un juez de letras de menor o de mayor cuantía; y
 3°) Arresto que no exceda de veinticuatro o cuarenta y ocho horas, según se trate de un juez de distrito en el primer caso, o de un juez de subdelegación o de letras de menor cuantía en el segundo, y de cuatro días, si se trata de un juez de letras de mayor cuantía.
 Deberán emplear estos medios en el orden aquí expresado, y sólo podrán hacer uso de los dos últimos en caso de ineficacia o insuficiencia de los primeros.
 
@@ -2088,7 +2090,7 @@ Art. 531. Podrán también los jueces de letras de mayor cuantía, para la repre
 1°) Mandar devolver el escrito con orden de que no se admita mientras no se supriman las palabras o pasajes abusivos;
 2°) Hacer tarjar por el secretario esas mismas palabras o pasajes abusivos; y dejar copia de ellos en un libro privado que al efecto habrá en el juzgado;
 3°) Exigir firma de abogado para ese escrito y los demás que en adelante presente la misma parte, cuando ésta no esté patrocinada por un abogado en conformidad a la ley;
-4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de cincuenta pesos, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
+4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de diez mil pesos, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
 5°) Imponer efectivamente al abogado, o a la parte, o a ambos, las penas expresadas en el número anterior.
 Podrán los jueces de letras de mayor cuantía hacer uso de cualquiera de estos medios, o de dos o más de ellos simultáneamente, según lo estimaren necesario.
 Los jueces de letras de menor cuantía, en estos casos, solamente podrán usar alguno de los medios señalados en los tres primeros números de este artículo.
@@ -2114,7 +2116,7 @@ Art. 537. Las faltas o abusos de que habla el artículo anterior podrán corregi
 1°) Amonestación privada;
 2°) Censura por escrito;
 3°) Pago de costas;
-4°) Multa que no sea inferior a cien pesos, ni exceda de dos mil;
+4°) Multa que no sea inferior a mil pesos ni exceda de veinte mil;
 5°) Suspensión de funciones hasta por cuatro meses. Durante este tiempo el funcionario gozará de medio sueldo.
 Lo dicho en este artículo se entiende sólo respecto de aquellas faltas o abusos que las leyes no califiquen de crimen o simple delito.
 
@@ -2134,9 +2136,9 @@ La Corte Suprema puede, además, siempre que lo juzgare conveniente a la buena a
 Art. 542. Para la represión y castigo de las faltas que se cometieren ante la Corte Suprema y ante las Cortes de Apelaciones, mientras ejercen sus funciones, estos tribunales podrán emplear alguno de los medios siguientes:
 1°) Amonestación privada;
 2°) Censura por escrito;
-3°) Multa que no exceda de cien pesos;
+3°) Multa que no exceda de diez mil pesos;
 4°) Arresto que no exceda de ocho días.
-Este arresto será siempre conmutable en multa, en proporción de veinticinco pesos por cada día.
+Este arresto será siempre conmutable en multa, en proporción de dos mil quinientos pesos por cada día.
 Estos tribunales tendrán, también, las facultades que el artículo 531 otorga a los jueces de letras de mayor cuantía, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren.
 
 Art. 543. Si en las faltas de que habla el artículo anterior incurrieren los abogados, podrán también ser castigados con una suspensión del ejercicio de la profesión por un término que no exceda de dos meses y extensiva a todo el territorio de la República.
