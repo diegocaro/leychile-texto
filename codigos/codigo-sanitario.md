@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1984-05-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1984-08-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1984-05-04
-fetched_at: 2026-08-03T00:39:40.371232+00:00
+version_date: 1984-08-23
+fetched_at: 2026-08-03T00:39:52.388521+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -376,16 +376,18 @@ La autoridad sanitaria no podrá exigir el traslado antes del plazo de un año, 
 
 Artículo 85°.- Los planos reguladores comunales o intercomunales no podrán ser aprobados sin previo informe favorable del Servicio Nacional de Salud, respecto a las materias de que trata el presente título.
 
-Artículo 86.- Corresponderá a los Servicios de Salud, dentro de
-NOTA:
-l territorio de su competencia, otorgar la autorización previa para que puedan funcionar en él, instalaciones radiactivas, entendiéndose por tales aquellas
+Artículo 86.- Corresponderá a los Servicios de Salud, dentro del territorio de su competencia, otorgar la autorización previa para que puedan funcionar en él, instalaciones radiactivas, entendiéndose por tales aquellas
 NOTA:
 en que se produzcan, traten, manipulen, almacenen o utilicen materiales radiactivos o equipos que generen radiaciones ionizantes.
-La producción, fabricación, adquisición, posesión, uso, manipulación, almacenamiento, importación, exportación, distribución, venta, transporte, abandono o desecho de sustancias radiactivas que se utilicen o mantengan en las instalaciones radiactivas o en los equipos generadores de radiaciones ionizantes, deberán ser autorizados por dichos Servicios. Les corresponderá, asimismo, el control de las instalaciones radiactivas y de los equipos generadores de radiaciones ionizantes; y la prevención de los riesgos derivados del uso y aplicación de las sustancias radiactivas y de las radiaciones ionizantes, respecto de las personas expuestas, del elemento que las genera y del medio ambiente.
+La producción, fabricación, adquisición, posesión, uso, manipulación, almacenamiento, importación, exportación, distribución, venta, transporte, abandono o desecho de sustancias radiactivas que se utilicen o mantengan en las instalaciones radiactivas o en los equipos generadores de radiaciones ionizantes, deberán ser autorizados por dichos Servicios.
+NOTA 1:
+Les corresponderá, asimismo, el control de las instalaciones radiactivas y de los equipos generadores de radiaciones ionizantes; y la prevención de los riesgos derivados del uso y aplicación de las sustancias radiactivas y de las radiaciones ionizantes, respecto de las personas expuestas, del elemento que las genera y del medio ambiente.
 Las personas que se desempeñen en las instalaciones radiactivas, utilizando o manipulando sustancias radiactivas u operando equipos o aparatos generadores de radiaciones ionizantes, deberán tener autorización del Servicio de Salud correspondiente.
 NOTA:
 Los incisos 2° y 3° del Art. 67 de la LEY 18302, publicada el 02.05.1984, sobre Seguridad Nuclear, complementan esta disposición estableciendo que: "corresponderá a los Servicios de Salud, conforme a las disposiciones del Código Sanitario, la autorización y el control de la aplicación y el manejo de las sustancias radiactivas en instalaciones radiactivas o en equipos generadores de radiaciones ionizantes, y la prevención de los riesgos derivados de su uso y manipulación.
 Sin embargo, competerá a la Comisión Chilena de Energía Nuclear la autorización, el control y la prevención de riesgos respecto de las instalaciones radiactivas que se encuentren dentro de una instalación nuclear, y de las que, conforme al reglamento, sean declaradas de primera categoría."
+NOTA 1:
+Véase el Decreto 133, Salud, publicado el 23.08.1984, que establece el Reglamento sobre Autorizaciones para Instalaciones Radiactivas, personal que se desempeña en ellas y otras actividades afines.
 
 Artículo 87°.- El Servicio Nacional de Salud tendrá a su cargo la recopilación y análisis de los datos estadísticos referentes a los accidentes y enfermedades profesionales, los que le deberán ser proporcionados por el empleador, en la forma y con la periodicidad que él señale.
 Las enfermedades profesionales serán notificadas por el médico que las constate, en la forma y condiciones que el Servicio Nacional de Salud establezca.
