@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1969-06-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1969-12-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1969-06-11
-fetched_at: 2026-08-03T00:20:06.403239+00:00
+version_date: 1969-12-19
+fetched_at: 2026-08-03T00:20:12.413354+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -293,7 +293,11 @@ a) la provisión o purificación de agua potable de una población, y
 b) la evacuación, tratamiento o disposición final de desagües, aguas servidas de cualquier naturaleza y residuos industriales o mineros.
 Antes de poner en explotación las obras mencionadas, ellas deben ser autorizadas por el Servicio Nacional de Salud.
 
-Artículo 72°.- El Servicio Nacional de Salud ejercerá la vigilancia sanitaria sobre provisiones o plantas de agua destinadas al uso del hombre, como asimismo de las plantas depuradoras de aguas servidas y de residuos industriales o mineros; podrá sancionar a los responsables de infracciones y en casos calificados, intervenir directamente en la explotación de estos servicios, previo decreto del Presidente de la República.
+Artículo 72°.- El Servicio Nacional de Salud ejercerá
+NOTA:
+la vigilancia sanitaria sobre provisiones o plantas de agua destinadas al uso del hombre, como asimismo de las plantas depuradoras de aguas servidas y de residuos industriales o mineros; podrá sancionar a los responsables de infracciones y en casos calificados, intervenir directamente en la explotación de estos servicios, previo decreto del Presidente de la República.
+NOTA:
+Véase el Decreto 735, Salud, publicado el 19.12.1969, que aprueba el Reglamento de los Servicios de Agua destinados al consumo humano.
 
 Artículo 73°.- Prohíbese descargar las aguas servidas y los residuos industriales o mineros en ríos o lagunas, o en cualquier otra fuente o masa de agua que sirva para proporcionar agua potable a alguna población, para riego o para balneario, sin que antes se proceda a su depuración en la forma que se señale en los reglamentos.
 Sin perjuicio de lo establecido en el Libro IX de este Código, la autoridad sanitaria podrá ordenar la inmediata suspensión de dichas descargas y exigir la ejecución de sistemas de tratamientos satisfactorios destinados a impedir toda contaminación.
