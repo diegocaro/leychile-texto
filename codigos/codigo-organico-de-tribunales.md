@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1957-08-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1957-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1957-08-12
-fetched_at: 2026-08-03T00:13:55.622442+00:00
+version_date: 1957-08-30
+fetched_at: 2026-08-03T00:14:07.623595+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1169,7 +1169,7 @@ La elección de las personas que deban figurar en las propuestas o ternas, para 
 Sin embargo, cuando se trate de propuestas o ternas para el nombramiento, en calidad de interinos o suplentes, de Relatores o Secretarios de las Cortes de Apelaciones, podrán figurar en las presentaciones, a falta de funcionarios que reúnan los requisitos generales o de idoneidad para tales funciones, otros de la cuarta o quinta categorías, cualquiera que sea la jurisdicción a que pertenezcan y el tiempo que hayan permanecido en la respectiva categoría.
 
 Art. 280. No podrá ser promovido a una categoría superior, el funcionario que tenga menos de dos años de servicios en su grado, salvo que en la categoría inmediatamente inferior hubiere servido más de cinco años, en cuyo caso necesitará sólo un año. Podrá, no obstante, ser ascendido si no se interesare por el cargo ningún funcionario con más de dos años en el grado.
-El tiempo servido en las provincias de Aysén y Magallanes se computará doblado para los efectos de la antigüedad de los funcionarios en su categoría y del requisito para el ascenso. Este beneficio no servirá para obtener mayor remuneración.
+El tiempo servido en las provincias de Chiloé, Aysen y Magallanes se computará doblado para los efectos de la antigüedad de los funcionarios en su categoría y del requisito para el ascenso. Este beneficio no servirá para obtener mayor remuneración.
 
 Art. 281. En las presentaciones no podrán figurar funcionarios a quienes en el año anterior, contado hacia atrás, desde el día que se produjo la vacante que se trata de proveer, se hubieren aplicado medidas disciplinarias de censura por escrito, pago de costas, multas o suspensión, ni aquéllos que hayan sido afectados por suspensión de sus cargos en los últimos cinco años; pero si en conformidad al artículo 83 de la Constitución Política alguno hubiere de entrar en terna por antigüedad, en ella dejará constancia de las medidas que le hayan afectado.
 Los funcionarios figurarán en terna por orden estricto de antigüedad.
