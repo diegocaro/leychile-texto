@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1984-09-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1985-08-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1984-09-26
-fetched_at: 2026-08-03T00:40:04.403758+00:00
+version_date: 1985-08-23
+fetched_at: 2026-08-03T00:41:46.494225+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -136,6 +136,12 @@ Art. 23. Son aplicables en las causas de que deben conocer los Juzgados a que se
 
 Art. 24. En materia criminal no puede, en caso alguno, ser prorrogada la jurisdicción por voluntad de las partes.
 Inciso Segundo.- DEROGADO.-
+
+Art. 24-A. Las normas de los artículos 507, 508 y 512 del Código Orgánico de Tribunales serán aplicables a los dineros que sea necesario poner a disposición de los Tribunales Militares.
+La obligación de abrir y mantener la cuenta bancaria de depósito corresponderá a los Juzgados Institucionales, los que podrán encargar tal cometido a las Fiscalías de su dependencia.
+Los reajustes e intereses de los dineros depositados a que se refiere el inciso primero de este artículo, podrán destinarse por los Juzgados Institucionales a la adquisición de libros, muebles y útiles para los Tribunales Militares.
+Asimismo, los Juzgados Institucionales podrán destinar los dineros depositados en su cuenta bancaria cuya devolución no hubiere sido reclamada dentro del plazo de cinco años, contado desde la fecha en que quede ejecutoriada la sentencia que haya puesto término al proceso respectivo, a la adquisición de los bienes señalados en el inciso precedente y al acondicionamiento y reparación de los inmuebles fiscales en que funcionen los Tribunales Militares.
+Los Juzgados Institucionales deberán rendir cuenta anualmente de la inversión de los referidos fondos, a la Contraloría General de la República.
 
 #### 2. De los Fiscales
 
@@ -491,6 +497,10 @@ Art. 101. Toda resolución que imponga una medida disciplinaria, deberá ser tra
 Art. 102. Derogado.
 
 Art. 103. Derogado.
+
+Art. 104. Derogado.
+
+Art. 105. Derogado.
 
 Art. 106. El personal de los cuerpos jurídicos militares tendrá los mismos derechos y prerrogativas del personal ordinario de justicia, establecidos en el Código Orgánico de Tribunales y demás Leyes y reglamentos respectivos.
 
