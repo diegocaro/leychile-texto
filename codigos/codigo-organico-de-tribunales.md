@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1947-09-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1948-07-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1947-09-08
-fetched_at: 2026-08-03T00:09:13.384042+00:00
+version_date: 1948-07-20
+fetched_at: 2026-08-03T00:09:25.397738+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -873,6 +873,7 @@ Art. 214. Para los efectos de la subrogación, se entenderá también que falta 
 En tales casos, la subrogación sólo durará el tiempo de la ausencia.
 El secretario dará cuenta mensualmente de estas subrogaciones a la respectiva Corte de Apelaciones, la que deberá dictar las providencias del caso, si este hecho ocurriere con relativa frecuencia.
 Los subrogantes sólo podrán dictar sentencias definitivas en aquellos negocios en que conozcan por inhabilidad, implicancia o recusación del titular; pero esta limitación no regirá cuando el subrogante sea un juez de letras, el defensor público o el secretario del respectivo juzgado.
+No obstante lo dispuesto en los artículos anteriores, el Secretario del Juzgado que no sea abogado subrogará al Juez para el solo efecto de dictar las providencias de mera substanciación, definidas en el artículo 70 del presente Código.
 
 Art. 215. Si por falta o inhabilidad de algunos de sus miembros quedare una Corte de Apelaciones o cualquiera de sus salas sin el número de jueces necesario para el conocimiento y resolución de las causas que les estuvieren sometidas, se integrarán con los miembros no inhabilitados del mismo tribunal, con sus fiscales y con los abogados que se designen anualmente con este objeto.
 El llamamiento de los integrantes se hará en el orden indicado y los abogados se llamarán por el orden de su designación en la lista de su nombramiento.
