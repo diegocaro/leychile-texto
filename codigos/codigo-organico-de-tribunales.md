@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1981-05-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1981-11-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1981-05-01
-fetched_at: 2026-08-03T00:34:22.042189+00:00
+version_date: 1981-11-06
+fetched_at: 2026-08-03T00:34:58.074919+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -267,28 +267,29 @@ Las Cortes de Apelaciones
 
 ### § 1. Su organización y atribuciones
 
-Art. 54. Habrá en la República dieciséis Cortes de Apelaciones que tendrán su asiento en las ciudades o departamentos de Iquique, Antofagasta, Copiapó, La Serena, Valparaíso, Santiago, Presidente Aguirre Cerda, Rancagua, Talca, Chillán, Concepción, Temuco, Valdivia, Puerto Montt, Coyhaique y Punta Arenas.
+Art. 54. Habrá en la República diecisiete Cortes de Apelaciones, que tendrán su asiento en las ciudades o departamentos de Arica, Iquique, Antofagasta, Copiapó, La Serena, Valparaíso, Santiago, Presidente Aguirre Cerda, Rancagua, Talca, Chillán, Concepción, Temuco, Valdivia, Puerto Montt, Coyhaique y Punta Arenas.
 
 Art. 55. El territorio jurisdiccional de las Cortes de Apelaciones será el siguiente:
-a) El de la Corte de Iquique comprenderá la provincia de Tarapacá;
-b) El de la Corte de Antofagasta comprenderá la provincia de Antofagasta;
-c) El de la Corte de Copiapó comprenderá la provincia de Atacama;
-d) El de la Corte de La Serena comprenderá la provincia de Coquimbo;
-e) El de la Corte de Valparaíso comprenderá las provincias de Aconcagua y Valparaíso;
-f) El de la Corte de Santiago comprenderá la provincia de Santiago;
-g) El de la Corte Presidente Aguirre Cerda comprenderá el departamento del mismo nombre y los de Puente Alto, San Bernardo, Maipo, Talagante, Melipilla y San Antonio;
-h) En la Corte de Rancagua comprenderá las provincias de O'Higgins y Colchagua;
-i) El de la Corte de Talca comprenderá el departamento de Constitución de la provincia de Maule y las provincias de Curicó, Talca y Linares, exceptuando de esta última el departamento de Parral;
-j) El de la Corte de Chillán comprenderá el departamento de Parral de la provincia de Linares y las provincias de Ñuble y Maule, exceptuando de esta última el departamento de Constitución;
-k) El de la Corte de Concepción comprenderá las provincias de Concepción, Bío-Bío y Arauco;
-l) El de la Corte de Temuco comprenderá las provincias de Malleco y Cautín;
-m) El de la Corte de Valdivia comprenderá las provincias de Valdivia y Osorno;
-n) El de la Corte de Puerto Montt comprenderá las provincias de Llanquihue y Chiloé;
-ñ) El de la Corte de Coyhaique comprenderá la provincia de Aysen, y
-o) El de la Corte de Punta Arenas comprenderá la provincia de Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
+a) El de la Corte de Arica comprenderá el departamento del mismo nombre;
+b) El de la Corte de Iquique comprenderá los departamentos de Iquique y Pisagua;
+c) El de la Corte de Antofagasta comprenderá la provincia de Antofagasta;
+d) El de la Corte de Copiapó comprenderá la provincia de Atacama;
+e) El de la Corte de La Serena comprenderá la provincia de Coquimbo;
+f) El de la Corte de Valparaíso comprenderá las provincias de Aconcagua y Valparaíso;
+g) El de la Corte de Santiago comprenderá la provincia de Santiago;
+h) El de la Corte Presidente Aguirre Cerda comprenderá el departamento del mismo nombre y los de Puente Alto, San Bernardo, Maipo, Talagante, Melipilla y San Antonio;
+i) En la Corte de Rancagua comprenderá las provincias de O'Higgins y Colchagua;
+j) El de la Corte de Talca comprenderá el departamento de Constitución de la provincia de Maule y las provincias de Curicó, Talca y Linares, exceptuando de esta última el departamento de Parral;
+k) El de la Corte de Chillán comprenderá el departamento de Parral de la provincia de Linares y las provincias de Ñuble y Maule, exceptuando de esta última el departamento de Constitución;
+l) El de la Corte de Concepción comprenderá las provincias de Concepción, Bío-Bío y Arauco;
+m) El de la Corte de Temuco comprenderá las provincias de Malleco y Cautín;
+n) El de la Corte de Valdivia comprenderá las provincias de Valdivia y Osorno;
+ñ) El de la Corte de Puerto Montt comprenderá las provincias de Llanquihue y Chiloé;
+o) El de la Corte de Coyhaique comprenderá la provincia de Aysen, y
+p) El de la Corte de Punta Arenas comprenderá la provincia de Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
 
 Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indica:
-1° Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Chillán, Valdivia, Puerto Montt, Coyhaique y Punta Arenas tendrán cuatro miembros;
+1° Las Cortes de Arica, Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Chillán, Valdivia, Puerto Montt, Coyhaique y Punta Arenas tendrán cuatro miembros;
 2° La Corte de Temuco tendrá cinco miembros;
 3° La Corte Presidente Aguirre Cerda tendrá siete miembros;
 4° Las Cortes de Valparaíso y Concepción tendrán diez miembros;
@@ -300,7 +301,7 @@ Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendr�
 Art. 58. Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá cinco Fiscales, y las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal, como lo estime más conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
 Art. 59. Las Cortes de Apelaciones tendrán el número de Relatores que a continuación se indica:
-1°.- Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Puerto Montt, Coyhaique y Punta Arenas tendrán un relator;
+1°.- Las Cortes de Arica, Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Puerto Montt, Coyhaique y Punta Arenas tendrán un relator;
 2°.- Las Cortes de Chillán, Temuco y Valdivia, dos relatores;
 3°.- La Corte Presidente Aguirre Cerda, tres relatores;
 4°.- Las Cortes de Valparaíso y Concepción, cuatro relatores;
@@ -882,7 +883,7 @@ La integración de las salas de la Corte de Santiago se hará preferentemente co
 
 Art. 216. Si en una Sala de las Cortes de Apelaciones no queda ningún miembro hábil se deferirá el conocimiento del negocio a otra de las Salas de que se componga el Tribunal y si la inhabilidad o impedimento afecta a la totalidad de sus miembros, pasará el asunto a la Corte de Apelaciones que deba subrogar según las reglas siguientes:
 Se subrogarán recíprocamente, las Cortes de Apelaciones de Iquique con la de Antofagasta; la de Copiapó con la de La Serena; la de Santiago con la de Valparaíso; la de Presidente Aguirre Cerda con la de Rancagua; la de Talca con la de Chillán; la de Concepción con la de Temuco; la de Valdivia con la de Puerto Montt, y la de Coyhaique con la de Punta Arenas.
-La Corte de Apelaciones de Punta Arenas será subrogada por la de Coyhaique.
+La Corte de Apelaciones de Arica será subrogada por la de Iquique.
 En los casos en que no puedan aplicarse las reglas precedentes, conocerá la Corte de Apelaciones cuya sede esté más próxima a la de la que debe ser subrogada.
 
 Art. 217. Si la Corte Suprema o algunas de sus salas se hallare en el caso previsto en el artículo 215 se llamará a integrar a los miembros no inhabilitados de la misma Corte Suprema, al fiscal del tribunal o a los abogados que se designen anualmente con este objeto.
