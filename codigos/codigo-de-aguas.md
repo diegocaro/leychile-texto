@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=1984-12-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=1985-04-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 1984-12-29
-fetched_at: 2026-08-03T00:40:46.437826+00:00
+version_date: 1985-04-20
+fetched_at: 2026-08-03T00:41:28.476831+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1172,6 +1172,8 @@ ARTICULO 315°- En las corrientes naturales o en los cauces artificiales en que 
 En tal caso, las personas designadas con dicho objeto por la Dirección, actuarán con todas las atribuciones que la ley confiere a los directores o administradores de dichos organismos, según corresponda, siendo aplicable lo dispuesto en el artículo 275°.
 
 ARTICULO 316°- Las prohibiciones y sanciones impuestas en el Código de Minería, sobre labores de investigación y cateo de minas, son aplicables a los terrenos que ocupen los embalses, canales y demás obras de riego.
+
+ARTICULO 317°- En los actos y contratos que importen la transferencia del dominio de un bien raíz o de un establecimiento para cuya explotación se requiera utilizar derechos de aprovechamiento de aguas, deberá señalarse expresamente si incluyen o no tales derechos. Si así no se hiciere, se presumirá que el acto o contrato no los comprende.
 
 ## DISPOSICIONES TRANSITORIAS
 
