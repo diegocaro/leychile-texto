@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1999-10-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2000-04-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1999-10-27
-fetched_at: 2026-08-03T01:09:16.653076+00:00
+version_date: 2000-04-29
+fetched_at: 2026-08-03T01:10:40.684199+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -393,6 +393,7 @@ b) las medidas de protección sanitaria y de seguridad que deben adoptarse en la
 c) las condiciones de higiene y seguridad que deben reunir los equipos de protección personal y la obligación de su uso.
 NOTA:
 Véase el Decreto 655, Trabajo, publicado el 07.03.1941, que fija el Reglamento General de Higiene y Seguridad Industriales.
+Véase también el Decreto 594, Salud, publicado el 29.04.2000, vigente a contar de 365 días desde su publicación, que establece el Reglamento sobre Condiciones Sanitarias y Ambientales Mínimas en los lugares de trabajo.
 
 Artículo 83°.- Las Municipalidades no podrán otorgar patentes definitivas para la instalación, ampliación o traslado de industrias, sin informe previo de la autoridad sanitaria sobre los efectos que ésta puede ocasionar en el ambiente.
 Para evacuar dicho informe, la autoridad sanitaria tomará en cuenta los planos reguladores comunales o intercomunales y los riesgos que el funcionamiento de la industria pueda causar a sus trabajadores, al vecindario y a la comunidad.
@@ -403,7 +404,9 @@ La autoridad sanitaria no podrá exigir el traslado antes del plazo de un año, 
 
 Artículo 85°.- Los planos reguladores comunales o intercomunales no podrán ser aprobados sin previo informe favorable del Servicio Nacional de Salud, respecto a las materias de que trata el presente título.
 
-Artículo 86.- Corresponderá a los Servicios de Salud, dentro del territorio de su competencia, otorgar la autorización previa para que puedan funcionar en él, instalaciones radiactivas, entendiéndose por tales aquellas
+Artículo 86.- Corresponderá a los Servicios de Salud, dentro de
+NOTA:
+l territorio de su competencia, otorgar la autorización previa para que puedan funcionar en él, instalaciones radiactivas, entendiéndose por tales aquellas
 NOTA:
 en que se produzcan, traten, manipulen, almacenen o utilicen materiales radiactivos o equipos que generen radiaciones ionizantes.
 La producción, fabricación, adquisición, posesión, uso, manipulación, almacenamiento, importación, exportación, distribución, venta, transporte, abandono o desecho de sustancias radiactivas que se utilicen o mantengan en las instalaciones radiactivas o en los equipos generadores de radiaciones ionizantes, deberán ser autorizados por dichos Servicios.
@@ -427,7 +430,9 @@ DE OTROS FACTORES DE RIESGO
 #### Párrafo I
 DE LA CONTAMINACION DEL AIRE Y DE LOS RUIDOS Y VIBRACIONES
 
-Artículo 89°.- El Reglamento comprenderá normas como las que se refieren a:
+Artículo 89°.- El Reglamento comprenderá normas como
+NOTA
+las que se refieren a:
 a) la conservación y pureza del aire y evitar en él
 NOTA 1:
 la presencia de materias u olores que constituyan una amenaza para la salud, seguridad o bienestar del hombre o que tengan influencia desfavorable sobre el uso y goce de los bienes.
@@ -438,9 +443,9 @@ de los ocupantes de edificios o locales de cualquier naturaleza, del vecindario 
 NOTA
 Véanse la LEY 18122, publicada el 17.05.1982, que creó el Servicio de Salud del Ambiente en la Región Metropolitana; y el Decreto 206, Salud, publicado el 07.12.1982, Reglamento Orgánico de dicho Servicio.
 NOTA 1:
-Véase el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza.
+Véanse el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza; y el Decreto 32, Salud, D.O. 24.05.1990, que reglamenta el funcionamiento de fuentes emisoras de contaminantes atmosféricos en situaciones de emergencia por contaminación.
 NOTA 2:
-Véase el Decreto 32, Salud, D.O. 24.05.1990, que reglamenta el funcionamiento de fuentes emisoras de contaminantes atmosféricos en situaciones de emergencia por contaminación.
+Véase el Decreto 594, Salud, publicado el 29.04.2000, vigente a contar de 365 días desde su publicación, que establece el Reglamento sobre Condiciones Sanitarias y Ambientales Mínimas en los lugares de trabajo.
 
 #### Párrafo II
 DE LAS SUBSTANCIAS TOXICAS O PELIGROSAS PARA LA SALUD
