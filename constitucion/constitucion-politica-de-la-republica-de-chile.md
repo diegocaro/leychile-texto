@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1980-08-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1980-08-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 1980-08-11
-fetched_at: 2026-08-05T02:23:24.160234+00:00
+version_date: 1980-08-12
+fetched_at: 2026-08-05T02:23:36.169363+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -36,7 +36,7 @@ Artículo 4°.- Chile es una república democrática.
 Artículo 5°.- La soberanía reside esencialmente en la Nación. Su ejercicio se realiza por el pueblo a través del plebiscito y de elecciones periódicas y, también, por las autoridades que esta Constitución establece. Ningun sector del pueblo ni individuo alguno puede atribuirse su ejercicio.
 El ejercicio de la soberanía reconoce como limitación el respeto a los derechos esenciales que emanan de la naturaleza humana.
 
-Artículo 6°.- Los órganos del Estado deben someter su acción a la Constitución y a las normas dictadas conforme a ella.
+Artículo 6º.- Los órganos del Estado deben someter su acción a la Constitución y a las normas dictadas conforme a ella.
 Los preceptos de esta Constitución obligan tanto a los titulares o integrantes de dichos órganos como a toda persona, institución o grupo.
 La infracción de esta norma generará las responsabilidades y sanciones que determine la ley.
 
@@ -59,19 +59,20 @@ No procederá respecto de estos delitos la amnistía ni el indulto, como tampoco
 Nacionalidad y ciudadanía
 
 Artículo 10.- Son chilenos:
-1o.- Los nacidos en el territorio de Chile, con excepción de los hijos de extranjeros que se encuentren en Chile en servicio de su Gobierno, y de los hijos de extranjeros transeúntes, todos los que, sin embargo, podrán optar por la nacionalidad chilena;
-2o.- Los hijos de padre o madre chilenos nacidos en territorio extranjero, hallándose cualquiera de éstos en actual servicio de la República, quienes se considerarán para todos los efectos como nacidos en el territorio chileno;
-3o.- Los hijos de padre o madre chilenos, nacidos en territorio extranjero, por el solo hecho de avecindarse por más de un año en Chile;
-4o.- Los extranjeros que obtuvieren carta de nacionalización en conformidad a la ley, renunciando expresamente a su nacionalidad anterior. No se exigirá esta renuncia a los nacidos en país extranjero que, en virtud de un tratado internacional, conceda este mismo beneficio a los chilenos. Los nacionalizados en conformidad a este número tendrán opción a cargos públicos de elección popular sólo después de cinco años de estar en posesión de sus cartas de nacionalización, y 5o.- Los que obtuvieren especial gracia de nacionalización por ley.
+1º.- Los nacidos en el territorio de Chile, con excepción de los hijos de extranjeros que se encuentren en Chile en servicio de su Gobierno, y de los hijos de extranjeros transeúntes, todos los que, sin embargo, podrán optar por la nacionalidad chilena;
+2º.- Los hijos de padre o madre chilenos nacidos en territorio extranjero, hallándose cualquiera de éstos en actual servicio de la República, quienes se considerarán para todos los efectos como nacidos en el territorio chileno;
+3º.- Los hijos de padre o madre chilenos, nacidos en territorio extranjero, por el solo hecho de avecindarse por más de un año en Chile;
+4º.- Los extranjeros que obtuvieren carta de nacionalización en conformidad a la ley, renunciando expresamente a su nacionalidad anterior. No se exigirá esta renuncia a los nacidos en país extranjero que, en virtud de un tratado internacional, conceda este mismo beneficio a los chilenos.
+Los nacionalizados en conformidad a este número tendrán opción a cargos públicos de elección popular sólo después de cinco años de estar en posesión de sus cartas de nacionalización, y
+5º.- Los que obtuvieren especial gracia de nacionalización por ley.
 La ley reglamentará los procedimientos de opción por la nacionalidad chilena; de otorgamiento, negativa y cancelación de las cartas de nacionalización, y la formación de un registro de todos estos actos.
 
 Artículo 11.- La nacionalidad chilena se pierde:
-1o.- Por nacionalización en país extranjero, salvo en el caso de aquellos chilenos comprendidos en los numeros 1o., 2o. y 3o. del artículo anterior que hubieren obtenido otra nacionalidad sin renunciar a su nacionalidad chilena y de acuerdo con lo establecido en el No. 4o. del mismo artículo.
+1º.- Por nacionalización en país extranjero, salvo en el caso de aquellos chilenos comprendidos en los números 1º., 2º. y 3º. del artículo anterior que hubieren obtenido otra nacionalidad sin renunciar a su nacionalidad chilena y de acuerdo con lo establecido en el Nº. 4º. del mismo artículo.
 La causal de pérdida de la nacionalidad chilena señalada precedentemente no regirá respecto de los chilenos que, en virtud de disposiciones constitucionales, legales o administrativas del Estado en cuyo territorio residan, adopten la nacionalidad extranjera como condición de su permanencia en él o de igualdad jurídica en el ejercicio de los derechos civiles con los nacionales del respectivo país;
-2o.- Por decreto supremo, en caso de prestación de servicios durante una guerra exterior a enemigos de Chile o de sus aliados;
-3o.- Por sentencia judicial condenatoria por delitos contra la dignidad de la patria o los intereses esenciales y permanentes del Estado, así considerados por ley aprobada con quórum calificado. En estos procesos, los hechos se apreciarán siempre en conciencia;
-4o.- Por cancelación de la carta de nacionalización, y
-5o.- Por ley que revoque la nacionalización concedida por gracia.
+2º.- Por decreto supremo, en caso de prestación de servicios durante una guerra exterior a enemigos de Chile o de sus aliados;
+3º.- Por sentencia judicial condenatoria por delitos contra la dignidad de la patria o los intereses esenciales y permanentes del Estado, así considerados por ley aprobada con quórum calificado. En estos procesos, los hechos se apreciarán siempre en conciencia;
+4º.- Por cancelación de la carta de nacionalización, y 5º.- Por ley que revoque la nacionalización concedida por gracia.
 Los que hubieren perdido la nacionalidad chilena por cualquiera de las causales establecidas en este artículo, sólo podrán ser rehabilitados por ley.
 
 Artículo 12.- La persona afectada por acto o resolución de autoridad administrativa que la prive de su nacionalidad chilena o se la desconozca, podrá recurrir, por sí o por cualquiera a su nombre, dentro del plazo de treinta días, ante la Corte Suprema, la que conocerá como jurado y en tribunal pleno. La interposición del recurso suspenderá los efectos del acto o resolución recurridos.
@@ -79,7 +80,7 @@ Artículo 12.- La persona afectada por acto o resolución de autoridad administr
 Artículo 13.- Son ciudadanos los chilenos que hayan cumplido dieciocho años de edad y que no hayan sido condenados a pena aflictiva.
 La calidad de ciudadano otorga los derechos de sufragio, de optar a cargos de elección popular y los demás que la Constitución o la ley confieran.
 
-Artículo 14.- Los extranjeros avencindados en Chile por mas de cinco años, y que cumplan con los requisitos señalados en el inciso primero del artículo 13, podrán ejercer el derecho de sufragio en los casos y formas que determine la ley.
+Artículo 14.- Los extranjeros avecindados en Chile por más de cinco años, y que cumplan con los requisitos señalados en el inciso primero del artículo 13, podrán ejercer el derecho de sufragio en los casos y formas que determine la ley.
 
 Artículo 15.- En las votaciones populares, el sufragio será personal, igualitario y secreto. Para los ciudadanos será, además, obligatorio.
 Sólo podrá convocarse a votación popular para las elecciones y plebiscitos expresamente previstos en esta Constitución.
@@ -90,10 +91,10 @@ Artículo 16.- El derecho de sufragio se suspende:
 3o.- Por haber sido sancionado por el Tribunal Constitucional en conformidad al artículo 8o. de esta Constitución. Los que por esta causa se hallaren privados del ejercicio del derecho de sufragio lo recuperarán al término de diez años, contado desde la declaración del Tribunal.
 
 Artículo 17.- La calidad de ciudadano se pierde:
-1o.- Por pérdida de la nacionalidad chilena;
-2o.- Por condena a pena aflictiva, y
-3o.- Por condena por delitos que la ley califique como conducta terrorista.
-Los que hubieren perdido la ciudadanía por la causal señalada en el numero 2o. podrán solicitar su rehabilitación al Senado, una vez extinguida su responsabilidad penal. Los que hubieren perdido la ciudadanía por la causal prevista en el numero 3o. sólo podrán ser rehabilitados en virtud de una ley de quórum calificado, una vez cumplida la condena.
+1º.- Por pérdida de la nacionalidad chilena;
+2º.- Por condena a pena aflictiva, y
+3º.- Por condena por delitos que la ley califique como conducta terrorista.
+Los que hubieren perdido la ciudadanía por la causal señalada en el número 2º. podrán solicitar su rehabilitación al Senado, una vez extinguida su responsabilidad penal. Los que hubieren perdido la ciudadanía por la causal prevista en el número 3º. sólo podrán ser rehabilitados en virtud de una ley de quórum calificado, una vez cumplida la condena.
 
 Artículo 18.- Habrá un sistema electoral público. Una ley orgánica constitucional determinará su organización y funcionamiento, regulará la forma en que se realizarán los procesos electorales y plebiscitarios, en todo lo no previsto por esta Constitución y, garantizará siempre la plena igualdad entre los independientes y los miembros de partidos políticos tanto en la presentación de candidaturas como en su participación en los señalados procesos.
 El resguardo del orden público durante los actos electorales y plebiscitarios corresponderá a las Fuerzas Armadas y Carabineros del modo que indique la ley.
@@ -208,8 +209,8 @@ Será aplicable a la propiedad de las creaciones intelectuales y artísticas y a
 26o.- La seguridad de que los preceptos legales que por mandato de la Constitución regulen o complementen las garantías que ésta establece o que las limiten en los casos en que ella lo autoriza, no podrán afectar los derechos en su esencia, ni imponer condiciones, tributos o requisitos que impidan su libre ejercicio.
 Se exceptúan las normas relativas a los estados de excepción constitucional y demás que la propia Constitución contempla.
 
-Artículo 20.- El que por causa de actos u omisiones arbitrarios o ilegales sufra privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías establecidos en el artículo 19, números 1o., 2o. 3o. inciso cuarto, 4o., 5o., 6o., 9o. inciso final, 11o., 12o., 13o., 15o., 16. en lo relativo a la libertad de trabajo y al derecho a su libre elección y libre contratación, y a lo establecido en el inciso cuarto, 19o., 21o., 22o., 23o., 24o. y 25o. podrá ocurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectivas, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes.
-Procederá, también, el recurso de protección en el caso del No. 8°. del artículo 19, cuando el derecho a vivir en un medio ambiente libre de contaminación sea afectado por un acto arbitrario e ilegal imputable a una autoridad o persona determinada.
+Artículo 20.- El que por causa de actos u omisiones arbitrarios o ilegales sufra privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías establecidos en el artículo 19, números 1º., 2º. 3º. inciso cuarto, 4º., 5º., 6º., 9º. inciso final, 11º., 12º., 13º., 15º., 16º. en lo relativo a la libertad de trabajo y al derecho a su libre elección y libre contratación, y a lo establecido en el inciso cuarto, 19º., 21º., 22º., 23º., 24o. y 25º. podrá ocurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectivas, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes.
+Procederá, también, el recurso de protección en el caso del Nº. 8º. del artículo 19, cuando el derecho a vivir en un medio ambiente libre de contaminación sea afectado por un acto arbitrario e ilegal imputable a una autoridad o persona determinada.
 
 Artículo 21.- Todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, podrá ocurrir por sí, o por cualquiera a su nombre, a la magistraturá que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
 Esa magistratura podrá ordenar que el individuo sea traído a su presencia y su decreto será precisamente obedecido por todos los encargados de las cárceles o lugares de detención. Instruida de los antecedentes, decretará su libertad inmediata o hará que se reparen los defectos legales o pondrá al individuo a disposición del juez competente, procediendo en todo breve y sumariamente, y corrigiendo por sí esos defectos o dando cuenta a quien corresponda para que los corrija.
@@ -238,10 +239,10 @@ El Presidente de la República no podrá salir del territorio nacional por más 
 En todo caso, el Presidente de la República comunicará con la debida anticipación al Senado su decisión de ausentarse del territorio y los motivos que la justifican.
 
 Artículo 26.- El Presidente será elegido en votación directa y por mayoría absoluta de los sufragios válidamente emitidos. La elección se realizará, en la forma que determine la ley, noventa días antes de aquel en que deba cesar en el cargo el que esté en funciones.
-Si la elección de Presidente se presentaren más de dos candidatos y ninguno de ellos obtuviere más de la mitad de los sufragios válidamente emitidos, se procederá a una nueva elección que se verificará, en la forma que determine la ley, quince días después de que el Tribunal Calificador, dentro del plazo señalado en el artículo siguiente, haga la correspondiente declaración. Esta elección se circunscribirá a los dos candidatos que hubieren obtenido las más altas mayorías relativas.
+Si a la elección de Presidente se presentaren más de dos candidatos y ninguno de ellos obtuviere más de la mitad de los sufragios válidamente emitidos, se procederá a una nueva elección que se verificará, en la forma que determine la ley, quince días después de que el Tribunal Calificador, dentro del plazo señalado en el artículo siguiente, haga la correspondiente declaración. Esta elección se circunscribirá a los dos candidatos que hubieren obtenido las más altas mayorías relativas.
 Para los efectos de lo dispuesto en los dos incisos precedentes, los votos en blanco y los nulos se considerarán como no emitidos.
 
-Artículo 27.- El proceso de calificación de la elección presidencial deberá quedar concluido dentro de los cuarenta días siguientes a la primera elección o de los veinticinco días siguientes a la segúnda.
+Artículo 27.- El proceso de calificación de la elección presidencial deberá quedar concluido dentro de los cuarenta días siguientes a la primera elección o de los veinticinco días siguientes a la segunda.
 El Tribunal Calificador de Elecciones comunicará de inmediato al Presidente del Senado la proclamación de Presidente electo que haya efectuado.
 El Congreso Pleno, reunido en sesión pública noventa días después de la primera o única elección y con los miembros que asistan, tomará conocimiento de la resolución en virtud de la cual el Tribunal Calificador proclama al Presidente electo.
 En este mismo acto, el Presidente electo prestará ante el Presidente del Senado, juramento o promesa de desempeñar fielmente el cargo de Presidente de la República, conservar la independencia de la Nación, guardar y hacer guardar la Constitución y las leyes, y de inmediato asumirá sus funciones.
@@ -294,7 +295,7 @@ Los decretos e instrucciones podran expedirse con la sola firma del Ministro res
 
 Artículo 36.- Los Ministros seran responsables individualmente de los actos que firmaren y solidariamente de los que suscribieren o acordaren con los otros Ministros.
 
-Artículo 37.- Los Ministros podran, cuando lo estimaren conveniente, asistir a las sesiones de la Cámara de Diputados o del Senado, y tomar parte en sus debates, con preferencia para hacer uso de la palabra, pero sin derecho a voto. Durante la votación podrán, sin embargo, rectificar los conceptos emitidos por cualquier diputado o senador al fundamentar su voto.
+Artículo 37.- Los Ministros podrán, cuando lo estimaren conveniente, asistir a las sesiones de la Cámara de Diputados o del Senado, y tomar parte en sus debates, con preferencia para hacer uso de la palabra, pero sin derecho a voto. Durante la votación podrán, sin embargo, rectificar los conceptos emitidos por cualquier diputado o senador al fundamentar su voto.
 
 ### Bases generales de la Administración del Estado
 
@@ -305,17 +306,17 @@ Cualquier persona que sea lesionada en sus derechos por la Administración del E
 
 Artículo 39.- Los derechos y garantías que la Constitución asegura a todas las personas sólo pueden ser afectados en las siguientes situaciones de excepción: guerra externa o interna, conmoción interior, emergencia y calamidad pública.
 
-Artículo 40.- 1o.- En situación de guerra externa, el Presidente de la República, con acuerdo del Consejo de Seguridad Nacional, podra declarar todo o parte del territorio nacional en estado de asamblea.
-2o.- En caso de guerra interna o conmoción interior, el Presidente de la República podra, con acuerdo del Congreso, declarar todo o parte del territorio nacional en estado de sitio.
-El Congreso, dentro del plazo de diez días, contados desde la fecha en que el Presidente de la República someta la declaración de estado de sitio a su consideración, debera pronunciarse aceptando o rechazando la proposición, sin que pueda introducirse modificaciones. Si el Congreso no se pronunciare dentro de dicho plazo, se entendera que aprueba la proposicion.
-Sin embargo, el Presidente de la República, previo acuerdo del Consejo de Seguridad Nacional, podra aplicar el estado de sitio de inmediato, mientras el Congreso se pronuncia sobre la declaración.
-Cada rama del Congreso debera emitir su pronunciamiento, por la mayoria de los miembros presentes, sobre la declaración de estado de sitio propuesta por el Presidente de la República. Podra el Congreso, en cualquier tiempo y por la mayoría absoluta de los miembros en ejercicio de cada Cámara, dejar sin efecto el estado de sitio que hubiere aprobado.
-La declaración de estado de sitio sólo podrá hacerse hasta por un plazo máximo de noventa días, pero el Presidente de la República podra solicitar su prórroga, la que se tramitara en conformidad a las normas precedentes.
-3o.- El Presidente de la República, con acuerdo del Consejo de Seguridad Nacional podra declarar todo o parte del territorio nacional en estado de emergencia, en casos graves de alteración del orden público, daño o peligro para la seguridad nacional, sea por causa de origen interno o externo.
-Dicho estado no podra exceder de noventa días, pudiendo declararse nuevamente si se mantienen las circunstancias.
-4o.- En caso de calamidad pública, el Presidente de la República, con acuerdo del Consejo de Seguridad Nacional, podra declarar la zona afectada o cualquiera otra que lo requiera como consecuencia de la calamidad producida, en estado de catástrofe.
-5o.- El Presidente de la República podra decretar simultáneamente dos o más estados de excepción si concurren las causales que permiten su declaración.
-6o.- El Presidente de la República podra, en cualquier tiempo, poner término a dichos estados.
+Artículo 40.- 1º.- En situación de guerra externa, el Presidente de la República, con acuerdo del Consejo de Seguridad Nacional, podrá declarar todo o parte del territorio nacional en estado de asamblea.
+2º.- En caso de guerra interna o conmoción interior, el Presidente de la República podrá, con acuerdo del Congreso, declarar todo o parte del territorio nacional en estado de sitio.
+El Congreso, dentro del plazo de diez días, contados desde la fecha en que el Presidente de la República someta la declaración de estado de sitio a su consideración, deberá pronunciarse aceptando o rechazando la proposición, sin que pueda introducirse modificaciones. Si el Congreso no se pronunciare dentro de dicho plazo, se entenderá que aprueba la proposición.
+Sin embargo, el Presidente de la República, previo acuerdo del Consejo de Seguridad Nacional, podrá aplicar el estado de sitio de inmediato, mientras el Congreso se pronuncia sobre la declaración.
+Cada rama del Congreso deberá emitir su pronunciamiento, por la mayoría de los miembros presentes, sobre la declaración de estado de sitio propuesta por el Presidente de la República. Podrá el Congreso, en cualquier tiempo y por la mayoría absoluta de los miembros en ejercicio de cada Cámara, dejar sin efecto el estado de sitio que hubiere aprobado.
+La declaración de estado de sitio sólo podrá hacerse hasta por un plazo máximo de noventa días, pero el Presidente de la República podrá solicitar su prórroga, la que se tramitará en conformidad a las normas precedentes.
+3º.- El Presidente de la República, con acuerdo del Consejo de Seguridad Nacional podrá declarar todo o parte del territorio nacional en estado de emergencia, en casos graves de alteración del orden público, daño o peligro para la seguridad nacional, sea por causa de origen interno o externo.
+Dicho estado no podrá exceder de noventa días, pudiendo declararse nuevamente si se mantienen las circunstancias.
+4º.- En caso de calamidad pública, el Presidente de la República, con acuerdo del Consejo de Seguridad Nacional, podrá declarar la zona afectada o cualquiera otra que lo requiera como consecuencia de la calamidad producida, en estado de catástrofe.
+5º.- El Presidente de la República podrá decretar simultáneamente dos o más estados de excepción si concurren las causales que permiten su declaración.
+6º.- El Presidente de la República podrá, en cualquier tiempo, poner término a dichos estados.
 
 Artículo 41.- 1o.- Por la declaración de estado de asamblea el Presidente de la República queda facultado para suspender o restringir la libertad personal, el derecho de reunión, la libertad de información y de opinión y la libertad de trabajo. Podrá, también, restringir el ejercicio del derecho de asociación y de sindicación, imponer censura a la correspondencia y a las comunicaciones, disponer requisiciones de bienes y establecer limitaciones al ejercicio del derecho de propiedad.
 2o.- Por la declaración de estado de sitio el Presidente de la República podra trasladar a las personas de un punto a otro del territorio nacional, arrestarlas en sus propias casas o en lugares que no seán cárceles ni otros que estén destinados a la detención o prisión de reos comunes, y expulsarlas del territorio nacional. Podra, además, restringir la libertad de locomoción y prohibir a determinadas personas la entrada y salida del territorio. Asimismo, podra suspender o restringir el ejercicio del derecho de reunión y la libertad de información y de opinión, restringir el ejercicio de los derechos de asociación y de sindicación e imponer censurá a la correspondencia y a las comunicaciones.
@@ -367,18 +368,18 @@ Las vacantes de diputados y de senadores elegidos por votación directa que se p
 ### Atribuciones exclusivas de la Cámara de Diputados
 
 Artículo 48.- Son atribuciones exclusivas de la Cámara de Diputados:
-1) Fiscalizar los actos del Gobierno. Para ejercer esta atribución la Cámara puede, con el voto de la mayoría de los diputados presentes, adoptar acuerdos o sugerir observaciones que se transmitiran por escrito al Presidente de la República, debiendo el Gobierno dar respuesta, por medio del Ministro de Estado que corresponda, dentro de treinta días. En ningún caso, dichos acuerdos u observaciones afectaran la responsabilidad política de los Ministros y la obligación del Gobierno se entendera cumplida por el sólo hecho de entregar su respuesta.
-Cualquier diputado podra solicitar determinados antecedentes al Gobierno siempre que su proposición cuente con el voto favorable de un tercio de los miembros presentes de la Cámara, y
+1) Fiscalizar los actos del Gobierno. Para ejercer esta atribución la Cámara puede, con el voto de la mayoría de los diputados presentes, adoptar acuerdos o sugerir observaciones que se transmitirán por escrito al Presidente de la República, debiendo el Gobierno dar respuesta, por medio del Ministro de Estado que corresponda, dentro de treinta días. En ningún caso, dichos acuerdos u observaciones afectarán la responsabilidad política de los Ministros y la obligación del Gobierno se entenderá cumplida por el sólo hecho de entregar su respuesta.
+Cualquier diputado podrá solicitar determinados antecedentes al Gobierno siempre que su proposición cuente con el voto favorable de un tercio de los miembros presentes de la Cámara, y
 2) Declarar si han o no lugar las acusaciones que no menos de diez ni más de veinte de sus miembros formulen en contra de las siguientes personas:
-a) Del Presidente de la República, por actos de su administración que hayan comprometido gravemente el honor o la seguridad de la Nación, o infringido abiertamente la Constitución o las leyes. Esta acusación podra interponerse mientras el Presidente esté en funciones y en los seis meses siguientes a su expiración en el cargo. Durante este último tiempo no podra ausentarse de la República sin acuerdo de la Cámara;
+a) Del Presidente de la República, por actos de su administración que hayan comprometido gravemente el honor o la seguridad de la Nación, o infringido abiertamente la Constitución o las leyes. Esta acusación podrá interponerse mientras el Presidente esté en funciones y en los seis meses siguientes a su expiración en el cargo. Durante este último tiempo no podrá ausentarse de la República sin acuerdo de la Cámara;
 b) De los Ministros de Estado, por haber comprometido gravemente el honor o la seguridad de la Nación, por infringir la Constitución o las leyes o haber dejado éstas sin ejecución, y por los delitos de traición, concusión, malversación de fondos públicos y soborno;
 c) De los magistrados de los tribunales superiores de justicia y del Contralor General de la República, por notable abandono de sus deberes;
 d) De los generales o almirantes de las instituciones pertenecientes a las Fuerzas de la Defensa Nacional, por haber comprometido gravemente el honor o la seguridad de la Nación, y
 e) De los intendentes y gobernadores, por infracción de la Constitución y por los delitos de traición, sedición, malversación de fondos públicos y concusión.
-La acusación se tramitara en conformidad a la ley orgánica constitucional relativa al Congreso.
-Las acusaciones referidas en las letras b), c), d) y e) podran interponerse mientras el afectado esté en funciones o en los tres meses siguientes a la expiración en su cargo. Interpuesta la acusación, el afectado no podra ausentarse del país sin permiso de la Cámara y no podra hacerlo en caso alguno si la acusación ya estuviere aprobada por ella.
-Para declarar que ha lugar la acusación en contra del Presidente de la República se necesitara el voto de la mayoría de los diputados en ejercicio.
-En los demás casos se requerira el de la mayoría de los diputados presentes y el acusado quedara suspendido en sus funciones desde el momento en que la Cámara declare que ha lugar la acusación. La suspensión cesara si el Senado desestimare la acusación o si no se pronunciare dentro de los treinta días siguientes.
+La acusación se tramitará en conformidad a la ley orgánica constitucional relativa al Congreso.
+Las acusaciones referidas en las letras b), c), d) y e) podrán interponerse mientras el afectado esté en funciones o en los tres meses siguientes a la expiración en su cargo. Interpuesta la acusación, el afectado no podrá ausentarse del país sin permiso de la Cámara y no podrá hacerlo en caso alguno si la acusación ya estuviere aprobada por ella.
+Para declarar que ha lugar la acusación en contra del Presidente de la República se necesitará el voto de la mayoría de los diputados en ejercicio.
+En los demás casos se requerirá el de la mayoría de los diputados presentes y el acusado quedará suspendido en sus funciones desde el momento en que la Cámara declare que ha lugar la acusación. La suspensión cesará si el Senado desestimare la acusación o si no se pronunciare dentro de los treinta días siguientes.
 
 ### Atribuciones exclusivas del Senado
 
@@ -403,20 +404,20 @@ El Senado, sus comisiones legislativas y sus demás órganos, incluidos los comi
 ### Atribuciones exclusivas del Congreso
 
 Artículo 50.- Son atribuciones exclusivas del Congreso:
-1) Aprobar o desechar los tratados internacionales que le presentare el Presidente de la República antes de su ratificación. La aprobación de un tratado se sometera a los trámites de una ley.
-Las medidas que el Presidente de la República adopte o los acuerdos que celebre para el cumplimiento de un tratado en vigor no requeriran nueva aprobación del Congreso, a menos que se trate de materias propias de ley.
-En el mismo acuerdo aprobatorio de un tratado, podra el Congreso autorizar al Presidente de la República a fin de que, durante la vigencia de aquél, dicte las disposiciones con fuerza de ley que estime necesarias para su cabal cumplimiento, siendo en tal caso aplicable lo dispuesto en los incisos segúndo y siguientes del artículo 61, y
-2) Pronunciarse respecto del estado de sitio, de acuerdo al numero 2o. del artículo 40 de esta Constitución.
+1) Aprobar o desechar los tratados internacionales que le presentare el Presidente de la República antes de su ratificación. La aprobación de un tratado se someterá a los trámites de una ley.
+Las medidas que el Presidente de la República adopte o los acuerdos que celebre para el cumplimiento de un tratado en vigor no requerirán nueva aprobación del Congreso, a menos que se trate de materias propias de ley.
+En el mismo acuerdo aprobatorio de un tratado, podrá el Congreso autorizar al Presidente de la República a fin de que, durante la vigencia de aquél, dicte las disposiciones con fuerza de ley que estime necesarias para su cabal cumplimiento, siendo en tal caso aplicable lo dispuesto en los incisos segundo y siguientes del artículo 61, y
+2) Pronunciarse respecto del estado de sitio, de acuerdo al número 2º. del artículo 40 de esta Constitución.
 
 ### Funcionamiento del Congreso
 
-Artículo 51.- El Congreso abrira sus sesiones ordinarias el dia 21 de mayo de cada año, y las cerrara el 18 de septiembre.
+Artículo 51.- El Congreso abrirá sus sesiones ordinarias el día 21 de mayo de cada año, y las cerrará el 18 de septiembre.
 
-Artículo 52.- El Congreso podra ser convocado por el Presidente de la República a legislatura extraordinaria dentro de los diez últimos días de una legislación ordinaria o durante el receso parlamentario.
-Si no estuviere convocado por el Presidente de la República, el Congreso podra autoconvocarse a legislatura extraordinaria a través del Presidente del Senado y a solicitud escrita de la mayoría de los miembros en ejercicio de cada una de sus ramas. La autoconvocatoria del Congreso sólo procedera durante el receso parlamentario y siempre que no hubiera sido convocado por el Presidente de la República.
-Convocado por el Presidente de la República, el Congreso sólo podra ocuparse de los asuntos legislativos o de los tratados internacionales que aquél incluyere en la convocatoria, sin perjuicio del despacho de la Ley de Presupuéstos y de la facultad de ambas Cámaras para ejercer sus atribuciones exclusivas.
-Convocado por el Presidente del Senado podra ocuparse de cualquier materia de su incumbencia.
-El Congreso se entendera siempre convocado de pleno derecho para conocer de la declaración de estado de sitio.
+Artículo 52.- El Congreso podrá ser convocado por el Presidente de la República a legislatura extraordinaria dentro de los diez últimos días de una legislación ordinaria o durante el receso parlamentario.
+Si no estuviere convocado por el Presidente de la República, el Congreso podrá autoconvocarse a legislatura extraordinaria a través del Presidente del Senado y a solicitud escrita de la mayoría de los miembros en ejercicio de cada una de sus ramas. La autoconvocatoria del Congreso sólo procederá durante el receso parlamentario y siempre que no hubiera sido convocado por el Presidente de la República.
+Convocado por el Presidente de la República, el Congreso sólo podrá ocuparse de los asuntos legislativos o de los tratados internacionales que aquél incluyere en la convocatoria, sin perjuicio del despacho de la Ley de Presupuestos y de la facultad de ambas Cámaras para ejercer sus atribuciones exclusivas.
+Convocado por el Presidente del Senado podrá ocuparse de cualquier materia de su incumbencia.
+El Congreso se entenderá siempre convocado de pleno derecho para conocer de la declaración de estado de sitio.
 
 Artículo 53.- La Cámara de Diputados y el Senado no podran entrar en sesión ni adoptar acuerdos sin la concurrencia de la tercera parte de sus miembros en ejercicio.
 Cada una de las Cámaras establecera en su propio reglamento la clausura del debate por simple mayoría.
@@ -436,7 +437,7 @@ Las inhabilidades establecidas en este artículo seran aplicables a quienes hubi
 
 Artículo 55.- Los cargos de diputados y senadores son incompatibles entre sí y con todo empleo o comisión retribuidos con fondos del Fisco, de las municipalidades, de las entidades fiscales autónomas, semifiscales o de las empresas del Estado o en las que el Fisco tenga intervención por aportes de capital, y con toda otra función o comisión de la misma naturaleza. Se exceptúan los empleos docentes y las funciones o comisiones de igual carácter de la enseñanza superior, media y especial.
 Asimismo, los cargos de diputados y senadores son incompatibles con las funciones de directores o consejeros, aun cuando sean ad honorem, en las entidades fiscales autónomas, semifiscales o en las empresas estatales, o en las que el Estado tenga participación por aporte de capital.
-Por el sólo hecho de resultar electo, el diputado o senador cesara en el otro cargo, empleo, función o comisión incompatible que desempeñe, a contar de su proclamación por el Tribunal Calificador. En el caso de los ex Presidentes de la República, el sólo hecho de incorporarse al Senado significara la cesación inmediata en los cargos, empleos, funciones o comisiones incompatibles que estuvieran desempeñando. En los casos de los senadores a que se refieren las letras b) a f) del inciso tercero del artículo 45, éstos deberan optar entre dicho cargo y el otro cargo, empleo, función o comisión incompatible, dentro de los quince días siguientes a su designación y, a falta de esta opción, perderan la calidad de senador.
+Por el sólo hecho de resultar electo, el diputado o senador cesará en el otro cargo, empleo, función o comisión incompatible que desempeñe, a contar de su proclamación por el Tribunal Calificador. En el caso de los ex Presidentes de la República, el sólo hecho de incorporarse al Senado significará la cesación inmediata en los cargos, empleos, funciones o comisiones incompatibles que estuvieran desempeñando. En los casos de los senadores a que se refieren las letras b) a f) del inciso tercero del artículo 45, éstos deberán optar entre dicho cargo y el otro cargo, empleo, función o comisión incompatible, dentro de los quince días siguientes a su designación y, a falta de esta opción, perderán la calidad de senador.
 
 Artículo 56.- Ningún diputado o senador, desde su incorporación en el caso de la letra a) del artículo 45, desde su proclamación como electo por el Tribunal Calificador o desde el día de su designación, según el caso, y hasta seis meses después de terminar su cargo, puede ser nombrado para un empleo, función o comisión de los referidos en el artículo anterior.
 Esta disposición no rige en caso de guerra exterior; ni se aplica a los cargos de Presidente de la República, Ministro de Estado y agente diplomático; pero sólo los cargos conferidos en estado de guerra son compatibles con las funciones de diputado o senador.
@@ -451,8 +452,8 @@ Quien perdiere el cargo de diputado o senador por cualquiera de las causales se�
 Cesara, asimismo, en sus funciones el diputado o senador que, durante su ejercicio, pierda algún requisito general de elegibilidad o incurra en alguna de las causales de inhabilidad a que se refiere el artículo 54, sin perjuicio de la excepción contemplada en el inciso segúndo del artículo 56 respecto de los Ministros de Estado.
 
 Artículo 58.- Los diputados y senadores sólo son inviolables por las opiniones que manifiesten y los votos que emitan en el desempeño de sus cargos, en sesiones de sala o de comisión.
-Ningún diputado o senador, desde el día de su elección o designación, o desde el de su incorporación, según el caso, puede ser procesado o privado de su libertad, salvo el caso de delito flagrante, si el Tribunal de Alzada de la jurisdicción respectiva, en pleno, no autoriza previamente la acusación declarando haber lugar a formación de causa. De esta resolución podra apelarse para ante la Corte Suprema.
-En caso de ser arrestado algán diputado o senador por delito flagrante, sera puesto inmediatamente a disposición del Tribunal de Alzada respectivo, con la información sumaria correspondiente. El Tribunal procedera, entonces, conforme a lo dispuesto en el inciso anterior.
+Ningún diputado o senador, desde el día de su elección o designación, o desde el de su incorporación, según el caso, puede ser procesado o privado de su libertad, salvo el caso de delito flagrante, si el Tribunal de Alzada de la jurisdicción respectiva, en pleno, no autoriza previamente la acusación declarando haber lugar a formación de causa. De esta resolución podrá apelarse para ante la Corte Suprema.
+En caso de ser arrestado algún diputado o senador por delito flagrante, será puesto inmediatamente a disposición del Tribunal de Alzada respectivo, con la información sumaria correspondiente. El Tribunal procederá, entonces, conforme a lo dispuesto en el inciso anterior.
 Desde el momento en que se declare, por resolución firme, haber lugar a formación de causa, queda el diputado o senador acusado suspendido de su cargo y sujeto al juez competente.
 
 Artículo 59.- Los diputados y senadores percibiran como única renta una dieta equivalente a la remuneración de un Ministro de Estado incluidas todas las asignaciones que a éstos correspondan.
@@ -483,12 +484,12 @@ Esta disposición no se aplicara al Banco Central;
 19) Las que regulen el funcionamiento de loterías, hipódromos y apuestas en general, y
 20) Toda otra norma de carácter general y obligatoria que estatuya las bases esenciales de un ordenamiento jurídico.
 
-Artículo 61.- El Presidente de la República podra solicitar autorización al Congreso Nacional para dictar disposiciones con fuerza de ley durante un plazo no superior a un año sobre materias que correspondan al dominio de la ley.
-Esta autorización no podra extenderse a la nacionalidad, la ciudadania, las elecciones ni al plebiscito, como tampoco a materias comprendidas en las garantias constitucionales o que deban ser objeto de leyes orgánicas constitucionales o de quórum calificado.
-La autorización no podra comprender facultades que afecten a la organización, atribuciones y régimen de los funcionarios del Poder Judicial, del Congreso Nacional, del Tribunal Constitucional ni de la Contraloría General de la República.
-La ley que otorgue la referida autorización señalara las materias precisas sobre las que recaera la delegación y podra establecer o determinar las limitaciones, restricciones y formalidades que se estimen convenientes.
-A la Contraloría General de la República correspondera tomar razón de éstos decretos con fuerza de ley, debiendo rechazarlos cuando ellos excedan o contravengan la autorización referida.
-Los decretos con fuerza de ley estaran sometidos en cuanto a su públicación, vigencia y efectos, a las mismas normas que rigen para la ley.
+Artículo 61.- El Presidente de la República podrá solicitar autorización al Congreso Nacional para dictar disposiciones con fuerza de ley durante un plazo no superior a un año sobre materias que correspondan al dominio de la ley.
+Esta autorización no podrá extenderse a la nacionalidad, la ciudadanía, las elecciones ni al plebiscito, como tampoco a materias comprendidas en las garantías constitucionales o que deban ser objeto de leyes orgánicas constitucionales o de quórum calificado.
+La autorización no podrá comprender facultades que afecten a la organización, atribuciones y régimen de los funcionarios del Poder Judicial, del Congreso Nacional, del Tribunal Constitucional ni de la Contraloría General de la República.
+La ley que otorgue la referida autorización señalará las materias precisas sobre las que recaerá la delegación y podrá establecer o determinar las limitaciones, restricciones y formalidades que se estimen convenientes.
+A la Contraloría General de la República corresponderá tomar razón de éstos decretos con fuerza de ley, debiendo rechazarlos cuando ellos excedan o contravengan la autorización referida.
+Los decretos con fuerza de ley estarán sometidos en cuanto a su publicación, vigencia y efectos, a las mismas normas que rigen para la ley.
 
 ### Formación de la ley
 
@@ -532,42 +533,42 @@ Si las dos Cámaras desecharen todas o algunas de las observaciones e insistiere
 Artículo 71.- El Presidente de la República podrá hacer presente la urgencia en el despacho de un proyecto, en uno o en todos sus trámites, y en tal caso, la Cámara respectiva deberá pronunciarse dentro del plazo máximo de treinta días.
 La calificación de la urgencia corresponderá hacerla al Presidente de la República de acuerdo a la ley orgánica constitucional relativa al Congreso, la que establecerá también todo lo relacionado con la tramitación interna de la ley.
 
-Artículo 72.- Si el Presidente de la República no devolviere el proyecto dentro de treinta días, contados desde la fecha de su remisión, se entendera que lo aprueba y se promulgara como ley. Si el Congreso cerrare sus sesiones antes de cumplirse los treinta días en que ha de verificarse la devolución, el Presidente lo hara dentro de los diez primeros días de la legislatura ordinaria o extraordinaria siguiente.
-La promulgación debera hacerse siempre dentro del plazo de diez días, contados desde que ella sea procedente.
-La públicación se hara dentro de los cinco días hábiles siguientes a la fecha en que quede totalmente tramitado el decreto promulgatorio.
+Artículo 72.- Si el Presidente de la República no devolviere el proyecto dentro de treinta días, contados desde la fecha de su remisión, se entenderá que lo aprueba y se promulgará como ley. Si el Congreso cerrare sus sesiones antes de cumplirse los treinta días en que ha de verificarse la devolución, el Presidente lo hará dentro de los diez primeros días de la legislatura ordinaria o extraordinaria siguiente.
+La promulgación deberá hacerse siempre dentro del plazo de diez días, contados desde que ella sea procedente.
+La publicación se hará dentro de los cinco días hábiles siguientes a la fecha en que quede totalmente tramitado el decreto promulgatorio.
 
 ## CAPITULO VI
 Poder Judicial
 
 Artículo 73.- La facultad de conocer de las causas civiles y criminales, de resolverlas y de hacer ejecutar lo juzgado, pertenece exclusivamente a los tribunales establecidos por la ley. Ni el Presidente de la República ni el Congreso pueden, en caso alguno, ejercer funciones judiciales, avocarse causas pendientes, revisar los fundamentos o contenidos de sus resoluciones o hacer revivir procesos fenecidos.
-Reclamada su intervención en forma legal y en negocios de su competencia, no podran excusarse de ejercer su autoridad, ni aun por falta de ley que resuelva la contienda o asunto sometidos a su decisión.
-Para hacer ejecutar sus resoluciones y practicar o hacer practicar los actos de instrucción que decreten, los tribunales ordinarios de justicia y los especiales que integran el Poder Judicial, podran impartir órdenes directas a la fuerza pública o ejercer los medios de acción conducentes de que dispusieren. Los demás tribunales lo haran en la forma que la ley determine.
-La autoridad requerida debera cumplir sin más trámite el mandato judicial y no podra calificar su fundamento u oportunidad, ni la justicia o legalidad de la resolución que se trata de ejecutar.
+Reclamada su intervención en forma legal y en negocios de su competencia, no podrán excusarse de ejercer su autoridad, ni aun por falta de ley que resuelva la contienda o asunto sometidos a su decisión.
+Para hacer ejecutar sus resoluciones y practicar o hacer practicar los actos de instrucción que decreten, los tribunales ordinarios de justicia y los especiales que integran el Poder Judicial, podrán impartir órdenes directas a la fuerza pública o ejercer los medios de acción conducentes de que dispusieren. Los demás tribunales lo harán en la forma que la ley determine.
+La autoridad requerida deberá cumplir sin más trámite el mandato judicial y no podrá calificar su fundamento u oportunidad, ni la justicia o legalidad de la resolución que se trata de ejecutar.
 
-Artículo 74.- Una ley orgánica constitucional, determinara la organización y atribuciones de los tribunales que fueren necesarios para la pronta y cumplida administración de justicia en todo el territorio de la República. La misma ley senalara las calidades que respectivamente deban tener los jueces y el número de años que deban haber ejercido la profesión de abogado las personas que fueren nombradas ministros de Corte o jueces letrados.
-La ley orgánica constitucional relativa a la organización y atribuciones de los tribunales sólo podra ser modificada oyendo previamente a la Corte Suprema.
+Artículo 74.- Una ley orgánica constitucional, determinará la organización y atribuciones de los tribunales que fueren necesarios para la pronta y cumplida administración de justicia en todo el territorio de la República. La misma ley señalará las calidades que respectivamente deban tener los jueces y el número de años que deban haber ejercido la profesión de abogado las personas que fueren nombradas ministros de Corte o jueces letrados.
+La ley orgánica constitucional relativa a la organización y atribuciones de los tribunales sólo podrá ser modificada oyendo previamente a la Corte Suprema.
 
-Artículo 75.- En cuanto al nombramiento de los jueces, la ley se ajustara a los siguientes preceptos generales.
-Los ministros y fiscales de la Corte Suprema seran nombrados por el Presidente de la República, eligiéndolos de una nómina de cinco personas que, en cada caso, propondra la misma Corte. El ministro más antiguo de Corte de Apelaciones que figure en lista de méritos ocupara un lugar en la nómina señalada. Los otros cuatro lugares se llenaran en atención a los merecimientos de los candidatos, pudiendo figurar personas extrañas a la administración de justicia.
-Los ministros y fiscales de las Cortes de Apelaciones seran designados por el Presidente de la República, a propuesta en terna de la Corte Suprema.
-Los jueces letrados seran designados por el Presidente de la República, a propuesta en terna de la Corte de Apelaciones de la jurisdicción respectiva.
-El juez letrado en lo civil o criminal más antiguo de asiento de Corte o el juez letrado civil o criminal más antiguo del cargo inmediatamente inferior al que se trata de proveer y que figure en lista de méritos y exprese su interés en el cargo, ocupara un lugar en la terna correspondiente. Los otros dos lugares se llenaran en atención al mérito de los candidatos.
-Sin embargo, cuando se trate del nombramiento de ministros de Corte suplentes, la designación podra hacerse por la Corte Suprema y, en el caso de los jueces, por la Corte de Apelaciones respectiva. Estas designaciones no podran durar más de treinta días y no seran prorrogables. En caso de que los tribunales superiores mencionados no hagan uso de esta facultad o de que haya vencido el plazo de la suplencia, se procedera a proveer las vacantes en la forma ordinaria señalada precedentemente.
+Artículo 75.- En cuanto al nombramiento de los jueces, la ley se ajustará a los siguientes preceptos generales.
+Los ministros y fiscales de la Corte Suprema serán nombrados por el Presidente de la República, eligiéndolos de una nómina de cinco personas que, en cada caso, propondrá la misma Corte. El ministro más antiguo de Corte de Apelaciones que figure en lista de méritos ocupará un lugar en la nómina señalada. Los otros cuatro lugares se llenarán en atención a los merecimientos de los candidatos, pudiendo figurar personas extrañas a la administración de justicia.
+Los ministros y fiscales de las Cortes de Apelaciones serán designados por el Presidente de la República, a propuesta en terna de la Corte Suprema.
+Los jueces letrados serán designados por el Presidente de la República, a propuesta en terna de la Corte de Apelaciones de la jurisdicción respectiva.
+El juez letrado en lo civil o criminal más antiguo de asiento de Corte o el juez letrado civil o criminal más antiguo del cargo inmediatamente inferior al que se trata de proveer y que figure en lista de méritos y exprese su interés en el cargo, ocupará un lugar en la terna correspondiente. Los otros dos lugares se llenarán en atención al mérito de los candidatos.
+Sin embargo, cuando se trate del nombramiento de ministros de Corte suplentes, la designación podrá hacerse por la Corte Suprema y, en el caso de los jueces, por la Corte de Apelaciones respectiva. Estas designaciones no podrán durar más de treinta días y no serán prorrogables. En caso de que los tribunales superiores mencionados no hagan uso de esta facultad o de que haya vencido el plazo de la suplencia, se procederá a proveer las vacantes en la forma ordinaria señalada precedentemente.
 
 Artículo 76.- Los jueces son personalmente responsables por los delitos de cohecho, falta de observancia en materia sustancial de las leyes que reglan el procedimiento, denegación y torcida administración de justicia y, en general, de toda prevaricación en que incurran en el desempeño de sus funciones.
 Tratándose de los miembros de la Corte Suprema, la ley determinara los casos y el modo de hacer efectiva esta responsabilidad.
 
-Artículo 77.- Los jueces permaneceran en sus cargos durante su buen conportamiento; pero los inferiores desempenaran su respectiva judicatura por el tiempo que determinen las leyes.
-No obstante lo anterior, los jueces cesaran en sus funciones al cumplir 75 años de edad; o por renuncia o incapacidad legal sobreviniente o en caso de ser depuéstos de sus destinos, por causa legalmente sentenciada. La norma relativa a la edad no regira respecto al Presidente de la Corte Suprema, quien continuara en su cargo hasta el término de su período.
-En todo caso, la Corte Suprema por requerimiento del Presidente de la República, a solicitud de parte interesada, o de oficio, podra declarar que los jueces no han tenido buen comportamiento y, previo informe del inculpado y de la Corte de Apelaciones respectiva, en su caso, acordar su remoción por la mayoría del total de sus componentes. Estos acuerdos se comunicaran al Presidente de la República para su cumplimiento.
-El Presidente de la República, a propuesta o con acuerdo de la Corte Suprema, podra autorizar permutas u ordenar el traslado de los jueces o demás funcionarios y empleados del Poder Judicial a otro cargo de igual categoría.
+Artículo 77.- Los jueces permanecerán en sus cargos durante su buen comportamiento; pero los inferiores desempeñarán su respectiva judicatura por el tiempo que determinen las leyes.
+No obstante lo anterior, los jueces cesarán en sus funciones al cumplir 75 años de edad; o por renuncia o incapacidad legal sobreviniente o en caso de ser depuestos de sus destinos, por causa legalmente sentenciada. La norma relativa a la edad no regirá respecto al Presidente de la Corte Suprema, quién continuará en su cargo hasta el término de su período.
+En todo caso, la Corte Suprema por requerimiento del Presidente de la República, a solicitud de parte interesada, o de oficio, podrá declarar que los jueces no han tenido buen comportamiento y, previo informe del inculpado y de la Corte de Apelaciones respectiva, en su caso, acordar su remoción por la mayoría del total de sus componentes. Estos acuerdos se comunicarán al Presidente de la República para su cumplimiento.
+El Presidente de la República, a propuesta o con acuerdo de la Corte Suprema, podrá autorizar permutas u ordenar el traslado de los jueces o demás funcionarios y empleados del Poder Judicial a otro cargo de igual categoría.
 
-Artículo 78.- Los magistrados de los tribunales superiores de justicia, los fiscales y los jueces letrados que integrán el Poder Judicial, no podran ser aprehendidos sin orden del tribunal competente, salvo el caso de crimen o simple delito flagrante y sólo para ponerlos inmediatamente a disposición del tribunal que debe conocer del asunto en conformidad a la ley.
+Artículo 78.- Los magistrados de los tribunales superiores de justicia, los fiscales y los jueces letrados que integran el Poder Judicial, no podrán ser aprehendidos sin orden del tribunal competente, salvo el caso de crimen o simple delito flagrante y sólo para ponerlos inmediatamente a disposición del tribunal que debe conocer del asunto en conformidad a la ley.
 
 Artículo 79.- La Corte Suprema tiene la superintendencia directiva, correccional y económica de todos los tribunales de la nación. Se exceptúan de esta norma el Tribunal Constitucional, el Tribunal Calificador de Elecciones, los tribunales electorales regionales y los tribunales militares de tiempo de guerra. Los tribunales contencioso administrativos quedaran sujetos a esta superintendencia conforme a la ley.
 Conocera, además, de las contiendas de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales de justicia, que no correspondan al Senado.
 
-Artículo 80.- La Corte Suprema, de oficio o a petición de parte, en las materias de que conozca, o que le fueren sometidas en recurso interpuesto en cualquier gestión que se siga ante otro tribunal, podra declarar inaplicable para esos casos particulares todo precepto legal contrario a la Constitución. Este recurso podra deducirse en cualquier estado de la gestión, pudiendo ordenar la Corte la suspensión del procedimiento.
+Artículo 80.- La Corte Suprema, de oficio o a petición de parte, en las materias de que conozca, o que le fueren sometidas en recurso interpuesto en cualquier gestión que se siga ante otro tribunal, podrá declarar inaplicable para esos casos particulares todo precepto legal contrario a la Constitución. Este recurso podrá deducirse en cualquier estado de la gestión, pudiendo ordenar la Corte la suspensión del procedimiento.
 
 ## CAPITULO VII
 Tribunal Constitucional
@@ -577,13 +578,13 @@ a) Tres ministros de la Corte Suprema, elegidos por ésta, por mayoría absoluta
 b) Un abogado designado por el Presidente de la República;
 c) Dos abogados elegidos por el Consejo de Seguridad Nacional;
 d) Un abogado elegido por el Senado, por mayoría absoluta de los senadores en ejercicio.
-Las personas referidas en las letras b), c) y d) deberán tener a lo menos quince años de título, haberse destacado en la actividad profesional, universitaria o pública, no podrán tener impedimento alguno que las inhabilite para desempeñar el cargo de juez, estarán sometidas a las normas de los artículos 55 y 56, y sus cargos serán incompatibles con el de diputado o senador, así como también con la calidad de ministro del Tribunal Calificador de Elecciones. Además, en los casos de las letras b) y d), deberán ser personas que sean o hayan sido abogados integrantes de la Corte Suprema por tres años consecutivos, a lo menos.
-Los miembros del Tribunal duraran ocho años en sus cargos, se renovaran por parcialidades cada cuatro años y serán inamovibles.
+Las personas referidas en las letras b), c) y d) deberán tener a lo menos quince años de título, haberse destacado en la actividad profesional, universitaria o pública, no podrán tener impedimento alguno que las inhabilite para desempeñar el cargo de juez, estarán sometidas a las normás de los artículos 55 y 56, y sus cargos serán incompatibles con el de diputado o senador, así como también con la calidad de ministro del Tribunal Calificador de Elecciones. Además, en los casos de las letras b) y d), deberán ser personas que sean o hayan sido abogados integrantes de la Corte Suprema por tres años consecutivos, a lo menos.
+Los miembros del Tribunal durarán ocho años en sus cargos, se renovarán por parcialidades cada cuatro años y serán inamovibles.
 Les serán aplicables las disposiciones de los artículos 77, inciso segundo, en lo relativo a edad y el artículo 78.
-Las personas a que se refiere la letra a) cesaran también en sus cargos si dejaren de ser ministros de la Corte Suprema por cualquier causa.
+Las personas a que se refiere la letra a) cesarán también en sus cargos si dejaren de ser ministros de la Corte Suprema por cualquier causa.
 En caso de que un miembro del Tribunal Constitucional cese en su cargo, se procederá a su reemplazo por quien corresponda de acuerdo con el inciso primero de este artículo y por el tiempo que falte al reemplazado para completar su período.
-El quórum para sesionar será de cinco miembros. El Tribunal adoptara sus acuerdos por simple mayoría y fallara con arreglo a derecho.
-Una ley orgánica constitucional determinara la planta, remuneraciones y estatuto del personal del Tribunal Constitucional, así como su organización y funcionamiento.
+El quórum para sesionar será de cinco miembros. El Tribunal adoptará sus acuerdos por simple mayoría y fallará con arreglo a derecho.
+Una ley orgánica constitucional determinará la planta, remuneraciones y estatuto del personal del Tribunal Constitucional, así como su organización y funcionamiento.
 
 Artículo 82.- Son atribuciones del Tribunal Constitucional:
 1o.- Ejercer el control de la constitucionalidad de las leyes orgánicas constitucionales antes de su promulgación y de las leyes que interpreten algún precepto de la Constitucion;
@@ -613,22 +614,22 @@ Sin embargo, si en el caso del numero 8o. la persona afectada fuere el President
 En el caso del numero 11o., el Tribunal sólo podra conocer de la materia a requerimiento del Presidente de la República o de no menos de diez parlamentarios en ejercicio.
 En el caso del numero 12o., el Tribunal sólo podra conocer de la materia a requerimiento de cualquiera de las Cámaras, efectuado dentro de los treinta días siguientes a la públicación o notificación del texto impugnado.
 
-Artículo 83.- Contra las resoluciones del Tribunal Constitucional no procedera recurso alguno, sin perjuicio de que puede el mismo Tribunal, conforme a la ley, rectificar los errores de hecho en que hubiere incurrido.
-Las disposiciones que el Tribunal declare inconstitucionales no podran convertirse en ley en el proyecto o decreto con fuerza de ley de que se trate. En los casos de los números 5o. y 12o. del artículo 82, el decreto supremo impugnado quedara sin efecto de pleno derecho, con el sólo mérito de la sentencia del Tribunal que acoja el reclamo.
-Resuelto por el Tribunal que un precepto legal determinado es constitucional, la Corte Suprema no podra declararlo inaplicable por el mismo vicio que fue materia de la sentencia.
+Artículo 83.- Contra las resoluciones del Tribunal Constitucional no procederá recurso alguno, sin perjuicio de que puede el mismo Tribunal, conforme a la ley, rectificar los errores de hecho en que hubiere incurrido.
+Las disposiciones que el Tribunal declare inconstitucionales no podrán convertirse en ley en el proyecto o decreto con fuerza de ley de que se trate. En los casos de los números 5º. y 12º. del artículo 82, el decreto supremo impugnado quedara sin efecto de pleno derecho, con el sólo mérito de la sentencia del Tribunal que acoja el reclamo.
+Resuelto por el Tribunal que un precepto legal determinado es constitucional, la Corte Suprema no podrá declararlo inaplicable por el mismo vicio que fue materia de la sentencia.
 
 ## CAPITULO VIII
 Justicia Electoral
 
-Artículo 84.- Un tribunal especial, que se denominara Tribunal Calificador de Elecciones, conocera del escrutinio general y de la calificación de las elecciones de Presidente de la República, de diputados y senadores; resolvera las reclamaciones a que dieren lugar y proclamara a los que resulten elegidos. Dicho Tribunal conocera, asimismo, de los plebiscitos, y tendra las demás atribuciones que determine la ley.
-Estara constituido por cinco miembros designados en la siguiente forma:
+Artículo 84.- Un tribunal especial, que se denominará Tribunal Calificador de Elecciones, conocerá del escrutinio general y de la calificación de las elecciones de Presidente de la República, de diputados y senadores; resolverá las reclamaciones a que dieren lugar y proclamará a los que resulten elegidos. Dicho Tribunal conocerá, asimismo, de los plebiscitos, y tendrá las demás atribuciones que determine la ley.
+Estará constituido por cinco miembros designados en la siguiente forma:
 a) Tres ministros o ex ministros de la Corte Suprema, elegidos por ésta en votaciones sucesivas y secretas, por la mayoría absoluta de sus miembros;
-b) Un abogado elegido por la Corte Suprema en la forma señalada precedentemente y que reúna los requisitos que señala el inciso segúndo del artículo 81;
-c) Un ex presidente del Senado o de la Cámara de Diputados que haya ejercido el cargo por un lapso no inferior a tres años, el que sera elegido por sorteo.
-Las designaciones a que se refieren las letras b) y c) no podran recaer en personas que sean parlamentario, candidato a cargos de elección popular, ministro de Estado, ni dirigente de partido político.
-Los miembros de este tribunal duraran cuatro años en sus funciones y les serán aplicables las disposiciones de los artículo 55 y 56 de esta Constitución.
-El Tribunal Calificador procedera como jurado en la apreciación de los hechos y sentenciara con arreglo a derecho.
-Una ley orgánica constitucional regulara la organización y funcionamiento del Tribunal Calificador.
+b) Un abogado elegido por la Corte Suprema en la forma señalada precedentemente y que reúna los requisitos que señala el inciso segundo del artículo 81;
+c) Un ex presidente del Senado o de la Cámara de Diputados que haya ejercido el cargo por un lapso no inferior a tres años, el que será elegido por sorteo.
+Las designaciones a que se refieren las letras b) y c) no podrán recaer en personas que sean parlamentario, candidato a cargos de elección popular, ministro de Estado, ni dirigente de partido político.
+Los miembros de este tribunal durarán cuatro años en sus funciones y les serán aplicables las disposiciones de los artículo 55 y 56 de esta Constitución.
+El Tribunal Calificador procederá como jurado en la apreciación de los hechos y sentenciará con arreglo a derecho.
+Una ley orgánica constitucional regulará la organización y funcionamiento del Tribunal Calificador.
 
 Artículo 85.- Habra tribunales electores regionales encargados de conocer de la calificación de las elecciones de carácter gremial y de las que tengan lugar en aquellos grupos intermedios que determine la ley.
 Estos tribunales estaran constituidos por un ministro de la Corte de Apelaciones respectiva, elegido por ésta, y por dos miembros designados por el Tribunal Calificador de Elecciones de entre personas que hayan ejercido la profesión de abogado o desempeñado la función de ministro o abogado integrante de Corte de Apelaciones por un plazo no inferior a tres años.
@@ -641,8 +642,8 @@ Artículo 86.- Anualmente, se destinaran en la ley de Presupuesto de la Nación 
 ## CAPITULO IX
 Contraloría General de la República
 
-Artículo 87.- Un organismo autónomo con el nombre de Contraloría General de la República ejercera el control de la legalidad de los actos de la Administración, fiscalizara el ingreso y la inversión de los fondos del Fisco, de las municipalidades y de los demás organismos y servicios que determinen las leyes; examinara y juzgara las cuentas de las personas que tengan a su cargo bienes de esas entidades; llevara la contabilidad general de la Nación, y desempenara las demás funciones que le encomiende la ley orgánica constitucional respectiva.
-El Contralor General de la República sera designado por el Presidente de la República con acuerdo del Senado adoptado por la mayoría de sus miembros en ejercicio, sera inamovible en su cargo y cesara en él al cumplir 75 años de edad.
+Artículo 87.- Un organismo autónomo con el nombre de Contraloría General de la República ejercerá el control de la legalidad de los actos de la Administración, fiscalizará el ingreso y la inversión de los fondos del Fisco, de las municipalidades y de los demás organismos y servicios que determinen las leyes; examinará y juzgará las cuentas de las personas que tengan a su cargo bienes de esas entidades; llevará la contabilidad general de la Nación, y desempeñará las demás funciones que le encomiende la ley orgánica constitucional respectiva.
+El Contralor General de la República será designado por el Presidente de la República con acuerdo del Senado adoptado por la mayoría de sus miembros en ejercicio, será inamovible en su cargo y cesará en él al cumplir 75 años de edad.
 
 Artículo 88.- En el ejercicio de la función de control de legalidad, el Contralor General tomara razón de los decretos y resoluciones que, en conformidad a la ley, deben tramitarse por la Contraloría o representara la ilegalidad de que puedan adolecer; pero debera darles curso cuando, a pesar de su representación, el Presidente de la República insista con la firma de todos sus Ministros, caso en el cual debera enviar copia de los respectivos decretos a la Cámara de Diputados. En ningún caso dara curso a los decretos de gastos que excedan el límite señalado en la Constitución y remitira copia íntegra de los antecedentes a la misma Cámara.
 Correspondera, asimismo, al Contralor General de la República tomar razón de los decretos con fuerza de ley, debiendo representarlos cuando ellos excedan o contravengan la ley delegatoria o sean contrarios a la Constitución.
@@ -656,7 +657,7 @@ Fuerzas Armadas, de Orden y Seguridad Pública
 
 Artículo 90.- Las Fuerzas dependientes del Ministerio encargado de la Defensa Nacional están constituidas única y exclusivamente por las Fuerzas Armadas y por las Fuerzas de Orden y Seguridad Pública.
 Las Fuerzas Armadas están integradas sólo por el Ejército, la Armada y la Fuerza Aérea, existen para la defensa de la patria, son esenciales para la seguridad nacional y garantizan el orden institucional de la República.
-Las Fuerzas de Orden y Seguridad Pública están integradas sólo por Carabineros e Investigaciones, constituyen la fuerza pública y existen para dar eficacia al derecho, garantizar el orden público y la seguridad pública interior, en la forma que lo determinen sus respectivas leyes orgánicas. Carabineros se integrara, además, con las Fuerzas Armadas en la misión de garantizar el orden institucional de la República.
+Las Fuerzas de Orden y Seguridad Pública están integradas sólo por Carabineros e Investigaciones, constituyen la fuerza pública y existen para dar eficacia al derecho, garantizar el orden público y la seguridad pública interior, en la forma que lo determinen sus respectivas leyes orgánicas. Carabineros se integrará, además, con las Fuerzas Armadas en la misión de garantizar el orden institucional de la República.
 Las Fuerzas Armadas y Carabineros, como cuerpos armados, son esencialmente obedientes y no deliberantes. Las fuerzas dependientes del Ministerio encargado de la Defensa Nacional son además profesionales, jerarquizadas y disciplinadas.
 
 Artículo 91.- La incorporación a las plantas y dotaciones de las Fuerzas Armadas y de Carabineros sólo podra hacerse a través de sus propias Escuelas, con excepción de los escalafones profesionales y de empleados civiles que determine la ley.
@@ -664,8 +665,8 @@ Artículo 91.- La incorporación a las plantas y dotaciones de las Fuerzas Armad
 Artículo 92.- Ninguna persona, grupo u organización podra poseer o tener armas u otros elementos similares que señale una ley aprobada con quórum calificado, sin autorización otorgada en conformidad a ésta.
 El Ministerio encargado de la Defensa Nacional o un organismo de su dependencia ejercera la supervigilancia y control de las armás en la forma que determine la ley.
 
-Artículo 93.- Los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, y el General Director de Carabineros seran designados por el Presidente de la República de entre los cinco oficiales generales de mayor antigüedad, que reúnan las calidades que los respectivos estatutos institucionales exijan para tales cargos; duraran cuatro años en sus funciones, no podran ser nombrados para un nuevo período y gozaran de inamovilidad en su cargo.
-En casos calificados, el Presidente de la República con acuerdo del Consejo de Seguridad Nacional, podra llamar a retiro a los Comandantes en Jefe del Ejército, de la Armada, de la Fuerza Aérea o al General Director de Carabineros, en su caso.
+Artículo 93.- Los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, y el General Director de Carabineros serán designados por el Presidente de la República de entre los cinco oficiales generales de mayor antigüedad, que reúnan las calidades que los respectivos estatutos institucionales exijan para tales cargos; durarán cuatro años en sus funciones, no podrán ser nombrados para un nuevo período y gozarán de inamovilidad en su cargo.
+En casos calificados, el Presidente de la República con acuerdo del Consejo de Seguridad Nacional, podrá llamar a retiro a los Comandantes en Jefe del Ejército, de la Armada, de la Fuerza Aérea o al General Director de Carabineros, en su caso.
 
 Artículo 94.- Los nombramientos, ascensos y retiros de los oficiales de las Fuerzas Armadas y Carabineros, se efectuaran por decreto supremo, en conformidad a la ley y a los reglamentos de cada institucion.
 El ingreso, los nombramientos, ascensos y retiros en Investigaciones se efectuaran en conformidad a su ley orgánica.
@@ -781,9 +782,9 @@ El decreto de convocatoria contendra, según corresponda, el proyecto aprobado p
 El Tribunal Calificador comunicara al Presidente de la República el resultado del plebiscito, y especificara el texto del proyecto aprobado por la ciudadanía, el que debera ser promulgado como reforma constitucional dentro de los cinco días siguientes a dicha comunicación.
 Una vez promulgado el proyecto y desde la fecha de su vigencia, sus disposiciones formaran parte de la Constitución y se tendran por incorporadas a ésta.
 
-Artículo final.- La presente Constitución entrara en vigencia seis meses después de ser aprobada mediante plebiscito, con excepción de las disposiciones transitorias novena y vigesimatercera que tendran vigor desde la fecha de esa aprobación. Su texto oficial sera el que consta en éste decreto ley.
-Un decreto ley determinara la oportunidad en la cual se efectuara el señalado plebiscito, así como las normás a que él se sujetara, debiendo establecer las reglas que aseguren el sufragio personal, igualitario y secreto y, para los nacionales, obligatorio.
-La norma contenida en el inciso anterior entrara en vigencia desde la fecha de públicación del presente texto constitucional.
+Artículo final.- La presente Constitución entrará en vigencia seis meses después de ser aprobada mediante plebiscito, con excepción de las disposiciones transitorias novena y vigésimatercera que tendrán vigor desde la fecha de esa aprobación. Su texto oficial será el que consta en este decreto ley.
+Un decreto ley determinará la oportunidad en la cual se efectuará el señalado plebiscito, así como las normas a que él se sujetará, debiendo establecer las reglas que aseguren el sufragio personal, igualitario y secreto y, para los nacionales, obligatorio.
+La norma contenida en el inciso anterior entrará en vigencia desde la fecha de publicación del presente texto constitucional.
 
 ## DISPOSICIONES TRANSITORIAS
 
@@ -795,13 +796,7 @@ En el lapso que medie entre el momento en que se ponga en vigencia esta Constitu
 
 TERCERA.- La gran minería del cobre y las empresas consideradas como tal, nacionalizadas en virtud de lo prescrito en la disposición 17a. transitoria de la Constitución Política de 1925, continuaran rigiéndose por las normás constitucionales vigentes a la fecha de promulgación de esta Constitución.
 
-CUARTA.- La primera vez que se constituya el
-Tribunal Constitucional, los Ministros de la Corte
-Suprema a que se refiere la letra a) del artículo 81,
-que hayan sido elegidos en la segunda y tercera
-votación, y el abogado designado por el Presidente de
-la República a que se refiere la letra b) de dicho
-artículo, duraran cuatro años en sus cargos y los restantes, ocho años.
+CUARTA.- La primera vez que se constituya el Tribunal Constitucional, los Ministros de la Corte Suprema a que se refiere la letra a) del artículo 81, que hayan sido elegidos en la segunda y tercera votación, y el abogado designado por el Presidente de la República a que se refiere la letra b) de dicho artículo, durarán cuatro años en sus cargos y los restantes, ocho años.
 
 QUINTA.- Se entenderá que las leyes actualmente en vigor sobre materias que conforme a esta Constitución deben ser objeto de leyes orgánicas constitucionales o aprobadas con quórum calificado, cumplen éstos requisitos y seguirán aplicándose en lo que no sean contrarias a la Constitución, mientras no se dicten los correspondientes cuerpos legales.
 
@@ -809,33 +804,29 @@ SEXTA.- No obstante lo dispuesto en el numero 8o. del artículo 32, mantendran s
 
 SEPTIMA.- Sin perjuicio de lo dispuesto en el inciso tercero del numero 20o. del artículo 19, mantendran su vigencia las disposiciones legales que hayan establecido tributos de afectación a un destino determinado, mientras no sean expresamente derogadas.
 
-OCTAVA.- Las normás relativas a la edad establecidas en el inciso segúndo del artículo 77 no regiran respecto de los magistrados de los tribunales superiores de justicia en servicio a la fecha de vigencia de esta Constitucion.
-Durante el período a que se refiere la disposición decimotercera transitoria la inamovilidad de los Comandantes en Jefe de las Fuerzas Armadas y del General Director de Carabineros se regira por la disposición transitoria vigésima y no les sera aplicable la limitación del plazo contemplado en el artículo 93 de esta Constitución, el que se contara a partir de cuatro años del término del señalado período presidencial.
+OCTAVA.- Las normas relativas a la edad establecidas en el inciso segundo del artículo 77 no regirán respecto de los magistrados de los tribunales superiores de justicia en servicio a la fecha de vigencia de esta Constitución.
+Durante el período a que se refiere la disposición decimotercera transitoria la inamovilidad de los Comandantes en Jefe de las Fuerzas Armadas y del General Director de Carabineros se regirá por la disposición transitoria vigésima y no les será aplicable la limitación del plazo contemplado en el artículo 93 de esta Constitución, el que se contará a partir de cuatro años del término del señalado período presidencial.
 
-NOVENA.- Los miembros del Tribunal Constitucional a que se refiere el artículo 81, deberan ser designados con diez días de anticipación, a lo menos, a la fecha en que comience el primer período presidencial. Para éste sólo efecto, el Consejo de Seguridad Nacional se constituira con treinta días de anterioridad a la fecha en que comience a regir esta Constitución.
+NOVENA.- Los miembros del Tribunal Constitucional a que se refiere el artículo 81, deberán ser designados con diez días de anticipación, a lo menos, a la fecha en que comience el primer período presidencial. Para este solo efecto, el Consejo de Seguridad Nacional se constituirá con treinta días de anterioridad a la fecha en que comience a regir esta Constitución.
 
-DECIMA.- En tanto no entre en vigencia la ley orgánica constitucional relativa a los partidos políticos a que se refiere el No. 15 del artículo 19, estara prohibido ejecutar o promover toda actividad, acción o gestión de índole político partidista, ya sea por personas naturales o jurídicas, organizaciones, entidades o agrupaciones de personas. Quienes infrinjan esta prohibición incurriran en las sanciones previstas en la ley.
+DECIMA.- En tanto no entre en vigencia la ley orgánica constitucional relativa a los partidos políticos a que se refiere el Nº. 15 del artículo 19, estará prohibido ejecutar o promover toda actividad, acción o gestión de índole político partidista, ya sea por personas naturales o jurídicas, organizaciones, entidades o agrupaciones de personas. Quienes infrinjan esta prohibición incurrirán en las sanciones previstas en la ley.
 
-DECIMOPRIMERA.- El artículo 84 de la Constitución relativo al Tribunal Calificador de Elecciones, comenzara a regir en la fecha que corresponda de acuerdo con la ley respectiva, con ocasión de la primera elección de senadores y diputados, y sus miembros deberan estar designados con treinta días de anticipación a esa fecha.
+DECIMOPRIMERA.- El artículo 84 de la Constitución relativo al Tribunal Calificador de Elecciones, comenzará a regir en la fecha que corresponda de acuerdo con la ley respectiva, con ocasión de la primera elección de senadores y diputados, y sus miembros deberán estar designados con treinta días de anticipación a esa fecha.
 
-DECIMOSEGUNDA.- Mientras no proceda constituir el Tribunal Calificador de Elecciones, la designación de los miembros de los tribunales electorales regionales, cuyo nombramiento le corresponde, sera hecho por la Corte de Apelaciones respectiva.
+DECIMOSEGUNDA.- Mientras no proceda constituir el Tribunal Calificador de Elecciones, la designación de los miembros de los tribunales electorales regionales, cuyo nombramiento le corresponde, será hecho por la Corte de Apelaciones respectiva.
 
-DECIMOTERCERA.- El período presidencial que comenzara a regir a contar de la vigencia de esta Constitución, durara el tiempo que establece el artículo 25.
-Durante éste período serán aplicables todos los preceptos de la Constitución, con las modificaciones y salvedades que se indican en las disposiciones
-transitorias siguientes.
+DECIMOTERCERA.- El período presidencial que comenzará a regir a contar de la vigencia de esta Constitución, durará el tiempo que establece el artículo 25.
+Durante este período serán aplicables todos los preceptos de la Constitución, con las modificaciones y salvedades que se indican en las disposiciones transitorias siguientes.
 
-DECIMOCUARTA.- Durante el período indicado en la disposición anterior, continuara como Presidente de la República el actual Presidente, General de Ejército don Augusto Pinochet Ugarte, quien durara en el cargo hasta el término de dicho período.
-Asimismo, la Junta de Gobierno permanecera integrada por los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, y por el General Director de Carabineros. Se regira por las normás que regulen su funcionamiento interno y tendra las atribuciones que se señalan en las disposiciones transitorias correspondientes.
-Sin embargo, atendido que el Comandante en Jefe del Ejército, de acuerdo con el inciso primero de esta disposición es Presidente de la República, no integrara la Junta de Gobierno y lo hara, en su lugar, como miembro titular, el Oficial General de Armás del Ejército que le siga en antigüedad. Con todo, el Presidente de la República podra reemplazar a dicho integrante en cualquier momento, por otro Oficial General de Armás de su Institución siguiendo el orden de antigüedad.
+DECIMOCUARTA.- Durante el período indicado en la disposición anterior, continuará como Presidente de la República el actual Presidente, General de Ejército don Augusto Pinochet Ugarte, quien durará en el cargo hasta el término de dicho período.
+Asimismo, la Junta de Gobierno permanecerá integrada por los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, y por el General Director de Carabineros. Se regirá por las normas que regulen su funcionamiento interno y tendrá las atribuciones que se señalan en las disposiciones transitorias correspondientes.
+Sin embargo, atendido que el Comandante en Jefe del Ejército, de acuerdo con el inciso primero de esta disposición es Presidente de la República, no integrará la Junta de Gobierno y lo hará, en su lugar, como miembro titular, el Oficial General de Armas del Ejército que le siga en antigüedad. Con todo, el Presidente de la República podrá reemplazar a dicho integrante en cualquier momento, por otro Oficial General de Armas de su Institución siguiendo el orden de antigüedad.
 
-DECIMOQUINTA.- El Presidente de la República tendra
-las atribuciones y obligaciones que establecen los
-preceptos de esta Constitución, con las siguientes
-modificaciones y salvedades:
-A.- Podra:
+DECIMOQUINTA.- El Presidente de la República tendrá las atribuciones y obligaciones que establecen los preceptos de esta Constitución, con las siguientes modificaciones y salvedades:
+A.- Podrá:
 1) Decretar por sí mismo los estados de emergencia y de catástrofe, en su caso, y
 2) Designar y remover libremente a los alcaldes de todo el país, sin perjuicio de que pueda disponer la plena o gradual aplicación de lo previsto en el artículo 108.
-B.- Requerira el acuerdo de la Junta para:
+B.- Requerirá el acuerdo de la Junta para:
 1) Designar a los Comandantes en Jefe de las Fuerzas Armadas y al General Director de Carabineros cuando sea necesario reemplazarlos, por muerte, renuncia o cualquier clase de imposibilidad absoluta;
 2) Designar al Contralor General de la República;
 3) Declarar la guerra;
@@ -843,17 +834,14 @@ B.- Requerira el acuerdo de la Junta para:
 5) Decidir si ha o no lugar a la admisión de las acusaciones que cualquier individuo particular presentare contra los Ministros de Estado con motivo de los perjuicios que pueda haber sufrido injustamente por algún acto cometido por éstos en el ejercicio de sus funciones, y
 6) Ausentarse del país por más de treinta días o en los últimos noventa días de su período.
 
-DECIMOSEXTA.- En caso de que por impedimento temporal, ya sea por enfermedad, ausencia del territorio nacional u otro grave motivo, el Presidente de la República no pudiere ejercer su cargo, le subrogara con el título de Vicepresidente de la República, el miembro titular de la Junta de Gobierno según el orden de precedencia que corresponda.
+DECIMOSEXTA.- En caso de que por impedimento temporal, ya sea por enfermedad, ausencia del territorio nacional u otro grave motivo, el Presidente de la República no pudiere ejercer su cargo, le subrogará con el título de Vicepresidente de la República, el miembro titular de la Junta de Gobierno según el orden de precedencia que corresponda.
 
-DECIMOSEPTIMA.- En caso de muerte, renuncia o cualquier clase de imposibilidad absoluta del Presidente de la República, el sucesor, por el período que le falte, sera designado por la unanimidad de la Junta de Gobierno, la que debera reunirse de inmediato. Mientras no se produzca la designación, asumira como Vicepresidente de la República el miembro titular de la Junta de Gobierno, según el orden de precedencia que corresponda.
-Si transcurridas cuarenta y ocho horas de reunida la Junta de Gobierno no hubiere unanimidad para elegir Presidente de la República, la elección la efectuara el Consejo de Seguridad Nacional, por la mayoría absoluta de sus miembros, integrándose a él, para éste efecto, el Contralor General de la República.
-Si fuere designado Presidente de la República un Oficial General de Armás o de Orden y Seguridad, éste de pleno derecho y por el período presidencial que réste, asumira la calidad de Comandante en Jefe Institucional o de General Director de Carabineros, en su caso, si tuviere los requisitos para serlo. En éste caso, el Oficial General de Armás o de Orden y Seguridad que le siga en antigüedad, en la respectiva Institución, pasara a integrar la Junta de Gobierno como miembro titular, aplicándose la parte final del inciso tercero de la disposición decimocuarta transitoria en cuanto a su Institución.
+DECIMOSEPTIMA.- En caso de muerte, renuncia o cualquier clase de imposibilidad absoluta del Presidente de la República, el sucesor, por el período que le falte, será designado por la unanimidad de la Junta de Gobierno, la que deberá reunirse de inmediato. Mientras no se produzca la designación, asumirá como Vicepresidente de la República el miembro titular de la Junta de Gobierno, según el orden de precedencia que corresponda.
+Si transcurridas cuarenta y ocho horas de reunida la Junta de Gobierno no hubiere unanimidad para elegir Presidente de la República, la elección la efectuará el Consejo de Seguridad Nacional, por la mayoría absoluta de sus miembros, integrándose a él, para este efecto, el Contralor General de la República.
+Si fuere designado Presidente de la República un Oficial General de Armas o de Orden y Seguridad, éste de pleno derecho y por el período presidencial que reste, asumirá la calidad de Comandante en Jefe Institucional o de General Director de Carabineros, en su caso, si tuviere los requisitos para serlo. En este caso, el Oficial General de Armas o de Orden y Seguridad que le siga en antigüedad, en la respectiva Institución, pasará a integrar la Junta de Gobierno como miembro titular, aplicándose la parte final del inciso tercero de la disposición decimocuarta transitoria en cuanto a su Institución.
 
-DECIMOCTAVA.- Durante el período a que se refiere la
-disposición decimotercera transitoria, la Junta de
-Gobierno ejercera, por la unanimidad de sus miembros,
-las siguientes atribuciones exclusivas:
-A.- Ejercer el Poder Constituyente sujeto siempre a aprobación plebiscitaria, la que se llevara a efecto conforme a las reglas que señale la ley;
+DECIMOCTAVA.- Durante el período a que se refiere la disposición decimotercera transitoria, la Junta de Gobierno ejercerá, por la unanimidad de sus miembros, las siguientes atribuciones exclusivas:
+A.- Ejercer el Poder Constituyente sujeto siempre a aprobación plebiscitaria, la que se llevará a efecto conforme a las reglas que señale la ley;
 B.- Ejercer el Poder Legislativo;
 C.- Dictar las leyes interpretativas de la Constitución que fueren necesarias;
 D.- Aprobar o desechar los tratados internacionales, antes de la ratificación presidencial;
@@ -861,69 +849,61 @@ E.- Prestar su acuerdo al Presidente de la República en los casos contemplados 
 F.- Prestar su acuerdo al Presidente de la República, para decretar los estados de asamblea y de sitio, en su caso;
 G.- Permitir la entrada de tropas extranjeras en el territorio de la República, como asimismo, autorizar la salida de tropas nacionales fuera de él;
 H.- Conocer de las contiendas de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales superiores de justicia;
-I.- Otorgar la rehabilitación de la ciudadanía, en los casos a que alude el artículo 17 numero 2o. de esta Constitucion;
+I.- Otorgar la rehabilitación de la ciudadanía, en los casos a que alude el artículo 17 número 2º. de esta Constitución;
 J.- Declarar en el caso de que el Presidente de la República o los Comandantes en Jefe de las Fuerzas Armadas y el General Director de Carabineros hicieren dimisión de su cargo, si los motivos que la originan son o no fundados y, en consecuencia, admitirla o desecharla, y
-K.- Las demás que le otorgan otras disposiciones transitorias de esta Constitucion.
+K.- Las demás que le otorgan otras disposiciones transitorias de esta Constitución.
 El orden de precedencia de los integrantes de la Junta de Gobierno, es el que se indica a continuación:
 1.- El Comandante en Jefe del Ejército;
 2.- El Comandante en Jefe de la Armada;
 3.- El Comandante en Jefe de la Fuerza Aérea, y 4.- El General Director de Carabineros.
-Se alterara el orden de precedencia antes establecido, en las situaciones señaladas en el inciso tercero de la disposición decimocuarta transitoria y en el inciso final de la disposición decimoséptima transitoria, y, en tales casos, el integrante de la Junta de Gobierno a que aluden dichas disposiciones ocupara, como titular, el cuarto orden de precedencia.
-Presidira la Junta de Gobierno el miembro titular de ella que tenga el primer lugar de precedencia de acuerdo a los dos incisos anteriores.
-En el caso previsto en la letra B.-, numero 1), de la disposición decimoquinta transitoria, el o los nuevos miembros que se incorporen a la Junta de Gobierno conservaran el orden de precedencia señalado en el inciso segúndo.
-Cuando uno de los miembros titulares de la Junta de Gobierno esté impedido temporalmente para ejercer su cargo, lo subrogara el Oficial General de Armás o de Orden y Seguridad más antiguo, a quien le corresponda de acuerdo a las normás sobre sucesión de mando en la respectiva Institución, integrándose a la Junta en el último lugar de precedencia. Si los subrogantes fueren más de uno, se integraran a la Junta en el orden de precedencia señalado en el inciso segúndo.
+Se alterará el orden de precedencia antes establecido, en las situaciones señaladas en el inciso tercero de la disposición decimocuarta transitoria y en el inciso final de la disposición decimoséptima transitoria, y, en tales casos, el integrante de la Junta de Gobierno a que aluden dichas disposiciones ocupará, como titular, el cuarto orden de precedencia.
+Presidirá la Junta de Gobierno el miembro titular de ella que tenga el primer lugar de precedencia de acuerdo a los dos incisos anteriores.
+En el caso previsto en la letra B.-, número 1), de la disposición decimoquinta transitoria, el o los nuevos miembros que se incorporen a la Junta de Gobierno conservarán el orden de precedencia señalado en el inciso segundo.
+Cuando uno de los miembros titulares de la Junta de Gobierno esté impedido temporalmente para ejercer su cargo, lo subrogará el Oficial General de Armas o de Orden y Seguridad más antiguo, a quien le corresponda de acuerdo a las normas sobre sucesión de mando en la respectiva Institución, integrándose a la Junta en el último lugar de precedencia. Si los subrogantes fueren más de uno, se integrarán a la Junta en el orden de precedencia señalado en el inciso segundo.
 
-DECIMONOVENA.- Los miembros de la Junta de Gobierno tendran iniciativa de ley, en todas aquellas materias que constitucionalmente no sean de iniciativa exclusiva del Presidente de la República.
-La Junta de Gobierno ejercera mediante leyes las Potestades Constituyente y Legislativa. Estas leyes llevaran la firma de los miembros de la Junta de Gobierno y del Presidente de la República en señal de promulgación.
-Una ley complementaria establecera los órgaños de trabajo y los procedimientos de que se valdra la Junta de Gobierno, para ejercer las aludidas Potestades Constituyente y Legislativa. Estas normás complementarias establecerán, además, los mecanismos que permitan a la Junta de Gobierno requerir la colaboración de la comunidad para la elaboración de las leyes.
+DECIMONOVENA.- Los miembros de la Junta de Gobierno tendrán iniciativa de ley, en todas aquellas materias que constitucionalmente no sean de iniciativa exclusiva del Presidente de la República.
+La Junta de Gobierno ejercerá mediante leyes las Potestades Constituyente y Legislativa. Estas leyes llevarán la firma de los miembros de la Junta de Gobierno y del Presidente de la República en señal de promulgación.
+Una ley complementaria establecerá los órganos de trabajo y los procedimientos de que se valdrá la Junta de Gobierno, para ejercer las aludidas Potestades Constituyente y Legislativa. Estas normas complementarias establecerán, además, los mecanismos que permitan a la Junta de Gobierno requerir la colaboración de la comunidad para la elaboración de las leyes.
 
-VIGESIMA.- En caso de duda acerca de si la imposibilidad que priva al Presidente de la República del ejercicio de sus funciones es de tal naturaleza que deba hacerse su reemplazo, correspondera a los miembros titulares de la Junta de Gobierno resolver la duda planteada.
-Si la duda se refiere a la imposibilidad que priva a un miembro de la Junta de Gobierno del ejercicio de sus funciones y es de igual naturaleza que la referida en el inciso anterior, correspondera a los demás miembros titulares de la Junta de Gobierno resolver la cuestión planteada.
+VIGESIMA.- En caso de duda acerca de si la imposibilidad que priva al Presidente de la República del ejercicio de sus funciones es de tal naturaleza que deba hacerse su reemplazo, corresponderá a los miembros titulares de la Junta de Gobierno resolver la duda planteada.
+Si la duda se refiere a la imposibilidad que priva a un miembro de la Junta de Gobierno del ejercicio de sus funciones y es de igual naturaleza que la referida en el inciso anterior, corresponderá a los demás miembros titulares de la Junta de Gobierno resolver la cuestión planteada.
 
 VIGESIMAPRIMERA.- Durante el período a que se refiere la decimotercera disposición transitoria y hasta que entre en funciones el Senado y la Cámara de Diputados, no serán aplicables los siguientes preceptos de esta Constitución:
-a) Los artículo 26 al 31 inclusive, los números 2º, 4º, 5º, 6º y la segunda parte del número 16º del artículo 32; el artículo 37; y el artículo 41, número 7º, en su referencia a los parlamentarios;
-b) El Capítulo V sobre el Congreso Nacional con excepción de: el número 1º del artículo 50, los artículos 60, 61, los incisos tercero a quinto del artículo 62, y el artículo 64, los que tendrán plena vigencia. Las referencias que éstos preceptos y el número 3° del artículo 32, el inciso segundo del numero 6° del artículo 41, y los artículos 73 y 88 hacen al Congreso Nacional o a alguna de sus ramas, se entenderán hechas a la Junta de Gobierno.
-Asimismo, la elección a que se refiere la letra d) del artículo 81, corresponderá hacerla a la Junta de Gobierno;
-c) En el artículo 82: los números 4°, 9° y 11° de su inciso primero, el inciso segundo en su referencia al numero 9°, y los incisos octavo, noveno, décimo, decimosegundo, decimocuarto y decimoquinto. Tampoco regirá la referencia que el número 2° hace a la reforma constitucional, ni la segunda parte del número 8° del inciso primero del mismo artículo en lo atinente al Presidente de la República, como tampoco las referencias que hacen a dicho número, en lo concerniente a la materia, los incisos segundo y decimotercero;
-d) El Capítulo XIV, relativo a la reforma de la Constitución. La Constitución sólo podrá ser modificada por la Junta de Gobierno en el ejercicio del Poder Constituyente. Sin embargo, para que las modificaciones tengan eficacia deberán ser aprobadas por plebiscito, el cual deberá ser convocado por el Presidente de la República, y
+a) Los artículo 26 al 31 inclusive, los números 2º.,4º., 5º.,6º. y la segunda parte del número 16º. del artículo 32; el artículo 37; y el artículo 41, número 7º., en su referencia a los parlamentarios;
+b) El Capítulo V sobre el Congreso Nacional con excepción de: el número 1º. del artículo 50, los artículos 60, 61, los incisos tercero a quinto del artículo 62, y el artículo 64, los que tendrán plena vigencia. Las referencias que estos preceptos y el número 3º. del artículo 32, el inciso segundo del número 6º. del artículo 41, y los artículos 73 y 88 hacen al Congreso Nacional o a alguna de sus ramas, se entenderán hechas a la Junta de Gobierno.
+c) En el artículo 82: los números 4º., 9º. y 11º. de su inciso primero, el inciso segundo en su referencia al número 9º., y los incisos octavo, noveno, décimo, decimosegundo, decimocuarto y decimoquinto. Tampoco regirá la referencia que el número 2º. hace a la reforma constitucional, ni la segunda parte del número 8º. del inciso primero del mismo artículo en lo atinente al Presidente de la República, como tampoco las referencias que hacen a dicho número, en lo concerniente a la materia, los incisos segundo y decimotercero;
+d) El Capítulo XIV, relativo a la reforma de la Constitución.
+La Constitución sólo podrá ser modificada por la Junta de Gobierno en el ejercicio del Poder Constituyente. Sin embargo, para que las modificaciones tengan eficacia deberán ser aprobadas por plebiscito, el cual deberá ser convocado por el Presidente de la República, y
 e) Cualquier otro precepto que sea contrario a las disposiciones que rigen el período presidencial a que se refiere la disposición decimotercera transitoria.
 
-VIGESIMASEGUNDA.- Para los efectos de lo prescrito en el inciso tercero del artículo 82 de la Constitución, la Junta de Gobierno debera remitir al Tribunal Constitucional el proyecto a que dicho precepto se refiere, antes de su promulgación por el Presidente de la República.
-Sin perjuicio de la facultad que se confiere al Presidente de la República en los incisos cuarto y séptimo del artículo 82, correspondera también a la Junta de Gobierno en pleno formular el requerimiento a que aluden esas normás.
-En el caso de los incisos decimoprimero y decimosexto del artículo señalado en el inciso anterior, correspondera, asimismo, a la Junta de Gobierno en pleno formular el requerimiento respectivo.
+VIGESIMASEGUNDA.- Para los efectos de lo prescrito en el inciso tercero del artículo 82 de la Constitución, la Junta de Gobierno deberá remitir al Tribunal Constitucional el proyecto a que dicho precepto se refiere, antes de su promulgación por el Presidente de la República.
+Sin perjuicio de la facultad que se confiere al Presidente de la República en los incisos cuarto y séptimo del artículo 82, corresponderá también a la Junta de Gobierno en pleno formular el requerimiento a que aluden esas normas.
+En el caso de los incisos decimoprimero y decimosexto del artículo señalado en el inciso anterior, corresponderá, asimismo, a la Junta de Gobierno en pleno formular el requerimiento respectivo.
 
-VIGESIMATERCERA.- Si entre la fecha de aprobación mediante plebiscito de la presente Constitución y la de su vigencia, el Presidente de la República a que se refiere la disposición decimocuarta transitoria quedare, por cualquier causa, impedido absolutamente de asumir sus funciones, la Junta de Gobierno, por la unanimidad de sus miembros, designara a la persona que asumira el cargo de Presidente de la República para el período a que se refiere la disposición decimotercera transitoria.
-Para éste efecto, la Junta de Gobierno se integrara por los Comandantes en Jefe de la Armada, de la Fuerza Aérea, por el General Director de Carabineros y, como miembro titular, por el Oficial General de Armás más antiguo del Ejército.
-Si constituida la Junta de Gobierno en la forma indicada en el inciso precedente, no hubiere, dentro de las cuarenta y ocho horas de reunida, unanimidad para elegir Presidente de la República, se integrarán a ella, para éste sólo efecto, el Presidente de la Corte Suprema, el Contralor General de la República y el Presidente del Consejo de Estado y, así constituida, designara, por la mayoría absoluta de sus miembros, al Presidente de la República y a éste se entendera referida la disposición decimocuarta transitoria, en su inciso primero.
+VIGESIMATERCERA.- Si entre la fecha de aprobación mediante plebiscito de la presente Constitución y la de su vigencia, el Presidente de la República a que se refiere la disposición decimocuarta transitoria quedare, por cualquier causa, impedido absolutamente de asumir sus funciones, la Junta de Gobierno, por la unanimidad de sus miembros, designará a la persona que asumirá el cargo de Presidente de la República para el período a que se refiere la disposición decimotercera transitoria.
+Para este efecto, la Junta de Gobierno se integrará por los Comandantes en Jefe de la Armada, de la Fuerza Aérea, por el General Director de Carabineros y, como miembro titular, por el Oficial General de Armas más antiguo del Ejército.
+Si constituida la Junta de Gobierno en la forma indicada en el inciso precedente, no hubiere, dentro de las cuarenta y ocho horas de reunida, unanimidad para elegir Presidente de la República, se integrarán a ella, para este sólo efecto, el Presidente de la Corte Suprema, el Contralor General de la República y el Presidente del Consejo de Estado y, así constituida, designará, por la mayoría absoluta de sus miembros, al Presidente de la República y a éste se entenderá referida la disposición decimocuarta transitoria, en su inciso primero.
 
-VIGESIMACUARTA.- Sin perjuicio de lo establecido en los artículos 39 y siguientes sobre estados de excepción que contempla esta Constitución, si durante el período a que se refiere la disposición decimotercera transitoria se produjeren actos de violencia destinados a alterar el orden público o hubiere peligro de perturbación de la paz interior, el Presidente de la República así lo declarara y tendra, por seis meses renovables, las siguientes facultades:
-a) Arrestar a personas hasta por el plazo de cinco días, en sus propias casas o en lugares que no sean cárceles. Si se produjeren actos terroristas de graves consecuencias, dicho plazo podra extenderlo hasta por quince días más;
-b) Restringir el derecho de reunión y la libertad de información, esta última sólo en cuanto a la fundación, edición o circulación de nuevas públicaciones;
-c) Prohibir el ingreso al territorio nacional o expulsar de él a los que propaguen las doctrinas a que alude el artículo 8o. de la Constitución, a los que estén sindicados o tengan reputación de ser activistas de tales doctrinas y a los que realicen actos contrarios a los intereses de Chile o constituyan un peligro para la paz interior, y
+VIGESIMACUARTA.- Sin perjuicio de lo establecido en los artículos 39 y siguientes sobre estados de excepción que contempla esta Constitución, si durante el período a que se refiere la disposición decimotercera transitoria se produjeren actos de violencia destinados a alterar el orden público o hubiere peligro de perturbación de la paz interior, el Presidente de la República así lo declarará y tendrá, por seis meses renovables, las siguientes facultades:
+a) Arrestar a personas hasta por el plazo de cinco días, en sus propias casas o en lugares que no sean cárceles. Si se produjeren actos terroristas de graves consecuencias, dicho plazo podrá extenderlo hasta por quince días más;
+b) Restringir el derecho de reunión y la libertad de información, esta última sólo en cuanto a la fundación, edición o circulación de nuevas publicaciones;
+c) Prohibir el ingreso al territorio nacional o expulsar de él a los que propaguen las doctrinas a que alude el artículo 8º. de la Constitución, a los que estén sindicados o tengan reputación de ser activistas de tales doctrinas y a los que realicen actos contrarios a los intereses de Chile o constituyan un peligro para la paz interior, y
 d) Disponer la permanencia obligada de determinadas personas en una localidad urbana del territorio nacional hasta por un plazo no superior a tres meses.
-Las facultades contempladas en esta disposición las ejercera el Presidente de la República, mediante decreto supremo firmado por el Ministro del Interior, bajo la fórmula "Por orden del Presidente de la República". Las medidas que se adopten en virtud de esta disposición no seran susceptibles de recurso alguno, salvo el de reconsideración ante la autoridad que las dispuso.
+Las facultades contempladas en esta disposición las ejercerá el Presidente de la República, mediante decreto supremo firmado por el Ministro del Interior, bajo la fórmula "Por orden del Presidente de la República". Las medidas que se adopten en virtud de esta disposición no serán susceptibles de recurso alguno, salvo el de reconsideración ante la autoridad que las dispuso.
 
-VIGESIMAQUINTA.- Durante el período a que se refiere la disposición decimotercera, el Consejo de Seguridad Nacional estara presidido por el Presidente de la República e integrado por los miembros de la Junta de Gobierno, por el Presidente de la Corte Suprema y por el Presidente del Consejo de Estado.
+VIGESIMAQUINTA.- Durante el período a que se refiere la disposición decimotercera, el Consejo de Seguridad Nacional estará presidido por el Presidente de la República e integrado por los miembros de la Junta de Gobierno, por el Presidente de la Corte Suprema y por el Presidente del Consejo de Estado.
 
-VIGESIMASEXTA.- Hasta que el Senado entre en funciones continuara funcionando el Consejo de Estado.
+VIGESIMASEXTA.- Hasta que el Senado entre en funciones continuará funcionando el Consejo de Estado.
 
-VIGESIMASEPTIMA.- Corresponderá a los Comandantes en Jefe de las Fuerzas Armadas y al General Director de Carabineros, titulares, proponer al país, por la unanimidad de ellos, sujeto a la ratificación de la ciudadanía, la persona que ocupara el cargo de Presidente de la República en el período presidencial siguiente al referido en la disposición decimotercera transitoria, quien deberá cumplir con los requisitos establecidos en el artículo 25 inciso primero de esta Constitución, sin que le sea aplicable la prohibición de ser reelegido contemplada en el inciso segundo de ese mismo artículo. Con ese objeto se reunirán noventa días antes, a lo menos, de la fecha en que deba cesar en el cargo el que esté en funciones. La designación será comunicada al Presidente de la República, para los efectos de la convocatoria a plebiscito.
-Si transcurridas cuarenta y ocho horas de reunidos los Comandantes en Jefe y el General Director señalados en el inciso anterior, no hubiere unanimidad, la proposición se hará de acuerdo con lo prescrito en el inciso segundo de la disposición decimoséptima transitoria y el Consejo de Seguridad Nacional comunicara al Presidente de la República su decisión, para los mismos efectos señalados en el inciso anterior.
-El plebiscito deberá efectuarse no antes de treinta ni después de sesenta días de la proposición correspondiente y se llevara a efecto en la forma que disponga la ley.
+VIGESIMASEPTIMA.- Corresponderá a los Comandantes en Jefe de las Fuerzas Armadas y al General Director de Carabineros, titulares, proponer al país, por la unanimidad de ellos, sujeto a la ratificación de la ciudadanía, la persona que ocupará el cargo de Presidente de la República en el período presidencial siguiente al referido en la disposición decimotercera transitoria, quien deberá cumplir con los requisitos establecidos en el artículo 25 inciso primero de esta Constitución, sin que le sea aplicable la prohibición de ser reelegido contemplada en el inciso segundo de ese mismo artículo. Con ese objeto se reunirán noventa días antes, a lo menos, de la fecha en que deba cesar en el cargo el que esté en funciones. La designación será comunicada al Presidente de la República, para los efectos de la convocatoria a plebiscito.
+Si transcurridas cuarenta y ocho horas de reunidos los Comandantes en Jefe y el General Director señalados en el inciso anterior, no hubiere unanimidad, la proposición se hará de acuerdo con lo prescrito en el inciso segundo de la disposición decimoséptima transitoria y el Consejo de Seguridad Nacional comunicará al Presidente de la República su decisión, para los mismos efectos señalados en el inciso anterior.
+El plebiscito deberá efectuarse no antes de treinta ni después de sesenta días de la proposición correspondiente y se llevará a efecto en la forma que disponga la ley.
 
-VIGESIMAOCTAVA.- Si la ciudadanía a través del
-plebiscito manifestare su voluntad de aprobar la
-proposición efectuada de acuerdo con la disposición que
-precede, el Presidente de la República así elegido,
-asumirá el cargo el mismo día en que deba cesar el
-anterior y ejercerá sus funciones por el período
-indicado en el inciso segundo del artículo 25 y se
-aplicaran todos los preceptos de la Constitución con
-las siguientes modalidades:
-A.- El Presidente de la República, nueve meses después de asumir el cargo, convocara a elecciones generales de senadores y diputados para integrar el Congreso en la forma dispuesta en la Constitución. La elección tendrá lugar no antes de los treinta ni después de los cuarenta y cinco días siguientes a la convocatoria y se efectuara de acuerdo a la ley orgánica respectiva;
-B.- El Congreso Nacional se instalara tres meses después de la convocatoria a elecciones.
-Los diputados de éste primer Congreso duraran tres años en sus cargos. Los senadores elegidos por las regiones de número impar durarán, asimismo, tres años y los senadores elegidos por las regiones de número par y región metropolitana, así como los designados, siete años, y
-C.- Hasta que entre en funciones el Congreso Nacional, la Junta de Gobierno continuara en el pleno ejercicio de sus atribuciones, y seguirán en vigor las disposiciones transitorias que rigen el período presidencial a que se refiere la disposición decimotercera.
+VIGESIMAOCTAVA.- Si la ciudadanía a través del plebiscito manifestare su voluntad de aprobar la proposición efectuada de acuerdo con la disposición que precede, el Presidente de la República así elegido, asumirá el cargo el mismo día en que deba cesar el anterior y ejercerá sus funciones por el período indicado en el inciso segundo del artículo 25 y se aplicarán todos los preceptos de la Constitución con las siguientes modalidades:
+A.- El Presidente de la República, nueve meses después de asumir el cargo, convocará a elecciones generales de senadores y diputados para integrar el Congreso en la forma dispuesta en la Constitución. La elección tendrá lugar no antes de los treinta ni después de los cuarenta y cinco días siguientes a la convocatoria y se efectuará de acuerdo a la ley orgánica respectiva;
+B.- El Congreso Nacional se instalará tres meses después de la convocatoria a elecciones.
+Los diputados de este primer Congreso durarán tres años en sus cargos. Los senadores elegidos por las regiones de número impar durarán, asimismo, tres años y los senadores elegidos por las regiones de número par y región metropolitana, así como los designados, siete años, y
+C.- Hasta que entre en funciones el Congreso Nacional, la Junta de Gobierno continuará en el pleno ejercicio de sus atribuciones, y seguirán en vigor las disposiciones transitorias que rigen el período presidencial a que se refiere la disposición decimotercera.
 
 VIGESIMANOVENA.- Si la ciudadanía no aprobare la proposición sometida a plebiscito a que se refiere la disposición vigesimaséptima transitoria, se entendera prorrogado de pleno derecho el período presidencial a que se refiere la disposición decimotercera transitoria, continuando en funciones por un año más el Presidente de la República en ejercicio y la Junta de Gobierno, con arreglo a las disposiciones que los rigen. Vencido éste plazo, tendrán plena vigencia todos los preceptos de la Constitución.
 Para éste efecto, noventa días antes de la expiración de la prórroga indicada en el inciso anterior, el Presidente en ejercicio convocara a elección de Presidente de la República y de parlamentarios en conformidad a los preceptos permanentes de esta Constitución y de la ley.
