@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1993-07-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1993-08-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1993-07-01
-fetched_at: 2026-08-03T00:55:59.076719+00:00
+version_date: 1993-08-28
+fetched_at: 2026-08-03T00:56:11.095282+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -793,19 +793,20 @@ Si los golpes causaren al ofendido algunas de las lesiones a que se refiere el a
 Crímenes y simples delitos contra la libertad y seguridad, cometidos por particulares.
 
 ART. 141.
-El que sin derecho encerrare o detuviere a otro privándole de su libertad, comete el delito de secuestro y será castigado con la pena de presidio o reclusión menores en cualquiera de sus grados.
+El que sin derecho encerrare o detuviere a otro privándole de su libertad, comete el delito de secuestro y será castigado con la pena de presidio o reclusión menor en su grado máximo.
 En la misma pena incurrirá el que proporcionare lugar para la ejecución del delito.
 Si se ejecutare para obtener un rescate o imponer exigencias o arrancar decisiones será castigado con la pena de presidio mayor en su grado mínimo a medio.
 Si en cualesquiera de los casos anteriores, el encierro o la detención se prolongare por más de quince días o si de ello resultare un daño grave en la persona o intereses del secuestrado, la pena será presidio mayor en su grado medio a máximo.
-El que con motivo u ocasión del secuestro cometiere además homicidio, violación, o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido, será castigado con presidio mayor en su grado máximo a muerte.
+El que con motivo u ocasión del secuestro cometiere además homicidio, violación, violación sodomítica, o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido, será castigado con presidio mayor en su grado máximo a muerte.
 
-Artículo 142.- La sustracción de un menor de 10 años será castigada:
-1.- Con presidio mayor en su grado medio a presidio perpetuo si se ejecutare para obtener un rescate o imponer exigencias o arrancar decisiones.
-2) Con presidio mayor en cualquiera de sus grados en los demás casos.
-La sustracción de un mayor de 10 años y menor de 18, será castigada:
-1.- Con presidio mayor en su grado medio a presidio perpetuo si se ejecutare para obtener un rescate, imponer exigencias, arrancar decisiones o si resultare un grave daño en la persona del menor.
-2.- Con presidio menor en su grado máximo en los demás casos.
-Si los partícipes voluntariamente y sin que se haya pagado rescate devolvieren al menor sustraído libre de todo daño a sus padres, guardadores, encargados de su persona o a la autoridad, podrá imponérseles una pena inferior en dos grados a las señaladas en este artículo.
+ART. 142.
+La sustracción de un menor de 18 años será castigada:
+1.- Con presidio mayor en su grado máximo a presidio perpetuo, si se ejecutare para obtener un rescate, imponer exigencias, arrancar decisiones o si resultare un grave daño en la persona del menor.
+2.- Con presidio mayor en su grado medio a máximo en los demás casos.
+Si con motivo u ocasión de la sustracción se cometiere alguno de los delitos indicados en el inciso final del artículo anterior, se aplicará la pena que en él se señala.
+
+ART. 142 bis.
+Si los partícipes en los delitos de secuestro de una persona o de sustracción de un menor, antes de cumplir cualquiera de las condiciones exigidas por los secuestradores para devolver a la victima, la devolvieren libre de todo daño, la pena asignada al delito se rebajará en dos grados. Si la devolución se realiza después de cumplida alguna de las condiciones, el juez podrá rebajar la pena en un grado a la señalada en los dos artículos anteriores.
 
 ART. 143.
 El que fuera de los casos permitidos por la ley, aprehendiere a una persona para presentarla a la autoridad, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a diez sueldos vitales.
