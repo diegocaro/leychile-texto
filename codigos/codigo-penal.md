@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1993-12-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1995-09-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1993-12-24
-fetched_at: 2026-08-03T00:56:41.115226+00:00
+version_date: 1995-09-07
+fetched_at: 2026-08-03T01:00:32.557676+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1833,6 +1833,16 @@ El que abusare deshonestamente de persona de uno u otro sexo mayor de doce años
 
 ART. 367.
 El que, habitualmente o con abuso de autoridad o confianza, promoviere o facilitare la prostitución o corrupción de menores de edad para satisfacer los deseos de otro, sufrirá las penas de presidio mayor en cualquiera de sus grados y multa de veintiuna a treinta unidades tributarias mensuales.
+
+ART. 367 bis.
+El que promoviere o facilitare la entrada o salida de personas del país para que éstas ejerzan la prostitución en el territorio nacional o en el extranjero, será castigado con la pena de presidio menor en su grado máximo y multa de veinte unidades tributarias mensuales.
+No obstante, se impondrán las penas señaladas en el artículo anterior en los siguientes casos:
+1.- Si la víctima es menor de edad.
+2.- Si se ejerce violencia o intimidación.
+3.- Si el agente actúa mediante engaño o con abuso de autoridad o confianza.
+4.- Si el autor fuere ascendiente, descendiente, marido, hermano, tutor, curador o encargado de la educación de la víctima.
+5.- Si el agente se vale del estado de desamparo económico de la víctima.
+6.- Si existe habitualidad en la conducta del agente.
 
 #### § VII.
 Disposiciones comunes a los tres párrafos anteriores.
