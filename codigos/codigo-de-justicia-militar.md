@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1973-10-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1973-10-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1973-10-02
-fetched_at: 2026-08-03T00:22:55.704435+00:00
+version_date: 1973-10-31
+fetched_at: 2026-08-03T00:23:07.717253+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1354,6 +1354,9 @@ Art. 331. El militar que maltratare de obra a un inferior será castigado:
 4° Con la prisión en su grado máximo a presidio menor en su grado mínimo si no le causare lesiones o éstas fueren leves.
 
 Art. 332. No obstante lo dispuesto en el artículo anterior, quedará exento de pena, cualquiera que sea el resultado del maltrato, el superior que probare que éste tuvo por objeto contener, por un medio racionalmente necesario, los delitos flagrantes de traición, sedición, rebelión, insulto o ataque a un superior, desobediencia en acto del servicio, cobardía frente al enemigo, devastación, saqueo u otro de igual gravedad.
+
+Art. 333. Será castigado con la pena de reclusión menor en cualquiera de sus grados, todo individuo que sin derecho use uniforme, insignias, distintivos o condecoraciones correspondientes a las Fuerzas Armadas o a Carabineros de Chile.
+Si en estos delitos se incurriere en tiempo de guerra la pena será de reclusión menor en su grado medio a reclusión mayor en su grado medio.
 
 ### Título VII
 DELITOS DE INSUBORDINACION
