@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1981-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1981-03-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1981-03-01
-fetched_at: 2026-08-03T00:33:39.995749+00:00
+version_date: 1981-03-07
+fetched_at: 2026-08-03T00:33:45.996675+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2089,7 +2089,7 @@ Art. 515. En todo lo que no esté previsto en este Título, regirán las disposi
 
 Art. 516. Los depósitos judiciales que tengan más de cinco años, contados desde que exista resolución ejecutoriada declaratoria del abandono de la instancia, pasarán a la Junta de Servicios Judiciales, siempre que los interesados no los reclamen.
 Las cantidades que deban aplicarse a beneficio fiscal en los casos en que se exige consignación previa de dinero para recurrir de apelación, casación, revisión o queja, se destinarán a la Junta de Servicios Judiciales.
-Los fondos que se obtengan por la aplicación del inciso anterior, se depositarán a la orden de la Junta, en cuenta especial que se abrirá en la Tesorería Provincial de Santiago, sin perjuicio de que las demás Tesorerías Comunales o Provinciales los recauden, cuando así corresponda, para luego remesarlos a la expresada Tesorería Provincial de Santiago.
+Los fondos que se obtengan por la aplicación del inciso anterior, se remesarán a la referida Junta por los respectivos tribunales, en cuyas cuentas corrientes se encontraren depositados, en la primera quincena de Enero de cada año.
 En cuanto al destino de las fianzas y de los dineros decomisados, y de los que no hayan caído en comiso y no fueren reclamados, se estará a lo previsto en el Código de Procedimiento Penal.
 
 Art. 517. El Secretario de cada Tribunal dará cuenta anualmente a su superior respectivo y a la Junta de Servicios Judiciales, en la primera semana del mes de marzo, de los depósitos que se encuentren en la situación indicada en el artículo anterior, y el Tribunal decretará, en los procesos correspondientes, el ingreso de dichos depósitos a la orden de la Junta. La resolución se notificará por el estado diario. Si el expediente estuviere en otro tribunal, se le dirigirá oficio con inserción del decreto. Este oficio se agregará al proceso y se notificará en la forma antedicha.
@@ -2245,7 +2245,7 @@ Art. 548. Los recursos de queja se verán por las Cortes de Apelaciones fuera de
 Art. 549. Todo recurso de queja deberá interponerse en el plazo fatal de cinco días. Este plazo se suspenderá durante los días feriados y se aumentará en la forma indicada en el artículo 259 del Código de Procedimiento Civil, cuando el Tribunal que haya pronunciado la resolución recurrida resida en un departamento diverso de aquel en que funciona el que haya de conocer en el recurso.
 Para interponer un recurso de queja, el recurrente deberá consignar previamente en la cuenta corriente del tribunal que conocerá del mismo una cantidad equivalente al 1% de la cuantía del negocio, con un máximo de un sueldo vital mensual, escala A) del departamento de Santiago.
 Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a medio sueldo vital, si el recurso se interpone ante la Corte Suprema o ante una Corte de Apelaciones, o a la cuarta parte de dicho sueldo si se interpone ante un Juez de Letras.
-No regirá la exigencia de la consignación previa tratándose de los recursos de queja que incidan en negocios en que se litiga en papel común, ni respecto de los que deduzcan los Oficiales del Ministerio Público, los Defensores Públicos, los representantes del Fisco, los procesados en causa criminal y los que gozan de privilegio de pobreza.
+No regirá la exigencia de la consignación previa tratándose de los recursos de queja que deduzcan los Oficiales del Ministerio Público, los Defensores Públicos, los representantes del Fisco, los procesados en causa criminal y los que gozan de privilegio de pobreza.
 La consignación a que se refiere este artículo se devolverá a la parte recurrente, si el recurso fuere acogido. Si fuere desechado, o el recurrente se desistiere de él, se aplicará a beneficio fiscal.
 Si el recurso fuere desechado por un tribunal colegiado y por la unanimidad de sus miembros, el tribunal ordenará que la multa establecida en el inciso anterior se eleve al doble de la cantidad consignada y se condenará en las costas del recurso al recurrente cuando hubiere comparecido en él su contraparte.
 Respecto de los multas a que este artículo se refiere regirá también lo dispuesto en el artículo 252 del Código de Procedimiento Civil.
@@ -2336,20 +2336,22 @@ Art. 576. Si el contenido de las actas diere mérito para adoptar medidas que es
 Art. 577. Todo jefe de establecimiento en que se encuentren detenidos o presos los individuos procesados, dará cuenta inmediata al juez de letras respectivo de la muerte o fuga de alguno de ellos, y de cualquiera enfermedad que exija la traslación del enfermo a un hospital o a otro establecimiento.
 Si el proceso se encontrare pendiente ante la Corte de Apelaciones, el juez de letras comunicará a ese tribunal, sin pérdida de tiempo, la fuga o la muerte del procesado.
 
-Art. 578. En toda ciudad cabecera de departamento se harán al año dos visitas a cada uno de los establecimientos penales y de las cárceles en ellas existentes, a fin de tomar conocimiento de su estado de seguridad, orden e higiene, de si los reos cumplen sus condenas y de oirles sus reclamaciones.
+Art. 578. En toda ciudad en que existan cárceles o establecimientos penales se hará, a lo menos, una visita en el primer semestre y otra en el segundo semestre del año a cada uno de ellos, a fin de tomar conocimiento de su estado de seguridad, orden e higiene, de si los reos cumplen sus condenas y de oírles sus reclamaciones.
 
-Art. 579. Estas visitas se practicarán en Santiago el lunes de la Semana Santa, y el 15 de Septiembre; y se las continuará en los días siguientes hasta terminarlas. En las otras ciudades, el Martes Santo y el 16 de Septiembre; y en el siguiente, si fuere necesario.
+Art. 579. Las visitas se practicarán sin aviso previo, a uno o más de los establecimientos penales y cárceles existentes en el departamento respectivo, en la fecha y hora que determine el presidente de la visita, por sí o a petición de cualquiera de sus miembros.
 
-Art. 580. Constituirá la visita en Santiago el Presidente, un ministro designado por el Tribunal y el fiscal de la Corte Suprema, el Presidente de la Corte de Apelaciones, los Presidentes de salas y los fiscales, los jueces letrados en lo criminal y el Intendente de la provincia. Deberán asistir el secretario de la Corte Suprema, los abogados y los procuradores de turno en lo criminal.
-En las otras ciudades, asiento de la Corte de Apelaciones, formarán la visita el Intendente de la provincia, todos los ministros y el fiscal de la Corte y los jueces letrados con jurisdicción en lo criminal. Asistirán el secretario de la Corte, los abogados y los procuradores de turno, en lo criminal.
-En la cabecera de provincia se compondrá del Intendente y de los jueces letrados. Asistirán el secretario del juzgado, los abogados y procuradores de turno, en lo criminal.
-En la cabecera de departamento, la componen el gobernador y los jueces letrados y asistirán el secretario judicial, los abogados y procuradores de turno, en lo criminal.
-El Presidente de la Corte Suprema presidirá la visita en Santiago; el Presidente de la Corte de Apelaciones, en los departamentos asientos de Cortes de Apelaciones y el Juez del Crimen en los demás departamentos. En aquellos de éstos en que hubiere más de un Juez del Crimen, corresponderá presidirla al más antiguo.
+Art. 580. En los departamentos asiento de una Corte de Apelaciones constituirán la visita el presidente, un ministro y el fiscal de cada Corte. El ministro y el fiscal, en las Cortes de Apelaciones que tengan más de uno, serán designados por turno anual, comenzando por el menos antiguo.
+El secretario de la Corte de Apelaciones, o el secretario en lo criminal de la de Santiago, lo será de la visita.
+En las demás ciudades, constituirán la visita los jueces del crimen del departamento y secretario lo será el del juzgado, o el más antiguo de éstos si hay más de uno.
+Presidirá la visita el presidente de la Corte de Apelaciones o, en su caso, el juez del crimen más antiguo.
 
-Art. 581. A la hora que determine el Presidente de la Visita y en los días fijados, las personas nombradas se reunirán, respectivamente, en la sala de la Corte Suprema, de la Intendencia o de la Gobernación; y procederán a visitar las cárceles y los establecimientos penales por el orden que determine el Presidente.
+Art. 581. El presidente, el ministro que se designe y el fiscal de la Corte Suprema podrán constituirse en visita en cualquiera de las cárceles y establecimientos penales de la República cuando así lo estimare necesario el primero, que la presidirá.
+El presidente, el ministro y el fiscal de la Corte de Apelaciones que constituyan la visita en la ciudad asiento de ese tribunal, podrán visitar cualquiera de las cárceles y establecimientos penales existentes en su territorio jurisdiccional cuando así lo determine el presidente de oficio o a petición de uno de sus miembros.
+En estos casos, será secretario de la visita el ministro de fe que el presidente designe.
+Estas visitas tendrán los fines que se indican en el artículo 578 y se regirán, en cuanto les sean aplicables, por las disposiciones de los artículos 579, 582, 583, 584 y 585.
 
 Art. 582. La visita inspeccionará los diferentes departamentos de la casa; se informará del trato y del alimento que se da a los reos; de cómo se cumple el reglamento y se llevan las cuentas de las economías de los reos; y el Presidente les advertirá que pueden hacer las reclamaciones que les convengan.
-Los directores o jefes de la casa visitada presentarán a todos los reos que en ella haya.
+Los directores o jefes de la casa visitada presentarán a todos los reos o detenidos que en ella haya, en la forma que la visita ordene.
 De las reclamaciones que se refieren a vejaciones indebidas, coacción de la libertad de defensa o prolongación injustificada en la tramitación de los procesos, se dejará testimonio escrito y de ellas conocerá la Corte de Apelaciones para la adopción de las medidas procedentes.
 
 Art. 583. Si notare abusos o defectos que pueda corregir, obrando dentro de sus atribuciones, la visita dará las órdenes del caso.
@@ -2362,10 +2364,7 @@ Una copia del acta se remitirá al Ministerio de Justicia.
 Art. 585. En un libro que se tendrá en cada cárcel y establecimiento penal, el secretario de la visita pondrá copia de la parte del acta referente a cada uno.
 El jefe del establecimiento es responsable del cumplimiento de cuanto ordenare la visita.
 
-Art. 585 bis. Sin perjuicio de las visitas que preceden, en toda ciudad asiento de un Juzgado de Letras, se efectuarán cada año, por lo menos, dos visitas extraordinarias a cada uno de los establecimientos penales en ellas existentes.
-En las ciudades asiento de Corte de Apelaciones, estas visitas serán decretadas por el Presidente del Tribunal y para el mismo día en que disponga hacerla, y las efectuará acompañado de dos Ministros, designados de acuerdo con el turno que fije el Tribunal, por su Fiscal y Secretario. En la Corte que sea compuesta por cuatro miembros o menos, el Presidente será acompañado por un solo Ministro, el Fiscal y el Secretario; y en aquellas que funcionen con dos o más Fiscales, con el que corresponda de acuerdo, asimismo, con el turno que fije el Tribunal.
-En las demás ciudades, las visitas serán decretadas y presididas por el Juez del Crimen, si hubiere más de uno por el más antiguo, y siempre será fijada para el mismo día en que se decrete, y será acompañado aquel funcionario por los demás Jueces del crimen que quisieren.
-Estas visitas tendrán las facultades establecidas en el artículo 578 y les serán aplicables, también, lo dispuesto en los artículos 582 a 585.
+Art. 585 bis. Derogado.
 
 ### § 3. Estados y publicaciones
 
