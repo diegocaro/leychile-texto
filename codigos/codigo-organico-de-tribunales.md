@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1999-12-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2000-02-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1999-12-14
-fetched_at: 2026-08-03T01:09:34.656518+00:00
+version_date: 2000-02-10
+fetched_at: 2026-08-03T01:10:22.678307+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -454,6 +454,7 @@ Art. 69. Los Presidentes de las Cortes de Apelaciones formarán el último día 
 En las Cortes de Apelaciones que consten de más de una sala se formarán tantas tablas cuantas sea el número de salas y se distribuirán entre ellas por sorteo, en audiencia pública.
 En las tablas deberá designarse un día de la semana, a lo menos, para conocer las causas criminales, sin perjuicio de la preferencia que la ley o el tribunal les acuerden.
 Sin embargo, los recursos de amparo, las apelaciones que se deduzcan en un mismo proceso respecto del auto de procesamiento de cualquiera de los inculpados de la resolución que no da lugar a pronunciarlo, o que acoge o rechaza la petición de modificarlo o dejarlo sin efecto, y las apelaciones o consultas relativas a la libertad provisional de esos inculpados o procesados, serán de la competencia de la sala que haya conocido por primera vez de los recursos, apelaciones o consultas mencionados.
+La radicación señalada en el inciso precedente operará incluso si no se procediere a la vista de la causa por desistimiento del recurrente o por cualquier otro motivo.
 Serán agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, en casos urgentes: 1° las apelaciones y consultas relativas a la libertad provisional de los inculpados y procesados; 2° los recursos de amparo; y 3° las demás que determinen las leyes.
 Se agregarán extraordinariamente, también, las apelaciones de las resoluciones relativas al auto de procesamiento señaladas en el inciso cuarto, en causas en que haya procesados privados de libertad. La agregación se hará a la tabla del día que determine el Presidente de la Corte, dentro del término de cinco días desde el ingreso de los autos a la Secretaría del Tribunal.
 
