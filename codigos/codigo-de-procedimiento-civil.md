@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1988-05-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1989-01-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1988-05-24
-fetched_at: 2026-08-03T00:45:02.257902+00:00
+version_date: 1989-01-18
+fetched_at: 2026-08-03T00:46:10.435450+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -268,6 +268,14 @@ DE LA DEMANDA
 
 Artículo 255.- Los documentos acompañados a la demanda deberán impugnarse dentro del término de emplazamiento, cualquiera sea su naturaleza.
 
+Artículo 258.- El término de emplazamiento para contestar la demanda será de quince días si el demandado es notificado en la comuna donde funciona el tribunal.
+Se aumentará este término en tres días más si el demandado se encuentra en el mismo territorio jurisdiccional pero fuera de los límites de la comuna que sirva de asiento al tribunal.
+NOTA
+Véase el Decreto con Fuerza de Ley 1, Hacienda, publicado el 07.08.1993, que fija el texto refundido, coordinado y sistematizado de la Ley Orgánica del Consejo de Defensa del Estado.
+
+Art. 259 (256). Si el demandado se encuentra en un territorio jurisdiccional diverso o fuera del territorio de la República, el término para contestar la demanda será de dieciocho días, y a más el aumento que corresponda al lugar en que se encuentre. Este aumento será determinado en conformidad a una tabla que cada cinco años formará la Corte Suprema con tal objeto, tomando en consideración las distancias y las facilidades o dificultades que existan para las comunicaciones.
+Esta tabla se formará en el mes de Noviembre del año que preceda al del vencimiento de los cinco años indicados, para que se ponga en vigor en toda la República desde el 1° de Marzo siguiente; se publicará en el "Diario Oficial", y se fijará a lo menos, dos meses antes de su vigencia, en los oficios de todos los secretarios de Cortes y Juzgados de Letras.
+
 Art. 260 (257). Si los demandados son varios, sea que obren separada o conjuntamente, el término para contestar la demanda correrá para todos a la vez, y se contará hasta que expire el último término parcial que corresponda a los notificados.
 
 ### Título IV
@@ -306,6 +314,13 @@ DEL TERMINO PROBATORIO
 
 Art. 327. Todo término probatorio es común para las partes y dentro de él deberán solicitar toda diligencia de prueba que no hubieren pedido con anterioridad a su iniciación.
 En los casos contemplados en los artículos 310, 321 y 322 el tribunal, de estimar necesaria la prueba, concederá un término especial de prueba que se regirá por las normas del artículo 90, limitándose a quince días el plazo total que establece en su inciso tercero y sin perjuicio de lo establecido en el artículo 431.
+
+Art. 328 (317). Para rendir prueba dentro del territorio jurisdiccional del tribunal en que se sigue el juicio tendrán las partes el término de veinte días.
+Podrá, sin embargo, reducirse este término por acuerdo unánime de las partes.
+
+Art. 329 (318). Cuando haya de rendirse prueba en otro territorio jurisdiccional o fuera de la República, se aumentará el término ordinario a que se refiere el artículo anterior con un número de días igual al que concede el artículo 259 para aumentar el de emplazamiento.
+NOTA:
+Véase la Tabla de emplazamientos de términos de prueba que regirá hasta febrero de 2014, publicada el 02.10.2014, rectificada por la Corte Suprema el 12 de mayo de 2011 y publicada dicha rectificación el 27.05.2011.
 
 Art. 338 (327). Siempre que se solicite aumento extraordinario para rendir prueba fuera de la República, exigirá el tribunal, para dar curso a la solicitud, que se deposite en la cuenta corriente del tribunal una cantidad cuyo monto no podrá fijarse en menos de medio sueldo vital ni en más de dos sueldos vitales.
 Sin perjuicio de lo que dispone el artículo anterior, se mandará aplicar al Fisco la cantidad consignada si resulta establecida en el proceso alguna de las circunstancias siguientes:
@@ -360,6 +375,9 @@ Art. 362 (351). Las personas comprendidas en el número 1° del artículo preced
 Las comprendidas en el número 2° declararán también por medio de informe y con el juramento expresado, si se prestan voluntariamente a declarar. Pero no se podrán excusar los chilenos que ejerzan en el país funciones diplomáticas, por encargo de un gobierno extranjero.
 Las comprendidas en los tres últimos números serán examinadas en su morada y en la forma establecida en los artículos 365 a 368.
 
+Art. 371 (360). Si han de declarar testigos que residan fuera del territorio jurisdiccional en que se sigue el juicio, se practicará su examen por el tribunal que corresponda, a quien se remitirá copia de los puntos de prueba fijados.
+El examen se practicará en la forma que establecen los artículos anteriores, pudiendo las partes hacerse representar por encargados, en conformidad al artículo 73.
+
 Art. 382 (372). Si algún testigo no entiende o no habla castellano, será examinado por medio de intérprete.
 
 #### 4. De la confesión en juicio
@@ -383,6 +401,9 @@ En todo caso podrá el confesante añadir las circunstancias necesarias para la 
 Art. 394 (384). Si el litigante no comparece al segundo llamado, o si, compareciendo, se niega a declarar o da respuestas evasivas, se le dará por confeso, a petición de parte, en todos aquellos hechos que estén categóricamente afirmados en el escrito en que se pidió la declaración.
 Si no están categóricamente afirmados los hechos, podrán los tribunales imponer al litigante rebelde una multa que no baje de medio sueldo vital ni exceda de un sueldo vital, o arrestos hasta por treinta días sin perjuicio de exigirle la declaración. Si la otra parte lo solicita, podrá también suspenderse el pronunciamiento de la sentencia hasta que la confesión se preste.
 Cuando el interrogado solicite un plazo razonable para consultar sus documentos antes de responder, podrá otorgársele, siempre que haya fundamento plausible para pedirlo y el tribunal lo estime indispensable, o consienta en ello el contendor. La resolución del tribunal que conceda plazo será inapelable.
+
+Art. 397 (387). El procurador es obligado a hacer comparecer a su mandante para absolver posiciones en el término razonable que el tribunal designe y bajo el apercibimiento indicado en el artículo 394.
+La comparecencia se verificará ante el tribunal de la causa si la parte se encuentra en el lugar del juicio; en el caso contrario, ante el juez competente del territorio jurisdiccional en que resida o ante el respectivo agente diplomático o consular chileno, si ha salido del territorio de la República.
 
 #### 6. Del informe de peritos
 
@@ -437,10 +458,30 @@ h) Ley N° 14.908, de 5 de Octubre de 1962, que fij� el texto definitivo de la
 NOTA: 28
 Véase el artículo 69 de la Ley N° 14.171 y los Arts. 1°, 3°, 25 y 26 del DL N° 1.305, publicado en el Diario Oficial de 19 de Febrero de 1976.
 
+Art. 451. (473). Los bienes embargados se pondrán a disposición del depositario provisional y éste, a su vez, los entregará al depositario definitivo que nombrarán las partes en audiencia verbal o el tribunal en caso de desacuerdo.
+Si los bienes embargados se encuentran en territorios jurisdiccionales distintos o consisten en especies de distinta naturaleza, podrá nombrarse más de un depositario.
+Cualquiera de las partes que ofrezca probar que el depositario no tiene responsabilidad bastante, será oída.
+Si el embargo recae sobre dinero, alhajas, especies preciosas, o efectos públicos, el depósito deberá hacerse en un Banco o Caja Nacional de Ahorros a la orden del juez de la causa y el certificado del depósito se agregará a los autos.
+NOTA
+Véase el artículo 516 del Código Orgánico de Tribunales.
+
+Art. 453. (475). Si el embargo recae sobre bienes raíces o derechos reales constituidos en ellos, no producirá efecto alguno legal respecto de terceros, sino desde la fecha en que se inscriba en el respectivo registro conservatorio en donde estén situados los inmuebles.
+El ministro de fe que practique el embargo, requerirá inmediatamente su inscripción y firmará con el conservador respectivo y retirará la diligencia en el plazo de veinticuatro horas.
+
+Art. 459. (481). Si el deudor es requerido de pago en el lugar del asiento del tribunal, tendrá el término de cuatro días útiles para oponerse a la ejecución.
+Este término se ampliará con cuatro días, si el requerimiento se hace dentro del territorio jurisdiccional en que se ha promovido el juicio, pero fuera de la comuna del asiento del tribunal.
+
+Art. 460. (482). Si el requerimiento se hace en territorio jurisdiccional de otro tribunal de la República, la oposición podrá presentarse ante el el tribunal que haya ordenado cumplir el exhorto del que conoce en el juicio o ante este último tribunal. En el primer caso, los plazos serán los mismos que establece el artículo anterior. En el segundo, el ejecutado deberá formular su oposición en el plazo fatal de ocho días, más el aumento del término de emplazamiento en conformidad a la tabla de que trata el artículo 259.
+El tribunal exhortado se limitará a remitir la solicitud de oposición al exhortante para que éste provea sobre ella lo que sea de derecho.
+
 Art. 469. (491). La prueba se rendirá del mismo modo que en el juicio ordinario, y el fallo que dé lugar a ella expresará los puntos sobre que deba recaer. Vencido el término probatorio, quedarán los autos en la secretaría por espacio de seis días a disposición de las partes, antes de pronunciar sentencia. Durante este plazo podrán hacerse por escrito las observaciones que el examen de la prueba sugiera, y una vez vencido, háyanse o no presentado escritos, y sin nuevo trámite, el tribunal citará a las partes para oír sentencia.
 
 #### 2. De la administración de los bienes embargados y
 del procedimiento de apremio
+
+Artículo 489.- El remate, con el señalamiento del día y hora en que debe tener lugar, se anunciará por medio de avisos publicados, a lo menos por cuatro veces en un diario de la comuna en que tenga su asiento el tribunal, o de la capital de la provincia o de la capital de la región, si en aquélla no lo hubiere. Los avisos podrán publicarse también en días inhábiles. El primero de los avisos deberá ser publicado con quince días de anticipación, como mínimo, sin descontar los inhábiles, a la fecha de la subasta.
+Si los bienes están en otra comuna, el remate se anunciará también en ella o en la capital de la respectiva región, si fuere el caso, por el mismo tiempo y en la misma forma.
+Los avisos serán redactados por el secretario y contendrán los datos necesarios para identificar los bienes que van a rematarse.
 
 Art. 491. (513). El precio de los bienes que se rematen deberá pagarse de contado, salvo que las partes acuerden o que el tribunal, por motivos fundados, resuelva otra cosa.
 Las demás condiciones para la subasta se propondrán por el ejecutante, con citación de la contraria. La oposición que se formule será resuelta de plano por el tribunal, consultando la mayor facilidad y el mejor resultado de la enajenación.
@@ -483,6 +524,12 @@ Para recibir esta prueba, el tribunal señalará la audiencia correspondiente al
 La parte que quiera rendir prueba testimonial deberá entregar en secretaría, para que se agregue al proceso antes de las doce del día que preceda al de la audiencia, una lista de los testigos de que piensa valerse, con expresión de su nombre, profesión u oficio y residencia.
 Son aplicables en este caso las disposiciones de los artículos 555 a 561 inclusive.
 
+### Título V
+DE LA CITACION DE EVICCION
+
+Art. 585. (743). Decretada la citación, se suspenderán los trámites del juicio por el término de diez días si la persona a quien debe citarse reside en el territorio jurisdiccional en que se sigue el pleito. Si se encuentra en otro territorio jurisdiccional o fuera del territorio de la República, se aumentará dicho término en la forma establecida en el artículo 259.
+Vencidos estos plazos sin que el demandado haya hecho practicar la citación, podrá el demandante pedir que se declare caducado el derecho de aquél para exigirla y que continúen los trámites del juicio, o que se le autorice para llevarla a efecto a costa del demandado.
+
 ### Título VI
 DE LOS JUICIOS ESPECIALES DEL CONTRATO DE ARRENDAMIENTO
 NOTA
@@ -491,6 +538,11 @@ Véanse la Ley 18101, publicada el 29.01.1982, que señale procedimientos a que 
 #### 1. Del desahucio, del lanzamiento y de la retención
 
 Artículo 593.- En el acta que se levante, a más de las pruebas acompañadas, se mencionarán con brevedad las alegaciones de las partes. Sin otro trámite el tribunal citará a las partes para oír sentencia la que dictará inmediatamente o, a más tardar, dentro de tercero día.
+
+#### 3. Disposiciones comunes a los dos párrafos
+precedentes
+
+Art. 616. Derogado.
 
 ### Título VII
 DE LOS JUICIOS SOBRE CONSENTIMIENTO PARA EL MATRIMONIO
@@ -518,6 +570,24 @@ Art. 625. Derogado.
 Art. 626. Derogado.
 
 Art. 627. Derogado.
+
+### Título VIII
+DEL JUICIO ARBITRAL
+NOTA
+Véase la Ley 19971, publicada el 29.09.2004, sobre arbitraje comercial internacional.
+
+#### 3. Disposición común a los dos párrafos precedentes
+
+Art. 644. (801). Los expedientes fallados por árbitros o arbitradores se archivarán en la comuna o agrupación de comunas donde se haya constituido el compromiso, en el oficio del funcionario a quien correspondería su custodia si se hubiera seguido el juicio ante los tribunales ordinarios.
+
+### Título IX
+DE LOS JUICIOS SOBRE PARTICIÓN DE BIENES
+NOTA
+Véase la Ley 16271, publicada el 10.06.1965, que establece el impuesto a las herencias, asignaciones y donaciones, cuyo texto refundido, coordinado y sistematizado, fue fijado por el artículo 8° del Decreto con Fuerza de Ley 1, Justicia, publicado el 30.05.2000.
+
+Art. 658. (815). Para proceder a la licitación pública de los bienes comunes bastará su anuncio por medio de avisos en un diario de la comuna o de la capital de la provincia o de la capital de la región, si en aquélla no lo hubiere.
+Cuando entre los interesados haya incapaces, la publicación de avisos se hará por cuatro veces a lo menos, mediando entre la primera publicación y el remate un espacio de tiempo que no baje de quince días. Si por no efectuarse el remate, es necesario hacer nuevas publicaciones, se procederá en conformidad a lo establecido en el artículo 502. Los avisos podrán publicarse también en días inhábiles, los que no se descontarán para el cómputo del plazo señalado en el inciso anterior.
+Si los bienes están en otra comuna, el remate se anunciará también en ella, por el mismo tiempo y en la misma forma.
 
 ### Título X
 DE LOS JUICIOS SOBRE DISTRIBUCIÓN DE AGUAS
@@ -739,12 +809,35 @@ El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.20
 
 Art. 849. (1028). Declarada yacente la herencia en conformidad a lo prevenido en el párrafo respectivo de este Libro, se procederá inmediatamente al nombramiento de curador de la misma, con audiencia del ministerio público, cumplidas en su caso las disposiciones de los artículos 482 y 483 del Código Civil.
 
+### Título VII
+DEL INVENTARIO SOLEMNE
+
+Art. 860. (1039). Se citará a todos los interesados conocidos y que según la ley tengan derecho de asistir al inventario.
+Esta citación se hará personalmente a los que sean condueños de los bienes que deban inventariarse, si residen en el mismo territorio jurisdiccional. A los otros condueños y a los demás interesados, se les citará por medio de avisos publicados durante tres días en un diario de la comuna, o de la capital de la provincia o de la capital de la región, cuando allí no lo haya.
+En representación de los que residan en país extranjero se citará al defensor de ausentes, a menos que por ellos se presente procurador con poder bastante.
+El ministro de fe que practique el inventario dejará constancia en la diligencia de haberse hecho la citación en forma legal.
+
+Art. 861. (1040). Todo inventario comprenderá la descripción o noticia de los bienes inventariados en la forma prevenida por los artículos 382 y 384 del Código Civil.
+Pueden figurar en el inventario los bienes que existan fuera del territorio jurisdiccional, sin perjuicio de lo dispuesto en el artículo siguiente.
+
+Art. 862. (1041). Si hay bienes que inventariar en otro territorio jurisdiccional y lo pide algún interesado presente, se expedirán exhortos a los jueces respectivos, a fin de que los hagan inventariar y remitan originales las diligencias obradas para unirlas a las principales.
+
 ### Título VIII
 DE LOS PROCEDIMIENTOS A QUE DA LUGAR LA SUCESION
 POR CAUSA DE MUERTE
 
+#### 1. De los procedimientos especiales de la sucesión
+testamentaria
+
+Art. 868. (1047). La apertura del testamento cerrado se hará en la forma establecida por el artículo 1025 del Código Civil. Si el testamento se ha otorgado ante notario que no sea del último domicilio del testador, podrá ser abierto ante el juez del territorio jurisdiccional a que pertenezca dicho notario, por delegación del juez del domicilio que se expresa. En tal caso, el original se remitirá con las diligencias de apertura a este juez, y se dejará archivada además una copia autorizada en el protocolo del notario que autoriza el testamento.
+
 #### 2. De la guarda de los muebles y papeles de la
 sucesión
+
+Art. 872. (1051). Si el albacea o cualquier interesado pide que se guarden bajo llave y sello los papeles de la sucesión, el tribunal así lo decretará, y procederá por sí mismo a practicar estas diligencias, o comisionará al efecto a su secretario o algún notario del territorio jurisdiccional, quienes se asociarán con dos testigos mayores de dieciocho años, que sepan leer y escribir y sean conocidos del secretario o notario.
+Nombrará también una persona de notoria probidad y solvencia que se encargue de la custodia de las llaves, o las hará depositar en el oficio del secretario.
+Puede el tribunal decretar de oficio estas diligencias.
+Si ha de procederse a ellas en diversos territorios jurisdiccionales, cada tribunal, al mandar practicarlas, designará la persona que, dentro de su territorio, haya de encargarse de la custodia.
 
 Art. 876. (1055). La ruptura de los sellos deberá hacerse en todo caso judicialmente, con citación de las personas que pueden tomar parte en la facción del inventario, citadas en la forma que dispone el artículo 860; salvo que por la urgencia del caso el tribunal ordene prescindir de este trámite, debiendo en este caso proceder con citación del ministerio público.
 
@@ -766,6 +859,11 @@ Hechas las publicaciones a que se refieren los incisos anteriores y previa agreg
 La Dirección al informar exigirá que se acredite por los medios legales correspondientes el parentesco que ligue a los asignatarios con el causante.
 El secretario deberá dejar constancia en el proceso que se hicieron las publicaciones en forma legal.
 
+Art. 883. (1061). La inscripción a que se refiere el artículo anterior se hará en el Registro de Propiedad del Conservador de Bienes Raíces del territorio jurisdiccional en que haya sido pronunciada la resolución de posesión efectiva, con indicación de la notaría en que se protocolizó el inventario y la enumeración de los bienes raíces que en él se comprenda.
+Con el mérito de esa inscripción, los conservadores deberán proceder a efectuar las especiales que procedan, sin necesidad de otro trámite.
+Cuando entre los bienes hereditarios no haya inmuebles, la inscripción de la posesión efectiva sólo se hará en el conservador del territorio jurisdiccional en donde se haya concedido.
+Las adiciones, supresiones o modificaciones que se hagan al inventario cuando se trate de bienes raíces, deberán protocolizarse en la misma notaría en que se protocolizó el inventario y anotarse en el Registro Conservatorio, al margen de la inscripción primitiva.
+
 Art. 884. La posesión efectiva de las herencias cuyo cuerpo o masa de bienes no exceda de trescientos escudos, podrá solicitarse en formularios especiales que hará la Dirección de Impuestos Internos y su tramitación se ajustará, en ese caso, a las reglas que se prescriben en la ley sobre Impuestos a las Herencias,
 NOTA: 57
 Asignaciones y Donaciones.
@@ -781,6 +879,8 @@ En el caso contrario, el tribunal hará el nombramiento de oficio o a propuesta 
 
 ### Título XIII
 DE LA DECLARACION DEL DERECHO AL GOCE DE CENSOS
+
+Art. 903. (1080). Reclamado este derecho, el tribunal llamará por medio de tres avisos que se publicarán de ocho en ocho días a lo menos en un diario de la comuna, si lo hay, o de la capital de la región, en el caso contrario, a los que se crean llamados al goce del censo, a fin de que hagan uso de su derecho.
 
 Art. 904. (1081). Transcurridos ocho días después del último aviso de los indicados en el artículo anterior, el tribunal abrirá un término de prueba para que el compareciente acredite su derecho.
 Se rendirá esta prueba con citación del ministerio público, o del defensor de obras pías, cuando a éste corresponda intervenir.
