@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1993-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1993-11-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1993-03-01
-fetched_at: 2026-08-03T00:55:08.195004+00:00
+version_date: 1993-11-01
+fetched_at: 2026-08-03T00:56:35.110580+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2367,7 +2367,7 @@ El fallo que acoge el recurso de queja contendrá las consideraciones que demues
 Art. 549. Todo recurso de queja deberá interponerse en el plazo fatal de cinco días hábiles. Este plazo se aumentará conforme a la tabla de emplazamiento a que se refiere el artículo 259 del Código de Procedimiento Civil cuando el tribunal que haya pronunciado la resolución recurrida tenga su asiento en una comuna o agrupación de comunas diversa de aquella en que funciona el que haya de conocer el recurso. Con todo, el plazo total para interponer el recurso no podrá exceder de quince días hábiles contados desde la fecha de notificación a la parte recurrente de la resolución que motiva la queja.
 Para interponer un recurso de queja, el recurrente deberá consignar previamente en la cuenta corriente del tribunal que conocerá del mismo, una cantidad equivalente al uno por ciento de la cuantía del negocio, con un máximo de una unidad tributaria mensual.
 Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a una unidad tributaria mensual, si el recurso se interpone ante la Corte Suprema o ante la Corte de Apelaciones; y de media unidad tributaria mensual, si se interpone ante un juez de letras.
-No regirá la exigencia de la consignación previa tratándose de los recursos de queja que deduzcan los oficiales del ministerio público, los defensores públicos, los representantes del Fisco, los procesados en causa criminal y los que gozan de privilegio de pobreza.
+No regirá la exigencia de consignación previa tratándose de los recursos de queja que deduzcan los oficiales del ministerio público, los defensores públicos, los representantes del Fisco, los trabajadores demandantes en los juicios seguidos ante los tribunales del trabajo, los procesados en causa criminal y los que gozan de privilegio de pobreza.
 La consignación a que se refiere este artículo se devolverá a la parte recurrente, si el recurso fuere acogido. Si fuere desechado, o el recurrente se desistiere de él, se aplicará a beneficio fiscal.
 Si el recurso fuere desechado por la unanimidad de un tribunal colegiado, se condenará en costas al recurrente y, además, al pago de una multa a beneficio fiscal de hasta dos unidades tributarias mensuales.
 El abogado patrocinante de un recurso de queja, que fuere rechazado por la unanimidad de un tribunal colegiado, será sancionado con alguna de las medidas establecidas en los N°s. 1°, 2° y 3° del artículo 532, de estimar el tribunal que el recurso ha carecido de todo fundamento o ha sido interpuesto en forma temeraria.
