@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1968-05-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1968-11-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1968-05-24
-fetched_at: 2026-08-03T00:18:54.330333+00:00
+version_date: 1968-11-29
+fetched_at: 2026-08-03T00:19:24.349754+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -99,7 +99,7 @@ DE LAS ENFERMEDADES TRANSMISIBLES
 DISPOSICIONES GENERALES
 
 Artículo 20°.- Todo médico-cirujano que asista a persona que padezca de una enfermedad transmisible sujeta a declaración obligatoria, comunicará por escrito el diagnóstico cierto o probable a la autoridad sanitaria más próxima.
-Igual obligación afectará a toda persona que en su casa o establecimiento tuviere uno de dichos enfermos, si no hubiere sido éste atendido por un médico-cirujano; a los dueños de farmacias que despachen recetas destinadas al tratamiento de estas enfermedades y a los dueños de laboratorios clínicos que realicen los exámenes para su confirmación diagnóstica.
+Igual obligación afectará a toda persona que en su casa o establecimiento tuviere uno de dichos enfermos, si no hubiere sido éste atendido por un médico-cirujano; a los directores técnicos de las farmacias que despachen recetas destinadas al tratamiento de estas enfermedades y a quienes dirigen técnicamente los laboratorios clínicos que realicen los exámenes para su confirmación diagnóstica.
 
 Artículo 21°.- Un Reglamento determinará las enfermedades transmisibles que deben ser comunicadas obligatoriamente a las autoridades sanitarias, así como la forma y condiciones de la notificación.
 
@@ -428,7 +428,7 @@ Esta misma Comisión informará, de oficio o a petición del Servicio Nacional d
 Además, para la venta o distribución a cualquier título de los productos farmacéuticos y cosméticos autorizados, se requerirá que éstos sean registrados en el Servicio Nacional de Salud.
 Sin embargo, el Director General podrá autorizar provisionalmente, en casos calificados, la importación y venta, sin previo registro, de productos farmacéuticos para usos medicinales urgentes.
 
-Artículo 103°.- Un Reglamento determinará las normas de control de calidad a que estarán sujetos los productos farmacéuticos y cosméticos que se importen o fabriquen en el país. No obstante, todo laboratorio de producción deberá tener su propio sistema de control de calidad de sus productos.
+Artículo 103°.- Un Reglamento determinará las normas de control de calidad a que estarán sujetos los productos farmacéuticos y cosméticos que se importen o fabriquen en el país. No obstante, todo laboratorio de producción deberá tener su propio sistema de control de calidad de sus productos a cargo de un farmacéutico o químico-farmacéutico.
 
 Artículo 104°.- La Oficina de Marcas Comerciales del Ministerio de Economía, Fomento y Reconstrucción, no podrá registrar e inscribir la marca de un producto farmacéutico o cosmético sin informe previo favorable de la Dirección General de Salud. Asimismo, deberá cancelar toda inscripción cuando lo solicite esa Dirección.
 
@@ -487,7 +487,7 @@ Artículo 118°.- Los consultorios de matronas podrán ser destinados al control
 
 Artículo 119° Sólo con fines terapéuticos se podrá interrumpir un embarazo. Para proceder a esta intervención se requerirá la opinión documentada de dos médicos-cirujanos.
 
-Artículo 120°.- Los profesionales señalados en el artículo 112° de este Código no podrán ejercer su profesión y tener intereses comerciales que digan relación directa con su actividad, en establecimientos destinados a la importación, producción, distribución y venta de productos farmacéuticos, aparatos ortopédicos, prótesis y artículos ópticos, a menos que el Colegio respectivo emita en cada caso un informe, estableciendo que no se vulnera la ética profesional. Exceptúanse de esta prohibición los químicos-farmacéuticos y farmacéuticos en cuanto se refiere al dominio de las farmacias.
+Artículo 120°.- Los profesionales señalados en el artículo 112 de este Código no podrán ejercer su profesión y tener intereses comerciales que digan relación directa con su actividad, en establecimientos destinados a la importación, producción, distribución y venta de productos farmacéuticos, aparatos ortopédicos, prótesis y artículos ópticos, a menos que el Colegio respectivo emita en cada caso un informe, estableciendo que no se vulnera la ética profesional. Exceptúanse de esta prohibición los químicos-farmacéuticos y farmacéuticos.
 
 ## LIBRO VI
 DE LOS LABORATORIOS, FARMACIAS Y OTROS ESTABLECIMIENTOS
@@ -498,16 +498,16 @@ Artículo 122°.- Ninguna farmacia, droguería o laboratorio de productos farmac
 Corresponderá a éste, asimismo, la fiscalización de dichos establecimientos.
 
 Artículo 123°.- La venta al público de los productos farmacéuticos para uso humano sólo podrá hacerse en las farmacias, las cuales deberán ser dirigidas técnicamente por un farmacéutico o químico farmacéutico.
-Sin perjuicio de lo dispuesto en el inciso anterior, los productos elaborados por la industria
-químico-farmacéutica que se encuentran listos para su empleo, envasados e identificados con sus nombres genéricos o registrados y con indicación en su rótulo de su composición, forma de empleo y nombre del fabricante, podrán ser expendidos por otros establecimientos en las condiciones que fije el Reglamento, los cuales podrán también ser dirigidos por prácticos de farmacia.
+Sólo los farmacéuticos o químicos-farmacéuticos o las sociedades legalmente constituidas en que figure como socio uno o más de estos profesionales, podrán adquirir o instalar farmacias. En todo caso la farmacia adquirida o instalada por una sociedad deberá ser dirigida técnicamente por alguno de los socios farmacéutico o químico-farmacéutico.
 
 Artículo 124°.- Los médicos-cirujanos, cirujanos-dentistas y matronas podrán para el ejercicio de su profesión, mantener existencia de productos farmacéuticos para ser administrados por ellos.
 
 Artículo 125°.- El Servicio Nacional de Salud podrá autorizar la instalación de botiquines para el despacho o venta de productos farmacéuticos y elementos de primeros auxilios que determine el reglamento, en clínicas, maternidades, casas de socorro, campamentos mineros, termas, postas médicas, cuarteles, navíos, cooperativas de consumo y otros establecimientos.
 
-Artículo 126°.- Las droguerías y laboratorios de productos farmacéuticos deberán ser asistidos técnicamente por un farmacéutico, químico-farmacéutico o bioquímico.
-En los casos de elaboración de productos biológicos, la asistencia técnica podrá además, corresponder a un médico-cirujano microbiólogo.
+Artículo 126°.- Las droguerías y laboratorios de productos farmacéuticos, alimentos de uso médico, cosméticos y preparados higiénicos deberán ser dirigidos técnicamente por un farmacéutico o químico farmacéutico.
+En los casos de elaboración de materias primas o drogas de origen biológico, que se obtengan por procesos de tal índole, la dirección técnica podrá, además, corresponder a un bioquímico, a un médico-cirujano microbiólogo o un médico veterinario.
 Las droguerías y depósitos de productos farmacéuticos de uso exclusivamente animal, podrán ser asistidos técnicamente por médico veterinario.
+La dirección técnica de las farmacias será incompatible entre sí y con la de cualquier otro de los establecimientos enunciados en el presente artículo.
 
 Artículo 127°.- Los productos farmacéuticos sólo podrán expenderse al público con receta médica, salvo aquellos que determine el Reglamento.
 
@@ -642,6 +642,8 @@ Los estupefacientes incautados con ocasión de un proceso criminal que no puedan
 
 Artículo 173°.- Derógase el decreto con fuerza de ley 226, de 15 de Mayo de 1931 y sus modificaciones posteriores.
 Los reglamentos preexistentes que versen sobre las materias que en este Código se tratan quedan derogados sólo en la parte que le fueren contrarios.
+
+Artículo Transitorio. Las personas que a la vigencia del presente Código Sanitario se encontraban autorizadas para dirigir sus propias farmacias en su calidad de prácticos en farmacia, podrán continuar haciéndolo.
 
 Anótese, tómese razón, comuníquese, publíquese e insértese en la Recopilación que corresponda de la Contraloría General de la República.- E FREI M.- Ramón Valdivieso Delauna
 lo que transcribo a U. para su conocimiento.- Saluda a U.- Patricio Silva Garín, Subsecretario de Salud Pública.
