@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1923-10-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1925-03-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1923-10-20
-fetched_at: 2026-08-03T00:03:36.974243+00:00
+version_date: 1925-03-17
+fetched_at: 2026-08-03T00:03:54.977705+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2243,7 +2243,7 @@ ART. 471.
 Será castigado con presidio o relegacion menores en sus grados mínimos o multa de ciento a mil pesos:
 1.º El dueño de una cosa mueble que la sustrajere de quien la tenga lejítimamente en su poder, con perjuicio de éste o de un tercero.
 2.° El que otorgare en perjuicio de otro un contrato simulado.
-3.° El que cometiere alguna defraudacion en la propiedad literaria o industrial.
+3.° DEROGADO.
 Los ejemplares, máquinas u objetos contrahechos, introducidos o espendidos fraudulentamente, se aplicarán al perjudicado i tambien las láminas o utensilios empleados en la ejecucion del fraude, cuando solo pudieren usarse para cometerlo.
 
 ART. 472.
