@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1980-08-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1980-10-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1980-08-01
-fetched_at: 2026-08-03T00:32:11.225012+00:00
+version_date: 1980-10-24
+fetched_at: 2026-08-03T00:32:35.247641+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -27,11 +27,10 @@ Artículo 1°.- El Código Sanitario rige todas las cuestiones relacionadas con 
 
 Artículo 2°.- El Presidente de la República dictará, previo informe del Director General de Salud, los Reglamentos necesarios para la aplicación de las normas contenidas en el presente Código.
 
-Artículo 3°.- Corresponde al
+Artículo 3°.- Corresponde al Servicio Nacional de Salud, sin perjuicio de las facultades del Ministerio de Salud Pública, atender todas las materias relacionadas con la salud pública y el bienestar higiénico del país, de conformidad con lo dispuesto en el inciso final del N° 14° del artículo 10° de la Constitución Política del Estado, este Código y su Ley Orgánica.
 NOTA:
-NOTA:
-Servicio Nacional de Salud, sin perjuicio de las facultades del Ministerio de Salud Pública, atender todas las materias relacionadas con la salud pública y el bienestar higiénico del país, de conformidad con lo dispuesto en el inciso final del N° 14° del artículo 10° de la Constitución Política del Estado, este Código y su Ley Orgánica.
-NOTA:
+La Constitución Política de la República de Chile, aprobada por Decreto 1150, Interior, publicado el 24.10.1980, establece en su Art. 19 N° 9 el derecho a la protección de la salud y, en su N° 8, el derecho a vivir en un medio ambiente libre de contaminación.
+NOTA 1:
 Véanse el Capítulo I del Decreto ley 2763, Salud, publicado el 03.08.1979, que reorganiza el Ministerio de Salud, y el Decreto 395, Salud, publicado el 23.02.1980, que aprueba el reglamento orgánico de esta Secretaría de Estado.
 
 Artículo 4°.- A las Municipalidades corresponde atender los asuntos de orden sanitario que le entregan el artículo 105° de la Constitución Política del Estado y las disposiciones de este Código.
@@ -66,7 +65,9 @@ El personal así contratado cesará automáticamente en sus funciones a la expir
 ### Párrafo III
 DE LAS ATRIBUCIONES Y OBLIGACIONES SANITARIAS DE LAS MUNICIPALIDADES
 
-Artículo 11°.- Sin perjuicio de
+Artículo 11°.- Sin perjuicio
+NOTA
+de
 NOTA
 las atribuciones que competen al Servicio Nacional de Salud, corresponde, en el orden sanitario, a las Municipalidades:
 a) proveer a la limpieza y a las condiciones de seguridad de sitios públicos, de tránsito y de recreo;
