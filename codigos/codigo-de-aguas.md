@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=1981-11-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=1984-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 1981-11-26
-fetched_at: 2026-08-03T00:35:10.086854+00:00
+version_date: 1984-12-27
+fetched_at: 2026-08-03T00:40:34.431809+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1181,9 +1181,11 @@ ARTICULO 3°- Las hipotecas constituidas sobre inmuebles con anterioridad a la v
 ARTICULO 4°- La persona a cuyo nombre estuviesen inscritos derechos de aprovechamiento que, de acuerdo con el título del predio, estuvieren destinados al uso, cultivo o beneficio de un inmueble que hubiese sido expropiado totalmente por la ex Corporación de la Reforma Agraria, no podrá enajenarlos.
 Si la expropiación hubiere sido parcial, o si habiendo sido total se le hubiere reconocido una reserva, o se hubiere excluido de la expropiación una parte del predio, podrá enajenar los derechos correspondientes a la reserva o a la parte excluida de la expropiación, siempre que se inscriban en conformidad al artículo siguiente.
 
-ARTICULO 5°- La inscripción de los derechos de aprovechamiento correspondientes a predios expropiados total o parcialmente por aplicación de la ley N° 16.640, podrá efectuarse de acuerdo a las reglas siguientes:
-1. Si existe acuerdo entre el expropiado, asignatario o adquirente y la ex Corporación de la Reforma Agraria o la institución que le suceda o reemplace, respecto a la dotación de agua que corresponde a la reserva o porción del predio excluida de la expropiación, a la parcela asignada o parte del predio expropiado objeto de adquisición, se procederá de acuerdo a lo establecido en el artículo 1° transitorio. En este caso, el estudio técnico de división de las aguas aprobado por la Corporación o su sucesora legal, será suficiente para determinar la cantidad de derechos que corresponde a cada predio. Si dicho estudio técnico no existiere, cualquiera de los interesados podrá realizarlo, y en tal caso su aprobación se efectuará por la Dirección General de Aguas.
-2. Si no hubiere acuerdo, cualquiera de los interesados podrá recurrir a la Justicia Ordinaria, la que conocerá y fallará el asunto de acuerdo a las reglas del Título II del Libro II de este código.
+ARTICULO 5°- La determinación e inscripción de los derechos de aprovechamiento provenientes de predios expropiados total o parcialmente por aplicación de las leyes N°s 15.020 y 16.640, podrá efectuarse de acuerdo con las reglas siguientes:
+1.- El Servicio Agrícola y Ganadero determinará, en forma proporcional a la extensión regada, los derechos de aprovechamiento que corresponden a cada predio asignado, a la reserva, a la parte que se hubiere excluido de la expropiación y a la que se hubiere segregado por cualquier causa cuando ello fuere procedente. Cuando la dotación que tenga el predio expropiado total o parcialmente fuere insuficiente para efectuar una adecuada distribución de las aguas, el Servicio podrá incorporar a ella otros derechos de que disponga.
+2.- La determinación de los derechos a que se refiere el número anterior se hará mediante resolución exenta, que deberá publicarse en extracto en el Diario Oficial e inscribirse en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces competente.
+3.- Los interesados podrán reclamar de la resolución del Servicio Agrícola y Ganadero dentro del plazo de 60 días corridos desde la fecha de su publicación en el Diario Oficial, ante el Juez de Letras Civil competente, quien conocerá y fallará de acuerdo con el procedimiento establecido en los artículos 177 y siguientes de este Código.
+4.- Los propietarios de los predios comprendidos en la resolución a que se refiere el número 2 podrán inscribir a su nombre los derechos de aprovechamiento establecidos para tales predios con la sola presentación de la inscripción de dominio del inmueble. En este caso, la inscripción de la aludida resolución será suficiente para determinar la cantidad de derechos que corresponde a cada predio y no regirá lo establecido en el artículo 1° transitorio de este Código.
 
 ARTICULO 6°- Los derechos de aprovechamiento otorgados provisionalmente de acuerdo a las normas del código que se deroga, continuarán tramitándose hasta obtener la concesión definitiva conforme a dichas normas.
 
