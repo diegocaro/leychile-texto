@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1956-09-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1957-08-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1956-09-28
-fetched_at: 2026-08-03T00:13:43.615174+00:00
+version_date: 1957-08-12
+fetched_at: 2026-08-03T00:13:55.622442+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -394,7 +394,7 @@ Art. 75. No podrán tomar parte en ningún acuerdo los que no hubieren concurrid
 
 Art. 76. Ningún acuerdo podrá efectuarse sin que tomen parte todos los que como jueces hubieren concurrido a la vista, salvo los casos de los artículos siguientes.
 
-Art. 77. Si antes del acuerdo falleciere o fuere destituido de su empleo o suspendido en el ejercicio de sus funciones alguno de los jueces que concurrieron a la vista, se procederá a ver de nuevo el negocio.
+Art. 77. Si antes del acuerdo falleciere, fuere destituído o suspendido de sus funciones, trasladado o jubilado, alguno de los Jueces que concurrieron a la vista se procederá a ver de nuevo el negocio.
 
 Art. 78. Si antes del acuerdo se imposibilitare por enfermedad alguno de los jueces que concurrieron a la vista, se esperará hasta por treinta días su comparecencia al tribunal; y si, transcurrido este término, no pudiere comparecer, se hará nueva vista.
 Podrá, también, en este caso, verse de nuevo el asunto antes de la expiración de los treinta días, si todas las partes convinieren en ello.
@@ -402,7 +402,7 @@ Podrá, también, en este caso, verse de nuevo el asunto antes de la expiración
 Art. 79. Sin perjuicio de lo dispuesto en los arts. 77 y 78, todos los jueces que hubieren asistido a la vista de una causa quedan obligados a concurrir al fallo de la misma, aunque hayan cesado en sus funciones, salvo que, a juicio del tribunal, se encuentren imposibilitados física o moralmente para intervenir en ella.
 No se efectuará el pago de ninguna jubilación de Ministros de Corte, mientras no acrediten haber concurrido al fallo de las causas, a menos que comprueben la imposibilidad de que se trata en el inciso anterior.
 
-Art. 80. En los casos de los arts. 77, 78 y 79 no se verá de nuevo la causa, aunque deje de tomar parte en el acuerdo alguno o algunos de los que concurrieron a la vista, siempre que el tribunal quede compuesto de un número de miembros hábiles que no sea inferior al mínimum fijado por la ley.
+Art. 80. En los casos de los artículos 77, 78 y 79 no se verá de nuevo la causa aunque deje de tomar parte en el acuerdo alguno o algunos de los que concurrieron a la vista, siempre que el fallo sea acordado por el voto conforme de la mayoría del total de jueces que haya intervenido en la vista de la causa.
 
 Art. 81. Las Cortes de Apelaciones celebrarán sus acuerdos privadamente; pero podrán llamar a ellos a los relatores u otros empleados cuando lo estimen necesario.
 
@@ -519,7 +519,7 @@ El Presidente de la Corte Suprema dará cuenta en esta audiencia:
 Esta exposición será publicada en el Diario Oficial y en la Gaceta de los Tribunales.
 La Corte Suprema procederá en seguida, al sorteo de los miembros que deben formar las salas en que el tribunal debe dividirse.
 
-Art. 103. Es aplicable a la Corte Suprema lo dispuesto para los acuerdos de las Cortes de Apelaciones por los artículos 72, 73 inciso 2, 74 y siguientes, hasta el 89 inclusive; pero si por fallecimiento u otra causa de inhabilidad de alguno o algunos de los ministros ocurrida después de la vista, el tribunal se encontrare reducido a un número de miembros menor que aquel con que ha debido funcionar, podrá dictar sentencia o resolver el negocio que le está sometido, siempre que el fallo sea acordado por el voto conforme de la mayoría del total de jueces que haya intervenido en la vista de la causa.
+Art. 103. Es aplicable a la Corte Suprema lo dispuesto para los acuerdos de las Cortes de Apelaciones por los artículos 72, 73 inciso 2, 74 y siguientes, hasta el 89 inclusive.
 
 Art. 104. Dentro de las horas ordinarias de su funcionamiento y antes de la vista de las causas, el tribunal se ocupará con preferencia, según el orden que fije el Presidente, en los asuntos que deban resolverse en cuenta, en el estudio de proyectos de sentencias, y en el acuerdo de las mismas.
 
@@ -1863,15 +1863,14 @@ Las funciones del ministerio público son, además, incompatibles con las eclesi
 
 Art. 471. Los auxiliares de la Administración de Justicia antes de desempeñar sus cargos prestarán juramento al tenor de la fórmula siguiente: "¿Juráis por Dios Nuestro Señor y por estos Santos Evangelios que guardaréis la Constitución y las leyes de la República y que desempeñaréis fielmente las funciones de vuestro cargo?".
 El interrogado responderá: "Si juro", y el magistrado que le tome el juramento añadirá: "Si así lo hiciéreis, Dios os ayude; y si no, os lo demande".
-El fiscal, los relatores y el secretario de la Corte Suprema prestarán el juramento ante el Presidente del mismo tribunal. Los otros funcionarios, salvo los secretarios y los receptores de los juzgados de letras de menor cuantía, que jurarán ante el juez respectivo, lo harán ante el Presidente de la Corte de Apelaciones correspondiente; pero los oficiales del ministerio público y los defensores podrán prestar su juramento ante otras autoridades gubernativas o judiciales siempre que el Presidente de la República, por consideraciones de economía o conveniencia para la prontitud de la administración de justicia así lo ordene. En tal caso, la autoridad que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que habría correspondido intervenir en la diligencia remitiéndole lo obrado.
-Los receptores de menor cuantía que actúen ante los jueces de distrito y de subdelegación prestarán el juramento ante el gobernador departamental respectivo.
+Los Fiscales, Relatores y Secretarios de Corte, prestarán juramento ante el Presidente del Tribunal del que formen parte.
+Los otros funcionarios auxiliares lo harán ante el Juez respectivo. Si el Tribunal estuviere acéfalo lo prestarán ante el Intendente o Gobernador. La autoridad administrativa que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que le habría correspondido intervenir en la diligencia, remitiéndole lo obrado.
 
 Art. 472. Cuando algún fiscal de las Cortes de Apelaciones que hubiere prestado el juramento correspondiente fuere nombrado para un puesto análogo al que desempeñaba, no será obligado a prestar nuevo juramento.
 
-Art. 473. Los notarios, los conservadores, los archiveros, los secretarios y los receptores de mayor cuantía y los de menor cuantía que actúen ante los jueces de distrito y subdelegación, antes de entrar en el ejercicio de sus funciones, deberán rendir una fianza para responder de las multas, costas e indemnizaciones de perjuicios a que puedan ser condenados en razón de los actos concernientes al desempeño de su ministerio.
-Esta fianza será de $ 300.000 para los notarios de asiento de Corte en Santiago; de $ 200.000 para los demás notarios de asiento de Corte; de $ 100.000 para los de capital de provincia y de $ 50.000 para los de departamentos.
-El monto de la fianza de los otros funcionarios se fijará por el Presidente de la República atendida la importancia del cargo.
-La fianza deberá rendirse a satisfacción del presidente de la Corte de Apelaciones respectiva, pero la del secretario de la Corte Suprema se hará ante el presidente de dicho tribunal, la de los secretarios de los juzgados de letras de menor cuantía ante los jueces respectivos y la de los receptores de los juzgados de distrito y de subdelegación ante el gobernador del departamento.
+Art. 473. Los Notarios, Conservadores, Archiveros, Secretarios y Receptores de Mayor y Menor Cuantía, deberán rendir una fianza para responder de las multas, costas e indemnizaciones de perjuicios a que puedan ser condenados en razón de los actos concernientes al desempeño de su ministerio, dentro de 30 días después de haber asumido el cargo.
+Esta fianza será para los Secretarios el equivalente a un año del sueldo base asignado al cargo y para los demás funcionarios igual al monto del sueldo anual que la ley le fija para los efectos de su jubilación.
+La fianza será calificada y aprobada por el funcionario a quien corresponda recibir el juramento.
 
 ### § 3. Obligaciones y prohibiciones
 
