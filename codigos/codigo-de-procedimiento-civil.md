@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1980-11-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1985-01-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1980-11-18
-fetched_at: 2026-08-03T00:32:41.249645+00:00
+version_date: 1985-01-09
+fetched_at: 2026-08-03T00:40:58.450272+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -50,6 +50,14 @@ DISPOSICIONES COMUNES A TODO PROCEDIMIENTO
 DE LA COMPARECENCIA EN JUICIO
 
 Art. 9°. (10). Si durante el curso del juicio termina por cualquiera causa el carácter con que una persona representa por ministerio de la ley derechos ajenos, continuará no obstante la representación y serán válidos los actos que ejecute, hasta la comparecencia de la parte representada, o hasta que haya testimonio en el proceso de haberse notificado a ésta la cesación de la representación y el estado del juicio. El representante deberá gestionar para que se practique esta diligencia dentro del plazo que el tribunal designe, bajo pena de pagar una multa de un cuarto a un sueldo vital y de abonar los perjuicios que resulten.
+
+### Título IV
+DE LAS CARGAS PECUNIARIAS A QUE ESTAN SUJETOS LOS
+LITIGANTES
+
+Artículo 28.- Los procuradores judiciales responderán personalmente del pago de las costas procesales generadas durante el ejercicio de sus funciones, que sean de cargo de sus mandantes, sin perjuicio de la responsabilidad de éstos.
+NOTA
+El Art. 64 del Decreto con Fuerza de Ley 1, Hacienda, publicado el 07.08.1993, dispone que no será aplicable a los funcionarios del Consejo de Defensa del Estado lo dispuesto en el presente artículo.
 
 ### Título V
 DE LA FORMACION DEL PROCESO, DE SU CUSTODIA Y DE SU
