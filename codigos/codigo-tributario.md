@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1987-08-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1987-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1987-08-17
-fetched_at: 2026-08-03T00:43:32.141302+00:00
+version_date: 1987-10-01
+fetched_at: 2026-08-03T00:43:38.149129+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -357,10 +357,11 @@ Artículo 74.- Los conservadores de bienes raíces no inscribirán en sus regist
 Los notarios deberán insertar en los documentos que consignen la venta, permuta, hipoteca, traspaso o cesión de bienes raíces, el recibo que acredite el pago del impuesto a la renta correspondiente al último período de tiempo.
 El pago del impuesto a las asignaciones por causa de muerte y a las donaciones se comprobará en los casos y en la forma establecida por la ley N° 16.271.
 
-Artículo 75.- Los notarios y demás ministros de fe deberán dejar constancia del pago del tributo contemplado en la Ley sobre Impuesto a las Ventas y Servicios, en los documentos que den cuenta de una convención afecta a dicho impuesto.
+Art. 75. Los notarios y demás ministros de fe deberán dejar constancia del pago del tributo contemplado en la Ley sobre Impuesto a las Ventas y Servicios, en los documentos que den cuenta de una convención afecta a dicho impuesto.
 Para los efectos contemplados en este artículo, no regirán los plazos de declaración y pago señalados en esa ley.
 Con todo, el Director Regional podrá, a su juicio exclusivo, determinar que la declaración y pago del impuesto se haga dentro de los plazos indicados en esa ley, cuando estime debidamente resguardado el interés fiscal.
 Los notarios y demás ministros de fe deberán autorizar siempre los documentos a que se refiere este artículo, pero no podrán entregarlos a los interesados ni otorgar copias de ellos sin que previamente se encuentren pagados estos tributos.
+En los casos de venta o promesa de venta de bienes corporales inmuebles, o de un contrato general de construcción, la obligación establecida en el inciso primero se entenderá cumplida dejando constancia del número y fecha de la factura o facturas correspondientes.
 
 Artículo 76.- Los notarios titulares, suplentes o interinos comunicarán al Servicio todos los contratos otorgados ante ellos que se refieran a transferencia de bienes, hipotecas y otros asuntos que sean susceptibles de revelar la renta de cada contribuyente. Todos los funcionarios encargados de registros públicos comunicarán igualmente al Servicio los contratos que les sean presentados para su inscripción. Dichas comunicaciones serán enviadas a más tardar el 1° de Marzo de cada año y en ellas se relacionarán los contratos otorgados o inscritos durante el año anterior.
 
