@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1976-07-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1976-07-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1976-07-09
-fetched_at: 2026-08-03T00:27:09.915888+00:00
+version_date: 1976-07-29
+fetched_at: 2026-08-03T00:27:15.919364+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -369,8 +369,13 @@ Artículo 80.- Los alcaldes, tesoreros municipales y demás funcionarios locales
 
 Artículo 81.- Los tesoreros municipales deberán enviar al Servicio copia del rol de patentes industriales, comerciales y profesionales en la forma que él determine.
 
-Artículo 82.- Las municipalidades no podrán renovar las patentes municipales ni conceder nuevas, sin que el solicitante acredite previamente estar al día en las obligaciones tributarias relativas a la declaración de los impuestos a la renta y compraventas, o servicios en su caso, que correspondan al giro del negocio, lo que se comprobará con el recibo de declaración correspondiente al último período.
+Art. 82. Las Municipalidades no podrán renovar las
+NOTA: 4
+patentes municipales ni conceder nuevas, sin que el solicitante acredite previamente estar al día en las obligaciones tributarias relativas a la declaración de los impuestos a la renta y compraventas, o servicios en su caso, que correspondan al giro del negocio, lo que se comprobará con el recibo de declaración correspondiente al último período.
 Tampoco podrán aceptar cambios de nombres en sus respectivos registros ni otorgar nuevas patentes de vehículos sin que se acredite el pago de los impuestos que se hubieren devengado.
+NOTA: 4
+El artículo 23 del DL 1532, de 1976, dispuso:
+"Deróganse el artículo 15° de la ley 17066 y todas las disposiciones legales o reglamentarias que condicionan el pago de impuestos o derechos municipales al cumplimiento previo de tributos u obligaciones fiscales o de carácter previsional".
 
 Artículo 83.- Las municipalidades estarán obligadas a cooperar en los trabajos de tasación de la propiedad raíz en la forma, plazo y condiciones que determine el Director.
 
