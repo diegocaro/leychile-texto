@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1974-09-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1974-11-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1974-09-14
-fetched_at: 2026-08-03T00:23:44.463125+00:00
+version_date: 1974-11-13
+fetched_at: 2026-08-03T00:23:56.481736+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -239,11 +239,12 @@ Art. 42. En cada departamento habrá un Juzgado de Letras de Mayor Cuantía, que
 Existirán dos Juzgados de Mayor Cuantía en los Departamentos de Iquique, Antofagasta, Copiapó, La Serena, Ovalle, Rancagua, Curicó, Talca, La Laja, Temuco, Valdivia, Osorno, Llanquihue y Magallanes; tres en los de Arica y Chillán y cuatro en Concepción.
 No obstante lo dispuesto en el inciso primero del artículo anterior, formará parte del territorio jurisdiccional del Juzgado de Letras de Pisagua, la comuna-subdelegación de Pozo Almonte del departamento de Iquique, con excepción de su distrito Pintados, que formará parte del territorio jurisdiccional del Juzgado de Letras de Pica.
 No obstante lo dispuesto en el inciso primero, el Juzgado de Letras de Mayor Cuantía de Pisagua tendrá su asiento en la localidad de Huara, la que será considerada capital de departamento para todos los efectos del servicio judicial. El territorio jurisdiccional de dicho Juzgado estará formado por el departamento de Pisagua y por las comunas-subdelegaciones de Huara y Pozo Almonte, excluido de esta última el distrito Pintados.
+No obstante lo dispuesto en el inciso primero, el Juzgado de Letras de Pozo Almonte hará las veces de Juzgado de Letras de Mayor Cuantía del departamento de Pisagua, considerándose a la comuna subdelegación de Pozo Almonte como integrante de dicho departamento para todos los efectos del Servicio Judicial.
 
 Art. 43. Los jueces del crimen de los departamentos de Santiago y Presidente Aguirre Cerda ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago y del Consejo General del Colegio de Abogados.
 El Presidente de la República, previo informe favorable de la misma Corte y oyendo al Consejo General del Colegio de Abogados, podrá fijar como territorio jurisdiccional exclusivo de uno o más de los jueces civiles del departamento de Santiago, una parte del departamento, y en tal caso, autorizar el funcionamiento de estos Tribunales dentro de sus respectivos territorios jurisdiccionales.
 Tanto los jueces del crimen a que se refiere el inciso primero, como los tribunales civiles a los cuales se fije un territorio jurisdiccional exclusivo, podrán practicar actuaciones en cualesquiera de los dos departamentos, en los asuntos sometidos a su conocimiento.
-Con el acuerdo previo de la Corte de Apelaciones de Santiago, y por no más de una vez al año, el Presidente de la República, oyendo al Consejo General del Colegio de Abogados, podrá modificar los límites de la jurisdicción territorial de los juzgados a que se refieren los incisos primero y segundo.
+Inciso derogado.
 
 Art. 44. Habrá también un Juzgado de Letras de Mayor Cuantía en Petorca, Putaendo, Casablanca, Limache, Quilpué, La Calera, Florida (Concepción), Lota, Curanilahue, Carahue y Villarica, que tendrán su asiento en la ciudades cabeceras de esas comunas subdelegaciones, las cuales serán consideradas como departamentos para todos los efectos del Servicio Judicial, con excepción de La Calera y Curanilahue.
 Los territorios jurisdiccionales de los Tribunales a que se refiere este artículo serán los de las comunas-subdelegaciones de sus respectivos nombres.
