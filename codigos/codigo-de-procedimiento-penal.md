@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1989-12-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1989-12-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1989-12-06
-fetched_at: 2026-08-03T00:48:28.586451+00:00
+version_date: 1989-12-20
+fetched_at: 2026-08-03T00:48:58.620144+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1961,6 +1961,13 @@ Art. 533. (568) Las sentencias definitivas de primera instancia que no fueren re
 2° Cuando el fallo aplique diversas penas que, sumadas, excedan de un año de privación o de restricción de la libertad, debiendo, en uno y otro caso, considerarse consultable el fallo respecto de todos los delitos sancionados, y
 3° Cuando el proceso verse sobre delito a que la ley señale pena aflictiva.
 Regirá lo dispuesto en el artículo 528 bis, en cuanto sea aplicable a la consulta.
+
+Artículo 534.- Los trámites de la consulta serán los mismos indicados en el Título VIII "De la apelación de la sentencia definitiva", con la salvedad de que se verán en cuenta. En los casos en que la Corte funcione dividida en salas, las c
+NOTA: 10.1
+ausas serán distribuidas entre éstas por el Presidente de la Corte, mediante sorteo.
+Si el informe del Fiscal es desfavorable al procesado o cualquiera de las partes pidiere alegatos dentro de los seis días siguientes a la fecha de ingreso del expediente a la secretaría de la Corte, deberán traerse los autos en relación.
+NOTA: 10.1
+El Artículo Transitorio de la LEY 18882, publicada el 20.12.1989, dispuso que la modificación al presente artículo regirá aún, respecto de aquellas causas en las cuales se hubiese ordenado traer los autos en relación, a menos que cualquiera de las partes solicite alegatos dentro de los seis días siguientes a la fecha de publicación de esta ley, en cuyo caso se mantendrá el decreto de autos, en relación.
 
 #### Título X
 DEL RECURSO DE CASACION

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1989-11-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1989-12-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1989-11-11
-fetched_at: 2026-08-03T00:47:58.556333+00:00
+version_date: 1989-12-20
+fetched_at: 2026-08-03T00:49:04.622677+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -410,7 +410,7 @@ Para la constitución de las salas de las Cortes de Apelaciones de Valparaíso y
 El ministro a quien corresponda la presidencia de la Corte no entrará al sorteo y por derecho propio integrará la Primera Sala.
 
 Art. 62. Las Cortes de Apelaciones integradas por sus fiscales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo.
-Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento.
+Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla y de las apelaciones que deban conocerse en cuenta, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento.
 Producido este caso y si no bastaren los relatores en propiedad, el tribunal designará por mayoría de votos los relatores interinos que estime conveniente, quienes gozarán durante el tiempo en que sirvieren de igual remuneración que los propietarios.
 
 Art. 63. Las Cortes de Apelaciones conocerán:
@@ -438,7 +438,7 @@ Las salas no podrán funcionar sin la concurrencia de tres jueces como mínimum.
 
 Art. 68. Las Cortes de Apelaciones resolverán los asuntos en cuenta o previa vista de ellos, según corresponda.
 
-Art. 69. Los Presidentes de las Cortes de Apelaciones formarán el día último hábil de cada semana una tabla de los asuntos que verá el tribunal en la semana siguiente.
+Art. 69. Los Presidentes de las Cortes de Apelaciones formarán el último día hábil de cada semana una tabla de los asuntos que verá el tribunal en la semana siguiente, que se encuentren en estado de relación. Se consideran expedientes en estado de relación aquellos que hayan sido previamente revisados y certificados al efecto por el relator que corresponda.
 En las Cortes de Apelaciones que consten de más de una sala se formarán tantas tablas cuantas sea el número de salas y se distribuirán entre ellas por sorteo, en audiencia pública.
 En las tablas deberá designarse un día de la semana, a lo menos, para conocer las causas criminales, sin perjuicio de la preferencia que la ley o el tribunal les acuerden.
 Sin embargo, los recursos de amparo, las apelaciones que se deduzcan en un mismo proceso respecto del auto declaratorio de reo de cualquiera de los inculpados de la resolución que no da lugar a pronunciarlo, o que acoge o rechaza la petición de modificarlo o dejarlo sin efecto, y las apelaciones o consultas relativas a la libertad provisional de esos inculpados o reos, serán de la competencia de la sala que haya conocido por primera vez de los recursos, apelaciones o consultas mencionados.
@@ -1635,9 +1635,10 @@ Pero no se extiende al caso de licencia del defensor ni al de vacante de la plaz
 Art. 372. Son funciones de los relatores:
 1°) Dar cuenta diaria de las solicitudes que se presenten en calidad de urgentes, de las que no pudieren ser despachadas por la sola indicación de la suma y de los negocios que la Corte mandare pasar a ellos;
 2°) Poner en conocimiento de las partes o sus abogados el nombre de las personas que integran el tribunal, en el caso a que se refiere el artículo 173 del Código de Procedimiento Civil;
-3°) Hacer relación de los procesos;
-4°) Anotar el día de la vista de cada causa los nombres de los jueces que hubieren concurrido a ella, si no fuere despachada inmediatamente; y
-5°) Cotejar con los procesos los informes en derecho, y anotar bajo su firma la conformidad o disconformidad que notaren entre el mérito de éstos y los hechos expuestos en aquéllos.
+3°) Revisar los expedientes que se les entreguen y certificar que están en estado de relación. En caso que sea necesario traer a la vista los documentos, cuadernos separados y expedientes no acompañados o realizar trámites procesales previos a la vista de la causa, informará de ello al Presidente de la Corte, el cual dictará las providencias que correspondan.
+4°) Hacer relación de los procesos;
+5°) Anotar el día de la vista de cada causa los nombres de los jueces que hubieren concurrido a ella, si no fuere despachada inmediatamente; y
+6°) Cotejar con los procesos los informes en derecho, y anotar bajo su firma la conformidad o disconformidad que notaren entre el mérito de éstos y los hechos expuestos en aquéllos.
 
 Art. 373. Antes de hacer la relación deben los relatores dar cuenta a la Corte de todo vicio u omisión sustancial que notaren en los procesos; de los abusos que pudieren dar mérito a que la Corte ejerza las atribuciones que le confieren los artículos 539 y 540 y de todas aquellas faltas o abusos que las leyes castigan con multas determinadas.
 Las causas que se ordene tramitar, las suspendidas y las que por cualquier motivo no hayan de verse, serán anunciadas en la tabla antes de comenzar la relación de las demás. Siempre que sea posible se hará en cualquier instante de la audiencia igual anuncio de las causas que no hayan de verse por falta de tiempo.
@@ -2346,9 +2347,10 @@ Las medidas que en ejercicio de estas facultades adoptaren los Tribunales Superi
 
 Art. 547. Las Cortes de Apelaciones tendrán diariamente una audiencia pública para oír las quejas verbales que alguien quiera interponer contra los subalternos dependientes de ellas.
 
-Art. 548. Los recursos de queja se verán por las Cortes de Apelaciones fuera de las horas ordinarias de audiencia.
+Art. 548. Los recursos de queja se verán fuera de las horas ordinarias de audiencia.
+El fallo que acoge el recurso de queja contendrá las consideraciones que demuestren la falta o abuso, o los errores u omisiones manifiestos y graves que los constituyan y que existan en la resolución que motiva el recurso; determinará las medidas conducentes a remediar tal falta o abuso y podrá disponer que se dé cuenta al tribunal pleno de los antecedentes para los efectos disciplinarios que procedan.
 
-Art. 549. Todo recurso de queja deberá interponerse en el plazo fatal de cinco días. Este plazo se suspenderá durante los días feriados y se aumentará en la forma indicada en el artículo 259 del Código de Procedimiento Civil, cuando el tribunal que haya pronunciado la resolución recurrida tenga su asiento en una comuna diversa de aquella en que funciona el que haya de conocer del recurso.
+Art. 549. Todo recurso de queja deberá interponerse en el plazo fatal de cinco días hábiles. Este plazo se aumentará conforme a la tabla de emplazamiento a que se refiere el artículo 259 del Código de Procedimiento Civil cuando el tribunal que haya pronunciado la resolución recurrida tenga su asiento en una comuna o agrupación de comunas diversa de aquella en que funciona el que haya de conocer el recurso. Con todo, el plazo total para interponer el recurso no podrá exceder de quince días hábiles contados desde la fecha de notificación a la parte recurrente de la resolución que motiva la queja.
 Para interponer un recurso de queja, el recurrente deberá consignar previamente en la cuenta corriente del tribunal que conocerá del mismo, una cantidad equivalente al uno por ciento de la cuantía del negocio, con un máximo de una unidad tributaria mensual.
 Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a una unidad tributaria mensual, si el recurso se interpone ante la Corte Suprema o ante la Corte de Apelaciones; y de media unidad tributaria mensual, si se interpone ante un juez de letras.
 No regirá la exigencia de la consignación previa tratándose de los recursos de queja que deduzcan los oficiales del ministerio público, los defensores públicos, los representantes del Fisco, los procesados en causa criminal y los que gozan de privilegio de pobreza.
@@ -2359,7 +2361,7 @@ Respecto de las multas a que este artículo se refiere, regirá también lo disp
 
 Art. 550. Los miembros del Poder Judicial gozarán del privilegio de pobreza para su defensa en los recursos de queja o en la sustanciación de medidas disciplinarias que les afecten personalmente.
 
-Art. 551. Las resoluciones que pronuncien los tribunales unipersonales y las Cortes de Apelaciones en el ejercicio de sus facultades disciplinarias sólo serán susceptibles del recurso de apelación. En caso alguno procederá el recurso de reposición o de reconsideración respecto de la resolución que falla el recurso de queja o la apelación deducida en su contra.
+Art. 551. Las resoluciones que pronuncien los tribunales unipersonales y colegiados en el ejercicio de sus facultades disciplinarias, sólo serán susceptibles de recurso de apelación. Por consiguiente, aquellas que resuelvan recursos de queja, sea en primera o en segunda instancia, no son susceptibles del recurso de reposición o de reconsideración, cualquiera sea la jerarquía del tribunal que las dicte.
 Conocerá de la apelación el tribunal a quien corresponda el conocimiento del recurso de casación contra las sentencias del tribunal que haya pronunciado la resolución recurrida.
 El tribunal superior resolverá la apelación de plano, sin otra formalidad que esperar la comparecencia del recurrente y si se trata de un tribunal colegiado, en cuenta, salvo que estime conveniente traer los autos en relación.
 De las resoluciones que en el ejercicio de sus facultades económicas pronuncien los tribunales indicados en el inciso primero de este artículo, sólo podrá reclamarse para ante el superior jerárquico. La reclamación deberá interponerse dentro del plazo de tres días, ante el tribunal que haya dictado la resolución. Este la elevará, con todos sus antecedentes, dentro de las 48 horas siguientes a su presentación.

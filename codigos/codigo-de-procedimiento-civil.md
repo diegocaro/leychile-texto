@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1989-06-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1989-12-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1989-06-10
-fetched_at: 2026-08-03T00:47:16.506227+00:00
+version_date: 1989-12-20
+fetched_at: 2026-08-03T00:48:46.606897+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -69,6 +69,9 @@ Si no se entregan las copias o si resulta disconformidad substancial entre aqué
 El tribunal ordenará, además, que la parte acompañe las copias dentro de tercero día, bajo apercibimiento de tener por no presentado el escrito.
 Las resoluciones que se dicten en conformidad a este artículo serán inapelables.
 
+Art. 33 (34). Todo escrito será presentado por el secretario al tribunal para su despacho el mismo día en que se le entregue, o al día siguiente hábil si la entrega se hace después de la hora designada al efecto. En casos urgentes podrá el interesado recabar el despacho inmediato aun después de la hora designada.
+Los secretarios letrados de los juzgados civiles dictarán por sí solos los decretos, providencias o proveídos, resoluciones que serán autorizadas por el oficial 1°. La reposición, en su caso, será resuelta por el juez.
+
 Artículo 36.- El proceso se mantendrá en la oficina del secretario bajo su custodia y responsabilidad. Los autos no podrán retirarse de la secretaría sino por las personas y en los casos expresamente contemplados en la ley. Corresponderá al secretario velar por el estricto cumplimiento de lo establecido en el artículo 393 del Código Orgánico de Tribunales.
 
 Art. 37 (40). Siempre que los tribunales pidan o hayan de oír dictamen por escrito del respectivo oficial del ministerio público o de los defensores públicos, el secretario entregará el proceso a aquellos funcionarios, exigiendo el correspondiente recibo. Lo mismo se observará cuando haya de remitirse el proceso a una oficina distinta de aquella en que se ha formado.
@@ -102,6 +105,14 @@ Las modificaciones introducidas por la Ley 18.776, publicada en el "Diario Ofici
 Art. 55 (58). Aunque no se haya verificado notificación alguna o se haya efectuado en otra forma que la legal, se tendrá por notificada una resolución desde que la parte a quien afecte haga en el juicio cualquiera gestión que suponga conocimiento de dicha resolución, sin haber antes reclamado la falta o nulidad de la notificación.
 Asimismo, la parte que solicitó la nulidad de una notificación, por el solo ministerio de la ley, se tendrá por notificada de la resolución cuya notificación fue declarada nula, desde que se le notifique la sentencia que declara tal nulidad. En caso que la nulidad de la notificación haya sido declarada por un tribunal superior, esta notificación se tendrá por efectuada al notificársele el "cúmplase" de dicha resolución.
 
+Art. 57. Las diligencias de notificación que se estampen en los procesos, no contendrán declaración alguna del notificado, salvo que la resolución ordene o, por su naturaleza, requiera esa declaración.
+
+### Título VII
+DE LAS ACTUACIONES JUDICIALES
+
+Artículo 64.- Los plazos que señala este Código son fatales cualquiera sea la forma en que se exprese, salvo aquéllos establecidos para la realización de actuaciones propias del tribunal. En consecuencia, la posibilidad de ejercer un derecho o la oportunidad para ejecutar el acto se extingue al vencimiento del plazo. En estos casos el tribunal, de oficio o a petición de parte, proveerá lo que convenga para la prosecución del juicio, sin necesidad de certificado previo.
+Las partes, en cualquier estado del juicio, podrán acordar la suspensión del procedimiento hasta por un plazo máximo de noventa días. Este derecho sólo podrá ejercerse por una vez en cada instancia, sin perjuicio de hacerlo valer, además, ante la Corte Suprema en caso que, ante dicho tribunal, estuviesen pendientes recursos de casación o de queja en contra de sentencia definitiva. Los plazos que estuvieren corriendo se suspenderán al presentarse el escrito respectivo y continuarán corriendo vencido el plazo de suspensión acordado.
+
 ### Título VIII
 DE LAS REBELDIAS
 
@@ -118,6 +129,11 @@ Art. 84 (87). Todo incidente que no tenga conexión alguna con el asunto que es 
 Si el incidente nace de un hecho anterior al juicio o coexistente con su principio, como defecto legal en el modo de proponer la demanda, deberá promoverlo la parte antes de hacer cualquiera gestión principal en el pleito.
 Si lo promueve después, será rechazado de oficio por el tribunal salvo que se trate de un vicio que anule el proceso, en cuyo caso se estará a lo que establece el artículo 83, o que se trate de una circunstancia esencial para la ritualidad o la marcha del juicio, evento en el cual el tribunal ordenará que se practiquen las diligencias necesarias para que el proceso siga su curso legal.
 El juez podrá corregir de oficio los errores que observe en la tramitación del proceso. Podrá asimismo tomar las medidas que tiendan a evitar la nulidad de los actos de procedimiento. No podrá, sin embargo, subsanar las actuaciones viciadas en razón de haberse realizado éstas fuera del plazo fatal indicado por la ley.
+
+Art. 85 (88). Todo incidente originado de un hecho que acontezca durante el juicio, deberá promoverse tan pronto como el hecho llegue a conocimiento de la parte respectiva.
+Si en el proceso consta que el hecho ha llegado al conocimiento de la parte, y si ésta ha practicado una gestión posterior a dicho conocimiento, el incidente promovido después será rechazado de plano, salvo que se trate de alguno de los vicios o circunstancias a que se refiere el inciso 3° del artículo anterior.
+
+Art. 86 (89). Todos los incidentes cuyas causas existan simultáneamente deberán promoverse a la vez. En caso contrario, se observará, respecto de los que se promuevan después, lo dispuesto en el inciso 3° del artículo 84.
 
 Artículo 88.- La parte que haya promovido y perdido dos o más incidentes en un mismo juicio, no podrá promover ningún otro sin que previamente deposite en la cuenta corriente del tribunal la cantidad que éste fije. El tribunal de oficio y en la resolución que deseche el segundo incidente determinará el monto del depósito. Este depósito fluctuará entre una y diez unidades tributarias mensuales y se aplicará como multa a beneficio fiscal, si fuere rechazado el respectivo incidente.
 El tribunal determinará el monto del depósito considerando la actuación procesal de la parte y si observare mala fe en la interposición de los nuevos incidentes podrá aumentar su cuantía hasta por el duplo. La parte que goce de privilegio de pobreza en el juicio, no estará obligada a efectuar depósito previo alguno.
@@ -160,12 +176,27 @@ DEL ABANDONO DEL PROCEDIMIENTO
 
 Artículo 152.- El procedimiento se entiende abandonado cuando todas las partes que figuran en el juicio han cesado en su prosecución durante seis meses, contados desde la fecha de la última resolución recaída en alguna gestión útil para dar curso progresivo a los autos.
 
+Artículo 153.- El abandono podrá hacerse valer sólo por el demandado, durante todo el juicio y hasta que se haya dictado sentencia ejecutoriada en la causa.
+En los procedimientos ejecutivos el ejecutado podrá, además, solicitar el abandono del procedimiento, después de ejecutoriada la sentencia definitiva o en el caso del artículo 472. En estos casos, el plazo para declarar el abandono del procedimiento será de tres años contados desde la fecha de la última gestión útil, hecha en el procedimiento de apremio, destinado a obtener el cumplimiento forzado de la obligación, luego de ejecutoriada la sentencia definitiva o vencido el plazo para oponer excepciones, en su caso. En el evento que la última diligencia útil sea de fecha anterior, el plazo se contará desde la fecha en que quedó ejecutoriada la sentencia definitiva o venció el plazo para oponer excepciones. En estos casos, si se declara el abandono del procedimiento sin que medie oposición del ejecutante, éste no será condenado en costas.
+
 Art. 155 (162). Si, renovado el procedimiento, hace el demandado cualquiera gestión que no tenga por objeto alegar su abandono, se considerará renunciado este derecho.
 
 Art. 157 (164). No podrá alegarse el abandono del procedimiento en los juicios de quiebra, ni en los de división o liquidación de herencias, sociedades o comunidades.
 
 ### Título XVII
 DE LAS RESOLUCIONES JUDICIALES
+
+Artículo 159.- Los tribunales, sólo dentro del plazo para dictar sentencia, podrán dictar de oficio medidas para mejor resolver. Las que se dicten fuera de este plazo se tendrán por no decretadas. Sin perjuicio de lo establecido en el inciso primero del artículo 431, podrán dictar alguna o algunas de las siguientes medidas:
+1a. La agregación de cualquier documento que estimen necesario para esclarecer el derecho de los litigantes;
+2a. La confesión judicial de cualquiera de las partes sobre hechos que consideren de influencia en la cuestión y que no resulten probados;
+3a. La inspección personal del objeto de la cuestión;
+4a. El informe de peritos;
+5a. La comparecencia de testigos que hayan declarado en el juicio, para que aclaren o expliquen sus dichos obscuros o contradictorios; y
+6a. La presentación de cualesquiera otros autos que tengan relación con el pleito. Esta medida se cumplirá de conformidad a lo establecido en el inciso 3° del artículo 37.
+En este último caso y siempre que se hubiese remitido el expediente original, éste quedará en poder del tribunal que decrete esta medida sólo por el tiempo estrictamente necesario para su examen, no pudiendo exceder de ocho días este término si se trata de autos pendientes.
+La resolución que se dicte deberá ser notificada por el estado diario a las partes y se aplicará el artículo 433, salvo en lo estrictamente relacionado con dichas medidas. Las medidas decretadas deberán cumplirse dentro del plazo de veinte días, contados desde la fecha de la notificación de la resolución que las decrete. Vencido este plazo, las medidas no cumplidas se tendrán por no decretadas y el tribunal procederá a dictar sentencia, sin más trámite.
+Si en la práctica de alguna de estas medidas aparece de manifiesto la necesidad de esclarecer nuevos hechos indispensables para dictar sentencia, podrá el tribunal abrir un término especial de prueba, no superior a ocho días, que será improrrogable y limitado a los puntos que el mismo tribunal designe. En este evento, se aplicará lo establecido en el inciso segundo del artículo 90. Vencido el término de prueba, el tribunal dictará sentencia sin más trámite.
+Las providencias que se decreten en conformidad al presente artículo serán inapelables, salvo las que dicte un tribunal de primera instancia disponiendo informe de peritos o abriendo el término especial de prueba que establece el inciso precedente. En estos casos procederá la apelación en el solo efecto devolutivo.
 
 Art. 166 (173). Cuando haya de integrarse una sala con miembros que no pertenezcan a su personal ordinario, antes de comenzar la vista, se pondrá por conducto del relator o secretario en conocimiento de las partes o de sus abogados el nombre de los integrantes, y se procederá a ver la causa inmediatamente, a menos que en el acto se reclame, de palabra o por escrito, implicancia o recusación contra alguno de ellos.
 Formulada la reclamación, se suspenderá la vista y deberá formalizarse aquélla por escrito de tercero día, imponiéndose en caso contrario a la parte reclamante, por este solo hecho, una multa que no baje de medio sueldo vital ni exceda de dos sueldos vitales.
@@ -186,6 +217,19 @@ Las sentencias absolutorias o de sobreseimiento en materia criminal relativas a 
 ### Título XVIII
 DE LA APELACION
 
+Artículo 189.- La apelación deberá interponerse en el término fatal de cinco días, contados desde la notificación de la parte que entabla el recurso, deberá contener los fundamentos de hecho y de derecho en que se apoya y las
+NOTA
+peticiones concretas que se formulan.
+Este plazo se aumentará a diez días tratándose de sentencias definitivas.
+En aquellos casos en que la apelación se interponga con el carácter de subsidiaria de la solicitud de reposición, no será necesario fundamentarla ni formular peticiones concretas, siempre que el recurso de reposición cumpla con ambas exigencias. En los procedimientos o actuaciones para las cuales la ley establezca la oralidad, se podrá apelar en forma verbal siempre que someramente se señalen los fundamentos de hecho y de derecho del recurso y se formulen peticiones concretas, de todo lo cual deberá dejarse constancia en el acta respectiva.
+Las normas de los incisos anteriores no se aplicarán en aquellos procedimientos en que las partes, sin tener la calidad de letrados, litiguen personalmente y la ley faculte la interposición verbal del recurso de apelación. En estos casos el plazo para apelar será de cinco días fatales, salvo disposición especial en contrario.
+NOTA
+Véase el N° 6 del Auto Acordado de la Corte Suprema, publicado 27.06.1992, sobre tramitación y fallo del recurso de protección de las garantías constitucionales.
+
+Art. 192 (215). Cuando la apelación proceda sólo en el efecto devolutivo, seguirá el tribunal inferior conociendo de la causa hasta su terminación, inclusa la ejecución de la sentencia definitiva.
+No obstante, el tribunal de alzada a petición del apelante y mediante resolución fundada, podrá dictar orden de no innovar. La orden de no innovar suspende los efectos de la resolución recurrida o paraliza su cumplimiento, según sea el caso. El tribunal podrá restringir estos efectos por resolución fundada. Los fundamentos de las resoluciones que se dicten de conformidad a este inciso no constituyen causal de inhabilidad.
+Las peticiones de orden de no innovar serán distribuidas por el Presidente de la Corte, mediante sorteo, entre las salas en que esté dividida y se resolverán en cuenta. Decretada una orden de no innovar, quedará radicado el conocimiento de la apelación respectiva en la sala que la concedió y el recurso gozará de preferencia para figurar en tabla y en su vista y fallo.
+
 Art. 194 (217). Sin perjuicio de las excepciones expresamente establecidas en la ley, se concederá apelación sólo en el efecto devolutivo:
 1°. De las resoluciones dictadas contra el demandado en los juicios ejecutivos y sumarios;
 2°. De los autos, decretos y sentencias interlocutorias;
@@ -200,6 +244,10 @@ Las declaraciones que haga el superior en conformidad a los dos incisos anterior
 Artículo 197.- La resolución que conceda una apelación sólo en el efecto devolutivo deberá determinar las piezas del expediente que, además de la resolución apelada, deban compulsarse o fotocopiarse para continuar conociendo del proceso, si se trata de sentencia definitiva, o que deban enviarse al tribunal superior para la resolución del recurso, en los demás casos.
 El apelante, dentro de los cinco días siguientes a la fecha de notificación de esta resolución, deberá depositar en la secretaría del tribunal la cantidad de dinero que el secretario estime necesaria para cubrir el valor de las fotocopias o de las compulsas respectivas. El secretario deberá dejar constancia de esta circunstancia en el proceso, señalando la fecha y el monto del depósito. Se remitirán compulsas sólo en caso que exista imposibilidad para sacar fotocopias en el lugar de asiento del tribunal, lo que también certificará el secretario.
 Si el apelante no da cumplimiento a esta obligación, se le tendrá por desistido del recurso, sin más trámite.
+
+Art. 199 (222). La apelación de toda resolución que no sea sentencia definitiva se verá en cuenta, a menos que cualquiera de las partes, dentro del plazo para comparecer en segunda instancia solicite alegatos.
+Vencido este plazo, el tribunal de alzada ordenará traer los autos en relación, si se hubieren solicitado oportunamente alegatos. De lo contrario, el Presidente de la Corte ordenará dar cuenta y procederá a distribuir, mediante sorteo, la causa entre las distintas salas en que funcione el tribunal.
+Las Cortes deberán establecer horas de funcionamiento adicional para el conocimiento y fallo de las apelaciones que se vean en cuenta.
 
 Artículo 207.- En segunda instancia, salvo lo dispuesto en el inciso final del artículo 310 y en los artículos 348 y 385, no se admitirá prueba alguna.
 No obstante y sin perjuicio de las demás facultades concedidas por el artículo 159, el tribunal podrá, como medida para mejor resolver, disponer la recepción de prueba testimonial sobre hechos que no figuren en la prueba rendida en autos, siempre que la testimonial no se haya podido rendir en primera instancia y que tales hechos sean considerados por el tribunal como estrictamente necesarios para la acertada resolución del juicio. En este caso, el tribunal deberá señalar determinadamente los hechos sobre que deba recaer y abrir un término especial de prueba por el número de días que fije prudencialmente y que no podrá exceder de ocho días. La lista de testigos deberá presentarse dentro de segundo día de notificada por el estado la resolución respectiva.
@@ -295,6 +343,8 @@ Art. 274 (264). Si, decretada la diligencia a que se refiere el número 1° del 
 NOTA
 El artículo 8 de la ley 18018, publicada el 14.08.1981, dispuso que las sumas expresadas en sueldos vitales o en porcentajes de ellos, en normas de carácter legal, entre otras, se reducirán a la cantidad numérica que representa a la misma fecha, cantidad que se expresará en "ingresos mínimos" reajustables o porcentajes de ellos, según corresponda. La conversión se fijo por Decreto 51, Justicia, publicado 13.02.1982.
 
+Art. 277 (267). Siempre que se dé lugar a las medidas mencionadas en los números 3° y 4° del artículo 273, y la persona a quien incumba su cumplimiento desobedezca, existiendo en su poder los instrumentos o libros a que las medidas se refieren, perderá el derecho de hacerlos valer después, salvo que la otra parte los haga también valer en apoyo de su defensa, o si se justifica o aparece de manifiesto que no los pudo exhibir antes, o si se refieren a hechos distintos de aquellos que motivaron la solicitud de exhibición. Lo cual se entiende sin perjuicio de lo dispuesto en el artículo precedente y en el párrafo 2°, Título II, del Libro I del Código de Comercio.
+
 ### Título VII
 DE LA CONTESTACION Y DEMAS TRAMITES HASTA EL ESTADO
 DE PRUEBA O DE SENTENCIA
@@ -309,6 +359,8 @@ El N° 45 del artículo Primero de la Ley 18705, publicada el 24.05.1988, suprim
 
 ### Título VIII
 DE LA RECONVENCION
+
+Art. 314 (304). Si el demandado reconviene al actor, deberá hacerlo en el escrito de contestación, sujetándose a las disposiciones de los artículos 254 y 261; y se considerará, para este efecto, como demandada la parte contra quien se deduzca la reconvención.
 
 Art. 317 (307). Contra la reconvención hay lugar a las excepciones dilatorias enumeradas en el artículo 303, las cuales se propondrán dentro del término de seis días y en la forma expresada en el artículo 305.
 Acogida una excepción dilatoria, el demandante reconvencional deberá subsanar los defectos de que adolezca la reconvención dentro de los diez días siguientes a la fecha de notificación de la resolución que haya acogido la excepción. Si así no lo hiciere, se tendrá por no presentada la reconvención, para todos los efectos legales, por el solo ministerio de la ley.
@@ -428,6 +480,12 @@ DE LOS PROCEDIMIENTOS POSTERIORES A LA PRUEBA
 Artículo 431.- No será motivo para suspender el curso del juicio ni será obstáculo para la dictación del fallo el hecho de no haberse devuelto la prueba rendida fuera del tribunal, o el de no haberse practicado alguna otra diligencia de prueba pendiente, a menos que el tribunal, por resolución fundada, la estime estrictamente necesaria para la acertada resolución de la causa. En este caso, la reiterará como medida para mejor resolver y se estará a lo establecido en el artículo 159.
 En todo caso, si dicha prueba se recibiera por el tribunal una vez dictada la sentencia, ella se agregará al expediente para que sea considerada en segunda instancia, si hubiere lugar a ésta.
 
+Artículo 432.- Vencido el plazo a que se refiere el artículo 430, se hayan o no presentado escritos y existan o no diligencias pendientes, el tribunal citará para oír sentencia.
+En contra de esta resolución sólo podrá interponerse recurso de reposición, el que deberá fundarse en error de hecho y deducirse dentro de tercero día. La resolución que resuelva la reposición será inapelable.
+
+Art. 433 (437). Citadas las partes para oír sentencia, no se admitirán escritos ni pruebas de ningún género.
+Lo cual se entiende sin perjuicio de lo dispuesto por los artículos 83, 84, 159 y 290. Los plazos establecidos en los artículos 342 N° 3, 346 N° 3 y 347 que hubieren comenzado a correr al tiempo de la citación para oír sentencia, continuarán corriendo sin interrupción y la parte podrá dentro de ellos, ejercer su derecho de impugnación. De producirse ésta, se tramitará en cuaderno separado y se fallará en la sentencia definitiva, sin perjuicio de lo dispuesto en el artículo 431.
+
 ## Libro Tercero
 DE LOS JUICIOS ESPECIALES
 NOTA
@@ -485,6 +543,8 @@ Art. 460. (482). Si el requerimiento se hace en territorio jurisdiccional de otr
 El tribunal exhortado se limitará a remitir la solicitud de oposición al exhortante para que éste provea sobre ella lo que sea de derecho.
 
 Art. 469. (491). La prueba se rendirá del mismo modo que en el juicio ordinario, y el fallo que dé lugar a ella expresará los puntos sobre que deba recaer. Vencido el término probatorio, quedarán los autos en la secretaría por espacio de seis días a disposición de las partes, antes de pronunciar sentencia. Durante este plazo podrán hacerse por escrito las observaciones que el examen de la prueba sugiera, y una vez vencido, háyanse o no presentado escritos, y sin nuevo trámite, el tribunal citará a las partes para oír sentencia.
+
+Art. 476. (498). Derogado.
 
 #### 2. De la administración de los bienes embargados y
 del procedimiento de apremio
@@ -548,6 +608,10 @@ Véanse la Ley 18101, publicada el 29.01.1982, que señale procedimientos a que 
 #### 1. Del desahucio, del lanzamiento y de la retención
 
 Artículo 593.- En el acta que se levante, a más de las pruebas acompañadas, se mencionarán con brevedad las alegaciones de las partes. Sin otro trámite el tribunal citará a las partes para oír sentencia la que dictará inmediatamente o, a más tardar, dentro de tercero día.
+
+#### 2. De la terminación inmediata del arrendamiento
+
+Art. 610. (768). Terminada la audiencia o practicadas las diligencias a que se refiere el artículo anterior, el tribunal citará de inmediato a las partes para oír sentencia, la que dictará, a más tardar, dentro de tercero día.
 
 #### 3. Disposiciones comunes a los dos párrafos
 precedentes
@@ -667,6 +731,50 @@ Artículo 687.- Vencido el término probatorio, el tribunal, de inmediato, citar
 Artículo 688.- Las resoluciones en el procedimiento sumario deberán dictarse, a más tardar, dentro de segundo día.
 La sentencia definitiva deberá dictarse en el plazo de los diez días siguientes a la fecha de la resolución que citó a las partes para oír sentencia.
 
+### Título XIV
+DE LOS JUICIOS DE MENOR Y DE MINIMA CUANTIA
+
+#### 1. De los juicios de menor cuantía
+
+Art. 698. Los juicios de más de $ 18.856 y que no pasen de $ 377.241, y que no tengan señalado en la ley un procedimiento especial, se someterán al procedimiento ordinario de que trata el Libro II con las modificaciones siguientes:
+1a. Se omitirán los escritos de réplica y dúplica.
+Si se deduce reconvención, se dará traslado de ella al demandante por seis días, y con lo que éste exponga o en su rebeldía, se recibirá la causa a prueba;
+2a. El término para contestar la demanda será de ocho días, que se aumentará de conformidad a la tabla de emplazamiento. Este aumento no podrá exceder de veinte días, y no regirá para estos juicios la disposición del inciso 2° del artículo 258.
+En el caso del artículo 308, el plazo para contestar la demanda será de seis días;
+3a. Se citará a la audiencia de conciliación para un día no anterior al tercero ni posterior al décimo contado desde la fecha de notificación de la resolución.
+4a. El término de prueba será de quince días y podrá aumentarse, extraordinariamente, de conformidad a lo dispuesto en el número anterior;
+5a. El término a que se refiere el artículo 430 será de seis días;
+6a. La sentencia se dictará dentro de los quince días siguientes al de la última notificación de la resolución que cita a las partes para oírla; y 7a. Deducida apelación contra resoluciones que no se refieran a la competencia o a la inhabilidad del tribunal, ni recaigan en incidentes sobre algún vicio que anule el proceso, el juez tendrá por interpuesto el recurso para después de la sentencia que ponga término al juicio. El apelante deberá reproducirlo dentro de los cinco días subsiguientes al de la notificación de la sentencia y en virtud de esta reiteración, lo concederá el tribunal.
+En los casos de excepción a que se refiere el inciso anterior de este número, como también en los incidentes sobre medidas prejudiciales o precautorias, el recurso se concederá al tiempo de su interposición.
+
+Art. 700. Derogado.
+
+#### 2. De los juicios de mínima cuantía
+
+Artículo 709.- El plazo para que se declare abandonado el procedimiento en estos juicios, será de tres meses.
+
+Art. 712. Todas las excepciones se tramitarán conjuntamente y se fallarán en la sentencia definitiva, pero el tribunal podrá acoger, desde luego, o tramitar separadamente en conformidad al artículo 723, las dilatorias de incompetencia, de falta de capacidad o de personería del demandante, o aquella en que se reclame del procedimiento siempre que aparezcan manifiestamente admisibles. Se concederá en el efecto devolutivo la apelación que se interponga en contra de la resolución que deseche las excepciones dilatorias que se admitan a tramitación separada.
+
+Art. 715. Contestada la demanda o en rebeldía del demandado, el juez resolverá si debe o no recibirse la causa a prueba. En caso afirmativo fijará los puntos sobre los cuales debe recaer y señalará una audiencia próxima para recibirla. En caso contrario, citará a las partes para oír sentencia, la que deberá dictar a más tardar en el plazo de los ocho días subsiguientes. La resolución que reciba la causa a prueba es inapelable.
+
+Art. 722. Sin perjuicio de lo dispuesto en el artículo 715, el tribunal citará a las partes para oír sentencia y la dictará dentro de los sesenta días contados desde la celebración de la audiencia de contestación, salvo que lo impidan circunstancias insuperables, de las cuales dejará constancia en la sentencia y de ello dará cuenta oportunamente en estados mensuales a que se refiere el artículo 586 N° 4° del Código Orgánico de Tribunales.
+
+Art. 723. Los incidentes deberán formularse y tramitarse en las audiencias de contestación y de prueba y su fallo se reservará para la sentencia definitiva.
+Las apelaciones de las resoluciones que se dicten antes del fallo del juicio deberán interponerse conjuntamente con la apelación de la sentencia. Esta última apelación implicará también apelación de todas las resoluciones incidentales anteriores que causen agravios a la parte apelante.
+Todas la apelaciones se verán y fallarán conjuntamente.
+No obstante lo dispuesto en los incisos anteriores, podrá el tribunal, atendida la naturaleza del incidente, tramitarlo separadamente con audiencia verbal de la parte contraria y decretar las diligencias adecuadas a su acertada resolución. En este caso, se tramitará separadamente el recurso de apelación que proceda.
+La resolución que se dicte, en uno u otro sentido, en conformidad al inciso anterior, será inapelable.
+Podrán, asimismo, tramitarse separadamente los incidentes especiales de que tratan los artículos 79, 80 y 81; los Títulos X, XI, XII, XIII, XIV, XV y XVI del Libro I y los títulos IV y V del Libro II. Su tramitación se ajustará a lo que en ellos se dispone, pero las peticiones de las partes deberán formularse verbalmente de acuerdo con las reglas de este Título, y cuando en aquéllos se disponga dar traslado a la parte contraria y pueda ser necesaria la prueba, se citará a las partes para que concurran a una audiencia próxima con todos sus medios probatorios.
+
+Art. 727. Derogado.
+
+Art. 728. Derogado.
+
+Art. 735. Establecido el valor de los bienes embargados, el juez ordenará que se rematen, previa citación de las partes.
+Si se trata de bienes raíces o de derechos reales constituidos en ellos, deberán, además, publicarse tres avisos en un diario de la comuna en que se encuentre situado el inmueble o, si allí no lo hubiere, en uno de la capital de la provincia o de la capital de la respectiva región.
+Los remates se efectuarán solamente en los días 1° y 15 de cada mes, o en el día siguiente hábil si alguna de esas fechas corresponde a día inhábil.
+Las posturas empezarán por los dos tercios de la tasación.
+
 ### Título XVI
 DE LOS JUICIOS DE HACIENDA
 
@@ -697,6 +805,13 @@ NOTA
 El Artículo Transitorio de la LEY 18882, publicada el 20.12.1989, dispuso que la modificación que introduce al artículo 534 del Código de Procedimiento Penal, regirá aún, respecto de aquellas causas en las cuales se hubiese ordenado traer los autos en relación, a menos que cualquiera de las partes solicite alegatos dentro de los seis días siguientes a la fecha de publicación de esta ley, en cuyo caso se mantendrá el decreto de autos, en relación. En el caso del presente artículo, se aplicará igual norma, pero no procederán alegatos.
 NOTA 1
 Véase el Decreto con Fuerza de Ley 1, Hacienda, publicado el 07.08.1993, que fija el texto refundido, coordinado y sistematizado de la ley orgánica del Consejo de Defensa del Estado.
+
+Art. 752. (926). Toda sentencia que condene al Fisco a cualquiera prestación, deberá cumplirse dentro de los sesenta días siguientes a la fecha de recepción del oficio a que se refiere el inciso segundo, mediante decreto expedido a través del Ministerio respectivo.
+Ejecutoriada la sentencia, el tribunal remitirá oficio al ministerio que corresponda, adjuntando fotocopia o copia autorizada de la sentencia de primera y de segunda instancia, con certificado de estar ejecutoriada.
+Se certificará en el proceso el hecho de haberse remitido el oficio y se agregará al expediente fotocopia o copia autorizada del mismo. La fecha de recepción de éste se acreditará mediante certificado de ministro de fe que lo hubiese entregado en la Oficina de Partes del Ministerio o, si hubiese sido enviado por carta certificada, transcurridos tres días desde su recepción por el correo.
+En caso que la sentencia condene al Fisco a prestaciones de carácter pecuniario, el decreto de pago deberá disponer que la Tesorería incluya en el pago el reajuste e intereses que haya determinado la sentencia y que se devenguen hasta la fecha de pago efectivo. En aquellos casos en que la sentencia no hubiese dispuesto el pago de reajuste y siempre que la cantidad ordenada pagar no se solucione dentro de los sesenta días establecidos en el inciso primero, dicha cantidad se reajustará en conformidad con la variación que haya experimentado el Indice de Precios al Consumidor entre el mes anterior a aquel en que quedó ejecutoriada la sentencia y el mes anterior al del pago efectivo.
+NOTA
+El artículo 35 del Decreto Ley 2573, Justicia, publicado el 26.05.1979, dispone que las sentencias que en copia autorizada remitan los tribunales de justicia a los diversos ministerios en conformidad a lo dispuesto en este artículo, serán enviadas al Consejo de Defensa del Estado para su informe. Sólo con informe de esta repartición, en el que se indique el nombre de la persona o personas a cuyo favor deba hacerse el pago, se extenderá el decreto que ordene el cumplimiento del fallo. El informe respectivo será firmado únicamente por el Presidente del Consejo.
 
 ### Título XVII
 DE LOS JUICIOS DE NULIDAD DE MATRIMONIO Y DE DIVORCIO
