@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1949-03-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1949-10-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1949-03-03
-fetched_at: 2026-08-03T00:09:43.414878+00:00
+version_date: 1949-10-20
+fetched_at: 2026-08-03T00:09:55.420771+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -182,7 +182,7 @@ Art. 33. En materia de jurisdicción voluntaria los jueces letrados de menor cua
 2°) Del nombramiento de curador especial que acepte o repudie el reconocimiento de hijo natural o la legitimación de incapaces por matrimonio posterior de los padres, y de las gestiones sobre habilitación de edad;
 3°) De las informaciones sobre estado civil, para solicitar pensiones o montepíos;
 4°) De las gestiones sobre facción de inventarios y nombramientos de curadores especiales, en los casos de los artículos 111 y 124 del Código Civil; y
-5°) De las autorizaciones para alterar las partidas asentadas en los libros del Registro Civil y para proceder a la inscripción de nacimientos y defunciones, en los casos de los artículos 17 y 25 de la Ley N° 4808, de 10 de Febrero de 1930.
+5°) De las autorizaciones para alterar las partidas asentadas en los libros del Registro Civil y para proceder a la inscripción de defunciones, en los casos contemplados en los artículos 17, 18 y 26 de la ley N.o 4,808, de 10 de Febrero de 1930.
 
 Art. 34. Si dentro de la sala de despacho del juez de letras de menor cuantía, y mientras ejerce sus funciones, se cometiere algún hecho calificado de delito por el Código Penal y cuyo conocimiento no le corresponda, hará el juez aprehender al reo o reos y los remitirá al tribunal competente.
 
