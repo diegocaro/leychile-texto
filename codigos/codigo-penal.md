@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1974-04-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1977-12-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1974-04-08
-fetched_at: 2026-08-03T00:23:31.736057+00:00
+version_date: 1977-12-14
+fetched_at: 2026-08-03T00:29:04.989729+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -251,9 +251,9 @@ Las de inhabilitación absoluta y especial temporales para cargos y oficios púb
 La suspensión de cargo u oficio público o profesión titular, dura de sesenta y un días a tres años.
 Las penas de destierro y de sujeción a la vigilancia de la autoridad, de sesenta y un días a cinco años.
 La prisión dura de uno a sesenta días.
-La cuantía de la multa, tratándose de crímenes, no podrá exceder de un millón de pesos; en los simples delitos, de seiscientos mil pesos, y en las faltas, de sesenta mil pesos.
-La expresión "sueldo vital" en cualquiera disposición de este Código significa un sueldo vital mensual, escala A), del departamento de Santiago
-Cuando la ley impone multas cuyo cómputo debe hacerse con relación a cantidades indeterminadas, nunca podrán aquéllas exceder de un millón de pesos.
+La cuantía de la multa, tratándose de crímenes, no podrá exceder de treinta sueldos vitales; en los simples delitos, de veinte sueldos vitales, y en las faltas, de cinco sueldos vitales; todo ello sin perjuicio de que en determinadas infracciones, atendida su gravedad, se contemplen multas de cuantía superior
+La expresión "sueldo vital" en cualquiera disposición de los Códigos Penal, de Procedimiento Penal y de Justicia Militar y demás leyes penales especiales significa un sueldo vital mensual vigente a la fecha de la comisión del delito en la Región Metropolitana: Santiago. Para este efecto dicho sueldo vital se considerará vigente a partir del primer día del mes siguiente a aquél en que se publique en el Diario Oficial.
+Cuando la ley impone multas cuyo cómputo debe hacerse con relación a cantidades indeterminadas, nunca podrán aquéllas exceder de treinta sueldos vitales.
 En cuanto a la cuantía de la caución, se observarán las reglas establecidas para la multa, doblando las cantidades respectivamente, y su duración no podrá exceder del tiempo de la pena u obligación cuyo cumplimiento asegura, o de cinco años en los demás casos.
 La duración de las penas accesorias de encierro en celda solitaria e incomunicación con personas extrañas al establecimiento, salvo los casos contemplados en el número segundo del artículo 90 y en el inciso segundo del artículo 91, no podrá exceder de 180 días, no pudiendo dentro de este límite imponerse por más de la mitad del tiempo señalado a la pena principal. En todo caso, el Tribunal que impuso la pena, podrá, atendidas las circunstancias, de oficio o a petición de parte, suspender, en cualquier momento, la pena accesoria.
 
@@ -338,7 +338,7 @@ La sujeción a la vigilancia de la autoridad da al juez de la causa el derecho d
 
 ART. 46.
 La pena de caución produce en el penado la obligación de presentar un fiador abonado que responda o bien de que aquél no ejecutará el mal que se trata de precaver, o de que cumplirá su condena; obligándose a satisfacer, si causare el mal o quebrantare la condena, la cantidad que haya fijado el tribunal.
-Si el penado no presentare fiador, sufrirá una reclusión equivalente a la cuantía de la fianza, computándose un día por cada quinientos pesos; pero sin poder en ningún caso exceder de un año.
+Si el penado no presentare fiador, sufrirá una reclusión equivalente a la cuantía de la fianza, computándose un día por cada quinto de sueldo vital; pero sin poder en ningún caso exceder de seis meses.
 
 ART. 47.
 En todos los casos en que se imponga el pago de costas se entenderá comprender tanto las procesales como las personales y además los gastos ocasionados por el juicio y que no se incluyen en las costas. Estos gastos se fijarán por el tribunal, previa audiencia de las partes.
@@ -352,7 +352,7 @@ Si los bienes del culpable no fueren bastantes para cubrir las responsabilidades
 En caso de concurso o quiebra, estos créditos se graduarán, considerándose como uno solo, entre los que no gozan de preferencia.
 
 ART. 49.
-Si el sentenciado no tuviere bienes para satisfacer la multa, sufrirá por vía de substitución o apremio la pena de reclusión, regulándose un día por cada doscientos cincuenta pesos, sin que ella pueda nunca exceder de un año.
+Si el sentenciado no tuviere bienes para satisfacer la multa, sufrirá por vía de substitución o apremio la pena de reclusión, regulándose un día por cada décimo de sueldo vital, sin que ella pueda nunca exceder de seis meses.
 Queda exento de este apremio el condenado a reclusion menor en su grado máximo o a otra pena mas grave.
 
 #### § IV.
@@ -555,10 +555,10 @@ Los sentenciados que quebrantaren su condena serán castigados con las penas que
 Primera.-El condenado a relegación perpetua sufrirá la de presidio mayor en su grado medio.
 Segunda.-El condenado a confinamiento o extrañamiento sufrirá la de presidio, por la mitad del tiempo que le falte por cumplir de la pena primitiva.
 Tercera.-El condenado a relegación temporal o a destierro sufrirá la de reclusión o prisión por la mitad del tiempo que le falte por cumplir de la pena primitiva.
-5.° El inhabilitado para cargos y oficios públicos, derechos políticos y profesiones titulares que los ejerciere, cuando el hecho no constituya un delito especial, sufrirá la pena de reclusión menor en su grado mínimo o multa de veinte mil a doscientos mil pesos.
+5.° El inhabilitado para cargos y oficios públicos, derechos políticos y profesiones titulares que los ejerciere, cuando el hecho no constituya un delito especial, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a veinte sueldos vitales.
 En caso de reincidencia se doblará esta pena.
 6.° El suspenso de cargo u oficio público o profesión titular que los ejerciere, sufrirá un recargo por igual tiempo al de su primitiva condena.
-En caso de reincidencia sufrirá la pena de reclusión menor en su grado mínimo o multa de veinte mil a doscientos mil pesos.
+En caso de reincidencia sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a veinte sueldos vitales.
 7.° El sometido a la vigilancia de la autoridad, que faltare a las reglas que debe observar, sufrirá la pena de reclusión menor en sus grados mínimo a medio.
 8.° El condenado en proceso por crimen o simple delito a la pena de retiro o suspensión del carnet, permiso o autorización que lo faculta para conducir vehículos o embarcaciones, o a la sanción de inhabilidad perpetua para conducirlos, sufrirá la pena de presidio menor en su grado mínimo.
 
@@ -687,7 +687,7 @@ ART. 113.
 El que violare tregua o armisticio acordado entre la República y otra nación enemiga o entre sus fuerzas beligerantes de mar o tierra, sufrirá la pena de presidio menor en su grado medio.
 
 ART. 114.
-El que sin autorización legítima levantare tropas en el territorio de la República o destinare buques al corso, cualquiera que sea el objeto que se proponga o la nación a que intente hostilizar, será castigado con presidio mayor en su grado mínimo y multa de mil a cinco mil pesos.
+El que sin autorización legítima levantare tropas en el territorio de la República o destinare buques al corso, cualquiera que sea el objeto que se proponga o la nación a que intente hostilizar, será castigado con presidio mayor en su grado mínimo y multa de veintiuno a treinta sueldos vitales.
 
 ART. 115.
 El que violare la neutralidad de la República, comerciando con los beligerantes en artículos declarados de contrabando de guerra en los respectivos decretos o proclamas de neutralidad, será penado con presidio menor en su grado medio.
@@ -763,10 +763,8 @@ ART. 135
 Los empleados que continuaren funcionando bajo las órdenes de los sublevados o que sin haberles admitido la renuncia de su empleo, lo abandonaren cuando haya peligro de alzamiento, incurrirán en la pena de inhabilitación absoluta temporal para cargos y oficios públicos en sus grados medio a máximo.
 
 ART. 136.
-Los
 NOTA
-NOTA
-que aceptaren cargos o empleos de los sublevados, serán castigados con inhabilitación absoluta temporal para cargos y oficios públicos en su grado mínimo y multa de ciento a mil pesos.
+Los que aceptaren cargos o empleos de los sublevados, serán castigados con inhabilitación absoluta temporal para cargos y oficios públicos en su grado mínimo y multa de once a veinte sueldos vitales.
 NOTA
 El artículo 25 de la Ley N° 6.026, sobre Seguridad Interior el Estado, M. Interior, publicada el 12.02.1937, derogó el Decreto Ley N° 672 de 1925, norma que en su artículo 2° agregaba, a continuación del presente artículo, lo siguiente: "El que de hecho o palabra hiciere objeto de mofa o de desprecio a la bandera o himno nacional de la República, será castigado con pena de prisión, en cualquiera de sus grados, y multas de veinte a mil pesos.". Sin embargo, no lo contempla el texto oficial de la Editorial Jurídica, razón por la cual se ha eliminado en este texto actualizado.
 
@@ -786,13 +784,13 @@ ART. 138.
 Todo el que por medio de violencia o amenazas hubiere impedido a uno o más individuos el ejercicio de un culto permitido en la República, será castigado con reclusión menor en su grado mínimo.
 
 ART. 139.
-Sufrirán la pena de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos:
+Sufrirán la pena de reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales:
 1° Los que con tumulto o desorden hubieren impedido, retardado o interrumpido el ejercicio de un culto que se practicaba en lugar destinado a él o que sirve habitualmente para celebrarlo, o en las ceremonias públicas de ese mismo culto.
 2° Los que con acciones, palabras o amenazas ultrajaren los objetos de un culto, sea en los lugares destinados a él o que sirven habitualmente para su ejercicio, sea en las ceremonias públicas de ese mismo culto.
 3.° Los que con acciones, palabras o amenazas ultrajaren, al ministro de un culto en el ejercicio de su ministerio.
 
 ART. 140.
-Cuando en el caso del núm. 3.° del artículo precedente, la injuria fuere de hecho, poniendo manos violentas sobre la persona del ministro, el delincuente sufrirá las penas de reclusión menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
+Cuando en el caso del núm. 3.° del artículo precedente, la injuria fuere de hecho, poniendo manos violentas sobre la persona del ministro, el delincuente sufrirá las penas de reclusión menor en sus grados mínimo a medio y multa de seis a diez sueldos vitales.
 Si los golpes causaren al ofendido algunas de las lesiones a que se refiere el art. 399, la pena será presidio menor en su grado medio; cuando las lesiones fueren de las comprendidas en el núm. 2.° del art. 397, se castigarán con presidio menor en su grado máximo; si fueren de las que relaciona el núm. 1.° de dicho artículo, con presidio mayor en su grado medio, y cuando de las lesiones resultare la muerte del paciente, se impondrá al ofensor la pena de presidio mayor en su grado máximo a presidio perpetuo.
 
 #### § III.
@@ -814,11 +812,11 @@ Si el sustraído fuere mayor de 10 años y menor de 18 años, la pena será pres
 Si antes de iniciarse procedimiento judicial el raptor devolviere voluntariamente al menor sustraído, libre de todo daño a sus padres, guardadores, encargados de su persona o a la autoridad, podrá imponérsele una pena inferior en dos grados a las señaladas en este artículo.
 
 ART. 143.
-El que fuera de los casos permitidos por la ley, aprehendiere a una persona para presentarla a la autoridad, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
+El que fuera de los casos permitidos por la ley, aprehendiere a una persona para presentarla a la autoridad, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a diez sueldos vitales.
 
 ART. 144.
-El que entrare en morada ajena contra la voluntad de su morador, será castigado con reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
-Si el hecho se ejecutare con violencia o intimidación, el tribunal podrá aplicar la reclusión menor hasta en su grado medio y elevar la multa hasta quinientos pesos.
+El que entrare en morada ajena contra la voluntad de su morador, será castigado con reclusión menor en su grado mínimo o multa de seis a diez sueldos vitales.
+Si el hecho se ejecutare con violencia o intimidación, el tribunal podrá aplicar la reclusión menor hasta en su grado medio y elevar la multa hasta quince sueldos vitales.
 
 ART. 145.
 La disposición del artículo anterior no es aplicable al que entra en la morada ajena para evitar un mal grave a sí mismo, a los moradores o a un tercero, ni al que lo hace para prestar algún auxilio a la humanidad o a la justicia.
@@ -830,7 +828,7 @@ Esta disposición no es aplicable entre cónyuges, ni a los padres, guardadores 
 Tampoco es aplicable a aquellas personas a quienes por leyes o reglamentos especiales, les es lícito instruirse de correspondencia ajena.
 
 ART. 147.
-El que bajo cualquier pretexto, impusiere a otros contribuciones o les exigiere, sin título para ello, servicios personales, incurrirá en las penas de reclusión menor en sus grados mínimo a medio y multa de ciento a mil pesos.
+El que bajo cualquier pretexto, impusiere a otros contribuciones o les exigiere, sin título para ello, servicios personales, incurrirá en las penas de reclusión menor en sus grados mínimo a medio y multa de once a veinte sueldos vitales.
 
 #### § IV
 De los agravios inferidos por funcionarios públicos a los derechos garantidos por la Constitución.
@@ -878,15 +876,15 @@ ART. 155.
 El empleado público que abusando de su oficio, allanare un templo o la casa de cualquiera persona o hiciere registro en sus papeles, a no ser en los casos y forma que prescriben las leyes, será castigado con la pena de reclusión menor en sus grados mínimo a medio o con la de suspensión en cualquiera de sus grados.
 
 ART. 156.
-Los empleados en el servicio de correos y telégrafos u otros que prevaliéndose de su autoridad interceptaren o abrieren la correspondencia o facilitaren a tercero su apertura o supresión, sufrirán la pena de reclusión menor en su grado mínimo y, si se aprovecharen de los secretos que contiene o los divulgaren, las penas serán reclusión menor en cualquiera de sus grados y multa de ciento a mil pesos.
+Los empleados en el servicio de correos y telégrafos u otros que prevaliéndose de su autoridad interceptaren o abrieren la correspondencia o facilitaren a tercero su apertura o supresión, sufrirán la pena de reclusión menor en su grado mínimo y, si se aprovecharen de los secretos que contiene o los divulgaren, las penas serán reclusión menor en cualquiera de sus grados y multa de once a veinte sueldos vitales.
 En los casos de retardo doloso en el envío o entrega de la correspondencia epistolar o de partes telegráficos, la pena será reclusión menor en su grado mínimo.
 
 ART. 157.
-Todo empleado público que sin un decreto de autoridad competente, deducido de la ley que autoriza la exacción de una contribución o de un servicio personal, los exigiere bajo cualquier pretexto, será penado con inhabilitación especial temporal para el empleo en cualquiera de sus grados y multa de ciento a mil pesos.
+Todo empleado público que sin un decreto de autoridad competente, deducido de la ley que autoriza la exacción de una contribución o de un servicio personal, los exigiere bajo cualquier pretexto, será penado con inhabilitación especial temporal para el empleo en cualquiera de sus grados y multa de once a veinte sueldos vitales.
 Si la exacción de la contribución se hiciere con ánimo de lucrarse, el empleado culpable será considerado penado como reo de estafa.
 
 Art. 158.
-Sufrirá la pena de suspensión en sus grados mínimo a medio, si gozare de renta, y la de reclusión menor en su grado mínimo o multa de ciento a mil pesos, cuando prestare servicios gratuitos, el empleado público que arbitrariamente:
+Sufrirá la pena de suspensión en sus grados mínimo a medio, si gozare de renta, y la de reclusión menor en su grado mínimo o multa de once a veinte sueldos vitales, cuando prestare servicios gratuitos, el empleado público que arbitrariamente:
 1.° Impidiere la libre publicación de opiniones por la imprenta en la forma prescrita por la ley.
 2.° Prohibiere un trabajo o industria que no se oponga a la ley, a las buenas costumbres, seguridad y salubridad públicas.
 3.° Prohibiere o impidiere una reunión o manifestación pacífica y legal o la mandare disolver o suspender.
@@ -910,33 +908,33 @@ DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES
 De la moneda falsa.
 
 ART. 162.
-El que sin autorización fabricare moneda que tenga curso legal en la República, aunque sea de la misma materia, peso y ley que la legítima, sufrirá las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
-Cuando el peso o la ley fueren inferiores a los legales, las penas serán presidio menor en su grado medio y multa de ciento a quinientos pesos.
+El que sin autorización fabricare moneda que tenga curso legal en la República, aunque sea de la misma materia, peso y ley que la legítima, sufrirá las penas de reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales.
+Cuando el peso o la ley fueren inferiores a los legales, las penas serán presidio menor en su grado medio y multa de seis a quince sueldos vitales.
 
 ART. 163.
-El que falsificare moneda de oro o plata que tenga curso legal, empleando otras sustancias diversas, será castigado con presidio menor en sus grados medio a máximo y multa de quinientos a mil pesos.
-Si la moneda falsificada fuere de vellón, las penas serán presidio menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
+El que falsificare moneda de oro o plata que tenga curso legal, empleando otras sustancias diversas, será castigado con presidio menor en sus grados medio a máximo y multa de once a veinte sueldos vitales.
+Si la moneda falsificada fuere de vellón, las penas serán presidio menor en sus grados mínimo a medio y multa de seis a diez sueldos vitales.
 
 ART. 164.
-El que cercenare moneda de oro o plata de curso legal, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
+El que cercenare moneda de oro o plata de curso legal, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de seis a diez sueldos vitales.
 
 ART. 165.
-El que falsificare moneda que no tenga curso legal en la República, será castigado con presidio menor en su grado medio y multa de ciento a quinientos pesos, si la moneda falsificada fuere de oro o plata, y con presidio menor en su grado mínimo y multa de ciento a trescientos pesos, cuando fuere de vellón.
+El que falsificare moneda que no tenga curso legal en la República, será castigado con presidio menor en su grado medio y multa de seis a quince sueldos vitales, si la moneda falsificada fuere de oro o plata, y con presidio menor en su grado mínimo y multa de seis a diez sueldos vitales, cuando fuere de vellón.
 
 ART. 166.
-El que cercenare moneda de oro o plata que no tenga curso legal en la República, sufrirá las penas de presidio menor en su grado mínimo y multa de ciento a trescientos pesos.
+El que cercenare moneda de oro o plata que no tenga curso legal en la República, sufrirá las penas de presidio menor en su grado mínimo y multa de seis a diez sueldos vitales.
 
 ART. 167.
 El que de concierto con los falsificadores o cercenadores, tomare parte en la emisión o introducción a la República de la moneda falsificada o cercenada, será castigado con las mismas penas que por la falsificación o cercenamiento corresponderían a aquéllos según los artículos anteriores.
 
 ART. 168.
-El que, sin ser culpable de la participación a que se refiere el artículo precedente, se hubiere procurado a sabiendas moneda falsificada o cercenada y la pusiere en circulación, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de cien a mil pesos.
+El que, sin ser culpable de la participación a que se refiere el artículo precedente, se hubiere procurado a sabiendas moneda falsificada o cercenada y la pusiere en circulación, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de once a veinte sueldos vitales.
 
 ART. 169.
 La tentativa respecto de cualquiera de los delitos de que tratan los artículos precedentes, será castigada con el mínimum de las penas establecidas en ellos para el delito consumado.
 
 ART. 170.
-El que habiendo recibido de buena fe moneda falsa o cercenada, la circulare después de constarle su falsedad o cercenamiento, sufrirá la pena de reclusión menor en su grado mínimo o multa de sesenta a ciento ochenta escudos, si el valor de la moneda circulada subiere medio sueldo vital.
+El que habiendo recibido de buena fe moneda falsa o cercenada, la circulare después de constarle su falsedad o cercenamiento, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a diez sueldos vitales, si el valor de la moneda circulada subiere medio sueldo vital.
 Cuando no exceda de esta suma, estimándose el hecho mera falta, se penará como tal.
 
 ART. 171.
@@ -946,25 +944,25 @@ Si la falsificación o cercenamiento fueren tan ostensibles que cualquiera pueda
 De la falsificación de documentos de crédito del Estado, de las Municipalidades, de los establecimientos públicos, sociedades anónimas o bancos de emisión legalmente autorizados.
 
 ART. 172.
-El que falsificare bonos emitidos por el Estado, cupones de intereses correspondientes a estos bonos, billetes de banco al portador, cuya emisión estuviere autorizada por una ley de la República, será castigado con las penas de presidio menor en su grado máximo a presidio mayor en su grado mínimo y multa de mil a tres mil pesos.
+El que falsificare bonos emitidos por el Estado, cupones de intereses correspondientes a estos bonos, billetes de banco al portador, cuya emisión estuviere autorizada por una ley de la República, será castigado con las penas de presidio menor en su grado máximo a presidio mayor en su grado mínimo y multa veintiuno a veinticinco sueldos vitales.
 
 ART. 173.
-El que falsificare obligaciones al portador de la deuda pública de un país extranjero, cupones de intereses correspondientes a estos títulos o billetes de banco al portador, cuya emisión estuviere autorizada por una ley de ese país extranjero, sufrirá las penas de presidio menor en su grado medio y multa de ciento a quinientos pesos.
+El que falsificare obligaciones al portador de la deuda pública de un país extranjero, cupones de intereses correspondientes a estos títulos o billetes de banco al portador, cuya emisión estuviere autorizada por una ley de ese país extranjero, sufrirá las penas de presidio menor en su grado medio y multa de seis a diez sueldos vitales.
 
 ART. 174
-El que falsificare acciones o promesas de acciones de sociedades anónimas, obligaciones u otros títulos legalmente emitidos por las municipalidades o establecimientos públicos de cualquiera denominación, o cupones de intereses o de dividendos correspondientes a estos diversos títulos, será castigado con presidio menor en sus grados medio a máximo y multa de quinientos a mil pesos, si la emisión hubiere tenido lugar en Chile, y con presidio menor en su grado medio y multa de ciento a quinientos pesos, cuando hubiere tenido lugar en el extranjero.
+El que falsificare acciones o promesas de acciones de sociedades anónimas, obligaciones u otros títulos legalmente emitidos por las municipalidades o establecimientos públicos de cualquiera denominación, o cupones de intereses o de dividendos correspondientes a estos diversos títulos, será castigado con presidio menor en sus grados medio a máximo y multa de once a veinte sueldos vitales, si la emisión hubiere tenido lugar en Chile, y con presidio menor en su grado medio y multa de seis a diez sueldos vitales, cuando hubiere tenido lugar en el extranjero.
 
 ART. 175.
 La misma pena que correspondería al falsificador se impondrá al que de concierto con él tomare parte en la emisión o introducción a la República de los bonos, acciones, obligaciones, billetes o cupones falsificados.
 
 ART. 176.
-El que sin ser culpable de la participación a que se refiere el artículo anterior, se hubiere procurado a sabiendas y emitido esos bonos, acciones, obligaciones, billetes o cupones falsificados, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de ciento a mil pesos.
+El que sin ser culpable de la participación a que se refiere el artículo anterior, se hubiere procurado a sabiendas y emitido esos bonos, acciones, obligaciones, billetes o cupones falsificados, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de once a veinte sueldos vitales.
 
 ART. 177.
 La tentativa para la falsificación, emisión o introducción de tales títulos, se castigará con el mínimum, de las penas señaladas al delito consumado.
 
 ART. 178.
-El que habiendo adquirido de buena fe los títulos falsos de que trata este párrafo, los circulare después, constándole su falsedad, sufrirá la pena de reclusión menor en su grado mínimo o multa de sesenta a ciento ochenta escudos, si subiere de medio sueldo vital el valor del título circulado.
+El que habiendo adquirido de buena fe los títulos falsos de que trata este párrafo, los circulare después, constándole su falsedad, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a diez sueldos vitales, si subiere de medio sueldo vital el valor del título circulado.
 Cuando no exceda de esta suma, estimándose el acto mera falta, se penará como tal.
 
 ART. 179.
@@ -977,34 +975,34 @@ ART. 180.
 El que falsificare el sello del Estado o hiciere uso del sello falso, sufrirá la pena de presidio mayor en su grado medio.
 
 ART. 181.
-El que falsificare punzones, cuños o cuadrados destinados a la fabricación de moneda; punzones, matrices, clisés, planchas o cualesquiera otros objetos que sirvan para la fabricación de bonos, acciones, obligaciones, cupones de intereses o de dividendos, o billetes de banco cuya emisión haya sido autorizada por la ley; timbres, planchas o cualesquiera otros objetos destinados a la fabricación de papel sellado o estampillas, o el que hiciere uso de estos sellos o planchas falsos, será castigado con presidio mayor en sus grados mínimo a medio y multa de mil a cuatro mil pesos.
+El que falsificare punzones, cuños o cuadrados destinados a la fabricación de moneda; punzones, matrices, clisés, planchas o cualesquiera otros objetos que sirvan para la fabricación de bonos, acciones, obligaciones, cupones de intereses o de dividendos, o billetes de banco cuya emisión haya sido autorizada por la ley; timbres, planchas o cualesquiera otros objetos destinados a la fabricación de papel sellado o estampillas, o el que hiciere uso de estos sellos o planchas falsos, será castigado con presidio mayor en sus grados mínimo a medio y multa de veintiuno a treinta sueldos vitales.
 
 ART. 182.
-El que de concierto con los falsificadores tomare parte en la emisión del papel sellado o estampillas falsificados, sufrirá las penas de presidio mayor en su grado mínimo y multa de mil a tres mil pesos.
+El que de concierto con los falsificadores tomare parte en la emisión del papel sellado o estampillas falsificados, sufrirá las penas de presidio mayor en su grado mínimo y multa de veintiuno a veinticinco sueldos vitales.
 
 ART. 183.
-El que sin ser culpable de la participación a que se refiere el artículo anterior, se hubiere procurado a sabiendas papel sellado o estampillas falsos y los emitiere introdujere en la República, será castigado con presidio menor en sus grados mínimo a medio y multa de ciento a mil pesos.
-Las penas serán presidio menor en su grado mínimo multa de ciento a trescientos pesos, si habiéndose procurado a sabiendas papel sellado o estampillas falsos, se hubiere hecho uso de ellos.
+El que sin ser culpable de la participación a que se refiere el artículo anterior, se hubiere procurado a sabiendas papel sellado o estampillas falsos y los emitiere introdujere en la República, será castigado con presidio menor en sus grados mínimo a medio y multa de once a veinte sueldos vitales.
+Las penas serán presidio menor en su grado mínimo multa de seis a diez sueldos vitales, si habiéndose procurado a sabiendas papel sellado o estampillas falsos, se hubiere hecho uso de ellos.
 
 ART. 184.
 Cuando la falsificación fuere tan mal ejecutada que cualquiera pueda notarla y conocerla a la simple vista, los que la hubieren efectuado y los que expendieren o introdujeren el papel sellado o las estampillas así falsificados, se reputarán reos de engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
 
 ART. 185.
-El que falsificare boletas para el trasporte de personas o cosas, o para reuniones o espectáculos públicos, con el propósito de usarlas o de circularlas fraudulentamente, y el que a sabiendas de que son falsificadas las usare o circulare; el que falsificare el sello, timbre o marca de una autoridad cualquiera, de un establecimiento privado de banco, de industria o de comercio, o de un particular, o hiciere uso de los sellos, timbres o marcas falsos, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de ciento a mil pesos.
+El que falsificare boletas para el trasporte de personas o cosas, o para reuniones o espectáculos públicos, con el propósito de usarlas o de circularlas fraudulentamente, y el que a sabiendas de que son falsificadas las usare o circulare; el que falsificare el sello, timbre o marca de una autoridad cualquiera, de un establecimiento privado de banco, de industria o de comercio, o de un particular, o hiciere uso de los sellos, timbres o marcas falsos, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de once a veinte sueldos vitales.
 
 ART. 186.
-El que habiéndose procurado indebidamente los verdaderos sellos, timbres, punzones, matrices o marcas que tengan alguno de los destinos expresados en los arts. 180 y 181, hiciere de ellos una aplicación o uso perjudicial a los derechos e intereses del Estado, de una autoridad cualquiera o de un particular, será castigado con presidio menor en cualquiera de sus grados y multa de ciento a mil pesos.
+El que habiéndose procurado indebidamente los verdaderos sellos, timbres, punzones, matrices o marcas que tengan alguno de los destinos expresados en los arts. 180 y 181, hiciere de ellos una aplicación o uso perjudicial a los derechos e intereses del Estado, de una autoridad cualquiera o de un particular, será castigado con presidio menor en cualquiera de sus grados y multa de once a veinte sueldos vitales.
 
 ART. 187.
-El que falsificare los sellos, timbres, punzones, matrices o marcas, que tengan alguno de los destinos expresados en los arts. 180 y 181 y que pertenezcan a países extranjeros, o el que hiciere uso de dichos sellos, timbres, punzones, matrices o marcas falsos, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
+El que falsificare los sellos, timbres, punzones, matrices o marcas, que tengan alguno de los destinos expresados en los arts. 180 y 181 y que pertenezcan a países extranjeros, o el que hiciere uso de dichos sellos, timbres, punzones, matrices o marcas falsos, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de seis a diez sueldos vitales.
 
 ART. 188.
-Las penas serán presidio menor en sus grados mínimo a medio y multa de ciento a mil pesos, cuando habiéndose procurado indebidamente los verdaderos sellos, timbres, punzones, matrices o marcas, se hubiere hecho de ellos en Chile una aplicación o uso perjudicial a los derechos e intereses de esos países, de una autoridad cualquiera o de un particular.
+Las penas serán presidio menor en sus grados mínimo a medio y multa de once a veinte sueldos vitales, cuando habiéndose procurado indebidamente los verdaderos sellos, timbres, punzones, matrices o marcas, se hubiere hecho de ellos en Chile una aplicación o uso perjudicial a los derechos e intereses de esos países, de una autoridad cualquiera o de un particular.
 
-Artículo 189. El que hiciere desaparecer de estampillas de correos u otras adhesivas, o de boletas para el transporte de personas o cosas, la marca que indica que ya han servido, con el fin de utilizarlas, y el que, a sabiendas espendiere o usare estampillas o boletas de las cuales se ha hecho desaparecer dicha marca, siempre que en uno y otro caso el valor de tales estampillas o boletas exceda de medio sueldo vital, será castigado con reclusión menor en su grado mínimo o multa de sesenta a ciento ochenta escudos.
+Artículo 189. El que hiciere desaparecer de estampillas de correos u otras adhesivas, o de boletas para el transporte de personas o cosas, la marca que indica que ya han servido, con el fin de utilizarlas, y el que, a sabiendas espendiere o usare estampillas o boletas de las cuales se ha hecho desaparecer dicha marca, siempre que en uno y otro caso el valor de tales estampillas o boletas exceda de medio sueldo vital, será castigado con reclusión menor en su grado mínimo o multa de seis a diez sueldos vitales.
 
 ART. 190.
-El que hiciere poner sobre objetos fabricados el nombre de un fabricante que no sea autor de tales objetos, o la razón comercial de una fábrica que no sea la de la verdadera fabricación, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
+El que hiciere poner sobre objetos fabricados el nombre de un fabricante que no sea autor de tales objetos, o la razón comercial de una fábrica que no sea la de la verdadera fabricación, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de seis a diez sueldos vitales.
 Las mismas penas se aplicarán a todo mercader, comisionista o vendedor que a sabiendas hubiere puesto en venta o circulación objetos marcados con nombres supuestos o alterados.
 
 ART. 191.
@@ -1040,8 +1038,8 @@ El que maliciosamente hiciere uso del instrumento o parte falso, será castigado
 De la falsificación de instrumentos privados.
 
 ART. 197.
-El que, con perjuicio de tercero, cometiere en instrumento privado alguna de las falsedades designadas en el art. 193, sufrirá las penas de presidio menor en cualquiera de sus grados y multa de ciento a mil pesos, o sólo la primera de ellas según las circunstancias.
-Si tales falsedades se hubieren cometido en letras de cambio u otra clase de documentos mercantiles, se castigará a los culpables con presidio menor en su grado máximo y multa de quinientos a mil pesos, o sólo con la primera de estas penas atendidas las circunstancias.
+El que, con perjuicio de tercero, cometiere en instrumento privado alguna de las falsedades designadas en el art. 193, sufrirá las penas de presidio menor en cualquiera de sus grados y multa de once a quince sueldos vitales, o sólo la primera de ellas según las circunstancias.
+Si tales falsedades se hubieren cometido en letras de cambio u otra clase de documentos mercantiles, se castigará a los culpables con presidio menor en su grado máximo y multa de dieciséis a veinte sueldos vitales, o sólo con la primera de estas penas atendidas las circunstancias.
 
 ART. 198.
 El que maliciosamente hiciere uso de los instrumentos falsos a que se refiere el artículo anterior, será castigado como si fuera autor de la falsedad.
@@ -1053,21 +1051,21 @@ ART. 199.
 El empleado público que expidiere un pasaporte o porte de armas bajo nombre supuesto o lo diere en blanco, sufrirá las penas de reclusión menor en sus grados mínimo a medio e inhabilitación absoluta temporal para cargos y oficios públicos en los mismos grados.
 
 ART. 200.
-El que hiciere un pasaporte o porte de armas falso, será castigado con reclusión menor en su grado medio y multa de ciento a quinientos pesos.
+El que hiciere un pasaporte o porte de armas falso, será castigado con reclusión menor en su grado medio y multa de seis a diez sueldos vitales.
 Las mismas penas se impondrán al que en un pasaporte o porte de armas verdadero mudare el nombre de la persona a cuyo favor se halle expedido, o el de la autoridad que lo expidió, o que altere en él alguna otra circunstancia esencial.
 
 ART. 201.
-El que hiciere uso del pasaporte o porte de armas falso a que se refiere el artículo anterior, incurrirá en una multa de ciento a trescientos pesos.
+El que hiciere uso del pasaporte o porte de armas falso a que se refiere el artículo anterior, incurrirá en una multa de seis a diez sueldos vitales.
 La misma pena se impondrá al que hiciere uso de un pasaporte o porte de armas verdadero expedido a favor de otra persona.
 
 ART. 202.
-El facultativo que librare certificación falsa de enfermedad o lesión con el fin de eximir a una persona de algún servicio público, será castigado con reclusión menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
+El facultativo que librare certificación falsa de enfermedad o lesión con el fin de eximir a una persona de algún servicio público, será castigado con reclusión menor en sus grados mínimo a medio y multa de seis a diez sueldos vitales.
 
 ART. 203.
-El empleado público que librare certificación falsa de méritos o servicios, de buena conducta, de pobreza, o de otras circunstancias semejantes de recomendación, incurrirá en una multa de ciento a quinientos pesos.
+El empleado público que librare certificación falsa de méritos o servicios, de buena conducta, de pobreza, o de otras circunstancias semejantes de recomendación, incurrirá en una multa de seis a diez sueldos vitales.
 
 ART. 204.
-El que falsificare un documento de la clase designada en los dos artículos anteriores, será castigado con reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
+El que falsificare un documento de la clase designada en los dos artículos anteriores, será castigado con reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales.
 Esta disposición es aplicable al que maliciosamente usare, con el mismo fin, de los documentos falsos.
 
 ART. 205.
@@ -1078,23 +1076,23 @@ Si el certificado ha sido falsificado bajo el nombre de un particular, la pena s
 Del falso testimonio y del perjurio.
 
 ART. 206.
-El que en causa criminal diere falso testimonio a favor del reo, será castigado con la pena de presidio menor en su grado máximo y multa de quinientos a mil pesos, si la causa fuere por crimen; con presidio menor en su grado medio y multa de ciento a quinientos pesos, si fuere por simple delito, y con presidio menor en su grado mínimo y multa de ciento a trescientos pesos, cuando fuere por falta.
+El que en causa criminal diere falso testimonio a favor del reo, será castigado con la pena de presidio menor en su grado máximo y multa de dieciséis a veinte sueldos vitales, si la causa fuere por crimen; con presidio menor en su grado medio y multa de once a quince sueldos vitales, si fuere por simple delito, y con presidio menor en su grado mínimo y multa de seis a diez sueldos vitales, cuando fuere por falta.
 
 ART. 207.
-El que diere falso testimonio en contra del reo, sufrirá las penas de presidio mayor en su grado mínimo y multa de mil a tres mil pesos, si la causa fuere por crimen; de presidio menor en su grado máximo y multa de quinientos a mil pesos, si fuere por simple delito, y de presidio menor en su grado medio y multa de ciento a quinientos pesos e inhabilitación absoluta perpetua para derechos políticos y por el tiempo de la condena para cargos y oficios públicos, cuando fuere por falta.
+El que diere falso testimonio en contra del reo, sufrirá las penas de presidio mayor en su grado mínimo y multa de veintiuno a veinticinco sueldos vitales, si la causa fuere por crimen; de presidio menor en su grado máximo y multa de once a veinte sueldos vitales, si fuere por simple delito, y de presidio menor en su grado medio y multa de seis a diez sueldos vitales e inhabilitación absoluta perpetua para derechos políticos y por el tiempo de la condena para cargos y oficios públicos, cuando fuere por falta.
 
 ART. 208.
 Si en virtud del falso testimonio se hubiere impuesto al acusado una pena respectivamente mayor que las determinadas en el artículo precedente, se aplicará la misma al testigo falso; salvo el caso de ser la de muerte, que se reemplazará por el presidio perpetuo.
 
 ART. 209.
-El falso testimonio en causa civil, será castigado con presidio menor en su grado medio y multa de sesenta a seiscientos escudos.
-Si el valor de la demanda no excediere de cuatro sueldos vitales, las penas serán presidio menor en su grado mínimo y multa de sesenta a ciento ochenta escudos.
+El falso testimonio en causa civil, será castigado con presidio menor en su grado medio y multa de once a veinte sueldos vitales.
+Si el valor de la demanda no excediere de cuatro sueldos vitales, las penas serán presidio menor en su grado mínimo y multa de seis a diez sueldos vitales.
 
 ART. 210.
-El que ante la autoridad o sus agentes perjurare o diere falso testimonio en materia que no sea contenciosa, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
+El que ante la autoridad o sus agentes perjurare o diere falso testimonio en materia que no sea contenciosa, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de seis a diez sueldos vitales.
 
 ART. 211.
-La acusación o denuncia que hubiere sido declarada calumniosa por sentencia ejecutoriada, será castigada con presidio menor en su grado máximo y multa de quinientos a mil pesos, cuando versare sobre un crimen; con presidio menor en su grado medio y multa de ciento a quinientos pesos, si fuere sobre simple delito, y con presidio menor en su grado mínimo y multa de ciento a trescientos pesos, si se tratare de una falta.
+La acusación o denuncia que hubiere sido declarada calumniosa por sentencia ejecutoriada, será castigada con presidio menor en su grado máximo y multa de dieciséis a veinte sueldos vitales, cuando versare sobre un crimen; con presidio menor en su grado medio y multa de once a quince sueldos vitales, si fuere sobre simple delito, y con presidio menor en su grado mínimo y multa de seis a diez sueldos vitales, si se tratare de una falta.
 
 ART. 212.
 El que a sabiendas presentare en juicio criminal o civil testigos o documentos falsos, será castigado como reo de falso testimonio.
@@ -1102,7 +1100,7 @@ El que a sabiendas presentare en juicio criminal o civil testigos o documentos f
 #### § VIII.
 Del ejercicio ilegal de una profesión y de la usurpación de funciones o nombres.
 
-Artículo 213° El que se fingiere autoridad, funcionario público o titular de una profesión que, por disposición de la ley, requiera título o el cumplimiento de determinados requisitos, y ejerciere actos propios de dichos cargos profesiones, será penado con presidio menor en sus grados mínimo a medio y multa de uno a cinco sueldos vitales.
+Artículo 213° El que se fingiere autoridad, funcionario público o titular de una profesión que, por disposición de la ley, requiera título o el cumplimiento de determinados requisitos, y ejerciere actos propios de dichos cargos profesiones, será penado con presidio menor en sus grados mínimo a medio y multa de seis a veinte sueldos vitales.
 El mero fingimiento de esos cargos o profesiones será sancionado como tentativa del delito que establece el inciso anterior.
 
 Artículo 214° El que usurpare el nombre de otro será castigado con presidio menor en su grado mínimo, sin perjuicio de la pena que pudiere corresponderle a consecuencia del daño que en su fama o intereses ocasionare a la persona cuyo nombre ha usurpado.
@@ -1117,22 +1115,22 @@ DE LOS CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEM
 Anticipación y prolongación indebida de funciones públicas.
 
 ART. 216.
-El que hubiere entrado a desempeñar un empleo o cargo público sin haber prestado en debida forma el juramento o fianza, o llenado las demás formalidades exigidas por la ley, quedará suspenso del empleo o cargo hasta que cumpla con aquellos requisitos, incurriendo además en una multa de ciento a quinientos pesos.
+El que hubiere entrado a desempeñar un empleo o cargo público sin haber prestado en debida forma el juramento o fianza, o llenado las demás formalidades exigidas por la ley, quedará suspenso del empleo o cargo hasta que cumpla con aquellos requisitos, incurriendo además en una multa de seis a diez sueldos vitales.
 
 ART. 217.
-El empleado público que continuare desempeñando su empleo, cargo o comisión después de que debiere cesar conforme a las leyes, reglamentos o disposiciones especiales de su ramo respectivo, será castigado con las penas de inhabilitación especial temporal para el cargo u oficio en su grado mínimo y multa de ciento a trescientos pesos.
+El empleado público que continuare desempeñando su empleo, cargo o comisión después de que debiere cesar conforme a las leyes, reglamentos o disposiciones especiales de su ramo respectivo, será castigado con las penas de inhabilitación especial temporal para el cargo u oficio en su grado mínimo y multa de seis a diez sueldos vitales.
 
 ART. 218.
 El empleado culpable de cualquiera de los delitos penados en los dos artículos anteriores, que hubiere percibido emolumentos por razón de su cargo o comisión, será además obligado a restituirlos con la multa de diez al quince por ciento de su importe.
 
 ART. 219.
-El empleado público que legalmente requerido de inhibición, continuare procediendo antes que se decida la contienda, será castigado con multa de ciento a quinientos pesos.
+El empleado público que legalmente requerido de inhibición, continuare procediendo antes que se decida la contienda, será castigado con multa de seis a diez sueldos vitales.
 
 #### § II.
 Nombramientos ilegales.
 
 ART. 220.
-El empleado público que a sabiendas nombrare o propusiere para cargo público a persona en quien no concurran los requisitos legales, sufrirá las penas de suspensión del empleo en su grado mínimo y multa de ciento a quinientos pesos.
+El empleado público que a sabiendas nombrare o propusiere para cargo público a persona en quien no concurran los requisitos legales, sufrirá las penas de suspensión del empleo en su grado mínimo y multa de seis a diez sueldos vitales.
 
 #### § III.
 Usurpación de atribuciones.
@@ -1164,7 +1162,7 @@ Sufrirán las penas de inhabilitación absoluta temporal para cargos y oficios p
 7° Cuando con manifiesta implicancia, que les sea conocida y sin haberla hecho saber previamente a las partes, fallaren en causa criminal o civil.
 
 ART. 225.
-Incurrirán en las penas de suspensión de cargo o empleo en cualquiera de sus grados y multa de ciento a mil pesos o sólo en esta última, cuando por negligencia o ignorancia inexcusables:
+Incurrirán en las penas de suspensión de cargo o empleo en cualquiera de sus grados y multa de once a veinte sueldos vitales o solo en esta última, cuando por negligencia o ignorancia inexcusables:
 1.° Dictaren sentencia manifiestamente injusta en causa civil.
 2° Contravinieren a las leyes que reglan la sustanciación de los juicios en términos de producir nulidad en todo o en parte sustancial.
 3º Negaren o retardaren la administración de justicia y el auxilio o protección que legalmente se les pida.
@@ -1182,20 +1180,20 @@ Se aplicarán respectivamente las penas determinadas en los artículos precedent
 3.° A los compromisarios, peritos y otras personas que, ejerciendo atribuciones análogas, derivadas de la ley, del tribunal o del nombramiento de las partes, se hallaren en idénticos casos.
 
 ART. 228.
-El que, desempeñando un empleo público no perteneciente al orden judicial, dictare a sabiendas providencia o resolución manifiestamente injusta en negocio contencioso-administrativo o meramente administrativo, incurrirá en las penas de suspensión del empleo en su grado medio y multa de ciento a quinientos pesos.
-Si la resolución o providencia manifiestamente injusta la diere por negligencia o ignorancia inexcusables, las penas serán suspensión en su grado mínimo y multa de ciento a trescientos pesos.
+El que, desempeñando un empleo público no perteneciente al orden judicial, dictare a sabiendas providencia o resolución manifiestamente injusta en negocio contencioso-administrativo o meramente administrativo, incurrirá en las penas de suspensión del empleo en su grado medio y multa de once a quince sueldos vitales.
+Si la resolución o providencia manifiestamente injusta la diere por negligencia o ignorancia inexcusables, las penas serán suspensión en su grado mínimo y multa de seis a diez sueldos vitales.
 
 ART. 229.
-Sufrirán las penas de suspensión de empleo en su grado medio y multa de ciento a quinientos pesos los funcionarios a que se refiere el artículo anterior, que, por malicia o negligencia inexcusables y faltando a las obligaciones de su oficio, no procedieren a la persecución o aprehensión de los delincuentes después de requerimiento o denuncia formal hecha por escrito.
+Sufrirán las penas de suspensión de empleo en su grado medio y multa de seis a diez sueldos vitales los funcionarios a que se refiere el artículo anterior, que, por malicia o negligencia inexcusables y faltando a las obligaciones de su oficio, no procedieren a la persecución o aprehensión de los delincuentes después de requerimiento o denuncia formal hecha por escrito.
 
 ART. 230.
-Si no tuviere renta el funcionario que debe ser penado con suspensión o inhabilitación para cargos o empleos públicos, se le aplicará además de estas penas la de reclusión menor en cualquiera de sus grados o multa de ciento a mil pesos, según los casos.
+Si no tuviere renta el funcionario que debe ser penado con suspensión o inhabilitación para cargos o empleos públicos, se le aplicará además de estas penas la de reclusión menor en cualquiera de sus grados o multa de once a veinte sueldos vitales, según los casos.
 
 ART. 231.
-El abogado o procurador que con abuso malicioso de su oficio, perjudicare a su cliente o descubriere sus secretos, será castigado según la gravedad del perjuicio que causare, con la pena de suspensión en su grado mínimo a inhabilitación especial perpetua para el cargo o profesión y multa de ciento a mil pesos.
+El abogado o procurador que con abuso malicioso de su oficio, perjudicare a su cliente o descubriere sus secretos, será castigado según la gravedad del perjuicio que causare, con la pena de suspensión en su grado mínimo a inhabilitación especial perpetua para el cargo o profesión y multa de once a veinte sueldos vitales.
 
 Art. 232.
-El abogado que, teniendo la defensa actual de un pleito, patrocinare a la vez a la parte contraria en el mismo negocio, sufrirá las penas de inhabilitación especial perpetua para el ejercicio de la profesión y multa de ciento a mil pesos.
+El abogado que, teniendo la defensa actual de un pleito, patrocinare a la vez a la parte contraria en el mismo negocio, sufrirá las penas de inhabilitación especial perpetua para el ejercicio de la profesión y multa de once a veinte sueldos vitales.
 
 #### § V.
 Malversación de caudales públicos.
@@ -1246,15 +1244,15 @@ Infidelidad en la custodia de documentos.
 
 ART. 242.
 El eclesiástico o empleado público que sustraiga o destruya documentos o papeles que le estuvieren confiados por razón de su cargo, será castigado:
-1.° Con las penas de reclusión menor en su grado máximo y multa de mil a tres mil pesos, siempre que del hecho resulte grave daño de la causa pública o de tercero.
-2.° Con reclusión menor en sus grados mínimo a medio y multa de ciento a mil pesos, cuando no concurrieren las circunstancias expresadas en el número anterior.
+1.° Con las penas de reclusión menor en su grado máximo y multa de veintiuno a veinticinco sueldos vitales, siempre que del hecho resulte grave daño de la causa pública o de tercero.
+2.° Con reclusión menor en sus grados mínimo a medio y multa de once a veinte sueldos vitales, cuando no concurrieren las circunstancias expresadas en el número anterior.
 
 ART. 243.
-El empleado público que, teniendo a su cargo la custodia de papeles o efectos sellados por la autoridad, quebrantare los sellos o consintiere en su quebrantamiento, sufrirá las penas de reclusión menor en su grados mínimo a medio y multa de ciento a quinientos pesos.
-El guardián que por su negligencia diere lugar al delito, será castigado con reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
+El empleado público que, teniendo a su cargo la custodia de papeles o efectos sellados por la autoridad, quebrantare los sellos o consintiere en su quebrantamiento, sufrirá las penas de reclusión menor en su grados mínimo a medio y multa de once a quince sueldos vitales.
+El guardián que por su negligencia diere lugar al delito, será castigado con reclusión menor en su grado mínimo o multa de seis a diez sueldos vitales.
 
 ART. 244.
-El empleado público que abriere o consintiere que se abran, sin la autorización competente, papeles o documentos cerrados cuya custodia le estuviere confiada, incurrirá en las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
+El empleado público que abriere o consintiere que se abran, sin la autorización competente, papeles o documentos cerrados cuya custodia le estuviere confiada, incurrirá en las penas de reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales.
 
 ART. 245.
 Las penas designadas en los tres artículos anteriores son aplicables a los particulares encargados accidentalmente del despacho o custodia de documentos o papeles, por comisión del Gobierno o de los funcionarios a quienes hubieren sido confiados aquéllos en razón de su oficio, y que dieren el encargo ejerciendo sus atribuciones.
@@ -1263,11 +1261,11 @@ Las penas designadas en los tres artículos anteriores son aplicables a los part
 Violación de secretos.
 
 ART. 246.
-El empleado público que revelare los secretos de que tenga conocimiento por razón de su oficio o entregare indebidamente papeles o copia de papeles que tenga a su cargo y no deban ser publicados, incurrirá en las penas de suspensión del empleo en sus grados mínimo a medio o multa de ciento a quinientos pesos, o bien en ambas conjuntamente.
-Si de la revelación o entrega resultare grave daño para la causa pública, las penas serán reclusión mayor en cualquiera de sus grados y multa de mil a cinco mil pesos.
+El empleado público que revelare los secretos de que tenga conocimiento por razón de su oficio o entregare indebidamente papeles o copia de papeles que tenga a su cargo y no deban ser publicados, incurrirá en las penas de suspensión del empleo en sus grados mínimo a medio o multa de seis a veinte sueldos vitales, o bien en ambas conjuntamente.
+Si de la revelación o entrega resultare grave daño para la causa pública, las penas serán reclusión mayor en cualquiera de sus grados y multa de veintiuno a treinta sueldos vitales.
 
 ART. 247.
-El empleado público que, sabiendo por razón de su cargo los secretos de un particular, los descubriere con perjuicio de éste, incurrirá en las penas de reclusión menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
+El empleado público que, sabiendo por razón de su cargo los secretos de un particular, los descubriere con perjuicio de éste, incurrirá en las penas de reclusión menor en sus grados mínimo a medio y multa de seis a diez sueldos vitales.
 Las mismas penas se aplicarán a los que, ejerciendo alguna de las profesiones que requieren título, revelen los secretos que por razón de ella se les hubieren confiado.
 
 #### § IX.
@@ -1293,18 +1291,18 @@ Resistencia y desobediencia.
 ART. 252.
 El empleado público que se negare abiertamente a obedecer las órdenes de sus superiores en asuntos del servicio, será penado con inhabilitación especial perpetua para el cargo u oficio.
 En la misma pena incurrirá cuando habiendo suspendido con cualquier motivo la ejecución de órdenes de sus superiores, las desobedeciere después que éstos hubieren desaprobado la suspensión.
-En uno y otro caso, si el empleado no fuere retribuido, la pena será reclusión menor en cualquiera de sus grados o multa de ciento a mil pesos.
+En uno y otro caso, si el empleado no fuere retribuido, la pena será reclusión menor en cualquiera de sus grados o multa de once a veinte sueldos vitales.
 
 #### § XI.
 Denegación de auxilio y abandono de destino.
 
 ART. 253.
-El empleado público del orden civil o militar que requerido por autoridad competente, no prestare, en el ejercicio de su ministerio, la debida cooperación para la administración de justicia u otro servicio público, será penado con suspensión del empleo en sus grados mínimo a medio y multa de ciento a quinientos pesos.
-Si de su omisión resultare grave daño a la causa pública o a un tercero, las penas serán inhabilitación especial perpetua para el cargo u oficio y multa de ciento a mil pesos.
+El empleado público del orden civil o militar que requerido por autoridad competente, no prestare, en el ejercicio de su ministerio, la debida cooperación para la administración de justicia u otro servicio público, será penado con suspensión del empleo en sus grados mínimo a medio y multa de seis a diez sueldos vitales.
+Si de su omisión resultare grave daño a la causa pública o a un tercero, las penas serán inhabilitación especial perpetua para el cargo u oficio y multa de once a veinte sueldos vitales.
 
 ART. 254.
-El empleado que sin renunciar su destino lo abandonare, sufrirá la pena de suspensión en su grado mínimo a inhabilitación especial temporal para el cargo u oficio en su grado medio y multa de ciento a quinientos pesos.
-Si renunciado el destino y antes de trascurrir un plazo prudencial en que haya podido ser reemplazado por el superior respectivo, lo abandonare con daño de la causa pública, las penas serán multa de ciento a quinientos pesos e inhabilitación especial temporal para el cargo u oficio en su grado medio.
+El empleado que sin renunciar su destino lo abandonare, sufrirá la pena de suspensión en su grado mínimo a inhabilitación especial temporal para el cargo u oficio en su grado medio y multa de seis a diez sueldos vitales.
+Si renunciado el destino y antes de trascurrir un plazo prudencial en que haya podido ser reemplazado por el superior respectivo, lo abandonare con daño de la causa pública, las penas serán multa de seis a diez sueldos vitales e inhabilitación especial temporal para el cargo u oficio en su grado medio.
 Las penas establecidas en los dos incisos anteriores se aplicarán respectivamente al que abandonare un cargo concejil sin alegar excusa legítima, y al que después de haber alegado tal excusa, pero antes de trascurrir un plazo prudencial en que haya podido ser reemplazado, hace el abandono ocasionando daño a la causa pública.
 Las disposiciones de este artículo han de entenderse sin perjuicio de lo establecido en el 135.
 
@@ -1312,14 +1310,14 @@ Las disposiciones de este artículo han de entenderse sin perjuicio de lo establ
 Abusos contra particulares.
 
 ART. 255.
-El empleado público que, desempeñando un acto del servicio, cometiere cualquier vejación injusta contra las personas o usare de apremios ilegítimos o innecesarios para el desempeño del servicio respectivo, será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de ciento a mil pesos.
+El empleado público que, desempeñando un acto del servicio, cometiere cualquier vejación injusta contra las personas o usare de apremios ilegítimos o innecesarios para el desempeño del servicio respectivo, será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de once a veinte sueldos vitales.
 
 ART. 256.
 En iguales penas incurrirá todo empleado público del orden administrativo que maliciosamente retardare o negare a los particulares la protección o servicio que deba dispensarles en conformidad a las leyes y reglamentos.
 
 ART. 257.
-El empleado público que arbitrariamente rehusare dar certificación o testimonio, o impidiere la presentación o el curso de una solicitud, será penado con multa de ciento a quinientos pesos.
-Si el testimonio, certificación o solicitud versaren sobre un abuso cometido por el mismo empleado, la multa será de ciento a mil pesos.
+El empleado público que arbitrariamente rehusare dar certificación o testimonio, o impidiere la presentación o el curso de una solicitud, será penado con multa de seis a diez sueldos vitales.
+Si el testimonio, certificación o solicitud versaren sobre un abuso cometido por el mismo empleado, la multa será de once a veinte sueldos vitales.
 
 ART. 258.
 El empleado público que solicitare a mujer que tenga pretensiones pendientes de su resolución, será castigado con la pena de inhabilitación especial temporal para el cargo u oficio en su grado medio.
@@ -1346,16 +1344,16 @@ Cometen atentado contra la autoridad:
 2.° Los que acometen o resisten con violencia, emplean fuerza o intimidación contra la autoridad pública o sus agentes, cuando aquélla o éstos ejercieron funciones de su cargo.
 
 ART. 262.
-Los atentados a que se refiere el artículo anterior serán castigados con la pena de reclusión menor en su grado medio o multa de ciento a quinientos pesos, siempre que concurra alguna de las circunstancias siguientes:
+Los atentados a que se refiere el artículo anterior serán castigados con la pena de reclusión menor en su grado medio o multa de once a quince sueldos vitales, siempre que concurra alguna de las circunstancias siguientes:
 1° Si la agresión se verifica a mano armada.
 2° Si los delincuentes pusieren manos en la autoridad o en las personas que acudieren a su auxilio.
 3° Si por consecuencia de la coacción la autoridad hubiere accedido a las exigencias de los delincuentes.
-Sin estas circunstancias la pena será reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
+Sin estas circunstancias la pena será reclusión menor en su grado mínimo o multa de seis a diez sueldos vitales.
 Para determinar si la agresión se verifica a mano armada se estará a lo dispuesto en el art. 132.
 
 ART. 263.
-El que de hecho o de palabra injuriare gravemente al Presidente de la República, o a alguno de los cuerpos colegisladores o a las comisiones de éstos, sea en los actos públicos en que los representan, sea en el desempeño de sus atribuciones particulares, o a los tribunales superiores de justicia, será castigado con reclusión menor en sus grados medio a máximo y multa de ciento a mil pesos.
-Cuando las injurias fueren leves, las penas serán reclusión menor en su grado mínimo y multa de ciento a quinientos pesos, o simplemente esta última.
+El que de hecho o de palabra injuriare gravemente al Presidente de la República, o a alguno de los cuerpos colegisladores o a las comisiones de éstos, sea en los actos públicos en que los representan, sea en el desempeño de sus atribuciones particulares, o a los tribunales superiores de justicia, será castigado con reclusión menor en sus grados medio a máximo y multa de once a veinte sueldos vitales.
+Cuando las injurias fueren leves, las penas serán reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales, o simplemente esta última.
 
 ART. 264.
 Cometen desacato contra la autoridad:
@@ -1369,17 +1367,17 @@ Cuarto.- A un superior suyo con ocasión de sus funciones.
 En todos estos casos la provocación a duelo, aunque sea privada o embozada, se reputará amenaza grave para los efectos del presente artículo.
 
 ART. 265.
-Si el desacato consiste en perturbar el orden, o la injuria o amenaza, de que habla el artículo precedente, fuere grave, el delincuente sufrirá las penas de reclusión menor en cualquiera de sus grados y multa de ciento a mil pesos. Cuando fuere leve, las penas serán reclusión menor en su grado mínimo y multa de ciento a trescientos pesos, o simplemente esta última.
+Si el desacato consiste en perturbar el orden, o la injuria o amenaza, de que habla el artículo precedente, fuere grave, el delincuente sufrirá las penas de reclusión menor en cualquiera de sus grados y multa de seis a diez sueldos vitales. Cuando fuere leve, las penas serán reclusión menor en su grado mínimo y multa de ciento a trescientos pesos, o simplemente esta última.
 
 ART. 266.
 Para todos los efectos de las disposiciones penales respecto de los que cometen atentado o desacato contra la autoridad o funcionarios públicos, se entiende que ejercen aquélla constantemente los ministros de Estado y las autoridades de funciones permanentes o llamadas a ejercerlas en todo caso y circunstancias.
 Entiéndese también ofendida la autoridad en ejercicio de sus funciones cuando tuviere lugar el atentado o desacato con ocasión de ellas o por razón de su cargo.
 
 ART. 267.
-El que con violencia o fraude impidiere ejercer sus funciones a un miembro del Congreso, de los tribunales superiores de justicia o del Consejo de Estado, sufrirá las penas de reclusión menor en su grado mínimo y multa de ciento a mil pesos.
+El que con violencia o fraude impidiere ejercer sus funciones a un miembro del Congreso, de los tribunales superiores de justicia o del Consejo de Estado, sufrirá las penas de reclusión menor en su grado mínimo y multa de once a veinte sueldos vitales.
 
 ART. 268.
-El que ocasionare, tumulto o excitare al desorden en el despacho de una autoridad o corporación pública hasta el punto de impedir o interrumpir sus actos, será castigado con reclusión menor en cualquiera de sus grados y multa de ciento a mil pesos.
+El que ocasionare, tumulto o excitare al desorden en el despacho de una autoridad o corporación pública hasta el punto de impedir o interrumpir sus actos, será castigado con reclusión menor en cualquiera de sus grados y multa de once a veinte sueldos vitales.
 
 #### § II.
 Desórdenes públicos.
@@ -1391,26 +1389,26 @@ Los que turbaren gravemente la tranquilidad pública para causar injuria u otro 
 De la rotura de sellos.
 
 ART. 270.
-Los que hubieren roto intencionalmente los sellos puestos por orden de la autoridad pública, serán castigados con reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
-Las penas serán reclusión menor en su grado medio y multa de ciento a quinientos pesos cuando los sellos rotos estaban colocados sobre papeles o efectos de un individuo acusado o condenado por crimen.
+Los que hubieren roto intencionalmente los sellos puestos por orden de la autoridad pública, serán castigados con reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales.
+Las penas serán reclusión menor en su grado medio y multa de seis a quince sueldos vitales cuando los sellos rotos estaban colocados sobre papeles o efectos de un individuo acusado o condenado por crimen.
 
 ART. 271.
-Si la rotura de los sellos ha sido ejecutada con violencia contra las personas, el culpable sufrirá las penas de reclusión menor en su grado máximo y multa de quinientos a mil pesos.
+Si la rotura de los sellos ha sido ejecutada con violencia contra las personas, el culpable sufrirá las penas de reclusión menor en su grado máximo y multa de once a veinte sueldos vitales.
 
 #### § IV.
 De los embarazos puestos a la ejecución de los trabajos públicos.
 
 ART. 272.
-El que por vías de hecho se hubiere opuesto, sin motivo justificado, a la ejecución de trabajos públicos ordenados o permitidos por autoridad competente, será castigado con reclusión menor en su grado mínimo o multa de ciento a mil pesos.
+El que por vías de hecho se hubiere opuesto, sin motivo justificado, a la ejecución de trabajos públicos ordenados o permitidos por autoridad competente, será castigado con reclusión menor en su grado mínimo o multa de once a veinte sueldos vitales.
 
 #### § V.
 Crímenes y simples delitos de los proveedores.
 
 ART. 273.
-Las personas encargadas de provisiones, empresas o administraciones por cuenta del ejército o de la armada, o sus agentes que voluntariamente hubieren faltado a sus compromisos embarazando el servicio que tuvieren a su cargo con daño grave e inevitable de la causa pública, sufrirán las penas de reclusión mayor en su grado mínimo y multa de mil a cinco mil pesos.
+Las personas encargadas de provisiones, empresas o administraciones por cuenta del ejército o de la armada, o sus agentes que voluntariamente hubieren faltado a sus compromisos embarazando el servicio que tuvieren a su cargo con daño grave e inevitable de la causa pública, sufrirán las penas de reclusión mayor en su grado mínimo y multa de veintiuno a treinta sueldos vitales.
 
 ART. 274.
-Si ha habido fraude en la naturaleza, calidad o cantidad de los objetos o mano de obra, o de las cosas suministradas, con daño grave e inevitable de la causa pública, los culpables sufrirán las penas de presidio mayor en cualquiera de sus grados y multa de mil a cinco mil pesos.
+Si ha habido fraude en la naturaleza, calidad o cantidad de los objetos o mano de obra, o de las cosas suministradas, con daño grave e inevitable de la causa pública, los culpables sufrirán las penas de presidio mayor en cualquiera de sus grados y multa de veintiuno a treinta sueldos vitales.
 
 #### § VI.
 De las infracciones de las leyes y reglamentos referentes a loterías, casas de juego y de préstamo sobre prendas.
@@ -1419,24 +1417,24 @@ ART. 275.
 Es lotería toda operación ofrecida al público y destinada a procurar ganancia por medio de la suerte.
 
 ART. 276.
-Los autores, empresarios, administradores, comisionados o agentes de loterías no autorizadas legalmente, incurrirán en la multa de ciento a mil pesos y perderán los objetos muebles puestos en lotería.
-Si los objetos puestos en lotería fueren inmuebles, la pena será multa de mil a cinco mil pesos.
+Los autores, empresarios, administradores, comisionados o agentes de loterías no autorizadas legalmente, incurrirán en la multa de once a veinte sueldos vitales y perderán los objetos muebles puestos en lotería.
+Si los objetos puestos en lotería fueren inmuebles, la pena será multa de veintiuno a treinta sueldos vitales.
 En caso de reincidencia se les aplicará además la reclusión menor en su grado mínimo.
 
 ART. 277.
-Los banqueros, dueños, administradores o agentes de casas de juego de suerte, envite o azar, serán castigados con reclusión menor en cualquiera de sus grados y multa de ciento a mil pesos.
+Los banqueros, dueños, administradores o agentes de casas de juego de suerte, envite o azar, serán castigados con reclusión menor en cualquiera de sus grados y multa de once a veinte sueldos vitales.
 
 ART. 278.
-Los que concurrieren a jugar a las casas referidas, sufrirán la pena de reclusión menor en su grado mínimo o multa de ciento a mil pesos.
+Los que concurrieren a jugar a las casas referidas, sufrirán la pena de reclusión menor en su grado mínimo o multa de once a veinte sueldos vitales.
 
 ART. 279.
 El dinero o efectos puestos en juego y los instrumentos, objetos y útiles destinados a él caerán siempre en comiso.
 
 ART. 280.
-El que sin autorización legal estableciere casas de préstamo sobre prendas, sueldos o salarios, sufrirá las penas de reclusión menor en su grado mínimo, multa de ciento a mil pesos, y comiso de las cantidades prestadas, hasta la suma de cinco mil pesos.
+El que sin autorización legal estableciere casas de préstamo sobre prendas, sueldos o salarios, sufrirá las penas de reclusión menor en su grado mínimo, multa de once a veinte sueldos vitales, y comiso de las cantidades prestadas, hasta la suma de veintiuno a treinta sueldos vitales.
 
 ART. 281.
-Los que habiendo obtenido autorización no llevaren libros con la debida formalidad, asentando en ellos, sin claros ni entre renglones, las cantidades prestadas, los plazos e intereses, los nombres y domicilio de los que las reciban, la naturaleza, calidad y valor de los objetos dados en prenda y las demás circunstancias que exijan los reglamentos que deberá dictar el Presidente de la República, incurrirán en las penas de multa de ciento a quinientos pesos y comiso de las cantidades prestadas, hasta quinientos pesos.
+Los que habiendo obtenido autorización no llevaren libros con la debida formalidad, asentando en ellos, sin claros ni entre renglones, las cantidades prestadas, los plazos e intereses, los nombres y domicilio de los que las reciban, la naturaleza, calidad y valor de los objetos dados en prenda y las demás circunstancias que exijan los reglamentos que deberá dictar el Presidente de la República, incurrirán en las penas de multa de seis a diez sueldos vitales y comiso de las cantidades prestadas, hasta diez sueldos vitales.
 Las mismas penas se impondrán a los que no hagan la enajenación de las prendas con arreglo a las leyes y reglamentos.
 
 ART. 282.
@@ -1449,10 +1447,10 @@ El prestamista que hiciere préstamos de la clase indicada en los artículos pre
 Crímenes y simples delitos relativos a la industria, al comercio y a las subastas públicas.
 
 ART. 284.
-El que fraudulentamente hubiere comunicado secretos de la fábrica en que ha estado o está empleado, sufrirá la pena de reclusión menor en sus grados mínimo a medio o multa de ciento a mil pesos.
+El que fraudulentamente hubiere comunicado secretos de la fábrica en que ha estado o está empleado, sufrirá la pena de reclusión menor en sus grados mínimo a medio o multa de once a veinte sueldos vitales.
 
 ART. 285.
-Los que por medios fraudulentos consiguieren alterar el precio natural del trabajo, de los géneros o mercaderías, acciones, rentas públicas o privadas o de cualesquiera otras cosas que fueren objetos de contratación, sufrirán las penas de reclusión menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
+Los que por medios fraudulentos consiguieren alterar el precio natural del trabajo, de los géneros o mercaderías, acciones, rentas públicas o privadas o de cualesquiera otras cosas que fueren objetos de contratación, sufrirán las penas de reclusión menor en sus grados mínimo a medio y multa de seis a diez sueldos vitales.
 
 ART. 286.
 Cuando el fraude expresado en el artículo anterior recayere sobre mantenimientos u otros objetos de primera necesidad, además de las penas que en él se señalan, se impondrá la de comiso de los géneros que fueren objeto del fraude.
@@ -1464,18 +1462,19 @@ Los que emplearen amenaza o cualquier otro medio fraudulento para alejar a los p
 De las infracciones de las leyes y reglamentos relativos a las armas prohibidas.
 
 ART. 288.
+El que fabricare, vendiere o distribuyere armas absolutamente prohibidas por la ley o por los reglamentos
 NOTA
-El que fabricare, vendiere o distribuyere armas absolutamente prohibidas por la ley o por los reglamentos generales que dicte el Presidente de la República, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a quinientos pesos.
+generales que dicte el Presidente de la República, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a diez sueldos vitales.
 NOTA
 El artículo 24 de la ley 17798, publicada el 21.10.1972, deroga parcialmente este artículo, sólo en cuanto se refiere a armas de fuego, explosivos y demás elementos contemplados en la referida ley.
 
 #### § IX.
 Delitos relativos a la salud animal y vegetal.
 
-Artículo 289° El que de propósito y sin permiso de la autoridad competente propagare una enfermedad animal o una plaga vegetal, será penado con presidio menor en su grado medio o multa de tres a diez sueldos vitales.
-Si la propagación se produjere por negligencia inexcusable del tenedor o encargado de las especies animales o vegetales afectadas por la enfermedad o plaga o del funcionario a cargo del respectivo control sanitario, la pena será de presidio menor en su grado mínimo o multa de uno a cinco sueldos vitales.
+Artículo 289° El que de propósito y sin permiso de la autoridad competente propagare una enfermedad animal o una plaga vegetal, será penado con presidio menor en su grado medio o multa de seis a veinte sueldos vitales.
+Si la propagación se produjere por negligencia inexcusable del tenedor o encargado de las especies animales o vegetales afectadas por la enfermedad o plaga o del funcionario a cargo del respectivo control sanitario, la pena será de presidio menor en su grado mínimo o multa de seis a diez sueldos vitales.
 
-Artículo 290° Los que, a sabiendas, infringieren las instrucciones de la autoridad competente destinadas a impedir la propagación de una enfermedad animal o de una plaga vegetal, serán penados con presidio menor en su grado mínimo o multa de tres a diez sueldos vitales.
+Artículo 290° Los que, a sabiendas, infringieren las instrucciones de la autoridad competente destinadas a impedir la propagación de una enfermedad animal o de una plaga vegetal, serán penados con presidio menor en su grado mínimo o multa de seis a veinte sueldos vitales.
 
 ART. 291.
 Si con motivo de la infracción de lo dispuesto en el precedente artículo, ha resultado la propagación del contagio, se impondrá a los culpables la pena de reclusión menor en su grado mínimo o multa de quinientos a mil pesos.
@@ -1553,7 +1552,7 @@ Iguales penas se impondrán al vago que intentare penetrar en casa, habitación 
 
 ART. 308.
 En cualquier tiempo que el vago a quien se hubieren impuesto las penas de reclusión menor en su grado mínimo y de sujeción a la vigilancia de la autoridad, diere fianza de buena conducta y aplicación al trabajo, será relevado del cumplimiento de su condena.
-La cuantía de la fianza la fijará el tribunal en la sentencia, no pudiendo bajar de cien pesos ni exceder de quinientos.
+La cuantía de la fianza la fijará el tribunal en la sentencia, no pudiendo bajar de un cuarto de sueldo vital ni exceder de medio sueldo vital.
 Esta fianza durará dos años. El fiador tendrá derecho a pedir en cualquier tiempo su liberación, con tal que presente la persona del vago para que cumpla o extinga su condena.
 
 ART. 309.
@@ -1575,7 +1574,7 @@ Crímenes y Simples Delitos contra la Salud Pública.
 ART. 313.
 El que, sin hallarse competentemente autorizado, elaborare sustancias o productos nocivos a la salud o traficare en ellos, estando prohibidos su fabricación o tráfico, será castigado con reclusión menor en su grado medio y multa de ciento a quinientos pesos.
 
-Artículo 313° a El que, careciendo de título profesional competente o de la autorización legalmente exigible para el ejercicio profesional, ejerciere actos propios de la respectiva profesión de médico-cirujano, dentista, químico-farmacéutico, bioquímico u otra de características análogas, relativa a la ciencia y arte de precaver y curar las enfermedades del cuerpo humano, aunque sea a título gratuito, será penado con presidio menor en su grado medio y multa de uno a cinco sueldos vitales.
+Artículo 313° a. El que, careciendo de título profesional competente o de la autorización legalmente exigible para el ejercicio profesional, ejerciere actos propios de la respectiva profesión de médico-cirujano, dentista, químico-farmacéutico, bioquímico u otra de características análogas, relativa a la ciencia y arte de precaver y curar las enfermedades del cuerpo humano, aunque sea a título gratuito, será penado con presidio menor en su grado medio y multa de seis a veinte sueldos vitales.
 Para estos efectos se entenderá que ejercen actos propios de dichas profesiones:
 1.- El que se atribuya la respectiva calidad;
 2.- El que ofrezca tales servicios públicamente por cualquier medio de propaganda o publicidad;
@@ -1583,28 +1582,29 @@ Para estos efectos se entenderá que ejercen actos propios de dichas profesiones
 Las disposiciones de este artículo no se aplicarán en ningún caso a quienes prestaren auxilios cuando no fuere posible obtener oportuna atención profesional.
 En las mismas penas incurrirá el que prestare su nombre para amparar el ejercicio profesional de un tercero no autorizado para el mismo.
 
-Artículo 313° b El que, estando legalmente habilitado para el ejercicio de una profesión médica o auxiliar de ella ofreciere abusando de la credulidad del público, la prevención o curación de enfermedades o defectos por fórmulas ocultas o sistemas infalibles, será penado con presidio menor en sus grados mínimo a medio y multa de uno a cinco sueldos vitales.
+Artículo 313° b. El que, estando legalmente habilitado para el ejercicio de una profesión médica o auxiliar de ella ofreciere abusando de la credulidad del público, la prevención o curación de enfermedades o defectos por fórmulas ocultas o sistemas infalibles, será penado con presidio menor en sus grados mínimo
+a medio y multa de seis a veinte sueldos vitales.
 
 Artículo 313° c Las penas señaladas en los artículos precedentes se impondrán sin perjuicio de las que correspondieren por la muerte, lesiones u otras consecuencias punibles que eventualmente resultaren de la comisión de tales delitos.
 
-Artículo 313° d El que fabricare o a sabiendas expendiere a cualquier título sustancias medicinales deterioradas o adulteradas en su especie, cantidad, calidad o proporciones, de modo que sean peligrosas para la salud por su nocividad o por el menoscabo de sus propiedades curativas, será penado con presidio menor en sus grados medio a máximo y multa de cinco a cincuenta sueldos vitales.
+Artículo 313° d. El que fabricare o a sabiendas expendiere a cualquier título sustancias medicinales deterioradas o adulteradas en su especie, cantidad, calidad o proporciones, de modo que sean peligrosas para la salud por su nocividad o por el menoscabo de sus propiedades curativas, será penado con presidio menor en sus grados medio a máximo y multa de seis a cincuenta sueldos vitales.
 Si la fabricación o expendio fueren clandestinos, ello se considerará como circunstancia de agravante.
 
-Artículo 314° El que, a cualquier título, expendiere otras sustancias peligrosas para la salud, distintas de las señaladas en el artículo anterior, contraviniendo las disposiciones legales o reglamentarias establecidas en consideración a la peligrosidad de dichas sustancias, será penado con presidio menor en sus grados mínimo a medio y multa de cinco a veinte sueldos vitales.
+Artículo 314° El que, a cualquier título, expendiere otras sustancias peligrosas para la salud, distintas de las señaladas en el artículo anterior, contraviniendo las disposiciones legales o reglamentarias establecidas en consideración a la peligrosidad de dichas sustancias, será penado con presidio menor en sus grados mínimo a medio y multa de seis a veinte sueldos vitales.
 
-Artículo 315° El que envenenare o infectare comestibles, aguas u otras bebidas destinadas al consumo DO público, en términos de poder provocar la muerte o grave daño para la salud, y el que a sabiendas los vendiere o distribuyere, serán penados con presidio mayor en su grado mínimo y multa de cinco a cincuenta sueldos vitales.
-El que efectuare otras adulteraciones en dichas sustancias destinadas al consumo público, de modo que sean peligrosas para la salud por su nocividad o por el menoscabo apreciable de sus propiedades alimenticias, y el que a sabiendas las vendiere o distribuyere, serán penados con presidio menor en su grado máximo y multa de cinco a cincuenta sueldos vitales.
+Artículo 315° El que envenenare o infectare comestibles, aguas u otras bebidas destinadas al consumo público, en términos de poder provocar la muerte o grave daño para la salud, y el que a sabiendas los vendiere o distribuyere, serán penados con presidio mayor en su grado mínimo y multa de veintiuno a cincuenta sueldos vitales.
+El que efectuare otras adulteraciones en dichas sustancias destinadas al consumo público, de modo que sean peligrosas para la salud por su nocividad o por el menoscabo apreciable de sus propiedades alimenticias, y el que a sabiendas las vendiere o distribuyere, serán penados con presidio menor en su grado máximo y multa de seis a cincuenta sueldos vitales.
 Para los efectos de este artículo, se presumirá que la situación de vender o distribuir establecida en los incisos precedentes se configura por el hecho de tener a la venta en un lugar público los artículos alimenticios a que éstos se refieren. La clandestinidad en la venta o distribución y la publicidad de alguno de estos productos constituirán circunstancias agravantes.
 Se presume que son destinados al consumo público los comestibles, aguas u otras bebidas elaborados para ser ingeridos por un grupo de personas indeterminadas.
 Los delitos previstos en los incisos anteriores y los correspondientes cuasidelitos a que se refiere el inciso 2° del artículo 317°, sólo podrán perseguirse criminalmente previa denuncia o querella del Ministerio Público o del Director General del Servicio Nacional de Salud o de su delegado, siempre que aquellos no hayan causado la muerte o grave daño para la salud de alguna persona. En los demás, los correspondientes procesos criminales quedarán sometidos a las normas de de las causas que se siguen de oficio.
 No será aplicable al Ministerio Público ni a los funcionarios del Servicio Nacional de Salud respecto de estos delitos, lo dispuesto en los N.os 1 y 3 del artículo 84, respectivamente, del Código de Procedimiento Penal.
 
-Artículo 316° El que diseminare gérmenes patógenos con el propósito de producir una enfermedad, será penado con presidio mayor en su grado mínimo y multa de tres a diez sueldos vitales.
+Artículo 316° El que diseminare gérmenes patógenos con el propósito de producir una enfermedad, será penado con presidio mayor en su grado mínimo y multa de veintiuno a treinta sueldos vitales.
 
 Artículo 317° Si a consecuencia de cualquiera de los delitos señalados en los cuatro artículos precedentes, se produjere la muerte o enfermedad grave de alguna persona, las penas corporales se elevarán en uno o dos grados, según la naturaleza y número de tales consecuencias, y la multa podrá elevarse hasta el doble del máximo señalado en cada caso.
-Si alguno de tales hechos punibles se cometiere por imprudencia temeraria o por mera negligencia con infracción de los reglamentos respectivos, las penas serán de presidio menor en su grado mínimo o multa de uno a diez sueldos vitales.
+Si alguno de tales hechos punibles se cometiere por imprudencia temeraria o por mera negligencia con infracción de los reglamentos respectivos, las penas serán de presidio menor en su grado mínimo o multa de seis a veinte sueldos vitales.
 
-Artículo 318° El que pusiere en peligro la salud pública por infracción de las reglas higiénicas o de salubridad, debidamente publicadas por la autoridad, en tiempo de catástrofe, epidemia o contagio, será penado con presidio menor en su grado mínimo o multa de uno a cinco sueldos vitales.
+Artículo 318° El que pusiere en peligro la salud pública por infracción de las reglas higiénicas o de salubridad, debidamente publicadas por la autoridad, en tiempo de catástrofe, epidemia o contagio, será penado con presidio menor en su grado mínimo o multa de seis a veinte sueldos vitales.
 
 ART. 319 a). Derogado.
 
@@ -1624,13 +1624,13 @@ ART. 319 g). Derogado.
 De la infracción de las leyes o reglamentos sobre inhumaciones y exhumaciones.
 
 ART. 320.
-El que practicare o hiciere practicar una inhumación contraviniendo a lo dispuesto por las leyes o reglamentos respecto al tiempo, sitio y demás formalidades prescritas para las inhumaciones, incurrirá en las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
+El que practicare o hiciere practicar una inhumación contraviniendo a lo dispuesto por las leyes o reglamentos respecto al tiempo, sitio y demás formalidades prescritas para las inhumaciones, incurrirá en las penas de reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales.
 
 ART. 321.
-El que violare los sepulcros o sepulturas practicando cualquier acto que tienda directamente a faltar al respeto debido a la memoria de los muertos, será condenado a reclusión menor en su grado medio y multa de ciento a quinientos pesos.
+El que violare los sepulcros o sepulturas practicando cualquier acto que tienda directamente a faltar al respeto debido a la memoria de los muertos, será condenado a reclusión menor en su grado medio y multa de seis a diez sueldos vitales.
 
 ART. 322.
-El que exhumare o trasladare los restos humanos con infracción de los reglamentos y demás disposiciones de sanidad, sufrirá las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
+El que exhumare o trasladare los restos humanos con infracción de los reglamentos y demás disposiciones de sanidad, sufrirá las penas de reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales.
 
 #### § XVI.
 Crímenes y simples delitos relativos a los ferrocarriles, telégrafos y conductores de correspondencia.
@@ -1651,17 +1651,17 @@ ART. 327.
 El autor de los hechos que hubieren producido el accidente no sólo es obligado a reparar los daños que la empresa del ferrocarril experimentare, sino también los que sufran los particulares que se encontraban en el tren o que trasportaban por él objetos muebles o semovientes.
 
 ART. 328.
-La amenaza hecha de palabra o por escrito, de cometer alguno de los delitos previstos en el art. 323, será castigada con reclusión menor en su grado mínimo o con multa de ciento a mil pesos.
+La amenaza hecha de palabra o por escrito, de cometer alguno de los delitos previstos en el art. 323, será castigada con reclusión menor en su grado mínimo o con multa de once a veinte sueldos vitales.
 
 ART. 329.
-El que por ignorancia culpable, imprudencia o descuido, o por inobservancia de los reglamentos del camino, que deba conocer, causare involuntariamente accidentes que ocasionen lesión o daño a alguna persona, sufrirá las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
+El que por ignorancia culpable, imprudencia o descuido, o por inobservancia de los reglamentos del camino, que deba conocer, causare involuntariamente accidentes que ocasionen lesión o daño a alguna persona, sufrirá las penas de reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales.
 Cuando el accidente ocasionare la muerte a una persona, la pena será reclusión menor en cualquiera de sus grados.
 Las disposiciones de este artículo son también aplicables a los empresarios, directores o empleados de la línea.
 
 Art. 330.
-El maquinista, conductor o guarda-frenos que abandonare su puesto o se embriagare durante su servicio, será castigado con presidio menor en su grado mínimo y multa de ciento a trescientos pesos.
-Si a consecuencia del abandono del puesto o de la embriaguez ocurrieren accidentes que causaren lesiones a alguna persona, las penas serán presidio menor en su grado medio y multa de ciento a quinientos pesos.
-Cuando de tales accidentes resultare la muerte de algún individuo, se impondrán al culpable las penas de presidio menor en su grado máximo y multa de quinientos a mil pesos.
+El maquinista, conductor o guarda-frenos que abandonare su puesto o se embriagare durante su servicio, será castigado con presidio menor en su grado mínimo y multa de seis a diez sueldos vitales.
+Si a consecuencia del abandono del puesto o de la embriaguez ocurrieren accidentes que causaren lesiones a alguna persona, las penas serán presidio menor en su grado medio y multa de once a quince sueldos vitales.
+Cuando de tales accidentes resultare la muerte de algún individuo, se impondrán al culpable las penas de presidio menor en su grado máximo y multa de dieciséis a veinte sueldos vitales.
 
 ART. 331.
 En el caso de abandono intencional por causar daño a alguna de las personas que iban en los trenes, se aplicarán al maquinista, conductor o guarda-frenos, según los casos y aumentadas en un grado, las penas que señalan los arts. 323, 324, 325 y 326; pero en el caso de este último artículo la pena podrá elevarse hasta la de muerte.
@@ -1670,19 +1670,19 @@ ART. 332.
 Las penas que establecen los tres artículos precedentes se aplicarán respectivamente a cualquier otro empleado en el servicio del camino que teniendo un cargo que desempeñar, lo abandonare o ejerciere mal con peligro de la seguridad del tráfico.
 
 ART. 333.
-El que por imprudencia rompiere los postes o alambres de una línea telegráfica establecida o en construcción, o ejecutare actos que interrumpan el servicio de los telégrafos, será penado con multa de ciento a trescientos pesos.
+El que por imprudencia rompiere los postes o alambres de una línea telegráfica establecida o en construcción, o ejecutare actos que interrumpan el servicio de los telégrafos, será penado con multa de seis a diez sueldos vitales.
 
 ART. 334.
-El que intencionalmente interrumpiere la comunicación telegráfica o causare daño a una línea en construcción rompiendo los alambres o postes, inutilizando los aparatos de trasmisión o por cualquier otro medio, sufrirá las penas de presidio menor en su grado mínimo y multa de ciento a quinientos pesos.
+El que intencionalmente interrumpiere la comunicación telegráfica o causare daño a una línea en construcción rompiendo los alambres o postes, inutilizando los aparatos de trasmisión o por cualquier otro medio, sufrirá las penas de presidio menor en su grado mínimo y multa de seis a diez sueldos vitales.
 
 ART. 335.
-Los que en casos de motín, insurrección, guerra exterior u otra calamidad pública, rompieren los alambres o postes, destruyeren las máquinas o aparatos telegráficos, se apoderaren con violencia o amenazas de las oficinas, o empleando los mismos medios impidieren de cualquier modo la correspondencia telegráfica entre los depositarios de la autoridad pública, o se opusieren con fuerza o violencia al restablecimiento de una línea telegráfica, serán castigados con presidio menor en cualquiera de sus grados y multa de ciento a mil pesos.
+Los que en casos de motín, insurrección, guerra exterior u otra calamidad pública, rompieren los alambres o postes, destruyeren las máquinas o aparatos telegráficos, se apoderaren con violencia o amenazas de las oficinas, o empleando los mismos medios impidieren de cualquier modo la correspondencia telegráfica entre los depositarios de la autoridad pública, o se opusieren con fuerza o violencia al restablecimiento de una línea telegráfica, serán castigados con presidio menor en cualquiera de sus grados y multa de once a veinte sueldos vitales.
 
 ART. 336.
 Los autores del daño estarán siempre obligados a indemnizar los costos que demanden las reparaciones o el restablecimiento de las líneas deterioradas o destruidas.
 
 ART. 337.
-El empleado de una oficina telegráfica que divulgare el contenido de un mensaje sin autorización expresa de la persona que lo dirige o a quien es dirigido, incurrirá en una multa de ciento a trescientos pesos y deberá indemnizar los perjuicios provenientes de la divulgación.
+El empleado de una oficina telegráfica que divulgare el contenido de un mensaje sin autorización expresa de la persona que lo dirige o a quien es dirigido, incurrirá en una multa de seis a diez sueldos vitales y deberá indemnizar los perjuicios provenientes de la divulgación.
 Las mismas penas se impondrán al empleado que, por descuido culpable, no trasmitiere fielmente un mensaje telegráfico y, si en la trasmisión infiel hubiere mala fe, se estará a lo dispuesto en el art. 195.
 
 ART. 338.
@@ -1695,7 +1695,7 @@ En el momento de motín o asonada es prohibido a toda oficina telegráfica:
 2° Dar aviso de la marcha que siguen los sucesos y tumultos, si no es a la autoridad o con asentimiento de ésta.
 3.° Instruir del movimiento de tropas o de las medidas tomadas para combatir la insurrección o desorden.
 4.º Comunicar toda noticia cuyo objeto sea frustrar las providencias tomadas para restablecer la tranquilidad interior.
-La infracción de cualquiera de estas prohibiciones sujeta al infractor a las penas de reclusión menor en su grado medio y multa de ciento a quinientos pesos; sin perjuicio de ser castigado como instigador o como cómplice del motín o asonada, siempre que los hechos dieren mérito para considerarlo tal.
+La infracción de cualquiera de estas prohibiciones sujeta al infractor a las penas de reclusión menor en su grado medio y multa de seis a diez sueldos vitales; sin perjuicio de ser castigado como instigador o como cómplice del motín o asonada, siempre que los hechos dieren mérito para considerarlo tal.
 
 ART. 340.
 Cuando en una oficina telegráfica so reincidiere en las infracciones de que habla el artículo precedente, podrá la autoridad superior inmediata prohibir el uso del telégrafo o someterlo a su dirección o inspección mientras duren las circunstancias extraordinarias de motín, sedición, etc.
@@ -1755,20 +1755,20 @@ El que abandonare a su cónyuge o a un ascendiente o descendiente, legítimo o i
 Crímenes y simples delitos contra el estado civil de las personas.
 
 ART. 353.
-La suposición de parto y la sustitución de un niño por otro, serán castigadas con las penas de presidio menor en cualquiera de sus grados y multa de mil a dos mil pesos.
+La suposición de parto y la sustitución de un niño por otro, serán castigadas con las penas de presidio menor en cualquiera de sus grados y multa de veintiuno a veinticinco sueldos vitales.
 
 ART. 354.
-El que usurpare el estado civil de otro, sufrirá la pena de presidio menor en sus grados medio a máximo y multa de ciento a mil pesos.
+El que usurpare el estado civil de otro, sufrirá la pena de presidio menor en sus grados medio a máximo y multa de once a veinte sueldos vitales.
 Las mismas penas se impondrán al que sustrajere, ocultare o expusiere a un hijo legítimo o ilegítimo con ánimo verdadero o presunto de hacerle perder su estado civil.
 
 ART. 355.
 El que hallándose encargado de la persona de un menor no lo presentare, reclamándolo sus padres, guardadores o la autoridad, a petición de sus demás parientes o de oficio, ni diere explicaciones satisfactorias acerca de su desaparición, sufrirá la pena de presidio menor en su grado medio.
 
 ART. 356.
-El que teniendo a su cargo la crianza o educación de un menor de diez años, lo entregare a un establecimiento público o a otra persona, sin la anuencia de la que se lo hubiere confiado o de la autoridad en su defecto, y de ello resultare perjuicio gravo, será castigado con reclusión menor en su grado medio y multa de ciento a quinientos pesos.
+El que teniendo a su cargo la crianza o educación de un menor de diez años, lo entregare a un establecimiento público o a otra persona, sin la anuencia de la que se lo hubiere confiado o de la autoridad en su defecto, y de ello resultare perjuicio gravo, será castigado con reclusión menor en su grado medio y multa de seis a diez sueldos vitales.
 
 ART. 357.
-El que indujere a un menor de edad, pero mayor de diez años, a que abandone la casa de sus padres, guardadores o encargados de su persona, sufrirá las penas de reclusión menor en cualquiera de sus grados y multa de ciento a mil pesos.
+El que indujere a un menor de edad, pero mayor de diez años, a que abandone la casa de sus padres, guardadores o encargados de su persona, sufrirá las penas de reclusión menor en cualquiera de sus grados y multa de once a veinte sueldos vitales.
 
 #### § IV.
 Del rapto.
@@ -1816,7 +1816,7 @@ ART. 366.
 El que abusare deshonestamente de persona de uno u otro sexo mayor de doce años y menor de veinte, será castigado con presidio menor en cualquiera de sus grados. Si concurriere alguna de las circunstancias expresadas en el art. 361, se estimará como agravante del delito, aun cuando sea mayor de veinte años la persona de quien se abusa.
 
 ART. 367.
-El que, habitualmente o con abuso de autoridad o confianza, promoviere o facilitare la prostitución o corrupción de menores de edad para satisfacer los deseos de otro, sufrirá las penas de presidio mayor en cualquiera de sus grados y multa de ciento a cinco mil pesos.
+El que, habitualmente o con abuso de autoridad o confianza, promoviere o facilitare la prostitución o corrupción de menores de edad para satisfacer los deseos de otro, sufrirá las penas de presidio mayor en cualquiera de sus grados y multa de veintiuna a treinta unidades tributarias mensuales.
 
 #### § VII.
 Disposiciones comunes a los tres párrafos anteriores.
@@ -1849,7 +1849,7 @@ ART. 373.
 Los que de cualquier modo ofendieren el pudor o las buenas costumbres con hechos de grave escándalo o trascendencia, no comprendidos expresamente en otros artículos de este Código, sufrirán la pena de reclusión menor en sus grados mínimo a medio.
 
 ART. 374.
-El que vendiere, distribuyere o exhibiere canciones, folletos u otros escritos, impresos o no, figuras o estampas contrarios a las buenas costumbres, será condenado a las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
+El que vendiere, distribuyere o exhibiere canciones, folletos u otros escritos, impresos o no, figuras o estampas contrarios a las buenas costumbres, será condenado a las penas de reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales.
 En las mismas penas incurrirá el autor del manuscrito, de la figura o de la estampa o el que los hubiere reproducido por un procedimiento cualquiera que no sea la imprenta.
 
 #### § IX.
@@ -1889,7 +1889,7 @@ En igual pena incurrirá el que contrajere matrimonio estando ordenado in sacris
 
 ART. 383.
 El que engañare a una persona simulando la celebración de matrimonio con ella y el que lo contrajere a sabiendas de que tiene un impedimento dirimente no dispensable según la ley, sufrirá la pena de reclusión menor en sus grados medio a máximo.
-Si el impedimento fuere dispensable, incurrirá en una multa de ciento a mil pesos.
+Si el impedimento fuere dispensable, incurrirá en una multa de once a veinte sueldos vitales.
 Cuando por culpa suya no se revalidare el matrimonio, previa dispensa, en el término que el tribunal designe, será castigado con reclusión menor en su grado medio, de la cual quedará relevado cuando se revalide el matrimonio.
 
 ART. 384.
@@ -1901,15 +1901,15 @@ El menor que de acuerdo con el funcionario llamado a legalizar su matrimonio, lo
 Esta pena sólo podrá imponerse a requisición de las personas llamadas a prestar el consentimiento, quienes podrán remitirla en todo caso. Deberá entenderse esto último si no entablaren la acusación dentro de dos meses, después de haber tenido conocimiento del matrimonio.
 
 ART. 386.
-La viuda que se case antes de los doscientos setenta días desde la muerte de su marido, o antes de su alumbramiento, si hubiere quedado en cinta, incurrirá en las penas de reclusión menor en su grado mínimo y multa de ciento a mil pesos.
+La viuda que se case antes de los doscientos setenta días desde la muerte de su marido, o antes de su alumbramiento, si hubiere quedado en cinta, incurrirá en las penas de reclusión menor en su grado mínimo y multa de once a veinte sueldos vitales.
 En las mismas penas incurrirá la mujer cuyo matrimonio se hubiere declarado nulo, si se casare antes de su alumbramiento habiendo quedado en cinta, o antes de los doscientos setenta días, contados desde la fecha de su separación legal.
 En los casos de este artículo deberá aplicarse lo que dispone el 128 del Código Civil en su inc. 2.°
 
 ART. 387.
-El guardador que, en contravención a lo que dispone el Código Civil, antes de la aprobación legal de sus cuentas, contrajere matrimonio o prestare su consentimiento para que lo contraigan sus hijos o descendientes con la persona que tuviere o hubiere tenido en guarda, será castigado con reclusión menor en su grado medio y multa de ciento a mil pesos.
+El guardador que, en contravención a lo que dispone el Código Civil, antes de la aprobación legal de sus cuentas, contrajere matrimonio o prestare su consentimiento para que lo contraigan sus hijos o descendientes con la persona que tuviere o hubiere tenido en guarda, será castigado con reclusión menor en su grado medio y multa de once a veinte sueldos vitales.
 
 ART. 388.
-El funcionario eclesiástico o civil que autorice matrimonio prohibido por la ley o en que no se hayan llenado las formalidades que ella exige para su celebración, sufrirá las penas de relegación menor en su grado medio y multa de ciento a quinientos pesos.
+El funcionario eclesiástico o civil que autorice matrimonio prohibido por la ley o en que no se hayan llenado las formalidades que ella exige para su celebración, sufrirá las penas de relegación menor en su grado medio y multa de seis a diez sueldos vitales.
 
 ART. 389.
 En los casos de este párrafo será obligado el contrayente doloso a dotar, según su posibilidad, a la mujer que hubiere procedido de buena fe, si el matrimonio no llegare a celebrarse válidamente.
@@ -1965,7 +1965,7 @@ ART. 398.
 Las penas del artículo anterior son aplicables respectivamente al que causare a otro alguna lesión grave, ya sea administrándole a sabiendas sustancias o bebidas nocivas o abusando de su credulidad o flaqueza de espíritu.
 
 ART. 399.
-Las lesiones no comprendidas en los artículos precedentes se reputan menos graves, y serán penadas con relegación o presidio menores en sus grados mínimos o con multa de ciento a mil pesos.
+Las lesiones no comprendidas en los artículos precedentes se reputan menos graves, y serán penadas con relegación o presidio menores en sus grados mínimos o con multa de once a veinte sueldos vitales.
 
 ART. 400.
 Si los hechos a que se refieren los anteriores artículos de este párrafo se ejecutaren contra alguna de las personas que menciona el 390, o con cualquiera de las circunstancias segunda, tercera y cuarta del núm. 1.º del 391 las penas se aumentarán en un grado.
@@ -1994,7 +1994,7 @@ ART. 406.
 El que matare en duelo a su adversario sufrirá la pena de reclusión mayor en su grado mínimo.
 Si le causare las lesiones señaladas en el núm. 1.° del art. 397, será castigado con reclusión menor en su grado máximo.
 Cuando las lesiones fueren de las relacionadas en el núm. 2.° de dicho art. 397, la pena será reclusión menor en sus grados mínimo a medio.
-En los demás casos se impondrá a los combatientes reclusión menor en su grado mínimo o multa de quinientos a mil pesos.
+En los demás casos se impondrá a los combatientes reclusión menor en su grado mínimo o multa de once a veinte sueldos vitales.
 
 ART. 407.
 El que incitare a otro a provocar o aceptar un duelo, será castigado respectivamente con las penas señaladas en el artículo anterior, si el duelo se lleva a efecto.
@@ -2029,13 +2029,14 @@ Es calumnia la imputación de un delito determinado pero falso y que pueda actua
 
 ART. 413.
 La calumnia propagada por escrito y con publicidad será castigada:
-1.° Con las penas de reclusión menor en su grado medio y multa de quinientos a mil pesos, cuando se imputare un crimen.
-2.° Con las de reclusión menor en su grado mínimo y multa de ciento a quinientos pesos, si se imputare un simple delito.
+1.° Con las penas de reclusión menor en su grado medio y multa de once a veinte sueldos vitales, cuando se imputare
+un crimen.
+2.° Con las de reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales, si se imputare un simple delito.
 
 ART. 414.
 No propagándose la calumnia con publicidad y por escrito, será castigada:
-1° Con las penas de reclusión menor en su grado mínimo y multa de ciento a quinientos pesos, cuando se imputare un crimen.
-2.° Con las de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos, si se imputare un simple delito.
+1° Con las penas de reclusión menor en su grado mínimo y multa de seis a quince sueldos vitales, cuando se imputare un crimen.
+2.° Con las de reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales, si se imputare un simple delito.
 
 ART. 415.
 El acusado de calumnia quedará exento de toda pena probando el hecho criminal que hubiere imputado.
@@ -2056,11 +2057,11 @@ Son injurias graves:
 5.° Las que racionalmente merezcan la calificación de graves atendido el estado, dignidad y circunstancias del ofendido y del ofensor.
 
 ART. 418.
-Las injurias graves hechas por escrito y con publicidad, serán castigadas con las penas de reclusión menor en sus grados mínimo a medio y multa de quinientos a mil pesos.
-No concurriendo aquellas circunstancias, las penas serán reclusión menor en su grado mínimo y multa de ciento a quinientos pesos.
+Las injurias graves hechas por escrito y con publicidad, serán castigadas con las penas de reclusión menor en sus grados mínimo a medio y multa de once a veinte sueldos vitales.
+No concurriendo aquellas circunstancias, las penas serán reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales.
 
 Art. 419.
-Las injurias leves se castigarán con las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos, cuando fueren hechas por escrito y con publicidad. No concurriendo estas circunstancias se penarán como faltas.
+Las injurias leves se castigarán con las penas de reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales, cuando fueren hechas por escrito y con publicidad. No concurriendo estas circunstancias se penarán como faltas.
 
 ART. 420.
 Al acusado de injuria no se admitirá prueba sobre la verdad de las imputaciones, sino cuando éstas fueren dirigidas contra empleados públicos sobre hechos concernientes al ejercicio de su cargo.
@@ -2246,27 +2247,27 @@ En estos delitos no podrá estimarse que concurre la circunstancia atenuante del
 De la usurpación.
 
 ART. 457.
-Al que con violencia en las personas ocupare una cosa inmueble o usurpare un derecho real que otro poseyere o tuviere legítimamente, y al que, hecha la ocupación en ausencia del legítimo poseedor o tenedor, vuelto éste le repeliere, además de las penas en que incurra por la violencia que causare, se le aplicará una multa de ciento a mil pesos.
-Si tales actos se ejecutaren por el dueño o poseedor regular contra el que posee o tiene ilegítimamente la cosa, aunque con derecho aparente, la pena será multa de ciento a quinientos pesos, sin perjuicio de las que correspondieren por la violencia causada.
+Al que con violencia en las personas ocupare una cosa inmueble o usurpare un derecho real que otro poseyere o tuviere legítimamente, y al que, hecha la ocupación en ausencia del legítimo poseedor o tenedor, vuelto éste le repeliere, además de las penas en que incurra por la violencia que causare, se le aplicará una multa de once a veinte sueldos vitales.
+Si tales actos se ejecutaren por el dueño o poseedor regular contra el que posee o tiene ilegítimamente la cosa, aunque con derecho aparente, la pena será multa de seis a diez sueldos vitales, sin perjuicio de las que correspondieren por la violencia causada.
 
 ART. 458.
-Cuando, en los casos del inciso primero del artículo anterior, el hecho se llevare a efecto sin violencia en las personas, la pena será multa de ciento a quinientos pesos.
+Cuando, en los casos del inciso primero del artículo anterior, el hecho se llevare a efecto sin violencia en las personas, la pena será multa de seis a diez sueldos vitales.
 
 ART. 459.
-Sufrirán las penas de presidio menor en su grado mínimo y multa de ciento a mil pesos, los que sin título legítimo e invadiendo derechos ajenos:
+Sufrirán las penas de presidio menor en su grado mínimo y multa de once a veinte sueldos vitales, los que sin título legítimo e invadiendo derechos ajenos:
 1.° Sacaren aguas de represas, estanques u otros depósitos; de ríos, arroyos o fuentes; de canales o acueductos, y se las apropiaren para hacer de ellas un uso cualquiera.
 2.° Rompieren o alteraren con igual fin diques, esclusas, compuertas, marcos u otras obras semejantes existentes en los ríos, arroyos, fuentes, depósitos, canales o acueductos.
 3.° Pusieren embarazo al ejercicio de los derechos que un tercero tuviere sobre dichas aguas.
 4.° Usurparen un derecho cualquiera referente al curso de ellas o turbaren a alguno en su legítima posesión.
 
 ART. 460.
-Cuando los simples delitos a que se refiere el artículo anterior se ejecutaren con violencia en las personas, si el culpable no mereciere mayor pena por la violencia que causare, sufrirá la de presidio menor en sus grados mínimo a medio y multa de ciento a mil pesos.
+Cuando los simples delitos a que se refiere el artículo anterior se ejecutaren con violencia en las personas, si el culpable no mereciere mayor pena por la violencia que causare, sufrirá la de presidio menor en sus grados mínimo a medio y multa de once a veinte sueldos vitales.
 
 ART. 461.
 Serán castigados como reos de usurpación de aguas con las penas del art. 459, los que teniendo derecho para sacarlas o usarlas se hubieren servido fraudulentamente, con tal fin, de orificios, conductos, marcos, compuertas o esclusas de una forma diversa a la establecida o de una capacidad superior a la medida a que tienen derecho.
 
 ART. 462.
-El que destruyere o alterare términos o límites de propiedades públicas o particulares con ánimo de lucrarse, será penado con presidio menor en su grado mínimo y multa de ciento a mil pesos.
+El que destruyere o alterare términos o límites de propiedades públicas o particulares con ánimo de lucrarse, será penado con presidio menor en su grado mínimo y multa de once a veinte sueldos vitales.
 
 #### § VII.
 De las defraudaciones.
@@ -2320,11 +2321,11 @@ En cuanto a la prueba del depósito en el caso a que se refiere el art. 2.217 de
 7.° A los que en el juego se valieren de fraude para asegurar la suerte.
 
 ART. 471.
-Será castigado con presidio o relegación menores en sus grados mínimos o multa de ciento a mil pesos:
+Será castigado con presidio o relegación menores en sus grados mínimos o multa de once a veinte sueldos vitales:
 1.º El dueño de una cosa mueble que la sustrajere de quien la tenga legítimamente en su poder, con perjuicio de éste o de un tercero.
 2.° El que otorgare en perjuicio de otro un contrato simulado.
 3.° DEROGADO.
-Los ejemplares, máquinas u objetos contrahechos, introducidos o expendidos fraudulentamente, se aplicarán al perjudicado y también las láminas o utensilios empleados en la ejecución del fraude, cuando sólo pudieren usarse para cometerlo.
+Los ejemplares, máquinas u objetos contrahechos, introducidos o expendidos fraudulentamente, se aplicarán al perjudicado y también las láminas o utensilios empleados en la ejecución del fraude, cuando solo pudieren usarse para cometerlo.
 
 ART. 472.
 El que suministre valores, de cualquiera manera que sea, a un interés que exceda del máximo que la ley permita estipular, será castigado con presidio o reclusión menores en cualquiera de sus grados.
@@ -2333,7 +2334,7 @@ En ambos casos la expulsión se hará después de cumplida la pena.
 En la sustanciación y fallo de los procesos instruidos para la investigación de estos delitos, los Tribunales apreciarán la prueba en conciencia.
 
 ART. 473.
-El que defraudare o perjudicare a otro usando de cualquier engaño que no se halle expresado en los artículos anteriores de este párrafo, será castigado con presidio o relegación menores en sus grados mínimos y multa de ciento a mil pesos.
+El que defraudare o perjudicare a otro usando de cualquier engaño que no se halle expresado en los artículos anteriores de este párrafo, será castigado con presidio o relegación menores en sus grados mínimos y multa de once a veinte sueldos vitales.
 
 #### § IX.
 Del incendio y otros estragos.
@@ -2384,8 +2385,8 @@ ART. 483. a)
 El contador o cualquiera persona que falsee o adultere la contabilidad del comerciante que sufra un siniestro, será sancionado con la pena señalada en el inciso segundo del artículo 197; pero no le afectará responsabilidad al contador por las existencias y precios inventariados.
 
 ART. 483. b)
-A los comerciantes responsables del delito de incendio se les aplicará también una multa de mil a cien mil pesos, tomándose en cuenta para graduarla la naturaleza, entidad y gravedad del siniestro y las facultades económicas del inculpado.
-Si no se paga la multa el condenado sufrirá por vía de sustitución y apremio, un día de reclusión por cada doscientos cincuenta pesos de multa, no pudiendo exceder la reclusión de un año.
+A los comerciantes responsables del delito de incendio se les aplicará también una multa de veintiuno a cincuenta sueldos vitales, tomándose en cuenta para graduarla la naturaleza, entidad y gravedad del siniestro y las facultades económicas del inculpado.
+Si no se paga la multa el condenado sufrirá por vía de sustitución y apremio, un día de reclusión por un quinto de sueldo vital de multa, no pudiendo exceder la reclusión de seis meses.
 La multa impuesta se mantendrá en una cuenta especial a la orden de la Superintendencia de Compañia de Seguros Sociedades Anónimas y Bolsas de Comercio, la cual anualmente la distribuirá proporcionalmente entre los distintos Cuerpos de Bomberos en el país.
 
 #### § X.
@@ -2409,7 +2410,7 @@ Artículo 486. El que, con alguna de las circunstancias expresadas en el artícu
 Cuando dicho importe no excediere de cuatro sueldos vitales ni bajare de medio sueldo vital, la pena será reclusión menor en su grado mínimo.
 
 ART. 487.
-Los daños no comprendidos en los artículos anteriores, serán penados con reclusión menor en su grado mínimo o multa de ciento a mil pesos.
+Los daños no comprendidos en los artículos anteriores, serán penados con reclusión menor en su grado mínimo o multa de once a veinte sueldos vitales.
 Esta disposición no es aplicable a los daños causados por el ganado y a los demás que deben calificarse de faltas, con arreglo a lo que se establece en el Libro tercero.
 
 ART. 488.
@@ -2433,7 +2434,7 @@ DE LOS CUASIDELITOS.
 ART. 490.
 El que por imprudencia temeraria ejecutare un hecho que, si mediara malicia, constituiría un crimen o un simple delito contra las personas, será penado:
 1.º Con reclusión o relegación menores en sus grados mínimos a medios, cuando el hecho importare crimen.
-2.° Con reclusión o relegación menores en sus grados mínimos o multa de ciento a mil pesos, cuando importare simple delito.
+2.° Con reclusión o relegación menores en sus grados mínimos o multa de once a veinte sueldos vitales, cuando importare simple delito.
 
 ART. 491.
 El médico, cirujano, farmacéutico, flebotomiano o matrona que causare mal a las personas por negligencia culpable en el desempeño de su profesión, incurrirá respectivamente en las penas del artículo anterior.
@@ -2456,7 +2457,7 @@ Las disposiciones del presente párrafo no se aplicarán a los cuasidelitos espe
 DE LAS FALTAS.
 
 ART. 494.
-Sufrirán la pena de prisión en sus grados medio a máximo o multa de cien a mil pesos:
+Sufrirán la pena de prisión en sus grados medio a máximo o multa de uno a cinco sueldos vitales:
 1.° El que asistiendo a un espectáculo público provocare algún desorden o tomare parte en él.
 2.° El que excitare o dirigiere cencerradas u otras reuniones tumultuosas en ofensa de alguna persona o del sosiego de las poblaciones.
 3.° El que sin licencia de la autoridad competente cargare armas prohibidas por la ley o por los reglamentos generales.
@@ -2480,7 +2481,7 @@ Sufrirán la pena de prisión en sus grados medio a máximo o multa de cien a mi
 21.° El que con violencia en las cosas entrare a cazar o pescar en lugar cerrado, o en lugar abierto contra expresa prohibición intimada personalmente.
 
 ART. 495.
-Serán castigados con prision en sus grados mínimo a medio conmutable en multa de de sesenta centésimos de escudos a seis escudos:
+Serán castigados con prision en sus grados mínimo a medio conmutable en multa de un cuarto a medio sueldo vital:
 1.° El que contraviniere a las reglas que la autoridad dictare para conservar el orden público o evitar que se altere, salvo que el hecho constituya crimen o simple delito.
 2.° El que por quebrantar los reglamentos sobre espectáculos públicos ocasionare algún desorden.
 3.° El subordinado del orden civil que faltare al respeto y sumisión debidos a sus jefes o superiores.
@@ -2495,7 +2496,7 @@ Serán castigados con prision en sus grados mínimo a medio conmutable en multa 
 12.° El que infringiere los reglamentos sobre corta de bosques o arbolados.
 13.° El que infringiere las leyes o reglamentos sobre apertura, conservación y reparación de vías públicas.
 14.° El que en caminos públicos, calles, plazas, ferias u otros sitios semejantes de reunión estableciere rifas u otros juegos de envite o azar.
-15.° El que defraudare al público en la venta de mantenimientos, ya sea en calidad, ya en cantidad, por valor que no exceda de diez pesos, y el que vendiere bebidas o mantenimientos deteriorados o nocivos.
+15.° El que defraudare al público en la venta de mantenimientos, ya sea en calidad, ya en cantidad, por valor que no exceda de un cuarto de sueldo vital, y el que vendiere bebidas o mantenimientos deteriorados o nocivos.
 16.° El traficante que tuviere medidas o pesos falsos, aunque con ellos no hubiere defraudado.
 17.° El que usare en su tráfico medidas o pesos no contrastados.
 18.° El dueño o encargado de fondas, cafés, confiterías u otros establecimientos destinados al despacho de comestibles o bebidas que faltare a los reglamentos de policía relativos a la conservación o uso de vasijas o útiles destinados para el servicio.
@@ -2505,7 +2506,7 @@ Serán castigados con prision en sus grados mínimo a medio conmutable en multa 
 22.° El que aprovechando aguas de otro o distrayéndolas de su curso, causare daño que no exceda de medio sueldo vital.
 
 ART. 496.
-Sufrirán la pena de prisión en su grado mínimo conmutable en multa de tres a sesenta escudos:
+Sufrirán la pena de prisión en su grado mínimo conmutable en multa de uno a cinco sueldos vitales:
 1.° El que faltare a la obediencia debida a la autoridad dejando de cumplir las órdenes particulares que ésta le diere, en todos aquellos casos en que la desobediencia no tenga señalada mayor pena por este Código o por leyes especiales.
 2.° El que pudiendo, sin grave detrimento propio, prestar a la autoridad el auxilio que reclamare en casos de incendio, inundación, naufragio u otra calamidad, se negare a ello.
 3.° Derogado.
@@ -2548,8 +2549,8 @@ Sufrirán la pena de prisión en su grado mínimo conmutable en multa de tres a 
 ART. 497.
 El dueño de ganados que entraren en heredad ajena cerrada y causaren daño, será castigado con multa, por cada cabeza de ganado:
 NOTA
-1.° De veinticinco a cien pesos, si fuere vacuno, caballar, mular o asnal.
-2.° De diez a cincuenta pesos, si fuere lanar o cabrío y la heredad tuviere arbolado.
+1.° De un cuarto a medio sueldo vital, si fuere vacuno, caballar, mular o asnal.
+2.° De un décimo a un cuarto de sueldo vital, si fuere lanar o cabrío y la heredad tuviere arbolado.
 4.° Del tanto del daño causado a un tercio mas, si fuere de otra especie no comprendida en los números anteriores.
 Esto mismo se observará si el ganado fuere lanar o cabrío y la heredad no tuviere arbolado.
 NOTA

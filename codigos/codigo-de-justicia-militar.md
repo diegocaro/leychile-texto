@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1977-04-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1977-12-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1977-04-30
-fetched_at: 2026-08-03T00:28:04.906415+00:00
+version_date: 1977-12-14
+fetched_at: 2026-08-03T00:28:46.965167+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1646,6 +1646,12 @@ Art. 413. En tiempo de paz, los Oficiales del Servicio de Justicia de Carabinero
 Art. 414. En tiempo de guerra, y movilizado para ello Carabineros de Chile, sus Oficiales del Servicio de Justicia, pasarán a ser Fiscales Militares con las atribuciones que se les fijan en el Título III del Libro I, pero limitadas a los miembros de esta Institución; sin perjuicio de las disposiciones que pueda dictar, al respecto, en uso de sus facultades, el General en Jefe del Ejército.
 
 Art. 415. Si durante la guerra Carabineros de Chile formare una División o Brigada independiente, el General en Jefe del Ejército podrá delegar en su Comandante en Jefe, aunque no sea del grado de General, las facultades a que se refiere el artículo 75.
+
+Art. 416. El que violentare o maltratare de obra a un Carabinero en el ejercicio de sus funciones de guardadores del orden y seguridad públicos, será castigado:
+1° Con la pena de presidio mayor en su grado medio a muerte si le causare la muerte;
+2° Con la de presidio menor en su grado máximo a presidio mayor en su grado medio si le causare lesiones graves;
+3° Con la de presidio menor en su grado mínimo a medio si le causare lesiones menos graves; y
+4° Con la de presidio menor en su grado mínimo o multa de once a veinte sueldos vitales si no le causare lesiones o si éstas fueren leves.
 
 Artículo 416 ter.- Las penas establecidas en los artículos 395 y 396 del Código Penal, serán aumentadas en un grado cuando la víctima sea un Carabinero en el ejercicio de sus funciones.
 

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1977-11-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1977-12-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1977-11-30
-fetched_at: 2026-08-03T00:28:40.955049+00:00
+version_date: 1977-12-14
+fetched_at: 2026-08-03T00:28:58.985458+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -397,7 +397,7 @@ Sin embargo, los recursos de amparo, las apelaciones que se deduzcan en un mismo
 Serán agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, en casos urgentes: 1° las apelaciones y consultas relativas a la libertad provisional de los inculpados y reos; 2° los recursos de amparo; y 3° las demás que determinen las leyes.
 Se agregarán extraordinariamente, también, las apelaciones de las resoluciones relativas al auto de procesamiento señaladas en el inciso cuarto, en causas en que haya reos privados de libertad. La agregación se hará a la tabla del día que determine el Presidente de la Corte, dentro del término de cinco días desde el ingreso de los autos a la Secretaría del Tribunal.
 
-Art. 70. La tramitación de los asuntos entregados a las Cortes de Apelaciones corresponderá a la sala en que funciona el Presidente del Tribunal.
+Art. 70. La tramitación de los asuntos entregados a las Cortes de Apelaciones corresponderá a la sala en que funciona el Presidente del Tribunal. En Santiago corresponderá a la Primera Sala.
 Para dictar las providencias de mera sustanciación bastará un solo ministro.
 Se entienden por providencias de mera sustanciación las que tienen por objeto dar curso progresivo a los autos, sin decidir ni prejuzgar ninguna cuestión debatida entre partes.
 Sin embargo, deberán dictarse por la sala respectiva las resoluciones de tramitación que procedan cuando ya estén conociendo de un asunto.
@@ -532,7 +532,7 @@ Art. 101. La Corte Suprema podrá dividirse extraordinariamente en tres Salas de
 La distribución de los Ministros de la Corte Suprema entre estas tres Salas se efectuará por sorteo, de modo que a cada una correspondan cuatro miembros.
 Estas Salas se integrarán en conformidad a la ley; pero, para el Presidente de la Corte, esta integración será facultativa.
 Producida la división en tres Salas, corresponderá por turnos mensuales a una de ellas conocer de los recursos de casación en la forma y en el fondo en materia civil, a otra, conocer de los demás asuntos indicados en el artículo 98 y a la otra, conocer, indistintamente, de los recursos de casación en la forma y en el fondo de naturaleza civil o criminal, como asimismo de las demás materias a que se refiere el artículo 98. A las tres les corresponderá conocer de los recursos de queja de cualquiera naturaleza.
-El Tribunal en este caso designará un cuarto relator en el carácter de interino de entre aquellos que están sirviendo el cargo en propiedad en la Corte de Apelaciones de Santiago.
+El Tribunal, en este caso, propondrá un cuarto relator.
 
 Art. 102. El primero de Marzo de cada año la Corte Suprema iniciará sus funciones en audiencia pública, a la cual deberán concurrir su fiscal y los miembros y fiscales de la Corte de Apelaciones de Santiago.
 El Presidente de la Corte Suprema dará cuenta en esta audiencia:
@@ -1177,7 +1177,7 @@ El Consejo General del Colegio de Abogados y los Consejos Provinciales, en su ca
 El Presidente del Consejo General y los Presidentes de los Consejos Provinciales del Colegio de Abogados, concurrirán a las deliberaciones que efectúen las Cortes de Apelaciones para el solo efecto de sostener el informe a que se refiere el inciso anterior.
 
 Art. 274. Para los efectos del artículo anterior, las Cortes de Apelaciones se reunirán, a contar desde el 1º de Diciembre de cada año, en audiencias secretas, que se llevarán a cabo dentro de las dos primeras horas fijadas para el funcionamiento diario del tribunal.
-Los acuerdos se tomarán por las Cortes reunidas en Pleno, con el voto conforme de la mayoría absoluta de los Ministros que asistan a la audiencia y se aplicarán las reglas contenidas en el Párrafo 2 del Título V, en lo que fueren compatibles.
+Los acuerdos se tomarán por las Cortes reunidas en Pleno, con el voto conforme de la mayoría absoluta de los Ministros que asistan a la audiencia y se aplicarán las reglas contenidas en el Párrafo 2 del Título V, en lo que fueren compatibles. Las votaciones tendrán el carácter de secretas.
 De los acuerdos se dejará constancia en un libro especial, que se mantendrá reservado.
 
 Art. 275. La Corte Suprema, una vez recibidos los informes a que se refiere el artículo 273, hará en el mes de Enero de cada año, una calificación general de los Ministros y Fiscales de las Cortes de Apelaciones, de los Relatores y Secretario de la Corte Suprema y de los funcionarios indicados en el inciso segundo de dicho artículo, con el objeto de formar cuatro listas de los funcionarios del Orden Judicial.
@@ -1199,7 +1199,7 @@ La inclusión en la lista número cuatro deberá ser comunicada al Ministerio de
 Art. 278. Los Jueces de Letras de Mayor Cuantía, los Jueces de Letras de Menores y los Jueces de Letras de Menor Cuantía, efectuarán anualmente, durante la primera quincena de Noviembre, una calificación de los empleados de secretaría y de los oficiales de sala de su dependencia, con el objeto de formar las cuatro listas a que se refiere el artículo 275 del presente Código.
 En la lista número uno se colocará a los empleados que además de tener moralidad intachable, reúnan cualidades sobresalientes de preparación, vocación profesional y celo en el cumplimiento de sus deberes y obligaciones. Los Oficiales de Sala figurarán en la lista número uno cuando reúnan cualidades sobresalientes de moralidad intachable de eficiencia y de puntualidad y celo en el cumplimiento de sus obligaciones.
 En la lista número dos se incluirá a los empleados moralmente intachables que cumplan satisfactoriamente los deberes y obligaciones de su cargo y sean eficientes y celosos en su desempeño. Los Oficiales de Sala figurarán en la lista número dos, cuando posean condiciones de moralidad intachable y de eficiencia, puntualidad y celo satisfactorios, en el cumplimiento de sus obligaciones.
-En la lista número tres, se colocará a los empleados que teniendo moralidad intachable, no posean los requisitos necesarios para figurar en la lista número dos y cuyo desempeño funcionario sea solamente regular y a los que en los meses que precedan al período en que se efectúa la calificación, hubieren sido objeto de alguna de las medidas disciplinarias de amonestación privada, censura por escrito o multa.
+En la lista número tres, se colocará a los empleados que teniendo moralidad intachable, no posean los requisitos necesarios para figurar en la lista número dos y cuyo desempeño funcionario sea solamente regular y a los que en los meses que precedan al período en que se efectúa la calificación, hubieren sido objeto de alguna de las medidas disciplinarias de censura por escrito o multa.
 En la lista número cuatro, se colocará a los empleados que no posean los requisitos para figurar en la lista número tres, a los que hayan tenido una actuación deficiente, a los que en los meses que precedan al período en que se efectúa la calificación, hubieren sido objeto de la medida disciplinaria de suspensión, cuando la falta cometida, a juicio del Juez respectivo, sea de especial gravedad, y a los que por dos años consecutivos hubieren figurado en la lista número tres.
 Igual calificación y formación de listas, efectuarán la Corte Suprema, las Cortes de Apelaciones y los Fiscales de esos tribunales respecto de sus empleados de secretaria y oficiales de sala. La Corte Suprema efectuará, además las calificaciones de los empleados y oficiales de sala de la Oficina del Presupuesto y de la Biblioteca del Tribunal; y el Presidente la de su Secretario Privado, del chofer de la presidencia, de los ascensoristas y aseadores del Palacio de los Tribunales.
 Las calificaciones hechas por los Jueces, en la lista número cuatro, serán apelables ante la Corte de Apelaciones respectiva, dentro del quinto día hábil contado desde la notificación de ellas al interesado.
