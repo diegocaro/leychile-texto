@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1955-09-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1955-12-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1955-09-17
-fetched_at: 2026-08-03T00:13:25.603572+00:00
+version_date: 1955-12-22
+fetched_at: 2026-08-03T00:13:37.614647+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -500,6 +500,7 @@ Art. 98. Las salas de la Corte Suprema conocerán:
 7.o.- De los demás negocios judiciales de que corresponda conocer a la Corte Suprema y que no estén entregados expresamente al conocimiento del Pleno.
 
 Art. 99. Las Salas de la Corte Suprema conocerán por turnos mensuales: una, de los recursos de casación en el fondo y en la forma que se hayan interpuesto en materia civil, y la otra, de los demás asuntos indicados en el artículo 98, con excepción de los recursos de queja de los que conocerá cualquiera de las salas.
+No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera el Presidente de la Corte Suprema podrá disponer que esta última Sala también conozca de los recursos de casación en el fondo y en la forma que se hayan interpuesto en materia civil.
 
 Art. 100. Derogado.
 
@@ -1139,7 +1140,7 @@ El tribunal resolverá la reclamación en la segunda quincena de Mayo. Si la rec
 Art. 272. La Corte Suprema hará en el Escalafón las modificaciones que sean necesarias en virtud de las reclamaciones, vacancias y nombramientos que se produzcan en el curso del año. Estas modificaciones deberán comunicarse a las Cortes de Apelaciones y a los funcionarios que, en razón de sus cargos, deban formar ternas judiciales.
 Las reformas que incidan en las reclamaciones se comunicarán también al Ministerio de Justicia.
 
-Art. 273. Los jueces de letras de mayor cuantía elevarán a la respectiva Corte de Apelaciones, antes del quince de Diciembre de cada año, un informe con la apreciación que les merezcan los funcionarios de su dependencia, atendida su eficiencia, celo y moralidad en el desempeño de su cargo y con las medidas disciplinarias que se les hubiere impuesto en el año.
+Art. 273. Los jueces de letras de mayor cuantía y Jueces Especiales de Menores elevarán a la respectiva Corte de Apelaciones, antes del quince de Diciembre de cada año, un informe con la apreciación que les merezcan los funcionarios de su dependencia, atendida su eficiencia, celo y moralidad en el desempeño de su cargo y con las medidas disciplinarias que se les hubiere impuesto en el año.
 Las Cortes de Apelaciones enviarán a su vez a la Corte Suprema, en los últimos cinco días de cada año, igual informe sobre los funcionarios de su dependencia.
 Dentro de este mismo plazo, el fiscal de la Corte Suprema informará a este tribunal, respecto de los fiscales de las Cortes de Apelaciones.
 Si la apreciación de los jueces, de las Cortes o del fiscal contuviere cargos contra algún funcionario, deberá oírlo antes de elevar su informe, en el cual deberán figurar los descargos formulados.
@@ -1168,6 +1169,7 @@ La elección de las personas que deban figurar en las propuestas o ternas, para 
 Sin embargo, cuando se trate de propuestas o ternas para el nombramiento, en calidad de interinos o suplentes, de Relatores o Secretarios de las Cortes de Apelaciones, podrán figurar en las presentaciones, a falta de funcionarios que reúnan los requisitos generales o de idoneidad para tales funciones, otros de la cuarta o quinta categorías, cualquiera que sea la jurisdicción a que pertenezcan y el tiempo que hayan permanecido en la respectiva categoría.
 
 Art. 280. No podrá ser promovido a una categoría superior, el funcionario que tenga menos de dos años de servicios en su grado, salvo que en la categoría inmediatamente inferior hubiere servido más de cinco años, en cuyo caso necesitará sólo un año. Podrá, no obstante, ser ascendido si no se interesare por el cargo ningún funcionario con más de dos años en el grado.
+El tiempo servido en las provincias de Aysén y Magallanes se computará doblado para los efectos de la antigüedad de los funcionarios en su categoría y del requisito para el ascenso. Este beneficio no servirá para obtener mayor remuneración.
 
 Art. 281. En las presentaciones no podrán figurar funcionarios a quienes en el año anterior, contado hacia atrás, desde el día que se produjo la vacante que se trata de proveer, se hubieren aplicado medidas disciplinarias de censura por escrito, pago de costas, multas o suspensión, ni aquéllos que hayan sido afectados por suspensión de sus cargos en los últimos cinco años; pero si en conformidad al artículo 83 de la Constitución Política alguno hubiere de entrar en terna por antigüedad, en ella dejará constancia de las medidas que le hayan afectado.
 Los funcionarios figurarán en terna por orden estricto de antigüedad.
@@ -1219,8 +1221,8 @@ Los abogados que figuren en la lista continuarán formando parte de ella sin que
 #### 5). Escalafón del personal subalterno
 
 Art. 292. El escalafón del personal subalterno se compondrá de las siguientes categorías:
-Primera categoría: Oficiales 1º y 2º de la Corte Suprema, Secretario-Abogado del Fiscal de la Corte Suprema, Oficiales 1ºs. de las Cortes de Apelaciones;
-Segunda categoría: Oficiales 3ºs. de la Corte Suprema, Secretario del Presidente del mismo Tribunal, Oficiales 2ºs. de las Cortes de Apelaciones, Bibliotecario Estadístico de la Corte de Apelaciones de Santiago y Oficiales 1ºs. de los Juzgados Letras de Mayor Cuantía de asiento de Corte;
+Primera categoría: Oficiales 1º y 2º de la Corte Suprema, Secretario-Abogado del Fiscal de la Corte Suprema, Oficiales 1ºs. de las Cortes de Apelaciones y Secretario del Presidente de la Corte Suprema;
+Segunda categoría: Oficiales 3ºs. de la Corte Suprema, Oficiales 2ºs. de las Cortes de Apelaciones, Bibliotecario Estadístico de la Corte de Apelaciones de Santiago y Oficiales 1ºs. de los Juzgados Letras de Mayor Cuantía de asiento de Corte;
 Tercera categoría: Oficiales 4ºs. de la Corte Suprema, Oficiales 3ºs. de las Cortes de Apelaciones, Oficiales 2ºs. de los Juzgados de Letras de Mayor Cuantía de asiento de Corte, Oficiales 4ºs. de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos Tribunales, Estadístico de la Corte de Apelaciones de Concepción, Oficiales 3ºs. de los Juzgados de Letras de Mayor Cuantía de asiento de Corte y Oficiales 1ºs. de los Juzgados de Letras de Mayor Cuantía de capital de provincia;
 Cuarta categoría: Oficiales 4ºs. de los Juzgados de Letras de Mayor Cuantía de asiento de Corte, Oficiales de los Defensores Públicos de Santiago y Valparaíso, Oficiales 2ºs. de los Juzgados de Letras de Mayor Cuantía de capital de provincia, Oficiales 1ºs. de los Juzgados de Letras de Mayor Cuantía de departamento y Oficiales 1ºs. de los Juzgados de Letras de Menor Cuantía de asiento de Corte;
 Quinta categoría: Oficiales Auxiliares de la Corte Suprema, Oficiales 3ºs. de los Juzgados de Letras de Mayor Cuantía de capital de provincia, Oficiales 2ºs. de los Juzgados de Letras de Mayor Cuantía de departamento, Oficiales 2ºs. de los Juzgados de Letras de Menor Cuantía de asiento de Corte, Oficiales 1ºs. de los demás Juzgados de Letras de Menor Cuantía, Oficiales 3ºs. de los Juzgados de Letras de Mayor Cuantía de departamento, Oficial-Intérprete de los Juzgados de Temuco y Oficiales 2ºs. de los demás Juzgados de Letras de Menor Cuantía.
@@ -1396,7 +1398,7 @@ Art. 341. Derogado.
 
 Art. 342. No tendrán derecho a licencia los funcionarios suplentes que entren a subrogar a los propietarios o interinos en los casos de licencias, ni los auxiliares que fueren llamados a prestar sus servicios accidentalmente y por tiempo limitado.
 
-Art. 343. Los funcionarios a quienes no se acuerda feriado por la ley, podrán obtener, en cada año, quince días de descanso, con goce de sueldo íntegro, siempre que no hayan usado de licencia durante los once últimos meses.
+Art. 343. Los funcionarios judiciales a quienes la ley no les acuerda feriado durante el período de vacaciones por estar comprendidos en los casos de los artículos 313, inciso segundo y 314 de este Código, podrán obtener en cada año, el feriado a que se refieren las letras a), b) y c) del artículo 76° del D.F.L. N° 256, sobre Estatuto Administrativo, siempre que no hayan usado de licencia por motivos particulares durante los once últimos meses. Si el funcionario hubiera obtenido licencia de este tipo, por un lapso inferior a su feriado, tendrá derecho a él, por el tiempo necesario para enterar los días de descanso que le corresponderían por su antigüedad.
 Un decreto expedido por el Presidente de la República determinará el tiempo y forma como pueden los funcionarios hacer uso de este feriado.
 
 Art. 344. El feriado a que se refiere el artículo anterior será de veinticinco días hábiles dentro de cada año para los funcionarios que residan en las provincias de Tarapacá, Antofagasta, Atacama y Magallanes.
@@ -1583,7 +1585,7 @@ Deben recibir, además, las informaciones sumarias de testigos en actos de juris
 Art. 391. Habrá receptores de mayor y de menor cuantía.
 Los receptores de mayor cuantía estarán al servicio de la Corte Suprema, de las Cortes de Apelaciones y de los juzgados de letras de mayor cuantía.
 Los receptores de menor cuantía serán de dos clases: los que estén al servicio de los jueces de letras de menor cuantía y los que ejerzan sus funciones ante los jueces de subdelegación y de distrito.
-En los lugares en que hubiere dos o más jueces de letras de menor cuantía, los receptores de un juzgado ejercerán jurisdicción en el territorio de los otros, pero sólo en lo relativo a los negocios que sean del conocimiento del juez ante quien ejercen sus funciones.
+En los lugares en que hubiere dos o más Jueces de Menor Cuantía, los Receptores de Menor Cuantía ejercerán sus funciones en todo el territorio conjunto fijado por el Presidente de la República, ante cualesquiera de los respectivos Juzgados de Letras de Menor Cuantía.
 Los receptores de mayor cuantía de los departamentos de Santiago y Valparaíso, ejercerán sus funciones ante los juzgados de letras de menor cuantía en los negocios de que conocieren en primera instancia estos tribunales.
 
 Art. 392. Habrá para cada departamento el número de receptores de mayor cuantía que el Presidente de la República determine, previo el informe de la respectiva Corte de Apelaciones.
@@ -1853,7 +1855,7 @@ No podrán ser oficiales del ministerio público en un tribunal, las personas qu
 No pueden ser defensores públicos los que tengan con algunos de los jueces de letras propietarios del departamento cualquiera de los parentescos indicados en dicho artículo.
 Tampoco podrán desempeñar ante ningún juez funciones accidentales de defensores los que tengan con él cualquiera de los indicados parentescos.
 
-Art. 470. Las funciones de los auxiliares de la Administración de Justicia, serán incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales.
+Art. 470. Las funciones de los Auxiliares de la Administración de Justicia son incompatibles con toda otra remuneración con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las Escuelas dependientes de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, y de la enseñanza secundaria y especial hasta un límite de ocho horas semanales.
 No obstante, los cargos de secretario, receptor y notario podrán ser desempeñados por una misma persona en aquellos departamentos en que, a juicio del Presidente de la República, no sea posible o conveniente hacerlos recaer en personas distintas por no permitirlo la exigüedad de los emolumentos correspondientes a cada uno de dichos cargos.
 Las funciones del ministerio público son, además, incompatibles con las eclesiásticas y las de los defensores públicos con las eclesiásticas que tengan cura de almas.
 
@@ -2096,12 +2098,14 @@ En consecuencia, deberán vigilar la conducta ministerial de los jueces de distr
 Las faltas o abusos que en la conducta ministerial de las personas expresadas en el inciso anterior notaren los jueces de letras, podrán corregirlas con alguno de los dos últimos medios expresados en el artículo anterior; pero las faltas o abusos de los notarios se castigarán disciplinariamente por las Cortes de Apelaciones, las cuales podrán delegar estas atribuciones en los jueces de letras correspondientes cuando la notaría no se halle en el mismo lugar del asiento de la Corte.
 Las providencias que tomaren los jueces en el ejercicio de sus facultades disciplinarias, se entenderán sin perjuicio de formarse el proceso correspondiente al empleado que hubiere faltado gravemente a sus deberes, o cuya conducta diere lugar a presumir que ha habido en ella dolo o malicia.
 Las facultades de que trata este artículo corresponderán a los jueces de letras de menor cuantía que tengan su asiento en las cabeceras de departamento respecto a los jueces de distrito y de subdelegación del mismo.
+Los empleados subalternos que incurrieren en omisión o infracción en el cumplimiento de los deberes y obligaciones que les imponen sus cargos, serán sancionados por el superior jerárquico inmediato con alguna de las siguientes medidas disciplinarias: amonestación, censura por escrito, multa de uno a quince días de sueldo y suspensión del empleo hasta por un mes, sin goce de sueldo.
 
 Art. 533. Si los jueces de letras notaren faltas o abusos en el desempeño de las funciones de los defensores públicos darán cuenta a la Corte de Apelaciones respectiva, la cual Corte, si lo estimare conveniente, corregirá dichas faltas o abusos de la manera y por los medios que señalan los artículos 536 y 537.
 
 Art. 534. Los secretarios, receptores y empleados subalternos de los juzgados de letras de menor cuantía quedan sometidos a la autoridad disciplinaria inmediata del juez ante quien ejercen sus funciones en los términos que expresa el inciso 3° del artículo 532 y sin perjuicio de lo dispuesto en el inciso 4° del mismo artículo.
 
 Art. 535. Corresponde a las Cortes de Apelaciones mantener la disciplina judicial en todo el territorio de su respectiva jurisdicción, velando inmediatamente la conducta ministerial de sus miembros y la de los jueces subalternos y haciéndoles cumplir todos los deberes que las leyes les imponen.
+La misma facultad corresponderá a las Cortes de Apelaciones respecto de los Juzgados Especiales de Menores y de Indios.
 Es aplicable lo dispuesto en el artículo 537 a las faltas o abusos que los ministros de las Cortes de Apelaciones cometan en el ejercicio de sus funciones.
 
 Art. 536. En virtud de la atribución de que habla el artículo anterior, las Cortes de Apelaciones oirán y despacharán sumariamente y sin forma de juicio las quejas que las partes agraviadas interpusieren contra los jueces de letras por cualesquiera faltas y abusos que cometieren en el ejercicio de sus funciones; y dictarán, con previa audiencia del juez respectivo, las medidas convenientes para poner pronto remedio al mal que motiva la queja.
@@ -2192,6 +2196,7 @@ El tribunal superior resolverá la apelación de plano, sin otra formalidad que 
 De las resoluciones que en el ejercicio de sus facultades económicas pronuncien los tribunales indicados en el inciso primero de este artículo, sólo podrá reclamarse ante el superior jerárquico. Esta reclamación deberá interponerse dentro del tercer día de pronunciada la resolución, y se resolverá de plano, y si se trata de un tribunal colegiado, en la forma prescrita en el inciso precedente.
 
 Art. 552. Las resoluciones que impongan una medida disciplinaria, tan pronto como queden ejecutoriadas, deberán ser transcritas al Ministerio de Justicia, a la Corte Suprema y a las Cortes de Apelaciones.
+La renuncia voluntaria presentada por un funcionario judicial deberá acompañarse de un certificado del Tribunal superior respectivo que acredite que no se encuentra sometido a sumario en que se investigue su conducta. Si el funcionario se encontrare en este caso, el Presidente de la República no cursará su renuncia mientras no se haya cumplido con lo dispuesto en el inciso primero.
 
 ### § 2. De las visitas
 
