@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1983-05-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1988-04-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1983-05-28
-fetched_at: 2026-08-03T00:37:52.262133+00:00
+version_date: 1988-04-29
+fetched_at: 2026-08-03T00:44:50.238089+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2173,7 +2173,8 @@ El robo en lugar no habitado, se castigará con presidio menor en sus grados med
 3.º Haber hecho uso de llaves falsas, o verdadera que se hubiere sustraído, de ganzúas u otros instrumentos semejantes para entrar en el lugar del robo o abrir los muebles cerrados.
 
 ART. 443.
-Con la misma pena señalada en el artículo anterior se castigará el robo de cosas que se encuentren en bienes nacionales de uso público o en sitios no destinados a la habitación si el autor hace uso de llaves falsas o verdaderas que se hubiere sustraído, de ganzúas u otros instrumentos semejantes o si se procede, mediante fractura de puertas, vidrios, cierros, candados u otros dispositivos de protección o si utiliza medios de tracción
+Con la misma pena señalada en el artículo anterior se castigará el robo de cosas que se encuentren en bienes nacionales de uso público o en sitios no destinados a la habitación si el autor hace uso de llaves falsas o verdaderas que se hubiere sustraído, de ganzúas u otros instrumentos semejantes o si se procede, mediante fractura de puertas, vidrios, cierros, candados u otros dispositivos de protección o si utiliza medios de tracción.
+Se sancionará igualmente con la pena del artículo anterior al que se apropiare de alambres de tendido eléctrico, cables de los servicios telefónicos, telegráficos, de radio comunicaciones o de televisión, o alambres de electricidad o comunicaciones de las empresas de ferrocarriles, escalando para ello las torres, pilares o postes en que los alambres o cables estén instalados, ya sea que se ingrese o no a los recintos cerrados o cercados donde se encuentren emplazadas dichas torres, pilares o postes o extrayéndolos en cualquiera forma de su lugar de instalación, sea que se trate de redes subterráneas, subacuáticas o aéreas, mediante el uso de alicates, cortafríos o, en general, cualquier otro instrumento o elemento idóneo para cortar alambres o cables.
 
 ART. 444.
 Se presume autor de tentativa de robo al que se introdujere con forado, fractura, escalamiento, uso de llave falsa o de llave verdadera sustraída o de ganzúa en algún aposento, casa, edificio habitado o destinado a la habitación o en sus dependencias.
