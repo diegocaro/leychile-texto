@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2001-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2001-07-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2001-06-05
-fetched_at: 2026-08-03T01:15:12.745367+00:00
+version_date: 2001-07-24
+fetched_at: 2026-08-03T01:15:53.063115+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -978,7 +978,8 @@ Art. 145. La justificación, regulación y repartimiento de la avería común se
 
 Art. 146. Conocerá de todos los asuntos a que se refiere el Código de Minas, el juez letrado que tenga jurisdicción en la comuna o agrupación de comunas en que esté ubicada la pertenencia. Lo cual se entiende sin perjuicio de las disposiciones especiales que se establecen en el mismo Código de Minas, en este Código y en el de Procedimiento Civil.
 
-Art. 147. Será juez competente para conocer de las demandas sobre alimentos deducidas por el cónyuge o por los hijos menores el de la residencia del alimentario; pero si éste la hubiere cambiado por abandono del hogar o rapto, será competente el del domicilio del alimentante.
+Art. 147. Será juez competente para conocer de las demandas de alimentos el del domicilio del alimentante o alimentario, a elección de este último.
+De las solicitudes de cese, aumento o rebaja de la pensión decretada, conocerá el juez que decretó la pensión.
 
 Art. 148. Será juez competente para conocer del juicio de petición de herencia, del de desheredamiento y del de validez o nulidad de disposiciones testamentarias, el del lugar donde se hubiere abierto la sucesión del difunto con arreglo a lo dispuesto por el artículo 955 del Código Civil.
 El mismo juez será también competente para conocer de todas las diligencias judiciales relativas a la apertura de la sucesión, formación de inventarios, tasación y partición de los bienes que el difunto hubiere dejado.
