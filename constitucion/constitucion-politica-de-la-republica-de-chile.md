@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1999-11-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=2000-04-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 1999-11-05
-fetched_at: 2026-08-05T02:30:04.360476+00:00
+version_date: 2000-04-28
+fetched_at: 2026-08-05T02:30:22.364298+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -262,6 +262,11 @@ Si la vacancia se produjere faltando dos años o más para la próxima elección
 El Presidente elegido conforme a alguno de los incisos precedentes no podrá postular como candidato a la elección presidencial siguiente.
 
 Artículo 30.- El Presidente cesará en su cargo el mismo día en que se complete su período y le sucederá el recientemente elegido.
+El que haya desempeñado este cargo por el período completo, asumirá, inmediatamente y de pleno derecho, la dignidad oficial de Ex Presidente de la República.
+En virtud de esta calidad, le serán aplicables las disposiciones de los incisos segundo, tercero y cuarto del artículo 58 y el artículo 59.
+Quien actualmente o en el futuro se desempeñe como senador vitalicio, podrá renunciar a dicho cargo, en cuyo caso mantendrá la dignidad de Ex Presidente de la República.
+No la alcanzará el ciudadano que llegue a ocupar el cargo de Presidente de la República por vacancia del mismo ni quien haya sido declarado culpable en juicio político seguido en su contra.
+El Ex Presidente de la República que asuma alguna función remunerada con fondos públicos, dejará, en tanto la desempeñe, de percibir la dieta, manteniendo, en todo caso, el fuero. Se exceptúan los empleos docentes y las funciones o comisiones de igual carácter de la enseñanza superior, media y especial.
 
 Artículo 31.- El Presidente designado por el Congreso Pleno o, en su caso, el Vicepresidente de la República tendrá todas las atribuciones que esta Constitución confiere al Presidente de la República.
 
