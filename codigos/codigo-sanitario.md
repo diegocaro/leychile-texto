@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1982-01-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1982-03-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1982-01-25
-fetched_at: 2026-08-03T00:35:40.124576+00:00
+version_date: 1982-03-22
+fetched_at: 2026-08-03T00:36:04.153374+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -419,6 +419,8 @@ NORMAS COMUNES
 
 Artículo 94°.- El Servicio Nacional de Salud es la autoridad encargada en todo el territorio nacional de la inspección y control sanitario de los productos farmacéuticos, alimentos de uso médico, cosméticos y productos alimenticios y, en especial, de velar por el cumplimiento de las disposiciones que sobre dichas materias se contienen en el presente Código y sus Reglamentos.
 Un Reglamento contendrá las normas de carácter sanitario sobre producción, fabricación, registro, almacenamiento, tenencia, distribución, venta, importación o exportación y características de los productos farmacéuticos, alimentos de uso médico, cosméticos y productos alimenticios.
+NOTA
+Véase el Decreto 435, Salud, publicado el 22.03.1982, Reglamento del Sistema Nacional de Control de los productos farmacéuticos, alimentos de uso médico y cosméticos; y que establece normas sobre su elaboración, fabricación e importación.
 
 Artículo 95°.- Los productos a que se refiere el artículo anterior deberán responder en su composición química y características microbiológicas a sus nomenclaturas y a las denominaciones legales y reglamentarias establecidas y, en el caso de los alimentos, además, a sus caracteres organolépticos.
 
