@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=1981-10-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=1981-11-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 1981-10-29
-fetched_at: 2026-08-03T00:34:46.061504+00:00
+version_date: 1981-11-26
+fetched_at: 2026-08-03T00:35:10.086854+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -168,9 +168,9 @@ ARTICULO 46°- La existencia de un título respecto al uso de derrames, no impor
 
 #### 2.- De los drenajes
 
-ARTICULO 47°- Constituyen un sistema de drenaje todos los cauces naturales o artificiales que sean colectores de agua que se extraigan con el objeto de recuperar terrenos que se inundan periódicamente, desecar terrenos pantanosos o vegosos y deprimir niveles freáticos cercanos a la superficie.
+ARTICULO 47°- Constituyen un sistema de drenaje todos los cauces naturales o artificiales que sean colectores de aguas que se extraigan con el objeto de recuperar terrenos que se inundan periódicamente, desecar terrenos pantanosos o vegosos y deprimir niveles freáticos cercanos a la superficie.
 
-ARTICULO 48°- Son beneficiarios del sistema de drenaje todos aquellos que, lo utilizan para desaguar sus propiedades y quienes aprovechan las aguas provenientes del mismo.
+ARTICULO 48°- Son beneficiarios del sistema de drenaje todos aquellos que lo utilizan para desaguar sus propiedades y quienes aprovechan las aguas provenientes del mismo.
 
 ARTICULO 49°- La obligación de mantener los cauces u obras que constituyen el sistema de drenaje, recae sobre todos aquellos que reportan beneficios del mismo, en conformidad a lo que establecen los artículos siguientes.
 No se podrá construir obra alguna que eleve el nivel natural de los desagües y el nivel freático con perjuicio de terceros.
@@ -278,7 +278,7 @@ ARTICULO 80°- Los edificios, instalaciones industriales y agropecuarias, estadi
 
 ARTICULO 81°- El trazado y construcción del acueducto en los caminos públicos se sujetarán a la ley respectiva.
 
-ARTICULO 82°- El dueño del predio sirviente tendrá derecho a que se le pague, por concepto de indemnización, el precio de todo el terreno que fuere ocupado y las mejoras afectadas por la construcción del acueducto; el de un espacio a cada uno de los dos costados, que no será inferior al cincuenta por ciento del ancho del canal, con un mínimo de un metro de anchura en toda la extensión de su curso, y que podrá ser mayor por convenio de las partes o por disposición del Juez, cuando las circunstancias lo exigieren, para contener los escombros provenientes de la construcción del acueducto y de sus limpias posteriores y un diez por ciento adicional sobre la suma total. Dicho espacio, en caso de canales que se desarrollen por faldeos pronunciados, se extenderá en su ancho total por el lado del valle.
+ARTICULO 82°- El dueño del predio sirviente tendrá derecho a que se le pague, por concepto de indemnización, el precio de todo el terreno que fuere ocupado y las mejoras afectadas por la construcción del acueducto; el de un espacio a cada uno de los costados, que no será inferior al cincuenta por ciento del ancho del canal, con un mínimo de un metro de anchura en toda la extensión de su curso, y que podrá ser mayor por convenio de las partes o por disposición del Juez, cuando las circunstancias lo exigieren, para contener los escombros provenientes de la construcción del acueducto y de sus limpias posteriores y un diez por ciento adicional sobre la suma total. Dicho espacio, en caso de canales que se desarrollen por faldeos pronunciados, se extenderá en su ancho total por el lado del valle.
 Tendrá, además, derecho a que se le indemnice de todo perjuicio ocasionado por la construcción del acueducto y por sus filtraciones, derrames y desbordes que puedan imputarse a defectos de construcción o mal manejo del mismo.
 
 ARTICULO 83°- El dueño del acueducto podrá impedir toda plantación u obra nueva en el espacio lateral a que se refiere el artículo anterior. Podrá además, reforzar los bordes del canal sin perjudicar el predio sirviente.
@@ -432,7 +432,7 @@ ARTICULO 120°- La Dirección General de Aguas, sin perjuicio de la facultad de 
 
 ARTICULO 121°- A los derechos de aprovechamiento inscritos en los Registros de Aguas de los Conservadores de Bienes Raíces, se les aplicarán todas las disposiciones que rijan la propiedad raíz inscrita, en cuanto no hayan sido modificadas por el presente Código.
 
-ARTICULO 122°- La Dirección General de Aguas deberá llevar un Catastro Público de Aguas, en el que constará toda la información que tenga relación con ellos.
+ARTICULO 122°- La Dirección General de Aguas deberá llevar un Catastro Público de Aguas, en el que constará toda la información que tenga relación con ellas.
 En dicho catastro, que estará constituido por los archivos, registros e inventarios que el reglamento establezca, se consignarán todos los datos, actos y antecedentes que digan relación con el recurso, con las obras de desarrollo del mismo, con los derechos de aprovechamiento, con los derechos reales constituidos sobre éstos y con las obras construidas o que se construyan para ejercerlos.
 
 ### Título IX
@@ -494,7 +494,7 @@ Los recursos de reconsideración y reclamación no suspenderán el cumplimiento 
 ARTICULO 138°- El Director General de Aguas, por sí o por delegado, podrá requerir del Intendente o Gobernador respectivo el auxilio de la fuerza pública, con facultades de allanamiento y descerrajamiento para el cumplimiento de las resoluciones que dicte en el ejercicio de las atribuciones que le confiere el presente título.
 
 ARTICULO 139°- Las resoluciones de la Dirección General de Aguas se notificarán en el domicilio del afectado en la forma dispuesta en los artículos 44, inciso 2° y 48, del Código de Procedimiento Civil. Estas notificaciones las efectuará el funcionario que se designe en la respectiva resolución, quien tendrá el carácter de Ministro de Fe para esa actuación y todos sus efectos.
-En la primera presentación del interesado deberá designar un domicilio dentro de los límites urbanos del lugar, en que funcione la oficina donde se haya efectuado la presentación, designación que se considerará subsistente mientra no haga otra, aun cuando de hecho lo haya cambiado.
+En la primera presentación el interesado deberá designar un domicilio dentro de los límites urbanos del lugar en que funcione la oficina donde se haya efectuado la presentación, designación que se considerará subsistente mientras no haga otra, aun cuando de hecho lo haya cambiado.
 Si no se hace esta designación la resolución se entenderá notificada desde la fecha de su dictación.
 
 #### 2.- Normas Especiales
@@ -669,7 +669,7 @@ ARTICULO 185°- La resolución que resuelva el amparo será apelable en el solo 
 ### Título III
 DE LAS ORGANIZACIONES DE USUARIOS
 
-ARTICULO 186°- Si dos o más personas tienen derechos de aprovechamiento en las aguas de un mismo canal o embalse, o usan en común la misma obra de captación de aguas subterráneas, podrán reglamentar la comunidad que existe como consecuencia de este hecho, constituirse en asociación de canalistas o en cualquier tipo de sociedad, con el objeto de tomar las aguas del canal matriz, repartirla entre los titulares de derechos, construir, explotar, conservar y mejorar las obras de captación, acueductos y otras que sean necesarias para su aprovechamiento. En el caso de cauces naturales podrán organizarse como junta de vigilancia.
+ARTICULO 186°- Si dos o más personas tienen derechos de aprovechamiento en las aguas de un mismo canal o embalse, o usan en común la misma obra de captación de aguas subterráneas, podrán reglamentar la comunidad que existe como consecuencia de este hecho, constituirse en asociación de canalistas o en cualquier tipo de sociedad, con el objeto de tomar las aguas del canal matriz, repartirlas entre los titulares de derechos, construir, explotar, conservar y mejorar las obras de captación, acueductos y otras que sean necesarias para su aprovechamiento. En el caso de cauces naturales podrán organizarse como junta de vigilancia.
 
 #### 1. De las Comunidades de Aguas
 
@@ -833,7 +833,7 @@ Sin embargo, con el acuerdo unánime de la sala, las elecciones podrán efectuar
 ARTICULO 230°- Si por cualquier causa no se eligiere oportunamente el directorio, continuará en funciones el anterior.
 Éste deberá citar a la mayor brevedad a la junta general para proceder a esa designación y si no lo hiciere, cualquier comunero podrá recurrir ante la Dirección General de Aguas, para que la convoque en la forma prescrita en los artículos 220 y 221. La reunión se efectuará en presencia de un Notario o de un funcionario designado por el Director General de Aguas, quien levantará acta de ella y actuará como Ministro de Fe.
 
-ARTICULO 231°- Para ser director se requiere ser comunero con derecho a voto. Podrán serlo el mandatario y el representante legal, por las personas naturales o jurídicas. No podrán serlo los empleados de la asociación.
+ARTICULO 231°- Para ser director se requiere ser comunero con derecho a voto. Podrán serlo el mandatario y el representante legal, por las personas naturales o jurídicas. No podrán serlo los empleados de la comunidad.
 Los directores podrán ser reelegidos.
 
 ARTICULO 232°- La asistencia de los directores a las sesiones es obligatoria. Si faltaren a tres o más reuniones sin causa justificada, quedarán excluidos del directorio.
@@ -1129,7 +1129,7 @@ Si ello no se efectuare en los plazos que determine, dictará una resolución fu
 DISPOSICIONES GENERALES
 
 ARTICULO 308°- Deróganse todas las disposiciones legales y reglamentarias que tratan sobre las materias contenidas en el presente Código, y en especial las siguientes:
-Ley N° 9.909; DFL. N° 11, de 1968, del Ministerio de Agricultura; DFL. N° 1-2.603, de 1979, del Ministerio de Agricultura; artículos 94° al 122°, 124°, 126°, 127°, 128°, 130°, 263° al 276°, y artículos transitorios 5°, 6°, 12°, 14° y 17° de la ley N° 16.640; artículo 9° de la ley 11.402; artículo 15 letras c) y d) de la ley 15.840; decreto supremo N° 1.370, de 1951, del Ministerio de Obras Públicas y Vías de Comunicación, que fijó el reglamento sobre atribuciones de la Dirección General de Aguas en Juntas de Vigilancia, Asociaciones de Canalistas y Comunidades de Aguas; decreto N° 1.021, de 1951, del Ministerio de Obras Públicas y Vías de Comunicación, que reglamenta la constitución y estatutos de la Asociación de Canalistas y Juntas de Vigilancia; y decreto supremo N° 745, de 1967, del Ministerio de Obras y Transportes, que establece el reglamento sobre notificaciones de las resoluciones de la Dirección General de Aguas, y DFL. N° 162 de 1969 del Ministerio de Obras Públicas y Transportes, que fijó el texto sistematizado del Código de Aguas.
+Ley N° 9.909; D.F.L. N° 11, de 1968, del Ministerio de Agricultura; D.F.L. N° 1-2.603, de 1979, del Ministerio de Agricultura; artículos 94 al 122, 124, 126, 127, 128, 130, 263 al 276, y artículos transitorios 5°, 6°, 12, 14 y 17 de la Ley N° 16.640; artículo 9° de la Ley 11.402; artículo 15, letras c) y d) de la Ley 15.840; Decreto Supremo N° 1.370, de 1951, del Ministerio de Obras Públicas y Vías de Comunicación, que fijó el reglamento sobre atribuciones de la Dirección General de Aguas en Juntas de Vigilancia, Asociaciones de Canalistas y Comunidades de Aguas; Decreto N° 1.021, de 1951, del Ministerio de Obras Públicas y Vías de Comunicación, que reglamenta la constitución y estatutos de la Asociación de Canalistas y Juntas de Vigilancia; y Decreto Supremo N° 745, de 1967, del Ministerio de Obras y Transportes, que establece el reglamento sobre notificaciones de las resoluciones de la Dirección General de Aguas, y D.F.L. N 162, de 1969, del Ministerio de Justicia, que fijó el texto sistematizado del Código de Aguas.
 
 ARTICULO 309°- Los derechos de aprovechamiento otorgados con anterioridad a este Código, y que no estén expresados en volumen por unidad de tiempo, se entenderán equivalentes al caudal máximo legítimamente aprovechado en los cinco años anteriores a la fecha que se produzca controversia sobre su cuantía.
 
