@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1953-10-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1954-06-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1953-10-27
-fetched_at: 2026-08-03T00:12:31.554866+00:00
+version_date: 1954-06-08
+fetched_at: 2026-08-03T00:12:43.559527+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -212,8 +212,9 @@ El Presidente de la República podrá también, a instancia de la misma Corte, m
 Estos juzgados conocerán en primera instancia:
 1) De las faltas sancionadas por los artículos 494, N.os 5, 7, 12, 16, 19, 20 y 21; 495, N.os 3, 15, 21 y 22; 496, N.os 1, 8, 11, 18, 28, 31, 32 y 33, y 497 del Código Penal;
 2) De las infracciones a la Ley de Alcoholes de que trata el Libro II de dicha ley a excepción de las contempladas en los artículos 107, 108 y 109 que se cometan fuera de la comuna asiento del Tribunal.
-3) De las demás infracciones que sean sancionadas en leyes especiales con pena de falta y cuyo conocimiento no esté entregado a autoridades distintas de los jueces del crimen, y
-4) De los delitos de que trata el Libro II del Código Penal, en los párrafos 6, 7, 8, 9, 11, 13, 14 y 15 del Título VI; en el párrafo 8 del Título VII; en el párrafo 3 del Título VIII si las lesiones son menos graves; en los párrafos 2 y 4 del Título IX, si se trata de los delitos a que se refieren, respectivamente, los artículos 436, N.o 3, 446, N.o 3 y el artículo 448; y en los párrafos 8 y 10 del mismo Título IX, con excepción del delito previsto en el artículo 472, y, en todo caso, siempre que el valor de la defraudación o perjuicio no exceda de mil pesos y que el importe del daño no suba de diez mil pesos.
+3) De las demás infracciones que sean sancionadas en leyes especiales con pena de falta y cuyo conocimiento no esté entregado a autoridades distintas de los jueces del crimen.
+4) De los delitos de que trata el Libro II del Código Penal, en los párrafos 6, 7, 8, 9, 11, 13, 14 y 15 del Título VI; en el párrafo 8 del Título VII; en el párrafo 3 del Título VIII si las lesiones son menos graves; en los párrafos 2 y 4 del Título IX, si se trata de los delitos a que se refieren, respectivamente, los artículos 436, N.o 3, 446, N.o 3 y el artículo 448; y en los párrafos 8 y 10 del mismo Título IX, con excepción del delito previsto en el artículo 472, y, en todo caso, siempre que el valor de la defraudación o perjuicio no exceda de mil pesos y que el importe del daño no suba de diez mil pesos, y
+5) De los cuasi-delitos de que trata el título X del Libro II del Código Penal, salvo los cuasi-delitos de homicidio.
 
 Art. 40. Habrá en la ciudad de Qui
 NOTA
@@ -494,14 +495,15 @@ Art. 98. Las salas de la Corte Suprema conocerán:
 6.o.- De los recursos de queja, pero la aplicación de medidas disciplinarias será de la competencia del Tribunal pleno, y
 7.o.- De los demás negocios judiciales de que corresponda conocer a la Corte Suprema y que no estén entregados expresamente al conocimiento del Pleno.
 
-Art. 99. Las Salas de la Corte Suprema conocerán por turnos mensuales: una, de los recursos de casación en el fondo y en la forma que se hayan interpuesto en materia civil, y la otra, de los demás asuntos indicados en el artículo 98.
+Art. 99. Las Salas de la Corte Suprema conocerán por turnos mensuales: una, de los recursos de casación en el fondo y en la forma que se hayan interpuesto en materia civil, y la otra, de los demás asuntos indicados en el artículo 98, con excepción de los recursos de queja de los que conocerá cualquiera de las salas.
 
 Art. 100. Derogado.
 
 Art. 101. La Corte Suprema podrá dividirse extraordinariamente en tres Salas de siete jueces cada una, cuando el Presidente así lo determine, para conocer de los negocios a que se refiere el artículo 98.
 La distribución de los Ministros de la Corte Suprema entre estas tres Salas se efectuará por sorteo, de modo que a cada una correspondan cuatro miembros.
 Estas Salas se integrarán en conformidad a la ley; pero, para el Presidente de la Corte, esta integración será facultativa.
-Producida la división en tres Salas, regirá también lo dispuesto en el artículo 99, correspondiendo a dos de las Salas conocer de los recursos de casación en el fondo y en la forma interpuestos en materia civil, y a la otra, de los demás negocios indicados en el artículo 98.
+Producida la división en tres Salas, regirá también lo dispuesto en el artículo 99, correspondiendo a dos de las Salas conocer de los recursos de casación en el fondo y en la forma interpuestos en materia civil, y a la otra, de los demás negocios indicados en el artículo 98, con excepción de los recursos de queja de los que conocerá cualquiera de las salas.
+El Tribunal en este caso designará un cuarto relator en el carácter de interino de entre aquellos que están sirviendo el cargo en propiedad en la Corte de Apelaciones de Santiago.
 
 Art. 102. El primero de Marzo de cada año la Corte Suprema iniciará sus funciones en audiencia pública, a la cual deberán concurrir su fiscal y los miembros y fiscales de la Corte de Apelaciones de Santiago.
 El Presidente de la Corte Suprema dará cuenta en esta audiencia:
