@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2001-01-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2001-05-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2001-01-18
-fetched_at: 2026-08-03T01:13:29.516130+00:00
+version_date: 2001-05-05
+fetched_at: 2026-08-03T01:14:20.890445+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -8714,6 +8714,7 @@ Cuando, a juicio del Servicio, la pensión pareciere excesiva, podrá pedir a la
 4.º Las que se dejen para la construcción o reparación de templos destinados al servicio de un culto o para el mantenimiento del mismo culto;
 5.º Aquellas cuyo único fin sea la beneficencia, la difusión de la instrucción o el adelanto de la ciencia en el país;
 6.º La destinada exclusivamente a un fin de bien público y cuya exención sea decretada por el Presidente de la República.
+7. Las asignaciones hereditarias que cedan en favor de alguna de las entidades consideradas beneficiarias, para los efectos de la Ley de Donaciones con Fines Culturales, contenida en el articulo 8º de la ley Nº18.985, sea que ellas consistan en una cantidad de dinero, que se paguen de una sola vez o en forma periódica, o bien en especies.
 
 Art. 19. Quedan derogadas todas las disposiciones legales que establezcan exenciones no contempladas en el artículo anterior.
 
