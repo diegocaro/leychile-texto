@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1975-11-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1975-12-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1975-11-08
-fetched_at: 2026-08-03T00:26:08.618801+00:00
+version_date: 1975-12-01
+fetched_at: 2026-08-03T00:26:14.621170+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -263,7 +263,6 @@ Los impuestos que sean pagados durante el mes calendario en que se incurrió en 
 El contribuyente estará afecto, además, a un interés penal del uno y medio por ciento mensual por cada mes o fracción de mes, en caso de mora en el pago del todo o de la parte que adeudare de cualquier clase de impuestos y contribuciones. Este interés se calculará sobre los valores reajustados en la forma señalada en el inciso primero.
 El monto de los intereses así determinados, no estará afecto a ningún recargo.
 No procederá el reajuste ni se devengarán los intereses penales a que se refieren los incisos precedentes, cuando el atraso en el pago se haya debido a causa imputable a los Servicios de Impuestos Internos o Tesorería, lo cual deberá ser declarado por el respectivo Director Regional o Tesorero Provincial, en su caso.
-El contribuyente podrá siempre y en cualquier tiempo pagar la totalidad del impuesto inicialmente adeudado, y desde ese momento dejarán de devengarse los reajustes e intereses señalados anteriormente; ello sin perjuicio de la facultad del Servicio de Tesorerías para perseguir el cobro judicial de los reajustes e intereses adeudados, de acuerdo al procedimiento establecido en el Título V del Libro III.
 Sin embargo, en caso de convenios de pago, cada cuota constituye un abono a los impuestos adeudados y, en consecuencia, las cuotas pagadas no seguirán devengando intereses ni serán susceptibles de reajuste.
 
 Artículo 54.- El contribuyente que enterare en arcas fiscales el impuesto determinado en la forma expresada en el artículo 24, dentro del plazo de sesenta días contado desde la fecha de la liquidación, pagará el interés moratorio calculado solamente hasta dicha fecha.
