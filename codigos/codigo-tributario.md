@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1983-07-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1983-11-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1983-07-15
-fetched_at: 2026-08-03T00:38:04.277576+00:00
+version_date: 1983-11-23
+fetched_at: 2026-08-03T00:38:28.303606+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -573,6 +573,7 @@ Artículo 118.- Para resolver en primera instancia sobre la fijación de los imp
 Artículo 119.- Corresponderá a todo tribunal resolver en única instancia sobre los impuestos de timbres, estampillas y papel sellado que deban pagarse en los juicios y gestiones que ante ellos se tramiten, y aplicar y hacer cumplir las sanciones y multas que procedan.
 
 Artículo 120.- Corresponde a las Cortes de Apelaciones conocer en segunda instancia de los recursos de apelación que se deduzcan contra las resoluciones del Director Regional, en los casos en que ellos sean procedentes de conformidad a este Código.
+Será competente para conocer de estos recursos la Corte de Apelaciones que ejerza jurisdicción en el territorio en que tenga su domicilio la sede de la Dirección Regional respectiva.
 Igualmente corresponde a las Cortes de Apelaciones conocer de las apelaciones que se deduzcan contra las sentencias que se dicten de conformidad a los artículos 117° y 118°.
 
 Artículo 121.- En cada ciudad que sea asiento de Corte de Apelaciones, habrá dos Tribunales Especiales de Alzada que conocerán de las apelaciones que se deduzcan en contra de las resoluciones dictadas por el Director Regional o quien haga sus veces, al conocer de los reclamos de avalúos de los bienes raíces, en los casos a que se refiere el artículo 149°.
@@ -792,11 +793,15 @@ Procedimientos especiales para la aplicación de ciertas multas
 Artículo 165.- Las denuncias por las infracciones sancionadas en los números 1°, 2°, 6°, 7°, 10°, 11° y 17, 19°, del artículo 97, se someterán al procedimiento que a continuación se señala:
 1°- Las multas establecidas en los números 1, 2 y 11 del artículo 97 serán determinadas por el Servicio, por Tesorerías o por los propios contribuyentes, y aplicadas sin otro trámite que el de ser giradas por el Servicio o Tesorerías o solucionadas por el contribuyente al momento de presentar la declaración o de efectuar el pago.
 2°- En los casos a que se refieren los números 6°, 7°, 10° y 17, 19°, del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
-3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar verbalmente o por escrito, dentro del plazo de cinco días, contado desde la notificación del giro o de la infracción, en su caso, ante el Director Regional de su jurisdicción.
-4°- Junto al reclamo deberán acompañarse y producirse todas las pruebas que el interesado pretenda rendir. La prueba se apreciará en conciencia.
-5°- El reclamo deberá ser resuelto en el acto por el Director Regional o a más tardar dentro de tercero día, y la resolución que se dicte no será susceptible de recurso alguno.
-6°- La iniciación del procedimiento y la aplicación de sanciones pecuniarias no constituirán impedimento para el ejercicio de la acción penal que corresponda.
-7°- Los Directores Regionales podrán delegar las funciones y la facultad que se señala en los números 3° y 5° de este artículo en los funcionarios de su jurisdicción que designe, conforme a las instrucciones que al respecto imparta el Director.
+3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar por escrito, dentro del plazo de cinco días, contado desde la notificación del giro o de la infracción, en su caso, ante el Director Regional de su jurisdicción.
+4°- Una vez formulado el reclamo, el contribuyente podrá dentro de los ocho días siguientes, acompañar y producir todas las pruebas que estime necesario rendir. El Director Regional determinará la oportunidad en que la prueba testimonial deba rendirse. Sólo podrán declarar los testigos que el contribuyente señale en el reclamo, con expresión de su nombre y apellido, domicilio, profesión u oficio. No podrán declarar más de cuatro testigos en total. En todo caso, el Director Regional podrá citar a declarar a personas que no figuren en la lista de testigos o decretar otras diligencias probatorias que estime pertinentes. La prueba se apreciará de acuerdo a las reglas de la sana crítica.
+Las resoluciones dictadas en primera instancia, con excepción de la sentencia, se entenderán notificadas a las partes desde que se incluyan en un estado que deberá formarse y fijarse diariamente en la Dirección Regional, con las formalidades que disponga el Director. Además se remitirá en la misma fecha aviso por correo al notificado. La falta de este aviso no anulará la notificación.
+5°- El Director Regional resolverá el reclamo dentro del quinto día desde que los autos queden en estado de sentencia y, en contra de ésta, sólo procederá el recurso de apelación para ante la Corte de Apelaciones respectiva, el que se concederá en ambos efectos. Dicho recurso deberá entablarse dentro de tercero día, contado desde la notificación personal o por cédula de dicha resolución. Sólo podrá concederse la apelación previa consignación por el recurrente en un Banco a la orden del Tesorero General de la República, de una cantidad igual al veinte por ciento de la multa aplicada, con un máximo de 10 Unidades Tributarias Mensuales. La consignación aludida se devolverá a la parte recurrente si el recurso fuere acogido. Si fuere desechado o el recurrente se desistiere de él, se aplicará a beneficio fiscal. Si el recurso fuere desechado por la unanimidad de los miembros del tribunal de segunda instancia, éste ordenará que el recurrente pague a beneficio fiscal una cantidad adicional igual al monto de la consignación indicada y se condenará en las costas del recursos al recurrente cuando el Servicio hubiere comparecido en segunda instancia.
+La Corte de Apelaciones verá la causa en forma preferente, en cuenta y sin esperar la comparecencia de las partes, salvo que estime conveniente el conocimiento de ella previa vista y en conformidad a las normas prescritas para los incidentes.
+En contra de la sentencia de segunda instancia no procerán los recursos de casación en la forma y en el fondo.
+6°- Se aplicarán las normas contenidas en el Título II de este Libro, al procedimiento establecido en este artículo, en cuanto la naturaleza de la tramitación lo permita.
+7°- La iniciación del procedimiento y la aplicación de sanciones pecuniarias no constituirán impedimento para el ejercicio de la acción penal que corresponda.
+8°- Los Directores Regionales podrán delegar las funciones y la facultad que se señala en los números 3° y 5° de este artículo en los funcionarios de su jurisdicción que designe, conforme a las instrucciones que al respecto imparta el Director.
 NOTA
 Las letras c) y d) del Art. 8° del DL 2869, Hacienda, publicado el 29.09.1979, reemplazaron en el inciso primero y en el N° 2 la conjunción "y" por una coma, y agregaron a continuación de los números 11 y 10, respectivamente, lo siguiente: "y 17".
 
