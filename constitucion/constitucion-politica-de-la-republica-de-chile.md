@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1974-03-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1974-07-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 241203
-version_date: 1974-03-02
-fetched_at: 2026-08-05T02:20:44.019196+00:00
+version_date: 1974-07-24
+fetched_at: 2026-08-05T02:21:02.024751+00:00
 titulo_norma: "FIJA TEXTO DE LA CONSTITUCION POLITICA DEL ESTADO"
 compuesto: DTO-1333
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -788,6 +788,9 @@ Al dictar un nuevo Estatuto, el legislador, en caso alguno, podrá suprimir, dis
 l) DEROGADO
 
 "DECIMOCTAVA: La ley deberá contemplar los derechos preferentes que deban corresponder al descubridor de un yacimiento minero, para optar al otorgamiento de la concesión sobre el mismo yacimiento.".
+
+ARTICULO DIECINUEVE TRANSITORIO: Apruébase en todos sus términos el Contrato de Transacción celebrado por el Estado de Chile, la Corporación del Cobre y las compañías "Chile Exploration Company", "Andes Copper Mining Company" y "The Anaconda Company", que consta del documento suscrito por las partes con fecha 22 de Julio de 1974 y que obra en poder del señor Contralor General de la República, mediante el cual se solucionan y se pone término a todas las controversias, dificultades, litigios, reclamaciones y demás cuestiones entre las partes, presentes o futuras, en Chile y en el extranjero, derivadas o relacionadas con la nacionalización de las empresas que pertenecieron a las disueltas sociedades "Compañía de Cobre Chuquicamata S. A." y "Compañía de Cobre Salvador S. A.", todo ello de acuerdo con las estipulaciones que en ese documento se consignan.
+A fin de llevar a efecto la transacción mencionada, no regirán las limitaciones, restricciones o requisitos vigentes o que pudieren entenderse establecidos por las leyes para efectuar los pagos, constituir las garantías, asumir las obligaciones, suscribir los documentos y efectuar las declaraciones que en dicho Contrato se contienen.
 
 Por tanto, mando que se cumpla y respete en todas sus partes como la Ley Fundamental de la República.
 ARTURO ALESSANDRI, Presidente de la República.
