@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1959-04-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1960-02-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1959-04-06
-fetched_at: 2026-08-03T00:15:07.692742+00:00
+version_date: 1960-02-12
+fetched_at: 2026-08-03T00:15:19.698323+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -306,7 +306,7 @@ Las Cortes de Apelaciones
 
 ### § 1. Su organización y atribuciones
 
-Art. 54. Habrá en la República nueve Cortes de Apelaciones, que tendrán su asiento en las ciudades de Iquique, La Serena, Valparaíso, Santiago, Talca, Chillán, Concepción, Temuco y Valdivia.
+Art. 54. Habrá en la República diez Cortes de Apelaciones, que tendrán su asiento en las ciudades de Iquique, La Serena, Valparaíso, Santiago, Talca, Chillán, Concepción, Temuco, Valdivia y Punta Arenas.
 
 Art. 55. El territorio jurisdiccional de las Cortes de Apelaciones será el siguiente:
 a) El de la Corte de Iquique comprenderá las provincias de Tarapacá y Antofagasta, exceptuado de esta última el departamento de Taltal;
@@ -317,10 +317,12 @@ e) El de la Corte de Talca comprenderá el departamento de Constitución de la p
 f) El de la Corte de Chillán comprenderá el departamento de Parral de la provincia de Linares y las provincias de Ñuble y Maule, exceptuado de esta última el departamento de Constitución;
 g) El de la Corte de Concepción comprenderá las provincias de Concepción, Bío-Bío y Arauco;
 h) El de la Corte de Temuco comprenderá las provincias de Malleco y Cautín; e
-i) El de la Corte de Valdivia comprenderá las provincias de Valdivia, Llanquihue, Chiloé, Aysén y Magallanes.
+i) El de la Corte de Valdivia comprenderá las provincias de Valdivia, Osorno, Llanquihue y Chiloé; y
+j) El de la Corte de Punta Arenas comprenderá las provincias de Aysen y Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
 
 Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indica:
 1°) Las Cortes de Iquique, La Serena, Talca, Chillán y Temuco tendrán cuatro miembros;
+1°) La Corte de Punta Arenas, tendrá tres miembros.
 2°) La Corte de Valdivia tendrá cinco miembros;
 3°) Las Cortes de Valparaíso y Concepción tendrán siete miembros; y
 4°) La Corte de Santiago tendrá veintiuno miembros.
@@ -359,6 +361,8 @@ c) De los procesos por amovilidad que se entablen en contra de los jueces de let
 Art. 64. La Corte de Santiago conocerá de los recursos de apelación y de casación en la forma y de la consulta que incidan en las causas de que haya conocido en primera instancia su Presidente.
 
 Art. 65. La Corte de Apelaciones de Temuco conocerá de las apelaciones y consultas que procedan en los asuntos que hayan sido fallados en primera instancia por los Juzgados de Indios.
+La Corte de Apelaciones de Punta Arenas será considerada, dentro del territorio de su jurisdicción, como Tribunal de Alzada del Trabajo para todos los efectos legales.
+Con este objeto, funcionará integrada en la forma establecida en los artículos 499.o, inciso primero y segundo, 500 y 501 del Código del Trabajo y regirán a su respecto las facultades establecidas en el artículo 503.o del mismo Código.
 
 Art. 66. El conocimiento de todos los asuntos entregados a la competencia de las Cortes de Apelaciones pertenecerá a las salas en que estén divididas, a menos que la ley disponga expresamente que deban conocer de ellos en Pleno
 Corresponderá a todo el tribunal el ejercicio de las facultades disciplinarias, administrativas y económicas, sin perjuicio de que las salas puedan ejercer las primeras en los casos de los artículos 542 y 543 en los asuntos que estén conociendo. También corresponderá a todo el tribunal el conocimiento de los desafueros de los Diputados y de los Senadores y de los juicios de amovilidad en contra de los jueces de letras.
@@ -905,7 +909,8 @@ La Corte de Apelaciones de Iquique se subrogará por la de La Serena;
 Las Cortes de La Serena y de Valparaíso, por la de Santiago;
 La Corte de Santiago, por la de Valparaíso;
 Las Cortes de Talca y de Concepción, por la de Chillán, y ésta por la de Concepción;
-La Corte de Temuco, por la de Valdivia, y ésta por aquélla.
+La Corte de Temuco, por la de Valdivia, y ésta por aquélla;
+La Corte de Punta Arenas, por la de Valdivia.
 En los casos en que no puedan aplicarse las reglas precedentes, conocerá la Corte de Apelaciones cuya sede esté más próxima a la de la que debe subrogarse.
 
 Art. 217. Si la Corte Suprema o algunas de sus salas se hallare en el caso previsto en el artículo 215 se llamará a integrar a los miembros no inhabilitados de la misma Corte Suprema, al fiscal del tribunal o a los abogados que se designen anualmente con este objeto.
