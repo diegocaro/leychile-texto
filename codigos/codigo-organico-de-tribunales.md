@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1975-10-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1975-10-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1975-10-13
-fetched_at: 2026-08-03T00:25:50.605419+00:00
+version_date: 1975-10-15
+fetched_at: 2026-08-03T00:25:56.610803+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -527,7 +527,7 @@ Art. 100. Derogado.
 Art. 101. La Corte Suprema podrá dividirse extraordinariamente en tres Salas de cinco jueces cada una, cuando el Presidente así lo determine, para conocer de los negocios a que se refiere el artículo 98.
 La distribución de los Ministros de la Corte Suprema entre estas tres Salas se efectuará por sorteo, de modo que a cada una correspondan cuatro miembros.
 Estas Salas se integrarán en conformidad a la ley; pero, para el Presidente de la Corte, esta integración será facultativa.
-Producida la división en tres Salas, regirá también lo dispuesto en el artículo 99, correspondiendo a dos de las Salas conocer de los recursos de casación en el fondo y en la forma interpuestos en materia civil, y a la otra, de los demás negocios indicados en el artículo 98, con excepción de los recursos de queja de los que conocerá cualquiera de las salas.
+Producida la división en tres Salas, corresponderá por turnos mensuales a una de ellas conocer de los recursos de casación en la forma y en el fondo en materia civil, a otra, conocer de los demás asuntos indicados en el artículo 98 y a la otra, conocer, indistintamente, de los recursos de casación en la forma y en el fondo de naturaleza civil o criminal, como asimismo de las demás materias a que se refiere el artículo 98. A las tres les corresponderá conocer de los recursos de queja de cualquiera naturaleza.
 El Tribunal en este caso designará un cuarto relator en el carácter de interino de entre aquellos que están sirviendo el cargo en propiedad en la Corte de Apelaciones de Santiago.
 
 Art. 102. El primero de Marzo de cada año la Corte Suprema iniciará sus funciones en audiencia pública, a la cual deberán concurrir su fiscal y los miembros y fiscales de la Corte de Apelaciones de Santiago.
