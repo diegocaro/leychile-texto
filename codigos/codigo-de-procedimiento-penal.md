@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1989-12-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1989-12-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1989-12-20
-fetched_at: 2026-08-03T00:48:58.620144+00:00
+version_date: 1989-12-22
+fetched_at: 2026-08-03T00:49:10.630893+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1356,6 +1356,11 @@ Las modificaciones introducidas al presente Código por la Ley N° 18.857, publi
 
 Artículo 349.- El inculpado o encausado será sometido a examen mental siempre que se le atribuya algún delito que la ley sanciones con presidio o reclusión mayor en grado máximo u otra superior; o cuando fuere sordomudo o mayor de setenta años, cualquiera sea la penalidad del delito que se le atribuye.
 
+Artículo 350 bis.- Si por la declaración indagatoria o por otro medio se supiere que el inculpado ha sido sometido a proceso en otra ocasión, se hará agregar a los autos un certificado del secretario del Juzgado que tuvo a su cargo el proceso, o del archivero judicial, en el que conste la fecha de comisión del delito, la fecha de la sentencia o del archivo judicial, en su caso, la individualización de los procesados, la parte dispositiva del fallo y el hecho de encontrarse o no ejecutoriado y si ha sido o no cumplida. Podrá, no obstante, el tribunal ordenar expresamente que se agregue copia íntegra del fallo.
+Si el proceso anterior hubiere sido instruido en rebeldía del procesado, o si se hallare todavía pendiente se acumularán los juicios ante el juez a quien corresponda conocer de ellos, sin perjuicio de que pueda ordenarse su sustanciación por cuerda separada.
+NOTA 1.1
+Las modificaciones introducidas al presente Código por la Ley N° 18.857, publicada en el Diario Oficial de 6 de Diciembre de 1989, rigen, según lo dispone su artículo vigésimo, noventa días después de su publicación en el Diario Oficial.
+
 #### Título VIII
 DEL CAREO
 
@@ -1619,7 +1624,9 @@ PRONUNCIAMIENTO
 Art. 434. (462) Durante el plenario las excepciones de previo y especial pronunciamiento se deducirán conjuntamente con la contestación a la acusación, la cual se formulará en carácter de subsidiaria.
 Sin
 NOTA 1.1
-perjuicio de lo dispuesto en
+perjuicio de lo di
+NOTA 1.1
+spuesto en
 NOTA 1.1
 el inciso anterior, el procesado también alegar las excepciones de los números 4°, 5°, 6°, 7° y 8° del artículo 433, como defensas de fondo para el caso de que no se acojan como artículo de previo y especial
 NOTA 1.1
