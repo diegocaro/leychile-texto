@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1993-06-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1994-08-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1993-06-22
-fetched_at: 2026-08-03T00:55:39.643961+00:00
+version_date: 1994-08-08
+fetched_at: 2026-08-03T00:57:56.432651+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -202,6 +202,25 @@ La resolución que se dicte deberá ser notificada por el estado diario a las pa
 Si en la práctica de alguna de estas medidas aparece de manifiesto la necesidad de esclarecer nuevos hechos indispensables para dictar sentencia, podrá el tribunal abrir un término especial de prueba, no superior a ocho días, que será improrrogable y limitado a los puntos que el mismo tribunal designe. En este evento, se aplicará lo establecido en el inciso segundo del artículo 90. Vencido el término de prueba, el tribunal dictará sentencia sin más trámite.
 Las providencias que se decreten en conformidad al presente artículo serán inapelables, salvo las que dicte un tribunal de primera instancia disponiendo informe de peritos o abriendo el término especial de prueba que establece el inciso precedente. En estos casos procederá la apelación en el solo efecto devolutivo.
 
+Artículo 165.- Sólo podrá suspenderse en el día designado al efecto la vista de una causa, o retardarse dentro del mismo día:
+1°. Por impedirlo el examen de las causas colocadas en lugar preferente, o la continuación de la vista de otro pleito pendiente del día anterior;
+2°. Por falta de miembros del tribunal en número suficiente para pronunciar sentencia;
+3°. Por muerte del abogado patrocinante, del procurador o del litigante que gestione por sí en el pleito.
+En estos casos, la vista de la causa se suspenderá por quince días contados desde la notificación al patrocinado o mandante de la muerte del abogado o del procurador, o desde la muerte del litigante que obraba por sí mismo, en su caso;
+4°. Por muerte del cónyuge o de alguno de los descendientes o ascendientes del abogado defensor, ocurrida dentro de los ocho días anteriores al designado para la vista;
+5°. Por solicitarlo alguna de las partes o pedirlo de común acuerdo los procuradores o los abogados de ellas.
+Cada parte podrá hacer uso de este derecho por una sola vez. En todo caso, sólo podrá ejercitarse este derecho hasta por dos veces, cualquiera que sea el número de partes litigantes, obren o no por una sola cuerda. La suspensión de común acuerdo procederá por una sola vez.
+El escrito en que se solicite la suspensión deberá ser presentado hasta las doce horas del día hábil anterior a la audiencia correspondiente. La solicitud presentada fuera de plazo será rechazada de plano. La sola presentación del escrito extingue el derecho a la suspensión aun si la causa no se ve por cualquier otro motivo. Este escrito pagará en la Corte Suprema un impuesto especial de media unidad tributaria mensual y en las Cortes de Apelaciones de un cuarto de unidad tributaria mensual y se pagará en estampillas de impuesto fiscal que se pegarán en el escrito respectivo.
+El derecho a suspender no procederá respecto del amparo;
+6°. Por tener alguno de los abogados otra vista o comparecencia a que asistir en el mismo día ante otro tribunal.
+El presidente respectivo podrá conceder la suspensión por una sola vez o simplemente retardar la vista, atendidas las circunstancias. En caso que un abogado tenga dos o más vistas en el mismo día y ante el mismo tribunal, en salas distintas, preferirá el amparo, luego la protección y en seguida la causa que se anuncie primero, retardándose o suspendiéndose las demás, según las circunstancias; y
+7°. Por ordenarlo así el tribunal, por resolución fundada, al disponer la práctica de algún trámite que sea estrictamente indispensable cumplir en forma previa a la vista de la causa. La orden de traer algún expediente o documento a la vista, no suspenderá la vista de la causa y la resolución se cumplirá terminada ésta.
+Las causas que salgan de tabla por cualquier motivo volverán a ella al lugar que tenían.
+Los errores, cambios de letras o alteraciones no substanciales de los nombres o apellidos de las partes no impiden la vista de la causa.
+Los relatores, en cada tabla, deberán dejar constancia de las suspensiones ejercidas de conformidad a la causal del N° 5°. y de la circunstancia de haberse agotado o no el ejercicio de tal derecho.
+NOTA
+Véase el Auto Acordado de la Corte de Apelaciones de Santiago,publicado el 19.08.1994.
+
 Art. 166 (173). Cuando haya de integrarse una sala con miembros que no pertenezcan a su personal ordinario, antes de comenzar la vista, se pondrá por conducto del relator o secretario en conocimiento de las partes o de sus abogados el nombre de los integrantes, y se procederá a ver la causa inmediatamente, a menos que en el acto se reclame, de palabra o por escrito, implicancia o recusación contra alguno de ellos.
 Formulada la reclamación, se suspenderá la vista y deberá formalizarse aquélla por escrito de tercero día, imponiéndose en caso contrario a la parte reclamante, por este solo hecho, una multa que no baje de medio sueldo vital ni exceda de dos sueldos vitales.
 NOTA
@@ -267,6 +286,9 @@ Art. 199 (222). La apelación de toda resolución que no sea sentencia definitiv
 Vencido este plazo, el tribunal de alzada ordenará traer los autos en relación, si se hubieren solicitado oportunamente alegatos. De lo contrario, el Presidente de la Corte ordenará dar cuenta y procederá a distribuir, mediante sorteo, la causa entre las distintas salas en que funcione el tribunal.
 Las Cortes deberán establecer horas de funcionamiento adicional para el conocimiento y fallo de las apelaciones que se vean en cuenta.
 
+Art. 200 (223). Las partes tendrán el plazo de cinco días para comparecer ante el tribunal superior a seguir el recurso interpuesto, contado este plazo desde que se reciban los autos en la secretaría del tribunal de segunda instancia.
+Cuando los autos se remitan desde un tribunal de primera instancia que funcione fuera de la comuna en que resida el de alzada, se aumentará este plazo en la misma forma que el de emplazamiento para contestar demandas, según lo dispuesto en los artículo 258 y 259.
+
 Artículo 201.- Si la apelación se ha interpuesto fuera de plazo o respecto de resolución inapelable o no es fundada o no contiene peticiones concretas, el tribunal correspondiente deberá declararla inadmisible de oficio; y si el apelante no comparece dentro de plazo, deberá declarar su deserción previa certificación que el secretario deberá efectuar de oficio. La parte apelada, en todo caso, podrá solicitar la declaración pertinente, verbalmente o por escrito.
 Del fallo que, en estas materias, dicte el tribunal de alzada podrá pedirse reposición dentro de tercero día. La resolución que declare la deserción por la no comparecencia del apelante producirá sus efectos respecto de éste desde que se dicte y sin necesidad de notificación.
 
@@ -293,6 +315,29 @@ En las solicitudes de adhesión y desistimiento se anotará por el secretario de
 Art. 218 (443). Derogado.
 
 Art. 219 (444). Derogado.
+
+Art. 222 (447). En cumplimiento de las obligaciones impuestas por el artículo 373 del Código Orgánico de Tribunales, los relatores darán cuenta de los vicios y omisiones que hayan notado en las causas del día a fin de que el tribunal resuelva si ha de llenarse previamente algún trámite.
+Las causas que se ordene tramitar, las suspendidas y las que por cualquier motivo no hayan de verse, serán anunciadas en la tabla antes de comenzar la relación de las demás. Asimismo, en esa oportunidad deberán señalarse aquellas causas que no se verán durante la audiencia, por falta de tiempo. La audiencia se prorrogará, si fuere necesario, hasta ver la última de las causas que resten en la tabla.
+NOTA
+LEY 19317
+Art. 1º Nº 3
+D.O. 08.08.1994
+NOTA
+Véanse las letras d) y f) del Auto Acordado de la Corte de Apelaciones de Santiago, publicado el 19.08.1994.
+
+Artículo 223.- La vista de la causa se iniciará con la relación, la que se efectuará en presencia de los abogados de las partes que hayan asistido y se hubieren anunciado para alegar. No se permitirá el ingreso a la sala de los abogados una vez comenzada la relación. Los Ministros podrán, durante la relación, formular preguntas o hacer observaciones al relator, las que en caso alguno podrán ser consideradas como causales de inhabilidad.
+Concluida la relación, se procederá a escuchar, en audiencia pública, los alegatos de los abogados que se hubieren anunciado. Alegará primero el abogado del apelante y en seguida el del apelado. Si son varios los apelantes, hablarán los abogados en el orden en que se hayan interpuesto las apelaciones. Si son varios los apelados, los abogados intervendrán por el orden alfabético de aquéllos.
+Los abogados tendrán derecho a rectificar los errores de hecho que observaren en el alegato de la contraria, al término de éste, sin que les sea permitido replicar en lo concerniente a puntos de derecho.
+La duración de los alegatos de cada abogado se limitará a media hora. El tribunal, a petición del interesado, podrá prorrogar el plazo por el tiempo que estime conveniente.
+Durante los alegatos, el Presidente de la sala podrá invitar a los abogados a que extiendan sus consideraciones a cualquier punto de hecho o de derecho comprendido en el proceso, pero esta invitación no obstará a la libertad del defensor para el desarrollo de su exposición. Una vez finalizados los alegatos, y antes de levantar la audiencia, podrá también pedirles que precisen determinados puntos de hecho o de derecho que considere importantes.
+Al término de la audiencia, los abogados podrán dejar a disposición del tribunal una minuta de sus alegatos.
+El relator dará cuenta a la sala de los abogados que hubiesen solicitado alegatos o se hubiesen anunciado para alegar y no concurrieren a la audiencia respectiva para oír la relación ni hacer el alegato. El Presidente de la sala oirá al interesado, y, si encontrare mérito para sancionarlo, le aplicará una multa no inferior a una ni superior a cinco unidades tributarias mensuales, la que se duplicará en caso de reiteración de la falta dentro de un mismo año calendario. El sancionado no podrá alegar ante esa misma Corte mientras no certifique el secretario de ella, en el correspondiente expediente, que se ha pagado la multa impuesta.
+NOTA
+LEY 19317
+Art. 1º Nº 4
+D.O. 08.08.1994
+NOTA
+Véase el Auto Acordado de la Corte Suprema, publicado el 16.09.1994.
 
 ### Título XIX
 DE LA EJECUCION DE LAS RESOLUCIONES

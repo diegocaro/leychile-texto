@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1994-05-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1994-08-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1994-05-25
-fetched_at: 2026-08-03T00:57:44.421566+00:00
+version_date: 1994-08-08
+fetched_at: 2026-08-03T00:58:08.444089+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1646,7 +1646,7 @@ Art. 372. Son funciones de los relatores:
 6°) Cotejar con los procesos los informes en derecho, y anotar bajo su firma la conformidad o disconformidad que notaren entre el mérito de éstos y los hechos expuestos en aquéllos.
 
 Art. 373. Antes de hacer la relación deben los relatores dar cuenta a la Corte de todo vicio u omisión sustancial que notaren en los procesos; de los abusos que pudieren dar mérito a que la Corte ejerza las atribuciones que le confieren los artículos 539 y 540 y de todas aquellas faltas o abusos que las leyes castigan con multas determinadas.
-Las causas que se ordene tramitar, las suspendidas y las que por cualquier motivo no hayan de verse, serán anunciadas en la tabla antes de comenzar la relación de las demás. Siempre que sea posible se hará en cualquier instante de la audiencia igual anuncio de las causas que no hayan de verse por falta de tiempo.
+Las causas que se ordene tramitar, las suspendidas y las que por cualquier motivo no hayan de verse, serán anunciadas en la tabla antes de comenzar la relación de las demás. Asimismo, en esa oportunidad deberán señalarse aquellas causas que no se verán durante la audiencia, por falta de tiempo. La audiencia se prorrogará, si fuere necesario, hasta ver la última de las causas que resten en la tabla.
 
 Art. 374. Las relaciones deberán hacerlas de manera que la Corte quede enteramente instruída del asunto actualmente sometido a su conocimiento, dando fielmente razón de todos los documentos y circunstancias que puedan contribuir a aquel objeto.
 
