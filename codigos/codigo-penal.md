@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1929-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1932-06-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1929-01-01
-fetched_at: 2026-08-03T00:05:01.242518+00:00
+version_date: 1932-06-16
+fetched_at: 2026-08-03T00:05:13.242888+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2081,11 +2081,11 @@ ART. 435.
 Cuando en el robo concurriere alguna de las circunstancias señaladas en el núm. 3.° del art. 433 y no se hubiere cometido en despoblado y en cuadrilla, el culpable sufrirá la pena de presidio mayor en su grado mínimo a medio.
 Causándose las lesiones de que trata el núm. 2° del art. 397, la pena será presidio menor en su grado máximo a presidio mayor en su grado mínimo.
 
-Artículo 436. Fuera de los casos previstos en los artículos precedentes, los robos ejecutados con violencia o intimidación en las personas, serán penados:
-1.° Con presidio menor en su grado máximo, a presidio mayor en su grado mínimo, si el importe de las cosas robadas excediere de mil pesos;
-2.° Con presidio menor en sus grados medio a máximo, cuando excediere de cien pesos y no pasare de mil pesos;
-3.° Con presidio menor en sus grados mínimo a medio, si no excediere de cien pesos.
-Para la aplicación de estas penas, se estimará como circunstancia agravante, haberse cometido el delito arrebatando por sorpresa, ropa, alhajas otros objetos a la persona que los lleva consigo, aparentando riñas en lugar de concurrencia o haciendo otras maniobras dirigidas a causar agolpamiento y confusión, a fin de robar por este medio o proporcionar ocasión para que roben los compañeros.
+Art. 436. Fuera de los casos previstos en los artículos precedentes, los robos ejecutados con violencia o intimidación en las personas, serán penados:
+1.o Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, si el importe de las cosas robadas excediere de mil quinientos pesos;
+2.o Con presidio menor en sus grados medio a máximo, cuando excediere de quinientos pesos y no pasare de mil quinientos pesos;
+3.o Con presidio menor en sus grados mínimo a medio si no excediere de quinientos pesos.
+Para la aplicación de estas penas, se estimará como circunstancia agravante haberse cometido el delito arrebatando por sorpresa ropa, alhajas u otros objetos a la persona que los lleva consigo, o aparentando riñas en lugar de concurrencia o haciendo otras maniobras dirigidas a causar agolpamiento o confusión, a fin de robar por este medio o proporcionar ocasión para que roben los compañeros.
 
 ART. 437.
 La tentativa de robo acompañada de alguno de los delitos expresados en el art. 433, será penada como el robo consumado.
@@ -2115,7 +2115,7 @@ El robo cometido con armas o sin ellas en lugar no habitado, se castigará con p
 2.º Fractura de puertas interiores, armarios, arcas u otra clase de muebles u objetos cerrados o sellados.
 3.º Haber hecho uso de llaves falsas, o verdadera que se hubiere sustraído, de ganzúas u otros instrumentos semejantes para entrar en el lugar del robo o abrir los muebles cerrados.
 
-Artículo 443. En los casos de los tres artículos precedentes, la pena será presidio menor en su grado medio, si el importe del robo no excediere de cien pesos.
+Art. 443. En los casos de los tres artículos precedentes, la pena será presidio menor en su grado medio, si el importe del robo no excediere de quinientos pesos.
 
 ART. 444.
 Se presume autor de tentativa de robo al que se introdujere con forado, fractura, escalamiento, uso de llave falsa o de llave verdadera sustraída o de ganzúa en algún aposento, casa, edificio habitado o destinado a la habitación o en sus dependencias.
@@ -2126,10 +2126,10 @@ El que fabricare, expendiere o tuviere en su poder llaves falsas, ganzúas u otr
 #### § IV.
 Del hurto.
 
-Artículo 446. Los reos de hurto serán castigados:
-1.° Con presidio menor en sus grados medio a máximo, si el valor de la cosa hurtada excediere de mil pesos;
-2.° Con presidio menor en su grado medio, cuando su valor excediere de ciento y no pasare de mil pesos;
-3.° Con presidio menor en su grado mínimo, si el importe de la cosa hurtada no subiere de cien pesos ni bajare de treinta pesos.
+Art. 446. Los reos de hurto serán castigados:
+1.o Con presidio menor en sus grados medio a máximo, si el valor de la cosa hurtada excediere de mil quinientos pesos;
+2.o Con presidio menor en su grado medio, cuando su valor excediere de quinientos pesos y no pasare de mil quinientos;
+3.o Con presidio menor en su grado mínimo, si el importe de la cosa hurtada no subiere de quinientos pesos ni bajare de doscientos pesos.
 
 ART. 447.
 En los casos del artículo anterior podrá aplicarse la pena inmediatamente superior en grado:
@@ -2145,9 +2145,7 @@ También será considerado reo de hurto y castigado con presidio menor en su gra
 #### § V.
 Disposiciones comunes a los tres párrafos anteriores.
 
-ART. 449.
-Si el robo o el hurto fuere cometido en lugar destinado al ejercicio de un culto permitido en la República y los objetos sustraídos estuvieren también destinados a dicho culto, se aplicarán respectivamente a los malhechores las penas superiores en un grado a las que les hubieran correspondido sin estas circunstancias.
-La misma regla se observará, en cuanto a la imposición de las penas, en los casos de robos o hurtos de caballos o bestias de silla o carga, de ganado mayor o menor.
+ART. 449. Derogado.
 
 ART. 450.
 Para determinar cuando el robo o hurto se comete con armas, se estará a lo dispuesto en el art. 132.
@@ -2219,10 +2217,10 @@ En la misma pena incurrirá si otorgare, en perjuicio de dichos acreedores, cont
 #### § VIII.
 Estafas y otros engaños.
 
-Artículo 467. El que defraudare a otro en la sustancia, cantidad o calidad de las cosas que le entregare en virtud de un título obligatorio, será penado:
-1.° Con presidio o relegación menores en sus grados medio a máximo, si la defraudación excediere de mil pesos:
-2.° Con presidio o relegación menores en sus grados medios, cuando excediere de cien pesos y no pasare de mil pesos;
-3.° Con presidio o relegación menores en sus grados mínimos, si el valor de la defraudación no excediere de cien pesos ni bajare de treinta pesos.
+Art. 467. El que defraudare a otro en la substancia, cantidad o calidad de las cosas que le entregare en virtud de un título obligatorio, será penado:
+1.o Con presidio o relegación menores en sus grados medio a máximo, si la defraudación excediere de mil quinientos pesos;
+2.o Con presidio o relegación menores en su grado medio, cuando excediere de quinientos pesos y no pasare de mil quinientos pesos;
+3.o Con presidio o relegación menores en sus grados mínimos, si el valor de la defraudación no excediere de quinientos pesos ni bajare de doscientos pesos.
 
 ART. 468.
 Incurrirá en las penas del artículo anterior el que defraudare a otro usando de nombre fingido, atribuyéndose poder, influencia o crédito supuestos, aparentando bienes, crédito, comisión, empresa o negociación imaginarios, o valiéndose de cualquier otro engaño semejante.
@@ -2386,7 +2384,7 @@ Sufrirán la pena de prisión en sus grados medio a máximo o multa de diez a ci
 16.° El que sin estar legítimamente autorizado impidiere a otro con violencia hacer lo que la ley no prohíbe, o le compeliere a ejecutar lo que no quiera.
 17.° El que quebrantare los reglamentos o disposiciones de la autoridad sobre la custodia, conservación y trasporte de materias inflamables o corrosivas o productos químicos que puedan causar estragos.
 18.° El dueño de animales feroces que en lugar accesible al público los dejare sueltos o en disposición de causar mal.
-19.° El que ejecutare alguno de los hechos penados en los artículo 189, 446, inciso 1.° del 448, 467, 469 y 470, siempre que el delito se refiera a valores que no excedan de treinta pesos.
+19.° El que ejecutare alguno de los hechos penados en los artículo 189, 446, inciso 1.° del 448, 467, 469 y 470, siempre que el delito se refiera a valores que no excedan de doscientos pesos o se trate de daños de igual valor.
 20.° El que con violencia se apoderare de una cosa perteneciente a su deudor para hacerse pago con ella.
 21.° El que con violencia en las cosas entrare a cazar o pescar en lugar cerrado, o en lugar abierto contra expresa prohibición intimada personalmente.
 
@@ -2397,7 +2395,7 @@ Serán castigados con prisión en sus grados mínimo a medio conmutable en multa
 3.° El subordinado del orden civil que faltare al respeto y sumisión debidos a sus jefes o superiores.
 4.° El particular que cometiere igual falta respecto de cualquier funcionario revestido de autoridad pública, mientras ejerce sus funciones, y respecto de toda persona constituida en dignidad, aun cuando no sea en el ejercicio de sus funciones, siempre que fuere conocida o se anunciare como tal; sin perjuicio de imponer, tanto en este caso como en el anterior, la pena correspondiente al crimen o simple delito, si lo hubiere.
 5.° El que públicamente ofendiere el pudor con acciones o dichos deshonestos.
-6.° El cónyuge que escandalizare con sus disensiones domésticas después de haber sido amonestado por la autoridad.
+6.° El cónyuge que escandalizare con sus discensiones domésticas después de haber sido amonestado por la autoridad.
 7.° El que infringiere los reglamentos de policía en lo concerniente a mujeres públicas.
 8.° El que diere espectáculos públicos sin licencia de la autoridad, o traspasando la que se le hubiere concedido.
 9.° El que abriere establecimientos sin licencia de la autoridad, cuando sea necesaria.
@@ -2412,8 +2410,8 @@ Serán castigados con prisión en sus grados mínimo a medio conmutable en multa
 18.° El dueño o encargado de fondas, cafés, confiterías u otros establecimientos destinados al despacho de comestibles o bebidas que faltare a los reglamentos de policía relativos a la conservación o uso de vasijas o útiles destinados para el servicio.
 19.° El que faltando a las órdenes de la autoridad, descuidare reparar o demoler edificios ruinosos.
 20.° El que infringiere las reglas de seguridad concernientes a la apertura de pozos o excavaciones y al depósito de materiales o escombros, o a la colocación de cualesquiera otros objetos en las calles, plazas, paseos públicos o en la parte exterior de los edificios que embaracen el tráfico o puedan causar daño a los transeúntes.
-21.° El que intencionalmente o con negligencia culpable, causare daño que no exceda de treinta pesos en bienes públicos o de propiedad particular.
-22.° El que, aprovechando aguas de otro o distrayéndolas de su curso, causare daño que no exceda de treinta pesos.
+21.° El que intencionalmente o con negligencia culpable, causare daño que no exceda de doscientos pesos o de igual valor en bienes públicos o de propiedad particular.
+22.° El que, aprovechando aguas de otro o distrayéndolas de su curso, causare daño que no exceda de doscientos pesos o de igual valor.
 
 ART. 496.
 Sufrirán la pena de prisión en su grado mínimo conmutable en multa de uno a treinta pesos:
