@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1992-09-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1993-07-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1992-09-03
-fetched_at: 2026-08-03T00:54:32.161294+00:00
+version_date: 1993-07-01
+fetched_at: 2026-08-03T00:55:59.076719+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1791,7 +1791,7 @@ El rapto de una mujer de buena fama ejecutado contra su voluntad y con miras des
 En todo caso se impondrá la pena de presidio mayor en cualquiera de sus grados si la raptada fuere menor de 12 años.
 
 ART. 359.
-El rapto de una doncella menor de veinte y mayor de doce años, ejecutado con su anuencia, será castigado con presidio menor en cualquiera de sus grados.
+El rapto de una doncella menor de dieciocho y mayor de doce años, ejecutado con su anuencia, será castigado con presidio menor en cualquiera de sus grados.
 
 ART. 360.
 Los procesados por delito de rapto que no dieren razón del paradero de la persona robada, o explicaciones satisfactorias sobre su muerte o desaparición, incurrirán en la pena de presidio mayor en cualquiera de sus grados.
@@ -1814,7 +1814,7 @@ Los delitos de que trata este párrafo se consideran consumados desde que hay pr
 Del estupro, incesto, corrupción de menores y otros actos deshonestos.
 
 ART. 363.
-El estupro de una doncella, mayor de doce años y menor de veinte, interviniendo engaño, será castigado con presidio menor en cualquiera de sus grados.
+El estupro de una doncella, mayor de doce años y menor de dieciocho, interviniendo engaño, será castigado con presidio menor en cualquiera de sus grados.
 
 ART. 364.
 En igual pena incurrirá el que, conociendo las relaciones que lo ligan, cometiere incesto con un ascendiente o descendiente por consanguinidad, legítima o ilegítima o afinidad legítima o con un hermano consanguíneo legítimo o ilegítimo, aunque sea mayor de veinte años.
@@ -1828,7 +1828,7 @@ Se impondrá la pena de presidio menor en su grado máximo a presidio mayor en s
 Se impondrá la pena de presidio mayor en su grado medio a máximo si el ofendido fuere menor de catorce años cumplidos, aun cuando no concurra ninguna de las circunstancias expresadas en los dos números del inciso anterior.
 
 ART. 366.
-El que abusare deshonestamente de persona de uno u otro sexo mayor de doce años y menor de veinte, será castigado con presidio menor en cualquiera de sus grados. Si concurriere alguna de las circunstancias expresadas en el art. 361, se estimará como agravante del delito, aun cuando sea mayor de veinte años la persona de quien se abusa.
+El que abusare deshonestamente de persona de uno u otro sexo mayor de doce años y menor de dieciocho, será castigado con presidio menor en cualquiera de sus grados. Si concurriere alguna de las circunstancias expresadas en el art. 361, se estimará como agravante del delito, aun cuando sea mayor de veinte años la persona de quien se abusa.
 
 ART. 367.
 El que, habitualmente o con abuso de autoridad o confianza, promoviere o facilitare la prostitución o corrupción de menores de edad para satisfacer los deseos de otro, sufrirá las penas de presidio mayor en cualquiera de sus grados y multa de veintiuna a treinta unidades tributarias mensuales.
