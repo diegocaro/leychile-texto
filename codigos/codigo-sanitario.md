@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1968-05-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1968-05-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1968-05-16
-fetched_at: 2026-08-03T00:18:48.329898+00:00
+version_date: 1968-05-24
+fetched_at: 2026-08-03T00:18:54.330333+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -466,8 +466,8 @@ Artículo 112°.- Sólo podrán desempeñar actividades propias de la medicina, 
 Asimismo, podrán ejercer profesiones auxiliares de las referidas en el inciso anterior quienes cuenten con autorización del Director General de Salud. Un Reglamento determinará las profesiones auxiliares y la forma y condiciones en que se concederá dicha autorización, la que será permanente, a menos que el Director General de Salud, por resolución fundada, disponga su cancelación.
 
 Artículo 113°.- Se considera ejercicio ilegal de la profesión de médico-cirujano todo acto realizado con el propósito de formular diagnóstico, pronóstico o tratamiento en pacientes o consultantes, en forma directa o indirecta, por personas que no están legalmente autorizadas para el ejercicio de la medicina.
-Sólo a los médicos cirujanos les estará permitido aplicar procedimientos psicoterapéuticos y provocar sueño inducido o hipnosis.
-No obstante lo dispuesto en los incisos anteriores, quienes cumplan funciones de colaboración médica, podrán realizar algunas de las actividades señaladas, siempre que medie indicación y supervigilancia médica. Asimismo, podrán atender enfermos en caso de accidente súbitos o en situaciones de extrema urgencia cuando no haya médico-cirujano alguno en la localidad o habiéndolo, no sea posible su asistencia profesional.
+Los servicios profesionales del psicólogo comprenden la aplicación de principios y procedimientos psicológicos que tienen por finalidad asistir, aconsejar o hacer psicoterapia a las personas con el propósito de promover el óptimo desarrollo potencial de su personalidad o corregir sus alteraciones o desajustes. Cuando estos profesionales presten sus servicios a personas que estén mentalmente enfermas, deberán poner de inmediato este hecho en conocimiento de un médico especialista y podrán colaborar con éste en la atención del enfermo.
+No obstante lo dispuesto en el inciso anterior, quienes cumplan funciones de colaboración médica, podrán realizar algunas de las actividades señaladas, siempre que medie indicación y supervigilancia médica. Asimismo, podrán atender enfermos en caso de accidentes súbitos o en situaciones de extrema urgencia cuando no hay médico-cirujano alguno en la localidad o habiéndolo, no sea posible su asistencia profesional.
 
 Artículo 114°.- Prohíbese a una misma persona ejercer conjuntamente las profesiones de médico-cirujano y las de farmacéutico, químico-farmacéutico o bío-químico.
 
