@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1997-12-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1999-01-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 1997-12-22
-fetched_at: 2026-08-05T02:28:46.335231+00:00
+version_date: 1999-01-14
+fetched_at: 2026-08-05T02:29:04.344705+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -559,7 +559,11 @@ Para hacer ejecutar sus resoluciones, y practicar o hacer practicar los actos de
 La autoridad requerida deberá cumplir sin más trámite el mandato judicial y no podrá calificar su fundamento u oportunidad, ni la justicia o legalidad de la resolución que se trata de ejecutar.
 
 Artículo 74.- Una ley orgánica constitucional, determinará la organización y atribuciones de los tribunales que fueren necesarios para la pronta y cumplida administración de justicia en todo el territorio de la República. La misma ley señalará las calidades que respectivamente deban tener los jueces y el número de años que deban haber ejercido la profesión de abogado las personas que fueren nombradas ministros de Corte o jueces letrados.
-La ley orgánica constitucional relativa a la organización y atribuciones de los tribunales sólo podrá ser modificada oyendo previamente a la Corte Suprema.
+La ley orgánica constitucional relativa a la organización y atribuciones de los tribunales, sólo podrá ser modificada oyendo previamente a la Corte Suprema de conformidad a lo establecido en la ley orgánica constitucional respectiva.
+La Corte Suprema deberá pronunciarse dentro del plazo de treinta días contados desde la recepción del oficio en que se solicita la opinión pertinente.
+Sin embargo, si el Presidente de la República hubiere hecho presente una urgencia al proyecto consultado, se comunicará esta circunstancia a la Corte.
+En dicho caso, la Corte deberá evacuar la consulta dentro del plazo que implique la urgencia respectiva.
+Si la Corte Suprema no emitiere opinión dentro de los plazos aludidos, se tendrá por evacuado el trámite.
 
 Artículo 75.- En cuanto al nombramiento de los jueces, la ley se ajustará a los siguientes preceptos generales.
 La Corte Suprema se compondrá de veintiún ministros.
