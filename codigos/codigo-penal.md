@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1927-10-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1928-01-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1927-10-12
-fetched_at: 2026-08-03T00:04:37.235597+00:00
+version_date: 1928-01-03
+fetched_at: 2026-08-03T00:04:49.238520+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2355,6 +2355,9 @@ Iguales penas se aplicarán al dueño de animales feroces que, por descuido culp
 
 ART. 492.
 Las penas del art. 490 se impondrán también respectivamente al que, con infracción de los reglamentos y por mera imprudencia o negligencia, ejecutare un hecho o incurriere en una omisión que, a mediar malicia, constituiría un crimen o un simple delito contra las personas.
+En los accidentes ocasionados por vehículos de tracción mecánica o animal de que resultaren lesiones o muerte de un peatón, se presumirá, salvo prueba en contrario, la culpabilidad del conductor del vehículo, dentro del radio urbano de una ciudad, cuando el accidente hubiere ocurrido en el cruce de las calzadas o en la extensión de cinco metros anterior a cada esquina; y, en todo caso, cuando el conductor del vehículo contravenga las ordenanzas municipales con respecto a la velocidad, o al lado de la calzada que debe tomar.
+Se entiende por cruce, el área comprendida por la intersección de dos calzadas.
+No se presumirá la culpabilidad del conductor, si el accidente se produjere en otro sitio de las calzadas.
 
 ART. 493.
 Las disposiciones del presente párrafo no se aplicarán a los cuasidelitos especialmente penados en este Código.
