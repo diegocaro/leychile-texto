@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1985-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1985-11-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1985-10-03
-fetched_at: 2026-08-03T00:41:58.504846+00:00
+version_date: 1985-11-23
+fetched_at: 2026-08-03T00:42:10.522904+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -717,7 +717,7 @@ El conocimiento de esas excepciones corresponde al tribunal en lo civil.
 
 Art. 175. En los departamentos en donde hubiere más de un juez de letras, se dividirá el ejercicio de la jurisdicción, estableciéndose un turno entre todos los jueces, salvo que la ley hubiere cometido a uno de ellos el conocimiento de determinadas especies de causas.
 El turno se ejercerá por semanas. Comenzará a desempeñarlo el juez más antiguo, y seguirán desempeñándolo todos los demás por el orden de su antigüedad.
-En materia criminal este turno comenzará a las 24 horas del día sábado de cada semana.
+En materia criminal este turno comenzará a las 24 horas del día domingo de cada semana.
 Cada juez de letras deberá conocer de todos los asuntos judiciales que se promuevan durante su turno, y seguirá conociendo de ellos hasta su conclusión.
 
 Art. 176. En los lugares de asiento de Corte en que hubiere más de un juez de letras en lo civil, deberá presentarse a la secretaría de la Corte toda demanda o gestión judicial que se iniciare y que deba conocer alguno de dichos jueces, a fin de que se designe el juez a quien corresponda su conocimiento.
@@ -1228,7 +1228,7 @@ Art. 288. Las ternas para proveer el cargo de notario o conservador de bienes ra
 
 Art. 289. Las ternas para proveer alguno de los cargos de la segunda o tercera serie del Escalafón Secundario se formarán preferentemente:
 a) Con los funcionarios con título de abogado de la misma serie; y
-b) Con los abogados oponentes y con los funcionarios sin título de abogado de la misma serie del cargo que se trata de proveer, siempre que tengan más de diez años en el ejercicio del cargo. Podrán, también, figurar en estas ternas los empleados subalternos del Poder Judicial que pertenezcan a una de las cuatro primeras categorías del respectivo escalafón y que hayan figurado en ellas el mismo tiempo antes expresado.
+b) Con los abogados oponentes y con los funcionarios sin título de abogado de la misma serie del cargo que se trata de proveer, siempre que tengan más de dos años de permanencia en la categoría inmediatamente inferior, para los que pretendan ascender una categoría; y más de diez años para aquellos que opten a un cargo superior en dos o más categorías. Podrán también figurar en estas ternas los empleados del Poder Judicial a que se refiere el artículo 292, que pertenezcan a una de las cuatro primeras categorías del respectivo escalafón y que hayan figurado en ellas más de diez años.
 
 Art. 290. En las ternas para proveer cargos judiciales que no requieren título de abogado, se preferirá a los oponentes que lo posean.
 
