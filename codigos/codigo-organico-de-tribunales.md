@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1992-07-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1992-08-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1992-07-07
-fetched_at: 2026-08-03T00:53:35.619074+00:00
+version_date: 1992-08-10
+fetched_at: 2026-08-03T00:53:47.631098+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -161,9 +161,9 @@ Cinco juzgados de letras en lo civil con asiento en la comuna de Valparaíso y j
 Tres juzgados de letras en lo civil con asiento y jurisdicción sobre la comuna de Viña del Mar, los cuales tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 B.- JUZGADOS DEL CRIMEN:
 Cinco juzgados del crimen con asiento en la comuna de Valparaíso y jurisdicción sobre las comunas de Valparaíso y Juan Fernández.
-Dos juzgados del crimen con asiento y jurisdicción sobre la comuna de Viña del Mar, los cuales tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+Tres juzgados del crimen con asiento y jurisdicción sobre la comuna de Viña del Mar, los cuales tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 C.- JUZGADOS CON COMPETENCIA COMUN:
-Un juzgado de letras con asiento en la comuna de Quilpué, con jurisdicción sobre la misma comuna;
+Dos juzgados de letras con asiento en la comuna de Quilpué, con jurisdicción sobre la misma comuna;
 Un juzgado de letras con asiento en la comuna de Villa Alemana, con jurisdicción sobre la misma comuna;
 Un juzgado de letras con asiento en la comuna de Casablanca, con jurisdicción sobre las comunas de Casablanca, El Quisco y Algarrobo, de la Quinta Región y la comuna de Curacaví , de la Región Metropolitana;
 Un juzgado de letras con asiento en la comuna de La Ligua, con jurisdicción sobre las comunas de La Ligua, Cabildo, Zapallar y Papudo;
@@ -186,10 +186,10 @@ Dos juzgados con asiento en la comuna de San Fernando, con jurisdicción sobre l
 Dos juzgados con asiento en la comuna de Santa Cruz, con jurisdicción sobre las comunas de Santa Cruz, Chépica, Lolol, Pumanque, Palmilla y Peralillo, y Un juzgado con asiento en la comuna de Pichilemu, con jurisdicción sobre las comunas de la provincia Cardenal Caro, con excepción de la comuna de Navidad.
 
 Art. 34. En la Séptima Región, del Maule, existirán los siguientes juzgados de letras:
-Tres juzgados con asiento en la comuna de Talca, con jurisdicción sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule y Pencahue;
+Cuatro juzgados con asiento en la comuna de Talca, con jurisdicción sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule y Pencahue;
 Un juzgado con asiento en la comuna de Constitución, con jurisdicción sobre las comunas de Constitución y Empedrado;
 Un juzgado con asiento en la comuna de Curepto, con jurisdicción sobre la misma comuna;
-Dos juzgados con asiento en la comuna de Curicó, con jurisdicción sobre las comunas de Curicó, Teno, Romeral y Rauco;
+Tres juzgados con asiento en la comuna de Curicó, con jurisdicción sobre las comunas de Curicó, Teno, Romeral y Rauco;
 Un juzgado con asiento en la comuna de Licantén, con jurisdicción sobre las comunas de Licantén, Hualañé y Vichuquén;
 Un juzgado con asiento en la comuna de Molina, con jurisdicción sobre las comunas de Molina y Sagrada Familia;
 Tres juzgados con asiento en la comuna de Linares, con jurisdicción sobre las comunas de Linares , Yerbas Buenas, Colbún y Longaví;
@@ -211,8 +211,9 @@ Un juzgado con asiento en la comuna de Yungay, con jurisdicción sobre las comun
 Un juzgado con asiento en la comuna de Bulnes, con jurisdicción sobre las comunas de Bulnes, Quillón y San Ignacio;
 Un juzgado con asiento en la comuna de Coelemu, con jurisdicción sobre las comunas de Coelemu y Ranquil;
 Un juzgado con asiento en la comuna de Quirihue, con jurisdicción sobre las comunas de Quirihue, Ninhue, Portezuelo, Treguaco y Cobquecura;
-Tres juzgados con asiento en la comuna de Los Angeles, con jurisdicción sobre las comunas de Los Angeles, Quilleco, Antuco y Santa Bárbara;
-Un juzgado con asiento en la comuna de Mulchén, con jurisdicción sobre las comunas de Mulchén y Quilaco;
+Tres juzgados con asiento en la comuna de Los Angeles, con jurisdicción sobre las comunas de Los Angeles, Quilleco y Antuco;
+Un juzgado con asiento en la comuna de Santa Bárbara, con jurisdicción sobre la misma comuna y la comuna de Quilaco;
+Un juzgado con asiento en la comuna de Mulchén, con jurisdicción sobre la comuna de Mulchén;
 Un juzgado con asiento en la comuna de Nacimiento, con jurisdicción sobre las comunas de Nacimiento y Negrete;
 Un juzgado con asiento en la comuna de Laja, con jurisdicción sobre la misma comuna;
 Un juzgado con asiento en la comuna de Yumbel, con jurisdicción sobre las comunas de Yumbel, Cabrero y San Rosendo;
@@ -222,7 +223,7 @@ Un juzgado con asiento en la comuna de Santa Juana, con jurisdicción sobre la m
 Un juzgado con asiento en la comuna de Lota, con jurisdicción sobre la misma comuna;
 Un juzgado con asiento en la comuna de Coronel, con jurisdicción sobre la misma comuna;
 Un juzgado con asiento en la comuna de Lebu, con jurisdicción sobre las comunas de Lebu y Los Alamos;
-Un juzgado con asiento en la comuna de Arauco, con jurisdicción sobre la misma comuna;
+Dos juzgados con asiento en la comuna de Arauco, con jurisdicción sobre la misma comuna;
 Un juzgado con asiento en la comuna de Curanilahue, con jurisdicción sobre la misma comuna, y
 Un juzgado con asiento en la comuna de Cañete, con jurisdicción sobre las comunas de Cañete, Contulmo y Tirúa.
 
@@ -232,7 +233,7 @@ Dos juzgados en lo civil con asiento en la comuna de Temuco, con jurisdicción s
 B.- JUZGADOS DEL CRIMEN:
 Tres juzgados del crimen con asiento en la comuna de Temuco, con jurisdicción sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco y Freire.
 C.- JUZGADOS CON COMPETENCIA COMUN:
-Un juzgado con asiento en la comuna de Angol, con jurisdicción sobre las comunas de Angol, Renaico, Los Sauces y Purén;
+Dos juzgados con asiento en la comuna de Angol, con jurisdicción sobre las comunas de Angol, Renaico, Los Sauces y Purén;
 Un juzgado con asiento en la comuna de Collipulli, con jurisdicción sobre las comunas de Collipulli y Ercilla;
 Un juzgado con asiento en la comuna de Traiguén, con jurisdicción sobre las comunas de Traiguén y Lumaco;
 Un juzgado con asiento en la comuna de Victoria, con jurisdicción sobre la misma comuna;
@@ -250,9 +251,10 @@ Cuatro juzgados con asiento en la comuna de Valdivia, con jurisdicción sobre la
 Un juzgado con asiento en la comuna de Mariquina, con jurisdicción sobre las comunas de Mariquina, Máfil y Lanco;
 Un juzgado con asiento en la comuna de Los Lagos, con jurisdicción sobre las comunas de Los Lagos y Futrono;
 Un juzgado con asiento en la comuna de Panguipulli, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de La Unión, con jurisdicción sobre las comunas de La Unión y Paillaco;
+Un juzgado con asiento en la comuna de La Unión, con jurisdicción sobre la misma comuna;
+Un juzgado con asiento en la comuna de Paillaco, con jurisdicción sobre la misma comuna;
 Un juzgado con asiento en la comuna de Río Bueno, con jurisdicción sobre las comunas de Río Bueno y Lago Ranco;
-Tres juzgados con asiento en la comuna de Osorno , con jurisdicción sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
+Cuatro juzgados con asiento en la comuna de Osorno , con jurisdicción sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
 Un juzgado con asiento en la comuna de Río Negro, con jurisdicción sobre las comunas de Río Negro y Purranque;
 Tres juzgados con asiento en la comuna de Puerto Montt, con jurisdicción sobre las comunas de Puerto Montt, Cochamó y Hualaihué;
 Dos juzgados con asiento en la comuna de Puerto Varas, con jurisdicción sobre las comunas de Puerto Varas, Llanquihue, Frutillar y Fresia;
@@ -279,11 +281,11 @@ A.- JUZGADOS CIVILES:
 Treinta juzgados de letras en lo civil, con asiento en la comuna de Santiago, con jurisdicción sobre las comunas de las provincias de Chacabuco y Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 Cuatro juzgados de letras en lo civil, con jurisdicción sobre las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, Pedro Aguirre Cerda, La Cisterna, El Bosque y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 B.- JUZGADOS DEL CRIMEN:
-Veintiséis juzgados del crimen con jurisdicción sobre las comunas de las provincias de Chacabuco y Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+Treinta y seis juzgados del crimen con jurisdicción sobre las comunas de las provincias de Chacabuco y Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 Once juzgados del crimen con jurisdicción sobre las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, Pedro Aguirre Cerda, La Cisterna, El Bosque y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 C.- JUZGADOS CON COMPETENCIA COMUN:
 Dos juzgados con asiento en la comuna de Puente Alto, con jurisdicción sobre todas las comunas de la provincia Cordillera;
-Dos juzgados con asiento en la comuna de San Bernardo, con jurisdicción sobre las comunas de San Bernardo y Calera de Tango;
+Tres juzgados con asiento en la comuna de San Bernardo, con jurisdicción sobre las comunas de San Bernardo y Calera de Tango;
 Dos juzgados con asiento en la comuna de Talagante, con jurisdicción sobre las comunas de la provincia de Talagante;
 Dos juzgados con asiento en la comuna de Melipilla, con jurisdicción sobre las comunas de la provincia de Melipilla, con excepción de Curacaví, y
 Un juzgado con asiento en la comuna de Buin, con jurisdicción sobre las comunas de Buin y Paine.
