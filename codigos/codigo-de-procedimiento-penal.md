@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1998-07-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1999-07-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1998-07-01
-fetched_at: 2026-08-03T01:06:26.608432+00:00
+version_date: 1999-07-12
+fetched_at: 2026-08-03T01:07:56.185710+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -125,27 +125,24 @@ Art. 17. (37) Tampoco pueden ejercitar entre sí acción penal, sea pública o p
 1° Los cónyuges; a no ser que por delito que el uno hubiere cometido contra la persona del otro o contra la de sus hijos, o por el delito de bigamia.
 2° Los consanguíneos legítimos o naturales en tod
 NOTA: 1.2
-a la línea recta, los colaterales hasta el 4° grado ni los afines hasta el 2°; a no ser por delitos cometidos por los unos contra la persona de los otros, o la de su cónyuge o hij
+a la línea recta, los colaterales hasta el 4° grado ni los afines hast
 NOTA: 1.2
-os.
-NOTA: 1.2
+a el 2°; a no ser por delitos cometidos por los unos contra la persona de los otros, o la de su cónyuge o hijos.
 NOTA: 1.2
 El Artículo 37 de la Ley N° 19.335, publicado en el "Diario Oficial" de 23 de Septiembre de 1994, dispuso que la modificación introducida al presente artículo, rige transcurridos tres meses de su publicación en el Diario Oficial.
 
 Art. 18. (38) No podrán ser ejercidas por el Ministerio Público ni por otra persona que no fuere la ofendida o su representante legal, las acciones que nacen de los delitos siguientes:
 1.- Derogado
 2.- La comunicación fraudulenta de secretos de la fábrica en que el culpable ha estado o está empleado;
-3.- El estupro, que puede también ser perseguido por los padres o abuelos de la persona ofendida, aun cuando no la representen legalmente;
-4.- Derogado.-
-5.- Derogado.-
+3.- Derogado
+4.- Derogado
+5.- Derogado
 6.- El matrimonio del menor llevado a efecto sin el consentimiento de las personas designadas por la ley y celebrado de acuerdo con el funcionario llamado a autorizarlo; acción que se entiende abandonada cuando la acusación no se entablare en el término de dos meses después de tenerse noticia de la celebración del matrimonio;
 7.- La provocación a duelo y el denuesto o descrédito público inferido a otro por no haberlo aceptado;
 8.- La calumnia y la injuria contra personas privadas, delitos que pueden, además, ser perseguidos por el cónyuge, los hijos, nietos, padres, abuelos y hermanos legítimos y por los hijos y padres naturales del ofendido, que se encuentre moral o físicamente imposibilitado. Si ha muerto el ofendido, las mismas personas, y además de sus herederos, pueden deducir las acciones correspondientes, y
 9.- La falta descrita en el número 11 del artículo 496 del Código Penal.
 
-Artículo 19.- No puede procederse de oficio en las causas de violación y de rapto, sin que a lo menos se haya denunciado el hecho a la justicia o a la policía por la persona ofendida, por sus padres, abuelos o guardadores, o por quien tuviere su tuición o su cuidado.
-Si la persona ofendida, a causa de su edad o estado moral, no pudiere hacer por sí misma la denuncia, ni tuviere padres, abuelos, guardadores o persona encargada de su tuición o cuidado, o si éstas estuvieren imposibilitadas o implicadas en el delito, podrá el Ministerio Público denunciar el hecho y deducir la acción civil para los efectos de obtener la indemnización establecida en el artículo 370 del Código Penal.
-Iniciado el procedimiento, no se suspenderá sino por las mismas causas por las que debe suspenderse en los juicios que se siguen de oficio y, además, por haberse verificado el matrimonio de la ofendida con el ofensor.
+Artículo 19.- DEROGADO
 
 Artículo 20.- Los empleados públicos tienen derecho a exigir que se entable acción para que se persiga la responsabilidad por las injurias y calumnias de que se les hiciere objeto con motivo del desempeño de sus funciones, en la forma prevista en el Estatuto Administrativo.
 Si no les fuera aplicable ese Estatuto, deberá deducirse la acción por el Ministerio Público, a requerimiento de la persona ofendida.
@@ -440,7 +437,7 @@ Sin embargo, se comprenderá en un solo sumario:
 1° Los delitos conexos; y
 2° Los diversos crímenes, simples delitos y faltas que se imputaren a un solo procesado, ya sea al iniciarse la causa o durante el progreso de ésta.
 
-Art. 78. (99) Las actuaciones del sumario son secretas, salvo las excepciones establecidas por la ley.
+Art. 78. (99) Las actuaciones del sumario son secretas, salvo las excepciones establecidas por la ley. En las causas relativas a los delitos previstos en los artículos 361 a 363 y 366 a 367 bis y, en lo que fuere aplicable, también en los delitos previstos en los artículos 365 y 375 del Código Penal, la identidad de la víctima se mantendrá en estricta reserva respecto de terceros ajenos al proceso, a menos que ella consienta expresamente en su divulgación. El juez deberá decretarlo así, y la reserva subsistirá incluso una vez que se encuentre afinada la causa. La infracción a lo anterior será sancionada conforme a lo dispuesto en el inciso cuarto del artículo 189. El tribunal deberá adoptar las demás medidas que sean necesarias para garantizar la reserva y asegurar que todas las actuaciones del proceso a que deba comparecer la víctima se lleven a cabo privadamente.
 
 Art. 79. (100) El juez puede autorizar al procesado para que tome conocimiento de aquellas diligencias que se relacionen con cualquier derecho que trate de ejercitar, siempre que haciéndolo no se entorpezca la investigación.
 Todo aquel a quien se notifica una resolución tiene derecho a sacar copia de ella.
@@ -707,7 +704,13 @@ En caso de muerte, se procederá con arreglo a lo dispuesto en los artículos 12
 Si el herido sanare de las lesiones, los médicos, al dar cuenta del hecho, pondrán en conocimiento del juez el tiempo que ha durado la curación, o la circunstancia de haber quedado el ofendido temporal o absolutamente inútil para el trabajo, demente, impotente, impedido de algún miembro importante o notablemente deforme.
 Los datos expresados en los dos incisos anteriores deben constar en autos antes del pronunciamiento de la sentencia definitiva; salvo que el estado del herido permita presumir que no ocurrirá ninguna complicación posterior que influya en la agravación o disminución de la pena.
 
-###### III.- Delitos contra la propiedad
+###### III. Delitos sexuales
+
+Art. 145 bis. Tratándose de los delitos previstos en los artículos 361 a 367 bis y en el artículo 375 del Código Penal, los hospitales, clínicas y establecimientos de salud semejantes, sean públicos o privados, deberán practicar los reconocimientos, exámenes médicos y pruebas biológicas conducentes a acreditar el cuerpo del delito y a identificar a los partícipes en su comisión, debiendo conservar las pruebas y muestras correspondientes.
+Se levantará acta, en duplicado, del reconocimiento y de los exámenes realizados, la que será suscrita por el jefe del establecimiento o de la respectiva sección y por los profesionales que los hubieren practicado. Una copia se entregará a la víctima o a quien la tuviere bajo su cuidado y la otra, así como las muestras obtenidas y los resultados de los análisis y exámenes practicados, se mantendrán en custodia y bajo estricta reserva en la dirección del hospital, clínica o establecimiento de salud, por un período no inferior a un año, para ser remitidos al tribunal correspondiente.
+Las copias del acta a que se refiere el inciso precedente tendrán el mérito probatorio señalado en los artículos 472 y 473, según corresponda.
+
+###### IV.- Delitos contra la propiedad
 
 Art. 146. (167) En los sumarios que se instruyen sobre delitos de hurto, robo, estafa y otros engaños, se acreditará la preexistencia de los objetos substraídos; se comprobará, en cuanto fuere posible, la identidad de los que se encontraren en poder del procesado o de una tercera persona; se reconocerá la fractura de puertas, armarios, arcas u otros objetos cerrados o sellados, y se pondrá testimonio de los rastros o vestigios que hubiere dejado el delito.
 En los delitos de hurto o robo será antecedente suficiente para acreditar la preexistencia de los objetos sustraídos, para todos los efectos procesales, la declaración jurada a que se refiere el inciso tercero del artículo 83 y el párrafo segundo del número 4° del artículo 120 bis.
@@ -724,7 +727,7 @@ Art. 148. (169) Si no se presentare dueño a reclamar las especies al parecer pe
 ###### IV.- Falsedad
 
 Art. 149. (170) Si se tratare de la falsedad de un instrumento público o privado, en el acto de presentarse será firmado en todas las páginas por el juez y por la persona que lo presente.
-Antes de agregarlo al proceso o de ordenar su custodia, se levantará un acta en la que se expresará el estado material del instrumento y se enunciarán todas N° 30 las circunstancias que puedan indicar la falsedad o alteración, pudiendo agregarse su fotocopia autorizada.
+Antes de agregarlo al proceso o de ordenar su custodia, se levantará un acta en la que se expresará el estado material del instrumento y se enunciarán todas las circunstancias que puedan indicar la falsedad o alteración, pudiendo agregarse su fotocopia autorizada.
 
 Art. 150. (171) El instrumento denunciado como falso será cotejado por peritos con el verdadero.
 
@@ -741,7 +744,7 @@ Puede además el juez ordenar a quien se supone autor del delito que escriba en 
 
 Art. 154. (175) Si, para la existencia del delito, se requiere que haya perjuicio de tercero, el juez investigará en qué consiste este perjuicio.
 
-###### V.- Incendio
+###### VI.- Incendio
 
 Artículo 155.- En los casos de incendio, deberá el juez inquirir si el fuego ha tenido origen en la casa o establecimiento de algún comerciante.
 Si así fuere y no se descubriere al autor desde el primer momento, hará tomar los libros y papeles del
@@ -749,7 +752,7 @@ NOTA: 8
 comerciante, averiguará si el establecimiento incendiado estaba o no asegurado, el monto del seguro, y el valor del edificio, mercaderías o muebles objeto del seguro, existentes en la casa o establecimiento en el momento del incendio.
 Lo dicho es sin perjuicio de las normas especiales establecidas en el decreto con fuerza de ley N° 251, de 1931.
 NOTA: 8
-Véanse los artículos 30, 31, 32, 33, 34 y 36 del DFL N° 251, de 20 de mayo de 1931, sobre Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio.
+Véanse los artículos 30, 31, 32, 33, 34 y 36 del DFL 251, de 20 de mayo de 1931, sobre Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio.
 
 ##### 3. De la entrada y registro en lugar cerrado, del registro de libros, papeles y vestidos y de la detención y apertura de la correspondencia epistolar y telegráfica
 
@@ -1545,8 +1548,10 @@ Las modificaciones introducidas al presente Código por la Ley N° 18.857, publi
 #### Título VIII
 DEL CAREO
 
-Artículo 351.- Cuando los testigos o los procesados entre sí, o aquéllos con éstos, discordaren acerca de algún hecho o de alguna circunstancia que tenga interés en el sumario, podrá el juez confrontar a los discordantes a fin de que expliquen la contradicción o se pongan de acuerdo sobre la verdad de lo sucedido. Procederá asimismo esta diligencia con respecto a los querellantes y meros inculpados.
+Artículo 351.- Cuando los testigos o los procesados entre sí, o aquéllos con éstos, discordaren acerca de algún hecho o de alguna circunstancia que tenga interés en el sumario, podrá el juez confrontar a los discordantes a fin de que expliquen la contradicción o se pongan de acuerdo sobre la verdad de lo sucedido.
+Procederá asimismo esta diligencia con respecto a los querellantes y meros inculpados.
 No será procedente el careo de las personas que no tienen obligación de prestar declaración como testigos, salvo que hubieren consentido en declarar ni lo será tampoco con respecto a aquellas que no están obligadas a concurrir.
+Tampoco procederá el careo entre inculpados o procesados y la víctima en los delitos contemplados en los artículos 361 a 367 bis del Código Penal y en el artículo 375 del mismo cuerpo legal. Si el juez lo estima indispensable para la comprobación del hecho o la identificación del delincuente, deberá emplear el procedimiento indicado en el inciso primero del artículo 355, reputándose a la víctima como testigo ausente, a menos que ella consienta expresamente en el careo.
 
 Art. 352 (375) Para verificar el careo, el juez hará comparecer ante él a las personas cuya declaración sea contradictoria, y juramentando o tomando promesa a los que sean testigos o querellantes y exhortando a todos a decir verdad, hará leer o leerá por sí mismo el punto en que las declaraciones se contradigan, y preguntará a cada uno de los discordantes si se ratifica en su dicho o si tiene algo que agregar o modificar a lo expuesto.
 Si alguno altera su declaración concordándola con la de otro, el juez indagará la razón que tenga para alterarla, y la que tuvo para haber declarado en los términos en que antes lo hizo.
@@ -2034,6 +2039,8 @@ Art. 461. (489) El testimonio del mayor de dieciocho años valdrá, aun cuando s
 Art. 462. (490) Se presumirá ebrio consuetudinario al testigo que hubiere sido condenado tres veces por ebriedad, dentro de los últimos cinco años.
 
 Art. 463. (491) Las inhabilidades que se fundan en las circunstancias de parentesco, amistad, enemistad, vínculo social o dependencia del testigo con relación a algunas de las partes, sólo se considerarán como tales en cuanto los testigos puedan ser inspirados por el interés, afecto u odio que pudieran nacer de aquellas relaciones.
+
+Art. 463 bis. Tratándose de los delitos contemplados en los artículos 361 a 367 bis y 375 del Código Penal, no regirán las normas sobre inhabilidad de los testigos, contempladas en el artículo 460, que se funden en razones de edad, parentesco, convivencia o dependencia.
 
 Art. 464. (492) Los jueces apreciarán la fuerza probatoria de las declaraciones de testigos que no reúnan los requisitos exigidos por el artículo 459.
 Tales declaraciones pueden constituir presunciones judiciales.
