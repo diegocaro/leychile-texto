@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1971-12-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1973-06-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1971-12-31
-fetched_at: 2026-08-03T00:21:42.501066+00:00
+version_date: 1973-06-13
+fetched_at: 2026-08-03T00:22:43.691597+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -310,28 +310,30 @@ Las Cortes de Apelaciones
 
 ### § 1. Su organización y atribuciones
 
-Art. 54. Habrá en la República doce Cortes de Apelaciones que tendrán su asiento en las ciudades de Iquique, Antofagasta, La Serena, Valparaíso, Santiago, Rancagua, Talca, Chillán, Concepción, Temuco, Valdivia y Punta Arenas.
+Art. 54. Habrá en la República quince Cortes de Apelaciones que tendrán su asiento en las ciudades de Iquique, Antofagasta, Copiapó, La Serena, Valparaíso, Santiago, Rancagua, Talca, Chillán, Concepción, Los Angeles, Temuco, Valdivia, Puerto Montt y Punta Arenas.
 
 Art. 55. El territorio jurisdiccional de las Cortes de Apelaciones será el siguiente:
 a) El de la Corte de Iquique comprenderá la provincia de Tarapacá;
 b) El de la Corte de Antofagasta comprenderá la provincia de Antofagasta;
-c) El de la Corte de La Serena comprenderá las provincias de Atacama y Coquimbo;
-d) El de la Corte de Valparaíso comprenderá las provincias de Aconcagua y Valparaíso;
-c) El de la Corte de Santiago comprenderá la provincia de Santiago, exceptuando el departamento de Maipo;
-f) En la Corte de Rancagua comprenderá las provincias de O'Higgins y Colchagua y el departamento de Maipo de la provincia de Santiago;
-g) El de la Corte de Talca comprenderá el departamento de Constitución de la provincia de Maule y las provincias de Curicó, Talca y Linares, exceptuando de esta última el departamento de Parral;
-h) El de la Corte de Chillán comprenderá el departamento de Parral de la provincia de Linares y las provincias de Ñuble y Maule, exceptuando de esta última el departamento de Constitución;
-i) El de la Corte de Concepción comprenderá las provincias de Concepción, Bío-Bío y Arauco;
-j) El de la Corte de Temuco comprenderá las provincias de Malleco y Cautín;
-k) El de la Corte de Valdivia comprenderá las provincias de Valdivia, Osorno, Llanquihue y Chiloé, y
-l) El de la Corte de Punta Arenas comprenderá las provincias de Aysén y Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
+c) El de la Corte de Copiapó comprenderá la provincia de Atacama;
+d) El de la Corte de La Serena comprenderá la provincia de Coquimbo;
+e) El de la Corte de Valparaíso comprenderá las provincias de Aconcagua y Valparaíso;
+f) El de la Corte de Santiago comprenderá la provincia de Santiago, exceptuando el departamento de Maipo;
+g) En la Corte de Rancagua comprenderá las provincias de O'Higgins y Colchagua y el departamento de Maipo de la provincia de Santiago;
+h) El de la Corte de Talca comprenderá el departamento de Constitución de la provincia de Maule y las provincias de Curicó, Talca y Linares, exceptuando de esta última el departamento de Parral;
+i) El de la Corte de Chillán comprenderá el departamento de Parral de la provincia de Linares y las provincias de Ñuble y Maule, exceptuando de esta última el departamento de Constitución;
+j) El de la Corte de Concepción comprenderá las provincias de Concepción y Arauco;
+k) El de la Corte de Los Angeles comprenderá la provincia de Bío Bío y los departamentos de Angol y Collipulli de la provincia de Malleco;
+l) El de la Corte de Temuco comprenderá las provincias de Cautín y Malleco, exceptuados de esta última los departamentos de Angol y Collipulli;
+m) El de la Corte de Valdivia comprenderá las provincias de Valdivia y Osorno;
+n) El de la Corte de Puerto Montt comprenderá las provincias de Llanquihue, Chiloé y Aysen, y
+ñ) El de la Corte de Punta Arenas comprenderá la provincia de Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
 
 Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indica:
-1° La Corte de Punta Arenas tendrá tres miembros;
-2° Las Cortes de Iquique, Antofagasta, La Serena, Rancagua, Talca y Chillán tendrán cuatro miembros;
-3° Las Cortes de Temuco y Valdivia tendrán cinco miembros;
-4° Las Cortes de Valparaíso y Concepción tendrán siete miembros, y
-5° La Corte de Santiago tendrá veintiún miembros.
+1° Las Cortes de Iquique, Antofagasta, La Serena, Rancagua, Talca y Chillán, Puerto Montt y Punta Arenas tendrán cuatro miembros;
+2° Las Cortes de Temuco y Valdivia tendrán cinco miembros;
+3° Las Cortes de Valparaíso y Concepción tendrán siete miembros, y
+4° La Corte de Santiago tendrá veintiún miembros.
 
 Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado desde el 1° de Enero y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
 Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón.
@@ -340,7 +342,7 @@ Art. 58. Cada Corte de Apelaciones tendrá un fiscal.
 La Corte de Apelaciones de Santiago tendrá cuatro fiscales. El ejercicio de sus funciones será reglado por el tribunal, como lo estime más conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
 Art. 59. Las Cortes de Apelaciones tendrán el número de Relatores que a continuación se indica:
-1°.- Las Cortes de Iquique, Antofagasta, La Serena, Rancagua, Talca y Punta Arenas tendrán un Relator;
+1°.- Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Los Angeles, Puerto Montt y Punta Arenas tendrán un Relator;
 2°.- Las Cortes de Chillán y Valdivia tendrán dos Relatores.
 3°.- Las Cortes de Valparaíso, Concepción y Temuco tendrán tres Relatores, y
 4°.- La Corte de Santiago tendrá diez Relatores.
@@ -370,9 +372,7 @@ c) De los procesos por amovilidad que se entablen en contra de los jueces de let
 
 Art. 64. La Corte de Santiago conocerá de los recursos de apelación y de casación en la forma y de la consulta que incidan en las causas de que haya conocido en primera instancia su Presidente.
 
-Art. 65. La Corte de Apelaciones de Temuco conocerá de las apelaciones y consultas que procedan en los asuntos que hayan sido fallados en primera instancia por los Juzgados de Indios.
-Las Cortes de Apelaciones de Antofagasta, La Serena y Punta Arenas serán consideradas, dentro del territorio de su jurisdicción, como Tribunales de Alzada del Trabajo para todos los efectos legales.
-Con este objeto, funcionarán integradas en la forma establecida en los artículos 499, incisos primero y segundo, 500 y 501 del Código del Trabajo y regirán a su respecto las facultades establecidas en el artículo 503 del mismo Código.
+Art. 65. Suprimido.
 
 Art. 66. El conocimiento de todos los asuntos entregados a la competencia de las Cortes de Apelaciones pertenecerá a las salas en que estén divididas, a menos que la ley disponga expresamente que deban conocer de ellos en Pleno
 Corresponderá a todo el tribunal el ejercicio de las facultades disciplinarias, administrativas y económicas, sin perjuicio de que las salas puedan ejercer las primeras en los casos de los artículos 542 y 543 en los asuntos que estén conociendo. También corresponderá a todo el tribunal el conocimiento de los desafueros de los Diputados y de los Senadores y de los juicios de amovilidad en contra de los jueces de letras.
@@ -765,8 +765,7 @@ Cada juez de letras deberá conocer de todos los asuntos judiciales que se promu
 Art. 176. En los lugares de asiento de Corte en que hubiere más de un juez de letras en lo civil, deberá presentarse a la secretaría de la Corte toda demanda o gestión judicial que se iniciare y que deba conocer alguno de dichos jueces, a fin de que se designe el juez a quien corresponda su conocimiento.
 Esta designación se hará por el presidente del tribunal, previa cuenta dada por el secretario, asignando a cada causa un número de orden, según su naturaleza, y dejando constancia de ella en un libro llevado al efecto que no podrá ser examinado sin orden del tribunal.
 
-Art. 177. En la presentación de que trata el artículo anterior podrá el interesado manifestar las causales de implicancia y las de recusación por razón de parentesco que pudiera hacer valer en contra de algunos de los jueces de letras que deben conocer en el juicio.
-El presidente de la Corte apreciará prudencialmente la causa manifestada para el efecto de asignar el conocimiento de la causa al juez que corresponda.
+Art. 177. Derogado.
 
 Art. 178. No obstante lo dispuesto en el artículo 176, serán de la competencia del Juez que hubiere sido designado anteriormente, las demandas en juicios que se hayan iniciado por medidas prejudiciales, por medidas preparatorias de la vía ejecutiva o mediante la notificación previa ordenada por el artículo 758 del Código de Procedimiento Civil; todas las gestiones que se susciten con motivo de un juicio ya iniciado y aquellas a que dé lugar el cumplimiento de una sentencia, fuera del caso previsto en la parte final del artículo 114.
 
@@ -922,8 +921,8 @@ El llamamiento de los integrantes se hará en el orden indicado y los abogados s
 La integración de las salas de la Corte de Santiago se hará preferentemente con los miembros de aquellas que se compongan de cuatro, según el orden de antigüedad.
 
 Art. 216. Si en una Sala de las Cortes de Apelaciones no queda ningún miembro hábil se deferirá el conocimiento del negocio a otra de las Salas de que se componga el Tribunal y si la inhabilidad o impedimento afecta a la totalidad de sus miembros, pasará el asunto a la Corte de Apelaciones que deba subrogar según las reglas siguientes:
-Se subrogarán recíprocamente las Cortes de Apelaciones de Iquique con la de Antofagasta; la de Santiago con la de Valparaíso; la de Rancagua con la de Talca; la de Chillán con la de Concepción y la de Temuco con la de Valdivia.
-Las Cortes de La Serena y Punta Arenas se subrogarán por las de Santiago y Valdivia, respectivamente.
+Se subrogarán recíprocamente las Cortes de Apelaciones de Iquique con la de Antofagasta; la de Copiapó con la de La Serena; la de Santiago con la de Valpara�so; la de Rancagua con la de Talca; la de Chillán con la de Concepción; la de Los Angeles con la de Temuco, y la de Valdivia con la de Puerto Montt.
+La Corte de Punta Arenas será subrogada por la de Puerto Montt.
 En los casos en que no puedan aplicarse las reglas precedentes, conocerá la Corte de Apelaciones cuya sede esté más próxima a la de la que debe ser subrogada.
 
 Art. 217. Si la Corte Suprema o algunas de sus salas se hallare en el caso previsto en el artículo 215 se llamará a integrar a los miembros no inhabilitados de la misma Corte Suprema, al fiscal del tribunal o a los abogados que se designen anualmente con este objeto.
@@ -1213,7 +1212,7 @@ La elección de las personas que deban figurar en las propuestas o ternas, para 
 Sin embargo, cuando se trate de propuestas o ternas para el nombramiento, en calidad de interinos o suplentes, de Relatores o Secretarios de las Cortes de Apelaciones, podrán figurar en las presentaciones, a falta de funcionarios que reúnan los requisitos generales o de idoneidad para tales funciones, otros de la cuarta o quinta categorías, cualquiera que sea la jurisdicción a que pertenezcan y el tiempo que hayan permanecido en la respectiva categoría.
 
 Art. 280. No podrá ser promovido a una categoría superior, el funcionario que tenga menos de dos años de servicios en su grado, salvo que en la categoría inmediatamente inferior hubiere servido más de cinco años, en cuyo caso necesitará sólo un año. Podrá, no obstante, ser ascendido si no se interesare por el cargo ningún funcionario con más de dos años en el grado.
-El tiempo servido en las provincias de Chiloé, Aysen y Magallanes se computará doblado para los efectos de la antigüedad de los funcionarios en su categoría y del requisito para el ascenso. Este beneficio no servirá para obtener mayor remuneración.
+El tiempo servido en las provincias de Chiloé, Aysen y Magallanes, hasta un máximo de cinco años, por una sola vez, se computará doblado para los efectos de la antigüedad de los funcionarios en su categoría y del requisito para el ascenso. Este beneficio no servirá para obtener mayor remuneración.
 
 Art. 281. En las presentaciones no podrán figurar funcionarios incluidos en la lista número tres ni los funcionarios a quienes, con posterioridad a la calificación anual, se hubiere aplicado medidas disciplinarias de censura por escrito, pago de costas, multas o suspensión de sus cargos; pero si en conformidad al artículo 83 de la Constitución Política del Estado alguno hubiere de figurar en la propuesta por antigüedad, en ella se dejará constancia de hallarse incluido en dicha lista o de habérsele aplicado alguna de las medidas disciplinarias antes mencionadas.
 Los funcionarios figurarán en la propuesta por orden estricto de antigüedad, debiendo consignarse la lista en que se encuentren incluidos.
@@ -1333,6 +1332,7 @@ Art. 310. El Presidente de la República, a propuesta o con el acuerdo de la Cor
 
 Art. 311. Los jueces están obligados a residir constantemente en la ciudad o población donde tenga asiento el tribunal en que deban prestar sus servicios.
 Los jueces de letras de menor cuantía residirán dentro de los límites urbanos de la ciudad en que tengan el asiento de sus funciones; o dentro de su territorio jurisdiccional, si las ejercieren en otros centros de población
+Sin embargo, las Cortes de Apelaciones podrán, en casos calificados, autorizar transitoriamente a los jueces de su jurisdicción para que residan en un lugar distinto al de asiento del tribunal.
 
 Art. 312. Están igualmente obligados a asistir todos los días a la sala de su despacho, y a permanecer en ella desempeñando sus funciones durante cuatro horas como mínimum cuando el despacho de causas estuviere al corriente, y de cinco horas, a lo menos, cuando se hallare atrasado, sin perjuicio de lo que, en virtud del N° 4 del artículo 96, establezca la Corte Suprema.
 Lo anterior se entenderá sin perjuicio de que el juez, cuando las necesidades del Servicio lo aconsejen, se constituya una vez a la semana, a lo menos en poblados que estén fuera de los límites urbanos de la ciudad en que tenga su asiento el tribunal, en cuyo caso será reemplazado por el Secretario en el despacho ordinario del Juzgado, pudiendo designarse para tales efectos actuarios que como Ministros de Fe autoricen las diligencias que dichos funcionarios practiquen.
@@ -1454,6 +1454,7 @@ Art. 342. No tendrán derecho a licencia los funcionarios suplentes que entren a
 
 Art. 343. Los funcionarios judiciales a quienes la ley no les acuerde el feriado establecido en el artículo 313, podrán obtenerlo, cada año por el término de un mes, siempre que no hayan usado licencia por motivos particulares durante los once últimos meses. Si el funcionario hubiere obtenido esta clase de licencia, por un lapso inferior a su feriado, tendrá derecho a él por el tiempo necesario para enterarlo.
 No podrán hacer uso de este feriado, simultáneamente, dos o más miembros de un tribunal colegiado, ni dos o más jueces de letras de un mismo departamento.
+Podrán acumularse no más de dos períodos de feriado.
 
 Art. 344. Derogado.
 
@@ -1931,6 +1932,7 @@ La fianza será calificada y aprobada por el funcionario a quien corresponda rec
 ### § 3. Obligaciones y prohibiciones
 
 Art. 474. Los auxiliares de la Administración de Justicia, salvo los relatores, estarán obligados a residir constantemente en la ciudad o población donde tenga asiento el tribunal en que deban prestar sus servicios.
+No obstante, las Cortes de Apelaciones podrán, en casos calificados, autorizar transitoriamente a los auxiliares de su jurisdicción para que residan en un lugar diverso.
 
 Art. 475. Los secretarios y los receptores estarán obligados a asistir todos los días a la Sala de su despacho durante las horas de funcionamiento de los Tribunales.
 Los secretarios deberán mantener abierta su oficina al público desde una hora antes de la designada para que tenga principio el despacho y hasta una hora después de terminado.
