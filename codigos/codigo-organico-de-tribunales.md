@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1943-07-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1944-04-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1943-07-09
-fetched_at: 2026-08-03T00:06:55.281646+00:00
+version_date: 1944-04-05
+fetched_at: 2026-08-03T00:07:31.303272+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -95,9 +95,10 @@ De los Jueces de Distrito y de los Jueces de Subdelegación
 
 ### § 1. Los Jueces de Distrito.
 
-Art. 14. En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de veinte pesos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de cincuenta pesos.
+Art. 14. En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de doscientos pesos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de quinientos pesos.
 Le corresponderá, asimismo, el nombramiento de curador ad-litem en su caso.
 Lo dispuesto en los incisos precedentes regirá también en toda sección de distrito no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
+Los jueces de distrito de las ciudades cabeceras de departamento no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 
 Art. 15. Los jueces de distrito durarán dos años en el ejercicio de sus funciones; pero podrán indefinidamente volver a ser nombrados para el período sucesivo.
 
@@ -135,11 +136,12 @@ Art. 24. A los jueces de distrito corresponden las atribuciones propias de minis
 ### § 2. Los Jueces de Subdelegación
 
 Art. 25. En cada subdelegación de la República que no esté comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía, habrá un funcionario que con el título de Juez de Subdelegación conocerá:
-1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de cincuenta pesos y no pase de doscientos;
+1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de quinientos pesos y no pase de mil;
 2°) En segunda instancia, de las causas de que conocieren en primera los respectivos jueces de distrito; y
 3°) En única instancia, de los recursos de casación en la forma que se interpusieren contra las sentencias pronunciadas por los jueces de distrito indicados en el número anterior.
 Les corresponderá, asimismo, el nombramiento de curador ad litem en su caso.
 Lo dispuesto en este artículo regirá también en toda sección de subdelegación no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
+Los jueces de subdelegación de las ciudades cabeceras de departamento no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 
 Art. 26. A los jueces de subdelegación corresponden las atribuciones propias de ministro de fe que el Código Civil y otras leyes confirieron a los subdelegados con anterioridad al 1° de Marzo de 1876 y que no hayan sido derogadas.
 
@@ -168,10 +170,10 @@ Art. 31. El decreto que fije o que modifique los límites del territorio jurisdi
 Los jueces de letras de menor cuantía de Santiago y Valparaíso deberán funcionar, en cuanto sea posible, en locales que estén vecinos.
 
 Art. 32. Los jueces de letras de menor cuantía conocerán:
-1°) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de quinientos pesos;
-2°) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de quinientos pesos y no sea superior a dos mil, salvo los juzgados de Santiago y Valparaíso cuya competencia se extenderá hasta la suma de tres mil pesos; y
+1°) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de mil pesos;
+2°) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de mil pesos y no sea superior a diez mil; y
 3°) De los asuntos que otras leyes entreguen a su conocimiento.
-No obstante lo dispuesto en los números 1° y 2° de este artículo, en los juicios especiales del contrato de arrendamiento, los jueces letrados de menor cuantía conocerán en única instancia hasta la suma de cien pesos, y en primera instancia hasta la suma de mil pesos.
+No obstante lo dispuesto en los números 1° y 2° de este artículo, en los juicios especiales del contrato de arrendamiento, los jueces letrados de menor cuantía conocerán en única instancia hasta la suma de doscientos pesos, y en primera instancia hasta la suma de mil pesos.
 No conocerán, en ningún caso, de los juicios sobre alimentos futuros.
 
 Art. 33. En materia de jurisdicción voluntaria los jueces letrados de menor cuantía conocerán:
@@ -192,14 +194,14 @@ Art. 37. Los jueces de letras de menor cuantía que tengan el asiento de sus fun
 Si en la capital del departamento hubiere dos o más jueces letrados de menor cuantía, la Corte de Apelaciones respectiva establecerá entre ellos un turno semanal, y será competente para el conocimiento de estos recursos el juez que estuviere en el ejercicio del turno a la fecha de su interposición.
 
 Art. 38. Los jueces de letras de menor cuantía en lo civil de Santiago y Valparaíso conocerán, además, de las siguientes materias:
-1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar, siempre que el valor de estas últimas no exceda de cinco mil pesos.
+1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar, siempre que el valor de estas últimas no exceda de diez mil pesos.
 Pero si se promoviere contienda sobre el dominio del predio dominante o sirviente, o sobre la adquisición por prescripción u otro título de una manera especial de ejercer la servidumbre, se inhibirán de todo conocimiento.
 La ubicación del predio sirviente determinará el tribunal que deba conocer de estos juicios; y si abarcara dos o más jurisdicciones territoriales quedará al demandante la elección del juez.
 2°) De las acciones posesorias a que se refieren los artículos 928, 936, 937, 938, 939, 940, 941, 942, 943, 944 y 945 del Código Civil.
 Será competente para conocer de estos juicios el juez del lugar donde hubiere ocurrido el hecho de que se reclama.
 3°) De las notificaciones de las actas de protestos de cheques por falta de fondos o por orden de no pagarlos, a las personas domiciliadas en la respectiva jurisdicción.
-Si el valor del cheque excediere de cinco mil pesos, podrá pedirse la notificación al juez que habrá de conocer del cobro.
-4°) De las cuestiones civiles valorizables hasta cinco mil pesos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
+Si el valor del cheque excediere de diez mil pesos, podrá pedirse la notificación al juez que habrá de conocer del cobro.
+4°) De las cuestiones civiles valorizables hasta diez mil pesos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
 
 Art. 39. Habrá en Santiago un Juez de Letras de Menor Cuantía en lo Criminal, con jurisdicción sobre los territorios municipales de las comunas-subdelegaciones de Santiago, Providencia y Ñuñoa.
 Este juzgado conocerá:
@@ -211,18 +213,12 @@ d) De las infracciones a que se refiere el párrafo 13 del Título VI del Libro 
 2°) En segunda instancia, de las apelaciones que se interpongan en contra de las sentencias dictadas por los jueces inferiores del departamento, conociendo de las causas a que se refieren los incisos finales de los artículos 20 y 27 de este Código.
 3°) De los recursos de casación en la forma que se interpongan en contra de las sentencias indicadas en el número anterior.
 
-Art. 40. Habrá en la ciudad de Quillota un juez de letras de menor cuantía con jurisdicción sobre todo el departamento, con excepción del conocimiento de aquellas causas sometidas al oficial civil juez de menor cuantía de La Calera a que se refiere el artículo siguiente.
-Este juez conocerá en única instancia de las causas civiles y de comercio hasta quinientos pesos, y en primera de las que excedan de esta suma y no sean superiores a dos mil.
-Igualmente conocerá de los asuntos indicados en el artículo 38 de este Código, siempre que su valor no exceda de dos mil pesos, y de todos los conflictos, como juzgado del trabajo, sometido a las disposiciones del Código del Trabajo.
+Art. 40. Habrá en la ciudad de Quillota un juez de letras de menor cuantía con jurisdicción sobre todo el departamento, con excepción del conocimiento de aquellas causas sometidas al juez de letras de menor cuantía de La Calera.
+Este juez conocerá en única instancia de las causas civiles y de comercio hasta mil pesos, y en primera de las que excedan de esta suma y no sean superiores a diez mil.
+Igualmente conocerá de los asuntos indicados en el artículo 38 de este Código, siempre que su valor no exceda de diez mil pesos, y de todos los conflictos, como juzgado del trabajo, sometido a las disposiciones del Código del Trabajo.
 Tendrá, asimismo, la competencia indicada en el artículo 37.
 
-Art. 41. El oficial del Registro Civil de La Calera será juez de menor cuantía y conocerá en única instancia de las causas civiles y de comercio hasta la suma de doscientos pesos, y en primera instancia de las causas civiles y de comercio cuya cuantía exceda de esta cantidad y no pase de quinientos pesos.
-Le corresponderá, también, el nombramiento de curador ad-litem en su caso.
-En materia criminal conocerá de las infracciones sancionadas en el Libro II de la Ley sobre Alcoholes y Bebidas Alcohólicas y practicará las diligencias que se mencionan en el artículo 35, inciso segundo.
-El conocimiento de los recursos de apelación y casación en la forma que se interpongan en contra de sus resoluciones corresponderá al juez de letras de menor cuantía de Quillota, quien será, además, su superior jerárquico para los efectos disciplinarios en los términos del artículo 532.
-Para desempeñar estas funciones se requiere tener el título de abogado, o en su defecto, ser aprobado en un examen de competencia ante la Corte de Apelaciones.
-Toda medida disciplinaria o de otro orden, que lleve consigo la suspensión o la remoción del cargo de oficial del Registro Civil de La Calera, se hará igualmente extensiva a las funciones de juez de menor cuantía que ejerza el funcionario afectado con ella, y viceversa.
-En cuanto sean compatibles con las del presente artículo, regirán para este juzgado y para el juez de menor cuantía las disposiciones relativas a los jueces de letras de menor cuantía.
+Art. 41. Suprimido.
 
 ### § 2. Los Jueces de Letras de Mayor Cuantía
 
@@ -238,25 +234,24 @@ Art. 44. También habrá juzgados de mayor cuantía en las ciudades de Petorca, 
 
 Art. 45. Los jueces de letras de mayor cuantía conocerán:
 1°) En única o en primera instancia, conforme al inciso final de este número:
-a) De las causas civiles sobre cosas cuyo valor exceda de doscientos pesos, salvo de aquellas cuyo conocimiento corresponde a los jueces de letras de menor cuantía;
-b) De las causas de comercio, con la misma salvedad de la letra precedente;
-c) De las causas de minas, cualquiera que sea su cuantía.
-Deberán fallar en única instancia las causas en que el valor de la materia no pase de trescientos pesos y en primera las que excedan de esta cantidad.
+a) De las causas civiles sobre cosas cuyo valor exceda de mil pesos, y también de las de cuantías inferiores cuando se trate de los juicios especiales del contrato de arrendamiento que se promuevan dentro de la ciudad cabecera del departamento, salvo en los dos casos, de aquellas cuyo conocimiento corresponda a los jueces de letras de menor cuantía;
+b) De las causas de comercio, con la misma salvedad de la letra precedente.
+Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de doscientos pesos y las causas de comercio que no excedan de mil y en primera, todas las demás.
 2°) En primera instancia:
-a) De los actos judiciales no contenciosos, cualquiera que sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil y en el artículo 33 de este Código;
-b) De las causas criminales por crimen o simple delito, salvo de aquellas cuyo conocimiento corresponde a los jueces de letras de menor cuantía;
-c) De las causas por faltas sancionadas en los artículos 494, número 19, y 495, números 21 y 22 del Código Penal, sin perjuicio de lo dispuesto en el artículo 39;
-d) De las faltas sancionadas en los artículos 107, 108 y 109 de la Ley sobre Alcoholes y Bebidas Alcohólicas, cometidas en la ciudad donde tiene su asiento el tribunal, sin perjuicio de la competencia que en esta materia corresponde al juez de letras de menor cuantía en lo criminal de Santiago;
-e) De las demás infracciones sancionadas por el Libro II de la precitada ley, salvo de aquéllas cuyo conocimiento corresponde a los jueces de letras de menor cuantía.
-3°) En única o en primera instancia, conforme a lo dispuesto en el inciso final del número primero:
-De las causas civiles y de comercio cuya cuantía sea inferior a las señaladas en las letras a) y b) del número primero de este artículo, en que sean parte o tengan interés el Comandante en Jefe del Ejército, el Director General de la Armada, el Comandante en Jefe de la Fuerza Aérea, los Generales en Jefe de Ejército o Armada, los Ministros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos tribunales, los jueces letrados, los párrocos y vicepárrocos, los cónsules generales, cónsules o vicecónsules de las naciones extranjeras reconocidas por el Presidente de la República, las corporaciones y fundaciones de derecho público o los establecimientos públicos de beneficencia.
-4°) En segunda instancia:
+a) De las causas de minas, cualquiera que sea su cuantía. Se entiende por causa de minas aquella en que ventilen derechos regidos especialmente por el Código de Minería.
+b) De los actos judiciales no contenciosos, cualquiera que sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil y en el artículo 33 de este Código;
+c) De las causas criminales por crimen o simple delito, salvo de aquellas cuyo conocimiento corresponde a los jueces de letras de menor cuantía;
+d) De las causas por faltas sancionadas en los artículos 494, número 19, y 495, números 21 y 22 del Código Penal, sin perjuicio de lo dispuesto en el artículo 39;
+e) De las faltas sancionadas en los artículos 107, 108 y 109 de la Ley sobre Alcoholes y Bebidas Alcohólicas, cometidas en la ciudad donde tiene su asiento el tribunal, sin perjuicio de la competencia que en esta materia corresponde al juez de letras de menor cuantía en lo criminal de Santiago;
+f) De las demás infracciones sancionadas por el Libro II de la precitada ley, salvo de aquéllas cuyo conocimiento corresponde a los jueces de letras de menor cuantía.
+g) De las causas civiles cuya cuantía sea inferior a la señalada en la letra a) del número primero de este artículo y de las de comercio cuyo conocimiento corresponde a los jueces de letras de menor cuantía, en que sean parte o tengan interés el Comandante en Jefe del Ejército, el Director General de la Armada, el Comandante en Jefe de la Fuerza Aérea, los Generales en Jefe de Ejército o Armada, los Ministros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos tribunales, los jueces letrados, los párrocos y vicepárrocos, los cónsules generales, cónsules o vicecónsules de las naciones extranjeras reconocidas por el Presidente de la República, las corporaciones y fundaciones de derecho público o los establecimientos públicos de beneficencia.
+3°) En segunda instancia:
 a) De las causas civiles de que hayan conocido en primera los jueces de subdelegación del departamento, salvo lo dispuesto en los artículos 37 y 40;
 b) De las causas por faltas sancionadas en los artículos 107, 108 y 109 de la Ley de Alcoholes y Bebidas Alcohólicas de que hubieren conocido los jueces de distrito o subdelegación del departamento, sin perjuicio de lo dispuesto en el artículo 39;
 c) De las causas por faltas o contravenciones falladas por los alcaldes o los jueces de policía local, con arreglo al artículo 30 de la ley 6827, de 28 de Febrero de 1941;
 d) De las causas de que hayan conocido los juzgados de abastos.
-5°) En única instancia de los recursos de casación en la forma en contra de las sentencias recaídas en las causas a que se refieren las letras a) y b) del número anterior.
-6°) De los delitos sancionados en la Ley de Elecciones y de los demás asuntos que otras leyes les encomienden.
+4°) En única instancia de los recursos de casación en la forma en contra de las sentencias recaídas en las causas a que se refieren las letras a) y b) del número anterior.
+5°) De los delitos sancionados en la Ley de Elecciones y de los demás asuntos que otras leyes les encomienden.
 
 Art. 46. Los jueces de letras de mayor cuantía de capital de provincia conocerán en primera instancia:
 a) De las causas criminales en que sea parte o tenga interés un juez letrado de departamento; y
@@ -863,7 +858,7 @@ En defecto de las reglas anteriores, la subrogación corresponderá al juez de l
 Art. 209. El juez de letras de menor cuantía en lo criminal de Santiago será subrogado por el secretario titular del juzgado; y, a falta o impedimento de éste, por el juez del crimen de turno del departamento, y en defecto de este último, por el funcionario a quien corresponda subrogarlo.
 El subrogante podrá dictar toda clase de resoluciones.
 
-Art. 210. En caso de ausencia o de impedimento del oficial civil juez de menor cuantía de La Calera, le subrogará el juez letrado de menor cuantía de Quillota.
+Art. 210. Suprimido.
 
 Art. 211. En todos los casos en que el juez de letras de mayor cuantía falte o no pueda conocer de determinados negocios, será subrogado por el secretario del mismo tribunal siempre que sea abogado.
 Sólo a falta de dicho secretario la subrogación se efectuará en la forma que se establece en los artículos siguientes.
@@ -2132,7 +2127,7 @@ Art. 547. Las Cortes de Apelaciones tendrán diariamente una audiencia pública 
 
 Art. 548. Los recursos de queja se verán por las Cortes de Apelaciones fuera de las horas ordinarias de audiencia. En las Cortes que consten de más de una sala, conocerá de estos recursos la sala en que funcione el presidente del tribunal, y con asistencia de la mayoría de él.
 
-Art. 549. Para interponer un recurso de queja en asuntos civiles, el recurrente deberá consignar previamente las cantidades que a continuación se expresan:
+Art. 549. Todo recurso de queja deberá interponerse en el plazo fatal de cinco días. Para interponer un recurso de queja en asuntos civiles, el recurrente deberá consignar previamente las cantidades que a continuación se expresan:
 En juicios de cuantía inferior a cinco mil pesos, diez pesos;
 En juicios de cinco mil pesos a cien mil pesos y en juicios de cuantía indeterminada, cincuenta pesos;
 En juicios de cuantía superior a cien mil pesos cien pesos.
