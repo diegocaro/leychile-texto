@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1977-08-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1979-08-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1977-08-20
-fetched_at: 2026-08-03T00:28:28.941000+00:00
+version_date: 1979-08-03
+fetched_at: 2026-08-03T00:30:23.092724+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -67,7 +67,7 @@ d) reglamentar y controlar las condiciones de limpieza y conservación exterior 
 e) establecer plazas, parques o locales públicos de juego o recreo para adultos y niños, así como baños y servicios higiénicos públicos; y
 f) proveer a la limpieza y conservación de los canales, acequias y bebederos, considerando además las condiciones de seguridad necesarias para prevenir accidentes.
 NOTA
-Véase el D.L. N° 1.480, del Ministerio de Salud Pública, de 31 de mayo de 1976, publicado en el D. Of. de 25 de junio de 1976, que faculta al Director General el Servicio Nacional de Salud para delegar en el Alcalde de la I. Municipalidad de Santiago las facultades que indica.
+Véase el Decreto ley 1.480, Salud Pública, publicado el 25 de junio de 1976, que faculta al Director General el Servicio Nacional de Salud para delegar en el Alcalde de la I. Municipalidad de Santiago las facultades que indica. Ver, además, el Art. 18 del Decreto ley 2.763, Salud Pública, publicado el 03.08.1979, en virtud del cual la facultad debe entenderse conferida al Director de Salud correspondiente de la Región Metropolitana, dentro del territorio asignado.
 
 Artículo 12°.- El Presidente de la República, por intermedio de los Ministerios del Interior y Salud Pública, y a propuesta del Director General de Salud, deberá, estableciendo servicios y obligaciones mínimas, reglamentar la forma cómo las Municipalidades ejercerán las funciones sanitarias que se les encomienden en la presente ley. Todo acto o reglamento municipal que esté en pugna con dichas normas sanitarias es nulo y esta nulidad será declarada por el Presidente de la República.
 
@@ -166,7 +166,13 @@ Las clausuras realizadas por el Cuerpo de Carabineros no podrán ser alzadas sin
 ### TITULO III
 DE LOS LABORATORIOS DE SALUD PUBLICA
 
-Artículo 42°.- El Servicio Nacional de Salud establecerá en los puntos del territorio de la República que sea necesario, los laboratorios indispensables para realizar los análisis e investigaciones que se estimen apropiadas para proteger y mantener la salud pública.
+Artículo 42°.- El Servicio Nacional de Salud es
+NOTA
+tablecerá en
+NOTA
+los puntos del territorio de la República que sea necesario, los laboratorios indispensables para realizar los análisis e investigaciones que se estimen apropiadas para proteger y mantener la salud pública.
+NOTA
+Véase el Capítulo IV, Arts. 35 a 45, del Decreto Ley 2763, Salud, publicado el 03.08.1979, que crea el Instituto de Salud Pública de Chile "Dr. Eugenio Suárez Herreros", como continuador legal, con todos sus derechos y obligaciones, del ex Servicio Nacional de Salud, en lo referente al ex Instituto Bacteriológico de Chile.
 
 Artículo 43°.- El Instituto Bacteriológico será el Laboratorio Central del Servicio Nacional de Salud y prestará ayuda técnica, asesoramiento y supervigilancia a todos los demás laboratorios de dicho Servicio distribuidos en el país.
 
