@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1944-09-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1944-09-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1944-09-07
-fetched_at: 2026-08-03T00:07:43.307904+00:00
+version_date: 1944-09-13
+fetched_at: 2026-08-03T00:07:55.316074+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2003,23 +2003,23 @@ Los Abogados
 
 Art. 520. Los abogados son personas revestidas por la autoridad competente de la facultad de defender ante los Tribunales de Justicia los derechos de las partes litigantes.
 
-Art. 521. El título de abogado será expedido por una comisión compuesta del Presidente de la Corte Suprema, del Presidente de la Corte de Apelaciones de Santiago y del Presidente del Consejo General del Colegio de Abogados.
-En caso de ausencia o imposibilidad de uno o más de sus miembros, será subrogado por el que haga sus veces.
-Ante esta comisión se comprobarán los requisitos que las leyes exijan para poder ser abogado y se rendirá un examen en la forma que determine el reglamento de la Ley Orgánica del Colegio de Abogados.
-Servirá de ministro de fe el secretario de la Corte Suprema.
+Art. 521. El título de abogado será otorgado en audiencia pública por la Corte Suprema reunida en tribunal pleno con los miembros del Consejo General del Colegio de Abogados, y previa comprobación y declaración de que el candidato reúne los requisitos establecidos por los artículos 523 y 526.
 
-Art. 522. Si el postulante fuere reprobado no podrá repetir el examen antes de seis meses. Si se le reprobare nuevamente, el plazo para la repetición será de un año.
+Art. 522. En la audiencia indicada, después que el postulante preste juramento de desempeñar leal y honradamente la profesión, el Presidente del Tribunal, de viva voz lo declarará legalmente investido del título de abogado.
+De lo actuado se levantará acta autorizada por el Secretario en un libro que se llevará especialmente con este objeto.
+En seguida se entregará al abogado el título o diploma que acredite su calidad de tal, firmado por el Presidente del Tribunal, por los Ministros asistentes a la audiencia respectiva, por el Secretario y por el Presidente del Colegio de Abogado.
+Dicho título deberá inscribirse en el Registro de la Orden a cargo del Consejo General del Colegio de Abogados.
 
 Art. 523. Para poder ser abogado se requiere:
 1°) Tener veinte años de edad;
 2°) Tener el título de Licenciado en la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile;
 3°) No haber sido condenado ni estar actualmente procesado por delito que merezca pena corporal, salvo que se trate de delitos contra la seguridad interior del Estado;
 4°) Antecedentes de buena conducta.
-La comisión a que se refiere el artículo 521 podrá practicar las averiguaciones que estime necesarias acerca de los antecedentes personales del postulante; y
-5°) Haber servido, a satisfacción del Consejo del Colegio de Abogados respectivo, en el Consultorio Jurídico para pobres, durante el tiempo y en la forma que determine el reglamento de su ley orgánica.
+La Corte Suprema podrá practicar las averiguaciones que estime necesarias acerca de los antecedentes personales del postulante y, con el mismo objeto, pedirá informe al Colegio de Abogados respectivo; y
+5°) Haber servido, a satisfacción del Consejo del Colegio de Abogados respectivo, en el Consultorio Jurídico para Pobres, durante seis meses en la forma que determine el Reglamento de su Ley Orgánica.
 Si la comisión a que se refiere el número anterior no admitiere a examen al postulante, por estimar que no concurren los requisitos señalados en este artículo, el afectado podrá reclamar ante la Corte Suprema, la que resolverá como jurado.
 
-Art. 524. El abogado prestará ante el Presidente de la Corte Suprema juramento de que desempeñará leal y honradamente la profesión.
+Art. 524. Derogado.
 
 Art. 525. Los abogados estarán organizados en una institución, con personalidad jurídica, denominada "Colegio de Abogados", que se regirá por las disposiciones de la ley respectiva.
 El ejercicio de la profesión de abogado estará, asimismo, reglamentado por dicha ley.
