@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1988-04-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1988-12-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1988-04-29
-fetched_at: 2026-08-03T00:44:50.238089+00:00
+version_date: 1988-12-09
+fetched_at: 2026-08-03T00:45:52.414854+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1474,13 +1474,14 @@ El artículo 24 de la ley 17798, publicada el 21.10.1972, deroga parcialmente es
 #### § IX.
 Delitos relativos a la salud animal y vegetal.
 
-Artículo 289° El que de propósito y sin permiso de la autoridad competente propagare una enfermedad animal o una plaga vegetal, será penado con presidio menor en su grado medio o multa de seis a veinte sueldos vitales.
-Si la propagación se produjere por negligencia inexcusable del tenedor o encargado de las especies animales o vegetales afectadas por la enfermedad o plaga o del funcionario a cargo del respectivo control sanitario, la pena será de presidio menor en su grado mínimo o multa de seis a diez sueldos vitales.
+Artículo 289° El que de propósito y sin permiso de la autoridad competente propagare una enfermedad animal o una plaga vegetal, será penado con presidio menor en su grado medio a máximo.
+Si la propagación se produjere por negligencia inexcusable del tenedor o encargado de las especies animales o vegetales afectadas por la enfermedad o plaga o del funcionario a cargo del respectivo control sanitario, la pena será de presidio menor en su grado mínimo a medio.
+Si la enfermedad o plaga propagada fuere de aquellas declaradas susceptibles de causar grave daño a la economía nacional, se aplicará la pena asignada al delito correspondiente en su grado máximo.
+El reglamento determinará las enfermedades y plagas a que se refiere el inciso anterior.
 
-Artículo 290° Los que, a sabiendas, infringieren las instrucciones de la autoridad competente destinadas a impedir la propagación de una enfermedad animal o de una plaga vegetal, serán penados con presidio menor en su grado mínimo o multa de seis a veinte sueldos vitales.
+Artículo 290.- Si la propagación de las enfermedades a que se refiere este párrafo se originare con motivo u ocasión de la introducción ilícita al país de animales o especies vegetales, la pena asignada al delito correspondiente podrá aumentarse en un grado.
 
-ART. 291.
-Si con motivo de la infracción de lo dispuesto en el precedente artículo, ha resultado la propagación del contagio, se impondrá a los culpables la pena de reclusión menor en su grado mínimo o multa de quinientos a mil pesos.
+Artículo 291.- Los que propagaren indebidamente organismos, productos, elementos o agentes químicos, virales, bacteriológicos, radiactivos, o de cualquier otro orden que por su naturaleza sean susceptibles de poner en peligro la salud animal o vegetal, o el abastecimiento de la población, serán penados con presidio menor en su grado máximo.
 
 #### § X.
 De las asociaciones ilícitas.
