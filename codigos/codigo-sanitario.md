@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1995-07-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1996-01-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1995-07-19
-fetched_at: 2026-08-03T01:00:20.553728+00:00
+version_date: 1996-01-26
+fetched_at: 2026-08-03T01:01:39.887653+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -508,9 +508,12 @@ NOTA:
 estupefacientes, psicotrópicos y demás sustancias que produzcan efectos análogos, los que, incluido su consumo, se someterán a las disposiciones de un
 NOTA 1:
 reglamento especial; como asimismo el tránsito en la República hacia países extranjeros de estas sustancias, respetándose las obligaciones contraídas por el Estado en sus convenios y tratados internacionales.
+NOTA 2:
 NOTA:
-Véase el Decreto 403, Salud, publicado el 20.02.1984, que aprueba el Reglamento de Estupefacientes.
+Véanse el Decreto con Fuerza de Ley N° 1, Justicia, publicado el 18.10.1995, que fija el texto refundido de la LEY 19366 sobre sanciones al Trafico Ilícito de Estupefacientes y Sustancias Sicotrópicas; y su reglamento, contenido en el Decreto 565, Salud, publicado el 26.01.1996.
 NOTA 1:
+Véase el Decreto 403, Salud, publicado el 20.02.1984, que aprueba el Reglamento de Estupefacientes.
+NOTA 2:
 Véase el Decreto 35, Relaciones Exteriores, publicado el 16.05.1968, que sanciona la Convención Única de Estupefacientes, firmada en Nueva York el 30 de marzo de 1961. Véase además el Decreto 543, Relaciones Exteriores, publicado el 20.08.1990, que promulga la Convención de las Naciones Unidas contra el Trafico Ilícito de Estupefacientes y Sustancias Sicotrópicas, suscrita en Viena el 20 de diciembre de 1988.
 
 Artículo 107°.- Cuando lo requiera la debida protección de la salud pública, el Presidente de la República podrá, previo informe del Director General de Salud, aplicar las normas contenidas en el artículo anterior a medicamentos tales como estimulantes, sedativos, hipnóticos, tranquilizantes o ataráxicos.
