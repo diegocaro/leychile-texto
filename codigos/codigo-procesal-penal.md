@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2002-05-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2002-07-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2002-05-31
-fetched_at: 2026-08-03T01:18:25.885782+00:00
+version_date: 2002-07-11
+fetched_at: 2026-08-03T01:19:01.905425+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1139,12 +1139,7 @@ Juicio oral
 
 #### Párrafo 1º Actuaciones previas al juicio oral
 
-Artículo 281.- Fecha, lugar, integración y citaciones. El juez de garantía hará llegar el auto de apertura del juicio oral al tribunal competente, junto con los registros que debieren acompañarse, dentro de las cuarenta y ocho horas siguientes a su notificación.
-También pondrá a disposición del tribunal de juicio oral en lo penal las personas sometidas a prisión preventiva o a otras medidas cautelares personales.
-Una vez distribuida la causa, cuando procediere, el juez presidente de la sala respectiva procederá de inmediato a decretar la fecha para la celebración de la audiencia del mismo, la que deberá tener lugar no antes de quince ni después de sesenta días desde la notificación del auto de apertura del juicio oral.
-Señalará, asimismo, la localidad en la cual se constituirá y funcionará el tribunal de juicio oral en lo penal, si se tratare de alguno de los casos previstos en el artículo 21 A del Código Orgánico de Tribunales.
-En su resolución, el juez presidente indicará también el nombre de los jueces que integrarán la sala. Con la aprobación del juez presidente del comité de jueces, convocará a un número de jueces mayor de tres para que la integren, cuando existieren circunstancias que permitieren presumir que con el número ordinario no se podrá dar cumplimiento a lo exigido en el artículo 284.
-Ordenará, por último, que se cite a la audiencia de todos quienes debieren concurrir a ella. El acusado deberá ser citado con, a lo menos, siete días de anticipación a la realización de la audiencia, bajo los apercibimientos previstos en los artículos 33 y 141, inciso cuarto.
+Artículo 281.- Fecha, lugar, integración y citaciones. El juez de garantía hará llegar el auto de apertura del juicio oral al tribunal competente, dentro de las cuarenta y ocho horas siguientes a su notificación. También pondrá a disposición del tribunal de juicio oral en lo penal las personas sometidas a prisión preventiva o a otras medidas cautelares personales. Una vez distribuida la causa, cuando procediere, el juez presidente de la sala respectiva procederá de inmediato a decretar la fecha para la celebración de la audiencia del mismo, la que deberá tener lugar no antes de quince ni después de sesenta días desde la notificación del auto de apertura del juicio oral. Señalará, asimismo, la localidad en la cual se constituirá y funcionará el tribunal de juicio oral en lo penal, si se tratare de alguno de los casos previstos en el artículo 21 A del Código Orgánico de Tribunales. En su resolución, el juez presidente indicará también el nombre de los jueces que integrarán la sala. Con la aprobación del juez presidente del comité de jueces, convocará a un número de jueces mayor de tres para que la integren, cuando existieren circunstancias que permitieren presumir que con el número ordinario no se podrá dar cumplimiento a lo exigido en el artículo 284. Ordenará, por último, que se cite a la audiencia de todos quienes debieren concurrir a ella. El acusado deberá ser citado con, a lo menos, siete días de anticipación a la realización de la audiencia, bajo los apercibimientos previstos en los artículos 33 y 141, inciso cuarto.
 
 #### Párrafo 2º Principios del juicio oral
 
