@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1971-12-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1974-12-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1971-12-20
-fetched_at: 2026-08-03T00:21:36.500860+00:00
+version_date: 1974-12-31
+fetched_at: 2026-08-03T00:24:20.507902+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1322,6 +1322,8 @@ Si el capital excediere de esta suma, las acciones o cupones de acción no podr�
 
 Art. 493. Las sociedades en comandita no quedarán definitivamente constituidas sino después de suscrito todo el capital y de haber entregado cada accionista al menos la cuarta parte del importe de sus acciones.
 La suscripción y entrega serán comprobadas por la declaración del gerente en una escritura pública, y ésta será acompañada de la lista de suscriptores, de un estado de las entregas y de la escritura social.
+
+Art. 494. Las acciones de las sociedades en comandita serán nominativas.
 
 Art. 495. Los subscriptores de acciones son responsables, a pesar de cualquiera estipulación en contrario, del monto total de las acciones que hubieren tomado en la sociedad.
 Las acciones o cupones de acción no serán negociables sino después de entregadas dos quintas partes de su valor.
