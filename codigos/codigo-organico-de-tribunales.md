@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1980-09-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1980-11-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1980-09-25
-fetched_at: 2026-08-03T00:32:17.225274+00:00
+version_date: 1980-11-18
+fetched_at: 2026-08-03T00:32:53.263093+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2226,7 +2226,7 @@ Art. 547. Las Cortes de Apelaciones tendrán diariamente una audiencia pública 
 Art. 548. Los recursos de queja se verán por las Cortes de Apelaciones fuera de las horas ordinarias de audiencia.
 
 Art. 549. Todo recurso de queja deberá interponerse en el plazo fatal de cinco días. Este plazo se suspenderá durante los días feriados y se aumentará en la forma indicada en el artículo 259 del Código de Procedimiento Civil, cuando el Tribunal que haya pronunciado la resolución recurrida resida en un departamento diverso de aquel en que funciona el que haya de conocer en el recurso.
-Para interponer un recurso de queja, el recurrente deberá consignar previamente en arcas fiscales una cantidad equivalente al 1% de la cuantía del negocio, con un máximo de un sueldo vital mensual, escala A) del departamento de Santiago.
+Para interponer un recurso de queja, el recurrente deberá consignar previamente en la cuenta corriente del tribunal que conocerá del mismo una cantidad equivalente al 1% de la cuantía del negocio, con un máximo de un sueldo vital mensual, escala A) del departamento de Santiago.
 Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a medio sueldo vital, si el recurso se interpone ante la Corte Suprema o ante una Corte de Apelaciones, o a la cuarta parte de dicho sueldo si se interpone ante un Juez de Letras.
 No regirá la exigencia de la consignación previa tratándose de los recursos de queja que incidan en negocios en que se litiga en papel común, ni respecto de los que deduzcan los Oficiales del Ministerio Público, los Defensores Públicos, los representantes del Fisco, los procesados en causa criminal y los que gozan de privilegio de pobreza.
 La consignación a que se refiere este artículo se devolverá a la parte recurrente, si el recurso fuere acogido. Si fuere desechado, o el recurrente se desistiere de él, se aplicará a beneficio fiscal.

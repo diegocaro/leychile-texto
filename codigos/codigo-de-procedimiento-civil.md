@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1978-10-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1980-11-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1978-10-28
-fetched_at: 2026-08-03T00:29:41.035962+00:00
+version_date: 1980-11-18
+fetched_at: 2026-08-03T00:32:41.249645+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -157,6 +157,15 @@ DE LA PRUEBA EN GENERAL
 
 Art. 320 (309). Dentro de los cinco días siguientes a la última notificación de la resolución a que se refiere el artículo 318, cuando no se haya pedido reposición en conformidad al artículo anterior y en el caso contrario, dentro de los cinco días siguientes a la notificación por el estado de la resolución que se pronuncie sobre la última solicitud de reposición, cada parte deberá presentar una minuta de los puntos sobre que piense rendir prueba de testigos, enumerados y especificados con claridad y precisión.
 Deberá acompañar una nómina de los testigos de que piensa valerse, con expresión del nombre y apellido, domicilio, profesión u oficio. La indicación del domicilio deberá contener los datos necesarios a juicio del juzgado, para establecer la identificación del testigo.
+
+### Título X
+DEL TERMINO PROBATORIO
+
+Art. 338 (327). Siempre que se solicite aumento extraordinario para rendir prueba fuera de la República, exigirá el tribunal, para dar curso a la solicitud, que se deposite en la cuenta corriente del tribunal una cantidad cuyo monto no podrá fijarse en menos de medio sueldo vital ni en más de dos sueldos vitales.
+Sin perjuicio de lo que dispone el artículo anterior, se mandará aplicar al Fisco la cantidad consignada si resulta establecida en el proceso alguna de las circunstancias siguientes:
+1a. Que no se ha hecho diligencia alguna para rendir la prueba pedida;
+2a. Que los testigos señalados, en el caso del artículo 331, no tenían conocimiento de los hechos, ni se han hallado en situación de conocerlos; y
+3a. Que los testigos o documentos no han existido nunca en el país en que se ha pedido que se practiquen las diligencias probatorias.
 
 ### Título XI
 DE LOS MEDIOS DE PRUEBA EN PARTICULAR
