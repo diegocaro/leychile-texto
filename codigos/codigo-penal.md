@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1928-01-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1929-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1928-01-03
-fetched_at: 2026-08-03T00:04:49.238520+00:00
+version_date: 1929-01-01
+fetched_at: 2026-08-03T00:05:01.242518+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -75,9 +75,9 @@ Están exentos de responsabilidad criminal:
 1.° El loco o demente, a no ser que haya obrado en un intervalo lúcido, y el que, por cualquier causa independiente de su voluntad, se halla privado totalmente de razón.
 Cuando un loco o demente hubiere ejecutado un hecho que la ley califica de crimen o incurriere en reiteración de otros que importen simples delitos, el tribunal decretará su reclusión en uno de los establecimientos destinados a los enfermos de aquella clase, del cual no podrá salir sin previa autorización del mismo tribunal.
 En otro caso será entregado a su familia bajo fianza de custodia, y mientras no se preste dicha fianza se observará lo dispuesto en el acápite anterior.
-2.° El menor de diez años.
-3.° El mayor de diez años y menor de dieciséis, a no ser que conste que ha obrado con discernimiento.
-El tribunal hará declaración expresa sobre este punto, para imponerle pena o declararle irresponsable.
+2.° El menor de dieciséis años.
+3.° El mayor de dieciséis años y menor de veinte, a no ser que conste que ha obrado con discernimiento.
+El Tribunal de Menores respectivo hará declaración previa sobre este punto para que pueda procesársele.
 4.° El que obra en defensa de su persona o derechos, siempre que concurran las circunstancias siguientes:
 Primera.-Agresión Ilegítima.
 Segunda.- Necesidad racional del medio empleado para impedirla o repelerla.
@@ -93,7 +93,7 @@ Tercera.-Que no haya otro medio practicable y menos perjudicial para impedirlo.
 9.° El que obra violentado por una fuerza irresistible o impulsado por un miedo insuperable.
 10.° El que obra en cumplimiento de un deber o en el ejercicio legítimo de un derecho, autoridad, oficio o cargo.
 11.° El marido que en el acto de sorprender a su mujer infraganti en delito de adulterio, da muerte, hiere o maltrata a ella y a su cómplice; con tal que la mala conducta de aquél no haga excusable la falta de ésta.
-Si sólo diere muerte, hiriere o maltratare a uno de ellos, sin causar daño al otro u ocasionándole uno menor, subsistirá no obstante la exención de responsabilidad criminal respecto del marido, a menos de constar que intencionalmente obró así o que las circunstancias del hecho lo revelen.
+Si solo diere muerte, hiriere o maltratare a uno de ellos, sin causar daño al otro u ocasionándole uno menor, subsistirá no obstante la exención de responsabilidad criminal respecto del marido, a menos de constar que intencionalmente obró así o que las circunstancias del hecho lo revelen.
 12.° El que incurre en alguna omisión, hallándose impedido por causa legítima o insuperable.
 13.° El que cometiere un cuasidelito, salvo en los casos expresamente penados por la ley.
 
@@ -103,7 +103,7 @@ De las circunstancias que atenúan la responsabilidad criminal.
 ART. 11.
 Son circunstancias atenuantes:
 1.° Las expresadas en el artículo anterior, cuando no concurren todos los requisitos necesarios para eximir de responsabilidad en sus respectivos casos.
-2.° La de ser el culpable menor de dieciocho años.
+2.° La de ser el culpable menor de veinte años.
 3.° La de haber precedido inmediatamente de parte del ofendido, provocación o amenaza proporcionada al delito.
 4.° La de haberse ejecutado el hecho en vindicación próxima de una ofensa grave causada al autor, a su cónyuge, a sus parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, a sus padres o hijos naturales o ilegítimos reconocidos.
 5.° La de obrar por estímulos tan poderosos que naturalmente hayan producido arrebato y obcecación.
@@ -451,8 +451,7 @@ ART. 71.
 Cuando no concurran todos los requisitos que se exigen en el caso del núm. 8.° del art. 10 para eximir de responsabilidad, se observará lo dispuesto en el art. 490.
 
 ART. 72.
-Al menor de dieciséis años y mayor de diez, que no esté exento de responsabilidad por haber declarado el tribunal que obró con discernimiento, se le impondrá una pena discrecional; pero siempre inferior en dos grados, por lo menos, al mínimo de los señalados por la ley para el delito de que fuere responsable.
-Al mayor de dieciséis años y menor de dieciocho se aplicará siempre una pena inferior en uno, dos o tres grados al mínimo de los designados por la ley para el delito.
+Al menor de veinte años y mayor de dieciséis, que no esté exento de responsabilidad, por haber declarado el tribunal respectivo que obró con discernimiento, se le impondrá una pena discrecional, pero siempre inferior en dos grados, por lo menos, al mínimo de los señalados por la ley para el delito de que fuere responsable.
 
 ART. 73.
 Se aplicará asimismo la pena inferior en uno, dos o tres grados al mínimo de los señalados por la ley, cuando el hecho no fuere del todo excusable por falta de alguno de los requisitos que se exigen para eximir de responsabilidad criminal en los respectivos casos de que trata el art. 10, siempre que concurra el mayor número de ellos, imponiéndola en el grado que el tribunal estime correspondiente, atendido el número entidad de los requisitos que falten o concurran.
@@ -513,7 +512,7 @@ ART. 86.
 Los condenados a presidio perpetuo, reclusión perpetua, presidio mayor y reclusión mayor, cumplirán sus condenas en las cárceles penitenciarias. De esta regla se exceptúa a las mujeres, quienes, mientras no se construyan en dichas cárceles departamentos especiales para ellas, las cumplirán en las casas de corrección, lo mismo que las de presidio menor, reclusión menor y prisión.
 
 ART. 87.
-Los condenados a presidio menor y reclusión menor cumplirán sus condenas en los presidios; los condenados a prisión las cumplirán en las cárceles. En unos y otros establecimientos deberá mantenerse con la correspondiente separación a los reos menores de dieciséis años, mientras no se construyan otros especiales para ellos.
+Los condenados a presidio menor y reclusión menor, cumplirán sus condenas en los presidios; los condenados a prisión, las cumplirán en las cárceles. En unos y otros establecimientos deberán mantenerse con la correspondiente separación a los reos menores de veinte años, mientras no se construyan otros especiales para que cumplan sus condenas.
 
 ART. 88.
 El producto del trabajo de los condenados a presidio será destinado:
