@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1993-06-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1995-06-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1993-06-22
-fetched_at: 2026-08-03T00:55:51.654811+00:00
+version_date: 1995-06-22
+fetched_at: 2026-08-03T01:00:08.535172+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -54,9 +54,13 @@ c
 NOTA: 2
 rimi
 NOTA: 2
-nal se requiera la resolución previa de una cuestión civil de que deba conocer otro tribunal, el juicio criminal no se adelantará sino para practicar aquellas diligencias del sumario necesarias a la compro
+nal se requiera la resolución previa de una cuestión civil de que deba conocer otro tribunal, el juicio criminal
 NOTA: 2
-bación de los hechos; y se paralizará en seguida hasta que sea fallada la cuestión civil.
+no se adelantará sino para practicar aquellas diligencias del sumario necesarias a la compro
+NOTA: 2
+bac
+NOTA: 2
+ión de los hechos; y se paralizará en seguida hasta que sea fallada la cuestión civil.
 En el juicio civil prejudicial intervendrá el Ministerio Público, cuando la causa criminal verse sobre delito que deba perseguirse de oficio, para hacer todas las gestiones conducentes a la iniciación o a la pronta terminación de dicho juicio.
 Podrá también hacerse parte principal cuando lo estime conveniente.
 NOTA: 2
@@ -443,6 +447,106 @@ Todo aquel a quien se notifica una resolución tiene derecho a sacar copia de el
 
 Art. 80. (101) Si el sumario se prolongare por más de cuarenta días desde aquel en que el inculpado hubiere sido procesado, éste tendrá derecho para que se ponga en su conocimiento todo lo obrado, a fin de instar por la terminación. Esta solicitud no puede ser denegada sino en cuanto sea peligroso para el éxito de la investigación; y la apelación que en tal caso se entablare será otorgada en el solo efecto devolutivo cuando hubiere pendientes ante el tribunal diligencias de importancia que no deban retardarse.
 En los procesos por delitos de robos con violencia o intimidación en las personas, el sumario deberá cerrarse dentro de 40 días contados desde aquel en que el inculpado haya sido procesado. Este plazo será prorrogable por una sola vez y por igual tiempo, mediante resolución fundada. Sin perjuicio de lo anterior, el procesado tendrá siempre derecho al conocimiento del sumario transcurridos 120 días desde la fecha de la resolución que lo sometió a proceso.
+
+#### Título II
+DE LAS DIVERSAS MANERAS DE INICIAR EL PROCESO POR
+CRIMINES O SIMPLES DELITOS PESQUISABLES DE OFICIO
+
+Art. 81. (102) Los juicios a que se refiere este Título pueden comenzar:
+1° Por denuncia;
+2° Por querella;
+3° Por requisición del Ministerio Público; y
+4° Por pesquisa judicial.
+
+Art. 82. (103) Denuncia un delito la persona que pone en conocimiento de la justicia o de sus agentes, el hecho que lo constituye, y, por lo regular, el nombre del delincuente o los datos que lo identifiquen, no con el objeto de figurar como parte en el juicio, sino con el de informar al tribunal a fin de que proceda a la instrucción del respectivo proceso.
+
+Art. 83. (104) Todo el que tenga conocimiento de un hecho punible puede denunciarlo.
+Son obligados a recibir la denuncia no solamente el tribunal a quien corresponda el conocimiento de la causa, sino también cualquier tribunal que ejerza jurisdicción en materia criminal y los funcionarios de Carabineros de Chile y de la Policía de Investigaciones. Todos ellos deben transmitir inmediatamente la denuncia al tribunal que juzguen competente.
+El funcionario de Carabineros de Chile, de la Policía de Investigaciones o el tribunal que reciba una denuncia por hurto o robo deberá, en el acto de hacerlo, requerir del denunciante una declaración jurada, ante él sobre la preexistencia de las cosas sustraídas y una apreciación de su valor.
+Tratándose de delitos contra las personas, aborto, robo, hurto y de los contemplados en la ley N° 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, Carabineros de Chile o la Policía de Investigaciones, en su caso, deberán practicar de inmediato y sin previa orden judicial, las diligencias que se establecen en el artículo 120 bis, sin perjuicio de lo dispuesto en el artículo 260. Las diligencias que debieren practicarse en recinto cerrado, sólo se podrán realizar con autorización previa y expresa del propietario, arrendatario o persona a cuyo cargo esté el local en que deban efectuarse. El parte al tribunal en que se consigne la denuncia, deberá detallar las diligencias efectuadas y, en caso contrario, las razones por las cuales no se hicieron.
+
+Art. 84. (105) Están obligados a denunciar:
+1° El Ministerio Público, los hechos criminales que se pongan en su conocimiento;
+2° Los miembros de Carabineros de Chile, de la Policía de Investigaciones de Chile y de Gendarmería, todos los delitos que presencien o lleguen a su noticia.
+Las Fuerzas Armadas están también obligadas a formular denuncia respecto de todos los delitos de que tomen conocimiento en el ejercicio de sus funciones, ante los tribunales de justicia;
+3° Los empleados públicos, los crímenes o simples delitos de que tomen conocimiento en el ejercicio de sus funciones, y especialmente los que noten en la conducta ministerial de sus subalternos;
+4° Los jefes de puertos, aeropuertos, estaciones de trenes o buses o de otros medios de locomoción o de carga, los capitanes de naves mercantes o aeronaves comerciales que naveguen en el mar o en el espacio territorial, y los conductores de los trenes, buses u otros medios de transporte o carga, los delitos que se cometan durante el viaje, en el recinto de una estación, puerto o aeropuerto o a bordo de un buque o aeronave, y
+5° Los jefes de establecimientos hospitalarios o de clínicas particulares y, en general, los profesionales en medicina, odontología, química, farmacia y otras ramas relacionadas con la conservación o restablecimiento de la salud, y los que ejerzan profesiones auxiliares de ellas, que noten en una persona o en un cadáver señales de un crimen o simple delito.
+La denuncia hecha por uno de los obligados en este número exime al resto.
+
+Artículo 85.- Las personas indicadas en el artículo anterior deberán hacer la denuncia dentro de las veinticuatro horas siguientes al momento en que tengan conocimiento del hecho criminal. Respecto de los capitanes de naves o aeronaves, se contará este plazo desde que arriben a cualquier puerto o aeropuerto de la República.
+
+Art. 86. (107) Las personas indicadas en el artículo 84 que omitan hacer la denuncia que en él se prescribe, incurrirán en la pena señalada en el artículo 494 del Código Penal, que impondrá el juez que deba conocer de la causa principal, observando las formalidades prescritas en el Título I del Libro III de este Código.
+Si hubiere mérito para estimar como encubridor al funcionario que ha omitido la denuncia, el juez procederá contra él con arreglo a la ley.
+Si el que ha omitido la denuncia es un miembro de las Fuerzas Armadas, Carabineros, Investigaciones o Gendarmería que ha debido obrar de acuerdo con lo establecido en el N° 2 del artículo 84, se comunicará la infracción al juzgado correspondiente.
+
+Art. 87. (108) El denunciante no contrae otra responsabilidad que la correspondiente a los delitos que hubiere cometido por medio de la denuncia o con ocasión de ella.
+
+Art. 88. (109) No pueden ser denunciantes las personas a quienes está prohibido el ejercicio de la acción penal por los artículos 16 y 17, en los mismos casos en que dichos artículos determinan.
+No obstante, no será nulo el procedimiento iniciado por delito de acción pública como consecuencia de la denuncia de alguna de las personas a que se refiere el inciso anterior.
+
+Art. 89. (110) La denuncia, puede ser hecha de palabra o por escrito, debe contener la narración circunstanciada de delito, la designación de los que lo hayan cometido y de las personas que hayan presenciado su perpetración o que tuvieren noticia de él, todo en cuanto le conste al denunciante.
+
+Art. 90. (111) La denuncia verbal se extenderá en un acta en presencia del denunciante; quien la firmará, si puede, junto con el funcionario que la reciba. Si el denunciante no pudiere o no supiere firmar, lo hará otra persona a su ruego.
+La denuncia escrita será firmada por el denunciante o por un apoderado especial, o por un tercero a ruego del denunciante que no pudiere o no supiere firmar.
+
+Art. 91. (112) Recibida la denuncia y sin más trámite, el juez procederá inmediatamente a la comprobación del hecho denunciado, salvo que éste no revista el carácter de delito o que la denuncia sea manifiestamente falsa. En estos dos casos se abstendrá el juez de todo procedimiento, pero incurrirá en responsabilidad si la desestima indebidamente.
+
+Artículo 92.- Los tribunales no darán curso a denuncias hechas por personas desconocidas ni a delaciones, a no ser que contengan datos precisos que hagan verosímil que se ha cometido el hecho denunciado o delatado. En tal caso procederá el juez, previamente, a verificar los datos con el mayor secreto, procurando no comprometer la reputación de la persona inculpada.
+
+Art. 93. (114) Toda persona capaz de parecer en juicio por sí misma, puede querellarse ejercitando la acción pública de que se trata en los artículos 10 y 11 de este Código, si no le está expresamente prohibido por la ley.
+De los delitos enumerados en el artículo 18 no pueden querellarse sino las personas que en dicho artículo se indican.
+El querellante puede intervenir durante el sumario presentando todas las pruebas que obren en su poder y solicitando que se practiquen todas aquellas diligencias que creyere necesarias para el esclarecimiento de los hechos, y el juez ordenará que se lleven a efecto las que estime conducentes.
+
+Art. 94. (115) Toda querella criminal debe presentarse por escrito y contener:
+1° La designación del tribunal ante quien se entable;
+2° El nombre, apellido, profesión u oficio y residencia del querellante;
+3° El nombre, apellido, profesión u oficio y residencia del querellado, o una designación clara de su persona, si el querellante ignorare aquellas circunstancias. Si se ignoraren dichas determinaciones, siempre se podrá deducir querella para que se proceda a la investigación del delito y al castigo del o los culpables;
+4° La relación circunstanciada del hecho, con expresión del lugar, año, mes, día y hora en que se ejecutó, si se supieren;
+5° La expresión de las diligencias que se deberán practicar para la comprobación del hecho;
+6° El ofrecimiento de la fianza de calumnia, si el querellante no estuviere exento de ella;
+7° La petición de que se admita la querella, se practiquen las diligencias indicadas, se proceda a la citación o detención del presunto culpable, o a exigirle la fianza de libertad provisional, y de que se decrete el embargo de sus bienes en la cantidad necesaria, el embargo o medidas precautorias para asegurar la responsabilidad pecuniaria del querellado; todo esto según proceda de derecho; y
+8° La firma del querellante o de la otra persona a su ruego, si no pudiere firmar.
+
+Artículo 95.- La querella sólo podrá deducirse hasta el momento que quede ejecutoriada la resolución que declara cerrado el sumario.
+
+Art. 96. (117) Tratándose de los delitos de injuria o calumnia causadas en juicio que puedan ser perseguidos por el Ministerio Público, el querellante acompañará testimonio de estar terminado el litigio en que se causó la calumnia o la injuria y de la resolución en que el tribunal que conoció de él hubiere declarado que había mérito para proceder criminalmente.
+
+Art. 97. (118) Cuando la calumnia o injuria hecha en juicio no dé mérito para proceder criminalmente en concepto del tribunal que conoce de la causa en que se vertiere, éste, de oficio o a petición de parte, procediendo de plano y sin formalidad especial, corregirá la falta aplicando al que la hubiere cometido alguna de las personas disciplinarias que tuviere facultad de imponer con arreglo a lo dispuesto en el Código Orgánico de Tribunales.
+
+Art. 98. (119) El juez a quien corresponda conocer de la querella, calificará la fianza ofrecida por el querellante y fijará su cuantía, tomando en cuenta la gravedad del delito y las ciscunstancias que lo hagan verosímil.
+Extendida la fianza en un acta subscrita ante el secretario y presentada al juez, se dará curso a la querella y se practicarán las diligencias en ella indicadas o las que el juez estime conducentes.
+
+Art. 99. (120) El fiador de calumnia se obliga a responder por las penas pecuniarias a que pueda ser condenado el querellante y por el pago de costas e indemnizaciones de perjuicios irrogados al querellado, en el caso de que la querella resultare calumniosa.
+
+Artículo 100.- No están obligados a rendir fianza de calumnia:
+1° El ofendido ni sus herederos o representantes legales;
+2° En los delitos de homicidio o lesiones graves, el cónyuge del ofendido, sus ascendientes o descendientes legítimos o naturales; ni sus parientes colaterales legítimos hasta el segundo grado de consanguinidad o de afinidad; ni su adoptante ni su adoptado.
+3° El que se querella por el delito de falsificación de moneda que tenga curso legal, o de falsificación de documentos de crédito emitidos por organismos o empresas del Estado, sociedades anónimas, bancos comerciales o instituciones financieras, y
+4° Los oficiales del Ministerio Público y los representantes del Consejo de Defensa del Estado, de las Municipalidades, de la Contraloría General de la República y de los servicios fiscales, semifiscales y de administración autónoma, en las querellas que interpusieren en carácter de tales.
+
+Artículo 101.- Las personas designadas en los tres primeros números del artículo precedente serán responsables del delito de calumnia en los mismos casos en que lo sería cualquier otro querellante.
+
+Art. 102. (123) Si no constituyeren un delito los hechos expuestos en la querella, el juez no le dará curso y dictará al efecto un auto motivado.
+Si el juez se cree incompetente, lo declarará así; y el querellante podrá ocurrir ante el tribunal a quien corresponda el conocimiento del negocio, sin perjuicio de lo dispuesto en el artículo 47.
+
+Artículo 102 bis.- Cuando no se diere curso a una querella en que se persiga un delito de acción pública por defectos en la forma de interponerla, el juez la considerará una denuncia para los efectos de decidir la iniciación del sumario.
+
+Art. 103. (124) La previa requisición exigida por la ley en ciertos casos para que el Ministerio Público ponga en ejercicio la acción pública, debe contener las mismas indicaciones que para la denuncia requiere el artículo 89. La requisición será dirigida por el ofendido al correspondiente oficial del Ministerio Público.
+
+Artículo 103 bis.- El ejercicio de la acción civil durante el sumario, debidamente cursada, interrumpe la prescripción.
+No obstante, si dicha acción no se formalizare en conformidad a lo prescrito en el artículo 428, continuará la prescripción como si no se hubiere interrumpido.
+
+Art. 104. (125) El Ministerio Público, el querellante y el actor civil podrán pedir, durante el sumario, que se practiquen todas aquellas diligencias que creyeren necesarias para el esclarecimiento de los hechos; y el juez ordenará que se lleven a efecto los que estimare conducentes.
+El juez podrá permitir que el Ministerio Público o el querellante se impongan de lo obrado en el sumario, a menos que, para el mejor éxito de la investigación, conceptúe conveniente mantener secretas las diligencias.
+Los incidentes que promuevan durante el sumario las partes civiles se tramitarán en ramo separado y no retardarán la marcha del proceso penal. Las apelaciones que las partes civiles interpongan se concederán, cuando procedan, siempre en lo devolutivo.
+
+Artículo 105.- Sin esperar denuncia, ni querella alguna, deberá el juez competente instruir sumario de oficio, siempre que, por conocimiento personal, por avisos confidenciales, por notoriedad o por cualquier otro medio, llegare a su noticia la perpetración de un crimen o simple delito de acción pública.
+
+Art. 106. (127) En el caso a que se refiere el artículo precedente, el juez expedirá un auto cabeza de proceso en que, después de enunciar el conducto por donde ha llegado a su noticia el hecho punible, con todas las circunstancias que puedan influir en su calificación o suministrar datos para descubrir a los delincuentes, mandará practicar las primeras diligencias para la comprobación del delito.
+Sin embargo, no enunciará en ese auto los hechos o circunstancias cuya divulgación pueda perjudicar el éxito de la investigación, ni el nombre del denunciante, si éste exigiere su reserva.
+
+Art. 107. (128) Antes de proseguir la acción penal, cualquiera que sea la forma en que se hubiere iniciado el juicio, el juez examinará si los antecedentes o datos suministrados permiten establecer que se encuentra extinguida la responsabilidad penal del inculpado. En este caso pronunciará previamente sobre este punto un auto motivado, para negarse a dar curso al juicio.
 
 #### Título III
 DE LA COMPROBACION DEL HECHO PUNIBLE Y AVERIGUACION
