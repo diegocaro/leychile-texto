@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2001-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2002-01-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 2001-06-05
-fetched_at: 2026-08-03T01:15:06.742394+00:00
+version_date: 2002-01-21
+fetched_at: 2026-08-03T01:16:48.020604+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -334,7 +334,15 @@ Puede, sin embargo, encomendar, a su costa, su defensa y representación a otro 
 
 Art. 65. (86) Si la parte civil o el querellante que hubieren entablado una acción pública, no evacuaren un trámite, que les corresponda en el plazo respectivo, no se suspenderá la subtanciación del proceso, sin perjuicio de que puedan intervenir en los trámites posteriores.
 
-Art. 66. (87) Las notificaciones que hayan de hacerse a los representantes del Ministerio Público, se les harán personalmente en todo caso. También se le harán en persona que estuviere preso, pudiendo hacerlas el Secretario del Tribunal en su oficio o en el establecimiento penal donde aquél se encontrare recluido aunque se hallare fuera de su territorio jurisdiccional. Ello no obstante, tratándose de detenidos o presos cuyo proceso se lleve ante un tribunal cuya sede se encuentre fuera del lugar o ciudad donde esté ubicado el establecimiento penal en el cual se encuentren recluidos y que no tenga servicio diario de traslado al tribunal, la resolución que conceda la libertad incondicional o la libertad provisional sin fianza, u ordene cumplir el fallo de la Corte de Apelaciones que se pronuncie sobre la resolución concerniente a la libertad, se notificarán por el estadio diario. La resolución que deniegue la libertad, o conceda la libertad provisional bajo fianza o conceda la apelación interpuesta, en su caso, se notificará de inmediato y por el medio más rápido posible, al encargado del establecimiento penal, quien deberá comunicarla al recluido. Este podrá apelar de la resolución en el acto y ante el mismo encargado, lo que éste comunicará de inmediato y por igual vía al tribunal. Concedida que sea la apelación, se elevarán los autos a la Corte de Apelaciones respectiva. Asimismo, una vez constituida la fianza, el tribunal transmitirá, por igual medio, la orden de libertad al encargado del establecimiento para su inmediato cumplimiento. El secretario del tribunal dejará testimonio en el proceso de las actuaciones que practique conforme a este inciso, con mención de la fecha en que se efectuaron, la individualización de la persona que le recibió o le proporcionó la información, según proceda, y el tenor de ésta.
+Art. 66. (87) Las notificaciones que hayan de hacerse a los representantes del Ministerio Público, se les harán personalmente en todo caso.
+Las notificaciones al privado de libertad que no tuviere defensor o mandatario constituido en el respectivo proceso, deberán hacérsele personalmente en el recinto donde se encontrare recluido. El secretario del tribunal comunicará al encargado de este recinto, de inmediato y por el medio más rápido posible, el nombre del detenido o preso, el número del proceso, la fecha y la resolución dictada. Este funcionario deberá comunicar dicha resolución al recluido sin dilación alguna, gestión de la cual dará cuenta al secretario del tribunal respectivo. El secretario dejará testimonio en el proceso de las actuaciones practicadas conforme a este inciso, con mención de la fecha en que se efectuaron, la individualización del encargado del recinto que recibió la comunicación y el hecho de que éste hubiere practicado la notificación.
+El privado de libertad que no tuviere defensor o mandatario judicial constituido en el proceso, podrá deducir verbalmente el recurso de apelación que procediera en el acto mismo de la notificación. El encargado del recinto deberá informar de este hecho al secretario del tribunal, de inmediato y por el medio más rápido posible. Este dejará testimonio de ello en el expediente. Concedida la apelación, se elevarán los autos a la respectiva Corte de Apelaciones.
+Tratándose de personas privadas de libertad que tuvieren defensor o mandatario constituido en el proceso, las resoluciones deberán notificarse solamente a dichos representantes. Las notificaciones se efectuarán por el estado diario, salvo que se trataré del auto de procesamiento, del auto acusatorio o de la sentencia definitiva de primera instancia, todas las cuales se notificarán por cédula. Sin perjuicio de lo anterior, la resolución que deniegue la libertad, la que someta a proceso al imputado, el auto acusatorio, la sentencia definitiva de primera instancia y el cúmplase de la sentencia de segunda instancia deberán, además, ser notificadas personalmente al detenido o preso en la forma establecida en los incisos precedentes. Los recursos que procedieren deberán ser interpuestos por el defensor o mandatario, contabilizándose los plazos para su interposición a partir de la fecha de la notificación a éstos. En todo caso, la apelación de la resolución que deniegue la libertad y de la sentencia definitiva de primera instancia, podrá ser deducida por el procesado en el acto mismo de la notificación personal recién aludida.
+Lo dispuesto en este artículo se aplicará aun cuando el lugar de reclusión no se encontraré dentro del territorio jurisdiccional del tribunal que hubiere dictado la resolución que deba notificarse.
+El reglamento establecerá la forma en que el encargado del recinto o establecimiento penitenciario dará cumplimiento a las obligaciones que se le imponen en este artículo.
+
+Artículo 66 bis.- No obstante lo establecido en el artículo precedente, el juez podrá disponer, por resolución fundada y de manera excepcional, que la notificación de aquellas resoluciones que deban comunicarse personalmente al privado de libertad sea practicada por el secretario en el recinto del tribunal.
+En todo caso, si el detenido o preso se encontraré en el recinto del tribunal al momento de dictarse la resolución, ésta deberá serle notificada de inmediato por el secretario, aplicándose en lo demás lo dispuesto en el artículo anterior.
 
 #### 3. Derechos del inculpado.
 
@@ -1262,9 +1270,8 @@ Si fuere necesario, las decisiones a que se refiere el inciso precedente podrán
 NOTA 1.1
 Las modificaciones introducidas al presente Código por la Ley N° 18.857, publicada en el Diario Oficial de 6 de Diciembre de 1989, rigen, según lo dispone su artículo vigésimo, noventa días después de su publicación en el Diario Oficial.
 
-Artículo 276.- La resolución de que trata el artículo anterior será notificada en persona al procesado y personalmente o mediante oficio al jefe de la casa de detención, si aquél se encontrare detenido.
-Si el procesado se encontrare en libertad, se le citará o se despachará en su contra orden de prisión, según corresponda.
-Cuando estuviere en libertad provisional, se le citará para notificarlo, si no se hubieren alterado con el procesamiento las circunstancias que hicieron procedente la excarcelación.
+Artículo 276.- La resolución que somete a proceso al imputado será notificada al privado de libertad en la forma establecida en el artículo 66.
+Si el procesado se encontraré en libertad y tuviere apoderado o mandatario constituido en el proceso, se notificará a éste por cédula. De no tenerlo, el tribunal arbitrará las medidas para su más pronta notificación personal.
 
 Artículo 277.- Por el procesamiento la detención se convierte en prisión preventiva.
 
@@ -2196,10 +2203,9 @@ Art. 497 (525) La declaración del testigo estimado inhábil por el juez, podrá
 #### Título VII
 DE LA SENTENCIA
 
-Art. 498. (526) Vencido el término probatorio, el secretario certificará este hecho y notificará personalmente al procesado sometido a prisión preventiva quinto, 1.- y por el estado a las demás partes el mismo día o a más tardar el siguiente, sin necesidad de que lo ordene el juez.
--
+Art. 498. Vencido el término probatorio, el secretario, de oficio, certificará este hecho.
 
-Art. 499. (527) Notificada a las partes la certificación del artículo precedente, el secretario, sin demora, presentará los autos al juez, quien, dentro del plazo fatal de seis días, los examinará para ver si se ha omitido alguna diligencia de importancia.
+Art. 499. Efectuada la certificación exigida en el artículo anterior, el secretario, sin demora, presentará los autos al juez, quien, dentro del plazo fatal de seis días, los examinará para ver si se ha omitido alguna diligencia de importancia.
 Si notare alguna omisión, o si creyere necesario esclarecer algún punto dudoso, mandará practicar las diligencias conducentes, determinándolas con toda precisión, y disponiendo que se proceda con la posible brevedad.
 No faltando diligencia alguna o hechas las ordenadas conforme al inciso anterior, el juez pronunciará sentencia en el plazo legal.
 
@@ -2226,13 +2232,10 @@ Estas comprenden tanto las procesales como las personales y además los gastos o
 La sentencia condenatoria podrá disponer también el comiso de los instrumentos o efectos del delito cuando fuera procedente, o decretar su restitución cuando no deban caer en comiso.
 La sentencia condenatoria por el artículo 374 del Código Penal ordenará la destrucción total o parcial, según proceda, de los impresos o de las grabaciones sonoras o audiovisuales de cualquier tipo que se hayan decomisado durante el proceso.
 
-Art. 505. (533) La sentencia de primera instancia y el cúmplase de las de segunda se notificarán en persona al reo y no a sus representantes.
-NOTA:
-Después de leérsele la sentencia de primera instancia, se le dirá al reo que tiene derecho de apelar; y el que lo notificare pondrá en la diligencia testimonio de que así lo hizo; y de si el reo apela o se reserva para deducir más tarde el recurso, sin que éste pueda conformarse en ese acto con el fallo condenatorio.
-El cúmplase de la sentencia de segunda instancia será leído al reo junto con esta sentencia.
-No obstante lo establecido en los incisos anteriores, el cúmplase de la sentencia de segunda instancia se notificará al condenado o a su representante, indistintamente.
-NOTA:
-El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Art. 505. La sentencia de primera instancia y el cúmplase de la de segunda se notificarán al privado de libertad, en la forma establecida en el artículo 66.
+Al procesado que se encontrare en libertad, se le notificará personalmente la sentencia de primera instancia aun cuando tuviere defensor o mandatario constituido en el proceso. El tribunal deberá adoptar las medidas pertinentes para que la notificación se realice a la mayor brevedad. El plazo para apelar de la sentencia se computará desde la fecha de esta notificación.
+El que practique la notificación de la sentencia de primera instancia deberá entregar al procesado copia íntegra de la sentencia y, si éste fuere analfabeto, deberá leerle íntegramente el fallo. Además, le informará de su derecho a apelar en el acto y, si así lo hiciere, deberá dejar constancia de ello en el acta de notificación. El procesado no podrá declararse conforme con el fallo en este acto, pudiendo siempre hacer reserva de su derecho a apelar.
+El cúmplase de la sentencia de segunda instancia podrá notificarse personalmente al condenado que se encontrare en libertad o, por cédula, a su defensor o mandatario judicial, indistintamente. En el primer caso, junto con notificarse el cúmplase, se dará al condenado copia íntegra del fallo de segunda instancia, debiendo, además, leérsele en el evento de ser analfabeto. Por último, se le informará que la sentencia queda ejecutoriada y que no procede recurso alguno en su contra.
 
 Art. 506. (534) Si el estudio de los antecedentes produjere en el juez el convencimiento de que el delito de que se trata es una mera falta, dictará su sentencia con arreglo a esa convicción, pero conformándose a las disposiciones de este título.
 
