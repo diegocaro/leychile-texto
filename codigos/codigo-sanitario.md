@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1982-12-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1983-10-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1982-12-07
-fetched_at: 2026-08-03T00:37:22.226178+00:00
+version_date: 1983-10-27
+fetched_at: 2026-08-03T00:38:22.297497+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -551,20 +551,24 @@ Artículo 127°.- Los productos farmacéuticos sólo podrán expenderse al públ
 
 Artículo 128°.- Sólo los establecimientos de óptica podrán despachar recetas médicas en que se prescriban anteojos con fuerza dióptrica.
 
-Artículo 129°.- Las instalación, ampliación, modificación o traslado de establecimientos públicos y particulares de asistencia médica, tales como hospitales, maternidades, clínicas, policlínicas, sanatorios, asilos, casas de reposo, establecimientos de óptica, laboratorios clínicos, institutos de fisioterapia y psicoterapia, será autorizada por el Servicio Nacional de Salud, a quien corresponderá también vigilar su funcionamiento.
+Artículo 129°.- Las instalación, ampliación, modificación
+NOTA:
+o traslado de establecimientos públicos y particulares de
+NOTA 1:
+asistencia médica, tales como hospitales, maternidades, clínicas, policlínicas, sanatorios, asilos, casas de reposo, establecimientos de óptica, laboratorios clínicos, institutos de fisioterapia y psicoterapia, será autorizada por el Servicio Nacional de Salud, a quien corresponderá también vigilar su funcionamiento.
 Igualmente, corresponde al Servicio Nacional de Salud vigilar el funcionamiento de peluquerías, institutos de belleza, gabinete de pedicuría y otros establecimientos similares.
 La dirección técnica de los establecimientos señalados en el inciso primero, estará a cargo de profesionales con el título que, en cada caso, determine el Servicio Nacional de Salud.
 NOTA:
 Véase el Decreto 161, Salud, publicado el 19.11.1982, que establece el Reglamento de Hospitales y Clínicas Privadas.
+NOTA 1:
+Véase el Decreto 334, Salud, publicado el 27.10.1983, que aprueba el Reglamento de Casas de Reposo, Asilos y otros Establecimientos Similares.
 
 ## LIBRO VII
 DE LA OBSERVACION Y RECLUSION DE LOS ENFERMOS MENTALES, DE LOS ALCOHOLICOS Y DE LOS QUE PRESENTEN ESTADO DE DEPENDENCIA DE OTRAS DROGAS Y SUBSTANCIAS
 
 Artículo 130°.- El Director
 NOTA
-General de Salud, resolverá s
-NOTA
-obre la observación de los enfermos mentales, de los que
+General de Salud, resolverá sobre la observación de los enfermos mentales, de los que
 NOTA 1
 presentan dependencias de drogas u otras substancias, de los alcohólicos y de las personas presuntivamente afectadas por estas alteraciones, así como sobre su internación, permanencia y salida de los establecimientos públicos o particulares destinados a ese objeto. Estos establecimientos cumplirán con los requisitos que señala el reglamento.
 NOTA
