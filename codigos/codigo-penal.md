@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1989-12-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1991-01-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1989-12-06
-fetched_at: 2026-08-03T00:48:40.598556+00:00
+version_date: 1991-01-23
+fetched_at: 2026-08-03T00:50:34.715631+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -646,7 +646,7 @@ Todo el que dentro del territorio de la República conspirare contra su segurida
 Las prescripciones de este artículo se aplican a los chilenos, aún cuando la conspiración haya tenido lugar fuera del territorio de la República.
 
 ART. 107.
-El chileno que militare contra su patria bajo banderas enemigas, será castigado con presidio mayor en su grado medio a muerte.
+El chileno que militare contra su patria bajo banderas enemigas, será castigado con presidio mayor en su grado medio a presidio perpetuo.
 
 ART. 108.
 Todo individuo que, sin proceder a nombre y con la autorización de una potencia extranjera hiciere armas contra Chile amenazando la independencia o integridad de su territorio, sufrirá la pena de presidio mayor en su grado máximo a presidio perpetuo.
@@ -665,7 +665,7 @@ El que diere maliciosamente falso rumbo o falsas noticias al ejército o armada 
 El proveedor que maliciosamente faltare a su deber con grave daño del ejército o armada.
 El que impidiere que las tropas de la República reciban auxilios de caudales, armas, municiones de boca o de guerra, equipos o embarcaciones, o los planos, instrucciones o noticias convenientes para el mejor progreso de la guerra.
 El que por cualquier medio hubiere incendiado algunos objetos con intención de favorecer al enemigo.
-En los casos de este artículo si el delincuente fuero funcionario público, agente o comisionado del Gobierno de la República, que hubiere abusado de la autoridad, documentos o noticias que tuviere por razón de su cargo, la pena podrá elevarse hasta la de muerte.
+En los casos de este artículo si el delincuente fuero funcionario público, agente o comisionado del Gobierno de la República, que hubiere abusado de la autoridad, documentos o noticias que tuviere por razón de su cargo, la pena será la de presidio perpetuo.
 
 ART. 110.
 Con la pena de presidio mayor en su grado medio a presidio perpetuo, se castigarán los crímenes enumerados en el artículo anterior cuando ellos se cometieren respecto de los aliados de la República que obran contra el enemigo común.
@@ -798,17 +798,13 @@ Si se ejecutare para obtener un rescate o imponer exigencias o arrancar decision
 Si en cualesquiera de los casos anteriores, el encierro o la detención se prolongare por más de quince días o si de ello resultare un daño grave en la persona o intereses del secuestrado, la pena será presidio mayor en su grado medio a máximo.
 El que con motivo u ocasión del secuestro cometiere además homicidio, violación, o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido, será castigado con presidio mayor en su grado máximo a muerte.
 
-ART. 142.
-La substracción de un menor de diez años será castigada:
-1.- Con presidio mayor en su grado máximo a muerte:
-a) Si se ejecutare para obtener un rescate o imponer exigencias o arrancar decisiones o si durante la substracción se cometieren actos deshonestos con el menor, y
-b) Si a consecuencia de ella resultare homicidio, violación o o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido.
-2.- Con presidio mayor en cualesquiera de sus grados en los demás casos.
-La substracción de un mayor de diez años y menor de dieciocho, será castigada:
-1.- Con presidio mayor en su grado medio a máximo si se ejecutare para obtener un rescate, imponer exigencias, arrancar decisiones o si resultare un grave daño en la persona del menor;
-2.- Con presidio mayor en su grado máximo a muerte al que además, cometiere homicidio, violación, o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido, y
-3.- Con presidio menor en su grado máximo en los demás casos.
-Si antes de iniciarse el procedimiento judicial, el raptor devolviere voluntariamente al menor substraído libre de todo daño a sus padres, guardadores encargados de su persona o a la autoridad, podrá imponérsele una pena inferior en dos grados a las señaladas en este artículo.
+Artículo 142.- La sustracción de un menor de 10 años será castigada:
+1.- Con presidio mayor en su grado medio a presidio perpetuo si se ejecutare para obtener un rescate o imponer exigencias o arrancar decisiones.
+2) Con presidio mayor en cualquiera de sus grados en los demás casos.
+La sustracción de un mayor de 10 años y menor de 18, será castigada:
+1.- Con presidio mayor en su grado medio a presidio perpetuo si se ejecutare para obtener un rescate, imponer exigencias, arrancar decisiones o si resultare un grave daño en la persona del menor.
+2.- Con presidio menor en su grado máximo en los demás casos.
+Si los partícipes voluntariamente y sin que se haya pagado rescate devolvieren al menor sustraído libre de todo daño a sus padres, guardadores, encargados de su persona o a la autoridad, podrá imponérseles una pena inferior en dos grados a las señaladas en este artículo.
 
 ART. 143.
 El que fuera de los casos permitidos por la ley, aprehendiere a una persona para presentarla a la autoridad, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a diez sueldos vitales.
@@ -1666,7 +1662,7 @@ Si a consecuencia del abandono del puesto o de la embriaguez ocurrieren accident
 Cuando de tales accidentes resultare la muerte de algún individuo, se impondrán al culpable las penas de presidio menor en su grado máximo y multa de dieciséis a veinte sueldos vitales.
 
 ART. 331.
-En el caso de abandono intencional por causar daño a alguna de las personas que iban en los trenes, se aplicarán al maquinista, conductor o guarda-frenos, según los casos y aumentadas en un grado, las penas que señalan los arts. 323, 324, 325 y 326; pero en el caso de este último artículo la pena podrá elevarse hasta la de muerte.
+En el caso de abandono intencional por causar daño a alguna de las personas que iban en los trenes, se aplicarán al maquinista, conductor o guarda-frenos, según los casos y aumentadas en un grado, las penas que señalan los arts. 323, 324 Y 325.
 
 ART. 332.
 Las penas que establecen los tres artículos precedentes se aplicarán respectivamente a cualquier otro empleado en el servicio del camino que teniendo un cargo que desempeñar, lo abandonare o ejerciere mal con peligro de la seguridad del tráfico.
@@ -2134,10 +2130,10 @@ Del robo con violencia o intimidación en las personas.
 ART. 433.
 El culpable de robo con violencia o intimidación en las personas, sea que la violencia o la intimidación tenga lugar antes del robo para facilitar su ejecución, en el acto de cometerlo o después de cometido para favorecer su impunidad, será castigado:
 1.o) Con presidio mayor en su grado medio a muerte cuando, con motivo u ocasión del robo, se cometiere, además, homicidio, violación o alguna de las lesiones comprendidas en los artículos 395, 396 y 397 N.o 1.
-2.o) Con presidio mayor en su grado mínimo a presidio perpetuo, cuando las víctimas fueren retenidas bajo rescate o por más de un día, o se cometieren lesiones de las que trata el N.o 2 del artículo 397.
+2.o) Con presidio mayor en su grado medio a máximo, cuando las víctimas fueren retenidas bajo rescate o por más de un día, o se cometieren lesiones de las que trata el N.o 2 del artículo 397.
 
 ART. 434.
-Los que cometieren actos de piratería serán castigados con la pena de presidio mayor en su grado mínimo a muerte.
+Los que cometieren actos de piratería serán castigados con la pena de presidio mayor en su grado mínimo a presidio perpetuo.
 
 ART. 435. Derogado.
 
@@ -2349,8 +2345,8 @@ El que defraudare o perjudicare a otro usando de cualquier engaño que no se hal
 Del incendio y otros estragos.
 
 ART. 474.
-El que incendiare edificio, tren de ferrocarril, buque u otro lugar cualquiera, causando la muerte de una o más personas cuya presencia allí pudo prever, será castigado con presidio mayor en su grado máximo a muerte.
-La pena será presidio mayor en su grado máximo a presidio perpetuo, cuando del incendio no resultare muerte sino mutilación de miembro importante o lesión grave de las comprendidas en el núm. 1.° del art. 397.
+El que incendiare edificio, tren de ferrocarril, buque u otro lugar cualquiera, causando la muerte de una o más personas cuya presencia allí pudo prever, será castigado con presidio mayor en su grado máximo a presidio perpetuo.
+La misma pena se impondrá cuando del incendio no resultare muerte sino mutilación de miembro importante o lesión grave de las comprendidas en el número 1° del artículo 397.
 Las penas de este artículo se aplicarán respectivamente en el grado inferior de ellas si a consecuencia de explosiones ocasionadas por incendios, resultare la muerte o lesiones graves de personas que se hallaren a cualquier distancia del lugar del siniestro.
 
 ART. 475.

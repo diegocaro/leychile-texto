@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1988-10-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1991-01-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1988-10-06
-fetched_at: 2026-08-03T00:45:22.390005+00:00
+version_date: 1991-01-23
+fetched_at: 2026-08-03T00:50:22.698683+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1490,6 +1490,9 @@ Art. 349. Será castigado con la pena de presidio mayor en cualquiera de sus gra
 
 Art. 350. Sufrirá la pena de presidio mayor en su grado medio a presidio perpetuo el que incendiare o destruyere por medio de mina, bomba u otro explosivo, un cuartel, fortaleza, parque, arsenal, maestranza o fábrica de las Instituciones Armadas.
 Si se tratare de otros edificios u obras militares, la pena será de presidio mayor en su grado máximo.
+
+Art. 351. El que destruyere o inutilizare, por otros medios que los que se indican en el artículo anterior, los edificios u obras que se mencionan en el mismo, sufrirá la pena de presidio mayor en su grado medio a máximo.
+La pena se elevará hasta la de muerte, si a consecuencia del siniestro resulta la muerte o lesiones graves de personas cuya presencia allí se pudo prever.
 
 Art. 352. Cuando los hechos contemplados en los dos artículos anteriores ocurran por imprudencia o negligencia, o por omisión en la observancia de los reglamentos militares, la pena será de reclusión militar menor en sus grados medio a máximo.
 
