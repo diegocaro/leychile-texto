@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2002-01-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2002-06-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 2002-01-21
-fetched_at: 2026-08-03T01:16:48.020604+00:00
+version_date: 2002-06-11
+fetched_at: 2026-08-03T01:18:43.898199+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -81,25 +81,19 @@ Artículo 6°.- Cualquiera que sea el tribunal llamado a conocer de un juicio cr
 INCISO SEGUNDO.- DEROGADO.-
 INCISO TERCERO.- DEROGADO.-
 
-Art. 7° (27) Considéranse como primeras diligencias: LEY 18857 dar protección a los perjudicados, consignar las pruebas ART UNICO del delito que puedan desaparecer, recoger y poner en custodia cuanto conduzca a su comprobación y a la identificación de los delincuentes, decretar el arraigo de los inculpados cuando proceda y detenerlos en su caso, procediendo a la detención con arreglo a lo dispuesto en los párrafos 2° y 5° del Título IV, Primera Parte del Libro Segundo.
-Para estos efectos, el juez de prevención interrogará a los testigos y a los inculpados, y practicará los careos y reconocimientos que fueren necesarios.
+Art. 7° (27) Considéranse como primeras diligencias: dar protección a los perjudicados, consignar las pruebas del delito que puedan desaparecer, recoger y poner en custodia cuanto conduzca a su comprobación y a la identificación de los delincuentes, decretar el arraigo de los inculpados cuando proceda y detenerlos en su caso, procediendo a la detención con arreglo a lo dispuesto en los párrafos 2° y 5° del Título IV, Primera Parte del Libro Segundo y resolver sobre la libertad de los detenidos.
+Para estos efectos, el juez de prevención dispondrá la atención prioritaria del ofendido por los servicios públicos pertinentes, decretará su resguardo policial o el de los testigos, interrogará a estos últimos y a los inculpados, y practicará los careos y reconocimientos que fueren necesarios.
 
-Artículo 8°.- Los jueces de
-NOTA: 3.1
-NOTA: 3.1
-letras deberán practicar, además, todas las diligencias que les cometan Art. sexto otros tribunales para la investigación de los hechos en materias criminales, sin que sea menester que la
-NOTA: 3.1
-orden
-NOTA: 3.1
-emane del superior jerárquico respectivo.
-Los jueces del crimen que conozcan de uno de los delitos tipificados en los art
-NOTA: 3.1
-ículos 346 a 372 del Código Penal, en que sea víctima un menor, deberán poner el hecho en
-NOTA: 3.1
-conocimiento del juez de menores competente, a fin de que pueda dictar, si procediere, alguna medida de protección en su favor.
-NOTA: 3.1
-NOTA: 3.1
-Las modificaciones introducidas por la Ley 18.776, publicada en el "Diario Oficial" de 18 de enero de 1989, rigen, según su artículo décimo tercero, a partir del día primero del mes subsiguiente a la fecha de su publicación en el Diario Oficial.
+Artículo 7º bis.- Sin perjuicio de lo dispuesto en los artículos 6º y 7º precedentes, la Corte de Apelaciones respectiva establecerá un sistema de jueces de turno para atender las primeras diligencias de la instrucción, durante los días y horas en que no funcionan los tribunales, respecto de delitos cuyo conocimiento no se encontrare radicado en el tribunal competente.
+En dichos turnos, se incorporará a los secretarios de los juzgados con competencia en materia penal, quienes se entenderán habilitados para desempeñar tales funciones por el solo ministerio de la ley.
+El sistema de turno será semanal, excepto en aquellas localidades donde sólo exista un juez con competencia en materia penal, caso en el cual podrá establecerse una modalidad diversa.
+Las actuaciones, providencias o comunicaciones del juez de turno serán válidas para todos los efectos legales, sin la intervención de ministro de fe.
+Cuando resultare necesaria la constitución del juez de turno en el sitio del suceso, en el recinto del tribunal o en un recinto policial, se encontrará habilitado para ausentarse al día siguiente hábil, en el despacho del tribunal, el número de horas que hubiere ocupado en dicho procedimiento.
+La Corporación Administrativa del Poder Judicial informará anualmente a las Cortes de Apelaciones y al Ministerio de Justicia respecto de la aplicación que hubiese tenido el sistema de turno y de las disponibilidades presupuestarias para el año siguiente.
+En el ejercicio de sus facultades, la Corte Suprema, mediante auto acordado, podrá dictar instrucciones generales para el buen funcionamiento del sistema a que se refiere este artículo.
+
+Artículo 8°.- Los jueces de letras deberán practicar todas las diligencias que les cometan otros tribunales para la investigación de los hechos en materias criminales, sin que sea menester que la orden emane del superior jerárquico respectivo.
+Los jueces del crimen que conozcan de uno de los delitos tipificados en los artículos 346 a 372 del Código Penal, en que sea víctima un menor, deberán poner el hecho en conocimiento del juez de menores competente, a fin de que pueda dictar, si procediere, alguna medida de protección en su favor.
 
 Art. 9° (29) La competencia criminal no puede, en caso alguno, ser prorrogada por la simple voluntad de las partes.
 
@@ -326,7 +320,7 @@ Estará asimismo facultada para trasladarse a cualquier tribunal u oficina del o
 Se podrá comisionar a uno de los miembros de la Corte o Sala para los efectos señalados en los dos incisos precedentes.
 Si se descubriere alguna infracción a la ley penal o falta a la disciplina, se dará cuenta inmediata al Presidente de la Corte.
 
-Artículo 63 bis A.- La duración de los alegatos de los abogados, por cada parte, se limitará a una hora en las apelaciones y consultas de la sentencia definitiva y a media hora en los asuntos incidentales. El tribunal podrá, sin embargo, autorizar una prórroga hasta por el doble de la duración de los alegatos.
+Artículo 63 bis A.- La duración de los alegatos de los abogados, por cada parte, se limitará a una hora en las apelaciones y consultas de la sentencia definitiva y a media hora en los asuntos incidentales. En el caso de la vista de la causa, en apelación o consulta, de resoluciones que recaigan sobre la libertad provisional, los alegatos se extenderán por un término de hasta quince minutos. El tribunal podrá, sin embargo, autorizar una prórroga hasta por el doble de la duración de los alegatos.
 El tribunal resolverá las apelaciones y consultas relativas a la libertad provisional sin oír el alegato del abogado del inculpado o procesado si después de escuchada la relación no lo estima necesario para concederla. No tendrá efecto esta regla cuando se anuncie el representante del Ministerio Público o el abogado del querellante para alegar.
 
 Art. 64. (85) Todo inculpado o procesado que se encuentre privado de libertad se presume pobre para todos los efectos legales.
@@ -344,7 +338,24 @@ El reglamento establecerá la forma en que el encargado del recinto o establecim
 Artículo 66 bis.- No obstante lo establecido en el artículo precedente, el juez podrá disponer, por resolución fundada y de manera excepcional, que la notificación de aquellas resoluciones que deban comunicarse personalmente al privado de libertad sea practicada por el secretario en el recinto del tribunal.
 En todo caso, si el detenido o preso se encontraré en el recinto del tribunal al momento de dictarse la resolución, ésta deberá serle notificada de inmediato por el secretario, aplicándose en lo demás lo dispuesto en el artículo anterior.
 
-#### 3. Derechos del inculpado.
+#### 3. Del funcionamiento extraordinario de los
+tribunales que ejercen competencia en materia penal
+
+Artículo 66 ter.- Sin perjuicio de lo previsto en los artículos 559 y 560 del Código Orgánico de Tribunales, las Cortes de Apelaciones podrán ordenar que los jueces que ejercen jurisdicción en materia penal en su territorio jurisdiccional se aboquen exclusiva y extraordinariamente a la tramitación de las causas, de competencia de su tribunal, relativas a la investigación y juzgamiento de uno o más delitos en los que se encontrare comprometido un interés social relevante o que produzcan alarma pública.
+En todo caso, el funcionamiento extraordinario podrá adoptarse respecto de ciertas causas o grupo de causas, cuando hubiere retardo en el despacho de los asuntos sometidos al conocimiento del tribunal y, en general, siempre que el mejor servicio judicial así lo exigiere.
+Asimismo, en uso de esta facultad, las Cortes de Apelaciones podrán ordenar que el juez titular de un juzgado de letras de competencia común se aboque exclusivamente al conocimiento de todos los asuntos de naturaleza criminal que se ventilen en dicho tribunal.
+La resolución que decrete el funcionamiento extraordinario señalará la periodicidad con que el juez deberá informar de los avances obtenidos en el curso de los procesos de que se trate.
+La Corporación Administrativa del Poder Judicial informará anualmente a las Cortes de Apelaciones y al Ministerio de Justicia respecto de la aplicación que hubiese tenido el sistema de funcionamiento extraordinario y de las disponibilidades presupuestarias para el año siguiente.
+
+Artículo 66 ter A.- Cuando se iniciare el funcionamiento extraordinario, se entenderá, para todos los efectos legales, que el juez falta en su despacho. En esa oportunidad, el secretario del mismo tribunal asumirá las demás funciones que le corresponden al juez titular, en carácter de suplente, y por el solo ministerio de la ley.
+Quien debiere cumplir las funciones del secretario del tribunal, de acuerdo a las reglas generales, las llevará a efecto respecto del juez titular y de quien lo supliere o reemplazare.
+
+Artículo 66 ter B.- Los tribunales que ejercen competencia en materia penal deberán, a lo menos en el mes de noviembre de cada año, remitir un informe a la Corte de Apelaciones respectiva, dando cuenta del estado de las causas pendientes en el tribunal que pudieren encontrarse en alguno de los casos previstos en el artículo 66 bis.
+Podrán, asimismo, cuando las condiciones hubieren variado, remitir nuevos informes para que se considere la adopción de las medidas que corresponda.
+
+Artículo 66 ter C.- Las atribuciones de las Cortes de Apelaciones previstas en este párrafo serán ejercidas por una sala integrada solamente por Ministros titulares.
+
+#### 4. Derechos del inculpado.
 
 Artículo 67.- Todo inculpado, sea o no querellado, y aún antes de ser procesado en la causa, podrá hacer valer, hasta la terminación del proceso, los derechos que le acuerden las leyes y los que el tribunal estime necesarios para su defensa.
 En especial, podrá:
@@ -357,6 +368,8 @@ En especial, podrá:
 7.- Apelar de la resolución que niegue lugar al sobreseimiento o sobresea sólo temporalmente, y
 8.- Intervenir ante los tribunales superiores en los recursos contra la resolución que niega lugar a someterlo a proceso y en los recursos y consultas relativas al sobreseimiento.
 Los derechos en el proceso penal del simple inculpado menor de dieciocho años pueden ser ejercidos por sus padres o guardadores y los del demente por su curador. Si no existieren tales representantes o estuvieren, en concepto del juez, inhabilitados, y no se hubieren designado abogado y procurador, el juez, una vez prestada la indagatoria, podrá designarles a los que corresponda de acuerdo con las reglas previstas en el Título XVII del Código Orgánico de Tribunales, aunque el inculpado se encuentre en libertad.
+NOTA 1.1
+Las modificaciones introducidas al presente Código por la Ley N° 18.857, publicada en el Diario Oficial de 6 de Diciembre de 1989, rigen, según lo dispone su artículo vigésimo, noventa días después de su publicación en el Diario Oficial.
 
 #### 4. Nulidades Procesales
 
@@ -380,9 +393,7 @@ o sanción de nulidad el cumplimiento de las disposiciones concernientes a la in
 NOTA 1.1
 Ministerio P
 NOTA 1.1
-úblico en los actos en que
-NOTA 1.1
-ella es obligatoria; y a la intervención, patr
+úblico en los actos en que ella es obligatoria; y a la intervención, patr
 NOTA 1.1
 ocinio y representación del procesado, en los casos y formas establecidos por la ley.
 NOTA 1.1
@@ -1125,7 +1136,9 @@ e se le imputa fuer
 NOTA 1.1
 e alguno de los siguientes:
 1° Cualquiera infracción sancionada con pena de falta;
-2° Delitos que la ley pene únicamente con inhabilitación pa
+2° Delitos que la ley pene únicamente con inhabi
+NOTA 1.1
+litación pa
 NOTA 1.1
 ra cargos u oficios públicos o profesiones titulares, o con suspensión de ellos, o con multa, y
 3° Simples delitos que la ley pene con una sanción privativa o restrictiva de libertad no superior a la de una temporal menor en su grado mínimo.
@@ -1862,13 +1875,13 @@ Art. 412. (442) DEROGADO.-
 Art. 413 (443) El sobreseimiento definitivo no podrá decretarse sino cuando esté agotada la investigación con que se haya tratado de comprobar el cuerpo del delito y de determinar la persona del delincuente.
 Si en el sumario no estuvieren plenamente probadas las circunstancias que eximen de responsabilidad o los hechos de que dependa la extinción de ella, no se decretará el sobreseimiento sino que se esperará la sentencia definitiva.
 
-Art. 414. (444) El auto de sobreseimiento deberá consultarse cuando el juicio versare sobre delito que la ley castiga con pena aflictiva.
+Art. 414. (444) El auto de sobreseimiento definitivo deberá consultarse cuando el juicio versare sobre delito que la ley castiga con pena aflictiva.
 Deberá también consultarse siempre que hubiere sido dictado contra la opinión del Ministerio Público.
-Si el sobreseimiento fuere parcial, no se llevará a efecto la consulta sino cuando se eleven los autos por alguna apelación o en consulta de la sentencia definitiva. Pero si hubiere procesado sometido a prisión preventiva no procesado por otro delito, respecto de quien se hubiere mandado sobreseer, se hará inmediatamente la consulta y se elevará copia de los antecedentes que se refieran a ese procesado.
+Si el sobreseimiento definitivo fuere parcial, no se llevará a efecto la consulta sino cuando se eleven los autos por alguna apelación o en consulta de la sentencia definitiva. Pero si hubiere procesado sometido a prisión preventiva no procesado por otro delito, respecto de quien se hubiere mandado sobreseer, se hará inmediatamente la consulta y se elevará copia de los antecedentes que se refieran a ese procesado.
 
 Art. 415. (445) La Corte de Apelaciones, una vez elevados los autos en apelación o en consulta de la sentencia en que se manda sobreseer o seguir adelante el juicio, oirá la opinión de su fiscal y, sin más trámite, pondrá la causa en tabla para pronunciarse acerca de las conclusiones que éste formule.
 En la vista de la causa, las partes podrán exponer verbalmente lo que convenga a su derecho.
-Con todo, tratándose de la consulta de los autos de sobreseimiento temporal, las causas se fallarán sin necesidad de colocarlas en tabla, debiendo el Presidente del tribunal repartirlas proporcionalmente entre las diversas Salas, pero se dará traslado al procesado cuando la opinión del fiscal le sea desfavorable.
+INCISO DEROGADO
 
 Art. 416. (446) Si el fiscal se conformare con el sobreseimiento, propondrá la aprobación del auto consultado; pero, si creyere que el sumario arroja mérito para continuar la causa, pedirá que se la siga adelante, elevándola a plenario.
 Podrá pedir también que se la reponga al estado de sumario, cuando creyere que deban evacuarse algunas diligencias además de las que han sido practicadas, e indicará con precisión cuáles deban ser esas diligencias.

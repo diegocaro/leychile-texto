@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2002-05-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2002-06-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2002-05-22
-fetched_at: 2026-08-03T01:17:30.038205+00:00
+version_date: 2002-06-11
+fetched_at: 2026-08-03T01:18:55.901333+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1236,6 +1236,7 @@ En los juzgados de garantía y en los tribunales de juicio oral en lo penal corr
 
 Art. 215. Si por falta o inhabilidad de algunos de sus miembros quedare una Corte de Apelaciones o cualquiera de sus salas sin el número de jueces necesario para el conocimiento y resolución de las causas que les estuvieren sometidas, se integrarán con los miembros no inhabilitados del mismo tribunal, con sus fiscales y con los abogados que se designen anualmente con este objeto.
 El llamamiento de los integrantes se hará en el orden indicado y los abogados se llamarán por el orden de su designación en la lista de su nombramiento.
+Las salas de las Cortes de Apelaciones no podrán funcionar con mayoría de abogados integrantes, tanto en su funcionamiento ordinario como en el extraordinario.
 La integración de las salas de la Corte de Santiago se hará preferentemente con los miembros de aquellas que se compongan de cuatro, según el orden de antigüedad.
 
 Art. 216. Si en una Sala de las Cortes de Apelaciones no queda ningún miembro hábil se deferirá el conocimiento del negocio a otra de las Salas de que se componga el Tribunal y si la inhabilidad o impedimento afecta a la totalidad de sus miembros, pasará el asunto a la Corte de Apelaciones que deba subrogar según las reglas siguientes:
