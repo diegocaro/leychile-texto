@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1968-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1968-08-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1968-03-01
-fetched_at: 2026-08-03T00:18:35.615049+00:00
+version_date: 1968-08-14
+fetched_at: 2026-08-03T00:19:06.341203+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -101,6 +101,7 @@ Le corresponderá, asimismo, el nombramiento de curador ad-litem en su caso.
 Lo dispuesto en los incisos precedentes regirá también en toda sección de distrito no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
 Los jueces de distrito no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 Los Jueces de Distrito no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
+No obstante lo dispuesto en el inciso primero, el Presidente de la República, previo informe de la Corte de Apelaciones respectiva, podrá crear o mantener Juzgados de distrito, fijando en el decreto correspondiente el territorio sobre el cual ejercerán jurisdicción, pudiendo, además, restringir la competencia asignada a dichos tribunales a una o más de las materias de que ordinariamente deban conocer.
 
 Art. 15. Los jueces de distrito durarán dos años en el ejercicio de sus funciones; pero podrán indefinidamente volver a ser nombrados para el período sucesivo.
 
@@ -146,6 +147,7 @@ Lo dispuesto en este artículo regirá también en toda sección de subdelegaci�
 No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de cuarenta escudos.
 Los jueces de subdelegación de las ciudades cabeceras de departamento no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 Los Jueces de Subdelegación no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
+No obstante lo dispuesto en el inciso primero, el Presidente de la República, previo informe de la Corte de Apelaciones respectiva, podrá crear o mantener Juzgados de subdelegación, fijando en el decreto correspondiente el territorio sobre el cual ejercerán jurisdicción, pudiendo, además, restringir la competencia asignada a dichos tribunales a una o más de las materias de que ordinariamente deban conocer.
 
 Art. 26. A los jueces de subdelegación corresponden las atribuciones propias de ministro de fe que el Código Civil y otras leyes confirieron a los subdelegados con anterioridad al 1° de Marzo de 1876 y que no hayan sido derogadas.
 
@@ -162,16 +164,15 @@ El ejercicio de la jurisdicción se dividirá entre los juzgados de cada ciudad,
 Sin embargo, los Jueces de Letras de menor cuantía a que se refiere el inciso primero, conocerán de los juicios de mínima cuantía, conforme al territorio jurisdiccional que para tal efecto fijará a cada uno el Presidente de la República, previo informe de las respectivas Cortes de Apelaciones.
 Podrá también el Presidente de la República, a instancia de las mismas Cortes, modificar los límites de la jurisdicción territorial de los juzgados de letras de menor cuantía.
 
-Art. 29. Habrá, además, un juzgado de letras de menor cuantía en Alto de San Antonio (Iquique), Pampa Unión (Antofagasta), Andacollo, Viña del Mar, Sewell (Rancagua), Curanilahue, Santa Juana, Temuco, Valdivia y San José de la Mariquina.
-Los Juzgados de Viña del Mar y de San José de la Mariquina ejercerán jurisdicción sobre las subdelegaciones de sus respectivos nombres.
-Inciso suprimido.
+Art. 29. Habrá además, un Juzgado de Letras de Menor Cuantía en Pica (Iquique), Pedro de Valdivia (Antofagasta), El Salvador (Chañaral), Andacollo (Coquimbo), Viña del Mar (Valparaíso), Sewell (Rancagua), Linares, Coelemu (Tomé), Talcahuano, Santa Juana (Coronel), Laja, Temuco, Valdivia, Panguipulli (Valdivia), San José de la Mariquina (Valdivia) y Los Lagos (Valdivia).
+Inciso derogado.
 Respecto del territorio jurisdiccional de los demás juzgados a que se refiere este artículo, regirá lo dispuesto en el artículo anterior.
 
 Art. 30. Podrá el Presidente de la República, a medida que los recursos fiscales lo permitan, crear uno o más juzgados de letras de menor cuantía en las ciudades o centros de población que, por el número de sus habitantes, las dificultades de comunicación y el movimiento de las causas civiles y criminales, hagan necesario encomendar a funcionarios especiales la administración de justicia en lo relativo a negocios de menor cuantía.
 Estos juzgados se crearán, preferentemente, en los centros industriales o mineros y demás poblaciones obreras que se encuentren fuera de las ciudades cabeceras de provincias o departamentos.
 Creado un juzgado de letras de menor cuantía, no podrá ser suprimido sino por medio de una ley.
 Regirá, también, respecto de estos juzgados lo dispuesto en el inciso final del art. 28.
-Asimismo el Presidente de la República podrá, previo informe de la Corte de Apelaciones respectiva, disponer en el decreto de creación que estos Tribunales tengan la competencia especial establecida en el artículo 39.o.
+Asimismo el Presidente de la República podrá, previo informe de la Corte de Apelaciones respectiva, disponer que estos Tribunales tengan la competencia especial establecida en el artículo 39.o.
 
 Art. 31. El decreto que fije o que modifique los límites del territorio jurisdiccional de un juez de letras de menor cuantía señalará, además, un lugar fijo y conocido que sirva de asiento al tribunal, dentro de dicho territorio.
 Los jueces de letras de menor cuantía de Santiago y Valparaíso deberán funcionar, en cuanto sea posible, en locales que estén vecinos.
@@ -235,16 +236,16 @@ Art. 41. Suprimido.
 ### § 2. Los Jueces de Letras de Mayor Cuantía
 
 Art. 42. En cada departamento habrá un Juzgado de Letras de Mayor Cuantía, que deberá funcionar en la respectiva capital.
-Existirán dos juzgados de mayor cuantía en los departamentos de Iquique, Antofagasta, Ovalle, Rancagua, Talca, Chillán, La Laja, Temuco, Valdivia y Osorno, y tres en Concepción.
-En el departamento de Santiago habrá cinco Juzgados de Mayor Cuantía, que ejercerán jurisdicción exclusivamente en materia civil y siete en materia criminal; en el de Valparaíso dos en lo civil y tres en lo criminal y en el Departamento Presidente Aguirre Cerda dos que conocerán exclusivamente asuntos civiles y del trabajo y tres en materia criminal.
+Existirán dos Juzgados de Mayor Cuantía en los Departamentos de Iquique, Antofagasta, Copiapó, La Serena, Ovalle, Rancagua, Curicó, Talca, La Laja, Temuco, Valdivia, Osorno, Llanquihue y Magallanes; tres en los de Arica y Chillán y cuatro en Concepción.
+En el Departamento de Santiago habrá siete Juzgados de Mayor Cuantía, que ejercerán jurisdicción exclusivamente en materia civil y nueve en materia criminal; en Valparaíso, dos en lo civil y cuatro en lo criminal, uno de estos últimos con asiento en la ciudad de Viña del Mar, y en el Departamento Presidente Aguirre Cerda, dos que conocerán exclusivamente de asuntos civiles y cuatro en materia criminal.
 
-Art. 43. Para todos los efectos del servicio judicial se considerarán como parte integrante del departamento de San Bernardo las comunas-subdelegaciones de San José de Maipo y Puente Alto del departamento de Santiago; y del departamento de Maipo, la comuna-subdelegación de Pirque del mismo departamento de Santiago.
-Jueces del Crimen de los Departamentos de Santiago y Presidente Aguirre Cerda ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago; pero podrán practicar actuaciones en todo el departamento, en los asuntos sometidos a su conocimiento.
-El Presidente de la República podrá modificar los límites de la jurisdicción territorial de los juzgados a que se refiere el inciso anterior, previo acuerdo de la misma Corte. No podrá hacer uso de esta facultad más de una vez al año.
+Art. 43. Los Jueces del Crimen del departamento de Santiago ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago, pero podrán practicar actuaciones en todo el departamento, en los asuntos sometidos a su conocimiento.
+El Presidente de la República podrá modificar los límites de la jurisdicción territorial de los Juzgados a que se refiere el inciso anterior, previo acuerdo de la misma Corte. No podrá hacer uso de esta facultad más de una vez al año.
+No obstante lo dispuesto en el inciso primero del artículo anterior, el Juzgado de Letras de Mayor Cuantía de Pisagua tendrá su asiento en la localidad de Huara, que será considerada capital del departamento para todos los efectos del Servicio Judicial, y su territorio jurisdiccional estará formado por las comunas subdelegaciones de Huara y Pozo Almonte y el departamento de Pisagua, con excepción del distrito 5) Tana, que corresponderá a la jurisdicción de los Juzgados de Arica.
 
-Art. 44. Habrá también un Juzgado de Letras de Mayor Cuantía en Petorca, Putaendo, Casablanca, Limache, Quilpué, Florida (Concepción), Villarica, que tendrán su asiento en la ciudades cabeceras de esas comunas subdelegaciones, las cuales serán consideradas como departamentos para todos los efectos del Servicio de Judicial.
+Art. 44. Habrá también un Juzgado de Letras de Mayor Cuantía en Petorca, Putaendo, Casablanca, Limache, Quilpué, La Calera, Florida (Concepción), Lota, Curanilahue, Carahue y Villarica, que tendrán su asiento en la ciudades cabeceras de esas comunas subdelegaciones, las cuales serán consideradas como departamentos para todos los efectos del Servicio Judicial, con excepción de La Calera y Curanilahue.
 Los territorios jurisdiccionales de los Tribunales a que se refiere este artículo serán los de las comunas-subdelegaciones de sus respectivos nombres.
-El Juzgado de Limache comprenderá, además, la comuna de Villa Alemana; el de Casablanca, la comuna de Algarrobo; el de Carahue, la comuna de Saavedra, con excepción de los distritos 8) Molco, 9) Pucolón y 10) Chelle, los cuales continuarán perteneciendo a la jurisdicción del Juzgado de Letras de Mayor Cuantía de Imperial; y el de Villarrica, comprenderá también la comuna de Pucón.
+El Juzgado de Limache comprenderá, además, la comuna de Villa Alemana; el de La Calera, las comunas de La Calera, Hijuelas, Nogales y Llay-Llay; el de Casablanca, las comunas de Algarrobo y Curacaví; el de Carahue, la comuna de Saavedra, con excepción de los distritos 8) Molco, 9) Pucolón y 10) Chelle, los cuales continuarán perteneciendo a la jurisdicción del Juzgado de Letras de Mayor Cuantía de Imperial; y el de Villarrica, comprenderá también la comuna de Pucón.
 
 Art. 45. Los jueces de letras de mayor cuantía conocerán:
 1°) En única o en primera instancia, conforme al inciso final de este número:
@@ -307,27 +308,28 @@ Las Cortes de Apelaciones
 
 ### § 1. Su organización y atribuciones
 
-Art. 54. Habrá en la República once Cortes de Apelaciones que tendrán su asiento en las ciudades de Iquique, Antofagasta, La Serena, Valparaíso, Santiago, Talca, Chillán, Concepción, Temuco, Valdivia y Punta Arenas.
+Art. 54. Habrá en la República doce Cortes de Apelaciones que tendrán su asiento en las ciudades de Iquique, Antofagasta, La Serena, Valparaíso, Santiago, Rancagua, Talca, Chillán, Concepción, Temuco, Valdivia y Punta Arenas.
 
 Art. 55. El territorio jurisdiccional de las Cortes de Apelaciones será el siguiente:
 a) El de la Corte de Iquique comprenderá la provincia de Tarapacá;
-b) El de la Corte de Apelaciones de Antofagasta comprenderá la provincia de Antofagasta;
+b) El de la Corte de Antofagasta comprenderá la provincia de Antofagasta;
 c) El de la Corte de La Serena comprenderá las provincias de Atacama y Coquimbo;
 d) El de la Corte de Valparaíso comprenderá las provincias de Aconcagua y Valparaíso;
-e) El de la Corte de Santiago comprenderá las provincias de Santiago, O'Higgins y Colchagua;
-f) El de la Corte de Talca comprenderá el departamento de Constitución de la provincia de Maule y las provincias de Curicó, Talca y Linares, exceptuado de esta última el departamento de Parral;
-f) El de la Corte de Chillán comprenderá el departamento de Parral de la provincia de Linares y las provincias de Ñuble y Maule, exceptuado de esta última el departamento de Constitución;
-g) El de la Corte de Concepción comprenderá las provincias de Concepción, Bío-Bío y Arauco;
-h) El de la Corte de Temuco comprenderá las provincias de Malleco y Cautín; e
-i) El de la Corte de Valdivia comprenderá las provincias de Valdivia, Osorno, Llanquihue y Chiloé; y
-j) El de la Corte de Punta Arenas comprenderá las provincias de Aysen y Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
+c) El de la Corte de Santiago comprenderá la provincia de Santiago, exceptuando el departamento de Maipo;
+f) En la Corte de Rancagua comprenderá las provincias de O'Higgins y Colchagua y el departamento de Maipo de la provincia de Santiago;
+g) El de la Corte de Talca comprenderá el departamento de Constitución de la provincia de Maule y las provincias de Curicó, Talca y Linares, exceptuando de esta última el departamento de Parral;
+h) El de la Corte de Chillán comprenderá el departamento de Parral de la provincia de Linares y las provincias de Ñuble y Maule, exceptuando de esta última el departamento de Constitución;
+i) El de la Corte de Concepción comprenderá las provincias de Concepción, Bío-Bío y Arauco;
+j) El de la Corte de Temuco comprenderá las provincias de Malleco y Cautín;
+k) El de la Corte de Valdivia comprenderá las provincias de Valdivia, Osorno, Llanquihue y Chiloé, y
+l) El de la Corte de Punta Arenas comprenderá las provincias de Aysén y Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
 
 Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indica:
-1°.- Las Cortes de Iquique, Antofagasta, La Serena y Punta Arenas tendrán tres miembros;
-2°.- Las Cortes de Talca, Chillán y Valdivia tendrán cuatro miembros;
-3°.- La Corte de Temuco tendrá cinco miembros;
-4°.- Las Cortes de Valparaíso y Concepción tendrán siete miembros, y
-5°.- La Corte de Santiago tendrá veintiún miembros.
+1° La Corte de Punta Arenas tendrá tres miembros;
+2° Las Cortes de Iquique, Antofagasta, La Serena, Rancagua, Talca, Chillán y Valdivia tendrán cuatro miembros;
+3° La Corte de Temuco tendrá cinco miembros;
+4° Las Cortes de Valparaíso y Concepción tendrán siete miembros, y
+5° La Corte de Santiago tendrá veintiún miembros.
 
 Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado desde el 1° de Enero y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
 Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón.
@@ -336,7 +338,7 @@ Art. 58. Cada Corte de Apelaciones tendrá un fiscal.
 La Corte de Apelaciones de Santiago tendrá cuatro fiscales. El ejercicio de sus funciones será reglado por el tribunal, como lo estime más conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
 Art. 59. Las Cortes de Apelaciones tendrán el número de Relatores que a continuación se indica:
-1°.- Las Cortes de Iquique, Antofagasta, La Serena, Talca y Punta Arenas tendrán un Relator;
+1°.- Las Cortes de Iquique, Antofagasta, La Serena, Rancagua, Talca y Punta Arenas tendrán un Relator;
 2°.- Las Cortes de Chillán y Valdivia tendrán dos Relatores.
 3°.- Las Cortes de Valparaíso, Concepción y Temuco tendrán tres Relatores, y
 4°.- La Corte de Santiago tendrá diez Relatores.
@@ -547,9 +549,9 @@ Si en alguna ocasión y por motivos graves y urgentes, acordare el tribunal reta
 5°) Disponer la formación de la estadística del movimiento judicial de la Corte Suprema y de las Cortes de Apelaciones, en conformidad a los estados bimestrales que éstas deben pasar;
 6°) Adoptar las medidas convenientes para que las causas de que conocen la Corte Suprema y las Cortes de Apelaciones, se fallen dentro del plazo que establece la ley y velar porque las Cortes de Apelaciones cumplan igual obligación respecto de las causas de que conocen los jueces de sus respectivas jurisdicciones;
 7°) Oír y resolver las reclamaciones que se interpongan contra los subalternos de la Corte Suprema; y
-8°) Designar los cinco miembros del Tribunal que formará la sala de turno durante el feriado de vacaciones.
-El ministro que ejerciere este cargo tendrá la facultad de convocar extraordinariamente al Tribunal siempre que algún asunto urgente y grave así lo exija.
-En caso de licencia, imposibilidad u otra causa accidental, será reemplazado por el ministro más antiguo del mismo tribunal que se halle presente.
+8°) Designar a uno de los miembros del Tribunal para que quede de turno durante el feriado de vacaciones.
+El Ministro que ejerciere este cargo tendrá la facultad de convocar extraordinariamente al Tribunal siempre que algún asunto urgente y grave así lo exija.
+En caso de licencia, imposibilidad u otra causa accidental, será reemplazado por el Ministro más antiguo del mismo Tribunal que se halle presente.
 
 Art. 106. El Presidente de la Corte Suprema desempeñará las atribuciones a que se refieren los 7 últimos números del artículo precedente, fuera de las horas ordinarias de audiencia. La cuenta deberá despacharla, en todo caso, antes de la hora fijada para la instalación del tribunal.
 
@@ -912,14 +914,10 @@ Art. 215. Si por falta o inhabilidad de algunos de sus miembros quedare una Cort
 El llamamiento de los integrantes se hará en el orden indicado y los abogados se llamarán por el orden de su designación en la lista de su nombramiento.
 La integración de las salas de la Corte de Santiago se hará preferentemente con los miembros de aquellas que se compongan de cuatro, según el orden de antigüedad.
 
-Art. 216. Si en una sala de las Cortes de Apelaciones no queda ningún miembro hábil se deferirá el conocimiento del negocio a otra de las salas de que se componga el tribunal; y si la inhabilidad o impedimento afecta a la totalidad de sus miembros, pasará el asunto a la Corte de Apelaciones que deba subrogar según las reglas siguientes:
-Las Cortes de Apelaciones de Iquique y Antofagasta se subrogarán recíprocamente;
-Las Cortes de La Serena y de Valparaíso, por la de Santiago;
-La Corte de Santiago, por la de Valparaíso;
-Las Cortes de Talca y de Concepción, por la de Chillán, y ésta por la de Concepción;
-La Corte de Temuco, por la de Valdivia, y ésta por aquélla;
-La Corte de Punta Arenas, por la de Valdivia.
-En los casos en que no puedan aplicarse las reglas precedentes, conocerá la Corte de Apelaciones cuya sede esté más próxima a la de la que debe subrogarse.
+Art. 216. Si en una Sala de las Cortes de Apelaciones no queda ningún miembro hábil se deferirá el conocimiento del negocio a otra de las Salas de que se componga el Tribunal y si la inhabilidad o impedimento afecta a la totalidad de sus miembros, pasará el asunto a la Corte de Apelaciones que deba subrogar según las reglas siguientes:
+Se subrogarán recíprocamente las Cortes de Apelaciones de Iquique con la de Antofagasta; la de Santiago con la de Valparaíso; la de Rancagua con la de Talca; la de Chillán con la de Concepción y la de Temuco con la de Valdivia.
+Las Cortes de La Serena y Punta Arenas se subrogarán por las de Santiago y Valdivia, respectivamente.
+En los casos en que no puedan aplicarse las reglas precedentes, conocerá la Corte de Apelaciones cuya sede esté más próxima a la de la que debe ser subrogada.
 
 Art. 217. Si la Corte Suprema o algunas de sus salas se hallare en el caso previsto en el artículo 215 se llamará a integrar a los miembros no inhabilitados de la misma Corte Suprema, al fiscal del tribunal o a los abogados que se designen anualmente con este objeto.
 El llamamiento de los integrantes se hará en el orden indicado y los abogados se llamarán por el orden de su designación en la lista de su nombramiento.
@@ -1325,7 +1323,7 @@ En todo caso, las partes, de común acuerdo, podrán suspender la tramitación d
 
 Art. 315. Durante el mismo período deberá quedar actuando una Sala en cada Corte de Apelaciones, en conformidad al turno que ella establezca. Dicha Sala tendrá las facultades y atribuciones que corresponden al tribunal pleno, con excepción de los desafueros de diputados y senadores.
 En Santiago permanecerán en funciones durante el feriado de vacaciones dos salas, de acuerdo con el turno que al efecto determine la Corte de Apelaciones, las que reunidas y con un quórum mínimo de cinco miembros tendrán las facultades y atribuciones que se indican en el inciso precedente.
-En la Corte Suprema, durante el período referido, funcionará una sala integrada por cinco miembros y tendrá las facultades y atribuciones que correspondan al tribunal pleno, con excepción de las apelaciones que se deduzcan en las causas por desafuero de diputados y senadores, recursos de inaplicabilidad y de la formación de listas, ternas y propuestas para la provisión de los cargos de miembros de los Tribunales Superiores de Justicia. El Ministro más antiguo tendrá las facultades y atribuciones del Presidente de la Corte Suprema. Esta última norma se aplicará a las Cortes de Apelaciones.
+El Ministro más antiguo de cada Corte de Apelaciones, que forme parte de la Sala a que se refiere este artículo, tendrá las facultades y atribuciones del Presidente del Tribunal.
 
 Art. 316. Es prohibido a los jueces ejercer la abogacía; y sólo podrán defender causas personales o de sus cónyuges, ascendientes, descendientes, hermanos o pupilos.
 Les es igualmente prohibido representar en juicio a otras personas que las mencionadas en el precedente inciso.
@@ -1802,6 +1800,7 @@ La distribución que el Presidente de la República hiciere regirá también res
 El notario que deba llevar el registro de bienes raíces llevará, además, los registros de asociaciones de canalistas, de prenda agraria, de prenda industrial y especial de prenda.
 
 Art. 449. No obstante lo dispuesto en el artículo precedente, los registros de bienes raíces, de comercio, de asociaciones de canalistas, de prenda agraria, de prenda industrial y especial de prenda se encargarán a un funcionario especial que con el título de conservador habrá en el departamento de Valparaíso y en los demás en que el Presidente de la República lo determine con previo informe de la respectiva Corte de Apelaciones.
+En los casos de los dos artículos anteriores, las funciones desempeñadas por una misma persona constituirán un solo cargo u oficio judicial para todos los efectos legales.
 
 Art. 450. Lo dispuesto en los tres artículos precedentes es sin perjuicio de lo prescrito en el artículo 44.
 
