@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1980-07-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1982-05-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1980-07-02
-fetched_at: 2026-08-03T00:31:41.191343+00:00
+version_date: 1982-05-19
+fetched_at: 2026-08-03T00:36:28.176402+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2259,7 +2259,7 @@ Cuando, en los casos del inciso primero del artículo anterior, el hecho se llev
 
 ART. 459.
 Sufrirán las penas de presidio menor en su grado mínimo y multa de once a veinte sueldos vitales, los que sin título legítimo e invadiendo derechos ajenos:
-1.° Sacaren aguas de represas, estanques u otros depósitos; de ríos, arroyos o fuentes; de canales o acueductos, y se las apropiaren para hacer de ellas un uso cualquiera.
+1.° Sacaren aguas de represas, estanques u otros depósitos; de ríos, arroyos o fuentes; de canales o acueductos, redes de agua potable e instalaciones domiciliarias de éstas, y se las apropiaren para hacer de ellas un uso cualquiera.
 2.° Rompieren o alteraren con igual fin diques, esclusas, compuertas, marcos u otras obras semejantes existentes en los ríos, arroyos, fuentes, depósitos, canales o acueductos.
 3.° Pusieren embarazo al ejercicio de los derechos que un tercero tuviere sobre dichas aguas.
 4.° Usurparen un derecho cualquiera referente al curso de ellas o turbaren a alguno en su legítima posesión.
