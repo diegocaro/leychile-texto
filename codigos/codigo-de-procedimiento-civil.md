@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1996-03-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=1997-01-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 1996-03-19
-fetched_at: 2026-08-03T01:02:15.925533+00:00
+version_date: 1997-01-31
+fetched_at: 2026-08-03T01:02:33.945700+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1661,6 +1661,50 @@ Art. 444 (466). Si la ejecución recae sobre una empresa o establecimiento merca
 Embargada la industria o las utilidades, el depositario que se nombre tendrá las facultades y deberes de interventor judicial; y para ejercer las que correspondan al cargo de depositario, procederá en todo caso con autorización del juez de la causa.
 Si la ejecución recae sobre el simple menaje de la casa habitación del deudor, el embargo se entenderá hecho permaneciendo las especies en poder del mismo deudor, con el carácter de depositario, previa facción de un inventario en que se expresen en forma individual y detallada el estado y la tasación aproximada de las referidas especies que practicará el ministro de fe ejecutor. La diligencia que deberá extenderse será firmada por el ministro de fe que la practique, por el acreedor, si concurre, y por el deudor, quien, en caso de substracción, incurrirá en la sanción prevista en el número 1° del artículo 471 del Código Penal.
 
+Art. 445 (467). No son embargables:
+1° Los sueldos, las gratificaciones y las pensiones
+NOTA: 30
+de gracia, jubilación, retiro y montepío que pagan el Estado y las Municipalidades.
+Sin embargo, tratándose de deudas que provengan de pensiones alimenticias decretadas judicialmente, podrá
+NOTA: 30
+embargarse hasta el 50% de las prestaciones que reciba el alimentante en conformidad al inciso anterior;
+2° Las remuneraciones de los empleados y obreros en
+NOTA: 31
+la forma que determinan los artículos 40 y 153 del Código del Trabajo;
+3° Las pensiones alimenticias forzosas;
+4° Las rentas periódicas que el deudor cobre de una fundación o que deba a la liberalidad de un tercero, en la parte que estas rentas sean absolutamente necesarias para sustentar la vida del deudor, de su cónyuge y de los hijos que viven con él y a sus expensas;
+5° Los fondos que gocen de este beneficio, en
+NOTA: 32
+conformidad a la Ley Orgánica del Banco del Estado de Chile y en las condiciones que ella determine;
+6° Las pólizas de seguro sobre la vida y las sumas que, en cumplimiento de lo convenido en ellas, pague el asegurador. Pero, en este último caso, será embargable el valor de las primas pagadas por el que tomó la póliza;
+7° Las sumas que se paguen a los empresarios de obras públicas durante la ejecución de los trabajos. Esta disposición no tendrá efecto respecto de lo que se adeude a los artífices u obreros por sus salarios insolutos y de los créditos de los proveedores en razón de los materiales u otros artículos suministrados para la construcción de dichas obras;
+8° El bien raíz que el deudor ocupa con su familia, siempre que no tenga un avalúo fiscal superior a diez
+NOTA: 33
+suedos vitales mensuales, escala a), del departamento de Santiago; los muebles de dormitorio, de comedor y de cocina de uso familiar y la ropa necesaria para el abrigo del deudor, su cónyuge y los hijos que viven a sus expensas.
+La inembargabilidad establecida en el inciso precedente no regirá para los bienes raíces respecto de los juicios en que sean parte el Fisco, Las Cajas de Previsión y demás organismos regidos por la ley del Ministerio de la Vivienda y Urbanismo;
+9° Los libros relativos a la profesión del deudor hasta el valor de $632.089 y a elección del mismo deudor;
+10° Las máquinas e instrumentos de que se sirve el deudor para la enseñanza de alguna ciencia o arte, hasta dicho valor y sujetos a la misma elección;
+11° Los uniformes y equipos de los militares, según su arma y grado;
+12° Los objetos indispensables al ejercicio personal del arte u oficio de los artistas, artesanos y obreros de fábrica; y los aperos, animales de labor y material
+de cultivo necesarios al labrador o trabajador de campo para la explotación agrícola, hasta la suma de $632.089 y a elección del mismo deudor;
+13°. Los utensilios caseros y de cocina, y los artículos de alimento y combustible que existan en poder del deudor, hasta concurrencia de lo necesario para el consumo de la familia durante un mes;
+14°. La propiedad de los objetos que el deudor posee fiduciariamente;
+15°. Los derechos cuyo ejercicio es enteramente personal, como los de uso y habitación;
+16°. Los bienes raíces donados o legados con la expresión de no embargables, siempre que se haya hecho constar su valor al tiempo de la entrega por tasación aprobada judicialmente; pero podrán embargarse por el valor adicional que después adquieran;
+17°. Los bienes destinados a un servicio que no pueda paralizarse sin perjuicio del tránsito o de la higiene pública, como los ferrocarriles, empresas de agua potable o desagüe de las ciudades, etc.; pero podrá embargarse la renta líquida que produzcan, observándose en este caso lo dispuesto en el artículo anterior; y
+18°. Los demás bienes que leyes especiales prohíban embargar.
+Son nulos y de ningún valor los contratos que tengan por objeto la cesión, donación o transferencia en cualquier forma, ya sea a título gratuito u oneroso, de las rentas expresadas en el número 1° de este artículo o de alguna parte de ellas.
+NOTA: 30
+Véase el Art. 56 del DFL 338, de Hacienda, de 1960, Estatuto Administrativo, relativo a la inembargabilidad de las remuneraciones que perciban los empleados públicos.
+NOTA: 31
+Véase el artículo 166 del D.L. N° 2.200, publicado en el "Diario Oficial" de 15 de junio de 1978.
+NOTA: 32
+Véanse los Arts. 37 y 38 del Decreto-Ley N° 2.079, de 16 de Diciembre de 1977, publicado en el Diario Oficial de 18 de Enero de 1978, que fija el texto de la Ley Orgánica del Banco del Estado de Chile.
+NOTA: 33
+El Art. 63 del Decreto-Ley N° 670, de 1° de Octubre de 1974, publicado en el Diario Oficial de 2 del mismo mes, dispone:
+"A partir del 1° de octubre de 1974 los sueldos vitales regirán por provincias, debiendo fijarse, en cada caso, como sueldo vital provincial el más alto que habría correspondido a cualquiera de los departamentos de la respectiva provincia.
+Las referencias legales a un sueldo vital departamental fijado se entenderán hechas al sueldo vital de la provincia respectiva, y cuando no se hiciere mención a departamento o provincia alguna se entenderá que se refiere al sueldo vital de la provincia de Santiago".
+
 Art. 446. (468). Aunque pague el deudor antes del requerimiento, serán de su cargo las costas causadas en el juicio.
 
 Art. 447 (469) Puede el acreedor concurrir al embargo y designar, si el mandamiento no lo hace, los bienes del deudor que hayan de embargarse, con tal que no excedan de los necesarios para responder a la demanda, haciéndose esta apreciación por el ministro de fe encargado de la diligencia, sin perjuicio de lo que resuelva el tribunal a solicitud de parte interesada.
@@ -2520,6 +2564,8 @@ Art. 702. La sentencia deberá dictarse dentro del plazo de 15 días, contado de
 
 #### 2. De los juicios de mínima cuantía
 
+Art. 703. Se aplicará el procedimiento de que trata este párrafo a los juicios cuya cuantía no exceda de $ 18.856, y que por su naturaleza no tengan señalado en la ley un procedimiento especial.
+
 Art. 704. El procedimiento será verbal, pero las partes podrán presentar minutas escritas en que se establezcan los hechos invocados y las peticiones que se formulen.
 La demanda se interpondrá verbalmente o por escrito. En el primer caso se dejará constancia, en un acta que servirá de cabeza al proceso, del nombre, profesión u oficio y domicilio del demandante, de los hechos que éste exponga y de sus circunstancias esenciales, de los documentos que acompañe y de las peticiones que formule.
 El acta terminará con una resolución en que se cite a las partes para que comparezcan personalmente, o representadas por mandatarios con facultad especial para transigir, en el día y hora que se designe. El tribunal fijará para esta audiencia un día determinado que no podrá ser anterior al tercer día hábil desde la fecha de la resolución y cuidará de que medie un tiempo prudencial entre la notificación del demandado y la celebración de la audiencia.
@@ -2669,6 +2715,8 @@ DE LOS JUICIOS DE HACIENDA
 Art. 748. (922). Los juicios en que tenga interés el Fisco y cuyo concimiento corresponda a los tribunales ordinarios, se substanciarán siempre por escrito, con arreglo a los trámites establecidos para los juicios del fuero ordinario de mayor cuantía, salvo las modificaciones que en los siguientes artículos se expresan.
 NOTA
 El Artículo 3°, inciso final, del Decreto con Fuerza de Ley 94, Hacienda, publicado el 21.03.1960, dispone: "Serán aplicables a los asuntos en que tenga interés la Empresa de los Ferrocarriles del Estado y de que conozcan los tribunales ordinarios de justicia, las disposiciones del Título XVI del Libro 3° del Código de Procedimiento Civil".
+
+Art. 749. (923). Se omitirán en el juicio ordinario los escritos de réplica y dúplica, siempre que la cuantía del negocio no pase de $377.241.
 
 Art. 750. (924). En los negocios en que el ministerio público no figure como parte principal, debe ser oído antes de la prueba y antes de la sentencia definitiva en una y otra instancia. El
 NOTA: 47
