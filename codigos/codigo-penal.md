@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1925-03-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1925-11-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1925-03-17
-fetched_at: 2026-08-03T00:03:54.977705+00:00
+version_date: 1925-11-25
+fetched_at: 2026-08-03T00:04:25.232950+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -703,6 +703,9 @@ Los que tocaren o mandaren tocar campanas u otro instrumento cualquiera para exc
 
 ART. 124.
 Los que sin cometer los crímenes enumerados en el art. 121, pero con el propósito de ejecutarlos, sedujeren tropas, usurparen el mando de ellas, de un buque de guerra, de una plaza fuerte, de un puesto de guardia, de un puerto o de una ciudad, o retuvieren contra la orden del Gobierno un mando político o militar cualquiera, sufrirán la pena de reclusion mayor o de confinamiento mayor en sus grados medios.
+Los que, por cualquier medio, incitaren a las tropas a faltar a sus deberes de obediencia y disciplina, serán castigados con presidio, confinamiento o relegación menores en cualesquiera de sus grados, y multa de cien a mil pesos.
+Si la incitación tiene por objeto inducir a los ciudadanos a faltar a los deberes que las leyes sobre el Servicio Militar les señalan, la pena será de presidio menor en su grado mínimo y multa de 50 a 500 pesos.
+Igualmente, los que excitaren al personal civil que presta sus servicios de guerra o de movilización civil en fábricas, arsenales, almacenes, etc., y a los que se ocupan en los servicios de transportes, comunicaciones agrícolas e industrias declaradas para la conservación de la capacidad guerrera del país.
 
 ART. 125.
 En los crímenes de que tratan los arts. 121, 122 i 124, la conspiracion se pena con estrañamiento mayor en su grado medio i la proposicion con estrañamiento menor en su grado medio.
@@ -743,6 +746,7 @@ Los empleados que continuaren funcionando bajo las órdenes de los sublevados o 
 
 ART. 136.
 Los que aceptaren cargos o empleos de los sublevados, serán castigados con inhabilitacion absoluta temporal para cargos i oficios públicos en su grado mínimo i multa de ciento a mil pesos.
+El que de hecho o palabra hiciere objeto de mofa o de desprecio a la bandera o himno nacional de la República, será castigado con pena de prisión, en cualquiera de sus grados, y multas de veinte a mil pesos.
 
 ### TÍTULO TERCERO.
 DE LOS CRÍMENES I SIMPLES DELITOS QUE AFECTAN LOS DERECHOS GARANTIDOS POR LA CONSTITUCION.
