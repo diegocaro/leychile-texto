@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=2000-04-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=2001-08-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 2000-04-29
-fetched_at: 2026-08-05T02:30:40.375600+00:00
+version_date: 2001-08-25
+fetched_at: 2026-08-05T02:38:35.487836+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -160,7 +160,8 @@ Toda persona natural o jurídica ofendida o injustamente aludida por algún medi
 Toda persona natural o jurídica tiene el derecho de fundar, editar y mantener diarios, revistas y periódicos, en las condiciones que señale la ley.
 El Estado, aquellas universidades y demás personas o entidades que la ley determine, podrán establecer, operar y mantener estaciones de televisión.
 Habrá un Consejo Nacional de Televisión, autónomo y con personalidad jurídica, encargado de velar por el correcto funcionamiento de este medio de comunicación. Una ley de quórum calificado señalará la organización y demás funciones y atribuciones del referido Consejo.
-La ley establecerá un sistema de censura para la exhibición y publicidad de la producción cinematográfica;
+La ley regulará un sistema de calificación para la exhibición de la producción cinematográfica.
+NOTA:
 13º.- El derecho a reunirse pacíficamente sin permiso previo y sin armas.
 Las reuniones en las plazas, calles y demás lugares de uso público, se regirán por las disposiciones generales de policía;
 14º.- El derecho de presentar peticiones a la autoridad, sobre cualquier asunto de interés público o privado, sin otra limitación que la de proceder en términos respetuosos y convenientes;
@@ -207,12 +208,14 @@ Será de competencia exclusiva de los tribunales ordinarios de justicia declarar
 El dominio del titular sobre su concesión minera está protegido por la garantía constitucional de que trata este número.
 La exploración, la explotación o el beneficio de los yacimientos que contengan sustancias no susceptibles de concesión, podrán ejecutarse directamente por el Estado o por sus empresas, o por medio de concesiones administrativas o de contratos especiales de operación, con los requisitos y bajo las condiciones que el Presidente de la República fije, para cada caso, por decreto supremo. Esta norma se aplicará también a los yacimientos de cualquier especie existentes en las aguas marítimas sometidas a la jurisdicción nacional y a los situados, en todo o en parte, en zonas que, conforme a la ley, se determinen como de importancia para la seguridad nacional. El Presidente de la República podrá poner término, en cualquier tiempo, sin expresión de causa y con la indemnización que corresponda, a las concesiones administrativas o a los contratos de operación relativos a explotaciones ubicadas en zonas declaradas de importancia para la seguridad nacional.
 Los derechos de los particulares sobre las aguas, reconocidos o constituidos en conformidad a la ley, otorgarán a sus titulares la propiedad sobre ellos;
-25º.- El derecho del autor sobre sus creaciones intelectuales y artísticas de cualquier especie, por el tiempo que señale la ley y que no será inferior al de la vida del titular.
+25º.- La libertad de crear y difundir las artes, así como el derecho del autor sobre sus creaciones intelectuales y artísticas de cualquier especie, por el tiempo que señale la ley y que no será inferior al de la vida del titular.
 El derecho de autor comprende la propiedad de las obras y otros derechos, como la paternidad, la edición y la integridad de la obra, todo ello en conformidad a la ley.
 Se garantiza, también, la propiedad industrial sobre las patentes de invención, marcas comerciales, modelos, procesos tecnológicos u otras creaciones análogas, por el tiempo que establezca la ley.
 Será aplicable a la propiedad de las creaciones intelectuales y artísticas y a la propiedad industrial lo prescrito en los incisos segundo, tercero, cuarto y quinto del número anterior, y
 26º.- La seguridad de que los preceptos legales que por mandato de la Constitución regulen o complementen las garantías que ésta establece o que las limiten en los casos en que ella lo autoriza, no podrán afectar los derechos en su esencia, ni imponer condiciones, tributos o requisitos que impidan su libre ejercicio.
 INCISO SEGUNDO.- DEROGADO.-
+NOTA:
+La disposición cuadragésima transitoria de esta Constitución prescribe que la presente reforma regirá desde la entrada en vigencia de la nueva ley de calificación cinematográfica. Esta norma, que sustituye al decreto ley 679, de 1974, está contenida en la LEY 19846, publicada el 04.01.2003. Por consiguiente, el texto del inciso ha sido actualizado de acuerdo a la reforma señalada.
 
 Artículo 20.- El que por causa de actos u omisiones arbitrarios o ilegales sufra privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías establecidos en el artículo 19, números 1º., 2º. 3º. inciso cuarto, 4º., 5º., 6º., 9º. inciso final, 11º., 12º., 13º., 15º., 16º. en lo relativo a la libertad de trabajo y al derecho a su libre elección y libre contratación, y a lo establecido en el inciso cuarto, 19º., 21º., 22º., 23º., 24o. y 25º. podrá ocurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectivas, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes.
 Procederá, también, el recurso de protección en el caso del Nº. 8º. del artículo 19, cuando el derecho a vivir en un medio ambiente libre de contaminación sea afectado por un acto arbitrario e ilegal imputable a una autoridad o persona determinada.
@@ -1023,6 +1026,12 @@ artículo 80 E, en la quina y en cada una de las ternas que se formen para prove
 Trigesimaoctava.- Las atribuciones otorgadas a las municipalidades en el artículo 110, relativas a la modificación de la estructura orgánica, de personal y de remuneraciones, serán aplicables cuando se regulen en la ley respectiva las modalidades, requisitos y limitaciones para el ejercicio de estas nuevas competencias.
 
 Trigesimanovena.- En el año siguiente a la fecha de publicación de la presente ley de reforma constitucional no podrán figurar en las nóminas para integrar la Corte Suprema quienes hayan desempeñado los cargos de Presidente de la República, diputado, senador, Ministro de Estado, intendente, gobernador o alcalde.
+
+Cuadragésima.- Lo dispuesto en el párrafo final del número 12.º del artículo 19 regirá al momento de entrar en vigencia la ley sobre calificación cinematográfica que se dicte en reemplazo del
+NOTA:
+decreto ley Nº 679, de 1974.
+NOTA:
+La LEY 19846, publicada el 04.01.2003, estableció las nuevas normas sobre calificación cinematográfica, a que se hace referencia. El Art. 32 de la misma ley derogó el decreto ley N° 679.
 
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio Fernández Fernéndez, Ministro del Interior.- René Rojas Galdames, Ministro de Relaciones Exteriores.- César Raúl Benavides Escobar, Teniente General, Ministro de Defensa Nacional.- José Luis Federici Rojas, Ministro de Economía, Fomento y Reconstrucción.- Sergio de Castro Spikula, Ministro de Hacienda.- Alfredo Prieto Bafalluy, Ministro de Educación Pública.- Mónica Madariaga Gutiérrez, Ministro de Justicia.- Patricio Torres Rojas, General de Brigada, Ministro de Obras Públicas.- Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura.- Rene Peri Fagerstrom, General Inspector de Carabineros, Ministro de Bienes Nacionales.- Jose Piñera Echenique, Ministro del Trabajo y Previsión Social.- Alejandro Medina Lois, General de Brigada, Ministro de Salud.- Carlos Quiñones López, Contralmirante, Ministro de Minería.- Jaime Estrada Leigh, General de Brigada, Ministro de la Vivienda y Urbanismo.- Caupolicán Boisset Mujica, General de Brigada Aérea, Ministro de Transportes y Telecomunicaciones.- Sergio Badiola Broberg, General de Brigada, Ministro Secretario General de Gobierno.
 Lo que transcribo a Ud. para su conocimiento.- Mario Duvauchelle Rodríguez, Capitán de Navío JT, Secretario de Legislación de la Junta de Gobierno.
