@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1988-07-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1988-10-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1988-07-23
-fetched_at: 2026-08-03T00:45:14.268734+00:00
+version_date: 1988-10-17
+fetched_at: 2026-08-03T00:45:34.400765+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -287,33 +287,33 @@ Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a 
 1.- Las Cortes de Apelaciones de Arica, Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Chillán, Valdivia, Puerto Montt, Coyhaique y Punta Arenas tendrán cuatro miembros.
 2.- La Corte de Apelaciones de Talca tendrá cinco miembros.
 3.- La Corte de Apelaciones de Temuco tendrá siete miembros.
-4.- La Corte de Apelaciones Presidente Aguirre Cerda tendrá nueve miembros.
-5.- Las Cortes de Apelaciones de Valparaíso y Concepción tendrán diez miembros.
+4.- Las Cortes de Apelaciones de Presidente Aguirre Cerda y Concepción tendrán diez miembros;
+5.- La Corte de Apelaciones de Valparaíso tendrá once miembros;
 6.- La Corte de Apelaciones de Santiago tendrá veinticinco miembros.
 
 Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán dos años contados desde el 1°. de Enero del año en que se inicie el período respectivo y serán desempeñados por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
 Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón.
 
-Art. 58. Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá cinco Fiscales; las Cortes de Apelaciones de Valparaíso y Presidente Aguirre Cerda tendrán tres Fiscales; las Cortes de Apelaciones de Concepción y Temuco tendrán dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal, como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
+Art. 58. Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá seis Fiscales; las Cortes de Apelaciones de Valparaíso y Presidente Aguirre Cerda tendrán tres Fiscales; las Cortes de Apelaciones de Concepción y Temuco tendrán dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal, como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
 Art. 59. Las Cortes de Apelaciones tendrán el número de relatores que a continuación se indican:
 1.- Las Cortes de Apelaciones de Arica, Iquique y Coyhaique tendrán un relator.
 2.- Las Cortes de Apelaciones de Antofagasta, Copiapó, La Serena, Rancagua, Talca, Chillán, Valdivia, Puerto Montt y Punta Arenas, tendrán dos relatores.
 3.- La Corte de Apelaciones de Temuco tendrá tres relatores.
-4.- La Corte de Apelaciones de Presidente Aguirre Cerda tendrá cinco relatores.
-5.- Las Cortes de Apelaciones de Valparaíso y Concepción tendrán seis relatores.
+4.- Las Cortes de Apelaciones de Presidente Aguirre Cerda y Concepción tendrán seis relatores.
+5.- La Corte de Apelaciones de Valparaíso tendrá siete relatores.
 6.- La Corte de Apelaciones de Santiago tendrá catorce relatores.
 
 Art. 60. Cada Corte de Apelaciones tendrá un secretario.
 La Corte de Apelaciones de Santiago tendrá tres secretarios. El tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
 
-Art. 61. Las Cortes de Valparaíso y Concepción se dividirán en tres salas de tres miembros cada una, con excepción de la primera, que tendrá cuatro miembros.
-La Corte de Presidente Aguirre Cerda se dividirá en dos salas de cinco y cuatro ministros respectivamente.
+Art. 61. Las Cortes de Presidente Aguirre Cerda, Valparaíso y Concepción se dividirán en tres salas de tres miembros cada una, con excepción de la primera, que tendrá cuatro miembros.
+Inciso derogado.
 La Corte de Santiago se dividirá en siete salas de tres miembros cada una, excepto la primera, la segunda y la tercera, que se compondrá de cuatro ministros. En caso de funcionamiento extraordinario en ocho salas, la octava sala será integrada por un ministro de cada una de las salas primera, segunda y tercera, designados por sorteo.
 La Corte de Apelaciones de Temuco se dividirá en dos salas compuesta la primera por cuatro y la segunda por tres ministros.
 Cada sala representa a la Corte en los asuntos de que conoce.
 La designación de los ministros que correspondan a cada sala se hará por sorteo anual.
-Para la constitución de las salas de la Corte de Apelaciones de Santiago, se sortearán los miembros del tribunal, con excepción de su presidente, para quien la integración de salas será facultativa.
+Para la constitución de las salas de las Cortes de Apelaciones de Valparaíso y Santiago, se sortearán los miembros del tribunal, con excepción de su presidente, para quien la integración de salas será facultativa.
 El ministro a quien corresponda la presidencia de la Corte no entrará al sorteo y por derecho propio integrará la Primera Sala.
 
 Art. 62. Las Cortes de Apelaciones integradas por sus fiscales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo.
@@ -445,15 +445,15 @@ La Corte Suprema
 
 ### § 1. Su organización y atribuciones
 
-Art. 93. La Corte Suprema se compondrá de dieciséis miembros, uno de los cuales será su Presidente.
+Art. 93. La Corte Suprema se compondrá de diecisiete miembros, uno de los cuales será su Presidente.
 El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones cinco años, pudiendo ser reelegido.
 Los demás miembros se llamarán ministros y gozarán de precedencia los unos respecto de los otros por el orden de su antigüedad.
-La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y cinco relatores.
+La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y seis relatores.
 
 Art. 94. La Corte Suprema tendrá su sede en la capital de la República.
 
 Art. 95. La Corte Suprema funcionará ordinariamente dividida en tres salas o en pleno, correspondiendo a la propia Corte determinar la forma de su funcionamiento.
-La distribución de los Ministros entre las tres salas se hará por sorteo, exceptuando al Presidente, de modo que a cada una correspondan cinco. El sorteo se hará el 1° de marzo de cada año.
+La distribución de los Ministros entre las tres salas se hará por sorteo, exceptuando al Presidente, de modo que a la primera correspondan seis miembros y cinco a cada una de las dos salas restantes. El sorteo se hará el 1° de marzo de cada año.
 Las salas funcionarán con no menos de cinco jueces cada una, y el pleno, con la concurrencia de once de sus miembros a lo menos, y se integrarán en conformidad a la ley; pero para el Presidente de la Corte esta integración será facultativa.
 Cada sala en que se divida la Corte Suprema será presidida por el ministro más antiguo, cuando no esté presente el Presidente de la Corte, quien podrá funcionar en cualquiera de las salas.
 
@@ -484,9 +484,10 @@ No obstante, cuando el número y naturaleza de las causas que se encuentren pend
 Art. 100. Derogado.
 
 Art. 101. La Corte Suprema, integrada por su fiscal o abogados integrantes, podrá dividirse extraordinariamente en cuatro salas de cinco miembros cada una, cuando el presidente así lo determine, para conocer de los negocios a que se refiere el artículo 98.
-La distribución de los Ministros de la Corte Suprema entre estas cuatro salas se efectuará por sorteo, de modo que a las tres primeras correspondan cuatro miembros, y a la cuarta, tres. La integración de sala para el Presidente de la Corte será facultativa.
-Producida la división en cuatro salas, corresponderá, por turnos mensuales, conocer, a dos de ellas, de todas las materias a que se refiere el artículo 98, a otra, de los asuntos a que se refiere el mismo artículo, con excepción de los recursos de casación en el fondo y en la forma de naturaleza civil; y a la otra, indistintamente, de los recursos de casación en la forma y en el fondo de naturaleza civil o criminal. A las cuatro les corresponderá conocer de los recursos de queja de cualquier naturaleza. El Tribunal, en este caso, propondrá un sexto relator.
+La distribución de los Ministros de la Corte Suprema entre estas cuatro salas se efectuará por sorteo, de modo que a cada una correspondan cuatro miembros. La integración de sala para el Presidente de la Corte será facultativa.
+Producida la división en cuatro salas, corresponderá, por turnos mensuales, conocer, a dos de ellas, de todas las materias a que se refiere el artículo 98, a otra, de los asuntos a que se refiere el mismo artículo, con excepción de los recursos de casación en el fondo y en la forma de naturaleza civil; y a la otra, indistintamente, de los recursos de casación en la forma y en el fondo de naturaleza civil o criminal. A las cuatro les corresponderá conocer de los recursos de queja de cualquier naturaleza.
 No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera, el Presidente podrá disponer que dos de las salas conozcan exclusivamente de los recursos de casación en la forma y en el fondo, y en tal caso, las dos salas restantes conocerán, una de todas las materias a que se refiere el artículo 98, con excepción de los recursos de casación en el fondo y en la forma de naturaleza criminal, y la otra de los asuntos a que se refiere el mismo artículo, con excepción de los recursos de casación en el fondo y en la forma de naturaleza civil.
+Producida la división extraordinaria de la Corte Suprema, el Tribunal designará los relatores interinos que estime necesarios, quienes gozarán durante el tiempo en que sirvieren el cargo de igual remuneración que los propietarios.
 
 Art. 102. El primero de Marzo de cada año la Corte Suprema iniciará sus funciones en audiencia pública, a la cual deberán concurrir su fiscal y los miembros y fiscales de la Corte de Apelaciones de Santiago.
 El Presidente de la Corte Suprema dará cuenta en esta audiencia:
@@ -892,10 +893,10 @@ El llamamiento de los integrantes se hará en el orden indicado y los abogados s
 Art. 218. En los casos en que no pudiere funcionar la Corte Suprema por inhabilidad de la mayoría o de la totalidad de sus miembros, será integrada por ministros de la Corte de Apelaciones de Santiago, llamados por su orden de antigüedad.
 Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados integrantes, tanto en su funcionamiento ordinario como en el extraordinario de que trata el artículo 101.
 
-Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, quince para la Corte de Apelaciones de Santiago, cinco para las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción y tres para cada una de las demás Cortes de Apelaciones, previa formación por la Corte Suprema, de ternas.
+Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, quince para la Corte de Apelaciones de Santiago, siete para las Cortes de Valparaíso y Presidente Aguirre Cerda, cinco para la Corte de Concepción y tres para cada una de las demás Cortes de Apelaciones, previa formación por la Corte Suprema, de ternas.
 La designación de abogados integrantes de las Cortes de Apelaciones se hará en el mes de Enero de cada año. Los abogados designados para la Corte Suprema lo serán por un período de tres años, efectuándose el nombramiento en el mes de Enero en que comienza el trienio respectivo.
 Las ternas para abogados integrantes de las Cortes de Apelaciones serán formadas tomando los nombres de una lista que, en el mes de Diciembre de cada año, enviarán a la Corte Suprema las respectivas Cortes de Apelaciones. En esta lista deberán figurar abogados que tengan su residencia en la ciudad que sirve de asiento al tribunal respectivo, que reúnan las condiciones requeridas para ejercer los cargos de ministros, con excepción del límite de edad establecido en el artículo 77 de la Constitución Política de la República de Chile, y que hayan destacado en la actividad profesional o universitaria.
-Estas listas se compondrán, para Santiago, de sesenta nombres; para Valparaíso, Presidente Aguirre Cerda y Concepción, de veinticinco, y de quince para las demás Cortes.
+Estas listas se compondrán, para Santiago, de sesenta nombres; para Valparaíso y Presidente Aguirre Cerda de treinta y cinco; para Concepción de veinticinco, y de quince para las demás Cortes.
 Las ternas para abogados integrantes de la Corte Suprema serán formadas tomando los nombres de una lista que, en el mes de Diciembre en que termina el trienio respectivo, el Senado enviará a dicha Corte. En esta lista deberán figurar cuarenta y cinco abogados con residencia en la ciudad de Santiago, que reúnan las condiciones requeridas para ejercer los cargos de ministros, con excepción del límite de edad establecido en el artículo 77 de la Constitución Política de la República de Chile, y que hayan destacado en la actividad profesional o universitaria.
 No podrán incluirse en las listas a que se refiere este artículo a profesionales que hayan sido separados de sus cargos como funcionarios judiciales, sea en la calificación anual o en cualquiera otra oportunidad.
 Si por cualquiera causa alguno de los abogados designados para la Corte Suprema no pudiere continuar en las funciones, el Presidente de la República podrá nombrar en su reemplazo por el resto del período a uno de los componentes de las ternas que formó la Corte Suprema en su oportunidad, o requerir de dicho tribunal la formación de una nueva terna, en conformidad con lo previsto en los incisos anteriores.
