@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2000-09-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2000-10-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2000-09-28
-fetched_at: 2026-08-03T01:12:02.841627+00:00
+version_date: 2000-10-25
+fetched_at: 2026-08-03T01:12:47.273927+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -5353,7 +5353,7 @@ Art. 1723. Durante el matrimonio los cónyuges mayores de edad podrán substitui
 El pacto que los cónyuges celebren en conformidad a este artículo deberá otorgarse por escritura pública y no surtirá efectos entre las partes ni respecto de terceros, sino desde que esa escritura se subinscriba al margen de la respectiva inscripción matrimonial. Esta subinscripción sólo podrá practicarse dentro de los treinta días siguientes a la fecha de la escritura en que se pacte la separación. El pacto que en ella conste no perjudicará, en caso alguno, los derechos válidamente adquiridos por terceros respecto del marido o de la mujer y, una vez celebrado, no podrá dejarse sin efecto por el mutuo consentimiento de los cónyuges.
 En la escritura pública de separación total de bienes, o en la que se pacte participación en los gananciales, según sea el caso, podrán los cónyuges liquidar la sociedad conyugal o proceder a determinar el crédito de participación o celebrar otros pactos lícitos, o una y otra cosa; pero todo ello no producirá efecto alguno entre las partes ni respecto de terceros, sino desde la subinscripción a que se refiere el inciso anterior.
 Tratándose de matrimonios celebrados en país extranjero y que no se hallen inscritos en Chile, será menester proceder previamente a su inscripción en el Registro de la Primera Sección de la comuna de Santiago, para lo cual se exhibirá al oficial civil que corresponda el certificado de matrimonio debidamente legalizado.
-Los pactos de separación total de bienes a que se refieren este artículo y el inciso 2° del artículo 1715, no son susceptibles de condición, plazo o modo alguno.
+Los pactos a que se refiere este artículo y el inciso 2° del artículo 1715, no son susceptibles de condición, plazo o modo alguno.
 
 Art. 1724. Si a cualquiera de los cónyuges se hiciere una donación o se dejare una herencia o legado con la condición de que los frutos de las cosas donadas, heredadas o legadas no pertenezcan a la sociedad conyugal, valdrá la condición, a menos que se trate de bienes donados o asignados a título de legítima rigorosa.
 
@@ -8241,10 +8241,11 @@ Derogado
 #### Título II
 DE LA POLICIA DE MENORES Y SUS FUNCIONES
 
+Título II
+DE LA POLICIA DE MENORES Y SUS FUNCIONES
 Art. 15. Créase en la Dirección General de Carabineros un Departamento denominado "Policía de Menores", con personal especializado en el trabajo con menores. Este departamento establecerá en cada ciudad cabecera de provincia y en los lugares que sean asiento de un Juzgado de Letras de Menores, Comisarías o Subcomisarías de Menores.
 La Policía de Menores tendrá las siguientes finalidades:
-a) Recoger a los menores en situación irregular con necesidad de asistencia y protección;
-b) Ejercer, de acuerdo con las instrucciones que imparta el Consejo Nacional de Menores, el control de los sitios estimados como centros de corrupción de menores;
+a) Recoger a los menores en situación irregular con necesidad de asistencia o protección; b) Ejercer, de acuerdo con las instrucciones que imparta el Consejo Nacional de Menores, el control de los sitios estimados como centros de corrupción de menores;
 c) Fiscalizar los espectáculos públicos, centros de diversión o cualquier lugar donde haya afluencia de público, con el fin de evitar la concurrencia de menores, cuando no sean apropiados para ellos, y
 d) Denunciar al Juzgado de Letras de Menores los hechos penados por el artículo 62.
 
@@ -8253,8 +8254,7 @@ La retención de una persona visiblemente menor en un establecimiento distinto d
 Carabineros de Chile deberá poner a los menores inculpados de haber cometido un hecho constitutivo de crimen o simple delito, directa e inmediatamente, a disposición del tribunal competente.
 Sólo si ello fuere imposible, deberá ingresarlo al Centro de Observación y Diagnóstico respectivo dentro de las veinticuatro horas siguientes. El funcionario que lo reciba lo pondrá a disposición del juez con los antecedentes del caso, a primera hora de la audiencia más próxima o antes si éste así lo ordena.
 Si se tratare de una falta, y el menor tuviera domicilio conocido, o ejerciere alguna actividad o industria, o rindiere caución, en la forma prevista en el artículo 266 del Código de Procedimiento Penal, de que comparecerá a la presencia judicial en la audiencia inmediata, se limitará a citarlo y lo dejará en libertad.
-Tratándose de un menor que hubiere sido retenido por otra causa, notificará el motivo a sus padres o guardadores y procederá a devolvérselos. Si no los tuviese, y apareciere de manifiesto la necesidad de brindarles asistencia o protección, lo pondrá a disposición del juez de menores, para que éste resuelva a su respecto la medida que proceda.
-Las disposiciones contenidas en los incisos tercero, cuarto y quinto precedentes serán aplicables a la Policía de Investigaciones.
+Tratándose de un menor que hubiere sido retenido por otra causa, notificará el motivo a sus padres o guardadores y procederá a devolvérselos. Si no los tuviese, y apareciere de manifiesto la necesidad de brindarle asistencia o protección, lo pondrá a disposición del juez de menores, para que éste resuelva a su respecto la medida que proceda. Las disposiciones contenidas en los incisos tercero, cuarto y quinto precedentes serán aplicables a la Policía de Investigaciones.
 
 Art. 17. Se prohíbe a los jefes de establecimientos de detención mantener a los menores de dieciocho años en comunicación con otros detenidos o procesados mayores de esa edad.
 El funcionario que no diere cumplimiento a esta disposición será castigado, administrativamente, con suspensión de su cargo hasta por el término de un mes.
@@ -8282,8 +8282,12 @@ La ubicación dentro de la Escala Unica de los cargos considerados en la planta 
 NOTA:
 El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
-Art. 21. Créase, en cada uno de los Juzgados de Letras de Mayor Cuantía de ciudad asiento de Corte de Apelaciones y de ciudad capital de provincia, que se desempeñen como Juzgados de Letras de Menores, una plaza de Asistente Social con las remuneraciones asignadas a la 8a. Categoría del Personal Superior del Poder Judicial en los juzgados que funcionen en el asiento de una Corte de Apelaciones y de la 5a. Categoría del Personal Subalterno, en los juzgados de capital en provincia. El Consejo Nacional de Menores deberá poner a disposición de la Oficina de Presupuestos del Poder Judicial las sumas necesarias para cubrir el gasto que demande la provisión de estas vacantes.
+Art. 21. Créase, en cada uno de los Juzgados de
+NOTA:
+Letras de Mayor Cuantía de ciudad asiento de Corte de Apelaciones y de ciudad capital de provincia, que se desempeñen como Juzgados de Letras de Menores, una plaza de Asistente Social con las remuneraciones asignadas a la 8a. Categoría del Personal Superior del Poder Judicial en los juzgados que funcionen en el asiento de una Corte de Apelaciones y de la 5a. Categoría del Personal Subalterno, en los juzgados de capital de provincia. El Consejo Nacional de Menores deberá poner a disposición de la Oficina de Presupuestos del Poder Judicial las sumas necesarias para cubrir el gasto que demande la provisión de estas vacantes.
 Cuando se creen Juzgados de Letras de Menores en los territorios jurisdiccionales de los tribunales a que se refiere el inciso anterior, la plaza de asistente social respectiva pasará a la planta del nuevo juzgado y seguirá siendo servida por su titular sin necesidad de nueva designación.
+NOTA:
+El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
 Art. 22. Para poder ser juez de letras de menores será necesario tener las calidades requeridas para el desempeño de las funciones de juez de letras de mayor cuantía de departamento y comprobar conocimientos de psicología, en la forma que determine el reglamento.
 NOTA:
@@ -8311,8 +8315,7 @@ Art. 26. Corresponderá a los jueces de letras de menores:
 Para los efectos del inciso anterior, se presumirá de derecho que el padre es vicioso cuando hubiere sido condenado por ebriedad más de una vez en el año.
 El juez ordenará, igualmente, la entrega del mismo porcentaje en dinero a la madre de hijos menores que se encontraren en los casos de los incisos anteriores;
 4) Conocer de los disensos para contraer matrimonio;
-5) Autorizar la adopción cuando el adoptado sea menor y designar un curador especial que preste el consentimiento en el caso de que aquél carezca de representante legal;
-6) Nombrar guardador al menor que carezca de bienes o que consistan sólo en derecho a seguros, montepíos, pensiones, indemnizaciones u otros beneficios semejantes; y conocer del juicio de remoción respectivo o acordar ésta de oficio en los casos de incapacidad legal del guardador;
+5) Derogado ; 6) Nombrar guardador al menor que carezca de bienes o que consistan sólo en derecho a seguros, montepíos, pensiones, indemnizaciones u otros beneficios semejantes; y conocer del juicio de remoción respectivo o acordar ésta de oficio en los casos de incapacidad legal del guardador;
 7) Resolver sobre la vida futura del menor en el caso del inciso tercero del artículo 234, del Código Civil, y cuando éste se encontrare en peligro material o moral;
 8) Conocer de todos los asuntos en que aparezcan menores inculpados de crímenes, simples delitos o faltas, con arreglo a lo dispuesto por el artículo 28, y expedir la declaración previa sobre si el mayor de dieciséis años y menor de dieciocho ha obrado o no con discernimiento;
 9) Aplicar las medidas contempladas en el artículo 29 a los menores de dieciséis años, como a los mayores de esa edad y menores de dieciocho que hayan obrado sin discernimiento y ejecutado un hecho que, si se hubiere cometido por mayores de esa edad, habría constituido delito;
@@ -8330,7 +8333,7 @@ Art. 29. En los casos de la presente ley, el juez de letras de menores podrá ap
 2.º Someterlo al régimen de libertad vigilada, lo que se efectuará en la forma que determine el reglamento;
 3.º Confiarlo, por el tiempo que estime necesario, a los establecimientos especiales de educación que esta ley señala, y 4.º Confiarlo al cuidado de alguna persona que se preste para ello, a fin de que viva con su familia, y que el juez considere capacitada para dirigir su educación.
 En el caso del N.º 4.º, el menor quedará sometido al régimen de libertad vigilada establecido en el N.º 2.
-Estas medidas durarán el tiempo que determine el juez de letras de menores, quien podrá revocarlas o modificarlas, si variaren las circunstancias, oyendo al consejo técnico de la Casa de Menores o alguno de sus miembros en la forma que determine el reglamento. En caso de no existir Casa de Menores, deberá oír al funcionario indicado en la letra l) del artículo 3.º.
+Estas medidas durarán el tiempo que determine el juez de letras de menores, quien podrá revocarlas o modificarlas, si variaren las circunstancias, oyendo al consejo técnico de la Casa de Menores o a alguno de sus miembros en la forma que determine el reglamento. En caso de no existir Casa de Menores, deberá oír al funcionario indicado en la letra l) del artículo 3.º.
 Tratándose de un menor que ha sido víctima del maltrato, el Juez podrá, además de decretar las medidas indicadas en el inciso primero, remitir los antecedentes a los Tribunales competentes para aplicar sanciones penales a quienes resulten responsables, o para decretar otras medidas cautelares en beneficio del menor y de su grupo familiar.
 En caso alguno el juez de letras de menores podrá ordenar el ingreso de una persona menor de dieciocho años en un establecimiento penitenciario de adultos.
 
@@ -8369,8 +8372,7 @@ Este recurso se tramitará como incidente de acuerdo con las disposiciones gener
 Art. 38. En los juicios de disenso si no se alega causa legal, en los casos en que haya obligación de hacerlo, el juez deberá dar inmediatamente autorización para el matrimonio.
 Si la persona que debe prestar el consentimiento no concurre a la audiencia, se entiende que retira el disenso. Lo dicho, no regirá con respecto al Oficial del Registro Civil.
 
-Art. 39. Para acreditar las ventajas de la adopción bastará el informe de asistentes sociales.
-En los lugares en donde no exista servicio social, podrá el juez ordenar que se acrediten las ventajas de la adopción.
+Art. 39. Derogado
 
 Art. 40. Durante el juicio o gestión, y aun antes de iniciarse, el juez de letras de menores, podrá, de oficio o petición de parte, ejercitar las facultades señaladas en la presente ley. Contra las resoluciones que el juez dicte a este respecto podrá deducirse oposición, en conformidad al artículo 34.
 NOTA:
@@ -8382,7 +8384,8 @@ Art. 42. Para los efectos del artículo 226 del Código Civil, se entenderá que
 1.º Cuando estuvieren incapacitados mentalmente;
 2.º Cuando padecieren de alcoholismo crónico;
 3.º Cuando no velaren por la crianza, cuidado personal o educación del hijo;
-4.º Derogado. 5.º Cuando hubieren sido condenados por secuestro o abandono de menores; 6.º Cuando maltrataren o dieren malos ejemplos al menor o cuando la permanencia de éste en el hogar constituyere un peligro para su moralidad;
+4.º Cuando consintieren en que el hijo se entregue en la vía o en los lugares públicos a la vagancia o a la mendicidad, ya sea en forma franca o a pretexto de profesión u oficio;
+5.º Cuando hubieren sido condenados por secuestro o abandono de menores; 6.º Cuando maltrataren o dieren malos ejemplos al menor o cuando la permanencia de éste en el hogar constituyere un peligro para su moralidad;
 7.º Cuando cualesquiera otras causas coloquen al menor en peligro moral o material.
 
 Art. 43. La pérdida de la patria potestad, l
