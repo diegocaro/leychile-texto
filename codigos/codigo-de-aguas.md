@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2026-09-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2027-02-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 2026-09-29
-fetched_at: 2026-08-03T09:31:39.929282+00:00
+version_date: 2027-02-25
+fetched_at: 2026-08-03T09:31:51.940476+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1444,7 +1444,7 @@ ARTICULO 278°- Los repartidores de agua o jueces de río tendrán las siguiente
 3. Denunciar a la Justicia Ordinaria y a la Dirección General de Aguas las sustracciones de agua de los cauces matrices y las destrucciones o alteraciones de las obras existentes en los álveos de dichos cauces. En los juicios a que den lugar estas denuncias, el repartidor de agua o juez de río tendrán la representación de la junta, sin perjuicio de la comparecencia y actuación de ésta;
 4. Cumplir las órdenes del directorio sobre privación de agua a los canales o titulares de derechos de aprovechamiento que no hayan pagado sus cuotas;
 5. Vigilar la conservación de los cauces de la hoya y la construcción y conservación de las compuertas, bocatomas y demás obras que estén sometidas a la junta. Para tales efectos, la Junta de Vigilancia podrá solicitar al Servicio respectivo del Medio Ambiente, o a la Dirección de Obras Hidráulicas, o a la Dirección General de Aguas, o a la Superintendencia de Servicios Sanitarios o a la municipalidad correspondiente y, en general, a cualquier otra autoridad, que le entregue información sobre todos los proyectos y permisos aprobados en su respectiva repartición y que han de ser ejecutados en el cauce donde dicha Junta de Vigilancia ejerce su jurisdicción;
-6. Denunciar ante la Dirección General de Aguas las labores de extracción de áridos que no cuenten con la autorización competente, la que podrá actuar con auxilio de la fuerza pública de conformidad a lo dispuesto en el artículo 138 en caso de ordenar su paralización. Podrá, a su vez, denunciar estos hechos ante la Contraloría General de la República cuando dichas extracciones, autorizadas por la municipalidad respectiva, no cuenten con el informe técnico de la Dirección de Obras Hidráulicas, establecido en el literal l) del artículo 14 del decreto con fuerza de ley N° 850, de 1997, del Ministerio de Obras Públicas. En los procesos a que den lugar estas denuncias, el repartidor de agua o el juez de río tendrán la representación de la junta, sin perjuicio de la comparecencia y actuación de ésta;
+6. Denunciar ante la Dirección General de Aguas las labores de extracción de áridos que no cuenten con la autorización competente, la que podrá actuar con auxilio de la fuerza pública de conformidad a lo dispuesto en el artículo 138 en caso de ordenar su paralización. Podrá, a su vez, denunciar estos hechos ante la Contraloría General de la República cuando dichas extracciones, autorizadas por la municipalidad respectiva, no cuenten con el informe técnico de la Dirección de Obras Hidráulicas, establecido en el artículo 17 bis del decreto con fuerza de ley N° 850, de 1997, del Ministerio de Obras Públicas. En los procesos a que den lugar estas denuncias, el repartidor de agua o el juez de río tendrán la representación de la junta, sin perjuicio de la comparecencia y actuación de ésta;
 7. Solicitar con arreglo a lo dispuesto en el artículo 242 el auxilio de la fuerza pública para hacer cumplir las obligaciones que le incumban, y
 8. Ejercitar los demás derechos y atribuciones que señalen los estatutos.
 
