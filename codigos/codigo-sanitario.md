@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1970-06-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1970-07-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1970-06-26
-fetched_at: 2026-08-03T00:20:42.450680+00:00
+version_date: 1970-07-18
+fetched_at: 2026-08-03T00:20:48.459796+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -295,7 +295,9 @@ Antes de poner en explotación las obras mencionadas, ellas deben ser autorizada
 
 Artículo 72°.- El Servicio Nacional de Salud ejercerá
 NOTA:
-la vigilancia sanitaria sobre provisiones o plantas de agua destinadas al uso del hombre, como asimismo de las plantas depuradoras de aguas servidas y de residuos industriales o mineros; podrá sancionar a los responsables de infracciones y en casos calificados, intervenir directamente en la explotación de estos servicios, previo decreto del Presidente de la República.
+la
+NOTA:
+vigilancia sanitaria sobre provisiones o plantas de agua destinadas al uso del hombre, como asimismo de las plantas depuradoras de aguas servidas y de residuos industriales o mineros; podrá sancionar a los responsables de infracciones y en casos calificados, intervenir directamente en la explotación de estos servicios, previo decreto del Presidente de la República.
 NOTA:
 Véase el Decreto 735, Salud, publicado el 19.12.1969, que aprueba el Reglamento de los Servicios de Agua destinados al consumo humano.
 
@@ -567,7 +569,9 @@ El Servicio Nacional de Salud podrá ordenar la inhumación, en un plazo inferio
 
 Artículo 140°.- La obligación de dar sepultura a un cadáver recaerá sobre el cónyuge sobreviviente o sobre el pariente más próximo que estuviere en condición de sufragar los gastos.
 
-Artículo 141°.- Prohíbese inscribir en el Registro Civil las defunciones e inhumaciones de cadáveres si no se justifica previamente las causas del fallecimiento mediante un certificado del médico que lo asistió en la última enfermedad. A falta de éste, corresponderá extender dicho certificado al Servicio Nacional de Salud en las condiciones que determine el Reglamento.
+Artículo 141°.- Prohíbese inscribir en el Registro Civil las defunciones e inhumaciones de cadáveres si no se justifican previamente las causas del fallecimiento mediante un certificado del médico que lo asistió en la última enfermedad. A falta de éste, corresponderá extender dicho certificado al Servicio Nacional de Salud en las condiciones que determine el Reglamento.
+NOTA:
+Véase el Decreto 460, Salud Pública, publicado el 18.07.1970, que aprueba el Reglamento sobre extensión de certificado médico de defunción.
 
 Artículo 142°.- A falta de certificación médica establecida en el artículo anterior, la verificación del fallecimiento se establecerá mediante la declaración de dos o más testigos, rendida ante el Oficial del Registro Civil o ante cualquiera autoridad judicial del lugar en que haya ocurrido la muerte. Esta declaración deberá ser hecha de preferencia por las personas que hubieren estado presentes en los momentos antes del deceso, de todo lo cual se dejará expresa constancia.
 
