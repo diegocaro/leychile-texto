@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1970-01-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=1973-10-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 1970-01-06
-fetched_at: 2026-08-03T00:20:18.423471+00:00
+version_date: 1973-10-02
+fetched_at: 2026-08-03T00:22:55.704435+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -368,7 +368,7 @@ En uso de esta jurisdicción podrá: castigar por sí mismo y sin forma de juici
 Las cuestiones civiles comprendidas en la jurisdicción militar las resolverá por sí mismo, asesorado por su Auditor, el cual estará encargado de la tramitación de la causa.
 Las mismas atribuciones y las de que tratan los artículos siguientes, corresponden al Comandante en Jefe de la Escuadra.
 
-Art. 75. El General en Jefe podrá delegar parte o DL 51 todas de estas atribuciones en los Comandos que comanden divisiones o brigadas a sus órdenes, dentro de sus respectivos comandos.
+Art. 75. El General en Jefe podrá delegar parte o todas de estas atribuciones en los Comandos que comanden divisiones o brigadas a sus órdenes, dentro de sus respectivos comandos.
 INCISO SEGUNDO.- DEROGADO.-
 
 Art. 76. El Comandante Superior de divisiones, unidades o cuerpos que operen independientemente y sin fácil comunicación con el resto del Ejército, como asimismo el Jefe de una plaza o fortaleza sitiada o bloqueada, tendrá las mismas facultades indicadas en el artículo 74 mientras se encuentre en tales circunstancias.
