@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1974-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=241203&idVersion=1975-05-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 241203
-version_date: 1974-12-27
-fetched_at: 2026-08-05T02:21:54.125431+00:00
+version_date: 1975-05-08
+fetched_at: 2026-08-05T02:22:12.132886+00:00
 titulo_norma: "FIJA TEXTO DE LA CONSTITUCION POLITICA DEL ESTADO"
 compuesto: DTO-1333
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -180,6 +180,7 @@ ART. 14. Nadie puede ser detenido, sujeto a prisión preventiva o preso sino en 
 Los encargados de las prisiones no pueden recibir en ellas a nadie en calidad de detenido, procesado o preso, sin copiar en su registro la orden correspondiente, emanada de autoridad que tenga facultad legal. Pueden, sin embargo, recibir en el recinto de la prisión, en clase de detenidos, a los que fueren conducidos con el objeto de ser presentados al juez competente; pero con la obligación de dar cuenta a éste dentro de las veinticuatro horas.
 
 ART. 15. Si la autoridad hiciere detener a alguna persona, deberá, dentro de las cuarenta y ocho horas siguientes, dar aviso al juez competente, poniendo a su disposición al detenido.
+Sin embargo, tratándose de delitos contra la seguridad del Estado y durante la vigencia de regímenes de emergencia, el plazo a que refiere el inciso anterior será hasta de cinco días.
 
 ART. 16. Todo individuo que se hallare detenido, procesado o preso, con infracción de lo dispuesto en los artículos anteriores, podrá ocurrir por sí o por cualquiera a su nombre, a la magistratura que señale la ley, en demanda de que se guarden las formalidades legales. Esta magistratura podrá decretar que el individuo sea traído a su presencia y su decreto será precisamente obedecido por todos los encargados de las cárceles o lugares de detención. Instruida de los antecedentes, decretará su libertad inmediata o hará que se reparen los defectos legales o pondrá al individuo a disposición del juez competente, procediendo en todo breve y, sumariamente, corrigiendo por sí esos defectos o dando cuenta a quien corresponda para que los corrija.
 
