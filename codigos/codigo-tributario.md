@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1975-05-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1975-05-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1975-05-15
-fetched_at: 2026-08-03T00:24:50.532231+00:00
+version_date: 1975-05-16
+fetched_at: 2026-08-03T00:24:56.539221+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -389,6 +389,7 @@ Artículo 88.- Estarán obligadas a emitir facturas las personas que a continuac
 No obstante, cuando estos contribuyentes tengan establecimientos, secciones o departamentos destinados exclusivamente a la venta directa al consumidor, podrán emitir, en relación a dichas transferencias, boletas en vez de facturas.
 Sin perjuicio de lo dispuesto en los incisos anteriores y en la Ley sobre Impuesto a las Ventas y Servicio, la Dirección podrá exigir el otorgamiento de facturas o boletas respecto de cualquier ingreso, operación o transferencia que directa o indirectamente sirva de base para el cálculo de un impuesto y que aquélla determine a su juicio exclusivo, estableciendo los requisitos que éstos documentos deban reunir.
 La Dirección determinará, en todos los casos, el monto mínimo por el cual deban emitirse las boletas. Estos documentos deberán emitirse en el momento mismo en que se celebre el ingreso que motiva su emisión, y estarán exentos de los impuestos establecidos en la Ley sobre Impuesto de Timbres, Estampillas y Papel Sellado.
+En aquellos casos en que deba otorgarse facturas o boletas, será obligación del adquirente o beneficiario del servicio exigirlas y retirarlas del local o establecimiento del emisor.
 
 Artículo 89.- El Banco Central, el Banco del Estado, la Corporación de Fomento de la Producción, las instituciones de previsión y, en general, todas las instituciones de crédito, ya sean fiscales, semifiscales o de administración autónoma, y los bancos comerciales, para tramitar cualquiera solicitud de crédito o préstamo o cualquiera operación de carácter patrimonial que haya de realizarse por su intermedio, deberán exigir al solicitante que compruebe estar al día en el pago del impuesto global complementario o del impuesto único establecido en el N° 1° del artículo 42 de la Ley sobre Impuesto a la Renta. Este último certificado deberá ser extendido por los pagadores, habilitados u oficiales del presupuesto por medio de los cuales se efectúe la retención del impuesto.
 Igual obligación pesará sobre los notarios respecto de las escrituras públicas o privadas que se otorguen o autoricen ante ellos relativas a convenciones o contratos de carácter patrimonial, excluyéndose los testamentos, las que contengan capitulaciones matrimoniales, mandatos, modificaciones de contratos que no aumenten su cuantía primitiva y demás que autorice el Director. Exceptuándose, también, las operaciones que se efectúen por intermedio de la Caja de Crédito Prendario y todas aquellas cuyo monto sea inferior al quince por ciento de un sueldo vital anual.
@@ -475,6 +476,7 @@ La adulteración y la falsificación a que se refieren las letras b) y d) de est
 Las sanciones pecuniarias que se establecen en este número podrán aplicarse incluso al mero tenedor del producto.
 18°.- Los que compren y vendan fajas de control de impuestos o entradas a espectáculos públicos en forma ilícita, serán sancionados con multa de uno a diez unidades tributarias anuales y con presidio menor en su grado medio.
 La sanción pecuniaria establecida en el inciso precedente podrá hacerse efectiva indistintamente en contra del que compre, venda o mantenga fajas de control y entradas a espectáculos públicos en forma ilícita.
+19°.- El incumplimiento de la obligación de exigir el otorgamiento de la factura o boleta, en su caso, y retirarla del local o establecimiento del emisor, será sancionada con multa de hasta una unidad tributaria mensual, previos los trámites del procedimiento contemplado en el artículo 165 de este Código, y sin perjuicio de que al sorprenderse la infracción, el funcionario del Servicio pueda solicitar el auxilio de la fuerza pública para obtener la debida identificación del infractor, dejándose constancia en la unidad policial respectiva.
 
 Artículo 98.- De las sanciones pecuniarias responden el contribuyente y las demás personas legalmente obligadas.
 
