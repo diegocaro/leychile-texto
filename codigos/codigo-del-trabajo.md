@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2003-01-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2003-03-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2003-01-16
-fetched_at: 2026-08-03T01:19:49.982683+00:00
+version_date: 2003-03-27
+fetched_at: 2026-08-03T01:20:34.889367+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -143,7 +143,8 @@ Se considerará también jornada de trabajo el tiempo en que el trabajador se en
 ##### Párrafo 1º
 Jornada ordinaria de trabajo
 
-Art. 22. La duración de la jornada ordinaria de trabajo no excederá de cuarenta y cinco horas semanales. Quedarán excluidos de la limitación de jornada de trabajo los trabajadores que presten servicios a distintos empleadores; los gerentes, administradores, apoderados con facultades de administración y todos aquellos que trabajen sin fiscalización superior inmediata; los contratados de acuerdo con este Código para prestar servicios en su propio hogar o en un lugar libremente elegido por ellos; los agentes comisionistas y de seguros, vendedores viajantes, cobradores y demás similares que no ejerzan sus funciones en el local del establecimiento.
+Art. 22. La duración de la jornada ordinaria de trabajo no excederá de cuarenta y cinco horas semanales.
+Quedarán excluidos de la limitación de jornada de trabajo los trabajadores que presten servicios a distintos empleadores; los gerentes, administradores, apoderados con facultades de administración y todos aquellos que trabajen sin fiscalización superior inmediata; los contratados de acuerdo con este Código para prestar servicios en su propio hogar o en un lugar libremente elegido por ellos; los agentes comisionistas y de seguros, vendedores viajantes, cobradores y demás similares que no ejerzan sus funciones en el local del establecimiento.
 También quedarán excluidos de la limitación de jornada de trabajo los trabajadores que se desempeñen a bordo de naves pesqueras.
 Asimismo, quedan excluidos de la limitación de jornada, los trabajadores contratados para que presten sus servicios preferentemente fuera del lugar o sitio de funcionamiento de la empresa, mediante la utilización de medios informáticos o de telecomunicaciones.
 
@@ -468,7 +469,8 @@ Las cláusulas del contrato de embarco se entenderán incorporadas al respectivo
 
 Art. 99. Los hombres de mar contratados para el servicio de una nave constituyen su dotación.
 
-Art. 100. La dotación de la nave se compone del capitán, oficiales y tripulantes. Los oficiales, atendiendo su especialidad, se clasifican en personal de cubierta, personal de máquina y servicio general, y los tripulantes en personal de cubierta y personal de máquina.
+Art. 100. La dotación de la nave se compone del capitán, oficiales y tripulantes.
+Los oficiales, atendiendo su especialidad, se clasifican en personal de cubierta, personal de máquina y servicio general, y los tripulantes en personal de cubierta y personal de máquina.
 Los oficiales y tripulantes desempeñarán a bordo de las naves las funciones que les sean señaladas por el capitán, en conformidad a lo convenido por las partes.
 
 Art. 101. Sólo en caso de fuerza mayor, calificada por el capitán de la nave y de la cual deberá dejar expresa constancia en el cuaderno de bitácora de ésta, la dotación estará obligada a efectuar otras labores, aparte de las indicadas en el artículo 100, sin sujeción a las condiciones establecidas en el artículo 12.
@@ -634,7 +636,8 @@ Art. 148. Al fallecimiento del jefe de hogar, el contrato subsistirá con los pa
 Art. 149. La jornada de los trabajadores de casa particular que no vivan en la casa del empleador, no podrá exceder en ningún caso de 12 horas diarias y tendrán, dentro de esta jornada, un descanso no inferior a una hora imputable a ella.
 Cuando vivan en la casa del empleador no estarán sujetos a horario, sino que éste será determinado por la naturaleza de su labor, debiendo tener normalmente un descanso absoluto mínimo de 12 horas diarias. Entre el término de la jornada diaria y el inicio de la siguiente, el descanso será ininterrumpido y, normalmente, de un mínimo de 9 horas. El exceso podrá fraccionarse durante la jornada y en él se entenderá incluido el lapso destinado a las comidas del trabajador.
 
-Art. 150. El descanso semanal de los trabajadores de casa particular que no vivan en la casa del empleador, se regirá por las normas generales del párrafo 4, Capítulo IV, Título I, de este Libro. Los trabajadores que vivan en la casa del empleador tendrán derecho a un día completo de descanso a la semana, el cual podrá ser fraccionado en dos medios, a petición del trabajador.
+Art. 150. El descanso semanal de los trabajadores de casa particular que no vivan en la casa del empleador, se regirá por las normas generales del párrafo 4, Capítulo IV, Título I, de este Libro.
+Los trabajadores que vivan en la casa del empleador tendrán derecho a un día completo de descanso a la semana, el cual podrá ser fraccionado en dos medios, a petición del trabajador.
 Los días de descanso facultan a los trabajadores a no reiniciar sus labores hasta el comienzo de la jornada diaria siguiente.
 
 Art. 151. La remuneración de los trabajadores de casa particular se fijará de común acuerdo entre las partes, comprendiéndose además del pago en dinero efectivo, los alimentos y la habitación cuando los servicios requeridos exijan que el trabajador viva en la casa del empleador.
@@ -862,7 +865,8 @@ Art. 192. Se concede acción popular para denunciar las infracciones a este tít
 
 Art. 193. En los almacenes, tiendas, bazares, bodegas, depósitos de mercaderías y demás establecimientos comerciales semejantes, aunque funcionen como anexos de establecimientos de otro orden, el empleador mantendrá el número suficiente de asientos o sillas a disposición de los dependientes o trabajadores.
 La disposición precedente será aplicable en los establecimientos industriales, y a los trabajadores del comercio, cuando las funciones que éstos desempeñen lo permitan.
-La forma y condiciones en que se ejercerá este derecho deberá constar en el reglamento interno. Cada infracción a las disposiciones del presente artículo será penada con multa de una a dos unidades tributarias mensuales.
+La forma y condiciones en que se ejercerá este derecho deberá constar en el reglamento interno.
+Cada infracción a las disposiciones del presente artículo será penada con multa de una a dos unidades tributarias mensuales.
 Será aplicable en este caso lo dispuesto en el artículo 40.
 
 ### TITULO II
@@ -909,7 +913,11 @@ No obstante lo dispuesto en el inciso primero, si el desafuero se produjere mien
 Inciso suprimido.
 
 Art. 202. Durante el período de embarazo, la trabajadora que esté ocupada habitualmente en trabajos considerados por la autoridad como perjudiciales para su salud, deberá ser trasladada, sin reducción de sus remuneraciones, a otro trabajo que no sea perjudicial para su estado.
-Para estos efectos se entenderá, especialmente, como perjudicial para la salud todo trabajo que: a) obligue a levantar, arrastrar o empujar grandes pesos; b) exija un esfuerzo físico, incluido el hecho de permanecer de pie largo tiempo; c) se ejecute en horario nocturno; d) se realice en horas extraordinarias de trabajo, y e) la autoridad competente declare inconveniente para el estado de gravidez.
+Para estos efectos se entenderá, especialmente, como perjudicial para la salud todo trabajo que:
+a) obligue a levantar, arrastrar o empujar grandes pesos; b) exija un esfuerzo físico, incluido el hecho de permanecer de pie largo tiempo;
+c) se ejecute en horario nocturno;
+d) se realice en horas extraordinarias de trabajo, y
+e) la autoridad competente declare inconveniente para el estado de gravidez.
 
 Art. 203. Las empresas que ocupan veinte o más trabajadoras de cualquier edad o estado civil, deberán tener salas anexas e independientes del local de trabajo, en donde las mujeres puedan dar alimento a sus hijos menores de dos años y dejarlos mientras estén en el trabajo. Igual obligación corresponderá a los centros o complejos comerciales
 NOTA:
@@ -929,14 +937,16 @@ Art. 204 Cuando se trate de construir o transformar salas cunas, los propietario
 
 Art. 205. El mantenimiento de las salas cunas será de costo exclusivo del empleador, quien deberá tener una persona competente a cargo de la atención y cuidado de los niños, la que deberá estar, preferentemente, en posesión del certificado de auxiliar de enfermería otorgado por la autoridad competente.
 
-Art. 206. Las madres tendrán derecho a disponer, para dar alimento a sus hijos de dos porciones de tiempo que en conjunto no excedan de una hora al día, las que se considerarán como trabajadas efectivamente para los efectos del pago de sueldo, cualquiera que sea el sistema de remuneración. El derecho a usar de este tiempo con el objeto indicado, no podrá ser renunciado en forma alguna.
+Art. 206. Las madres tendrán derecho a disponer, para dar alimento a sus hijos de dos porciones de tiempo que en conjunto no excedan de una hora al día, las que se considerarán como trabajadas efectivamente para los efectos del pago de sueldo, cualquiera que sea el sistema de remuneración.
+El derecho a usar de este tiempo con el objeto indicado, no podrá ser renunciado en forma alguna.
 
 Art. 207. Corresponde a la Junta Nacional de Jardines Infantiles y a la Dirección del Trabajo velar por el cumplimiento de las disposiciones de este título.
 Cualquiera persona puede denunciar ante estos organismos las infracciones de que tuviere conocimiento.
 Las acciones y derechos provenientes de este título se extinguirán en el término de sesenta días contados desde la fecha de expiración del período a que se refiere el artículo 201.
 
 Art. 208. Las infracciones a las disposiciones de este título se sancionarán con multa de catorce a setenta unidades tributarias mensuales en vigor a la fecha de cometerse la infracción, multa que se duplicará en caso de reincidencia.
-En igual sanción incurrirán los empleadores por cuya culpa las instituciones que deben pagar las prestaciones establecidas en este título no lo hagan; como asimismo aquellos empleadores que infrinjan lo dispuesto en el inciso final del artículo 194. Sin perjuicio de la sanción anterior, será de cargo directo de dichos empleadores el pago de los subsidios que correspondieren a sus trabajadoras.
+En igual sanción incurrirán los empleadores por cuya culpa las instituciones que deben pagar las prestaciones establecidas en este título no lo hagan; como asimismo aquellos empleadores que infrinjan lo dispuesto en el inciso final del artículo 194.
+Sin perjuicio de la sanción anterior, será de cargo directo de dichos empleadores el pago de los subsidios que correspondieren a sus trabajadoras.
 Los recursos que se obtengan por la aplicación de este artículo, deberán ser traspasados por el Fisco a la Junta Nacional de Jardines Infantiles, dentro de los treinta días siguientes al respectivo ingreso.
 La fiscalización del cumplimiento de las disposiciones de este artículo corresponderá a la Dirección del Trabajo y a la Junta Nacional de Jardines Infantiles.
 
