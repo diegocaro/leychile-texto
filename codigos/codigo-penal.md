@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1992-09-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1992-09-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1992-09-02
-fetched_at: 2026-08-03T00:54:17.661857+00:00
+version_date: 1992-09-03
+fetched_at: 2026-08-03T00:54:32.161294+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -877,7 +877,7 @@ En los casos de retardo doloso en el envío o entrega de la correspondencia epis
 
 ART. 157.
 Todo empleado público que sin un decreto de autoridad competente, deducido de la ley que autoriza la exacción de una contribución o de un servicio personal, los exigiere bajo cualquier pretexto, será penado con inhabilitación especial temporal para el empleo en cualquiera de sus grados y multa de once a veinte sueldos vitales.
-Si la exacción de la contribución se hiciere con ánimo de lucrarse, el empleado culpable será considerado penado como reo de estafa.
+Si la exacción de la contribución se hiciere con ánimo de lucrarse, el empleado culpable será considerado penado como procesados por estafa.
 
 Art. 158.
 Sufrirá la pena de suspensión en sus grados mínimo a medio, si gozare de renta, y la de reclusión menor en su grado mínimo o multa de once a veinte sueldos vitales, cuando prestare servicios gratuitos, el empleado público que arbitrariamente:
@@ -934,7 +934,7 @@ El que habiendo recibido de buena fe moneda falsa o cercenada, la circulare desp
 Cuando no exceda de esta suma, estimándose el hecho mera falta, se penará como tal.
 
 ART. 171.
-Si la falsificación o cercenamiento fueren tan ostensibles que cualquiera pueda notarlos y conocerlos a la simple vista, los que fabricaren, cercenaren, expendieren, introdujeren o circularen la moneda así falsificada o cercenada, se reputarán reos de engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
+Si la falsificación o cercenamiento fueren tan ostensibles que cualquiera pueda notarlos y conocerlos a la simple vista, los que fabricaren, cercenaren, expendieren, introdujeren o circularen la moneda así falsificada o cercenada, se reputarán procesados por engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
 
 #### § II.
 De la falsificación de documentos de crédito del Estado, de las Municipalidades, de los establecimientos públicos, sociedades anónimas o bancos de emisión legalmente autorizados.
@@ -981,7 +981,7 @@ El que sin ser culpable de la participación a que se refiere el artículo anter
 Las penas serán presidio menor en su grado mínimo multa de seis a diez sueldos vitales, si habiéndose procurado a sabiendas papel sellado o estampillas falsos, se hubiere hecho uso de ellos.
 
 ART. 184.
-Cuando la falsificación fuere tan mal ejecutada que cualquiera pueda notarla y conocerla a la simple vista, los que la hubieren efectuado y los que expendieren o introdujeren el papel sellado o las estampillas así falsificados, se reputarán reos de engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
+Cuando la falsificación fuere tan mal ejecutada que cualquiera pueda notarla y conocerla a la simple vista, los que la hubieren efectuado y los que expendieren o introdujeren el papel sellado o las estampillas así falsificados, se reputarán procesados por engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
 
 ART. 185.
 El que falsificare boletas para el trasporte de personas o cosas, o para reuniones o espectáculos públicos, con el propósito de usarlas o de circularlas fraudulentamente, y el que a sabiendas de que son falsificadas las usare o circulare; el que falsificare el sello, timbre o marca de una autoridad cualquiera, de un establecimiento privado de banco, de industria o de comercio, o de un particular, o hiciere uso de los sellos, timbres o marcas falsos, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de once a veinte sueldos vitales.
@@ -1092,7 +1092,7 @@ ART. 211.
 La acusación o denuncia que hubiere sido declarada calumniosa por sentencia ejecutoriada, será castigada con presidio menor en su grado máximo y multa de dieciséis a veinte sueldos vitales, cuando versare sobre un crimen; con presidio menor en su grado medio y multa de once a quince sueldos vitales, si fuere sobre simple delito, y con presidio menor en su grado mínimo y multa de seis a diez sueldos vitales, si se tratare de una falta.
 
 ART. 212.
-El que a sabiendas presentare en juicio criminal o civil testigos o documentos falsos, será castigado como reo de falso testimonio.
+El que a sabiendas presentare en juicio criminal o civil testigos o documentos falsos, será castigado como procesados por falso testimonio.
 
 #### § VIII.
 Del ejercicio ilegal de una profesión y de la usurpación de funciones o nombres.
@@ -1171,7 +1171,7 @@ En estos casos el tribunal, suspendiendo el cumplimiento de la orden, representa
 
 ART. 227.
 Se aplicarán respectivamente las penas determinadas en los artículos precedentes:
-1.° A las personas que, desempeñando por ministerio de la ley los cargos de miembros de los tribunales de justicia colegiados o unipersonales, se hicieren reos de alguno de los crímenes o simples delitos enumerados en dichos artículos.
+1.° A las personas que, desempeñando por ministerio de la ley los cargos de miembros de los tribunales de justicia colegiados o unipersonales, fueren procesados por alguno de los crímenes o simples delitos enumerados en dichos artículos.
 2.º A los subdelegados e inspectores que incurrieren en iguales infracciones.
 3.° A los compromisarios, peritos y otras personas que, ejerciendo atribuciones análogas, derivadas de la ley, del tribunal o del nombramiento de las partes, se hallaren en idénticos casos.
 
@@ -1794,7 +1794,7 @@ ART. 359.
 El rapto de una doncella menor de veinte y mayor de doce años, ejecutado con su anuencia, será castigado con presidio menor en cualquiera de sus grados.
 
 ART. 360.
-Los reos de delito de rapto que no dieren razón del paradero de la persona robada, o explicaciones satisfactorias sobre su muerte o desaparición, incurrirán en la pena de presidio mayor en cualquiera de sus grados.
+Los procesados por delito de rapto que no dieren razón del paradero de la persona robada, o explicaciones satisfactorias sobre su muerte o desaparición, incurrirán en la pena de presidio mayor en cualquiera de sus grados.
 
 #### § V.
 De la violación.
@@ -1820,7 +1820,7 @@ ART. 364.
 En igual pena incurrirá el que, conociendo las relaciones que lo ligan, cometiere incesto con un ascendiente o descendiente por consanguinidad, legítima o ilegítima o afinidad legítima o con un hermano consanguíneo legítimo o ilegítimo, aunque sea mayor de veinte años.
 
 Art. 365.
-El que se hiciere reo del delito de sodomía sufrirá la pena de presidio menor en su grado medio.
+El procesados por delito de sodomía sufrirá la pena de presidio menor en su grado medio.
 Se impondrá la pena de presidio menor en su grado máximo a presidio mayor en su grado medio al que cometiere el delito concurriendo algunas de las siguientes circunstancias:
 1°.- Cuando se use de fuerza e intimidación sobre la víctima, y
 2°.- Cuando se halle la víctima privada de razón o de sentido por cualquier causa.
@@ -1846,7 +1846,7 @@ En todo caso se suspende el procedimiento o se remite la pena casándose el ofen
 No produce estos efectos la proposición de matrimonio desechada por la ofendida, por la persona que debe prestar su consentimiento para el acto o por el juez en su caso, o cuando no pueda verificarse el matrimonio por impedimento legal.
 
 ART. 370.
-Los reos de violación, estupro o rapto serán también condenados por vía de indemnización:
+Los procesados por violación, estupro o rapto serán también condenados por vía de indemnización:
 1.° A dotar a la ofendida si fuere soltera o viuda.
 2.° A dar alimentos congruos a la prole que, según las reglas legales, fuere suya.
 
@@ -1855,7 +1855,7 @@ Los ascendientes, guardadores, maestros y cualesquiera personas que con abuso de
 Los maestros o encargados en cualquier manera de la educación o dirección de la juventud, serán además condenados a inhabilitación especial perpetua para el cargo u oficio.
 
 ART. 372.
-Los comprendidos en el artículo precedente y cualesquiera otros reos de corrupción de menores con interés de terceros, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad por el tiempo que el tribunal determine.
+Los comprendidos en el artículo precedente y cualesquiera otros procesados por corrupción de menores con interés de terceros, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad por el tiempo que el tribunal determine.
 
 ART. 372 BIS.
 El que con motivo u ocasión de violación o de sodomía, causare, además, la muerte del ofendido será castigado con la pena de presidio perpetuo a muerte
@@ -1975,7 +1975,7 @@ Cualquiera otra mutilación de un miembro importante que deje al paciente en la 
 En los casos de mutilaciones de miembros menos importantes, como un dedo o una oreja, la pena será presidio menor en sus grados mínimo a medio.
 
 Art. 397.
-El que hiriere, golpeare o maltratare de obra a otro, será castigado como reo de lesiones graves:
+El que hiriere, golpeare o maltratare de obra a otro, será castigado como procesados por lesiones graves:
 1.° Con la pena de presidio mayor en su grado mínimo, si de resultas de las lesiones queda el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
 2.° Con la de presidio menor en su grado medio, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
 
@@ -2198,7 +2198,7 @@ El que fabricare, expendiere o tuviere en su poder llaves falsas, ganzúas u otr
 Del hurto.
 
 ART. 446.
-Los reos de hurto serán castigados:
+Los procesados por hurto serán castigados:
 1.o Con presidio menor en sus grados medio a máximo, si el valor de la cosa hurtada excediere de cuarenta sueldos vitales;
 2.o Con presidio menor en su grado medio, cuando su valor excediere de cuatro sueldos vitales y no pasare de cuarenta sueldos vitales;
 3.o Con presidio menor en su grado mínimo si el importe de la cosa hurtada no subiere de cuatro sueldos vitales ni bajare de medio sueldo vital.
@@ -2212,8 +2212,8 @@ En los casos del artículo anterior podrá aplicarse la pena inmediatamente supe
 4.° Cuando se cometiere por patrón o comandante de buque, lanchero, conductor o bodeguero de tren, guarda almacenes, carruajero, carretero o arriero en cosas que se hayan puesto en su buque, carro, bodega, etc.
 
 ART. 448.
-El que, hallándose una especie mueble, al parecer perdida, cuyo valor exceda de medio sueldo vital, no la entregare a la autoridad o a su dueño, siempre que le conste quién sea éste, por hechos coexistentes posteriores al hallazgo, será considerado reo de hurto y castigado con presidio menor en su grado mínimo.
-También será considerado reo de hurto y castigado con presidio menor en su grado mínimo, el que hallare especies, al parecer perdidas o abandonadas, a consecuencia de naufragio, inundación, incendio, terremoto, accidente en ferrocarril u otra causa análoga, y no las entregare a los dueños o a la autoridad en su defecto.
+El que, hallándose una especie mueble, al parecer perdida, cuyo valor exceda de medio sueldo vital, no la entregare a la autoridad o a su dueño, siempre que le conste quién sea éste, por hechos coexistentes posteriores al hallazgo, será considerado procesado por hurto y castigado con presidio menor en su grado mínimo.
+También será considerado procesado por hurto y castigado con presidio menor en su grado mínimo, el que hallare especies, al parecer perdidas o abandonadas, a consecuencia de naufragio, inundación, incendio, terremoto, accidente en ferrocarril u otra causa análoga, y no las entregare a los dueños o a la autoridad en su defecto.
 
 #### § V.
 Disposiciones comunes a los tres párrafos anteriores.
@@ -2285,7 +2285,7 @@ ART. 460.
 Cuando los simples delitos a que se refiere el artículo anterior se ejecutaren con violencia en las personas, si el culpable no mereciere mayor pena por la violencia que causare, sufrirá la de presidio menor en sus grados mínimo a medio y multa de once a veinte sueldos vitales.
 
 ART. 461.
-Serán castigados como reos de usurpación de aguas con las penas del art. 459, los que teniendo derecho para sacarlas o usarlas se hubieren servido fraudulentamente, con tal fin, de orificios, conductos, marcos, compuertas o esclusas de una forma diversa a la establecida o de una capacidad superior a la medida a que tienen derecho.
+Serán castigados como procesados por usurpación de aguas con las penas del art. 459, los que teniendo derecho para sacarlas o usarlas se hubieren servido fraudulentamente, con tal fin, de orificios, conductos, marcos, compuertas o esclusas de una forma diversa a la establecida o de una capacidad superior a la medida a que tienen derecho.
 
 ART. 462.
 El que destruyere o alterare términos o límites de propiedades públicas o particulares con ánimo de lucrarse, será penado con presidio menor en su grado mínimo y multa de once a veinte sueldos vitales.
@@ -2415,7 +2415,7 @@ La multa impuesta se mantendrá en una cuenta especial a la orden de la Superint
 De los daños.
 
 ART. 484.
-Son reos de daño y están sujetos a las penas de este párrafo, los que en la propiedad ajena causaren alguno que no se halle comprendido en el párrafo anterior.
+Son procesados por daño y están sujetos a las penas de este párrafo, los que en la propiedad ajena causaren alguno que no se halle comprendido en el párrafo anterior.
 
 ART 485.
 Serán castigados con la pena de reclusión menor en sus grados medio a máximo, los que causaren daño cuyo importe exceda de cuarenta sueldos vitales:
