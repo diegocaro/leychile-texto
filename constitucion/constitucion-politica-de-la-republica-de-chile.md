@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1997-09-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=7129&idVersion=1997-11-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 7129
-version_date: 1997-09-16
-fetched_at: 2026-08-05T02:26:27.469826+00:00
+version_date: 1997-11-17
+fetched_at: 2026-08-05T02:26:45.477532+00:00
 titulo_norma: "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO"
 compuesto: DL-3464
 organismos: ['MINISTERIO DEL INTERIOR']
@@ -503,15 +503,14 @@ Los decretos con fuerza de ley estarán sometidos en cuanto a su publicación, v
 ### Formación de la ley
 
 Artículo 62.- Las leyes pueden tener origen en la Cámara de Diputados o en el Senado, por mensaje que dirija el Presidente de la República o por moción de cualquiera de sus miembros. Las mociones no pueden ser firmadas por más de diez diputados ni por más de cinco senadores.
-Las leyes sobre tributos de cualquiera naturaleza que sean, sobre los presupuestos de la administración pública y sobre reclutamiento, sólo pueden tener origen en la Cámara de Diputados. Las leyes sobre amnistía y sobre indultos generales sólo pueden tener origen en el Senado.
-Corresponderá al Presidente de la República la iniciativa exclusiva de los proyectos de ley que tengan relación con la alteración de la división política o administrativa del país, o con la administración financiera o presupuestaria del Estado, incluyendo las modificaciones de la Ley de Presupuestos, y con las materias señaladas en los números 10 y 13 del artículo 60.
+Las leyes sobre tributos de cualquiera naturaleza que sean, sobre los presupuestos de la administración pública y sobre reclutamiento, sólo pueden tener origen en la Cámara de Diputados. Las leyes sobre amnistía y sobre indultos generales sólo pueden tener origen en el Senado. Corresponderá al Presidente de la República la iniciativa exclusiva de los proyectos de ley que tengan relación con la alteración de la división política o administrativa del país, o con la administración financiera o presupuestaria del Estado, incluyendo las modificaciones de la Ley de Presupuestos, y con las materias señaladas en los números 10 y 13 del artículo 60.
 Corresponderá, asimismo, al Presidente de la República la iniciativa exclusiva para:
-1o.- Imponer, suprimir, reducir o condonar tributos de cualquier clase o naturaleza, establecer exenciones o modificar las existentes, y determinar su forma, proporcionalidad o progresión;
-2o.- Crear nuevos servicios públicos o empleos rentados, sean fiscales, semifiscales, autónomos, de las empresas del Estado o municipales; suprimirlos y determinar sus funciones o atribuciones;
-3o.- Contratar empréstitos o celebrar cualquiera otra clase de operaciones que puedan comprometer el crédito o la responsabilidad financiera del Estado, de las entidades semifiscales, autónomas de los gobiernos regionales o de las municipalidades, y condonar, reducir o modificar obligaciones, intereses u otras cargas financieras de cualquier naturaleza establecidas en favor del Fisco o de los organismos o entidades referidos;
-4o.- Fijar, modificar, conceder o aumentar remuneraciones, jubilaciones, pensiones, montepíos, rentas y cualquiera otra clase de emolumentos, préstamos o beneficios al personal en servicio o en retiro y a los beneficiarios de montepío, en su caso, de la administración pública y demás organismos y entidades anteriormente señalados, como asimismo fijar las remuneraciones mínimas de los trabajadores del sector privado, aumentar obligatoriamente sus remuneraciones y demás beneficios económicos o alterar las bases que sirvan para determinarlos; todo ello sin perjuicio de los dispuesto en los números siguientes;
-5o.- Establecer las modalidades y procedimientos de la negociación colectiva y determinar los casos en que no se podrá negociar, y
-6o.- Establecer o modificar las normas sobre seguridad social o que incidan en ella, tanto del sector público como del sector privado.
+1º.- Imponer, suprimir, reducir o condonar tributos de cualquier clase o naturaleza, establecer exenciones o modificar las existentes, y determinar su forma, proporcionalidad o progresión;
+2º.- Crear nuevos servicios públicos o empleos rentados, sean fiscales, semifiscales, autónomos o de las empresas del Estado; suprimirlos y determinar sus funciones o atribuciones;
+3º.- Contratar empréstitos o celebrar cualquiera otra clase de operaciones que puedan comprometer el crédito o la responsabilidad financiera del Estado, de las entidades semifiscales, autónomas, de los gobiernos regionales o de las municipalidades, y condonar, reducir o modificar obligaciones, intereses u otras cargas financieras de cualquier naturaleza establecidas en favor del Fisco o de los organismos o entidades referidos;
+4º.- Fijar, modificar, conceder o aumentar remuneraciones, jubilaciones, pensiones, montepíos, rentas y cualquiera otra clase de emolumentos, préstamos o beneficios al personal en servicio o en retiro y a los beneficiarios de montepío, en su caso, de la administración pública y demás organismos y entidades anteriormente señalados, como asimismo fijar las remuneraciones mínimas de los trabajadores del sector privado, aumentar obligatoriamente sus remuneraciones y demás beneficios económicos o alterar las bases que sirvan para determinarlos; todo ello sin perjuicio de los dispuesto en los números siguientes;
+5º.- Establecer las modalidades y procedimientos de la negociación colectiva y determinar los casos en que no se podrá negociar, y
+6º.- Establecer o modificar las normas sobre seguridad social o que incidan en ella, tanto del sector público como del sector privado.
 El Congreso Nacional sólo podrá aceptar, disminuir o rechazar los servicios, empleos, emolumentos, préstamos, beneficios, gastos y demás iniciativas sobre la materia que proponga el Presidente de la República.
 
 Artículo 63.- Las normas legales que interpreten preceptos constitucionales necesitarán, para su aprobación, modificación o derogación, de las tres quintas partes de los diputados y senadores en ejercicio.
@@ -777,20 +776,25 @@ Artículo 106.- Los gobernadores, en los casos y forma que determine la ley, pod
 
 ### Administración Comunal
 
-Artículo 107.- La administración local de cada comuna o agrupación de comunas que determine la ley reside en una municipalidad, la que estará constituida por el alcalde, que es su máxima autoridad, y por el concejo. La ley orgánica establecerá un consejo económico y social comunal de carácter consultivo.
+Artículo 107.- La administración local de cada comuna o agrupación de comunas que determine la ley reside en una municipalidad, la que estará constituida por el alcalde, que es su máxima autoridad, y por el concejo.
+La ley orgánica constitucional respectiva establecerá las modalidades y formas que deberá asumir la participación de la comunidad local en las actividades municipales.
+Los alcaldes, en los casos y formas que determine la ley orgánica constitucional respectiva, podrán designar delegados para el ejercicio de sus facultades en una o más localidades.
 Las municipalidades son corporaciones autónomas de derecho público, con personalidad jurídica y patrimonio propio, cuya finalidad es satisfacer las necesidades de la comunidad local y asegurar su participación en el progreso económico, social y cultural de la comuna.
-Una ley orgánica constitucional determinará las funciones y atribuciones de las municipalidades. Dicha ley señalará, además, las materias de administración municipal que el alcalde, con acuerdo del concejo o a requerimiento de la proporción de ciudadanos que establezca la ley, someterá a plebiscito, así como las oportunidades, forma de la convocatoria y efectos.
-Las municipalidades podrán asociarse entre ellas para el cumplimiento de sus fines propios. Asimismo, podrán constituir corporaciones o fundaciones de derecho privado sin fines de lucro destinadas a la promoción y difusión del arte y la cultura. La participación municipal en ellas se regirá por la ley orgánica constitucional respectiva.
+Una ley orgánica constitucional determinará las funciones y atribuciones de las municipalidades. Dicha ley señalará, además, las materias de competencia municipal que el alcalde, con acuerdo del concejo o a requerimiento de los 2/3 de los concejales en ejercicio, o de la proporción de ciudadanos que establezca la ley, someterá a consulta no vinculante o a plebiscito, así como las oportunidades, forma de la convocatoria y efectos.
+Las municipalidades podrán asociarse entre ellas para el cumplimiento de sus fines propios. Asimismo, podrán constituir o integrar corporaciones o fundaciones de derecho privado sin fines de lucro cuyo objeto sea la promoción y difusión del arte, la cultura y el deporte. La participación municipal en ellas se regirá por la ley orgánica constitucional respectiva.
 Las municipalidades podrán establecer en el ámbito de las comunas o agrupación de comunas, de conformidad con la ley orgánica constitucional respectiva, territorios denominados unidades vecinales, con el objeto de propender a un desarrollo equilibrado y a una adecuada canalización de la participación ciudadana.
-Los municipios y los demás servicios públicos existentes en la respectiva comuna deberán coordinar su acción en conformidad a la ley.
+Los servicios públicos deberán coordinarse con el municipio cuando desarrollen su labor en el territorio comunal respectivo, en conformidad con la ley.
+La ley determinará la forma y el modo en que los ministerios, servicios públicos y gobiernos regionales podrán transferir competencias a las municipalidades, como asimismo el carácter provisorio o definitivo de la transferencia.
 
 Artículo 108.- En cada municipalidad habrá un concejo integrado por concejales elegidos por sufragio universal en conformidad a la ley orgánica constitucional de municipalidades. Durarán cuatro años en sus cargos y podrán ser reelegidos. La misma ley determinará el número de concejales y la forma de elegir al alcalde.
 El concejo será un órgano encargado de hacer efectiva la participación de la comunidad local, ejercerá funciones normativas, resolutivas y fiscalizadoras y otras atribuciones que se le encomienden, en la forma que determine la ley orgánica constitucional respectiva.
 La ley orgánica de municipalidades determinará las normas sobre organización y funcionamiento del concejo y las materias en que la consulta del alcalde al consejo será obligatoria y aquellas en que necesariamente se requerirá el acuerdo de éste. En todo caso, será necesario dicho acuerdo para la aprobación del plan comunal de desarrollo, del presupuesto municipal y de los proyectos de inversión respectivos.
 
-Artículo 109.- Los alcaldes, en los casos y formas que determine la ley orgánica constitucional respectiva, podrán designar delegados para el ejercicio de sus facultades en una o más localidades.
+Artículo 109.- La ley orgánica constitucional respectiva regulará la administración transitoria de las comunas que se creen, el procedimiento de instalación de las nuevas municipalidades, de traspaso del personal municipal y de los servicios y los resguardos necesarios para cautelar el uso y disposición de los bienes que se encuentren situados en los territorios de las nuevas comunas.
+Asimismo, la ley orgánica constitucional de municipalidades establecerá los procedimientos que deberán observarse en caso de supresión o fusión de una o más comunas.
 
-Artículo 110.- DEROGADO.-
+Artículo 110.- Las municipalidades, para el cumplimiento de sus funciones, podrán crear o suprimir empleos y fijar remuneraciones, como también establecer los órganos o unidades que la ley orgánica constitucional respectiva permita.
+Estas facultades se ejercerán dentro de los límites y requisitos que, a iniciativa exclusiva del Presidente de la República, determine la ley orgánica constitucional de municipalidades.
 
 Artículo 111.- Las municipalidades gozarán de autonomía para la administración de sus finanzas. La Ley de Presupuestos de la Nación podrá asignarles recursos para atender sus gastos, sin perjuicio de los ingresos que directamente se les confieran por la ley o se les otorguen por los gobiernos regionales respectivos. Una ley orgánica constitucional contemplará un mecanismo de redistribución solidaria de los ingresos propios entre las municipalidades del país con la denominación de fondo común municipal. Las normas de distribución de este fondo serán materia de ley.
 
@@ -981,6 +985,8 @@ El capítulo VI-A "Ministerio Público", la ley orgánica constitucional del Min
 
 Trigesimaséptima.- No obstante lo dispuesto en el
 artículo 80 E, en la quina y en cada una de las ternas que se formen para proveer por primera vez los cargos de Fiscal Nacional y de Fiscales Regionales, la Corte Suprema y las Cortes de Apelaciones podrán incluir, respectivamente, a un miembro activo del Poder Judicial.
+
+Trigesimaoctava.- Las atribuciones otorgadas a las municipalidades en el artículo 110, relativas a la modificación de la estructura orgánica, de personal y de remuneraciones, serán aplicables cuando se regulen en la ley respectiva las modalidades, requisitos y limitaciones para el ejercicio de estas nuevas competencias.
 
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio Fernández Fernéndez, Ministro del Interior.- René Rojas Galdames, Ministro de Relaciones Exteriores.- César Raúl Benavides Escobar, Teniente General, Ministro de Defensa Nacional.- José Luis Federici Rojas, Ministro de Economía, Fomento y Reconstrucción.- Sergio de Castro Spikula, Ministro de Hacienda.- Alfredo Prieto Bafalluy, Ministro de Educación Pública.- Mónica Madariaga Gutiérrez, Ministro de Justicia.- Patricio Torres Rojas, General de Brigada, Ministro de Obras Públicas.- Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura.- Rene Peri Fagerstrom, General Inspector de Carabineros, Ministro de Bienes Nacionales.- Jose Piñera Echenique, Ministro del Trabajo y Previsión Social.- Alejandro Medina Lois, General de Brigada, Ministro de Salud.- Carlos Quiñones López, Contralmirante, Ministro de Minería.- Jaime Estrada Leigh, General de Brigada, Ministro de la Vivienda y Urbanismo.- Caupolicán Boisset Mujica, General de Brigada Aérea, Ministro de Transportes y Telecomunicaciones.- Sergio Badiola Broberg, General de Brigada, Ministro Secretario General de Gobierno.
 Lo que transcribo a Ud. para su conocimiento.- Mario Duvauchelle Rodríguez, Capitán de Navío JT, Secretario de Legislación de la Junta de Gobierno.
