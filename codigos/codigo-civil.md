@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2004-05-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2004-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2004-05-17
-fetched_at: 2026-08-03T01:24:32.538775+00:00
+version_date: 2004-08-30
+fetched_at: 2026-08-03T01:25:51.355356+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -442,13 +442,9 @@ Art. 138 (145). Si por impedimento de larga o indefinida duración, como el de i
 Si el impedimento no fuere de larga o indefinida duración, la mujer podrá actuar respecto de los bienes del marido, de los de la sociedad conyugal y de los suyos que administre el marido, con autorización del juez, con conocimiento de causa, cuando de la demora se siguiere perjuicio.
 La mujer, en el caso a que se refiere el inciso anterior, obliga al marido en sus bienes y en los sociales de la misma manera que si el acto fuera del marido; y obliga además sus bienes propios, hasta concurrencia del beneficio particular que reportare del acto.
 
-Art. 138 bis. Si el marido se negare
-NOTA:
-injustificadamente a ejecutar un acto o celebrar un contrato respecto de un bien propio de la mujer, el juez, previa citación del marido, podrá autorizarla para actuar por sí misma.
+Art. 138 bis. Si el marido se negare injustificadamente a ejecutar un acto o celebrar un contrato respecto de un bien propio de la mujer, el juez podrá autorizarla para actuar por sí misma, previa audiencia a la que será citado el marido.
 En tal caso, la mujer sólo obligará sus bienes propios y los activos de sus patrimonios reservados o especiales de los artículos 150, 166 y 167, mas no obligará al haber social ni a los bienes propios del marido, sino hasta la concurrencia del beneficio que la sociedad o el marido hubieren reportado del acto.
 Lo mismo se aplicará para nombrar partidor, provocar la partición y para concurrir en ella en los casos en que la mujer tenga parte en la herencia.
-NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
 Art. 139 (148). El marido menor de edad necesita de curador para la administración de la sociedad conyugal.
 
@@ -462,15 +458,11 @@ De las cuatro primeras tratan los párrafos siguientes; de la última el Título
 
 ###### § 2. De los bienes familiares
 
-Art. 141. El inmueble de propiedad de cualquiera de los cónyuges que sirva de residencia principal de la familia, y los muebles que la guarnecen, podrán
-NOTA:
-ser declarados bienes familiares y se regirán por las normas de este párrafo, cualquiera sea el régimen de bienes del matrimonio.
-Esta declaración se hará por el juez en procedimiento breve y sumario, con conocimiento de causa, a petición de cualquiera de los cónyuges y con citación del otro.
-Con todo, la sola presentación de la demanda transformará provisoriamente en familiar el bien de que se trate. En su primera resolución el juez dispondrá que se anote al margen de la inscripción respectiva la precedente circunstancia. El Conservador practicará la subscripción con el solo mérito del decreto que, de oficio, le notificará el tribunal.
+Art. 141. El inmueble de propiedad de cualquiera de los cónyuges que sirva de residencia principal de la familia, y los muebles que la guarnecen, podrán ser declarados bienes familiares y se regirán por las normas de este párrafo, cualquiera sea el régimen de bienes del matrimonio.
+El juez citará a los interesados a la audiencia preparatoria. Si no se dedujese oposición, el juez resolverá en la misma audiencia. En caso contrario, o si el juez considerase que faltan antecedentes para resolver, citará a la audiencia de juicio.
+Con todo, la sola interposición de la demanda transformará provisoriamente en familiar el bien de que se trate. En su primera resolución el juez dispondrá que se anote al margen de la inscripción respectiva la precedente circunstancia. El Conservador practicará la subscripción con el solo mérito del decreto que, de oficio, le notificará el tribunal.
 Para los efectos previstos en este artículo, los cónyuges gozarán de privilegio de pobreza.
 El cónyuge que actuare fraudulentamente para obtener la declaración a que refiere este artículo, deberá indemnizar los perjuicios causados, sin perjuicio de la sanción penal que pudiere corresponder.
-NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
 Art. 142. No se podrán enajenar o gravar voluntariamente, ni prometer gravar o enajenar, los bienes familiares, sino con la autorización del cónyuge no propietario. La misma limitación regirá para la celebración de contratos de arrendamiento, comodato o cualesquiera otros que concedan derechos personales de uso o de goce sobre algún bien familiar.
 La autorización a que se refiere este artículo deberá ser específica y otorgada por escrito, o por escritura pública si el acto exigiere esta solemnidad, o interviniendo expresa y directamente de cualquier modo en el mismo. Podrá prestarse en todo caso por medio de mandato especial que conste por escrito o por escritura pública según el caso.
@@ -777,12 +769,12 @@ Mientras una subinscripción relativa al cuidado personal no sea cancelada por o
 Art. 226. Podrá el juez, en el caso de inhabilidad física o moral de ambos padres, confiar el cuidado personal de los hijos a otra persona o personas competentes.
 En la elección de estas personas se preferirá a los consanguíneos más próximos, y sobre todo, a los ascendientes.
 
-Art. 227. En las materias a que se refieren los
+Art. 227. En las materias a que se refieren los artículos precedentes, el juez oirá a los hijos y a los parientes.
+Las resoluciones que se dicten, una vez ejecutoriadas, se subinscribirán en la forma y plazo
 NOTA:
-artículos precedentes, el juez conocerá y resolverá breve y sumariamente, oyendo a los hijos y a los parientes.
-Las resoluciones que se dicten, una vez ejecutoriadas, se subinscribirán en la forma y plazo que establece el artículo 225.
+que establece el artículo 225.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
 Art. 228. La persona casada a quien corresponda el cuidado personal de un hijo que no ha nacido de ese matrimonio, sólo podrá tenerlo en el hogar común, con el consentimiento de su cónyuge.
 
@@ -5462,18 +5454,14 @@ Art. 1748. Cada cónyuge deberá asimismo recompensa a la sociedad por los perju
 
 ###### § 3. De la administración ordinaria de los bienes de la sociedad conyugal
 
-Art. 1749. El marido es jefe de la sociedad conyugal, y como tal administra los bienes sociales y los de su mujer; sujeto, empero, a las obligaciones
-NOTA:
-y limitaciones que por el presente Título se le imponen y a las que haya contraído por las capitulaciones matrimoniales.
+Art. 1749. El marido es jefe de la sociedad conyugal, y como tal administra los bienes sociales y los de su mujer; sujeto, empero, a las obligaciones y limitaciones que por el presente Título se le imponen y a las que haya contraído por las capitulaciones matrimoniales.
 Como administrador de la sociedad conyugal, el marido ejercerá los derechos de la mujer que siendo socia de una sociedad civil o comercial se casare, sin perjuicio de lo dispuesto en el artículo 150.
 El marido no podrá enajenar o gravar voluntariamente ni prometer enajenar o gravar los bienes raíces sociales ni los derechos hereditarios de la mujer, sin autorización de ésta.
 No podrá tampoco, sin dicha autorización, disponer entre vivos a título gratuito de los bienes sociales, salvo el caso del artículo 1735, ni dar en arriendo o ceder la tenencia de los bienes raíces sociales urbanos por más de cinco años, ni los rústicos por más de ocho, incluidas las prórrogas que hubiere pactado el marido.
 Si el marido se constituye aval, codeudor solidario, fiador u otorga cualquiera otra caución respecto de obligaciones contraídas por terceros, sólo obligará sus bienes propios.
 En los casos a que se refiere el inciso anterior para obligar los bienes sociales necesitará la autorización de la mujer.
 La autorización de la mujer deberá ser específica y otorgada por escrito, o por escritura pública si el acto exigiere esta solemnidad, o interviniendo expresa y directamente de cualquier modo en el mismo. Podrá prestarse en todo caso por medio de mandato especial que conste por escrito o por escritura pública según el caso.
-La autorización a que se refiere el presente artículo podrá ser suplida por el juez, con conocimiento de causa y citación de la mujer, si ésta la negare sin justo motivo. Podrá asimismo ser suplida por el juez en caso de algún impedimento de la mujer, como el de menor edad, demencia, ausencia real o aparente u otro, y de la demora se siguiere perjuicio. Pero no podrá suplirse dicha autorización si la mujer se opusiere a la donación de los bienes sociales.
-NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+La autorización a que se refiere el presente artículo podrá ser suplida por el juez, previa audiencia a la que será citada la mujer, si ésta la negare sin justo motivo. Podrá asimismo ser suplida por el juez en caso de algún impedimento de la mujer, como el de menor edad, demencia, ausencia real o aparente u otro, y de la demora se siguiere perjuicio. Pero no podrá suplirse dicha autorización si la mujer se opusiere a la donación de los bienes sociales.
 
 Art. 1750. El marido es, respecto de terceros, dueño de los bienes sociales, como si ellos y sus bienes propios formasen un solo patrimonio, de manera que durante la sociedad los acreedores del marido podrán perseguir tanto los bienes de éste como los bienes sociales; sin perjuicio de los abonos o compensaciones que a consecuencia de ello deba el marido a la sociedad o la sociedad al marido.
 Podrán, con todo, los acreedores perseguir sus derechos sobre los bienes de la mujer, en virtud de un contrato celebrado por ellos con el marido, en cuanto se probare haber cedido el contrato en utilidad personal de la mujer, como en el pago de sus deudas anteriores al matrimonio.
@@ -8342,111 +8330,88 @@ Art. 17. Se prohíbe a los jefes de establecimientos de detención mantener a lo
 #### Título III
 DE LA JUDICATURA DE MENORES, SU ORGANIZACION Y ATRIBUCIONES
 
-Art. 18. El conocimiento de los asuntos de que trata este Título y la facultad de hacer cumplir las resoluciones que recaigan en ellos corresponderá a los Juzgados de Letras de Menores, excepto aquellos que se encomiendan a los tribunales con competencia en lo criminal.
-Los Juzgados de Letras de Menores formarán parte del Poder Judicial y se regirán por las disposiciones relativas a los Juzgados de Letras, establecidas en el Código Orgánico de Tribunales y las leyes que lo complementan, en lo que no se oponga a lo dispuesto en esta ley y en la ley sobre abandono de familia y pago de pensiones alimenticias.
+Art. 18. DEROGADO
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 19. Habrá en el departamento de Santiago cinco Juzgados de Letras de Menores, dos en el de Valparaíso, uno en el departamento del Presidente Aguirre Cerda y otro en el de Concepción, los cuales tendrán su asiento en las capitales de esos departamentos.
-El Primer Juzgado de Letras de Menores de Santiago, conocerá, con arreglo a lo dispuesto por el artículo 28 de la presente ley, de todos los asuntos en que aparezcan menores inculpados de crímenes, simples delitos y faltas, y de la materia a que se refiere el número 7 del artículo 26.
-Los Juzgados Segundo, Tercero, Cuarto y Quinto de Santiago, conocerán indistintamente de todos los asuntos a que dé lugar la aplicación de esta ley y de la ley sobre abandono de familia y pago de pensiones alimenticias, salvo las causas cuyo conocimiento corresponda al Primer Juzgado de Letras de Menores.
-El Primer Juzgado de Letras de Menores de Valparaíso conocerá de todos los asuntos a que se refiere esta ley, con las excepciones que se señalan en el inciso siguiente.
-El Segundo Juzgado de Valparaíso conocerá en forma exclusiva de los juicios de alimentos a que se refieren los números 2 y 3 del artículo 26, y la Ley N.º 14.908, sobre abandono de familia y pago de pensiones alimenticias.
-El Primer y Segundo Juzgado de Letras de Menores de Valparaíso conocerán indistintamente de las materias a que se refiere el número 1 del artículo 26.
-Respectivamente, las Cortes de Apelaciones de Santiago y Valparaíso, determinarán anualmente las normas que regirán para la distribución de las causas en los juzgados a que se refieren los incisos tercero y sexto del presente artículo.
+Art. 19. DEROGADO
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+NOTA:
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 20. El Presidente de la República podrá crear uno o más Juzgados de Letras de Menores, a medida que los recursos fiscales lo permitan, en las comunas, agrupaciones de comunas, departamentos y agrupaciones de departamentos que, por el número de habitantes, las dificultades de comunicación o el movimiento de causas relacionadas con menores, hagan necesario encomendar a funcionarios especiales la administración de justicia en lo relativo a menores.
-El distrito jurisdiccional de los jueces de letras de menores será el territorio del departamento en que tenga su asiento el tribunal, o el de la comuna, o agrupación de comunas o departamentos que determine el Presidente de la República, previo informe de la Corte de Apelaciones respectiva.
-Creado un Juzgado de Letras de Menores, no podrá ser suprimido sino por medio de una ley.
-La ubicación dentro de la Escala Unica de los cargos considerados en la planta de los Juzgados de Letras de Menores que se creen en virtud de la facultad contenida en el inciso primero, se hará en el mismo decreto que dispone su creación, previo informe técnico de la Dirección de Presupuestos del Ministerio de Hacienda.
+Art. 20. DEROGADO
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+NOTA:
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 21. Créase, en cada uno de los Juzgados de
+Art. 21. DEROGADO
 NOTA:
-Letras de Mayor Cuantía de ciudad asiento de Corte de Apelaciones y de ciudad capital de provincia, que se desempeñen como Juzgados de Letras de Menores, una plaza de Asistente Social con las remuneraciones asignadas a la 8a. Categoría del Personal Superior del Poder Judicial en los juzgados que funcionen en el asiento de una Corte de Apelaciones y de la 5a. Categoría del Personal Subalterno, en los juzgados de capital de provincia. El Consejo Nacional de Menores deberá poner a disposición de la Oficina de Presupuestos del Poder Judicial las sumas necesarias para cubrir el gasto que demande la provisión de estas vacantes.
-Cuando se creen Juzgados de Letras de Menores en los territorios jurisdiccionales de los tribunales a que se refiere el inciso anterior, la plaza de asistente social respectiva pasará a la planta del nuevo juzgado y seguirá siendo servida por su titular sin necesidad de nueva designación.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 22. Para poder ser juez de letras de menores será necesario tener las calidades requeridas para el desempeño de las funciones de juez de letras de mayor cuantía de departamento y comprobar conocimientos de psicología, en la forma que determine el reglamento.
+Art. 22. DEROGADO
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+NOTA:
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 23. El juez de letras de menores será nombrado por el Presidente de la República, a propuesta en terna de la Corte de Apelaciones respectiva. Para la formación de estas ternas se abrirá concurso, al cual deberán presentar los interesados sus títulos y acreditar sus calidades y conocimientos.
-En las ternas para el nombramiento de los jueces de letras de menores ocupará un lugar el juez letrado más antiguo del cargo inmediatamente inferior al que se trata de proveer, y los otros dos lugares serán llenados con arreglo a lo dispuesto por el inciso anterior y el artículo 22 de esta ley.
+Art. 23. DEROGADO
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+NOTA:
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 24. En cada Juzgado de Letras de Menores habrá un secretario, que, en el carácter de ministro de fe pública, autorizará las providencias, despachos y actos emanados del juez y custodiará los expedientes y todos los documentos que se presenten al tribunal.
-El secretario será nombrado por el Presidente de la República, a propuesta en terna de la Corte de Apelaciones respectiva, previo concurso de competencia; deberá ser abogado idóneo para cargos judiciales y poseer los conocimientos exigidos por el artículo 22.
+Art. 24. DEROGADO
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+NOTA:
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 25. Cuando el juez de letras de menores faltare por cualquier causa o no pudiere conocer de determinado negocio, será subrogado por el secretario. En caso de que la ausencia excediere de 15 días, la Corte de Apelaciones respectiva formará terna para el nombramiento de suplente.
-Si el secretario del tribunal se ausentare, estuviere inhabilitado o se encontrare reemplazando al juez, será subrogado por el oficial primero del juzgado.
+Art. 25. DEROGADO
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+NOTA:
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 26. Corresponderá a los jueces de letras de
+Art. 26. DEROGADO
 NOTA:
-menores:
-1) Determinar a quién corresponde la tuición de los menores; establecer, en caso de desacuerdo entre los padres, la forma en que ha de ejercerse el derecho a que se refiere el artículo 229 del Código Civil, así como suspender o restringir su ejercicio, según corresponda, y declarar la suspensión o pérdida de la patria potestad y autorizar la emancipación;
-2) Conocer de las demandas de alimentos y de las solicitudes de rebaja, aumento o cese de la pensión alimenticia que se deban a menores, al cónyuge del alimentante cuando éste los solicitare conjuntamente con sus hijos menores, o a parientes mayores y menores de edad que los reclamaren conjuntamente, aun cuando hayan adquirido la mayoría de edad estando pendiente el juicio.
-3) Ordenar la entrega a la madre de hijos menores, o a la persona que los tenga a su cargo, de hasta un cincuenta por ciento del sueldo, salario, pensión o de cualquiera otra retribución en dinero que perciba el padre de esos menores en razón de su trabajo u oficio, en el caso de que hubiere sido declarado vicioso por el juez de letras de menores.
-PARRAFO SEGUNDO ELIMINADO
-El juez ordenará, igualmente, la entrega del mismo porcentaje en dinero a la madre de hijos menores que se encontraren en los casos de los incisos anteriores;
-4) Conocer de los disensos para contraer matrimonio;
-5) DEROGADO
-6) Nombrar guardador al menor que carezca de bienes o que consistan sólo en derecho a seguros, montepíos, pensiones, indemnizaciones u otros beneficios semejantes; y conocer del juicio de remoción respectivo o acordar ésta de oficio en los casos de incapacidad legal del guardador;
-7) Resolver sobre la vida futura del menor en el caso del inciso tercero del artículo 234 del Código Civil, y conocer de todos los asuntos en que aparezcan menores de edad gravemente vulnerados o amenazados en sus derechos, respecto de los cuales se requiera adoptar una medida de protección conforme al artículo 30;
-8) Conocer de la gestión de citación a confesar paternidad o maternidad establecida en el artículo 188 del Código Civil cuando se solicite en favor de un hijo menor de edad.
-9) Expedir la declaración previa sobre si el mayor de dieciséis años y menor de dieciocho, inculpado de haber cometido un delito, ha obrado o no con discernimiento, en los casos y en la forma prevista en el artículo 28;
-10) Conocer de todos los asuntos en que se impute un hecho punible a menores de dieciséis años, o mayores de esa edad y menores de dieciocho que hayan obrado sin discernimiento, y aplicar, cuando corresponda, las medidas contempladas en el artículo 29;
-11) DEROGADO
-12) DEROGADO
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 27. Se aplicará el apremio establecido en el
+Art. 27. DEROGADO
 NOTA:
-artículo 14 de la ley sobre abandono de familia y pago de pensiones alimenticias a las personas que hayan sido declaradas viciosas por el juez de letras de menores, cuando se acredite que han abandonado su trabajo a fin de burlar la entrega directa de sus remuneraciones a su mujer o a sus hijos.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 28. Cuando a un mayor de dieciséis y menor de dieciocho años de edad se le imputare un hecho constitutivo de delito que la ley sancione con penas superiores a presidio o reclusión menores en su grado
+Artículo 28.- Cuando a un mayor de dieciséis y menor de dieciocho años de edad se le atribuyere un hecho constitutivo de delito, la declaración previa acerca del discernimiento será emitida por el juez de
 NOTA:
-mínimo, la declaración previa de si ha obrado o no con discernimiento deberá hacerla el juez de letras de menores a petición del Ministerio Público, inmediatamente de formalizada la investigación. Para estos efectos, el juez de menores oirá al órgano técnico correspondiente del Servicio Nacional de Menores, a los intervinientes en el proceso penal respectivo y, en todo caso, al defensor del menor. Dicha declaración no podrá ser demorada más de quince días, aun cuando no se hayan recibido los informes técnicos. Esta resolución será notificada al Ministerio Público y al defensor en conformidad a los artículos 27 y 28 del Código Procesal Penal.
-Cuando a un mayor de dieciséis y menor de dieciocho años de edad se le atribuyere un hecho constitutivo de falta o de simple delito que la ley no sancione con penas privativas o restrictivas de libertad, o bien cuando éstas no excedan la de presidio o reclusión menor en su grado mínimo, la declaración previa acerca del discernimiento será emitida por el juez de garantía competente, a petición del Ministerio Público, en el mismo plazo señalado en el inciso anterior. Con dicho objeto, se citará a una audiencia a todos los intervinientes, previa designación de un defensor para el menor, si no tuviere uno de su confianza, a la que deberán concurrir con todos sus medios de prueba. Si se declarare que el menor ha obrado con discernimiento, el proceso se regulará de acuerdo a lo previsto en el Título I del Libro Cuarto del Código Procesal Penal, cualquiera sea la pena requerida por el fiscal.
-La resolución del juez de menores que declare la falta de discernimiento únicamente será susceptible del recurso de apelación, que se concederá en el solo efecto devolutivo.
-Encontrándose firme la resolución del juez de garantía que declare que el menor ha actuado sin discernimiento, la comunicará al juez de menores, a fin de que este último determine si corresponde la aplicación de alguna de las medidas contempladas en el artículo 29.
-En el evento de que se declare que el menor ha actuado con discernimiento, el fiscal podrá igualmente ejercer las facultades contempladas en el Párrafo 1º del Título I del Libro Segundo del Código Procesal Penal o deducir los respectivos requerimientos o acusaciones.
+garantía competente, a petición del Ministerio Público, en el plazo de quince días. Con dicho objetivo, se citará a una audiencia a todos los intervinientes, previa designación de un defensor para el menor si no tuviere uno de su confianza, a la que deberán concurrir con todos sus medios de prueba. Si se declarare que el menor ha obrado con discernimiento, el proceso se regulará de acuerdo a lo previsto en el Título I del Libro IV del Código Procesal Penal, cualquiera sea la pena requerida por el fiscal.
+Encontrándose firme la resolución del juez de garantía que declare que el menor ha actuado sin discernimiento, la comunicará al juez de familia, a fin de que este último determine si corresponde la aplicación de alguna de las medidas contempladas en el artículo 29.
+En el evento de que se declare que el menor ha actuado con discernimiento, el fiscal podrá igualmente ejercer las facultades contempladas en el Párrafo 1° del Título I del Libro II del Código Procesal Penal o deducir los respectivos requerimientos o acusaciones.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
-Art. 29. En los casos previstos en el artículo 26, Nº 10, de esta ley, el juez de letras de menores podrá aplicar alguna o algunas de las medidas siguientes:
+Art. 29. En los casos previstos en el artículo 8°, número 10), de la ley que crea los juzgados de familia, el juez de letras de menores podrá aplicar alguna o algunas de las medidas siguientes:
 NOTA:
 1.º Devolver el menor a sus padres, guardadores o personas a cuyo cargo estuviere, previa amonestación;
-2.º Someterlo al régimen de libertad vigilada, lo que se efectuará en la forma que determine el reglamento;
-3.º Confiarlo a los establecimientos especiales de tránsito o rehabilitación que esta ley señala, según corresponda, y
+2.º SUPRIMIDO
+3º) Disponer su ingreso a un centro de diagnóstico, tránsito y distribución o de rehabilitación o a un programa especializado de carácter ambulatorio, según
+NOTA 1:
+corresponda.
 4.º Confiarlo al cuidado de alguna persona que se preste para ello, a fin de que viva con su familia, y que el juez considere capacitada para dirigir su educación.
 Estas medidas durarán el tiempo que determine el juez de letras de menores, quien podrá revocarlas o modificarlas, si variaren las circunstancias que hubieren llevado a decretarlas, oyendo al director o encargado del centro o programa respectivo. Tratándose del Nº 3º), la medida de internación sólo procederá en los casos y por el plazo que sea estrictamente necesario.
 En caso alguno el juez de letras de menores podrá ordenar el ingreso de una persona menor de dieciocho años en un establecimiento penitenciario de adultos.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
+NOTA 1:
+El artículo 46 de la LEY 20032, publicada el 25.07.2005, dispone que las modificaciones que introduce a la presente norma, entrarán en vigencia 60 días después de su publicación.
 
-Art. 30. En los casos previstos en el artículo 26, Nº 7, el juez de letras de menores, mediante resolución fundada, podrá decretar las medidas que sean necesarias para proteger a los menores de edad
+Art. 30. En los casos previstos en el artículo 8°, números 7) y 8), de la ley que crea los juzgados de familia, el juez de letras de menores, mediante resolución fundada, podrá decretar las medidas que
 NOTA:
-gravemente vulnerados o amenazados en sus derechos.
+sean necesarias para proteger a los menores de edad gravemente vulnerados o amenazados en sus derechos.
 En particular, el juez podrá:
 1) disponer la concurrencia a programas o acciones de apoyo, reparación u orientación a los menores de edad, a sus padres o a las personas que lo tengan bajo su cuidado, para enfrentar y superar la situación de crisis en que pudieren encontrarse, e impartir las instrucciones pertinentes, y
 2) disponer el ingreso del menor de edad en un Centro de Tránsito o Distribución, hogar substituto o en un establecimiento residencial.
 Si adoptare la medida a que se refiere el número 2), el juez preferirá, para que asuman provisoriamente el cuidado del menor, a sus parientes consanguíneos o a otras personas con las que aquél tenga una relación de confianza.
 La medida de internación en un establecimiento de protección sólo procederá en aquellos casos en que, para cautelar la integridad física o síquica del menor de edad, resulte indispensable separarlo de su medio familiar o de las personas que lo tienen bajo su cuidado, y en defecto de las personas a que se refiere el inciso anterior. Esta medida tendrá un carácter esencialmente temporal, no se decretará por un plazo superior a un año, y deberá ser revisada por el tribunal cada seis meses, para lo cual solicitará los informes que procedan al encargado del Centro u hogar respectivo. Sin perjuicio de ello, podrá renovarse en esos mismos términos y condiciones, mientras subsista la causal que le dio lugar. En todo caso, el tribunal podrá sustituir o dejar sin efecto la medida antes del vencimiento del plazo por el que la hubiere dispuesto.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
 Art. 31. El juez podrá ejercer las facultades que le otorga esta ley, a petición del Ministerio Público, de los organismos o entidades que presten atención a menores, de cualquiera persona y aun de oficio. En el ejercicio de estas facultades podrá el juez ordenar las diligencias e investigaciones que estime conducentes.
 Siempre que el hecho que motive el denuncio fuere de aquellos que sólo dan acción privada, el juez practicará personalmente la investigación, evitando comprometer la reputación de las personas.
@@ -8456,46 +8421,35 @@ Art. 32. DEROGADO
 Art. 33. Si con ocasión del desempeño de sus funciones el juez de letras de menores tuviere conocimiento de la comisión de un delito que comprometa la salud, educación o buenas costumbres de un menor, y cuyo juzgamiento corresponda a otros tribunales, deberá denunciarlo, remitiéndole copia de los antecedentes.
 INCISO SEGUNDO DEROGADO
 
-Art. 34. En los asuntos de competencia de los
+Art. 34. DEROGADO
 NOTA:
-Juzgados de Letras de Menores en que no hay contiendas entre partes, el procedimiento será verbal y sin forma de juicio, pero el juez dictará sus resoluciones con conocimiento de causa.
-En los asuntos contenciosos o cuando las medidas o resoluciones adoptadas por el juez, siempre que su naturaleza lo permita, sean objeto de oposición de parte de los padres, guardadores o de cualquiera otra persona que en el hecho tenga al menor bajo su cuidado, se aplicará el procedimiento sumario señalado en el Título XI del Libro Tercero del Código de Procedimiento Civil; pero el comparendo y la prueba testimonial tendrán lugar en la fecha o fechas que fije el tribunal. No podrá decretarse la continuación del procedimiento conforme a las reglas del juicio ordinario. Las sentencias definitivas sólo deberán cumplir los requisitos indicados en el artículo 171 del citado Código.
-En los asuntos de competencia de los jueces de letras de menores, sólo procederá oír el dictamen del defensor público, en casos calificados mediante resolución fundada.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 35. Las notificaciones se harán por el
+Art. 35. DEROGADO
 NOTA:
-secretario personalmente o por carta certificada que deberá contener el aviso de haberse dictado resolución, indicando su número cuando se trata de providencias de mero trámite y, en todo otro caso, copia íntegra de la resolución o resoluciones o un extracto de ellas, hecho por el secretario si fueren muy extensas. Las notificaciones por carta se entenderán practicadas desde el día siguiente a aquel en que sea expedida, debiendo el secretario hacer constar en el expediente este hecho en la misma fecha en que ocurra. El juez podrá ordenar la comparecencia personal de las partes o de terceros bajo apercibimiento de arresto. En caso de rebeldía, el mismo tribunal podrá decretar el arresto y lo hará efectivo por medio de la fuerza pública.
-Las notificaciones personales que se practiquen fuera del juzgado, deberán hacerse por los receptores-visitadores del mismo tribunal, por los asistentes sociales, agregados o pertenecientes al juzgado, por personal de Carabineros o por funcionarios dependientes de la Dirección General de Investigaciones. Podrán también ser practicadas por los receptores de mayor cuantía, siendo el costo de esta diligencia de cargo de la parte que así lo haya solicitado.
-Las notificaciones a terceros, en el caso del número 3) del artículo 26 de la presente ley, se harán de acuerdo con el artículo 8º de la Ley sobre Abandono de Familia y Pago de Pensiones Alimenticias, y el desobedecimiento a la orden judicial será sancionado de acuerdo con el artículo 13 de la misma ley.
-La primera notificación será siempre personal, a menos que el juez, por motivos calificados, ordene otra clase de notificación.
-Para las actuaciones judiciales que se verifiquen conforme a esta ley, son hábiles todos los días y lugares. El juez podrá también habilitar las horas en casos calificados.
-No obstante, tratándose de términos de días, se entenderán suspendidos los feriados, salvo que el tribunal por motivos justificados, haya dispuesto expresamente lo contrario.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 36. El juez de letras de menores en todos los asuntos de que conozca apreciará la prueba en conciencia y, si fuere posible, deberá oír siempre al menor púber y al impúber, cuando lo estimare conveniente. Además de los informes que solicite a los asistentes sociales, podrá requerir informes médicos, psicológicos u otros que estimare necesarios.
-Podrá también utilizar todos los medios de información que considere adecuados, quedando obligados los funcionarios fiscales, semifiscales, de empresas del Estado o establecimientos particulares subvencionados por éste, a proporcionarlos cuando les sean solicitados para los efectos de la presente ley.
-Los menores no necesitarán de representante legal para concurrir ante el juez de letras de menores.
+Art. 36. DEROGADO
+NOTA:
+NOTA:
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 37. En los juicios de menores sólo serán
+Art. 37. DEROGADO
 NOTA:
-admisibles los recursos de apelación y de queja, sin perjuicio del recurso de reposición en su caso. El primero de ellos, que se concederá únicamente en el efecto devolutivo, procederá nada más que contra las sentencias definitivas y con respecto a aquellas que, sin tener este carácter, pongan término al juicio o hagan imposible su continuación.
-Los autos, concedido el recurso de apelación, se elevarán originales dejándose compulsa de la sentencia.
-Este recurso se tramitará como incidente de acuerdo con las disposiciones generales del Código de Procedimiento Civil, y tendrá preferencia para su vista y fallo.
-También procederá el recurso de apelación en contra de aquellas resoluciones que nieguen la aplicación de alguna medida de protección provisoria solicitada en conformidad a lo dispuesto en los artículos 26 Nº 7) y 40 de esta ley, cuando dicha solicitud se funde en situaciones de peligro físico grave e inminente para una persona menor de edad.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
 Art. 38. En los juicios de disenso si no se alega causa legal, en los casos en que haya obligación de hacerlo, el juez deberá dar inmediatamente autorización para el matrimonio.
 Si la persona que debe prestar el consentimiento no concurre a la audiencia, se entiende que retira el disenso. Lo dicho, no regirá con respecto al Oficial del Registro Civil.
 
 Art. 39. Derogado
 
-Art. 40. Durante el juicio o gestión, y aun antes de iniciarse, el juez de letras de menores, podrá, de oficio o petición de parte, ejercitar las facultades señaladas en la presente ley. Contra las resoluciones que el juez dicte a este respecto podrá deducirse oposición, en conformidad al artículo 34.
+Art. 40. DEROGADO
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+NOTA:
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
 Art. 41. En el caso del artículo 226 del Código Civil, a falta de los ascendientes y de consanguíneos el juez confiará el cuidado personal de los hijos a un reformatorio, a una institución de beneficencia con personalidad jurídica o a cualquier otro establecimiento autorizado para este efecto por el Presidente de la República.
 
@@ -8507,24 +8461,13 @@ Art. 42. Para los efectos del artículo 226 del Código Civil, se entenderá que
 5.º Cuando hubieren sido condenados por secuestro o abandono de menores; 6.º Cuando maltrataren o dieren malos ejemplos al menor o cuando la permanencia de éste en el hogar constituyere un peligro para su moralidad;
 7.º Cuando cualesquiera otras causas coloquen al menor en peligro moral o material.
 
-Art. 43. La pérdida de la patria potestad, l
+Art. 43. La pérdida de la patria potestad, la suspensión de su ejercicio y la pérdida o suspensión de la tuición de los menores no importa liberar a los padres o guardadores de las obligaciones que les corresponden de acudir a su educación y sustento.
+El juez de letras de menores determinará la cuantía y forma en que se cumplirán estas obligaciones, apreciando las facultades del obligado y sus circunstancias domésticas.
+La sentencia que dicte tendrá mérito ejecutivo y permitirá exigir su cumplimiento ante el tribunal
 NOTA:
-a
+correspondiente.
 NOTA:
-sus
-NOTA:
-NOTA:
-p
-NOTA:
-e
-NOTA:
-NOTA:
-NOTA:
-nsión de su ejercicio y la pérdida o suspensión de la tuición de los menores no importa liberar a los padres o guardadores de las obligaciones que les corresponden de acudir a su educación y sustento.
-El juez de letras de menores determinará la cuantía y forma en que se cumplirán estas obligaciones, apreciando en conciencia las facultades del obligado y sus circunstancias domésticas.
-La sentencia que dicte tendrá mérito ejecutivo y permitirá exigir su cumplimiento ante el tribunal correspondiente.
-NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
 Art. 44. La asignación familiar que corresponda a los padres del menor la percibirán los establecimientos o personas naturales que, por disposición del juez o del Consejo Técnico de la Casa de Menores, tengan a su cargo al menor.
 En el caso indicado en el inciso anterior, la asignación familiar sólo podrá pagarse a los establecimientos o personas que indique el juez de letras de menores.
@@ -8547,19 +8490,10 @@ El juez, luego de oír a los padres y a la persona que tenga el cuidado personal
 NOTA:
 El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 
-Artículo 48 bis.- Las demandas concernientes a la relación directa y regular con el menor a que se refiere el artículo precedente se tramitarán como incidente, con las siguientes modificaciones:
+Artículo 48 bis.- DEROGADO
 NOTA:
-a) Se dará traslado a la parte demandada por el plazo fatal de cinco días, cualquiera sea el lugar en que se encuentre al momento de ser notificada.
-b) Las notificaciones se regirán por lo dispuesto en el artículo 35.
-c) Si al evacuar el traslado el demandado acepta llanamente las peticiones del demandante o no contradice en forma substancial y pertinente los hechos sobre que versa el juicio, o vence el plazo sin que hubiere sido contestada la demanda, el tribunal resolverá de plano, con el mérito de los antecedentes, la petición del interesado.
-Si, por el contrario, la parte demandada se opone a las pretensiones del demandante con argumentos que controvierten el asunto, el juez fijará la oportunidad en la cual oirá al menor y citará a las partes a una audiencia de conciliación y prueba para un día no anterior al quinto ni posterior al decimoquinto contado desde la fecha de notificación de la resolución.
-Si no existiere regulación convencional ni judicial de la relación con el menor y en la demanda se pidiere también que sea regulada provisoriamente, el tribunal se pronunciará al momento de citar a las partes a la audiencia de conciliación y prueba, con el mérito de los antecedentes de que disponga.
-d) Cuando las partes quisieren rendir prueba testimonial, deberán presentar la lista de testigos dentro de los tres días siguientes a la notificación de la resolución que cita a la audiencia de conciliación y prueba. Los testigos podrán declarar únicamente ante el tribunal que conozca la causa y sólo serán admitidos a declarar hasta dos testigos por cada parte.
-En el mismo escrito y plazo fatal deberá solicitarse la prueba pericial, la absolución de posiciones y acompañarse o solicitarse la exhibición de toda la prueba documental que no se hubiere presentado con anterioridad. La confesión judicial sólo podrá pedirse una vez por cada parte y las posiciones deberán absolverse en la audiencia de prueba. El pliego de posiciones respectivo deberá entregarse al tribunal al momento de iniciarse la audiencia. La citación de los testigos y el absolvente se notificará por cédula o carta certificada. La persona citada a absolver posiciones está obligada a concurrir personalmente, será citada por una sola vez para los efectos previstos en el artículo 394 del Código de Procedimiento Civil y no tendrá aplicación lo previsto en el inciso segundo de ese precepto legal. En caso de que se solicite informe de peritos, su designación deberá efectuarse en la audiencia por el tribunal, correspondiéndole a él determinar su procedencia y los puntos sobre los cuales recaerá la pericia, correspondiendo el pago de los honorarios a la parte que solicite dicha diligencia.
-El juez, si lo estima necesario, podrá decretar, de oficio o a petición de parte, la citación de los parientes a la audiencia de prueba o como medida para mejor resolver.
-e) Si no concurren todas las partes a la audiencia, ésta se celebrará con las que asistan. Al concluir la audiencia se citará a las partes a oír sentencia, entendiéndose notificadas por la sola inclusión de dicha resolución en el acta respectiva, y se dará cumplimiento a lo dispuesto en el artículo 91 del Código de Procedimiento Civil.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
 Artículo 48 ter.- Cuando se deduzca una demanda de alimentos a favor de los hijos, o entre los cónyuges en forma adicional a aquélla, o se solicite la regulación del cuidado personal o de la relación directa y regular que mantendrá con ellos aquél de los padres que no los tenga bajo su cuidado, y no exista previamente una resolución judicial que regule dichas materias o que apruebe el acuerdo de las partes sobre las mismas, cualquiera de las partes podrá solicitar al tribunal que emita en la sentencia un pronunciamiento sobre cada una de ellas, aunque no hubieren sido incluidas en la demanda respectiva o deducidas por vía reconvencional. El tribunal hará lugar a esa solicitud, a menos que no se den los presupuestos que justifican su regulación.
 Para estos efectos, las acciones que hubieren dado lugar a la interposición de la demanda se tramitarán conforme al procedimiento que corresponda, mientras que las demás se sustanciarán por vía incidental, a menos que el tribunal, de oficio o a petición de parte, resuelva tramitarlas en forma conjunta.
@@ -8638,12 +8572,11 @@ Art. 63. DEROGADO
 
 Art. 64. Si en una investigación aparecieren hechos respecto de los cuales deba intervenir el juez de letras de menores, el Ministerio Público deberá ponerlos en su conocimiento. De la misma manera procederá el tribunal que constate la existencia de esos hechos durante la tramitación de un proceso.
 
-Art. 65. Cuando en una investigación apareciere comprometido un menor como autor, cómplice o encubridor, el Ministerio Público, dependiendo de la pena que la ley asigne al hecho, deberá ponerlo a disposición del
+Art. 65. Cuando en una investigación apareciere comprometido un menor como autor, cómplice o encubridor, el Ministerio Público, deberá ponerlo a disposición del juez de garantía, recabando la declaración sobre el discernimiento cuando corresponda, sin perjuicio de lo dispuesto en el inciso siguiente.
 NOTA:
-juez de garantía o del juez de letras de menores, recabando la declaración sobre el discernimiento cuando corresponda, sin perjuicio de lo dispuesto en el inciso siguiente.
 Las disposiciones de esta ley no impedirán la realización de actuaciones de investigación por el Ministerio Público ni el ejercicio de las facultades privativas de los tribunales ordinarios de justicia.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
 Art. 66. Deberán denunciar los hechos constitutivos de maltrato de menores aquellos que en conformidad a las reglas generales del Código Procesal Penal estuvieren obligados a hacerlo; la misma obligación y sanciones afectarán a los maestros y otras personas encargadas de la educación de los menores.
 El que se negare a proporcionar a los funcionarios que establece esta ley datos o informes acerca de un menor o que los falseare, o que en cualquiera otra forma dificultare su acción, será castigado con prisión en su grado mínimo, conmutable en multa de un quinto de unidad tributaria mensual por cada día de prisión. Si el autor de esta falta fuere un funcionario público, podrá ser, además, suspendido de su cargo hasta por un mes.
@@ -8678,23 +8611,22 @@ Los que se encuentren detenidos, procesados o condenados por crimen, simple deli
 
 ## ARTICULO 7º: Fíjase el siguiente texto refundido, coordinado y sistematizado de la Ley Nº 14.908, sobre Abandono de Familia y Pago de Pensiones Alimenticias.
 
-Artículo 1º De los juicios de alimentos conocerá el juez de letras en lo civil del domicilio del alimentante o del alimentario a elección de este último y se tramitarán conforme al procedimiento del
+Artículo 1º De los juicios de alimentos conocerá el juez de familia del domicilio del alimentante o del alimentario, a elección de este último, los que se tramitarán conforme a las normas del procedimiento
 NOTA:
-juicio sumario, sin perjuicio de las reglas especiales contempladas en el artículo siguiente.
+ordinario establecido en la ley que crea los juzgados de familia en lo no previsto por este cuerpo legal.
 La prueba será apreciada según las reglas de la sana crítica.
 Las apelaciones que se deduzcan se concederán en el solo efecto devolutivo.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
-Art. 2º De los juicios de alimentos que se deban a menores, al cónyuge del alimentante cuando éste los solicitare conjuntamente con sus hijos menores, o a parientes mayores y menores de edad que los reclamaren
-NOTA:
-conjuntamente, conocerá el juez de letras de menores del domicilio del alimentante o del alimentario a elección de este último. Dicha competencia no se verá alterada por llegar el menor a la mayoría de edad mientras el juicio se encontrare pendiente.
+Art. 2º De los juicios de alimentos que se deban a menores, al cónyuge del alimentante cuando éste los solicitare conjuntamente con sus hijos menores, o a parientes mayores y menores de edad que los reclamaren conjuntamente, conocerá el juez de letras de menores del domicilio del alimentante o del alimentario a elección de este último. Dicha competencia no se verá alterada por llegar el menor a la mayoría de edad mientras el juicio se encontrare pendiente.
 Será competente para conocer de las demandas de aumento, rebaja o cese de la pensión alimenticia el mismo juez que decretó la pensión.
 La madre podrá solicitar alimentos para el hijo que está por nacer. Se aplicarán en este caso las reglas previstas para los alimentarios menores de edad.
-El procedimiento se sujetará a lo dispuesto en la ley Nº16.618, de Menores, en lo no previsto en este cuerpo legal.
+INCISO DEROGADO
+NOTA:
 La demanda podrá omitir la indicación del domicilio del demandado si éste no se conociera. En este caso, y en aquél en que el demandado no fuera habido en el domicilio señalado en la demanda, el juez deberá adoptar todas las medidas necesarias para determinar, en el más breve plazo, su domicilio actual.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
 Art. 3º Para los efectos de decretar los alimentos cuando un menor los solicitare de su padre o madre, se presumirá que el alimentante tiene los medios para otorgarlos.
 En virtud de esta presunción, el monto mínimo de la pensión alimenticia que se decrete a favor de un menor alimentario no podrá ser inferior al cuarenta por ciento del ingreso mínimo remuneracional que corresponda según la edad del alimentante. Tratándose de dos o más menores, dicho monto no podrá ser inferior al 30% por cada uno de ellos.
@@ -8702,11 +8634,10 @@ Todo lo anterior es sin perjuicio de lo dispuesto en el inciso primero del artí
 Si el alimentante justificare ante el tribunal que carece de los medios para pagar el monto mínimo establecido en el inciso anterior, el juez podrá rebajarlo prudencialmente.
 Cuando los alimentos decretados no fueren pagados o no fueren suficientes para solventar las necesidades del hijo, el alimentario podrá demandar a los abuelos, de conformidad con lo que establece el artículo 232 del Código Civil.
 
-Art. 4º Sin perjuicio de lo dispuesto en el artículo 2º, inciso undécimo, de la ley Nº 18.120, si el demandante fuere patrocinado por abogado habilitado para el ejercicio de la profesión y el demandado no
+Art. 4º DEROGADO
 NOTA:
-dispusiere de medios suficientes para sufragar su defensa, el tribunal designará para que lo patrocine a un abogado de la respectiva Corporación de Asistencia Judicial, de otro organismo público o privado que preste asistencia jurídica gratuita, o, en su defecto, al abogado de turno.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
 Art. 5º En los juicios en que se solicitaren alimentos en favor de los hijos menores del demandado, siempre que exista fundamento plausible del derecho que se reclama, el juez deberá decretar los alimentos
 NOTA:
@@ -8714,11 +8645,12 @@ provisorios que correspondan, una vez transcurrido el término de diez días con
 Para estos efectos, se entenderá que existe fundamento plausible cuando se hubiere acreditado el título que habilita para pedir alimentos y no exista una manifiesta incapacidad para proveer.
 Dentro del término a que hace referencia el inciso primero, el demandado podrá exponer al tribunal los argumentos que estimare pertinentes respecto de la procedencia de los alimentos provisionales y acompañar los antecedentes en que se fundare. En la notificación de la demanda deberá informársele sobre esta facultad. Dicha presentación en modo alguno interrumpirá el curso del procedimiento ni será obstáculo para contestar la demanda en la oportunidad procesal que corresponda.
 En todo caso, el tribunal deberá, de oficio, pronunciarse sobre los alimentos provisorios, sea que el demandado haya deducido observaciones o haya dejado transcurrir el término a que se refiere el inciso primero.
-La resolución que se pronuncie sobre estos alimentos se notificará conforme al artículo 35 de la Ley de Menores. En los demás casos, la resolución que decrete alimentos provisionales se notificará personalmente o por cédula.
+La resolución que se pronuncie sobre estos alimentos se notificará por carta certificada. Esta notificación se entenderá practicada el tercer día siguiente a aquél en que haya sido expedida la carta.
+NOTA:
 Podrá también el juez acceder provisionalmente a la solicitud de aumento, rebaja o cese de una pensión alimenticia, cuando estime que existen antecedentes suficientes que lo justifiquen. La solicitud correspondiente se tramitará como incidente.
 La resolución que decretare los alimentos provisorios o la que se pronunciare provisionalmente sobre la solicitud de aumento, rebaja o cese de una pensión alimenticia, será susceptible del recurso de reposición con apelación subsidiaria, la que se concederá en el solo efecto devolutivo y gozará de preferencia para su vista y fallo.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
 Art. 6º Las medidas precautorias en estos juicios podrán decretarse por el monto y en la forma que el tribunal determine de acuerdo con las circunstancias del caso.
 Toda resolución que fije una pensión de alimentos deberá determinar el monto y lugar de pago de la misma.
@@ -8729,15 +8661,15 @@ Cuando la pensión alimenticia no se fije en un porcentaje de los ingresos del a
 El Secretario del Tribunal, a requerimiento del alimentario, procederá a reliquidar la pensión alimenticia, de acuerdo con lo establecido en el inciso anterior.
 INCISO DEROGADO
 
-Art. 8º Las resoluciones judiciales que ordenen el pago de una pensión alimenticia por un trabajador dependiente establecerán, como modalidad de pago, la retención por parte del empleador. La resolución judicial
+Art. 8º Las resoluciones judiciales que ordenen el pago de una pensión alimenticia por un trabajador dependiente establecerán, como modalidad de pago, la retención por parte del empleador. La resolución judicial que así lo ordene se notificará a la persona natural o jurídica que, por cuenta propia o ajena o en el desempeño de un empleo o cargo, deba pagar al alimentante su sueldo, salario o cualquier otra prestación en dinero, a fin de que retenga y entregue la suma o cuotas periódicas fijadas en ella directamente al alimentario, a su representante legal, o a la persona a cuyo cuidado esté.
+La notificación de las resoluciones a que se refiere el inciso anterior se efectuará por carta certificada, dejándose testimonio en el proceso de que la persona fue notificada por este medio, de la fecha de entrega de la carta a la oficina de correos, la individualización de dicha oficina y el
 NOTA:
-que así lo ordene se notificará a la persona natural o jurídica que, por cuenta propia o ajena o en el desempeño de un empleo o cargo, deba pagar al alimentante su sueldo, salario o cualquier otra prestación en dinero, a fin de que retenga y entregue la suma o cuotas periódicas fijadas en ella directamente al alimentario, a su representante legal, o a la persona a cuyo cuidado esté.
-La notificación de las resoluciones a que se refiere el inciso anterior se efectuará por carta certificada, dejándose testimonio en el expediente de que la persona fue notificada por este medio, de la fecha de entrega de la carta a la oficina de correos, la individualización de dicha oficina y el número de comprobante emitido por ella, el cual se adherirá al expediente a continuación del testimonio. La notificación se entenderá practicada al quinto día hábil siguiente a la fecha recién aludida. Si la carta certificada fuere devuelta por la oficina de correos por no haberse podido entregar al destinatario, se adherirá al expediente.
+número de comprobante emitido por ella, el cual se adherirá al proceso a continuación del testimonio. La notificación se entenderá practicada al quinto día hábil siguiente a la fecha recién aludida. Si la carta certificada fuere devuelta por la oficina de correos por no haberse podido entregar al destinatario, se adherirá al expediente.
 El demandado dependiente podrá solicitar al juez, por una sola vez, en cualquier estado del juicio y antes de la dictación de la sentencia, que sustituya, por otra modalidad de pago, la retención por parte del empleador.
 La solicitud respectiva se tramitará como incidente. En caso de ser acogida, la modalidad de pago decretada quedará sujeta a la condición de su íntegro y oportuno cumplimiento.
 De existir incumplimiento, el juez, de oficio, y sin perjuicio de las sanciones y apremios que sean pertinentes, ordenará que en lo sucesivo la pensión alimenticia decretada se pague conforme al inciso primero.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
 Art. 9º. El juez podrá decretar o aprobar que se imputen, parcial o totalmente, al pago de la pensión las prestaciones determinadas que efectúe el alimentante con ocasión de la educación, salud, vivienda, alimentación, vestuario, recreación u otras necesidades del alimentario.
 El juez podrá también fijar o aprobar que la pensión alimenticia se impute total o parcialmente a un derecho de usufructo, uso o habitación sobre bienes del alimentante, quien no podrá enajenarlos ni gravarlos sin autorización del juez. Si se tratare de un bien raíz, la resolución judicial servirá de título para inscribir los derechos reales y la prohibición de enajenar o gravar en los registros correspondientes del Conservador de Bienes Raíces. Podrá requerir estas inscripciones el propio alimentario.
@@ -8755,25 +8687,25 @@ El juez sólo podrá dar su aprobación a las transacciones sobre alimentos futu
 Salvo estipulación en contrario, tratándose de alimentantes que sean trabajadores dependientes, el juez ordenará como modalidad de pago de la pensión acordada la retención por parte del empleador.
 Esta modalidad de pago se decretará, sin más trámite, toda vez que el alimentante no cumpla con la obligación alimenticia acordada.
 
-Art. 12 El requerimiento de pago se notificará al ejecutado personalmente o por cédula, la que contendrá copia íntegra de la resolución y los datos necesarios para su acertada inteligencia. La
+Art. 12 El requerimiento de pago se notificará al ejecutado en la forma establecida en los incisos primero y segundo del artículo 23 de la ley que crea los juzgados de familia.
 NOTA:
-notificación se efectuará por un receptor - visitador del mismo tribunal, por los asistentes sociales agregados o pertenecientes al Juzgado, por receptores de Juzgados de Letras, o, excepcionalmente y por resolución fundada, por funcionarios policiales, en el domicilio del ejecutado. Si éste no fuere habido, se procederá en la forma prevista en el inciso segundo del artículo 44 del Código de Procedimiento Civil, aun cuando no se hallare en el lugar del juicio.
 Solamente será admisible la excepción de pago y siempre que se funde en un antecedente escrito.
 Si no se opusieran excepciones en el plazo legal, se omitirá la sentencia y bastará el mandamiento para que el acreedor haga uso de su derecho en conformidad al procedimiento de apremio del juicio ejecutivo.
 Si las excepciones opuestas fueren inadmisibles, el tribunal lo declarará así y ordenará seguir la ejecución adelante.
-El mandamiento de embargo que se despache para el pago de la primera pensión alimenticia será suficiente para el pago de cada una de las venideras, sin necesidad de nuevo requerimiento; pero si no se efectuara oportunamente el pago de una o más pensiones, deberá, en cada caso, notificarse por cédula el mandamiento, pudiendo el demandado oponer excepción de pago dentro del término legal a contar de la notificación.
+El mandamiento de embargo que se despache para el pago de la primera pensión alimenticia será suficiente para el pago de cada una de las venideras, sin necesidad de nuevo requerimiento; pero si no se efectuara oportunamente el pago de una o más pensiones, deberá, en cada caso, notificarse por carta certificada el mandamiento, pudiendo el demandado oponer excepción de pago dentro del término legal a contar de la notificación
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+.
+NOTA:
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
-Art. 13. Si la persona natural o jurídica que deba hacer la retención a que se refiere el artículo 8º, desobedeciere la respectiva orden judicial, incurrirá en multa, a beneficio fiscal, equivalente al doble de
+Art. 13. Si la persona natural o jurídica que deba hacer la retención a que se refiere el artículo 8º, desobedeciere la respectiva orden judicial, incurrirá en multa, a beneficio fiscal, equivalente al doble de la cantidad mandada retener, lo que no obsta para que se despache en su contra o en contra del alimentante el mandamiento de ejecución que corresponda.
+La multa se decretará incidentalmente por el tribunal que conoció del juicio de alimentos en primera o en única instancia, y la resolución que la imponga tendrá mérito ejecutivo una vez ejecutoriada.
 NOTA:
-la cantidad mandada retener, lo que no obsta para que se despache en su contra o en contra del alimentante el mandamiento de ejecución que corresponda.
-La multa se decretará breve y sumariamente por el tribunal que conoció del juicio de alimentos en primera o en única instancia, y la resolución que la imponga tendrá mérito ejecutivo una vez ejecutoriada.
 El empleador deberá dar cuenta al tribunal del término de la relación laboral con el alimentante. En caso de incumplimiento, el tribunal determinará la responsabilidad de aquél en el hecho y aplicará, si correspondiere, la sanción establecida en los incisos precedentes. La notificación a que se refiere el artículo 8° deberá expresar dicha circunstancia.
 En caso de que sea procedente el pago de la indemnización sustitutiva del aviso previo a que se refieren los artículos 161 y 162 del Código del Trabajo, será obligación del empleador retener de ella la suma equivalente a la pensión alimenticia del mes siguiente a la fecha de término de la relación laboral, para su pago al alimentario.
 Asimismo, si fuere procedente la indemnización por años de servicio a que hace referencia el artículo 163 del Código del Trabajo, o se pactare ésta voluntariamente, el empleador estará obligado a retener del total de dicha indemnización el porcentaje que corresponda al monto de la pensión de alimentos en el ingreso mensual del trabajador, con el objeto de realizar el pago al alimentario. El alimentante podrá, en todo caso, imputar el monto retenido y pagado a las pensiones futuras que se devenguen.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
 Art. 14. Si decretados los alimentos por resolución que cause ejecutoria en favor del cónyuge, de los padres, de los hijos o del adoptado, el alimentante no hubiere cumplido su obligación en la forma pactada u ordenada o hubiere dejado de pagar una o más cuotas, el tribunal que dictó la resolución deberá, a petición de parte o de oficio y sin más trámite, imponer al deudor como medida de apremio, el arresto nocturno entre las veintidós horas de cada día hasta las seis horas del día siguiente, hasta por quince días. El juez podrá repetir esta medida hasta obtener el íntegro pago de la obligación.
 Si el alimentante infringiere el arresto nocturno o persistiere en el incumplimiento de la obligación alimenticia después de dos periodos de arresto nocturno, el juez podrá apremiarlo con arresto hasta por quince días. En caso de que procedan nuevos apremios, podrá ampliar el arresto hasta por 30 días.
@@ -8790,7 +8722,9 @@ Art. 17. DEROGADO
 
 Art. 18. Serán solidariamente responsables del pago de la obligación alimenticia quien viviere en concubinato con el padre, madre o cónyuge alimentante, y los que, sin derecho para ello, dificultaren o imposibilitaren el fiel y oportuno cumplimiento de dicha obligación.
 
-Art. 19. Si constare en el expediente que en contra del alimentante se hubiere decretado dos veces alguno de los apremios señalados en el artículo 14, procederá en su caso, ante el tribunal que corresponda y siempre a petición del titular de la acción respectiva, lo siguiente:
+Art. 19. Si constare en el proceso que en contra del alimentante se hubiere decretado dos veces alguno de los apremios señalados en el artículo 14, procederá en su caso, ante el tribunal que corresponda
+NOTA:
+y siempre a petición del titular de la acción respectiva, lo siguiente:
 1. Decretar la separación de bienes de los cónyuges.
 2. Autorizar a la mujer para actuar conforme a lo dispuesto en el inciso segundo del artículo 138 del Código Civil, sin que sea necesario acreditar el perjuicio a que se refiere dicho inciso.
 La circunstancia señalada en el inciso anterior será especialmente considerada para resolver sobre:
@@ -8798,13 +8732,12 @@ a) La autorización para la salida del país de los hijos menores de edad.
 b) La falta de contribución a que hace referencia el artículo 225 del Código Civil.
 c) La emancipación judicial por abandono del hijo a que se refiere el artículo 271, número 2, del Código Civil.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
-Art. 20. Sin perjuicio de la radicación de la competencia en el tribunal que esté conociendo del asunto, serán aplicables las normas establecidas en la presente ley a los alimentos que se soliciten
+Art. 20. DEROGADO
 NOTA:
-incidentalmente en los juicios sobre violencia intrafamiliar, reclamación de la filiación, separación de bienes, divorcio y en general, en cualquier otro procedimiento en que la ley contemple expresamente la posibilidad de solicitarlos.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
 ## ARTICULO 8º Fíjase el siguiente texto refundido, coordinado y sistematizado de la Ley Nº 16.271 de Impuesto a las Herencias, Asignaciones y Donaciones:
 
@@ -9199,6 +9132,7 @@ DEL PROCEDIMIENTO JUDICIAL (DEROGADO)
 Art. 73. DEROGADO
 NOTA:
 NOTA:
+NOTA:
 El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
 ##### Capítulo III
@@ -9212,7 +9146,6 @@ Art. 75. Derógase el Decreto Ley Nº 364, de 3 de agosto de 1932, y demás disp
 DISPOSICIONES TRANSITORIAS (DEROGADO)
 
 Art. 76. DEROGADO
-NOTA:
 NOTA:
 NOTA:
 NOTA:
