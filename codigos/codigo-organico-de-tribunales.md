@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2002-03-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2002-05-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2002-03-05
-fetched_at: 2026-08-03T01:17:18.033640+00:00
+version_date: 2002-05-22
+fetched_at: 2026-08-03T01:17:30.038205+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -619,24 +619,24 @@ o) El de la Corte de Puerto Montt comprenderá las provincias de Llanquihue, Chi
 p) El de la Corte de Coihaique comprenderá la Décimo Primera Región de Aisén, del General Carlos Ibáñez del Campo, y
 q) El de la Corte de Punta Arenas comprenderá la Décimo Segunda Región de Magallanes y de la Antártica Chilena.
 
-Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indican:
-1° Las Cortes de Apelaciones de Iquique, Copiapó, Chillán, Puerto Montt, Coihaique y Punta Arenas tendrán cuatro miembros;
-2° Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán siete miembros;
-3° Las Cortes de Apelaciones de Valparaíso y Concepción tendrán trece miembros;
-4° La Corte de Apelaciones de San Miguel tendrá dieciséis miembros, y
-5° La Corte de Apelaciones de Santiago tendrá veinticinco miembros.
+Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indica:
+1º. Las Cortes de Apelaciones de Iquique, Copiapó, Chillán, Puerto Montt, Coihaique y Punta Arenas tendrán cuatro miembros;
+2º. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán siete miembros;
+3º. Las Cortes de Apelaciones de Valparaíso y Concepción tendrán dieciséis miembros;
+4º. La Corte de Apelaciones de San Miguel tendrá diecinueve miembros, y
+5º. La Corte de Apelaciones de Santiago tendrá treinta y un miembros.
 
 Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado del 1° de marzo y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
 Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón.
 
 Art. 58. La Corte de Apelaciones de Santiago tendrá seis fiscales judiciales; la Corte de Apelaciones de San Miguel tendrá cuatro fiscales judiciales; las Cortes de Apelaciones de Valparaíso y Concepción tendrán tres fiscales judiciales; las Cortes de Apelaciones de Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán dos fiscales judiciales. Las demás Cortes de Apelaciones tendrán un fiscal judicial cada una. El ejercicio de sus funciones será reglado por el tribunal como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
-Art. 59. Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán cuatro relatores; las Cortes de Apelaciones de Valparaíso y Concepción tendrán ocho relatores; la Corte de Apelaciones de San Miguel tendrá diez relatores, y la Corte de Apelaciones de Santiago tendrá dieciocho relatores.
+Art. 59. Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán cuatro relatores; las Cortes de Apelaciones de Valparaíso y Concepción tendrán diez relatores; la Corte de Apelaciones de San Miguel tendrá doce relatores; y la Corte de Apelaciones de Santiago tendrá veintidós relatores.
 
 Art. 60. Cada Corte de Apelaciones tendrá un secretario.
 La Corte de Apelaciones de San Miguel tendrá dos secretarios. La Corte de Apelaciones de Santiago tendrá tres secretarios. Cada tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
 
-Art. 61. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia se dividirán en dos salas; las Cortes de Apelaciones de Valparaíso y Concepción en cuatro salas; la Corte de Apelaciones de San Miguel en cinco salas y la Corte de Apelaciones de Santiago en siete salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones, tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil de enero de cada año.
+Art. 61. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia se dividirán en dos salas; las Cortes de Apelaciones de Valparaíso y Concepción en cinco salas; la Corte de Apelaciones de San Miguel en seis salas; y la Corte de Apelaciones de Santiago en nueve salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones, tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil de enero de cada año.
 
 Art. 62. Las Cortes de Apelaciones integradas por sus fiscales judiciales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo.
 Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla y de las apelaciones que deban conocerse en cuenta, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento.
