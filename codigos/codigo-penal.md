@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1953-06-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1954-11-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1953-06-10
-fetched_at: 2026-08-03T00:12:01.534190+00:00
+version_date: 1954-11-03
+fetched_at: 2026-08-03T00:13:13.587157+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -79,10 +79,10 @@ En otro caso será entregado a su familia bajo fianza de custodia, y mientras no
 3.° El mayor de dieciséis años y menor de dieciocho, a no ser que conste que ha obrado con discernimiento.
 El Tribunal de Menores respectivo hará declaración previa sobre este punto para que pueda procesársele.
 4.° El que obra en defensa de su persona o derechos, siempre que concurran las circunstancias siguientes:
-Primera.- Agresión Ilegítima.
+Primera.-Agresión Ilegítima.
 Segunda.- Necesidad racional del medio empleado para impedirla o repelerla.
 Tercera.-Falta de provocación suficiente por parte del que se defiende.
-Se entenderá que concurren estas tres circunstancias respecto de aquel que durante la noche rechaza el escalamiento o fractura de los cercados, paredes o entradas de una casa o de un departamento habitado o de sus dependencias, cualquiera que sea el daño que ocasione al agresor.
+Se entenderá que concurren estas tres circunstancias respecto de aquel que durante la noche rechaza el escalamiento o fractura de los cercados, paredes o entradas de una casa o de un departamento habitado o de sus dependencias y del que impida o trate de impedir la consumación de los delitos señalados en los artículos 433 y 436, cualquiera que sea el daño que ocasionen al agresor.
 5.° El que obra en defensa de la persona o derechos de su cónyuge, de sus parientes consanguíneos legítimos en toda la línea recta y en la colateral hasta el cuarto grado inclusive, de sus afines legítimos en toda la línea recta y en la colateral hasta el segundo grado inclusive, de sus padres o hijos naturales o ilegítimos reconocidos, siempre que concurran la primera y segunda circunstancias prescritas en el número anterior, y la de que, en caso de haber precedido provocación de parte del acometido, no tuviere participación en ella el defensor.
 6.° El que obra en defensa de la persona y derechos de un extraño, siempre que concurran las circunstancias expresadas en el número anterior y la de que el defensor no sea impulsado por venganza, resentimiento u otro motivo ilegítimo.
 7.° El que para evitar un mal ejecuta un hecho, que produzca daño en la propiedad ajena, siempre que concurran las circunstancias siguientes:
@@ -392,7 +392,13 @@ Para determinar las penas que deben imponerse según los arts. 51, 52, 53 y 54: 
 ART. 60.
 La multa se considera como la pena inmediatamente inferior a la última en todas las escalas graduales.
 Para fijar su cuantía respectiva se adoptará la base establecida en el art. 25, y en cuanto a su aplicación a cada caso especial se observará lo que prescribe el art. 70.
-El producto de las multas se aplicará a fondos municipales del departamento o territorio municipal donde se cometió el delito que se castiga. Si un reo es condenado por dos o más delitos cometidos en diversos territorios municipales, la multa se dividirá por iguales partes entre las municipalidades respectivas.
+El producto de las multas, ya sea que se impongan por sentencia o por decreto que conmuta alguna pena, ingresará en arcas fiscales y se mantendrá en una cuenta especial, contra la cual sólo podrá girar el Ministerio de Justicia, para algunos de los siguientes fines:
+1° Creación, instalación y mantenimiento de establecimientos penales y de reeducación de antisociales;
+2° Creación, instalación y mantenimiento de servicios de peritos judiciales, y
+3° Mantenimiento de los servicios del Patronato Nacional de Reos.
+La misma regla señalada en el inciso anterior, se aplicará respecto a las cauciones que se hagan efectivas, de los dineros que caigan en comiso y del producto de la enajenación en subasta pública de las demás especies decomisadas, la cual se deberá efectuar por la Dirección de Aprovisionamiento del Estado.
+Las disposiciones de los dos incisos anteriores no son aplicables a las multas señaladas en el artículo 483-b.
+El producto de las multas, cauciones y comisos derivados de faltas y contravenciones, se aplicará a fondos de la Municipalidad correspondiente al territorio donde se cometió el delito que se castiga.
 
 ART. 61.
 La designación de las penas que corresponde aplicar en los diversos casos a que se refiere el art. 59, se hará con sujeción a las siguientes reglas:
@@ -445,7 +451,8 @@ ART. 69.
 Dentro de los límites de cada grado el tribunal determinará la cuantía de la pena en atención al número y entidad de las circunstancias atenuantes y agravantes y a la mayor o menor extensión del mal producido por el delito.
 
 ART. 70.
-En la aplicación de las multas el tribunal podrá recorrer toda la extensión en que la ley le permite imponerlas, consultando para determinar en cada caso su cuantía, no sólo las circunstancias atenuantes y agravantes del hecho, sino principalmente el caudal o facultades del culpable.
+En la aplicación de las multas el tribunal podrá recorrer toda la extensión en que la ley le permite imponerlas, consultando para determinar en cada caso su cuantía, no solo las circunstancias atenuantes y agravantes del hecho, sino principalmente el caudal o facultades del culpable.
+Tanto en la sentencia como en su ejecución el Tribunal podrá, atendidas las circunstancias, autorizar al afectado para pagar las multas por parcialidades, dentro de un límite que no exceda del plazo de un año. El no pago de una sola de las parcialidades, hará exigible el total de la multa adeudada.
 
 ART. 71.
 Cuando no concurran todos los requisitos que se exigen en el caso del núm. 8.° del art. 10 para eximir de responsabilidad, se observará lo dispuesto en el art. 490.
@@ -2079,29 +2086,20 @@ El N° 7 de la ley 11183, publicada el 10.06.1956, modifica el presente artícul
 Del robo con violencia o intimidación en las personas.
 
 ART. 433.
-El culpable de robo con violencia o intimidación en las personas, sea que la violencia o la intimidación tenga lugar antes del robo para facilitar su ejecución, en el acto de cometerlo o después de cometido para favorecer su impunidad, será castigado con presidio mayor en su grado mínimo a muerte:
-1.° Cuando con motivo u ocasión del robo resultare homicidio.
-2.° Cuando fuere acompañado de violación o mutilación de un miembro importante.
-3.° Cuando se cometiere en despoblado y en cuadrilla, si con motivo u ocasión de este delito se causare alguna de las lesiones penadas en el núm. 1.° del art. 397, o el robado fuere retenido bajo rescate o por más de un día.
-4.° En todo caso el jefe de la cuadrilla armada total o parcialmente.
-Hay cuadrilla cuando concurren a un robo más de tres malhechores.
+El culpable de robo con violencia o intimidación en las personas, sea que la violencia o la intimidación tenga lugar antes del robo para facilitar su ejecución, en el acto de cometerlo o después de cometido para favorecer su impunidad, será castigado:
+1°) Con presidio mayor en su grado máximo a muerte cuando, con motivo u ocasión del robo, resultare homicidio, violación o algunas de las lesiones comprendidas en los artículos 395, 396 y 397, número 1°.
+2°) Con presidio mayor en su grado medio a presidio perpetuo, cuando las víctimas fueren retenidas bajo rescate o por más de un día, o resultaren lesiones de las que trata el número 2° del artículo 397.
 
 ART. 434.
 La pena del artículo anterior se aplicará en todo caso a los piratas.
 
-ART. 435.
-Cuando en el robo concurriere alguna de las circunstancias señaladas en el núm. 3.° del art. 433 y no se hubiere cometido en despoblado y en cuadrilla, el culpable sufrirá la pena de presidio mayor en su grado mínimo a medio.
-Causándose las lesiones de que trata el núm. 2° del art. 397, la pena será presidio menor en su grado máximo a presidio mayor en su grado mínimo.
+ART. 435. Derogado.
 
 ART. 436.
-Fuera de los casos previstos en los artículos precedentes, los robos ejecutados con violencia o intimidación en las personas, serán penados:
-1.o Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, si el importe de las cosas robadas excediere de $ 10.000;
-2.o Con presidio menor en sus grados medio a máximo, cuando excediere de $ 1.000 y no pasare de $ 10.000;
-3.o Con presidio menor en sus grados mínimo a medio, si no excediere de $ 1.000.
-Para la aplicación de estas penas, se estimará como circunstancia agravante haberse cometido el delito arrebatando por sorpresa, ropa, alhajas u otros objetos a la persona que los lleva consigo, o aparentando riñas en lugar de concurrencia o haciendo otras maniobras dirigidas a causar agolpamiento y confusión, a fin de robar por este medio o proporcionar ocasión para que otros perpetren el mismo delito.
+Fuera de los casos previstos en los artículos precedentes, los robos ejecutados con violencia o intimidación en las personas, serán penados con presidio mayor en sus grados mínimo a máximo, cualquiera que sea el valor de las especies sustraídas.
+Se considerará como robo y se castigará con las penas señaladas en el inciso anterior, la apropiación de dinero, alhajas, ropas u otros objetos que los ofendidos lleven consigo, cuando se procede por sorpresa o aparentando riñas en lugares de concurrencia o haciendo otras maniobras, dirigidas a causar agolpamiento y confusión.
 
-ART. 437.
-La tentativa de robo acompañada de alguno de los delitos expresados en el art. 433, será penada como el robo consumado.
+ART. 437. Derogado.
 
 ART. 438.
 El que para defraudar a otro lo obligare con violencia o intimidación a suscribir, otorgar o entregar un instrumento público o privado que importe una obligación estimable en dinero, será castigado, como culpable de robo, con las penas respectivamente señaladas en este párrafo.
@@ -2113,22 +2111,22 @@ Para los efectos del presente párrafo se estimarán por violencia o intimidaci�
 Del robo con fuerza en las cosas.
 
 ART. 440.
-El culpable de robo con fuerza en las cosas efectuado en lugar habitado o destinado a la habitación o en sus dependencias y llevando armas, sufrirá la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo si cometiere el delito:
+El culpable de robo con fuerza en las cosas efectuado en lugar habitado o destinado a la habitación o en sus dependencias, sufrirá la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo si cometiere el delito:
 1.º Con escalamiento, entendiéndose que lo hay cuando se entra por vía no destinada al efecto, por forado o con rompimiento de pared o techos, o fractura de puertas o ventanas.
 2.º Haciendo uso de llaves falsas, o verdadera que hubiere sido sustraída, de ganzúas u otros instrumentos semejantes para entrar en el lugar del robo.
 3.º A Introduciéndose en el lugar del robo mediante la seducción de algún doméstico, o a favor de nombres supuestos o simulación de autoridad.
-4.° En despoblado y en cuadrilla.
+4.° Eliminado.
 
-ART. 441.
-Si el robo se cometiere en lugar habitado o destinado a la habitación o en sus dependencias con alguna de las circunstancias del artículo anterior, pero sin llevar armas, la pena será presidio menor en sus grados medio a máximo.
+ART. 441. Derogado.
 
 ART. 442.
-El robo cometido con armas o sin ellas en lugar no habitado, se castigará con presidio menor en sus grados medio a máximo, siempre que concurra alguna de las circunstancias siguientes:
+El robo en lugar no habitado, se castigará con presidio menor en sus grados medio a máximo, siempre que concurra alguna de las circunstancias siguientes:
 1.º A Escalamiento.
 2.º Fractura de puertas interiores, armarios, arcas u otra clase de muebles u objetos cerrados o sellados.
 3.º Haber hecho uso de llaves falsas, o verdadera que se hubiere sustraído, de ganzúas u otros instrumentos semejantes para entrar en el lugar del robo o abrir los muebles cerrados.
 
-Art. 443. Derogado.
+ART. 443.
+Con la misma pena señalada en el artículo anterior se castigará el robo de cosas que se encuentren en bienes nacionales de uso público o en sitios no destinados a la habitación si el autor hace uso de llaves falsas o verdaderas que se hubiere sustraído, de ganzúas u otros instrumentos semejantes o si se procede, mediante fractura de puertas, vidrios, cierros, candados u otros dispositivos de protección o si utiliza medios de tracción
 
 ART. 444.
 Se presume autor de tentativa de robo al que se introdujere con forado, fractura, escalamiento, uso de llave falsa o de llave verdadera sustraída o de ganzúa en algún aposento, casa, edificio habitado o destinado a la habitación o en sus dependencias.
@@ -2169,6 +2167,8 @@ Será castigado en la forma señalada en este artículo, el que beneficie o dest
 El que se apropie de las plumas, pelos, crines o cerdas de animales ajenos, esquilándolos o cortándoles las plumas, pelos, crines o cerdas, será castigado con presidio menor en su grado mínimo a medio.
 
 ART. 450.
+Los delitos de robo o hurto a que se refiere este título se castigarán como consumados desde que se encuentren en grado de tentativa.
+Serán castigados con presidio mayor en su grado medio a presidio perpetuo los culpables de robo o hurto cuando hagan uso de armas o sean portadores de ellas, siempre que no les corresponda una pena mayor por el delito cometido.
 Para determinar cuando el robo o hurto se comete con armas, se estará a lo dispuesto en el art. 132.
 
 ART. 451.
@@ -2182,16 +2182,27 @@ ART. 453.
 Cuando se reunieren en un hecho varias de las circunstancias a que se señala pena diversa según los párrafos precedentes, se aplicará la de las circunstancias que en aquel caso particular la merezcan más grave, pudiendo el tribunal aumentarla en un grado.
 
 ART. 454.
-Se presumirá autor del robo o hurto de una cosa aquel en cuyo poder se encuentre, salvo que justifique su legítima adquisición o que la prueba de su buena conducta anterior establezca una presunción en contrario.
+Los mayores de 18 años que participen en delitos de robo o hurto cometidos por menores de esa edad, serán sancionados en todo caso como autores.
+Se presumirá autor del robo o hurto de una cosa aquel en cuyo poder se encuentre, salvo que justifique su legítima adquisición o que la prueba de su irreprochable conducta anterior establezca una presunción en contrario.
 Se presumirá también autor del robo o hurto de animales aquel en cuyo poder se encuentren partes identificables de la especie robada o hurtada.
 La marca registrada puesta sobre el animal robado o hurtado, constituye presunción de dominio a favor del dueño de la marca.
-Se castigará como encubridor del robo o hurto de una cosa al que la compre o reciba a cualquier título, sabiendo su origen o no pudiendo menos de conocerlo.
+Se castigará como cómplice del robo o hurto de una cosa al que la compre o reciba a cualquier título aun cuando ya hubiere dispuesto de ella, como igualmente al que la tenga en su poder, sabiendo el uno o el otro su origen, o no pudiendo menos de conocerlo. Se presumirá que concurre este último requisito respecto del que comercia habitualmente en la compra y venta de especies usadas.
 
 ART. 455.
 Cuando del proceso no resulte probado el valor de la cosa sustraída ni pudiere estimarse por peritos u otro arbitrio legal, el tribunal hará su regulación prudencialmente.
 
 ART. 456.
 Si antes de perseguir al reo o antes de decretar su prisión devolviere voluntariamente la cosa robada o hurtada, no hallándose comprendido en los casos de los arts. 433, 434 y 435, se le aplicará la pena inmediatamente inferior en grado a la señalada para el delito.
+
+ART. 456 BIS.
+En los delitos de robo y hurto serán circunstancias agravantes las siguientes:
+1°) Ejecutar el delito en sitios faltos de vigilancia policial, obscuros, solitarios, sin tránsito habitual o que por cualquiera otra condición favorezcan la impunidad.
+2° Ser la víctima niño, anciano, inválido o persona en manifiesto estado de inferioridad física;
+3°) Ser dos o más los malhechores;
+4°) Ejercer la violencia en las personas que intervengan en defensa de la víctima, salvo que este hecho importe otro delito; y
+5°) Actuar con personas exentas de responsabilidad criminal, según el número 1.o del artículo 10.
+Las circunstancias agravantes de los números 1.o y 5° del artículo 12 serán aplicables en los casos en que se ejerciere violencia sobre las personas.
+En estos delitos no podrá estimarse que concurre la circunstancia atenuante del número 7° del artículo 11, por la mera restitución a la víctima de las especies robadas o hurtadas y, en todo caso, el Juez deberá considerar, especificada, la justificación del celo con que el delincuente ha obrado.
 
 #### § VI.
 De la usurpación.
