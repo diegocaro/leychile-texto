@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1977-10-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1978-08-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1977-10-29
-fetched_at: 2026-08-03T00:28:34.944926+00:00
+version_date: 1978-08-31
+fetched_at: 2026-08-03T00:29:35.035791+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -200,7 +200,7 @@ No obstante, lo dispuesto en los incisos anteriores, en cada una de las inspecci
 
 Artículo 36.- El plazo de declaración y pago de los diversos impuestos se regirá por las disposiciones legales y reglamentarias vigentes.
 No obstante lo dispuesto en el inciso anterior, el Presidente de la República podrá fijar y modificar las fechas de declaración y pago de los diversos impuestos y establecer los procedimientos administrativos que juzgue más adecuados a su expedita y correcta percepción.
-Cuando el plazo de declaración y pago de un impuesto venza en día feriado o en día Sábado, éste se prorrogará hasta el primer día hábil siguiente.
+Cuando el plazo de declaración y pago de un impuesto venza en día feriado o en día Sábado, éste se prorrogará hasta el primer día hábil siguiente. Esta prórroga no se considerará para los efectos de determinar los reajustes que procedan, sin perjuicio de lo dispuesto en el inciso segundo del artículo 53.
 
 ##### Título III
 GIROS, PAGOS, REAJUSTES E INTERESES
@@ -775,15 +775,14 @@ El denunciante no será considerado como parte ni tendrá derecho alguno en raz�
 ###### Párrafo 2°.
 Procedimientos especiales para la aplicación de ciertas multas
 
-Artículo 165.- Las denuncias por las infracciones sancionadas en los números 2°, 6°, 7°, 10° y 11° del artículo 97, se someterán al procedimiento que a continuación se señala:
-1°.- Las multas establecidas en los números 2° y 11° del artículo 97 por atraso u omisión en declarar o por mora en el pago serán aplicadas por el Servicio o por la Tesorería según proceda, sin otro trámite que el de girarlas en el caso de atraso en la declaración o de cobrarlas conjuntamente con el impuesto cuando éste se entere en arcas fiscales.
-2°.- En los casos a que se refieren los números 6°, 7° y 10° del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio al sorprender la infracción, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
-3.- Iniciado el procedimiento señalado en el N° 2, el contribuyente podrá reclamar verbalmente o por escrito, dentro del plazo de cinco días contado desde la notificación de la infracción, ante el Administrador de Zona de su jurisdicción.
-4.- Junto al reclamo deberán acompañarse y producirse todas las pruebas que el interesado pretenda rendir. La prueba se apreciará en conciencia.
-5.- El reclamo deberá ser resuelto en el acto por el Administrador de Zona o a más tardar dentro de tercero día y la resolución que se dicte no será susceptible de recurso alguno.
-6.- La iniciación del procedimiento anterior y la aplicación de sanción administrativa no constituirá impedimento para el ejercicio de la acción penal correspondiente.
-7.- Los Administradores de Zona podrán delegar la facultad que se señala en los números 3° y 5° de este artículo en los Jefes de Inspección u otros funcionarios del Servicio de su jurisdicción.
-8°.- Las resoluciones de la Dirección Regional por las cuales se ordene el comiso de mercaderías, se llevarán a efecto provisoriamente mientras se resuelven los recursos pertinentes.
+Artículo 165.- Las denuncias por las infracciones sancionadas en los números 1°, 2°, 6°, 7°, 10°, 11° y 19°, del artículo 97, se someterán al procedimiento que a continuación se señala:
+1°- Las multas establecidas en los números 1°, 2° y 11°, del artículo 97, por atraso u omisión en declarar o por mora en el pago serán aplicadas por el Servicio o por la Tesorería según proceda, sin otro trámite que el de girarlas en el caso de atraso en la declaración o de cobrarlas conjuntamente con el impuesto cuando éste se entere en arcas fiscales.
+2°- En los casos a que se refieren los números 6°, 7°, 10° y 19°, del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio al sorprender la infracción, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
+3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar verbalmente o por escrito, dentro del plazo de cinco días, contado desde la notificación del giro o de la infracción, en su caso, ante el Administrador de Zona de su jurisdicción.
+4°- Junto al reclamo deberán acompañarse y producirse todas las pruebas que el interesado pretenda rendir. La prueba se apreciará en conciencia.
+5°- El reclamo deberá ser resuelto en el acto por el Administrador de Zona o a más tardar dentro de tercero día, y la resolución que se dicte no será susceptible de recurso alguno.
+6°- La iniciación del procedimiento y la aplicación de sanciones pecuniarias no constituirán impedimento para el ejercicio de la acción penal que corresponda.
+7°- Los Administradores de Zona podrán delegar las funciones y la facultad que se señala en los números 3° y 5° de este artículo en el Subadministrador, Jefes de Sección y/o Jefes de Inspección de su jurisdicción.
 
 ###### Párrafo 3°.
 De las denuncias por infracciones a los impuestos a las asignaciones por causa de muerte y a las donaciones
