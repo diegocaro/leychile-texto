@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1988-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1988-07-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1988-03-01
-fetched_at: 2026-08-03T00:44:38.219114+00:00
+version_date: 1988-07-23
+fetched_at: 2026-08-03T00:45:14.268734+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -310,9 +310,11 @@ La Corte de Apelaciones de Santiago tendrá tres secretarios. El tribunal reglar
 Art. 61. Las Cortes de Valparaíso y Concepción se dividirán en tres salas de tres miembros cada una, con excepción de la primera, que tendrá cuatro miembros.
 La Corte de Presidente Aguirre Cerda se dividirá en dos salas de cinco y cuatro ministros respectivamente.
 La Corte de Santiago se dividirá en siete salas de tres miembros cada una, excepto la primera, la segunda y la tercera, que se compondrá de cuatro ministros. En caso de funcionamiento extraordinario en ocho salas, la octava sala será integrada por un ministro de cada una de las salas primera, segunda y tercera, designados por sorteo.
+La Corte de Apelaciones de Temuco se dividirá en dos salas compuesta la primera por cuatro y la segunda por tres ministros.
 Cada sala representa a la Corte en los asuntos de que conoce.
 La designación de los ministros que correspondan a cada sala se hará por sorteo anual.
 Para la constitución de las salas de la Corte de Apelaciones de Santiago, se sortearán los miembros del tribunal, con excepción de su presidente, para quien la integración de salas será facultativa.
+El ministro a quien corresponda la presidencia de la Corte no entrará al sorteo y por derecho propio integrará la Primera Sala.
 
 Art. 62. Las Cortes de Apelaciones integradas por sus fiscales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo.
 Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento.
@@ -332,7 +334,8 @@ Art. 64. La Corte de Santiago conocerá de los recursos de apelación y de casac
 
 Art. 65. Suprimido.
 
-Art. 66. El conocimiento de todos los asuntos entregados a la competencia de las Cortes de Apelaciones pertenecerá a las salas en que estén divididas, a menos que la ley disponga expresamente que deban conocer de ellos en Pleno
+Art. 66. El conocimiento de todos los asuntos entregados a la competencia de las Cortes de Apelaciones pertenecerá a las salas en que estén divididas, a menos que la ley disponga expresamente que deban conocer de ellos en Pleno.
+En caso que ante una misma Corte de Apelaciones se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma. Esta disposición no se aplicará al recurso de queja, sin perjuicio de las facultades propias del tribunal.
 Corresponderá a todo el tribunal el ejercicio de las facultades disciplinarias, administrativas y económicas, sin perjuicio de que las salas puedan ejercer las primeras en los casos de los artículos 542 y 543 en los asuntos que estén conociendo. También corresponderá a todo el tribunal el conocimiento de los desafueros de los Diputados y de los Senadores y de los juicios de amovilidad en contra de los jueces de letras.
 No obstante lo dispuesto en el inciso anterior, los recursos de queja serán conocidos y fallados por las salas del tribunal, según la distribución que de ellos haga el Presidente; pero la aplicación de medidas disciplinarias corresponderá al tribunal pleno.
 La Corte de Apelaciones de Santiago conocerá en pleno de los recursos de apelación y casación en la forma y de la consulta, en su caso, que incidan en los juicios de amovilidad y en las acusaciones y demandas civiles contra los ministros y el fiscal de la Corte Suprema.
@@ -475,6 +478,7 @@ Art. 98. Las salas de la Corte Suprema conocerán:
 7.o.- De los demás negocios judiciales de que corresponda conocer a la Corte Suprema y que no estén entregados expresamente al conocimiento del Pleno.
 
 Art. 99. Las salas de la Corte Suprema conocerán por turnos mensuales: una, de todos los asuntos indicados en el artículo 98; otra, de los mismos negocios, con excepción de los recursos de casación en el fondo y en la forma que se hayan interpuesto en materia civil; y la otra, de los recursos de casación en el fondo y en la forma que se hubieren interpuesto en materia civil. De los recursos de queja conocerá cualquiera de las salas.
+En caso que ante la Corte Suprema se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma. Esta disposición no se aplicará al recurso de queja, sin perjuicio de las facultades propias del tribunal.
 No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera, el Presidente de la Corte Suprema podrá incluir en la tabla de cualquiera de las salas causas de naturaleza tanto civil como criminal.
 
 Art. 100. Derogado.
@@ -729,7 +733,7 @@ Art. 178. No obstante lo dispuesto en el artículo 176, serán de la competencia
 
 Art. 179. No están sujetos a lo dispuesto en el artículo 176 el ejercicio de las facultades que corresponden a los jueces para proceder de oficio en determinados casos, ni el conocimiento de los asuntos que tienen por objeto dar cumplimiento a resoluciones o decretos de otros juzgados o tribunales, ni los asuntos de jurisdicción voluntaria.
 La jurisdicción en estos casos será ejercida por el juez letrado de turno, a menos que se trate de negocios derivados del conocimiento que otro juzgado tuviere de un determinado asunto, en cuyo caso la jurisdicción podrá también ser ejercida por éste.
-Asimismo, en el departamento de Santiago el turno para el conocimiento de los asuntos de que trata el presente artículo y demás que leyes especiales dispongan será ejercido simultáneamente por dos jueces letrados en la forma establecida en el inciso segundo del artículo 175.
+Asimismo, en el departamento de Santiago el turno para el conocimiento de los asuntos de que trata el presente artículo y demás que leyes especiales dispongan será ejercido simultáneamente por cinco jueces letrados en la forma establecida en el inciso segundo del artículo 175.
 
 Art. 180. En la misma forma establecida en el artículo 176 se distribuirán los juicios criminales que se inicien por querella en los lugares de asiento de Corte de Apelaciones en que hubiere más de un juzgado en lo criminal.
 Lo dispuesto en el inciso anterior no regirá respecto de los jueces del crimen del departamento de Santiago.
@@ -796,7 +800,7 @@ Art. 196. Son causas de recusación:
 3°) Tener el juez superior alguno de los parentescos designados en el inciso precedente o en el N° 4° del artículo 195, con el juez inferior que hubiere pronunciado la sentencia que se trata de confirmar o revocar;
 4°) Ser alguna de las partes sirviente, paniaguado o dependiente asalariado del juez, o viceversa;
 5°) Ser el juez deudor o acreedor de alguna de las partes o de su abogado; o serlo su consorte, o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
-Sin embargo, no tendrá aplicación el inciso anterior si una de las partes fuere la Caja Nacional de Empleados Públicos y Periodistas, o alguna de las instituciones regidas por la ley de 29 de Agosto de 1855, a menos que éstas ejerciten actualmente cualquiera acción judicial contra el juez y las demás personas señaladas, o viceversa;
+Sin embargo, no tendrá aplicación la causal del presente número si una de las partes fuere alguna de las instituciones de previsión fiscalizadas por la Superintendencia de Seguridad Social, la Asociación Nacional de Ahorro y Préstamo, o uno de los Servicios de Vivienda y Urbanización, a menos que estas instituciones u organismos ejerciten actualmente cualquier acción judicial contra el juez o contra alguna otra de las personas señaladas o viceversa;
 6°) Tener alguno de los ascendientes o descendientes simplemente ilegítimos del juez o los parientes colaterales del mismo dentro del segundo grado, causa pendiente que deba fallar como juez alguna de las partes;
 7°) Tener alguno de los ascendientes o descendientes simplemente ilegítimos del juez o los parientes colaterales del mismo dentro del segundo grado, causa pendiente en que se ventile la misma cuestión que el juez debe fallar;
 8°) Tener pendientes alguna de las partes pleito civil o criminal con el juez, con su consorte, o con alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
@@ -1055,7 +1059,7 @@ Art. 259. No podrán ser nombrados ministros de una Corte de Apelaciones las per
 
 Art. 260. No podrá existir el parentesco de consanguinidad o de afinidad en la línea recta o en la colateral hasta el segundo grado inclusive, entre los miembros de la Corte Suprema y los de las Cortes de Apelaciones, entre éstos y los jueces letrados de su respectiva jurisdicción.
 
-Art. 261. Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor en las escuelas dependientes de la Universidad de Chile, de la enseñanza secundaria y especial hasta un límite de diez horas semanales y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas y del Consejo Nacional de Menores.
+Art. 261. Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales o municipales, con excepción de las de docente de los establecimientos de educación media o superior del Estado o de las Municipalidades, en cualquiera de sus modalidades, o de otros institutos o establecimientos de enseñanza dependientes de servicios públicos, hasta un límite de diez horas semanales.
 
 ### § 3. De los nombramientos y del escalafón de los funcionarios judiciales
 
@@ -1629,9 +1633,12 @@ Art. 392. Habrá para cada departamento el número de receptores que el Presiden
 El Presidente de la República determinará también el número de receptores que deben actuar ante los jueces de subdelegación y distrito, y señalará las subdelegaciones en que deban prestar sus servicios.
 Sin perjuicio de lo anterior, podrá el tribunal de la causa designar receptor a un empleado de la secretaría del mismo tribunal para el sólo efecto de que practique una diligencia determinada que no pueda realizarse por ausencia, inhabilidad u otro motivo calificado, por los receptores judiciales a que se refieren los incisos anteriores. Esta designación deberá hacerse mediante resolución fundada, escrita en el libro establecido en el inciso final del artículo 384°. La persona designada prestará el juramento exigido por el artículo 471° ante el mismo tribunal; practicará la diligencia encomendada ciñéndose a las obligaciones impuestas por el artículo 393°, y quedará facultada para cobrar los derechos que correspondan de acuerdo con el arancel de receptores judiciales.
 
-Art. 393. Los receptores deberán cumplir con prontitud y fidelidad las diligencias que se les encomendaren, ciñéndose en todo a la legislación vigente, y dejar testimonio íntegro de ellas en los autos respectivos, anotando al margen de esos testimonios, bajo su firma y timbre, los derechos que cobraren, expresados en sueldos vitales y en pesos. Asimismo, deberán otorgar con la debida especificación, recibo firmado por los derechos que les pagaren, el que deberá extenderse en formularios impresos.
-Deberán, además, servir, gratuitamente a los pobres, con arreglo a lo dispuesto en el artículo 595°.
-Los expedientes en que se anotaren los testimonios antedichos serán devueltos a la Secretaría del tribunal respectivo, dentro del segundo día hábil, siguiente a aquel en que se realice la diligencia encomendada. Los receptores no podrán retardar la devolución de los expedientes a pretexto de no habérseles pagado sus derechos o los gastos en que hubieren incurrido.
+Art. 393. Los receptores deberán cumplir con prontitud y fidelidad las diligencias que se les encomienden, ciñéndose en todo a la legislación vigente, y dejar testimonio íntegro de ellas en los autos respectivos.
+En los casos que deba enviarse carta certificada al notificado, el testimonio deberá incluir, además, el hecho de haberse enviado la carta, la oficina de correo donde se hizo, la fecha y hora de su entrega y el número del comprobante emitido por dicha oficina. Este comprobante deberá ser pegado al expediente a continuación del testimonio.
+Toda falsedad en un testimonio, será castigada con las penas que establece el artículo 193 del Código Penal y la accesoria de inhabilitación especial perpetua para desempeñar funciones en la Administración de Justicia, sin perjuicio de las otras penas accesorias que procedan de acuerdo con el Código Penal.
+Los receptores sólo podrán retirar de la secretaría del tribunal las piezas del expediente que sean estrictamente necesarias para la realización de la diligencia que deban efectuar. El expediente o el respectivo cuaderno, en su caso, deberán devolverse a la secretaría del tribunal dentro de los dos días hábiles siguientes a la fecha en que se practicó la diligencia, con la debida constancia de todo lo obrado. Todo incumplimiento a las normas de este inciso constituirá falta grave a las funciones y será sancionada de oficio por el tribunal, con el solo mérito del certificado del secretario. En caso de reincidencia, necesariamente el juez deberá aplicar la medida de suspensión de funciones por un mes.
+Los receptores no podrán cobrar derechos superiores a los que establezca el arancel respectivo, deberán anotar el monto de lo cobrado al margen de cada testimonio y emitirán, con la debida especificación, la consiguiente boleta de honorarios. Las diligencias que realicen de conformidad a lo establecido en el artículo 595 serán gratuitas. El cobro indebido de derechos o de monto superior al fijado en el arancel será castigado con el máximo de la pena que establece el inciso primero del artículo 241 del Código Penal y con la suspensión del cargo por dos meses. En caso de reincidencia, la pena se aumentará al doble.
+El Presidente de la República, previo informe de la Corte Suprema, fijará anualmente los aranceles de los receptores judiciales, de acuerdo con lo establecido en el artículo 54 de la ley N° 16.250, modificado por el artículo 4° de la ley N° 17.570 y en el artículo 9° de la ley N° 18.018.
 
 ### § 6. De los Procuradores y especialmente de los Procuradores del Número
 
@@ -1927,7 +1934,7 @@ No podrán ser oficiales del Ministerio público o asistentes sociales judiciale
 No pueden ser defensores públicos los que tengan con algunos de los jueces de letras propietarios del departamento cualquiera de los parentescos indicados en dicho artículo.
 Tampoco podrán desempeñar ante ningún juez funciones accidentales de defensores los que tengan con él cualquiera de los indicados parentescos.
 
-Art. 470. Las funciones de los Auxiliares de la Administración de Justicia son incompatibles con toda otra remuneración con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las Escuelas dependientes de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, y de la enseñanza secundaria y especial hasta un límite de diez horas semanales.
+Art. 470. Las funciones de los auxiliares de la Administración de Justicia son incompatibles con toda otra remunerada con fondos fiscales o municipales, con excepción de las de docente de los establecimientos de educación media o superior del Estado o de las Municipalidades, en cualquiera de sus modalidades, o de otros institutos o establecimientos de enseñanza dependientes de servicios públicos, hasta un límite de diez horas semanales.
 No obstante, los cargos de secretario, receptor y notario podrán ser desempeñados por una misma persona en aquellos departamentos en que, a juicio del Presidente de la República, no sea posible o conveniente hacerlos recaer en personas distintas por no permitirlo la exigüedad de los emolumentos correspondientes a cada uno de dichos cargos.
 Las funciones del ministerio público son, además, incompatibles con las eclesiásticas y las de los defensores públicos con las eclesiásticas que tengan cura de almas.
 
@@ -2267,17 +2274,18 @@ Art. 547. Las Cortes de Apelaciones tendrán diariamente una audiencia pública 
 
 Art. 548. Los recursos de queja se verán por las Cortes de Apelaciones fuera de las horas ordinarias de audiencia.
 
-Art. 549. Todo recurso de queja deberá interponerse en el plazo fatal de cinco días. Este plazo se suspenderá durante los días feriados y se aumentará en la forma indicada en el artículo 259 del Código de Procedimiento Civil, cuando el Tribunal que haya pronunciado la resolución recurrida resida en un departamento diverso de aquel en que funciona el que haya de conocer en el recurso.
-Para interponer un recurso de queja, el recurrente deberá consignar previamente en la cuenta corriente del tribunal que conocerá del mismo una cantidad equivalente al 1% de la cuantía del negocio, con un máximo de un sueldo vital mensual, escala A) del departamento de Santiago.
-Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a medio sueldo vital, si el recurso se interpone ante la Corte Suprema o ante una Corte de Apelaciones, o a la cuarta parte de dicho sueldo si se interpone ante un Juez de Letras.
-No regirá la exigencia de la consignación previa tratándose de los recursos de queja que deduzcan los Oficiales del Ministerio Público, los Defensores Públicos, los representantes del Fisco, los procesados en causa criminal y los que gozan de privilegio de pobreza.
+Art. 549. Todo recurso de queja deberá interponerse en el plazo fatal de cinco días. Este plazo se suspenderá durante los días feriados y se aumentará en la forma indicada en el artículo 259 del Código de Procedimiento Civil, cuando el tribunal que haya pronunciado la resolución recurrida resida en un departamento diverso de aquel en que funciona el que haya de conocer en el recurso.
+Para interponer un recurso de queja, el recurrente deberá consignar previamente en la cuenta corriente del tribunal que conocerá del mismo, una cantidad equivalente al uno por ciento de la cuantía del negocio, con un máximo de una unidad tributaria mensual.
+Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a una unidad tributaria mensual, si el recurso se interpone ante la Corte Suprema o ante la Corte de Apelaciones; y de media unidad tributaria mensual, si se interpone ante un juez de letras.
+No regirá la exigencia de la consignación previa tratándose de los recursos de queja que deduzcan los oficiales del ministerio público, los defensores públicos, los representantes del Fisco, los procesados en causa criminal y los que gozan de privilegio de pobreza.
 La consignación a que se refiere este artículo se devolverá a la parte recurrente, si el recurso fuere acogido. Si fuere desechado, o el recurrente se desistiere de él, se aplicará a beneficio fiscal.
-Si el recurso fuere desechado por un tribunal colegiado y por la unanimidad de sus miembros, el tribunal ordenará que la multa establecida en el inciso anterior se eleve al doble de la cantidad consignada y se condenará en las costas del recurso al recurrente cuando hubiere comparecido en él su contraparte.
-Respecto de los multas a que este artículo se refiere regirá también lo dispuesto en el artículo 252 del Código de Procedimiento Civil.
+Si el recurso fuere desechado por la unanimidad de un tribunal colegiado, se condenará en costas al recurrente y, además, al pago de una multa a beneficio fiscal de hasta dos unidades tributarias mensuales.
+El abogado patrocinante de un recurso de queja, que fuere rechazado por la unanimidad de un tribunal colegiado, será sancionado con alguna de las medidas establecidas en los N°s. 1°, 2° y 3° del artículo 532, de estimar el tribunal que el recurso ha carecido de todo fundamento o ha sido interpuesto en forma temeraria.
+Respecto de las multas a que este artículo se refiere, regirá también lo dispuesto en el artículo 252 del Código de Procedimiento Civil.
 
 Art. 550. Los miembros del Poder Judicial gozarán del privilegio de pobreza para su defensa en los recursos de queja o en la sustanciación de medidas disciplinarias que les afecten personalmente.
 
-Art. 551. Las resoluciones que pronuncien los tribunales unipersonales y las Cortes de Apelaciones en el ejercicio de sus facultades disciplinarias sólo serán susceptibles del recurso de apelación.
+Art. 551. Las resoluciones que pronuncien los tribunales unipersonales y las Cortes de Apelaciones en el ejercicio de sus facultades disciplinarias sólo serán susceptibles del recurso de apelación. En caso alguno procederá el recurso de reposición o de reconsideración respecto de la resolución que falla el recurso de queja o la apelación deducida en su contra.
 Conocerá de la apelación el tribunal a quien corresponda el conocimiento del recurso de casación contra las sentencias del tribunal que haya pronunciado la resolución recurrida.
 El tribunal superior resolverá la apelación de plano, sin otra formalidad que esperar la comparecencia del recurrente y si se trata de un tribunal colegiado, en cuenta, salvo que estime conveniente traer los autos en relación.
 De las resoluciones que en el ejercicio de sus facultades económicas pronuncien los tribunales indicados en el inciso primero de este artículo, sólo podrá reclamarse para ante el superior jerárquico. La reclamación deberá interponerse dentro del plazo de tres días, ante el tribunal que haya dictado la resolución. Este la elevará, con todos sus antecedentes, dentro de las 48 horas siguientes a su presentación.
