@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1995-09-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1995-09-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1995-09-07
-fetched_at: 2026-08-03T01:00:32.557676+00:00
+version_date: 1995-09-20
+fetched_at: 2026-08-03T01:01:02.586289+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2246,7 +2246,7 @@ Inciso Eliminado.
 Se presumirá autor del robo o hurto de una cosa aquel en cuyo poder se encuentre, salvo que justifique su legítima adquisición o que la prueba de su irreprochable conducta anterior establezca una presunción en contrario.
 Se presumirá también autor del robo o hurto de animales aquel en cuyo poder se encuentren partes identificables de la especie robada o hurtada.
 La marca registrada puesta sobre el animal robado o hurtado, constituye presunción de dominio a favor del dueño de la marca.
-Se castigará como cómplice del robo o hurto de una cosa al que la compre o reciba a cualquier título aun cuando ya hubiere dispuesto de ella, como igualmente al que la tenga en su poder, sabiendo el uno o el otro su origen, o no pudiendo menos de conocerlo. Se presumirá que concurre este último requisito respecto del que comercia habitualmente en la compra y venta de especies usadas.
+Inciso Derogado.
 
 ART. 455.
 Cuando del proceso no resulte probado el valor de la cosa sustraída ni pudiere estimarse por peritos u otro arbitrio legal, el tribunal hará su regulación prudencialmente.
@@ -2263,6 +2263,13 @@ En los delitos de robo y hurto serán circunstancias agravantes las siguientes:
 5°) Actuar con personas exentas de responsabilidad criminal, según el número 1.o del artículo 10.
 Las circunstancias agravantes de los números 1.o y 5° del artículo 12 serán aplicables en los casos en que se ejerciere violencia sobre las personas.
 En estos delitos no podrá estimarse que concurre la circunstancia atenuante del número 7° del artículo 11, por la mera restitución a la víctima de las especies robadas o hurtadas y, en todo caso, el Juez deberá considerar, especificada, la justificación del celo con que el delincuente ha obrado.
+
+#### § 5 bis. De la receptación
+
+ART. 456 bis A.
+El que conociendo su origen o no pudiendo menos que conocerlo, tenga en su poder, a cualquier título, especies hurtadas o robadas, o las compre, venda o comercialice en cualquier forma, aun cuando ya hubiese dispuesto de ellas, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de cinco a veinte unidades tributarias mensuales.
+Para la determinación de la pena aplicable el tribunal tendrá especialmente en cuenta el valor de las especies, así como la gravedad del delito en que se obtuvieron, si éste era conocido por el autor.
+Se impondrá el grado máximo de la pena establecida en el inciso primero, cuando el autor haya incurrido en reiteración de esos hechos o sea reincidente en ellos.
 
 #### § VI.
 De la usurpación.
