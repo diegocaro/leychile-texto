@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1989-05-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1989-09-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1989-05-24
-fetched_at: 2026-08-03T00:46:52.472400+00:00
+version_date: 1989-09-15
+fetched_at: 2026-08-03T00:47:34.522754+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -554,7 +554,7 @@ Podrán usar y prescribir sólo aquellos medicamentos que el Reglamento clasifiq
 
 Artículo 118°.- Los consultorios de matronas podrán ser destinados al control de la evolución del embarazo y quedarán incluidas en la reglamentación sobre maternidades particulares.
 
-Artículo 119° Sólo con fines terapéuticos se podrá interrumpir un embarazo. Para proceder a esta intervención se requerirá la opinión documentada de dos médicos-cirujanos.
+Artículo 119°.- No podrá ejecutarse ninguna acción cuyo fin sea provocar un aborto.
 
 Artículo 120°.- Los profesionales señalados en el artículo 112 de este Código no podrán ejercer su profesión y tener intereses comerciales que digan relación directa con su actividad, en establecimientos destinados a la importación, producción, distribución y venta de productos farmacéuticos, aparatos ortopédicos, prótesis y artículos ópticos, a menos que el Colegio respectivo emita en cada caso un informe, estableciendo que no se vulnera la ética profesional. Exceptúanse de esta prohibición los químicos-farmacéuticos y farmacéuticos.
 
