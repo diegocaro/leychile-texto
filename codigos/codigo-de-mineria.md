@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=1994-11-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=1998-07-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 29668
-version_date: 1994-11-11
-fetched_at: 2026-08-03T00:58:26.471840+00:00
+version_date: 1998-07-25
+fetched_at: 2026-08-03T01:06:50.615984+00:00
 titulo_norma: "CODIGO DE MINERIA"
 compuesto: LEY-18248
 organismos: ['MINISTERIO DE MINERIA']
@@ -93,16 +93,19 @@ Artículo 16.- El permiso concedido por el juez conforme al artículo precedente
 Si el solicitante no pudiere ejercitar la facultad en el plazo otorgado por el juez, éste podrá diferir la autorización para otra época.
 
 Artículo 17.- Sin perjuicio de los permisos de que trata el artículo 15, para ejecutar labores mineras en los lugares que a continuación se señalan, se necesitará el permiso o permisos escritos de las autoridades que respectivamente se indican, otorgados en la forma que en cada caso se dispone:
-1°.- Del gobernador respectivo, para ejecutar labores mineras dentro de una ciudad o población, en cementerios, en playas de puertos habilitados y en sitios destinados a la captación de las aguas necesarias para un pueblo; a menor distancia de cincuenta metros, medidos horizontalmente, de edificios, caminos públicos, ferrocarriles, líneas eléctricas de alta tensión, andariveles, conductos, defensas fluviales, cursos de agua y lagos de uso público, y a menor distancia de doscientos metros, medidos horizontalmente, de obras de embalse, estaciones de radiocomunicaciones, antenas e instalaciones de telecomunicaciones.
-No se necesitará este permiso cuando los edificios, ferrocarriles, líneas eléctricas de alta tensión, andariveles, conductos, estaciones de radiocomunicaciones, antenas e instalaciones de telecomunicaciones pertenezcan al interesado en ejecutar las labores mineras o cuando su dueño autorice al interesado para realizarlas;
-2°.- Del Intendente respectivo, para ejecutar labores mineras en lugares declarados parques nacionales, reservas nacionales o monumentos naturales;
-3°.- De la Dirección de Fronteras y límites, para ejecutar labores mineras en zonas declaradas fronterizas para efectos mineros;
-4°.- Del Ministerio de Defensa Nacional, para ejecutar labores mineras a menos de quinientos metros de lugares destinados a depósitos de materiales explosivos o inflamables;
-5°.- También del Ministerio de Defensa Nacional, para ejecutar labores mineras en zonas y recintos militares dependientes de ese Ministerio, tales como puertos y aeródromos; o en los terrenos adyacentes hasta la distancia de tres mil metros, medidos horizontalmente, siempre que estos terrenos hayan sido declarados, de conformidad a la ley, necesarios para la defensa nacional, y
-6°.- Del Presidente de la República, para ejecutar labores mineras en covaderas o en lugares que hayan sido declarados de interés histórico o científico.
+1°. Del gobernador respectivo, para ejecutar labores mineras dentro de una ciudad o población, en cementerios, en playas de puertos habilitados y en sitios destinados a la captación de las aguas necesarias para un pueblo; a menor distancia de cincuenta metros, medidos horizontalmente, de edificios, caminos públicos, ferrocarriles, líneas eléctricas de alta tensión, andariveles, conductos, defensas fluviales, cursos de agua y lagos de uso público, y a menor distancia de doscientos metros, medidos horizontalmente, de obras de embalse, estaciones de radiocomunicaciones, antenas e instalaciones de telecomunicaciones.
+No se necesitará este permiso cuando los edificios, ferrocarriles, líneas eléctricas de alta tensión, andariveles, conductos, estaciones de radiocomunicaciones, antenas e instalaciones de telecomunicaciones pertenezcan al interesado en ejecutar las labores mineras o cuando su dueño autorice al interesado para realizarlas.
+Antes de otorgar el permiso para ejecutar labores mineras dentro de una ciudad o población, el gobernador deberá oír al respectivo Secretario Regional Ministerial de Vivienda y Urbanismo;
+2°. Del Intendente respectivo, para ejecutar labores mineras en lugares declarados parques nacionales, reservas nacionales o monumentos naturales;
+3°. De la Dirección de Fronteras y Límites, para ejecutar labores mineras en zonas declaradas fronterizas para efectos mineros;
+4°. Del Ministerio de Defensa Nacional, para ejecutar labores mineras a menos de quinientos metros de lugares destinados a depósitos de materiales explosivos o inflamables;
+5°. También del Ministerio de Defensa Nacional, para ejecutar labores mineras en zonas y recintos militares dependientes de ese Ministerio, tales como puertos y aeródromos; o en los terrenos adyacentes hasta la distancia de tres mil metros, medidos horizontalmente, siempre que estos terrenos hayan sido declarados, de conformidad a la ley, necesarios para la defensa nacional, y
+6°. Del Presidente de la República, para ejecutar labores mineras en covaderas o en lugares que hayan sido declarados de interés histórico o científico.
 Al otorgarse los permisos exigidos en los números anteriores, se podrá prescribir las medidas que convenga adoptar en interés de la defensa nacional, la seguridad pública o la preservación de los sitios allí referidos.
 Los permisos mencionados en los números 2°, 3° y 6°, excepto los relativos a covaderas, sólo serán necesarios cuando las declaraciones a que esos mismos números se refieren hayan sido hechas expresamente para efectos mineros, por decreto supremo que además señale los deslindes correspondientes. El decreto deberá ser firmado, también, por el Ministro de Minería.
 Será aplicable a los funcionarios o autoridades a quienes corresponda otorgar los permisos a que se refiere esta disposición, lo prescrito en el artículo 162 del decreto con fuerza de ley N° 338, de 1960.
+NOTA
+La referencia al artículo 162 del Decreto con Fuerza de Ley N° 338, de 1960, debe entenderse hecha al artículo 84, letra b) de la Ley N° 18.834, de 23 de septiembre de 1989, que aprueba el nuevo Estatuto Administrativo.
 
 Artículo 18.- La contravención a lo dispuesto en el artículo precedente se sancionará con multa de una a cincuenta unidades tributarias mensuales, sin perjuicio de la indemnización debida por los daños que se causen. En caso de reincidencia la multa será, a lo menos, el doble de la anteriormente aplicada, pero no podrá exceder de cien unidades tributarias mensuales.
 Se concede acción pública para denunciar estas contravenciones. El juez podrá, en todo caso, decretar la suspensión provisional de las labores.
@@ -141,7 +144,7 @@ DEL OBJETO Y FORMA DE LAS CONCESIONES MINERAS
 
 Artículo 26.- La concesión minera tiene por objeto todas las sustancias concesibles que existen dentro de sus límites.
 
-Artículo 27.- Sobre las sustancias concesibles existentes en terrenos cubiertos por una concesión minera no puede constituirse otra.
+Artículo 27.- Sobre las sustancias concesibles existentes en terrenos cubiertos por una concesión minera no puede constituirse otra. El juez velará por la observancia de esta prohibición.
 
 Artículo 28.- La extensión territorial de la concesión minera configura un sólido cuya cara superior es, en el plano horizontal, un paralelogramo de ángulos rectos, y cuya profundidad es indefinida dentro de los planos verticales que lo limitan. El largo o el ancho del paralelogramo deberá tener orientación U.T.M. norte sur.
 A voluntad del concesionario, los lados de la pertenencia, horizontalmente, medirán cien metros como mínimo o múltiplos de cien metros; y los de la concesión de exploración, también horizontalmente, medirán mil metros como mínimo o múltiplos de mil metros.
@@ -301,10 +304,12 @@ De las oposiciones a la solicitud de mensura
 
 Artículo 61.- Podrá deducirse oposición a la petición de mensura dentro del plazo de treinta días, contado desde la fecha de la publicación a que se refiere el inciso final del artículo anterior.
 La oposición sólo podrá fundarse:
-1°.- En que se pretende mensurar sobre un terreno comprendido en un pedimento o en una concesión para explorar. Sólo podrá ejercer esta acción aquél cuyo pedimento haya sido presentado con anterioridad a la fecha en que haya sido o se tenga por presentada la manifestación de la pertenencia que se pretende mensurar.
+1°. En que se pretende mensurar sobre un terreno comprendido en un pedimento o en una concesión para explorar. Sólo podrá ejercer esta acción aquél cuyo pedimento haya sido presentado con anterioridad a la fecha en que haya sido o se tenga por presentada la manifestación de la pertenencia que se pretende mensurar.
 La oposición será rechazada de plano si no se funda en un pedimento cuya fecha de presentación haya sido anterior o no se acompaña a ella copia auténtica de dicho pedimento, y, en su caso, además, copia auténtica de la solicitud de sentencia o de la sentencia misma o de la resolución que acogió la prórroga del plazo de la concesión. La oposición será rechazada del mismo modo, si no se acompaña a ella un croquis, firmado por un ingeniero o perito de aquellos a que se refiere el inciso segundo del artículo 71, que represente la colisión de los derechos y las pretensiones de ambas partes en el terreno.
-2°.- En el derecho preferente para mensurar en virtud de una manifestación cuya fecha de presentación haya sido o se tenga por anterior.
+2°. En el derecho preferente para mensurar en virtud de una manifestación cuya fecha de presentación haya sido o se tenga por anterior.
 La oposición será rechazada de plano si no se funda en una manifestación cuya fecha de presentación haya sido o se tenga por anterior, o no viene acompañada de copia auténtica de dicha manifestación. La oposición será rechazada del mismo modo, si no se acompaña a ella un croquis, firmado por un ingeniero o perito de aquellos a que se refiere el inciso segundo del artículo 71, que represente la colisión de las pretensiones de ambas partes en el terreno.
+NOTA:
+El inciso primero del artículo segundo de la LEY 19573, publicada el 25.07.1998, interpretó el inciso primero de este artículo, en el sentido de declarar que el plazo de treinta días es para presentar la demanda de oposición, con los documentos respectivos, en la secretaría del tribunal.
 
 Artículo 62.- Si un manifestante de fecha anterior o que se tenga por anterior, se opone a la mensura solicitada por otro de fecha posterior, deberá pedir en su escrito de oposición, y con arreglo a lo dispuesto en los incisos segundo y tercero del artículo 59, la mensura de su pertenencia o pertenencias.
 El juez examinará la solicitud de mensura del opositor y los antecedentes acompañados a ella, y encontrando ambos conforme, mandará publicarla. En la misma resolución dejará testimonio de la fecha en que se haya presentado o se tenga por presentada la manifestación. Para efectuar la publicación se dará copia de la solicitud y su proveído.
@@ -334,11 +339,20 @@ Artículo 69.- La sentencia que acoja una demanda de oposición basada en la cau
 La sentencia que acoja una demanda de oposición fundada en la causal segunda del artículo 61, reconocerá el derecho preferente del primer manifestante a mensurar su pertenencia o pertenencias, en la forma indicada en la respectiva solicitud; y, en cuanto no afecte a ese derecho preferente, reconocerá también el derecho de la parte vencida a mensurar con arreglo a su propia solicitud, pero respetando íntegramente el derecho preferente de la parte vencedora.
 Lo dispuesto en el inciso anterior será aplicable al caso en que una sentencia deba pronunciarse sobre más de una oposición.
 
-Artículo 70.- Desde que quede presentada una demanda de oposición conforme al artículo 61, y hasta que quede ejecutoriada la correspondiente sentencia, las partes no podrán paralizar el juicio por más de tres meses. Si transcurre este término sin que alguna de ellas practique cualquiera diligencia útil destinada a dar curso progresivo a los autos, cualquiera persona podrá solicitar que se declare, con sólo el mérito del certificado del secretario, la caducidad de los derechos de ambas partes, y que se ordene cancelar las inscripciones respectivas. Con todo, la caducidad no afectará en caso alguno la concesión para explorar y a la pertenencia, ya constituidas.
+Artículo 70.- Desde que quede presentada una demanda de oposición conforme al artícul
+NOTA:
+o 61, y hasta que quede ejecutoriada la correspondiente sentencia, las partes no podrán paralizar el juicio por más de tres
+NOTA:
+meses. Si tran
+NOTA:
+scurre este término sin que alguna de ellas practique cualquiera diligencia útil destinada a dar curso progresivo a los autos, cualquiera persona podrá solicitar que se declare, con sólo el mérito del certificado del secretario, la caducidad de los derechos de ambas partes, y que se ordene cancelar las inscripciones respectivas. Con todo, la caducidad no afectará en caso alguno la concesión para explorar y a la pertenencia, ya constituidas.
 Desde que quede ejecutoriada la sentencia que pone término al juicio de oposición, y hasta que se dicte la respectiva sentencia constitutiva, ninguno de los que fueron parte en él y haya obtenido el reconocimiento del derecho a mensurar, podrá paralizar por más de tres meses los trámites de constitución de su pertenencia o pertenencias. Si transcurre este término sin que el respectivo interesado practique alguna diligencia útil destinada a ese efecto, cualquiera persona podrá solicitar que se declare la caducidad a que se refiere el inciso anterior, en la forma y con los alcances allí indicados.
 Cualquier interesado podrá pedir que se notifique al ingeniero o perito para que entregue el acta y plano al juez, para lo cual dicho ingeniero o perito tendrá el plazo que el tribunal señale.
 Mientras no se haga uso del derecho a pedir la caducidad, podrá en cualquier tiempo continuarse la tramitación; pero el derecho a pedir la caducidad por la paralización ya producida subsistirá hasta que quede ejecutoriada la sentencia que puso término al juicio o se dicte la sentencia constitutiva, en su caso.
 Contra la sentencia que se pronuncie acerca de la caducidad procederán los mismos recursos que contra una sentencia definitiva. La apelación en contra de la sentencia que deseche la solicitud de caducidad se concederá en el solo efecto devolutivo.
+NOTA:
+NOTA:
+El inciso segundo del artículo segundo de la Ley 19573, publicada el 25.07.1998, interpretó el inciso primero del presente artículo, en el sentido de declarar que el término de tres meses comienza a correr desde que la demanda de oposición queda presentada en la secretaría del tribunal.
 
 #### Sección 2a
 De la mensura
@@ -350,9 +364,10 @@ En el acto de la mensura no será admitida ninguna alegación.
 Artículo 72.- La operación de mensura consistirá en la ubicación, en el terreno, de los vértices de la cara superior de la pertenencia o grupo de pertenencias, indicados con las coordenadas U.T.M. que para cada uno de ellos se haya señalado en la solicitud de mensura, o se señalen en el acto de la mensura de acuerdo con la facultad establecida en el artículo siguiente.
 Para los efectos de lo dispuesto en el número sexto del artículo 95, se presumirá de derecho que toda mensura fue ejecutada en la misma fecha en que se presentó la correspondiente solicitud de mensura.
 
-Artículo 73.- El perito no podrá en caso alguno abarcar con la mensura terrenos ya mensurados, aun cuando el acta de la mensura de estos últimos no se haya levantado todavía.
+Artículo 73.- El ingeniero o perito no podrá en caso alguno abarcar con la mensura pertenencias vigentes.
+El ingeniero o perito que a sabiendas infringiere la prohibición del inciso precedente sufrirá la pena de prisión en cualquiera de sus grados a reclusión menor en su grado mínimo, y la accesoria de inhabilitación especial temporal de entre tres y seis años para llevar a efecto mensuras de pertenencias mineras.
 La operación de mensura podrá abarcar todo o parte del terreno cuya mensura se solicitó, pero, en ningún caso, terrenos situados fuera del perímetro indicado en dicha solicitud. Para este efecto, podrá reducirse el número de pertenencias, la superficie de una o más de ellas, o ambas cosas.
-Los ingenieros o peritos encargados de la mensura quedarán afectos, en el desempeño de sus cargos, a las responsabilidades civiles y criminales que correspondan.
+La acción penal correspondiente sólo podrá ser ejercitada por el titular de la concesión que soporte directamente la superposición.
 
 Artículo 74.- La operación de mensura se practicará en la forma indicada en la solicitud de mensura, o con las reducciones que señale el interesado y que sean procedentes de acuerdo con el artículo anterior.
 La mensura se orientará conforme al meridiano U.T.M. del lugar, dando cumplimiento a lo dispuesto en el artículo 28.
@@ -387,15 +402,19 @@ Contradichas o subsanadas, oportunamente, las objeciones, el juez procederá con
 El juez no podrá, en caso alguno, declarar constituida la pertenencia o pertenencias que hayan sido mensuradas abarcando terrenos situados fuera del comprendido en la solicitud de mensura o fuera del terreno manifestado.
 
 Artículo 83.- Si el informe del Servicio señala que se ha producido alguna de las situaciones a que se refiere el artículo 80, el juez ordenará que, dentro del plazo de treinta días, contado desde la fecha de la resolución respectiva, el interesado publique, en extracto redactado por el secretario, la circunstancia de que el Servicio ha informado sobre dicha situación, las coordenadas U.T.M. de los vértices, tanto de las pertenencias del interesado como de las del o los afectados, el nombre de unas y otras, el del interesado y, en lo posible, el del o los afectados.
+Una vez efectuada la publicación, su contenido deberá notificarse a la persona o personas a cuyo nombre figuren inscritas las pertenencias en el correspondiente Registro del Conservador de Minas.
+La notificación se practicará personalmente, con arreglo al Título VI del Libro Primero del Código de Procedimiento Civil.
 
-Artículo 84.- Cada uno de los afectados podrá, dentro del plazo de treinta días, contado desde la fecha de la publicación, presentarse en el expediente del interesado oponiéndose a la constitución de la pertenencia o pertenencias de éste.
+Artículo 84.- Cada uno de los afectados podrá, dentro del plazo de sesenta días, contado desde la fecha de la notificación a que se refiere el artículo anterior, presentarse en el expediente del interesado oponiéndose a la constitución de la pertenencia o pertenencias de éste.
 La oposición será rechazada de plano, si no se acompaña a ella copia auténtica de la solicitud de mensura o del acta de mensura, en su caso, y del plano respectivo, si la ley, en su oportunidad, hubiere hecho obligatorio levantarlo.
 La oposición se tramitará con arreglo al procedimiento señalado en el artículo 233, y se tendrá al opositor por demandante. El informe del Servicio servirá de base de presunción judicial, y corresponderá al demandado probar que el terreno abarcado por la mensura de sus pertenencias no se encuentra en todo o parte ocupado por la o las pertenencias del opositor o, en su caso, que se han extinguido los derechos de las partes al terreno en que se ha alegado la preferencia.
 En este juicio al demandado le será aplicable lo dispuesto en el artículo 70.
 Ejecutoriada la sentencia que rechace la demanda en todas sus partes, se dictará la sentencia constitutiva de la pertenencia del demandado.
 La sentencia que acoja en parte la demanda, determinará el terreno sobre el que podrá volver a mensurar el demandado.
 La sentencia que acoja la demanda en todas sus partes, declarará extinguidos los derechos del interesado y ordenará cancelar las correspondientes inscripciones.
-El afectado que haga uso de la acción de este artículo, no podrá hacer valer posteriormente la acción de nulidad del número 6 o del número 7, en su caso, del artículo 95.
+El afectado que haga uso de la acción de este artículo, no podrá hacer valer posteriormente la acción de nulidad del número 6º o del número 7º, en su caso, del artículo 95.
+NOTA:
+El inciso primero del artículo segundo de la Ley 19573, publicada el 20.07.1998, interpretó el inciso primero del presente artículo, en el sentido de declarar que el plazo de sesenta días es para presentar la demanda de oposición, con los documentos respectivos, en la secretaría del tribunal.
 
 Artículo 85.- El juez examinará los autos y, si se reúnen los requisitos legales, dictará la sentencia constitutiva de la pertenencia.
 Si nota faltas o ilegalidades insubsanables, dictará sentencia denegando la constitución de la pertenencia y mandando cancelar las inscripciones respectivas.
