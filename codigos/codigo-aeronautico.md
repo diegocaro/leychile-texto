@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=1995-01-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=2005-02-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 30287
-version_date: 1995-01-30
-fetched_at: 2026-08-03T00:59:02.490801+00:00
+version_date: 2005-02-16
+fetched_at: 2026-08-03T01:27:57.640944+00:00
 titulo_norma: "APRUEBA CODIGO AERONAUTICO"
 compuesto: LEY-18916
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -788,7 +788,7 @@ Artículo 191.- El que, sin haber obtenido las licencias o habilitaciones compet
 Artículo 192.- El miembro de la tripulación de vuelo que se desempeñare en una aeronave con sus licencias o habilitaciones vencidas, será castigado con presidio o reclusión menores en sus grados mínimos o multa de veinte a cincuenta ingresos mínimos mensuales.
 Si estuviere inhabilitado por suspensión, el tribunal podrá, además, decretar la cancelación definitiva de su licencia.
 
-Artículo 193.- El personal aeronáutico que desempeñe sus funciones bajo la influencia del alcohol o de drogas estupefacientes o sicotrópicas, será castigado con presidio o reclusión menores en sus grados medio a máximo y multa de diez a cien unidades tributarias mensuales.
+Artículo 193.- El personal aeronáutico que desempeñe sus funciones bajo la influencia del alcohol será castigado con presidio o reclusión menores en sus grados medio a máximo y multa de diez a cien unidades tributarias mensuales.
 En caso de reincidencia, el tribunal decretará la cancelación definitiva de su licencia.
 
 Artículo 194.- El comandante de la aeronave que omitiere dar la información que requiriere el control de tierra para la seguridad del vuelo, o diere datos falsos, será castigado con presidio o reclusión menores en sus grados medio a máximo y multa de diez a cien ingresos mínimos mensuales.

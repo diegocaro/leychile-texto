@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2004-12-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2005-02-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2004-12-24
-fetched_at: 2026-08-03T01:27:27.631319+00:00
+version_date: 2005-02-16
+fetched_at: 2026-08-03T01:28:34.521542+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -827,7 +827,8 @@ Corresponderá al Presidente de la Corte Suprema, sin ulterior recurso, asignar 
 No obstante lo dispuesto en el inciso primero, la Corte Suprema, siempre mediante auto acordado, podrá modificar la distribución de las materias de que conoce cada una de las salas, cuando una repartición más equitativa de las mismas así lo requiera.
 En caso que ante la Corte Suprema se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma.
 
-Art. 100. Derogado.
+Art. 100. La Corte Suprema, mediante auto acordado, dictará normas para prevenir el consumo indebido de sustancias o drogas estupefacientes o sicotrópicas por parte de los funcionarios judiciales.
+Ese auto acordado contendrá, además, un procedimiento de control de consumo aplicable a los miembros del escalafón primario. Dicho procedimiento de control comprenderá a todos los integrantes de un grupo o sector de funcionarios que se determinará en forma aleatoria, se aplicará en forma reservada y resguardará la dignidad e intimidad de ellos, observando las prescripciones de la ley Nº 19.628, sobre protección de los datos de carácter personal. Sólo será admisible como prueba de la dependencia una certificación médica, basada en los exámenes que correspondan.
 
 Art. 101. Derogado.
 
@@ -1375,7 +1376,7 @@ Art. 249. Derogado.
 
 Art. 250. Para ser Juez de Letras, o Ministro de la Corte Suprema y de las Cortes de Apelaciones, deberán cumplirse las condiciones prescritas en el párrafo 3.o de este Título, los requisitos que se exigen en los artículos siguientes; y los señalados en el párrafo 2.o del Título I del DFL. N.o 338, de 6 de Abril de 1960, sobre Estatuto Administrativo, cuando se tratare del ingreso a la carrera.
 
-Art. 251. Derogado.
+Art. 251. No puede ser juez la persona que tuviere dependencia de sustancias o drogas estupefacientes o sicotrópicas ilegales, a menos que justifique su consumo por un tratamiento médico.
 
 Art. 252. Para ser juez de letras se requiere:
 1° Ser chileno;
@@ -1774,6 +1775,9 @@ Se entiende por intereses los que sean exigibles para la declaración a que se r
 El original de la declaración será protocolizado en la misma notaría donde fue prestada o en una notaría con jurisdicción en el territorio del tribunal a que pertenezca el declarante, y se remitirá copia de la protocolización a la secretaría de la Corte Suprema y de la respectiva Corte de Apelaciones, donde se mantendrá para su consulta pública. Cualquier persona podrá obtener copia del instrumento protocolizado.
 La declaración deberá ser actualizada cuando el funcionario fuere nombrado en un nuevo cargo o dentro de los treinta días siguientes al cumplimiento del próximo cuatrienio, si no se hubiere efectuado un nuevo nombramiento.
 La omisión de la declaración será sancionada por el superior jerárquico que corresponda, en la forma y con las sanciones que establece el Título XVI.
+
+Art. 323 ter. Asimismo, antes de asumir sus cargos, los miembros del escalafón primario deberán prestar una declaración jurada que acredite que no se encuentran afectos a la causal de inhabilidad contemplada en el artículo 251.
+En caso de inhabilidad sobreviniente, el funcionario deberá admitirla ante su superior jerárquico y someterse a un programa de tratamiento y rehabilitación en alguna de las instituciones que autorice el auto acordado de la Corte Suprema. Si concluye ese programa satisfactoriamente, deberá aprobar un control de consumo toxicológico y clínico que se le aplicará, con los mecanismos de resguardo a que alude el inciso segundo del artículo 100. El incumplimiento de esta norma dará lugar al correspondiente juicio de amovilidad, salvo que la Corte Suprema acuerde su remoción. Lo anterior es sin perjuicio de la aplicación de las reglas sobre salud irrecuperable o incompatible con el desempeño del cargo, si procedieren.
 
 ### § 8. De la responsabilidad de los jueces
 
