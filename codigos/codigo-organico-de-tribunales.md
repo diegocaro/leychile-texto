@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2000-02-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2000-03-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2000-02-10
-fetched_at: 2026-08-03T01:10:22.678307+00:00
+version_date: 2000-03-09
+fetched_at: 2026-08-03T01:10:28.681951+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -51,8 +51,8 @@ Art. 3° Los tribunales tienen, además, las facultades conservadoras, disciplin
 
 Art. 4° Es prohibido al Poder Judicial mezclarse en las atribuciones de otros poderes públicos y en general ejercer otras funciones que las determinadas en los artículos precedentes.
 
-Art. 5° A los tribunales mencionados en este artículo corresponderá el conocimiento de todos los asuntos judiciales que se promuevan en el orden temporal dentro del territorio de la República, cualquiera que sea su naturaleza o la calidad de las personas que en ellos intervengan, sin perjuicio de las excepciones que establezcan la Constitución y las leyes.
-Integran el Poder Judicial, como tribunales ordinarios de justicia, la Corte Suprema, los presidentes y ministros de Corte, y los juzgados de letras.
+Art. 5° A los tribunales mencionados en este artículo corresponderá el conocimiento de todos los asuntos judiciales que se promuevan dentro del territorio de la República, cualquiera que sea su naturaleza o la calidad de las personas que en ellos intervengan, sin perjuicio de las excepciones que establezcan la Constitución y las leyes.
+Integran el Poder Judicial, como tribunales ordinarios de justicia, la Corte Suprema, las Cortes de Apelaciones, los Presidentes y Ministros de Corte, los tribunales orales en lo penal, los juzgados de letras y los juzgados de garantía.
 Forman parte del Poder Judicial, como tribunales especiales, los Juzgados de Letras de Menores, los Juzgados de Letras del Trabajo y los Tribunales Militares en tiempo de paz, los cuales se regirán en su organización y atribuciones por las disposiciones orgánicas constitucionales contenidas en la ley N° 16.618, en el Código del Trabajo, y en el Código de Justicia Militar y sus leyescomplementarias, respectivamente, rigiendo para ellos las disposiciones de este Código sólo cuando los cuerpos legales citados se remitan en forma expresa a él.
 Los demás tribunales especiales se regirán por las leyes que los establecen y reglamentan, sin perjuicio de quedar sujetos a las disposiciones generales de este Código.
 Los jueces árbitros se regirán por el Título IX de este Código.
@@ -78,48 +78,269 @@ Art. 9° Los actos de los tribunales son públicos, salvo las excepciones expres
 Art. 10. Los tribunales no podrán ejercer su ministerio sino a petición de parte, salvo los casos en que la ley los faculte para proceder de oficio.
 Reclamada su intervención en forma legal y en negocios de su competencia, no podrán excusarse de ejercer su autoridad ni aún por falta de ley que resuelva la contienda sometida a su decisión.
 
-Art. 11. Para hacer ejecutar sus sentencias y para practicar o hacer practicar los actos de instrucción que decreten, podrán los tribunales requerir de las demás autoridades el auxilio de la fuerza pública que de ellas dependiere, o los otros medios de acción conducentes de que dispusieren.
+Art. 11. Para hacer ejecutar sus sentencias y para practicar o hacer practicar las actuaciones que decreten, podrán los tribunales requerir de las demás autoridades el auxilio de la fuerza pública que de ellas dependiere, o los otros medios de acción conducentes de que dispusieren.
 La autoridad legalmente requerida debe prestar el auxilio, sin que le corresponda calificar el fundamento con que se le pide ni la justicia o legalidad de la sentencia o decreto que se trata de ejecutar.
 
 Art. 12. El Poder Judicial es independiente de toda otra autoridad en el ejercicio de sus funciones.
 
 Art. 13. Las decisiones o decretos que los jueces expidan en los negocios de que conozcan no les impondrán responsabilidad sino en los casos expresamente determinados por la ley.
 
-## TITULO II
-De los Jueces de Distrito y de los Jueces de Subdelegación
-Derogado.
+## Título II
+De los juzgados de garantía y de los tribunales orales en lo penal
 
-### § 1. Los Jueces de Distrito.
-Derogado.
+### Párrafo 1º
+De los juzgados de garantía.
 
-Artículo 14°.- Derogado.
+Art. 14. Los juzgados de garantía estarán conformados por uno o más jueces con competencia en un mismo territorio jurisdiccional, que actúan y resuelven unipersonalmente los asuntos sometidos a su conocimiento.
+Corresponderá a los jueces de garantía:
+a) Asegurar los derechos del imputado y demás intervinientes en el proceso penal, de acuerdo a la ley procesal penal;
+b) Dirigir personalmente las audiencias que procedan, de conformidad a la ley procesal penal;
+c) Dictar sentencia, cuando corresponda, en el procedimiento abreviado que contemple la ley procesal penal;
+d) Conocer y fallar las faltas penales de conformidad con el procedimiento contenido en la ley procesal penal, y
+e) Conocer y resolver todas las cuestiones y asuntos que este Código y la ley procesal penal les encomienden.
 
-Artículo 15°.- Derogado.
+Art. 15. La distribución de las causas entre los jueces de los juzgados de garantía se realizará de acuerdo a un procedimiento objetivo y general, que deberá ser anualmente aprobado por el comité de jueces del juzgado a propuesta del juez presidente, o sólo por este último, según corresponda.
 
-Artículo 16°.- Derogado.
+Art. 16. Existirá un juzgado de garantía con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indican:
+Primera Región de Tarapacá:
+Arica, con cinco jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones.
+Iquique, con cinco jueces, con competencia sobre la misma comuna.
+Segunda Región de Antofagasta:
+Tocopilla, con un juez, con competencia sobre la misma comuna.
+Calama, con tres jueces, con competencia sobre las comunas de Calama, Ollagüe y San Pedro de Atacama.
+Antofagasta, con siete jueces, con competencia sobre las comunas de Mejillones, Sierra Gorda y Antofagasta.
+Tercera Región de Atacama:
+Diego de Almagro, con un juez, con competencia en la misma comuna.
+Copiapó, con cuatro jueces, con competencia sobre las comunas de Copiapó y Tierra Amarilla.
+Vallenar, con dos jueces, con competencia sobre las comunas de Vallenar y Alto del Carmen.
+Cuarta Región de Coquimbo:
+La Serena, con tres jueces, con competencia sobre las comunas de La Serena y La Higuera.
+Vicuña, con un juez, con competencia sobre las comunas de Vicuña y Paihuano.
+Coquimbo, con tres jueces, con competencia sobre la misma comuna.
+Ovalle, con dos jueces, con competencia sobre las comunas de Ovalle, Río Hurtado, Punitaqui y Monte Patria.
+Illapel, con un juez, con competencia sobre las comunas de Illapel y Salamanca.
+Quinta Región de Valparaíso:
+La Ligua, con un juez, con competencia sobre las comunas de La Ligua, Cabildo, Papudo y Zapallar.
+Calera, con dos jueces, con competencia sobre las comunas de Nogales, Calera, La Cruz e Hijuelas.
+San Felipe, con dos jueces, con competencia sobre las comunas de San Felipe, Catemu, Santa María, Panquehue y Llay-LLay.
+Los Andes, con dos jueces, con competencia sobre las comunas de San Esteban, Rinconada, Calle Larga y Los Andes.
+Quillota, con dos jueces, con competencia sobre la misma comuna.
+Limache, con un juez, con competencia sobre las comunas de Limache y Olmué.
+Viña del Mar, con seis jueces, con competencia sobre las comunas de Viña del Mar y Concón.
+Valparaíso, con nueve jueces, con competencia sobre las comunas de Valparaíso y Juan Fernández.
+Quilpué, con dos jueces, con competencia sobre la misma comuna.
+Villa Alemana, con dos jueces, con competencia sobre la misma comuna.
+Casablanca, con un juez, con competencia sobre la misma comuna.
+San Antonio, con cuatro jueces, con competencia sobre las comunas de Algarrobo, El Quisco, El Tabo, Cartagena, San Antonio y Santo Domingo.
+Sexta Región del Libertador General Bernardo O'Higgins:
+Graneros, con un juez, con competencia sobre las comunas de Mostazal, Graneros y Codegua.
+Rancagua, con seis jueces, con competencia sobre las comunas de Rancagua, Machalí, Doñihue, Coínco y Olivar.
+San Vicente, con un juez, con competencia sobre las comunas de Coltauco, Pichidegua y San Vicente.
+Rengo, con dos jueces, con competencia sobre las comunas de Requínoa, Quinta de Tilcoco, Malloa y Rengo.
+San Fernando, con dos jueces, con competencia sobre las comunas de San Fernando, Placilla y Chimbarongo.
+Santa Cruz, con un juez, con competencia sobre las comunas de Santa Cruz, Nancagua, Lolol y Chépica.
+Séptima Región del Maule:
+Curicó, con cuatro jueces, con competencia sobre las comunas de Teno, Rauco, Curicó, Romeral y Sagrada Familia.
+Molina, con un juez, con competencia sobre la misma comuna.
+Constitución, con dos jueces, con competencia sobre las comunas de Constitución y Empedrado.
+Talca, con cuatro jueces, con competencia sobre las comunas de Río Claro, Pencahue, Talca, Pelarco, San Clemente, Maule y San Rafael.
+San Javier, con un juez, con competencia sobre las comunas de San Javier y Villa Alegre.
+Cauquenes, con un juez, con competencia sobre la misma comuna.
+Linares, con tres jueces, con competencia sobre las comunas de Colbún, Yerbas Buenas, Linares y Longaví.
+Parral, con un juez, con competencia sobre las comunas de Parral y Retiro.
+Octava Región del Bío Bío:
+San Carlos, con un juez, con competencia sobre las comunas de San Carlos, Ñiquén y San Fabián.
+Chillán, con cuatro jueces, con competencia sobre las comunas de San Nicolás, Chillán, Coihueco, Pinto y Chillán Viejo.
+Yungay, con un juez, con competencia sobre las comunas de El Carmen, Pemuco, Yungay y Tucapel.
+Tomé, con un juez, con competencia sobre la misma comuna.
+Talcahuano, con cuatro jueces, con competencia sobre la misma comuna.
+Concepción, con siete jueces, con competencia sobre las comunas de Penco y Concepción.
+San Pedro de la Paz, con tres jueces, con competencia sobre la misma comuna.
+Chiguayante, con dos jueces, con competencia sobre las comunas de Chiguayante y Hualqui.
+Coronel, con un juez, con competencia sobre la misma comuna.
+Los Angeles, con cuatro jueces, con competencia sobre las comunas de Los Angeles, Quilleco y Antuco.
+Arauco, con un juez, con competencia sobre la misma comuna.
+Cañete, con un juez, con competencia sobre las comunas de Cañete, Contulmo y Tirúa.
+Novena Región de La Araucanía:
+Angol, con un juez, con competencia sobre las comunas de Angol y Renaico.
+Victoria, con un juez, con competencia sobre la misma comuna.
+Nueva Imperial, con un juez, con competencia sobre las comunas de Nueva Imperial y Teodoro Schmidt.
+Temuco, con seis jueces, con competencia sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco y Padre Las Casas.
+Lautaro, con un juez, con competencia sobre las comunas de Galvarino, Perquenco y Lautaro.
+Pitrufquén, con dos jueces, con competencia sobre las comunas de Freire, Pitrufquén y Gorbea.
+Loncoche, con un juez, con competencia sobre la misma comuna.
+Villarrica, con dos jueces, con competencia sobre la misma comuna.
+Décima Región de Los Lagos:
+Mariquina, con un juez, con competencia sobre las comunas de Mariquina y Lanco.
+Valdivia, con tres jueces, con competencia sobre las comunas de Valdivia y Corral.
+Los Lagos, con un juez, con competencia sobre las comunas de Máfil, Los Lagos y Futrono.
+Osorno, con cuatro jueces, con competencia sobre las comunas de San Juan de la Costa, San Pablo, Osorno y Puyehue.
+Río Negro, con un juez, con competencia sobre las comunas de Río Negro, Puerto Octay y Purranque.
+Puerto Varas, con un juez, con competencia sobre las comunas de Fresia, Frutillar, Puerto Varas y Llanquihue.
+Puerto Montt, con cuatro jueces, con competencia sobre las comunas de Puerto Montt y Cochamó.
+Ancud, con un juez, con competencia sobre las comunas de Ancud y Quemchi.
+Castro, con un juez, con competencia sobre las comunas de Dalcahue, Castro, Chonchi, Puqueldón y Queilén.
+Undécima Región de Aisén del General Carlos Ibáñez del Campo:
+Coihaique, con dos jueces, con competencia sobre las comunas de Coihaique y Río Ibáñez.
+Duodécima Región de Magallanes y la Antártica Chilena:
+Punta Arenas, con cuatro jueces, con competencia sobre las comunas de Laguna Blanca, San Gregorio, Río Verde, Punta Arenas, Navarino y Antártica.
+Región Metropolitana de Santiago:
+Colina, con cuatro jueces, con competencia sobre las comunas de Til Til, Colina y Lampa.
+Pudahuel, con seis jueces, con competencia sobre la misma comuna.
+Conchalí, con quince jueces, con competencia sobre las comunas de Quilicura, Huechuraba, Renca y Conchalí.
+Independencia, con ocho jueces, con competencia sobre las comunas de Independencia y Recoleta.
+Las Condes, con diecisiete jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes y La Reina.
+Cerro Navia, con diez jueces, con competencia sobre las comunas de Cerro Navia y Lo Prado.
+Estación Central, con ocho jueces, con competencia sobre las comunas de Estación Central y Quinta Normal.
+Santiago, con ocho jueces, con competencia sobre la misma comuna.
+Ñuñoa, con nueve jueces, con competencia sobre las comunas de Providencia y Ñuñoa.
+Maipú, con diecisiete jueces, con competencia sobre las comunas de Maipú y Cerrillos.
+Pedro Aguirre Cerda, con cinco jueces, con competencia sobre las comunas de Lo Espejo y Pedro Aguirre Cerda.
+San Miguel, con ocho jueces, con competencia sobre las comunas de San Miguel, La Cisterna y El Bosque.
+San Joaquín, con seis jueces, con competencia sobre las comunas de San Joaquín y La Granja.
+Macul, con doce jueces, con competencia sobre las comunas de Macul y Peñalolén.
+La Florida, con quince jueces, con competencia sobre la misma comuna.
+La Pintana, con ocho jueces, con competencia sobre las comunas de San Ramón y La Pintana.
+Puente Alto, con siete jueces, con competencia en las comunas de Puente Alto, San José de Maipo y Pirque.
+San Bernardo, con siete jueces, con competencia sobre las comunas de San Bernardo y Calera de Tango.
+Buin, con tres jueces, con competencia sobre las comunas de Buin y Paine.
+Melipilla, con tres jueces, con competencia sobre las comunas de Melipilla, San Pedro y Alhué.
+Curacaví, con dos jueces, con competencia sobre las comunas de María Pinto y Curacaví.
+Talagante, con cuatro jueces, con competencia sobre las comunas de Talagante, El Monte e Isla de Maipo.
+Peñaflor, con tres jueces, con competencia sobre las comunas de Peñaflor y Padre Hurtado.
 
-Artículo 17°.- Derogado.
+### Párrafo 2º
+De los tribunales orales en lo penal
 
-Artículo 18°.- Derogado.
+Art. 17. Los tribunales orales en lo penal funcionarán en una o más salas integradas por tres de sus miembros.
+Cada sala será dirigida por un juez presidente de sala, quien tendrá las atribuciones a que alude el artículo 92 y las demás de orden que la ley procesal penal indique.
+La integración de las salas de estos tribunales se determinará mediante sorteo anual que se efectuará durante el mes de enero de cada año.
+La distribución de las causas entre las diversas salas se hará de acuerdo a un procedimiento objetivo y general que deberá ser anualmente aprobado por el comité de jueces del tribunal, a propuesta del juez presidente.
 
-Artículo 19°.- Derogado.
+Art. 18. Corresponderá a los tribunales orales en lo penal:
+a) Conocer y juzgar las causas por crimen o simple delito;
+b) Resolver todos los incidentes que se promuevan durante el juicio oral, y
+c) Conocer y resolver los demás asuntos que la ley procesal penal les encomiende.
 
-Artículo 20°.- Derogado.
+Art. 19. Las decisiones de los tribunales orales en lo penal se regirán, en lo que no resulte contrario a las normas de este párrafo, por las reglas sobre acuerdos en las Cortes de Apelaciones contenidas en los artículos 72, 81, 83, 84 y 89 de este Código.
 
-Artículo 21°.- Derogado.
+Art. 20. El tribunal oral en lo penal podrá imponer la pena de muerte sólo si existe acuerdo unánime de todos los miembros de la sala. Cuando resulte simple mayoría, se aplicará la pena inmediatamente inferior en grado.
+Si el tribunal pronuncia una condena a muerte procederá, a continuación, a deliberar sobre si el condenado parece digno de indulgencia y sobre qué pena proporcionada a su culpabilidad podría sustituir a la de muerte. El resultado de esta deliberación será consignado en un oficio que el tribunal remitirá oportunamente al Ministerio de Justicia, junto con una copia de la sentencia definitiva.
+El Ministerio hará llegar los antecedentes al Presidente de la República a fin de que resuelva si ha o no lugar a la conmutación de pena o al indulto.
 
-Artículo 22°.- Derogado.
+Art. 21. Existirá un tribunal oral en lo penal con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indican:
+Primera Región de Tarapacá:
+Arica, con seis jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones.
+Iquique, con nueve jueces, con competencia sobre las comunas de Huara, Camiña, Colchane, Iquique, Pozo Almonte y Pica.
+Segunda Región de Antofagasta:
+Calama, con tres jueces, con competencia sobre las comunas de Calama, Ollagüe y San Pedro de Atacama.
+Antofagasta, con nueve jueces, con competencia sobre las comunas de Tocopilla, María Elena, Mejillones, Sierra Gorda, Antofagasta y Taltal.
+Tercera Región de Atacama:
+Copiapó, con nueve jueces, con competencia sobre las comunas de Chañaral, Diego de Almagro, Caldera, Copiapó, Tierra Amarilla, Huasco, Vallenar, Freirina y Alto del Carmen.
+Cuarta Región de Coquimbo:
+La Serena, con nueve jueces, con competencia sobre las comunas de La Higuera, Vicuña, La Serena, Coquimbo, Andacollo y Paihuano.
+Ovalle, con tres jueces, con competencia sobre las comunas de Ovalle, Río Hurtado, Punitaqui, Monte Patria, Combarbalá, Canela, Illapel, Los Vilos y Salamanca.
+Quinta Región de Valparaíso:
+San Felipe, con tres jueces, con competencia sobre las comunas de la provincia de San Felipe.
+Los Andes, con tres jueces, con competencia sobre las comunas de la provincia de Los Andes.
+Quillota, con seis jueces, con competencia sobre las comunas de La Ligua, Petorca, Cabildo, Papudo, Zapallar, Nogales, Calera, La Cruz, Quillota, Hijuelas, Limache y Olmué.
+Viña del Mar, con doce jueces, con competencia sobre las comunas de Puchuncaví, Quintero, Viña del Mar, Villa Alemana, Quilpué y Concón.
+Valparaíso, con doce jueces, con competencia sobre las comunas de Juan Fernández, Valparaíso, Casablanca e Isla de Pascua.
+San Antonio, con seis jueces, con competencia sobre las comunas de Algarrobo, El Quisco, El Tabo, Cartagena, San Antonio y Santo Domingo.
+Sexta Región del Libertador General Bernardo O'Higgins:
+Rancagua, con doce jueces, con competencia sobre las comunas de Mostazal, Graneros, Codegua, Rancagua, Machalí, Las Cabras, Coltauco, Doñihue, Olivar, Coinco, Requínoa, Peumo, Quinta de Tilcoco, Pichidegua, San Vicente, Malloa y Rengo.
+Santa Cruz, con seis jueces, con competencia sobre las comunas de Navidad, Litueche, La Estrella, Pichilemu, Marchigüe, Paredones, Peralillo, Palmilla, San Fernando, Pumanque, Santa Cruz, Nancagua, Placilla, Lolol, Chépica y Chimbarongo.
+Séptima Región del Maule:
+Curicó, con seis jueces, con competencia sobre las comunas de Teno, Vichuquén, Hualañé, Rauco, Curicó, Romeral, Licantén, Sagrada Familia y Molina.
+Talca, con seis jueces, con competencia sobre las comunas de Curepto, Río Claro, Constitución, Pencahue, Talca, Pelarco, San Clemente, Maule, Empedrado y San Rafael.
+Linares, con seis jueces, con competencia sobre las comunas de San Javier, Villa Alegre, Colbún, Yerbas Buenas, Linares y Longaví .
+Cauquenes, con tres jueces, con competencia sobre las comunas de Chanco, Cauquenes, Pelluhue, Retiro y Parral.
+Octava Región del Bío Bío:
+Chillán, con seis jueces, con competencia sobre las comunas de Cobquecura, Quirihue, Ninhue, San Carlos, Niquén, San Fabián, San Nicolás, Treguaco, Portezuelo, Chillán, Coihueco, Coelemu, Ranquil, Pinto, Quillón, Bulnes, San Ignacio, El Carmen, Pemuco, Yungay, Tucapel y Chillán Viejo.
+Concepción, con dieciocho jueces, con competencia sobre las comunas de Tomé, Penco, Florida, Concepción, Coronel, Hualqui, Lota, Santa Juana, Talcahuano, San Pedro de la Paz y Chiguayante.
+Los Angeles, con seis jueces, con competencia sobre las comunas de San Rosendo, Yumbel, Cabrero, Laja, Los Angeles, Antuco, Quilleco, Nacimiento, Negrete, Mulchén, Santa Bárbara y Quilaco.
+Cañete, con seis jueces, con competencia sobre las comunas de Arauco, Curanilahue, Lebu, Los Alamos, Cañete, Contulmo y Tirúa.
+Novena Región de La Araucanía:
+Angol, con tres jueces, con competencia sobre las comunas de Angol, Renaico, Collipulli, Purén, Los Sauces, Ercilla, Lumaco, Traiguén y Victoria.
+Temuco, con nueve jueces, con competencia sobre las comunas de Lonquimay, Curacautín, Galvarino, Perquenco, Carahue, Nueva Imperial, Temuco, Lautaro, Vilcún, Melipeuco, Saavedra, Teodoro Schmidt, Freire, Cunco, Toltén, Pitrufquén, Gorbea y Padre Las Casas.
+Villarrica, con tres jueces, con competencia sobre las comunas de Loncoche, Villarrica, Pucón y Curarrehue.
+Décima Región de Los Lagos:
+Valdivia, con seis jueces, con competencia sobre las comunas de Mariquina, Lanco, Panguipulli, Máfil, Valdivia, Los Lagos, Corral, Paillaco, Futrono, La Unión, Lago Ranco y Río Bueno.
+Osorno, con seis jueces, con competencia sobre las comunas de San Juan de la Costa, San Pablo, Osorno, Puyehue, Río Negro, Puerto Octay y Purranque.
+Puerto Montt, con seis jueces, con competencia sobre las comunas de Fresia, Frutillar, Puerto Varas, Llanquihue, Los Muermos, Puerto Montt, Cochamó, Maullín, Calbuco, Hualaihué, Chaitén, Futaleufú y Palena.
+Castro, con tres jueces, con competencia sobre las comunas de Ancud, Quemchi, Dalcahue, Castro, Curaco de Vélez, Quinchao, Chonchi, Puqueldón, Queilén y Quellón.
+Undécima Región de Aisén del General Carlos Ibáñez del Campo:
+Coihaique, con tres jueces, con competencia sobre las comunas de Guaitecas, Cisnes, Aisén, Lago Verde, Coihaique, Río Ibáñez, Chile Chico, Cochrane, Tortel y OHiggins.
+Duodécima Región de Magallanes y la Antártica Chilena:
+Punta Arenas, con seis jueces, con competencia sobre las comunas de Natales, Torres del Paine, Laguna Blanca, San Gregorio, Río Verde, Punta Arenas, Primavera, Porvenir, Timaukel, Navarino y Antártica.
+Región Metropolitana de Santiago:
+Colina, con seis jueces, con competencia sobre las comunas de Til Til, Colina y Lampa.
+Pudahuel, con dieciocho jueces, con competencia sobre las comunas de Lo Prado, Cerro Navia y Pudahuel.
+Independencia, con veintiún jueces, con competencia sobre las comunas de Quilicura, Huechuraba, Renca, Conchalí, Independencia y Recoleta.
+Providencia, con veinticuatro jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes, Providencia, Ñuñoa y La Reina.
+Santiago, con quince jueces, con competencia sobre las comunas de Quinta Normal, Estación Central y Santiago.
+Maipú, con dieciocho jueces, con competencia sobre las comunas de Maipú y Cerrillos.
+San Miguel, con veintisiete jueces, con competencia sobre las comunas de Lo Espejo, Pedro Aguirre Cerda, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque y La Pintana.
+La Florida, con veintisiete jueces, con competencia sobre las comunas de Macul, Peñalolén y La Florida.
+Puente Alto, con nueve jueces, con competencia sobre las comunas de Puente Alto, San José de Maipo y Pirque.
+San Bernardo, con nueve jueces, con competencia sobre las comunas de San Bernardo, Calera de Tango, Buin y Paine.
+Melipilla, con seis jueces, con competencia sobre las comunas de Melipilla, María Pinto, Curacaví, San Pedro y Alhué.
+Talagante, con seis jueces, con competencia sobre las comunas de Talagante, Peñaflor, El Monte, Isla de Maipo y Padre Hurtado.
 
-Artículo 23°.- Derogado.
+Art. 21 A. Cuando sea necesario para facilitar la aplicación oportuna de la justicia penal, de conformidad a criterios de distancia, acceso físico y dificultades de traslado de quienes intervienen en el proceso, los tribunales orales en lo penal se constituirán y funcionarán en localidades situadas fuera de su lugar de asiento.
+Corresponderá a la respectiva Corte de Apelaciones determinar anualmente la periodicidad y forma con que los tribunales orales en lo penal darán cumplimiento a lo dispuesto en este artículo. Sin perjuicio de ello, la Corte podrá disponer en cualquier momento la constitución y funcionamiento de un tribunal oral en lo penal en una localidad fuera de su asiento, cuando la mejor atención de uno o más casos así lo aconseje.
+La Corte de Apelaciones adoptará esta medida previo informe de la Corporación Administrativa del Poder Judicial y de los jueces presidentes de los comités de jueces de los tribunales orales en lo penal correspondientes.
 
-Artículo 24°.- Derogado.
+### Párrafo 3º
+Del Comité de Jueces
 
-### § 2. Los Jueces de Subdelegación.
-Derogado.
+Art. 22. En los juzgados de garantía en los que sirvan tres o más jueces y en cada tribunal oral en lo penal, habrá un comité de jueces, que estará integrado en la forma siguiente:
+En aquellos juzgados o tribunales compuestos por cinco jueces o menos, el comité de jueces se conformará por todos ellos.
+En aquellos juzgados o tribunales conformados por más de cinco jueces, el comité lo compondrán los cinco jueces que sean elegidos por la mayoría del tribunal, cada dos años.
+De entre los miembros del comité de jueces se elegirá al juez presidente, quien durará dos años en el cargo y podrá ser reelegido hasta por un nuevo período.
+Si se ausentare alguno de los miembros del comité de jueces o vacare el cargo por cualquier causa, será reemplazado, provisoria o definitivamente según el caso, por el juez que hubiere obtenido la más alta votación después de los que hubieren resultado electos y, en su defecto, por el juez más antiguo de los que no integraren el comité de jueces. En caso de ausencia o imposibilidad del juez presidente, será suplido en el cargo por el juez más antiguo si ella no superare los tres meses, o se procederá a una nueva elección para ese cargo si el impedimento excediere de ese plazo.
+Los acuerdos del comité de jueces se adoptarán por mayoría de votos; en caso de empate decidirá el voto del juez presidente.
 
-Artículo 25°.- Derogado.
+Art. 23. Al comité de jueces corresponderá:
+a) Aprobar el procedimiento objetivo y general a que se refieren los artículos 15 y 17, en su caso;
+b) Designar, de la terna que le presente el juez presidente, al administrador del tribunal;
+c) Calificar anualmente al administrador del tribunal;
+d) Resolver acerca de la remoción del administrador;
+e) Designar al personal del juzgado o tribunal, a propuesta en terna del administrador;
+f) Conocer de la apelación que se interpusiere en contra de la resolución del administrador que remueva al subadministrador, a los jefes de unidades o a los empleados del juzgado o tribunal;
+g) Decidir el proyecto de plan presupuestario anual que le presente el juez presidente, para ser propuesto a la Corporación Administrativa del Poder Judicial, y
+h) Conocer de todas las demás materias que señale la ley.
+En los juzgados de garantía en que se desempeñen uno o dos jueces, las atribuciones indicadas en las letras b), c), d) y f) corresponderán al Presidente de la Corte de Apelaciones respectiva. A su vez, las atribuciones previstas en los literales a), e), g) y h) quedarán radicadas en el juez que cumpla la función de juez presidente.
 
-Artículo 26°.- Derogado.
+### Párrafo 4º
+Del Juez Presidente del Comité de Jueces
+
+Art. 24. Al juez presidente del comité de jueces le corresponderá velar por el adecuado funcionamiento del juzgado o tribunal.
+En el cumplimiento de esta función, tendrá los siguientes deberes y atribuciones:
+a) Presidir el comité de jueces;
+b) Relacionarse con la Corporación Administrativa del Poder Judicial en todas las materias relativas a la competencia de ésta;
+c) Proponer al comité de jueces el procedimiento objetivo y general a que se refieren los artículos 15 y 17;
+d) Elaborar anualmente una cuenta de la gestión jurisdiccional del juzgado;
+e) Aprobar los criterios de gestión administrativa que le proponga el administrador del tribunal y supervisar su ejecución;
+f) Aprobar la distribución del personal que le presente el administrador del tribunal;
+g) Calificar al personal, teniendo a la vista la evaluación que le presente el administrador del tribunal;
+h) Presentar al comité de jueces una terna para la designación del administrador del tribunal;
+i) Evaluar anualmente la gestión del administrador, y
+j) Proponer al comité de jueces la remoción del administrador del tribunal.
+El desempeño de la función de juez presidente del comité de jueces del juzgado o tribunal podrá significar una reducción proporcional de su trabajo jurisdiccional, según determine el comité de jueces.
+Tratándose de los juzgados de garantía en los que se desempeñe un solo juez, éste tendrá las atribuciones del juez presidente, con excepción de las contempladas en las letras a) y c). Las atribuciones de las letras h) y j) las ejercerá el juez ante el Presidente de la Corte de Apelaciones respectiva.
+En aquellos juzgados de garantía conformados por dos jueces, las atribuciones del juez presidente, con las mismas excepciones señaladas en el inciso anterior, se radicarán anualmente en uno de ellos, empezando por el más antiguo.
+
+### § 5. De la organización administrativa de los juzgados de garantía y de los tribunales orales en lo penal.
+
+Art. 25. Los juzgados de garantía y los tribunales orales en lo penal se organizarán en unidades administrativas para el cumplimiento eficaz y eficiente de las siguientes funciones:
+1.- Sala, que consistirá en la organización y asistencia a la realización de las audiencias.
+2.- Atención de público, destinada a otorgar una adecuada atención, orientación e información al público que concurra al juzgado o tribunal, especialmente a la víctima, al defensor y al imputado, recibir la información que éstos entreguen y manejar la correspondencia del juzgado o tribunal.
+3.- Servicios, que reunirá las labores de soporte técnico de la red computacional del juzgado o tribunal, de contabilidad y de apoyo a la actividad administrativa del juzgado o tribunal, y la coordinación y abastecimiento de todas las necesidades físicas y materiales para la realización de las audiencias.
+4.- Administración de causas, que consistirá en desarrollar toda la labor relativa al manejo de causas y registros del proceso penal en el juzgado o tribunal, incluidas las relativas al manejo de las fechas y salas para las audiencias; al archivo judicial básico, al ingreso y al número de rol de las causas nuevas; a la primera audiencia judicial de los detenidos; a la actualización diaria de la base de datos que contenga las causas del juzgado o tribunal, y a las estadísticas básicas del juzgado o tribunal.
+5.- Apoyo a testigos y peritos, destinada a brindar adecuada y rápida atención, información y orientación a los testigos y peritos citados a declarar en el transcurso de un juicio oral. Esta función existirá solamente en los tribunales orales en lo penal.
+
+Art. 26. Corresponderá a la Corporación Administrativa del Poder Judicial determinar, en la ocasión a que se refiere el inciso segundo del artículo 498, las unidades administrativas con que cada juzgado o tribunal contará para el cumplimiento de las funciones señaladas en el artículo anterior.
 
 ## TITULO III
 De los Jueces de Letras
@@ -128,192 +349,182 @@ Art. 27. Sin perjuicio de lo que se previene en los artículo 28 al 40, en cada 
 Los nuevos juzgados que se instalen tendrán como territorio jurisdiccional la respectiva comuna y, en consecuencia, dejarán de ser competentes en esos territorios los juzgados que anteriormente tenían jurisdicción sobre dichas comunas.
 
 Art. 28. En la Primera Región, de Tarapacá, existirán los siguientes juzgados de letras:
-Cuatro juzgados con asiento en la comuna de Arica, con jurisdicción sobre las comunas de las provincias de Arica y Parinacota;
-Un juzgado con asiento en la comuna de Pozo Almonte, con jurisdicción sobre las comunas de Pica, Pozo Almonte, Huara, Colchane y Camiña, y
-Cuatro juzgados con asiento en la comuna de Iquique, con jurisdicción sobre la misma comuna.
+Cuatro juzgados con asiento en la comuna de Arica, con competencia sobre las comunas de las provincias de Arica y Parinacota;
+Un juzgado con asiento en la comuna de Pozo Almonte, con competencia sobre las comunas de Pica, Pozo Almonte, Huara, Colchane y Camiña, y
+Tres juzgados con asiento en la comuna de Iquique, con competencia sobre la misma comuna.
 
 Art. 29. En la Segunda Región, de Antofagasta, existirán los siguientes juzgados de letras:
 A.- JUZGADOS CIVILES:
-Tres juzgados de letras en lo civil en la comuna de Antofagasta, con jurisdicción sobre las comunas de Antofagasta, Mejillones y Sierra Gorda.
-B.- JUZGADOS DEL CRIMEN:
-Tres juzgados del crimen en la comuna de Antofagasta, con jurisdicción sobre las comunas de Antofagasta, Mejillones y Sierra Gorda.
-C.- JUZGADOS DE COMPETENCIA COMUN:
-Un juzgado con asiento en la comuna de Tocopilla, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de María Elena, con jurisdicción sobre la misma comuna;
-Tres juzgados con asiento en la comuna de Calama, con jurisdicción sobre las comunas de la provincia de El Loa, y
-Un juzgado con asiento en la comuna de Taltal, con jurisdicción sobre la misma comuna.
+Cuatro juzgados de letras en lo civil en la comuna de Antofagasta, con competencia sobre las comunas de Antofagasta, Mejillones y Sierra Gorda.
+B.- JUZGADOS DE COMPETENCIA COMUN:
+Un juzgado con asiento en la comuna de Tocopilla, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de María Elena, con competencia sobre la misma comuna;
+Tres juzgados con asiento en la comuna de Calama, con competencia sobre las comunas de la provincia de El Loa, y
+Un juzgado con asiento en la comuna de Taltal, con competencia sobre la misma comuna.
 
 Art. 30. En la Tercera Región, de Atacama, existirán los siguientes juzgados de letras:
-Un juzgado con asiento en la comuna de Chañaral, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Chañaral, con jurisdicción sobre la misma comuna;
-Cuatro juzgados con asiento en la comuna de Copiapó, con jurisdicción sobre las comunas de Copiapó y Tierra Amarilla;
-Un juzgado con asiento en la comuna de Caldera, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Freirina, con jurisdicción sobre las comunas de Freirina y Huasco, y
-Dos juzgados con asiento en la comuna de Vallenar, con jurisdicción sobre las comunas de Vallenar y Alto del Carmen, conservando el Segundo Juzgado de Vallenar competencia especial en materia de menores.
+Un juzgado con asiento en la comuna de Chañaral, con competencia sobre la misma comuna;
+Cuatro juzgados con asiento en la comuna de Copiapó, con competencia sobre las comunas de Copiapó y Tierra Amarilla;
+Un juzgado con asiento en la comuna de Caldera, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Freirina, con competencia sobre las comunas de Freirina y Huasco, y
+Dos juzgados con asiento en la comuna de Vallenar, con competencia sobre las comunas de Vallenar y Alto del Carmen, conservando el Segundo Juzgado de Vallenar competencia especial en materia de menores.
 
 Art. 31. En la Cuarta Región, de Coquimbo, existirán los siguientes juzgados de letras:
-Tres juzgados con asiento en la comuna de La Serena, con jurisdicción sobre las comunas de La Serena y La Higuera;
-Tres juzgados con asiento en la comuna de Coquimbo, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Vicuña, con jurisdicción sobre las comunas de Vicuña y Paihuano;
-Un juzgado con asiento en la comuna de Andacollo, con jurisdicción sobre la misma comuna:
-Tres juzgados con asiento en la comuna de Ovalle, con jurisdicción sobre las comunas de Ovalle, Río Hurtado, Monte Patria y Punitaqui;
-Un juzgado con asiento en la comuna de Combarbalá, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Illapel, con jurisdicción sobre las comunas de Illapel y Salamanca, y Un juzgado con asiento en la comuna de los Vilos, con jurisdicción sobre las comunas de Los Vilos y Canela.
+Tres juzgados con asiento en la comuna de La Serena, con competencia sobre las comunas de La Serena y La Higuera;
+Tres juzgados con asiento en la comuna de Coquimbo, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Vicuña, con competencia sobre las comunas de Vicuña y Paihuano;
+Un juzgado con asiento en la comuna de Andacollo, con competencia sobre la misma comuna:
+Tres juzgados con asiento en la comuna de Ovalle, con competencia sobre las comunas de Ovalle, Río Hurtado, Monte Patria y Punitaqui;
+Un juzgado con asiento en la comuna de Combarbalá, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Illapel, con competencia sobre las comunas de Illapel y Salamanca, y Un juzgado con asiento en la comuna de los Vilos, con competencia sobre las comunas de Los Vilos y Canela.
 
 Art. 32. En la Quinta Región, de Valparaíso, existirán los siguientes juzgados de letras que tendrán jurisdicción en los territorios que se indican:
 A.- JUZGADOS CIVILES:
-Cinco juzgados de letras en lo civil con asiento en la comuna de Valparaíso y jurisdicción sobre las comunas de Valparaíso y Juan Fernández.
-Tres juzgados de letras en lo civil con asiento en la comuna de Viña del Mar y jurisdicción sobre las comunas de Viña del Mar y Concón, los cuales tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
-B.- JUZGADOS DEL CRIMEN:
-Cinco juzgados del crimen con asiento en la comuna de Valparaíso y jurisdicción sobre las comunas de Valparaíso y Juan Fernández.
-Tres juzgados del crimen con asiento en la comuna de Viña del Mar y jurisdicción sobre las comunas de Viña del Mar y Concón, los cuales tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
-C.- JUZGADOS CON COMPETENCIA COMUN:
-Dos juzgados de letras con asiento en la comuna de Quilpué, con jurisdicción sobre la misma comuna;
-Un juzgado de letras con asiento en la comuna de Villa Alemana, con jurisdicción sobre la misma comuna;
-Un juzgado de letras con asiento en la comuna de Casablanca, con jurisdicción sobre las comunas de Casablanca, El Quisco y Algarrobo, de la Quinta Región y la comuna de Curacaví , de la Región Metropolitana;
-Un juzgado de letras con asiento en la comuna de La Ligua, con jurisdicción sobre las comunas de La Ligua, Cabildo, Zapallar y Papudo;
-Un juzgado de letras con asiento en la comuna de Petorca, con jurisdicción sobre la misma comuna;
-Dos juzgados de letras con asiento en la comuna de Los Andes, con jurisdicción sobre las comunas de la provincia de Los Andes;
-Dos juzgados de letras con asiento en la comuna de San Felipe, con jurisdicción sobre las comunas de San Felipe, Santa María, Panquehue, Llaillay y Catemu;
-Un juzgado de letras con asiento en la comuna de Putaendo, con jurisdicción sobre la misma comuna;
-Dos juzgados de letras con asiento en la comuna de Quillota, con jurisdicción sobre las comunas de Quillota y La Cruz;
-Un juzgado de letras con asiento en la comuna de Quintero, con jurisdicción sobre las comunas de Quintero y Puchuncaví;
-Un juzgado de letras con asiento en la comuna de Calera, con jurisdicción sobre las comunas de Calera, Nogales e Hijuelas;
-Un juzgado de letras con asiento en la comuna de Limache, con jurisdicción sobre las comunas de Limache y Olmué;
-Dos juzgados de letras con asiento en la comuna de San Antonio, con jurisdicción sobre las comunas de San Antonio, Cartagena, El Tabo y Santo Domingo, de la Quinta Región y sobre la comuna de navidad de la Sexta Región, y
-Un juzgado de letras con asiento en Isla de Pascua, con jurisdicción sobre la comuna de la provincia de Isla de Pascua.
+Cinco juzgados de letras en lo civil con asiento en la comuna de Valparaíso y competencia sobre las comunas de Valparaíso y Juan Fernández.
+Tres juzgados de letras en lo civil con asiento en la comuna de Viña del Mar y competencia sobre las comunas de Viña del Mar y Concón, los cuales tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+B.- JUZGADOS CON COMPETENCIA COMUN:
+Dos juzgados de letras con asiento en la comuna de Quilpué, con competencia sobre la misma comuna;
+Un juzgado de letras con asiento en la comuna de Villa Alemana, con competencia sobre la misma comuna;
+Un juzgado de letras con asiento en la comuna de Casablanca, con competencia sobre las comunas de Casablanca, El Quisco y Algarrobo, de la Quinta Región y la comuna de Curacaví, de la Región Metropolitana;
+Un juzgado de letras con asiento en la comuna de La Ligua, con competencia sobre las comunas de La Ligua, Cabildo, Zapallar y Papudo;
+Un juzgado de letras con asiento en la comuna de Petorca, con competencia sobre la misma comuna;
+Dos juzgados de letras con asiento en la comuna de Los Andes, con competencia sobre las comunas de la provincia de Los Andes;
+Dos juzgados de letras con asiento en la comuna de San Felipe, con competencia sobre las comunas de San Felipe, Santa María, Panquehue, Llaillay y Catemu;
+Un juzgado de letras con asiento en la comuna de Putaendo, con competencia sobre la misma comuna;
+Dos juzgados de letras con asiento en la comuna de Quillota, con competencia sobre las comunas de Quillota y La Cruz;
+Un juzgado de letras con asiento en la comuna de Quintero, con competencia sobre las comunas de Quintero y Puchuncaví;
+Un juzgado de letras con asiento en la comuna de Calera, con competencia sobre las comunas de Calera, Nogales e Hijuelas;
+Un juzgado de letras con asiento en la comuna de Limache, con competencia sobre las comunas de Limache y Olmué;
+Dos juzgados de letras con asiento en la comuna de San Antonio, con competencia sobre las comunas de San Antonio, Cartagena, El Tabo y Santo Domingo, y
+Un juzgado de letras con asiento en Isla de Pascua, con competencia sobre la comuna de la provincia de Isla de Pascua.
 
-Art. 33. En la Sexta Región, del Libertador General Bernardo O'Higgins, existirán los siguientes juzgados de letras que tendrán jurisdicción en los territorios que se indican:
+Art. 33. En la Sexta Región, del Libertador General Bernardo O'Higgins, existirán los siguientes juzgados de letras que tendrán competencia en los territorios que se indican:
 A.- JUZGADOS CIVILES:
-Dos juzgados de letras en lo civil con asiento en la comuna de Rancagua, con jurisdicción sobre las comunas de Rancagua, Graneros, Mostazal, Codegua, Machalí, Coltauco, Doñihue, Coínco y Olivar.
-B.- JUZGADOS DEL CRIMEN:
-Tres juzgados del crimen con asiento en la comuna de Rancagua, con jurisdicción sobre las comunas de Rancagua, Graneros, Mostazal, Codegua, Machalí, Coltauco, Doñihue, Coínco y Olivar.
-C.- JUZGADOS CON COMPETENCIA COMUN:
-Dos juzgados con asiento en la comuna de Rengo, con jurisdicción sobre las comunas de Rengo, Requínoa, Malloa y Quinta de Tilcoco;
-Un juzgado con asiento en la comuna de San Vicente, con jurisdicción sobre las comunas de San Vicente y Pichidegua;
-Un juzgado con asiento en la comuna de Peumo, con jurisdicción sobre las comunas de Peumo y Las Cabras;
-Dos juzgados con asiento en la comuna de San Fernando, con jurisdicción sobre las comunas de San Fernando, Chimbarongo, Placilla y Nancagua, conservando el Segundo Juzgado de Letras de San Fernando competencia especial en materia de menores;
-Dos juzgados con asiento en la comuna de Santa Cruz, con jurisdicción sobre las comunas de Santa Cruz, Chépica, Lolol, Pumanque, Palmilla y Peralillo, y Un juzgado con asiento en la comuna de Pichilemu, con jurisdicción sobre las comunas de la provincia Cardenal Caro, con excepción de la comuna de Navidad.
+Dos juzgados de letras en lo civil con asiento en la comuna de Rancagua, con competencia sobre las comunas de Rancagua, Graneros, Mostazal, Codegua, Machalí, Coltauco, Doñihue, Coínco y Olivar.
+B.- JUZGADOS CON COMPETENCIA COMUN:
+Un juzgado con asiento en la comuna de Rengo, con competencia sobre las comunas de Rengo, Requínoa, Malloa y Quinta de Tilcoco;
+Un juzgado con asiento en la comuna de San Vicente, con competencia sobre las comunas de San Vicente y Pichidegua;
+Un juzgado con asiento en la comuna de Peumo, con competencia sobre las comunas de Peumo y Las Cabras;
+Dos juzgados con asiento en la comuna de San Fernando, con competencia sobre las comunas de San Fernando, Chimbarongo, Placilla y Nancagua, conservando el Segundo Juzgado de Letras de San Fernando competencia especial en materia de menores;
+Un juzgado con asiento en la comuna de Santa Cruz, con competencia sobre las comunas de Santa Cruz, Chépica y Lolol.
+Un juzgado con asiento en la comuna de Pichilemu, con competencia sobre la misma comuna.
+Un juzgado con asiento en la comuna de Litueche, con competencia sobre las comunas de Navidad, Litueche y La Estrella.
+Un juzgado con asiento en la comuna de Peralillo, con competencia sobre las comunas de Marchihue, Paredones, Pumanque, Palmilla y Peralillo.
 
 Art. 34. En la Séptima Región, del Maule, existirán los siguientes juzgados de letras:
-Cuatro juzgados con asiento en la comuna de Talca, con jurisdicción sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule, Pencahue y San Rafael;
-Un juzgado con asiento en la comuna de Constitución, con jurisdicción sobre las comunas de Constitución y Empedrado;
-Un juzgado con asiento en la comuna de Curepto, con jurisdicción sobre la misma comuna;
-Tres juzgados con asiento en la comuna de Curicó, con jurisdicción sobre las comunas de Curicó, Teno, Romeral y Rauco;
-Un juzgado con asiento en la comuna de Licantén, con jurisdicción sobre las comunas de Licantén, Hualañé y Vichuquén;
-Un juzgado con asiento en la comuna de Molina, con jurisdicción sobre las comunas de Molina y Sagrada Familia;
-Tres juzgados con asiento en la comuna de Linares, con jurisdicción sobre las comunas de Linares , Yerbas Buenas, Colbún y Longaví;
-Un juzgado con asiento en la comuna de San Javier, con jurisdicción sobre las comunas de San Javier y Villa Alegre;
-Un juzgado con asiento en la comuna de Cauquenes, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Chanco, con jurisdicción sobre las comunas de Chanco y Pelluhue, y Un juzgado con asiento en la comuna de Parral, con jurisdicción sobre las comunas de Parral y Retiro.
+Cuatro juzgados con asiento en la comuna de Talca, con competencia sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule, Pencahue y San Rafael;
+Un juzgado con asiento en la comuna de Constitución, con competencia sobre las comunas de Constitución y Empedrado;
+Un juzgado con asiento en la comuna de Curepto, con competencia sobre la misma comuna;
+Tres juzgados con asiento en la comuna de Curicó, con competencia sobre las comunas de Curicó, Teno, Romeral y Rauco;
+Un juzgado con asiento en la comuna de Licantén, con competencia sobre las comunas de Licantén, Hualañé y Vichuquén;
+Un juzgado con asiento en la comuna de Molina, con competencia sobre las comunas de Molina y Sagrada Familia;
+Dos juzgados con asiento en la comuna de Linares, con competencia sobre las comunas de Linares, Yerbas Buenas, Colbún y Longaví;
+Un juzgado con asiento en la comuna de San Javier, con competencia sobre las comunas de San Javier y Villa Alegre;
+Un juzgado con asiento en la comuna de Cauquenes, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Chanco, con competencia sobre las comunas de Chanco y Pelluhue, y
+Un juzgado con asiento en la comuna de Parral, con competencia sobre las comunas de Parral y Retiro.
 
-Art. 35. En la Octava Región, del Bío Bío, existirán los siguientes juzgados de letras, que tendrán jurisdicción en los territorios que se indican:
+Art. 35. En la Octava Región, del Bío Bío, existirán los siguientes juzgados de letras, que tendrán competencia en los territorios que se indican:
 A.- JUZGADOS CIVILES:
-Dos juzgados de letras en lo civil, con asiento en la comuna de Chillán, con jurisdicción sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo;
-Tres juzgados de letras en lo civil con asiento en la comuna de Concepción, con jurisdicción sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz y Chiguayante, y
-Dos juzgados de letras en lo civil con asiento en la comuna de Talcahuano, con jurisdicción sobre la misma comuna, que tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
-B.- JUZGADOS DEL CRIMEN:
-Dos juzgados del crimen con asiento en la comuna de Chillán, con jurisdicción sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo;
-Cuatro juzgados del crimen con asiento en la comuna de Concepción, con jurisdicción sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz y Chiguayante, y
-Dos juzgados del crimen con asiento en la comuna de Talcahuano, con jurisdicción sobre la misma comuna, que tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
-C.- JUZGADOS CON COMPETENCIA COMUN:
-Dos juzgados con asiento en la comuna de San Carlos, con jurisdicción sobre las comunas de San Carlos, Ñiquén, San Fabián y San Nicolás;
-Un juzgado con asiento en la comuna de Yungay, con jurisdicción sobre las comunas de Yungay, Pemuco, El Carmen y Tucapel;
-Un juzgado con asiento en la comuna de Bulnes, con jurisdicción sobre las comunas de Bulnes, Quillón y San Ignacio;
-Un juzgado con asiento en la comuna de Coelemu, con jurisdicción sobre las comunas de Coelemu y Ranquil;
-Un juzgado con asiento en la comuna de Quirihue, con jurisdicción sobre las comunas de Quirihue, Ninhue, Portezuelo, Treguaco y Cobquecura;
-Tres juzgados con asiento en la comuna de Los Angeles, con jurisdicción sobre las comunas de Los Angeles, Quilleco y Antuco;
-Un juzgado con asiento en la comuna de Santa Bárbara, con jurisdicción sobre la misma comuna y la comuna de Quilaco;
-Un juzgado con asiento en la comuna de Mulchén, con jurisdicción sobre la comuna de Mulchén;
-Un juzgado con asiento en la comuna de Nacimiento, con jurisdicción sobre las comunas de Nacimiento y Negrete;
-Un juzgado con asiento en la comuna de Laja, con jurisdicción sobre las comunas de Laja y San Rosendo;
-Un juzgado con asiento en la comuna de Yumbel, con jurisdicción sobre las comunas de Yumbel y Cabrero;
-Un juzgado con asiento en la comuna de Tomé, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Florida, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Santa Juana, con jurisdicción sobre la misma comuna,
-Un juzgado con asiento en la comuna de Lota, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Coronel, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Lebu, con jurisdicción sobre las comunas de Lebu y Los Alamos;
-Dos juzgados con asiento en la comuna de Arauco, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Curanilahue, con jurisdicción sobre la misma comuna, y
-Un juzgado con asiento en la comuna de Cañete, con jurisdicción sobre las comunas de Cañete, Contulmo y Tirúa.
+Dos juzgados de letras en lo civil, con asiento en la comuna de Chillán, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo;
+Tres juzgados de letras en lo civil con asiento en la comuna de Concepción, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz y Chiguayante, y
+Dos juzgados de letras en lo civil con asiento en la comuna de Talcahuano, con competencia sobre la misma comuna, que tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+B.- JUZGADOS CON COMPETENCIA COMUN:
+Un juzgado con asiento en la comuna de San Carlos, con competencia sobre las comunas de San Carlos, Ñiquén, San Fabián y San Nicolás;
+Un juzgado con asiento en la comuna de Yungay, con competencia sobre las comunas de Yungay, Pemuco, El Carmen y Tucapel;
+Un juzgado con asiento en la comuna de Bulnes, con competencia sobre las comunas de Bulnes, Quillón y San Ignacio;
+Un juzgado con asiento en la comuna de Coelemu, con competencia sobre las comunas de Coelemu y Ranquil;
+Un juzgado con asiento en la comuna de Quirihue, con competencia sobre las comunas de Quirihue, Ninhue, Portezuelo, Treguaco y Cobquecura;
+Tres juzgados con asiento en la comuna de Los Angeles, con competencia sobre las comunas de Los Angeles, Quilleco y Antuco;
+Un juzgado con asiento en la comuna de Santa Bárbara, con competencia sobre la misma comuna y la comuna de Quilaco;
+Un juzgado con asiento en la comuna de Mulchén, con competencia sobre la comuna de Mulchén;
+Un juzgado con asiento en la comuna de Nacimiento, con competencia sobre las comunas de Nacimiento y Negrete;
+Un juzgado con asiento en la comuna de Laja, con competencia sobre las comunas de Laja y San Rosendo;
+Un juzgado con asiento en la comuna de Yumbel, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Tomé, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Florida, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Santa Juana, con competencia sobre la misma comuna,
+Un juzgado con asiento en la comuna de Lota, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Coronel, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Lebu, con competencia sobre las comunas de Lebu y Los Alamos;
+Un juzgado con asiento en la comuna de Arauco, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Curanilahue, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Cañete, con competencia sobre las comunas de Cañete, Contulmo y Tirúa, y
+Un juzgado con asiento en la comuna de Cabrero, con competencia sobre la misma comuna.
 
 Art. 36. En la Novena Región, de la Araucanía, existirán los siguientes juzgados de letras:
 A.- JUZGADOS CIVILES:
-Tres juzgados en lo civil con asiento en la comuna de Temuco, con jurisdicción sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco, Freire y Padre Las Casas.
-B.- JUZGADOS DEL CRIMEN:
-Tres juzgados del crimen con asiento en la comuna de Temuco, con jurisdicción sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco, Freire y Padre Las Casas.
-C.- JUZGADOS CON COMPETENCIA COMUN:
-Dos juzgados con asiento en la comuna de Angol, con jurisdicción sobre las comunas de Angol, Renaico, Los Sauces y Purén;
-Un juzgado con asiento en la comuna de Collipulli, con jurisdicción sobre las comunas de Collipulli y Ercilla;
-Un juzgado con asiento en la comuna de Traiguén, con jurisdicción sobre las comunas de Traiguén y Lumaco;
-Un juzgado con asiento en la comuna de Victoria, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Curacautín, con jurisdicción sobre las comunas de Curacautín y Lonquimay;
-Un juzgado con asiento en la comuna de Loncoche, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Pitrufquén, con jurisdicción sobre las comunas de Pitrufquén, Gorbea y Toltén;
-Un juzgado con asiento en la comuna de Villarrica, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Nueva Imperial, con jurisdicción sobre las comunas de Nueva Imperial y Teodoro Schmidt;
-Un juzgado con asiento en la comuna de Pucón, con jurisdicción sobre las comunas de Pucón y Curarrehue;
-Un juzgado con asiento en la comuna de Lautaro, con jurisdicción sobre las comunas de lautaro, Perquenco y Galvarino, y
-Un juzgado con asiento en la comuna de Carahue, con jurisdicción sobre las comunas de Carahue y Saavedra.
+Tres juzgados en lo civil con asiento en la comuna de Temuco, con competencia sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco, Freire y Padre Las Casas.
+B.- JUZGADOS CON COMPETENCIA COMUN:
+Un juzgado con asiento en la comuna de Angol, con competencia sobre las comunas de Angol y Renaico;
+Un juzgado con asiento en la comuna de Purén, con competencia sobre las comunas de Purén y Los Sauces;
+Un juzgado con asiento en la comuna de Collipulli, con competencia sobre las comunas de Collipulli y Ercilla;
+Un juzgado con asiento en la comuna de Traiguén, con competencia sobre las comunas de Traiguén y Lumaco;
+Un juzgado con asiento en la comuna de Victoria, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Curacautín, con competencia sobre las comunas de Curacautín y Lonquimay;
+Un juzgado con asiento en la comuna de Toltén, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Loncoche, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Pitrufquén, con competencia sobre las comunas de Pitrufquén y Gorbea;
+Un juzgado con asiento en la comuna de Villarrica, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Nueva Imperial, con competencia sobre las comunas de Nueva Imperial y Teodoro Schmidt;
+Un juzgado con asiento en la comuna de Pucón, con competencia sobre las comunas de Pucón y Curarrehue;
+Un juzgado con asiento en la comuna de Lautaro, con competencia sobre las comunas de lautaro, Perquenco y Galvarino, y
+Un juzgado con asiento en la comuna de Carahue, con competencia sobre las comunas de Carahue y Saavedra.
 
 Art. 37. En la Décima Región, de Los Lagos, existirán los siguientes juzgados de letras:
-Cuatro juzgados con asiento en la comuna de Valdivia, con jurisdicción sobre las comunas de Valdivia y Corral;
-Un juzgado con asiento en la comuna de Mariquina, con jurisdicción sobre las comunas de Mariquina, Máfil y Lanco;
-Un juzgado con asiento en la comuna de Los Lagos, con jurisdicción sobre las comunas de Los Lagos y Futrono;
-Un juzgado con asiento en la comuna de Panguipulli, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de La Unión, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Paillaco, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Río Bueno, con jurisdicción sobre las comunas de Río Bueno y Lago Ranco;
-Cuatro juzgados con asiento en la comuna de Osorno, con jurisdicción sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
-Un juzgado con asiento en la comuna de Río Negro, con jurisdicción sobre las comunas de Río Negro y Purranque;
-Cuatro juzgados con asiento en la comuna de Puerto Montt, con jurisdicción sobre las comunas de Puerto Montt, Cochamó y Hualaihué;
-Dos juzgados con asiento en la comuna de Puerto Varas, con jurisdicción sobre las comunas de Puerto Varas, Llanquihue, Frutillar y Fresia;
-Un juzgado con asiento en la comuna de Calbuco, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Maullín y jurisdicción sobre esa misma comuna;
-Un juzgado con asiento en la comuna de Los Muermos y jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Castro, con jurisdicción sobre las comunas de Castro, Chonchi, Dalcahue, Puqueldón y Queillén;
-Un juzgado con asiento en la comuna de Quellón y jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna de Ancud, con jurisdicción sobre las comunas de Ancud y Quemchi. Este tribunal mantendrá su carácter de juzgado de capital de provincia, para todos los efectos legales, sin perjuicio de la calidad de juzgado de capital de provincia que corresponde al juzgado de Castro;
-Un juzgado con asiento en la comuna de Quinchao, con jurisdicción sobre las comunas de Quinchao y Curaco de Vélez, y
-Un juzgado con asiento en la comuna de Chaitén, con jurisdicción sobre las comunas de Chaitén, Futaleufú y Palena.
+Dos juzgados con asiento en la comuna de Valdivia, con competencia sobre las comunas de Valdivia y Corral;
+Un juzgado con asiento en la comuna de Mariquina, con competencia sobre las comunas de Mariquina, Máfil y Lanco;
+Un juzgado con asiento en la comuna de Los Lagos, con competencia sobre las comunas de Los Lagos y Futrono;
+Un juzgado con asiento en la comuna de Panguipulli, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de La Unión, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Paillaco, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Río Bueno, con competencia sobre las comunas de Río Bueno y Lago Ranco;
+Dos juzgados con asiento en la comuna de Osorno, con competencia sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
+Un juzgado con asiento en la comuna de Río Negro, con competencia sobre las comunas de Río Negro y Purranque;
+Cuatro juzgados con asiento en la comuna de Puerto Montt, con competencia sobre las comunas de Puerto Montt y Cochamó;
+Un juzgado con asiento en la comuna de Puerto Varas, con competencia sobre las comunas de Puerto Varas, Llanquihue, Frutillar y Fresia;
+Un juzgado con asiento en la comuna de Calbuco, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Maullín y competencia sobre esa misma comuna;
+Un juzgado con asiento en la comuna de Los Muermos y competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Castro, con competencia sobre las comunas de Castro, Chonchi, Dalcahue, Puqueldón y Queillén;
+Un juzgado con asiento en la comuna de Quellón y competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Ancud, con competencia sobre las comunas de Ancud y Quemchi. Este tribunal mantendrá su carácter de juzgado de capital de provincia, para todos los efectos legales, sin perjuicio de la calidad de juzgado de capital de provincia que corresponde al juzgado de Castro;
+Un juzgado con asiento en la comuna de Quinchao, con competencia sobre las comunas de Quinchao y Curaco de Vélez;
+Un juzgado con asiento en la comuna de Chaitén, con competencia sobre las comunas de Chaitén, Futaleufú y Palena, y
+Un juzgado con asiento en la comuna de Hualaihué, con competencia sobre la misma comuna.
 
 Art. 38. En la Décimo Primera Región de Aisén, del General Carlos Ibáñez del Campo, existirán los siguientes juzgados de letras:
-Dos juzgados con asiento en la comuna de Coihaique, con jurisdicción sobre las comunas de la provincia de Coihaique;
-Un juzgado con asiento en la comuna de Aisén, con jurisdicción sobre las comunas de la provincia de Aisén;
-Un juzgado con asiento en la comuna de Chile Chico, con jurisdicción sobre las comunas de la provincia General Carrera, y
-Un juzgado con asiento en la comuna de Cochrane, con jurisdicción sobre las comunas de la provincia Capitán Prat.
+Dos juzgados con asiento en la comuna de Coihaique, con competencia sobre las comunas de Coihaique y Río Ibáñez;
+Un juzgado con asiento en la comuna de Aisén, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Chile Chico, con competencia sobre la misma comuna,
+Un juzgado con asiento en la comuna de Cochrane, con competencia sobre las comunas de la provincia Capitán Prat, y
+Un juzgado con asiento en la comuna de Cisnes, con competencia sobre las comunas de Cisnes, Guaitecas y Lago Verde.
 
 Art. 39. En la Décimo Segunda Región, de Magallanes y Antártica Chilena, existirán los siguientes juzgados de letras:
-Cuatro juzgados con asiento en la comuna de Punta Arenas, con jurisdicción sobre las comunas de las provincias de Magallanes y Antártica Chilena;
-Un juzgado con asiento en la comuna de Natales, con jurisdicción sobre las comunas de la provincia de Ultima Esperanza, y
-Un juzgado con asiento en la comuna de Porvenir, con jurisdicción sobre las comunas de la provincia de Tierra del Fuego.
+Tres juzgados con asiento en la comuna de Punta Arenas, con competencia sobre las comunas de las provincias de Magallanes y Antártica Chilena;
+Un juzgado con asiento en la comuna de Natales, con competencia sobre las comunas de la provincia de Ultima Esperanza, y
+Un juzgado con asiento en la comuna de Porvenir, con competencia sobre las comunas de la provincia de Tierra del Fuego.
 
 Art. 40. En la Región Metropolitana de Santiago, existirán los siguientes juzgados de letras:
 A.- JUZGADOS CIVILES:
-Treinta juzgados de letras en lo civil, con asiento en la comuna de Santiago, con jurisdicción sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales;
-Cuatro juzgados de letras en lo civil, con jurisdicción sobre las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, Pedro Aguirre Cerda, La Cisterna, El Bosque y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
-Un juzgado de letras en lo civil, con asiento en la comuna de Puente Alto, con jurisdicción sobre las comunas de la provincia de Cordillera.
-B.- JUZGADOS DEL CRIMEN:
-Treinta y seis juzgados del crimen con jurisdicción sobre las comunas de la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de corte para todos los efectos legales;
-Once juzgados del crimen con jurisdicción sobre las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, Pedro Aguirre Cerda, La Cisterna, El Bosque y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
-Tres juzgados del crimen, con asiento en la comuna de Puente Alto, con jurisdicción sobre las comunas de la provincia de Cordillera.
-C.- JUZGADOS CON COMPETENCIA COMUN:
-Tres juzgados con asiento en la comuna de San Bernardo, con jurisdicción sobre las comunas de San Bernardo y Calera de Tango;
-Dos juzgados con asiento en la comuna de Talagante y jurisdicción sobre las comunas de Talagante, El Monte e Isla de Maipo;
-Un juzgado con asiento en la comuna de Peñaflor, con jurisdicción sobre las comunas de Peñaflor y Padre Hurtado;
-Dos juzgados con asiento en la comuna de Melipilla, con jurisdicción sobre las comunas de la provincia de Melipilla, con excepción de Curacaví, y
-Dos juzgados con asiento en la comuna de Buin, con jurisdicción sobre las comunas de Buin y Paine.
-Un juzgado con asiento en la comuna de Colina, con jurisdicción sobre las comunas de la Provincia de Chacabuco.
+Treinta juzgados de letras en lo civil, con asiento en la comuna de Santiago, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales;
+Cuatro juzgados de letras en lo civil, con competencia sobre las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, Pedro Aguirre Cerda, La Cisterna, El Bosque y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+Un juzgado de letras en lo civil, con asiento en la comuna de Puente Alto, con competencia sobre las comunas de la provincia de Cordillera.
+B.- JUZGADOS CON COMPETENCIA COMUN:
+Dos juzgados con asiento en la comuna de San Bernardo, con competencia sobre las comunas de San Bernardo y Calera de Tango;
+Dos juzgados con asiento en la comuna de Talagante y competencia sobre las comunas de Talagante, El Monte e Isla de Maipo;
+Un juzgado con asiento en la comuna de Peñaflor, con competencia sobre las comunas de Peñaflor y Padre Hurtado;
+Un juzgado con asiento en la comuna de Melipilla, con competencia sobre las comunas de la provincia de Melipilla, con excepción de Curacaví, y
+Dos juzgados con asiento en la comuna de Buin, con competencia sobre las comunas de Buin y Paine.
+Un juzgado con asiento en la comuna de Colina, con competencia sobre las comunas de la Provincia de Chacabuco.
 
 Art. 41. Suprimido.
 
 Art. 42. Derogado.
 
-Art. 43. Los Jueces del Crimen de las comunas o agrupaciones de comunas de las provincias de Santiago y Chacabuco ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la respectiva Corte.
-El Presidente de la República, previo informe favorable de la Corte de Apelaciones que corresponda, podrá fijar como territorio jurisdiccional exclusivo de uno o más de los jueces civiles de la Región Metropolitana de Santiago, una parte de la comuna o agrupación comunal respectiva, y en tal caso, autorizar el funcionamiento de estos Tribunales dentro de sus respectivos territorios jurisdiccionales.
-Tanto los jueces del crimen a que se refiere el inciso primero, como los tribunales civiles a los cuales se fije un territorio jurisdiccional exclusivo, podrán practicar actuaciones en cualesquiera de las comunas de la Región Metropolitana de Santiago, en los asuntos sometidos a su conocimiento.
-Con el acuerdo previo de la Corte de Apelaciones de Santiago o San Miguel, según corresponda, y por no más de una vez al año, el Presidente de la República podrá modificar los límites de la jurisdicción territorial de los Juzgados a que se refieren los incisos primero y segundo.
+Art. 43. El Presidente de la República, previo informe favorable de la Corte de Apelaciones que corresponda, podrá fijar como territorio jurisdiccional exclusivo de uno o más de los jueces civiles de la Región Metropolitana de Santiago, una parte de la comuna o agrupación comunal respectiva, y en tal caso, autorizar el funcionamiento de estos Tribunales dentro de sus respectivos territorios jurisdiccionales.
+Los juzgados civiles de la Región Metropolitana de Santiago a los cuales se fije un territorio jurisdiccional exclusivo, podrán practicar, en los asuntos sometidos a su conocimiento, actuaciones en cualesquiera de las comunas que la integran.
+Con el acuerdo previo de la Corte de Apelaciones que corresponda, y por no más de una vez al año, el Presidente de la República podrá modificar los límites de la competencia territorial de los juzgados a que se refiere el inciso primero.
 
 Art. 44. Derogado.
 
@@ -326,9 +537,8 @@ c) Suprimido.
 a) De las causas civiles y de comercio cuya cuantía exceda de 10 Unidades Tributarias Mensuales;
 b) De las causas de minas, cualquiera que sea su cuantía. Se entiende por causas de minas, aquellas en que se ventilan derechos regidos especialmente por el Código de Minería;
 c) De los actos judiciales no contenciosos, cualquiera sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil;
-d) De las causas por crimen o simple delito;
-e) De las causas por faltas del Código Penal, que se cometan en la ciudad donde tenga su asiento el tribunal, siempre que no haya en ella juez de Policía Local que sea abogado.
-Sin embargo, los jueces del crimen de Santiago, conocerán de las faltas sancionadas en los artículos 494, N°s. 5, 7, 12, 16, 19, 20 y 21; 495 N°s. 3, 15, 21 y 22; 496, N°s. 1, 8, 18, 31 y 33; y 497 del Código Penal, que se cometan dentro de las comunas de Santiago, Quinta Normal, Ñuñoa, Providencia, Las Condes y La Reina.
+d) Derogado.
+e) Derogado.
 f) De las infracciones a la Ley de Alcoholes que trata el Libro II de dicha ley, con excepción de las contempladas en los artículos 113 y 117, que se cometan fuera de la comuna asiento del tribunal.
 No obstante, las infracciones mencionadas en el inciso anterior que se cometan dentro del territorio jurisdiccional de Juzgados de Letras con competencia exclusiva en lo criminal de la Región Metropolitana de Santiago, serán juzgadas por el respectivo tribunal.
 g) De las causas civiles y de comercio cuya cuantía sea inferior a las señaladas en las letras a) y b), del N° 1 de este artículo, en que sean parte o tengan interés los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, el General Director de Carabineros, los Ministros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos tribunales, los jueces letrados, los párrocos y vicepárrocos, los cónsules generales, cónsules o vicecónsules de las naciones extranjeras reconocidas por el Presidente de la República, las corporaciones y fundaciones de derecho público o los establecimientos públicos de beneficencia y
@@ -336,7 +546,7 @@ h) De las causas del trabajo y de menores cuyo conocimiento no corresponda a los
 3° Suprimido.
 4° De los demás asuntos que otras leyes les encomienden.
 
-Art. 46. Los jueces de letras de comunas asiento de Corte conocerán en primera instancia de las causas criminales en que sea parte o tenga interés un juez de letras de una comuna o agrupación de comunas incluidas en el territorio jurisdiccional de esa misma Corte de Apelaciones.
+Art. 46. Los jueces de letras que cumplan, además de sus funciones propias, las de juez de garantía, tendrán la competencia señalada en el artículo 14 de este Código.
 
 Art. 47. Derogado.
 
@@ -350,26 +560,27 @@ Art. 49. Derogado.
 De los Presidentes y Ministros de Corte como tribunales unipersonales
 
 Art. 50. Un Ministro de la Corte de Apelaciones respectiva, según el turno que ella fije, conocerá en primera instancia de los siguientes asuntos:
-1°) De las causas por los delitos contra la Seguridad Interior del Estado a que se refiere la ley 6026, de 12 de Febrero de 1937; de los delitos de los Títulos II y VI, párrafo 19 del Libro II del Código Penal, y de los delitos de los Títulos IV y V, párrafo I, del Código de Justicia Militar, cuando dichos delitos sean cometidos exclusivamente por civiles.
-2°) De las causas civiles y de las criminales por crímenes o simples delitos en que sean parte o tengan interés el Presidente de la República, los ex-Presidentes de la República, los Ministros de Estado, los Intendentes y Gobernadores, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
+1°) Derogado.
+2°) De las causas civiles en que sean parte o tengan interés el Presidente de la República, los ex Presidentes de la República, los Ministros de Estado, los Intendentes y Gobernadores, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
 La circunstancia de ser accionista de sociedades anónimas las personas designadas en este número, no se considerará como una causa suficiente para que un Ministro de la Corte de Apelaciones conozca en primera instancia de los juicios en que aquéllas tengan parte, debiendo éstos sujetarse en su conocimiento a las reglas generales.
-3°) De las causas por delitos comunes en que sean parte o tengan interés los miembros de la Corte Suprema, los de las Cortes de Apelaciones, los Fiscales de estos tribunales y los jueces letrados de las ciudades de asiento de las Cortes de Apelaciones.
-4°) De las acusaciones o demandas civiles que se entablen contra los jueces de letras para hacer efectiva la responsabilidad criminal o civil resultante del ejercicio de sus funciones ministeriales.
+3°) Derogado.
+4°) De las demandas civiles que se entablen contra los jueces de letras para hacer efectiva la responsabilidad civil resultante del ejercicio de sus funciones ministeriales.
 5°) De los demás asuntos que otras leyes les encomienden.
 
 Art. 51. El Presidente de la Corte de Apelaciones de Santiago conocerá en primera instancia:
 1°) De las causas sobre amovilidad de los Ministros de la Corte Suprema; y
-2°) De las acusaciones o demandas civiles que se entablen contra uno o más miembros de la Corte Suprema o contra su fiscal para hacer efectiva su responsabilidad por actos cometidos en el desempeño de sus funciones.
+2°) De las demandas civiles que se entablen contra uno o más miembros de la Corte Suprema o contra su fiscal judicial para hacer efectiva su responsabilidad por actos cometidos en el desempeño de sus funciones.
 
 Art. 52. Un Ministro de la Corte Suprema, designado por el Tribunal, conocerá en primera instancia:
 1°) De las causas a que se refiere el artículo 23, de la ley N° 12.033;
-2°) De los delitos de jurisdicción de los tribunales chilenos, cuando puedan afectar las relaciones internacionales de la República con otro Estado, y
-3°) De los demás asuntos que otras leyes le encomienden.
+2°) De los delitos de jurisdicción de los tribunales chilenos, cuando puedan afectar las relaciones internacionales de la República con otro Estado.
+3°) De la extradición pasiva.
+4°) De los demás asuntos que otras leyes le encomienden.
 
 Art. 53. El Presidente de la Corte Suprema conocerá en primera instancia:
 1°) De las causas sobre amovilidad de los Ministros de las Cortes de Apelaciones;
-2°) De las acusaciones o demandas civiles que se entablen contra uno o más miembros o fiscales de las Cortes de Apelaciones para hacer efectiva su responsabilidad por actos cometidos en el desempeño de sus funciones;
-3°) De las causas de presas, de extradicción pasiva y demás que deban juzgarse con arreglo al Derecho Internacional; y
+2°) De las demandas civiles que se entablen contra uno o más miembros o fiscales judiciales de las Cortes de Apelaciones para hacer efectiva su responsabilidad por actos cometidos en el desempeño de sus funciones;
+3°) De las causas de presas y demás que deban juzgarse con arreglo al Derecho Internacional; y
 4°) De los demás asuntos que otras leyes entreguen a su conocimiento.
 En estas causas no procederán los recursos de casación en la forma ni en el fondo en contra de la sentencia dictada por la sala que conozca del recurso de apelación que se interpusiere en contra de la resolución del Presidente.
 
@@ -409,7 +620,7 @@ Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a 
 Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado del 1° de marzo y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
 Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón.
 
-Art. 58. La Corte de Apelaciones de Santiago tendrá seis fiscales; la Corte de Apelaciones de San Miguel tendrá cuatro fiscales; las Cortes de Apelaciones de Valparaíso y Concepción tendrán tres fiscales; las Cortes de Apelaciones de Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán dos fiscales. Las demás Cortes de Apelaciones tendrán un fiscal cada una. El ejercicio de sus funciones será reglado por el tribunal como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
+Art. 58. La Corte de Apelaciones de Santiago tendrá seis fiscales judiciales; la Corte de Apelaciones de San Miguel tendrá cuatro fiscales judiciales; las Cortes de Apelaciones de Valparaíso y Concepción tendrán tres fiscales judiciales; las Cortes de Apelaciones de Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán dos fiscales judiciales. Las demás Cortes de Apelaciones tendrán un fiscal judicial cada una. El ejercicio de sus funciones será reglado por el tribunal como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
 Art. 59. Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán cuatro relatores; las Cortes de Apelaciones de Valparaíso y Concepción tendrán ocho relatores; la Corte de Apelaciones de San Miguel tendrá diez relatores, y la Corte de Apelaciones de Santiago tendrá dieciocho relatores.
 
@@ -418,7 +629,7 @@ La Corte de Apelaciones de San Miguel tendrá dos secretarios. La Corte de Apela
 
 Art. 61. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia se dividirán en dos salas; las Cortes de Apelaciones de Valparaíso y Concepción en cuatro salas; la Corte de Apelaciones de San Miguel en cinco salas y la Corte de Apelaciones de Santiago en siete salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones, tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil de enero de cada año.
 
-Art. 62. Las Cortes de Apelaciones integradas por sus fiscales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo.
+Art. 62. Las Cortes de Apelaciones integradas por sus fiscales judiciales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo.
 Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla y de las apelaciones que deban conocerse en cuenta, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento.
 Producido este caso y si no bastaren los relatores en propiedad, el tribunal designará por mayoría de votos los relatores interinos que estime conveniente, quienes gozarán durante el tiempo en que sirvieren de igual remuneración que los propietarios.
 
@@ -434,7 +645,7 @@ b) De los recursos de amparo y de protección; y
 c) De los procesos por amovilidad que se entablen en contra de los jueces de letras.
 5°) De los demás asuntos que otras leyes les encomienden.
 
-Art. 64. La Corte de Santiago conocerá de los recursos de apelación y de casación en la forma y de la consulta que incidan en las causas de que haya conocido en primera instancia su Presidente.
+Art. 64. La Corte de Santiago conocerá de los recursos de apelación y de casación en la forma que incidan en las causas de que haya conocido en primera instancia su Presidente.
 
 Art. 65. Suprimido.
 
@@ -443,7 +654,7 @@ Cada sala representa a la Corte en los asuntos de que conoce.
 En caso que ante una misma Corte de Apelaciones se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma. En caso que, además de haberse interpuesto recursos jurisdiccionales, se haya deducido recurso de queja, éste se acumulará a los recursos jurisdiccionales, y deberá resolverse conjuntamente con ellos.
 Corresponderá a todo el tribunal el ejercicio de las facultades disciplinarias, administrativas y económicas, sin perjuicio de que las salas puedan ejercer las primeras en los casos de los artículos 542 y 543 en los asuntos que estén conociendo. También corresponderá a todo el tribunal el conocimiento de los desafueros de los Diputados y de los Senadores y de los juicios de amovilidad en contra de los jueces de letras.
 No obstante lo dispuesto en el inciso anterior, los recursos de queja serán conocidos y fallados por las salas del tribunal, según la distribución que de ellos haga el Presidente; pero la aplicación de medidas disciplinarias corresponderá al tribunal pleno.
-La Corte de Apelaciones de Santiago conocerá en pleno de los recursos de apelación y casación en la forma y de la consulta, en su caso, que incidan en los juicios de amovilidad y en las acusaciones y demandas civiles contra los ministros y el fiscal de la Corte Suprema.
+La Corte de Apelaciones de Santiago conocerá en pleno de los recursos de apelación y casación en la forma, en su caso, que incidan en los juicios de amovilidad y en las demandas civiles contra los ministros y el fiscal judicial de la Corte Suprema.
 
 Art. 67. Para el funcionamiento del tribunal pleno se requerirá, a lo menos, la concurrencia de la mayoría absoluta de los miembros de que se componga la Corte.
 Las salas no podrán funcionar sin la concurrencia de tres jueces como mínimum.
@@ -469,7 +680,7 @@ Art. 71. La vista y conocimiento en cuenta de las causas y asuntos incidentales 
 
 Art. 72. Las Cortes de Apelaciones deberán funcionar, para conocer y decidir los asuntos que les estén encomendados, con un número de miembros que no sea inferior al mínimum determinado en cada caso por la ley, y sus resoluciones se adoptarán por mayoría absoluta de votos conformes.
 
-Art. 73. La pena de muerte no puede ser acordada en segunda instancia sino por el voto unánime del tribunal. Cuando, para imponerla, resulte simple mayoría, se aplicará la pena inmediatamente inferior en grado. Si el tribunal de alzada pronunciare una condenación a muerte, procederá inmediatamente a deliberar sobre si el condenado parece digno de indulgencia y sobre qué pena proporcionada a su culpabilidad podrá sustituirse a la de muerte. El resultado de esta deliberación será consignado en un oficio que la Corte remitirá oportunamente al Ministerio de Justicia, junto con una copia de las sentencias de primera y de segunda instancia. El Ministerio hará llegar los antecedentes al Presidente de la República a fin de que resuelva si ha o no lugar a la conmutación de la pena o al indulto.
+Art. 73. Derogado.
 
 Art. 74. Si en materia criminal la mitad de los votos se uniforma a favor del procesado, ya sea para absolverlo, ya sea para imponerle una pena menor que la que le asignan los votos de los demás jueces, aquella opinión formará sentencia.
 Si se produce empate acerca de cuál es la opinión que favorece más al procesado, prevalecerá la que cuente con el voto del miembro más antiguo del tribunal.
@@ -519,7 +730,7 @@ Antes de comenzar el acto podrán los jueces discordantes aceptar por sí solos 
 Si, vista de nuevo la causa, ninguna opinión obtuviere mayoría legal, se limitará la votación a las que hubieren quedado pendientes al tiempo de llamarse a los nuevos jueces.
 En caso de nueva vista de una causa por discordia ocurrida en la primera, el Presidente del tribunal podrá indicar a los abogados de las partes el punto materia del empate para que limiten a él sus alegaciones.
 
-Art. 88. En materia penal, en el caso de dispersión de votos, el juez o jueces que sostuvieren la opinión más desfavorable al procesado deberán optar por alguna de las otras y se repetirá el procedimiento cuantas veces fuere menester hasta que se produzca la mayoría necesaria, o el empate de que habla el artículo 74.
+Art. 88. Derogado.
 
 Art. 89. En los autos y sentencias definitivas e interlocutorias de los tribunales colegiados, se expresará nominalmente qué miembros han concurrido con su voto a formar sentencia y qué miembros han sostenido opinión contraria.
 Habrá en cada tribunal colegiado un libro, denominado de acuerdos, en el cual los miembros que no opinaren como la mayoría deberán exponer y fundar su voto particular en los asuntos en que hubiere conocido el tribunal.
@@ -554,7 +765,7 @@ La Corte Suprema
 Art. 93. La Corte Suprema se compondrá de diecisiete miembros, uno de los cuales será su Presidente.
 El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones tres años, no pudiendo ser reelegido.
 Los demás miembros se llamarán ministros y gozarán de precedencia los unos respecto de los otros por el orden de su antigüedad.
-La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y ocho relatores.
+La Corte Suprema tendrá un fiscal judicial, un secretario, un prosecretario y ocho relatores.
 
 Art. 94. La Corte Suprema tendrá su sede en la capital de la República.
 
@@ -597,7 +808,7 @@ Art. 100. Derogado.
 
 Art. 101. Derogado.
 
-Art. 102. El primer día hábil de marzo la Corte Suprema iniciará sus funciones en audiencia pública, a la cual deberán concurrir su fiscal y los miembros y fiscales de la Corte de Apelaciones de Santiago.
+Art. 102. El primer día hábil de marzo la Corte Suprema iniciará sus funciones en audiencia pública, a la cual deberán concurrir su fiscal judicial y los miembros y fiscales judiciales de la Corte de Apelaciones de Santiago.
 El Presidente de la Corte Suprema dará cuenta en esta audiencia:
 1°) Del trabajo efectuado por el tribunal en el año judicial anterior;
 2°) Del que haya quedado pendiente para el año que se inicia;
@@ -605,7 +816,7 @@ El Presidente de la Corte Suprema dará cuenta en esta audiencia:
 4°) De las dudas y dificultades que hayan ocurrido a la Corte Suprema y a las Cortes de Apelaciones en la inteligencia y aplicación de las leyes y de los vacíos que se noten en ellas y de que se haya dado cuenta al Presidente de la República en cumplimiento del artículo 5° del Código Civil.
 Esta exposición será publicada en el Diario Oficial y en la Gaceta de los Tribunales.
 
-Art. 103. Es aplicable a la Corte Suprema lo dispuesto para los acuerdos de las Cortes de Apelaciones por los artículos 72, 73 inciso 2, 74 y siguientes, hasta el 89 inclusive.
+Art. 103. Es aplicable a la Corte Suprema lo dispuesto para los acuerdos de los tribunales orales en lo penal en los artículos 19 y 20, y de las Cortes de Apelaciones en los artículos 72, 74 y siguientes, hasta el 89 inclusive.
 
 Art. 104. Dentro de las horas ordinarias de su funcionamiento y antes de la vista de las causas, el tribunal se ocupará con preferencia, según el orden que fije el Presidente, en los asuntos que deban resolverse en cuenta, en el estudio de proyectos de sentencias, y en el acuerdo de las mismas.
 
@@ -786,30 +997,22 @@ Art. 162. Derogado.
 
 Art. 163. Si no se pudiere establecer con precisión en qué comuna se ha cometido el delito, será competente el juez que primero comenzare a instruir el proceso, con tal que lo sea de alguna de las comunas respecto de las cuales se suscitare la duda. Si no se supiere cuál juez dio principio a la investigación, se aplicará la cuarta regla establecida en el artículo siguiente.
 
-Art. 164. En el caso de delitos conexos sujetos al fuero común, será juez competente para conocer de todos ellos, en un solo proceso: 1°) el de la comuna en que se hubiere cometido el delito de mayor gravedad; 2°) si todos los delitos fueren de igual gravedad, el de la comuna en que se cometió el último delito; 3°) si no se supiere cuál fue el último delito, el juez de la comuna en que se cometió uno de ellos, y que primero hubiere comenzado a instruir el proceso; 4°) si varios jueces hubieren comenzado a instruirlo a un mismo tiempo, aquél que fuere designado por la respectiva Corte de Apelaciones, o por la Corte Suprema, si los jueces dependen de diversas Cortes de Apelaciones.
+Art. 164. Cuando se dictaren distintas sentencias condenatorias en contra de un mismo imputado, los tribunales que dictaren los fallos posteriores al primero no podrán considerar circunstancias modificatorias que de haberse acumulado los procesos no se hubieren podido tomar en cuenta. Deberán, asimismo, regular la pena de modo tal que el conjunto de penas no pueda exceder de aquella que hubiere correspondido de haberse juzgado conjuntamente los delitos.
+En los casos del inciso anterior, el tribunal que dictare el fallo posterior deberá modificarlo, de oficio o a petición del afectado, a objeto de adecuarlo a lo allí dispuesto.
 
-Art. 165. Considéranse delitos conexos:
-1°) Los cometidos simultáneamente por dos o más personas reunidas;
-2°) Los cometidos por dos o más personas en distintos lugares o tiempos, si hubiere precedido concierto entre ellas;
-3°) Los cometidos como medio para perpetrar otro delito, o para facilitar su ejecución; y
-4°) Los cometidos para procurar la impunidad de otros delitos.
+Art. 165. Derogado.
 
 Art. 166. Derogado.
 
 Art. 167. De los delitos a que se refiere el artículo sexto conocerán los tribunales de Santiago.
 
-Art. 168. El tribunal competente para juzgar al autor de un delito lo es también para juzgar a los cómplices y encubridores del mismo delito.
-Si siendo muchos los autores de un delito o de varios delitos conexos, hubiere entre ellos individuos aforados y otros que no lo sean, el tribunal competente para juzgar a los que gozan de fuero, deberá juzgar a los demás autores y a los cómplices y encubridores.
+Art. 168. Derogado.
 
 Art. 169. Si siendo muchos los responsables de un delito o de varios delitos conexos, hubiere entre ellos individuos sometidos a los tribunales militares y otros que no lo estén, el tribunal competente para juzgar a los que gozan de fuero juzgara también a todos los demás.
 
-Art. 170. Cuando se hubiere cometido por un mismo agente delitos de jurisdicción militar y de jurisdicción común, que no sean conexos, el Tribunal Militar será competente para conocer de los primeros y el tribunal ordinario de los segundos. Si la aplicación de esta norma creare alguna interferencia o dificultad para la práctica de medidas o diligencias que se relacionen con el inculpado, tendrán preferencia las requeridas por el Tribunal Militar.
-Los tribunales deberán remitirse recíprocamente copias de los autos de procesamiento y de los fallos que se dictaren en sus respectivas causas, las que deberán agregarse a los autos.
-El tribunal que dictare el último fallo no podrá considerar circunstancias modificatorias de responsabilidad criminal que de estar acumulados los procesos no se hubieren podido tomar en cuenta.
-El procesado podrá solicitar, dentro del plazo de un año, a contar del último fallo, al tribunal superior común, la unificación de las penas cuando ello lo beneficiare.
+Art. 170. Derogado.
 
-Art. 170 bis. El juez que conozca de un proceso por delitos cometidos en diversas comunas o de delitos cuyos actos de ejecución se realizaron en varias comunas, podrá practicar directamente actuaciones judiciales en cualquiera de ellas. En este caso deberá designar un secretario ad-hoc que autorice sus diligencias.
-El funcionario que subrogue al juez podrá actuar, en casos urgentes, aun en la misma causa que motiva la ausencia del titular.
+Art. 170 bis. Derogado.
 
 ### § 6. Reglas sobre competencia civil de los tribunales en lo criminal
 
@@ -818,7 +1021,7 @@ Una vez deducida o acumulada la acción civil ante el juez del crimen, subsiste 
 
 Art. 172. El tribunal que conoce del proceso criminal es competente para resolver acerca de la responsabilidad civil que pueda afectar a terceros a consecuencia de un delito; y podrá adoptar, durante el juicio, las medidas necesarias para hacer a su tiempo efectiva esa responsabilidad.
 
-Art. 173. Si en el juicio criminal se suscita cuestión sobre un hecho de carácter civil que sea uno de los elementos que la ley penal estime para definir el delito que se persigue, o para agravar o disminuir la pena, o para no estimar culpable al autor, el juez del crimen se pronunciará sobre tal hecho.
+Art. 173. Si en el juicio criminal se suscita cuestión sobre un hecho de carácter civil que sea uno de los elementos que la ley penal estime para definir el delito que se persigue, o para agravar o disminuir la pena, o para no estimar culpable al autor, el tribunal con competencia en lo criminal se pronunciará sobre tal hecho.
 Pero las cuestiones sobre validez de matrimonio y sobre cuentas fiscales, serán juzgadas previamente por el tribunal a quien la ley tiene encomendado el conocimiento de ellas.
 La disposición del inciso precedente se aplicará también a las cuestiones sobre estado civil cuya resolución deba servir de antecedente necesario para el fallo de la acción penal persecutoria, de los delitos de usurpación, ocultación o supresión de estado civil.
 En todo caso, la prueba y decisión de las cuestiones civiles que es llamado a juzgar el tribunal que conoce de los juicios criminales, se sujetarán a las disposiciones del derecho civil.
@@ -830,8 +1033,8 @@ El conocimiento de esas excepciones corresponde al tribunal en lo civil.
 
 Art. 175. En las comunas o agrupaciones de comunas en donde hubiere más de un juez de letras, se dividirá el ejercicio de la jurisdicción, estableciéndose un turno entre todos los jueces, salvo que la ley hubiere cometido a uno de ellos el conocimiento de determinadas especies de causas.
 El turno se ejercerá por semanas. Comenzará a desempeñarlo el juez más antiguo, y seguirán desempeñándolo todos los demás por el orden de su antigüedad.
-En materia criminal este turno comenzará a las 24 horas del día domingo de cada semana.
 Cada juez de letras deberá conocer de todos los asuntos judiciales que se promuevan durante su turno, y seguirá conociendo de ellos hasta su conclusión.
+Lo dispuesto en este artículo no se aplicará a los juzgados de garantía ni a los tribunales orales en lo penal, que se regirán por las normas especiales que los regulan.
 
 Art. 176. En los lugares de asiento de Corte en que hubiere más de un juez de letras en lo civil, deberá presentarse a la secretaría de la Corte toda demanda o gestión judicial que se iniciare y que deba conocer alguno de dichos jueces, a fin de que se designe el juez a quien corresponda su conocimiento.
 Esta designación se hará por el presidente del tribunal, previa cuenta dada por el secretario, asignando a cada causa un número de orden, según su naturaleza, y dejando constancia de ella en un libro llevado al efecto que no podrá ser examinado sin orden del tribunal.
@@ -840,12 +1043,11 @@ Art. 177. Derogado.
 
 Art. 178. No obstante lo dispuesto en el artículo 176, serán de la competencia del Juez que hubiere sido designado anteriormente, las demandas en juicios que se hayan iniciado por medidas prejudiciales, por medidas preparatorias de la vía ejecutiva o mediante la notificación previa ordenada por el artículo 758 del Código de Procedimiento Civil; todas las gestiones que se susciten con motivo de un juicio ya iniciado y aquellas a que dé lugar el cumplimiento de una sentencia, fuera del caso previsto en la parte final del artículo 114.
 
-Art. 179. No están sujetos a lo dispuesto en el artículo 176 el ejercicio de las facultades que corresponden a los jueces para proceder de oficio en determinados casos, ni el conocimiento de los asuntos que tienen por objeto dar cumplimiento a resoluciones o decretos de otros juzgados o tribunales, ni los asuntos de jurisdicción voluntaria.
+Art. 179. No están sujetos a lo dispuesto en el artículo 176 el ejercicio de las facultades que corresponden a los jueces para el conocimiento de los asuntos que tienen por objeto dar cumplimiento a resoluciones o decretos de otros juzgados o tribunales, ni los asuntos de jurisdicción voluntaria.
 La jurisdicción en estos casos será ejercida por el juez letrado de turno, a menos que se trate de negocios derivados del conocimiento que otro juzgado tuviere de un determinado asunto, en cuyo caso la jurisdicción podrá también ser ejercida por éste.
 Asimismo, en el territorio jurisdiccional de la Corte de Apelaciones de Santiago el turno para el conocimiento de los asuntos de que trata el presente artículo y demás que leyes especiales dispongan será ejercido simultáneamente por cinco jueces letrados en la forma establecida en el inciso segundo del artículo 175.
 
-Art. 180. En la misma forma establecida en el artículo 176 se distribuirán los juicios criminales que se inicien por querella en las comunas o agrupaciones de comunas de asiento de Corte de Apelaciones en que hubiere más de un juzgado en lo criminal.
-Lo dispuesto en el inciso anterior no regirá respecto de los jueces del crimen de la Región Metropolitana de Santiago, a los cuales se les asigne un territorio jurisdiccional determinado.
+Art. 180. Derogado.
 
 ### § 8. De la prórroga de la competencia
 
@@ -957,15 +1159,26 @@ En el caso de un juez árbitro de única o segunda instancia se entiende, para e
 ## TITULO VIII
 De la subrogación e integración
 
-Art. 206. Derogado.
+Art. 206. En todos los casos en que el juez de garantía falte o no pueda intervenir en determinadas causas, será subrogado por otro juez del mismo juzgado.
+Si el juzgado de garantía contare con un solo juez, éste será subrogado por el juez del juzgado con competencia común de la misma comuna o agrupación de comunas y, a falta de éste, por el secretario letrado de este último.
 
-Art. 207. Derogado.
+Art. 207. Cuando no pueda tener lugar lo dispuesto en el artículo precedente, la subrogación se hará por un juez del juzgado de garantía de la comuna más cercana perteneciente a la jurisdicción de la misma Corte de Apelaciones.
+A falta de éste, subrogará el juez del juzgado con competencia común de la comuna o agrupación de comunas más cercana y, en su defecto, el secretario letrado de este último juzgado.
+En defecto de todos los designados en las reglas anteriores, la subrogación se hará por los jueces de garantía de las restantes comunas de la misma jurisdicción de la Corte de Apelaciones a la cual pertenezcan, en orden de cercanía.
+Para los efectos previstos en este artículo, las Cortes de Apelaciones fijarán cada dos años el orden de cercanía territorial de los distintos juzgados de garantía, considerando la facilidad y rapidez de las comunicaciones entre sus lugares de asiento.
 
-Art. 208. Derogado.
+Art. 208. Cuando no resultare aplicable ninguna de las reglas anteriores, actuará como subrogante un juez de garantía, a falta de éste un juez de letras con competencia común o, en defecto de ambos, el secretario letrado de este último, que dependan de la Corte de Apelaciones más cercana. Regirán con este objeto las reglas previstas por los incisos segundo, tercero y cuarto del artículo 216.
 
-Art. 209. Derogado.
+Art. 209. Los jueces de un juzgado de garantía sólo podrán subrogar a otros jueces de garantía, en los casos previstos en los artículos 206 a 208, y a jueces de tribunales orales en lo penal, en los casos a que se refiere el artículo siguiente.
 
-Art. 210. Suprimido.
+Art. 210. En todos los casos en que una sala de un tribunal oral en lo penal no pudiere constituirse conforme a la ley por falta de jueces que la integren, subrogará un juez perteneciente al mismo tribunal oral y, a falta de éste, un juez de otro tribunal oral en lo penal de la jurisdicción de la misma Corte, para lo cual se aplicarán análogamente los criterios de cercanía territorial previstos en el artículo 207. Para estos fines, se considerará el lugar en el que deba realizarse el juicio oral de que se trate.
+A falta de un juez de un tribunal oral en lo penal de la misma jurisdicción, lo subrogará un juez de juzgado de garantía de la misma comuna o agrupación de comunas, que no hubiere intervenido en la fase de investigación.
+Si no resultare posible aplicar ninguna de las reglas previstas en los incisos anteriores, sea porque los jueces pertenecientes a otros tribunales orales en lo penal o a los juzgados de garantía no pudieren conocer de la causa respectiva o por razones de funcionamiento de unos y otros, actuará como subrogante un juez perteneciente a algún tribunal oral en lo penal que dependa de la Corte de Apelaciones más cercana o, a falta de éste, un juez de un juzgado de garantía de esa otra jurisdicción. Regirán, con tal fin, las reglas previstas en los incisos segundo, tercero y cuarto del artículo 216.
+En defecto de las reglas precedentes, resultará aplicable lo dispuesto en el artículo 213 o, si ello no resultare posible, se postergará la realización del juicio oral hasta la oportunidad más próxima en que alguna de tales disposiciones resultare aplicable.
+
+Art. 210 A. Los jueces pertenecientes a los tribunales orales en lo penal sólo subrogarán a otros jueces de esos tribunales, de conformidad a lo dispuesto en el artículo anterior.
+
+Art. 210 B. Si con ocasión de la aplicación de las reglas previstas en los artículos anteriores hubiere más de un juez que debiere subrogar al juez del juzgado de garantía o al juez del tribunal oral en lo penal, la subrogación se hará por orden de antigüedad, comenzando por el menos antigüo.
 
 Art. 211. En todos los casos en que el juez de letras falte o no pueda conocer de determinados negocios, será subrogado por el secretario del mismo tribunal siempre que sea abogado.
 Sólo a falta de dicho secretario la subrogación se efectuará en la forma que se establece en los artículos siguientes.
@@ -984,6 +1197,7 @@ En tales casos, la subrogación sólo durará el tiempo de la ausencia.
 El secretario dará cuenta mensualmente de estas subrogaciones a la respectiva Corte de Apelaciones, la que deberá dictar las providencias del caso, si este hecho ocurriere con relativa frecuencia.
 Los subrogantes sólo podrán dictar sentencias definitivas en aquellos negocios en que conozcan por inhabilidad, implicancia o recusación del titular; pero esta limitación no regirá cuando el subrogante sea un juez de letras, el defensor público o el secretario del respectivo juzgado.
 No obstante lo dispuesto en los artículos anteriores, el Secretario del Juzgado que no sea abogado subrogará al Juez para el solo efecto de dictar las providencias de mera substanciación, definidas en el artículo 70 del presente Código.
+En los juzgados de garantía y en los tribunales orales en lo penal corresponderá al jefe de la unidad administrativa que tenga a su cargo la función de administración de causas dejar constancia de la subrogación e informar mensualmente de ella a la Corte de Apelaciones.
 
 Art. 215. Si por falta o inhabilidad de algunos de sus miembros quedare una Corte de Apelaciones o cualquiera de sus salas sin el número de jueces necesario para el conocimiento y resolución de las causas que les estuvieren sometidas, se integrarán con los miembros no inhabilitados del mismo tribunal, con sus fiscales y con los abogados que se designen anualmente con este objeto.
 El llamamiento de los integrantes se hará en el orden indicado y los abogados se llamarán por el orden de su designación en la lista de su nombramiento.
@@ -1051,7 +1265,7 @@ Art. 228. Fuera de los casos expresados en el artículo precedente, nadie puede 
 
 Art. 229. No Podrán ser sometidas a la resolución de árbitros las cuestiones que versen sobre alimentos o sobre derecho de pedir separación de bienes entre marido y mujer.
 
-Art. 230. Tampoco podrán someterse a la decisión de árbitro las causas criminales, las de policía local, las que se susciten entre un represente legal y su representado, y aquellas en que debe ser oído el ministerio público.
+Art. 230. Tampoco podrán someterse a la decisión de árbitro las causas criminales, las de policía local, las que se susciten entre un represente legal y su representado, y aquellas en que debe ser oído el fiscal judicial.
 Todo lo cual se entiende sin perjuicio de lo dispuesto en el artículo 227.
 
 Art. 231. Pueden las partes, si obran de acuerdo, nombrar para la resolución de un litigio dos o más árbitros.
@@ -1117,7 +1331,7 @@ Art. 247. La inamovilidad de que habla el artículo 77 de la Constitución del E
 
 ### § 2. Requisitos, inhabilidades e incompatibilidades
 
-Art. 248. Derogado.
+Art. 248. Para todos los efectos de este Código se entenderá que las referencias hechas a los jueces letrados o jueces de letras incluyen también a los jueces de juzgados de garantía y a los jueces de los tribunales orales en lo penal, salvo los casos en que la ley señale expresamente lo contrario.
 
 Art. 249. Derogado.
 
@@ -1132,7 +1346,7 @@ Art. 252. Para ser juez de letras se requiere:
 Tratándose de abogados ajenos a la Administración de Justicia que postulen directamente al cargo de juez de letras de comuna o agrupación de comunas, se requerirá que, además de los requisitos establecidos precedentemente, hayan ejercido la profesión de abogado por un año, a lo menos.
 Para ser juez de letras de capital de provincia o de asiento de Corte de Apelaciones se requerirá, además, reunir los requisitos que se establecen en la letra b) del artículo 284.
 
-Art. 253. Para ser ministro o fiscal de Corte de Apelaciones se requiere:
+Art. 253. Para ser ministro o fiscal judicial de Corte de Apelaciones se requiere:
 1° Ser chileno;
 2° Tener el título de abogado, y
 3° Cumplir, tratándose de miembros del Escalafón Primario, con los requisitos que se establecen en la letra a) del artículo 284, y haber aprobado el programa de perfeccionamiento profesional para ser ministro de Corte de Apelaciones. En ningún caso podrá ser ministro de Corte de Apelaciones quien no haya desempeñado, efectiva y continuadamente, la función de juez letrado, por un año a lo menos. Lo anterior es sin perjuicio de lo dispuesto en el artículo 280.
@@ -1157,18 +1371,18 @@ Esta incapacidad no comprende a los condenados por delito contra la seguridad in
 7°) Los fallidos, a menos que hayan sido rehabilitados en conformidad a la ley; y
 8°) Los que hayan recibido órdenes eclesiásticas mayores.
 
-Art. 257. Los que hubieren desempeñado los cargos de Presidente de la República, Ministros de Estado, Intendentes, Gobernadores o Secretarios de Intendencia, no podrán ser nombrados miembros de los Tribunales Superiores de Justicia, jueces letrados, fiscales, ni relatores, ya sea en propiedad, ya interinamente o como suplentes, sino un año después de haber cesado en el desempeño de sus funciones administrativas.
+Art. 257. Los que hubieren desempeñado los cargos de Presidente de la República, Ministros de Estado, Intendentes, Gobernadores o Secretarios de Intendencia, no podrán ser nombrados miembros de los Tribunales Superiores de Justicia, jueces letrados, fiscales judiciales, ni relatores, ya sea en propiedad, ya interinamente o como suplentes, sino un año después de haber cesado en el desempeño de sus funciones administrativas.
 
 Art. 258. No pueden ser simultáneamente jueces de una misma Corte de Apelaciones, los parientes consanguíneos o afines en línea recta, ni los colaterales que se hallen dentro del segundo grado de consanguinidad o afinidad.
 
-Art. 259. No podrá ser nombrado ministro de Corte de Apelaciones ni ser incluido en la terna correspondiente quien esté ligado con algún ministro o fiscal de la Corte Suprema por matrimonio, por parentesco de consanguinidad hasta el tercer grado inclusive, por afinidad hasta el segundo grado, o por adopción.
+Art. 259. No podrá ser nombrado ministro de Corte de Apelaciones ni ser incluido en la terna correspondiente quien esté ligado con algún ministro o fiscal judicial de la Corte Suprema por matrimonio, por parentesco de consanguinidad hasta el tercer grado inclusive, por afinidad hasta el segundo grado, o por adopción.
 Quien sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el inciso anterior con un ministro de Corte de Apelaciones no podrá figurar en ternas o ser nombrado en cargo alguno del Escalafón Primario que deba desempeñarse dentro del territorio jurisdiccional de la Corte de Apelaciones donde aquél ejerce su ministerio.
 En caso de producirse el nombramiento de un ministro en una Corte en cuyo territorio jurisdiccional se desempeñan en el Escalafón Primario su cónyuge o alguno de los parientes indicados en el inciso primero, estos últimos deberán ser trasladados de inmediato al territorio jurisdiccional de otra Corte.
 En caso de producirse el nombramiento de un juez o ministro de Corte de Apelaciones que quede en situación de participar en la calificación de un receptor, procurador del número o miembro del Escalafón de Empleados y que se vincule con él por matrimonio o por alguno de los parentescos o vínculos indicados en el inciso primero, se deberá proceder al traslado de este último.
 Si dos miembros de un mismo tribunal, estando ya en funciones, contrajeren matrimonio o alguno de los parentescos señalados en el artículo 258, uno de ellos será trasladado a un cargo de igual jerarquía. El traslado afectará a aquel cuyo acto haya generado el parentesco y, en caso de matrimonio, a aquel que determinen los cónyuges de común acuerdo o, a falta de asenso, la Corte Suprema.
 El ministro de la Corte Suprema que sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el inciso primero con un miembro del Poder Judicial, no podrá tomar parte alguna en asuntos en que éste pueda tener interés.
 
-Art. 260. No podrán ingresar en el Escalafón Secundario aquellos que sean cónyuges o tengan alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o fiscal de la Corte Suprema o de Corte de Apelaciones, o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer.
+Art. 260. No podrán ingresar en el Escalafón Secundario aquellos que sean cónyuges o tengan alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o fiscal judicial de la Corte Suprema o de Corte de Apelaciones, o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer.
 No podrá ingresar en el Escalafón del Personal de Empleados el que sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o con el fiscal de la Corte Suprema o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer.
 Del mismo modo, no puede ser incluido en terna ni ser nombrado en el referido escalafón aquel que sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el inciso anterior con quien, por razón de su cargo, deba o pueda participar en su calificación.
 
@@ -1184,9 +1398,9 @@ Art. 264. Habrá un Escalafón General de antigüedad del Poder Judicial compues
 El Escalafón Primario se dividirá en categorías y el Secundario en series y categorías.
 Habrá también, un Escalafón del Personal de Empleados.
 
-Art. 265. En el Escalafón Primario figurarán: los ministros y el fiscal de la Corte Suprema, los ministros y fiscales de las Cortes de Apelaciones, los jueces letrados, los relatores, los secretarios de Corte y de juzgados de letras, el prosecretario de la Corte Suprema y el secretario abogado del fiscal de ese mismo tribunal.
-En el Escalafón Secundario figurarán: los defensores públicos, notarios, conservadores, archiveros, procuradores del número, receptores, asistentes sociales y bibliotecarios.
-En el Escalafón Especial del personal subalterno, figurarán los empleados de secretaría de los Tribunales de Justicia, los empleados de los fiscales y los empleados, con nombramiento fiscal de los defensores públicos.
+Art. 265. En el Escalafón Primario figurarán: los ministros y el fiscal judicial de la Corte Suprema, los ministros y fiscales judiciales de las Cortes de Apelaciones, los jueces letrados, los relatores, los secretarios de Corte y de juzgados de letras, el prosecretario de la Corte Suprema y el secretario abogado del fiscal judicial de ese mismo tribunal.
+En el Escalafón Secundario figurarán: los defensores públicos, notarios, conservadores, archiveros, administradores, subadministradores y jefes de unidades de tribunales con competencia en lo criminal, procuradores del número, receptores, asistentes sociales y bibliotecarios.
+En el Escalafón Especial del personal subalterno, figurarán los empleados de secretaría de los Tribunales de Justicia, los empleados de los fiscales judiciales y los empleados, con nombramiento fiscal de los defensores públicos.
 
 Art. 266. Dentro de las respectivas categorías del Escalafón General se colocará a los diversos funcionarios por orden estricto de antigüedad, según las fechas de sus nombramientos en propiedad para esa categoría o desde la fecha de su nombramiento de suplente o interino, si obtienen en seguida la propiedad del cargo. Si con la aplicación de la regla que precede, dos o más funcionarios resultaren en iguales condiciones, se determinará la antigüedad por la fecha del juramento y si esto no pudiere aplicarse, se tendrá por más antiguo al que lo era en el grado inferior.
 A los funcionarios judiciales del Escalafón Secundario que hubieren desempeñado cargos en el Primario, se les abonará el tiempo servido en este último, para los efectos de su antigüedad en el puesto de ingreso.
@@ -1195,14 +1409,14 @@ Inciso derogado.
 #### 1). Escalafón Primario
 
 Art. 267. El Escalafón Primario tendrá las siguientes categorías:
-Primera Categoría: Ministros y fiscal de la Corte Suprema.
-Segunda Categoría: Ministros y fiscales de las Cortes de Apelaciones, y relatores y secretario de la Corte Suprema.
-Tercera Categoría: Jueces letrados de juzgados de ciudad asiento de Corte de Apelaciones, y relatores y secretarios de Corte de Apelaciones.
-Cuarta Categoría: Jueces letrados de juzgados de ciudad capital de provincia.
-Quinta Categoría: Jueces letrados de juzgados de comuna o agrupación de comunas y secretarios de juzgados de letras de ciudad asiento de Corte de Apelaciones.
+Primera Categoría: Presidente, ministros y fiscal judicial de la Corte Suprema.
+Segunda Categoría: Presidente, ministros y fiscales judiciales de las Cortes de Apelaciones, y relatores y secretario de la Corte Suprema.
+Tercera Categoría: Jueces de tribunales orales en lo penal de ciudad asiento de Corte de Apelaciones, jueces letrados de juzgados de ciudad asiento de Corte de Apelaciones, jueces de juzgados de garantía de ciudad asiento de Corte de Apelaciones y relatores y secretarios de Corte de Apelaciones.
+Cuarta Categoría: Jueces de tribunales orales en lo penal de ciudad asiento de capital de provincia, jueces letrados de juzgados de ciudad capital de provincia y jueces de juzgados de garantía de ciudad asiento de capital de provincia.
+Quinta Categoría: Jueces de tribunales orales en lo penal de comuna o agrupación de comunas, jueces letrados de juzgados de comuna o agrupación de comunas, jueces de juzgados de garantía de comuna o agrupación de comunas, y secretarios de juzgados de letras de ciudad asiento de Corte de Apelaciones.
 Sexta Categoría: Secretarios de juzgados de letras de capital de provincia, prosecretario de la Corte Suprema y secretario abogado del fiscal de ese mismo tribunal.
 Séptima Categoría: Secretarios de juzgados de letras de comuna o agrupación de comunas.
-Los relatores de la Corte Suprema y de las Cortes de Apelaciones se incorporarán a las categorías que respectivamente se les asigna en los términos del artículo 285.
+Los relatores de la Corte Suprema y de las Cortes de Apelaciones se incorporarán a las categorías que respectivamente se les asignan en los términos del artículo 285.
 
 Art. 268. Derogado.
 
@@ -1211,13 +1425,20 @@ Art. 268. Derogado.
 Art. 269. El Escalafón Secundario tendrá las siguientes series:
 Primera Serie: Defensores públicos.
 Segunda Serie: Notarios, conservadores y archiveros.
-Tercera Serie: Procuradores del número.
-Cuarta Serie: Receptores de juzgados de letras.
-Quinta Serie: Asistentes sociales y bibliotecarios.
-Cada una de estas series se dividirá en tres categorías.
+Tercera Serie: Administradores, subadministradores y jefes de unidades de tribunales con competencia en lo criminal.
+Cuarta Serie: Procuradores del número.
+Quinta Serie: Receptores de juzgados de letras.
+Sexta Serie: Asistentes sociales y bibliotecarios.
+Cada una de estas series, con excepción de la tercera, se dividirá en tres categorías.
 Figurarán en la primera categoría los funcionarios de las cinco series que desempeñen sus cargos en una comuna o agrupación de comunas que sirva de asiento a una Corte de Apelaciones, o en el territorio jurisdiccional de juzgados considerados en la categoría de asiento de Corte de Apelaciones.
 En la segunda categoría, los funcionarios de las cinco series que desempeñen sus cargos en el territorio jurisdiccional de juzgados de capital de provincia.
 En la tercera categoría, los funcionarios de las cinco series que sirven sus cargos en el territorio jurisdiccional de juzgados de comuna o agrupación de comunas.
+La tercera serie, tendrá las siguientes categorías:
+Primera categoría: Administrador de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones.
+Segunda Categoría: Administrador de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y subadministrador de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones.
+Tercera categoría: Administrador de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, subadministrador de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, y jefe de unidad de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones.
+Cuarta categoría: Subadministrador de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, y jefe de unidad de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia.
+Quinta categoría: Jefe de unidad de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas.
 
 #### 3). Formación del Escalafón y calificación del personal
 
@@ -1230,16 +1451,16 @@ El tribunal resolverá la reclamación en la segunda quincena de Mayo. Si la rec
 Art. 272. La Corte Suprema hará en el Escalafón las modificaciones que sean necesarias en virtud de las reclamaciones, vacancias y nombramientos que se produzcan en el curso del año. Estas modificaciones deberán comunicarse a las Cortes de Apelaciones y a los funcionarios que, en razón de sus cargos, deban formar ternas judiciales.
 Las reformas que incidan en las reclamaciones se comunicarán también al Ministerio de Justicia.
 
-Art. 273. Los funcionarios del Escalafón Primario, con la sola excepción de los ministros y fiscal de la Corte Suprema, los funcionarios del Escalafón Secundario y los empleados del Poder Judicial serán calificados anualmente atendiendo a la conducta funcionaria y desempeño observados en ese período, en la forma en que se dispone en los artículos siguientes.
+Art. 273. Los funcionarios del Escalafón Primario, con la sola excepción de los ministros y fiscal judicial de la Corte Suprema, los funcionarios del Escalafón Secundario y los empleados del Poder Judicial serán calificados anualmente atendiendo a la conducta funcionaria y desempeño observados en ese período, en la forma en que se dispone en los artículos siguientes.
 El período de calificación comprenderá doce meses de desempeño funcionario y se extenderá desde el 1° de noviembre al 31 de octubre del año siguiente.
 El proceso de calificaciones deberá iniciarse el 1° de noviembre y quedará terminado, a más tardar, el 31 de enero de cada año.
 La evaluación se hará por quienes se indica a continuación:
 a) La Corte Suprema, en pleno, calificará a los ministros de Cortes de Apelaciones, a los relatores y procuradores del número que se desempeñen en dicho tribunal, a su secretario, prosecretario y empleados;
 b) Las Cortes de Apelaciones, en pleno, calificarán a los jueces de letras, a sus secretarios, relatores y empleados, y a los secretarios de juzgados y funcionarios auxiliares de la Administración de Justicia que ejerzan sus funciones en el territorio jurisdiccional de juzgados de ciudad asiento de Corte de Apelaciones. También calificarán a los demás notarios que ejerzan funciones en el territorio de su jurisdicción, previo informe del juez o de los jueces en cuyo territorio jurisdiccional se desempeñen;
-c) El fiscal de la Corte Suprema calificará a su secretario abogado, a los empleados de su oficio y a los fiscales de las Cortes de Apelaciones;
-d) Los fiscales de las Cortes de Apelaciones calificarán a los empleados de su oficio, y
+c) El fiscal judicial de la Corte Suprema calificará a su secretario abogado, a los empleados de su oficio y a los fiscales de las Cortes de Apelaciones;
+d) Los fiscales judiciales de las Cortes de Apelaciones calificarán a los empleados de su oficio, y
 e) Los jueces letrados calificarán a sus asistentes sociales y empleados y a los funcionarios auxiliares de la Administración de Justicia no comprendidos en las letras anteriores que se desempeñen dentro de sus respectivos territorios jurisdiccionales. En este último caso, en los lugares en que existan dos jueces de letras, la calificación la hará el más antiguo, y en aquellos en que existan más de dos se constituirán todos en comisión calificadora. Si fueren más de cinco, la comisión estará constituida por los cinco jueces de mayor antigüedad.
-Actuará como secretario de estas comisiones, el secretario del tribunal donde se desempeñe su presidente, y si hubiere dos o más secretarios, el que éste designe. Si la calificación corresponde hacerla a una sola persona, ésta designará, en el mes de octubre de cada año, un secretario entre sus subordinados o auxiliares de la Administración de Justicia de su territorio jurisdiccional.
+Actuará como secretario de estas comisiones, el secretario del tribunal donde se desempeñe su presidente o en su defecto, el secretario más antiguo de cualquiera de los tribunales cuyos jueces integren la comisión, y si hubiere dos o más secretarios, el que éste designe. Si la calificación corresponde hacerla a una sola persona, ésta designará, en el mes de octubre de cada año, un secretario entre sus subordinados o auxiliares de la Administración de Justicia de su territorio jurisdiccional.
 
 Art. 274. Los secretarios de los órganos calificadores indicados en el artículo 273, deberán cumplir, entre otras, las siguientes funciones:
 a) Reunir, dentro de los primeros quince días del mes de noviembre de cada año, las hojas de vida, con los antecedentes agregados, correspondientes a las personas que deba evaluar el respectivo órgano calificador, para lo cual las solicitará de quien deba llevarlas conforme a lo establecido en el artículo 277;
@@ -1262,16 +1483,16 @@ Las demás calificaciones sólo podrán ser objeto del recurso de apelación, ig
 Estos recursos deberán interponerse en el plazo fatal de cinco días hábiles contados desde la fecha de notificación de la calificación de la que se pide reposición o se apela. Si la notificación se hubiese hecho por carta certificada, se entenderá efectuada transcurridos que sean tres días hábiles desde la fecha de entrega de la carta al Servicio de Correos. Los recursos, dirigidos al órgano calificador que deba conocer de ellos, se presentarán directamente ante el que haya efectuado la evaluación, cuyo secretario deberá remitirlos, dentro de 48 horas, al que deba conocerlos.
 La calificación hecha por el órgano calificador de apelación no será susceptible de recurso alguno.
 Corresponderá conocer del recurso de apelación a los siguientes órganos:
-a) Al pleno de la Corte Suprema, si la calificación fue efectuada por una Corte de Apelaciones o por el fiscal de la misma Corte Suprema;
-b) Al fiscal de la Corte Suprema, si la calificación fue hecha por un fiscal de Corte de Apelaciones, y
+a) Al pleno de la Corte Suprema, si la calificación fue efectuada por una Corte de Apelaciones o por el fiscal judicial de la misma Corte Suprema;
+b) Al fiscal judicial de la Corte Suprema, si la calificación fue hecha por un fiscal judicial de Corte de Apelaciones, y
 c) Al pleno de la Corte de Apelaciones respectiva, si la calificación fue realizada por un juez o por una comisión calificadora de jueces.
-En estos casos actuará como secretario el que lo sea de la respectiva Corte o del fiscal. Si en ésa existieren más de dos, por el que designe el Presidente. En la relación, además de los antecedentes señalados en el inciso primero del artículo 278, deberán exponerse los fundamentos del recurso interpuesto.
+En estos casos actuará como secretario el que lo sea de la respectiva Corte o del fiscal judicial. Si en ésa existieren más de dos, por el que designe el Presidente. En la relación, además de los antecedentes señalados en el inciso primero del artículo 278, deberán exponerse los fundamentos del recurso interpuesto.
 La apelación implica una recalificación del apelante, la que deberá hacerse en los términos del artículo 278, debiendo considerarse especialmente en ella los aspectos y materias que el apelante, según la calificación apelada, debe mejorar o corregir. El puntaje que arroje esta recalificación será el puntaje calificatorio definitivo. El órgano calificador que conozca de la apelación deberá efectuar la recalificación dentro de los diez días hábiles siguientes a la fecha de su presentación. La recalificación se notificará al interesado en la forma expresada en el inciso tercero, por el secretario de estos tribunales y será comunicada al órgano calificador respectivo.
 Todas las calificaciones, una vez que se encuentren ejecutoriadas, serán comunicadas por los secretarios de los órganos calificadores, mediante oficio reservado, a la Corte Suprema, Cortes de Apelaciones y Ministerio de Justicia, para los efectos que procedan.
 
-Art. 277. El Secretario del tribunal en donde presten servicios, llevará una hoja de vida de cada persona que deba ser evaluada; si existe más de un secretario, el tribunal distribuirá entre ellos esta labor.
-En el caso de los funcionarios auxiliares de la Administración de Justicia señalados en la letra b) del artículo 273, corresponderá esta tarea al secretario de la Corte de Apelaciones o al que designe ese tribunal, de haber más de uno. Respecto de los funcionarios auxiliares indicados en la letra e) del mismo artículo, corresponderá al secretario del tribunal que designe la respectiva Corte de Apelaciones. En el caso a que se refiere la letra c) de dicho artículo, corresponderá esta tarea al secretario abogado del fiscal de la Corte Suprema y en el de la letra d) de la misma disposición, al respectivo fiscal.
-Las hojas de vida de las personas a quienes se asigna esta labor serán llevadas por el Presidente de la Corte Suprema, por el fiscal de la Corte Suprema, por los Presidentes de las Cortes de Apelaciones o por los jueces, según corresponda.
+Art. 277. El secretario o administrador del tribunal en donde presten servicios, llevará una hoja de vida de cada persona que deba ser evaluada; si existe más de un secretario, el tribunal distribuirá entre ellos esta labor.
+En el caso de los funcionarios auxiliares de la Administración de Justicia señalados en la letra b) del artículo 273, corresponderá esta tarea al secretario de la Corte de Apelaciones o al que designe ese tribunal, de haber más de uno. Respecto de los funcionarios auxiliares indicados en la letra e) del mismo artículo, corresponderá al secretario del tribunal que designe la respectiva Corte de Apelaciones. En el caso a que se refiere la letra c) de dicho artículo, corresponderá esta tarea al secretario abogado del fiscal judicial de la Corte Suprema y en el de la letra d) de la misma disposición, al respectivo fiscal judicial.
+Las hojas de vida de las personas a quienes se asigna esta labor serán llevadas por el Presidente de la Corte Suprema, por el fiscal judicial de la Corte Suprema, por los Presidentes de las Cortes de Apelaciones o por los jueces, según corresponda.
 En la hoja de vida los encargados dejarán constancia clara, oportuna y precisa, de las medidas disciplinarias ejecutoriadas y de las apreciaciones de mérito y de demérito que ordenen anotar los tribunales, ministros visitadores y los funcionarios calificadores indicados en el artículo 273 respecto de las personas que les corresponda calificar. Tratándose de tribunales colegiados, las anotaciones de mérito o de demérito serán decretadas por el tribunal pleno o por cualquiera de las salas de que se componen.
 Los antecedentes que figuren en la hoja de vida serán reservados, salvo para la persona a que se refieren, la que podrá imponerse de su contenido las veces que estime conveniente y hacer llegar al encargado de llevarlas, antes que se inicie el proceso de calificación, las observaciones y antecedentes que desee, para ser agregados.
 Ante el mismo encargado y en igual oportunidad, las personas que deben ser evaluadas podrán pedir que se anote en su hoja de vida la circunstancia de haber participado en actividades idóneas de capacitación y perfeccionamiento, para lo cual deberán acompañar los certificados y comprobantes pertinentes.
@@ -1293,8 +1514,8 @@ Estas circunstancias deberán ser comunicadas de inmediato por el órgano califi
 
 #### 4). Los nombramientos
 
-Art. 279. Para proceder al nombramiento en propiedad de un cargo en el Escalafón Primario que se encontrare vacante, el tribunal respectivo llamará a concurso, por el lapso de diez días, el que podrá prorrogar por términos iguales si no se presentaren oponentes en número suficiente para formar las listas que deben ser enviadas al Presidente de la República, para los efectos previstos en el artículo 263; salvo que se trate de proveer los cargos de ministro o fiscal de la Corte Suprema, en que se procederá sin previo concurso.
-El secretario del tribunal que llame a concurso comunicará su apertura por télex, fax o telégrafo a todas las Cortes de Apelaciones del país, las que deberán ponerlo en conocimiento de los tribunales de su territorio jurisdiccional por medios idóneos. La omisión de esta última comunicación no invalidará el concurso, sin perjuicio de la responsabilidad del secretario. Además, dicho secretario deberá insertar un aviso de la apertura del concurso en el Diario Oficial. A partir de la fecha de publicación del aviso se contará el plazo señalado en el inciso primero.
+Art. 279. Para proceder al nombramiento en propiedad de un cargo en el Escalafón Primario que se encontrare vacante, el tribunal respectivo llamará a concurso, por el lapso de diez días, el que podrá prorrogar por términos iguales si no se presentaren oponentes en número suficiente para formar las listas que deben ser enviadas al Presidente de la República, para los efectos previstos en el artículo 263; salvo que se trate de proveer los cargos de ministro o fiscal judicial de la Corte Suprema, en que se procederá sin previo concurso.
+El secretario o el administrador del tribunal que llame a concurso comunicará su apertura por télex, fax o telégrafo a todas las Cortes de Apelaciones del país, las que deberán ponerlo en conocimiento de los tribunales de su territorio jurisdiccional por medios idóneos. La omisión de esta última comunicación no invalidará el concurso, sin perjuicio de la responsabilidad del secretario o el administrador. Además, dicho secretario o el administrador deberá insertar un aviso de la apertura del concurso en el Diario Oficial. A partir de la fecha de publicación del aviso se contará el plazo señalado en el inciso primero.
 Los interesados que reúnan los requisitos que la ley exige para optar al cargo deberán acompañar su currículum vitae y demás antecedentes justificativos de sus méritos.
 La elección de las personas que deban figurar en las propuestas o ternas para la suplencia o interinato de alguno de los cargos del Escalafón Primario se limitará a los funcionarios que presten sus servicios dentro del territorio jurisdiccional de la Corte respectiva. Sólo a falta de ellos podrá elegirse libremente de entre los demás funcionarios que reúnan las condiciones necesarias.
 Sin embargo, cuando se trate de propuestas o ternas para el nombramiento, en calidad de interinos o suplentes, de relatores o secretarios de Corte de Apelaciones, podrán figurar en ellas, a falta de funcionarios que reúnan los requisitos generales de idoneidad para tales funciones, otros de la quinta o sexta categoría, cualquiera sea el territorio jurisdiccional a que pertenezcan y el tiempo que hayan permanecido en la respectiva categoría.
@@ -1306,15 +1527,15 @@ En caso que algún ministro de Corte de Apelaciones o juez letrado deba figurar 
 En las propuestas deberá dejarse constancia del número de votos obtenidos por los oponentes en cada una de las votaciones que han debido efectuarse para la confección de la quina o de la terna.
 
 Art. 282. La formación de las listas, ternas o propuestas, deberá hacerse por el tribunal respectivo con asistencia de la mayoría absoluta de los miembros de que se componga. Las elecciones se harán en votación secreta y por mayoría absoluta de los presentes. En caso de empate por dos veces, decidirá el voto del que presida.
-El fiscal de la Corte Suprema integrará el tribunal pleno de esa Corte para los efectos de lo dispuesto en el inciso anterior cuando se trate de formar ternas para la provisión de cargos de fiscales de Corte de Apelaciones.
+El fiscal judicial de la Corte Suprema integrará el tribunal pleno de esa Corte para los efectos de lo dispuesto en el inciso anterior cuando se trate de formar ternas para la provisión de cargos de fiscales de Corte de Apelaciones.
 
-Art. 283. Para proveer el cargo de ministro o fiscal de la Corte Suprema, este tribunal enviará al Presidente de la República una lista de cinco personas, en la que deberá figurar el ministro más antiguo de Corte de Apelaciones que esté en lista de méritos. Los otros cuatro lugares se llenarán conforme a lo establecido en el inciso primero del artículo 281. Ello no obstante, podrán integrar la quina abogados extraños a la Administración de Justicia, elegidos por méritos.
+Art. 283. Para proveer el cargo de ministro o fiscal judicial de la Corte Suprema, este tribunal enviará al Presidente de la República una lista de cinco personas, en la que deberá figurar el ministro más antiguo de Corte de Apelaciones que esté en lista de méritos. Los otros cuatro lugares se llenarán conforme a lo establecido en el inciso primero del artículo 281. Ello no obstante, podrán integrar la quina abogados extraños a la Administración de Justicia, elegidos por méritos.
 
 Art. 284. Para proveer los demás cargos del Escalafón Primario, se formarán ternas del modo siguiente:
-a) Para ministros y fiscales de Corte de Apelaciones y secretario de la Corte Suprema, con el juez de letras en lo civil o criminal más antiguo de asiento de Corte calificado en lista de méritos y que exprese su interés por el cargo y con dos ministros de Corte de Apelaciones o integrantes de la segunda o tercera categoría que se hayan opuesto al concurso, elegidos de conformidad a lo establecido en el inciso primero del artículo 281;
-b) Para integrantes de las categorías tercera y cuarta, con excepción de los relatores de las Cortes de Apelaciones, con el juez de letras en lo civil o criminal más antiguo de la categoría inferior calificado en lista de méritos y que exprese su interés en el cargo y con dos integrantes de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, que se hayan opuesto al concurso, elegidos de conformidad a lo establecido en el inciso primero del artículo 281;
+a) Para ministros y fiscales judiciales de Corte de Apelaciones y secretario de la Corte Suprema, con el juez de tribunal oral en lo penal, el juez de letras o el juez de juzgado de garantía más antiguo de asiento de Corte calificado en lista de méritos y que exprese su interés por el cargo y con dos ministros de Corte de Apelaciones o integrantes de la segunda o tercera categoría que se hayan opuesto al concurso, elegidos de conformidad a lo establecido en el inciso primero del artículo 281;
+b) Para integrantes de las categorías tercera y cuarta, con excepción de los relatores de las Cortes de Apelaciones, con el juez de tribunal oral en lo penal, el juez de letras o el juez de juzgado de garantía más antiguo de la categoría inferior calificado en lista de méritos y que exprese su interés en el cargo y con dos integrantes de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, que se hayan opuesto al concurso, elegidos de conformidad a lo establecido en el inciso primero del artículo 281;
 c) Para integrantes de la quinta categoría, con el funcionario más antiguo de la categoría inferior que se encuentre calificado en lista de méritos y exprese su interés en el cargo y con uno o dos integrantes de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos de conformidad a lo establecido en el inciso primero del artículo 281, o con uno o dos abogados extraños al Poder Judicial que se hayan opuesto al concurso, elegidos en conformidad con lo dispuesto en el artículo 284 bis;
-d) Para integrantes de la sexta categoría, con excepción del prosecretario de la Corte Suprema y del secretario abogado del fiscal de ese mismo tribunal, con el funcionario más antiguo de la séptima categoría que figure en lista de méritos y que exprese su interés en el cargo que se trata de proveer y con uno o dos integrantes de la misma categoría o de la inmediatamente inferior, elegidos de conformidad a lo establecido en el inciso primero del artículo 281, o con uno o dos abogados extraños al Poder Judicial que se hubiesen opuesto al concurso, elegidos en conformidad a lo dispuesto en el artículo 284 bis, y
+d) Para integrantes de la sexta categoría, con excepción del prosecretario de la Corte Suprema y del secretario abogado del fiscal judicial de ese mismo tribunal, con el funcionario más antiguo de la séptima categoría que figure en lista de méritos y que exprese su interés en el cargo que se trata de proveer y con uno o dos integrantes de la misma categoría o de la inmediatamente inferior, elegidos de conformidad a lo establecido en el inciso primero del artículo 281, o con uno o dos abogados extraños al Poder Judicial que se hubiesen opuesto al concurso, elegidos en conformidad a lo dispuesto en el artículo 284 bis, y
 e) Para integrantes de la séptima categoría, con funcionarios de la misma categoría elegidos de conformidad a lo establecido en el inciso primero del artículo 281, o con abogados extraños al Poder Judicial que se hayan opuesto al concurso, elegidos en conformidad a lo dispuesto en el artículo 284 bis.
 A falta de postulantes a las categorías indicadas en las letras b) y c) de este artículo, podrán ocupar uno o dos lugares de libre elección, los funcionarios que se encuentren incorporados en la categoría inferior subsiguiente a la del cargo que se trata de proveer, siempre conforme a lo dispuesto en el inciso primero del artículo 281.
 El funcionario que goce del derecho para figurar en terna por antigüedad, de acuerdo con lo dispuesto en este artículo, deberá expresar su interés en el cargo dentro de diez días, contados desde la publicación de la apertura del concurso en el Diario Oficial. Si así no lo hiciere, se prescindirá de él.
@@ -1338,7 +1559,7 @@ Art. 285 bis. El nombramiento del prosecretario de la Corte Suprema se hará a p
 Este funcionario subrogará al secretario y se aplicará la norma del inciso segundo del artículo 500.
 Además de las otras funciones que le corresponden, desempeñará el cargo de relator cuando el tribunal lo estime conveniente.
 Todas las menciones que en las leyes se hagan al oficial primero de la Corte Suprema se entenderán referidas al prosecretario.
-El secretario abogado del fiscal de la Corte Suprema será designado a propuesta de dicho fiscal.
+El secretario abogado del fiscal judicial de la Corte Suprema será designado a propuesta de dicho fiscal.
 
 Art. 286. Las ternas para proveer los cargos de defensores públicos se formarán del modo siguiente:
 a) Para defensores públicos de las categorías primera y segunda del Escalafón Secundario, con el defensor público más antiguo de la categoría inmediatamente inferior que figure en lista de méritos y que exprese su interés en el cargo y con dos defensores públicos de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos de conformidad a lo dispuesto en el inciso primero del artículo 281. Sólo a falta de éstos podrán figurar en las ternas abogados ajenos al Escalafón, elegidos por méritos, y
@@ -1351,9 +1572,13 @@ Para los efectos del derecho propio, se aplicará lo dispuesto en el inciso fina
 b) Para integrantes de la segunda categoría, con el notario, conservador o archivero más antiguo de la categoría inmediatamente inferior que figure en lista de méritos y que exprese su interés en el cargo. Al efecto, tendrá aplicación lo dispuesto en el inciso final del artículo 284. Un segundo lugar será ocupado por el notario, conservador o archivero de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, que se oponga al concurso, elegido de conformidad a lo establecido en el inciso primero del artículo 281. El tercer lugar en la terna será ocupado por uno de los notarios, conservadores o archiveros recién aludidos, elegido de conformidad al inciso primero del artículo 281, o por un abogado extraño a la carrera, elegido por méritos. Entre estos abogados extraños no podrá figurar un miembro del Escalafón Primario, y
 c) Para integrantes de la tercera categoría, con el o los notarios, conservadores o archiveros de la misma categoría, los que, en caso de oponerse, ocuparán al menos un lugar en la terna, elegido o elegidos de conformidad a lo establecido en el inciso primero del artículo 281, y con abogados ajenos al Escalafón que se opongan al cargo, elegidos por méritos.
 
-Art. 288. Derogado.
+Art. 288. Las ternas para proveer los cargos de la tercera serie del Escalafón Secundario se formarán del modo siguiente:
+a) Para integrantes de la primera categoría, con el funcionario de la categoría inmediatamente anterior que figure en primer lugar en lista de méritos y que exprese su interés en el cargo y con dos integrantes de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, que se hayan opuesto al concurso, elegidos de conformidad al artículo 281;
+b) Para integrantes de la segunda categoría, con el funcionario de la categoría inmediatamente anterior que figure en primer lugar en lista de méritos y que exprese su interés en el cargo y con dos integrantes de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, que se hayan opuesto al concurso, elegidos de conformidad al artículo 281;
+c) Para integrantes de la tercera categoría, con el funcionario de la categoría inmediatamente anterior que figure en primer lugar en lista de méritos y que exprese su interés en el cargo y con uno o dos integrantes de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, que se hayan opuesto al concurso, elegidos de conformidad al artículo 281, o con uno o dos profesionales extraños al Poder Judicial que se hayan opuesto al concurso, elegidos de acuerdo al mismo procedimiento contemplado en el artículo 284 bis para los cargos de jueces;
+d) Para integrantes de la cuarta y quinta categoría, con el funcionario de la categoría inmediatamente anterior que figure en primer lugar en lista de méritos y que exprese su interés en el cargo y con uno o dos integrantes de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, que se hayan opuesto al concurso, elegidos de conformidad al artículo 281, o con uno o dos profesionales extraños al Poder Judicial que se hayan opuesto al concurso, elegidos de acuerdo al mismo procedimiento contemplado en el artículo 284 bis para los cargos de jueces.
 
-Art. 289. Las ternas para proveer alguno de los cargos de la tercera o cuarta serie del Escalafón Secundario se formarán preferentemente:
+Art. 289. Las ternas para proveer alguno de los cargos de la cuarta o quinta serie del Escalafón Secundario se formarán preferentemente:
 a) Con los funcionarios con título de abogado de la misma serie; y
 b) Con los abogados oponentes y con los funcionarios sin título de abogado de la misma serie del cargo que se trata de proveer, siempre que tengan más de dos años de permanencia en la categoría inmediatamente inferior, para los que pretendan ascender una categoría; y más de diez años para aquellos que opten a un cargo superior en dos o más categorías. Podrán también figurar en estas ternas los empleados del Poder Judicial a que se refiere el artículo 292, que pertenezcan a una de las cuatro primeras categorías del respectivo escalafón y que hayan figurado en ellas más de diez años.
 
@@ -1371,12 +1596,12 @@ Art. 291. Las ternas y quinas, según el caso, deberán remitirse al Ministerio 
 
 Art. 292. El Escalafón del Personal de Empleados se compondrá de las siguientes categorías:
 Primera categoría: Oficiales segundos de la Corte Suprema, Oficiales primeros de las Cortes de Apelaciones y Secretario del Presidente de la Corte Suprema.
-Segunda categoría: Oficiales terceros de la Corte Suprema, Oficiales segundos de las Cortes de Apelaciones y Oficiales primeros de los juzgados de letras de asiento de Corte.
-Tercera categoría: Oficiales cuartos de la Corte Suprema, Oficiales terceros de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos tribunales, Oficiales segundos de los juzgados de letras de asiento de Corte y Oficiales primeros de los juzgados de capital de provincia.
-Cuarta categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de Biblioteca de la Corte Suprema, Oficiales cuartos de las Cortes de Apelaciones, Oficial cuarto Ayudante de Biblioteca de la Corte de Apelaciones de Valparaíso, Oficiales terceros de los juzgados de letras de asiento de Corte, Oficiales segundos de los juzgados de letras de capital de provincia y Oficiales primeros de los juzgados de letras de comunas o agrupación de comunas.
-Quinta categoría: Oficiales cuartos de los juzgados de letras de asiento de Corte, Oficiales terceros de los juzgados de letras de capital de provincia y Oficiales segundos de los juzgados de letras de comuna o agrupación de comunas.
-Sexta categoría: Oficiales cuartos de los juzgados de letras de capital de provincia, Oficiales terceros de los juzgados de letras de comuna o agrupación de comunas y Oficial Intérprete de los juzgados de Temuco.
-Séptima categoría: Oficiales de Sala de la Corte Suprema, de las Cortes de Apelaciones, de los juzgados de letras, y demás personal auxiliar de aseo o de servicio que se desempeñe en los Tribunales de Justicia.
+Segunda categoría: Oficiales terceros de la Corte Suprema, Oficiales segundos de las Cortes de Apelaciones, Encargados de sala de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones y Oficiales primeros de los juzgados de letras de asiento de Corte.
+Tercera categoría: Oficiales cuartos de la Corte Suprema, Oficiales terceros de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos tribunales, Administrativos 1º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Encargados de sala de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Oficiales segundos de los juzgados de letras de asiento de Corte y Oficiales primeros de los juzgados de capital de provincia.
+Cuarta categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de Biblioteca de la Corte Suprema, Oficiales cuartos de las Cortes de Apelaciones, Oficial cuarto Ayudante de Biblioteca de la Corte de Apelaciones de Valparaíso, Administrativos 2º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 1º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Encargados de sala de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales terceros de los juzgados de letras de asiento de Corte, Oficiales segundos de los juzgados de letras de capital de provincia y Oficiales primeros de los juzgados de letras de comunas o agrupación de comunas.
+Quinta categoría: Administrativos 3º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 2º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 1º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales cuartos de los juzgados de letras de asiento de Corte, Oficiales terceros de los juzgados de letras de capital de provincia y Oficiales segundos de los juzgados de letras de comuna o agrupación de comunas.
+Sexta categoría: Administrativos 3º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 2º y 3º de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Ayudantes de audiencia de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, telefonistas y secretarias ejecutivas de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Oficiales cuartos de los juzgados de letras de capital de provincia, Oficiales terceros de los juzgados de letras de comuna o agrupación de comunas y Oficial Intérprete de los juzgados de Temuco.
+Séptima categoría: Oficiales de Sala de la Corte Suprema, de las Cortes de Apelaciones, de los juzgados de letras, Ayudantes de audiencia de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, telefonistas y secretarias ejecutivas de tribunales orales en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, y demás personal auxiliar de aseo o de servicio que se desempeñe en los Tribunales de Justicia.
 
 Art. 293. Los empleados de secretaría con más de diez años de permanencia en la misma categoría del Escalafón tendrán, para los efectos de los ascensos, los mismos derechos que los de la inmediatamente superior, siempre que hubieren figurado permanentemente en lista de méritos y no hubiesen sido objeto de medida disciplinaria superior a amonestación privada después de la última calificación.
 
@@ -1426,7 +1651,7 @@ En tal caso la autoridad que haya recibido el juramento dará lo más pronto pos
 
 Art. 302. Cuando un juez que ha prestado el juramento correspondiente fuere nombrado para un puesto análogo al que desempeña, no será obligado a prestar nuevo juramento.
 
-Art. 303 Tampoco serán obligados a prestar juramento los fiscales que, con arreglo a lo establecido en el presente Código, fueren llamados a integrar accidentalmente una Corte de Apelaciones o la Corte Suprema.
+Art. 303 Tampoco serán obligados a prestar juramento los fiscales judiciales que, con arreglo a lo establecido en el presente Código, fueren llamados a integrar accidentalmente una Corte de Apelaciones o la Corte Suprema.
 Los abogados llamados a integrar una Corte de Apelaciones sólo prestarán juramento la primera vez que entren a desempeñar este encargo; pero respecto de ellos, el juramento prestado en un tribunal no se tomará en cuenta en otro, para el efecto de este artículo.
 
 Art. 304. Todo juez prestará su juramento al tenor de la fórmula siguiente:
@@ -1457,6 +1682,9 @@ Sin embargo, las Cortes de Apelaciones podrán, en casos calificados, autorizar 
 
 Art. 312. Están igualmente obligados a asistir todos los días a la sala de su despacho, y a permanecer en ella desempeñando sus funciones durante cuatro horas como mínimum cuando el despacho de causas estuviere al corriente, y de cinco horas, a lo menos, cuando se hallare atrasado, sin perjuicio de lo que, en virtud del N° 4 del artículo 96, establezca la Corte Suprema.
 Lo anterior se entenderá sin perjuicio de que el juez, cuando las necesidades del Servicio lo aconsejen, se constituya una vez a la semana, a lo menos en poblados que estén fuera de los límites urbanos de la ciudad en que tenga su asiento el tribunal, en cuyo caso será reemplazado por el Secretario en el despacho ordinario del Juzgado, pudiendo designarse para tales efectos actuarios que como Ministros de Fe autoricen las diligencias que dichos funcionarios practiquen.
+
+Art. 312 bis. Los jueces de tribunales orales en lo penal tendrán obligación de asistir a su despacho por 44 horas semanales.
+Los jueces de juzgados de garantía deberán asistir a su despacho por 44 horas semanales, debiendo establecerse un sistema o turno que permita la disponibilidad de un juez de garantía en la jurisdicción fuera del horario normal de atención de los tribunales.
 
 Art. 313. Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que comenzará el primero de Febrero y durará hasta el primer día hábil de marzo.
 Lo dispuesto en este artículo no regirá, respecto del feriado de vacaciones, con los jueces letrados que ejercen jurisdicción criminal.
@@ -1545,7 +1773,7 @@ Respecto a los jueces procesados se estará a lo dispuesto en el artículo 335; 
 10) Por la aceptación de todo cargo o empleo remunerado con fondos fiscales, semifiscales o municipales, salvo la excepción contemplada en el artículo 261; y
 11) Por la aceptación del cargo de Presidente de la República.
 
-Art. 333. Los magistrados de los Tribunales Superiores de Justicia cesan, además, en sus funciones por la declaración de culpabilidad hecha por el Senado, por notable abandono de sus deberes, en conformidad a los artículos 39 y 42 de la Constitución Política del Estado.
+Art. 333. Los magistrados de los Tribunales Superiores de Justicia cesan, además, en sus funciones por la declaración de culpabilidad hecha por el Senado, por notable abandono de sus deberes, en conformidad a los artículos 48 y 49 de la Constitución Política del Estado.
 
 Art. 334. Derogado.
 
@@ -1556,7 +1784,7 @@ Se entiende, para el efecto de este artículo, procesado el juez, desde que est�
 3°) Por la aplicación de la medida disciplinaria de suspensión; y
 4°) Por licencia concedida con arreglo a la ley.
 
-Art. 336. Las funciones de los magistrados de los Tribunales Superiores de Justicia se suspenden, además, desde que la Cámara de Diputados declare que ha lugar a la acusación que se ha formulado en su contra por notable abandono de deberes, de acuerdo con el artículo 39 de la Constitución Política.
+Art. 336. Las funciones de los magistrados de los Tribunales Superiores de Justicia se suspenden, además, desde que la Cámara de Diputados declare que ha lugar a la acusación que se ha formulado en su contra por notable abandono de deberes, de acuerdo con el artículo 48 de la Constitución Política.
 
 Art. 337. Se presume de derecho, para todos los efectos legales, que un juez no tiene buen comportamiento en cualquiera de los casos siguientes:
 1°) Si fuere suspendido dos veces dentro de un período de tres años o tres veces en cualquier espacio de tiempo;
@@ -1564,8 +1792,8 @@ Art. 337. Se presume de derecho, para todos los efectos legales, que un juez no 
 3°) Si fuere corregido disciplinariamente más de dos veces en cualquier espacio de tiempo, por observar una conducta viciosa, por comportamiento poco honroso o por negligencia habitual en el desempeño de su oficio; y
 4°) Si fuere mal calificado por la Corte Suprema de acuerdo con las disposiciones contenidas en el párrafo tercero de este título.
 
-Art. 338. Los Tribunales Superiores instruirán el respectivo proceso de amovilidad, procediendo de oficio o a requisición del oficial del ministerio público del mismo tribunal.
-La parte agraviada podrá requerir al tribunal o al ministerio público para que instaure el juicio e instaurado, podrá suministrar elementos de prueba al referido ministerio.
+Art. 338. Los Tribunales Superiores instruirán el respectivo proceso de amovilidad, procediendo de oficio o a requisición del fiscal judicial del mismo tribunal.
+La parte agraviada podrá requerir al tribunal o al fiscal judicial para que instaure el juicio e instaurado, podrá suministrar elementos de prueba al referido fiscal judicial.
 
 Art. 339. Los tribunales procederán en estas causas breve y sumariamente, oyendo al juez inculpado y al ministerio público y las fallarán apreciando en conciencia la prueba y la culpabilidad del juez.
 Las Cortes de Apelaciones que deban conocer de los juicios de amovilidad en contra de los jueces de letras, en conformidad a lo dispuesto en el artículo 63, designarán en cada caso a uno de sus ministros para que forme proceso y lo tramite hasta dejarlo en estado de sentencia.
@@ -1601,61 +1829,61 @@ Art. 349. Ejecutoriada la declaración de vacancia, el funcionario cesante tendr
 ## TITULO XI
 Los Auxiliares de la Administración de Justicia
 
-### § 1. El Ministerio Público
+### § 1. Fiscalía judicial
 
-Art. 350. El Ministerio Público será ejercido por el fiscal de la Corte Suprema, que será el jefe del servicio, y por los fiscales de las Cortes de Apelaciones.
-Los oficiales del ministerio público están sujetos a las instrucciones que les imparta el jefe del servicio, verbalmente o por escrito, en los casos que este funcionario considere necesario seguir un procedimiento especial tendiente a uniformar la acción del referido ministerio.
-Las funciones del ministerio público se limitarán a los negocios judiciales y a los de carácter administrativo del Estado en que una ley requiera especialmente su intervención.
+Art. 350. La fiscalía judicial será ejercida por el fiscal judicial de la Corte Suprema, que será el jefe del servicio, y por los fiscales judiciales de las Cortes de Apelaciones.
+Los fiscales judiciales están sujetos a las instrucciones que les imparta el jefe del servicio, verbalmente o por escrito, en los casos que este funcionario considere necesario seguir un procedimiento especial tendiente a uniformar la acción del referido ministerio.
+Las funciones de la fiscalía judicial se limitarán a los negocios judiciales y a los de carácter administrativo del Estado en que una ley requiera especialmente su intervención.
 En el presente Código sólo se trata de las judiciales.
 
-Art. 351. En los negocios que se ventilen ante los jueces de letras, no será necesaria la intervención del ministerio público.
+Art. 351. Derogado.
 
-Art. 352. Los fiscales gozan de la misma inamovilidad que los jueces, tienen el tratamiento de Señoría y les es aplicable todo lo prevenido respecto de los honores y prerrogativas de los jueces por los artículos 308 y 309.
+Art. 352. Los fiscales judiciales gozan de la misma inamovilidad que los jueces, tienen el tratamiento de Señoría y les es aplicable todo lo prevenido respecto de los honores y prerrogativas de los jueces por los artículos 308 y 309.
 
-Art. 353. Corresponde especialmente al fiscal de la Corte Suprema de Justicia:
-1°) Vigilar por sí a los ministros o fiscales de las Cortes de Apelaciones, y por sí o por medio de cualesquiera de los fiscales de las Cortes de Apelaciones, la conducta funcionaria de los demás tribunales y empleados del orden judicial, exceptuados los miembros de la Corte Suprema, y para el solo efecto de dar cuenta a este tribunal de las faltas o abusos o incorrecciones que notare, a fin de que la referida Corte, si lo estima procedente, haga uso de las facultades correccionales, disciplinarias y económicas que la Constitución y las leyes le confieren;
-2°) Vigilar, en la misma forma expresada, los establecimientos penales, correccionales o de detención de la República, pudiendo hacer las presentaciones correspondientes a las autoridades respectivas, según sea la materia que le haya merecido observaciones, y sin perjuicio de las administraciones especiales que tienen a su cargo algunos de los expresados establecimientos; y
-3°) Transmitir y hacer cumplir al oficial del ministerio público que corresponda los requerimientos que el Presidente de la República tenga a bien hacer con respecto a la conducta ministerial de los jueces y demás empleados del Poder Judicial, para que reclame las medidas disciplinarias que correspondan, del tribunal competente, o para que, si hubiere mérito bastante, entable la correspondiente acusación.
-Las funciones que corresponden al ministerio público para los efectos del N° 4, del artículo 72 de la Constitución Política serán ejercidas por lo que hace a medidas de carácter general, por el fiscal de la Corte Suprema, y por lo que hace a medidas que afecten a funcionarios determinados del orden judicial, por el fiscal de la respectiva Corte de Apelaciones.
+Art. 353. Corresponde especialmente al fiscal judicial de la Corte Suprema de Justicia:
+1°) Vigilar por sí a los ministros o fiscales judiciales de las Cortes de Apelaciones, y por sí o por medio de cualesquiera de los fiscales judiciales de las Cortes de Apelaciones, la conducta funcionaria de los demás tribunales y empleados del orden judicial, exceptuados los miembros de la Corte Suprema, y para el solo efecto de dar cuenta a este tribunal de las faltas o abusos o incorrecciones que notare, a fin de que la referida Corte, si lo estima procedente, haga uso de las facultades correccionales, disciplinarias y económicas que la Constitución y las leyes le confieren;
+2°) Suprimido.
+3°) Transmitir y hacer cumplir al fiscal judicial que corresponda los requerimientos que el Presidente de la República tenga a bien hacer con respecto a la conducta ministerial de los jueces y demás empleados del Poder Judicial, para que reclame las medidas disciplinarias que correspondan, del tribunal competente, o para que, si hubiere mérito bastante, entable la correspondiente acusación.
+Las funciones que corresponden al ministerio público para los efectos del Nº 15º del artículo 32 de la Constitución Política serán ejercidas por lo que hace a medidas de carácter general, por el fiscal judicial de la Corte Suprema, y por lo que hace a medidas que afecten a funcionarios determinados del orden judicial, por el fiscal judicial de la respectiva Corte de Apelaciones.
 
-Art. 354. El ministerio público obra, según la naturaleza de los negocios, o como parte principal, o como tercero, o como auxiliar del juez.
+Art. 354. Los fiscales judiciales obran, según la naturaleza de los negocios, o como parte principal, o como terceros, o como auxiliares del juez.
 
-Art. 355. Cuando el ministerio público obra como parte principal, figurará en todos los trámites del juicio.
+Art. 355. Cuando el alguno de los fiscales judiciales obra como parte principal, figurará en todos los trámites del juicio.
 En los demás casos bastará que antes de la sentencia o decreto definitivo del juez o cuando éste lo estime conveniente, examine el proceso y exponga las conclusiones que crea procedentes.
 
-Art. 356. El ministerio público actuará como parte principal en las causas criminales por crimen o simple delito de acción pública seguidas ante los tribunales que establece el presente Código y en los demás casos previstos por las leyes.
+Art. 356. Derogado.
 
-Art. 357. Debe ser oído el ministerio público:
-1°) En los juicios criminales en que se ejercite la acción privada, exceptuando los de calumnia o injuria inferidas a particulares;
+Art. 357. Debe ser oída la fiscalía judicial:
+1°) Eliminado.
 2°) En las contiendas de competencia suscitadas por razón de la materia de la cosa litigiosa o entre tribunales que ejerzan jurisdicción de diferente clase;
 3°) En los juicios sobre responsabilidad civil de los jueces o de cualesquiera empleados públicos, por sus actos ministeriales;
 4°) En los juicios sobre estado civil de alguna persona;
 5°) En los negocios que afecten los bienes de las corporaciones o fundaciones de derecho público, siempre que el interés de las mismas conste del proceso o resulte de la naturaleza del negocio y cuyo conocimiento corresponda al tribunal indicado en el artículo 50; y
 6°) En general, en todo negocio respecto del cual las leyes prescriban expresamente la audiencia o intervención del ministerio público.
 
-Art. 358. En segunda instancia no se oirá al ministerio público:
+Art. 358. En segunda instancia no se oirá a la fiscalía judicial:
 1°) En los negocios que afecten los bienes de las corporaciones o fundaciones de derecho público;
 2°) En los juicios de hacienda;
 3°) En los asuntos de jurisdicción voluntaria;
-4°) En los procesos contra reos ausentes o prófugos; y
-5°) En los procesos criminales por faltas.
+4°) Eliminado.
+5°) Eliminado.
 
-Art. 359. Pueden los tribunales pedir el dictamen del respectivo oficial del ministerio público en todos los casos en que lo estimen conveniente.
+Art. 359. Pueden los tribunales pedir el dictamen del respectivo fiscal judicial en todos los casos en que lo estimen conveniente a excepción de la competencia en lo criminal.
 
-Art. 360. El ministerio público es, en lo tocante al ejercicio de sus funciones, independientes de los Tribunales de Justicia, cerca de los cuales es llamado a ejercerlas.
+Art. 360. La fiscalía judicial es, en lo tocante al ejercicio de sus funciones, independientes de los Tribunales de Justicia, cerca de los cuales es llamado a ejercerlas.
 Puede, en consecuencia, defender los intereses que le están encomendados en la forma que sus convicciones se lo dicten, estableciendo las conclusiones que crea arregladas a la ley.
 
-Art. 361. Pueden los oficiales del ministerio público hacerse dar conocimiento de cualesquiera asuntos en que crean se hallan comprometidos los intereses cuya defensa les ha confiado la ley.
-Requeridos los jueces por los oficiales del ministerio público, deberán hacerles pasar inmediatamente el respectivo proceso, sin perjuicio del derecho de los interesados para reclamar, si lo estimaren conveniente, contra la intervención de aquéllos.
+Art. 361. Pueden los fiscales judiciales hacerse dar conocimiento de cualesquiera asuntos en que crean se hallan comprometidos los intereses cuya defensa les ha confiado la ley.
+Requeridos los jueces por los fiscales judiciales, deberán hacerles pasar inmediatamente el respectivo proceso, sin perjuicio del derecho de los interesados para reclamar, si lo estimaren conveniente, contra la intervención de aquéllos.
 Podrán, sin embargo, denegar esta remisión, cuando creyeren comprometer con ella el sigilo de negocios que deben ser secretos.
 
-Art. 362. Los oficiales del ministerio público provocarán la acción de la justicia siempre que en negocios de su incumbencia fueren requeridos por el Gobierno; pero deberán hacerlo en la forma establecida en el inciso 2°, del artículo 360.
+Art. 362. Los fiscales judiciales provocarán la acción de la justicia siempre que en negocios de su incumbencia fueren requeridos por el Gobierno; pero deberán hacerlo en la forma establecida en el inciso 2°, del artículo 360.
 
-Art. 363. La falta de un fiscal será suplida por otro del mismo tribunal cuando hubiere más de uno; por el secretario de la Corte, empezando por el más antiguo cuando hubiere dos o más, y a falta de éstos por el abogado que designe el tribunal respectivo y que reúna los requisitos indispensables para desempeñar el cargo, los que no percibirán remuneración alguna por este concepto.
+Art. 363. La falta de un fiscal judicial será suplida por otro del mismo tribunal cuando hubiere más de uno; por el secretario de la Corte, empezando por el más antiguo cuando hubiere dos o más, y a falta de éstos por el abogado que designe el tribunal respectivo y que reúna los requisitos indispensables para desempeñar el cargo, los que no percibirán remuneración alguna por este concepto.
 
-Art. 364. La responsabilidad criminal y civil de los oficiales del ministerio público se regirá por los reglas establecidas en el párrafo 8 del Título X de este Código, en cuanto atendida la naturaleza de las funciones de estos funcionarios, dichas reglas sean aplicables a ellos.
-De las acusaciones o demandas que se entablaren contra los oficiales del ministerio público para hacer efectiva su responsabilidad, conocerán los mismos tribunales designados por la ley para conocer de las que se entablen contra los jueces.
-Para determinar la competencia de los funcionarios de que se trata se considerará como miembros de las Cortes de Apelaciones o Suprema a los respectivos fiscales.
+Art. 364. La responsabilidad criminal y civil de los fiscales judiciales se regirá por los reglas establecidas en el párrafo 8 del Título X de este Código, en cuanto atendida la naturaleza de las funciones de estos funcionarios, dichas reglas sean aplicables a ellos.
+De las acusaciones o demandas que se entablaren contra los fiscales judiciales para hacer efectiva su responsabilidad, conocerán los mismos tribunales designados por la ley para conocer de las que se entablen contra los jueces.
+Para determinar la competencia de los funcionarios de que se trata se considerará como miembros de las Cortes de Apelaciones o Suprema a los respectivos fiscales judiciales.
 
 ### § 2. Los Defensores Públicos
 
@@ -1733,7 +1961,6 @@ Art. 383. En las Cortes de Apelaciones que consten de una sala, los secretarios 
 
 Art. 384. Los Secretarios deberán llevar los siguientes registros:
 1°.- Un registro foliado compuesto por copias escritas a máquina, autorizadas por el Secretario, de las sentencias definitivas que se dicten en los asuntos civiles, contenciosos o de jurisdicción voluntaria.
-En igual forma se procederá con las sentencias definitivas en materia criminal.
 También se copiarán en dicho libro las sentencias interlocutorias que pongan término al juicio o hagan imposible su continuación.
 En los Tribunales Colegiados se formará el mismo registro señalado en los incisos precedentes.
 Cada registro con no más de quinientas páginas se empastará anualmente;
@@ -1757,6 +1984,42 @@ El de un juzgado de letras, por el oficial primero de la secretaría.
 Cuando no puedan observarse las reglas dadas en los dos incisos anteriores, la subrogación se hará por el oficial primero de la Corte o por el ministro de fe que respectivamente designen los presidentes de las referidas Cortes o el juez en su caso.
 
 Art. 389. Las funciones que se encomiendan a los secretarios en el Título VI del Libro I del Código de Procedimiento Civil podrán ser desempeñadas, bajo la responsabilidad de éstos, por el oficial primero de sus secretarías.
+
+### § 4 bis. Los administradores de tribunales con competencia en lo criminal
+
+Art. 389 A. Los administradores de tribunales con competencia en lo criminal son funcionarios auxiliares de la administración de justicia encargados de organizar y controlar la gestión administrativa de los tribunales orales en lo penal y de los juzgados de garantía.
+
+Art. 389 B. Corresponde a los administradores de estos tribunales:
+a) Dirigir las labores administrativas propias del funcionamiento del tribunal o juzgado, bajo la supervisión del juez presidente del comité de jueces;
+b) Proponer al comité de jueces la designación del subadministrador, de los jefes de unidades y de los empleados del tribunal;
+c) Proponer al juez presidente la distribución del personal;
+d) Evaluar al personal a su cargo;
+e) Distribuir las causas a los jueces o a las salas del respectivo tribunal, conforme con el procedimiento objetivo y general aprobado;
+f) Remover al subadministrador, a los jefes de unidades y al personal de empleados, de conformidad al artículo 389 F;
+g) Llevar la contabilidad y administrar la cuenta corriente del tribunal, de acuerdo a las instrucciones del juez presidente;
+h) Dar cuenta al juez presidente acerca de la gestión administrativa del tribunal o juzgado;
+i) Elaborar el presupuesto anual, que deberá ser presentado al juez presidente a más tardar en el mes de mayo del año anterior al ejercicio correspondiente.
+El presupuesto deberá contener una propuesta detallada de la inversión de los recursos que requerirá el tribunal en el ejercicio siguiente;
+j) Adquirir y abastecer de materiales de trabajo al tribunal, en conformidad con el plan presupuestario aprobado para el año respectivo, y
+k) Ejercer las demás tareas que le sean asignadas por el comité de jueces o el juez presidente o que determinen las leyes.
+Para el cumplimiento de sus funciones, el administrador del tribunal se atendrá a las políticas generales de selección de personal, de evaluación, de administración de recursos materiales y de personal, de diseño y análisis de la información estadística y demás que dicte el Consejo de la Corporación Administrativa del Poder Judicial, en el ejercicio de sus atribuciones propias.
+
+Art. 389 C. Para ser administrador de un tribunal con competencia en lo criminal se requiere poseer un título profesional relacionado con las áreas de administración y gestión, otorgado por una universidad o por un instituto profesional, de una carrera de ocho semestres de duración a lo menos. Excepcionalmente, en los juzgados de garantía de asiento de comuna o agrupación de comunas, la Corte de Apelaciones respectiva podrá autorizar el nombramiento de un administrador con un título técnico de nivel superior o título profesional de las mismas áreas, de una carrera con una duración menor a la señalada.
+
+Art. 389 D. Los administradores de tribunales con competencia en lo criminal serán designados de una terna que elabore el juez presidente, a través de concurso público de oposición y antecedentes, que será resuelto por el comité de jueces del respectivo tribunal.
+
+Art. 389 E. Las disposiciones contenidas en el Título XII de este Código serán aplicables a los administradores de los tribunales con competencia en lo criminal en cuanto no se opongan a la naturaleza de sus funciones.
+
+Art. 389 F. Sin perjuicio de lo dispuesto en el artículo 278 bis, el administrador podrá remover al subadministrador, a los jefes de unidades y al personal cuando hayan sido calificados en Lista Condicional en el proceso de calificación respectivo.
+Asimismo, el administrador podrá removerlos en cualquier tiempo, cuando hubieren incurrido en faltas graves al servicio.
+En este último caso, el administrador solicitará al presidente del comité de jueces que designe un funcionario como investigador y, si los hechos lo aconsejaren, podrá suspender de sus funciones al inculpado. El procedimiento será fundamentalmente oral y de lo actuado se levantará un acta general que firmarán los que hubieren declarado, sin perjuicio de agregar los documentos probatorios que correspondan, no pudiendo exceder la investigación el plazo de cinco días. Tan pronto se cerrare la investigación, se formularán cargos, si procediere, debiendo el inculpado responderlos dentro de dos días, a contar de la fecha de notificación de éstos. Si el inculpado ofreciere rendir prueba, el investigador señalará un plazo al afecto, el que no podrá exceder de tres días.
+Vencido el plazo para los descargos o, en su caso, el término probatorio, el investigador, dentro de los dos días siguientes, emitirá un informe que contendrá la relación de los hechos, los fundamentos y conclusiones a que hubiere llegado y formulará al administrador la proposición que estimare procedente. Conocido el informe, el administrador dictará dentro de los dos días siguientes la resolución que correspondiere, la cual será notificada al inculpado.
+El inculpado podrá apelar de la resolución dentro de los dos días siguientes para ante el comité de jueces, el cual resolverá el recurso de apelación dentro de dos días.
+Los plazos de días contemplados en este artículo serán de días hábiles.
+El mismo procedimiento se aplicará si el subadministrador, jefe de unidad o empleado hubiere incurrido en faltas al servicio que no sean graves, las que serán sancionadas con alguna de las medidas que establece el inciso tercero del artículo 532.
+La remoción del administrador del tribunal podrá ser solicitada por el juez presidente y será resuelta por el comité, con apelación ante el Presidente de la Corte de Apelaciones respectiva, recurso que se someterá a los mismos plazos del inciso cuarto.
+
+Art. 389 G. La certificación de las actuaciones procesales realizadas ante el juzgado de garantía o ante el tribunal oral en lo penal y de sus resoluciones cuando corresponda, así como la autorización, en su caso, del mandato judicial, serán efectuadas por el jefe de la unidad administrativa que tenga a su cargo la administración de causas, de acuerdo a las instrucciones y procedimientos que establezca la Corte Suprema.
 
 ### § 5. Los Receptores
 
@@ -1941,7 +2204,7 @@ Art. 434. Los protocolos y documentos protocolizados o agregados a los mismos, d
 Art. 435. Los protocolos y cualquier documento que se hubiere entregado al notario bajo custodia en razón de su oficio, sólo podrán sacarse de sus oficinas por decreto judicial o en casos de fuerza mayor.
 Si se tratare de decreto judicial, el notario personalmente deberá ejecutarlo.
 
-Art. 436. En los casos de pérdida, robo o inutilización de los protocolos o documentos pertenecientes a la notaría, el notario dará cuenta inmediatamente a la autoridad judicial de que dependa para que inicie el correspondiente proceso.
+Art. 436. En los casos de pérdida, robo o inutilización de los protocolos o documentos pertenecientes a la notaría, el notario dará cuenta inmediatamente al ministerio público para que inicie la correspondiente investigación.
 
 Art. 437. Los protocolos o documentos perdidos o inutilizados deberán reponerse por orden del visitador de la notaría, con citación de los interesados.
 
@@ -2047,21 +2310,21 @@ Disposiciones generales aplicables a los Auxiliares de la Administración de Jus
 
 Art. 458. Es aplicable a los auxiliares de la Administración de Justicia lo dispuesto en los arts. 244 y 245.
 Igualmente, regirán los requisitos establecidos por los incisos cuarto y quinto del artículo 294.o para el nombramiento de dichos auxiliares, sin perjuicio de las exigencias especiales que para las mismas designaciones se contengan en este Título y en otras leyes.
-Ningún cargo de fiscal, de defensor público o de relator podrá permanecer vacante, ni aún en el caso de estar servido interinamente, por más de cuatro meses si se trata de los dos primeros y de tres meses, si del último. Vencidos estos términos, el funcionario interino cesará de hecho en el ejercicio de sus funciones, y el Presidente de la República proveerá la plaza en propiedad.
+Ningún cargo de fiscal judicial, de defensor público o de relator podrá permanecer vacante, ni aún en el caso de estar servido interinamente, por más de cuatro meses si se trata de los dos primeros y de tres meses, si del último. Vencidos estos términos, el funcionario interino cesará de hecho en el ejercicio de sus funciones, y el Presidente de la República proveerá la plaza en propiedad.
 
-Art. 459. Los oficiales del ministerio público, los defensores, los relatores y los demás auxiliares de la Administración de Justicia, serán nombrados por el Presidente de la República previa propuesta de la Corte Suprema o de la Corte de Apelaciones respectiva, en conformidad a las disposiciones contenidas en el párrafo tercero del Título X del presente Código.
+Art. 459. Los fiscales judiciales, los defensores, los relatores y los demás auxiliares de la Administración de Justicia, serán nombrados por el Presidente de la República previa propuesta de la Corte Suprema o de la Corte de Apelaciones respectiva, en conformidad a las disposiciones contenidas en el párrafo tercero del Título X del presente Código.
 Para la designación de los funcionarios a que se refiere el inciso anterior deberán cumplirse, además, los requisitos que se indican en los artículos siguientes.
 
 Art. 460. Las Cortes examinarán las aptitudes de los opositores que no sean abogados mediante un examen de competencia cuando se trate de proveer algún cargo para el cual no se requiera esa calidad.
 Podrán, asimismo, si lo estiman conveniente, abrir concurso y recibir exámenes cuando se trata de proveer el cargo de relator.
 
-Art. 461. Para ser fiscal de la Corte Suprema o de una Corte de Apelaciones se requieren las mismas condiciones que para ser miembro del respectivo tribunal.
+Art. 461. Para ser fiscal judicial de la Corte Suprema o de una Corte de Apelaciones se requieren las mismas condiciones que para ser miembro del respectivo tribunal.
 
 Art. 462. Pueden ser defensores públicos los que pueden ser jueces de letras del respectivo territorio jurisdiccional.
 
 Art. 463. Para ser relator, secretario de la Corte Suprema o de las Cortes de Apelaciones y notario se requieren las mismas condiciones que para ser juez de letras de comuna o agrupación de comunas.
 
-Art. 464. No pueden ser oficiales del ministerio público, defensores ni relatores los que no pueden ser jueces de letras.
+Art. 464. No pueden ser fiscales judiciales, defensores ni relatores los que no pueden ser jueces de letras.
 
 Art. 465. No pueden ser notarios:
 1°) Los que se hallaren en interdicción por causa de demencia o prodigalidad;
@@ -2078,25 +2341,25 @@ Para ser asistente social judicial se requiere tener más de veintiún años de 
 Art. 468. Derogado.
 
 Art. 469. Las incapacidades en razón de parentesco establecidas en el artículo 258, rigen para todos los funcionarios del Escalafón Primario dependientes de una Corte de Apelaciones en su respectivo territorio jurisdiccional.
-No podrán ser oficiales del Ministerio público o asistentes sociales judiciales en un Tribunal las personas que tengan con uno o más jueces de él alguno de los parentescos indicados en el citado artículo.
+No podrán ser fiscales judiciales, administradores, subadministradores, jefes de unidades de tribunales con competencia en lo criminal o asistentes sociales judiciales en un Tribunal las personas que tengan con uno o más jueces de él alguno de los parentescos indicados en el citado artículo.
 No pueden ser defensores públicos los que tengan con algunos de los jueces de letras propietarios del respectivo territorio jurisdiccional cualquiera de los parentescos indicados en dicho artículo.
 Tampoco podrán desempeñar ante ningún juez funciones accidentales de defensores los que tengan con él cualquiera de los indicados parentescos.
 
 Art. 470. Las funciones de los auxiliares de la Administración de Justicia son incompatibles con toda otra remunerada con fondos fiscales o municipales, con excepción de los cargos docentes hasta un límite de doce horas semanales.
 No obstante, los cargos de secretario, receptor y notario podrán ser desempeñados por una misma persona en aquellas comunas o agrupaciones de comunas en que, a juicio del Presidente de la República, no sea posible o conveniente hacerlos recaer en personas distintas por no permitirlo la exigüedad de los emolumentos correspondientes a cada uno de dichos cargos.
-Las funciones del ministerio público son, además, incompatibles con las eclesiásticas y las de los defensores públicos con las eclesiásticas que tengan cura de almas.
+Las funciones de los fiscales judiciales son, además, incompatibles con las eclesiásticas y las de los defensores públicos con las eclesiásticas que tengan cura de almas.
 
 ### § 2. Juramento e instalación
 
 Art. 471. Los auxiliares de la Administración de Justicia antes de desempeñar sus cargos prestarán juramento al tenor de la fórmula siguiente: "¿Juráis por Dios Nuestro Señor y por estos Santos Evangelios que guardaréis la Constitución y las leyes de la República y que desempeñaréis fielmente las funciones de vuestro cargo?".
 El interrogado responderá: "Si juro", y el magistrado que le tome el juramento añadirá: "Si así lo hiciéreis, Dios os ayude; y si no, os lo demande".
-Los Fiscales, Relatores y Secretarios de Corte, prestarán juramento ante el Presidente del Tribunal del que formen parte.
+Los Fiscales judiciales, Relatores y Secretarios de Corte, prestarán juramento ante el Presidente del Tribunal del que formen parte.
 Los otros funcionarios auxiliares lo harán ante el Juez respectivo. Si el Tribunal estuviere acéfalo lo prestarán ante el Intendente o Gobernador. La autoridad administrativa que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que le habría correspondido intervenir en la diligencia, remitiéndole lo obrado.
 
-Art. 472. Cuando algún fiscal de las Cortes de Apelaciones que hubiere prestado el juramento correspondiente fuere nombrado para un puesto análogo al que desempeñaba, no será obligado a prestar nuevo juramento.
+Art. 472. Cuando algún fiscal judicial de las Cortes de Apelaciones que hubiere prestado el juramento correspondiente fuere nombrado para un puesto análogo al que desempeñaba, no será obligado a prestar nuevo juramento.
 
-Art. 473. Los Notarios, Conservadores, Archiveros, Secretarios y Receptores, que no sean los especiales a que se refiere el inciso segundo del artículo 391.o, deberán rendir una fianza para responder de las multas, costas e indemnizaciones de perjuicios a que puedan ser condenados en razón de los actos concernientes al desempeño de su ministerio, dentro de 30 días después de haber asumido el cargo.
-Esta fianza será para los Secretarios el equivalente a un año del sueldo base asignado al cargo y para los demás funcionarios igual al monto del sueldo anual que la ley le fija para los efectos de su jubilación.
+Art. 473. Los Notarios, Conservadores, Archiveros, Secretarios y Receptores, que no sean los especiales a que se refiere el inciso segundo del artículo 391.o, así como los administradores de tribunales con competencia en lo criminal, deberán rendir una fianza para responder de las multas, costas e indemnizaciones de perjuicios a que puedan ser condenados en razón de los actos concernientes al desempeño de su ministerio, dentro de 30 días después de haber asumido el cargo.
+Esta fianza será para los Secretarios y administradores de tribunales el equivalente a un año del sueldo base asignado al cargo y para los demás funcionarios igual al monto del sueldo anual que la ley le fija para los efectos de su jubilación.
 La fianza será calificada y aprobada por el funcionario a quien corresponda recibir el juramento.
 
 ### § 3. Obligaciones y prohibiciones
@@ -2117,18 +2380,18 @@ Los procuradores deberán asistir a la secretaría de los tribunales a instruirs
 Art. 477. Las obligaciones de residencia y asistencia cesan durante los días feriados.
 Esta disposición no regirá en el feriado de vacaciones con los notarios, conservadores y archivos, con los juzgados que queden de turno, ni con los auxiliares que determinen los tribunales colegiados para el funcionamiento de sus respectivas salas de verano.
 
-Art. 478. Ningún notario, Conservador, Archivero, secretario, procurador o receptor podrá ausentarse del lugar de su residencia ni dejar de asistir diariamente a su oficina sin permiso del Presidente de la Corte si ejerciere sus funciones en el lugar de asiento de este tribunal, o del juez de letras respectivo o de turno, en los demás casos.
-Este permiso podrá otorgarse como máximo, en cada año calendario, por una sola vez o fraccionado, por ocho días a los secretarios, dos meses a los notarios, conservadores y archiveros y un mes a los otros funcionarios. Si el permiso solicitado excediere a los aludidos plazos y no pasare de un año, deberá pedirse por escrito ante el Presidente de la República. Si transcurrido un año no se presentare el funcionario a servir su destino, se tendrá esta inasistencia como causal bastante para que la autoridad competente, siguiendo los trámites legales, pueda declarar vacante el empleo.
+Art. 478. Ningún notario, Conservador, Archivero, secretario, administrador de tribunal, procurador o receptor podrá ausentarse del lugar de su residencia ni dejar de asistir diariamente a su oficina sin permiso del Presidente de la Corte si ejerciere sus funciones en el lugar de asiento de este tribunal, o del juez de letras respectivo o de turno, en los demás casos.
+Este permiso podrá otorgarse como máximo, en cada año calendario, por una sola vez o fraccionado, por ocho días a los secretarios y administradores de tribunales, dos meses a los notarios, conservadores y archiveros y un mes a los otros funcionarios. Si el permiso solicitado excediere a los aludidos plazos y no pasare de un año, deberá pedirse por escrito ante el Presidente de la República. Si transcurrido un año no se presentare el funcionario a servir su destino, se tendrá esta inasistencia como causal bastante para que la autoridad competente, siguiendo los trámites legales, pueda declarar vacante el empleo.
 En los permisos hasta por dos meses el notario, conservador y archivero podrá proponer al juez el abogado que deba subrogarlo bajo su responsabilidad, propuesta que en el caso de los notarios y conservadores de cuarta categoría podrá recaer en el oficial 1° de la oficina respectiva.
 
 Art. 479. Es prohibido a los auxiliares de la Administración de Justicia ejercer la abogacía y sólo podrán defender causas personales o de sus cónyuges, ascendientes, descendientes, hermanos o pupilos.
 Les es igualmente prohibido representar en juicio a otras personas que las mencionadas en el precedente inciso.
 No rige lo dispuesto en los incisos anteriores con los defensores públicos y los procuradores del número. No obstante, estos últimos no podrán ejercer la profesión de abogado ante las Cortes do Apelaciones en que actúan.
 
-Art. 480. Los fiscales no podrán aceptar compromisos, excepto cuando el nombrado tuviere con alguna de las partes originariamente interesadas en el litigio, algún vínculo de parentesco que autorice su implicancia o recusación.
+Art. 480. Los fiscales judiciales no podrán aceptar compromisos, excepto cuando el nombrado tuviere con alguna de las partes originariamente interesadas en el litigio, algún vínculo de parentesco que autorice su implicancia o recusación.
 Es prohibido a los notarios la aceptación y desempeño de arbitrajes y particiones.
 
-Art. 481. La prohibición del artículo 321 regirá también con los fiscales, defensores, relatores, secretarios, receptores y asistentes sociales judiciales.
+Art. 481. La prohibición del artículo 321 regirá también con los fiscales judiciales, defensores, relatores, secretarios, receptores y asistentes sociales judiciales.
 Los notarios y los procuradores del número no podrán comprar los bienes en cuyo litigio han intervenido y que se vendan a consecuencia del litigio, aunque la venta se haga en pública subasta.
 La prohibición del art. 322 rige respecto de los secretarios de los juzgados de letras en lo civil y de los conservadores de minas.
 
@@ -2136,15 +2399,15 @@ Art. 482. Es aplicable a los auxiliares de la Administración de Justicia lo dis
 
 ### § 4. De las implicancias y recusaciones
 
-Art. 483. Se prohibe a los oficiales del ministerio público, ya sean propietarios, interinos o suplentes, intervenir como tales funcionarios en los negocios en que sean parte o tengan interés personal ellos mismos o alguna de las personas expresadas en el artículo 195, o en que, antes de entrar en el ejercicio de sus funciones, hayan ellos intervenido como abogados o representantes de cualquiera de las partes; a menos que su interés o el interés de las personas a quienes el precitado artículo se refiere o a quienes dichos funcionarios hubieren defendido o representado no esté en oposición con el que les corresponde defender en razón de su ministerio.
+Art. 483. Se prohibe a los fiscales judiciales, ya sean propietarios, interinos o suplentes, intervenir como tales funcionarios en los negocios en que sean parte o tengan interés personal ellos mismos o alguna de las personas expresadas en el artículo 195, o en que, antes de entrar en el ejercicio de sus funciones, hayan ellos intervenido como abogados o representantes de cualquiera de las partes; a menos que su interés o el interés de las personas a quienes el precitado artículo se refiere o a quienes dichos funcionarios hubieren defendido o representado no esté en oposición con el que les corresponde defender en razón de su ministerio.
 
-Art. 484. En los negocios en que los oficiales del ministerio público intervienen como terceros coadyuvantes, pueden ser recusados con expresión de causa por las personas naturales o jurídicas cuyos intereses y derechos son llamados a proteger y defender.
+Art. 484. En los negocios en que los fiscales judiciales intervienen como terceros coadyuvantes, pueden ser recusados con expresión de causa por las personas naturales o jurídicas cuyos intereses y derechos son llamados a proteger y defender.
 Las causas de recusación de estos funcionarios son las designadas para la recusación de los jueces por el artículo 196, con exclusión de las comprendidas en los números 2° y 10.
 Y no podrá entablarse la recusación sino cuando, según la presunción de la ley, la falta de imparcialidad que se supone en el recusado pueda perjudicar al recusante.
 
 Art. 485. Se prohibe, igualmente, a los defensores públicos intervenir en calidad de tales en los negocios en que sean parte o tengan interés personal ellos mismos o alguna de las personas expresadas en el artículo 195 o en que, antes de entrar en el ejercicio de sus funciones, hayan ellos intervenido como abogados o representantes de cualquiera de las partes.
 
-Art. 486. Los defensores públicos pueden ser recusados en los casos y por las personas porque pueden serlo los oficiales del ministerio público.
+Art. 486. Los defensores públicos pueden ser recusados en los casos y por las personas porque pueden serlo los fiscales judiciales.
 
 Art. 487. Las causas de implicancia señaladas respecto de los jueces por el artículo 195 rigen también respecto de los relatores, secretarios, receptores y asistentes sociales judiciales.
 En consecuencia, les es prohibido intervenir como tales en los negocios a que este artículo se refiere.
@@ -2175,12 +2438,12 @@ El funcionario que figure en Lista Deficiente o, por segundo año consecutivo en
 Esta circunstancia deberá ser comunicada de inmediato por el órgano calificador respectivo al Ministerio de Justicia, con el objeto de que éste, para los efectos administrativos correspondientes, curse a la brevedad el debido decreto supremo.
 
 Art. 494. Los cargos de los auxiliares de la Administración de Justicia expiran por incurrir éstos en alguna de las incapacidades establecidas por la ley para ejercerlos o por las causas indicadas en los números 3, 4, 5, 6, 7, 8 y 11 del artículo 332 en cuanto les puedan ser aplicables. Expiran, asimismo, por la aceptación de todo cargo o empleo remunerado con fondos fiscales, semifiscales o municipales, y cuando sobrevienen a los funcionarios algunas de las inhabilidades indicadas en los cuatro primeros números del artículo 256.
-Es aplicable a los fiscales y a los relatores lo prescrito en el N° 9 del artículo 332.
-Los oficiales del ministerio público y los defensores públicos cesarán, además, en sus cargos si se produce la situación prevista en el inciso final del artículo 470.
+Es aplicable a los fiscales judiciales y a los relatores lo prescrito en el N° 9 del artículo 332.
+Los fiscales judiciales y los defensores públicos cesarán, además, en sus cargos si se produce la situación prevista en el inciso final del artículo 470.
 Los secretarios, notarios, conservadores archiveros, receptores y procuradores cesarán también en sus funciones si fueren condenados a la pena de inhabilitación para cargos y oficios públicos.
 
 Art. 495. Si un auxiliar de la Administración de Justicia de los indicados en el artículo 469 y un ministro de la Corte de Apelaciones de que aquéllos dependan contrajeren, después que hayan sido nombrados tales, alguno de los parentescos designados en el artículo 258, aquél por cuyo matrimonio se haya contraído el parentesco, cesará inmediatamente en el ejercicio de sus funciones y deberá ser separado de su destino.
-Lo dispuesto en el inciso anterior es aplicable al fiscal de la Corte Suprema con respecto a los miembros de dicho tribunal.
+Lo dispuesto en el inciso anterior es aplicable al fiscal judicial de la Corte Suprema con respecto a los miembros de dicho tribunal.
 
 Art. 495 bis. Los auxiliares de
 NOTA
@@ -2198,12 +2461,12 @@ Los presidentes de la Cortes de Apelaciones fijarán un turno entre sus secretar
 ## TITULO XIII
 De los empleados u oficiales de secretaría
 
-Art. 498. Las leyes determinarán la planta y los sueldos de los empleados de las secretarías de los tribunales, de los fiscales y de los empleados con nombramiento fiscal de los defensores públicos.
+Art. 498. Las leyes determinarán la planta y los sueldos de los empleados de las secretarías de los tribunales, de los fiscales judiciales y de los empleados con nombramiento fiscal de los defensores públicos.
 Para los efectos de lo establecido en el párrafo final del inciso primero del artículo 294, la Corporación Administrativa del Poder Judicial, a lo menos cada cinco años, deberá establecer las funciones que correspondan a cada uno de los cargos que componen el Escalafón del Personal de Empleados, debiendo señalar con claridad y precisión los títulos profesionales o técnicos o los conocimientos que se requieran para su debido desempeño. Al determinar las funciones y requisitos habilitantes de cada cargo, la Corporación establecerá aquellas diferencias y excepciones que sean necesarias conforme a las categorías y características de los distintos tribunales en que vayan a desempeñarse.
 Especialmente formarán parte de la secretaría de la Corte Suprema, cinco oficiales auxiliares, que prestarán sus servicios como escribientes de los miembros del tribunal, en la forma que éste determine. Estos oficiales serán nombrados por el Presidente de la República, a propuesta de la Corte Suprema, deberán haber cursado cuarto año de Derecho, a lo menos, y durarán sólo tres años en el ejercicio de sus funciones.
 
 Art. 499. El nombramiento en propiedad en cargos del Escalafón del Personal de Empleados se hará por el Presidente de la Corte Suprema cuando se trate de empleados que hayan de servir en ella, o por el Presidente de la Corte de Apelaciones respectiva, en los demás casos, con sujeción a las normas que se indican en el párrafo tercero del Título X.
-Los Oficiales de los fiscales de las Cortes de Apelaciones serán designados a propuesta unipersonal del fiscal.
+Los Oficiales de los fiscales judiciales de las Cortes de Apelaciones serán designados a propuesta unipersonal del fiscal.
 Será aplicable a los funcionarios a que se refiere este artículo lo dispuesto en el artículo 493.
 
 Art. 500. Los oficiales primeros de las secretarías, sin perjuicio de las otras funciones que les correspondan según las leyes, estarán obligados a desempeñar, bajo la responsabilidad de los secretarios, las funciones que a éstos les encomienda el Título VI del Libro I del Código de Procedimiento Civil.
@@ -2217,7 +2480,7 @@ Art. 502. Las incapacidades establecidas en los artículos 258 y 469 son aplicab
 Art. 502 bis. Derogado.
 
 Art. 503. Es aplicable a los oficiales de secretaría de la Administración de Justicia lo dispuesto en los artículos 323 y 470, inciso primero.
-El Secretario Abogado del Fiscal de la Corte Suprema, los Oficiales de los Fiscales de las Cortes de Apelaciones y los Oficiales de los Defensores Públicos que tengan el título de Abogado no podrán ejercer su profesión respecto de los asuntos en que, de conformidad a los artículos 356, 357 y 366 el Ministerio Público o los Defensores Públicos deban intervenir, en su caso.
+El secretario abogado del fiscal judicial de la Corte Suprema, los oficiales de los fiscales judiciales de las Cortes de Apelaciones y los oficiales de los defensores públicos que tengan título de abogado no podrán ejercer su profesión respecto de los asuntos en que, de conformidad a los artículos 356, 357 y 366, los fiscales judiciales o los defensores públicos deban intervenir, en su caso.
 Los demás oficiales de secretaría de la Administración de Justicia que tengan título de abogado, no podrán ejercer su profesión respecto de los asuntos de que conozca el Tribunal en que desempeñen sus funciones.
 
 Art. 504. En toda notaría, archivo u oficio de los conservadores habrá el número de oficiales de secretaría que los respectivos funcionarios conceptúen preciso para el pronto y expedito ejercicio de sus funciones y el buen régimen de su oficina. La respectiva Corte de Apelaciones, con informe del Ministro a que se refiere el artículo 564 o del juez, en el caso previsto en el artículo 565, fijará la dotación mínima de oficiales de secretaría de estas oficinas.
@@ -2242,7 +2505,7 @@ En los inmuebles de propiedad particular que se arrienden para que en ellos func
 3° Asesorar técnicamente a la Corte Suprema en el diseño y análisis de la información estadística, en el desarrollo y aplicación de sistemas computacionales y, en general, respecto de la asignación, incremento y administración de todos los recursos del Poder Judicial, para obtener su aprovechamiento o rendimiento óptimo.
 4° La organización de cursos y conferencias destinados al perfeccionamiento del personal judicial.
 5° La creación, implementación y mantención de salas cunas en aquellos lugares en que sean necesarias en conformidad a la ley, para los hijos del personal del Poder Judicial.
-6° Asesorar técnicamente y formular proposiciones a la Corte Suprema en materias de personal e indicadores de gestión y ejecutar la administración de los recursos humanos del Poder Judicial conforme a las directrices que ésta le imparta.
+6° Dictar, conforme a las directrices generales que le imparta la Corte Suprema, políticas de selección de personal, de evaluación, de administración de recursos materiales y de personal, de indicadores de gestión, de diseño y análisis de la información estadística, y la aprobación de los presupuestos que le presenten los tribunales.
 7° Remitir, previa autorización del Consejo Superior, los informes y estudios que haya elaborado o encargado a terceros y obren en su poder a los Ministerios de Justicia y Hacienda y a los órganos y autoridades del Estado, cuando los soliciten para materias relacionadas con su competencia.
 Podrá, asimismo, destinar los fondos que sean necesarios, de sus recursos propios, para solventar los gastos de atención y locomoción de los hijos de dicho personal judicial, en salas cunas externas, que cuenten con la autorización de la Junta Nacional de Jardines Infantiles.
 La Corporación Administrativa del Poder Judicial podrá poner a disposición de los tribunales las sumas necesarias para el cumplimiento de los fines previstos en este artículo, los cuales deberán rendir, ante ella, cuenta detallada de la inversión de estos fondos. Dicho organismo llevará una cuenta en conformidad a lo establecido en el artículo 516.
@@ -2281,13 +2544,13 @@ d) El producto de las multas y consignaciones que las leyes establezcan a benefi
 e) Los depósitos a que se refiere el artículo 515.
 
 Art. 515. Pasarán a la Corporación los depósitos judiciales cuya restitución no fuere solicitada por los interesados dentro del plazo de cinco años, contado desde que exista resolución ejecutoriada declaratoria del abandono del procedimiento.
-Los depósitos judiciales que tengan más de diez años y que incidan en juicios o gestiones cuyos expedientes no se encuentren o no puedan determinarse, figurarán en lista que el secretario colocará durante treinta días en un lugar visible de la secretaría del tribunal. Transcurrido este último plazo sin que se pidiere la restitución, o desechada esta solicitud que se tramitará en forma incidental, el tribunal decretará el ingreso del depósito a favor de la Corporación.
+Los depósitos judiciales que tengan más de diez años y que incidan en juicios o gestiones cuyos expedientes no se encuentren o no puedan determinarse, figurarán en lista que el secretario o administrador del tribunal colocará durante treinta días en un lugar visible de la secretaría del tribunal. Transcurrido este último plazo sin que se pidiere la restitución, o desechada esta solicitud que se tramitará en forma incidental, el tribunal decretará el ingreso del depósito a favor de la Corporación.
 Las cantidades que deban aplicarse a beneficio fiscal en los casos en que se exige consignación previa de dinero para recurrir de apelación, casación, revisión o queja, se destinarán a la Corporación Administrativa.
 En los casos a que se refiere los incisos precedentes, el traspaso de los fondos los ordenará cada tribunal en el mes de enero de cada año, mediante decreto económico en el cual se indicarán los procesos a que correspondan, el monto y fecha de cada depósito y el motivo de su ingreso a la orden de la Corporación. El decreto económico se transcribirá a esta última y a la Corte de Apelaciones cuando procediere, y de él se dejará constancia en el expediente respectivo, en su caso.
 En cuanto al destino de las fianzas y de los dineros decomisados, y de los que no hayan caído en comiso y no fueren reclamados, se estará a lo previsto en el Código de Procedimiento Penal.
 
 Art. 516. Los tribunales de justicia mantendrán una cuenta corriente bancaria de depósito en la oficina del Banco del Estado del lugar en que funcionen, o del más próximo al de asiento del tribunal, y del movimiento de ella deberán rendir cuenta anualmente a la Contraloría General de la República.
-Los pagos que deban hacer esos tribunales se efectuarán por medio de cheques girados contra esa cuenta, los que deberán llevar la firma del juez y del secretario y el timbre del tribunal.
+Los pagos que deban hacer esos tribunales se efectuarán por medio de cheques girados contra esa cuenta, los que deberán llevar la firma del juez y del secretario o del administrador y el timbre del tribunal.
 Los jueces o secretarios que subroguen al tribunal podrán girar en esas cuentas, debiendo expresar esta circunstancia en la antefirma. No podrán girar los demás subrogantes legales de los jueces.
 Para estos efectos, la Contraloría General de la República deberá comunicar a la respectiva institución de crédito todo nombramiento de propietario, interino o suplente que se produzca respecto de la persona del juez o del secretario.
 Estas cuentas y los cheques respectivos estarán libres de toda comisión o impuesto.
@@ -2296,7 +2559,7 @@ En todo lo que no esté previsto en este título, regirán las disposiciones sob
 Art. 517. Todos los dineros que sea necesario poner a disposición de los tribunales de justicia deberán colocarse en alguna oficina del Banco del Estado a la orden del tribunal respectivo.
 Los depósitos a la orden judicial ganarán el interés que, para estos efectos, fije la Superintendencia de Bancos en beneficio de la Corporación Administrativa del Poder Judicial.
 En los lugares en que no exista oficina del Banco del Estado, el depósito deberá hacerse en alguna Tesorería Comunal. El tesorero, en el plazo de cinco días, deberá enviar los fondos que se le hayan entregado a la oficina del Banco en que tenga su cuenta el tribunal a cuya orden se consignan los fondos.
-Los secretarios de las Cortes y de los juzgados llevarán un libro en que anotarán los depósitos consignados a la orden del tribunal, con indicación de la fecha, nombre, juicio o proceso en que inciden y de los giros que se hagan.
+Los secretarios de las Cortes y los secretarios o administradores de los tribunales llevarán un libro en que anotarán los depósitos consignados a la orden del tribunal, con indicación de la fecha, nombre, juicio o proceso en que inciden y de los giros que se hagan.
 No obstante lo dispuesto en los incisos anteriores, continuarán consignándose en arcas fiscales, en conformidad a las disposiciones que estaban vigentes el 21 de septiembre de 1939 y especialmente a las de la ley N° 5.493, los dineros que para responder al pago de multas debían consignarse en dichas arcas.
 
 Art. 518. Lo dispuesto en los artículos anteriores no se aplicará a las boletas de garantía o fianza que emitan las instituciones de crédito para tomar parte en los remates, para responder de medidas precautorias o para otorgar fianzas.
@@ -2365,7 +2628,7 @@ Las faltas o abusos en la conducta ministerial de las personas expresadas en el 
 3) Multa de uno a quince días de sueldo o de una cantidad que no exceda de ocho y media Unidades Tributarias Mensuales, y
 4) Suspensión de sus funciones hasta por un mes, gozando del cincuenta por ciento de sus remuneraciones, cuando procediere.
 Las faltas o abusos de los notarios se castigarán disciplinariamente por las Cortes de Apelaciones, las cuales podrán delegar estas atribuciones en los jueces de letras correspondientes cuando la notaría no se halle en el mismo lugar del asiento de la corte.
-Las providencias que tomaren los jueces en el ejercicio de sus facultades disciplinarias se entenderán sin perjuicio de formarse el proceso correspondiente al empleado que hubiere faltado gravemente a sus deberes o cuya conducta diere lugar a presumir que ha habido en ella dolo o malicia.
+En el caso de los juzgados de garantía y de los tribunales orales en lo penal, las facultades disciplinarias sobre los subadministradores, jefes de unidades y personal serán ejercidas por el administrador del tribunal, de conformidad a lo previsto en el artículo 389 F. Si el administrador del tribunal cometiere faltas o abusos, o incurriere en infracciones u omisiones en el cumplimiento de sus deberes y obligaciones, podrá ser removido de acuerdo al inciso final del mismo artículo.
 
 Art. 533. Si los jueces de letras notaren faltas o abusos en el desempeño de las funciones de los defensores públicos darán cuenta a la Corte de Apelaciones respectiva, la cual Corte, si lo estimare conveniente, corregirá dichas faltas o abusos de la manera y por los medios que señalan los artículos 536 y 537.
 
@@ -2387,7 +2650,7 @@ Lo dicho en este artículo se entiende sólo respecto de aquellas faltas o abuso
 
 Art. 538. Pueden las Cortes de Apelaciones ejercer de oficio las facultades que se les confieren por los dos artículos anteriores.
 
-Art. 539. Las Cortes de Apelaciones vigilarán la conducta funcionaria de sus respectivos fiscales, y podrán corregirlos disciplinariamente en la forma establecida en el artículo 537.
+Art. 539. Las Cortes de Apelaciones vigilarán la conducta funcionaria de sus respectivos fiscales judiciales, y podrán corregirlos disciplinariamente en la forma establecida en el artículo 537.
 La conducta ministerial de los relatores, secretarios, notarios, conservadores, archiveros, procuradores, receptores y empleados de secretaría se halla bajo la vigilancia de las Cortes de Apelaciones, quienes podrán imponer a dichos funcionarios, procediendo de plano, las penas correccionales que se especifican en los artículos 537 y 542, y a más la de suspensión hasta por sesenta días de sus respectivos empleos u oficios, siempre que la prudencia y la necesidad de mantener la disciplina así lo exigieren.
 
 Art. 540. Corresponde a la Corte Suprema, en virtud del artículo 86 de la Constitución Política del Estado, ejercer la jurisdicción correccional, disciplinaria y económica sobre todos los tribunales de la Nación.
@@ -2395,7 +2658,7 @@ En razón de esta atribución puede la Corte Suprema, siempre que notare que alg
 Puede, asimismo, amonestar a las Cortes de Apelaciones o censurar su conducta, cuando alguno de estos tribunales ejerciere de un modo abusivo las facultades discrecionales que la ley les confiere, o cuando faltare a cualquiera de los deberes anexos a su ministerio; sin perjuicio de formar el correspondiente proceso al tribunal o ministros delincuentes, si la naturaleza del caso así lo exigiere.
 El ejercicio de esta jurisdicción establecida en la Constitución Política del Estado, regirá también respecto de los Tribunales del Trabajo.
 
-Art. 541. La Corte Suprema tiene respecto de sus miembros y de su fiscal las facultades que corresponden a las Cortes de Apelaciones por los artículos 535 y 539, inciso 1°.
+Art. 541. La Corte Suprema tiene respecto de sus miembros y de su fiscal judicial las facultades que corresponden a las Cortes de Apelaciones por los artículos 535 y 539, inciso 1°.
 La Corte Suprema puede, además, siempre que lo juzgare conveniente a la buena administración de justicia, corregir por sí las faltas o abusos que cualesquiera jueces o funcionarios del orden judicial cometieren en el desempeño de su ministerio, usando para ello de las facultades discrecionales que corresponden a las Cortes de Apelaciones con arreglo a los artículos 536 y 537.
 
 Art. 542. Para la represión y castigo de las faltas que se cometieren ante la Corte Suprema y ante las Cortes de Apelaciones, mientras ejercen sus funciones, estos tribunales podrán emplear alguno de los medios siguientes:
@@ -2476,8 +2739,8 @@ Art. 558. Las medidas que dictare el ministro visitador se ejecutarán desde lue
 Art. 559. Los Tribunales Superiores de Justicia decretarán visitas extraordinarias por medio de alguno de sus ministros en los juzgados de su respectivo territorio jurisdiccional, siempre que el mejor servicio judicial lo exigiere.
 
 Art. 560. El tribunal ordenará especialmente estas visitas en los casos siguientes:
-1°) Cuando se tratare de la investigación de hechos o de pesquisar delitos que puedan afectar a las relaciones internacionales de la República, y de los que corresponda conocer y juzgar a los Tribunales de Justicia;
-2°) Cuando se trate de la investigación y juzgamiento de crímenes o delitos que produzcan alarma pública y exijan pronta represión por su gravedad y perjudiciales consecuencias; y
+1°) Cuando se tratare de causas civiles que puedan afectar las relaciones internacionales y que sean de competencia de los tribunales de justicia;
+2°) Cuando se tratare de la investigación de hechos o de pesquisar delitos cuyo conocimiento corresponda a la justicia militar y que puedan afectar las relaciones internacionales, o que produzcan alarma pública y exijan pronta represión por su gravedad y perjudiciales consecuencias, y
 3°) Siempre que sea necesario investigar hechos que afecten a la conducta de los jueces en el ejercicio de sus funciones y cuando hubiere retardo notable en el despacho de los asuntos sometidos al conocimiento de dichos jueces.
 
 Art. 561. Las Cortes deberán expresar en cada caso en que decreten visitas extraordinarias el objeto u objetos determinados de ella y podrán autorizar, además, al ministro visitador para que ejerza en el juzgado en que se practique dicha visita las atribuciones disciplinarias que confiere este Código a los visitadores.
@@ -2499,54 +2762,51 @@ Art. 565. Derogado.
 
 Art. 566. Derogado.
 
-Art. 567. El último día hábil de cada semana, todo juez de letras que ejerza jurisdicción en materia criminal, acompañado de su secretario, visitará la cárcel o establecimientos que se encuentren ubicados en la localidad o ciudad donde funcione el tribunal y en los cuales haya detenidos o presos en procesos a su cargo, con el objeto de indagar si sufren vejaciones indebidas, si se les coarta la libertad de defensa o si se prolonga ilegalmente la tramitación de su proceso.
-La Corte de Apelaciones, dentro de cuyo territorio jurisdiccional existan tribunales en lo criminal que estén exentos de la visita respectiva en razón de tener detenidos o presos en cárceles o establecimientos que estén ubicados fuera de la localidad o ciudad donde funcionan, establecerá un turno u otro sistema entre los jueces del crimen obligados a la visita, para que éstos la efectúen a tales detenidos o presos, y, por oficio, informen al juez que instruye el respectivo proceso sobre las quejas y observaciones recibidas. Sin perjuicio de lo anterior, todo juez deberá visitar, a lo menos una vez cada tres meses, el recinto carcelario en que tuviere detenidos o presos.
+Art. 567. El último día hábil de cada semana, un juez de garantía, designado por el comité de jueces del tribunal de la respectiva jurisdicción, visitará la cárcel o el establecimiento en que se encuentren los detenidos o presos a fin de indagar si sufren tratos indebidos, si se les coarta la libertad de defensa o si se prolonga ilegalmente la tramitación de su proceso.
 
-Art. 568. Tendrán derecho de asistir a estas visitas los oficiales del ministerio público, cualquiera que sea su categoría, los abogados y procuradores de los procesados y los padres o guardadores de los procesados menores de edad.
+Art. 568. Tendrán derecho de asistir a estas visitas los fiscales del ministerio público, cualquiera que sea su categoría, los abogados y procuradores de los procesados y los padres o guardadores de los procesados menores de edad.
 
 Art. 569. En el acto de la visita deberán ser presentados todos los presos y detenidos a quienes procese el juez que la practica; y si alguno no hubiere sido puesto todavía a disposición del juez, ni tuviere proceso pendiente, será presentado en la visita que practique el juez de turno.
 
-Art. 570. Instalada la visita en el respectivo establecimiento carcelario, el secretario dará lectura al estado que llevará preparado para este objeto, y en que expresarán el nombre de cada uno de los presos y detenidos, el delito por el cual se les procesa y el estado en que se encuentra la causa en aquel día. El juez cotejará, al mismo tiempo, esta última indicación con la que contenía el estado de la semana anterior; y, si notare algún retardo indebido, dictará las medidas convenientes para que el proceso siga su curso sin interrupción.
-En el caso del inciso segundo del artículo 567, los tribunales exentos de la obligación de la visita respectiva deberán remitir al tribunal que realizará la visita el estado en que se exprese el nombre de cada uno de los presos y detenidos, el delito por el cual se les procesa y el estado actual de la causa, hasta el día inmediatamente anterior a aquel en que se efectúe la visita. El tribunal que practique la visita oficiará al que conoce de la causa informándole sobre los retardos indebidos que constate, con el objeto de que dicte las medidas convenientes para que el proceso siga su curso sin interrupción.
+Art. 570. Iniciada la visita, un funcionario del juzgado o tribunal dará lectura al estado que llevará preparado para ese efecto y en que se expresará el nombre de cada uno de los presos y detenidos, el delito que se les imputa, el estado en que se encuentra y la fecha de inicio de la privación de libertad.
 
-Art. 571. En seguida, prevendrá el juez a los detenidos que pueden entablar las quejas que tengan a bien acerca del tratamiento que reciben, del alimento que se les da y de las dificultades que se les suscitan para la defensa de sus juicios.
+Art. 571. En seguida, prevendrá el juez a los detenidos y presos que pueden entablar las quejas que tengan a bien acerca del tratamiento que reciben, del alimento que se les da y de las dificultades que se les suscitan para la defensa de sus juicios.
 El juez oirá uno a uno los reclamos que se le hicieren a este respecto por los presos o detenidos, o por las personas designadas en el artículo 568; y adoptará las medidas que crea convenientes para subsanar las faltas que se le hicieren presente. Si el preso o su representante creyeren ineficaz la medida adoptada, podrán proponer otra; y, desechada por el juez, podrán apelar de la resolución. En el caso del inciso segundo del artículo 567, el tribunal que practique la visita oficiará al que conoce de la causa informándole sobre los reclamos formulados, con el objeto de que adopte las medidas que crea convenientes para subsanar las faltas que se hicieren presentes.
 
-Art. 572. El juez reconocerá, en seguida, el estado de aseo y seguridad de los calabozos, oyendo las observaciones del jefe del establecimiento a este respecto; y tomará nota del movimiento de ingreso y egreso de individuos procesados que haya habido durante el curso de la semana.
+Art. 572. El juez reconocerá, en seguida, el estado de aseo y seguridad de los calabozos, oyendo las observaciones del jefe del establecimiento a este respecto; y tomará nota del movimiento de ingreso y egreso de individuos reclusos que haya habido durante el curso de la semana.
 
-Art. 573. Cuando, por la inspección de los libros del alcaide o por otros motivos, conociere el juez que existe en el establecimiento algún individuo ilegalmente detenido o incompetentemente juzgado, dictará desde luego las providencias que estuvieren dentro de sus facultades para remediar el abuso cometido. Si el remedio excediere de sus facultades, dará cuenta inmediata con los antecedentes a la autoridad superior que corresponda.
+Art. 573. Cuando, por la inspección de los libros del alcaide o por otros motivos, conociere el juez que existe en el establecimiento algún individuo ilegalmente detenido o preso, dictará desde luego las providencias que estuvieren dentro de sus facultades para remediar el abuso cometido. Si el remedio excediere de sus facultades, dará cuenta inmediata con los antecedentes a la autoridad superior que corresponda.
 
-Art. 574. Cada juez que practique la visita de los procesados levantará un acta en que se contenga una exposición minuciosa de las observaciones que hubiere hecho y de los reclamos que se le hubieren dirigido durante ella. En el acta se expresarán el movimiento que hubiere tenido la cárcel y la indicación del nombre y apellido de cada uno de los individuos procesados por el juzgado, que hubieren entrado y salido durante la semana.
+Art. 574. Cada juez que practique la visita de los detenidos o presos levantará un acta en que se contenga una exposición minuciosa de las observaciones que hubiere hecho y de los reclamos que se le hubieren dirigido durante ella. En el acta se expresarán el movimiento que hubiere tenido la cárcel y la indicación del nombre y apellido de cada uno de los individuos procesados por el juzgado o tribunal, que hubieren entrado y salido durante la semana.
 
 Art. 575. Una copia autorizada del acta será enviada el mismo día a la Corte de Apelaciones respectiva; y este tribunal procederá a examinarla en el acto que la reciba. Si en ella se consigna alguna resolución del juez que hubiere sido apelada, mandará traer los antecedentes en relación, y le dará lugar preferente en la primera tabla que se forme. Con audiencia verbal de las partes que concurran, y sin otro trámite, fallará la Corte el recurso pendiente.
 
 Art. 576. Si el contenido de las actas diere mérito para adoptar medidas que estén fuera del alcance de los Tribunales de Justicia, la Corte se dirigirá a la autoridad administrativa llamada a poner remedio al mal denunciado, a fin de que adopte las providencias necesarias para ese objeto.
 
-Art. 577. Todo jefe de establecimiento en que se encuentren detenidos o presos los individuos procesados, dará cuenta inmediata al juez de letras respectivo de la muerte o fuga de alguno de ellos, y de cualquiera enfermedad que exija la traslación del enfermo a un hospital o a otro establecimiento.
-Si el proceso se encontrare pendiente ante la Corte de Apelaciones, el juez de letras comunicará a ese tribunal, sin pérdida de tiempo, la fuga o la muerte del procesado.
+Art. 577. Todo jefe de establecimiento en que se encuentren individuos detenidos o presos dará cuenta inmediata al fiscal del ministerio público y al juzgado o tribunal respectivo, de la muerte o fuga de alguno de ellos y de cualquier enfermedad que exija la traslación de un enfermo a un hospital u otro establecimiento.
 
-Art. 578. En toda ciudad en que existan cárceles o establecimientos penales se hará, a lo menos, una visita en el primer semestre y otra en el segundo semestre del año a cada uno de ellos, a fin de tomar conocimiento de su estado de seguridad, orden e higiene, de si los procesados cumplen sus condenas y de oírles sus reclamaciones.
+Art. 578. En toda ciudad en que existan cárceles o establecimientos penales se hará, a lo menos, una visita en el primer semestre y otra en el segundo semestre del año a cada uno de ellos, a fin de tomar conocimiento de su estado de seguridad, orden e higiene, de si los internos cumplen sus condenas y de oírles sus reclamaciones.
 
 Art. 579. Las visitas se practicarán sin aviso previo, a uno o más de los establecimientos penales y cárceles existentes en el territorio jurisdiccional respectivo, en la fecha y hora que determine el presidente de la visita, por sí o a petición de cualquiera de sus miembros.
 
-Art. 580. En las comunas asiento de una Corte de Apelaciones constituirán la visita el presidente, un ministro y el fiscal de cada Corte. El ministro y el fiscal, en las Cortes de Apelaciones que tengan más de uno, serán designados por turno anual, comenzando por el menos antiguo.
+Art. 580. En las comunas asiento de una Corte de Apelaciones constituirán la visita un ministro de la misma, un juez de tribunal oral en lo penal y un juez de garantía. El ministro será designado por turno anual, comenzando por el menos antiguo.
 El secretario de la Corte de Apelaciones, o el secretario en lo criminal de la de Santiago, lo será de la visita.
-En las demás comunas, constituirán la visita los jueces del crimen del territorio jurisdiccional y secretario lo será el del juzgado, o el más antiguo de éstos si hay más de uno.
-Presidirá la visita el presidente de la Corte de Apelaciones o, en su caso, el juez del crimen más antiguo.
+En las demás comunas, constituirán la visita un juez de garantía, designado por la Corte de Apelaciones de acuerdo a un turno mensual, y el funcionario del juzgado que el juez designare como secretario de la visita.
+Presidirá la visita el ministro de la Corte de Apelaciones o, en su caso, el juez de garantía.
 
-Art. 581. El presidente, el ministro que se designe y el fiscal de la Corte Suprema podrán constituirse en visita en cualquiera de las cárceles y establecimientos penales de la República cuando así lo estimare necesario el primero, que la presidirá.
-El presidente, el ministro y el fiscal de la Corte de Apelaciones que constituyan la visita en la ciudad asiento de ese tribunal, podrán visitar cualquiera de las cárceles y establecimientos penales existentes en su territorio jurisdiccional cuando así lo determine el presidente de oficio o a petición de uno de sus miembros.
+Art. 581. El presidente y el ministro que designe la Corte Suprema podrán constituirse en visita en cualquiera de las cárceles y establecimientos penales de la República cuando así lo estimare necesario el primero, que la presidirá.
+El presidente y el ministro de la Corte de Apelaciones que constituyan la visita en la ciudad asiento de ese tribunal, podrán visitar cualquiera de las cárceles y establecimientos penales existentes en su territorio jurisdiccional cuando así lo determine el presidente de oficio o a petición de uno de sus miembros.
 En estos casos, será secretario de la visita el ministro de fe que el presidente designe.
 Estas visitas tendrán los fines que se indican en el artículo 578 y se regirán, en cuanto les sean aplicables, por las disposiciones de los artículos 579, 582, 583, 584 y 585.
 
-Art. 582. La visita inspeccionará los diferentes departamentos de la casa; se informará del trato y del alimento que se da a los procesados; de cómo se cumple el reglamento y se llevan las cuentas de las economías de los procesados; y el Presidente les advertirá que pueden hacer las reclamaciones que les convengan.
-Los directores o jefes de la casa visitada presentarán a todos los procesados o detenidos que en ella haya, en la forma que la visita ordene.
+Art. 582. La visita inspeccionará los diferentes departamentos de la casa; se informará del trato y del alimento que se da a los reclusos; de cómo se cumple el reglamento y se llevan las cuentas de las economías de los reclusos; y el Presidente les advertirá que pueden hacer las reclamaciones que les convengan.
+Los directores o jefes de la casa visitada presentarán a todos los reclusos que en ella haya, en la forma que la visita ordene.
 De las reclamaciones que se refieren a vejaciones indebidas, coacción de la libertad de defensa o prolongación injustificada en la tramitación de los procesos, se dejará testimonio escrito y de ellas conocerá la Corte de Apelaciones para la adopción de las medidas procedentes.
 
 Art. 583. Si notare abusos o defectos que pueda corregir, obrando dentro de sus atribuciones, la visita dará las órdenes del caso.
-Acordará, si lo estimare oportuno, hacer representaciones al Presidente de la República, ya en favor de algún procesado, ya con relación a la casa.
+Acordará, si lo estimare oportuno, hacer representaciones al Presidente de la República, ya en favor de algún recluso, ya con relación a la casa.
 
-Art. 584. El secretario que asista consignará en un libro, que llevará con este objeto, acta de la visita, en la cual expresará las órdenes dadas y las medidas tomadas en cada cárcel y establecimiento visitado.
+Art. 584. El secretario de la visita que asista consignará en un libro, que llevará con este objeto, acta de la visita, en la cual expresará las órdenes dadas y las medidas tomadas en cada cárcel y establecimiento visitado.
 El Presidente firmará el acta y también el secretario.
 Una copia del acta se remitirá al Ministerio de Justicia.
 
