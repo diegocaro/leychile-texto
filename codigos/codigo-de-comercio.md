@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1865-11-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=1924-01-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 1865-11-24
-fetched_at: 2026-08-02T23:56:08.084198+00:00
+version_date: 1924-01-02
+fetched_at: 2026-08-03T00:03:48.975167+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -68,6 +68,8 @@ Art. 25. Todo comerciante está obligado a llevar para su contabilidad y corresp
 2°. El libro mayor o de cuentas corrientes;
 3°. El libro de balances;
 4°. El libro copiador de cartas.
+
+Art. 26. Los libros deberán ser llevados en lengua castellana.
 
 Art. 27. En el libro diario se asentarán por orden cronológico y día por día las operaciones mercantiles que ejecute el comerciante, expresando detalladamente el carácter y circunstancias de cada una de ellas.
 
