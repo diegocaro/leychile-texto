@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1948-09-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1949-03-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1948-09-03
-fetched_at: 2026-08-03T00:09:37.406010+00:00
+version_date: 1949-03-03
+fetched_at: 2026-08-03T00:09:43.414878+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -210,10 +210,14 @@ Art. 39. Habrá en Santiago un Juez de Letras de Menor Cuantía en lo Criminal c
 3) De las demás infracciones que sean sancionadas en leyes especiales con pena de falta y cuyo conocimiento no esté entregado a autoridades distintas de jueces del crimen; y
 4) De las infracciones a que se refiere el párrafo 13 del Título VI del Libro II del Código Penal sobre vagancia y mendicidad.
 
-Art. 40. Habrá en la ciudad de Quillota un juez de letras de menor cuantía con jurisdicción sobre todo el departamento, con excepción del conocimiento de aquellas causas sometidas al juez de letras de menor cuantía de La Calera.
+Art. 40. Habrá en la ciudad de Qui
+NOTA
+llota un juez de letras de menor cuantía con jurisdicción sobre todo el departamento, con excepción del conocimiento de aquellas causas sometidas al juez de letras de menor cuantía de La Calera.
 Este juez conocerá en única instancia de las causas civiles y de comercio hasta mil pesos, y en primera de las que excedan de esta suma y no sean superiores a diez mil.
 Igualmente conocerá de los asuntos indicados en el artículo 38 de este Código, siempre que su valor no exceda de diez mil pesos, y de todos los conflictos, como juzgado del trabajo, sometido a las disposiciones del Código del Trabajo.
 Tendrá, asimismo, la competencia indicada en el artículo 37.
+NOTA
+La Ley 9308, publicada el 03.03.1949, elevó al juzgado de letras de menor cuantía de Quillota, a que se refiere este artículo, a la categoría de mayor cuantía, y fijó su nueva planta de personal.
 
 Art. 41. Suprimido.
 
