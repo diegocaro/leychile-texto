@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1975-05-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1975-11-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1975-05-16
-fetched_at: 2026-08-03T00:24:56.539221+00:00
+version_date: 1975-11-08
+fetched_at: 2026-08-03T00:26:08.618801+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -80,9 +80,9 @@ Artículo 8.- Para los fines del presente Código y demás leyes tributarias, sa
 7°.- Por "persona", las personas naturales o jurídicas y los "representantes".
 8°.- Por "residente", toda persona natural que permanezca en Chile más de seis meses en un año calendario, o más de seis meses en total, dentro de dos años tributarios consecutivos.
 9°.- Por "sueldo vital", el que rija en la provincia de Santiago.
-Para todos los efectos tributarios, los sueldos vitales mensuales o anuales, o sus porcentajes se expresarán en miles de escudos, despreciándose las cifras inferiores a quinientos escudos, y elevando las iguales o mayores a esta cifra al millar superior.
-10°.- Por "unidad tributaria", la cantidad de dinero cuyo monto, determinado por ley y permanentemente actualizado, sirve como medida o como punto de referencia tributario; y por "unidad tributaria anual", aquélla vigente en el último mes del año comercial respectivo, multiplicada por doce o por el número de meses que comprenda el citado año comercial.
-La unidad tributaria mensual o anual se expresará siempre en miles de escudos, despreciándose las cifras inferiores a quinientos escudos, y elevándose las iguales o mayores a esta suma al millar superior.
+Para todos los efectos tributarios, los sueldos vitales mensuales o anuales, o sus porcentajes se expresarán en pesos, despreciándose las cifras inferiores a cincuenta centavos, y elevando las iguales o mayores a esta cifra al entero superior.
+10°.- Por "unidad tributaria", la cantidad de dinero cuyo monto, determinado por ley y permanentemente actualizado, sirve como medida o como punto de referencia tributario; y por "unidad tributaria anual", aquélla vigente en el último mes del año comercial respectivo, multiplicada por doce o por el número de meses que comprenda el citado año comercial. Para los efectos de la aplicación de las sanciones expresadas en unidades tributarias, se entenderá por "unidad tributaria anual" aquella que resulte de multiplicar por doce la unidad tributaria mensual vigente al momento de cometerse la infracción.
+La unidad tributaria mensual o anual se expresará siempre en pesos, despreciándose las cifras inferiores a cincuenta centavos, y elevándose las iguales o mayores a esta suma al entero superior.
 11°.- Por "índice de precios al consumidor", aquél fijado por el Instituto Nacional de Estadística.
 12°.- Por "instrumentos de cambio internacional", el oro, la moneda extranjera, los efectos de comercio expresados en moneda extranjera, y todos aquellos instrumentos que, según las leyes, sirvan para efectuar operaciones de cambios internacionales.
 
@@ -331,8 +331,8 @@ La declaración inicial se hará en un formulario único proporcionado por el Se
 Las sociedades deberán poner en conocimiento de la oficina del Servicio que corresponda, toda modificación de su contrato social, dentro de los dos meses siguientes a la fecha en que ella se efectúe.
 
 Artículo 69.- Toda persona natural o jurídica que, por terminación de su giro comercial o industrial, o de sus actividades, deje de estar afecta a impuestos, deberá dar aviso por escrito al Servicio, acompañando su balance final o los antecedentes que éste estime necesario, y deberá pagar el impuesto correspondiente hasta el momento del expresado balance, dentro de los dos meses siguientes al término del giro o de sus actividades.
-Lo dispuesto en el inciso anterior no regirá para aquellas empresas individuales o sociales que, sin poner término a su giro o actividad, se transformen en sociedades de cualquiera naturaleza o modifiquen su contrato social sin disminuir su capital. Para estos efectos será necesario que la nueva empresa se haga responsable, en la respectiva escritura de sociedad, de todos los impuestos que se adeudaren por la primitiva o primitivas empresas.
-Tampoco regirá lo dispuesto en el inciso primero para la o las sociedades que, aportando a otra todo su Activo o Pasivo, pasen a ser accionistas de esta última y subsistan, por lo tanto, jurídicamente.
+Sin perjuicio de lo dispuesto en el artículo 71°, las empresas individuales o sociales no podrán transformarse en sociedades de cualquiera naturaleza, ni las sociedades aportar a otra u otras todo su Activo y Pasivo, sin dar aviso de término de giro, salvo que la o las sociedades que subsistan o que se creen se hagan responsables solidariamente, en las respectivas escrituras de sociedad, de todos los impuestos que se adeudaren por la o las primitivas empresas.
+No podrá efectuarse disminución de capital en las sociedades sin autorización previa del Servicio.
 
 Artículo 70.- No se autorizará ninguna disolución de sociedad sin un certificado del Servicio, en el cual conste que la sociedad se encuentra al día en el pago de sus tributos.
 
@@ -756,7 +756,7 @@ Las partes podrán designar, a su costa, peritos adjuntos en materias contables 
 f) Además de las circunstancias indicadas en el artículo 368 del Código de Procedimiento Penal, el Juez tomará en consideración, para determinar la cuantía de la fianza la estimación provisional que de los tributos evadidos haya hecho el Servicio de Impuestos Internos, no pudiendo ser inferior dicha fianza al 10% del monto de los impuestos estimados;
 g) Para los efectos previstos en los artículos 380 y siguientes del Código de Procedimiento Penal, corresponderá en primer término al querellante el señalamiento de los bienes sobre los cuales ha de recaer el embargo;
 h) La ratificación de los testigos del sumario solicitada por el querellado, será ordenada por el Juez sólo cuando lo estime necesario;
-i) Las apelaciones que se deduzcan por los querellados en los procesos por delitos tributarios se concederán en el solo efecto devolutivo, en la única excepción de la sentencia definitiva. Al concederse el recurso en un solo efecto deberán en todo caso enviarse compulsas al Tribunal de Alzada, no pudiendo remitirse, bajo ningún pretexto, el expediente original, a menos de ser requerido por dicho Tribunal para tenerlo a la vista en el fallo del recurso.
+i) Las apelaciones que se deduzcan por los querellados en los procesos por delitos tributarios se concederán en el solo efecto devolutivo, en la única excepción de la sentencia definitiva. Al concederse el recurso en un solo efecto deberán en todo caso enviarse compulsas al Tribunal de Alzada, no pudiendo remitirse, bajo ningún pretexto, el expediente original, a menos de ser requerido por dicho Tribunal para tenerlo a la vista en el fallo del recurso. Transcurrido el plazo de diez días desde la fecha de concesión del recurso sin que las compulsas hayan sido elevadas al tribunal de alzada, se tendrá al apelante por desistido del recurso y a firme la resolución recurrida.
 Concedido el recurso de apelación, se elevarán los autos al Tribunal de segunda instancia, el que tramitará el recurso sin más formalidades que fijar el día para la vista de la causa. Las Cortes de Apelaciones darán preferencia a estas causas, para cuyo efecto las agregarán a la tabla en la semana siguiente de haber ingresado a la Secretaría del Tribunal.
 Cualquiera que sea el número de los querellados, sólo podrán ejercer por dos veces el derecho de suspender la vista de la causa y por una el de recusar.
 j) En los casos en que el Tribunal de Primera o de Segunda Instancia conceda el beneficio de la remisión condicional de la pena contemplada en la ley N° 7.821, modificada por la ley N° 17.642, establecerá en la sentencia, entre las condiciones que el reo deberá cumplir, la de satisfacer las costas y multas impuestas en la misma sentencia y los impuestos cuya evasión se haya acreditado en el juicio criminal, sin que en caso alguno pueda el Tribunal liberar de esta exigencia al reo a quien concede el aludido beneficio.
