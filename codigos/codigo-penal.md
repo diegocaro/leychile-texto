@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1943-11-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=1947-01-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 1943-11-06
-fetched_at: 2026-08-03T00:07:19.295390+00:00
+version_date: 1947-01-04
+fetched_at: 2026-08-03T00:08:49.363803+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2259,7 +2259,10 @@ Será castigado con presidio o relegación menores en sus grados mínimos o mult
 Los ejemplares, máquinas u objetos contrahechos, introducidos o expendidos fraudulentamente, se aplicarán al perjudicado y también las láminas o utensilios empleados en la ejecución del fraude, cuando sólo pudieren usarse para cometerlo.
 
 ART. 472.
-El que habitualmente hubiere suministrado valores, de cualquier manera que sea, a un interés que exceda del máximum que la ley permita estipular, abusando de la debilidad o pasiones del que lo toma, será castigado con relegación menor en sus grados mínimo a medio y multa de ciento a mil pesos.
+El que suministre valores, de cualquiera manera que sea, a un interés que exceda del máximo que la ley permita estipular, será castigado con presidio o reclusión menores en cualquiera de sus grados.
+Condenado por usura un extranjero, será expulsado del país; y condenado como reincidente en delito de usura un nacionalizado, se le cancelará su nacionalización y se le expulsará del país.
+En ambos casos la expulsión se hará después de cumplida la pena.
+En la sustanciación y fallo de los procesos instruidos para la investigación de estos delitos, los Tribunales apreciarán la prueba en conciencia.
 
 ART. 473.
 El que defraudare o perjudicare a otro usando de cualquier engaño que no se halle expresado en los artículos anteriores de este párrafo, será castigado con presidio o relegación menores en sus grados mínimos y multa de ciento a mil pesos.
