@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1978-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1978-03-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1978-03-01
-fetched_at: 2026-08-03T00:29:17.005558+00:00
+version_date: 1978-03-31
+fetched_at: 2026-08-03T00:29:23.015696+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -243,14 +243,10 @@ No obstante lo dispuesto en el inciso primero del artículo anterior, formará p
 No obstante lo dispuesto en el inciso primero, el Juzgado de Letras de Mayor Cuantía de Pisagua tendrá su asiento en la localidad de Huara, la que será considerada capital de departamento para todos los efectos del servicio judicial. El territorio jurisdiccional de dicho Juzgado estará formado por el departamento de Pisagua y por las comunas-subdelegaciones de Huara y Pozo Almonte, excluido de esta última el distrito Pintados.
 No obstante lo dispuesto en el inciso primero, el Juzgado de Letras de Pozo Almonte hará las veces de Juzgado de Letras de Mayor Cuantía del departamento de Pisagua, considerándose a la comuna subdelegación de Pozo Almonte como integrante de dicho departamento para todos los efectos del Servicio Judicial.
 
-Art. 43. Los jueces del crimen de los departamentos de Santiago y Presidente Aguirre Cerda ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago y del Consejo General del Colegio de Abogados.
-El Presidente de la República, previo informe favorable de la misma Corte y oyendo al Consejo General del Colegio de Abogados, podrá fijar como territorio jurisdiccional exclusivo de uno o más de los jueces civiles del departamento de Santiago, una parte del departamento, y en tal caso, autorizar el funcionamiento de estos Tribunales dentro de sus respectivos territorios jurisdiccionales.
+Art. 43. Los Jueces del Crimen de los departamentos de Santiago y Presidente Aguirre Cerda ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la respectiva Corte y del Consejo General del Colegio de Abogados.
+El Presidente de la República, previo informe favorable de la Corte de Apelaciones de Santiago y oyendo al Consejo General del Colegio de Abogados, podrá fijar como territorio jurisdiccional exclusivo de uno o más de los jueces civiles del departamento de Santiago, una parte del departamento, y en tal caso, autorizar el funcionamiento de estos Tribunales dentro de sus respectivos territorios jurisdiccionales.
 Tanto los jueces del crimen a que se refiere el inciso primero, como los tribunales civiles a los cuales se fije un territorio jurisdiccional exclusivo, podrán practicar actuaciones en cualesquiera de los dos departamentos, en los asuntos sometidos a su conocimiento.
-Con el acuerdo previo de la Corte de Apelaciones de S
-NOTA
-antiago, y por no más de una vez al año, el Presidente de la República, oyendo al Consejo General del Colegio de Abogados, podrá modificar los límites de la jurisdicción territorial de los juzgados a que se refieren los incisos primero y segundo.
-NOTA
-El Art. 16 del Decreto Ley 1682, Justicia, publicado el 25.01.1977, derogó la letra b) del artículo 4° del decreto ley N° 744, de 1974, y declaró que el inciso final del artículo 43 del Código Orgánico de Tribunales, que a su vez había sido derogada por dicha disposición, mantiene su vigencia.
+Con el acuerdo previo de la Corte de Apelaciones de Santiago o Presidente Aguirre Cerda, según corresponda, y por no más de una vez al año, el Presidente de la República, oyendo al Consejo General del Colegio de Abogados, podrá modificar los límites de la jurisdicción territorial de los Juzgados a que se refieren los incisos primero y segundo.
 
 Art. 44. Habrá también un Juzgado de Letras de Mayor Cuantía en Petorca, Putaendo, Casablanca, Limache, Quilpué, La Calera, Florida (Concepción), Lota, Curanilahue, Carahue y Villarica, que tendrán su asiento en la ciudades cabeceras de esas comunas subdelegaciones, las cuales serán consideradas como departamentos para todos los efectos del Servicio Judicial, con excepción de La Calera y Curanilahue.
 Los territorios jurisdiccionales de los Tribunales a que se refiere este artículo serán los de las comunas-subdelegaciones de sus respectivos nombres.
@@ -317,7 +313,7 @@ Las Cortes de Apelaciones
 
 ### § 1. Su organización y atribuciones
 
-Art. 54. Habrá en la República quince Cortes de Apelaciones que tendrán su asiento en las ciudades de Iquique, Antofagasta, Copiapó, La Serena, Valparaíso, Santiago, Rancagua, Talca, Chillán, Concepción, Temuco, Valdivia, Puerto Montt, Coyhaique y Punta Arenas.
+Art. 54. Habrá en la República dieciséis Cortes de Apelaciones que tendrán su asiento en las ciudades o departamentos de Iquique, Antofagasta, Copiapó, La Serena, Valparaíso, Santiago, Presidente Aguirre Cerda, Rancagua, Talca, Chillán, Concepción, Temuco, Valdivia, Puerto Montt, Coyhaique y Punta Arenas.
 
 Art. 55. El territorio jurisdiccional de las Cortes de Apelaciones será el siguiente:
 a) El de la Corte de Iquique comprenderá la provincia de Tarapacá;
@@ -325,38 +321,39 @@ b) El de la Corte de Antofagasta comprenderá la provincia de Antofagasta;
 c) El de la Corte de Copiapó comprenderá la provincia de Atacama;
 d) El de la Corte de La Serena comprenderá la provincia de Coquimbo;
 e) El de la Corte de Valparaíso comprenderá las provincias de Aconcagua y Valparaíso;
-f) El de la Corte de Santiago comprenderá la provincia de Santiago, exceptuando el departamento de Maipo;
-g) En la Corte de Rancagua comprenderá las provincias de O'Higgins y Colchagua y el departamento de Maipo de la provincia de Santiago;
-h) El de la Corte de Talca comprenderá el departamento de Constitución de la provincia de Maule y las provincias de Curicó, Talca y Linares, exceptuando de esta última el departamento de Parral;
-i) El de la Corte de Chillán comprenderá el departamento de Parral de la provincia de Linares y las provincias de Ñuble y Maule, exceptuando de esta última el departamento de Constitución;
-j) El de la Corte de Concepción comprenderá las provincias de Concepción, Bío-Bío y Arauco;
-k) El de la Corte de Temuco comprenderá las provincias de Malleco y Cautín;
-l) El de la Corte de Valdivia comprenderá las provincias de Valdivia y Osorno;
-m) El de la Corte de Puerto Montt comprenderá las provincias de Llanquihue y Chiloé;
-n) El de la Corte de Coyhaique comprenderá la provincia de Aysen, y
-ñ) El de la Corte de Punta Arenas comprenderá la provincia de Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
+f) El de la Corte de Santiago comprenderá la provincia de Santiago;
+g) El de la Corte Presidente Aguirre Cerda comprenderá el departamento del mismo nombre y los de Puente Alto, San Bernardo, Maipo, Talagante, Melipilla y San Antonio;
+h) En la Corte de Rancagua comprenderá las provincias de O'Higgins y Colchagua;
+i) El de la Corte de Talca comprenderá el departamento de Constitución de la provincia de Maule y las provincias de Curicó, Talca y Linares, exceptuando de esta última el departamento de Parral;
+j) El de la Corte de Chillán comprenderá el departamento de Parral de la provincia de Linares y las provincias de Ñuble y Maule, exceptuando de esta última el departamento de Constitución;
+k) El de la Corte de Concepción comprenderá las provincias de Concepción, Bío-Bío y Arauco;
+l) El de la Corte de Temuco comprenderá las provincias de Malleco y Cautín;
+m) El de la Corte de Valdivia comprenderá las provincias de Valdivia y Osorno;
+n) El de la Corte de Puerto Montt comprenderá las provincias de Llanquihue y Chiloé;
+ñ) El de la Corte de Coyhaique comprenderá la provincia de Aysen, y
+o) El de la Corte de Punta Arenas comprenderá la provincia de Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
 
 Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indica:
-1° Las Cortes de Iquique, Antofagasta, La Serena, Rancagua, Talca y Chillán, Puerto Montt y Punta Arenas tendrán cuatro miembros;
+1° Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Chillán, Valdivia, Puerto Montt, Coyhaique y Punta Arenas tendrán cuatro miembros;
 2° La Corte de Temuco tendrá cinco miembros;
-3° Las Cortes de Valparaíso y Concepción tendrán siete miembros, y
+3° Las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción tendrán siete miembros, y
 4° La Corte de Santiago tendrá veintiún miembros.
 
 Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado desde el 1° de Enero y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
 Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón.
 
-Art. 58. Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá cinco Fiscales, y las Cortes de Valparaíso y Concepción dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal, como lo estime más conveniente para el mejor servicio, con audiencia de estos funcionarios.
+Art. 58. Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá cinco Fiscales, y las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal, como lo estime más conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
 Art. 59. Las Cortes de Apelaciones tendrán el número de Relatores que a continuación se indica:
-1°.- Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Los Angeles, Puerto Montt y Punta Arenas tendrán un Relator;
+1°.- Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Puerto Montt, Coyhaique y Punta Arenas tendrán un relator;
 2°.- Las Cortes de Chillán, Temuco y Valdivia, dos relatores;
-3°.- Las Cortes de Valparaíso y Concepción, tres relatores; y
+3°.- Las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción, tres relatores; y
 4°.- La Corte de Santiago tendrá diez Relatores.
 
 Art. 60. Cada Corte de Apelaciones tendrá un secretario.
 La Corte de Apelaciones de Santiago tendrá dos secretarios. El tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
 
-Art. 61. Las Cortes de Valparaíso y Concepción se dividirán en dos salas de cuatro y tres ministros, respectivamente.
+Art. 61. Las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción se dividirán en dos salas de cuatro y tres ministros, respectivamente.
 La Corte de Santiago se dividirá en seis salas de tres Ministros cada una, excepto la primera y la segunda, que se compondrán de cuatro Ministros. En caso de funcionamiento extraordinario en siete salas, la séptima sala se compondrá de dos Ministros y se integrará con un tercer miembro en conformidad a lo dispuesto en el artículo 62.
 Cada sala representa a la Corte en los asuntos de que conoce.
 La designación de los ministros que correspondan a cada sala se hará por sorteo anual.
@@ -929,7 +926,7 @@ El llamamiento de los integrantes se hará en el orden indicado y los abogados s
 La integración de las salas de la Corte de Santiago se hará preferentemente con los miembros de aquellas que se compongan de cuatro, según el orden de antigüedad.
 
 Art. 216. Si en una Sala de las Cortes de Apelaciones no queda ningún miembro hábil se deferirá el conocimiento del negocio a otra de las Salas de que se componga el Tribunal y si la inhabilidad o impedimento afecta a la totalidad de sus miembros, pasará el asunto a la Corte de Apelaciones que deba subrogar según las reglas siguientes:
-Se subrogarán recíprocamente las Cortes de Apelaciones de Iquique con la de Antofagasta; la de Copiapó con la de La Serena; la de Santiago con la de Valparaíso; la de Rancagua con la de Talca; la de Chillán con la de Concepción; la de Temuco con la de Valdivia, y la de Puerto Montt con la de Coyhaique.
+Se subrogarán recíprocamente, las Cortes de Apelaciones de Iquique con la de Antofagasta; la de Copiapó con la de La Serena; la de Santiago con la de Valparaíso; la de Presidente Aguirre Cerda con la de Rancagua; la de Talca con la de Chillán; la de Concepción con la de Temuco; la de Valdivia con la de Puerto Montt, y la de Coyhaique con la de Punta Arenas.
 La Corte de Apelaciones de Punta Arenas será subrogada por la de Coyhaique.
 En los casos en que no puedan aplicarse las reglas precedentes, conocerá la Corte de Apelaciones cuya sede esté más próxima a la de la que debe ser subrogada.
 
@@ -939,11 +936,11 @@ El llamamiento de los integrantes se hará en el orden indicado y los abogados s
 Art. 218. En los casos en que no pudiere funcionar la Corte Suprema por inhabilidad de la mayoría o de la totalidad de sus miembros, será integrada por ministros de la Corte de Apelaciones de Santiago, llamados por su orden de antigüedad.
 Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados integrantes, tanto en su funcionamiento ordinario como en el extraordinario de que trata el artículo 101.
 
-Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, diez para la Corte de Apelaciones de Santiago, cinco para las Cortes de Apelaciones de Valparaíso y Concepción y tres para cada una de las demás Cortes de Apelaciones, previa formación de ternas por la Corte Suprema. El Presidente de la República efectuará los nombramientos conservando el orden numérico de las ternas propuestas por la Corte Suprema.
+Art. 219. Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, diez para la Corte de Apelaciones de Santiago, cinco para las Cortes de Apelaciones de Valparaíso, Presidente Aguirre Cerda y Concepción y tres para cada una de las demás Cortes de Apelaciones, previa formación de ternas por la Corte Suprema. El Presidente de la República efectuará los nombramientos conservando el orden numérico de las ternas propuestas por la Corte Suprema.
 La designación de abogados integrados de las Cortes de Apelaciones se hará en el mes de Enero de cada año. Los abogados designados para la Corte Suprema lo serán por un período de tres años, efectuándose el nombramiento en el mes de Enero en que comienza el trienio respectivo.
 Las ternas serán formadas tomando los nombres de una lista que, en el mes de Diciembre de cada año, enviarán a la Corte Suprema los Consejos de los Colegios de Abogados residentes en los asientos de las diversas Cortes de Apelaciones. En esta lista deberán figurar abogados que tengan su residencia en la ciudad que sirve de asiento al tribunal respectivo y que reúnan las condiciones requeridas para ejercer los cargos de ministros.
 Si no hubiere Colegio de Abogados, las listas serán formadas por las Cortes de Apelaciones respectivas.
-Estas listas se compondrán, para Santiago, de cuarenta nombres; para Valparaíso y Concepción, de veinticinco, y de quince para las demás Cortes.
+Estas listas se compondrán, para Santiago, de cuarenta nombres; para Valparaíso, Presidente Aguirre Cerda y Concepción, de veinticinco, y de quince para las demás Cortes.
 Para la formación de las ternas de los abogados integrantes de la Corte Suprema, este tribunal tomará sus nombres de una lista de 45 abogados, que reúnan las condiciones exigidas en el inciso tercero, y que le será enviada por el Consejo General de la Orden de los Abogados, en el mes de Diciembre en que termina el trienio respectivo. Tanto el Consejo General como los Consejos Provinciales del Colegio de Abogados no podrán incluir en las listas a que se refiere este artículo a profesionales que hayan sido separados de sus cargos como funcionarios judiciales, sea en la calificación anual o en cualquier otra oportunidad.
 Si por cualquiera causa alguno de los abogados designados para la Corte Suprema no pudiere continuar en las funciones, el Presidente de la República podrá nombrar en su reemplazo por el resto del período a uno de los otros dos componentes de la terna que formó la Corte Suprema en la oportunidad respectiva.
 En las ternas, no se podrán repetir nombres.
