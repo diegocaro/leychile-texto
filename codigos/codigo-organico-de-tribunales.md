@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1992-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=1992-05-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 1992-03-01
-fetched_at: 2026-08-03T00:52:35.549362+00:00
+version_date: 1992-05-25
+fetched_at: 2026-08-03T00:52:53.575386+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -197,8 +197,15 @@ Un juzgado con asiento en la comuna de San Javier, con jurisdicción sobre las c
 Un juzgado con asiento en la comuna de Cauquenes, con jurisdicción sobre la misma comuna;
 Un juzgado con asiento en la comuna de Chanco, con jurisdicción sobre las comunas de Chanco y Pelluhue, y Un juzgado con asiento en la comuna de Parral, con jurisdicción sobre las comunas de Parral y Retiro.
 
-Art. 35. En la Octava Región, del Biobío, existirán los siguientes juzgados de letras:
-Cuatro juzgados con asiento en la comuna de Chillán, con jurisdicción sobre las comunas de Chillán, Pinto y Coihueco.
+Art. 35. En la Octava Región, del Bío Bío, existirán los siguientes juzgados de letras, que tendrán jurisdicción en los territorios que se indican:
+A.- JUZGADOS CIVILES:
+Tres juzgados de letras en lo civil con asiento en la comuna de Concepción, con jurisdicción sobre las comunas de Concepción, Penco y Hualqui;
+Un juzgado de letras en lo civil con asiento en la comuna de Talcahuano, con jurisdicción sobre la misma comuna, que tendrá la categoría de juzgado de asiento de Corte para todos los efectos legales.
+B.- JUZGADOS DEL CRIMEN:
+Cuatro juzgados del crimen con asiento en la comuna de Concepción, con jurisdicción sobre las comunas de Concepción, Penco y Hualqui;
+Dos juzgados del crimen con asiento en la comuna de Talcahuano, con jurisdicción sobre la misma comuna, que tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+C.- JUZGADOS CON COMPETENCIA COMUN:
+Cuatro juzgados con asiento en la comuna de Chillán, con jurisdicción sobre las comunas de Chillán, Pinto y Coihueco;
 Dos juzgados con asiento en la comuna de San Carlos, con jurisdicción sobre las comunas de San Carlos, Ñiquén, San Fabián y San Nicolás;
 Un juzgado con asiento en la comuna de Yungay, con jurisdicción sobre las comunas de Yungay, Pemuco, El Carmen y Tucapel;
 Un juzgado con asiento en la comuna de Bulnes, con jurisdicción sobre las comunas de Bulnes, Quillón y San Ignacio;
@@ -209,11 +216,9 @@ Un juzgado con asiento en la comuna de Mulchén, con jurisdicción sobre las com
 Un juzgado con asiento en la comuna de Nacimiento, con jurisdicción sobre las comunas de Nacimiento y Negrete;
 Un juzgado con asiento en la comuna de Laja, con jurisdicción sobre la misma comuna;
 Un juzgado con asiento en la comuna de Yumbel, con jurisdicción sobre las comunas de Yumbel, Cabrero y San Rosendo;
-Seis juzgados con asiento en la comuna de Concepción, con jurisdicción sobre las comunas de Concepción, Penco y Hualqui;
-Tres juzgados con asiento en la comuna de Talcahuano, con jurisdicción sobre la misma comuna;
 Un juzgado con asiento en la comuna de Tomé, con jurisdicción sobre la misma comuna;
 Un juzgado con asiento en la comuna de Florida, con jurisdicción sobre la misma comuna;
-Un juzgado con asiento en la comuna da Santa Juana, con jurisdicción sobre la misma comuna;
+Un juzgado con asiento en la comuna de Santa Juana, con jurisdicción sobre la misma comuna,
 Un juzgado con asiento en la comuna de Lota, con jurisdicción sobre la misma comuna;
 Un juzgado con asiento en la comuna de Coronel, con jurisdicción sobre la misma comuna;
 Un juzgado con asiento en la comuna de Lebu, con jurisdicción sobre las comunas de Lebu y Los Alamos;
