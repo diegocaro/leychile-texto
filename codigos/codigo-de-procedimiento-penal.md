@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1953-06-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=1984-01-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 1953-06-10
-fetched_at: 2026-08-03T00:11:55.527568+00:00
+version_date: 1984-01-21
+fetched_at: 2026-08-03T00:39:04.342778+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -944,6 +944,17 @@ Art. 294. (316) El detenido o preso tendrá derecho para procurarse, a sus expen
 Podrá, además, en el caso de no estar incomunicado por disposición del juez, recibir la visita de un ministro de su religión, de su abogado o de su procurador, o de aquellas personas con quienes esté en relación de familia, de intereses o que puedan darle consejos, observándose en este caso las prescripciones del reglamento de la casa. Si el juez lo estimare conveniente, podrá ordenar que las conferencias del detenido con dichas personas sean presenciadas por algunos de los empleados del establecimiento o del juzgado, o suspenderlas temporalmente mientras sea necesario para el éxito de la investigación.
 
 Art. 295. (317) El juez autorizará, en cuanto no se perjudique el éxito del sumario, los medios de correspondencia y comunicación de que pueda hacer uso el detenido o preso. Podrá ordenar que éste no reciba ni dirija cartas, telegramas ni mensajes de ninguna especie, sin que antes sean puestos en su conocimiento para ver si existe inconveniente en hacerlos llegar a su destino. En ningún caso se podrá impedir a los detenidos o presos que escriban a los funcionarios superiores del orden judicial, ni a los oficiales del Ministerio Público.
+
+##### 6. Del arraigo
+
+Art. 305 bis A. En casos graves y urgentes, el juez podrá prohibir la salida del territorio nacional al inculpado respecto de quien existan antecedentes que, apreciados en conciencia, sean bastantes para estimar que en el sumario podrá ser decretada su detención y que tratará de sustraerse a la acción de la justicia.
+Para este efecto, dictará orden de arraigo por un lapso no superior a sesenta días, el que no podrá prorrogarse en virtud del mismo hecho que motiva la orden. Transcurrido el plazo por el cual se decretó, el arraigo quedará sin efecto. El juez deberá comunicarlo de inmediato a la misma autoridad policial a quien impartió la orden sin más trámites.
+El juez, de oficio o a petición de parte, podrá poner término al arraigo durante su vigencia, si los antecedentes del proceso lo justifican.
+Si dentro del plazo fijado para el arraigo el inculpado es detenido y dejado luego en libertad por no existir méritos para someterlo a proceso, el juez deberá establecer en la misma resolución si se mantiene el arraigo o se le deja sin efecto.
+No se decretará arraigo tratándose de delitos que sólo hacen procedentes la citación, sin perjuicio que él pueda derivar de las resoluciones a que se refiere el artículo 305 bis C.
+Las resoluciones que den lugar al arraigo o lo denieguen, serán apelables en el solo efecto devolutivo, y la vista del recurso gozará de la preferencia establecida en el inciso quinto del artículo 69 del Código Orgánico de Tribunales.
+
+Art. 305 bis B. El arraigo podrá decretarse de oficio, a petición del Ministerio Público o del querellante particular y producirá efecto por el solo hecho de decretarse; no obstante, deberá ser comunicado personalmente al afectado por el organismo policial que el tribunal determine, sin perjuicio de su notificación judicial una vez que preste declaración indagatoria.
 
 #### Título V
 DEL PROCEDIMIENTO DE AMPARO
