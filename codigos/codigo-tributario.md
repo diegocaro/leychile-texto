@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1975-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=1975-05-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 1975-03-01
-fetched_at: 2026-08-03T00:24:44.531161+00:00
+version_date: 1975-05-15
+fetched_at: 2026-08-03T00:24:50.532231+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -768,18 +768,11 @@ Procedimientos especiales para la aplicación de ciertas multas
 Artículo 165.- Las denuncias por las infracciones sancionadas en los números 2°, 6°, 7°, 10° y 11° del artículo 97, se someterán al procedimiento que a continuación se señala:
 1°.- Las multas establecidas en los números 2° y 11° del artículo 97 por atraso u omisión en declarar o por mora en el pago serán aplicadas por el Servicio o por la Tesorería según proceda, sin otro trámite que el de girarlas en el caso de atraso en la declaración o de cobrarlas conjuntamente con el impuesto cuando éste se entere en arcas fiscales.
 2°.- En los casos a que se refieren los números 6°, 7° y 10° del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio al sorprender la infracción, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
-3°.- Iniciado el procedimiento señalado en el número 2°, el contribuyente podrá recurrir verbalmente, dentro del décimo día de notificada la infracción ante el administrador de Zona o el Jefe de Inspección de su jurisdicción según proceda, a fin de formular descargos en cuanto digan relación únicamente con los siguientes hechos:
-a) Que no ha existido el hecho que da motivo a la infracción que se le imputa;
-b) Que la multa que se le trata de aplicar es superior a la que el Código establece, o
-c) Que la infracción notificada no habría producido en caso alguno perjuicio al interés fiscal. En este último evento sólo podrá recurrirse ante el administrador de Zona de la correspondiente jurisdicción.
-En los casos de las letras a) y c) el administrador de Zona o el Jefe de la Inspección ante quien se haya recurrido, después de haber verificado la efectividad de los hechos en que se fundan los descargos, no dará curso a la denuncia. Cuando concurra la circunstancia de la letra b), se ordenará el giro de la multa que legalmente proceda. La resolución deberá adoptarse en la misma audiencia en que se presenten los descargos y no será reclamable.
-4°.- Iniciado el procedimiento de los números 1° y 2°, el afectado podrá solicitar al Director Regional no se dé curso a la denuncia correspondiente, cuando se justificare o apareciere que no ha podido cumplir las obligaciones tributarias respectivas por caso fortuito o fuerza mayor, circunstancias que serán calificadas en forma exclusiva por el Director Regional al resolver sobre la materia. Para los efectos de dar aplicación a las normas de este número, se observará el procedimiento indicado en el número 3° de este artículo, en cuanto fuere pertinente.
-5°.- Con todo, el contribuyente que no se conformare con la multa que se le haya girado en conformidad con las disposiciones del presente artículo, podrá reclamar ante el Director Regional dentro del plazo de veinte días, contado en la forma que se indica a continuación:
-a) Desde la fecha en que se notifique el giro tratándose de las infracciones prevenidas en el número 2;
-b) Desde la fecha del giro, en el caso de multas por atraso en la declaración, sin perjuicio que se dé aviso al contribuyente por carta certificada;
-c) Desde la fecha del ingreso de la multa en Tesorería, cuando se trate de multas por mora en el pago.
-6°.- Los Administradores de Zona del Servicio dictarán una resolución declarando inadmisible la reclamación, cuando verifiquen que ésta ha sido presentada fuera del plazo legal.
-7°.- El procedimiento establecido en este artículo se continuará, cuando procediere, de acuerdo con las normas del Título II de este Libro.
+3.- Iniciado el procedimiento señalado en el N° 2, el contribuyente podrá reclamar verbalmente o por escrito, dentro del plazo de cinco días contado desde la notificación de la infracción, ante el Administrador de Zona de su jurisdicción.
+4.- Junto al reclamo deberán acompañarse y producirse todas las pruebas que el interesado pretenda rendir. La prueba se apreciará en conciencia.
+5.- El reclamo deberá ser resuelto en el acto por el Administrador de Zona o a más tardar dentro de tercero día y la resolución que se dicte no será susceptible de recurso alguno.
+6.- La iniciación del procedimiento anterior y la aplicación de sanción administrativa no constituirá impedimento para el ejercicio de la acción penal correspondiente.
+7.- Los Administradores de Zona podrán delegar la facultad que se señala en los números 3° y 5° de este artículo en los Jefes de Inspección u otros funcionarios del Servicio de su jurisdicción.
 8°.- Las resoluciones de la Dirección Regional por las cuales se ordene el comiso de mercaderías, se llevarán a efecto provisoriamente mientras se resuelven los recursos pertinentes.
 
 ###### Párrafo 3°.
