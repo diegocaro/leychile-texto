@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1968-12-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=1969-04-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 1968-12-20
-fetched_at: 2026-08-03T00:19:36.367238+00:00
+version_date: 1969-04-14
+fetched_at: 2026-08-03T00:19:42.376984+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -521,6 +521,8 @@ La dirección técnica de los establecimientos señalados en el inciso primero, 
 DE LA OBSERVACION Y RECLUSION DE LOS ENFERMOS MENTALES, DE LOS ALCOHOLICOS Y DE LOS QUE PRESENTEN ESTADO DE DEPENDENCIA DE OTRAS DROGAS Y SUBSTANCIAS
 
 Artículo 130°.- El Director General de Salud, resolverá sobre la observación de los enfermos mentales, de los que presentan dependencias de drogas u otras substancias, de los alcohólicos y de las personas presuntivamente afectadas por estas alteraciones, así como sobre su internación, permanencia y salida de los establecimientos públicos o particulares destinados a ese objeto. Estos establecimientos cumplirán con los requisitos que señala el reglamento.
+NOTA
+Véanse los artículos 133 y siguientes de la LEY 17105, publicada el 14.04.1969, que contiene el texto refundido de la Ley sobre alcoholes y bebidas alcohólicas.
 
 Artículo 131°.- La internación de las personas a que se refiere el artículo anterior, puede ser voluntaria, administrativa, judicial o de urgencia. El Reglamento establecerá las condiciones de estos tipos de internación.
 
