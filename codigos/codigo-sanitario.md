@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2005-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2005-05-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2005-01-01
-fetched_at: 2026-08-03T01:27:39.632163+00:00
+version_date: 2005-05-10
+fetched_at: 2026-08-03T01:29:04.536056+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -126,7 +126,9 @@ DISPOSICIONES GENERALES
 Artículo 20°.- Todo médico-cirujano que asista a persona que padezca de una enfermedad transmisible sujeta a declaración obligatoria, comunicará por escrito el diagnóstico cierto o probable a la autoridad sanitaria más próxima.
 Igual obligación afectará a toda persona que en su casa o establecimiento tuviere uno de dichos enfermos, si no hubiere sido éste atendido por un médico-cirujano; a los directores técnicos de las farmacias que despachen recetas destinadas al tratamiento de estas enfermedades y a quienes dirigen técnicamente los laboratorios clínicos que realicen los exámenes para su confirmación diagnóstica.
 
-Artículo 21°.- Un Reglamento determinará las enfermedades transmisibles que deben ser comunicadas obligatoriamente a las autoridades sanitarias, así como la forma y condiciones de la notificación.
+Artículo 21°.- Un reglamento determinará las enfermedades transmisibles que deben ser comunicadas obligatoriamente a las autoridades sanitarias, así como la forma y condiciones de la notificación.
+NOTA:
+El Decreto 158, Salud, publicado el 10.05.2005, estableció el Reglamento sobre Notificación de Enfermedades Transmisibles de Declaración Obligatoria.
 
 Artículo 22°.- Será responsabilidad de la autoridad sanitaria al aislamiento de toda persona que padezca una enfermedad de declaración obligatoria, la cual de preferencia y especialmente en caso de amenaza de epidemia o insuficiencia del aislamiento en domicilio, deberá ser internada en un establecimiento hospitalario u otro local especial para este fin.
 
@@ -490,7 +492,9 @@ Artículo 99°.- Se entenderá por cosmético cualquier preparado que se destine
 
 Artículo 100°.- El Ministeri
 NOTA:
-o de Salud Pública aprobará, previo informe de sus Unidades Técnicas Normativas, un Formulario Nacional de Medicamentos que contendrá la nómina de los productos farmacéuticos indispensables en el país
+o de Salud Públi
+NOTA:
+ca aprobará, previo informe de sus Unidades Técnicas Normativas, un Formulario Nacional de Medicamentos que contendrá la nómina de los productos farmacéuticos indispensables en el país
 NOTA:
 para una eficiente terapéutica. Este Formulario Nacional precisará la forma farmacéutica y dosis de cada medicamento y señalará el uso, limitaciones y peligro de los mismos.
 El Director General de Salud dispondrá las medidas necesarias para que la población y los servicios que presten atención médica se encuentren permanentemente abastecidos de los productos farmacéuticos que componen el Formulario Nacional de Medicamentos.
