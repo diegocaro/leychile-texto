@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2004-10-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2005-05-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2004-10-05
-fetched_at: 2026-08-03T01:26:21.604593+00:00
+version_date: 2005-05-13
+fetched_at: 2026-08-03T01:29:54.849856+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2631,7 +2631,7 @@ ART. 494.
 Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 1.° El que asistiendo a un espectáculo público provocare algún desorden o tomare parte en él.
 2.° El que excitare o dirigiere cencerradas u otras reuniones tumultuosas en ofensa de alguna persona o del sosiego de las poblaciones.
-3.° El que sin licencia de la autoridad competente cargare armas prohibidas por la ley o por los reglamentos generales.
+3.° Derogado.
 4.° El que amenazare a otro con armas blancas o de fuego y el que riñendo con otro las sacare, como no sea con motivo justo.
 5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas y circunstancias del hecho.
 6.° El que corriere carruajes o caballerías con peligro de las personas, haciéndolo en poblado, ya sea de noche o de día cuando haya aglomeración de gente.
