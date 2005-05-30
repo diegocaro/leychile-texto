@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-03-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-05-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2005-03-18
-fetched_at: 2026-08-03T01:28:52.532100+00:00
+version_date: 2005-05-30
+fetched_at: 2026-08-03T01:30:06.854667+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -2189,7 +2189,10 @@ El tribunal, en casos calificados, podrá disponer que cualquiera resolución se
 
 Art. 436. Las notificaciones que se practiquen por los receptores o por un empleado del tribunal serán gratuitas para las partes que gocen del privilegio de pobreza.
 Asimismo, serán gratuitas para aquellos trabajadores cuyos ingresos mensuales sean inferiores a cinco ingresos mínimos mensuales.
-En los demás casos, los funcionarios estarán facultados para cobrar a la parte que encomiende la diligencia los derechos que fije el arancel vigente, sin perjuicio de lo que el tribunal resuelva sobre el pago de las costas.
+DEROGADO
+NOTA:
+NOTA:
+El artículo 16 de la LEY 20022, publicada el 30.05.2005, dispone que las modificaciones que introduce a la presente norma, rigen nueve meses después de su publicación.
 
 Art. 437. El juez podrá corregir de oficio los errores que observe en la tramitación del proceso. Podrá, asimismo, tomar las medidas que tiendan a evitar la nulidad de los actos de procedimiento.
 
@@ -2309,7 +2312,11 @@ d) los receptores y el empleado del mismo tribunal que el juez designe en cada c
 
 Art. 461. El juicio ejecutivo derivado de asuntos laborales, se regirá, en lo pertinente, por las disposiciones de los Títulos I y II del Libro III del Código de Procedimiento Civil con las modificaciones señaladas en las letras b), c) y d) del artículo anterior.
 
-Art. 462. Tendrán mérito ejecutivo ante los Juzgados de Letras del Trabajo las actas que den constancia de acuerdos producidos ante los inspectores del trabajo, firmadas por las partes y autorizadas por éstos y que contengan la existencia de una obligación laboral o sus copias certificadas por la respectiva Inspección del Trabajo.
+Art. 462. Tendrán mérito ejecutivo ante los Juzgados de Letras del Trabajo y ante los Juzgados de Cobranza Laboral y Previsional las actas que den constancia de acuerdos producidos ante los inspectores del trabajo, firmadas por las partes
+NOTA:
+y autorizadas por éstos y que contengan la existencia de una obligación laboral o sus copias certificadas por la respectiva Inspección del Trabajo.
+NOTA:
+El artículo 16 de la LEY 20022, publicada el 30.05.2005, dispone que las modificaciones que introduce a la presente norma, rigen nueve meses después de su publicación.
 
 ##### Párrafo 5°
 De los recursos
@@ -2354,9 +2361,12 @@ DEL PROCEDIMIENTO DE RECLAMO POR SANCIONES POR INFRACCIONES A LAS LEYES Y REGLAM
 Art. 474. Las sanciones por infracciones a las legislaciones laboral y de seguridad social como a sus reglamentos se aplicarán administrativamente por los respectivos inspectores o funcionarios que se determinen en el reglamento correspondiente. Dichos funcionarios actuarán como ministros de fe.
 En todos los trámites a que dé lugar la aplicación de sanciones, regirá la norma del artículo 4.°
 La resolución que aplique la multa administrativa será reclamable ante el Juez de Letras del Trabajo, dentro de quince días de notificada por un funcionario de la Dirección del Trabajo o de Carabineros de Chile, previa consignación de la tercera parte de la multa.
-Una vez ejecutoriada la resolución que aplique la multa administrativa, tendrá mérito ejecutivo, persiguiéndose su cumplimiento de oficio por el Juzgado de Letras del Trabajo.
+Una vez ejecutoriada la resolución que aplique la multa administrativa, tendrá mérito ejecutivo, persiguiéndose su cumplimiento de oficio por el Juzgado de Letras del Trabajo o el Juzgado de Cobranza Laboral y Previsional, según corresponda.
+NOTA:
 Serán responsables del pago de la multa la persona natural o jurídica propietaria de la empresa, predio o establecimiento.
 Subsidiariamente responderán de ellas los directores, gerentes o jefes de la empresa, predio o establecimiento donde se haya cometido la falta.
+NOTA:
+El artículo 16 de la LEY 20022, publicada el 30.05.2005, dispone que las modificaciones que introduce a la presente norma, rigen nueve meses después de su publicación.
 
 Art. 475. Los funcionarios a quienes se acredite que han aplicado sanciones injustas o arbitrarias y que así se califique por el jefe superior del Servicio, serán sancionados con alguna de las medidas disciplinarias del artículo 116 del Estatuto Administrativo, atendido el mérito de los antecedentes que se reúnan en el sumario correspondiente.
 
