@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-05-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-05-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2005-05-30
-fetched_at: 2026-08-03T01:30:06.854667+00:00
+version_date: 2005-05-31
+fetched_at: 2026-08-03T01:30:18.858395+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -2217,6 +2217,13 @@ La contestación a la demanda deberá contener:
 4.- la enunciación precisa y clara, consignada en la conclusión de las peticiones que se sometan a la resolución del tribunal.
 En el escrito de contestación el demandado podrá deducir reconvención cuando el tribunal sea competente para conocer de ella como demanda y siempre que tenga por objeto enervar la acción deducida o esté íntimamente ligada con ella. En caso contrario, no se admitirá a tramitación. La reconvención se sujetará a las normas señaladas en el artículo 439 y se tramitará conjuntamente con la demanda.
 Todas las excepciones se tramitarán conjuntamente y se fallarán en la sentencia definitiva, pero el tribunal podrá acoger las dilatorias de incompetencia, de falta de capacidad o de personería del demandante, o aquella en que se reclame el procedimiento siempre que aparezcan manifiestamente admisibles, una vez contestado el traslado respectivo o vencido el término que establece el artículo 441.
+Cuando se demanden períodos de cotizaciones de seguridad social impagas, el juez de la causa al conferir traslado de la demanda, deberá ordenar la notificación de ella a la o las
+NOTA:
+instituciones de seguridad social a las que corresponda percibir la respectiva cotización.
+Dicha notificación se efectuará por el ministro de fe del tribunal a través de carta certificada, conteniendo copia íntegra de la demanda y de la resolución recaída en ella o un extracto si fueren muy extensas y equivaldrá al reclamo a que hace referencia el artículo 4º de la ley Nº 17.322, debiendo aquéllas hacerse parte en la causa en los plazos y bajo las condiciones a que se refieren dicho precepto y el artículo 4º bis del mismo cuerpo legal.
+Estas notificaciones se entenderán practicadas desde el tercer día a aquél en que sea expedida la carta, debiendo el ministro de fe dejar constancia en el expediente de la fecha del envío.
+NOTA:
+El Art. 1º Transitorio de la LEY 20023, publicada el 31.05.2005, dispuso que la modificación introducida al presente artículo regirá a contar del primer día del tercer mes siguiente al de inicio de funcionamiento de los juzgados de cobranza laboral y previsional, la que se inició 9 meses después de la publicación de la LEY 20022, efectuada el 30 de mayo de 2005, y se aplicará a las demandas que se interpongan a contar de dicha fecha.
 
 Art. 441. Deducida reconvención o interpuestas excepciones dilatorias, el tribunal dará el traslado respectivo. El demandante tendrá cinco días para contestar unas y otras. La contestación a la reconvención deberá cumplir con lo establecido en el artículo 440.
 
