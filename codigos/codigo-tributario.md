@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2004-05-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2005-07-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2004-05-11
-fetched_at: 2026-08-03T01:24:20.538071+00:00
+version_date: 2005-07-01
+fetched_at: 2026-08-03T01:30:42.861540+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -212,7 +212,7 @@ Para los efectos de lo dispuesto en este artículo y para el debido resguardo de
 La información tributaria, que conforme a la ley proporcione el Servicio, solamente podrá ser usada para los fines propios de la institución que la recepciona.
 
 Artículo 36.- El plazo de declaración y pago de los diversos impuestos se regirá por las disposiciones legales y reglamentarias vigentes.
-No obstante lo dispuesto en el inciso anterior, el Presidente de la República podrá fijar y modificar las fechas de declaración y pago de los diversos impuestos y establecer los procedimientos administrativos que juzgue más adecuados a su expedita y correcta percepción.
+No obstante lo dispuesto en el inciso anterior, el Presidente de la República podrá fijar y modificar las fechas de declaración y pago de los diversos impuestos y establecer los procedimientos administrativos que juzgue más adecuados a su expedita y correcta percepción. Asimismo, podrá modificar la periodicidad de pago del impuesto territorial.
 Cuando el plazo de declaración y pago de un impuesto venza en día feriado, en día sábado o el día 31 de diciembre, éste se prorrogará hasta el primer día hábil siguiente. Esta prórroga no se considerará para los efectos de determinar los reajustes que procedan, sin perjuicio de lo dispuesto en el inciso segundo del artículo 53.
 Asimismo, el Presidente de la República podrá ampliar el plazo para la presentación de documentos y antecedentes de carácter tributario exigidos por la ley o los reglamentos. Dicha facultad podrá ser delegada en el Director del Servicio de Impuestos Internos mediante decretos expedidos a través del Ministerio de Hacienda.
 El Director podrá ampliar el plazo de presentación de aquellas declaraciones que se realicen por sistemas tecnológicos y que no importen el pago de un impuesto, respetando el plazo de los contribuyentes con derecho a devolución de impuestos. En todo caso, la ampliación del plazo no podrá implicar atraso en la entrega de la información que deba proporcionarse a Tesorería.
