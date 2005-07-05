@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2004-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2005-07-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2004-08-30
-fetched_at: 2026-08-03T01:25:51.355356+00:00
+version_date: 2005-07-05
+fetched_at: 2026-08-03T01:30:48.863490+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -632,9 +632,9 @@ Si es uno solo de los padres el que reconoce, no será obligado a expresar la pe
 El reconocimiento que no conste en la inscripción de nacimiento del hijo, será subinscrito a su margen.
 
 Art. 188. El hecho de consignarse el nombre del padre o de la madre, a petición de cualquiera de ellos, al momento de practicarse la inscripción del nacimiento, es suficiente reconocimiento de filiación.
-También lo es la confesión de paternidad o maternidad, prestada bajo juramento por el supuesto padre o madre que sea citado a la presencia judicial con tal objeto por el hijo o, si éste es incapaz, por su representante legal o quien lo tenga bajo su cuidado. En la citación, que no podrá ejercerse más de una vez con relación a la misma persona en caso de que concurra, se expresará el objeto de la misma y se requerirá la presencia personal del supuesto padre o madre. El acta en que conste la confesión de paternidad o maternidad se subinscribirá al margen de la inscripción de nacimiento del hijo, para lo cual el tribunal remitirá al Registro Civil copia auténtica.
-Si el citado no compareciere personalmente a la audiencia fijada por el tribunal, se podrá solicitar una segunda citación dentro de los tres meses siguientes.
-Toda citación pedida de mala fe o con el propósito de lesionar la honra de la persona citada, obligará al solicitante a indemnizar los perjuicios causados al afectado.
+NOTA
+NOTA
+El N° 1 del Artículo 1° de la Ley 20030, publicada el 05.07.2005, deroga los incisos segundo, tercero y cuarto de la presente norma.
 
 Art. 189. No surtirá efectos el reconocimiento de un hijo que tenga legalmente determinada una filiación distinta, sin perjuicio del derecho a ejercer las acciones a que se refiere el artículo 208.
 El reconocimiento es irrevocable, aunque se contenga en un testamento revocado por otro acto testamentario posterior, y no susceptible de modalidades.
@@ -666,8 +666,7 @@ De las acciones de filiación
 Art. 195. La ley posibilita la investigación de la paternidad o maternidad, en la forma y con los medios previstos en los artículos que siguen.
 El derecho de reclamar la filiación es imprescriptible e irrenunciable. Sin embargo, sus efectos patrimoniales quedan sometidos a las reglas generales de prescripción y renuncia.
 
-Art. 196. El juez sólo dará curso a la demanda si con ella se presentan antecedentes suficientes que hagan plausibles los hechos en que se funda.
-Cuando no le dé curso por este motivo, ordenará notificar su resolución de oficio y por receptor de turno a la persona contra quien se intentó la acción.
+Art. 196. Derogado.
 
 Art. 197. El proceso tendrá carácter de secreto hasta que se dicte sentencia de término, y sólo tendrán acceso a él las partes y sus apoderados judiciales.
 La persona que ejerza una acción de filiación de mala fe o con el propósito de lesionar la honra de la persona demandada es obligada a indemnizar los perjuicios que cause al afectado.
@@ -676,7 +675,13 @@ Art. 198. En los juicios sobre determinación de la filiación, la maternidad y 
 No obstante, para estos efectos será insuficiente por sí sola la prueba testimonial, y se aplicarán a la de presunciones los requisitos del artículo 1712.
 
 Art. 199. Las pruebas periciales de carácter biológico se practicarán por el Servicio Médico Legal o por laboratorios idóneos para ello, designados por el juez. Las partes siempre, y por una sola vez, tendrán derecho a solicitar un nuevo informe pericial biológico.
-La negativa injustificada de una de las partes a someterse a peritaje biológico configura una presunción grave en su contra, que el juez apreciará en los términos del artículo 426 del Código de Procedimiento Civil.
+El juez podrá dar a estas pruebas periciales, por sí solas, valor suficiente para establecer la paternidad o la maternidad, o para excluirla.
+En todo caso, el juez recabará por la vía más expedita posible, antes de dictar sentencia, los resultados de las pericias practicadas que no hubieren sido informados al tribunal.
+La negativa injustificada de una de las partes a practicarse el examen hará presumir legalmente la paternidad o la maternidad, o la ausencia de ella, según corresponda.
+Se entenderá que hay negativa injustificada si, citada la parte dos veces, no concurre a la realización del examen. Para este efecto, las citaciones deberán efectuarse bajo apercibimiento de aplicarse la presunción señalada en el inciso anterior.
+
+Art. 199 bis. Entablada la acción de reclamación de filiación, si la persona demandada no comparece a la audiencia preparatoria o si negare o manifestare dudas sobre su paternidad o maternidad, el juez ordenará, de inmediato, la práctica de la prueba pericial biológica, lo que se notificará personalmente o por cualquier medio que garantice la debida información del demandado.
+El reconocimiento judicial de la paternidad o maternidad se reducirá a acta que se subinscribirá al margen de la inscripción de nacimiento del hijo o hija, para lo cual el tribunal remitirá al Registro Civil copia auténtica.
 
 Art. 200. La posesión notoria de la calidad de hijo respecto de determinada persona servirá también para que el juez tenga por suficientemente acreditada la filiación, siempre que haya durado a lo menos cinco años continuos y se pruebe por un conjunto de testimonios y antecedentes o circunstancias fidedignos que la establezcan de un modo irrefragable.
 La posesión notoria consiste en que su padre, madre o ambos le hayan tratado como hijo, proveyendo a su educación y establecimiento de un modo competente, y presentándolo en ese carácter a sus deudos y amigos; y que éstos y el vecindario de su domicilio, en general, le hayan reputado y reconocido como tal.
