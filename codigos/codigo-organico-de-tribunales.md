@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2005-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2005-07-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2005-03-01
-fetched_at: 2026-08-03T01:28:40.526599+00:00
+version_date: 2005-07-05
+fetched_at: 2026-08-03T01:31:00.093871+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -983,6 +983,7 @@ Art. 146. Conocerá de todos los asuntos a que se refiere el Código de Minas, e
 
 Art. 147. Será juez competente para conocer de las demandas de alimentos el del domicilio del alimentante o alimentario, a elección de este último.
 De las solicitudes de cese, aumento o rebaja de la pensión decretada, conocerá el juez que decretó la pensión.
+Asimismo, será juez competente para conocer de las acciones de reclamación de filiación contempladas en el Párrafo 2º del Título VIII del Libro I del Código Civil el del domicilio del demandado o demandante, a elección de este último.
 
 Art. 148. Será juez competente para conocer del juicio de petición de herencia, del de desheredamiento y del de validez o nulidad de disposiciones testamentarias, el del lugar donde se hubiere abierto la sucesión del difunto con arreglo a lo dispuesto por el artículo 955 del Código Civil.
 El mismo juez será también competente para conocer de todas las diligencias judiciales relativas a la apertura de la sucesión, formación de inventarios, tasación y partición de los bienes que el difunto hubiere dejado.
