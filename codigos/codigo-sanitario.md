@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2005-05-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2005-07-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2005-05-10
-fetched_at: 2026-08-03T01:29:04.536056+00:00
+version_date: 2005-07-13
+fetched_at: 2026-08-03T01:31:12.091286+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -645,6 +645,9 @@ Los establecimientos de óptica podrán abrir locales destinados a la recepción
 NOTA:
 NOTA:
 Véase el Decreto 4, Salud, publicado el 13.03.1985, sobre Establecimientos de Óptica.
+
+Artículo 128 bis.- Autorízase la fabricación, venta y entrega, sin receta médica, de lentes con fuerza dióptrica sólo esférica e igual en ambos ojos, sin rectificación de astigmatismo, destinados a corregir problemas de presbicia en personas mayores de cuarenta años.
+La venta o entrega de dichos lentes deberá acompañarse de una advertencia sobre la conveniencia de una evaluación oftalmológica que permita prevenir riesgos para la salud ocular.
 
 Artículo 129°.- Las instalación, ampliación, modificación
 NOTA:
