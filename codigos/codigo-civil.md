@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2005-07-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2005-07-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2005-07-05
-fetched_at: 2026-08-03T01:30:48.863490+00:00
+version_date: 2005-07-25
+fetched_at: 2026-08-03T01:31:24.085806+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -8392,7 +8392,7 @@ En el evento de que se declare que el menor ha actuado con discernimiento, el fi
 NOTA:
 El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
-Art. 29. En los casos previstos en el artículo 8°, número 10), de la ley que crea los juzgados de familia, el juez de letras de menores podrá aplicar alguna o algunas de las medidas siguientes:
+Art. 29. En los casos previstos en el artículo 26, Nº 10, de esta ley, el juez de letras de menores podrá aplicar alguna o algunas de las medidas siguientes:
 NOTA:
 1.º Devolver el menor a sus padres, guardadores o personas a cuyo cargo estuviere, previa amonestación;
 2.º SUPRIMIDO
@@ -8403,7 +8403,7 @@ corresponda.
 Estas medidas durarán el tiempo que determine el juez de letras de menores, quien podrá revocarlas o modificarlas, si variaren las circunstancias que hubieren llevado a decretarlas, oyendo al director o encargado del centro o programa respectivo. Tratándose del Nº 3º), la medida de internación sólo procederá en los casos y por el plazo que sea estrictamente necesario.
 En caso alguno el juez de letras de menores podrá ordenar el ingreso de una persona menor de dieciocho años en un establecimiento penitenciario de adultos.
 NOTA:
-El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
+El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
 NOTA 1:
 El artículo 46 de la LEY 20032, publicada el 25.07.2005, dispone que las modificaciones que introduce a la presente norma, entrarán en vigencia 60 días después de su publicación.
 
