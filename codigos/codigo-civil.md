@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2005-07-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2005-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2005-07-25
-fetched_at: 2026-08-03T01:31:24.085806+00:00
+version_date: 2005-08-30
+fetched_at: 2026-08-03T01:31:58.160882+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -470,11 +470,7 @@ La autorización a que se refiere este artículo deberá ser específica y otorg
 Art. 143. El cónyuge no propietario, cuya voluntad no se haya expresado en conformidad con lo previsto en el artículo anterior, podrá pedir la rescisión del acto.
 Los adquirentes de derechos sobre un inmueble que es bien familiar, estarán de mala fe a los efectos de las obligaciones restitutorias que la declaración de nulidad origine.
 
-Art. 144. En los casos del artículo 142, la
-NOTA:
-voluntad del cónyuge no propietario de un bien familiar podrá ser suplida por el juez en caso de imposibilidad o negativa que no se funde en el interés de la familia. El juez procederá con conocimiento de causa, y con citación del cónyuge, en caso de negativa de éste.
-NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+Art. 144. En los casos del artículo 142, la voluntad del cónyuge no propietario de un bien familiar podrá ser suplida por el juez en caso de imposibilidad o negativa que no se funde en el interés de la familia. El juez resolverá previa audiencia a la que será citado el cónyuge, en caso de negativa de éste.
 
 Art. 145. Los cónyuges, de común acuerdo, podrán desafectar un bien familiar. Si la declaración se refiere a un inmueble, deberá constar en escritura pública anotada al margen de la inscripción respectiva.
 El cónyuge propietario podrá pedir al juez la desafectación de un bien familiar, fundado en que no está actualmente destinado a los fines que indica el artículo 141, lo que deberá probar. En este caso, el juez procederá en la forma establecida en el inciso segundo del artículo 141.
@@ -8394,7 +8390,9 @@ El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modif
 
 Art. 29. En los casos previstos en el artículo 26, Nº 10, de esta ley, el juez de letras de menores podrá aplicar alguna o algunas de las medidas siguientes:
 NOTA:
-1.º Devolver el menor a sus padres, guardadores o personas a cuyo cargo estuviere, previa amonestación;
+1.º Devolver el menor a sus padres, guardadores o p
+NOTA 1:
+ersonas a cuyo cargo estuviere, previa amonestación;
 2.º SUPRIMIDO
 3º) Disponer su ingreso a un centro de diagnóstico, tránsito y distribución o de rehabilitación o a un programa especializado de carácter ambulatorio, según
 NOTA 1:
@@ -8485,15 +8483,21 @@ Art. 46. Derogado.
 Art. 47. El solo hecho de colocar al menor en casa de terceros no constituye abandono para los efectos del artículo 240 del Código Civil. En este caso, queda a la discreción del juez el subordinar o no la entrega del menor a la prestación que ordena dicho artículo, decisión que adoptará en resolución fundada.
 
 Artículo 48.- En caso de que los padres del menor vivan separados, y no hubieren acordado la forma en que el padre o madre que no tuviere el cuidado personal del hijo mantendrá con él una relación directa y regular,
+NOTA: 1
+cualquiera de ellos podrá solicitar al juez de letras de menores que la regule. Asimismo, podrá pedir al tribunal que modifique la regulación que se haya establecido de común acuerdo o por resolución judicial, si fuere perjudicial p
+NOTA: 1
+ara el bienestar del menor.
+Si se sometiere a decisión judicial la
 NOTA:
-cualquiera de ellos podrá solicitar al juez de letras de menores que la regule. Asimismo, podrá pedir al tribunal que modifique la regulación que se haya establecido de común acuerdo o por resolución judicial, si fuere perjudicial para el bienestar del menor.
-Si se sometiere a decisión judicial la determinación de la persona a quien corresponderá ejercer el cuidado personal del menor, y no se debatiere la forma en la que éste se relacionará con el padre o madre que quede privado de su cuidado personal, la resolución se pronunciará de oficio sobre este punto, con el mérito de los antecedentes que consten en el proceso.
+determinación de la persona a quien corresponderá ejercer el cuidado personal del menor, y no se debatiere la forma en la que éste se relacionará con el padre o madre que quede privado de su cuidado personal, la resolución se pronunciará de oficio sobre este punto, con el mérito de los antecedentes que consten en el proceso.
 Cuando, por razones imputables a la persona a cuyo cuidado se encuentre el menor, se frustre, retarde o entorpezca de cualquier manera la relación en los términos en que ha sido establecida, el padre o madre a quien le corresponde ejercerla podrá solicitar la recuperación del tiempo no utilizado, lo que el tribunal dispondrá prudencialmente.
 En caso de que el padre o madre a quien corresponda mantener la relación con el hijo dejase de cumplir, injustificadamente, la forma convenida para el ejercicio del derecho o la establecida por el tribunal, podrá ser instado a darle cumplimiento, bajo apercibimiento de decretar su suspensión o restricción, lo que no obstará a que se decreten apremios cuando procedan de conformidad al inciso tercero del artículo 66.
 Sin perjuicio de lo dispuesto en el inciso anterior, la suspensión o restricción del ejercicio del derecho por el tribunal procederá cuando manifiestamente perjudique el bienestar del hijo. Si se acompañan antecedentes graves y calificados que lo justifique, podrá accederse provisionalmente a la solicitud. La resolución del tribunal deberá ser fundada y, cuando sea necesario para su adecuado cumplimiento, podrá solicitarse que se ponga en conocimiento de los terceros que puedan resultar involucrados, como los encargados del establecimiento educacional en que estudie el menor.
 El juez, luego de oír a los padres y a la persona que tenga el cuidado personal del menor, podrá conferir derecho a visitarlo a los parientes que individualice, en la forma y condiciones que determine, cuando parezca de manifiesto la conveniencia para el menor; y podrá, asimismo, suprimirlo o restringirlo cuando pudiera perjudicar su bienestar.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
+El Nº 7) del artículo 121 de la LEY 19968, publicada el 30.083.2005, ordena eliminar, en el presente inciso, la expresión "sin forma de juicio", la que no aparece en el texto citado, razón por la cual no se ha incorporado al presente texto actualizado.
+NOTA: 1
+El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
 Artículo 48 bis.- DEROGADO
 NOTA:
