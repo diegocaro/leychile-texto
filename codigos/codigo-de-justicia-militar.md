@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2005-02-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2005-08-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 2005-02-16
-fetched_at: 2026-08-03T01:28:28.516662+00:00
+version_date: 2005-08-31
+fetched_at: 2026-08-03T01:32:04.165538+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1128,7 +1128,7 @@ Art. 274. Todo individuo, militar o no, que sedujere o auxiliare tropas de las i
 Art. 275. Será considerado siempre como promotor del delito de sedición, el que, estando la tropa sobre las armas, o reunida para tomarlas, levante la voz en sentido subversivo, o de otro modo excite a cometer este delito.
 INCISO SEGUNDO.- DEROGADO.-
 
-Art. 276. El que, fuera del caso contemplado en el artículo anterior, induzca a cualquier alboroto o desorden, de palabra, por escrito, o valiéndose de cualquier otro medio, o hiciere llegar a conocimiento de las tropas especies destinadas a causarles disgusto o tibieza en el servicio, o que se murmure de él; será castigado con la pena de reclusión militar mayor en su grado mínimo si fuere Oficial, con la de reclusión militar menor en su grado máximo, si suboficial, y con la de reclusión militar menor en cualquiera de sus grados si cabo, soldado o individuo no militar.
+Artículo 276.- El que, fuera del caso contemplado en el artículo anterior, induzca o incite por cualquier medio al personal militar al desorden, indisciplina o al incumplimiento de deberes militares, será castigado con la pena de reclusión militar mayor en su grado mínimo si es Oficial, con la de reclusión militar menor en su grado máximo si suboficial, y con la de reclusión militar menor en cualquiera de sus grados si cabo, soldado o individuo no militar.
 
 Art. 277. El militar que sin objeto lícito conocido y sin la autorización competente, sacare fuerza armada de una plaza, destacamento, cuartel o establecimiento militar, será castigado con la pena de presidio o reclusión militares menores en cualquiera de sus grados, siempre que el hecho no constituyere otro delito.
 
@@ -1649,7 +1649,7 @@ Art. 416. El que violentare o maltratare de obra a un Carabinero en el ejercicio
 1° Con la pena de presidio mayor en su grado medio a presidio perpetuo calificado si le causare la muerte;
 2° Con la de presidio menor en su grado máximo a presidio mayor en su grado medio si le causare lesiones graves;
 3° Con la de presidio menor en su grado mínimo a medio si le causare lesiones menos graves; y
-4° Con la de presidio menor en su grado mínimo o multa de once a veinte sueldos vitales si no le causare lesiones o si éstas fueren leves.
+4° Con la de presidio menor en su grado mínimo o multa de seis a once unidades tributarias mensuales si no le causare lesiones o si éstas fueren leves.
 
 Art. 416 Bis. El que atentare en contra de un carabinero en su calidad de tal y no le causare lesiones o éstas fueren de las contempladas en los artículos 397 N° 2°, 399 ó 494 N° 5 del Código Penal, será castigado con presidio menor en su grado mínimo a medio.
 
