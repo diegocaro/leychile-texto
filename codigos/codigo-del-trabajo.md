@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-09-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-09-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2005-09-02
-fetched_at: 2026-08-03T01:32:22.193744+00:00
+version_date: 2005-09-23
+fetched_at: 2026-08-03T01:32:46.210585+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1283,6 +1283,10 @@ Art. 256. El patrimonio del sindicato estará compuesto por las cuotas o aportes
 
 Art. 257. Las organizaciones sindicales podrán adquirir, conservar y enajenar bienes de toda clase y a cualquier título.
 La enajenación de bienes raíces deberá tratarse en asamblea citada al efecto por la directiva.
+Tratándose de inmuebles cuyo avalúo fiscal exceda el equivalente a catorce unidades tributarias anuales o que siendo inferior a dicha suma, sean el único bien raíz de una organización, su enajenación, la promesa de ésta y cualquier otra convención destinada a gravarlos, donarlos, darlos íntegramente en arriendo o ceder completamente su tenencia por más de cinco años, si fueran urbanos o por más de ocho, si fueran rústicos, incluidas las prórrogas, deberá ser aprobada por el número de afiliados que expresamente dispongan los estatutos para estos efectos, el que no podrá ser inferior a la mayoría absoluta de ellos, en asamblea extraordinaria convocada al efecto, con la presencia del ministro de fe que señalen los estatutos. En dicho acuerdo, deberá dejarse constancia del destino que se dará al producto de la enajenación del inmueble respectivo.
+Cuando se tratare de inmuebles adquiridos para el bienestar de los socios y sus familias, los ex miembros del sindicato que tuvieran derecho al mismo beneficio deberán ser escuchados en la asamblea extraordinaria a que se refiere el inciso anterior, en forma previa a la adopción del acuerdo, dejándose constancia de ello por el ministro de fe correspondiente.
+Las organizaciones sólo podrán recibir como pago del precio, en caso de enajenación, otros inmuebles o dinero.
+Los actos realizados en infracción a lo dispuesto en los incisos precedentes adolecerán de nulidad.
 
 Art. 258. A los directores les corresponde la administración de los bienes que forman el patrimonio del sindicato.
 Los directores responderán en forma solidaria y hasta de la culpa leve, en el ejercicio de tal administración, sin perjuicio de la responsabilidad penal, en su caso.
