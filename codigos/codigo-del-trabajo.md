@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-09-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-09-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2005-09-23
-fetched_at: 2026-08-03T01:32:46.210585+00:00
+version_date: 2005-09-26
+fetched_at: 2026-08-03T01:32:58.215425+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -336,6 +336,8 @@ Art. 63. Las sumas que los empleadores adeudaren a los trabajadores por concepto
 Idéntico reajuste experimentarán los anticipos, abonos o pagos parciales que hubiera hecho el empleador.
 Las sumas a que se refiere el inciso primero de este artículo, reajustadas en la forma allí indicada, devengarán el máximo interés permitido para operaciones reajustables a partir de la fecha en que se hizo exigible la obligación.
 
+Artículo 63 bis.- En caso de término del contrato de trabajo, el empleador estará obligado a pagar todas las remuneraciones que se adeudaren al trabajador en un solo acto al momento de extender el finiquito. Sin perjuicio de ello, las partes podrán acordar el fraccionamiento del pago de las remuneraciones adeudadas y dicho pacto se regirá por lo dispuesto en la letra a) del artículo 169.
+
 Art. 64. El dueño de la obra, empresa o faena será subsidiariamente responsable de las obligaciones laborales y previsionales que afecten a los contratistas en favor de los trabajadores de éstos. También responderá de iguales obligaciones que afecten a los subcontratistas, cuando no pudiere hacerse efectiva la responsabilidad a que se refiere el inciso siguiente.
 En los mismos términos, el contratista será subsidiariamente responsable de obligaciones que afecten a sus subcontratistas, en favor de los trabajadores de éstos.
 El trabajador, al entablar la demanda en contra de su empleador directo, podrá también demandar subsidiariamente a todos aquellos que puedan responder en tal calidad de sus derechos.
@@ -356,6 +358,7 @@ DEL FERIADO ANUAL Y DE LOS PERMISOS
 Art. 66. En los casos de nacimiento y muerte de un hijo así como en el de muerte del cónyuge, todo trabajador tendrá derecho a un día de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio. Dicho permiso deberá hacerse efectivo dentro de los tres días siguientes al hecho que lo origine.
 
 Art. 67. Los trabajadores con más de un año de servicio tendrán derecho a un feriado anual de quince días hábiles, con remuneración íntegra que se otorgará de acuerdo con las formalidades que establezca el reglamento.
+Los trabajadores que presten servicios en la Duodécima Región de Magallanes y de la Antártica Chilena, en la Undécima Región de Aysén del General Carlos Ibáñez del Campo, y en la Provincia de Palena, tendrán derecho a un feriado anual de veinte días hábiles.
 El feriado se concederá de preferencia en primavera o verano, considerándose las necesidades del servicio.
 
 Art. 68. Todo trabajador, con diez años de trabajo, para uno o más empleadores, continuos o no, tendrá derecho a un día adicional de feriado por cada tres nuevos años trabajados, y este exceso será susceptible de negociación individual o colectiva.
