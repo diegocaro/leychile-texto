@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2005-07-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2005-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2005-07-01
-fetched_at: 2026-08-03T01:30:42.861540+00:00
+version_date: 2005-10-01
+fetched_at: 2026-08-03T01:33:37.164207+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -530,6 +530,7 @@ El que dolosamente destine o utilice donaciones de aquellas que las leyes permit
 Los contribuyentes del impuesto de primera categoría de la Ley sobre Impuesto a la Renta, que dolosamente y en forma reiterada, deduzcan como gasto de la base imponible de dicho impuesto donaciones que las leyes no permiten rebajar, serán sancionados con la pena de presidio menor en sus grados medio a máximo.
 25.- El que actúe como usuario de las Zonas Francas establecidas por ley, sin tener la habilitación correspondiente, o teniéndola, la haya utilizado con la finalidad de defraudar al Fisco, será sancionado con una multa de hasta ocho Unidades Tributarias Anuales y con presidio menor en sus grados medio a máximo.
 Se sancionará con las penas establecidas en el inciso anterior a quien efectúe transacciones con una persona que actúe como usuario de Zona Franca, sabiendo que éste no cuenta con la habilitación correspondiente o teniéndola, la utiliza con la finalidad de defraudar al Fisco.
+26.- La venta o abastecimiento clandestinos de gas natural comprimido o gas licuado de petróleo para consumo vehicular, entendiéndose por tal aquellas realizadas por personas que no cuenten con las autorizaciones establecidas en el inciso cuarto del artículo 2º de la ley Nº 18.502, será penado con presidio menor en su grado mínimo a medio y una multa de hasta cuarenta unidades tributarias anuales.
 
 Artículo 98.- De las sanciones pecuniarias responden el contribuyente y las demás personas legalmente obligadas.
 
