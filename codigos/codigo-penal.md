@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2005-08-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2005-10-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2005-08-31
-fetched_at: 2026-08-03T01:32:16.168388+00:00
+version_date: 2005-10-07
+fetched_at: 2026-08-03T01:33:43.168202+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -105,7 +105,7 @@ Son circunstancias atenuantes:
 1.° Las expresadas en el artículo anterior, cuando no concurren todos los requisitos necesarios para eximir de responsabilidad en sus respectivos casos.
 2.° Derogado.
 3.° La de haber precedido inmediatamente de parte del ofendido, provocación o amenaza proporcionada al delito.
-4.° La de haberse ejecutado el hecho en vindicación próxima de una ofensa grave causada al autor, a su cónyuge, a sus parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, a sus padres o hijos naturales o ilegítimos reconocidos.
+4.° La de haberse ejecutado el hecho en vindicación próxima de una ofensa grave causada al autor, a su cónyuge, o su conviviente, a sus parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, a sus padres o hijos naturales o ilegítimos reconocidos.
 5.° La de obrar por estímulos tan poderosos que naturalmente hayan producido arrebato y obcecación.
 6.° Si la conducta anterior del delincuente ha sido irreprochable.
 7.° Si ha procurado con celo reparar el mal causado o impedir sus ulteriores perniciosas consecuencias.
@@ -2072,7 +2072,7 @@ CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS.
 Del homicidio.
 
 ART. 390.
-El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, sean legítimos o ilegítimos, a cualquier otro de sus ascendientes o descendientes legítimos o a su cónyuge, será castigado, como parricida, con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, a cualquier otro de sus ascendientes o descendientes o a su cónyuge o conviviente, será castigado, como parricida, con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
 
 ART.391.
 El que mate a otro Y no esté comprendido en el artículo anterior, será penado:
@@ -2119,7 +2119,7 @@ ART. 399.
 Las lesiones no comprendidas en los artículos precedentes se reputan menos graves, y serán penadas con relegación o presidio menores en sus grados mínimos o con multa de once a veinte unidades tributarias mensuales.
 
 ART. 400.
-Si los hechos a que se refieren los anteriores artículos de este párrafo se ejecutaren contra alguna de las personas que menciona el 390, o con cualquiera de las circunstancias segunda, tercera y cuarta del núm. 1.º del 391 las penas se aumentarán en un grado.
+Si los hechos a que se refieren los artículos anteriores de este párrafo se ejecutan en contra de alguna de las personas que menciona el artículo 5º de la Ley sobre Violencia Intrafamiliar, o con cualquiera de las circunstancias Segunda, Tercera o Cuarta del número 1º del artículo 391 de este Código, las penas se aumentarán en un grado.
 
 ART. 401.
 Las lesiones menos graves inferidas a guardadores, sacerdotes, maestros o personas constituidas en dignidad o autoridad pública, serán castigadas siempre con presidio o relegación menores en sus grados mínimos a medios.
@@ -2622,7 +2622,7 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 2.° El que excitare o dirigiere cencerradas u otras reuniones tumultuosas en ofensa de alguna persona o del sosiego de las poblaciones.
 3.° Derogado.
 4.° El que amenazare a otro con armas blancas o de fuego y el que riñendo con otro las sacare, como no sea con motivo justo.
-5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas y circunstancias del hecho.
+5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas y circunstancias del hecho. En ningún caso el tribunal podrá calificar como leves las lesiones cometidas en contra de las personas mencionadas en el artículo 5° de la Ley sobre Violencia Intrafamiliar.
 6.° El que corriere carruajes o caballerías con peligro de las personas, haciéndolo en poblado, ya sea de noche o de día cuando haya aglomeración de gente.
 7.° El farmacéutico que despachare medicamentos en virtud de receta que no se halle debidamente autorizada.
 8.° El que habitualmente y después de apercibimiento ejerciere, sin título legal ni permiso de autoridad competente, las profesiones de médico, cirujano, farmacéutico o Dentista.
