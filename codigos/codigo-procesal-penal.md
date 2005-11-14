@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2004-10-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2005-11-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2004-10-06
-fetched_at: 2026-08-03T01:26:33.605016+00:00
+version_date: 2005-11-14
+fetched_at: 2026-08-03T01:35:01.090698+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -45,7 +45,9 @@ Para este efecto, se entenderá por primera actuación del procedimiento cualqui
 Artículo 8º.- Ámbito de la defensa. El imputado tendrá derecho a ser defendido por un letrado desde la primera actuación del procedimiento dirigido en su contra.
 El imputado tendrá derecho a formular los planteamientos y alegaciones que considerare oportunos, así como a intervenir en todas las actuaciones judiciales y en las demás actuaciones del procedimiento, salvas las excepciones expresamente previstas en este Código.
 
-Artículo 9º.- Autorización judicial previa. Toda actuación del procedimiento que privare al imputado o a un tercero del ejercicio de los derechos que la Constitución asegura, o lo restringiere o perturbare, requerirá de autorización judicial previa. En consecuencia, cuando una diligencia de investigación pudiere producir alguno de tales efectos, el fiscal deberá solicitar previamente autorización al juez de garantía. Tratándose de casos urgentes, en que la inmediata autorización fuere indispensable para el éxito de la diligencia, podrá ser solicitada y otorgada por cualquier medio idóneo al efecto, tales como teléfono, fax, correo electrónico u otro, sin perjuicio de la constancia posterior.
+Artículo 9º.- Autorización judicial previa. Toda actuación del procedimiento que privare al imputado o a un tercero del ejercicio de los derechos que la Constitución asegura, o lo restringiere o perturbare, requerirá de autorización judicial previa.
+En consecuencia, cuando una diligencia de investigación pudiere producir alguno de tales efectos, el fiscal deberá solicitar previamente autorización al juez de garantía.
+Tratándose de casos urgentes, en que la inmediata autorización u orden judicial sea indispensable para el éxito de la diligencia, podrá ser solicitada y otorgada por cualquier medio idóneo al efecto, tales como teléfono, fax, correo electrónico u otro, sin perjuicio de la constancia posterior, en el registro correspondiente. No obstante lo anterior, en caso de una detención se deberá entregar por el funcionario policial que la practique una constancia de aquélla, con indicación del tribunal que la expidió, del delito que le sirve de fundamento y de la hora en que se emitió.
 
 Artículo 10.- Cautela de garantías. En cualquiera etapa del procedimiento en que el juez de garantía estimare que el imputado no está en condiciones de ejercer los derechos que le otorgan las garantías judiciales consagradas en la Constitución Política, en las leyes o en los tratados internacionales ratificados por Chile y que se encuentren vigentes, adoptará, de oficio o a petición de parte, las medidas necesarias para permitir dicho ejercicio.
 Si esas medidas no fueren suficientes para evitar que pudiere producirse una afectación sustancial de los derechos del imputado, el juez ordenará la suspensión del procedimiento y citará a los intervinientes a una audiencia que se celebrará con los que asistan. Con el mérito de los antecedentes reunidos y de lo que en dicha audiencia se expusiere, resolverá la continuación del procedimiento o decretará el sobreseimiento temporal del mismo.
@@ -86,6 +88,8 @@ Las resoluciones que los ministros de Corte pronunciaren para resolver estas mat
 
 Artículo 20.- Solicitudes entre tribunales. Cuando un tribunal debiere requerir de otro la realización de una diligencia dentro del territorio jurisdiccional de éste, le dirigirá directamente la solicitud, sin más menciones que la indicación de los antecedentes necesarios para la cabal comprensión de la solicitud y las demás expresadas en el inciso primero del artículo anterior.
 Si el tribunal requerido rechazare el cumplimiento del trámite o diligencia indicado en la solicitud, o si transcurriere el plazo fijado para su cumplimiento sin que éste se produjere, el tribunal requirente podrá dirigirse directamente al superior jerárquico del primero para que ordene, agilice o gestione directamente la petición.
+
+Artículo 20 bis. Tramitación de solicitudes de asistencia internacional. Las solicitudes de autoridades competentes de país extranjero para que se practiquen diligencias en Chile serán remitidas directamente al Ministerio Público, el que solicitará la intervención del juez de garantía del lugar en que deban practicarse, cuando la naturaleza de las diligencias lo hagan necesario de acuerdo con las disposiciones de la ley chilena.
 
 Artículo 21.- Forma de realizar las comunicaciones. Las comunicaciones señaladas en los artículos precedentes podrán realizarse por cualquier medio idóneo, sin perjuicio del posterior envío de la documentación que fuere pertinente.
 
@@ -147,15 +151,13 @@ Las presentaciones escritas serán resueltas por el tribunal antes de las veinti
 
 #### Párrafo 6°. Registro de las actuaciones judiciales
 
-Artículo 39.- Reglas generales. De las actuaciones realizadas por o ante el juez de garantía y el tribunal de juicio oral en lo penal se levantará un registro en la forma señalada en este Párrafo.
+Artículo 39. Reglas generales. De las actuaciones realizadas por o ante el juez de garantía, el tribunal de juicio oral en lo penal, las Cortes de Apelaciones y la Corte Suprema se levantará un registro en la forma señalada en este párrafo.
 En todo caso, las sentencias y demás resoluciones que pronunciare el tribunal serán registradas en su integridad.
 El registro se efectuará por cualquier medio apto para producir fe, que permita garantizar la conservación y la reproducción de su contenido.
 
-Artículo 40.- Registro de actuaciones ante juez de garantía. El registro de las actuaciones realizadas por o ante el juez de garantía contendrá una relación resumida de la actuación, de modo tal que refleje fielmente la parte esencial de lo actuado y describa las circunstancias en las cuales la actuación se hubiere llevado a cabo.
-Los intervinientes podrán pedir al juez que se deje constancia en el registro de observaciones especiales que formularen.
-Lo previsto en este artículo no se aplicará al registro de la audiencia de preparación del juicio oral, respecto de la cual regirá el artículo siguiente.
+Artículo 40.- DEROGADO
 
-Artículo 41.- Registro del juicio oral. El juicio oral deberá ser registrado en forma íntegra, por cualquier medio que asegure fidelidad.
+Artículo 41. Registro de actuaciones ante los tribunales con competencia en materia penal. Las audiencias ante los jueces con competencia en materia penal se registrarán en forma íntegra por cualquier medio que asegure su fidelidad, tal como audio digital, video u otro soporte tecnológico equivalente.
 
 Artículo 42.- Valor del registro del juicio oral. El registro del juicio oral demostrará el modo en que se hubiere desarrollado la audiencia, la observancia de las formalidades previstas para ella, las personas que hubieren intervenido y los actos que se hubieren llevado a cabo. Lo anterior es sin perjuicio de lo dispuesto en el artículo 359, en lo que corresponda.
 La omisión de formalidades del registro sólo lo privará de valor cuando ellas no pudieren ser suplidas con certeza sobre la base de otros elementos contenidos en el mismo o de otros antecedentes confiables que dieren testimonio de lo ocurrido en la audiencia.
@@ -180,7 +182,7 @@ Artículo 47 .- Condena. Las costas serán de cargo del condenado.
 La víctima que abandonare la acción civil soportará las costas que su intervención como parte civil hubiere causado. También las soportará el querellante que abandonare la querella.
 No obstante lo dispuesto en los incisos anteriores, el tribunal, por razones fundadas que expresará determinadamente, podrá eximir total o parcialmente del pago de las costas, a quien debiere soportarlas.
 
-Artículo 48.- Absolución y sobreseimiento definitivo. Cuando el imputado fuere absuelto o sobreseído definitivamente, el ministerio público será condenado en costas, salvo que hubiere formulado la acusación en cumplimiento de la orden judicial a que se refiere el inciso segundo del artículo 462.
+Artículo 48.- Absolución y sobreseimiento definitivo. Cuando el imputado fuere absuelto o sobreseído definitivamente, el ministerio público será condenado en costas, salvo que hubiere formulado la acusación en cumplimiento de la orden judicial a que se refiere el inciso segundo del artículo 462 o cuando el tribunal estime razonable eximirle por razones fundadas.
 En dicho evento será también condenado el querellante, salvo que el tribunal lo eximiere del pago, total o parcialmente, por razones fundadas que expresará determinadamente.
 
 Artículo 49.- Distribución de costas. Cuando fueren varios los intervinientes condenados al pago de las costas, el tribunal fijará la parte o proporción que corresponderá soportar a cada uno de ellos.
@@ -274,7 +276,8 @@ Artículo 69.- Denominaciones. Salvo que se disponga expresamente lo contrario, 
 Por su parte, la mención de los jueces se entenderá hecha a los jueces de garantía, a los jueces del tribunal de juicio oral en lo penal o a todos ellos, según resulte del contexto de la disposición en que se utilice. De igual manera se entenderá la alusión al tribunal, que puede corresponder al juez de garantía, al tribunal de juicio oral en lo penal, a la Corte de Apelaciones o a la Corte Suprema
 
 Artículo 70 .- Juez de garantía competente. El juez de garantía llamado por la ley a conocer las gestiones a que de lugar el respectivo procedimiento se pronunciará sobre las autorizaciones judiciales previas que solicitare el ministerio público para realizar actuaciones que privaren, restringieren o perturbaren el ejercicio de derechos asegurados por la Constitución.
-Sin embargo, cuando estas actuaciones debieren efectuarse fuera del territorio jurisdiccional del juzgado de garantía y se tratare de diligencias urgentes, el ministerio público también podrá pedir la autorización directamente al juez del juzgado de garantía del lugar. En este caso, una vez realizada la diligencia, el ministerio público dará cuenta a la brevedad al juez de garantía del procedimiento.
+Si la detención se practicare en un lugar que se encontrare fuera del territorio jurisdiccional del juez que hubiere emitido la orden, será también competente para conocer de la audiencia judicial del detenido el juez de garantía del lugar donde se hubiere practicado la detención, cuando la orden respectiva hubiere emanado de un juez con competencia en una ciudad asiento de Corte de Apelaciones diversa. Cuando en la audiencia judicial se decretare la prisión preventiva del imputado, el juez deberá ordenar su traslado inmediato al establecimiento penitenciario del territorio jurisdiccional del juez del procedimiento. Lo previsto en este inciso no tendrá aplicación cuando la orden de detención emanare de un juez de garantía de la Región Metropolitana y ésta se practicare dentro del territorio de la misma, caso en el cual la primera audiencia judicial siempre deberá realizarse ante el juzgado naturalmente competente.
+En los demás casos, cuando debieren efectuarse actuaciones fuera del territorio jurisdiccional del juzgado de garantía y se tratare de diligencias u órdenes urgentes, el Ministerio Público también podrá pedir la autorización directamente al juez de garantía del lugar. Una vez realizada la diligencia o cumplida la orden, el Ministerio Público dará cuenta a la brevedad al juez de garantía del procedimiento.
 
 Artículo 71.- Atribuciones de dirección de las audiencias y disciplina dentro de ellas. Las reglas contempladas en el Párrafo 3º del Título III del Libro Segundo serán aplicables durante las audiencias que se celebraren ante el juez de garantía, correspondiendo a este último el ejercicio de las facultades que se le entregan al presidente de la sala o al tribunal de juicio oral en lo penal en dichas disposiciones.
 
@@ -335,7 +338,7 @@ Artículo 85.- Control de identidad. Los funcionarios policiales señalados en e
 
 Artículo 86.- Derechos de la persona sujeta a control de identidad. En cualquier caso que hubiere sido necesario conducir a la unidad policial a la persona cuya identidad se tratare de averiguar en virtud del artículo precedente, el funcionario que practicare el traslado deberá informarle verbalmente de su derecho a que se comunique a su familia o a la persona que indicare, de su permanencia en el cuartel policial. El afectado no podrá ser ingresado a celdas o calabozos, ni mantenido en contacto con personas detenidas.
 
-Artículo 87.- Instrucciones generales. Sin perjuicio de las instrucciones particulares que el fiscal impartiere en cada caso, el ministerio público regulará mediante instrucciones generales la forma en que la policía cumplirá las funciones previstas en los artículos 83 y 85, así como la forma de proceder frente a hechos de los que tomare conocimiento y respecto de los cuales los datos obtenidos fueren insuficientes para estimar si son constitutivos de delito.
+Artículo 87.- Instrucciones generales. Sin perjuicio de las instrucciones particulares que el fiscal impartiere en cada caso, el ministerio público regulará mediante instrucciones generales la forma en que la policía cumplirá las funciones previstas en los artículos 83 y 85, así como la forma de proceder frente a hechos de los que tomare conocimiento y respecto de los cuales los datos obtenidos fueren insuficientes para estimar si son constitutivos de delito. Asimismo, podrá impartir instrucciones generales relativas a la realización de diligencias inmediatas para la investigación de determinados delitos.
 
 Artículo 88.- Solicitud de registros de actuaciones. El ministerio público podrá requerir en cualquier momento los registros de las actuaciones de la policía.
 
@@ -449,7 +452,7 @@ Artículo 110.- Información a personas que no hubieren intervenido en el proced
 
 Artículo 111.- Querellante. La querella podrá ser interpuesta por la víctima, su representante legal o su heredero testamentario.
 También se podrá querellar cualquier persona capaz de parecer en juicio domiciliada en la provincia, respecto de hechos punibles cometidos en la misma que constituyeren delitos terroristas, o delitos cometidos por un funcionario público que afectaren derechos de las personas garantizados por la Constitución o contra la probidad pública.
-Asimismo, podrá deducir querella cualquier persona capaz de parecer en juicio domiciliada en la región, respecto de delitos cometidos en la misma que afectaren intereses sociales relevantes o de la colectividad en su conjunto.
+Los órganos y servicios públicos sólo podrán interponer querella cuando sus respectivas leyes orgánicas les otorguen expresamente las potestades correspondientes.
 
 Artículo 112.- Oportunidad para presentar la querella. La querella podrá presentarse en cualquier momento, mientras el fiscal no declarare cerrada la investigación.
 Admitida a tramitación, el juez la remitirá al ministerio público y el querellante podrá hacer uso de los derechos que le confiere el artículo 261.
@@ -520,19 +523,32 @@ Artículo 128.- Detención por cualquier tribunal. Todo tribunal, aunque no ejer
 Artículo 129.- Detención en caso de flagrancia. Cualquier persona podrá detener a quien sorprendiere en delito flagrante, debiendo entregar inmediatamente al aprehendido a la policía, al ministerio público o a la autoridad judicial más próxima.
 Los agentes policiales estarán obligados a detener a quienes sorprendieren in fraganti en la comisión de un delito.
 No obstará a la detención la circunstancia de que la persecución penal requiriere instancia particular previa, si el delito flagrante fuere de aquellos previstos y sancionados en los artículos 361 a 366 quater del Código Penal.
-La policía deberá, asimismo, detener al sentenciado a penas privativas de libertad que hubiere quebrantado su condena y al que se fugare estando detenido o en prisión preventiva.
+La policía deberá, asimismo, detener al sentenciado a penas privativas de libertad que hubiere quebrantado su condena, al que se fugare estando detenido, al que tuviere orden de detención pendiente, a quien fuere sorprendido en violación flagrante de las medidas cautelares personales que se le hubieren impuesto y al que violare la condición del artículo 238, letra b), que le hubiere sido impuesta para la protección de otras personas.
+En los casos de que trata este artículo, la policía podrá ingresar a un lugar cerrado, mueble o inmueble, cuando se encontrare en actual persecución del individuo a quien debiere detener, para el solo efecto de practicar la respectiva detención.
 
-Artículo 130.- Situación de flagrancia. Se entenderá que se encuentra en situación de flagrancia:
-a) El que actualmente se encontrare cometiendo el delito;
+Artículo 130.- Situación de flagrancia. Se entenderá que se encuentra en situación de flagrancia: a) El que actualmente se encontrare cometiendo el
+delito;
 b) El que acabare de cometerlo;
-c) El que huyere del lugar de comisión del delito y fuere designado por el ofendido u otra persona como autor o cómplice;
-d) El que, en un tiempo inmediato a la perpetración de un delito, fuere encontrado con objetos procedentes de aquél o con señales, en sí mismo o en sus vestidos, que permitieren sospechar su participación en él, o con las armas o instrumentos que hubieren sido empleados para cometerlo, y
-e) El que las personas asaltadas, heridas o víctimas de un robo o hurto que reclamaren auxilio, señalaren como autor o cómplice de un delito que acabare de cometerse.
+c) El que huyere del lugar de comisión del delito y
+fuere designado por el ofendido u otra persona como
+autor o cómplice;
+d) El que, en un tiempo inmediato a la perpetración
+de un delito, fuere encontrado con objetos procedentes
+de aquél o con señales, en sí mismo o en sus vestidos,
+que permitieren sospechar su participación en él, o con
+las armas o instrumentos que hubieren sido empleados
+para cometerlo, y
+e) El que las víctimas de un delito que reclamen
+auxilio, o testigos presenciales, señalaren como autor o
+cómplice de un delito que se hubiere cometido en un
+tiempo inmediato.
 
 Artículo 131.- Plazos de la detención. Cuando la detención se practicare en cumplimiento de una orden judicial, los agentes policiales que la hubieren realizado o el encargado del recinto de detención conducirán inmediatamente al detenido a presencia del juez que hubiere expedido la orden. Si ello no fuere posible por no ser hora de despacho, el detenido podrá permanecer en el recinto policial o de detención hasta el momento de la primera audiencia judicial, por un período que en caso alguno excederá las veinticuatro horas.
 Cuando la detención se practicare en virtud de los artículos 129 y 130, el agente policial que la hubiere realizado o el encargado del recinto de detención deberán informar de ella al ministerio público dentro de un plazo máximo de doce horas. El fiscal podrá dejar sin efecto la detención u ordenar que el detenido sea conducido ante el juez dentro de un plazo máximo de veinticuatro horas, contado desde que la detención se hubiere practicado. Si el fiscal nada manifestare, la policía deberá presentar el detenido ante la autoridad judicial en el plazo indicado.
+Cuando el fiscal ordene poner al detenido a disposición del juez, deberá, en el mismo acto, dar conocimiento de esta situación al abogado de confianza de aquél o a la Defensoría Penal Pública.
+Para los efectos de poner a disposición del juez al detenido, las policías cumplirán con su obligación legal dejándolo bajo la custodia de Gendarmería del respectivo tribunal.
 
-Artículo 132.- Comparecencia judicial. A la primera audiencia judicial del detenido deberá concurrir el fiscal. La ausencia de éste dará lugar a la liberación del detenido.
+Artículo 132. Comparecencia judicial. A la primera audiencia judicial del detenido deberá concurrir el fiscal o el abogado asistente del fiscal. La ausencia de éstos dará lugar a la liberación del detenido.
 En la audiencia, el fiscal procederá directamente a formalizar la investigación y a solicitar las medidas cautelares que procedieren, siempre que contare con los antecedentes necesarios y que se encontrare presente el defensor del imputado. En el caso de que no pudiere procederse de la manera indicada, el fiscal podrá solicitar una ampliación del plazo de detención hasta por tres días, con el fin de preparar su presentación. El juez accederá a la ampliación del plazo de detención cuando estimare que los antecedentes justifican esa medida.
 
 Artículo 133.- Ingreso de personas detenidas. Los encargados de los establecimientos penitenciarios no podrán aceptar el ingreso de personas sino en virtud de órdenes judiciales.
@@ -558,24 +574,56 @@ Artículo 138.- Detención en la residencia del imputado. La detención del que 
 #### Párrafo 4º Prisión preventiva
 
 Artículo 139.- Procedencia de la prisión preventiva. Toda persona tiene derecho a la libertad personal y a la seguridad individual.
-La prisión preventiva sólo procederá cuando las demás medidas cautelares personales fueren insuficientes para asegurar las finalidades del procedimiento.
+La prisión preventiva procederá cuando las demás medidas cautelares personales fueren estimadas por el juez como insuficientes para asegurar las finalidades del procedimiento, la seguridad del ofendido o de la sociedad.
 
-Artículo 140.- Requisitos para ordenar la prisión preventiva. Una vez formalizada la investigación, el tribunal, a petición del ministerio público o del querellante, podrá decretar la prisión preventiva del imputado siempre que el solicitante acreditare que se cumplen los siguientes requisitos:
-a) Que existen antecedentes que justificaren la existencia del delito que se investigare;
-b) Que existen antecedentes que permitieren presumir fundadamente que el imputado ha tenido participación en el delito como autor, cómplice o encubridor, y
-c) Que existen antecedentes calificados que permitieren al tribunal considerar que la prisión preventiva es indispensable para el éxito de diligencias precisas y determinadas de la investigación, o que la libertad del imputado es peligrosa para la seguridad de la sociedad o del ofendido.
-Se entenderá que la prisión preventiva es indispensable para el éxito de la investigación cuando existiere sospecha grave y fundada de que el imputado pudiere obstaculizar la investigación mediante la destrucción, modificación, ocultación o falsificación de elementos de prueba; o cuando pudiere inducir a coimputados, testigos, peritos o terceros para que informen falsamente o se comporten de manera desleal o reticente.
-Para estimar si la libertad del imputado resulta o no peligrosa para la seguridad de la sociedad, el tribunal deberá considerar especialmente alguna de las siguientes circunstancias: la gravedad de la pena asignada al delito; el número de delitos que se le imputare y el carácter de los mismos; la existencia de procesos pendientes; el hecho de encontrarse sujeto a alguna medida cautelar personal, en libertad condicional o gozando de algunos de los beneficios alternativos a la ejecución de las penas privativas o restrictivas de libertad contemplados en la ley; la existencia de condenas anteriores cuyo cumplimiento se encontrare pendiente, atendiendo a la gravedad de los delitos de que trataren, y el hecho de haber actuado en grupo o pandilla.
-Se entenderá que la seguridad del ofendido se encuentra en peligro por la libertad del imputado cuando existieren antecedentes calificados que permitieren presumir que éste realizará atentados graves en contra de aquél, o en contra de su familia o de sus bienes.
+Artículo 140.- Requisitos para ordenar la prisión preventiva. Una vez formalizada la investigación, el tribunal, a petición del ministerio público o del querellante, podrá decretar la prisión preventiva del imputado siempre que el solicitante acreditare que se cumplen los siguientes requisitos: a) Que existen antecedentes que justificaren la
+existencia del delito que se investigare;
+b) Que existen antecedentes que permitieren
+presumir fundadamente que el imputado ha tenido
+participación en el delito como autor, cómplice o
+encubridor, y
+c) Que existen antecedentes calificados que
+permitieren al tribunal considerar que la prisión
+preventiva es indispensable para el éxito de diligencias
+precisas y determinadas de la investigación, o que la
+libertad del imputado es peligrosa para la seguridad de
+la sociedad o del ofendido.
+Se entenderá especialmente que la prisión
+preventiva es indispensable para el éxito de la
+investigación cuando existiere sospecha grave y
+fundada de que el imputado pudiere obstaculizar la
+investigación mediante la destrucción, modificación,
+ocultación o falsificación de elementos de prueba; o
+cuando pudiere inducir a coimputados, testigos, peritos
+o terceros para que informen falsamente o se comporten
+de manera desleal o reticente.
+Para estimar si la libertad del imputado resulta o
+no peligrosa para la seguridad de la sociedad, el
+tribunal deberá considerar especialmente alguna de las
+siguientes circunstancias: la gravedad de la pena
+asignada al delito; el número de delitos que se le
+imputare y el carácter de los mismos; la existencia de
+procesos pendientes; el hecho de encontrarse sujeto a
+alguna medida cautelar personal, en libertad condicional
+o gozando de algunos de los beneficios alternativos a la
+ejecución de las penas privativas o restrictivas de
+libertad contemplados en la ley; la existencia de
+condenas anteriores cuyo cumplimiento se encontrare
+pendiente, atendiendo a la gravedad de los delitos de
+que trataren, y el hecho de haber actuado en grupo o
+pandilla.
+Se entenderá que la seguridad del ofendido se
+encuentra en peligro por la libertad del imputado
+cuando existieren antecedentes calificados que
+permitieren presumir que éste realizará atentados en
+contra de aquél, o en contra de su familia o de sus
+bienes.
 
-Artículo 141.- Improcedencia de la prisión preventiva. No se podrá ordenar la prisión preventiva cuando ésta aparezca desproporcionada en relación con la gravedad del delito, las circunstancias de su comisión y la sanción probable.
-No procederá la prisión preventiva:
-a) Cuando el delito imputado estuviere sancionado únicamente con penas pecuniarias o privativas de derechos, o con una pena privativa o restrictiva de la libertad de duración no superior a la de presidio o reclusión menores en su grado mínimo;
-b) Cuando se tratare de un delito de acción privada, y
-c) Cuando el tribunal considerare que, en caso de ser condenado, el imputado pudiere ser objeto de alguna de las medidas alternativas a la privación o restricción de libertad contempladas en la ley y éste acreditare tener vínculos permanentes con la comunidad, que den cuenta de su arraigo familiar o social.
-Sin perjuicio de lo anterior, el imputado deberá permanecer en el lugar del juicio hasta su término, presentarse a los actos del procedimiento y a la ejecución de la sentencia, inmediatamente que fuere requerido o citado en conformidad a los artículos 33 y 123.
-Podrá en todo caso decretarse la prisión preventiva en los eventos previstos en el inciso segundo cuando el imputado hubiere incumplido alguna de las medidas cautelares previstas en el párrafo 6° de este Título o cuando el tribunal considere que el imputado pudiere incumplir lo establecido en el inciso precedente. Se decretará también la prisión preventiva del imputado que no hubiere asistido a la audiencia del juicio oral, resolución que se dictará en la misma audiencia a petición del fiscal o del querellante.
-La prisión preventiva no procederá respecto del imputado que se encontrare cumpliendo efectivamente una pena privativa de libertad. Si por cualquier motivo fuere a cesar su cumplimiento efectivo y el fiscal o el querellante estimaren procedente esta medida cautelar, o alguna de las medidas previstas en el párrafo siguiente, podrán recabarla anticipadamente de conformidad a las disposiciones de este Párrafo, a fin de que, si el tribunal acogiere la solicitud, la medida se aplique al imputado en cuanto cese el cumplimiento efectivo de la pena, sin solución de continuidad.
+Artículo 141. Improcedencia de la prisión preventiva. No se podrá ordenar la prisión preventiva:
+a) Cuando el delito imputado estuviere sancionado únicamente con penas pecuniarias o privativas de derechos;
+b) Cuando se tratare de delitos de acción privada, y
+c) Cuando el imputado se encontrare cumpliendo efectivamente una pena privativa de libertad. Si por cualquier motivo fuere a cesar el cumplimiento efectivo de la pena y el fiscal o el querellante estimaren necesaria la prisión preventiva o alguna de las medidas previstas en el Párrafo 6º, podrá solicitarlas anticipadamente, de conformidad a las disposiciones de este Párrafo, a fin de que, si el tribunal acogiere la solicitud, la medida se aplique al imputado en cuanto cese el cumplimiento efectivo de la pena, sin solución de continuidad.
+Podrá en todo caso decretarse la prisión preventiva en los eventos previstos en el inciso anterior, cuando el imputado hubiere incumplido alguna de las medidas cautelares previstas en el Párrafo 6° de este Título o cuando el tribunal considerare que el imputado pudiere incumplir con su obligación de permanecer en el lugar del juicio hasta su término y presentarse a los actos del procedimiento como a la ejecución de la sentencia, inmediatamente que fuere requerido o citado de conformidad a los artículos 33 y 123. Se decretará también la prisión preventiva del imputado que no asistiere a la audiencia del juicio oral, resolución que se dictará en la misma audiencia, a petición del fiscal o del querellante.
 
 Artículo 142.- Tramitación de la solicitud de prisión preventiva. La solicitud de prisión preventiva podrá plantearse verbalmente en la audiencia de formalización de la investigación, en la audiencia de preparación del juicio oral o en la audiencia del juicio oral.
 También podrá solicitarse en cualquier etapa de la investigación, respecto del imputado contra quien se hubiere formalizado ésta, caso en el cual el juez fijará una audiencia para la resolución de la solicitud, citando a ella al imputado, su defensor y a los demás intervinientes.
@@ -591,7 +639,7 @@ Si la prisión preventiva hubiere sido rechazada, ella podrá ser decretada con 
 Artículo 145.- Substitución de la prisión preventiva y revisión de oficio. En cualquier momento del procedimiento el tribunal, de oficio o a petición de parte, podrá substituir la prisión preventiva por alguna de las medidas que se contemplan en las disposiciones del Párrafo 6º de este Título.
 Transcurridos seis meses desde que se hubiere ordenado la prisión preventiva o desde el último debate oral en que ella se hubiere decidido, el tribunal citará de oficio a una audiencia, con el fin de considerar su cesación o prolongación.
 
-Artículo 146.- Caución para reemplazar la prisión preventiva. Cuando la prisión preventiva hubiere sido o debiere ser impuesta para garantizar la comparecencia del imputado al juicio y a la eventual ejecución de la pena, el tribunal podrá autorizar su reemplazo por una caución económica suficiente, cuyo monto fijará.
+Artículo 146.- Caución para reemplazar la prisión preventiva. Cuando la prisión preventiva hubiere sido o debiere ser impuesta únicamente para garantizar la comparecencia del imputado al juicio y a la eventual ejecución de la pena, el tribunal podrá autorizar su reemplazo por una caución económica suficiente, cuyo monto fijará.
 La caución podrá consistir en el depósito por el imputado u otra persona de dinero o valores, la constitución de prendas o hipotecas, o la fianza de una o más personas idóneas calificadas por el tribunal.
 
 Artículo 147.- Ejecución de las cauciones económicas. En los casos de rebeldía o cuando el imputado se sustrajere a la ejecución de la pena, se procederá a ejecutar la garantía de acuerdo con las reglas generales y se entregará el monto que se obtuviere a la Corporación Administrativa del Poder Judicial.
@@ -603,7 +651,7 @@ a) Cuando el imputado fuere puesto en prisión preventiva;
 b) Cuando, por resolución firme, se absolviere al imputado, se sobreseyere la causa o se suspendiere condicionalmente el procedimiento, y
 c) Cuando se comenzare a ejecutar la pena privativa de libertad o se resolviere que ella no debiere ejecutarse en forma efectiva, siempre que previamente se pagaren la multa y las costas que impusiere la sentencia.
 
-Artículo 149.- Recursos relacionados con la medida de prisión preventiva. La resolución que ordenare, mantuviere, negare lugar o revocare la prisión preventiva será apelable cuando hubiere sido dictada en una audiencia. En los demás casos no será susceptible de recurso alguno.
+Artículo 149.- Recursos relacionados con la medida de prisión preventiva. La resolución que ordenare, mantuviere, negare lugar o revocare la prisión preventiva será apelable cuando hubiere sido dictada en una audiencia. No obstará a la procedencia del recurso, la circunstancia de haberse decretado, a petición de cualquiera de los intervinientes, alguna de las medidas cautelares señaladas en el artículo 155. En los demás casos no será susceptible de recurso alguno.
 
 Artículo 150.- Ejecución de la medida de prisión preventiva. El tribunal será competente para supervisar la ejecución de la prisión preventiva que ordenare en las causas de que conociere. A él corresponderá conocer de las solicitudes y presentaciones realizadas con ocasión de la ejecución de la medida.
 La prisión preventiva se ejecutará en establecimientos especiales, diferentes de los que se utilizaren para los condenados o, al menos, en lugares absolutamente separados de los destinados para estos últimos.
@@ -624,22 +672,49 @@ En los casos indicados en el inciso precedente, se podrá imponer alguna de las 
 #### Párrafo 5º Requisitos comunes a la prisión
 preventiva y a la detención
 
-Artículo 154.- Orden Judicial. Toda orden de prisión preventiva o de detención será expedida por escrito por el tribunal y contendrá:
-a) El nombre y apellidos de la persona que debiere ser detenida o aprehendida o, en su defecto, las circunstancias que la individualizaren o determinaren;
-b) El motivo de la prisión o detención, y c) La indicación de ser conducido de inmediato ante el tribunal, al establecimiento penitenciario o lugar público de prisión o detención que determinará, o de permanecer en su residencia, según correspondiere.
+Artículo 154.- Orden Judicial. Toda orden de prisión preventiva o de detención será expedida por escrito por el tribunal y contendrá: a) El nombre y apellidos de la persona que debiere
+ser detenida o aprehendida o, en su defecto, las
+circunstancias que la individualizaren o determinaren;
+b) El motivo de la prisión o detención, y
+c) La indicación de ser conducido de inmediato ante
+el tribunal, al establecimiento penitenciario o lugar
+público de prisión o detención que determinará, o de
+permanecer en su residencia, según correspondiere.
+Lo dispuesto en este artículo se entenderá sin
+perjuicio de lo previsto en el artículo 9º para los
+casos urgentes.
 
 #### Párrafo 6º Otras medidas cautelares personales
 
-Artículo 155.- Enumeración y aplicación de otras medidas cautelares personales. Para garantizar el éxito de las diligencias de investigación, proteger al ofendido o asegurar la comparecencia del imputado a las actuaciones del procedimiento o ejecución de la sentencia, después de formalizada la investigación el tribunal, a petición del fiscal, del querellante o la víctima, podrá imponer al imputado una o más de las siguientes medidas:
-a) La privación de libertad, total o parcial, en su casa o en la que el propio imputado señalare, si aquélla se encontrare fuera de la ciudad asiento del tribunal;
-b) La sujeción a la vigilancia de una persona o institución determinada, las que informarán periódicamente al juez;
-c) La obligación de presentarse periódicamente ante el juez o ante la autoridad que él designare;
-d) La prohibición de salir del país, de la localidad en la cual residiere o del ámbito territorial que fijare el tribunal;
-e) La prohibición de asistir a determinadas reuniones, recintos o espectáculos públicos, o de visitar determinados lugares;
-f) La prohibición de comunicarse con personas determinadas, siempre que no se afectare el derecho a defensa, y
-g) La prohibición de aproximarse al ofendido o su familia y, en su caso, la obligación de abandonar el hogar que compartiere con aquél.
-El tribunal podrá imponer una o más de estas medidas según resultare adecuado al caso y ordenará las actuaciones y comunicaciones necesarias para garantizar su cumplimiento.
-La procedencia, duración, impugnación y ejecución de estas medidas cautelares se regirán por las disposiciones aplicables a la prisión preventiva, en cuanto no se opusieren a lo previsto en este Párrafo.
+Artículo 155.- Enumeración y aplicación de otras medidas cautelares personales. Para garantizar el éxito de las diligencias de investigación o la seguridad de la sociedad, proteger al ofendido o asegurar la comparecencia del imputado a las actuaciones del procedimiento o ejecución de la sentencia, después de formalizada la investigación el tribunal, a petición del fiscal, del querellante o la víctima, podrá imponer al imputado una o más de las siguientes medidas:
+a) La privación de libertad, total o parcial, en su
+casa o en la que el propio imputado señalare, si aquélla
+se encontrare fuera de la ciudad asiento del tribunal;
+b) La sujeción a la vigilancia de una persona o
+institución determinada, las que informarán
+periódicamente al juez;
+c) La obligación de presentarse periódicamente ante
+el juez o ante la autoridad que él designare;
+d) La prohibición de salir del país, de la
+localidad en la cual residiere o del ámbito territorial
+que fijare el tribunal;
+e) La prohibición de asistir a determinadas
+reuniones, recintos o espectáculos públicos, o de
+visitar determinados lugares;
+f) La prohibición de comunicarse con personas
+determinadas, siempre que no se afectare el derecho a
+defensa, y
+g) La prohibición de aproximarse al ofendido o su
+familia y, en su caso, la obligación de abandonar el
+hogar que compartiere con aquél.
+El tribunal podrá imponer una o más de estas
+medidas según resultare adecuado al caso y ordenará las
+actuaciones y comunicaciones necesarias para garantizar
+su cumplimiento.
+La procedencia, duración, impugnación y ejecución
+de estas medidas cautelares se regirán por las
+disposiciones aplicables a la prisión preventiva, en
+cuanto no se opusieren a lo previsto en este Párrafo.
 
 Artículo 156.- Suspensión temporal de otras medidas cautelares personales. El tribunal podrá dejar temporalmente sin efecto las medidas contempladas en este Párrafo, a petición del afectado por ellas, oyendo al fiscal y previa citación de los demás intervinientes que hubieren participado en la audiencia en que se decretaron, cuando estimare que ello no pone en peligro los objetivos que se tuvieron en vista al imponerlas. Para estos efectos, el juez podrá admitir las cauciones previstas en el artículo 146.
 
@@ -736,13 +811,13 @@ Si el fiscal respectivo se negare a proceder, la persona imputada podrá recurri
 
 Artículo 180.- Investigación de los fiscales. Los fiscales dirigirán la investigación y podrán realizar por sí mismos o encomendar a la policía todas las diligencias de investigación que consideraren conducentes al esclarecimiento de los hechos.
 Sin perjuicio de lo dispuesto en el Párrafo 1º de este Título, dentro de las veinticuatro horas siguientes a que tomare conocimiento de la existencia de un hecho que revistiere caracteres de delito de acción penal pública por alguno de los medios previstos en la ley, el fiscal deberá proceder a la práctica de todas aquellas diligencias pertinentes y útiles al esclarecimiento y averiguación del mismo, de las circunstancias relevantes para la aplicación de la ley penal, de los partícipes del hecho y de las circunstancias que sirvieren para verificar su responsabilidad. Asimismo, deberá impedir que el hecho denunciado produzca consecuencias ulteriores.
-Los fiscales podrán exigir información de toda persona o funcionario público, los que no podrán excusarse de proporcionarla, salvo en los casos expresamente exceptuados por la ley.
+Los fiscales podrán exigir información de toda persona o funcionario público, los que no podrán excusarse de proporcionarla, salvo en los casos expresamente exceptuados por la ley. Los notarios, archiveros y conservadores de bienes raíces, y demás organismos, autoridades y funcionarios públicos, deberán realizar las actuaciones y diligencias y otorgar los informes, antecedentes y copias de instrumentos que los fiscales les solicitaren, en forma gratuita y exentos de toda clase de derechos e impuestos.
 
 Artículo 181.- Actividades de la investigación. Para los fines previstos en el artículo anterior, la investigación se llevará a cabo de modo de consignar y asegurar todo cuanto condujere a la comprobación del hecho y a la identificación de los partícipes en el mismo. Así, se hará constar el estado de las personas, cosas o lugares, se identificará a los testigos del hecho investigado y se consignarán sus declaraciones. Del mismo modo, si el hecho hubiere dejado huellas, rastros o señales, se tomará nota de ellos y se los especificará detalladamente, se dejará constancia de la descripción del lugar en que aquél se hubiere cometido, del estado de los objetos que en él se encontraren y de todo otro dato pertinente.
 Para el cumplimiento de los fines de la investigación se podrá disponer la práctica de operaciones científicas, la toma de fotografías, filmación o grabación y, en general, la reproducción de imágenes, voces o sonidos por los medios técnicos que resultaren más adecuados, requiriendo la intervención de los organismos especializados. En estos casos, una vez verificada la operación se certificará el día, hora y lugar en que ella se hubiere realizado, el nombre, la dirección y la profesión u oficio de quienes hubieren intervenido en ella, así como la individualización de la persona sometida a examen y la descripción de la cosa, suceso o fenómeno que se reprodujere o explicare. En todo caso se adoptarán las medidas necesarias para evitar la alteración de los originales objeto de la operación.
 
 Artículo 182.- Secreto de las actuaciones de investigación. Las actuaciones de investigación realizadas por el ministerio público y por la policía serán secretas para los terceros ajenos al procedimiento.
-El imputado y los demás intervinientes en el procedimiento podrán examinar los registros y los documentos de la investigación fiscal y policial.
+El imputado y los demás intervinientes en el procedimiento podrán examinar y obtener copias, a su cargo, de los registros y documentos de la investigación fiscal y podrán examinar los de la investigación policial.
 El fiscal podrá disponer que determinadas actuaciones, registros o documentos sean mantenidas en secreto respecto del imputado o de los demás intervinientes, cuando lo considerare necesario para la eficacia de la investigación. En tal caso deberá identificar las piezas o actuaciones respectivas, de modo que no se vulnere la reserva y fijar un plazo no superior a cuarenta días para la mantención del secreto.
 El imputado o cualquier otro interviniente podrá solicitar del juez de garantía que ponga término al secreto o que lo limite, en cuanto a su duración, a las piezas o actuaciones abarcadas por él, o a las personas a quienes afectare.
 Sin perjuicio de lo dispuesto en los incisos anteriores, no se podrá decretar el secreto sobre la declaración del imputado o cualquier otra actuación en que hubiere intervenido o tenido derecho a intervenir, las actuaciones en las que participare el tribunal, ni los informes evacuados por peritos, respecto del propio imputado o de su defensor.
@@ -897,7 +972,12 @@ Si en cualquier momento del procedimiento se constatare que los objetos y docume
 Artículo 221.- Inventario y custodia. De toda diligencia de incautación se levantará inventario, conforme a las reglas generales. El encargado de la diligencia otorgará al imputado o a la persona que los hubiere tenido en su poder un recibo detallado de los objetos y documentos incautados.
 Los objetos y documentos incautados serán inventariados y sellados y se pondrán bajo custodia del ministerio público en los términos del artículo 188.
 
-Artículo 222.- Interceptación de comunicaciones telefónicas. Cuando existieren fundadas sospechas, basadas en hechos determinados, de que una persona hubiere cometido o participado en la preparación o comisión, o que ella preparare actualmente la comisión o participación en un hecho punible que mereciere pena de crimen, y la investigación lo hiciere imprescindible, el juez de garantía, a petición del ministerio público, podrá ordenar la interceptación y grabación de sus comunicaciones telefónicas o de otras formas de telecomunicación. La orden a que se refiere el inciso precedente sólo podrá afectar al imputado o a personas respecto de las cuales existieren sospechas fundadas, basadas en hechos determinados, de que ellas sirven de intermediarias de dichas comunicaciones y, asimismo, de aquellas que facilitaren sus medios de comunicación al imputado o sus intermediarios. No se podrán interceptar las comunicaciones entre el imputado y su abogado, a menos que el juez de garantía lo ordenare, por estimar fundadamente, sobre la base de antecedentes de los que dejará constancia en la respectiva resolución, que el abogado pudiere tener responsabilidad penal en los hechos investigados. La orden que dispusiere la interceptación y grabación deberá indicar circunstanciadamente el nombre y dirección del afectado por la medida y señalar la forma de la interceptación y la duración de la misma, que no podrá exceder de sesenta días. El juez podrá prorrogar este plazo por períodos de hasta igual duración, para lo cual deberá examinar cada vez la concurrencia de los requisitos previstos en los incisos precedentes. Las empresas telefónicas y de telecomunicaciones deberán otorgar a los funcionarios encargados de la diligencia las facilidades necesarias para llevarla a cabo, en el menor plazo posible. Con este objetivo los proveedores de tales servicios deberán mantener, en carácter reservado, a disposición del Ministerio Público, un listado actualizado de sus rangos autorizados de direcciones IP y un registro, no inferior a seis meses, de los números IP de las conexiones que realicen sus abonados. La negativa o entorpecimiento a la práctica de la medida de interceptación y grabación será constitutiva del delito de desacato. Asimismo, los encargados de realizar la diligencia y los empleados de las empresas mencionadas en este inciso deberán guardar secreto acerca de la misma, salvo que se les citare como testigos al procedimiento. Si las sospechas tenidas en consideración para ordenar la medida se disiparen o hubiere transcurrido el plazo de duración fijado para la misma, ella deberá ser interrumpida inmediatamente.
+Artículo 222.- Interceptación de comunicaciones telefónicas. Cuando existieren fundadas sospechas, basadas en hechos determinados, de que una persona hubiere cometido o participado en la preparación o comisión, o que ella preparare actualmente la comisión o participación en un hecho punible que mereciere pena de crimen, y la investigación lo hiciere imprescindible, el juez de garantía, a petición del ministerio público, podrá ordenar la interceptación y grabación de sus comunicaciones telefónicas o de otras formas de telecomunicación.
+La orden a que se refiere el inciso precedente sólo podrá afectar al imputado o a personas respecto de las cuales existieren sospechas fundadas, basadas en hechos determinados, de que ellas sirven de intermediarias de dichas comunicaciones y, asimismo, de aquellas que facilitaren sus medios de comunicación al imputado o sus intermediarios.
+No se podrán interceptar las comunicaciones entre el imputado y su abogado, a menos que el juez de garantía lo ordenare, por estimar fundadamente, sobre la base de antecedentes de los que dejará constancia en la respectiva resolución, que el abogado pudiere tener responsabilidad penal en los hechos investigados.
+La orden que dispusiere la interceptación y grabación deberá indicar circunstanciadamente el nombre y dirección del afectado por la medida y señalar la forma de la interceptación y la duración de la misma, que no podrá exceder de sesenta días. El juez podrá prorrogar este plazo por períodos de hasta igual duración, para lo cual deberá examinar cada vez la concurrencia de los requisitos previstos en los incisos precedentes.
+Las empresas telefónicas y de comunicaciones deberán dar cumplimiento a esta medida, proporcionando a los funcionarios encargados de la diligencia las facilidades necesarias para que se lleve a cabo con la oportunidad con que se requiera.. Con este objetivo los proveedores de tales servicios deberán mantener, en carácter reservado, a disposición del Ministerio Público, un listado actualizado de sus rangos autorizados de direcciones IP y un registro, no inferior a seis meses, de los números IP de las conexiones que realicen sus abonados. La negativa o entorpecimiento a la práctica de la medida de interceptación y grabación será constitutiva del delito de desacato. Asimismo, los encargados de realizar la diligencia y los empleados de las empresas mencionadas en este inciso deberán guardar secreto acerca de la misma, salvo que se les citare como testigos al procedimiento.
+Si las sospechas tenidas en consideración para ordenar la medida se disiparen o hubiere transcurrido el plazo de duración fijado para la misma, ella deberá ser interrumpida inmediatamente.
 
 Artículo 223.- Registro de la interceptación. La interceptación telefónica de que trata el artículo precedente será registrada mediante su grabación magnetofónica u otros medios técnicos análogos que aseguraren la fidelidad del registro. La grabación será entregada directamente al ministerio público, quien la conservará bajo sello y cuidará que la misma no sea conocida por terceras personas.
 Cuando lo estimare conveniente, el ministerio público podrá disponer la transcripción escrita de la grabación, por un funcionario que actuará, en tal caso, como ministro de fe acerca de la fidelidad de aquélla. Sin perjuicio de ello, el ministerio público deberá conservar los originales de la grabación, en la forma prevista en el inciso precedente.
@@ -951,24 +1031,64 @@ Si con posterioridad a la formalización de la investigación el fiscal solicita
 #### Párrafo 6º Suspensión condicional del procedimiento
 y acuerdos reparatorios
 
-Artículo 237.- Suspensión condicional del procedimiento. El fiscal, con el acuerdo del imputado, podrá solicitar al juez de garantía la suspensión condicional del procedimiento. El juez podrá requerir del ministerio público los antecedentes que estimare necesarios para resolver.
-La suspensión condicional del procedimiento podrá decretarse:
-a) Si la pena que pudiere imponerse al imputado, en el evento de dictarse sentencia condenatoria, no excediere de tres años de privación de libertad, y b) Si el imputado no hubiere sido condenado anteriormente por crimen o simple delito.
-La presencia del defensor del imputado en la audiencia en que se ventilare la solicitud de suspensión condicional del procedimiento constituirá un requisito de validez de la misma.
-Si el querellante asistiere a la audiencia en que se ventilare la solicitud de suspensión condicional del procedimiento, deberá ser oído por el tribunal.
-Al decretar la suspensión condicional del procedimiento, el juez de garantía establecerá las condiciones a las que deberá someterse el imputado, por el plazo que determine, el que no podrá ser inferior a un año ni superior a tres. Durante dicho período no se reanudará el curso de la prescripción de la acción penal. Asimismo, durante el término por el que se prolongare la suspensión condicional del procedimiento se suspenderá el plazo previsto en el artículo 247.
-La resolución que se pronunciare acerca de la suspensión condicional del procedimiento será apelable por el imputado, por el ministerio público y por el querellante.
-La suspensión condicional del procedimiento no impedirá de modo alguno el derecho a perseguir por la vía civil las responsabilidades pecuniarias derivadas del mismo hecho.
+Artículo 237.- Suspensión condicional del procedimiento. El fiscal, con el acuerdo del imputado, podrá solicitar al juez de garantía la suspensión condicional del procedimiento. El juez podrá requerir del ministerio público los antecedentes que estimare necesarios para resolver. La suspensión condicional del procedimiento podrá decretarse: a) Si la pena que pudiere imponerse al imputado, en
+el evento de dictarse sentencia condenatoria, no
+excediere de tres años de privación de libertad, y
+b) Si el imputado no hubiere sido condenado
+anteriormente por crimen o simple delito.
+La presencia del defensor del imputado en la
+audiencia en que se ventilare la solicitud de suspensión
+condicional del procedimiento constituirá un requisito
+de validez de la misma.
+Si el querellante o la víctima asistieren a la
+audiencia en que se ventile la solicitud de suspensión
+condicional del procedimiento, deberán ser oídos por el
+tribunal.
+Al decretar la suspensión condicional del
+procedimiento, el juez de garantía establecerá las
+condiciones a las que deberá someterse el imputado, por
+el plazo que determine, el que no podrá ser inferior a
+un año ni superior a tres. Durante dicho período no se
+reanudará el curso de la prescripción de la acción
+penal. Asimismo, durante el término por el que se
+prolongare la suspensión condicional del procedimiento
+se suspenderá el plazo previsto en el artículo 247.
+La resolución que se pronunciare acerca de la suspensión condicional del procedimiento será apelable
+por el imputado, por la víctima, por el ministerio
+público y por el querellante.
+La suspensión condicional del procedimiento no
+impedirá de modo alguno el derecho a perseguir por la
+vía civil las responsabilidades pecuniarias derivadas
+del mismo hecho.
 
 Artículo 238.- Condiciones por cumplir decretada la suspensión condicional del procedimiento. El juez de garantía dispondrá, según correspondiere, que durante el período de suspensión, el imputado esté sujeto al cumplimiento de una o más de las siguientes condiciones:
 a) Residir o no residir en un lugar determinado;
-b) Abstenerse de frecuentar determinados lugares o personas;
-c) Someterse a un tratamiento médico, psicológico o de otra naturaleza;
-d) Tener o ejercer un trabajo, oficio, profesión o empleo, o asistir a algún programa educacional o de capacitación;
-e) Pagar una determinada suma, a título de indemnización de perjuicios, a favor de la víctima o garantizar debidamente su pago. Se podrá autorizar el pago en cuotas o dentro de un determinado plazo, el que en ningún caso podrá exceder el período de suspensión del procedimiento;
-f) Acudir periódicamente ante el ministerio público y, en su caso, acreditar el cumplimiento de las demás condiciones impuestas, y
-g) Fijar domicilio e informar al ministerio público de cualquier cambio del mismo.
-Durante el período de suspensión y oyendo en una audiencia a todos los intervinientes que concurrieren a ella, el juez podrá modificar una o más de las condiciones impuestas.
+b) Abstenerse de frecuentar determinados lugares o
+personas;
+c) Someterse a un tratamiento médico, psicológico o
+de otra naturaleza;
+d) Tener o ejercer un trabajo, oficio, profesión o
+empleo, o asistir a algún programa educacional o de
+capacitación;
+e) Pagar una determinada suma, a título de
+indemnización de perjuicios, a favor de la víctima o
+garantizar debidamente su pago. Se podrá autorizar el
+pago en cuotas o dentro de un determinado plazo, el que
+en ningún caso podrá exceder el período de suspensión
+del procedimiento;
+f) Acudir periódicamente ante el ministerio público
+y, en su caso, acreditar el cumplimiento de las demás
+condiciones impuestas;
+g) Fijar domicilio e informar al ministerio público
+de cualquier cambio del mismo, y
+h) Otra condición que resulte adecuada en
+consideración con las circunstancias del caso concreto
+de que se tratare y fuere propuesta, fundadamente, por
+el Ministerio Público.
+Durante el período de suspensión y oyendo en una
+audiencia a todos los intervinientes que concurrieren a
+ella, el juez podrá modificar una o más de las
+condiciones impuestas.
 
 Artículo 239.- Revocación de la suspensión condicional. Cuando el imputado incumpliere, sin justificación, grave o reiteradamente las condiciones impuestas, o fuere objeto de una nueva formalización de la investigación por hechos distintos, el juez, a petición del fiscal o la víctima, revocará la suspensión condicional del procedimiento, y éste continuará de acuerdo a las reglas generales.
 Será apelable la resolución que se dictare en conformidad al inciso precedente.
@@ -980,7 +1100,7 @@ Artículo 241.- Procedencia de los acuerdos reparatorios. El imputado y la víct
 Los acuerdos reparatorios sólo podrán referirse a hechos investigados que afectaren bienes jurídicos disponibles de carácter patrimonial, consistieren en lesiones menos graves o constituyeren delitos culposos.
 En consecuencia, de oficio o a petición del ministerio público, el juez negará aprobación a los acuerdos reparatorios convenidos en procedimientos que versaren sobre hechos diversos de los previstos en el inciso que antecede, o si el consentimiento de los que lo hubieren celebrado no apareciere libremente prestado, o si existiere un interés público prevalente en la continuación de la persecución penal. Se entenderá especialmente que concurre este interés si el imputado hubiere incurrido reiteradamente en hechos como los que se investigaren en el caso particular.
 
-Artículo 242.- Efectos penales del acuerdo reparatorio. Junto con aprobar el acuerdo reparatorio propuesto, el tribunal dictará sobreseimiento definitivo, total o parcial, en la causa, con lo que se extinguirá, total o parcialmente, la responsabilidad penal del imputado que lo hubiere celebrado.
+Artículo 242.- Efectos penales del acuerdo reparatorio. Una vez cumplidas las obligaciones contraídas por el imputado en el acuerdo reparatorio o garantizadas debidamente a satisfacción de la víctima, el tribunal dictará sobreseimiento definitivo, total o parcial, en la causa, con lo que se extinguirá, total o parcialmente, la responsabilidad penal del imputado que lo hubiere celebrado.
 
 Artículo 243.- Efectos civiles del acuerdo reparatorio. Ejecutoriada la resolución judicial que aprobare el acuerdo reparatorio, podrá solicitarse su cumplimiento ante el juez de garantía con arreglo a lo establecido en los artículos 233 y siguientes del Código de Procedimiento Civil.
 El acuerdo reparatorio no podrá ser dejado sin efecto por ninguna acción civil.
@@ -1001,7 +1121,16 @@ Si el fiscal no declarare cerrada la investigación en el plazo señalado, el im
 Para estos efectos el juez citará a los intervinientes a una audiencia y, si el fiscal no compareciere a la audiencia o si, compareciendo, se negare a declarar cerrada la investigación, el juez decretará el sobreseimiento definitivo de la causa. Esta resolución será apelable.
 Si el fiscal se allanare a la solicitud de cierre de la investigación, deberá formular en la audiencia la declaración en tal sentido y tendrá el plazo de diez días para deducir acusación.
 Transcurrido este plazo sin que se hubiere deducido la acusación, el juez, de oficio o a petición de alguno de los intervinientes, citará a la audiencia prevista en el artículo 249 y dictará sobreseimiento definitivo en la causa.
-El plazo de dos años previsto en este artículo se suspenderá cuando se dispusiere la suspensión condicional del procedimiento o se decretare sobreseimiento temporal en conformidad a lo previsto en el artículo 252.
+El plazo de dos años previsto en este artículo se suspenderá en los casos siguientes:
+a) cuando se dispusiere la suspensión condicional
+del procedimiento;
+b) cuando se decretare sobreseimiento temporal de
+conformidad a lo previsto en el artículo 252, y
+c) desde que se alcanzare un acuerdo reparatorio
+hasta el cumplimiento de las obligaciones contraídas por
+el imputado a favor de la víctima o hasta que hubiere
+debidamente garantizado su cumplimiento a satisfacción
+de esta última.
 
 Artículo 248- Cierre de la investigación. Practicadas las diligencias necesarias para la averiguación del hecho punible y sus autores, cómplices o encubridores, el fiscal declarará cerrada la investigación y podrá, dentro de los diez días siguientes:
 a) Solicitar el sobreseimiento definitivo o temporal de la causa;
@@ -1023,8 +1152,20 @@ El juez no podrá dictar sobreseimiento definitivo respecto de los delitos que, 
 Artículo 251.- Efectos del sobreseimiento definitivo. El sobreseimiento definitivo pone término al procedimiento y tiene la autoridad de cosa juzgada.
 
 Artículo 252.- Sobreseimiento temporal. El juez de garantía decretará el sobreseimiento temporal en los siguientes casos:
-a) Cuando para el juzgamiento criminal se requiriere la resolución previa de una cuestión civil, de acuerdo con lo dispuesto en el artículo 171;
-b) Cuando el imputado no compareciere al procedimiento y fuere declarado rebelde, de acuerdo con lo dispuesto en los artículos 99 y siguientes, y c) Cuando, después de cometido el delito, el imputado cayere en enajenación mental, de acuerdo con lo dispuesto en el Título VII del Libro Cuarto.
+a) Cuando para el juzgamiento criminal se
+requiriere la resolución previa de una cuestión civil,
+de acuerdo con lo dispuesto en el artículo 171;
+b) Cuando el imputado no compareciere al
+procedimiento y fuere declarado rebelde, de acuerdo con
+lo dispuesto en los artículos 99 y siguientes, y
+c) Cuando, después de cometido el delito, el
+imputado cayere en enajenación mental, de acuerdo con lo
+dispuesto en el Título VII del Libro Cuarto.
+El tribunal de juicio oral en lo penal dictará
+sobreseimiento temporal cuando el acusado no hubiere
+comparecido a la audiencia del juicio oral y hubiere
+sido declarado rebelde de conformidad a lo dispuesto en
+los artículos 100 y 101 de este Código.
 
 Artículo 253.- Recursos. El sobreseimiento sólo será impugnable por la vía del recurso de apelación ante la Corte de Apelaciones respectiva.
 
@@ -1035,7 +1176,7 @@ Si el sobreseimiento fuere parcial, se continuará el procedimiento respecto de 
 
 Artículo 256.- Facultades del juez respecto del sobreseimiento. El juez de garantía, al término de la audiencia a que se refiere el artículo 249, se pronunciará sobre la solicitud de sobreseimiento planteada por el fiscal. Podrá acogerla, sustituirla, decretar un sobreseimiento distinto del requerido o rechazarla, si no la considerare procedente. En este último caso, dejará a salvo las atribuciones del ministerio público contempladas en las letras b) y c) del artículo 248.
 
-Artículo 257.- Reapertura de la investigación. Hasta la realización de la audiencia a que se refiere el artículo 249 y durante la misma, los intervinientes podrán reiterar la solicitud de diligencias precisas de investigación que oportunamente hubieren formulado durante la investigación y que el ministerio público hubiere rechazado.
+Artículo 257. Reapertura de la investigación. Dentro de los diez días siguientes al cierre de la investigación, los intervinientes podrán reiterar la solicitud de diligencias precisas de investigación que oportunamente hubieren formulado durante la investigación y que el Ministerio Público hubiere rechazado o respecto de las cuales no se hubiere pronunciado.
 Si el juez de garantía acogiere la solicitud, ordenará al fiscal reabrir la investigación y proceder al cumplimiento de las diligencias, en el plazo que le fijará. Podrá el fiscal, en dicho evento y por una sola vez, solicitar ampliación del mismo plazo.
 El juez no decretará ni renovará aquellas diligencias que en su oportunidad se hubieren ordenado a petición de los intervinientes y no se hubieren cumplido por negligencia o hecho imputable a los mismos, ni tampoco las que fueren manifiestamente impertinentes, las que tuvieren por objeto acreditar hechos públicos y notorios ni, en general, todas aquellas que hubieren sido solicitadas con fines puramente dilatorios.
 Vencido el plazo o su ampliación, o aun antes de ello si se hubieren cumplido las diligencias, el fiscal cerrará nuevamente la investigación y procederá en la forma señalada en el artículo 248.
@@ -1126,27 +1267,57 @@ Del mismo modo, el juez excluirá las pruebas que provinieren de actuaciones o d
 Las demás pruebas que se hubieren ofrecido serán admitidas por el juez de garantía al dictar el auto de apertura del juicio oral.
 
 Artículo 277.- Auto de apertura del juicio oral. Al término de la audiencia, el juez de garantía dictará el auto de apertura del juicio oral. Esta resolución deberá indicar:
-a) El tribunal competente para conocer el juicio oral;
-b) La o las acusaciones que deberán ser objeto del juicio y las correcciones formales que se hubieren realizado en ellas;
+a) El tribunal competente para conocer el juicio
+oral;
+b) La o las acusaciones que deberán ser objeto del
+juicio y las correcciones formales que se hubieren
+realizado en ellas;
 c) La demanda civil;
-d) Los hechos que se dieren por acreditados, en conformidad con lo dispuesto en el artículo 275;
-e) Las pruebas que deberán rendirse en el juicio oral, de acuerdo a lo previsto en el artículo anterior, y
-f) La individualización de quienes debieren ser citados a la audiencia del juicio oral, con mención de los testigos a los que debiere pagarse anticipadamente sus gastos de traslado y habitación y los montos respectivos.
-El auto de apertura del juicio oral sólo será susceptible del recurso de apelación, cuando lo interpusiere el ministerio público por la exclusión de pruebas decretada por el juez de garantía de acuerdo a lo previsto en el inciso tercero del artículo precedente. Este recurso será concedido en ambos efectos. Lo dispuesto en este inciso se entenderá sin perjuicio de la procedencia, en su caso, del recurso de nulidad en contra de la sentencia definitiva que se dictare en el juicio oral, conforme a las reglas generales.
+d) Los hechos que se dieren por acreditados, en
+conformidad con lo dispuesto en el artículo 275;
+e) Las pruebas que deberán rendirse en el juicio
+oral, de acuerdo a lo previsto en el artículo anterior,
+y
+f) La individualización de quienes debieren ser
+citados a la audiencia del juicio oral, con mención de
+los testigos a los que debiere pagarse anticipadamente
+sus gastos de traslado y habitación y los montos
+respectivos.
+El auto de apertura del juicio oral sólo será
+susceptible del recurso de apelación, cuando lo
+interpusiere el ministerio público por la exclusión de
+pruebas decretada por el juez de garantía de acuerdo a
+lo previsto en el inciso tercero del artículo
+precedente. Este recurso será concedido en ambos
+efectos. Lo dispuesto en este inciso se entenderá sin
+perjuicio de la procedencia, en su caso, del recurso de
+nulidad en contra de la sentencia definitiva que se
+dictare en el juicio oral, conforme a las reglas
+generales.
+Si se excluyeren, por resolución firme, pruebas de
+cargo que el Ministerio Público considere esenciales
+para sustentar su acusación en el juicio oral
+respectivo, el fiscal podrá solicitar el sobreseimiento
+definitivo de la causa ante el juez competente, el que
+la decretará en audiencia convocada al efecto.
 
 Artículo 278.- Nuevo plazo para presentar prueba. Cuando, al término de la audiencia, el juez de garantía comprobare que el acusado no hubiere ofrecido oportunamente prueba por causas que no le fueren imputables, podrá suspender la audiencia hasta por un plazo de diez días.
 
 Artículo 279.- Devolución de los documentos de la investigación. El tribunal devolverá a los intervinientes los documentos que hubieren acompañado durante el procedimiento.
 
-Artículo 280.- Prueba anticipada. Durante la audiencia de preparación del juicio oral también se podrá solicitar la prueba testimonial anticipada conforme a lo previsto en el artículo 191.
-Asimismo, se podrá solicitar la declaración de peritos en conformidad con las normas del Párrafo 3° del Título VIII del Libro Primero, cuando fuere previsible que la persona de cuya declaración se tratare se encontrará en la imposibilidad de concurrir al juicio oral, por alguna de las razones contempladas en el inciso segundo del artículo 191.
+Artículo 280.- Prueba anticipada. Durante la audiencia de preparación del juicio oral también se podrá solicitar la prueba testimonial anticipada conforme a lo previsto en el artículo 191. Asimismo, se podrá solicitar la declaración de peritos en conformidad con las normas del Párrafo 6º del Título III del Libro Segundo, cuando fuere previsible que la persona de cuya declaración se tratare se encontrará en la imposibilidad de concurrir al juicio oral, por alguna de las razones contempladas en el inciso segundo del artículo 191. Para los efectos de lo establecido en los incisos anteriores, el juez de garantía citará a una audiencia especial para la recepción de la prueba anticipada.
 
 ### Título III
 Juicio oral
 
 #### Párrafo 1º Actuaciones previas al juicio oral
 
-Artículo 281.- Fecha, lugar, integración y citaciones. El juez de garantía hará llegar el auto de apertura del juicio oral al tribunal competente, dentro de las cuarenta y ocho horas siguientes a su notificación. También pondrá a disposición del tribunal de juicio oral en lo penal las personas sometidas a prisión preventiva o a otras medidas cautelares personales. Una vez distribuida la causa, cuando procediere, el juez presidente de la sala respectiva procederá de inmediato a decretar la fecha para la celebración de la audiencia del mismo, la que deberá tener lugar no antes de quince ni después de sesenta días desde la notificación del auto de apertura del juicio oral. Señalará, asimismo, la localidad en la cual se constituirá y funcionará el tribunal de juicio oral en lo penal, si se tratare de alguno de los casos previstos en el artículo 21 A del Código Orgánico de Tribunales. En su resolución, el juez presidente indicará también el nombre de los jueces que integrarán la sala. Con la aprobación del juez presidente del comité de jueces, convocará a un número de jueces mayor de tres para que la integren, cuando existieren circunstancias que permitieren presumir que con el número ordinario no se podrá dar cumplimiento a lo exigido en el artículo 284. Ordenará, por último, que se cite a la audiencia de todos quienes debieren concurrir a ella. El acusado deberá ser citado con, a lo menos, siete días de anticipación a la realización de la audiencia, bajo los apercibimientos previstos en los artículos 33 y 141, inciso cuarto.
+Artículo 281.- Fecha, lugar, integración y citaciones. El juez de garantía hará llegar el auto de apertura del juicio oral al tribunal competente, dentro de las cuarenta y ocho horas siguientes al momento en que quedare firme.
+También pondrá a disposición del tribunal de juicio oral en lo penal las personas sometidas a prisión preventiva o a otras medidas cautelares personales.
+Una vez distribuida la causa, cuando procediere, el juez presidente de la sala respectiva procederá de inmediato a decretar la fecha para la celebración de la audiencia del mismo, la que deberá tener lugar no antes de quince ni después de sesenta días desde la notificación del auto de apertura del juicio oral.
+Señalará, asimismo, la localidad en la cual se constituirá y funcionará el tribunal de juicio oral en lo penal, si se tratare de alguno de los casos previstos en el artículo 21 A del Código Orgánico de Tribunales.
+En su resolución, el juez presidente indicará también el nombre de los jueces que integrarán la sala. Con la aprobación del juez presidente del comité de jueces, convocará a un número de jueces mayor de tres para que la integren, cuando existieren circunstancias que permitieren presumir que con el número ordinario no se podrá dar cumplimiento a lo exigido en el artículo 284.
+Ordenará, por último, que se cite a la audiencia de todos quienes debieren concurrir a ella. El acusado deberá ser citado con, a lo menos, siete días de anticipación a la realización de la audiencia, bajo los apercibimientos previstos en los artículos 33 y 141, inciso cuarto.
 
 #### Párrafo 2º Principios del juicio oral
 
@@ -1275,18 +1446,30 @@ Artículo 313.- Efectos de la comparecencia respecto de otras obligaciones simil
 
 #### Párrafo 6º Informe de peritos
 
-Artículo 314. - Procedencia del informe de peritos. El ministerio público y los demás intervinientes podrán presentar informes elaborados por peritos de su confianza y solicitar que éstos fueren citados a declarar al juicio oral, acompañando los comprobantes que acreditaren la idoneidad profesional del perito.
+Artículo 314. - Procedencia del informe de peritos. El ministerio público y los demás intervinientes podrán presentar informes elaborados por peritos de su confianza y solicitar en la audiencia de preparación del juicio oral que éstos fueren citados a declarar a dicho juicio, acompañando los comprobantes que acreditaren la idoneidad profesional del perito.
 Procederá el informe de peritos en los casos determinados por la ley y siempre que para apreciar algún hecho o circunstancia relevante para la causa fueren necesarios o convenientes conocimientos especiales de una ciencia, arte u oficio.
 Los informes deberán emitirse con imparcialidad, ateniéndose a los principios de la ciencia o reglas del arte u oficio que profesare el perito.
 
 Artículo 315.- Contenido del informe de peritos. Sin perjuicio del deber de los peritos de concurrir a declarar ante el tribunal acerca de su informe, éste deberá entregarse por escrito y contener:
-a) La descripción de la persona o cosa que fuere objeto de él, del estado y modo en que se hallare;
-b) La relación circunstanciada de todas las operaciones practicadas y su resultado, y
-c) Las conclusiones que, en vista de tales datos, formularen los peritos conforme a los principios de su ciencia o reglas de su arte u oficio.
+a) La descripción de la persona o cosa que fuere
+objeto de él, del estado y modo en que se hallare;
+b) La relación circunstanciada de todas las
+operaciones practicadas y su resultado, y
+c) Las conclusiones que, en vista de tales datos,
+formularen los peritos conforme a los principios de su
+ciencia o reglas de su arte u oficio.
+No obstante, de manera excepcional, las pericias
+consistentes en análisis de alcoholemia, de ADN y
+aquellas que recayeren sobre sustancias estupefacientes
+o psicotrópicas, podrán ser incorporadas al juicio oral
+mediante la sola presentación del informe respectivo.
+Sin embargo, si alguna de las partes lo solicitare
+fundadamente, la comparecencia del perito no podrá ser
+substituida por la presentación del informe.
 
-Artículo 316.- Admisibilidad del informe y remuneración de los peritos. El tribunal admitirá los informes y citará a los peritos cuando, además de los requisitos generales para la admisibilidad de las solicitudes de prueba, considerare que los peritos y sus informes otorgan suficientes garantías de seriedad y profesionalismo. Con todo, el tribunal podrá limitar el número de informes o de peritos, cuando unos u otros resultaren excesivos o pudieren entorpecer la realización del juicio.
+Artículo 316.- Admisibilidad del informe y remuneración de los peritos. El juez de garantía admitirá los informes y citará a los peritos cuando, además de los requisitos generales para la admisibilidad de las solicitudes de prueba, considerare que los peritos y sus informes otorgan suficientes garantías de seriedad y profesionalismo. Con todo, el juez de garantía podrá limitar el número de informes o de peritos, cuando unos u otros resultaren excesivos o pudieren entorpecer la realización del juicio.
 Los honorarios y demás gastos derivados de la intervención de los peritos mencionados en este artículo corresponderán a la parte que los presentare.
-Excepcionalmente, el tribunal podrá relevar a la parte, total o parcialmente, del pago de la remuneración del perito, cuando considerare que ella no cuenta con medios suficientes para solventarlo o cuando, tratándose del imputado, la no realización de la diligencia pudiere importar un notorio desequilibrio en sus posibilidades de defensa. En este último caso, el tribunal regulará prudencialmente la remuneración del perito, teniendo presente los honorarios habituales en la plaza y el total o la parte de la remuneración que no fuere asumida por el solicitante será de cargo fiscal.
+Excepcionalmente, el juez de garantía podrá relevar a la parte, total o parcialmente, del pago de la remuneración del perito, cuando considerare que ella no cuenta con medios suficientes para solventarlo o cuando, tratándose del imputado, la no realización de la diligencia pudiere importar un notorio desequilibrio en sus posibilidades de defensa. En este último caso, el juez de garantía regulará prudencialmente la remuneración del perito, teniendo presente los honorarios habituales en la plaza y el total o la parte de la remuneración que no fuere asumida por el solicitante será de cargo fiscal.
 
 Artículo 317.- Incapacidad para ser perito. No podrán desempeñar las funciones de peritos las personas a quienes la ley reconociere la facultad de abstenerse de prestar declaración testimonial.
 
@@ -1315,7 +1498,7 @@ Lo previsto en este artículo se aplicará también a las cuestiones civiles a q
 
 Artículo 325.- Apertura del juicio oral. El día y hora fijados, el tribunal se constituirá con la asistencia del fiscal, del acusado, de su defensor y de los demás intervinientes. Asimismo, verificará la disponibilidad de los testigos, peritos, intérpretes y demás personas que hubieren sido citadas a la audiencia y declarará iniciado el juicio.
 El presidente de la sala señalará las acusaciones que deberán ser objeto del juicio contenidas en el auto de apertura del juicio oral, advertirá al acusado que deberá estar atento a lo que oirá y dispondrá que los peritos y los testigos hagan abandono de la sala de la audiencia.
-Seguidamente concederá la palabra al fiscal, para que exponga su acusación y al querellante para que sostenga la acusación, así como la demanda civil si la hubiere interpuesto.
+Seguidamente concederá la palabra al fiscal, para que exponga su acusación, al querellante para que sostenga la acusación, así como la demanda civil si la hubiere interpuesto.
 
 Artículo 326.- Defensa y declaración del acusado. Realizadas las exposiciones previstas en el artículo anterior, se le indicará al acusado que tiene la posibilidad de ejercer su defensa en conformidad a lo dispuesto en el artículo 8º.
 Al efecto, se ofrecerá la palabra al abogado defensor, quien podrá exponer los argumentos en que fundare su defensa.
@@ -1332,16 +1515,18 @@ La declaración de los testigos se sujetará al interrogatorio de las partes. Lo
 Finalmente, los miembros del tribunal podrán formular preguntas al testigo o perito con el fin de aclarar sus dichos.
 A solicitud de alguna de las partes, el tribunal podrá autorizar un nuevo interrogatorio de los testigos o peritos que ya hubieren declarado en la audiencia.
 Antes de declarar, los peritos y los testigos no podrán comunicarse entre sí, ni ver, oír ni ser informados de lo que ocurriere en la audiencia.
+Los testigos y peritos que, por algún motivo grave y difícil de superar no pudieren comparecer a declarar a la audiencia del juicio, podrán hacerlo a través de videoconferencia o a través de cualquier otro medio tecnológico apto para su interrogatorio y contrainterrogatorio. La parte que los presente justificará su petición en una audiencia previa que será especialmente citada al efecto, debiendo aquéllos comparecer ante el tribunal con competencia en materia penal más cercano al lugar donde se encuentren.
 
 Artículo 330.- Métodos de interrogación. En sus interrogatorios, las partes que hubieren presentado a un testigo o perito no podrán formular sus preguntas de tal manera que ellas sugirieren la respuesta.
 Durante el contrainterrogatorio, las partes podrán confrontar al perito o testigo con su propios dichos u otras versiones de los hechos presentadas en el juicio.
 En ningún caso se admitirán preguntas engañosas, aquéllas destinadas a coaccionar ilegítimamente al testigo o perito, ni las que fueren formuladas en términos poco claros para ellos.
 Estas normas se aplicarán al imputado cuando se allanare a prestar declaración.
 
-Artículo 331.- Lectura de declaraciones anteriores en la audiencia del juicio oral. Podrá darse lectura a los registros en que constaren anteriores declaraciones de testigos, peritos o imputados, en los siguientes casos:
-a) Cuando se tratare de declaraciones de testigos o peritos que hubieren fallecido o caído en incapacidad física o mental, o estuvieren ausentes del país, o cuya residencia se ignorare o que por cualquier motivo difícil de superar no pudieren declarar en el juicio, siempre que ellas hubieren sido recibidas por el juez de garantía en una audiencia de prueba formal, en conformidad con lo dispuesto en los artículos 191 y 280;
+Artículo 331.- Reproducción de declaraciones anteriores en la audiencia del juicio oral. Podrá reproducirse o darse lectura a los registros en que constaren anteriores declaraciones de testigos, peritos o imputados, en los siguientes casos:
+a) Cuando se tratare de declaraciones de testigos o peritos que hubieren fallecido o caído en incapacidad física o mental, o estuvieren ausentes del país, o cuya residencia se ignorare o que por cualquier motivo difícil de superar no pudieren declarar en el juicio, siempre que ellas hubieren sido recibidas por el juez de garantía en una audiencia de prueba formal, en conformidad con lo dispuesto en los artículos 191, 192 y 280;
 b) Cuando constaren en registros o dictámenes que todas las partes acordaren en incorporar, con aquiescencia del tribunal;
-c) Cuando la no comparecencia de los testigos, peritos o coimputados fuere imputable al acusado, y d) Cuando se tratare de declaraciones realizadas por coimputados rebeldes, prestadas ante el juez de garantía.
+c) Cuando la no comparecencia de los testigos, peritos o coimputados fuere imputable al acusado, y
+d) Cuando se tratare de declaraciones realizadas por coimputados rebeldes, prestadas ante el juez de garantía.
 
 Artículo 332.- Lectura para apoyo de memoria en la audiencia del juicio oral. Sólo una vez que el acusado o el testigo hubieren prestado declaración, se podrá leer en el interrogatorio parte o partes de sus declaraciones anteriores prestadas ante el fiscal o el juez de garantía, cuando fuere necesario para ayudar la memoria del respectivo acusado o testigo, para demostrar o superar contradicciones o para solicitar las aclaraciones pertinentes.
 Con los mismos objetivos, se podrá leer durante la declaración de un perito partes del informe que él hubiere elaborado.
@@ -1358,8 +1543,8 @@ Si con ocasión de la rendición de una prueba surgiere una controversia relacio
 
 Artículo 337.- Constitución del tribunal en lugar distinto de la sala de audiencias. Cuando lo considerare necesario para la adecuada apreciación de determinadas circunstancias relevantes del caso, el tribunal podrá constituirse en un lugar distinto de la sala de audiencias, manteniendo todas las formalidades propias del juicio.
 
-Artículo 338.- Alegato final y clausura de la audiencia del juicio oral. Concluida la recepción de las pruebas, el juez presidente de la sala otorgará sucesivamente la palabra al fiscal, al acusador particular y al defensor, para que expongan sus conclusiones. El tribunal tomará en consideración la extensión del juicio para determinar el tiempo que concederá al efecto.
-Seguidamente, se otorgará al fiscal y al defensor la posibilidad de replicar. Las respectivas réplicas sólo podrán referirse a las conclusiones planteadas por las demás partes.
+Artículo 338.- Alegato final y clausura de la audiencia del juicio oral. Concluida la recepción de las pruebas, el juez presidente de la sala otorgará sucesivamente la palabra al fiscal, al acusador particular, al actor civil y al defensor, para que expongan sus conclusiones. El tribunal tomará en consideración la extensión del juicio para determinar el tiempo que concederá al efecto.
+Seguidamente, se otorgará al fiscal, al acusador particular, al actor civil y al defensor la posibilidad de replicar. Las respectivas réplicas sólo podrán referirse a las conclusiones planteadas por las demás partes.
 Por último, se otorgará al acusado la palabra, para que manifestare lo que estimare conveniente. A continuación se declarará cerrado el debate.
 
 #### Párrafo 10° Sentencia definitiva
@@ -1387,21 +1572,22 @@ La sentencia será siempre redactada por uno de los miembros del tribunal colegi
 Artículo 343.- Decisión sobre absolución o condena. Una vez concluida la deliberación privada de los jueces, de conformidad a lo previsto en el artículo 339, la sentencia definitiva que recayere en el juicio oral deberá ser pronunciada en la audiencia respectiva, comunicándose la decisión relativa a la absolución o condena del acusado por cada uno de los delitos que se le imputaren, indicando respecto de cada uno de ellos los fundamentos principales tomados en consideración para llegar a dichas conclusiones.
 Excepcionalmente, cuando la audiencia del juicio se hubiere prolongado por más de dos días y la complejidad del caso no permitiere pronunciar la decisión inmediatamente, el tribunal podrá prolongar su deliberación hasta por veinticuatro horas, hecho que será dado a conocer a los intervinientes en la misma audiencia, fijándose de inmediato la oportunidad en que la decisión les será comunicada.
 La omisión del pronunciamiento de la decisión de conformidad a lo previsto en los incisos precedentes producirá la nulidad del juicio, el que deberá repetirse en el más breve plazo posible.
-En el caso de condena, el tribunal deberá resolver sobre las circunstancias modificatorias de responsabilidad penal en la misma oportunidad prevista en el inciso primero. No obstante, tratándose de circunstancias ajenas al hecho punible, el tribunal podrá postergar su resolución para el momento de la determinación de la pena en la sentencia, debiendo indicarlo así a las partes.
+En el caso de condena, el tribunal deberá resolver sobre las circunstancias modificatorias de responsabilidad penal en la misma oportunidad prevista en el inciso primero. No obstante, tratándose de circunstancias ajenas al hecho punible, y los demás factores relevantes para la determinación y cumplimiento de la pena, el tribunal abrirá debate sobre tales circunstancias y factores, inmediatamente después de pronunciada la decisión a que se refiere el inciso primero y en la misma audiencia. Para dichos efectos, el tribunal recibirá los antecedentes que hagan valer los intervinientes para fundamentar sus peticiones, dejando su resolución para la audiencia de lectura de sentencia.
 
-Artículo 344.- Plazo para redacción de la sentencia. Al pronunciarse sobre la absolución o condena el tribunal podrá diferir la redacción del fallo y, en su caso, la determinación de la pena hasta por un plazo de cinco días, fijando la fecha de la audiencia en que tendrá lugar su lectura. El transcurso de este plazo sin que hubiere tenido lugar la audiencia de lectura del fallo constituirá falta grave, que deberá ser sancionada disciplinariamente. Sin perjuicio de ello, se deberá citar a una nueva audiencia de lectura de la sentencia, la que en caso alguno podrá tener lugar después del séptimo día desde la comunicación de la decisión sobre absolución o condena. Transcurrido este plazo adicional sin que se diere lectura a la sentencia se producirá la nulidad del juicio, a menos que la decisión hubiere sido de absolución del acusado. Si, siendo varios los acusados, se hubiere absuelto a alguno de ellos, la repetición del juicio sólo comprenderá a quienes hubieren sido condenados.
+Artículo 344. Plazo para redacción de la sentencia. Al pronunciarse sobre la absolución o condena, el tribunal podrá diferir la redacción del fallo y, en su caso, la determinación de la pena hasta por un plazo de cinco días, fijando la fecha de la audiencia en que tendrá lugar su lectura. No obstante, si el juicio hubiere durado más de cinco días, el tribunal dispondrá, para la fijación de la fecha de la audiencia para su comunicación, de un día adicional por cada dos de exceso de duración del juicio. El transcurso de estos plazos sin que hubiere tenido lugar la audiencia citada, constituirá falta grave que deberá ser sancionada disciplinariamente. Sin perjuicio de ello, se deberá citar a una nueva audiencia de lectura de la sentencia, la que en caso alguno podrá tener lugar después del segundo día contado desde la fecha fijada para la primera. Transcurrido este plazo adicional sin que se comunicare la sentencia se producirá la nulidad del juicio, a menos que la decisión hubiere sido la de absolución del acusado. Si, siendo varios los acusados, se hubiere absuelto a alguno de ellos, la repetición del juicio sólo comprenderá a quienes hubieren sido condenados.
 El vencimiento del plazo adicional mencionado en el inciso precedente sin que se diere a conocer el fallo, sea que se produjere o no la nulidad del juicio, constituirá respecto de los jueces que integraren el tribunal una nueva infracción que deberá ser sancionada disciplinariamente.
 
-Artículo 345.- Determinación de la pena. Pronunciada la decisión de condena, el tribunal podrá, si lo considerare necesario, citar a una audiencia con el fin de abrir debate sobre los factores relevantes para la determinación y cumplimiento de la pena que el tribunal señalará. En todo caso, la realización de esta audiencia no alterará los plazos previstos en el artículo anterior.
+Artículo 345.- DEROGADO
 
-Artículo 346.- Audiencia de lectura de sentencia. Una vez redactada la sentencia, de conformidad a lo previsto en el artículo 342, se procederá a darla a conocer en la audiencia fijada al efecto, oportunidad a contar de la cual se entenderá notificada a todas las partes, aun cuando no asistieren a la misma.
+Artículo 346.- Audiencia de comunicación de la sentencia. Una vez redactada la sentencia, de conformidad a lo previsto en el artículo 342, se procederá a darla a conocer en la audiencia fijada al efecto, oportunidad a contar de la cual se entenderá notificada a todas las partes, aun cuando no asistieren a la misma.
 
-Artículo 347.- Sentencia absolutoria y medidas cautelares personales. Comunicada a las partes la decisión absolutoria prevista en el artículo 343, el tribunal dispondrá, en forma inmediata, el alzamiento de las medidas cautelares personales que se hubieren decretado en contra del acusado y ordenará se tome nota de este alzamiento en todo índice o registro público y policial en el que figuraren. También se ordenará la cancelación de las garantías de comparecencia que se hubieren otorgado.
+Artículo 347.- Decisión absolutoria y medidas cautelares personales. Comunicada a las partes la decisión absolutoria prevista en el artículo 343, el tribunal dispondrá, en forma inmediata, el alzamiento de las medidas cautelares personales que se hubieren decretado en contra del acusado y ordenará se tome nota de este alzamiento en todo índice o registro público y policial en el que figuraren. También se ordenará la cancelación de las garantías de comparecencia que se hubieren otorgado.
 
 Artículo 348.- Sentencia condenatoria. La sentencia condenatoria fijará las penas y se pronunciará sobre la eventual aplicación de alguna de las medidas alternativas a la privación o restricción de libertad previstas en la ley.
-La sentencia que condenare a una pena temporal deberá expresar con toda precisión el día desde el cual empezará ésta a contarse y fijará el tiempo de detención o prisión preventiva que deberá servir de abono para su cumplimiento.
+La sentencia que condenare a una pena temporal deberá expresar con toda precisión el día desde el cual empezará ésta a contarse y fijará el tiempo de detención, prisión preventiva y privación de libertad impuesta en conformidad a la letra a) del artículo 155 que deberá servir de abono para su cumplimiento. Para estos efectos, se abonará a la pena impuesta un día por cada día completo, o fracción igual o superior a doce horas, de dichas medidas cautelares que hubiere cumplido el condenado.
 La sentencia condenatoria dispondrá también el comiso de los instrumentos o efectos del delito o su restitución, cuando fuere procedente.
 Cuando se hubiere declarado falso, en todo o en parte, un instrumento público, el tribunal, junto con su devolución, ordenará que se lo reconstituya, cancele o modifique de acuerdo con la sentencia.
+Cuando se pronunciare la decisión de condena, el tribunal podrá disponer, a petición de alguno de los intervinientes, la revisión de las medidas cautelares personales, atendiendo al tiempo transcurrido y a la pena probable.
 
 Artículo 349.- Pronunciamiento sobre la demanda civil.Tanto en el caso de absolución como en el de condena deberá el tribunal pronunciarse acerca de la demanda civil válidamente interpuesta.
 
@@ -1489,7 +1675,7 @@ Artículo 372.- Del recurso de nulidad. El recurso de nulidad se concede para in
 Deberá interponerse, por escrito, dentro de los diez días siguientes a la notificación de la sentencia definitiva, ante el tribunal que hubiere conocido del juicio oral.
 
 Artículo 373.- Causales del recurso. Procederá la declaración de nulidad del juicio oral y de la sentencia:
-a) Cuando, en la tramitación del juicio o en el pronunciamiento de la sentencia, se hubieren infringido sustancialmente derechos o garantías asegurados por la Constitución o por los tratados internacionales ratificados por Chile que se encuentren vigentes, y
+a) Cuando, en la cualquier etapa del procedimiento o en el pronunciamiento de la sentencia, se hubieren infringido sustancialmente derechos o garantías asegurados por la Constitución o por los tratados internacionales ratificados por Chile que se encuentren vigentes, y
 b) Cuando, en el pronunciamiento de la sentencia, se hubiere hecho una errónea aplicación del derecho que hubiere influido sustancialmente en lo dispositivo del fallo.
 
 Artículo 374.- Motivos absolutos de nulidad. El juicio y la sentencia serán siempre anulados:
@@ -1535,8 +1721,10 @@ b) Si, respecto del recurso fundado en la causal del artículo 373, letra b), la
 
 Artículo 384.- Fallo del recurso. La Corte deberá fallar el recurso dentro de los veinte días siguientes a la fecha en que hubiere terminado de conocer de él.
 En la sentencia, el tribunal deberá exponer los fundamentos que sirvieren de base a su decisión; pronunciarse sobre las cuestiones controvertidas, salvo que acogiere el recurso, en cuyo caso podrá limitarse a la causal o causales que le hubieren sido suficientes, y declarar si es nulo o no el juicio oral y la sentencia definitiva reclamados, o si solamente es nula dicha sentencia, en los casos que se indican en el artículo siguiente.
+El fallo del recurso se dará a conocer en la audiencia indicada al efecto, con la lectura de su parte resolutiva o de una breve síntesis de la misma.
 
 Artículo 385.- Nulidad de la sentencia. La Corte podrá invalidar sólo la sentencia y dictar, sin nueva audiencia pero separadamente, la sentencia de reemplazo que se conformare a la ley, si la causal de nulidad no se refiriere a formalidades del juicio ni a los hechos y circunstancias que se hubieren dado por probados, sino se debiere a que el fallo hubiere calificado de delito un hecho que la ley no considerare tal, aplicado una pena cuando no procediere aplicar pena alguna, o impuesto una superior a la que legalmente correspondiere.
+La sentencia de reemplazo reproducirá las consideraciones de hecho, los fundamentos de derecho y las decisiones de la resolución anulada, que no se refieran a los puntos que hubieren sido objeto del recurso o que fueren incompatibles con la resolución recaída en él, tal como se hubieren dado por establecidos en el fallo recurrido.
 
 Artículo 386.- Nulidad del juicio oral y de la sentencia. Salvo los casos mencionados en el artículo 385, si la Corte acogiere el recurso anulará la sentencia y el juicio oral, determinará el estado en que hubiere de quedar el procedimiento y ordenará la remisión de los autos al tribunal no inhabilitado que correspondiere, para que éste disponga la realización de un nuevo juicio oral.
 No será obstáculo para que se ordene efectuar un nuevo juicio oral la circunstancia de haberse dado lugar al recurso por un vicio o defecto cometido en el pronunciamiento mismo de la sentencia.
@@ -1551,18 +1739,25 @@ Procedimientos especiales y ejecución
 Procedimiento simplificado
 
 Artículo 388.- Ámbito de aplicación. El conocimiento y fallo de las faltas se sujetará al procedimiento previsto en este Título.
-El procedimiento se aplicará, además, respecto de los hechos constitutivos de simple delito para los cuales el ministerio público requiriere la imposición de una pena que no excediere de presidio o reclusión menores en su grado mínimo, salvo que su conocimiento y fallo se sometiere a las normas del procedimiento abreviado que se regula en el Título III, cumpliéndose los demás presupuestos allí establecidos.
+El procedimiento se aplicará, además, respecto de los hechos constitutivos de simple delito para los cuales el ministerio público requiriere la imposición de una pena que no excediere de presidio o reclusión menores en su grado mínimo.
 
 Artículo 389.- Normas supletorias. El procedimiento simplificado se regirá por las normas de este Título y, en lo que éste no proveyere, supletoriamente por las del Libro Segundo de este Código, en cuanto se adecuen a su brevedad y simpleza.
 
-Artículo 390.- Requerimiento. Recibida por el fiscal la denuncia de un hecho constitutivo de alguno de los delitos a que se refiere el artículo 388, solicitará del juez de garantía competente la citación inmediata a juicio, a menos que fueren insuficientes los antecedentes aportados, se encontrare extinguida la responsabilidad penal del imputado o el fiscal decidiere hacer aplicación de la facultad que le concede el artículo 170. Tratándose de las faltas indicadas en los artículos 494, Nº 5, y 496, Nº 11, del Código Penal, sólo podrán efectuar el requerimiento precedente las personas a quienes correspondiere la titularidad de la acción conforme a lo dispuesto en los artículos 54 y 55. Si la falta contemplada en el artículo 494 bis del Código Penal se cometiere en un establecimiento de comercio, para la determinación del valor de las cosas hurtadas se considerará el precio de venta, salvo que los antecedentes que se reúnan permitan formarse una convicción diferente.
+Artículo 390.- Requerimiento. Recibida por el fiscal la denuncia de un hecho constitutivo de alguno de los delitos a que se refiere el artículo 388, solicitará del juez de garantía competente la citación inmediata a audiencia, a menos que fueren insuficientes los antecedentes aportados, se encontrare extinguida la responsabilidad penal del imputado o el fiscal decidiere hacer aplicación de la facultad que le concede el artículo 170. De igual manera, cuando los antecedentes lo ameritaren y hasta la deducción de la acusación, el fiscal podrá dejar sin efecto la formalización de la investigación que ya hubiere realizado de acuerdo con lo previsto en el artículo 230, y proceder conforme a las reglas de este Título.
+Asimismo, si el fiscal formulare acusación y la pena requerida no excediere de presidio o reclusión menores en su grado mínimo, la acusación se tendrá como requerimiento, debiendo el juez disponer la continuación del procedimiento de conformidad a las normas de este Título.
+Tratándose de las faltas indicadas en los artículos 494, Nº 5, y 496, Nº 11, del Código Penal, sólo podrán efectuar el requerimiento precedente las personas a quienes correspondiere la titularidad de la acción conforme a lo dispuesto en los artículos 54 y 55.
+Si la falta contemplada en el artículo 494 bis del Código Penal se cometiere en un establecimiento de comercio, para la determinación del valor de las cosas hurtadas se considerará el precio de venta, salvo que los antecedentes que se reúnan permitan formarse una convicción diferente.
 
 Artículo 391.- Contenido del requerimiento. El requerimiento deberá contener:
 a) La individualización del imputado;
-b) Una relación sucinta del hecho que se le atribuyere, con indicación del tiempo y lugar de comisión y demás circunstancias relevantes;
+b) Una relación sucinta del hecho que se le
+atribuyere, con indicación del tiempo y lugar de
+comisión y demás circunstancias relevantes;
 c) La cita de la disposición legal infringida;
-d) La exposición de los antecedentes o elementos que fundamentaren la imputación, y
-e) La individualización y firma del requirente.
+d) La exposición de los antecedentes o elementos
+que fundamentaren la imputación;
+e) La pena solicitada por el requirente, y
+f) La individualización y firma del requirente.
 
 Artículo 392.- Procedimiento monitorio. Se aplicará el procedimiento monitorio a la tramitación de las faltas respecto de las cuales el fiscal pidiere sólo pena de multa. En el requerimiento señalado en el artículo precedente el fiscal indicará el monto de la multa que solicitare imponer.
 Si el juez estimare suficientemente fundado el requerimiento y la proposición relativa a la multa, deberá acogerlos inmediatamente, dictando una resolución que así lo declare. Dicha resolución contendrá, además, las siguientes indicaciones:
@@ -1572,24 +1767,26 @@ c) El señalamiento del monto de la multa y de la forma en que la misma debiere 
 Si el imputado pagare dicha multa o transcurriere el plazo de quince días desde la notificación de la resolución que la impusiere, sin que el imputado reclamare sobre su procedencia o monto, se entenderá que acepta su imposición. En dicho evento la resolución se tendrá, para todos los efectos legales, como sentencia ejecutoriada.
 Por el contrario, si, dentro del mismo plazo de quince días, el imputado manifestare, de cualquier modo fehaciente, su falta de conformidad con la imposición de la multa o su monto, se proseguirá con el procedimiento en la forma prevista en los artículos siguientes. Lo mismo sucederá si el juez no considerare suficientemente fundado el requerimiento o la multa propuesta por el fiscal.
 
-Artículo 393.- Preparación del juicio. Recibido el requerimiento, el tribunal ordenará su notificación al imputado y citará a todos los intervinientes al juicio, el que no podrá tener lugar antes de veinte ni después de cuarenta días contados desde la fecha de la resolución. El imputado deberá ser citado con, a lo menos, diez días de anticipación a la fecha de la audiencia. La citación del imputado se hará bajo el apercibimiento señalado en el artículo 33 y a la misma se acompañarán copias del requerimiento y de la querella, en su caso.
+Artículo 393.- Citación a audiencia. Recibido el requerimiento, el tribunal ordenará su notificación al imputado y citará a todos los intervinientes a la audiencia a que se refiere el artículo 394, la que no podrá tener lugar antes de veinte ni después de cuarenta días contados desde la fecha de la resolución. El imputado deberá ser citado con, a lo menos, diez días de anticipación a la fecha de la audiencia. La citación del imputado se hará bajo el apercibimiento señalado en el artículo 33 y a la misma se acompañarán copias del requerimiento y de la querella, en su caso.
 En el procedimiento simplificado no procederá la interposición de demandas civiles, salvo aquella que tuviere por objeto la restitución de la cosa o su valor.
 La resolución que dispusiere la citación ordenará que las partes comparezcan a la audiencia, con todos sus medios de prueba. Si alguna de ellas requiriere de la citación de testigos o peritos por medio del tribunal, deberán formular la respectiva solicitud con una anticipación no inferior a cinco días a la fecha de la audiencia.
 
 Artículo 393 bis. Procedimiento simplificado en caso de falta o simple delito flagrante. Tratándose de una persona sorprendida in fraganti cometiendo una falta o un simple delito de aquéllos a que da lugar este procedimiento, el fiscal podrá disponer que el imputado sea puesto a disposición del juez de garantía, para el efecto de comunicarle en la audiencia de control de la detención, de forma verbal, el requerimiento a que se refiere el artículo 391, y proceder de inmediato conforme a lo dispuesto en este Título.
 
-Artículo 394.- Primeras actuaciones de la audiencia. Al inicio de la audiencia, el tribunal efectuará una breve relación del requerimiento y de la querella, en su caso. Cuando se encontrare presente la víctima, el juez instruirá a ésta y al imputado sobre la posibilidad de poner término al procedimiento de conformidad a lo previsto en el artículo 241, si ello procediere atendida la naturaleza del hecho punible materia del requerimiento.
+Artículo 394.- Primeras actuaciones de la audiencia. Al inicio de la audiencia, el tribunal efectuará una breve relación del requerimiento y de la querella, en su caso. Cuando se encontrare presente la víctima, el juez instruirá a ésta y al imputado sobre la posibilidad de poner término al procedimiento de conformidad a lo previsto en el artículo 241, si ello procediere atendida la naturaleza del hecho punible materia del requerimiento. Asimismo, el fiscal podrá proponer la suspensión condicional del procedimiento, si se cumplieren los requisitos del artículo 237.
 
-Artículo 395.- Resolución inmediata. Una vez efectuado lo prescrito en el artículo anterior, el tribunal preguntará al imputado si admitiere responsabilidad en los hechos contenidos en el requerimiento o si, por el contrario, solicitare la realización del juicio.
-Si el imputado admitiere su responsabilidad en el hecho y no fueren necesarias otras diligencias, el tribunal dictará sentencia inmediatamente. En estos casos el juez aplicará únicamente pena de multa, a menos que concurrieren antecedentes calificados que justificaren la imposición de una pena de prisión, los cuales se harán constar en la sentencia. Con todo, la imposición de la pena de prisión no procederá si, al dirigirle la pregunta a que se refiere el inciso primero, el juez no le hubiere advertido acerca de esta posibilidad.
+Artículo 395.- Resolución inmediata. Una vez efectuado lo prescrito en el artículo anterior, el tribunal preguntará al imputado si admitiere responsabilidad en los hechos contenidos en el requerimiento o si, por el contrario, solicitare la realización de la audiencia. Para los efectos de lo dispuesto en el presente inciso, el fiscal podrá modificar la pena requerida para el evento de que el imputado admitiere su responsabilidad.
+Si el imputado admitiere su responsabilidad en el hecho, el tribunal dictará sentencia inmediatamente. En estos casos, el juez no podrá imponer una pena superior a la solicitada en el requerimiento, permitiéndose la incorporación de antecedentes que sirvieren para la determinación de la pena.
 
-Artículo 396.- Realización del juicio. Cuando el imputado solicitare la realización del juicio, éste se llevará a cabo de inmediato, dándose lectura al requerimiento del fiscal y a la querella, si la hubiere. En seguida se oirá a los comparecientes y se recibirá la prueba, tras lo cual se preguntará al imputado si tuviere algo que agregar. Con su nueva declaración o sin ella, el juez pronunciará su decisión de absolución o condena, y fijará una nueva audiencia, para dentro de los cinco días próximos, para dar a conocer el texto escrito de la sentencia.
+Artículo 395 bis. Preparación del juicio simplificado. Si el imputado no admitiere responsabilidad, el juez procederá, en la misma audiencia, a la preparación del juicio simplificado, el cual tendrá lugar inmediatamente, si ello fuere posible, o a más tardar dentro de quinto día.
+
+Artículo 396.- Realización del juicio. El juicio simplificado comenzará dándose lectura al requerimiento del fiscal y a la querella, si la hubiere. En seguida se oirá a los comparecientes y se recibirá la prueba, tras lo cual se preguntará al imputado si tuviere algo que agregar. Con su nueva declaración o sin ella, el juez pronunciará su decisión de absolución o condena, y fijará una nueva audiencia, para dentro de los cinco días próximos, para dar a conocer el texto escrito de la sentencia.
 La audiencia no podrá suspenderse, ni aun por falta de comparecencia de alguna de las partes o por no haberse rendido prueba en la misma.
 Sin embargo, si no hubiere comparecido algún testigo o perito cuya citación judicial hubiere sido solicitada de conformidad a lo dispuesto en el inciso tercero del artículo 393 y el tribunal considerare su declaración como indispensable para la adecuada resolución de la causa, dispondrá lo necesario para asegurar su comparecencia. La suspensión no podrá en caso alguno exceder de cinco días, transcurridos los cuales deberá proseguirse conforme a las reglas generales, aun a falta del testigo o perito.
 
 Artículo 397.- Reiteración de faltas. En caso de reiteración de faltas de una misma especie se aplicará, en lo que correspondiere, las reglas contenidas en el artículo 351.
 
-Artículo 398.- Suspensión de la imposición de condena. Cuando resultare mérito para condenar por el hecho imputado, pero concurrieren antecedentes favorables que no hicieren aconsejable la imposición de la pena al imputado, el juez podrá dictar la sentencia y disponer en ella la suspensión de la pena y sus efectos por un plazo de seis meses.
+Artículo 398. Suspensión de la imposición de condena por falta. Cuando resulte mérito para condenar por la falta imputada, pero concurrieren antecedentes favorables que no hicieren aconsejable la imposición de la pena al imputado, el juez podrá dictar la sentencia y disponer en ella la suspensión de la pena y sus efectos por un plazo de seis meses. En tal caso, no procederá acumular esta suspensión con alguno de los beneficios contemplados en la ley N° 18.216.
 Transcurrido el plazo previsto en el inciso anterior sin que el imputado hubiere sido objeto de nuevo requerimiento o de una formalización de la investigación, el tribunal dejará sin efecto la sentencia y, en su reemplazo, decretará el sobreseimiento definitivo de la causa.
 Esta suspensión no afecta la responsabilidad civil derivada del delito.
 
@@ -1617,9 +1814,14 @@ Artículo 405.- Normas supletorias. En lo que no proveyere este título, el proc
 ### Título III
 Procedimiento abreviado
 
-Artículo 406.- Presupuestos del procedimiento abreviado. Se aplicará el procedimiento abreviado para conocer y fallar, en la audiencia de preparación del juicio oral, los hechos respecto de los cuales el fiscal requiriere la imposición de una pena privativa de libertad no superior a cinco años de presidio o reclusión menores en su grado máximo, o bien cualesquiera otras penas de distinta naturaleza, cualquiera fuere su entidad o monto, ya fueren ellas únicas, conjuntas o alternativas. Para ello, será necesario que el imputado, en conocimiento de los hechos materia de la acusación y de los antecedentes de la investigación que la fundaren, los acepte expresamente y manifieste su conformidad con la aplicación de este procedimiento. La existencia de varios acusados o la atribución de varios delitos a un mismo acusado no impedirá la aplicación de las reglas del procedimiento abreviado a aquellos acusados o delitos respecto de los cuales concurrieren los presupuestos señalados en este artículo.
+Artículo 406.- Presupuestos del procedimiento abreviado. Se aplicará el procedimiento abreviado para conocer y fallar, los hechos respecto de los cuales el fiscal requiriere la imposición de una pena privativa de libertad no superior a cinco años de presidio o reclusión menores en su grado máximo, o bien cualesquiera otras penas de distinta naturaleza, cualquiera fuere su entidad o monto, ya fueren ellas únicas, conjuntas o alternativas.
+Para ello, será necesario que el imputado, en conocimiento de los hechos materia de la acusación y de los antecedentes de la investigación que la fundaren, los acepte expresamente y manifieste su conformidad con la aplicación de este procedimiento.
+La existencia de varios acusados o la atribución de varios delitos a un mismo acusado no impedirá la aplicación de las reglas del procedimiento abreviado a aquellos acusados o delitos respecto de los cuales concurrieren los presupuestos señalados en este artículo.
 
-Artículo 407.- Oportunidad para solicitar el procedimiento abreviado. La solicitud del fiscal de proceder de conformidad al procedimiento abreviado podrá ser planteada al juez de garantía por escrito, en la oportunidad que señala el artículo 248, o verbalmente, en la misma audiencia de preparación del juicio oral. En este último caso, el fiscal y el acusador particular, si lo hubiere, podrán modificar su acusación, así como la pena requerida, a fin de permitir la tramitación del procedimiento conforme a las normas de este Título.
+Artículo 407. Oportunidad para solicitar el procedimiento abreviado. Una vez formalizada la investigación, la tramitación de la causa conforme a las reglas del procedimiento abreviado podrá ser acordada en cualquier etapa del procedimiento, hasta la audiencia de preparación del juicio oral.
+Si no se hubiere deducido aún acusación, el fiscal y el querellante, en su caso, las formularán verbalmente en la audiencia que el tribunal convocare para resolver la solicitud de procedimiento abreviado, a la que deberá citar a todos los intervinientes. Deducidas verbalmente las acusaciones, se procederá en lo demás en conformidad a las reglas de este Título.
+Si se hubiere deducido acusación, el fiscal y el acusador particular podrán modificarla según las reglas generales, así como la pena requerida, con el fin de permitir la tramitación del caso conforme a las reglas de este Título. Para estos efectos, la aceptación de los hechos a que se refiere el inciso segundo del artículo 406 podrá ser considerada por el fiscal como suficiente para estimar que concurre la circunstancia atenuante del artículo 11, Nº 9, del Código Penal, sin perjuicio de las demás reglas que fueren aplicables para la determinación de la pena.
+Si el procedimiento abreviado no fuere admitido por el juez de garantía, se tendrán por no formuladas las acusaciones verbales realizadas por el fiscal y el querellante, lo mismo que las modificaciones que, en su caso, éstos hubieren realizado a sus respectivos libelos, y se continuará de acuerdo a las disposiciones del Libro Segundo de este Código.
 
 Artículo 408.- Oposición del querellante al procedimiento abreviado. El querellante sólo podrá oponerse al procedimiento abreviado cuando en su acusación particular hubiere efectuado una calificación jurídica de los hechos, atribuido una forma de participación o señalado circunstancias modificatorias de la responsabilidad penal diferentes de las consignadas por el fiscal en su acusación y, como consecuencia de ello, la pena solicitada excediere el límite señalado en el artículo 406.
 
@@ -1754,7 +1956,7 @@ Artículo 445.- Declaración del imputado. En la audiencia prevista en el artíc
 
 Artículo 446.- Procedencia de la prisión preventiva y de otras medidas cautelares personales. Presentada la solicitud de extradición, el Estado requirente podrá solicitar la prisión preventiva del individuo cuya extradición se requiriere, u otras medidas cautelares personales, que se decretarán si se cumplieren los requisitos que disponga el tratado respectivo o, en su defecto, los previstos en el Título V del Libro I.
 
-Artículo 447.- Libertad provisional y otras medidas cautelares. En cualquier estado del procedimiento se podrá conceder la libertad provisional del imputado de acuerdo a las reglas generales, pero el Ministro de la Corte Suprema tomará las medidas que estimare necesarias para evitar la fuga del imputado.
+Artículo 447. De la modificación, revocación o sustitución de las medidas cautelares personales. En cualquier estado del procedimiento se podrán modificar, revocar o sustituir las medidas cautelares personales que se hubieren decretado, de acuerdo a las reglas generales, pero el Ministro de la Corte Suprema tomará las medidas que estimare necesarias para evitar la fuga del imputado.
 
 Artículo 448.- Audiencia en la extradición pasiva. La audiencia será pública, y a su inicio el representante del Estado requirente dará breve cuenta de los antecedentes en que se funda la petición de extradición. Si fuere el ministerio público, hará saber también los hechos y circunstancias que obraren en beneficio del imputado.
 A continuación se rendirá la prueba testimonial, pericial o documental que las partes hubieren ofrecido.
@@ -1855,6 +2057,8 @@ Artículo 470.- Especies retenidas y no decomisadas. Transcurridos a lo menos se
 Si se tratare de especies, el administrador del tribunal, previo acuerdo del comité de jueces, las venderá en pública subasta. Los remates se podrán efectuar dos veces al año.
 El producto de los remates, así como los dineros o valores retenidos y no decomisados, se destinarán a la Corporación Administrativa del Poder Judicial.
 Si se hubiere decretado el sobreseimiento temporal o la suspensión condicional del procedimiento, el plazo señalado en el inciso primero será de un año.
+Las especies que se encontraren bajo la custodia o a disposición del Ministerio Público, transcurridos a lo menos seis meses desde la fecha en que se dictare alguna de las resoluciones o decisiones a que se refieren los artículos 167, 168, 170 y 248 letra c), de este Código, serán remitidas a la Dirección General del Crédito Prendario, para que proceda de conformidad a lo dispuesto en el inciso tercero del artículo anterior.
+Lo dispuesto en los incisos anteriores no tendrá aplicación tratándose de especies de carácter ilícito. En tales casos, el fiscal solicitará al juez que le autorice proceder a su destrucción.
 
 Artículo 471.- Control sobre las especies puestas a disposición del tribunal. En el mes de junio de cada año, los tribunales con competencia en materia criminal presentarán a la respectiva Corte de Apelaciones un informe detallado sobre el destino dado a las especies que hubieren sido puestas a disposición del tribunal.
 
@@ -1911,8 +2115,8 @@ Artículo 483.- Aplicación de las disposiciones del Código. Las disposiciones 
 Artículo 484.- Entrada en vigencia respecto de hechos acaecidos en el territorio nacional. Este Código comenzará a regir, para las distintas Regiones del país, al término de los plazos que establece el artículo 4º transitorio de la Ley Nº 19.640, Orgánica Constitucional del Ministerio Público.
 En consecuencia, regirá para las regiones de Coquimbo y de la Araucanía, desde el 16 de diciembre de 2000; para las regiones de Antofagasta, Atacama y del Maule, desde el 16 de octubre de 2001; para las regiones de Tarapacá, de Aisén del General Carlos Ibáñez del Campo y de Magallanes y de la Antártica Chilena, desde el 16 de diciembre de 2002; para las regiones de Valparaíso, del Libertador General Bernardo O'Higgins, del Bío Bío y de Los Lagos, desde el 16 de diciembre de 2003, y para la Región Metropolitana de Santiago, desde el 16 de junio de 2005.
 
-Artículo 485.- Entrada en vigencia respecto de hechos acaecidos en el extranjero. Este Código se aplicará a partir de su entrada en vigencia en la Región Metropolitana de Santiago, respecto de aquellos hechos que acaecieren en el extranjero y fueren de competencia de los tribunales nacionales.
-Asimismo, se aplicará a partir de esa fecha, a las solicitudes de extradición pasiva y detención previa a las mismas que recibiere la Corte Suprema. En consecuencia, los Ministros de esa Corte a quienes, en virtud del artículo 52, Nº3, del Código Orgánico de Tribunales, correspondiere conocer las extradiciones pasivas solicitadas con anterioridad, continuarán aplicando el procedimiento establecido en el Código de Procedimiento Penal.
+Artículo 485. Entrada en vigencia respecto de hechos acaecidos en el extranjero. Este Código se aplicará a los hechos que acaecieren en el extranjero con posterioridad a su entrada en vigencia en la Región Metropolitana de Santiago y fueren de competencia de los tribunales nacionales. Asimismo, se aplicará a las solicitudes de asistencia de autoridades competentes de país extranjero que digan relación con hechos ocurridos con posterioridad al 16 de diciembre de 2000.
+A partir del 16 de junio de 2005, también se aplicará a las solicitudes de extradición pasiva y detención previa a las mismas que reciba la Corte Suprema, que versen sobre hechos ocurridos en el extranjero con posterioridad a la entrada en vigencia de este Código en la Región Metropolitana de Santiago. En consecuencia, los Ministros de esa Corte a quienes, en virtud del número 3° del artículo 52 del Código Orgánico de Tribunales, correspondiere conocer las extradiciones pasivas que versen sobre hechos acaecidos con anterioridad a dicha entrada en vigencia, continuarán aplicando el procedimiento establecido en el Código de Procedimiento Penal.
 
 Artículo transitorio.- Reglas para la aplicación de las penas por tribunales con competencia en lo criminal sujetos a distintos procedimientos. Si una persona hubiere cometido distintos hechos, debido a los cuales fuere juzgada por un juzgado de letras del crimen o con competencia en lo criminal, con sujeción al Código de Procedimiento Penal, y también lo fuere por un juzgado de garantía o un tribunal oral en lo penal conforme a este Código, en el pronunciamiento de las sentencias condenatorias que se dictaren con posterioridad a la primera se estará a lo previsto en el artículo 164 del Código Orgánico de Tribunales.''.
 

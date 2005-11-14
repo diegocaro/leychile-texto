@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2005-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2005-11-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2005-10-01
-fetched_at: 2026-08-03T01:33:22.223486+00:00
+version_date: 2005-11-14
+fetched_at: 2026-08-03T01:34:43.083300+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1042,7 +1042,7 @@ Art. 165. Derogado.
 
 Art. 166. Derogado.
 
-Art. 167. De los delitos a que se refiere el artículo sexto conocerán los tribunales de Santiago.
+Art. 167. Las competencias propias de los Jueces de Garantía y de los Tribunales Orales en lo Penal respecto de los delitos perpetrados fuera del territorio nacional que fueren de conocimiento de los tribunales chilenos serán ejercidas, respectivamente, por los Tribunales de Garantía y Orales en lo Penal de la jurisdicción de la Corte de Apelaciones de Santiago, conforme al turno que dicho tribunal fije a través de un auto acordado.
 
 Art. 168. Derogado.
 
