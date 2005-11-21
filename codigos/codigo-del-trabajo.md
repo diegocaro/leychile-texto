@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-09-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-11-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2005-09-26
-fetched_at: 2026-08-03T01:32:58.215425+00:00
+version_date: 2005-11-21
+fetched_at: 2026-08-03T01:35:07.091125+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -123,6 +123,7 @@ Podrán, sin embargo, actuar en aquellos espectáculos los menores de edad que t
 Art. 16. En casos debidamente calificados, y con la autorización de su representante legal o del juez de menores, podrá permitirse a los menores de quince años que celebren contrato de trabajo con personas o entidades dedicadas al teatro, cine, radio, televisión, circo u otras actividades similares.
 
 Art. 17. Si se contratare a un menor sin sujeción a lo dispuesto en los artículos precedentes, el empleador estará sujeto a todas las obligaciones inherentes al contrato mientras se aplicare; pero el inspector del trabajo, de oficio o a petición de parte, deberá ordenar la cesación de la relación y aplicar al empleador las sanciones que correspondan.
+Cualquier persona podrá denunciar ante los organismos competentes las infracciones relativas al trabajo infantil de que tuviere conocimiento.
 
 Art. 18. Queda prohibido a los menores de dieciocho años todo trabajo nocturno en establecimientos industriales y comerciales, que se ejecuten entre las veintidós y las siete horas, con excepción de aquellos en que únicamente trabajen miembros de la familia, bajo la autoridad de uno de ellos.
 Exceptúase de esta prohibición a los varones mayores de dieciséis años, en las industrias y comercios que determine el reglamento, tratándose de trabajos que, en razón de su naturaleza, deban necesariamente continuarse de día y de noche.
