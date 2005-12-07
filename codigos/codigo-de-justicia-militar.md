@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2005-09-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2005-12-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 2005-09-29
-fetched_at: 2026-08-03T01:33:10.219435+00:00
+version_date: 2005-12-07
+fetched_at: 2026-08-03T01:35:50.758039+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -621,8 +621,10 @@ Terminada su investigación pondrá al o los culpables a disposición del Juzgad
 El Juzgado procederá en la forma indicada en el artículo 132.
 
 Art. 135. El Fiscal encargado de levantar el sumario procederá inmediatamente a la comprobación del delito y averiguación del delincuente, ajustándose en cuanto fuere posible, y compatible con la celeridad de los procedimientos a las reglas dadas en el Título III, Primera Parte del Libro II, del Código de Procedimiento Penal.
-El menor de dieciséis años que aparezca inculpado en algún proceso militar, deberá ser puesto de inmediato a disposición del Juzgado de Menores respectivo, como también el mayor de esa edad y menor de dieciocho años que hubiere sido declarado sin discernimiento.
-La declaración sobre el discernimiento del menor de dieciocho años, pero mayor de dieciséis, la hará el Juzgado de Menores respectivo; salvo la del que fuere militar o alumno de algún establecimiento militar de enseñanza y a quien se le imputare un delito de jurisdicción militar, que será pronunciada por el juzgado institucional, el que deberá oír previamente a un psicólogo, a un psiquiatra o a un médico idóneo. La resolución del juzgado institucional deberá ser consultada a la Corte Marcial respectiva, cuando el delito tuviere señalada pena aflictiva.
+Los menores de edad exentos de responsabilidad penal serán puestos a disposición del tribunal competente en asuntos de familia.
+NOTA:
+NOTA:
+El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la modificación que introduce a la presente norma, rige dieciocho meses después de su publicación.
 
 Art. 136. Cuando haya motivo bastante para sospechar que una persona es autor, cómplice o encubridor de un delito, el Fiscal podrá decretar su prisión o limitarse a citarlo a prestar declaración indagatoria, según las circunstancias.
 

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2005-11-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2005-12-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2005-11-14
-fetched_at: 2026-08-03T01:34:55.089438+00:00
+version_date: 2005-12-07
+fetched_at: 2026-08-03T01:35:56.759925+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -75,9 +75,8 @@ Están exentos de responsabilidad criminal:
 1.° El loco o demente, a no ser que haya obrado en un intervalo lúcido, y el que, por cualquier causa independiente de su voluntad, se halla privado totalmente de razón.
 Inciso Derogado.
 Inciso Derogado.
-2.° El menor de dieciséis años.
-3.° El mayor de dieciséis años y menor de dieciocho, a no ser que conste que ha obrado con discernimiento.
-Inciso Derogado.
+2.º El menor de dieciocho años. La responsabilidad de los menores de dieciocho años y mayores de catorce se regulará por lo dispuesto en la ley de responsabilidad penal juvenil.
+3.° Derogado.
 4.° El que obra en defensa de su persona o derechos, siempre que concurran las circunstancias siguientes:
 Primera.-Agresión Ilegítima.
 Segunda.- Necesidad racional del medio empleado para impedirla o repelerla.
@@ -533,7 +532,6 @@ ART. 71.
 Cuando no concurran todos los requisitos que se exigen en el caso del núm. 8.° del art. 10 para eximir de responsabilidad, se observará lo dispuesto en el art. 490.
 
 ART. 72.
-Al menor de dieciocho años y mayor de dieciséis, que no esté exento de responsabilidad por haber declarado el tribunal respectivo que obró con discernimiento, se le impondrá la pena inferior en grado al mínimo de los señalados por la ley para el delito de que sea responsable.
 En los casos en que aparezcan responsables en un mismo delito individuos mayores de dieciocho años y menores de esa edad, se aplicará a los mayores la pena que les habría correspondido sin esta circunstancia, aumentada en un grado, si éstos se hubieren prevalido de los menores en la perpetración del delito, pudiendo esta circunstancia ser apreciada en conciencia por el juez.
 
 ART. 73.

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2005-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2005-12-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2005-08-30
-fetched_at: 2026-08-03T01:31:58.160882+00:00
+version_date: 2005-12-07
+fetched_at: 2026-08-03T01:35:31.934331+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -8313,18 +8313,20 @@ d) Denunciar al Ministerio Público los hechos penados por el artículo 62.
 e) Otorgar protección inmediata a un niño, niña o adolescente que se encuentre en situación de peligro grave, directo e inminente para su vida o integridad física.
 Para ello, concurriendo tales circunstancias, podrá ingresar a un lugar cerrado y retirar al niño, niña o adolescente, debiendo en todo caso poner de inmediato los hechos en conocimiento del Juez de Menores, del Crimen o Fiscal del Ministerio Público, según corresponda.
 
-Art. 16. Carabineros de Chile deberá poner a los menores de dieciocho años y mayores de dieciséis que se encuentren en las situaciones previstas en los artículos 129 y 131 del Código Procesal Penal, directa e inmediatamente, a disposición del juez de garantía competente. Dicha detención se regulará, salvo en los aspectos previstos en este artículo, por el párrafo III, Título V, del Libro Primero del Código Procesal Penal. Si se diere lugar a la ampliación del plazo de la detención, conforme al artículo 132 del Código Procesal Penal, ésta sólo podrá ser ejecutada en los Centros de Observación y Diagnóstico o en los establecimientos que determine el Presidente de la República en aquellos lugares donde los primeros no existan, en conformidad con lo establecido en el artículo 71 de esta ley.
-La detención de una persona visiblemente menor en un establecimiento distinto de los señalados en el inciso anterior, constituirá una infracción grave a dicha obligación funcionaria, y será sancionada con la medida disciplinaria que proceda de acuerdo al mérito de los antecedentes, sin perjuicio de las demás responsabilidades en que pueda haber incurrido el infractor.
-La prisión preventiva que se decrete, mientras se practica el examen de discernimiento, sólo podrá ejecutarse en los lugares señalados en el inciso primero. Una vez que se encuentre firme la resolución que declare que el menor actuó con discernimiento, la prisión preventiva se ejecutará en los establecimientos penitenciarios correspondientes, caso en el cual deberá darse cumplimiento a lo previsto en los artículos 17 de esta ley y 37, letra c), de la Convención sobre los Derechos del Niño. El menor privado de libertad siempre podrá ejercer los derechos consagrados en los artículos 93 y 94 del Código Procesal Penal y en los artículos 37 y 40 de esa Convención.
-Los encargados de los Centros o establecimientos aludidos en el inciso primero no podrán aceptar el ingreso de menores sino en virtud de órdenes impartidas por el juez de garantía competente.
-Si el hecho imputado al menor fuere alguno de aquellos señalados en el artículo 124 del Código Procesal Penal, Carabineros de Chile se limitará a citar al menor a la presencia del fiscal y lo dejará en libertad, previo señalamiento de domicilio en la forma prevista por el artículo 26 del mismo Código.
-Las disposiciones contenidas en los incisos anteriores serán aplicables a la Policía de Investigaciones.
+Art. 16. DEROGADO
+NOTA:
+El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la derogación de la presente norma, rige dieciocho meses después de su publicación.
 
 Artículo 16 bis.- En aquellos casos en que aparezcan gravemente vulnerados o amenazados los derechos de un menor de edad, Carabineros de Chile deberá conducirlo al hogar de sus padres o cuidadores, en su caso, y entregarlo a ellos, informándoles de los hechos que motivaron la actuación policial.
-Si, para cautelar la integridad física o psíquica del menor, fuere indispensable separarlo de su medio familiar o de las personas que lo tuvieren bajo su cuidado, Carabineros de Chile lo conducirá a un Centro de Tránsito y Distribución e informará de los hechos a primera audiencia al juez de menores respectivo. De la misma forma procederá respecto de un menor de dieciséis años imputado de haber cometido una falta.
-Tratándose de la comisión de un delito de que fuere víctima un menor de edad, Carabineros deberá, además, poner los antecedentes en conocimiento del Ministerio Público de acuerdo a las reglas generales.
-Cuando un menor de dieciséis años de edad fuere imputado de haber cometido un crimen o simple delito, Carabineros deberá conducirlo a los mismos Centros señalados en el inciso segundo, informando inmediatamente al juez de menores.
-En todas las hipótesis previstas en este artículo en que Carabineros hubiere llevado a un menor a un Centro de Tránsito y Distribución, el encargado del Centro que reciba al menor de edad deberá conducirlo ante el referido juez, a primera audiencia, a fin que éste adopte las medidas que procedan de conformidad con esta ley.
+Si, para cautelar la integridad física o psíquica del menor, fuere indispensable separarlo de su medio familiar o de las personas que lo tuvieren bajo su cuidado, Carabineros de Chile lo conducirá a un Centro de Tránsito y Distribución e informará de los hechos a primera audiencia al juez de menores respectivo.
+Tratándose de la comisión de un delito de que fuere víctima un menor de edad, Carabineros deberá, además, poner los antecedentes en conocimiento del Ministerio
+NOTA:
+Público de acuerdo a las reglas generales.
+INCISO DEROGADO En todas las hipótesis previstas en este artículo en que Carabineros hubiere llevado a un menor a un Centro de Tránsito y Distribución, el encargado del
+NOTA:
+Centro que reciba al menor de edad deberá conducirlo ante el referido juez, a primera audiencia, a fin que éste adopte las medidas que procedan de conformidad con esta ley.
+NOTA:
+El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la modificación que introduce a la presente norma, rige dieciocho meses después de su publicación.
 
 Art. 17. Se prohíbe a los jefes de establecimientos de detención mantener a los menores de dieciocho años en comunicación con otros detenidos o presos mayores de esa edad. El funcionario que no diere cumplimiento a esta disposición será castigado, administrativamente, con suspensión de su cargo hasta por el término de un mes.
 
@@ -8388,22 +8390,10 @@ En el evento de que se declare que el menor ha actuado con discernimiento, el fi
 NOTA:
 El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
-Art. 29. En los casos previstos en el artículo 26, Nº 10, de esta ley, el juez de letras de menores podrá aplicar alguna o algunas de las medidas siguientes:
+Art. 29. DEROGADO
 NOTA:
-1.º Devolver el menor a sus padres, guardadores o p
-NOTA 1:
-ersonas a cuyo cargo estuviere, previa amonestación;
-2.º SUPRIMIDO
-3º) Disponer su ingreso a un centro de diagnóstico, tránsito y distribución o de rehabilitación o a un programa especializado de carácter ambulatorio, según
-NOTA 1:
-corresponda.
-4.º Confiarlo al cuidado de alguna persona que se preste para ello, a fin de que viva con su familia, y que el juez considere capacitada para dirigir su educación.
-Estas medidas durarán el tiempo que determine el juez de letras de menores, quien podrá revocarlas o modificarlas, si variaren las circunstancias que hubieren llevado a decretarlas, oyendo al director o encargado del centro o programa respectivo. Tratándose del Nº 3º), la medida de internación sólo procederá en los casos y por el plazo que sea estrictamente necesario.
-En caso alguno el juez de letras de menores podrá ordenar el ingreso de una persona menor de dieciocho años en un establecimiento penitenciario de adultos.
 NOTA:
-El presente artículo ha sido modificado por la Ley 19968, publicada el 30.08.2004, la que en su Art. 134 dispone que las modificaciones ordenadas entran en vigencia el 01.10.2005, fecha en la cual se incorporaran al texto actualizado.
-NOTA 1:
-El artículo 46 de la LEY 20032, publicada el 25.07.2005, dispone que las modificaciones que introduce a la presente norma, entrarán en vigencia 60 días después de su publicación.
+El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la derogación de la presente norma, rige dieciocho meses después de su publicación.
 
 Art. 30. En los casos previstos en el artículo 8°, números 7) y 8), de la ley que crea los juzgados de familia, el juez de letras de menores, mediante resolución fundada, podrá decretar las medidas que
 NOTA:
@@ -8417,7 +8407,10 @@ NOTA:
 El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
 Art. 31. El juez podrá ejercer las facultades que le otorga esta ley, a petición del Ministerio Público, de los organismos o entidades que presten atención a menores, de cualquiera persona y aun de oficio. En el ejercicio de estas facultades podrá el juez ordenar las diligencias e investigaciones que estime conducentes.
-Siempre que el hecho que motive el denuncio fuere de aquellos que sólo dan acción privada, el juez practicará personalmente la investigación, evitando comprometer la reputación de las personas.
+INCISO SUPRIMIDO
+NOTA:
+NOTA:
+El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la modificación que introduce a la presente norma, rige dieciocho meses después de su publicación.
 
 Art. 32. DEROGADO
 
@@ -8454,7 +8447,10 @@ NOTA:
 NOTA:
 El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 41. En el caso del artículo 226 del Código Civil, a falta de los ascendientes y de consanguíneos el juez confiará el cuidado personal de los hijos a un reformatorio, a una institución de beneficencia con personalidad jurídica o a cualquier otro establecimiento autorizado para este efecto por el Presidente de la República.
+Art. 41. DEROGADO
+NOTA:
+NOTA:
+El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la derogación de la presente norma, rige dieciocho meses después de su publicación.
 
 Art. 42. Para los efectos del artículo 226 del Código Civil, se entenderá que uno o ambos padres se encuentran en el caso de inhabilidad física o moral:
 1.º Cuando estuvieren incapacitados mentalmente;
@@ -8484,9 +8480,7 @@ Art. 47. El solo hecho de colocar al menor en casa de terceros no constituye aba
 
 Artículo 48.- En caso de que los padres del menor vivan separados, y no hubieren acordado la forma en que el padre o madre que no tuviere el cuidado personal del hijo mantendrá con él una relación directa y regular,
 NOTA: 1
-cualquiera de ellos podrá solicitar al juez de letras de menores que la regule. Asimismo, podrá pedir al tribunal que modifique la regulación que se haya establecido de común acuerdo o por resolución judicial, si fuere perjudicial p
-NOTA: 1
-ara el bienestar del menor.
+cualquiera de ellos podrá solicitar al juez de letras de menores que la regule. Asimismo, podrá pedir al tribunal que modifique la regulación que se haya establecido de común acuerdo o por resolución judicial, si fuere perjudicial para el bienestar del menor.
 Si se sometiere a decisión judicial la
 NOTA:
 determinación de la persona a quien corresponderá ejercer el cuidado personal del menor, y no se debatiere la forma en la que éste se relacionará con el padre o madre que quede privado de su cuidado personal, la resolución se pronunciará de oficio sobre este punto, con el mérito de los antecedentes que consten en el proceso.
@@ -8520,22 +8514,20 @@ Art. 50. Derogado.
 #### Título IV
 DE LAS CASAS DE MENORES E INSTITUCIONES ASISTENCIALES
 
-Art. 51. Para los efectos de esta ley, se crearán Casas de Menores. Estas funcionarán a través de los Centros de que trata este artículo. Los Centros de Tránsito y Distribución atenderán a los menores que requieran de diagnóstico, asistencia y protección, mientras se adopta alguna medida que diga relación con ellos.
-Los Centros de Observación y Diagnóstico estarán destinados a acoger a los menores de dieciocho años y mayores de dieciséis, detenidos conforme al artículo 16 de esta ley o que se encuentren en prisión preventiva mientras se practica el examen de discernimiento, los que permanecerán en ellos hasta que el juez de garantía adopte una resolución a su respecto o se encuentre aprobada la decisión que el fiscal haya adoptado en conformidad con las facultades contempladas en el Párrafo 1º del Título I del Libro Segundo del Código Procesal Penal. Con todo, estos menores podrán ser atendidos en un Centro de Tránsito y Distribución, cuando no proceda su privación de libertad.
-Los Centros de Rehabilitación Conductual tendrán por finalidad procurar la integración definitiva del menor en el medio social.
+Art. 51. DEROGADO
+NOTA:
+NOTA:
+El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la derogación de la presente norma, rige dieciocho meses después de su publicación.
 
-Art. 52. En cada Casa de Menores funcionará un Consejo Técnico integrado por las siguientes personas:
-a) El Director de la Casa de Menores, quien lo presidirá;
-b) Un psiquiatra infantil;
-c) Un psicólogo;
-d) Un asistente social;
-e) Un representante de los establecimientos particulares de protección de menores que funcionen en el distrito jurisdiccional del Juzgado de Letras de Menores respectivo;
-f) Un profesor, y
-g) El funcionario a cargo directo del menor respectivo.
-El reglamento fijará las normas necesarias para el funcionamiento de los Consejos, la forma en que se designarán sus integrantes y las calidades que éstos deben reunir.
+Art. 52. DEROGADO
+NOTA:
+NOTA:
+El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la derogación de la presente norma, rige dieciocho meses después de su publicación.
 
-Art. 53. Los Consejos Técnicos tendrán las siguientes atribuciones: a) apreciar la clase de irregularidad que afecta al menor, y
-b) asesorar al juez de garantía y al juez de letras de menores cuando lo requieran.
+Art. 53. DEROGADO
+NOTA:
+NOTA:
+El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la derogación de la presente norma, rige dieciocho meses después de su publicación.
 
 Art. 54. Los establecimientos que dependan del Servicio Nacional de Salud, del Ministerio de Educación Pública o de otros organismos fiscales o autónomos, deberán recibir a los menores enviados por los Juzgados de Letras de Menores o los Consejos Técnicos, de acuerdo a las normas que fije el reglamento.
 
@@ -8548,7 +8540,10 @@ Art. 56. Los establecimientos de protección de menores y hogares sustitutos, de
 Art. 57. En tanto un menor permanezca en alguno de los establecimientos u hogares sustitutos regidos por la presente ley, su cuidado personal, la dirección de su educación y la facultad de corregirlo corresponderán al director del establecimiento o al jefe del hogar sustituto respectivo. La facultad de corrección deberá ejercerse de forma que no menoscabe la salud o desarrollo personal del niño, conforme al artículo 234 del Código Civil.
 La obligación de cuidado personal incluirá la de informar periódicamente al juez de menores sobre la aplicación de la medida decretada.
 
-Art. 58. La pena privativa de libertad que el tribunal con competencia en lo criminal aplique al menor de edad declarado con discernimiento, será cumplida en un Centro de Rehabilitación Conductual.
+Art. 58. DEROGADO
+NOTA:
+NOTA:
+El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la derogación de la presente norma, rige dieciocho meses después de su publicación.
 
 Art. 59. DEROGADO
 
@@ -8581,11 +8576,10 @@ Art. 63. DEROGADO
 
 Art. 64. Si en una investigación aparecieren hechos respecto de los cuales deba intervenir el juez de letras de menores, el Ministerio Público deberá ponerlos en su conocimiento. De la misma manera procederá el tribunal que constate la existencia de esos hechos durante la tramitación de un proceso.
 
-Art. 65. Cuando en una investigación apareciere comprometido un menor como autor, cómplice o encubridor, el Ministerio Público, deberá ponerlo a disposición del juez de garantía, recabando la declaración sobre el discernimiento cuando corresponda, sin perjuicio de lo dispuesto en el inciso siguiente.
+Art. 65. DEROGADO
 NOTA:
-Las disposiciones de esta ley no impedirán la realización de actuaciones de investigación por el Ministerio Público ni el ejercicio de las facultades privativas de los tribunales ordinarios de justicia.
 NOTA:
-El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
+El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la derogación de la presente norma, rige dieciocho meses después de su publicación.
 
 Art. 66. Deberán denunciar los hechos constitutivos de maltrato de menores aquellos que en conformidad a las reglas generales del Código Procesal Penal estuvieren obligados a hacerlo; la misma obligación y sanciones afectarán a los maestros y otras personas encargadas de la educación de los menores.
 El que se negare a proporcionar a los funcionarios que establece esta ley datos o informes acerca de un menor o que los falseare, o que en cualquiera otra forma dificultare su acción, será castigado con prisión en su grado mínimo, conmutable en multa de un quinto de unidad tributaria mensual por cada día de prisión. Si el autor de esta falta fuere un funcionario público, podrá ser, además, suspendido de su cargo hasta por un mes.
@@ -8602,10 +8596,10 @@ Art. 69. Las solicitudes y actuaciones judiciales o administrativas a que dé or
 
 Art. 70. Las capellanías, clases de religión y moral o asesorías religiosas o espirituales que se creen en los Hogares, Casas de Menores o Centros de Defensa o rehabilitación pertenecientes al Estado y las que existan en la actualidad en esos mismos establecimientos, podrán ser ejercidas y solicitadas, conjunta o separadamente a título gratuito, por cualquiera entidad o iglesia, sin discriminación alguna, que ejercite la función religiosa o espiritual.
 
-Art. 71. El Presidente de la República, mediante decreto supremo expedido a través del Ministerio de Justicia, determinará:
-a) Los Centros de Tránsito y Distribución existentes, y su localización.
-b) Los Centros de Observación y Diagnóstico existentes, y su localización.
-c) Los establecimientos en que podrán ser internados los menores que pudieren ser sometidos a examen de discernimiento, en aquellos lugares en que no existan Centros de Observación y Diagnóstico, y su localización.
+Art. 71. El Presidente de la República, mediante decreto supremo expedido mediante el Ministerio de Justicia, determinará los Centros de Diagnósticos existentes y su localización.
+NOTA:
+NOTA:
+El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la modificación que introduce a la presente norma, rige dieciocho meses después de su publicación.
 
 Art. 72. Derogado.
 
