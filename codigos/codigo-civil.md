@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2005-12-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2005-12-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2005-12-07
-fetched_at: 2026-08-03T01:35:31.934331+00:00
+version_date: 2005-12-15
+fetched_at: 2026-08-03T01:36:14.767628+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -8384,9 +8384,9 @@ El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la deroga
 
 Artículo 28.- Cuando a un mayor de dieciséis y menor de dieciocho años de edad se le atribuyere un hecho constitutivo de delito, la declaración previa acerca del discernimiento será emitida por el juez de
 NOTA:
-garantía competente, a petición del Ministerio Público, en el plazo de quince días. Con dicho objetivo, se citará a una audiencia a todos los intervinientes, previa designación de un defensor para el menor si no tuviere uno de su confianza, a la que deberán concurrir con todos sus medios de prueba. Si se declarare que el menor ha obrado con discernimiento, el proceso se regulará de acuerdo a lo previsto en el Título I del Libro IV del Código Procesal Penal, cualquiera sea la pena requerida por el fiscal.
+garantía competente, a petición del Ministerio Público, en el plazo de quince días. Con dicho objetivo, se citará a una audiencia a todos los intervinientes, previa designación de un defensor para el menor si no tuviere uno de su confianza, a la que deberán concurrir con todos sus medios de prueba.
 Encontrándose firme la resolución del juez de garantía que declare que el menor ha actuado sin discernimiento, la comunicará al juez de familia, a fin de que este último determine si corresponde la aplicación de alguna de las medidas contempladas en el artículo 29.
-En el evento de que se declare que el menor ha actuado con discernimiento, el fiscal podrá igualmente ejercer las facultades contempladas en el Párrafo 1° del Título I del Libro II del Código Procesal Penal o deducir los respectivos requerimientos o acusaciones.
+INCISO SUPRIMIDO
 NOTA:
 El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
@@ -8667,7 +8667,7 @@ INCISO DEROGADO
 Art. 8º Las resoluciones judiciales que ordenen el pago de una pensión alimenticia por un trabajador dependiente establecerán, como modalidad de pago, la retención por parte del empleador. La resolución judicial que así lo ordene se notificará a la persona natural o jurídica que, por cuenta propia o ajena o en el desempeño de un empleo o cargo, deba pagar al alimentante su sueldo, salario o cualquier otra prestación en dinero, a fin de que retenga y entregue la suma o cuotas periódicas fijadas en ella directamente al alimentario, a su representante legal, o a la persona a cuyo cuidado esté.
 La notificación de las resoluciones a que se refiere el inciso anterior se efectuará por carta certificada, dejándose testimonio en el proceso de que la persona fue notificada por este medio, de la fecha de entrega de la carta a la oficina de correos, la individualización de dicha oficina y el
 NOTA:
-número de comprobante emitido por ella, el cual se adherirá al proceso a continuación del testimonio. La notificación se entenderá practicada al quinto día hábil siguiente a la fecha recién aludida. Si la carta certificada fuere devuelta por la oficina de correos por no haberse podido entregar al destinatario, se adherirá al expediente.
+número de comprobante emitido por ella, el cual se adherirá al proceso a continuación del testimonio. La notificación se entenderá practicada al tercero día hábil siguiente a la fecha recién aludida. Si la carta certificada fuere devuelta por la oficina de correos por no haberse podido entregar al destinatario, se adherirá al expediente.
 El demandado dependiente podrá solicitar al juez, por una sola vez, en cualquier estado del juicio y antes de la dictación de la sentencia, que sustituya, por otra modalidad de pago, la retención por parte del empleador.
 La solicitud respectiva se tramitará como incidente. En caso de ser acogida, la modalidad de pago decretada quedará sujeta a la condición de su íntegro y oportuno cumplimiento.
 De existir incumplimiento, el juez, de oficio, y sin perjuicio de las sanciones y apremios que sean pertinentes, ordenará que en lo sucesivo la pensión alimenticia decretada se pague conforme al inciso primero.
