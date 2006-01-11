@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2005-11-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2006-01-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2005-11-14
-fetched_at: 2026-08-03T01:35:01.090698+00:00
+version_date: 2006-01-11
+fetched_at: 2026-08-03T01:37:01.375860+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -914,7 +914,7 @@ Artículo 205.- Entrada y registro en lugares cerrados. Cuando se presumiere que
 En este caso, el funcionario que practicare el registro deberá individualizarse y cuidará que la diligencia se realizare causando el menor daño y las menores molestias posibles a los ocupantes. Asimismo, entregará al propietario o encargado un certificado que acredite el hecho del registro, la individualización de los funcionarios que lo hubieren practicado y de aquél que lo hubiere ordenado.
 Si, por el contrario, el propietario o el encargado del edificio o lugar no permitiere la entrada y registro, la policía adoptará las medidas tendientes a evitar la posible fuga del imputado y el fiscal solicitará al juez la autorización para proceder a la diligencia. En todo caso, el fiscal hará saber al juez las razones que el propietario o encargado hubiere invocado para negar la entrada y registro.
 
-Artículo 206.- Entrada y registro en lugares cerrados sin autorización judicial. La policía podrá entrar en un lugar cerrado y registrarlo, sin el consentimiento expreso de su propietario o encargado ni autorización judicial previa, cuando las llamadas de auxilio de personas que se encontraren en el interior u otros signos evidentes indicaren que en el recinto se está cometiendo un delito.
+Artículo 206.- Entrada y registro en lugares cerrados sin autorización judicial. La policía podrá entrar en un lugar cerrado y registrarlo, sin el consentimiento expreso de su propietario o encargado ni autorización judicial previa, cuando las llamadas de auxilio de personas que se encontraren en el interior u otros signos evidentes indicaren que en el recinto se está cometiendo un delito. Tratándose del delito de abigeato, la policía podrá ingresar a los predios cuando existan indicios o sospechas de que se está perpetrando dicho ilícito, siempre que las circunstancias hagan temer que la demora en obtener la autorización del propietario o del juez, en su caso, facilitará la concreción del mismo o la impunidad de sus hechores.
 
 Artículo 207.- Horario para el registro. El registro deberá hacerse en el tiempo que media entre las seis y las veintidós horas; pero podrá verificarse fuera de estas horas en lugares de libre acceso público y que se encontraren abiertos durante la noche. Asimismo, procederá en casos urgentes, cuando su ejecución no admitiere demora. En este último evento, la resolución que autorizare la entrada y el registro deberá señalar expresamente el motivo de la urgencia.
 
