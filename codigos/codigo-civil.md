@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2005-12-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2006-01-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2005-12-15
-fetched_at: 2026-08-03T01:36:14.767628+00:00
+version_date: 2006-01-18
+fetched_at: 2026-08-03T01:37:07.379196+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -8905,6 +8905,9 @@ El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará
 Art. 29. Los Conservadores, en los cinco primeros días hábiles de cada mes, deberán enviar al Servicio, una nómina de las inscripciones de posesiones efectivas que hayan practicado en el mes anterior, indicando en ella el nombre del causante, la fecha de la inscripción y los nombres de los herederos.
 
 Art. 30. Si la sociedad conyugal terminare por el fallecimiento de uno de los cónyuges, los bienes raíces de aquélla deberán inscribirse en el Conservador respectivo, a nombre del cónyuge sobreviviente y de los herederos del difunto.
+
+Artículo 30 bis.- Las actuaciones de los conservadores de bienes raíces a que den lugar las posesiones efectivas de herencias cuya masa de bienes no exceda de 15 unidades tributarias anuales, estarán liberadas del pago de los derechos arancelarios correspondientes. Asimismo, aquéllas cuya masa de bienes exceda de dicho monto y no supere las 45 unidades tributarias anuales, estarán liberadas del 50% del pago de dichos derechos.
+Estarán también totalmente exentas del pago de derechos las inscripciones, subinscripciones y anotaciones que deban practicar los conservadores de bienes raíces referidas a bienes inmuebles que se traspasen a las iglesias y entidades religiosas constituidas como personas jurídicas de derecho público.
 
 ###### De los inventarios
 
