@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2005-11-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2006-08-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2005-11-21
-fetched_at: 2026-08-03T01:35:07.091125+00:00
+version_date: 2006-08-25
+fetched_at: 2026-08-03T01:38:09.591886+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -740,6 +740,10 @@ El artículo transitorio de la Ley 20279, publicada el 01.07.2008, establece que
 
 Art. 152. En los casos de enfermedad del trabajador, el empleador deberá dar de inmediato aviso al organismo de seguridad social respectivo y estará además, obligado a conservarle el cargo, sin derecho a remuneración, por ocho días, si tuviera menos de seis meses de servicios; durante quince días, si hubiera servido más de un semestre y menos de un año, y por un período de hasta treinta días, si hubiera trabajado más de doce meses.
 Toda enfermedad contagiosa, clínicamente calificada, de una de las partes o de las personas que habiten la casa, da derecho a la otra parte para poner término al contrato.
+
+Art. 152 bis.- Tratándose de los trabajadores de los Cuerpos de Bomberos que vivan en dependencias de su empleador, les será aplicable la norma contenida en el inciso segundo del artículo 149 de este Código.
+El descanso entre jornadas diarias podrá ser interrumpido cuando estos trabajadores deban concurrir a un acto de servicio o emergencia relacionado con sus funciones, debiendo el empleador compensar adecuadamente ese lapso otorgando un tiempo de descanso en la jornada diaria siguiente.
+Tratándose de los cuarteleros conductores de los Cuerpos de Bomberos que no vivan en dependencias de su empleador, su jornada de trabajo no podrá exceder de 12 horas diarias y tendrán, dentro de esa jornada, un descanso no inferior a una hora imputable a ella. Con todo, dicho descanso podrá ser interrumpido en los mismos casos y bajo las mismas condiciones previstas en el inciso anterior.
 
 ### Título III
 DEL REGLAMENTO INTERNO
