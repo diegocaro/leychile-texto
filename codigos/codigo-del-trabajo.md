@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2006-08-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2006-10-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2006-08-25
-fetched_at: 2026-08-03T01:38:09.591886+00:00
+version_date: 2006-10-16
+fetched_at: 2026-08-03T01:38:21.593803+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -339,16 +339,15 @@ Las sumas a que se refiere el inciso primero de este artículo, reajustadas en l
 
 Artículo 63 bis.- En caso de término del contrato de trabajo, el empleador estará obligado a pagar todas las remuneraciones que se adeudaren al trabajador en un solo acto al momento de extender el finiquito. Sin perjuicio de ello, las partes podrán acordar el fraccionamiento del pago de las remuneraciones adeudadas y dicho pacto se regirá por lo dispuesto en la letra a) del artículo 169.
 
-Art. 64. El dueño de la obra, empresa o faena será subsidiariamente responsable de las obligaciones laborales y previsionales que afecten a los contratistas en favor de los trabajadores de éstos. También responderá de iguales obligaciones que afecten a los subcontratistas, cuando no pudiere hacerse efectiva la responsabilidad a que se refiere el inciso siguiente.
-En los mismos términos, el contratista será subsidiariamente responsable de obligaciones que afecten a sus subcontratistas, en favor de los trabajadores de éstos.
-El trabajador, al entablar la demanda en contra de su empleador directo, podrá también demandar subsidiariamente a todos aquellos que puedan responder en tal calidad de sus derechos.
-En los casos de construcción de edificios por un precio único prefijado, no procederán estas responsabilidades subsidiarias cuando el que encargue la obra sea una persona natural.
+Art. 64. DEROGADO
+NOTA:
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la derogación del presente artículo regirá a contar de 90 días después de su publicación.
 
-Art. 64 bis. El dueño de la obra, empresa o faena, cuando así lo solicite, tendrá derecho a ser informado por los contratistas sobre el monto y estado de cumplimiento de las obligaciones laborales y previsionales que a éstos correspondan respecto a sus trabajadores, como asimismo de igual tipo de obligaciones que tengan los subcontratistas con sus trabajadores. El mismo derecho tendrán los contratistas respecto de sus subcontratistas.
-En el caso que el contratista no acredite oportunamente el cumplimiento íntegro de las obligaciones laborales y previsionales en la forma señalada, así como cuando el dueño de la obra, empresa o faena fuere demandado subsidiariamente conforme a lo previsto en el artículo 64, éste podrá retener de las obligaciones que tenga a favor de aquél, el monto de que es responsable subsidiariamente. El mismo derecho tendrá el contratista respecto de sus subcontratistas.
-En todo caso, el dueño de la obra, empresa o faena, o el contratista en su caso, podrá pagar por subrogación al trabajador o institución previsional acreedora.
-El monto y estado de cumplimiento de las obligaciones laborales y previsionales a que se refiere el inciso primero de este artículo, podrá ser acreditado mediante certificados emitidos por la Inspección del Trabajo respectiva.
-La Dirección del Trabajo deberá poner en conocimiento del dueño de la obra, empresa o faena, las infracciones a la legislación laboral o previsional que se constaten en las fiscalizaciones que se practiquen a sus contratistas o subcontratistas. Igual obligación tendrá para con los contratistas, respecto de sus subcontratistas.
+Art. 64 Bis. DEROGADO
+NOTA:
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la derogación del presente artículo regirá a contar de 90 días después de su publicación.
 
 Art. 65. Habrá libertad de comercio en los recintos de las empresas mineras y salitreras.
 No podrán ejercer este comercio los trabajadores que hubieran sido despedidos de la respectiva empresa, a menos que el empleador los autorice previamente.
@@ -450,6 +449,12 @@ Por resolución del Ministerio del Trabajo y Previsión Social, se fijará el va
 Art. 92. En el contrato de los trabajadores permanentes, se entenderá siempre incluida la obligación del empleador de proporcionar al trabajador y su familia habitación higiénica y adecuada, salvo que éste ocupe o puede ocupar una casa habitación en un lugar que, atendida la distancia y medios de comunicación, le permita desempeñar sus labores.
 
 Art. 92 bis. Las personas que se desempeñen como intermediarias de trabajadores agrícolas y de aquéllos que presten servicios en empresas comerciales o agroindustriales derivadas de la agricultura, de la explotación de madera u otras afines, deberán inscribirse en un Registro especial que para esos efectos llevará la Inspección del Trabajo respectiva.
+Las empresas que utilicen servicios de intermediarios agrícolas o de empresas contratistas no inscritas en la forma que señala el inciso precedente, serán sancionadas con
+NOTA:
+multa a beneficio fiscal de conformidad a lo dispuesto en el artículo 477.
+Cuando los servicios prestados se limiten sólo a la intermediación de trabajadores a una faena, se aplicará lo dispuesto en el inciso segundo del artículo 183-A, debiendo entenderse que dichos trabajadores son dependientes del dueño de la obra, empresa o faena.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la modificación introducida al presente artículo regirá a contar de 90 días después de su publicación.
 
 ##### Párrafo 2°
 Normas especiales para los trabajadores agrícolas de temporada
@@ -930,6 +935,271 @@ Las horas que el trabajador destine a estas actividades de capacitación, se con
 La capacitación a que se refiere este artículo deberá estar debidamente autorizada por el Servicio Nacional de Capacitación y Empleo.
 Esta modalidad anualmente estará limitada a un treinta por ciento de los trabajadores de la empresa, si en ésta trabajan cincuenta o menos trabajadores; a un veinte por ciento si en ella laboran doscientos cuarenta y nueve o menos; y, a un diez por ciento, en aquéllas en que trabajan doscientos cincuenta o más trabajadores.
 
+### Título VII
+Del trabajo en régimen de subcontratación y del trabajo en empresas de servicios transitorios
+
+#### Párrafo 1º
+Del trabajo en régimen de subcontratación
+
+Artículo 183-A.- Es trabajo en régimen de subcontratación, aquél realizado en virtud de un contrato de trabajo por un trabajador para un empleador, denominado contratista o subcontratista, cuando éste, en
+NOTA:
+razón de un acuerdo contractual, se encarga de ejecutar obras o servicios, por su cuenta y riesgo y con trabajadores bajo su dependencia, para una tercera persona natural o jurídica dueña de la obra, empresa o faena, denominada la empresa principal, en la que se desarrollan los servicios o ejecutan las obras contratadas. Con todo, no quedarán sujetos a las normas de este Párrafo las obras o los servicios que se ejecutan o prestan de manera discontinua o esporádica.
+Si los servicios prestados se realizan sin sujeción a los requisitos señalados en el inciso anterior o se limitan sólo a la intermediación de trabajadores a una faena, se entenderá que el empleador es el dueño de la obra, empresa o faena, sin perjuicio de las sanciones que correspondan por aplicación del artículo 478.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-B.- La empresa principal será solidariamente responsable de las obligaciones laborales y previsionales de dar que afecten a los contratistas en favor de los trabajadores de éstos, incluidas las
+NOTA:
+eventuales indemnizaciones legales que correspondan por término de la relación laboral. Tal responsabilidad estará limitada al tiempo o período durante el cual el o los trabajadores prestaron servicios en régimen de subcontratación para la empresa principal.
+En los mismos términos, el contratista será solidariamente responsable de las obligaciones que afecten a sus subcontratistas, a favor de los trabajadores de éstos.
+La empresa principal responderá de iguales obligaciones que afecten a los subcontratistas, cuando no pudiere hacerse efectiva la responsabilidad a que se refiere el inciso siguiente.
+El trabajador, al entablar la demanda en contra de su empleador directo, podrá hacerlo en contra de todos aquellos que puedan responder de sus derechos, en conformidad a las normas de este Párrafo.
+En los casos de construcción de edificaciones por un precio único prefijado, no procederán estas responsabilidades cuando quien encargue la obra sea una persona natural.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-C.- La empresa principal, cuando así lo solicite, tendrá derecho a ser informada por los contratistas sobre el monto y estado de cumplimiento de las obligaciones laborales y previsionales que a éstos
+NOTA:
+correspondan respecto a sus trabajadores, como asimismo de igual tipo de obligaciones que tengan los subcontratistas con sus trabajadores. El mismo derecho tendrán los contratistas respecto de sus subcontratistas.
+El monto y estado de cumplimiento de las obligaciones laborales y previsionales a que se refiere el inciso anterior, deberá ser acreditado mediante certificados emitidos por la respectiva Inspección del Trabajo, o bien por medios idóneos que garanticen la veracidad de dicho monto y estado de cumplimiento. El Ministerio del Trabajo y Previsión Social deberá dictar, dentro de un plazo de 90 días, un reglamento que fije el procedimiento, plazo y efectos con que la Inspección del Trabajo respectiva emitirá dichos certificados. Asimismo, el reglamento definirá la forma o mecanismos a través de los cuales las entidades o instituciones competentes podrán certificar debidamente, por medios idóneos, el cumplimiento de obligaciones laborales y previsionales de los contratistas respecto de sus trabajadores.
+En el caso que el contratista o subcontratista no acredite oportunamente el cumplimiento íntegro de las obligaciones laborales y previsionales en la forma señalada, la empresa principal podrá retener de las obligaciones que tenga a favor de aquél o aquéllos, el monto de que es responsable en conformidad a este Párrafo. El mismo derecho tendrá el contratista respecto de sus subcontratistas. Si se efectuara dicha retención, quien la haga estará obligado a pagar con ella al trabajador o institución previsional acreedora.
+En todo caso, la empresa principal o el contratista, en su caso, podrá pagar por subrogación al trabajador o institución previsional acreedora.
+La Dirección del Trabajo deberá poner en conocimiento de la empresa principal, las infracciones a la legislación laboral y previsional que se constaten en las fiscalizaciones que se practiquen a sus contratistas o subcontratistas. Igual obligación tendrá para con los contratistas, respecto de sus subcontratistas.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-D.- Si la empresa principal hiciere efectivo el derecho a ser informada y el derecho de retención a que se refieren los incisos primero y tercero del artículo anterior, responderá
+NOTA:
+subsidiariamente de aquellas obligaciones laborales y previsionales que afecten a los contratistas y subcontratistas en favor de los trabajadores de éstos, incluidas las eventuales indemnizaciones legales que correspondan por el término de la relación laboral. Tal responsabilidad estará limitada al tiempo o período durante el cual el o los trabajadores del contratista o subcontratista prestaron servicios en régimen de subcontratación para el dueño de la obra, empresa o faena. Igual responsabilidad asumirá el contratista respecto de las obligaciones que afecten a sus subcontratistas, a favor de los trabajadores de éstos.
+Se aplicará también, lo dispuesto en el inciso precedente, en el caso que, habiendo sido notificada por la Dirección del Trabajo de las infracciones a la legislación laboral y previsional que se constaten en las fiscalizaciones que se practiquen a sus contratistas o subcontratistas, la empresa principal o contratista, según corresponda, hiciere efectivo el derecho de retención a que se refiere el inciso tercero del artículo precedente.
+NOTA:
+El Art. 2° Transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-E.- Sin perjuicio de las obligaciones de la empresa principal, contratista y subcontratista respecto de sus propios trabajadores en virtud de lo dispuesto en el artículo 184, la empresa principal
+NOTA:
+deberá adoptar las medidas necesarias para proteger eficazmente la vida y salud de todos los trabajadores que laboran en su obra, empresa o faena, cualquiera sea su dependencia, en conformidad a lo dispuesto en el artículo 66 bis de la ley Nº 16.744 y el artículo 3º del decreto supremo Nº 594, de 1999, del Ministerio de Salud.
+En los casos de construcción de edificaciones por un precio único prefijado, no procederán las obligaciones y responsabilidades señaladas en el inciso precedente, cuando quien encargue la obra sea una persona natural.
+Sin perjuicio de los derechos que se reconocen en este Párrafo 1º al trabajador en régimen de subcontratación, respecto del dueño de la obra, empresa o faena, el trabajador gozará de todos los derechos que las leyes del trabajo le reconocen en relación con su empleador.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+#### Párrafo 2º De las empresas de servicios transitorios, del contrato de puesta a disposición de trabajadores y del contrato de trabajo de servicios transitorios
+
+Artículo 183-F.- Para los fines de este Código, se entiende por:
+a) Empresa de Servicios Transitorios: toda person
+NOTA:
+a jurídica, inscrita en el registro respectivo, que tenga por objeto social exclusivo poner a disposición de terceros denominados para estos efectos empresas usuarias, trabajadores para cumplir en estas últimas, tareas de carácter transitorio u ocasional, como asimismo la selección, capacitación y formación de trabajadores, así como otras actividades afines en el ámbito de los recursos humanos.
+b) Usuaria: toda persona natural o jurídica que contrata con una empresa de servicios transitorios, la puesta a disposición de trabajadores para realizar labores o tareas transitorias u ocasionales, cuando concurra alguna de las circunstancias enumeradas en el artículo 183-Ñ de este Código.
+c) Trabajador de Servicios Transitorios: todo aquel que ha convenido un contrato de trabajo con una empresa de servicios transitorios para ser puesto a disposición de una o más usuarias de aquélla, de acuerdo a las disposiciones de este Párrafo 2º.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-G.- La Dirección del Trabajo fiscalizará el cumplimiento de las normas de este Párrafo 2º en el o los lugares de la prestación de los servicios, como en la empresa de servicios transitorios.
+NOTA:
+Asimismo, podrá revisar los contenidos del Contrato de Servicios Transitorios, o puesta a disposición, entre ambas empresas, a fin de fiscalizar los supuestos que habilitan la celebración de un contrato de trabajo de servicios transitorios.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-H.- Las cuestiones suscitadas entre las partes de un contrato de trabajo de servicios transitorios, o entre los trabajadores y la o las usuarias de sus servicios, serán de competencia de
+NOTA:
+los Juzgados de Letras del Trabajo.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+#### De las Empresas de Servicios Transitorios
+
+Artículo 183-I.- Las empresas de servicios transitorios no podrán ser matrices, filiales, coligadas, relacionadas ni tener interés directo o indirecto, participación o relación societaria de ningún
+NOTA:
+tipo, con empresas usuarias que contraten sus servicios.
+La infracción a la presente norma se sancionará con su cancelación en el Registro de Empresas de Servicios Transitorios y con una multa a la usuaria de 10 unidades tributarias mensuales por cada trabajador contratado, mediante resolución fundada del Director del Trabajo.
+La empresa afectada por dicha resolución, podrá pedir su reposición al Director del Trabajo, dentro del plazo de cinco días. La resolución que niegue lugar a esta solicitud será reclamable, dentro del plazo de cinco días, ante la Corte de Apelaciones respectiva.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-J.- Toda empresa de servicios transitorios deberá constituir una garantía permanente a nombre de la Dirección del Trabajo, cuyo monto será de 250 unidades de fomento, aumentada en una unidad
+NOTA:
+de fomento por cada trabajador transitorio adicional contratado por sobre 100 trabajadores; 0,7 unidad de fomento por cada trabajador transitorio contratado por sobre 150 trabajadores, y 0,3 unidad de fomento por cada trabajador transitorio contratado por sobre 200.
+El monto de la garantía se ajustará cada doce meses, considerando el número de trabajadores transitorios que se encuentren contratados en dicho momento.
+La garantía estará destinada preferentemente a responder, en lo sucesivo, por las obligaciones legales y contractuales de la empresa con sus trabajadores transitorios, devengadas con motivo de los servicios prestados por éstos en las empresas usuarias, y luego las multas que se le apliquen por infracción a las normas de este Código.
+La garantía deberá constituirse a través de una boleta de garantía, u otro instrumento de similar liquidez, a nombre de la Dirección del Trabajo y tener un plazo de vencimiento no inferior a 120 días, y será devuelta dentro de los 10 días siguientes a la presentación de la nueva boleta.
+La garantía constituye un patrimonio de afectación a los fines establecidos en este artículo y estará excluida del derecho de prenda general de los acreedores.
+La sentencia ejecutoriada que ordene el pago de remuneraciones y/o cotizaciones previsionales adeudadas, el acta suscrita ante el Inspector del Trabajo en que se reconozca la deuda de dichas remuneraciones, así como la resolución administrativa ejecutoriada que ordene el pago de una multa, se podrá hacer efectiva sobre la garantía, previa resolución del Director del Trabajo, que ordene los pagos a quien corresponda. Contra dicha resolución no procederá recurso alguno.
+En caso de término de la empresa de servicios transitorios el Director del Trabajo, una vez que se le acredite el cumplimiento de las obligaciones laborales de origen legal o contractual y de seguridad social pertinentes, deberá proceder a la devolución de la garantía dentro del plazo de seis meses, contados desde el término de la empresa.
+La resolución que ordene la constitución de dicha garantía, no será susceptible de ser impugnada por recurso alguno.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-K.- Las empresas de servicios transitorios deberán inscribirse en un registro especial y público que al efecto llevará la Dirección del Trabajo. Al solicitar su inscripción en tal registro, la empresa respectiva deberá acompañar los antecedentes que acrediten su personalidad jurídica, su objeto social y la individualización de sus representantes legales. Su nombre o razón social deberá incluir la expresión "Empresa de Servicios Transitorios" o la sigla "EST".
+La Dirección del Trabajo, en un plazo de sesenta días, podrá observar la inscripción en el registro si faltara alguno de los requisitos mencionados en el inciso precedente, o por no cumplir la solicitante los requisitos establecidos en el artículo 183-F, letra a), al cabo de los cuales la solicitud se entenderá aprobada si no se le hubieran formulado observaciones.
+En igual plazo, la empresa de servicios transitorios podrá subsanar las observaciones que se le hubieran formulado, bajo apercibimiento de tenerse por desistida de su solicitud por el solo ministerio de la ley. Podrá asimismo, dentro de los quince días siguientes a su notificación, reclamar de dichas observaciones o de la resolución que rechace la reposición, ante la Corte de Apelaciones del domicilio del reclamante para que ésta ordene su inscripción en el registro.
+La Corte conocerá de la reclamación a que se refiere el inciso anterior, en única instancia, con los antecedentes que el solicitante proporcione, y oyendo a la Dirección del Trabajo, la que podrá hacerse parte en el respectivo procedimiento.
+Inmediatamente después de practicada la inscripción y antes de empezar a operar, la empresa deberá constituir la garantía a que se refiere el artículo anterior.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-L.- Toda persona natural o jurídica que actúe como empresa de servicios transitorios sin ajustar su constitución y funcionamiento a las exigencias establecidas en este Código, será sancionada
+NOTA:
+con una multa a beneficio fiscal de ochenta a quinientas unidades tributarias mensuales, aplicada mediante resolución fundada del Director del Trabajo, la que será reclamable ante el Juzgado del Trabajo competente, dentro de quinto día de notificada.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-M.- El Director del Trabajo podrá, por resolución fundada, ordenar la cancelación de la inscripción del registro de una empresa de servicios transitorios, en los siguientes casos:
+NOTA:
+a) por incumplimientos reiterados y graves de la legislación laboral o previsional, o
+b) por quiebra de la empresa de servicios transitorios, salvo que se decrete la continuidad de su giro.
+Para los efectos de la letra a) precedente, se entenderá que una empresa incurre en infracciones reiteradas cuando ha sido objeto de tres o más sanciones aplicadas por la autoridad administrativa o judicial, como consecuencia del incumplimiento de una o más obligaciones legales, en el plazo de un año. Se considerarán graves todas aquellas infracciones que, atendidos la materia involucrada y el número de trabajadores afectados, perjudiquen notablemente el ejercicio de los derechos establecidos en las leyes laborales, especialmente las infracciones a las normas contenidas en los Capítulos II, V y VI del Título I del LIBRO I de este Código, como asimismo las cometidas a las normas del Título II del LIBRO II del mismo texto legal.
+De la resolución de que trata este artículo, se podrá pedir su reposición dentro de cinco días. La resolución que niegue lugar a esta solicitud será reclamable, dentro del plazo de diez días, ante la Corte de Apelaciones del domicilio del reclamante.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+#### Del contrato de puesta a disposición de trabajadores
+
+Artículo 183-N.- La puesta a disposición de trabajadores de servicios transitorios a una usuaria por una empresa de servicios transitorios, deberá constar por escrito en un contrato de puesta a
+NOTA:
+disposición de trabajadores de servicios transitorios, que deberá indicar la causal invocada para la contratación de servicios transitorios de conformidad con el artículo siguiente, los puestos de trabajo para los cuales se realiza, la duración de la misma y el precio convenido.
+Asimismo, el contrato de puesta a disposición de trabajadores de servicios transitorios deberá señalar si los trabajadores puestos a disposición tendrán o no derecho, durante la vigencia de dicho contrato, a la utilización de transporte e instalaciones colectivas que existan en la usuaria.
+La individualización de las partes deberá hacerse con indicación del nombre, domicilio y número de cédula de identidad o rol único tributario de los contratantes. En el caso de personas jurídicas, se deberá, además, individualizar a el o los representantes legales.
+La escrituración del contrato de puesta a disposición de trabajadores de servicios transitorios deberá suscribirse dentro de los cinco días siguientes a la incorporación del trabajador. Cuando la duración del mismo sea inferior a cinco días, la escrituración deberá hacerse dentro de los dos días de iniciada la prestación de servicios.
+La falta de contrato escrito de puesta a disposición de trabajadores de servicios transitorios excluirá a la usuaria de la aplicación de las normas del presente Párrafo 2º. En consecuencia, el trabajador se considerará como dependiente de la usuaria, vínculo que se regirá por las normas de la legislación laboral común, sin perjuicio de las demás sanciones que correspondiera aplicar conforme a este Código.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-Ñ.- Podrá celebrarse un contrato de puesta a disposición de trabajadores de servicios transitorios cuando en la usuaria se dé alguna de las circunstancias siguientes:
+NOTA:
+a) suspensión del contrato de trabajo o de la obligación de prestar servicios, según corresponda, de uno o más trabajadores por licencias médicas, descansos de maternidad o feriados;
+b) eventos extraordinarios, tales como la organización de congresos, conferencias, ferias, exposiciones u otros de similar naturaleza;
+c) proyectos nuevos y específicos de la usuaria, tales como la construcción de nuevas instalaciones, la ampliación de las ya existentes o expansión a nuevos mercados;
+d) período de inicio de actividades en empresas nuevas;
+e) aumentos ocasionales, sean o no periódicos, o extraordinarios de actividad en una determinada sección, faena o establecimiento de la usuaria; o
+f) trabajos urgentes, precisos e impostergables que requieran una ejecución inmediata, tales como reparaciones en las instalaciones y servicios de la usuaria.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-O.- El plazo del contrato de puesta a disposición de trabajadores de servicios transitorios deberá ajustarse a las siguientes normas.
+En el caso señalado en la letra a) del artículo
+NOTA:
+anterior, la puesta a disposición del trabajador podrá cubrir el tiempo de duración de la ausencia del trabajador reemplazado, por la suspensión del contrato o de la obligación de prestar servicios, según sea el caso.
+En los casos señalados en las letras b) y e) del artículo anterior, el contrato de trabajo para prestar servicios en una misma usuaria no podrá exceder de 90 días. En el caso de las letras c) y d) dicho plazo será de 180 días, no siendo ambos casos susceptibles de renovación. Sin embargo, si al tiempo de la terminación del contrato de trabajo subsisten las circunstancias que motivaron su celebración, se podrá prorrogar el contrato hasta completar los 90 ó 180 días en su caso.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-P.- Sin perjuicio de lo señalado en el artículo 183-Ñ, no se podrá contratar la puesta a disposición de trabajadores de servicios transitorios, en los siguientes casos:
+NOTA:
+a) para realizar tareas en las cuales se tenga la facultad de representar a la usuaria, tales como los gerentes, subgerentes, agentes o apoderados;
+b) para reemplazar a trabajadores que han declarado la huelga legal en el respectivo proceso de negociación colectiva; o
+c) para ceder trabajadores a otras empresas de servicios transitorios.
+La contravención a lo dispuesto en este artículo excluirá a la usuaria de la aplicación de las normas del presente Párrafo 2º. En consecuencia, el trabajador se considerará como dependiente de la usuaria, vínculo que se regirá por las normas de la legislación laboral común.
+Además, la usuaria será sancionada administrativamente por la Inspección del Trabajo respectiva, con una multa equivalente a 10 unidades tributarias mensuales por cada trabajador contratado.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-Q.- Será nula la cláusula del contrato de puesta a disposición de trabajadores de servicios transitorios que prohíba la contratación del trabajador por la usuaria a la finalización de dicho contrato.
+NOTA:
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+#### Del contrato de trabajo de servicios transitorios
+
+Artículo 183-R.- El contrato de trabajo de servicios transitorios es una convención en virtud de la cual un trabajador y una empresa de servicios transitorios se obligan recíprocamente, aquél a ejecutar
+NOTA:
+labores específicas para una usuaria de dicha empresa, y ésta a pagar la remuneración determinada por el tiempo servido.
+El contrato de trabajo de servicios transitorios deberá celebrarse por escrito y contendrá, a lo menos, las menciones exigidas por el artículo 10 de este Código.
+La escrituración del contrato de trabajo de servicios transitorios deberá realizarse dentro de los cinco días siguientes a la incorporación del trabajador. Cuando la duración del mismo sea inferior a cinco días, la escrituración deberá hacerse dentro de dos días de iniciada la prestación de servicios.
+Una copia del contrato de trabajo deberá ser enviada a la usuaria a la que el trabajador prestará servicios.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-S.- En ningún caso la empresa de servicios transitorios podrá exigir ni efectuar cobro de ninguna naturaleza al trabajador, ya sea por concepto de capacitación o de su puesta a disposición en una
+NOTA:
+usuaria.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-T.- En caso de que el trabajador continúe prestando servicios después de expirado el plazo de su contrato de trabajo, éste se transformará en uno de plazo indefinido, pasando la usuaria a ser
+NOTA:
+su empleador y contándose la antigüedad del trabajador, para todos los efectos legales, desde la fecha del inicio de la prestación de servicios a la usuaria.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-U.- Los contratos de trabajo celebrados en supuestos distintos a aquellos que justifican la contratación de servicios transitorios de conformidad con el artículo 183-Ñ, o que tengan por objeto encubrir una
+NOTA:
+relación de trabajo de carácter permanente con la usuaria, se entenderán celebrados en fraude a la ley, excluyendo a la usuaria de la aplicación de las normas del presente Párrafo 2º. En consecuencia, el trabajador se considerará como dependiente de la usuaria, vínculo que se regirá por las normas de la legislación laboral común, sin perjuicio de las demás sanciones que correspondan.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-V.- El trabajador de servicios transitorios que haya prestado servicios, continua o discontinuamente, en virtud de uno o más contratos de trabajo celebrados con una misma empresa de servicios
+NOTA:
+transitorios, durante a lo menos 30 días en los doce meses siguientes a la fecha del primer contrato, tendrá derecho a una indemnización compensatoria del feriado.
+Por cada nuevo período de doce meses contado desde que se devengó la última compensación del feriado, el trabajador de servicios transitorios tendrá derecho a ésta.
+La indemnización será equivalente a la remuneración íntegra de los días de feriado que proporcionalmente le correspondan al trabajador según los días trabajados en la respectiva anualidad. La remuneración se determinará considerando el promedio de lo devengado por el trabajador durante los últimos 90 días efectivamente trabajados. Si el trabajador hubiera trabajado menos de 90 días en la respectiva anualidad, se considerará la remuneración de los días efectivamente trabajados para la determinación de la remuneración.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-W.- Será obligación de la usuaria controlar la asistencia del trabajador de servicios transitorios y poner a disposición de la empresa de servicios transitorios copia del registro respectivo.
+NOTA:
+En el registro se indicará, a lo menos, el nombre y apellido del trabajador de servicios transitorios, nombre o razón social y domicilio de la empresa de servicios transitorios y de la usuaria, y diariamente las horas de ingreso y salida del trabajador.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-X.- La usuaria tendrá la facultad de organizar y dirigir el trabajo, dentro del ámbito de las funciones para las cuales el trabajador fue puesto a su disposición por la empresa de servicios transitorios.
+NOTA:
+Además, el trabajador de servicios transitorios quedará sujeto al reglamento de orden, seguridad e higiene de la usuaria, el que deberá ser puesto en su conocimiento mediante la entrega de un ejemplar impreso, en conformidad a lo dispuesto en el inciso segundo del artículo 156 de este Código.
+La usuaria deberá cumplir íntegramente con las condiciones convenidas entre el trabajador y la empresa de servicios transitorios relativas a la prestación de los servicios, tales como duración de la jornada de trabajo, descansos diarios y semanales, naturaleza de los servicios y lugar de prestación de los mismos.
+Sólo podrán pactarse horas extraordinarias entre el trabajador de servicios transitorios y la empresa de servicios transitorios al tenor del artículo 32 de este Código.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-Y.- El ejercicio de las facultades que la ley le reconoce a la usuaria tiene como límite el respeto a las garantías constitucionales de los trabajadores, en especial cuando pudieran afectar la
+NOTA:
+intimidad, la vida privada o la honra de éstos.
+La usuaria deberá mantener reserva de toda la información y datos privados del trabajador a que tenga acceso con ocasión de la relación laboral.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-Z.- En la remuneración convenida, se considerará la gratificación legal, el desahucio, las indemnizaciones por años de servicios y sustitutiva del aviso previo, y cualquier otro concepto que se devengue
+NOTA:
+en proporción al tiempo servido, salvo la compensación del feriado que establece el artículo 183-V.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-AA.- La usuaria que contrate a un trabajador de servicios transitorios por intermedio de empresas no inscritas en el registro que para tales efectos llevará la Dirección del Trabajo, quedará,
+NOTA:
+respecto de dicho trabajador, excluida de la aplicación de las normas del presente Párrafo 2º. En consecuencia, el trabajador se considerará como dependiente de la usuaria, vínculo que se regirá por las normas de la legislación laboral común.
+Además, la usuaria será sancionada administrativamente por la Inspección del Trabajo respectiva, con una multa equivalente a 10 unidades tributarias mensuales por cada trabajador contratado.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-AB.- La usuaria será subsidiariamente responsable de las obligaciones laborales y previsionales que afecten a las empresas de servicios transitorios a favor de los trabajadores de éstas, en
+NOTA:
+los términos previstos en este Párrafo.
+No obstante lo dispuesto en el inciso precedente, será de responsabilidad directa de la usuaria el cumplimiento de las normas referidas a la higiene y seguridad en el trabajo, incluidas las disposiciones legales y reglamentarias relativas al Seguro Social contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales de la ley Nº 16.744, especialmente las medidas de prevención de riesgos que deba adoptar respecto de sus trabajadores permanentes. Asimismo, deberá observar lo dispuesto en el inciso tercero del artículo 66 bis de la ley Nº 16.744.
+Para efectos de dar cumplimiento a lo dispuesto en el artículo 76 de la ley Nº 16.744, la usuaria denunciará inmediatamente al organismo administrador al que se encuentra afiliada o adherida la respectiva empresa de servicios transitorios, la ocurrencia de cualquiera de los hechos indicados en la norma legal antes citada. Al mismo tiempo, deberá notificar el siniestro a la empresa de servicios transitorios.
+Serán también de responsabilidad de la usuaria, las indemnizaciones a que se refiere el artículo 69 de la ley Nº 16.744. Sin perjuicio de lo anterior, la empresa de servicios transitorios deberá constatar que el estado de salud del trabajador sea compatible con la actividad específica que desempeñará.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+#### Normas Generales
+
+Artículo 183-AC.- En el caso de los trabajadores con discapacidad, el plazo máximo de duración del contrato de puesta a disposición de trabajadores de servicios transitorios establecido en el párrafo segundo
+NOTA:
+del inciso primero del artículo 183-O, será de seis meses renovables.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-AD.- Las empresas de servicios transitorios estarán obligadas a proporcionar capacitación cada año calendario, al menos al 10% de los trabajadores que pongan a disposición en el mismo
+NOTA:
+período, a través de alguno de los mecanismos previstos en el Párrafo 4º del Título I de la ley Nº 19.518.
+La Dirección del Trabajo verificará el cumplimiento de la obligación establecida en este artículo.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 183-AE.- Las trabajadoras contratadas bajo el régimen contemplado en este Párrafo, gozarán del fuero maternal señalado en el inciso primero del artículo 201, cesando éste de pleno derecho al término
+NOTA:
+de los servicios en la usuaria.
+Si por alguna de las causales que establece el presente Párrafo se determinare que la trabajadora es dependiente de la usuaria, el fuero maternal se extenderá por todo el período que corresponda, conforme a las reglas generales del presente Código.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
 ## LIBRO II
 DE LA PROTECCION A LOS TRABAJADORES
 
@@ -939,6 +1209,14 @@ NORMAS GENERALES
 Art. 184. El empleador estará obligado a tomar todas las medidas necesarias para proteger eficazmente la vida y salud de los trabajadores, manteniendo las condiciones adecuadas de higiene y seguridad en las faenas, como también los implementos necesarios para prevenir accidentes y enfermedades profesionales.
 Deberá asimismo prestar o garantizar los elementos necesarios para que los trabajadores en caso de accidente o emergencia puedan acceder a una oportuna y adecuada atención médica, hospitalaria y farmacéutica.
 Corresponderá también a la Dirección del Trabajo fiscalizar el cumplimiento de normas de higiene y seguridad en el trabajo, en los términos señalados en el artículo 191, sin perjuicio de las facultades conferidas a otros servicios del Estado en virtud de las leyes que los rigen.
+La Dirección del Trabajo deberá poner en conocimiento del respectivo Organismo Administrador de la ley Nº 16.744, todas aquellas infracciones o deficiencias en
+NOTA:
+materia de higiene y seguridad, que se constaten en las fiscalizaciones que se practiquen a las empresas. Copia de esta comunicación deberá remitirse a la Superintendencia de Seguridad Social.
+El referido Organismo Administrador deberá, en el plazo de 30 días contado desde la notificación, informar a la Dirección del Trabajo y a la Superintendencia de Seguridad
+NOTA:
+Social, acerca de las medidas de seguridad específicas que hubiere prescrito a la empresa infractora para corregir tales infracciones o deficiencias. Corresponderá a la Superintendencia de Seguridad Social velar por el cumplimiento de esta obligación por parte de los Organismos Administradores.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
 
 Art. 185. El reglamento señalará las industrias o trabajos peligrosos o insalubres y fijará las normas necesarias para dar cumplimiento a lo dispuesto en el artículo 184.
 
@@ -2402,13 +2680,22 @@ Con todo, si el empleador tuviere contratados 200 o más trabajadores, las multa
 En el caso de las multas especiales que establece este Código, su rango se duplicará o triplicará, según corresponda, si se dan las condiciones establecidas en los incisos segundo y tercero de este artículo.
 No obstante lo anterior, si un empleador tuviere contratados nueve o menos trabajadores, el Inspector del Trabajo respectivo podrá, si lo estima pertinente, autorizar, a solicitud del afectado, y sólo por una vez en el año, la sustitución de la multa impuesta por la asistencia obligatoria a programas de capacitación dictados por la Dirección del Trabajo, los que, en todo caso, no podrán tener una duración superior a dos semanas.
 Autorizada la sustitución, si el empleador no cumpliere con su obligación de asistir a dichos programas dentro del plazo de dos meses, procederá la aplicación de la multa originalmente impuesta, aumentada en un ciento por ciento.
+Tratándose de empresas de veinticinco trabajadores o menos, la Dirección del Trabajo podrá autorizar, a solicitud del afectado, y sólo por una vez en el año, la sustitución de
+NOTA:
+la multa impuesta por infracción a normas de higiene y seguridad, por la incorporación en un programa de asistencia al cumplimiento, en el que se acredite la corrección de la o las infracciones que dieron origen a la sanción y la puesta en marcha de un sistema de gestión de seguridad y salud en el trabajo. Dicho programa deberá implementarse con la asistencia técnica del Organismo Administrador de la ley Nº 16.744, al que se encuentre afiliada o adherida la empresa infractora y deberá ser presentado para su aprobación por la Dirección del Trabajo, debiendo mantenerse permanentemente a su disposición en los lugares de trabajo.
 Las infracciones a las normas sobre fuero sindical se sancionarán con multa a beneficio fiscal, de 14 a 70 unidades tributarias mensuales.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la modificación introducida al presente artículo regirá a contar de 90 días después de su publicación.
 
-Art. 478. Se sancionará con una multa a beneficio fiscal de 5 a 100 unidades tributarias mensuales al empleador que simule la contratación de trabajadores a través de terceros, cuyo reclamo se regirá por lo dispuesto en el artículo 474. Sin perjuicio de lo anterior, el empleador y los terceros deberán responder solidariamente por los derechos laborales y previsionales que correspondan al trabajador.
+Art. 478. Se sancionará con una multa a beneficio fiscal de 5 a 100 unidades tributarias mensuales, al empleador que simule la contratación de trabajadores a través de
+NOTA:
+terceros, cuyo reclamo se regirá por lo dispuesto en el artículo 474. En este caso, el empleador quedará sujeto al cumplimiento de todas las obligaciones laborales y previsionales y al pago de todas las prestaciones que correspondieren respecto de los trabajadores objetos de la simulación.
 El que utilice cualquier subterfugio, ocultando, disfrazando o alterando su individualización o patrimonio y que tenga como resultado eludir el cumplimiento de las obligaciones laborales y previsionales que establece la ley o la convención, será sancionado con una multa a beneficio fiscal de 10 a 150 unidades tributarias mensuales, aumentándose en media unidad tributaria mensual por cada trabajador afectado por la infracción, cuyo conocimiento corresponderá a los Juzgados de Letras del Trabajo, con sujeción a las normas establecidas en el Título I de este Libro.
 Quedan comprendidos dentro del concepto de subterfugio, a que se refiere el inciso anterior, cualquier alteración realizada a través del establecimiento de razones sociales distintas, la creación de identidades legales, la división de la empresa, u otras que signifiquen para los trabajadores disminución o pérdida de derechos laborales individuales o colectivos, en especial entre los primeros las gratificaciones o las indemnizaciones por años de servicios y entre los segundos el derecho a sindicalización o a negociar colectivamente.
 El empleador quedará obligado al pago de todas las prestaciones laborales que correspondieren a los trabajadores quienes podrán demandarlas, en juicio ordinario del trabajo, junto con la acción judicial que interpongan para hacer efectiva la responsabilidad a que se refiere el inciso segundo.
 El plazo de prescripción que extinga las acciones y derechos a que se refieren los incisos precedentes, será de cinco años contados desde que las obligaciones se hicieron exigibles.
+NOTA:
+El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la modificación introducida al presente artículo regirá a contar de 90 días después de su publicación.
 
 Art. 478 bis. Las notificaciones que realice la Dirección del Trabajo se podrán efectuar por carta certificada, dirigida al domicilio que las partes hayan fijado en el contrato de trabajo, en el instrumento colectivo o proyecto de instrumento cuando se trate de actuaciones relativas a la negociación colectiva, al que aparezca de los antecedentes propios de la actuación de que se trate o que conste en los registros propios de la mencionada Dirección. La notificación se entenderá practicada al sexto día hábil contado desde la fecha de su recepción por la oficina de Correos respectiva, de lo que deberá dejarse constancia por escrito.
 
