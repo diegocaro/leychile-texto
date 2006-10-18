@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2005-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2006-10-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2005-10-01
-fetched_at: 2026-08-03T01:33:37.164207+00:00
+version_date: 2006-10-18
+fetched_at: 2026-08-03T01:38:34.619359+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -505,15 +505,19 @@ Salvo prueba en contrario, en los casos del inciso precedente se presume la resp
 14°.- La sustracción, ocultación o enajenación de especies que queden retenidas en poder del presunto infractor, en caso de que se hayan adoptado medidas conservativas, con multa de media unidad tributaria anual a cuatro unidades tributarias anuales y con presidio menor en su grado medio.
 La misma sanción se aplicará al que impidiere en forma ilegítima el cumplimiento de la sentencia que ordene el comiso.
 15°.- El incumplimiento de cualquiera de las obligaciones establecidas en los artículos 34° y 60° inciso penúltimo, con una multa del veinte por ciento al cien por ciento de una unidad tributaria anual.
-16°.- La pérdida o inutilización de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, con multa de hasta el 20% del capital efectivo con un tope de 30 unidades tributarias anuales, a menos que la pérdida o inutilización sea calificada de fortuita por el Director Regional.
-Los contribuyentes deberán en todos los casos de pérdida o inutilización:
+16°.- La pérdida o inutilización no fortuita de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, se sancionará de la siguiente manera:
+a) Con multa de una unidad tributaria mensual a veinte unidades tributarias anuales, la que, en todo caso, no podrá exceder de 15% del capital propio; o
+b) Si los contribuyentes no deben determinar capital propio, resulta imposible su determinación o aquél es negativo, con multa de media unidad tributaria mensual hasta diez unidades tributarias anuales.
+Se presumirá no fortuita, salvo prueba en contrario, la pérdida o inutilización de los libros de contabilidad o documentos mencionados en el inciso primero, cuando se dé aviso de este hecho o se lo detecte con posterioridad a una notificación o cualquier otro requerimiento del Servicio que diga relación con dichos libros y documentación. Además, en estos casos, la pérdida o inutilización no fortuita se sancionará de la forma que sigue:
+a) Con multa de una unidad tributaria mensual a treinta unidades tributarias anuales, la que, en todo caso, no podrá exceder de 25% del capital propio; o
+b) Si los contribuyentes no deben determinar capital propio, no es posible determinarlo o resulta negativo, la multa se aplicará con un mínimo de una unidad tributaria mensual a un máximo de veinte unidades tributarias anuales.
+La pérdida o inutilización de los libros de contabilidad o documentos mencionados en el inciso primero materializada como procedimiento doloso encaminado a ocultar o desfigurar el verdadero monto de las operaciones realizadas o a burlar el impuesto, será sancionada conforme a lo dispuesto en el inciso primero del N° 4° del artículo 97 del Código Tributario.
+En todos los casos de pérdida o inutilización, los contribuyentes deberán:
 a) Dar aviso al Servicio dentro de los 10 días siguientes, y
 b) Reconstituir la contabilidad dentro del plazo y conforme a las normas que fije el Servicio, plazo que no podrá ser inferior a treinta días.
-El incumplimiento de lo dispuesto en el inciso anterior se sancionará con una multa de hasta diez unidades tributarias mensuales.
-Sin embargo no se considerará fortuita, salvo prueba en contrario, la pérdida o inutilización de los libros de contabilidad o documentos mencionados en el inciso primero, cuando se dé aviso de este hecho o se detecte con posterioridad a una citación, notificación o cualquier otro requerimiento del Servicio que diga relación con dichos libros y documentación.
-En todo caso, la pérdida o inutilización de los libros de contabilidad suspenderá la prescripción establecida en el artículo 200, hasta la fecha en que los libros legalmente reconstituidos queden a disposición del Servicio.
-Para los efectos previstos en el inciso primero de este número se entenderá por capital efectivo el definido en el artículo 2º, Nº 5, de la Ley de Impuesto a la Renta.
-En aquellos casos en que, debido a la imposibilidad de determinar el capital efectivo, no sea posible aplicar la sanción señalada en el inciso primero, se sancionará dicha pérdida o inutilización con una multa de hasta 30 unidades tributarias anuales.
+El incumplimiento de lo previsto en el inciso anterior, será sancionado con multa de hasta diez unidades tributarias mensuales.
+Para los efectos previstos en los incisos primero y segundo de este número, se entenderá por capital propio el definido en el artículo 41, Nº 1°, de la Ley sobre Impuesto a la Renta, vigente al inicio del año comercial en que ocurra la pérdida o inutilización.
+En todo caso, la pérdida o inutilización de los libros de contabilidad suspenderá la prescripción establecida en los incisos primero y segundo del artículo 200, hasta la fecha en que los libros legalmente reconstituidos queden a disposición del Servicio.
 17°.- La movilización o traslado de bienes corporales muebles realizado en vehículos destinados al transporte de carga sin la correspondiente guía de despacho o factura, otorgadas en la forma exigida por las leyes, será sancionado con una multa del 10% al 200% de una unidad tributaria anual.
 Sorprendida la infracción, el vehículo no podrá continuar hacia el lugar de destino mientras no se exhiba la guía de despacho o factura correspondiente a la carga movilizada, pudiendo, en todo caso, regresar a su lugar de origen. Esta sanción se hará efectiva con la sola notificación del acta de denuncio y en su contra no procederá recurso alguno.
 Para llevar a efecto la medida de que trata el inciso anterior, el funcionario encargado de la diligencia podrá recurrir al auxilio de la fuerza pública, la que le será concedida por el Jefe de Carabineros más inmediato sin más trámite, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario.
