@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2006-10-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2006-12-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2006-10-16
-fetched_at: 2026-08-03T01:38:21.593803+00:00
+version_date: 2006-12-16
+fetched_at: 2026-08-03T01:38:46.621599+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -355,7 +355,11 @@ No podrán ejercer este comercio los trabajadores que hubieran sido despedidos d
 #### Capítulo VII
 DEL FERIADO ANUAL Y DE LOS PERMISOS
 
-Art. 66. En los casos de nacimiento y muerte de un hijo así como en el de muerte del cónyuge, todo trabajador tendrá derecho a un día de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio. Dicho permiso deberá hacerse efectivo dentro de los tres días siguientes al hecho que lo origine.
+Art. 66. En el caso de muerte de un hijo así como en el de muerte del cónyuge, todo trabajador tendrá derecho a siete días corridos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
+Igual permiso se aplicará por tres días hábiles en el caso de muerte de un hijo en período de gestación así como en el de muerte del padre o de la madre del trabajador.
+Estos permisos deberán hacerse efectivos a partir del día del respectivo fallecimiento. No obstante, tratándose de una defunción fetal, el permiso se hará efectivo desde el momento de acreditarse la muerte, con el respectivo certificado de defunción fetal.
+El trabajador al que se refiere el inciso primero gozará de fuero laboral por un mes, a contar del respectivo fallecimiento. Sin embargo, tratándose de trabajadores cuyos contratos de trabajo sean a plazo fijo o por obra o servicio determinado, el fuero los amparará sólo durante la vigencia del respectivo contrato si éste fuera menor a un mes, sin que se requiera solicitar su desafuero al término de cada uno de ellos.
+Los días de permiso consagrados en este artículo no podrán ser compensados en dinero.
 
 Art. 67. Los trabajadores con más de un año de servicio tendrán derecho a un feriado anual de quince días hábiles, con remuneración íntegra que se otorgará de acuerdo con las formalidades que establezca el reglamento.
 Los trabajadores que presten servicios en la Duodécima Región de Magallanes y de la Antártica Chilena, en la Undécima Región de Aysén del General Carlos Ibáñez del Campo, y en la Provincia de Palena, tendrán derecho a un feriado anual de veinte días hábiles.
@@ -1252,7 +1256,7 @@ Las disposiciones anteriores comprenden las sucursales o dependencias de los est
 Estas disposiciones beneficiarán a todas las trabajadoras que dependan de cualquier empleador, comprendidas aquellas que trabajan en su domicilio y, en general, a todas las mujeres que estén acogidas a algún sistema previsional.
 Ningún empleador podrá condicionar la contratación de trabajadoras, su permanencia o renovación de contrato, o la promoción o movilidad en su empleo, a la ausencia o existencia de embarazo, ni exigir para dichos fines certificado o examen alguno para verificar si se encuentra o no en estado de gravidez.
 
-Art. 195. Las trabajadoras tendrán derecho a un descanso de maternidad de seis semanas antes del parto y doce semanas después de él. Sin perjuicio del permiso establecido en el artículo 66, el padre tendrá derecho a un permiso pagado de cuatro días en caso de nacimiento de un hijo, el que podrá utilizar a su elección desde el momento del parto, y en este caso será de días corridos, o distribuirlo dentro del primer mes desde la fecha del nacimiento. Este permiso también se otorgará al padre que se le conceda la adopción de un hijo, contado desde la respectiva sentencia definitiva. Este derecho es irrenunciable.
+Art. 195. Las trabajadoras tendrán derecho a un descanso de maternidad de seis semanas antes del parto y doce semanas después de él. El padre tendrá derecho a un permiso pagado de cinco días en caso de nacimiento de un hijo, el que podrá utilizar a su elección desde el momento del parto, y en este caso será de días corridos, o distribuirlo dentro del primer mes desde la fecha del nacimiento. Este permiso también se otorgará al padre que se le conceda la adopción de un hijo, contado desde la respectiva sentencia definitiva. Este derecho es irrenunciable.
 Si la madre muriera en el parto o durante el período del permiso posterior a éste, dicho permiso o el resto de él que sea destinado al cuidado del hijo, corresponderá al padre, quien gozará del fuero establecido en el artículo 201 de este Código y tendrá derecho al subsidio a que se refiere el artículo 198.
 El padre que sea privado por sentencia judicial del cuidado personal del menor, perderá el derecho a fuero establecido en el inciso anterior.
 Los derechos referidos en el inciso primero no podrán renunciarse y durante los períodos de descanso queda prohibido el trabajo de las mujeres embarazadas y puérperas.
