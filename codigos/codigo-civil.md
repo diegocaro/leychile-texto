@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2006-01-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2006-12-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2006-01-18
-fetched_at: 2026-08-03T01:37:07.379196+00:00
+version_date: 2006-12-30
+fetched_at: 2026-08-03T01:38:58.622044+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -568,13 +568,13 @@ Art. 172. El cónyuge inocente podrá revocar las donaciones que hubiere hecho a
 Art. 173. Los cónyuges separados judicialmente administran sus bienes con plena independencia uno del otro, en los términos del artículo 159.
 Lo anterior se entiende sin perjuicio de lo dispuesto en el Párrafo 2 del Título VI del Libro Primero de este Código.
 
-Art. 174. El cónyuge que no haya dado causa al divorcio tendrá derecho a que el otro cónyuge lo provea de alimentos según las reglas generales.
+Art. 174. El cónyuge que no haya dado causa a la separación judicial tendrá derecho a que el otro cónyuge lo provea de alimentos según las reglas generales.
 
 Art. 175. El cónyuge que haya dado causa a la separación judicial por su culpa, tendrá derecho para que el otro cónyuge lo provea de lo que necesite para su modesta sustentación; pero en este caso, el juez reglará la contribución teniendo en especial consideración la conducta que haya observado el alimentario antes del juicio respectivo, durante su desarrollo o con posterioridad a él.
 
 Art. 176. Derogado.
 
-Art. 177. Si la culpabilidad del cónyuge contra quien se ha obtenido el divorcio fuere atenuada por circunstancias graves en la conducta del cónyuge que lo solicitó, podrá el juez moderar el rigor de las disposiciones precedentes.
+Art. 177. Si la culpabilidad del cónyuge contra quien se ha obtenido la separación judicial fuere atenuada por circunstancias graves en la conducta del cónyuge que la solicitó, podrá el juez moderar el rigor de las disposiciones precedentes.
 
 Art. 178. A la separación judicial, se aplicará lo dispuesto en los artículos 160 y 165.
 
