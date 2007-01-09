@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2006-12-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2007-01-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2006-12-30
-fetched_at: 2026-08-03T01:38:58.622044+00:00
+version_date: 2007-01-09
+fetched_at: 2026-08-03T01:39:39.556690+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1069,7 +1069,7 @@ Art. 326. El que para pedir alimentos reúna varios títulos de los enumerados e
 Entre varios ascendientes o descendientes debe recurrirse a los de próximo grado. Entre los de un mismo grado, como también entre varios obligados por un mismo título, el juez distribuirá la obligación en proporción a sus facultades. Habiendo varios alimentarios respecto de un mismo deudor, el juez distribuirá los alimentos en proporción a las necesidades de aquéllos.
 Sólo en el caso de insuficiencia de todos los obligados por el título preferente, podrá recurrirse a otro.
 
-Art. 327. Mientras se ventila la obligación de prestar alimentos, deberá el juez ordenar que se den provisoriamente, desde que en la secuela del juicio se le ofrezca fundamento plausible; sin perjuicio de la restitución, si la persona a quien se demandan obtiene sentencia absolutoria.
+Art. 327. Mientras se ventila la obligación de prestar alimentos, deberá el juez ordenar que se den provisoriamente, con el solo mérito de los documentos y antecedentes presentados; sin perjuicio de la restitución, si la persona a quien se demandan obtiene sentencia absolutoria.
 Cesa este derecho a la restitución, contra el que, de buena fe y con algún fundamento plausible, haya intentado la demanda.
 
 Art. 328. En el caso de dolo para obtener alimentos, serán obligados solidariamente a la restitución y a la indemnización de perjuicios todos los que han participado en el dolo.
@@ -8614,22 +8614,14 @@ Los que se encuentren detenidos, procesados o condenados por crimen, simple deli
 
 ## ARTICULO 7º: Fíjase el siguiente texto refundido, coordinado y sistematizado de la Ley Nº 14.908, sobre Abandono de Familia y Pago de Pensiones Alimenticias.
 
-Artículo 1º De los juicios de alimentos conocerá el juez de familia del domicilio del alimentante o del alimentario, a elección de este último, los que se tramitarán conforme a las normas del procedimiento
-NOTA:
-ordinario establecido en la ley que crea los juzgados de familia en lo no previsto por este cuerpo legal.
-La prueba será apreciada según las reglas de la sana crítica.
-Las apelaciones que se deduzcan se concederán en el solo efecto devolutivo.
-NOTA:
-El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
+Artículo 1º De los juicios de alimentos, conocerá el juez de familia del domicilio del alimentante o del alimentario, a elección de este último. Estos juicios se tramitarán conforme a la ley Nº 19.968, con las modificaciones establecidas en este cuerpo legal.
+Será competente para conocer de las demandas de aumento de la pensión alimenticia el mismo tribunal que decretó la pensión o el del nuevo domicilio del alimentario, a elección de éste.
+De las demandas de rebaja o cese de la pensión conocerá el tribunal del domicilio del alimentario.
+La madre, cualquiera sea su edad, podrá solicitar alimentos para el hijo ya nacido o que está por nacer. Si aquélla es menor, el juez deberá ejercer la facultad que le otorga el artículo 19 de la ley Nº 19.968, en interés de la madre.
 
-Art. 2º De los juicios de alimentos que se deban a menores, al cónyuge del alimentante cuando éste los solicitare conjuntamente con sus hijos menores, o a parientes mayores y menores de edad que los reclamaren conjuntamente, conocerá el juez de letras de menores del domicilio del alimentante o del alimentario a elección de este último. Dicha competencia no se verá alterada por llegar el menor a la mayoría de edad mientras el juicio se encontrare pendiente.
-Será competente para conocer de las demandas de aumento, rebaja o cese de la pensión alimenticia el mismo juez que decretó la pensión.
-La madre podrá solicitar alimentos para el hijo que está por nacer. Se aplicarán en este caso las reglas previstas para los alimentarios menores de edad.
-INCISO DEROGADO
-NOTA:
-La demanda podrá omitir la indicación del domicilio del demandado si éste no se conociera. En este caso, y en aquél en que el demandado no fuera habido en el domicilio señalado en la demanda, el juez deberá adoptar todas las medidas necesarias para determinar, en el más breve plazo, su domicilio actual.
-NOTA:
-El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
+Art. 2º La demanda podrá omitir la indicación del domicilio del demandado si éste no se conociera. En tal caso, el tribunal procederá en conformidad a lo previsto en el artículo 23 de la ley Nº 19.968.
+El demandado deberá informar al tribunal todo cambio de domicilio, de empleador y de lugar en que labore o preste servicios, dentro de treinta días contados desde que el cambio se haya producido.
+Al demandado que no dé cumplimiento a lo previsto en el inciso anterior se le impondrá, a solicitud de parte, una multa de 1 a 15 unidades tributarias mensuales, a beneficio fiscal.
 
 Art. 3º Para los efectos de decretar los alimentos cuando un menor los solicitare de su padre o madre, se presumirá que el alimentante tiene los medios para otorgarlos.
 En virtud de esta presunción, el monto mínimo de la pensión alimenticia que se decrete a favor de un menor alimentario no podrá ser inferior al cuarenta por ciento del ingreso mínimo remuneracional que corresponda según la edad del alimentante. Tratándose de dos o más menores, dicho monto no podrá ser inferior al 30% por cada uno de ellos.
@@ -8637,23 +8629,21 @@ Todo lo anterior es sin perjuicio de lo dispuesto en el inciso primero del artí
 Si el alimentante justificare ante el tribunal que carece de los medios para pagar el monto mínimo establecido en el inciso anterior, el juez podrá rebajarlo prudencialmente.
 Cuando los alimentos decretados no fueren pagados o no fueren suficientes para solventar las necesidades del hijo, el alimentario podrá demandar a los abuelos, de conformidad con lo que establece el artículo 232 del Código Civil.
 
-Art. 4º DEROGADO
-NOTA:
-NOTA:
-El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
+Art. 4º En los juicios en que se demanden alimentos el juez deberá pronunciarse sobre los alimentos provisorios, junto con admitir la demanda a tramitación, con el solo mérito de los documentos y antecedentes presentados.
+El demandado tendrá el plazo de cinco días para oponerse al monto provisorio decretado. En la notificación de la demanda deberá informársele sobre esta facultad.
+Presentada la oposición, el juez resolverá de plano, salvo que del mérito de los antecedentes estime necesario citar a una audiencia, la que deberá efectuarse dentro de los diez días siguientes.
+Si en el plazo indicado en el inciso segundo no existe oposición, la resolución que fija los alimentos provisorios causará ejecutoria.
+El tribunal podrá acceder provisionalmente a la solicitud de aumento, rebaja o cese de una pensión alimenticia, cuando estime que existen antecedentes suficientes que lo justifiquen.
+La resolución que decrete los alimentos provisorios o la que se pronuncie provisionalmente sobre la solicitud de aumento, rebaja o cese de una pensión alimenticia, será susceptible del recurso de reposición con apelación subsidiaria, la que se concederá en el solo efecto devolutivo y gozará de preferencia para su vista y fallo.
+El juez que no dé cumplimiento a lo previsto en el inciso primero incurrirá en falta o abuso que la parte agraviada podrá perseguir conforme al artículo 536 del Código Orgánico de Tribunales.
 
-Art. 5º En los juicios en que se solicitaren alimentos en favor de los hijos menores del demandado, siempre que exista fundamento plausible del derecho que se reclama, el juez deberá decretar los alimentos
-NOTA:
-provisorios que correspondan, una vez transcurrido el término de diez días contados desde la fecha de notificación de la demanda.
-Para estos efectos, se entenderá que existe fundamento plausible cuando se hubiere acreditado el título que habilita para pedir alimentos y no exista una manifiesta incapacidad para proveer.
-Dentro del término a que hace referencia el inciso primero, el demandado podrá exponer al tribunal los argumentos que estimare pertinentes respecto de la procedencia de los alimentos provisionales y acompañar los antecedentes en que se fundare. En la notificación de la demanda deberá informársele sobre esta facultad. Dicha presentación en modo alguno interrumpirá el curso del procedimiento ni será obstáculo para contestar la demanda en la oportunidad procesal que corresponda.
-En todo caso, el tribunal deberá, de oficio, pronunciarse sobre los alimentos provisorios, sea que el demandado haya deducido observaciones o haya dejado transcurrir el término a que se refiere el inciso primero.
-La resolución que se pronuncie sobre estos alimentos se notificará por carta certificada. Esta notificación se entenderá practicada el tercer día siguiente a aquél en que haya sido expedida la carta.
-NOTA:
-Podrá también el juez acceder provisionalmente a la solicitud de aumento, rebaja o cese de una pensión alimenticia, cuando estime que existen antecedentes suficientes que lo justifiquen. La solicitud correspondiente se tramitará como incidente.
-La resolución que decretare los alimentos provisorios o la que se pronunciare provisionalmente sobre la solicitud de aumento, rebaja o cese de una pensión alimenticia, será susceptible del recurso de reposición con apelación subsidiaria, la que se concederá en el solo efecto devolutivo y gozará de preferencia para su vista y fallo.
-NOTA:
-El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
+Art. 5º El juez, al proveer la demanda, ordenará que el demandado acompañe, en la audiencia preparatoria, las liquidaciones de sueldo, copia de la declaración de impuesto a la renta del año precedente y de las boletas de honorarios emitidas durante el año en curso y demás antecedentes que sirvan para determinar su patrimonio y capacidad económica. En el evento de que no disponga de tales documentos, acompañará, o extenderá en la propia audiencia, una declaración jurada, en la cual dejará constancia de su patrimonio y capacidad económica. La declaración de patrimonio deberá señalar el monto aproximado de sus ingresos ordinarios y extraordinarios, individualizando lo más completamente posible, si los tuviere, sus activos, tales como bienes inmuebles, vehículos, valores, derechos en comunidades o sociedades.
+Para efectos de lo anterior, el tribunal citará al demandado a la audiencia preparatoria personalmente o representado, bajo apercibimiento del apremio establecido en el artículo 543 del Código de Procedimiento Civil.
+Si el demandado no da cumplimiento a lo ordenado conforme al inciso primero, o si el tribunal lo estima necesario, deberá solicitar de oficio al Servicio de Impuestos Internos, a las Instituciones de Salud Previsional, a las Administradoras de Fondos de Pensiones y a cualquier otro organismo público o privado, los antecedentes que permitan acreditar la capacidad económica y el patrimonio del demandado.
+El ocultamiento de cualquiera de las fuentes de ingreso del demandado, efectuado en juicio en que se exija el cumplimiento de la obligación alimenticia, será sancionado con la pena de prisión en cualquiera de sus grados.
+El demandado que no acompañe todos o algunos de los documentos requeridos o no formule la declaración jurada, así como el que presente a sabiendas documentos falsos, y el tercero que le proporcione maliciosamente documentos falsos o inexactos o en que se omitan datos relevantes, con la finalidad de facilitarle el ocultamiento de sus ingresos, patrimonio o capacidad económica, serán sancionados con las penas del artículo 207 del Código Penal.
+La inclusión de datos inexactos y la omisión de información relevante en la declaración jurada que el demandado extienda conforme a este artículo, será sancionada con las penas del artículo 212 del Código Penal.
+Los actos celebrados por el alimentante con terceros de mala fe, con la finalidad de reducir su patrimonio en perjuicio del alimentario, así como los actos simulados o aparentes ejecutados con el propósito de perjudicar al alimentario, podrán revocarse conforme al artículo 2.468 del Código Civil. Para estos efectos, se entenderá que el tercero está de mala fe cuando conozca o deba conocer la intención fraudulenta del alimentante. Todo lo anterior es sin perjuicio de la responsabilidad penal que corresponda. La acción se tramitará como incidente, ante el juez de familia. La resolución que se pronuncie sobre esta materia será apelable en el solo efecto devolutivo.
 
 Art. 6º Las medidas precautorias en estos juicios podrán decretarse por el monto y en la forma que el tribunal determine de acuerdo con las circunstancias del caso.
 Toda resolución que fije una pensión de alimentos deberá determinar el monto y lugar de pago de la misma.
@@ -8664,17 +8654,17 @@ Cuando la pensión alimenticia no se fije en un porcentaje de los ingresos del a
 El Secretario del Tribunal, a requerimiento del alimentario, procederá a reliquidar la pensión alimenticia, de acuerdo con lo establecido en el inciso anterior.
 INCISO DEROGADO
 
-Art. 8º Las resoluciones judiciales que ordenen el pago de una pensión alimenticia por un trabajador dependiente establecerán, como modalidad de pago, la retención por parte del empleador. La resolución judicial que así lo ordene se notificará a la persona natural o jurídica que, por cuenta propia o ajena o en el desempeño de un empleo o cargo, deba pagar al alimentante su sueldo, salario o cualquier otra prestación en dinero, a fin de que retenga y entregue la suma o cuotas periódicas fijadas en ella directamente al alimentario, a su representante legal, o a la persona a cuyo cuidado esté.
+Art. 8º Las resoluciones judiciales que ordenen el pago de una pensión alimenticia, provisoria o definitiva, por un trabajador dependiente establecerán, como modalidad de pago, la retención por parte del empleador. La resolución judicial que así lo ordene se notificará a la persona natural o jurídica que, por cuenta propia o ajena o en el desempeño de un empleo o cargo, deba pagar al alimentante su sueldo, salario o cualquier otra prestación en dinero, a fin de que retenga y entregue la suma o cuotas periódicas fijadas en ella directamente al alimentario, a su representante legal, o a la persona a cuyo cuidado esté.
 La notificación de las resoluciones a que se refiere el inciso anterior se efectuará por carta certificada, dejándose testimonio en el proceso de que la persona fue notificada por este medio, de la fecha de entrega de la carta a la oficina de correos, la individualización de dicha oficina y el
 NOTA:
 número de comprobante emitido por ella, el cual se adherirá al proceso a continuación del testimonio. La notificación se entenderá practicada al tercero día hábil siguiente a la fecha recién aludida. Si la carta certificada fuere devuelta por la oficina de correos por no haberse podido entregar al destinatario, se adherirá al expediente.
-El demandado dependiente podrá solicitar al juez, por una sola vez, en cualquier estado del juicio y antes de la dictación de la sentencia, que sustituya, por otra modalidad de pago, la retención por parte del empleador.
+El demandado dependiente podrá solicitar al juez, por una sola vez, con fundamento plausible, en cualquier estado del juicio y antes de la dictación de la sentencia, que sustituya, por otra modalidad de pago, la retención por parte del empleador, siempre que dé garantías suficientes de pago íntegro y oportuno.
 La solicitud respectiva se tramitará como incidente. En caso de ser acogida, la modalidad de pago decretada quedará sujeta a la condición de su íntegro y oportuno cumplimiento.
 De existir incumplimiento, el juez, de oficio, y sin perjuicio de las sanciones y apremios que sean pertinentes, ordenará que en lo sucesivo la pensión alimenticia decretada se pague conforme al inciso primero.
 NOTA:
 El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
-Art. 9º. El juez podrá decretar o aprobar que se imputen, parcial o totalmente, al pago de la pensión las prestaciones determinadas que efectúe el alimentante con ocasión de la educación, salud, vivienda, alimentación, vestuario, recreación u otras necesidades del alimentario.
+Art. 9º. El juez podrá decretar o aprobar que se imputen al pago de la pensión, parcial o totalmente, los gastos útiles o extraordinarios que efectúe el alimentante para satisfacer necesidades permanentes de educación, salud o vivienda del alimentario.
 El juez podrá también fijar o aprobar que la pensión alimenticia se impute total o parcialmente a un derecho de usufructo, uso o habitación sobre bienes del alimentante, quien no podrá enajenarlos ni gravarlos sin autorización del juez. Si se tratare de un bien raíz, la resolución judicial servirá de título para inscribir los derechos reales y la prohibición de enajenar o gravar en los registros correspondientes del Conservador de Bienes Raíces. Podrá requerir estas inscripciones el propio alimentario.
 La constitución de los mencionados derechos reales no perjudicará a los acreedores del alimentante cuyos créditos tengan una causa anterior a su inscripción.
 En estos casos, el usufructuario, el usuario y el que goce del derecho de habitación estarán exentos de las obligaciones que para ellos establecen los artículos 775 y 813 del Código Civil, respectivamente, estando sólo obligados a confeccionar un inventario simple. Se aplicarán al usufructuario las normas de los artículos 819, inciso primero, y 2466, inciso tercero, del Código Civil.
@@ -8701,41 +8691,41 @@ NOTA:
 NOTA:
 El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
-Art. 13. Si la persona natural o jurídica que deba hacer la retención a que se refiere el artículo 8º, desobedeciere la respectiva orden judicial, incurrirá en multa, a beneficio fiscal, equivalente al doble de la cantidad mandada retener, lo que no obsta para que se despache en su contra o en contra del alimentante el mandamiento de ejecución que corresponda.
-La multa se decretará incidentalmente por el tribunal que conoció del juicio de alimentos en primera o en única instancia, y la resolución que la imponga tendrá mérito ejecutivo una vez ejecutoriada.
-NOTA:
-El empleador deberá dar cuenta al tribunal del término de la relación laboral con el alimentante. En caso de incumplimiento, el tribunal determinará la responsabilidad de aquél en el hecho y aplicará, si correspondiere, la sanción establecida en los incisos precedentes. La notificación a que se refiere el artículo 8° deberá expresar dicha circunstancia.
+Art. 13. Si la persona natural o jurídica que deba hacer la retención a que se refieren los artículos 8º y 11, desobedeciere la respectiva orden judicial, incurrirá en multa, a beneficio fiscal, equivalente al doble de la cantidad mandada retener, lo que no obsta para que se despache en su contra o en contra del alimentante el mandamiento de ejecución que corresponda.
+La resolución que imponga la multa tendrá mérito ejecutivo una vez ejecutoriada.
+El empleador deberá dar cuenta al tribunal del término de la relación laboral con el alimentante. En caso de incumplimiento, el tribunal aplicará, si correspondiere, la sanción establecida en los incisos precedentes. La notificación a que se refiere el artículo 8° deberá expresar dicha circunstancia.
 En caso de que sea procedente el pago de la indemnización sustitutiva del aviso previo a que se refieren los artículos 161 y 162 del Código del Trabajo, será obligación del empleador retener de ella la suma equivalente a la pensión alimenticia del mes siguiente a la fecha de término de la relación laboral, para su pago al alimentario.
 Asimismo, si fuere procedente la indemnización por años de servicio a que hace referencia el artículo 163 del Código del Trabajo, o se pactare ésta voluntariamente, el empleador estará obligado a retener del total de dicha indemnización el porcentaje que corresponda al monto de la pensión de alimentos en el ingreso mensual del trabajador, con el objeto de realizar el pago al alimentario. El alimentante podrá, en todo caso, imputar el monto retenido y pagado a las pensiones futuras que se devenguen.
-NOTA:
-El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
+El no cumplimiento de las retenciones establecidas en los dos incisos precedentes hará aplicable al empleador la multa establecida en el inciso primero de este artículo, sin perjuicio de la responsabilidad civil y penal que corresponda.
 
-Art. 14. Si decretados los alimentos por resolución que cause ejecutoria en favor del cónyuge, de los padres, de los hijos o del adoptado, el alimentante no hubiere cumplido su obligación en la forma pactada u ordenada o hubiere dejado de pagar una o más cuotas, el tribunal que dictó la resolución deberá, a petición de parte o de oficio y sin más trámite, imponer al deudor como medida de apremio, el arresto nocturno entre las veintidós horas de cada día hasta las seis horas del día siguiente, hasta por quince días. El juez podrá repetir esta medida hasta obtener el íntegro pago de la obligación.
+Art. 14. Si decretados los alimentos por resolución que cause ejecutoria en favor del cónyuge, de los padres, de los hijos o del adoptado, el alimentante no hubiere cumplido su obligación en la forma pactada u ordenada o hubiere dejado de pagar una o más de las pensiones decretadas, el tribunal que dictó la resolución deberá, a petición de parte o de oficio y sin necesidad de audiencia, imponer al deudor como medida de apremio, el arresto nocturno entre las veintidós horas de cada día hasta las seis horas del día siguiente, hasta por quince días. El juez podrá repetir esta medida hasta obtener el íntegro pago de la obligación.
 Si el alimentante infringiere el arresto nocturno o persistiere en el incumplimiento de la obligación alimenticia después de dos periodos de arresto nocturno, el juez podrá apremiarlo con arresto hasta por quince días. En caso de que procedan nuevos apremios, podrá ampliar el arresto hasta por 30 días.
-Para los efectos de los incisos anteriores, el tribunal que dictare el apremio ordenará a la fuerza pública que conduzca al alimentante directamente ante Gendarmería de Chile, a fin de darle cumplimiento. Si el alimentante no fuere habido en el domicilio que consta en el proceso, el juez adoptará todas las medidas necesarias para hacer efectivo el apremio.
+Para los efectos de los incisos anteriores, el tribunal que dicte el apremio, si lo estima estrictamente necesario, podrá facultar a la policía para allanar y descerrajar el domicilio del demandado y ordenará que éste sea conducido directamente ante Gendarmería de Chile. La policía deberá intimar previamente la actuación a los moradores, entregándoles una comunicación escrita o fijándola en lugar visible del domicilio. Si el alimentante no es habido en el domicilio que consta en el proceso, el juez ordenará a la fuerza pública investigar su paradero y adoptará todas las medidas necesarias para hacer efectivo el apremio.
+En todo caso, la policía podrá arrestar al demandado en cualquier lugar en que éste se encuentre.
 En caso de que fuere necesario decretar dos o más apremios por la falta de pago de unas mismas cuotas, las pensiones alimenticias atrasadas devengarán el interés corriente entre la fecha de vencimiento de la respectiva cuota y la del pago efectivo.
 En las situaciones contempladas en este artículo, el juez dictará también orden de arraigo en contra del alimentante, la que permanecerá vigente hasta que se efectúe el pago de lo adeudado. Para estos efectos, las órdenes de apremio y de arraigo expresarán el monto de la deuda, y podrá recibir válidamente el pago la unidad policial que les dé cumplimiento, debiendo entregar comprobante al deudor. Esta disposición se aplicará asimismo en el caso del arraigo a que se refiere el artículo 10.
 Si el alimentante justificare ante el tribunal que carece de los medios necesarios para el pago de su obligación alimenticia, podrá suspenderse el apremio y el arraigo, y no tendrá aplicación lo dispuesto en el inciso cuarto. Igual decisión podrá adoptar el tribunal, de oficio, a petición de parte o de Gendarmería de Chile, en caso de enfermedad, invalidez, embarazo y puerperio que tengan lugar entre las seis semanas antes del parto y doce semanas después de él, o de circunstancias extraordinarias que impidieren el cumplimiento del apremio o lo transformaren en extremadamente grave.
 
 Art. 15. El apremio regulado en el artículo precedente se aplicará al que, estando obligado a prestar alimentos a las personas mencionadas en dicha disposición, ponga término a la relación laboral por renuncia voluntaria o mutuo acuerdo con el empleador, sin causa justificada, después de la notificación de la demanda y carezca de rentas que sean suficientes para poder cumplir la obligación alimenticia.
 
-Art. 16. DEROGADO
+Art. 16. Sin perjuicio de los demás apremios y sanciones previstos en la ley, existiendo una o más pensiones insolutas, el juez adoptará, a petición de parte, las siguientes medidas:
+1. Ordenará, en el mes de marzo de cada año, a la Tesorería General de la República, que retenga de la devolución anual de impuestos a la renta que corresponda percibir a deudores de pensiones alimenticias, los montos insolutos y las pensiones que se devenguen hasta la fecha en que debió haberse verificado la devolución.
+La Tesorería deberá comunicar al tribunal respectivo el hecho de la retención y el monto de la misma.
+2. Suspenderá la licencia para conducir vehículos motorizados por un plazo de hasta seis meses, prorrogables hasta por igual período, si el alimentante persiste en el incumplimiento de su obligación. Dicho término se contará desde que se ponga a disposición del administrador del Tribunal la licencia respectiva.
+En el evento de que la licencia de conducir sea necesaria para el ejercicio de la actividad o empleo que genera ingresos al alimentante, éste podrá solicitar la interrupción de este apremio, siempre que garantice el pago de lo adeudado y se obligue a solucionar, dentro de un plazo que no podrá exceder de quince días corridos, la cantidad que fije el juez, en relación con los ingresos mensuales ordinarios y extraordinarios que perciba el alimentante.
+Las medidas establecidas en este artículo procederán también respecto del alimentante que se encuentre en la situación prevista en el artículo anterior.
 
 Art. 17. DEROGADO
 
-Art. 18. Serán solidariamente responsables del pago de la obligación alimenticia quien viviere en concubinato con el padre, madre o cónyuge alimentante, y los que, sin derecho para ello, dificultaren o imposibilitaren el fiel y oportuno cumplimiento de dicha obligación.
+Art. 18. Serán solidariamente responsables del pago de la obligación alimenticia los que, sin derecho para ello, dificultaren o imposibilitaren el fiel y oportuno cumplimiento de dicha obligación. El tercero que colabore con el ocultamiento del paradero del demandado para efectos de impedir su notificación o el cumplimiento de alguna de las medidas de apremio establecidas en la presente ley, será sancionado con la pena de reclusión nocturna, entre las veintidós horas de cada día hasta las seis horas del día siguiente, hasta por quince días.
 
-Art. 19. Si constare en el proceso que en contra del alimentante se hubiere decretado dos veces alguno de los apremios señalados en el artículo 14, procederá en su caso, ante el tribunal que corresponda
-NOTA:
-y siempre a petición del titular de la acción respectiva, lo siguiente:
+Art. 19. Si constare en el proceso que en contra del alimentante se hubiere decretado dos veces alguno de los apremios señalados en los artículos 14 y 16, procederá en su caso, ante el tribunal que corresponda y siempre a petición del titular de la acción respectiva, lo siguiente:
 1. Decretar la separación de bienes de los cónyuges.
 2. Autorizar a la mujer para actuar conforme a lo dispuesto en el inciso segundo del artículo 138 del Código Civil, sin que sea necesario acreditar el perjuicio a que se refiere dicho inciso.
+3. Autorizar la salida del país de los hijos menores de edad sin necesidad del consentimiento del alimentante, en cuyo caso procederá en conformidad a lo dispuesto en el inciso sexto del artículo 49 de la ley Nº 16.618.
 La circunstancia señalada en el inciso anterior será especialmente considerada para resolver sobre:
-a) La autorización para la salida del país de los hijos menores de edad.
-b) La falta de contribución a que hace referencia el artículo 225 del Código Civil.
-c) La emancipación judicial por abandono del hijo a que se refiere el artículo 271, número 2, del Código Civil.
-NOTA:
-El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
+a) La falta de contribución a que hace referencia el artículo 225 del Código Civil.
+b) La emancipación judicial por abandono del hijo a que se refiere el artículo 271, número 2, del Código Civil.
 
 Art. 20. DEROGADO
 NOTA:

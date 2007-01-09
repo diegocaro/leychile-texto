@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2006-06-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2007-01-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2006-06-20
-fetched_at: 2026-08-03T01:38:03.591591+00:00
+version_date: 2007-01-09
+fetched_at: 2026-08-03T01:39:51.565372+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -987,8 +987,8 @@ Art. 145. La justificación, regulación y repartimiento de la avería común se
 
 Art. 146. Conocerá de todos los asuntos a que se refiere el Código de Minas, el juez letrado que tenga jurisdicción en la comuna o agrupación de comunas en que esté ubicada la pertenencia. Lo cual se entiende sin perjuicio de las disposiciones especiales que se establecen en el mismo Código de Minas, en este Código y en el de Procedimiento Civil.
 
-Art. 147. Será juez competente para conocer de las demandas de alimentos el del domicilio del alimentante o alimentario, a elección de este último.
-De las solicitudes de cese, aumento o rebaja de la pensión decretada, conocerá el juez que decretó la pensión.
+Art. 147. Será juez competente para conocer de las demandas de alimentos el del domicilio del alimentante o alimentario, a elección de este último. Asimismo, ello se aplicará a las solicitudes de aumento de pensiones alimenticias decretadas.
+De las solicitudes de cese o rebaja de la pensión decretada conocerá el tribunal del domicilio del alimentario.
 Asimismo, será juez competente para conocer de las acciones de reclamación de filiación contempladas en el Párrafo 2º del Título VIII del Libro I del Código Civil el del domicilio del demandado o demandante, a elección de este último.
 
 Art. 148. Será juez competente para conocer del juicio de petición de herencia, del de desheredamiento y del de validez o nulidad de disposiciones testamentarias, el del lugar donde se hubiere abierto la sucesión del difunto con arreglo a lo dispuesto por el artículo 955 del Código Civil.
