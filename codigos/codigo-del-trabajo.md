@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2006-12-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2007-02-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2006-12-16
-fetched_at: 2026-08-03T01:38:46.621599+00:00
+version_date: 2007-02-12
+fetched_at: 2026-08-03T01:39:57.565611+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1299,26 +1299,27 @@ c) se ejecute en horario nocturno;
 d) se realice en horas extraordinarias de trabajo, y
 e) la autoridad competente declare inconveniente para el estado de gravidez.
 
-Art. 203. Las empresas que ocupan veinte o más trabajadoras de cualquier edad o estado civil, deberán tener salas anexas e independientes del local de trabajo, en donde las mujeres puedan dar alimento a sus hijos menores de dos años y dejarlos mientras estén en el trabajo. Igual obligación corresponderá a los centros o complejos comerciales
-NOTA:
-administrados bajo una misma razón social o personalidad jurídica, cuyos establecimientos ocupen entre todos, veinte o más trabajadoras.
-El mayor gasto que signifique la sala cuna se entenderá común y deberán concurrir a él todos los establecimientos en la misma proporción de los demás gastos de ese carácter.
+Art. 203. Las empresas que ocupan veinte o más trabajadoras de cualquier edad o estado civil, deberán tener salas anexas e independientes del local de trabajo, en donde las mujeres puedan dar alimento a sus hijos menores de dos años y dejarlos mientras estén en el trabajo. Igual obligación corresponderá a los centros o complejos comerciales e industriales y de servicios administrados bajo una misma razón social o personalidad jurídica, cuyos establecimientos ocupen entre todos, veinte o más trabajadoras. El mayor gasto que signifique la sala cuna se entenderá común y deberán concurrir a él todos los establecimientos en la misma proporción de los demás gastos de ese carácter.
 Las salas cunas deberán reunir las condiciones de higiene y seguridad que determine el reglamento.
 Con todo, los establecimientos de las empresas a que se refiere el inciso primero, y que se encuentren en una misma área geográfica, podrán, previo informe favorable de la Junta Nacional de Jardines Infantiles, construir o habilitar y mantener servicios comunes de salas cunas para la atención de los niños de las trabajadoras de todos ellos.
 En los períodos de vacaciones determinados por el Ministerio de Educación, los establecimientos educacionales podrán ser facilitados para ejercer las funciones de salas cunas. Para estos efectos, la Junta Nacional de Jardines Infantiles podrá celebrar convenios con el Servicio Nacional de la Mujer, las municipalidades u otras entidades públicas o privadas.
 Se entenderá que el empleador cumple con la obligación señalada en este artículo si paga los gastos de sala cuna directamente al establecimiento al que la mujer trabajadora lleve sus hijos menores de dos años.
 El empleador designará la sala cuna a que se refiere el inciso anterior, de entre aquellas que cuenten con la autorización de la Junta Nacional de Jardines Infantiles.
-El permiso a que se refiere el artículo 206 se ampliará en el tiempo necesario para el viaje de ida y vuelta de la madre para dar alimento a sus hijos.
-El empleador pagará el valor de los pasajes por el transporte que deba emplearse para la ida y regreso del menor al respectivo establecimiento y el de los que deba utilizar la madre en el caso a que se refiere el inciso anterior.
-NOTA:
-El Art. único de la LEY 19824, publicada el 30.09.2002, introdujo una modificación al presente artículo, la que no ha sido incorporada en el presente texto refundido sino que en el texto vigente a la fecha de publicación de la norma modificatoria.
+INCISO SUPRIMIDO
+El empleador pagará el valor de los pasajes por el transporte que deba emplearse para la ida y regreso del menor al respectivo establecimiento.
 
 Art. 204 Cuando se trate de construir o transformar salas cunas, los propietarios de los establecimientos respectivos deberán someter previamente los planos a la aprobación de la comisión técnica del plan nacional de edificaciones escolares del Ministerio de Educación Pública.
 
 Art. 205. El mantenimiento de las salas cunas será de costo exclusivo del empleador, quien deberá tener una persona competente a cargo de la atención y cuidado de los niños, la que deberá estar, preferentemente, en posesión del certificado de auxiliar de enfermería otorgado por la autoridad competente.
 
-Art. 206. Las madres tendrán derecho a disponer, para dar alimento a sus hijos de dos porciones de tiempo que en conjunto no excedan de una hora al día, las que se considerarán como trabajadas efectivamente para los efectos del pago de sueldo, cualquiera que sea el sistema de remuneración.
-El derecho a usar de este tiempo con el objeto indicado, no podrá ser renunciado en forma alguna.
+Art. 206. Las trabajadoras tendrán derecho a disponer, a lo menos, de una hora al día, para dar alimento a sus hijos menores de dos años. Este derecho podrá ejercerse de alguna de las siguientes formas a acordar con el empleador:
+a) En cualquier momento dentro de la jornada de trabajo.
+b) Dividiéndolo, a solicitud de la interesada, en dos porciones.
+c) Postergando o adelantando en media hora, o en una hora, el inicio o el término de la jornada de trabajo.
+Este derecho podrá ser ejercido preferentemente en la sala cuna, o en el lugar en que se encuentre el menor.
+Para todos los efectos legales, el tiempo utilizado se considerará como trabajado.
+El derecho a alimentar consagrado en el inciso primero, no podrá ser renunciado en forma alguna y le será aplicable a toda trabajadora que tenga hijos menores de dos años, aun cuando no goce del derecho a sala cuna, según lo preceptuado en el artículo 203.
+Tratándose de empresas que estén obligadas a lo preceptuado en el artículo 203, el período de tiempo a que se refiere el inciso primero se ampliará al necesario para el viaje de ida y vuelta de la madre para dar alimentos a sus hijos. En este caso, el empleador pagará el valor de los pasajes por el transporte que deba emplearse para la ida y regreso de la madre.
 
 Art. 207. Corresponde a la Junta Nacional de Jardines Infantiles y a la Dirección del Trabajo velar por el cumplimiento de las disposiciones de este título.
 Cualquiera persona puede denunciar ante estos organismos las infracciones de que tuviere conocimiento.
