@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2007-02-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2007-02-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2007-02-12
-fetched_at: 2026-08-03T01:39:57.565611+00:00
+version_date: 2007-02-14
+fetched_at: 2026-08-03T01:40:11.694322+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -154,9 +154,19 @@ Quedarán excluidos de la limitación de jornada de trabajo los trabajadores que
 También quedarán excluidos de la limitación de jornada de trabajo los trabajadores que se desempeñen a bordo de naves pesqueras.
 Asimismo, quedan excluidos de la limitación de jornada, los trabajadores contratados para que presten sus servicios preferentemente fuera del lugar o sitio de funcionamiento de la empresa, mediante la utilización de medios informáticos o de telecomunicaciones.
 
-Art. 23. Sin perjuicio de lo señalado en el artículo anterior, los trabajadores que se desempeñen a bordo de naves pesqueras tendrán derecho a uno o varios descansos, los cuales, en conjunto, no podrán ser inferiores a doce horas dentro de cada veinticuatro horas. Cuando las necesidades de las faenas lo permitan, los descansos deberán cumplirse preferentemente en tierra. En caso de que se cumplan total o parcialmente a bordo de la nave, ésta deberá contar con las acomodaciones necesarias para ello.
-Cuando la navegación se prolongare por más de quince días, los trabajadores tendrán derecho a un descanso mínimo de ocho horas continuas dentro de cada día calendario, o no inferior a doce horas dentro del mismo período, dividido en no más de dos tiempos de descanso.
-En los casos en que la nave perdida por naufragio u otra causa esté asegurada, se pagarán con el seguro, de preferencia a toda otra deuda, las sumas que se deban a la tripulación por remuneraciones, desahucios e indemnizaciones.
+Art. 23. Sin perjuicio de lo señalado en el artículo anterior, los trabajadores que se desempeñen a bordo de naves pesqueras tendrán derecho a uno o varios descansos, los cuales, en conjunto, no podrán ser inferiores a doce horas dentro de cada veinticuatro horas.
+Cuando las necesidades de las faenas lo permitan, los descansos deberán cumplirse preferentemente en tierra. En caso de que se cumplan total o parcialmente a bordo de la nave, ésta deberá contar con las acomodaciones necesarias para ello.
+Cuando la navegación se prolongare por doce días o menos, toda la dotación tendrá derecho a un descanso en tierra de ocho horas como mínimo previo al zarpe, prevaleciendo los acuerdos de las partes siempre y cuando éstos sean superiores a ese mínimo. Este descanso deberá otorgarse en forma continua a cada miembro de la dotación, en cada recalada programada de la nave de pesca.
+En el caso de las navegaciones por períodos de más de doce días, así como en las campañas de pesca de la zona sur austral, en las que la dotación ocupa las dependencias de la nave de pesca habilitadas para ello como su hogar, el descanso previo al zarpe podrá ser otorgado efectivamente en tierra o en dichas instalaciones, a elección del trabajador.
+Sólo con acuerdo celebrado entre el armador y las organizaciones sindicales representativas del personal embarcado, se podrá modificar el descanso a que se refieren los incisos anteriores. El acuerdo deberá reunir, copulativamente, los siguientes requisitos:
+a) no podrá convenirse un descanso previo al zarpe inferior a cinco horas en puerto base;
+b) no podrá convenirse un descanso previo al zarpe inferior a tres horas en puertos secundarios. Este descanso podrá realizarse donde las partes convengan;
+c) deberá tener una duración no menor a dos años ni superior a cuatro años;
+d) deberá remitirse copia del acuerdo a la Inspección del Trabajo, dentro de los cinco días siguientes a su celebración.
+Para los efectos del cómputo del descanso previo al zarpe que se establece en este artículo, se entenderá que el zarpe se inicia con las labores de alistamiento que le preceden.
+Cuando la navegación se prolongare por más de doce días, los trabajadores tendrán derecho a un descanso mínimo de ocho horas continuas dentro de cada día calendario, o no inferior a doce horas dentro del mismo período, dividido en no más de dos tiempos de descanso.
+
+Art. 23 Bis. En los casos en que la nave perdida por naufragio u otra causa esté asegurada, se pagarán con el seguro, de preferencia a toda otra deuda, las sumas que se deban a la tripulación por remuneraciones, desahucios e indemnizaciones.
 En el caso de desahucio e indemnizaciones, la preferencia se limitará al monto establecido en el inciso cuarto del artículo 61.
 A los tripulantes que después del naufragio hubieren trabajado para recoger los restos de la nave o lo posible de la carga, se les pagará, además, una gratificación proporcionada a los esfuerzos hechos y a los riesgos arrostrados para conseguir el salvamento.
 
