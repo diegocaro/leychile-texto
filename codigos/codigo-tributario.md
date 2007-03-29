@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2006-10-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2007-03-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2006-10-18
-fetched_at: 2026-08-03T01:38:34.619359+00:00
+version_date: 2007-03-29
+fetched_at: 2026-08-03T01:40:47.711582+00:00
 titulo_norma: "APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -612,7 +612,11 @@ Será competente para conocer de las reclamaciones el Director Regional de la un
 El conocimiento de las infracciones a las normas tributarias y la aplicación de las sanciones pecuniarias por tales infracciones, corresponderá al Director Regional que tenga competencia en el territorio donde tiene su domicilio el infractor.
 Tratándose de infracciones cometidas en una sucursal del contribuyente, conocerá de ellas el Director Regional que tenga competencia en el territorio dentro del cual se encuentre ubicada dicha sucursal.
 
-Artículo 116.- El Director Regional podrá autorizar a funcionarios del Servicio para conocer y fallar reclamaciones y denuncias obrando "por orden del Director Regional".
+Art. 116. DEROGADO
+|
+NOTA:
+NOTA:
+Por Sentencia del Tribunal Constitucional, publicada el 29.03.2007, el presente artículo fue declarado inconstitucional por aplicación del Art. 94 inciso 3º de la Constitución Política de la República, debiendo considerarse como derogado a contar de la fecha de publicación de la sentencia.
 
 Artículo 117.- Derogado.
 
