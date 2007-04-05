@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2007-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2007-04-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2007-03-01
-fetched_at: 2026-08-03T01:40:35.705596+00:00
+version_date: 2007-04-05
+fetched_at: 2026-08-03T01:40:59.720086+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -174,9 +174,6 @@ Pitrufquén, con dos jueces, con competencia sobre las comunas de Freire, Pitruf
 Loncoche, con un juez, con competencia sobre la misma comuna.
 Villarrica, con dos jueces, con competencia sobre la misma comuna.
 Décima Región de Los Lagos:
-Mariquina, con un juez, con competencia sobre las comunas de Mariquina y Lanco.
-Valdivia, con tres jueces, con competencia sobre las comunas de Valdivia y Corral.
-Los Lagos, con un juez, con competencia sobre las comunas de Máfil, Los Lagos y Futrono.
 Osorno, con cuatro jueces, con competencia sobre las comunas de San Juan de la Costa, San Pablo, Osorno y Puyehue.
 Río Negro, con un juez, con competencia sobre las comunas de Río Negro, Puerto Octay y Purranque.
 Puerto Varas, con un juez, con competencia sobre las comunas de Fresia, Frutillar, Puerto Varas y Llanquihue.
@@ -187,6 +184,10 @@ Undécima Región de Aisén del General Carlos Ibáñez del Campo:
 Coihaique, con dos jueces, con competencia sobre las comunas de Coihaique y Río Ibáñez.
 Duodécima Región de Magallanes y la Antártica Chilena:
 Punta Arenas, con cuatro jueces, con competencia sobre las comunas de Laguna Blanca, San Gregorio, Río Verde, Punta Arenas, Navarino y Antártica.
+Decimocuarta Región de los Ríos:
+Mariquina, con un juez, con competencia sobre las comunas de Mariquina y Lanco.
+Valdivia, con tres jueces, con competencia sobre las comunas de Valdivia y Corral.
+Los Lagos, con un juez, con competencia sobre las comunas de Máfil, Los Lagos y Futrono.
 Región Metropolitana de Santiago:
 Colina, con cuatro jueces, con competencia sobre las comunas de Til Til, Colina y Lampa.
 Puente Alto, con siete jueces, con competencia sobre las comunas de Puente Alto, San José de Maipo y Pirque.
@@ -271,7 +272,6 @@ Angol, con tres jueces, con competencia sobre las comunas de Angol, Renaico, Col
 Temuco, con nueve jueces, con competencia sobre las comunas de Lonquimay, Curacautín, Galvarino, Perquenco, Carahue, Nueva Imperial, Temuco, Lautaro, Vilcún, Melipeuco, Saavedra, Teodoro Schmidt, Freire, Cunco, Toltén, Pitrufquén, Gorbea, Cholchol y Padre Las Casas.
 Villarrica, con tres jueces, con competencia sobre las comunas de Loncoche, Villarrica, Pucón y Curarrehue.
 Décima Región de Los Lagos:
-Valdivia, con seis jueces, con competencia sobre las comunas de Mariquina, Lanco, Panguipulli, Máfil, Valdivia, Los Lagos, Corral, Paillaco, Futrono, La Unión, Lago Ranco y Río Bueno.
 Osorno, con seis jueces, con competencia sobre las comunas de San Juan de la Costa, San Pablo, Osorno, Puyehue, Río Negro, Puerto Octay y Purranque.
 Puerto Montt, con seis jueces, con competencia sobre las comunas de Fresia, Frutillar, Puerto Varas, Llanquihue, Los Muermos, Puerto Montt, Cochamó, Maullín, Calbuco, Hualaihué, Chaitén, Futaleufú y Palena.
 Castro, con tres jueces, con competencia sobre las comunas de Ancud, Quemchi, Dalcahue, Castro, Curaco de Vélez, Quinchao, Chonchi, Puqueldón, Queilén y Quellón.
@@ -279,6 +279,8 @@ Undécima Región de Aisén del General Carlos Ibáñez del Campo:
 Coihaique, con tres jueces, con competencia sobre las comunas de Guaitecas, Cisnes, Aisén, Lago Verde, Coihaique, Río Ibáñez, Chile Chico, Cochrane, Tortel y OHiggins.
 Duodécima Región de Magallanes y la Antártica Chilena:
 Punta Arenas, con seis jueces, con competencia sobre las comunas de Natales, Torres del Paine, Laguna Blanca, San Gregorio, Río Verde, Punta Arenas, Primavera, Porvenir, Timaukel, Navarino y Antártica.
+Decimocuarta Región de los Ríos:
+Valdivia, con seis jueces, con competencia sobre las comunas de Mariquina, Lanco, Panguipulli, Máfil, Valdivia, Los Lagos, Corral, Paillaco, Futrono, La Unión, Lago Ranco y Río Bueno.
 Región Metropolitana de Santiago:
 Colina, con seis jueces, con competencia sobre las comunas de Til Til, Colina y Lampa.
 Puente Alto, con nueve jueces, con competencia sobre las comunas de Puente Alto, San José de Maipo y Pirque.
@@ -479,13 +481,6 @@ Un juzgado con asiento en la comuna de Lautaro, con competencia sobre las comuna
 Un juzgado con asiento en la comuna de Carahue, con competencia sobre las comunas de Carahue y Saavedra.
 
 Art. 37. En la Décima Región, de Los Lagos, existirán los siguientes juzgados de letras:
-Dos juzgados con asiento en la comuna de Valdivia, con competencia sobre las comunas de Valdivia y Corral;
-Un juzgado con asiento en la comuna de Mariquina, con competencia sobre las comunas de Mariquina, Máfil y Lanco;
-Un juzgado con asiento en la comuna de Los Lagos, con competencia sobre las comunas de Los Lagos y Futrono;
-Un juzgado con asiento en la comuna de Panguipulli, con competencia sobre la misma comuna;
-Un juzgado con asiento en la comuna de La Unión, con competencia sobre la misma comuna;
-Un juzgado con asiento en la comuna de Paillaco, con competencia sobre la misma comuna;
-Un juzgado con asiento en la comuna de Río Bueno, con competencia sobre las comunas de Río Bueno y Lago Ranco;
 Tres juzgados con asiento en la comuna de Osorno, con competencia sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
 Un juzgado con asiento en la comuna de Río Negro, con competencia sobre las comunas de Río Negro y Purranque;
 Dos juzgados con asiento en la comuna de Puerto Montt, con competencia sobre las comunas de Puerto Montt y Cochamó;
@@ -511,6 +506,15 @@ Art. 39. En la Décimo Segunda Región, de Magallanes y Antártica Chilena, exis
 Tres juzgados con asiento en la comuna de Punta Arenas, con competencia sobre las comunas de las provincias de Magallanes y Antártica Chilena;
 Un juzgado con asiento en la comuna de Natales, con competencia sobre las comunas de la provincia de Ultima Esperanza, y
 Un juzgado con asiento en la comuna de Porvenir, con competencia sobre las comunas de la provincia de Tierra del Fuego.
+
+Art. 39 bis. En la Decimocuarta Región, de Los Ríos, existirán los siguientes juzgados de letras:
+Dos juzgados con asiento en la comuna de Valdivia, con competencia sobre las comunas de Valdivia y Corral;
+Un juzgado con asiento en la comuna de Mariquina, con competencia sobre las comunas de Mariquina, Máfil y Lanco;
+Un juzgado con asiento en la comuna de Los Lagos, con competencia sobre las comunas de Los Lagos y Futrono;
+Un juzgado con asiento en la comuna de Panguipulli, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de La Unión, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Paillaco, con jurisdicción sobre la misma comuna, y
+Un juzgado con asiento en la comuna de Río Bueno, con jurisdicción sobre las comunas de Río Bueno y Lago Ranco.
 
 Art. 40. En la Región Metropolitana de Santiago, existirán los siguientes juzgados de letras:
 A.- JUZGADOS CIVILES:
