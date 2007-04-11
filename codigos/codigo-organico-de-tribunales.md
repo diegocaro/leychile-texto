@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2007-04-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2007-04-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2007-04-05
-fetched_at: 2026-08-03T01:40:59.720086+00:00
+version_date: 2007-04-11
+fetched_at: 2026-08-03T01:41:11.722806+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -106,7 +106,6 @@ Art. 15. La distribución de las causas entre los jueces de los juzgados de gara
 
 Art. 16. Existirá un juzgado de garantía con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indican:
 Primera Región de Tarapacá:
-Arica, con cinco jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones.
 Iquique, con cinco jueces, con competencia sobre las comunas de Iquique y Alto Hospicio.
 Segunda Región de Antofagasta:
 Tocopilla, con un juez, con competencia sobre la misma comuna.
@@ -188,6 +187,8 @@ Decimocuarta Región de los Ríos:
 Mariquina, con un juez, con competencia sobre las comunas de Mariquina y Lanco.
 Valdivia, con tres jueces, con competencia sobre las comunas de Valdivia y Corral.
 Los Lagos, con un juez, con competencia sobre las comunas de Máfil, Los Lagos y Futrono.
+Decimoquinta Región de Arica y Parinacota:
+Arica, con cinco jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones.
 Región Metropolitana de Santiago:
 Colina, con cuatro jueces, con competencia sobre las comunas de Til Til, Colina y Lampa.
 Puente Alto, con siete jueces, con competencia sobre las comunas de Puente Alto, San José de Maipo y Pirque.
@@ -236,7 +237,6 @@ Art. 20. Derogado.
 
 Art. 21. Existirá un tribunal de juicio oral en lo penal con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indican:
 Primera Región de Tarapacá:
-Arica, con seis jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones.
 Iquique, con nueve jueces, con competencia sobre las comunas de Huara, Camiña, Colchane, Iquique, Pozo Almonte, Alto Hospicio y Pica.
 Segunda Región de Antofagasta:
 Calama, con tres jueces, con competencia sobre las comunas de Calama, Ollagüe y San Pedro de Atacama.
@@ -281,6 +281,8 @@ Duodécima Región de Magallanes y la Antártica Chilena:
 Punta Arenas, con seis jueces, con competencia sobre las comunas de Natales, Torres del Paine, Laguna Blanca, San Gregorio, Río Verde, Punta Arenas, Primavera, Porvenir, Timaukel, Navarino y Antártica.
 Decimocuarta Región de los Ríos:
 Valdivia, con seis jueces, con competencia sobre las comunas de Mariquina, Lanco, Panguipulli, Máfil, Valdivia, Los Lagos, Corral, Paillaco, Futrono, La Unión, Lago Ranco y Río Bueno.
+Decimoquinta Región de Arica y Parinacota:
+Arica, con seis jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones
 Región Metropolitana de Santiago:
 Colina, con seis jueces, con competencia sobre las comunas de Til Til, Colina y Lampa.
 Puente Alto, con nueve jueces, con competencia sobre las comunas de Puente Alto, San José de Maipo y Pirque.
@@ -358,7 +360,6 @@ Art. 27. Sin perjuicio de lo que se previene en los artículo 28 al 40, en cada 
 Los nuevos juzgados que se instalen tendrán como territorio jurisdiccional la respectiva comuna y, en consecuencia, dejarán de ser competentes en esos territorios los juzgados que anteriormente tenían jurisdicción sobre dichas comunas.
 
 Art. 28. En la Primera Región, de Tarapacá, existirán los siguientes juzgados de letras:
-Cuatro juzgados con asiento en la comuna de Arica, con competencia sobre las comunas de las provincias de Arica y Parinacota;
 Un juzgado con asiento en la comuna de Pozo Almonte, con competencia sobre las comunas de Pica, Pozo Almonte, Huara, Colchane y Camiña, y
 Tres juzgados con asiento en la comuna de Iquique, con competencia sobre las comunas de Iquique y Alto Hospicio.
 
@@ -516,6 +517,9 @@ Un juzgado con asiento en la comuna de La Unión, con competencia sobre la misma
 Un juzgado con asiento en la comuna de Paillaco, con jurisdicción sobre la misma comuna, y
 Un juzgado con asiento en la comuna de Río Bueno, con jurisdicción sobre las comunas de Río Bueno y Lago Ranco.
 
+Art. 39 ter. En la Decimoquinta Región, de Arica y Parinacota, existirán los siguientes juzgados de letras:
+Cuatro juzgados con asiento en la comuna de Arica, con competencia sobre las comunas de las provincias de Arica y Parinacota.
+
 Art. 40. En la Región Metropolitana de Santiago, existirán los siguientes juzgados de letras:
 A.- JUZGADOS CIVILES:
 Treinta juzgados de letras en lo civil, con asiento en la comuna de Santiago, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales;
@@ -612,8 +616,8 @@ Las Cortes de Apelaciones
 Art. 54. Habrá en la República diecisiete Cortes de Apelaciones, las que tendrán su asiento en las siguientes comunas: Arica, Iquique, Antofagasta, Copiapó, La Serena, Valparaíso, Santiago, San Miguel, Rancagua, Talca, Chillán, Concepción, Temuco, Valdivia, Puerto Montt, Coihaique y Punta Arenas.
 
 Art. 55. El territorio jurisdiccional de las Cortes de Apelaciones será el siguiente:
-a) El de la Corte de Arica comprenderá las provincias de Arica y Parinacota, de la Primera Región de Tarapacá;
-b) El de la Corte de Iquique comprenderá la provincia de Iquique, de la Primera Región de Tarapacá;
+a) El de la Corte de Arica comprenderá la Decimoquinta Región de Arica y Parinacota;
+b) El de la Corte de Iquique comprenderá la Primera Región de Tarapacá;
 c) El de la Corte de Antofagasta comprenderá la Segunda Región de Antofagasta;
 d) El de la Corte de Copiapó comprenderá la Tercera Región de Atacama;
 e) El de la Corte de la Serena comprenderá la Cuarta Región de Coquimbo;
