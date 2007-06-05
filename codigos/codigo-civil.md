@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2007-01-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2007-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2007-01-09
-fetched_at: 2026-08-03T01:39:39.556690+00:00
+version_date: 2007-06-05
+fetched_at: 2026-08-03T01:41:45.007069+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -7805,6 +7805,11 @@ Art. 2488. La ley no reconoce otras causas de preferencia que las indicadas en l
 
 Art. 2489. La quinta y última clase comprende los créditos que no gozan de preferencia.
 Los créditos de la quinta clase se cubrirán a prorrata sobre el sobrante de la masa concursada, sin consideración a su fecha.
+Sin perjuicio de lo anterior, si entre los créditos de esta clase figuraren algunos subordinados a otros, éstos se pagarán con antelación a aquéllos.
+La subordinación de créditos es un acto o contrato en virtud del cual uno o más acreedores de la quinta clase aceptan postergar, en forma total o parcial, el pago de sus acreencias en favor de otro u otros créditos de dicha clase, presentes o futuros. La subordinación también podrá ser establecida unilateralmente por el deudor en sus emisiones de títulos de crédito. En este último caso, y cuando sea establecida unilateralmente por el acreedor que acepta subordinarse, será irrevocable.
+El establecimiento de la subordinación y su término anticipado, cuando corresponda, deberán constar por escritura pública o documento privado firmado ante notario y protocolizado. La subordinación comprenderá el capital y los intereses, a menos que se exprese lo contrario.
+La subordinación establecida por uno o más acreedores será obligatoria para el deudor si éste ha concurrido al acto o contrato o lo acepta por escrito con posterioridad, así como si es notificado del mismo por un ministro de fe, con exhibición del instrumento. El incumplimiento de la subordinación dará lugar a indemnización de perjuicios en contra del deudor y a acción de reembolso contra el acreedor subordinado.
+La subordinación obligará a los cesionarios o herederos del acreedor subordinado y el tiempo durante el cual se encuentre vigente no se considerará para el cómputo de la prescripción de las acciones de cobro del crédito.
 
 Art. 2490. Los créditos preferentes que no puedan cubrirse en su totalidad por los medios indicados en los artículos anteriores, pasarán por el déficit a la lista de los créditos de la quinta clase, con los cuales concurrirán a prorrata.
 
