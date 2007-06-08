@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2007-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2007-06-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2007-06-05
-fetched_at: 2026-08-03T01:41:45.007069+00:00
+version_date: 2007-06-08
+fetched_at: 2026-08-03T01:42:07.994159+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -8387,13 +8387,10 @@ NOTA:
 NOTA:
 El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Artículo 28.- Cuando a un mayor de dieciséis y menor de dieciocho años de edad se le atribuyere un hecho constitutivo de delito, la declaración previa acerca del discernimiento será emitida por el juez de
+Artículo 28.- DEROGADO
 NOTA:
-garantía competente, a petición del Ministerio Público, en el plazo de quince días. Con dicho objetivo, se citará a una audiencia a todos los intervinientes, previa designación de un defensor para el menor si no tuviere uno de su confianza, a la que deberán concurrir con todos sus medios de prueba.
-Encontrándose firme la resolución del juez de garantía que declare que el menor ha actuado sin discernimiento, la comunicará al juez de familia, a fin de que este último determine si corresponde la aplicación de alguna de las medidas contempladas en el artículo 29.
-INCISO SUPRIMIDO
 NOTA:
-El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
+El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la derogación de la presente norma, rige dieciocho meses después de su publicación.
 
 Art. 29. DEROGADO
 NOTA:
