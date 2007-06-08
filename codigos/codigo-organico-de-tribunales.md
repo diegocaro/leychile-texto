@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2007-04-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2007-06-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2007-04-11
-fetched_at: 2026-08-03T01:41:11.722806+00:00
+version_date: 2007-06-08
+fetched_at: 2026-08-03T01:42:25.066137+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -99,8 +99,9 @@ b) Dirigir personalmente las audiencias que procedan, de conformidad a la ley pr
 c) Dictar sentencia, cuando corresponda, en el procedimiento abreviado que contemple la ley procesal penal;
 d) Conocer y fallar las faltas penales de conformidad con el procedimiento contenido en la ley procesal penal;
 e) Conocer y fallar, conforme a los procedimientos regulados en el Título I del Libro IV del Código Procesal Penal, las faltas e infracciones contempladas en la Ley de Alcoholes, cualquiera sea la pena que ella les asigne;
-f) Hacer ejecutar las condenas criminales y las medidas de seguridad, y resolver las solicitudes y reclamos relativos a dicha ejecución, de conformidad a la ley procesal penal, y
-g) Conocer y resolver todas las cuestiones y asuntos que este Código y la ley procesal penal les encomienden.
+f) Hacer ejecutar las condenas criminales y las medidas de seguridad, y resolver las solicitudes y reclamos relativos a dicha ejecución, de conformidad a la ley procesal penal;
+g) Conocer y resolver todas las cuestiones y asuntos que la ley de responsabilidad penal juvenil les encomienden, y
+h) Conocer y resolver todas las cuestiones y asuntos que este Código y la ley procesal penal les encomienden.
 
 Art. 15. La distribución de las causas entre los jueces de los juzgados de garantía se realizará de acuerdo a un procedimiento objetivo y general, que deberá ser anualmente aprobado por el comité de jueces del juzgado a propuesta del juez presidente, o sólo por este último, según corresponda.
 
@@ -128,7 +129,7 @@ San Felipe, con dos jueces, con competencia sobre las comunas de San Felipe, Cat
 Los Andes, con dos jueces, con competencia sobre las comunas de San Esteban, Rinconada, Calle Larga y Los Andes.
 Quillota, con dos jueces, con competencia sobre la misma comuna.
 Limache, con un juez, con competencia sobre las comunas de Limache y Olmué.
-Viña del Mar, con seis jueces, con competencia sobre las comunas de Viña del Mar y Concón.
+Viña del Mar, con siete jueces, con competencia sobre las comunas de Viña del Mar y Concón.
 Valparaíso, con nueve jueces, con competencia sobre las comunas de Valparaíso y Juan Fernández.
 Quilpué, con dos jueces, con competencia sobre la misma comuna.
 Villa Alemana, con dos jueces, con competencia sobre la misma comuna.
@@ -159,7 +160,7 @@ Talcahuano, con cuatro jueces, con competencia sobre las comunas de Talcahuano y
 Concepción, con siete jueces, con competencia sobre las comunas de Penco y Concepción.
 San Pedro de la Paz, con tres jueces, con competencia sobre la misma comuna.
 Chiguayante, con dos jueces, con competencia sobre las comunas de Chiguayante y Hualqui.
-Coronel, con un juez, con competencia sobre la misma comuna.
+Coronel, con dos jueces, con competencia sobre la misma comuna.
 Los Angeles, con cuatro jueces, con competencia sobre las comunas de Los Angeles, Quilleco y Antuco.
 Arauco, con un juez, con competencia sobre la misma comuna.
 Cañete, con un juez, con competencia sobre las comunas de Cañete, Contulmo y Tirúa.
@@ -178,7 +179,7 @@ Río Negro, con un juez, con competencia sobre las comunas de Río Negro, Puerto
 Puerto Varas, con un juez, con competencia sobre las comunas de Fresia, Frutillar, Puerto Varas y Llanquihue.
 Puerto Montt, con cuatro jueces, con competencia sobre las comunas de Puerto Montt y Cochamó.
 Ancud, con un juez, con competencia sobre las comunas de Ancud y Quemchi.
-Castro, con un juez, con competencia sobre las comunas de Dalcahue, Castro, Chonchi, Puqueldón y Queilén.
+Castro, con dos jueces, con competencia sobre las comunas de Dalcahue, Castro, Chonchi, Puqueldón y Queilén.
 Undécima Región de Aisén del General Carlos Ibáñez del Campo:
 Coihaique, con dos jueces, con competencia sobre las comunas de Coihaique y Río Ibáñez.
 Duodécima Región de Magallanes y la Antártica Chilena:
@@ -191,7 +192,7 @@ Decimoquinta Región de Arica y Parinacota:
 Arica, con cinco jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones.
 Región Metropolitana de Santiago:
 Colina, con cuatro jueces, con competencia sobre las comunas de Til Til, Colina y Lampa.
-Puente Alto, con siete jueces, con competencia sobre las comunas de Puente Alto, San José de Maipo y Pirque.
+Puente Alto, con ocho jueces, con competencia sobre las comunas de Puente Alto, San José de Maipo y Pirque.
 San Bernardo, con diez jueces, con competencia sobre las comunas de San Bernardo, Calera de Tango, Buin y Paine.
 Melipilla, con tres jueces, con competencia sobre las comunas de Melipilla, San Pedro y Alhué.
 Talagante, con siete jueces, con competencia sobre las comunas de Talagante, El Monte, Isla de Maipo, Peñaflor y Padre Hurtado.
@@ -200,12 +201,12 @@ Habrá además, con asiento en la comuna de Santiago, los siguientes juzgados de
 Primer Juzgado de Garantía de Santiago, con seis jueces, con competencia sobre la comuna de Pudahuel.
 Segundo Juzgado de Garantía de Santiago, con quince jueces, con competencia sobre las comunas de Quilicura, Huechuraba, Renca y Conchalí.
 Tercer Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de Independencia y Recoleta.
-Cuarto Juzgado de Garantía de Santiago, con diecisiete jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes y La Reina.
+Cuarto Juzgado de Garantía de Santiago, con dieciocho jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes y La Reina.
 Quinto Juzgado de Garantía de Santiago, con diez jueces, con competencia sobre las comunas de Cerro Navia y Lo Prado.
 Sexto Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de Estación Central y Quinta Normal.
-Séptimo Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre la comuna de Santiago.
-Octavo Juzgado de Garantía de Santiago, con nueve jueces, con competencia sobre las comunas de Providencia y Ñuñoa.
-Noveno Juzgado de Garantía de Santiago, con diecisiete jueces, con competencia sobre las comunas de Maipú y Cerrillos.
+Séptimo Juzgado de Garantía de Santiago, con diez jueces, con competencia sobre la comuna de Santiago.
+Octavo Juzgado de Garantía de Santiago, con diez jueces, con competencia sobre las comunas de Providencia y Ñuñoa.
+Noveno Juzgado de Garantía de Santiago, con dieciocho jueces, con competencia sobre las comunas de Maipú y Cerrillos.
 Décimo Juzgado de Garantía de Santiago, con cinco jueces, con competencia sobre las comunas de Lo Espejo y Pedro Aguirre Cerda.
 Undécimo Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de San Miguel, La Cisterna y El Bosque.
 Duodécimo Juzgado de Garantía de Santiago, con seis jueces, con competencia sobre las comunas de San Joaquín y La Granja.
@@ -224,8 +225,9 @@ La distribución de las causas entre las diversas salas se hará de acuerdo a un
 Art. 18. Corresponderá a los tribunales de juicio oral en lo penal:
 a) Conocer y juzgar las causas por crimen o simple delito, salvo aquellas relativas a simples delitos cuyo conocimiento y fallo corresponda a un juez de garantía;
 b) Resolver, en su caso, sobre la libertad o prisión preventiva de los acusados puestos a su disposición;
-c) Resolver todos los incidentes que se promuevan durante el juicio oral, y
-d) Conocer y resolver los demás asuntos que la ley procesal penal les encomiende.
+c) Resolver todos los incidentes que se promuevan durante el juicio oral;
+d) Conocer y resolver todas las cuestiones y asuntos que la ley de responsabilidad penal juvenil les encomienden, y
+e) Conocer y resolver los demás asuntos que la ley procesal penal les encomiende.
 
 Art. 19. Las decisiones de los tribunales de juicio oral en lo penal se regirán, en lo que no resulte contrario a las normas de este párrafo, por las reglas sobre acuerdos en las Cortes de Apelaciones contenidas en los artículos 72, 81, 83, 84 y 89 de este Código.
 Sólo podrán concurrir a las decisiones del tribunal los jueces que hubieren asistido a la totalidad de la audiencia del juicio oral.
@@ -293,7 +295,7 @@ Habrá además, con asiento en la comuna de Santiago, los siguientes tribunales 
 Primer Tribunal de Juicio Oral en lo Penal de Santiago, con dieciocho jueces, con competencia sobre las comunas de Lo Prado, Cerro Navia y Pudahuel.
 Segundo Tribunal de Juicio Oral en lo Penal de Santiago, con veintiún jueces, con competencia sobre las comunas de Quilicura, Huechuraba, Renca, Conchalí, Independencia y Recoleta.
 Tercer Tribunal de Juicio Oral en lo Penal de Santiago, con veinticuatro jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes, Providencia, Ñuñoa y La Reina.
-Cuarto Tribunal de Juicio Oral en lo Penal de Santiago, con quince jueces, con competencia sobre las comunas de Quinta Normal, Estación Central y Santiago.
+Cuarto Tribunal de Juicio Oral en lo Penal de Santiago, con dieciocho jueces, con competencia sobre las comunas de Quinta Normal, Estación Central y Santiago.
 Quinto Tribunal de Juicio Oral en lo Penal de Santiago, con dieciocho jueces, con competencia sobre las comunas de Maipú y Cerrillos.
 Sexto Tribunal de Juicio Oral en lo Penal de Santiago, con veintisiete jueces, con competencia sobre las comunas de Lo Espejo, Pedro Aguirre Cerda, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque y La Pintana.
 Séptimo Tribunal de Juicio Oral en lo Penal de Santiago, con veintisiete jueces, con competencia sobre las comunas de Macul, Peñalolén y La Florida.
@@ -573,6 +575,8 @@ Art. 47 A. Cuando se iniciare el funcionamiento extraordinario, se entenderá, p
 Quien debiere cumplir las funciones del secretario del tribunal, de acuerdo a las reglas generales, las llevará a efecto respecto del juez titular y de quien lo supliere o reemplazare.
 
 Art. 47 B. Las atribuciones de las Cortes de Apelaciones previstas en el artículo 47 serán ejercidas por una sala integrada solamente por Ministros titulares.
+
+Art. 47 C. Tratándose de los tribunales de juicio oral en lo penal, las Cortes de Apelaciones podrán ejercer las potestades señaladas en el artículo 47, ordenando que uno o más de los jueces del tribunal se aboquen en forma exclusiva al conocimiento de las infracciones de los adolescentes a la ley penal, en calidad de jueces de garantía, cuando el mejor servicio judicial así lo exigiere.
 
 Art. 48. Los jueces de letras de comunas asiento de Corte conocerán en primera instancia de las causas de hacienda, cualquiera que sea su cuantía.
 No obstante lo dispuesto en el inciso anterior, en los juicios en que el Fisco obre como demandante, podrá éste ocurrir a los tribunales allí indicados o al del domicilio del demandado, cualquiera que sea la naturaleza de la acción deducida.
@@ -2870,7 +2874,7 @@ Una copia del acta se remitirá al Ministerio de Justicia.
 Art. 585. En un libro que se tendrá en cada cárcel y establecimiento penal, el secretario de la visita pondrá copia de la parte del acta referente a cada uno.
 El jefe del establecimiento es responsable del cumplimiento de cuanto ordenare la visita.
 
-Art. 585 bis. Derogado.
+Art. 585 bis. Lo dispuesto en los artículos 567, 578, 580 y 581 será aplicable a los recintos en que se ejecuten las medidas de internación provisoria y de internación en régimen cerrado establecidas en la ley que regula la responsabilidad penal de los adolescentes.
 
 ### § 3. Estados y publicaciones
 
