@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2004-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2007-06-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2004-08-30
-fetched_at: 2026-08-03T01:26:03.599933+00:00
+version_date: 2007-06-26
+fetched_at: 2026-08-03T01:42:43.078401+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1174,8 +1174,9 @@ Art. 319. Las partes podrán pedir reposición, dentro de tercero día, de la re
 El tribunal se pronunciará de plano sobre la reposición o la tramitará como incidente.
 La apelación en contra de la resolución del artículo 318 sólo podrá interponerse en el carácter de subsidiaria de la reposición pedida y para el caso de que ésta no sea acogida. La apelación se concederá sólo en el efecto devolutivo.
 
-Art. 320 (309). Dentro de los cinco días siguientes a la última notificación de la resolución a que se refiere el artículo 318, cuando no se haya pedido reposición en conformidad al artículo anterior y en el caso contrario, dentro de los cinco días siguientes a la notificación por el estado de la resolución que se pronuncie sobre la última solicitud de reposición, cada parte deberá presentar una minuta de los puntos sobre que piense rendir prueba de testigos, enumerados y especificados con claridad y precisión.
-Deberá acompañar una nómina de los testigos de que piensa valerse, con expresión del nombre y apellido, domicilio, profesión u oficio. La indicación del domicilio deberá contener los datos necesarios a juicio del juzgado, para establecer la identificación del testigo.
+Art. 320 (309). Desde la primera notificación de la resolución a que se refiere el artículo 318, y hasta el quinto día de la última, cuando no se haya pedido reposición en conformidad al artículo anterior y en el caso contrario, dentro de los cinco días siguientes a la notificación por el estado de la resolución que se pronuncie sobre la última solicitud de reposición, cada parte deberá presentar una minuta de los puntos sobre que piense rendir prueba de testigos, enumerados y especificados con claridad y precisión.
+Deberá también acompañar una nómina de los testigos de que piensa valerse, con expresión del nombre y apellido, domicilio, profesión u oficio. La indicación del domicilio deberá contener los datos necesarios a juicio del juzgado, para establecer la identificación del testigo.
+Si habiéndose pedido reposición ya se hubiere presentado lista de testigos y minuta de puntos por alguna de las partes, no será necesario presentar nuevas lista ni minuta, salvo que, como consecuencia de haberse acogido el recurso, la parte que las presenta estime pertinente modificarlas.
 
 Art. 321 (310). No obstante lo dispuesto en el artículo anterior, es admisible la ampliación de la prueba cuando dentro del término probatorio ocurre algún hecho substancialmente relacionado con el asunto que se ventila.
 Será también admisible la ampliación a hechos verificados y no alegados antes de recibirse a prueba la causa, con tal que jure el que los aduce que sólo entonces han llegado a su conocimiento.
@@ -1538,7 +1539,13 @@ Sólo después de hecha esta designación, se llevará adelante el recurso.
 
 Art. 415 (417). Se presume que no están de acuerdo las partes cuando no concurren todas a la audiencia de que trata el artículo anterior; y en tal caso habrá lugar a lo dispuesto en el 2° inciso del mismo artículo.
 
-Art. 416 (418). Cuando el nombramiento se haga por el tribunal, se pondrá en conocimiento de las partes para que dentro del tercero día deduzcan su oposición, si tienen alguna incapacidad legal que reclamar contra el nombrado. Vencido este plazo sin que se formule oposición, se entenderá aceptado el nombramiento.
+Art. 416 (418). Cuando el nombramiento se haga por el tribunal, lo hará de entre los peritos de la especialidad requerida que figuren en las listas a que se refiere el artículo siguiente y la designación se pondrá en conocimiento de las partes para que dentro de tercero día deduzcan oposición, si tienen alguna incapacidad legal que reclamar contra el nombrado. Vencido este plazo sin que se formule oposición, se entenderá aceptado el nombramiento.
+
+Artículo 416 bis.- Las listas de peritos indicadas en el artículo precedente serán propuestas cada dos años por la Corte de Apelaciones respectiva, previa determinación del número de peritos que en su concepto deban figurar en cada especialidad.
+En el mes de octubre del final del bienio correspondiente, se elevarán estas nóminas a la Corte Suprema, la cual formará las definitivas, pudiendo suprimir o agregar nombres sin expresar causa.
+Para formar las listas, cada Corte de Apelaciones convocará a concurso público, al que podrán postular quienes posean y acrediten conocimientos especiales de alguna ciencia, arte o especialidad, para lo cual tendrán especialmente en cuenta la vinculación de los candidatos con la docencia y la investigación universitarias. El procedimiento para los concursos, su publicidad y la formación de las nóminas de peritos serán regulados mediante un Auto Acordado de la Corte Suprema, que se publicará en el Diario Oficial.
+NOTA
+Véase el Auto Acordado de la Corte Suprema, sobre confección de lista de peritos en el procedimiento civil, publicado el 21.08.2007.
 
 Art. 417 (419). El perito que acepte el cargo deberá declararlo así, jurando desempeñarlo con fidelidad.
 De esta declaración, que habrá de hacerse verbalmente o por escrito en el acto de la notificación o dentro de los tres días inmediatos, se dejará testimonio en los autos.
@@ -2487,23 +2494,16 @@ Deberá aplicarse, además, a los siguientes casos:
 2°. A las cuestiones que se susciten sobre constitución, ejercicio, modificación o extinción de servidumbres naturales o legales y sobre las prestaciones a que ellas den lugar;
 3°. A los juicios sobre cobro de honorarios, excepto el caso del artículo 697;
 4°. A los juicios sobre remoción de guardadores y a los que se susciten entre los representantes legales y sus representados;
-5°. DEROGADO;
+5°. Derogado;
 6°. A los juicios sobre depósito necesario y comodato precario;
-7°. A los juicios en que se deduzcan acciones
-NOTA:
-ordinarias a que se hayan convertido las ejecutivas, a virtud de lo dispuesto en el artículo 2515 del Código Civil;
+7°. A los juicios en que se deduzcan acciones ordinarias a que se hayan convertido las ejecutivas a virtud de lo dispuesto en el artículo 2515 del Código Civil;
 8°. A los juicios en que se persiga únicamente la declaración impuesta por la ley o el contrato, de rendir una cuenta, sin perjuicio de lo dispuesto en el artículo 696; y
-9°. A los juicios en que se ejercita el derecho que
-NOTA: 44
-concede el artículo 945 del Código Civil para hacer
-NOTA: 45
-cegar un pozo.
-NOTA:
-El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
-NOTA: 44
-La referencia al Art. 945 del Código Civil debe entenderse hecha al Art. 65 del Código de Aguas.
-NOTA: 45
-Véanse los Arts. 280 y 281 del Código de Aguas.
+9°. A los juicios en que se ejercite el derecho que concede el artículo 945 del Código Civil para hacer cegar un pozo.
+10. A los juicios en que se deduzcan las acciones civiles derivadas de un delito o cuasidelito, de conformidad con lo dispuesto en el artículo 59 del Código Procesal Penal y siempre que exista sentencia penal condenatoria ejecutoriada.
+NOTA
+La referencia al Artículo 945 del Código Civil, debe entenderse hecha al Art. 56 del Código de Aguas.
+NOTA 1
+Véase artículo 177 del Código de Aguas y véase, además, el párrafo segundo del Título III de la Ley 19300, publicada el 09.03.1994, sobre Bases Generales del Medio Ambiente.
 
 Art. 681. (839). En los casos del inciso 1° del artículo anterior, iniciado el procedimiento sumario podrá decretarse su continuación conforme a las reglas del juicio ordinario, si existen motivos fundados para ello.
 Por la inversa, iniciado un juicio como ordinario, podrá continuar con arreglo al procedimiento sumario, si aparece la necesidad de aplicarlo.
@@ -2745,6 +2745,7 @@ NOTA 1
 .
 Recibidos los autos, el tribunal revisará la sentencia en cuenta para el solo efecto de ponderar si ésta se encuentra ajustada a derecho. Si no mereciere reparos de esta índole, la aprobará sin más trámites. De lo contrario, retendrá el conocimiento del negocio y, en su resolución, deberá señalar los puntos que le merecen duda, ordenando traer los autos en relación. La vista de la causa se hará en la misma sala y se limitará estrictamente a los puntos de derecho indicados en la resolución.
 Las consultas serán distribuidas por el Presidente de la Corte, mediante sorteo, entre las salas en que ésta esté dividida.
+NOTA 1
 NOTA
 El Artículo Transitorio de la LEY 18882, publicada el 20.12.1989, dispuso que la modificación que introduce al artículo 534 del Código de Procedimiento Penal, regirá aún, respecto de aquellas causas en las cuales se hubiese ordenado traer los autos en relación, a menos que cualquiera de las partes solicite alegatos dentro de los seis días siguientes a la fecha de publicación de esta ley, en cuyo caso se mantendrá el decreto de autos, en relación. En el caso del presente artículo, se aplicará igual norma, pero no procederán alegatos.
 NOTA 1
@@ -2963,6 +2964,8 @@ NOTA
 os 701 y
 NOTA
 702.
+NOTA
+NOTA
 NOTA
 NOTA
 NOTA
