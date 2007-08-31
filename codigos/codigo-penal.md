@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2006-12-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2007-08-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2006-12-30
-fetched_at: 2026-08-03T01:39:10.852617+00:00
+version_date: 2007-08-31
+fetched_at: 2026-08-03T01:43:35.374292+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1997,6 +1997,9 @@ Cuando existieren sospechas fundadas de que una persona o una organización deli
 Igualmente, bajo los mismos supuestos previstos en el inciso precedente, podrá el tribunal, a petición del Ministerio Público, autorizar la intervención de agentes encubiertos. Mediando igual autorización y con el objeto exclusivo de facilitar la labor de estos agentes, los organismos policiales pertinentes podrán mantener un registro reservado de producciones del carácter investigado. Asimismo, podrán tener lugar entregas vigiladas de material respecto de la investigación de hechos que se instigaren o materializaren a través del intercambio de dichos elementos, en cualquier soporte.
 La actuación de los agentes encubiertos y las entregas vigiladas serán plenamente aplicables al caso en que la actuación de los agentes o el traslado o circulación de producciones se desarrolle a través de un sistema de telecomunicaciones.
 Los agentes encubiertos, el secreto de sus actuaciones, registros o documentos y las entregas vigiladas se regirán por las disposiciones de la ley Nº 19.366.
+
+ART. 369 quáter.
+En los delitos previstos en los dos párrafos anteriores, el plazo de prescripción de la acción penal empezará a correr para el menor de edad que haya sido víctima, al momento que cumpla 18 años.
 
 ART. 370.
 Además de la indemnización que corresponda conforme a las reglas generales, el condenado por los delitos previstos en los artículos 361 a 366 bis será obligado a dar alimentos cuando proceda de acuerdo a las normas del Código Civil.
