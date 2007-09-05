@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2007-06-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2007-09-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2007-06-08
-fetched_at: 2026-08-03T01:42:25.066137+00:00
+version_date: 2007-09-05
+fetched_at: 2026-08-03T01:43:49.142772+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2654,7 +2654,7 @@ Art. 524. Derogado.
 
 Art. 525. Derogado.
 
-Art. 526. Sólo los chilenos podrán ejercer la profesión de abogado. Lo dicho se entenderá sin perjuicio de lo que dispongan los tratados internacionales vigentes.
+Art. 526. Los chilenos, y los extranjeros residentes que hayan cursado la totalidad de sus estudios de derecho en Chile, podrán ejercer la profesión de abogado. Lo anterior se entenderá sin perjuicio de lo que dispongan los tratados internacionales vigentes.
 
 Art. 527. Las defensas orales ante cualquier tribunal de la República sólo podrán hacerse por un abogado habilitado para el ejercicio de la profesión. No obstante, los postulantes que estén realizando su práctica para obtener el título de abogado en las Corporaciones de Asistencia Judicial creadas por la ley N° 17.995, podrán hacer tales defensas ante las Cortes de Apelaciones y Marciales en favor de las personas patrocinadas por esas entidades. Para estos fines el representante de ellas deberá otorgar al postulante un certificado que lo acredite como tal.
 
