@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2007-07-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2007-09-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2007-07-07
-fetched_at: 2026-08-03T01:42:55.082078+00:00
+version_date: 2007-09-14
+fetched_at: 2026-08-03T01:44:01.150912+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -177,8 +177,10 @@ Art. 23 Bis. En los casos en que la nave perdida por naufragio u otra causa est�
 En el caso de desahucio e indemnizaciones, la preferencia se limitará al monto establecido en el inciso cuarto del artículo 61.
 A los tripulantes que después del naufragio hubieren trabajado para recoger los restos de la nave o lo posible de la carga, se les pagará, además, una gratificación proporcionada a los esfuerzos hechos y a los riesgos arrostrados para conseguir el salvamento.
 
-Art. 24. El empleador podrá extender la jornada ordinaria de los dependientes del comercio hasta en dos horas diarias en los períodos inmediatamente anteriores a navidad, fiestas patrias u otras festividades. En este caso las horas que excedan el máximo señalado en el inciso primero del artículo 22, o la jornada convenida, si fuere menor se pagarán como extraordinarias.
+Art. 24. El empleador podrá extender la jornada ordinaria de los dependientes del comercio hasta en dos horas diarias durante nueve días anteriores a navidad, distribuidos dentro de los últimos quince días previos a esta festividad. En este caso las horas que excedan el máximo señalado en el inciso primero del artículo 22, o la jornada convenida, si fuere menor se pagarán como extraordinarias.
 Cuando el empleador ejerciere la facultad prevista en el inciso anterior no procederá pactar horas extraordinarias.
+Con todo, los trabajadores a que se refiere el inciso primero, en ningún caso, trabajarán más allá de las 23 horas, durante los nueve días en los que se extienda la jornada ordinaria. Asimismo, bajo ninguna circunstancia, lo harán más allá de las 20 horas del día inmediatamente anterior a dicha festividad, como además el día inmediatamente anterior al 1 de enero de cada año.
+Las infracciones a lo dispuesto en este artículo serán sancionadas con multa a beneficio fiscal de 5 unidades tributarias mensuales por cada trabajador afectado por la infracción. Si el empleador tuviere contratado 50 o más trabajadores la multa aplicable ascenderá a 10 unidades tributarias mensuales por cada trabajador afectado por la infracción. Y cuando tuviere contratados 200 o más trabajadores la multa será de 20 unidades tributarias mensuales por cada trabajador afectado por la infracción.
 
 Art. 25. La jornada ordinaria de trabajo del personal de choferes y auxiliares de la locomoción colectiva interurbana, de servicios interurbanos de transporte de pasajeros, de choferes de vehículos de carga terrestre interurbana y del que se desempeña a bordo de ferrocarriles, será de 180 horas mensuales. En el caso de los choferes y auxiliares de la locomoción colectiva interurbana y de los servicios interurbanos de pasajeros, el tiempo de los descansos a bordo o en tierra y de las esperas que les corresponda cumplir entre turnos laborales sin realizar labor, no será imputable a la jornada y su retribución o compensación se ajustará al acuerdo de las partes. Tratándose de los choferes de vehículos de carga terrestre interurbana, el mencionado tiempo de descanso tampoco será imputable a la jornada y su retribución o compensación se ajustará de igual modo. No obstante, en el caso de estos últimos, los tiempos de espera se imputarán a la jornada.
 Todos los trabajadores aludidos en el inciso precedente deberán tener un descanso mínimo ininterrumpido de ocho horas dentro de cada veinticuatro horas.
@@ -229,6 +231,8 @@ Se declara Día Nacional del Trabajo el 1º de mayo de cada año. Este día ser�
 
 Artículo 35 bis.- Las partes podrán pactar que la jornada de trabajo correspondiente a un día hábil entre dos días feriados, o entre un día feriado y un día sábado o domingo, según el caso, sea de descanso, con goce de remuneraciones, acordando la compensación de las horas no trabajadas mediante la prestación de servicios con anterioridad o posterioridad a dicha fecha. No serán horas extraordinarias las trabajadas en compensación del descanso pactado.
 Dicho pacto deberá constar por escrito. Tratándose de empresas o faenas no exceptuadas del descanso dominical, en ningún caso podrá acordarse que la compensación se realice en día domingo.
+
+Artículo 35 ter.- En cada año calendario que los días 18 y 19 de septiembre sean días martes y miércoles, respectivamente, o miércoles y jueves, respectivamente, será feriado el día lunes 17 o el día viernes 20 de dicho mes, según el caso.
 
 Art. 36. El descanso y las obligaciones y prohibiciones establecidas al respecto en los dos artículos anteriores empezarán a más tardar a las 21 horas del día anterior al domingo o festivo y terminarán a las 6 horas del día siguiente de éstos, salvo las alteraciones horarias que se produzcan con motivo de la rotación en los turnos de trabajo.
 
