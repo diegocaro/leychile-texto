@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2007-09-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2007-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2007-09-14
-fetched_at: 2026-08-03T01:44:01.150912+00:00
+version_date: 2007-10-03
+fetched_at: 2026-08-03T01:44:27.532692+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -737,6 +737,10 @@ NOTA:
 presente Capítulo IV.
 NOTA:
 El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que el presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
+
+Artículo 145-L. Las remuneraciones percibidas por los trabajadores de artes y espectáculos con motivo de la celebración de los contratos laborales que regula este Capítulo, quedarán sujetas a la tributación aplicable a las rentas señaladas en el artículo 42, número 2°, de la ley sobre Impuesto a la Renta, contenida en el artículo 1° del decreto ley N° 824, de 1974. Para estos efectos, dichos trabajadores deberán emitir la correspondiente boleta de honorarios por el valor bruto de la remuneración percibida, sin deducción alguna por concepto de las cotizaciones previsionales que deban ser efectuadas por sus respectivos empleadores.
+NOTA 8:
+El Art. 1º Transitorio de la LEY 20219, publicada el 03.10.2007, dispuso que la modificación introducida en el presente artículo rige a contar del primer día del mes subsiguiente al de su publicación.
 
 #### Capítulo V
 DEL CONTRATO DE TRABAJADORES DE CASA
