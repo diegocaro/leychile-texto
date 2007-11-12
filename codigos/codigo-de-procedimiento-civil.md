@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2007-06-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2007-11-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2007-06-26
-fetched_at: 2026-08-03T01:42:43.078401+00:00
+version_date: 2007-11-12
+fetched_at: 2026-08-03T01:44:39.536789+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1262,11 +1262,12 @@ NOTA
 Véanse los artículos 4 y 5 de la Ley 19799, publicada el 12.04.2002, Sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma.
 
 Art. 342 (331). Serán considerados como instrumentos públicos en juicio, siempre que en su otorgamiento se hayan cumplido las disposiciones legales que dan este carácter:
-1° Los documentos originales;
-2° Las copias dadas con los requisitos que las leyes prescriban para que hagan fe respecto de toda persona, o, a lo menos, respecto de aquella contra quien se hacen valer;
-3° Las copias que, obtenidas sin estos requisitos, no sean objetadas como inexactas por la parte contraria dentro de los tres días siguientes a aquel en que se le dio conocimiento de ellas;
-4° Las copias que, objetadas en el caso del número anterior, sean cotejadas y halladas conforme con sus originales o con otras copias que hagan fe respecto de la parte contraria; y
-5° Los testimonios que el tribunal mande agregar durante el juicio, autorizados por su secretario u otro funcionario competente y sacados de los originales o de copias que reúnan las condiciones indicadas en el número anterior.
+1°. Los documentos originales;
+2°. Las copias dadas con los requisitos que las leyes prescriban para que hagan fe respecto de toda persona, o, a lo menos, respecto de aquella contra quien se hacen valer;
+3°. Las copias que, obtenidas sin estos requisitos, no sean objetadas como inexactas por la parte contraria dentro de los tres días siguientes a aquel en que se le dio conocimiento de ellas;
+4°. Las copias que, objetadas en el caso del número anterior, sean cotejadas y halladas conforme con sus originales o con otras copias que hagan fe respecto de la parte contraria; y
+5°. Los testimonios que el tribunal mande agregar durante el juicio, autorizados por su secretario u otro funcionario competente y sacados de los originales o de copias que reúnan las condiciones indicadas en el número anterior.
+6°. Los documentos electrónicos suscritos mediante firma electrónica avanzada.
 
 Art. 343 (332). Cuando las copias agregadas sólo tengan una parte del instrumento original, cualquiera de los interesados en el pleito podrá exigir que se agregue el todo o parte de lo omitido, a sus expensas, sin perjuicio de lo que se resuelva sobre pago de costas.
 
@@ -1289,6 +1290,12 @@ Si al tiempo de acompañarse se agrega su traducción, valdrá ésta; salvo que 
 
 Art. 348 (337). Los instrumentos podrán presentarse en cualquier estado del juicio hasta el vencimiento del término probatorio en primera instancia, y hasta la vista de la causa en segunda instancia.
 La agregación de los que se presenten en segunda instancia, no suspenderá en ningún caso la vista de la causa; pero el tribunal no podrá fallarla, sino después de vencido el término de la citación, cuando haya lugar a ella.
+
+Artículo 348 bis. Presentado un documento electrónico, el Tribunal citará para el 6° día a todas las partes a una audiencia de percepción documental. En caso de no contar con los medios técnicos electrónicos necesarios para su adecuada percepción, apercibirá a la parte que presentó el documento con tenerlo por no presentado de no concurrir a la audiencia con dichos medios.
+Tratándose de documentos que no puedan ser transportados al tribunal, la audiencia tendrá lugar donde éstos se encuentren, a costa de la parte que los presente.
+En caso que el documento sea objetado, en conformidad con las reglas generales, el Tribunal podrá ordenar una prueba complementaria de autenticidad, a costa de la parte que formula la impugnación, sin perjuicio de lo que se resuelva sobre pago de costas. El resultado de la prueba complementaria de autenticidad será suficiente para tener por reconocido o por objetado el instrumento, según corresponda.
+Para los efectos de proceder a la realización de la prueba complementaria de autenticidad, los peritos procederán con sujeción a lo dispuesto por los artículos 417 a 423.
+En el caso de documentos electrónicos privados, para los efectos del artículo 346, N°3, se entenderá que han sido puestos en conocimiento de la parte contraria en la audiencia de percepción.
 
 Art. 349 (338). Podrá decretarse, a solicitud de parte, la exhibición de instrumentos que existan en poder de la otra parte o de un tercero, con tal que tengan relación directa con la cuestión debatida y que no revistan el carácter de secretos o confidenciales.
 Los gastos que la exhibición haga necesarios serán de cuenta del que la solicite, sin perjuicio de lo que se resuelva sobre pago de costas.
