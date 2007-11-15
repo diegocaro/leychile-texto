@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2004-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2007-11-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 2004-06-05
-fetched_at: 2026-08-03T01:25:27.348927+00:00
+version_date: 2007-11-15
+fetched_at: 2026-08-03T01:44:51.542228+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -952,7 +952,7 @@ La notificación se entenderá practicada al quinto día hábil siguiente a la f
 Con todo, en casos excepcionales y por resolución fundada el juez podrá ordenar que la notificación se practique por cédula, en los términos que contempla el inciso segundo del artículo 196.
 
 Artículo 196.- El testigo que no compareciere a la citación, notificada en la forma prevista en los incisos primero y segundo del artículo 195, será nuevamente notificado, esta vez por cédula, previo decreto judicial.
-La notificación la efectuará cualquier ministro de fe o empleado del tribunal comisionado para ello, y, excepcionalmente y por resolución fundada, un agente de la policía. El encargado de practicar la diligencia certificará el día y hora en que hubiera ejecutado la orden recibida o el inconveniente que haya impedido darle cumplimiento, de lo cual pondrá el secretario testimonio en autos.
+La notificación la efectuará cualquier ministro de fe o empleado del tribunal comisionado para ello. El encargado de practicar la diligencia certificará el día y hora en que hubiera ejecutado la orden recibida o el inconveniente que haya impedido darle cumplimiento, de lo cual pondrá el secretario testimonio en autos.
 
 Art. 197. (218) Si la persona llamada a declarar ejerce funciones de servicio público que no puedan ser desamparadas, conjuntamente con citarla el juez dará aviso de la citación al jefe respectivo. Este tomará inmediatamente las providencias necesarias para que, sin daño del servicio, sea cumplida la orden del juez.
 Tratándose de personal de las Fuerzas Armadas y Carabineros de Chile, que no esté exento de la obligación de concurrir, el juez de la causa podrá encomendar la práctica de la diligencia al juez militar de instrucción que corresponda en virtud del exhorto que se regirá por las disposiciones señaladas en el artículo 198.

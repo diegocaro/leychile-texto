@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2006-01-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2007-11-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2006-01-11
-fetched_at: 2026-08-03T01:37:01.375860+00:00
+version_date: 2007-11-15
+fetched_at: 2026-08-03T01:45:09.549269+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -105,7 +105,7 @@ Con todo, el fiscal no podrá recabar directamente la comparecencia personal de 
 #### Párrafo 4º Notificaciones y citaciones judiciales
 
 Artículo 24.- Funcionarios habilitados. Las notificaciones de las resoluciones judiciales se realizarán por los funcionarios del tribunal que hubiere expedido la resolución, que hubieren sido designados para cumplir esta función por el juez presidente del comité de jueces, a propuesta del administrador del tribunal.
-El tribunal podrá ordenar que una o más notificaciones determinadas se practicaren por otro ministro de fe o, en casos calificados y por resolución fundada, por un agente de la policía.
+El tribunal podrá ordenar que una o más notificaciones determinadas se practicaren por otro ministro de fe.
 
 Artículo 25.- Contenido. La notificación deberá incluir una copia íntegra de la resolución de que se tratare, con la identificación del proceso en el que recayere, a menos que la ley expresamente ordenare agregar otros antecedentes, o que el juez lo estimare necesario para la debida información del notificado o para el adecuado ejercicio de sus derechos.
 

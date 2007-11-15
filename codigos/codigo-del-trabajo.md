@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2007-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2007-11-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2007-10-03
-fetched_at: 2026-08-03T01:44:27.532692+00:00
+version_date: 2007-11-15
+fetched_at: 2026-08-03T01:45:03.548991+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -2597,7 +2597,7 @@ Los términos de días que establece este título, se entenderán suspendidos du
 Durante el feriado de vacaciones, se aplicará a los asuntos laborales lo dispuesto en el artículo 314 del Código Orgánico de Tribunales.
 
 Art. 430. La primera notificación al demandado deberá hacerse personalmente, entregándosele copia íntegra de la resolución y de la solicitud en que haya recaído. Al demandante se le notificará por el estado diario.
-Esta notificación se practicará por un receptor o por un empleado del respectivo tribunal, designado para ello por el juez, de oficio o a petición de parte. Excepcionalmente y por resolución fundada, podrá ser practicada por Carabineros de Chile.
+Esta notificación se practicará por un receptor o por un empleado del respectivo tribunal, designado para ello por el juez, de oficio o a petición de parte.
 En los lugares y recintos de libre acceso público, la notificación personal se podrá efectuar en cualquier día y a cualquier hora, procurando causar la menor molestia al notificado. En los juicios ejecutivos, no podrá efectuarse el requerimiento de pago en público y, de haberse notificado la demanda en un lugar o recinto de libre acceso público, se estará a lo establecido en el N.° 1.° del artículo 443 del Código de Procedimiento Civil.
 Además, la notificación podrá hacerse en cualquier día, entre las seis y las veintidós horas, en la morada o lugar donde pernocta el notificado o en el lugar donde éste ordinariamente ejerce su industria, profesión o empleo, o en cualquier recinto privado en que éste se encuentre y al cual se permita el libre acceso del ministro de fe.
 Si la notificación se realizare en día inhábil, los plazos comenzarán a correr desde las cero horas del día hábil inmediatamente siguiente. Los plazos se aumentarán en la forma establecida en el artículo 259 del Código de Procedimiento Civil.
