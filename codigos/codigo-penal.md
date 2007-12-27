@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2007-08-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2007-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2007-08-31
-fetched_at: 2026-08-03T01:43:35.374292+00:00
+version_date: 2007-12-27
+fetched_at: 2026-08-03T01:45:34.008741+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1487,6 +1487,21 @@ ART. 268. Derogado.
 
 ART. 268 bis.
 El que diere falsa alarma de incendio, emergencia o calamidad pública a los Cuerpos de Bomberos u otros servicios de utilidad pública, incurrirá en la pena de reclusión menor en su grado mínimo.
+
+#### 1 bis. Atentados y amenazas contra fiscales del Ministerio Público y defensores penales públicos
+
+ART. 268 ter.-
+El que mate a un fiscal del Ministerio Público o a un defensor penal público en razón del ejercicio de sus funciones, será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+
+ART. 268 quáter.-
+El que hiera, golpee o maltrate de obra a un fiscal del Ministerio Público o a un defensor penal público en razón del ejercicio de sus funciones, será castigado:
+1º. Con la pena de presidio mayor en su grado medio, si de resultas de las lesiones el ofendido queda demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
+2º. Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, si las lesiones producen al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
+3º. Con presidio menor en grado medio a máximo, si le causa lesiones menos graves.
+4º. Con reclusión menor en su grado mínimo y multa de once a veinte unidades tributarias mensuales, o sólo esta última, si le ocasiona lesiones leves o no se produce daño alguno.
+
+ART. 268 quinquies.-
+El que amenazare a un fiscal del Ministerio Público o a un defensor penal público en los términos de los artículos 296 y 297 de este Código, en razón del ejercicio de sus funciones, será castigado con el máximo de la pena o el grado máximo de las penas previstas en dichos artículos, según correspondiere.
 
 #### § II.
 Desórdenes públicos.
