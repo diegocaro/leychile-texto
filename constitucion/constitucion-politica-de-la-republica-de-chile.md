@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2007-07-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2008-01-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2007-07-30
-fetched_at: 2026-08-03T01:43:23.369632+00:00
+version_date: 2008-01-10
+fetched_at: 2026-08-03T01:45:46.016800+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -646,6 +646,7 @@ La Corte Suprema deberá pronunciarse dentro del plazo de treinta días contados
 Sin embargo, si el Presidente de la República hubiere hecho presente una urgencia al proyecto consultado, se comunicará esta circunstancia a la Corte.
 En dicho caso, la Corte deberá evacuar la consulta dentro del plazo que implique la urgencia respectiva.
 Si la Corte Suprema no emitiere opinión dentro de los plazos aludidos, se tendrá por evacuado el trámite.
+La ley orgánica constitucional relativa a la organización y atribuciones de los tribunales, así como las leyes procesales que regulen un sistema de enjuiciamiento, podrán fijar fechas diferentes para su entrada en vigencia en las diversas regiones del territorio nacional. Sin perjuicio de lo anterior, el plazo para la entrada en vigor de dichas leyes en todo el país no podrá ser superior a cuatros años.
 
 Artículo 78.- En cuanto al nombramiento de los jueces, la ley se ajustará a los siguientes preceptos generales.
 La Corte Suprema se compondrá de veintiún ministros.
