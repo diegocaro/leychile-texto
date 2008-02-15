@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2007-09-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2008-02-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2007-09-05
-fetched_at: 2026-08-03T01:43:49.142772+00:00
+version_date: 2008-02-15
+fetched_at: 2026-08-03T01:45:58.019719+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -359,11 +359,53 @@ Art. 26. Corresponderá a la Corporación Administrativa del Poder Judicial dete
 De los Jueces de Letras
 
 Art. 27. Sin perjuicio de lo que se previene en los artículo 28 al 40, en cada comuna habrá, a lo menos, un juzgado de letras.
+Los juzgados de letras estarán conformados por uno o más jueces con competencia en un mismo territorio jurisdiccional; sin embargo, actuarán y resolverán unipersonalmente los asuntos sometidos a su conocimiento.
 Los nuevos juzgados que se instalen tendrán como territorio jurisdiccional la respectiva comuna y, en consecuencia, dejarán de ser competentes en esos territorios los juzgados que anteriormente tenían jurisdicción sobre dichas comunas.
 
+Art. 27 bis. Los juzgados de letras con competencia común integrados por dos jueces, tendrán la siguiente planta de personal: un administrador, un jefe de unidad, dos administrativos jefe, cinco administrativos 1º, dos administrativos 2º, un administrativo 3º, tres ayudantes de servicios y un auxiliar.
+La planta de personal de los tribunales señalados en el inciso anterior que tengan dentro de su competencia la resolución de asuntos de familia contarán, adicionalmente, con un consejero técnico.
+Los jueces y el personal directivo de estos juzgados tendrán los grados de la Escala de Sueldos Bases Mensuales del Escalafón del Personal Superior del Poder Judicial que se indican a continuación:
+a) Los jueces, el grado correspondiente según el asiento del tribunal.
+b) Los administradores de juzgados de letras de competencia común de capital de provincia y los de comuna o agrupación de comunas, grados VIII y IX del Escalafón Superior del Poder Judicial, respectivamente.
+c) Los jefes de unidad de juzgados de letras de competencia común de capital de provincia y los de comuna o agrupación de comunas, grados X y XI del Escalafón Superior del Poder Judicial, respectivamente.
+El personal de empleados de los juzgados de letras de competencia común con dos jueces, tendrán los grados de la Escala de Sueldos Bases Mensuales del Personal del Poder Judicial, que a continuación se indican:
+a) Administrativos jefe de juzgados de letras de competencia común de capital de provincia y los de comuna o agrupación de comunas, grados XII y XIII del Escalafón de Empleados del Poder Judicial, respectivamente.
+b) Administrativos 1º de juzgados de letras de competencia común de capital de provincia y los de comuna o agrupación de comunas, grados XIII y XIV del Escalafón de Empleados del Poder Judicial, respectivamente.
+c) Administrativos 2º de juzgados de letras de competencia común de capital de provincia y los de comuna o agrupación de comunas, grados XIV y XV del Escalafón de Empleados del Poder Judicial, respectivamente.
+d) Administrativos 3º de juzgados de letras de competencia común de capital de provincia y los de comuna o agrupación de comunas, grados XV y XVI del Escalafón de Empleados del Poder Judicial, respectivamente.
+e) Ayudantes de servicios de juzgados de letras de competencia común de capital de provincia y los de comuna o agrupación de comunas, grados XVII y XVIII del Escalafón de Empleados del Poder Judicial, respectivamente.
+f) Auxiliares de juzgados de letras de competencia común de capital de provincia y los de comuna o agrupación de comunas, grado XVIII del Escalafón de Empleados del Poder Judicial.
+
+Art. 27 ter. En los juzgados de competencia común con dos jueces, habrá un juez presidente del tribunal, cuyo cargo se radicará anualmente en cada uno de los jueces que lo integran comenzando por el más antiguo.
+Sus atribuciones y deberes son los siguientes:
+a) Velar por el adecuado funcionamiento del juzgado;
+b) Designar al personal del juzgado, a propuesta en terna del administrador;
+c) Relacionarse con la Corporación Administrativa del Poder Judicial en todas las materias relativas a la competencia de ésta;
+d) Decidir el proyecto de plan presupuestario anual para ser propuesto a la Corporación Administrativa del Poder Judicial;
+e) Elaborar anualmente una cuenta de la gestión jurisdiccional del juzgado;
+f) Aprobar los criterios de gestión administrativa que le proponga el administrador del tribunal y supervisar su ejecución;
+g) Aprobar la distribución del personal que le presente el administrador del tribunal;
+h) Aprobar, anualmente, un procedimiento objetivo y general de distribución de causas entre los jueces del tribunal;
+i) Calificar al personal, teniendo a la vista la evaluación que le presente el administrador del tribunal;
+j) Presentar al Presidente de la Corte de Apelaciones respectiva una terna para la designación del administrador del tribunal;
+k) Evaluar anualmente la gestión del administrador;
+l) Proponer al Presidente de la Corte de Apelaciones respectiva la remoción del administrador del tribunal, y
+m) Ejercer las demás atribuciones y deberes que determinen las leyes.
+
+Art. 27 quater. Los juzgados de letras de competencia común con dos jueces se organizarán en las siguientes unidades administrativas para el cumplimiento eficaz y eficiente de las correspondientes funciones:
+a) Sala, que consistirá en la organización y asistencia a la realización de las audiencias.
+b) Atención a Público, destinada a otorgar una adecuada atención, orientación e información al público que concurra al tribunal y manejar la correspondencia y custodia del tribunal.
+c) Administración de Causas, que consistirá en desarrollar toda la labor relativa al manejo de causas y registros de los procesos en el juzgado, incluidas las relativas a las notificaciones, al manejo de las fechas y salas para las audiencias, al archivo judicial básico, al ingreso y al número de rol de las causas nuevas, a la actualización diaria de la base de datos que contenga las causas del juzgado y a las estadísticas básicas del mismo.
+d) Servicios, que reunirá las labores de soporte técnico de la red computacional del juzgado, de contabilidad y de apoyo a la actividad administrativa del mismo, y la coordinación y abastecimiento de todas las necesidades físicas y materiales que requiera el procedimiento.
+e) Cumplimiento, que desarrollará las gestiones necesarias para la adecuada y cabal ejecución de las resoluciones judiciales y demás títulos ejecutivos de competencia de estos tribunales.
+
 Art. 28. En la Primera Región, de Tarapacá, existirán los siguientes juzgados de letras:
-Un juzgado con asiento en la comuna de Pozo Almonte, con competencia sobre las comunas de Pica, Pozo Almonte, Huara, Colchane y Camiña, y
+Un juzgado con asiento en la comuna de Pozo Almonte, con competencia sobre las comunas de Pica, Pozo Almonte,
+NOTA
+Huara, Colchane y Camiña, y
 Tres juzgados con asiento en la comuna de Iquique, con competencia sobre las comunas de Iquique y Alto Hospicio.
+NOTA
+El Nº 5 del Art. 4º de la LEY 20252, publicada el 15.02.2008, dispuso la modificación de la letra B) del presente artículo, sin embargo, al ser esa letra introducida por el Nº 2 del Art. 13 de la Ley 20.022, su vigencia está sometida a lo gradualidad establecida en su Art. 16, por esta razón no se ha podido incorporar esa modificación en la presente actualización.
 
 Art. 29. En la Segunda Región, de Antofagasta, existirán los siguientes juzgados de letras:
 A.- JUZGADOS CIVILES:
@@ -372,7 +414,7 @@ B.- JUZGADOS DE COMPETENCIA COMUN:
 Un juzgado con asiento en la comuna de Tocopilla, con competencia sobre la misma comuna;
 Un juzgado con asiento en la comuna de María Elena, con competencia sobre la misma comuna;
 Tres juzgados con asiento en la comuna de Calama, con competencia sobre las comunas de la provincia de El Loa, y
-Un juzgado con asiento en la comuna de Taltal, con competencia sobre la misma comuna.
+Un juzgado con asiento en la comuna de Taltal, con dos jueces, con competencia sobre la misma comuna.
 
 Art. 30. En la Tercera Región, de Atacama, existirán los siguientes juzgados de letras:
 Un juzgado con asiento en la comuna de Chañaral, con competencia sobre la misma comuna;
@@ -396,16 +438,16 @@ Cinco juzgados de letras en lo civil con asiento en la comuna de Valparaíso y c
 Tres juzgados de letras en lo civil con asiento en la comuna de Viña del Mar y competencia sobre las comunas de Viña del Mar y Concón, los cuales tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 B.- JUZGADOS CON COMPETENCIA COMUN:
 Dos juzgados de letras con asiento en la comuna de Quilpué, con competencia sobre la misma comuna;
-Un juzgado de letras con asiento en la comuna de Villa Alemana, con competencia sobre la misma comuna;
+Un juzgado de letras con asiento en la comuna de Villa Alemana, con dos jueces, con competencia sobre la misma comuna;
 Un juzgado de letras con asiento en la comuna de Casablanca, con competencia sobre las comunas de Casablanca, El Quisco y Algarrobo, de la Quinta Región y la comuna de Curacaví, de la Región Metropolitana;
-Un juzgado de letras con asiento en la comuna de La Ligua, con competencia sobre las comunas de La Ligua, Cabildo, Zapallar y Papudo;
+Un juzgado de letras con asiento en la comuna de La Ligua, con dos jueces, con competencia sobre las comunas de La Ligua, Cabildo, Zapallar y Papudo;
 Un juzgado de letras con asiento en la comuna de Petorca, con competencia sobre la misma comuna;
 Dos juzgados de letras con asiento en la comuna de Los Andes, con competencia sobre las comunas de la provincia de Los Andes;
-Dos juzgados de letras con asiento en la comuna de San Felipe, con competencia sobre las comunas de San Felipe, Santa María, Panquehue, Llaillay y Catemu;
+Un juzgado de letras con asiento en la comuna de San Felipe, con competencia sobre las comunas de San Felipe, Santa María, Panquehue, Llaillay y Catemu;
 Un juzgado de letras con asiento en la comuna de Putaendo, con competencia sobre la misma comuna;
 Dos juzgados de letras con asiento en la comuna de Quillota, con competencia sobre las comunas de Quillota y La Cruz;
 Un juzgado de letras con asiento en la comuna de Quintero, con competencia sobre las comunas de Quintero y Puchuncaví;
-Un juzgado de letras con asiento en la comuna de Calera, con competencia sobre las comunas de Calera, Nogales e Hijuelas;
+Un juzgado de letras con asiento en la comuna de Calera, con dos jueces, con competencia sobre las comunas de Calera, Nogales e Hijuelas;
 Un juzgado de letras con asiento en la comuna de Limache, con competencia sobre las comunas de Limache y Olmué;
 Dos juzgados de letras con asiento en la comuna de San Antonio, con competencia sobre las comunas de San Antonio, Cartagena, El Tabo y Santo Domingo, y
 Un juzgado de letras con asiento en Isla de Pascua, con competencia sobre la comuna de la provincia de Isla de Pascua.
@@ -426,6 +468,7 @@ Un juzgado con asiento en la comuna de Peralillo, con competencia sobre las comu
 Art. 34. En la Séptima Región, del Maule, existirán los siguientes juzgados de letras:
 Cuatro juzgados con asiento en la comuna de Talca, con competencia sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule, Pencahue y San Rafael;
 Un juzgado con asiento en la comuna de Constitución, con competencia sobre las comunas de Constitución y Empedrado;
+NOTA
 Un juzgado con asiento en la comuna de Curepto, con competencia sobre la misma comuna;
 Tres juzgados con asiento en la comuna de Curicó, con competencia sobre las comunas de Curicó, Teno, Romeral y Rauco;
 Un juzgado con asiento en la comuna de Licantén, con competencia sobre las comunas de Licantén, Hualañé y Vichuquén;
@@ -435,6 +478,8 @@ Un juzgado con asiento en la comuna de San Javier, con competencia sobre las com
 Un juzgado con asiento en la comuna de Cauquenes, con competencia sobre la misma comuna;
 Un juzgado con asiento en la comuna de Chanco, con competencia sobre las comunas de Chanco y Pelluhue, y
 Un juzgado con asiento en la comuna de Parral, con competencia sobre las comunas de Parral y Retiro.
+NOTA
+El Nº 8 del Art. 4 de la LEY 20252, publicada el 15.02.2008, dispuso la modificación de la letra B) del presente artículo, sin embargo, al ser esa letra introducida por el Nº 5 del Art. 13 de la Ley 20.022, su vigencia está sometida a lo gradualidad establecida en su Art. 16, por esta razón no se ha podido incorporar esa modificación en la presente actualización.
 
 Art. 35. En la Octava Región, del Bío Bío, existirán los siguientes juzgados de letras, que tendrán competencia en los territorios que se indican:
 A.- JUZGADOS CIVILES:
@@ -447,7 +492,7 @@ Un juzgado con asiento en la comuna de Yungay, con competencia sobre las comunas
 Un juzgado con asiento en la comuna de Bulnes, con competencia sobre las comunas de Bulnes, Quillón y San Ignacio;
 Un juzgado con asiento en la comuna de Coelemu, con competencia sobre las comunas de Coelemu y Ranquil;
 Un juzgado con asiento en la comuna de Quirihue, con competencia sobre las comunas de Quirihue, Ninhue, Portezuelo, Treguaco y Cobquecura;
-Tres juzgados con asiento en la comuna de Los Angeles, con competencia sobre las comunas de Los Angeles, Quilleco y Antuco;
+Dos juzgados con asiento en la comuna de Los Angeles, con competencia sobre las comunas de Los Angeles, Quilleco y Antuco;
 Un juzgado con asiento en la comuna de Santa Bárbara, con competencia sobre las comunas de Santa Bárbara, Quilaco y Alto Biobío;
 Un juzgado con asiento en la comuna de Mulchén, con competencia sobre la comuna de Mulchén;
 Un juzgado con asiento en la comuna de Nacimiento, con competencia sobre las comunas de Nacimiento y Negrete;
@@ -484,7 +529,9 @@ Un juzgado con asiento en la comuna de Lautaro, con competencia sobre las comuna
 Un juzgado con asiento en la comuna de Carahue, con competencia sobre las comunas de Carahue y Saavedra.
 
 Art. 37. En la Décima Región, de Los Lagos, existirán los siguientes juzgados de letras:
-Tres juzgados con asiento en la comuna de Osorno, con competencia sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
+Tres juzgados con asiento en la comuna de Osorno, con competencia sobre las comunas de Osorno, San Pablo, Puyehue,
+NOTA
+Puerto Octay y San Juan de la Costa;
 Un juzgado con asiento en la comuna de Río Negro, con competencia sobre las comunas de Río Negro y Purranque;
 Dos juzgados con asiento en la comuna de Puerto Montt, con competencia sobre las comunas de Puerto Montt y Cochamó;
 Un juzgado con asiento en la comuna de Puerto Varas, con competencia sobre las comunas de Puerto Varas, Llanquihue, Frutillar y Fresia;
@@ -497,10 +544,12 @@ Un juzgado con asiento en la comuna de Ancud, con competencia sobre las comunas 
 Un juzgado con asiento en la comuna de Quinchao, con competencia sobre las comunas de Quinchao y Curaco de Vélez;
 Un juzgado con asiento en la comuna de Chaitén, con competencia sobre las comunas de Chaitén, Futaleufú y Palena, y
 Un juzgado con asiento en la comuna de Hualaihué, con competencia sobre la misma comuna.
+NOTA
+El Nº 10 del Art. 4 de la LEY 20252, publicada el 15.02.2008, dispuso la modificación de la letra A) del presente artículo, sin embargo, al ser dicha letra introducida por el Nº 6 del Art. 13 de la Ley 20.022, su vigencia está sometida a lo gradualidad establecida en su Art. 16, por esta razón no se ha podido incorporar esa modificación en la presente actualización.
 
 Art. 38. En la Décimo Primera Región de Aisén, del General Carlos Ibáñez del Campo, existirán los siguientes juzgados de letras:
-Dos juzgados con asiento en la comuna de Coihaique, con competencia sobre las comunas de Coihaique y Río Ibáñez;
-Un juzgado con asiento en la comuna de Aisén, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Coihaique, con competencia sobre las comunas de Coihaique y Río Ibáñez;
+Un juzgado con asiento en la comuna de Aisén, con dos jueces, con competencia sobre la misma comuna;
 Un juzgado con asiento en la comuna de Chile Chico, con competencia sobre la misma comuna,
 Un juzgado con asiento en la comuna de Cochrane, con competencia sobre las comunas de la provincia Capitán Prat, y
 Un juzgado con asiento en la comuna de Cisnes, con competencia sobre las comunas de Cisnes, Guaitecas y Lago Verde.
@@ -515,7 +564,7 @@ Dos juzgados con asiento en la comuna de Valdivia, con competencia sobre las com
 Un juzgado con asiento en la comuna de Mariquina, con competencia sobre las comunas de Mariquina, Máfil y Lanco;
 Un juzgado con asiento en la comuna de Los Lagos, con competencia sobre las comunas de Los Lagos y Futrono;
 Un juzgado con asiento en la comuna de Panguipulli, con competencia sobre la misma comuna;
-Un juzgado con asiento en la comuna de La Unión, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de La Unión, con dos jueces, con competencia sobre la misma comuna;
 Un juzgado con asiento en la comuna de Paillaco, con jurisdicción sobre la misma comuna, y
 Un juzgado con asiento en la comuna de Río Bueno, con jurisdicción sobre las comunas de Río Bueno y Lago Ranco.
 
@@ -533,7 +582,7 @@ Dos juzgados con asiento en la comuna de Talagante y competencia sobre las comun
 Un juzgado con asiento en la comuna de Peñaflor, con competencia sobre las comunas de Peñaflor y Padre Hurtado;
 Un juzgado con asiento en la comuna de Melipilla, con competencia sobre las comunas de la provincia de Melipilla, con excepción de Curacaví, y
 Dos juzgados con asiento en la comuna de Buin, con competencia sobre las comunas de Buin y Paine.
-Un juzgado con asiento en la comuna de Colina, con competencia sobre las comunas de la Provincia de Chacabuco.
+Un juzgado con asiento en la comuna de Colina, con dos jueces, con competencia sobre las comunas de la Provincia de Chacabuco.
 
 Art. 41. Suprimido.
 
@@ -1483,7 +1532,7 @@ Art. 268. Derogado.
 Art. 269. El Escalafón Secundario tendrá las siguientes series:
 Primera Serie: Defensores públicos.
 Segunda Serie: Notarios, conservadores y archiveros.
-Tercera Serie: Administradores, subadministradores y jefes de unidades de tribunales con competencia en lo criminal.
+Tercera Serie: Administradores, subadministradores y jefes de unidades de tribunales con competencia en lo criminal, juzgados de letras del trabajo y juzgados de letras de competencia común con dos jueces.
 Cuarta Serie: Procuradores del número.
 Quinta Serie: Receptores de juzgados de letras.
 Sexta Serie: Miembros de los consejos técnicos y bibliotecarios.
@@ -1492,11 +1541,11 @@ Figurarán en la primera categoría los funcionarios de las cinco series que des
 En la segunda categoría, los funcionarios de las cinco series que desempeñen sus cargos en el territorio jurisdiccional de juzgados de capital de provincia.
 En la tercera categoría, los funcionarios de las cinco series que sirven sus cargos en el territorio jurisdiccional de juzgados de comuna o agrupación de comunas.
 La tercera serie, tendrá las siguientes categorías:
-Primera categoría: Administrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones.
-Segunda Categoría: Administrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y subadministrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones.
-Tercera categoría: Administrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, subadministrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, y jefe de unidad de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones.
-Cuarta categoría: Subadministrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, y jefe de unidad de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia.
-Quinta categoría: Jefe de unidad de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas.
+Primera categoría: Administrador de tribunales de juicio oral en lo penal, de juzgados de garantía, juzgados de letras del trabajo y juzgados con competencia común con dos jueces de ciudad asiento de Corte de Apelaciones.
+Segunda Categoría: Administrador de tribunales de juicio oral en lo penal, de juzgados de garantía, juzgados de letras del trabajo y juzgados con competencia común con dos jueces de ciudad asiento de capital de provincia y subadministrador de tribunales de juicio oral en lo penal, de juzgados de garantía y juzgados de letras del trabajo de ciudad asiento de Corte de Apelaciones.
+Tercera categoría: Administrador de tribunales de juicio oral en lo penal, de juzgados de garantía y juzgados con competencia común con dos jueces de ciudad asiento de comuna o agrupación de comunas, subadministrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, y jefe de unidad de tribunales de juicio oral en lo penal, de juzgados de garantía y juzgados de letras del trabajo de ciudad asiento de Corte de Apelaciones.
+Cuarta categoría: Subadministrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, y jefe de unidad de tribunales de juicio oral en lo penal, de juzgados de garantía, juzgados de letras del trabajo y juzgados con competencia común con dos jueces de ciudad asiento de capital de provincia.
+Quinta categoría: Jefe de unidad de tribunales de juicio oral en lo penal, de juzgados de garantía y juzgados con competencia común con dos jueces de ciudad asiento de comuna o agrupación de comunas.
 
 #### 3). Formación del Escalafón y calificación del personal
 
@@ -1655,12 +1704,12 @@ Art. 291. Las ternas y quinas, según el caso, deberán remitirse al Ministerio 
 
 Art. 292. El Escalafón del Personal de Empleados se compondrá de las siguientes categorías:
 Primera categoría: Oficiales segundos de la Corte Suprema, Oficiales primeros de las Cortes de Apelaciones y Secretario del Presidente de la Corte Suprema.
-Segunda categoría: Oficiales terceros de la Corte Suprema, Oficiales segundos de las Cortes de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, administrativos jefes de juzgados de familia y de juzgados de letras del trabajo y de cobranza laboral y previsional de asiento de Corte y Oficiales primeros de los juzgados de letras de asiento de Corte.
-Tercera categoría: Oficiales cuartos de la Corte Suprema, Oficiales terceros de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos tribunales, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Oficiales segundos de los juzgados de letras de asiento de Corte y Oficiales primeros de los juzgados de capital de provincia, administrativos contables de juzgados de familia de asiento de Corte, administrativos jefes de juzgados de familia y de juzgados de letras del trabajo de capital de provincia, administrativos 1° de juzgados de familia y de juzgados de letras del trabajo y de cobranza laboral y previsional de asiento de Corte.
-Cuarta categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de Biblioteca de la Corte Suprema, Oficiales cuartos de las Cortes de Apelaciones, Oficial cuarto Ayudante de Biblioteca de la Corte de Apelaciones de Valparaíso, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales terceros de los juzgados de letras de asiento de Corte, Oficiales segundos de los juzgados de letras de capital de provincia y Oficiales primeros de los juzgados de letras de comunas o agrupación de comunas, administrativos jefes de juzgados de familia de comuna, administrativos contables de juzgados de familia de capital de provincia, administrativos 1° de juzgados de familia y de juzgados de letras del trabajo de capital de provincia, y administrativos 2° de juzgados de familia y de juzgados de letras del trabajo y de cobranza laboral y previsional de asiento de Corte.
-Quinta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales cuartos de los juzgados de letras de asiento de Corte, Oficiales terceros de los juzgados de letras de capital de provincia y Oficiales segundos de los juzgados de letras de comuna o agrupación de comunas, administrativos contables de juzgados de familia de comuna, administrativos 1° de juzgados de familia de comuna, administrativos 2° de juzgados de familia y de juzgados de letras del trabajo de capital de provincia y administrativos 3° de juzgados de familia y de juzgados de letras del trabajo y de cobranza laboral y previsional de asiento de Corte.
-Sexta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 2º y 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Ayudantes de audiencia de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, telefonistas y secretarias ejecutivas de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Oficiales cuartos de los juzgados de letras de capital de provincia, Oficiales terceros de los juzgados de letras de comuna o agrupación de comunas y Oficial Intérprete de los juzgados de Temuco, administrativos 2° de juzgados de familia de comuna y administrativos 3° de juzgados de familia y de juzgados de letras del trabajo y de cobranza laboral y previsional de capital de provincia.
-Séptima categoría: Oficiales de Sala de la Corte Suprema, de las Cortes de Apelaciones, de los juzgados de letras, Ayudantes de audiencia de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, telefonistas y secretarias ejecutivas de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, y demás personal auxiliar de aseo o de servicio que se desempeñe en los Tribunales de Justicia, administrativos 3° de juzgados de familia de comuna.
+Segunda categoría: Oficiales terceros de la Corte Suprema, Oficiales segundos de las Cortes de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, administrativos jefes de juzgados de familia y de juzgados de letras del trabajo y de cobranza laboral y previsional y de juzgados de letras de competencia común, de asiento de Corte y Oficiales primeros de los juzgados de letras de asiento de Corte.
+Tercera categoría: Oficiales cuartos de la Corte Suprema, Oficiales terceros de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos tribunales, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Oficiales segundos de los juzgados de letras de asiento de Corte y Oficiales primeros de los juzgados de capital de provincia, administrativos contables de juzgados de familia de asiento de Corte, administrativos jefes de juzgados de familia, de juzgados de letras de competencia común y de juzgados de letras del trabajo de capital de provincia, administrativos 1° de juzgados de familia, de juzgados de letras de competencia común, y de juzgados de letras del trabajo y de cobranza laboral y previsional de asiento de Corte.
+Cuarta categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de Biblioteca de la Corte Suprema, Oficiales cuartos de las Cortes de Apelaciones, Oficial cuarto Ayudante de Biblioteca de la Corte de Apelaciones de Valparaíso, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales terceros de los juzgados de letras de asiento de Corte, Oficiales segundos de los juzgados de letras de capital de provincia y Oficiales primeros de los juzgados de letras de comunas o agrupación de comunas, administrativos jefes de juzgados de familia y de juzgados de letras de competencia común de comuna, administrativos contables de juzgados de familia de capital de provincia, administrativos 1° de juzgados de familia, de juzgados de letras de competencia común y de juzgados de letras del trabajo de capital de provincia, y administrativos 2° de juzgados de familia, de juzgados de letras de competencia común, y de juzgados de letras del trabajo y de cobranza laboral y previsional de asiento de Corte.
+Quinta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales cuartos de los juzgados de letras de asiento de Corte, Oficiales terceros de los juzgados de letras de capital de provincia y Oficiales segundos de los juzgados de letras de comuna o agrupación de comunas, administrativos contables de juzgados de familia de comuna, administrativos 1° de juzgados de familia y de juzgados de letras de competencia común de comuna, administrativos 2° de juzgados de familia, de juzgados de letras de competencia común y de juzgados de letras del trabajo de capital de provincia y administrativos 3° de juzgados de familia y de juzgados de letras del trabajo y de cobranza laboral y previsional de asiento de Corte.
+Sexta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 2º y 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Ayudantes de audiencia de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, telefonistas y secretarias ejecutivas de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Oficiales cuartos de los juzgados de letras de capital de provincia, Oficiales terceros de los juzgados de letras de comuna o agrupación de comunas y Oficial Intérprete de los juzgados de Temuco, administrativos 2° de juzgados de familia y de juzgados de letras de competencia común de comuna y administrativos 3° de juzgados de familia, de juzgados de letras de competencia común y de juzgados de letras del trabajo y de cobranza laboral y previsional de capital de provincia y ayudantes de servicios de juzgados de letras del trabajo de ciudad asiento de Corte de Apelaciones.
+Séptima categoría: Oficiales de Sala de la Corte Suprema, de las Cortes de Apelaciones, de los juzgados de letras, Ayudantes de audiencia de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, telefonistas y secretarias ejecutivas de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, y demás personal auxiliar de aseo o de servicio que se desempeñe en los Tribunales de Justicia, administrativos 3° de juzgados de familia y de juzgados de letras de competencia común de comuna y ayudantes de servicios de juzgados de letras del trabajo y de juzgados de letras con competencia común de capital de provincia y de comuna o agrupación de comunas.
 
 Art. 293. Los empleados de secretaría con más de diez años de permanencia en la misma categoría del Escalafón tendrán, para los efectos de los ascensos, los mismos derechos que los de la inmediatamente superior, siempre que hubieren figurado permanentemente en lista de méritos y no hubiesen sido objeto de medida disciplinaria superior a amonestación privada después de la última calificación.
 
@@ -1741,6 +1790,7 @@ Sin embargo, las Cortes de Apelaciones podrán, en casos calificados, autorizar 
 
 Art. 312. Están igualmente obligados a asistir todos los días a la sala de su despacho, y a permanecer en ella desempeñando sus funciones durante cuatro horas como mínimum cuando el despacho de causas estuviere al corriente, y de cinco horas, a lo menos, cuando se hallare atrasado, sin perjuicio de lo que, en virtud del N° 4 del artículo 96, establezca la Corte Suprema.
 Lo anterior se entenderá sin perjuicio de que el juez, cuando las necesidades del Servicio lo aconsejen, se constituya una vez a la semana, a lo menos en poblados que estén fuera de los límites urbanos de la ciudad en que tenga su asiento el tribunal, en cuyo caso será reemplazado por el Secretario en el despacho ordinario del Juzgado, pudiendo designarse para tales efectos actuarios que como Ministros de Fe autoricen las diligencias que dichos funcionarios practiquen.
+En los casos en que el tribunal cuente con dos jueces, cada uno reemplazará al otro en su despacho en el caso señalado en el inciso precedente, actuando el jefe de la unidad administrativa que tenga a su cargo la administración de causas en el respectivo juzgado, como ministro de fe, según la regla general.
 
 Art. 312 bis. Los jueces de tribunales de juicio oral en lo penal tendrán obligación de asistir a su despacho por 44 horas semanales.
 Los jueces de juzgados de garantía deberán asistir a su despacho por 44 horas semanales, debiendo establecerse un sistema o turno que permita la disponibilidad de un juez de garantía en la jurisdicción fuera del horario normal de atención de los tribunales.
@@ -2006,6 +2056,8 @@ Art. 378. No obstante lo dispuesto en el inciso primero del artículo precedente
 ### § 4. Los Secretarios
 
 Art. 379. Los secretarios de las Cortes y juzgados, son ministros de fe pública encargados de autorizar, salvo las excepciones legales, todas las providencias, despachos y actos emanados de aquellas autoridades, y de custodiar los procesos y todos los documentos y papeles que sean presentados a la Corte o juzgado en que cada uno de ellos debe prestar sus servicios.
+En los juzgados de letras de competencia común con dos jueces, las autorizaciones y custodia de procesos y documentos o papeles señaladas en el inciso precedente, corresponderán al jefe de la unidad administrativa que tenga a su cargo la administración de causas en el respectivo juzgado.
+Las certificaciones y demás funciones encomendadas a los secretarios de juzgados de competencia común, serán realizadas por el administrador del tribunal o por el funcionario del tribunal que éste designe.
 
 Art. 380. Son funciones de los secretarios:
 1°) Dar cuenta diariamente a la Corte o juzgado en que presten sus servicios de las solicitudes que presentaren las partes;
