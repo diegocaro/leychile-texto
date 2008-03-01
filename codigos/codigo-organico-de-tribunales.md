@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2008-02-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2008-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2008-02-15
-fetched_at: 2026-08-03T01:45:58.019719+00:00
+version_date: 2008-03-01
+fetched_at: 2026-08-03T01:46:10.019436+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -568,8 +568,9 @@ Un juzgado con asiento en la comuna de La Unión, con dos jueces, con competenci
 Un juzgado con asiento en la comuna de Paillaco, con jurisdicción sobre la misma comuna, y
 Un juzgado con asiento en la comuna de Río Bueno, con jurisdicción sobre las comunas de Río Bueno y Lago Ranco.
 
-Art. 39 ter. En la Decimoquinta Región, de Arica y Parinacota, existirán los siguientes juzgados de letras:
-Cuatro juzgados con asiento en la comuna de Arica, con competencia sobre las comunas de las provincias de Arica y Parinacota.
+Art. 39 ter.- En la Decimoquinta Región, de Arica y Parinacota, existirán los siguientes juzgados de letras:
+A.- JUZGADOS CIVILES:
+Tres juzgados con asiento en la comuna de Arica, con competencia sobre las comunas de las provincias de Arica y Parinacota.
 
 Art. 40. En la Región Metropolitana de Santiago, existirán los siguientes juzgados de letras:
 A.- JUZGADOS CIVILES:
@@ -1238,7 +1239,7 @@ Art. 197. En los casos en que se trate de recusar al juez por parentesco ilegít
 
 Art. 198. Además de las causales de implicancia o recusación de los jueces, que serán aplicables a los abogados llamados a Integrar la Corte Suprema o las Cortes de Apelaciones, será causal de recusación respecto de ellos la circunstancia de patrocinar negocios en que se ventile la misma cuestión que debe resolver el tribunal.
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 5.200 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.900 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 5.600 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 4.200 pesos.
 
 Art. 199. Los jueces que se consideren comprendidos en alguna de las causas legales de implicancia o recusación, deberán tan pronto como tengan noticia de ello, hacerlo constar en el proceso, declarándose inhabilitados para continuar funcionando, o pidiendo se haga esta declaración por el tribunal de que formen parte.
 No obstante, se necesitará de solicitud previa para declarar la inhabilidad de los jueces de la Corte Suprema y de las Cortes de Apelaciones, fundada en cualquiera de las causales de recusación y la de los demás jueces producida por el hecho de ser parte o tener interés en el pleito una sociedad anónima de que éstos sean accionistas, sin perjuicio en uno y otro caso de que se haga constar en el proceso la existencia de la causal.
