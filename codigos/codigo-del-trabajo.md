@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2007-11-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2008-03-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2007-11-15
-fetched_at: 2026-08-03T01:45:03.548991+00:00
+version_date: 2008-03-29
+fetched_at: 2026-08-03T01:46:40.020666+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1968,7 +1968,7 @@ Si se suscribiere un instrumento sin sujeción a estas normas mínimas de proced
 Con todo, si en una empresa se ha suscrito un convenio colectivo, ello no obstará para que los restantes trabajadores puedan presentar proyectos de contrato colectivo, de conformidad al artículo 317.
 
 Art. 314 bis A. El sindicato que agrupe a trabajadores agrícolas de temporada, tendrá la facultad de presentar a el o a los respectivos empleadores, un proyecto de convenio colectivo al que deberán dar respuesta dentro del plazo de 15 días desde la recepción del respectivo proyecto de convenio.
-Si la respuesta antes indicada no se verifica, la Inspección del Trabajo a solicitud del sindicato, podrá apercibirlo dentro de los 5 días siguientes a la fecha de esta solicitud, a fin de que la respuesta sea entregada, bajo apercibimiento de la sanción prevista en el artículo 477. La respuesta negativa del empleador, sólo habilita al sindicato para presentar un nuevo proyecto en la siguiente temporada.
+Si la respuesta antes indicada no se verifica, la Inspección del Trabajo a solicitud del sindicato, podrá apercibirlo dentro de los 5 días siguientes a la fecha de esta solicitud, a fin de que la respuesta sea entregada, bajo apercibimiento de la sanción prevista en el artículo 506. La respuesta negativa del empleador, sólo habilita al sindicato para presentar un nuevo proyecto en la siguiente temporada.
 La negociación directa deberá finalizar, con una antelación no inferior a 30 días al de inicio de las labores agrícolas de temporada.
 
 Art. 314 bis B. Se podrán convenir en la negociación a que se refiere el artículo anterior, normas comunes de trabajo y remuneraciones incluyéndose especialmente entre aquéllas, las relativas a prevención de riesgos, higiene y seguridad; distribución de la jornada de trabajo; normas sobre alimentación, traslado, habitación y salas cunas.
@@ -2588,10 +2588,6 @@ Art. 428. En las causas laborales, los Juzgados de Letras del Trabajo de Santiag
 Lo dispuesto en el inciso anterior, se aplicará también a los juzgados de San Miguel y a los juzgados con competencia en materia laboral de las comunas de San Bernardo y Puente Alto, respecto de actuaciones que deban practicarse en Santiago o en cualquiera de ellos.
 La facultad establecida en el inciso primero regirá asimismo, para los Juzgados de La Serena y Coquimbo; de Concepción y Talcahuano; de Osorno y Río Negro, y de Puerto Montt, Puerto Varas y Calbuco.
 
-Art. 428 bis. Corresponderá al secretario letrado de los Juzgados del Trabajo tramitar los juicios ejecutivos y los procedimientos incidentales de cumplimiento del fallo, de que deban conocer estos Tribunales. Al efecto, deberán dictar todas las resoluciones que procedan hasta que la causa quede en estado de fallo, incluyendo las sentencias interlocutorias que no pongan término al juicio ni hagan imposible su continuación. Corresponderá al juez letrado dictar las sentencias definitivas y las sentencias interlocutorias que pongan término al juicio o hagan imposible su continuación.
-El Juez, en todo caso, podrá siempre intervenir en dichos procedimientos cuando lo estime necesario.
-Las resoluciones que dicte el secretario del tribunal en conformidad a las facultades que le otorga el inciso primero, serán autorizadas por el oficial primero del tribunal o quien ejerza sus funciones.
-
 Art. 429. Los plazos que se establecen en este Título son fatales, cualesquiera sea la forma en que se expresen, salvo aquellos establecidos para la realización de actuaciones propias del tribunal. En consecuencia, la posibilidad de ejercer un derecho o la oportunidad para ejecutar el acto se extingue por el solo ministerio de la ley al vencimiento del plazo. En estos casos el tribunal, de oficio o a petición de parte, proveerá lo que convenga para la prosecución del juicio, sin necesidad de certificado previo.
 Los términos de días que establece este título, se entenderán suspendidos durante los días feriados salvo que el tribunal, por motivos justificados y en resolución fundada, haya dispuesto expresamente lo contrario.
 Durante el feriado de vacaciones, se aplicará a los asuntos laborales lo dispuesto en el artículo 314 del Código Orgánico de Tribunales.
@@ -2606,8 +2602,6 @@ Igualmente, son lugares hábiles para practicar la notificación el oficio del s
 Art. 431. Si buscada en dos días distintos en su habitación, o en el lugar donde habitualmente ejerce su industria, profesión o empleo, no es habida la persona a quien debe notificarse, se acreditará que ella se encuentra en el lugar del juicio y cuál es su morada o lugar donde ejerce su industria, profesión o empleo, bastando para comprobar estas circunstancias la debida certificación del ministro de fe.
 Establecidos ambos hechos, el tribunal ordenará que la notificación se haga entregando las copias a que se refiere el inciso primero del artículo 430 a cualquiera persona adulta que se encuentre en la morada o en el lugar donde la persona que se va a notificar ejerce su industria, profesión o empleo. Si nadie hay allí, o si por cualquier otra causa no es posible entregar dichas copias a las personas que se encuentren en esos lugares, se fijará en la puerta un aviso que dé noticia de la demanda, con especificación exacta de las partes, materia de la causa, juez que conoce en ella y de las resoluciones que se notifican. En caso que la morada o el lugar donde pernocta o el lugar donde habitualmente ejerce su industria, profesión o empleo, se encuentre en un edificio o recinto al que no se permite libre acceso, el aviso y las copias se entregarán al portero o encargado del edificio o recinto, dejándose testimonio expreso de esta circunstancia. El ministro de fe dará aviso de esta notificación, a ambas partes, el mismo día en que se efectúe o a más tardar el día hábil siguiente, dirigiéndoles carta certificada.
 Lo dispuesto en este artículo no se aplicará al caso de notificación contemplado en el artículo 432.
-
-Art. 432. Cuando se notifique la demanda a un trabajador en el lugar donde ordinariamente preste sus servicios, deberá efectuarse siempre en persona si dicho lugar corresponde a la empresa, establecimiento o faena que dependa del empleador con el cual litigue.
 
 Art. 433. Cuando la demanda deba notificarse a persona cuya individualización o domicilio sean difíciles de determinar, o que por su número dificulten considerablemente la práctica de la diligencia, el juez podrá, con conocimiento de causa, autorizar que la notificación se efectúe por medio de un aviso publicado en el Diario Oficial conforme a un extracto redactado por el secretario del tribunal, que contendrá un resumen de la demanda y copia íntegra de la resolución recaída en ella. El aviso se insertará en los números del Diario Oficial correspondientes a los días primero o quince de cualquier mes o al día siguiente hábil si dicho diario no se publicare en las fechas indicadas.
 El mismo aviso se publicará, además, en un diario o periódico del lugar donde se sigue la causa o de la cabecera de la provincia si allí no los hay.
@@ -2631,10 +2625,13 @@ El artículo 16 de la LEY 20022, publicada el 30.05.2005, dispone que las modifi
 
 Art. 437. El juez podrá corregir de oficio los errores que observe en la tramitación del proceso. Podrá, asimismo, tomar las medidas que tiendan a evitar la nulidad de los actos de procedimiento.
 
-Art. 438. De toda actuación se dejará testimonio en el expediente.
-
 ##### Párrafo 2°
 Del procedimiento de aplicación general
+
+Art. 432. En todo lo no regulado en este Código o en leyes especiales, serán aplicables supletoriamente las normas contenidas en los Libros I y II del Código de Procedimiento Civil, a menos que ellas sean contrarias a los principios que informan este procedimiento. En tal caso, el tribunal dispondrá la forma en que se practicará la actuación respectiva.
+No obstante, respecto de los procedimientos especiales establecidos en los Párrafos 6° y 7° de este Capítulo II, se aplicarán supletoriamente, en primer lugar, las normas del procedimiento de aplicación general contenidas en su Párrafo 3°.
+
+Art. 438. Cuando se notifique la demanda a un trabajador en el lugar donde ordinariamente preste sus servicios, deberá efectuarse siempre en persona, si dicho lugar corresponde a la empresa, establecimiento o faena que dependa del empleador con el cual litigue.
 
 Art. 439. La demanda se interpondrá por escrito y deberá contener:
 1.- la designación del tribunal ante quien se entabla;
@@ -2730,6 +2727,9 @@ Art. 458. La sentencia definitiva deberá contener:
 La sentencia que se dicte en la audiencia, de conformidad a lo establecido en el inciso final del artículo 444, sólo deberá cumplir con los requisitos de los números 2, 5, 6, 7 y 8.
 
 ##### Párrafo 3° Del juicio laboral de menor cuantía
+
+Art. 448. El actor podrá acumular en su demanda todas las acciones que le competan en contra de un mismo demandado, aunque procedan de distintos títulos.
+En el caso de aquellas acciones que corresponda tramitar de acuerdo a procedimientos distintos, se deberán deducir de conformidad a las normas respectivas, y si una dependiere de la otra, no correrá el plazo para ejercer aquella hasta ejecutoriado que sea el fallo de ésta.
 
 Art. 459. En caso de que la cuantía de lo disputado no exceda de cuatro ingresos mínimos, el demandante deberá señalar en su demanda si opta porque ésta se tramite conforme al procedimiento establecido en los artículos precedentes o por el de este artículo. Si nada dijere, se entenderá que opta por el procedimiento ordinario que se contiene en el párrafo anterior.
 De optarse por el procedimiento a que se refiere este párrafo las partes podrán comparecer personalmente, sin necesidad de patrocinio de abogado y en conformidad a las reglas siguientes:
