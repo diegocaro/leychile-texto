@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2008-03-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2008-06-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2008-03-14
-fetched_at: 2026-08-03T01:46:22.017564+00:00
+version_date: 2008-06-28
+fetched_at: 2026-08-03T01:47:04.031178+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2348,8 +2348,8 @@ El robo en lugar no habitado, se castigará con presidio menor en sus grados med
 3.º Haber hecho uso de llaves falsas, o verdadera que se hubiere sustraído, de ganzúas u otros instrumentos semejantes para entrar en el lugar del robo o abrir los muebles cerrados.
 
 ART. 443.
-Con la misma pena señalada en el artículo anterior se castigará el robo de cosas que se encuentren en bienes nacionales de uso público o en sitios no destinados a la habitación si el autor hace uso de llaves falsas o verdaderas que se hubiere sustraído, de ganzúas u otros instrumentos semejantes o si se procede, mediante fractura de puertas, vidrios, cierros, candados u otros dispositivos de protección o si utiliza medios de tracción.
-Se sancionará igualmente con la pena del artículo anterior al que se apropiare de alambres de tendido eléctrico, cables de los servicios telefónicos, telegráficos, de radio comunicaciones o de televisión, o alambres de electricidad o comunicaciones de las empresas de ferrocarriles, escalando para ello las torres, pilares o postes en que los alambres o cables estén instalados, ya sea que se ingrese o no a los recintos cerrados o cercados donde se encuentren emplazadas dichas torres, pilares o postes o extrayéndolos en cualquiera forma de su lugar de instalación, sea que se trate de redes subterráneas, subacuáticas o aéreas, mediante el uso de alicates, cortafríos o, en general, cualquier otro instrumento o elemento idóneo para cortar alambres o cables.
+Con la misma pena señalada en el artículo anterior se castigará el robo de cosas que se encuentren en bienes nacionales de uso público o en sitio no destinado a la habitación si el autor hace uso de llaves falsas o verdaderas que se hayan substraído, de ganzúas u otros instrumentos semejantes o si se procede, mediante fractura de puertas, vidrios, cierros, candados u otros dispositivos de protección o si se utilizan medios de tracción.
+Si con ocasión de alguna de las conductas señaladas en el inciso anterior, se produce la interrupción o interferencia del suministro de un servicio público o domiciliario, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, la pena se aplicará en su grado máximo..
 
 ART. 444.
 Se presume autor de tentativa de robo al que se introdujere con forado, fractura, escalamiento, uso de llave falsa o de llave verdadera sustraída o de ganzúa en algún aposento, casa, edificio habitado o destinado a la habitación o en sus dependencias.
@@ -2372,6 +2372,10 @@ En los casos del artículo anterior podrá aplicarse la pena inmediatamente supe
 2.º Cuando se cometiere por obrero, oficial o aprendiz en la casa, taller o almacén de su maestro o de la persona para quien trabaja, o por individuo que trabaja habitualmente en la casa donde hubiere hurtado.
 3.° Si se cometiere por el posadero, fondista u otra persona que hospede gentes en cosas que hubieren llevado a la posada o fonda.
 4.° Cuando se cometiere por patrón o comandante de buque, lanchero, conductor o bodeguero de tren, guarda almacenes, carruajero, carretero o arriero en cosas que se hayan puesto en su buque, carro, bodega, etc.
+
+ART. 447 bis.-
+El hurto de cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, será castigado con presidio menor en sus grados medio a máximo.
+Si con ocasión de alguna de las conductas señaladas en este artículo se produce la interrupción o interferencia del servicio, la pena se aplicará en su grado máximo.
 
 ART. 448.
 El que, hallándose una especie mueble, al parecer perdida, cuyo valor exceda de una unidad tributaria mensual, no la entregare a la autoridad o a su dueño, siempre que le conste quién sea éste, por hechos coexistentes posteriores al hallazgo, será castigado con presidio menor en su grado mínimo y multa de cinco unidades tributarias mensuales.
@@ -2447,7 +2451,8 @@ En estos delitos no podrá estimarse que concurre la circunstancia atenuante del
 ART. 456 bis A.
 El que conociendo su origen o no pudiendo menos que conocerlo, tenga en su poder, a cualquier título, especies hurtadas, robadas u objeto de abigeato, de receptación o de apropiación indebida del artículo 470, número 1°, las transporte, compre, venda, transforme o comercialice en cualquier forma, aun cuando ya hubiese dispuesto de ellas, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de cinco a cien unidades tributarias mensuales.
 Para la determinación de la pena aplicable el tribunal tendrá especialmente en cuenta el valor de las especies, así como la gravedad del delito en que se obtuvieron, si éste era conocido por el autor.
-Se impondrá el grado máximo de la pena establecida en el inciso primero, cuando el autor haya incurrido en reiteración de esos hechos o sea reincidente en ellos.
+Cuando el objeto de la receptación sean cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, se impondrá la pena de presidio menor en su grado máximo y multa de cinco a veinte unidades tributarias mensuales. La sentencia condenatoria por delitos de este inciso dispondrá el comiso de los instrumentos, herramientas o medios empleados para cometerlos o para transformar o transportar los elementos sustraídos. Si dichos elementos son almacenados, ocultados o transformados en algún establecimiento de comercio con conocimiento del dueño o administrador, se podrá decretar, además, la clausura definitiva de dicho establecimiento, oficiándose a la autoridad competente.
+Se impondrá el grado máximo de la pena establecida en el inciso primero, cuando el autor haya incurrido en reiteración de esos hechos o sea reincidente en ellos. En los casos de reiteración o reincidencia en la receptación de los objetos señalados en el inciso precedente, se aplicará la pena privativa de libertad allí establecida, aumentada en un grado.
 
 #### § VI.
 De la usurpación.
