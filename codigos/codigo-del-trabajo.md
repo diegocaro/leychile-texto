@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2008-07-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2008-07-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2008-07-12
-fetched_at: 2026-08-03T01:47:16.034211+00:00
+version_date: 2008-07-21
+fetched_at: 2026-08-03T01:47:34.823239+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -293,7 +293,7 @@ Art. 41. Se entiende por remuneración las contraprestaciones en dinero y las ad
 No constituyen remuneración las asignaciones de movilización, de pérdida de caja, de desgaste de herramientas y de colación, los viáticos, las prestaciones familiares otorgadas en conformidad a la ley, la indemnización por años de servicios establecida en el artículo 163 y las demás que proceda pagar al extinguirse la relación contractual ni, en general, las devoluciones de gastos en que se incurra por causa del trabajo.
 
 Art. 42. Constituyen remuneración, entre otras, las siguientes:
-a) sueldo, que es el estipendio fijo, en dinero, pagado por períodos iguales, determinados en el contrato, que recibe el trabajador por la prestación de sus servicios, sin perjuicio de lo dispuesto en el inciso segundo del artículo 10;
+a) sueldo, o sueldo base, que es el estipendio obligatorio y fijo, en dinero, pagado por períodos iguales, determinados en el contrato, que recibe el trabajador por la prestación de sus servicios en una jornada ordinaria de trabajo, sin perjuicio de lo señalado en el inciso segundo del artículo 10. El sueldo, no podrá ser inferior a un ingreso mínimo mensual. Se exceptúan de esta norma aquellos trabajadores exentos del cumplimiento de jornada. Sin perjuicio de lo dispuesto en el inciso segundo del artículo 22, se presumirá que el trabajador está afecto a cumplimiento de jornada cuando debiere registrar por cualquier medio y en cualquier momento del día el ingreso o egreso a sus labores, o bien cuando el empleador efectuare descuentos por atrasos en que incurriere el trabajador. Asimismo, se presumirá que el trabajador está afecto a la jornada ordinaria, cuando el empleador, por intermedio de un superior jerárquico, ejerciere una supervisión o control funcional y directo sobre la forma y oportunidad en que se desarrollen las labores, entendiéndose que no existe tal funcionalidad cuando el trabajador sólo entrega resultados de sus gestiones y se reporta esporádicamente, especialmente en el caso de desarrollar sus labores en Regiones diferentes de la del domicilio del empleador.
 b) sobresueldo, que consiste en la remuneración de horas extraordinarias de trabajo;
 c) comisión, que es el porcentaje sobre el precio de las ventas o compras, o sobre el monto de otras operaciones, que el empleador efectúa con la colaboración del trabajador;
 d) participación, que es la proporción en las utilidades de un negocio determinado o de una empresa o sólo de la de una o más secciones o sucursales de la misma, y
@@ -301,12 +301,14 @@ e) gratificación, que corresponde a la parte de utilidades con que el empleador
 
 Art. 43. Los reajustes legales no se aplicarán a las remuneraciones y beneficios estipulados en contratos y convenios colectivos de trabajo o en fallos arbitrales recaídos en una negociación colectiva.
 
-Art. 44. La remuneración podrá fijarse por unidad de tiempo, día, semana, quincena o mes o bien por pieza, medida u obra. En ningún caso la unidad de tiempo podrá exceder de un mes. El monto mensual de la remuneración no podrá ser inferior al ingreso mínimo mensual. Si se convinieren jornadas parciales de trabajo, la remuneración no podrá ser inferior a la mínima vigente, proporcionalmente calculada en relación con la jornada ordinaria de trabajo.
+Art. 44. La remuneración podrá fijarse por unidad de tiempo, día, semana, quincena o mes o bien por pieza, medida u obra, sin perjuicio de lo señalado en la letra a) del artículo 42.
+En ningún caso la unidad de tiempo podrá exceder de un mes.
+El monto mensual del sueldo no podrá ser inferior al ingreso mínimo mensual. Si se convinieren jornadas parciales de trabajo, el sueldo no podrá ser inferior al mínimo vigente, proporcionalmente calculada en relación con la jornada ordinaria de trabajo.
 En los contratos que tengan una duración de treinta días o menos, se entenderá incluida en la remuneración que se convenga con el trabajador todo lo que a éste debe pagarse por feriado y demás derechos que se devenguen en proporción al tiempo servido.
 Lo dispuesto en el inciso anterior no regirá respecto de aquellas prórrogas que, sumadas al período inicial del contrato, excedan de sesenta días.
 Las infracciones a lo dispuesto en el inciso tercero del presente artículo, serán sancionadas con una multa a beneficio fiscal de 1 a 20 Unidades Tributarias Mensuales más el incremento a que alude el inciso primero del artículo 477, en su caso.
 
-Art. 45. El trabajador remunerado exclusivamente por día tendrá derecho a la remuneración en dinero por los días domingo y festivos, la que equivaldrá al promedio de lo devengado en el respectivo período de pago, el que se determinará dividiendo la suma total de las remuneraciones diarias devengadas por el número de días en que legalmente debió laborar en la semana.
+Art. 45. El trabajador remunerado exclusivamente por día tendrá derecho a la remuneración en dinero por los días domingo y festivos, la que equivaldrá al promedio de lo devengado en el respectivo período de pago, el que se determinará dividiendo la suma total de las remuneraciones diarias devengadas por el número de días en que legalmente debió laborar en la semana. Igual derecho tendrá el trabajador remunerado por sueldo mensual y remuneraciones variables, tales como comisiones o tratos, pero, en este caso, el promedio se calculará sólo en relación a la parte variable de sus remuneraciones.
 No se considerarán para los efectos indicados en el inciso anterior las remuneraciones que tengan carácter accesorio o extraordinario, tales como gratificaciones, aguinaldos, bonificaciones u otras.
 Para los efectos de lo dispuesto en el inciso tercero del artículo 32, el sueldo diario de los trabajadores a que se refiere este artículo, incluirá lo pagado por este título en los días domingo y festivos comprendidos en el período en que se liquiden las horas extraordinarias, cuya base de cálculo en ningún caso podrá ser inferior al ingreso mínimo mensual. Toda estipulación en contrario se tendrá por no escrita.
 Lo dispuesto en los incisos precedentes se aplicará, en cuanto corresponda, a los días de descanso que tienen los trabajadores exceptuados del descanso a que se refiere el artículo 35.
