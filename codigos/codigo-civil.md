@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2007-06-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2008-09-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2007-06-08
-fetched_at: 2026-08-03T01:42:07.994159+00:00
+version_date: 2008-09-15
+fetched_at: 2026-08-03T01:47:46.829219+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -791,8 +791,8 @@ En caso de insuficiencia de uno de los padres, la obligación indicada precedent
 
 Art. 233. En caso de desacuerdo entre los obligados a la contribución de los gastos de crianza, educación y establecimiento del hijo, ésta será determinada de acuerdo a sus facultades económicas por el juez, el que podrá de tiempo en tiempo modificarla, según las circunstancias que sobrevengan.
 
-Art. 234. Los padres tendrán la facultad de corregir a los hijos, cuidando que ello no menoscabe su salud ni su desarrollo personal.
-Si se produjese tal menoscabo o se temiese fundadamente que ocurra, el juez, a petición de cualquiera persona o de oficio, decretará medidas en resguardo del hijo, sin perjuicio de las sanciones que correspondiere aplicar por la infracción.
+Art. 234. Los padres tendrán la facultad de corregir a los hijos, cuidando que ello no menoscabe su salud ni su desarrollo personal. Esta facultad excluye toda forma de maltrato físico y sicológico y deberá, en todo caso, ejercerse en conformidad a la ley y a la Convención sobre los Derechos del Niño.
+Si se produjese tal menoscabo o se temiese fundadamente que ocurra, el juez, a petición de cualquiera persona o de oficio, podrá decretar una o más de las medidas cautelares especiales del artículo 71 de la ley N° 19.968, con sujeción al procedimiento previsto en el Párrafo primero del Título IV de la misma ley, sin perjuicio de las sanciones que correspondiere aplicar por la infracción.
 Cuando sea necesario para el bienestar del hijo, los padres podrán solicitar al tribunal que determine sobre la vida futura de aquel por el tiempo que estime más conveniente, el cual no podrá exceder del plazo que le falte para cumplir dieciocho años de edad.
 Las resoluciones del juez no podrán ser modificadas por la sola voluntad de los padres.
 
