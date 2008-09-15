@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2008-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2008-09-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2008-03-01
-fetched_at: 2026-08-03T01:46:10.019436+00:00
+version_date: 2008-09-15
+fetched_at: 2026-08-03T01:48:03.826027+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -317,7 +317,7 @@ Los acuerdos del comité de jueces se adoptarán por mayoría de votos; en caso 
 Art. 23. Al comité de jueces corresponderá:
 a) Aprobar el procedimiento objetivo y general a que se refieren los artículos 15 y 17, en su caso;
 b) Designar, de la terna que le presente el juez presidente, al administrador del tribunal;
-c) Calificar anualmente al administrador del tribunal;
+c) Suprimida.
 d) Resolver acerca de la remoción del administrador;
 e) Designar al personal del juzgado o tribunal, a propuesta en terna del administrador;
 f) Conocer de la apelación que se interpusiere en contra de la resolución del administrador que remueva al subadministrador, a los jefes de unidades o a los empleados del juzgado o tribunal;
@@ -338,7 +338,7 @@ e) Aprobar los criterios de gestión administrativa que le proponga el administr
 f) Aprobar la distribución del personal que le presente el administrador del tribunal;
 g) Calificar al personal, teniendo a la vista la evaluación que le presente el administrador del tribunal;
 h) Presentar al comité de jueces una terna para la designación del administrador del tribunal;
-i) Evaluar anualmente la gestión del administrador, y
+i) Suprimida.
 j) Proponer al comité de jueces la remoción del administrador del tribunal.
 El desempeño de la función de juez presidente del comité de jueces del juzgado o tribunal podrá significar una reducción proporcional de su trabajo jurisdiccional, según determine el comité de jueces.
 Tratándose de los juzgados de garantía en los que se desempeñe un solo juez, éste tendrá las atribuciones del juez presidente, con excepción de las contempladas en las letras a) y c). Las atribuciones de las letras h) y j) las ejercerá el juez ante el Presidente de la Corte de Apelaciones respectiva.
@@ -487,7 +487,7 @@ Dos juzgados de letras en lo civil, con asiento en la comuna de Chillán, con co
 Tres juzgados de letras en lo civil con asiento en la comuna de Concepción, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz y Chiguayante, y
 Dos juzgados de letras en lo civil con asiento en la comuna de Talcahuano, con competencia sobre las comunas de Talcahuano y Hualpén, que tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 B.- JUZGADOS CON COMPETENCIA COMUN:
-Un juzgado con asiento en la comuna de San Carlos, con competencia sobre las comunas de San Carlos, Ñiquén, San Fabián y San Nicolás;
+Un juzgado con asiento en la comuna de San Carlos, con dos jueces, con competencia sobre las comunas de San Carlos, Ñiquén, San Fabián y San Nicolás;
 Un juzgado con asiento en la comuna de Yungay, con competencia sobre las comunas de Yungay, Pemuco, El Carmen y Tucapel;
 Un juzgado con asiento en la comuna de Bulnes, con competencia sobre las comunas de Bulnes, Quillón y San Ignacio;
 Un juzgado con asiento en la comuna de Coelemu, con competencia sobre las comunas de Coelemu y Ranquil;
@@ -522,7 +522,7 @@ Un juzgado con asiento en la comuna de Curacautín, con competencia sobre las co
 Un juzgado con asiento en la comuna de Toltén, con competencia sobre la misma comuna;
 Un juzgado con asiento en la comuna de Loncoche, con competencia sobre la misma comuna;
 Un juzgado con asiento en la comuna de Pitrufquén, con competencia sobre las comunas de Pitrufquén y Gorbea;
-Un juzgado con asiento en la comuna de Villarrica, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Villarrica, con dos jueces, con competencia sobre la misma comuna;
 Un juzgado con asiento en la comuna de Nueva Imperial, con competencia sobre las comunas de Nueva Imperial, Cholchol y Teodoro Schmidt;
 Un juzgado con asiento en la comuna de Pucón, con competencia sobre las comunas de Pucón y Curarrehue;
 Un juzgado con asiento en la comuna de Lautaro, con competencia sobre las comunas de lautaro, Perquenco y Galvarino, y
@@ -561,7 +561,7 @@ Un juzgado con asiento en la comuna de Porvenir, con competencia sobre las comun
 
 Art. 39 bis. En la Decimocuarta Región, de Los Ríos, existirán los siguientes juzgados de letras:
 Dos juzgados con asiento en la comuna de Valdivia, con competencia sobre las comunas de Valdivia y Corral;
-Un juzgado con asiento en la comuna de Mariquina, con competencia sobre las comunas de Mariquina, Máfil y Lanco;
+Un juzgado con asiento en la comuna de Mariquina, con dos jueces, con competencia sobre las comunas de Mariquina, Máfil y Lanco;
 Un juzgado con asiento en la comuna de Los Lagos, con competencia sobre las comunas de Los Lagos y Futrono;
 Un juzgado con asiento en la comuna de Panguipulli, con competencia sobre la misma comuna;
 Un juzgado con asiento en la comuna de La Unión, con dos jueces, con competencia sobre la misma comuna;
@@ -1566,8 +1566,9 @@ La evaluación se hará por quienes se indica a continuación:
 a) La Corte Suprema, en pleno, calificará a los ministros de Cortes de Apelaciones, a los relatores y procuradores del número que se desempeñen en dicho tribunal, a su secretario, prosecretario y empleados;
 b) Las Cortes de Apelaciones, en pleno, calificarán a los jueces de letras, a sus secretarios, relatores y empleados, y a los secretarios de juzgados y funcionarios auxiliares de la Administración de Justicia que ejerzan sus funciones en el territorio jurisdiccional de juzgados de ciudad asiento de Corte de Apelaciones. También calificarán a los demás notarios que ejerzan funciones en el territorio de su jurisdicción, previo informe del juez o de los jueces en cuyo territorio jurisdiccional se desempeñen;
 c) El fiscal judicial de la Corte Suprema calificará a su secretario abogado, a los empleados de su oficio y a los fiscales de las Cortes de Apelaciones;
-d) Los fiscales judiciales de las Cortes de Apelaciones calificarán a los empleados de su oficio, y
-e) Los jueces letrados calificarán a los miembros del consejo técnico y empleados y a los funcionarios auxiliares de la Administración de Justicia no comprendidos en las letras anteriores que se desempeñen dentro de sus respectivos territorios jurisdiccionales. En este último caso, en los lugares en que existan dos jueces de letras, la calificación la hará el más antiguo, y en aquellos en que existan más de dos se constituirán todos en comisión calificadora. Si fueren más de cinco, la comisión estará constituida por los cinco jueces de mayor antigüedad.
+d) Los fiscales judiciales de las Cortes de Apelaciones calificarán a los empleados de su oficio;
+e) Los jueces letrados calificarán a los miembros del consejo técnico y empleados y a los funcionarios auxiliares de la Administración de Justicia no comprendidos en las letras anteriores que se desempeñen dentro de sus respectivos territorios jurisdiccionales. En este último caso, en los lugares en que existan dos jueces de letras, la calificación la hará el más antiguo, y en aquellos en que existan más de dos se constituirán todos en comisión calificadora. Si fueren más de cinco, la comisión estará constituida por los cinco jueces de mayor antigüedad, y
+f) El Presidente de la Corte de Apelaciones respectiva calificará a los administradores de tribunales de la jurisdicción, teniendo a la vista informes que deberán emitir por separado el Comité de Jueces correspondiente y la Corporación Administrativa del Poder Judicial.
 Actuará como secretario de estas comisiones, el secretario del tribunal donde se desempeñe su presidente o en su defecto, el secretario más antiguo de cualquiera de los tribunales cuyos jueces integren la comisión, y si hubiere dos o más secretarios, el que éste designe. Si la calificación corresponde hacerla a una sola persona, ésta designará, en el mes de octubre de cada año, un secretario entre sus subordinados o auxiliares de la Administración de Justicia de su territorio jurisdiccional.
 
 Art. 274. Los secretarios de los órganos calificadores indicados en el artículo 273, deberán cumplir, entre otras, las siguientes funciones:
@@ -1587,7 +1588,7 @@ Art. 276. Las calificaciones se efectuarán por los órganos calificadores indic
 Todas las personas sujetas a evaluación deberán ser calificadas en esa oportunidad, con los antecedentes que a esa fecha existan sobre ellas.
 La calificación deberá ser puesta, privadamente, en conocimiento del respectivo evaluado, tan pronto como finalice el proceso, entregándole copia de la parte que le concierna del libro de acta a que se refiere la letra c) del artículo 274, sea personalmente o remitiéndole ésta por carta certificada al tribunal donde preste sus servicios.
 Las calificaciones que realice la Corte Suprema en única instancia solo serán susceptibles del recurso de reposición, el que deberá ser fundado.
-Las demás calificaciones sólo podrán ser objeto del recurso de apelación, igualmente fundado, señalando claramente los hechos que a juicio del apelante deben ser considerados para mejorar la calificación.
+Las demás calificaciones sólo podrán ser objeto del recurso de apelación, igualmente fundado, señalando claramente los hechos que a juicio del apelante deben ser considerados para mejorar la calificación. Las calificaciones a que se refiere la letra f) del artículo 273 serán apelables ante el pleno de la Corte de Apelaciones respectiva.
 Estos recursos deberán interponerse en el plazo fatal de cinco días hábiles contados desde la fecha de notificación de la calificación de la que se pide reposición o se apela. Si la notificación se hubiese hecho por carta certificada, se entenderá efectuada transcurridos que sean tres días hábiles desde la fecha de entrega de la carta al Servicio de Correos. Los recursos, dirigidos al órgano calificador que deba conocer de ellos, se presentarán directamente ante el que haya efectuado la evaluación, cuyo secretario deberá remitirlos, dentro de 48 horas, al que deba conocerlos.
 La calificación hecha por el órgano calificador de apelación no será susceptible de recurso alguno.
 Corresponderá conocer del recurso de apelación a los siguientes órganos:
