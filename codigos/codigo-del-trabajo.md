@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2008-07-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2008-09-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2008-07-21
-fetched_at: 2026-08-03T01:47:34.823239+00:00
+version_date: 2008-09-17
+fetched_at: 2026-08-03T01:48:15.912429+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -2649,6 +2649,11 @@ Art. 439. La demanda se interpondrá por escrito y deberá contener:
 4.- la exposición clara de los hechos y fundamentos de derecho en que se apoya, y
 5.- la enunciación precisa y clara de las peticiones que se someten a la resolución del tribunal.
 
+Art. 439 bis.- En las causas laborales, los juzgados de letras del trabajo de Santiago podrán decretar diligencias para cumplirse directamente en las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, La Cisterna, El Bosque, Pedro Aguirre Cerda, Lo Espejo, San Bernardo, Calera de Tango, Puente Alto, San José de Maipo y Pirque sin necesidad de exhorto.
+Lo dispuesto en el inciso anterior, se aplicará también en los juzgados de San Miguel y en los juzgados con competencia laboral de las comunas de San Bernardo y Puente Alto, respecto de las actuaciones que deban practicarse en Santiago o en cualquiera de ellos.
+La facultad establecida en el inciso primero regirá, asimismo, entre los juzgados de La Serena y Coquimbo; de Valparaíso y Viña del Mar; de Concepción y Talcahuano; de Osorno y Río Negro, y de Puerto Montt, Puerto Varas y Calbuco.
+Con todo, si en cualquier región del país la cercanía y conectividad de las comunas lo hace aconsejable, se podrán decretar diligencias para ser realizadas sin necesidad de exhorto.
+
 Art. 440. Admitida la demanda a tramitación, se conferirá traslado de ella al demandado para que la conteste por escrito.
 El término para contestarla será de diez días fatales, el que se aumentará con la tabla de emplazamiento a que se refiere el artículo 259 del Código de Procedimiento Civil.
 La contestación a la demanda deberá contener:
@@ -2737,8 +2742,43 @@ La sentencia que se dicte en la audiencia, de conformidad a lo establecido en el
 
 ##### Párrafo 3° Del juicio laboral de menor cuantía
 
+Art. 446. La demanda se interpondrá por escrito y deberá contener:
+1. La designación del tribunal ante quien se entabla;
+2. El nombre, apellidos, domicilio y profesión u oficio del demandante y en su caso de las personas que lo representen, y naturaleza de la representación;
+3. El nombre, apellidos, domicilio y profesión u oficio del demandado;
+4. La exposición clara y circunstanciada de los hechos y consideraciones de derecho en que se fundamenta, y
+5. La enunciación precisa y concreta de las peticiones que se someten a la resolución del tribunal.
+La prueba documental sólo se podrá presentar en la audiencia preparatoria. Sin embargo, deberá presentarse conjuntamente con la demanda, aquella que dé cuenta de las actuaciones administrativas que se refieren a los hechos contenidos en esa.
+En materias de seguridad social, cuando se demande a una institución de previsión o seguridad social, deberá acompañarse la resolución final de la respectiva entidad o de la entidad fiscalizadora según corresponda, que se pronuncia sobre la materia que se demanda.
+Cuando se demanden períodos de cotizaciones de seguridad social impagas, el juez de la causa al conferir el traslado de la demanda, deberá ordenar la notificación de ella a la o las instituciones de seguridad social a las que corresponda percibir la respectiva cotización. Dicha notificación se efectuará a través de carta certificada, la que contendrá copia íntegra de la demanda y de la resolución recaída en ella o un extracto si fueren muy extensas.
+
 Art. 448. El actor podrá acumular en su demanda todas las acciones que le competan en contra de un mismo demandado, aunque procedan de distintos títulos.
 En el caso de aquellas acciones que corresponda tramitar de acuerdo a procedimientos distintos, se deberán deducir de conformidad a las normas respectivas, y si una dependiere de la otra, no correrá el plazo para ejercer aquella hasta ejecutoriado que sea el fallo de ésta.
+
+Art. 454. En la audiencia de juicio se aplicarán las siguientes reglas:
+1) La audiencia de juicio se iniciará con la rendición de las pruebas decretadas por el tribunal, comenzando con la ofrecida por el demandante y luego con la del demandado.
+No obstante lo anterior, en los juicios sobre despido corresponderá en primer lugar al demandado la rendición de la prueba, debiendo acreditar la veracidad de los hechos imputados en las comunicaciones a que se refieren los incisos primero y cuarto del artículo 162, sin que pueda alegar en el juicio hechos distintos como justificativos del despido.
+El orden de recepción de las pruebas será el siguiente: documental, confesional, testimonial y los otros medios ofrecidos, sin perjuicio de que el tribunal pueda modificarlo por causa justificada.
+2) La impugnación de la prueba instrumental acompañada deberá formularse en forma oral en la audiencia preparatoria o en la de juicio.
+3) Si el llamado a confesar no compareciese a la audiencia sin causa justificada, o compareciendo se negase a declarar o diere respuestas evasivas, podrán presumirse efectivas, en relación a los hechos objeto de prueba, las alegaciones de la parte contraria en la demanda o contestación, según corresponda.
+La persona citada a absolver posiciones estará obligada a concurrir personalmente a la audiencia, a menos que designe especialmente un mandatario para tal objeto, el que si representa al empleador, deberá tratarse de una de las personas a que se refiere el artículo 4º de este Código. La designación del mandatario deberá constar por escrito y entregarse al inicio de la audiencia, considerándose sus declaraciones para todos los efectos legales como si hubieren sido hechas personalmente por aquél cuya comparecencia se solicitó.
+Si los demandantes fueren varios y se solicitare la citación a confesar en juicio de muchos o de todos ellos, el juez podrá reducir el número de quienes habrán de comparecer, en especial cuando estime que sus declaraciones puedan resultar una reiteración inútil sobre los mismos hechos.
+4) Las posiciones para la prueba confesional se formularán verbalmente, sin admisión de pliegos, y deberán ser pertinentes a los hechos sobre los cuales debe versar la prueba y expresarse en términos claros y precisos, de manera que puedan ser entendidas sin dificultad. El tribunal, de oficio o a petición de parte, podrá rechazar las preguntas que no cumplan con dichas exigencias.
+El juez podrá formular a los absolventes las preguntas que estime pertinente, así como ordenarles que precisen o aclaren sus respuestas.
+5) Los testigos podrán declarar únicamente ante el tribunal que conozca de la causa. Serán admitidos a declarar sólo hasta cuatro testigos por cada parte. En caso de que se haya ordenado la acumulación de autos, el número de testigos admitidos a declarar será determinado por el tribunal, no pudiendo en ningún caso ser superior a cuatro por cada causa acumulada.
+Excepcionalmente, y por resolución fundada, el tribunal podrá ampliar el número de testigos cuando, de acuerdo a la naturaleza de los hechos a ser probados, ello se considere indispensable para una adecuada resolución del juicio.
+El juez podrá reducir el número de testigos de cada parte, e incluso prescindir de la prueba testimonial cuando sus manifestaciones pudieren constituir inútil reiteración sobre hechos suficientemente esclarecidos.
+Los testigos declararán bajo juramento o promesa de decir verdad en juicio. El juez, en forma expresa y previa a su declaración, deberá poner en conocimiento del testigo las sanciones contempladas en el artículo 209 del Código Penal, por incurrir en falso testimonio.
+No se podrá formular tachas a los testigos.
+Únicamente en la oportunidad a que se refiere el número 9 de este artículo, las partes podrán hacer las observaciones que estimen oportunas respecto de sus circunstancias personales y de la veracidad de sus manifestaciones.
+La comparecencia del testigo a la audiencia de juicio, constituirá siempre suficiente justificación cuando su presencia fuere requerida simultáneamente para dar cumplimiento a obligaciones laborales, educativas o de otra naturaleza, y no le ocasionará consecuencias jurídicas adversas bajo circunstancia alguna.
+6) El tribunal y las partes podrán formular a los testigos las preguntas que estimen necesarias para el esclarecimiento de los hechos sobre los que versa el juicio. Podrán, asimismo, exigir que los testigos aclaren o precisen sus dichos.
+Estas preguntas no podrán formularse en forma asertiva, ni contener elementos de juicio que determinen la respuesta, ni referirse a hechos o circunstancias ajenas al objeto de la prueba, lo que calificará el tribunal sin más trámite.
+7) Si el oficio o informe del perito no fuere evacuado antes de la audiencia y su contenido fuere relevante para la resolución del asunto, el juez deberá, dentro de la misma audiencia, tomar las medidas inmediatas que fueren necesarias para su aportación en ella. Si al término de esta audiencia dichas diligencias no se hubieren cumplido, el Tribunal fijará para ese solo efecto una nueva audiencia que deberá llevarse a cabo dentro del más breve plazo.
+8) Cuando se rinda prueba que no esté expresamente regulada en la ley, el tribunal determinará la forma de su incorporación al juicio, adecuándola, en lo posible, al medio de prueba más análogo.
+9) Practicada la prueba, las partes formularán, oralmente, en forma breve y precisa, las observaciones que les merezcan las pruebas rendidas y sus conclusiones.
+Con todo, si a juicio del juez hubiere puntos no suficientemente esclarecidos, podrá ordenar a las partes que los aclaren.
+10) Si una de las partes alegare entorpecimiento en el caso de la imposibilidad de comparecencia de quien fuere citado a la diligencia de confesión, deberá acreditarlo al invocarla, debiendo resolverse el incidente en la misma audiencia. Sólo podrá aceptarse cuando se invocaren hechos sobrevinientes y de carácter grave, en cuyo caso, deberá el juez adoptar las medidas inmediatas que fueren necesarias para su realización a la mayor brevedad, notificándose a las partes en el acto.
 
 Art. 459. En caso de que la cuantía de lo disputado no exceda de cuatro ingresos mínimos, el demandante deberá señalar en su demanda si opta porque ésta se tramite conforme al procedimiento establecido en los artículos precedentes o por el de este artículo. Si nada dijere, se entenderá que opta por el procedimiento ordinario que se contiene en el párrafo anterior.
 De optarse por el procedimiento a que se refiere este párrafo las partes podrán comparecer personalmente, sin necesidad de patrocinio de abogado y en conformidad a las reglas siguientes:
