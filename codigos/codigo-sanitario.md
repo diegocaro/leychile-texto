@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2006-03-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2008-11-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2006-03-10
-fetched_at: 2026-08-03T01:37:45.586607+00:00
+version_date: 2008-11-19
+fetched_at: 2026-08-03T01:48:35.547194+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -446,7 +446,7 @@ de los ocupantes de edificios o locales de cualquier naturaleza, del vecindario 
 NOTA
 Véase el Decreto 32, Salud, D.O. 24.05.1990, que reglamenta el funcionamiento de fuentes emisoras de contaminantes atmosféricos en situaciones de emergencia por contaminación.
 NOTA 1:
-Véanse el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza.
+Véanse el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza; y el Decreto 61, Salud, publicado el 19.11.2008, que aprueba el Reglamento de estaciones de medición de contaminantes atmosféricos.
 NOTA 2:
 Véase el Decreto 594, Salud, publicado el 29.04.2000, vigente a contar de 365 días desde su publicación, que establece el Reglamento sobre Condiciones Sanitarias y Ambientales Mínimas en los lugares de trabajo.
 
