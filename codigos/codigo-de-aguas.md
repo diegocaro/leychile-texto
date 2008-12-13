@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2006-05-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2008-12-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 2006-05-15
-fetched_at: 2026-08-03T01:37:51.591406+00:00
+version_date: 2008-12-13
+fetched_at: 2026-08-03T01:48:41.550647+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -146,8 +146,8 @@ La junta de vigilancia respectiva o cualquier interesado podrá, en caso justifi
 
 #### 5.- Disposiciones especiales
 
-ARTICULO 41°- El proyecto, construcción y financiamiento de las modificaciones que fuere necesario realizar en cauces naturales o artificiales, con motivo de la construcción de obras públicas, urbanizaciones, edificaciones y otras obras en general, serán de responsabilidad y de cargo de quienes las ordenen.
-Se entenderá por modificaciones no solo el cambio de trazado de los cauces mismos, sino también la alteración o sustitución de cualquiera de sus obras de arte y la construcción de nuevas obras, como abovedamientos, pasos sobre o bajo nivel o cualesquiera otras de sustitución o complemento.
+ARTICULO 41°- El proyecto y construcción de las modificaciones que fueren necesarias realizar en cauces naturales o artificiales, con motivo de la construcción de obras, urbanizaciones y edificaciones que puedan causar daño a la vida, salud o bienes de la población o que de alguna manera alteren el régimen de escurrimiento de las aguas, serán de responsabilidad del interesado y deberán ser aprobadas previamente por la Dirección General de Aguas de conformidad con el procedimiento establecido en el párrafo 1 del Título I del Libro Segundo del Código de Aguas. La Dirección General de Aguas determinará mediante resolución fundada cuáles son las obras y características que se encuentran en la situación anterior.
+Se entenderá por modificaciones no sólo el cambio de trazado de los cauces mismos, sino también la alteración o sustitución de cualquiera de sus obras de arte y la construcción de nuevas obras, como abovedamientos, pasos sobre o bajo nivel o cualesquiera otras de sustitución o complemento.
 La operación y la mantención de las nuevas obras seguirán siendo de cargo de las personas o entidades que operaban y mantenían el sistema primitivo. Si la modificación introducida al proyecto original implica un aumento de los gastos de operación y mantención, quien la encomendó deberá pagar el mayor costo.
 
 ARTICULO 42°- Cuando un ferrocarril, camino o instalación de cualquier naturaleza atravesare ríos, lagos, lagunas, tranques, represas o acueductos, deberán ejecutarse las obras de manera que no perjudiquen o entorpezcan la navegación ni el aprovechamiento de las aguas como tampoco el ejercicio de las servidumbres constituidas sobre ellas.
@@ -780,7 +780,7 @@ Cuando se trate de obras de regularización o defensa de cauces naturales, los p
 Quedan exceptuados de los trámites y requisitos establecidos en los incisos precedentes, los Servicios dependientes del Ministerio de Obras Públicas, los cuales deberán remitir los proyectos de las obras a la Dirección General de Aguas, para su conocimiento, informe e inclusión en el Catastro Público de Aguas.
 
 ARTICULO 172°- Si se realizare obras con infracción a lo dispuesto en el artículo anterior, la Dirección General de Aguas podrá apercibir al infractor, fijándole plazo perentorio para que modifique o destruya las obras que entorpezcan el libre escurrimiento de las aguas o signifiquen peligro para la vida o salud de los habitantes.
-Si el infractor no diere cumplimiento a lo ordenado, la Dirección podrá encomendar a terceros la ejecución de las obras necesarias por cuenta de los causantes del entorpecimiento o peligro. Tendrá mérito ejecutivo para su cobro la copia autorizada de la resolución del Director General de Aguas que fije el valor de las obras ejecutadas.
+Si el infractor no diere cumplimiento a lo ordenado, la Dirección le impondrá una multa mínima de 100 y máxima de 1.000 unidades tributarias anuales, según fuere la magnitud del entorpecimiento ocasionado al libre escurrimiento de las aguas o el peligro para la vida o salud de los habitantes, y podrá encomendar a terceros la ejecución de las obras necesarias por cuenta de los causantes del entorpecimiento o peligro. Tendrá mérito ejecutivo para su cobro la copia autorizada de la resolución del Director General de Aguas que fije el valor de las obras ejecutadas.
 
 #### 3. De las Multas
 
