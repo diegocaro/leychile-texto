@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2008-11-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2008-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2008-11-19
-fetched_at: 2026-08-03T01:48:35.547194+00:00
+version_date: 2008-12-27
+fetched_at: 2026-08-03T01:49:05.554584+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -424,6 +424,7 @@ Véanse el Decreto 133, Salud, publicado el 23.08.1984, que establece el Reglame
 
 Artículo 87°.- El Servicio Nacional de Salud tendrá a su cargo la recopilación y análisis de los datos estadísticos referentes a los accidentes y enfermedades profesionales, los que le deberán ser proporcionados por el empleador, en la forma y con la periodicidad que él señale.
 Las enfermedades profesionales serán notificadas por el médico que las constate, en la forma y condiciones que el Servicio Nacional de Salud establezca.
+También, deberá notificar las afecciones que puedan derivarse de intoxicaciones producidas por el uso de plaguicidas o productos fitosanitarios.
 
 Artículo 88°.- Corresponde exclusivamente al Servicio Nacional de Salud determinar en cada caso las incapacidades permanentes debidas a accidentes del trabajo o enfermedades profesionales.
 
@@ -458,8 +459,10 @@ Los productos señalados en el inciso anterior no podrán ser importados o fabri
 El Director General de Salud queda facultado para controlar y prohibir en casos calificados el expendio de tales substancias y productos, cuyo uso indiscriminado pueda dar origen a accidentes o intoxicaciones, así como para decomisarlos si las circunstancias lo requieren.
 
 Artículo 91°.- Sin perjuicio de lo dispuesto en el artículo anterior, un reglamento establecerá las condiciones en que se podrá realizar la fabricación, importación, almacenamiento, envase, distribución, o expendio a cualquier título, manipulación, formulación, uso o aplicación, de los pesticidas para uso sanitario y doméstico, así como la manipulación de los que puedan afectar la salud del hombre.
+Un reglamento establecerá la forma en que tendrán lugar las fumigaciones aéreas; las condiciones y restricciones de seguridad para la salud de las personas; la forma y oportunidad en que deba informarse de su realización a los trabajadores y vecinos, y las medidas de resguardo necesarias para evitar el acceso del público y de los trabajadores al lugar afectado en los plazos que, al efecto, determine la Autoridad Sanitaria.
 
-Artículo 92°.- Todo producto destinado a ser aplicado en el medio ambiente con el objeto de combatir organismos capaces de producir daños en el hombre, animales, plantas, semillas y objetos inanimados, será considerado pesticida.
+Artículo 92°.- Todo producto destinado a ser aplicado en el medio ambiente con el objeto de combatir organismos capaces de producir daños en el hombre, animales, plantas, semillas y objetos inanimados será considerado pesticida.
+Un reglamento establecerá los requisitos y las condiciones de seguridad que deban cumplir los establecimientos de expendio de pesticidas.
 
 Artículo 93°.- Ningún pesticida podrá ser importado o fabricado en el país sin autorización del Director General de Salud, debiendo obtenerse para su venta y distribución a cualquier título, el correspondiente registro.
 Exceptúanse de esta prohibición las muestras que se importen destinadas a obtener su registro, en las cantidades que determine el reglamento.

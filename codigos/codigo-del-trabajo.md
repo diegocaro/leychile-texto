@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2008-09-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2008-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2008-09-17
-fetched_at: 2026-08-03T01:48:15.912429+00:00
+version_date: 2008-12-27
+fetched_at: 2026-08-03T01:48:53.551278+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -486,6 +486,7 @@ Para los efectos de este artículo, se entenderán por regalías el cerco, la ra
 Por resolución del Ministerio del Trabajo y Previsión Social, se fijará el valor de las regalías agrícolas o las normas para su determinación, de acuerdo con las características de las respectivas zonas del país, la que será de aplicación obligatoria. Sin embargo, si el valor así asignado no se ajustare a la realidad, cualquiera de las partes podrá acudir al Juzgado de Letras del Trabajo para que haga su determinación, previo informe de dos peritos designados por el juez respectivo.
 
 Art. 92. En el contrato de los trabajadores permanentes, se entenderá siempre incluida la obligación del empleador de proporcionar al trabajador y su familia habitación higiénica y adecuada, salvo que éste ocupe o puede ocupar una casa habitación en un lugar que, atendida la distancia y medios de comunicación, le permita desempeñar sus labores.
+El empleador deberá, en todo caso, prestar al trabajador que realice labores en las que tenga contacto con pesticidas, plaguicidas o productos fitosanitarios tóxicos, según clasificación de la Organización Mundial de la Salud contenida en resolución del Ministerio de Salud, información suficiente sobre su correcto uso y manipulación, eliminación de residuos y envases vacíos, riesgos derivados de su exposición y acerca de los síntomas que pudiere presentar y que revelen su inadecuada utilización. Asimismo, deberá proporcionar al trabajador los implementos y medidas de seguridad necesarios para protegerse de ellos, como también los productos de aseo indispensables para su completa remoción y que no fueren los de uso corriente.
 
 Art. 92 bis. Las personas que se desempeñen como intermediarias de trabajadores agrícolas y de aquéllos que presten servicios en empresas comerciales o agroindustriales derivadas de la agricultura, de la explotación de madera u otras afines, deberán inscribirse en un Registro especial que para esos efectos llevará la Inspección del Trabajo respectiva.
 Las empresas que utilicen servicios de intermediarios agrícolas o de empresas contratistas no inscritas en la forma que señala el inciso precedente, serán sancionadas con
@@ -506,6 +507,7 @@ En el caso de existir saldos de remuneración que no hayan sido pagados al traba
 
 Art. 95. En el contrato de los trabajadores transitorios o de temporada, se entenderá siempre incluida la obligación del empleador de proporcionar al trabajador condiciones adecuadas e higiénicas de alojamiento, de acuerdo a las características de la zona, condiciones climáticas y demás propias de la faena de temporada de que se trate, salvo que éste acceda o pueda acceder a su residencia o a un lugar de alojamiento adecuado e higiénico que, atendida la distancia y medios de comunicación, le permita desempeñar sus labores.
 En las faenas de temporada, el empleador deberá proporcionar a los trabajadores, las condiciones higiénicas y adecuadas que les permitan mantener, preparar y consumir los alimentos. En el caso que, por la distancia o las dificultades de transporte no sea posible a los trabajadores adquirir sus alimentos, el empleador deberá, además, proporcionárselos.
+Asimismo, el empleador deberá prestar al trabajador que realice labores en las que tenga contacto con pesticidas, plaguicidas o productos fitosanitarios tóxicos, según clasificación de la Organización Mundial de la Salud contenida en resolución del Ministerio de Salud, información suficiente sobre su correcto uso y manipulación, eliminación de residuos y envases vacíos, riesgos derivados de su exposición y acerca de los síntomas que pudiere presentar y que revelen su inadecuada utilización. Deberá proporcionar al trabajador, además, los implementos y medidas de seguridad necesarios para protegerse de ellos, como también los productos de aseo indispensables para su completa remoción y que no fueren los de uso corriente.
 En el caso que entre la ubicación de las faenas y el lugar donde el trabajador aloje o pueda alojar de conformidad al inciso primero de este artículo, medie una distancia igual o superior a tres kilómetros y no existiesen medios de transporte público, el empleador deberá proporcionar entre ambos puntos los medios de movilización necesarios, que reúnan los requisitos de seguridad que determine el reglamento.
 Las obligaciones que establece este artículo son de costo del empleador y no serán compensables en dinero ni constituirán en ningún caso remuneración.
 
@@ -1358,8 +1360,9 @@ DE LA PROTECCION A LOS TRABAJADORES
 ### Título I
 NORMAS GENERALES
 
-Art. 184. El empleador estará obligado a tomar todas las medidas necesarias para proteger eficazmente la vida y salud de los trabajadores, manteniendo las condiciones adecuadas de higiene y seguridad en las faenas, como también los implementos necesarios para prevenir accidentes y enfermedades profesionales.
+Art. 184. El empleador estará obligado a tomar todas las medidas necesarias para proteger eficazmente la vida y salud de los trabajadores, informando de los posibles riesgos y manteniendo las condiciones adecuadas de higiene y seguridad en las faenas, como también los implementos necesarios para prevenir accidentes y enfermedades profesionales.
 Deberá asimismo prestar o garantizar los elementos necesarios para que los trabajadores en caso de accidente o emergencia puedan acceder a una oportuna y adecuada atención médica, hospitalaria y farmacéutica.
+Los organismos administradores del seguro de la ley Nº 16.744, deberán informar a sus empresas afiliadas sobre los riesgos asociados al uso de pesticidas, plaguicidas y, en general, de productos fitosanitarios.
 Corresponderá también a la Dirección del Trabajo fiscalizar el cumplimiento de normas de higiene y seguridad en el trabajo, en los términos señalados en el artículo 191, sin perjuicio de las facultades conferidas a otros servicios del Estado en virtud de las leyes que los rigen.
 La Dirección del Trabajo deberá poner en conocimiento del respectivo Organismo Administrador de la ley Nº 16.744, todas aquellas infracciones o deficiencias en
 NOTA:
@@ -1381,7 +1384,8 @@ Art. 188. Los trabajos de carga y descarga, reparaciones y conservación de nave
 
 Art. 189. Los trabajos subterráneos que se efectúen en terrenos compuestos de capas filtrantes, húmedas, disgregantes y generalmente inconsistentes; en túneles, esclusas y cámaras subterráneas, y la aplicación de explosivos en estas faenas y en la explotación de las minas, canteras y salitreras, se regirán por las disposiciones del reglamento correspondiente.
 
-Art. 190. Los Servicios de Salud fijarán en cada caso las reformas o medidas mínimas de higiene y seguridad que los trabajos y la salud de los trabajadores aconsejen. Para este efecto podrán disponer que funcionarios competentes visiten los establecimientos respectivos en las horas y oportunidades que estimen conveniente, y fijarán el plazo dentro del cual deben efectuarse esas reformas o medidas.
+Art. 190. Los Servicios de Salud fijarán en cada caso las reformas o medidas mínimas de higiene y seguridad que los trabajos y la salud de los trabajadores aconsejen. Para este efecto podrán disponer que funcionarios competentes visiten los establecimientos y faenas respectivos en las horas y oportunidades que estimen conveniente, y fijarán el plazo dentro del cual deben efectuarse esas reformas o medidas.
+Dicha visita podrá motivarse, también, en una denuncia realizada por cualquier persona que informe de la existencia de un hecho o circunstancia que ponga en grave riesgo la salud de los trabajadores.
 
 Art. 191. Las disposiciones de los tres artículos anteriores se entenderán sin perjuicio de las facultades de fiscalización que en la materia corresponden a la Dirección del Trabajo.
 La Dirección del Trabajo respecto de las materias que trata este Título, podrá controlar el cumplimiento de las medidas básicas legalmente exigibles relativas al adecuado funcionamiento de instalaciones, máquinas, equipos e instrumentos de trabajo.
