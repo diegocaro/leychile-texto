@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2009-02-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2009-04-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2009-02-05
-fetched_at: 2026-08-03T01:49:23.560921+00:00
+version_date: 2009-04-03
+fetched_at: 2026-08-03T01:49:42.452600+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -772,7 +772,9 @@ Art. 149. La jornada de los trabajadores de casa particular que no vivan en la c
 Cuando vivan en la casa del empleador no estarán sujetos a horario, sino que éste será determinado por la naturaleza de su labor, debiendo tener normalmente un descanso absoluto mínimo de 12 horas diarias. Entre el término de la jornada diaria y el inicio de la siguiente, el descanso será ininterrumpido y, normalmente, de un mínimo de 9 horas. El exceso podrá fraccionarse durante la jornada y en él se entenderá incluido el lapso destinado a las comidas del trabajador.
 
 Art. 150. El descanso semanal de los trabajadores de casa particular que no vivan en la casa del empleador, se regirá por las normas generales del párrafo 4, Capítulo IV, Título I, de este Libro.
-Los trabajadores que vivan en la casa del empleador tendrán derecho a un día completo de descanso a la semana, el cual podrá ser fraccionado en dos medios, a petición del trabajador.
+Tratándose de trabajadores que vivan en la casa del empleador se aplicarán las siguientes normas:
+a) Tendrán derecho a un día completo de descanso a la semana, el cual podrá ser fraccionado en dos medios, a petición del trabajador.
+b) Tendrán derecho a descanso todos los días que la ley declare festivos. No obstante, las partes, con anterioridad a ellos, podrán pactar por escrito que el descanso se efectúe en un día distinto que no podrá fijarse más allá de los noventa días siguientes al respectivo festivo. Este derecho caducará si no se ejerce dentro de dicho plazo y no podrá compensarse en dinero, salvo que el contrato de trabajo termine antes de haberse ejercido el descanso.
 Los días de descanso facultan a los trabajadores a no reiniciar sus labores hasta el comienzo de la jornada diaria siguiente.
 
 Art. 151. La remuneración de los trabajadores de casa particular se fijará de común acuerdo entre las partes, comprendiéndose además del pago en dinero efectivo, los alimentos y la habitación cuando los servicios requeridos exijan que el trabajador viva en la casa del empleador.
