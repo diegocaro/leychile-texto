@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2008-01-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2009-04-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2008-01-10
-fetched_at: 2026-08-03T01:45:46.016800+00:00
+version_date: 2009-04-04
+fetched_at: 2026-08-03T01:49:55.635832+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -83,19 +83,8 @@ Los nacionalizados en conformidad al Nº 3º del artículo 10, tendrán opción 
 NOTA
 El Nº 1 del artículo único de la ley 21773, publicada el 07.10.2025, dispone reemplazar el inciso primero del presente artículo por el que indica, modificación que comenzará a regir desde el año 2026. Además, previo a su entrada en vigencia, una ley establecerá multas para ciudadanos por incumplimiento del deber de sufragio, conforme a lo dispuesto por la disposición quincuagésima cuarta transitoria de esta norma.
 
-Artículo 15.- En las
-votaciones populares,
-el sufragio será
-personal, igualitario
-secreto. Para los
-ciudadanos será, además,
-obligatorio.
-Sólo podrá convocarse
-votación popular para
-las elecciones y
-plebiscitos expresamente
-previstos en esta
-Constitución.
+Artículo 15.- En las votaciones populares, el sufragio será personal, igualitario, secreto y voluntario.
+Sólo podrá convocarse a votación popular para las elecciones y plebiscitos expresamente previstos en esta Constitución.
 
 Artículo 16.- El derecho de sufragio se suspende:
 1º.- Por interdicción en caso de demencia;
@@ -108,37 +97,9 @@ Artículo 17.- La calidad de ciudadano se pierde:
 3º.- Por condena por delitos que la ley califique como conducta terrorista y los relativos al tráfico de estupefacientes y que hubieren merecido, además, pena aflictiva.
 Los que hubieren perdido la ciudadanía por la causal indicada en el número 2º, la recuperarán en conformidad a la ley, una vez extinguida su responsabilidad penal. Los que la hubieren perdido por las causales previstas en el número 3º podrán solicitar su rehabilitación al Senado una vez cumplida la condena.
 
-Artículo 18.- Habrá un
-sistema electoral público.
-Una ley orgánica
-constitucional de
-terminará su organización
-funcionamiento,
-regulará la forma en
-que se realizarán los
-procesos electorales
-plebiscitarios,
-en todo lo no previsto
-por esta Constitución y,
-garantizará siempre
-la plena igualdad entre
-los independientes y
-los miembros de partidos
-políticos tanto en la
-presentación de
-candidaturas como
-en su participación
-en los señalados
-procesos.
-El resguardo del
-orden público
-durante los actos
-electorales y
-plebiscitarios
-corresponderá a
-las Fuerzas Armadas
-Carabineros del
-modo que indique la ley.
+Artículo 18.- Habrá un sistema electoral público. Una ley orgánica constitucional determinará su organización y funcionamiento, regulará la forma en que se realizarán los procesos electorales y plebiscitarios, en todo lo no previsto por esta Constitución y garantizará siempre la plena igualdad entre los independientes y los miembros de partidos políticos tanto en la presentación de candidaturas como en su participación en los señalados procesos. Dicha ley establecerá también un sistema de financiamiento, transparencia, límite y control del gasto electoral.
+Una ley orgánica constitucional contemplará, además, un sistema de registro electoral, bajo la dirección del Servicio Electoral, al que se incorporarán, por el solo ministerio de la ley, quienes cumplan los requisitos establecidos por esta Constitución.
+El resguardo del orden público durante los actos electorales y plebiscitarios corresponderá a las Fuerzas Armadas y Carabineros del modo que indique la ley.
 
 ## Capítulo III
 DE LOS DERECHOS Y DEBERES CONSTITUCIONALES
@@ -988,6 +949,8 @@ VIGESIMA.- En tanto no se creen los tribunales especiales a que alude el párraf
 VIGESIMA PRIMERA.- La reforma introducida al numeral 10º del artículo 19 en relación al segundo nivel de transición de la educación parvularia, entrará en vigencia gradualmente, en la forma que disponga la ley.
 
 VIGESIMOSEGUNDA.- Mientras no entren en vigencia los estatutos especiales a que se refiere el artículo 126 bis, los territorios especiales de Isla de Pascua y Archipiélago Juan Fernández continuarán rigiéndose por las normas comunes en materia de división político-administrativa y de gobierno y administración interior del Estado.
+
+VIGÉSIMOTERCERA.- Las reformas introducidas a los artículos 15 y 18 sobre voluntariedad del voto e incorporación al registro electoral por el solo ministerio de la ley, regirán al momento de entrar en vigencia la respectiva ley orgánica constitucional a que se refiere el inciso segundo del artículo 18 que se introduce mediante dichas reformas.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Eduardo Dockendorff Vallejos, Ministro Secretario General de la Presidencia.-Francisco Vidal Salinas, Ministro del Interior.- Ignacio Walker Prieto, Ministro de Relaciones Exteriores.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción y Presidente de la Comisión Nacional de Energía.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Educación.- Luis Bates Hidalgo, Ministro de Justicia.- Jaime Estévez Valencia, Ministro de Obras Públicas y de Transportes y Telecomunicaciones.- Jaime Campos Quiroga, Ministro de Agricultura.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.- Pedro García Aspillaga, Ministro de Salud.- Alfonso Dulanto Rencoret, Ministro de Minería.- Sonia Tschorne Berestescky, Ministra de Vivienda y Urbanismo y de Bienes Nacionales.- Osvaldo Puccio Huidobro, Ministro Secretario General de Gobierno.- Yasna Provoste Campillay, Ministra de Planificación.
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Rodrigo Egaña Baraona, Subsecretario General de la Presidencia.
