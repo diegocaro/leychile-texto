@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2008-06-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2009-04-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2008-06-28
-fetched_at: 2026-08-03T01:47:04.031178+00:00
+version_date: 2009-04-22
+fetched_at: 2026-08-03T01:50:07.641951+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1312,10 +1312,13 @@ En los delitos a que se refiere este párrafo, se aplicará el máximo del grado
 Fraudes y exacciones ilegales.
 
 ART. 239.
-El empleado público que en las operaciones en que interviniere por razón de su cargo, defraudare o consintiere que se defraude al Estado, a las municipalidades o a los establecimientos públicos de instrucción o de beneficencia, sea originándoles pérdida o privándoles de un lucro legítimo, incurrirá en las penas de presidio menor en sus grados medio a máximo, inhabilitación especial perpetua para el cargo u oficio y multa de diez al cincuenta por ciento del perjuicio causado.
+El empleado público que en las operaciones en que interviniere por razón de su cargo, defraudare o consintiere que se defraude al Estado, a las municipalidades o a los establecimientos públicos de instrucción o de beneficencia, sea originándoles pérdida o privándoles de un lucro legítimo, incurrirá en la pena de presidio menor en sus grados medio a máximo.
+En aquellos casos en que el monto de lo defraudado excediere de cuarenta unidades tributarias mensuales, el juez podrá aumentar en un grado la pena señalada en el inciso anterior.
+Si la defraudación excediere de cuatrocientas unidades tributarias mensuales se aplicará la pena de presidio mayor en su grado mínimo.
+En todo caso, se aplicarán las penas de multa del diez al cincuenta por ciento del perjuicio causado e inhabilitación absoluta temporal para cargos, empleos u oficios públicos en sus grados medio a máximo.
 
 ART. 240.
-El empleado público que directa o indirectamente se interesare en cualquiera clase de contrato u operación en que deba intervenir por razón de su cargo, será castigado con las penas de reclusión menor en su grado medio, inhabilitación especial perpetua para el cargo u oficio y multa de diez al cincuenta por ciento del valor del interés que hubiere tomado en el negocio.
+El empleado público que directa o indirectamente se interesare en cualquiera clase de contrato u operación en que debe intervenir por razón de su cargo, será castigado con las penas de reclusión menor en su grado medio, inhabilitación absoluta temporal para cargos, empleos u oficios públicos en sus grados medio a máximo y multa del diez al cincuenta por ciento del valor del interés que hubiere tomado en el negocio.
 Esta disposición es aplicable a los peritos, árbitros y liquidadores comerciales respecto de los bienes o cosas en cuya tasación, adjudicación, partición o administración intervinieren, y a los guardadores y albaceas tenedores de bienes respecto de los pertenecientes a sus pupilos y testamentarias.
 Las mismas penas se impondrán a las personas relacionadas en este artículo, si en el negocio u operación confiados a su cargo dieren interés a su cónyuge, a alguno de sus ascendientes o descendientes legítimos por consanguinidad o afinidad, a sus colaterales legítimos, por consanguinidad hasta el tercer grado inclusive y por afinidad hasta el segundo también inclusive, a sus padres o hijos naturales o ilegítimos reconocidos, o a personas ligadas a él por adopción.
 Asimismo, se sancionará con iguales penas al empleado público que en el negocio u operación en que deba intervenir por razón de su cargo diere interés a terceros asociados con él o con las personas indicadas en el inciso precedente, o a sociedades, asociaciones o empresas en las que dichos terceros o esas personas tengan interés social, superior al diez por ciento si la sociedad es anónima, o ejerzan su administración en cualquiera forma.
@@ -1371,10 +1374,10 @@ El empleado público que, haciendo uso de un secreto o información concreta res
 Cohecho.
 
 ART. 248.
-El empleado público que solicitare o aceptare recibir mayores derechos de los que le están señalados por razón de su cargo, o un beneficio económico para sí o un tercero para ejecutar o por haber ejecutado un acto propio de su cargo en razón del cual no le están señalados derechos, será sancionado con suspensión en cualquiera de sus grados y multa de la mitad al tanto de los derechos o del beneficio solicitados o aceptados.
+El empleado público que solicitare o aceptare recibir mayores derechos de los que le están señalados por razón de su cargo, o un beneficio económico para sí o un tercero para ejecutar o por haber ejecutado un acto propio de su cargo en razón del cual no le están señalados derechos, será sancionado con la pena de reclusión menor en su grado mínimo, suspensión en cualquiera de sus grados y multa de la mitad al tanto de los derechos o del beneficio solicitados o aceptados.
 
 ART. 248 bis.
-El empleado público que solicitare o aceptare recibir un beneficio económico para sí o un tercero para omitir o por haber omitido un acto debido propio de su cargo, o para ejecutar o por haber ejecutado un acto con infracción a los deberes de su cargo, será sancionado con la pena de reclusión menor en sus grados mínimo a medio, y además, con la pena de inhabilitación especial o absoluta para cargos u oficios públicos temporales en cualquiera de sus grados y multa del tanto al duplo del provecho solicitado o aceptado.
+El empleado público que solicitare o aceptare recibir un beneficio económico para sí o un tercero para omitir o por haber omitido un acto debido propio de su cargo, o para ejecutar o por haber ejecutado un acto con infracción a los deberes de su cargo, será sancionado con la pena de reclusión menor en su grado medio, y además, con la pena de inhabilitación especial o absoluta para cargos u oficios públicos temporales en cualquiera de sus grados y multa del tanto al duplo del provecho solicitado o aceptado.
 Si la infracción al deber del cargo consistiere en ejercer influencia en otro empleado público con el fin de obtener de éste una decisión que pueda generar un provecho para un tercero interesado, se impondrá la pena de inhabilitación especial o absoluta para cargo u oficio público perpetuas, además de las penas de reclusión y multa establecidas en el inciso precedente.
 
 ART. 249.
@@ -1383,24 +1386,29 @@ Lo establecido en el inciso anterior se entiende sin perjuicio de la pena aplica
 
 ART. 250.
 El que ofreciere o consintiere en dar a un empleado público un beneficio económico, en provecho de éste o de un tercero, para que realice las acciones o incurra en las omisiones señaladas en los artículos 248, 248 bis y 249, o por haberla realizado o haber incurrido en ellas, será castigado con las mismas penas de multa e inhabilitación establecidas en dichas disposiciones.
-Tratándose del beneficio consentido u ofrecido en relación con las acciones u omisiones señaladas en el artículo 248 bis, el sobornante será sancionado, además, con pena de reclusión menor en sus grados mínimo a medio, en el caso del beneficio ofrecido, o de reclusión menor en su grado mínimo, en el caso del beneficio consentido.
-Tratándose del beneficio consentido u ofrecido en relación con los crímenes o simples delitos señalados en el artículo 249, el sobornante será sancionado, además, con pena de reclusión menor en su grado medio, en el caso del beneficio ofrecido, o de reclusión menor en sus grados mínimo a medio, en el caso del beneficio consentido. En estos casos, el sobornante no podrá ser sancionado, adicionalmente, por la responsabilidad que le hubiere cabido en el crimen o simple delito cometido por el funcionario.
+Tratándose del beneficio ofrecido en relación con las acciones u omisiones del artículo 248, el sobornante será sancionado, además, con la pena de reclusión menor en su grado mínimo.
+Tratándose del beneficio consentido u ofrecido en relación con las acciones u omisiones señaladas en el artículo 248 bis, el sobornante será sancionado, además, con pena de reclusión menor en su grado medio, en el caso del beneficio ofrecido, o de reclusión menor en su grado mínimo, en el caso del beneficio consentido.
+Tratándose del beneficio consentido u ofrecido en relación con los crímenes o simples delitos señalados en el artículo 249, el sobornante será sancionado, además, con pena de reclusión menor en su grado medio, en el caso del beneficio ofrecido, o de reclusión menor en sus grados mínimo a medio, en el caso del beneficio consentido. En estos casos, si al sobornante le correspondiere una pena superior por el crimen o simple delito de que se trate, se estará a esta última.
 
 ART. 250 bis.
 En los casos en que el delito previsto en el artículo anterior tuviere por objeto la realización u omisión de una actuación de las señaladas en los artículos 248 ó 248 bis que mediare en causa criminal a favor del procesado, y fuere cometido por su cónyuge, por alguno de sus ascendientes o descendientes consanguíneos o afines, por un colateral consanguíneo o afín hasta el segundo grado inclusive, o por persona ligada a él por adopción, sólo se impondrá al responsable la multa que corresponda conforme las disposiciones antes mencionadas.
 
-ART. 250 bis A.
-El que ofreciere dar a un funcionario público extranjero un beneficio económico, en provecho de éste o de un tercero, para que realice una acción o incurra en una omisión con miras a la obtención o mantención, para sí u otro, de cualquier negocio o ventaja en el ámbito de transacciones comerciales internacionales, será sancionado con las mismas penas de reclusión, multa e inhabilitación establecidas en el inciso primero del artículo 248 bis. De igual forma será castigado el que ofreciere dar el aludido beneficio a un funcionario público extranjero por haber realizado o haber incurrido en las acciones u omisiones señaladas.
-El que, en iguales hipótesis a las descritas en el inciso anterior, consintiere en dar el referido beneficio, será sancionado con pena de reclusión menor en su grado mínimo, además de las mismas penas de multa e inhabilitación señaladas.
+ART. 250 bis A. Derogado
 
-ART. 250 bis B.
-Para los efectos de lo dispuesto en el artículo anterior, se considera funcionario público extranjero toda persona que tenga un cargo legislativo, administrativo o judicial en un país extranjero, haya sido nombrada o elegida, así como cualquier persona que ejerza una función pública para un país extranjero, sea dentro de un organismo público o de una empresa de servicio público. También se entenderá que inviste la referida calidad cualquier funcionario o agente de una organización pública internacional.
+ART. 250 bis B. Derogado
 
 ART. 251.
 Los bienes recibidos por el empleado público caerán siempre en comiso.
 En el caso del artículo 249 y del artículo 250, inciso segundo, para la aplicación de las penas de suspensión o inhabilitación que correspondieren en calidad de accesorias a penas privativas de libertad se estará a las siguientes reglas:
 1º Si las penas accesorias fueren más graves que las establecidas en el artículo 249, serán impuestas las primeras, en su grado máximo, y
 2º Si las penas establecidas en el artículo 249 fueren más graves que las penas accesorias, serán impuestas aquéllas en toda la extensión que no sea inferior al grado máximo de las accesorias.
+
+#### § 9 bis. Cohecho a Funcionarios Públicos Extranjeros
+
+Artículo 251 bis.- El que ofreciere, prometiere o diere a un funcionario público extranjero, un beneficio económico o de otra naturaleza, en provecho de éste o de un tercero, para que realice una acción o incurra en una omisión con miras a la obtención o mantención, para sí u otro, de cualquier negocio o ventaja indebidos en el ámbito de cualesquiera transacciones internacionales, será sancionado con la pena de reclusión menor en su grado medio a máximo y, además, con las de multa e inhabilitación establecidas en el inciso primero del artículo 248 bis. Si el beneficio fuere de naturaleza distinta a la económica, la multa será de cien a mil unidades tributarias mensuales. De igual forma será castigado el que ofreciere, prometiere o diere el aludido beneficio a un funcionario público extranjero por haber realizado o haber incurrido en las acciones u omisiones señaladas.
+El que, en iguales situaciones a las descritas en el inciso anterior, consintiere en dar el referido beneficio, será sancionado con pena de reclusión menor en su grado mínimo a medio, además de las mismas penas de multa e inhabilitación señaladas.
+
+Artículo 251 ter.- Para los efectos de lo dispuesto en el artículo anterior, se considera funcionario público extranjero toda persona que tenga un cargo legislativo, administrativo o judicial en un país extranjero, haya sido nombrada o elegida, así como cualquier persona que ejerza una función pública para un país extranjero, sea dentro de un organismo público o de una empresa pública. También se entenderá que inviste la referida calidad cualquier funcionario o agente de una organización pública internacional.
 
 #### § X.
 Resistencia y desobediencia.
