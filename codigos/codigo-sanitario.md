@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2008-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2009-05-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2008-12-27
-fetched_at: 2026-08-03T01:49:05.554584+00:00
+version_date: 2009-05-28
+fetched_at: 2026-08-03T01:50:43.662277+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -803,8 +803,10 @@ Para llevar a cabo esta medida, el Director del correspondiente Servicio de Salu
 
 Artículo 170° (161).- La clausura y demás medidas sanitarias ordenadas en la sentencia, no podrán dejarse sin efecto o suspenderse a menos que el Director General de Salud así lo ordenare, o que lo dispusiera la justicia ordinaria al fallar por sentencia definitiva ejecutoriada o que cause ejecutoria, la reclamación que se interponga.
 
-Artículo 171° (162).- De las sanciones aplicadas por el Servicio Nacional de Salud podrá reclamarse ante la justicia ordinaria civil, dentro de los cinco días hábiles siguientes a la notificación de la sentencia, reclamo que tramitará en forma breve y sumaria. Para dar curso a ellos se exigirá que el infractor acompañe el comprobante de haber pagado la multa.
+Artículo 171° (162).- De las sanciones aplicadas por el Servicio Nacional de Salud podrá reclamarse ante la justicia ordinaria civil, dentro de los cinco días hábiles siguientes a la notificación de la sentencia, reclamo que tramitará en forma breve y sumaria.
 El tribunal desechará la reclamación si los hechos que hayan motivado la sanción se encuentren comprobados en el sumario sanitario de acuerdo a las normas del presente Código, si tales hechos constituyen efectivamente una infracción a las leyes o reglamentos sanitarios y si la sanción aplicada es la que corresponde a la infracción cometida.
+NOTA
+La Sentencia S/N, Tribunal Constitucional, Rol 1345-09, publicada el 28.05.2009, declara que es inconstitucional el precepto legal contenido en las expresiones: "Para dar curso a ellos se exigirá que el infractor acompañe el comprobante de haber pagado la multa", incluidas en la parte final de este inciso, ya eliminada del presente texto actualizado.
 
 Artículo 172° (163).- Las sentencias que dicte la autoridad sanitaria podrán cumplirse no obstante encontrarse pendiente la reclamación a que se refiere el artículo anterior, sin perjuicio de lo que por sentencia definitiva ejecutoriada o que cause ejecutoria resuelva la justicia ordinaria al pronunciarse sobre aquélla.
 
