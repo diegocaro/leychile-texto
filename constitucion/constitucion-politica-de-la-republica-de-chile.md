@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2009-05-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2009-05-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2009-05-14
-fetched_at: 2026-08-03T01:50:31.656206+00:00
+version_date: 2009-05-30
+fetched_at: 2026-08-03T01:51:35.218794+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -951,6 +951,11 @@ VIGESIMA PRIMERA.- La reforma introducida al numeral 10º del artículo 19 en re
 VIGESIMOSEGUNDA.- Mientras no entren en vigencia los estatutos especiales a que se refiere el artículo 126 bis, los territorios especiales de Isla de Pascua y Archipiélago Juan Fernández continuarán rigiéndose por las normas comunes en materia de división político-administrativa y de gobierno y administración interior del Estado.
 
 VIGÉSIMOTERCERA.- Las reformas introducidas a los artículos 15 y 18 sobre voluntariedad del voto e incorporación al registro electoral por el solo ministerio de la ley, regirán al momento de entrar en vigencia la respectiva ley orgánica constitucional a que se refiere el inciso segundo del artículo 18 que se introduce mediante dichas reformas.
+
+VIGÉSIMOCUARTA.- El Estado de Chile podrá reconocer la jurisdicción de la Corte Penal Internacional en los términos previstos en el tratado aprobado en la ciudad de Roma, el 17 de julio de 1998, por la Conferencia Diplomática de Plenipotenciarios de las Naciones Unidas sobre el establecimiento de dicha Corte.
+Al efectuar ese reconocimiento, Chile reafirma su facultad preferente para ejercer su jurisdicción penal en relación con la jurisdicción de la Corte. Esta última será subsidiaria de la primera, en los términos previstos en el Estatuto de Roma que creó la Corte Penal Internacional.
+La cooperación y asistencia entre las autoridades nacionales competentes y la Corte Penal Internacional, así como los procedimientos judiciales y administrativos a que hubiere lugar, se sujetarán a lo que disponga la ley chilena.
+La jurisdicción de la Corte Penal Internacional, en los términos previstos en su Estatuto, sólo se podrá ejercer respecto de los crímenes de su competencia cuyo principio de ejecución sea posterior a la entrada en vigor en Chile del Estatuto de Roma.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Eduardo Dockendorff Vallejos, Ministro Secretario General de la Presidencia.-Francisco Vidal Salinas, Ministro del Interior.- Ignacio Walker Prieto, Ministro de Relaciones Exteriores.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción y Presidente de la Comisión Nacional de Energía.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Educación.- Luis Bates Hidalgo, Ministro de Justicia.- Jaime Estévez Valencia, Ministro de Obras Públicas y de Transportes y Telecomunicaciones.- Jaime Campos Quiroga, Ministro de Agricultura.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.- Pedro García Aspillaga, Ministro de Salud.- Alfonso Dulanto Rencoret, Ministro de Minería.- Sonia Tschorne Berestescky, Ministra de Vivienda y Urbanismo y de Bienes Nacionales.- Osvaldo Puccio Huidobro, Ministro Secretario General de Gobierno.- Yasna Provoste Campillay, Ministra de Planificación.
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Rodrigo Egaña Baraona, Subsecretario General de la Presidencia.
