@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2009-04-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2009-06-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2009-04-03
-fetched_at: 2026-08-03T01:49:42.452600+00:00
+version_date: 2009-06-19
+fetched_at: 2026-08-03T01:51:59.228104+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -367,6 +367,9 @@ Los tribunales apreciarán en conciencia la prueba que se rinda acerca de los cr
 
 Art. 62. Todo empleador con cinco o más trabajadores deberá llevar un libro auxiliar de remuneraciones, el que deberá ser timbrado por el Servicio de Impuestos Internos.
 Las remuneraciones que figuren en el libro a que se refiere el inciso anterior serán las únicas que podrán considerarse como gastos por remuneraciones en la contabilidad de la empresa.
+
+Artículo 62 bis.- El empleador deberá dar cumplimiento al principio de igualdad de remuneraciones entre hombres y mujeres que presten un mismo trabajo, no siendo consideradas arbitrarias las diferencias objetivas en las remuneraciones que se funden, entre otras razones, en las capacidades, calificaciones, idoneidad, responsabilidad o productividad.
+Las denuncias que se realicen invocando el presente artículo, se sustanciarán en conformidad al Párrafo 6º del Capítulo II del Título I del Libro V de este Código, una vez que se encuentre concluido el procedimiento de reclamación previsto para estos efectos en el reglamento interno de la empresa.
 
 Art. 63. Las sumas que los empleadores adeudaren a los trabajadores por concepto de remuneraciones, indemnizaciones o cualquier otro, devengadas con motivo de la prestación de servicios, se pagarán reajustadas en el mismo porcentaje en que haya variado el Indice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que debió efectuarse el pago y el precedente a aquel en que efectivamente se realice.
 Idéntico reajuste experimentarán los anticipos, abonos o pagos parciales que hubiera hecho el empleador.
@@ -1021,9 +1024,10 @@ Art. 154. El reglamento interno deberá contener, a lo menos, las siguientes dis
 8.- la forma de comprobación del cumplimiento de las leyes de previsión, de servicio militar obligatorio, de cédula de identidad y, en el caso de menores, de haberse cumplido la obligación escolar;
 9.- las normas e instrucciones de prevención, higiene y seguridad que deban observarse en la empresa o establecimiento;
 10.- las sanciones que podrán aplicarse por infracción a las obligaciones que señale este reglamento, las que sólo podrán consistir en amonestación verbal o escrita y multa de hasta el veinticinco por ciento de la remuneración diaria;
-11.- el procedimiento a que se someterá la aplicación de las sanciones referidas en el número anterior, y
+11.- el procedimiento a que se someterá la aplicación de las sanciones referidas en el número anterior;
 12.- El procedimiento al que se someterán y las medidas de resguardo y sanciones que se aplicarán en caso de denuncias por acoso sexual.
-En el caso de las denuncias sobre acoso sexual, el empleador que, ante una denuncia del trabajador afectado, cumpla íntegramente con el procedimiento establecido en el Título IV del Libro II, no estará afecto al aumento señalado en la letra c) del inciso primero del artículo 168.
+En el caso de las denuncias sobre acoso sexual, el empleador que, ante una denuncia del trabajador afectado, cumpla íntegramente con el procedimiento establecido en el Título IV del Libro II, no estará afecto al aumento señalado en la letra c) del inciso primero del artículo 168, y
+13.- El procedimiento a que se someterán los reclamos que se deduzcan por infracción al artículo 62 bis. En todo caso, el reclamo y la respuesta del empleador deberán constar por escrito y estar debidamente fundados. La respuesta del empleador deberá ser entregada dentro de un plazo no mayor a treinta días de efectuado el reclamo por parte del trabajador.
 Las obligaciones y prohibiciones a que hace referencia el número 5 de este artículo, y, en general, toda medida de control, sólo podrán efectuarse por medios idóneos y concordantes con la naturaleza de la relación laboral y, en todo caso, su aplicación deberá ser general, garantizándose la impersonalidad de la medida, para respetar la dignidad del trabajador.
 
 Art. 154 bis. El empleador deberá mantener reserva de toda la información y datos privados del trabajador a que tenga acceso con ocasión de la relación laboral.
