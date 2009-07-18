@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2005-12-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2009-07-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 2005-12-07
-fetched_at: 2026-08-03T01:35:50.758039+00:00
+version_date: 2009-07-18
+fetched_at: 2026-08-03T01:52:27.600713+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1079,20 +1079,13 @@ Si el acto de hostilidad fuere precedido de provocación, la pena será disminui
 Art. 260. El que, sin motivo justificado, prolongare las hostilidades después de recibir noticia oficial de haberse ajustado con el enemigo la paz, un armisticio o tregua, violare alguno de estos convenios o una capitulación, será castigado con la pena de presidio o reclusión menor en sus grados medio a máximo.
 Si con motivo del acto realizado sobreviniere una declaración de guerra, represalias u otros actos de violencia, la pena será elevada en dos o tres grados.
 
-Art. 261. Será castigado con la pena de reclusión menor en cualquiera de sus grados:
-1° El que obligue a los prisioneros de guerra a combatir contra sus banderas, los maltrate de obra, los injurie gravemente, o los prive del alimento indispensable o de la asistencia médica necesaria;
-2° El que, contraviniendo las instrucciones recibidas, sin necesidad y maliciosamente, ataque hospitales o asilos de beneficencia dados a conocer por los signos establecidos para tales casos, o destruya templos, bibliotecas, museos, archivos u obras notables de arte;
-3° El que, contraviniendo también las instrucciones recibidas y sin exigirlo las operaciones de la guerra, destruyere vías de comunicación, telegráficas o de otra clase;
-4° El que, sin provocación, ofendiere de obra o palabra a un parlamentario.
+Art. 261. Derogado
 
-Art. 262. Serán castigados con la pena de presidio mayor en su grado medio a máximo los militares que, faltando a la obediencia que deben a sus jefes, incendien o destruyan edificios u otras propiedades, saqueen a los habitantes de los territorios en que operen o cometan otros actos de violencia grave en las personas.
-A los promotores y al de mayor empleo se les aplicará la pena como si el delito estuviere revestido de una circunstancia agravante, y si del delito hubiere resuelto la muerte de alguna persona, se les aplicará la pena de presidio mayor en su grado máximo a muerte.
+Art. 262. Derogado
 
-Art. 263. El que despoje de sus vestidos u otros efectos a un herido o prisionero de guerra para apropiárselo, sufrirá la pena de presidio mayor en cualquiera de sus grados.
-Si al despojar al herido le causare otras lesiones o le agravase notablemente su estado, poniendo en peligro su vida o causándole su pérdida, la pena podrá elevarse hasta la de presidio perpetuo.
-En las penas anteriores incurrirá también el que por crueldad y fuera del caso de legítima defensa, cometa violencias innecesarias con un militar herido o enfermo.
+Art. 263. Derogado
 
-Art. 264. Será castigado con la pena de reclusión menor en sus grados mínimo a medio, el que, en tiempo de guerra y en la zona de operaciones de una fuerza en campaña, use sin derecho las insignias, banderas o emblemas de la Cruz Roja.
+Art. 264. Derogado
 
 ### Título IV
 DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
