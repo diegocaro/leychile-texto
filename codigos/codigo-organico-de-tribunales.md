@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2009-08-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2009-08-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2009-08-01
-fetched_at: 2026-08-03T01:52:39.608301+00:00
+version_date: 2009-08-25
+fetched_at: 2026-08-03T01:53:11.633988+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -59,7 +59,7 @@ Los jueces árbitros se regirán por el Título IX de este Código.
 
 Art. 6° Quedan sometidos a la jurisdicción chilena los crímenes y simples delitos perpetrados fuera del territorio de la República que a continuación se indican:
 1°) Los cometidos por un agente diplomático o consular de la República, en el ejercicio de sus funciones;
-2°) La malversación de caudales públicos, fraudes y exacciones ilegales, la infidelidad en la custodia de documentos, la violación de secretos, el cohecho, cometidos por funcionarios públicos chilenos o por extranjeros al servicio de la República;
+2°) La malversación de caudales públicos, fraudes y exacciones ilegales, la infidelidad en la custodia de documentos, la violación de secretos, el cohecho, cometidos por funcionarios públicos chilenos o por extranjeros al servicio de la República y el cohecho a funcionarios públicos extranjeros, cuando sea cometido por un chileno o por una persona que tenga residencia habitual en Chile;
 3°) Los que van contra la soberanía o contra la seguridad exterior del Estado, perpetrados ya sea por chilenos naturales, ya por naturalizados, y los contemplados en el Párrafo 14 del Título VI del Libro II del Código Penal, cuando ellos pusieren en peligro la salud de habitantes de la República;
 4°) Los cometidos, por chilenos o extranjeros, a bordo de un buque chileno en alta mar, o a bordo de un buque chileno de guerra surto en aguas de otra potencia;
 5°) La falsificación del sello del Estado, de moneda nacional, de documentos de crédito del Estado, de las Municipalidades o de establecimientos públicos, cometida por chilenos, o por extranjeros que fueren habidos en el territorio de la República;
