@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2009-04-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2009-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2009-04-22
-fetched_at: 2026-08-03T01:50:07.641951+00:00
+version_date: 2009-10-03
+fetched_at: 2026-08-03T01:53:35.642461+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1631,7 +1631,7 @@ Artículo 290.- Si la propagación de las enfermedades a que se refiere este pá
 Artículo 291.- Los que propagaren indebidamente organismos, productos, elementos o agentes químicos, virales, bacteriológicos, radiactivos, o de cualquier otro orden que por su naturaleza sean susceptibles de poner en peligro la salud animal o vegetal, o el abastecimiento de la población, serán penados con presidio menor en su grado máximo.
 
 ART. 291 BIS.
-El que cometiere actos de maltrato o crueldad con animales, será castigado con la pena de presidio menor en su grado mínimo y multa de uno a diez ingresos mínimos mensuales o sólo a esta última.
+El que cometiere actos de maltrato o crueldad con animales será castigado con la pena de presidio menor en sus grados mínimo a medio y multa de dos a treinta unidades tributarias mensuales, o sólo con esta última.
 
 #### § X.
 De las asociaciones ilícitas.
