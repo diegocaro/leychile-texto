@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2009-06-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2009-10-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2009-06-12
-fetched_at: 2026-08-03T01:51:47.222009+00:00
+version_date: 2009-10-28
+fetched_at: 2026-08-03T01:53:53.644421+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -80,6 +80,7 @@ Artículo 14.- Los
 NOTA
 extranjeros avecindados en Chile por más de cinco años, y que cumplan con los requisitos señalados en el inciso primero del artículo 13, podrán ejercer el derecho de sufragio en los casos y formas que determine la ley.
 Los nacionalizados en conformidad al Nº 3º del artículo 10, tendrán opción a cargos públicos de elección popular sólo después de cinco años de estar en posesión de sus cartas de nacionalización.
+NOTA
 NOTA
 El Nº 1 del artículo único de la ley 21773, publicada el 07.10.2025, dispone reemplazar el inciso primero del presente artículo por el que indica, modificación que comenzará a regir desde el año 2026. Además, previo a su entrada en vigencia, una ley establecerá multas para ciudadanos por incumplimiento del deber de sufragio, conforme a lo dispuesto por la disposición quincuagésima cuarta transitoria de esta norma.
 
@@ -385,8 +386,8 @@ La Cámara de Diputados se renovará en su totalidad cada cuatro años.
 
 Artículo 48.- Para ser elegido diputado se requiere ser ciudadano con derecho a sufragio, tener cumplidos veintiún años de edad, haber cursado la enseñanza media o equivalente, y tener residencia en la región a que pertenezca el distrito electoral correspondiente durante un plazo no inferior a dos años, contado hacia atrás desde el día de la elección.
 
-Artículo 49.- El Senado se compone de miembros elegidos en votación directa por circunscripciones senatoriales, en consideración a las regiones del país. La ley orgánica constitucional respectiva determinará el número de Senadores, las circunscripciones senatoriales y la forma de su elección.
-Los Senadores durarán ocho años en su cargo y se renovarán alternadamente cada cuatro años, correspondiendo hacerlo en un período a los representantes de las regiones de número impar y en el siguiente a los de las regiones de número par y de la Región Metropolitana
+Artículo 49.- El Senado se compone de miembros elegidos en votación directa por circunscripciones senatoriales, en consideración a las regiones del país, cada una de las cuales constituirá, a lo menos, una circunscripción. La ley orgánica constitucional respectiva determinará el número de Senadores, las circunscripciones senatoriales y la forma de su elección.
+Los senadores durarán ocho años en su cargo y se renovarán alternadamente cada cuatro años, en la forma que determine la ley orgánica constitucional respectiva.
 
 Artículo 50.- Para ser elegido senador se requiere ser ciudadano con derecho a sufragio, haber cursado la enseñanza media o equivalente y tener cumplidos treinta y cinco años de edad el día de la elección.
 
@@ -401,16 +402,15 @@ En ningún caso procederán elecciones complementarias.
 
 ### Atribuciones exclusivas de la Cámara de Diputados
 
-Artículo 52.- Son atribuciones exclusivas de la Cámara de Diputados: 1) Fiscalizar los actos del Gobierno. Para ejercer esta atribución la Cámara puede:
+Artículo 52.- Son atribuciones exclusivas de la Cámara de Diputados:
+1) Fiscalizar los actos del Gobierno. Para ejercer esta atribución la Cámara puede:
 a) Adoptar acuerdos o sugerir observaciones, con el voto de la mayoría de los diputados presentes, los que se transmitirán por escrito al Presidente de la República, quien deberá dar respuesta fundada por medio del Ministro de Estado que corresponda, dentro de treinta días.
-Sin perjuicio de lo anterior, cualquier diputado, con el voto favorable de un tercio de los miembros presentes de la Cámara, podrá solicitar determinados antecedentes al Gobierno.
-El Presidente de la República contestará fundadamente por intermedio del Ministro de Estado que corresponda, dentro del mismo plazo señalado en el párrafo anterior.
+Sin perjuicio de lo anterior, cualquier diputado, con el voto favorable de un tercio de los miembros presentes de la Cámara, podrá solicitar determinados antecedentes al Gobierno. El Presidente de la República contestará fundadamente por intermedio del Ministro de Estado que corresponda, dentro del mismo plazo señalado en el párrafo anterior.
 En ningún caso los acuerdos, observaciones o solicitudes de antecedentes afectarán la responsabilidad política de los Ministros de Estado;
-b) Citar a un Ministro de Estado, a petición de a lo menos un tercio de los diputados en ejercicio, a fin de formularle preguntas en relación con materias vinculadas al ejercicio de su cargo.
-Con todo, un mismo Ministro no podrá ser citado para este efecto más de tres veces dentro de un año calendario, sin previo acuerdo de la mayoría absoluta de los diputados en ejercicio.
-La asistencia del Ministro será obligatoria y deberá responder a las preguntas y consultas que motiven su citación, y c) Crear comisiones especiales investigadoras a petición de a lo menos dos quintos de los diputados en ejercicio, con el objeto de reunir informaciones relativas a determinados actos del Gobierno.
-Las comisiones investigadoras, a petición de un tercio de sus miembros, podrán despachar citaciones y solicitar antecedentes.
-Los Ministros de Estado, los demás funcionarios de la Administración y el personal de las empresas del Estado o de aquéllas en que éste tenga participación mayoritaria, que sean citados por estas comisiones, estarán obligados a comparecer y a suministrar los antecedentes y las informaciones que se les soliciten.
+b) Citar a un Ministro de Estado, a petición de a lo menos un tercio de los diputados en ejercicio, a fin de formularle preguntas en relación con materias vinculadas al ejercicio de su cargo. Con todo, un mismo Ministro no podrá ser citado para este efecto más de tres veces dentro de un año calendario, sin previo acuerdo de la mayoría absoluta de los diputados en ejercicio.
+La asistencia del Ministro será obligatoria y deberá responder a las preguntas y consultas que motiven su citación, y
+c) Crear comisiones especiales investigadoras a petición de a lo menos dos quintos de los diputados en ejercicio, con el objeto de reunir informaciones relativas a determinados actos del Gobierno.
+Las comisiones investigadoras, a petición de un tercio de sus miembros, podrán despachar citaciones y solicitar antecedentes. Los Ministros de Estado, los demás funcionarios de la Administración y el personal de las empresas del Estado o de aquéllas en que éste tenga participación mayoritaria, que sean citados por estas comisiones, estarán obligados a comparecer y a suministrar los antecedentes y las informaciones que se les soliciten.
 No obstante, los Ministros de Estado no podrán ser citados más de tres veces a una misma comisión investigadora, sin previo acuerdo de la mayoría absoluta de sus miembros.
 La ley orgánica constitucional del Congreso Nacional regulará el funcionamiento y las atribuciones de las comisiones investigadoras y la forma de proteger los derechos de las personas citadas o mencionadas en ellas.
 2) Declarar si han o no lugar las acusaciones que no menos de diez ni más de veinte de sus miembros formulen en contra de las siguientes personas:
@@ -418,13 +418,11 @@ a) Del Presidente de la República, por actos de su administración que hayan co
 b) De los Ministros de Estado, por haber comprometido gravemente el honor o la seguridad de la Nación, por infringir la Constitución o las leyes o haber dejado éstas sin ejecución, y por los delitos de traición, concusión, malversación de fondos públicos y soborno;
 c) De los magistrados de los tribunales superiores de justicia y del Contralor General de la República, por notable abandono de sus deberes;
 d) De los generales o almirantes de las instituciones pertenecientes a las Fuerzas de la Defensa Nacional, por haber comprometido gravemente el honor o la seguridad de la Nación, y
-e) De los intendentes y gobernadores, por infracción de la Constitución y por los delitos de traición, sedición, malversación de fondos públicos y concusión.
+e) De los intendentes, gobernadores y de la autoridad que ejerza el Gobierno en los territorios especiales a que se refiere el artículo 126 bis, por infracción de la Constitución y por los delitos de traición, sedición, malversación de fondos públicos y concusión.
 La acusación se tramitará en conformidad a la ley orgánica constitucional relativa al Congreso.
-Las acusaciones referidas en las letras b), c), d) y e) podrán interponerse mientras el afectado esté en funciones o en los tres meses siguientes a la expiración en su cargo.
-Interpuesta la acusación, el afectado no podrá ausentarse del país sin permiso de la Cámara y no podrá hacerlo en caso alguno si la acusación ya estuviere aprobada por ella.
+Las acusaciones referidas en las letras b), c), d) y e) podrán interponerse mientras el afectado esté en funciones o en los tres meses siguientes a la expiración en su cargo. Interpuesta la acusación, el afectado no podrá ausentarse del país sin permiso de la Cámara y no podrá hacerlo en caso alguno si la acusación ya estuviere aprobada por ella.
 Para declarar que ha lugar la acusación en contra del Presidente de la República se necesitará el voto de la mayoría de los diputados en ejercicio.
-En los demás casos se requerirá el de la mayoría de los diputados presentes y el acusado quedará suspendido en sus funciones desde el momento en que la Cámara declare que ha lugar la acusación.
-La suspensión cesará si el Senado desestimare la acusación o si no se pronunciare dentro de los treinta días siguientes.
+En los demás casos se requerirá el de la mayoría de los diputados presentes y el acusado quedará suspendido en sus funciones desde el momento en que la Cámara declare que ha lugar la acusación. La suspensión cesará si el Senado desestimare la acusación o si no se pronunciare dentro de los treinta días siguientes.
 
 ### Atribuciones exclusivas del Senado
 
@@ -474,7 +472,7 @@ Cada una de las Cámaras establecerá en su propio reglamento la clausura del de
 
 Artículo 57.- No pueden ser candidatos a diputados ni a senadores:
 1) Los Ministros de Estado;
-2) Los intendentes, los gobernadores, los alcaldes, los miembros de los consejos regionales, los concejales y los subsecretarios;
+2) Los intendentes, los gobernadores, los alcaldes, los consejeros regionales, los concejales y los subsecretarios;
 3) Los miembros del Consejo del Banco Central;
 4) Los magistrados de los tribunales superiores de justicia y los jueces de letras;
 5) Los miembros del Tribunal Constitucional, del Tribunal Calificador de Elecciones y de los tribunales electorales regionales;
@@ -805,28 +803,36 @@ Artículo 111.- El gobierno de cada región reside en un intendente que será de
 La administración superior de cada región radicará en un gobierno regional que tendrá por objeto el desarrollo social, cultural y económico de la región.
 El gobierno regional estará constituido por el intendente y el consejo regional. Para el ejercicio de sus funciones, el gobierno regional gozará de personalidad jurídica de derecho público y tendrá patrimonio propio.
 
-Artículo 112.- El intendente presidirá el consejo regional y le corresponderá la coordinación, supervigilancia o fiscalización de los servicios públicos creados por ley para el cumplimiento de las funciones administrativas que operen en la región.
+Artículo 112.- Al intendente le corresponderá la coordinación, supervigilancia o fiscalización de los servicios públicos creados por ley para el cumplimiento de las funciones administrativas que operen en la región.
 La ley determinará la forma en que el intendente ejercerá estas facultades, las demás atribuciones que le correspondan y los organismos que colaborarán en el cumplimiento de sus funciones.
 
-Artículo 113.- El consejo regional será un órgano de carácter normativo, resolutivo y fiscalizador, dentro del ámbito propio de competencia del gobierno regional, encargado de hacer efectiva la participación de la ciudadanía regional y ejercer las atribuciones que la ley orgánica constitucional respectiva le encomiende, la que regulará además su integración y organización.
-Corresponderá desde luego al consejo regional aprobar los planes de desarrollo de la región y el proyecto de presupuesto del gobierno regional, ajustados a la política nacional de desarrollo y al presupuesto de la Nación. Asimismo, resolverá la inversión de los recursos consultados para la región en el fondo nacional de desarrollo regional, sobre la base de la propuesta que formule el intendente.
+Artículo 113. El consejo regional será un órgano de carácter normativo, resolutivo y fiscalizador, dentro del ámbito propio de competencia del gobierno regional, encargado de hacer efectiva la participación de la ciudadanía regional y ejercer las atribuciones que la ley orgánica constitucional respectiva le encomiende.
+El consejo regional estará integrado por consejeros elegidos por sufragio universal en votación directa, de conformidad con la ley orgánica constitucional respectiva. Durarán cuatro años en sus cargos y podrán ser reelegidos. La misma ley establecerá la organización del consejo regional, determinará el número de consejeros que lo integrarán y su forma de reemplazo, cuidando siempre que tanto la población como el territorio de la región estén equitativamente representados.
+Cesará en su cargo el consejero regional que durante su ejercicio perdiere alguno de los requisitos de elegibilidad o incurriere en alguna de las inhabilidades, incompatibilidades, incapacidades u otras causales de cesación que la ley orgánica constitucional establezca.
+Lo señalado en los incisos precedentes respecto del consejo regional y de los consejeros regionales será aplicable, en lo que corresponda, a los territorios especiales a que se refiere el artículo 126 bis.
+El consejo regional, por mayoría absoluta de sus integrantes en ejercicio, elegirá un presidente de entre sus miembros. El presidente del consejo durará cuatro años en su cargo y cesará en él en caso de incurrir en alguna de las causales señaladas en el inciso tercero, por remoción acordada por los dos tercios de los consejeros regionales en ejercicio o por renuncia aprobada por la mayoría de éstos.
+La ley orgánica constitucional determinará las funciones y atribuciones del presidente del consejo regional.
+Corresponderá al consejo regional aprobar el proyecto de presupuesto de la respectiva región considerando, para tal efecto, los recursos asignados a ésta en la Ley de Presupuestos, sus recursos propios y los que provengan de los convenios de programación.
+Los Senadores y Diputados que representen a las circunscripciones y distritos de la región podrán, cuando lo estimen conveniente, asistir a las sesiones del consejo regional y tomar parte en sus debates, sin derecho a voto.
 
-Artículo 114.- La ley deberá determinar las formas en que se descentralizará la administración del Estado, así como la transferencia de competencias a los gobiernos regionales.
-Sin perjuicio de lo anterior, también establecerá, con las excepciones que procedan, la desconcentración regional de los ministerios y de los servicios públicos.
-Asimismo, regulará los procedimientos que aseguren la debida coordinación entre los órganos de la administración del Estado para facilitar el ejercicio de las facultades de las autoridades regionales.
+Artículo 114. La ley orgánica constitucional respectiva determinará la forma y el modo en que el Presidente de la República podrá transferir a uno o más gobiernos regionales, en carácter temporal o definitivo, una o más competencias de los ministerios y servicios públicos creados para el cumplimiento de la función administrativa, en materias de ordenamiento territorial, fomento de las actividades productivas y desarrollo social y cultural.
 
 Artículo 115.- Para el gobierno y administración interior del Estado a que se refiere el presente capítulo se observará como principio básico la búsqueda de un desarrollo territorial armónico y equitativo. Las leyes que se dicten al efecto deberán velar por el cumplimiento y aplicación de dicho principio, incorporando asimismo criterios de solidaridad entre las regiones, como al interior de ellas, en lo referente a la distribución de los recursos públicos.
 Sin perjuicio de los recursos que para su funcionamiento se asignen a los gobiernos regionales en la Ley de Presupuestos de la Nación y de aquellos que provengan de lo dispuesto en el Nº 20º del artículo 19, dicha ley contemplará una proporción del total de los gastos de inversión pública que determine, con la denominación de fondo nacional de desarrollo regional.
 La Ley de Presupuestos de la Nación contemplará, asimismo, gastos correspondientes a inversiones sectoriales de asignación regional cuya distribución entre regiones responderá a criterios de equidad y eficiencia, tomando en consideración los programas nacionales de inversión correspondientes. La asignación de tales gastos al interior de cada región corresponderá al gobierno regional.
-A iniciativa de los gobiernos regionales o de uno o más ministerios, podrán celebrarse convenios anuales o plurianuales de programación de inversión pública en la respectiva región o en el conjunto de regiones que convengan en asociarse con tal propósito.
+A iniciativa de los gobiernos regionales o de uno o más ministerios podrán celebrarse convenios anuales o plurianuales de programación de inversión pública entre gobiernos regionales, entre éstos y uno o más ministerios o entre gobiernos regionales y municipalidades, cuyo cumplimiento será obligatorio. La ley orgánica constitucional respectiva establecerá las normas generales que regularán la suscripción, ejecución y exigibilidad de los referidos convenios.
 La ley podrá autorizar a los gobiernos regionales y a las empresas públicas para asociarse con personas naturales o jurídicas a fin de propiciar actividades e iniciativas sin fines de lucro que contribuyan al desarrollo regional. Las entidades que al efecto se constituyan se regularán por las normas comunes aplicables a los particulares.
 Lo dispuesto en el inciso anterior se entenderá sin perjuicio de lo establecido en el número 21º del artículo 19.
 
 ### Gobierno y Administración Provincial
 
-Artículo 116.- En cada provincia existirá una gobernación que será un órgano territorialmente desconcentrado del intendente. Estará a cargo de un gobernador, quien será nombrado y removido libremente por el Presidente de la República.
+Artículo 116.- En
+NOTA
+cada provincia existirá una gobernación que será un órgano territorialmente desconcentrado del intendente. Estará a cargo de un gobernador, quien será nombrado y removido libremente por el Presidente de la República.
 Corresponde al gobernador ejercer, de acuerdo a las instrucciones del intendente, la supervigilancia de los servicios públicos existentes en la provincia. La ley determinará las atribuciones que podrá delegarle el intendente y las demás que le corresponden.
-En cada provincia existirá un consejo económico y social provincial de carácter consultivo. La ley orgánica constitucional respectiva determinará su composición, forma de designación de sus integrantes, atribuciones y funcionamiento.
+NOTA
+NOTA
+El N° 8 del Art. Único de la Ley 20390, publicada el 28.10.2009, derogó el inciso tercero del presente artículo.
 
 Artículo 117.- Los gobernadores, en los casos y forma que determine la ley, podrán designar delegados para el ejercicio de sus facultades en una o más localidades.
 
@@ -857,12 +863,15 @@ Artículo 122.- Las municipalidades gozarán de autonomía para la administraci�
 ### Disposiciones Generales
 
 Artículo 123.- La ley establecerá fórmulas de coordinación para la administración de todos o algunos de los municipios, con respecto a los problemas que les sean comunes, así como entre los municipios y los demás servicios públicos.
+Sin perjuicio de lo dispuesto en el inciso anterior, la ley orgánica constitucional respectiva regulará la administración de las áreas metropolitanas, y establecerá las condiciones y formalidades que permitan conferir dicha calidad a determinados territorios
 
-Artículo 124.- Para ser designado intendente o gobernador y para ser elegido miembro del consejo regional o concejal, se requerirá ser ciudadano con derecho a sufragio, tener los demás requisitos de idoneidad que la ley señale y residir en la región a lo menos en los últimos dos años anteriores a su designación o elección.
-Los cargos de intendente, gobernador, miembro del consejo regional y concejal serán incompatibles entre sí.
-Ningún tribunal procederá criminalmente contra un intendente o gobernador sin que la Corte de Apelaciones respectiva haya declarado que ha lugar la formación de causa.
+Artículo 124. Para ser designado intendente o gobernador y para ser elegido consejero regional, alcalde o concejal, se requerirá ser ciudadano con derecho a sufragio, tener los demás requisitos de idoneidad que la ley señale y residir en la región a lo menos en los últimos dos años anteriores a su designación o elección.
+Los cargos de intendente, gobernador, consejero regional, alcalde y concejal serán incompatibles entre sí.
+Ningún intendente, gobernador o presidente del consejo regional, desde el día de su designación o elección, según el caso, puede ser acusado o privado de su libertad, salvo el caso de delito flagrante, si el Tribunal de Alzada de la jurisdicción respectiva, en pleno, no autoriza previamente la acusación declarando haber lugar a la formación de causa. De esta resolución podrá apelarse ante la Corte Suprema.
+En caso de ser arrestado algún intendente, gobernador o presidente de consejo regional por delito flagrante, será puesto inmediatamente a disposición del Tribunal de Alzada respectivo, con la información sumaria correspondiente. El Tribunal procederá, entonces, conforme a lo dispuesto en el inciso anterior.
+Desde el momento en que se declare, por resolución firme, haber lugar a formación de causa, queda el intendente, gobernador o presidente del consejo regional imputado suspendido de su cargo y sujeto al juez competente.
 
-Artículo 125.- Las leyes orgánicas constitucionales respectivas establecerán las causales de cesación en los cargos de alcaldes, de miembro del consejo regional y de concejal.
+Artículo 125.- Las leyes orgánicas constitucionales respectivas establecerán las causales de cesación en los cargos de alcalde, consejero regional y concejal.
 
 Artículo 126.- La ley determinará la forma de resolver las cuestiones de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales y comunales.
 Asimismo, establecerá el modo de dirimir las discrepancias que se produzcan entre el intendente y el consejo regional, así como entre el alcalde y el concejo.
