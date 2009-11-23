@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2009-10-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2009-11-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2009-10-30
-fetched_at: 2026-08-03T01:54:05.652596+00:00
+version_date: 2009-11-23
+fetched_at: 2026-08-03T01:54:22.461305+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -81,7 +81,9 @@ Art. 9.o El contrato de trabajo es consensual; deberá constar por escrito en lo
 El empleador que no haga constar por escrito el contrato dentro del plazo de quince días de incorporado el trabajador, o de cinco días si se trata de contratos por obra, trabajo o servicio determinado o de duración inferior a treinta días, será sancionado con una multa a beneficio fiscal de una a cinco unidades tributarias mensuales.
 Si el trabajador se negare a firmar, el empleador enviará el contrato a la respectiva Inspección del Trabajo para que ésta requiera la firma. Si el trabajador insistiere en su actitud ante dicha Inspección, podrá ser despedido, sin derecho a indemnización, a menos que pruebe haber sido contratado en condiciones distintas a las consignadas en el documento escrito.
 Si el empleador no hiciere uso del derecho que se le confiere en el inciso anterior, dentro del respectivo plazo que se indica en el inciso segundo, la falta de contrato escrito hará presumir legalmente que son estipulaciones del contrato las que declare el trabajador.
-El empleador, en todo caso, estará obligado a mantener en el lugar de trabajo, un ejemplar del contrato, y, en su caso, uno del finiquito en que conste el término de la relación laboral, firmado por las partes.
+El empleador, en todo caso, estará obligado a mantener en el lugar de trabajo, o en un lugar fijado con anterioridad y que deberá haber sido autorizado previamente por la Inspección del Trabajo, un ejemplar del contrato, y, en su caso, uno del finiquito en que conste el término de la relación laboral, firmado por las partes.
+Conforme a lo señalado en el inciso anterior, cuando exista la necesidad de centralizar la documentación laboral y previsional, en razón de tener organizado su giro económico en diversos establecimientos, sucursales o lugares de trabajo o por razones de administración, control, operatividad o seguridad o que sus trabajadores presten servicios en instalaciones de terceros, o lugares de difícil ubicación específica, o carentes de condiciones materiales en las cuales mantener adecuadamente la referida documentación, como labores agrícolas, mineras o forestales y de vigilancia entre otras, las empresas podrán solicitar a la Dirección del Trabajo autorización para centralizar los documentos antes señalados y ofrecer mantener copias digitalizadas de dichos documentos laborales y previsionales. Para estos efectos, el Director del Trabajo, mediante resolución fundada, fijará las condiciones y modalidades para dicha centralización. La Dirección del Trabajo deberá resolver la solicitud de que trata este inciso en un plazo de treinta días, no siendo exigible la obligación establecida en el inciso quinto, en tanto no se notifique dicha respuesta al peticionario.
+La autorización de centralización podrá extenderse a toda la documentación laboral y previsional que se deriva de las relaciones de trabajo, salvo en lo referido al registro control de asistencia a que se refiere el inciso primero del artículo 33 de este Código.
 
 Art. 10. El contrato de trabajo debe contener, a lo menos, las siguientes estipulaciones:
 1.- lugar y fecha del contrato;
@@ -1570,6 +1572,8 @@ Se entenderá que el empleador cumple con la obligación señalada en este artí
 El empleador designará la sala cuna a que se refiere el inciso anterior, de entre aquellas que cuenten con la autorización de la Junta Nacional de Jardines Infantiles.
 INCISO SUPRIMIDO
 El empleador pagará el valor de los pasajes por el transporte que deba emplearse para la ida y regreso del menor al respectivo establecimiento.
+El trabajador o trabajadora a quienes, por sentencia judicial, se le haya confiado el cuidado personal del menor de dos años, tendrá los derechos establecidos en este artículo si éstos ya fueran exigibles a su empleador.
+Lo anterior se aplicará, además, si la madre fallece, salvo que el padre haya sido privado del cuidado personal por sentencia judicial.
 
 Art. 204 Cuando se trate de construir o transformar salas cunas, los propietarios de los establecimientos respectivos deberán someter previamente los planos a la aprobación de la comisión técnica del plan nacional de edificaciones escolares del Ministerio de Educación Pública.
 
