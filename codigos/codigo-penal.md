@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2009-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2009-12-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2009-10-03
-fetched_at: 2026-08-03T01:53:35.642461+00:00
+version_date: 2009-12-02
+fetched_at: 2026-08-03T01:54:34.461877+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1649,6 +1649,7 @@ Cualesquiera otros individuos que hubieren tomado parte en la asociación y los 
 
 ART. 294 BIS.
 Las penas de los artículos 293 y 294 se impondrán sin perjuicio de las que correspondan, por los crímenes o simples delitos cometidos con motivo u ocasión de tales actividades.
+Cuando la asociación se hubiere formado a través de una persona jurídica, se impondrá además, como consecuencia accesoria de la pena impuesta a los responsables individuales, la disolución o cancelación de la personalidad jurídica.
 
 ART. 295.
 Quedarán exentos de las penas señaladas en los artículos anteriores aquellos de los culpables que, antes de ejecutarse alguno de los crímenes o simples delitos que constituyen el objeto de la asociación y antes de ser perseguidos, hubieren revelado a la autoridad la existencia de dichas asociaciones, sus planes y propósitos.
