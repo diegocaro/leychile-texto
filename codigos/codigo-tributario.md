@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2009-04-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2009-12-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2009-04-28
-fetched_at: 2026-08-03T01:50:19.646366+00:00
+version_date: 2009-12-05
+fetched_at: 2026-08-03T01:54:46.469397+00:00
 titulo_norma: "CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -357,10 +357,20 @@ No estarán obligadas a concurrir a declarar las personas indicadas en el artíc
 
 Artículo 61.- Salvo disposición en contrario, los preceptos de este Código, no modifican las normas vigentes sobre secreto profesional, reserva de la cuenta corriente bancaria y demás operaciones a que la ley dé carácter confidencial.
 
-Art. 62. La Justicia Ordinaria podrá ordenar el examen de las cuentas corrientes en el caso de procesos por delitos que digan relación con el cumplimiento de obligaciones tributarias.
+Artículo 62. - La Justicia Ordinaria podrá autorizar el examen de información relativa a las operaciones bancarias de personas determinadas, comprendiéndose todas aquellas sometidas a secreto o sujetas a reserva, en el caso de procesos por delitos que digan relación con el cumplimiento de obligaciones tributarias. Igual facultad tendrán los Tribunales Tributarios y Aduaneros cuando conozcan de un proceso sobre aplicación de sanciones conforme al artículo 161.
 Asimismo, el Director podrá disponer dicho examen, por resolución fundada, cuando el Servicio se encuentre investigando infracciones a las leyes tributarias sancionadas con pena corporal.
-NOTA:
-El Artículo 43 de la Ley 19806, publicada el 31.05.2002, ordenó modificar el presente artículo. Sin embargo la Sentencia del Tribunal Constitucional publicada como anexo de la misma ley ordenó eliminar dicha modificación por inconstitucional, por lo tanto no se ha incorporado en el presente texto actualizado. En el diario oficial del 01.06.2002, se publicó la rectificación pertinente.
+
+Artículo 62 bis.- Para los efectos a que se refiere el inciso tercero del artículo precedente, será competente para conocer de la solicitud de autorización judicial que el Servicio interponga para acceder a la información bancaria sujeta a reserva o secreto, el Tribunal Tributario y Aduanero correspondiente al domicilio en Chile que haya informado el banco al Servicio, conforme al número 4) del inciso tercero del artículo precedente. Si se hubiese informado un domicilio en el extranjero o no se hubiese informado domicilio alguno, será competente el Tribunal Tributario y Aduanero correspondiente al domicilio del banco requerido.
+La solicitud del Servicio deberá ser presentada conjuntamente con los antecedentes que sustenten el requerimiento y que justifiquen que es indispensable contar con dicha información para determinar las obligaciones tributarias del contribuyente, identificando las declaraciones o falta de ellas, en su caso, que se pretende verificar. En el caso de requerimientos efectuados desde el extranjero, deberá indicarse la entidad requirente de la información y los antecedentes de la solicitud respectiva.
+El Juez Tributario y Aduanero resolverá la solicitud de autorización citando a las partes a una audiencia que deberá fijarse a más tardar el decimoquinto día contado desde la fecha de la notificación de dicha citación. Con el mérito de los antecedentes aportados por las partes, el juez resolverá fundadamente la solicitud de autorización en la misma audiencia o dentro del quinto día, a menos que estime necesario abrir un término probatorio por un plazo máximo de cinco días.
+La notificación al titular de la información se efectuará considerando la información proporcionada por el banco al Servicio, conforme al número 4) del inciso tercero del artículo precedente, de la siguiente forma:
+a) Por cédula, dirigida al domicilio en Chile que el banco haya informado, o
+b) Por avisos, cuando el banco haya informado al Servicio que su cliente tiene domicilio en el extranjero, que el titular de la información no es ya su cliente, o bien cuando no haya informado domicilio alguno.
+Para los efectos de la notificación por avisos, el secretario del Tribunal preparará un extracto, en que se incluirá la información necesaria para que el titular de la información conozca del hecho de haberse requerido por el Servicio su información bancaria amparada por secreto o reserva, la identidad del tribunal en que tal solicitud se ha radicado y la fecha de la audiencia fijada.
+En cualquiera de los casos anteriores, cuando el banco haya informado al Servicio el correo electrónico registrado por el titular de la información, el secretario del Tribunal comunicará también por esa vía el hecho de haber ordenado la notificación respectiva, cuya validez no se verá afectada por este aviso adicional. Asimismo, cuando se notifique por avisos, el secretario del Tribunal deberá despachar, dejando constancia de ello en el expediente, carta certificada al último domicilio registrado ante el banco, de haber sido informado, comunicando que se ha ordenado la notificación por avisos, cuya validez no se verá afectada por la recepción exitosa o fallida de esta comunicación adicional.
+En contra de la sentencia que se pronuncie sobre la solicitud procederá el recurso de apelación, el que deberá interponerse en el plazo de cinco días contado desde su notificación, y se concederá en ambos efectos. La apelación se tramitará en cuenta, a menos que cualquiera de las partes, dentro del plazo de cinco días contado desde el ingreso de los autos en la Secretaría de la Corte de Apelaciones, solicite alegatos. En contra de la resolución de la Corte no procederá recurso alguno.
+El expediente se tramitará en forma secreta en todas las instancias del juicio.
+Las disposiciones del artículo 62 y de este artículo no restringirán las demás facultades de fiscalización del Servicio.
 
 Artículo 63.- El Servicio hará uso de todos los medios legales para comprobar la exactitud de las declaraciones presentadas por los contribuyentes y para obtener las informaciones y antecedentes relativos a los impuestos que se adeuden o pudieren adeudarse.
 El Jefe de la Oficina respectiva del Servicio podrá citar al contribuyente para que, dentro del plazo de un mes, presente una declaración o rectifique, aclare, amplíe o confirme la anterior. Sin embargo, dicha citación deberá practicarse en los casos en que la ley la establezca como trámite previo. A solicitud del interesado dicho funcionario podrá ampliar este plazo, por una sola vez, hasta por un mes. Esta facultad podrá ser delegada en otros jefes de las respectivas oficinas.
