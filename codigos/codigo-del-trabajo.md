@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2009-11-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2009-12-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2009-11-23
-fetched_at: 2026-08-03T01:54:22.461305+00:00
+version_date: 2009-12-19
+fetched_at: 2026-08-03T01:54:58.476510+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1025,7 +1025,7 @@ Art. 154. El reglamento interno deberá contener, a lo menos, las siguientes dis
 3.- los diversos tipos de remuneraciones;
 4.- el lugar, día y hora de pago;
 5.- las obligaciones y prohibiciones a que estén sujetos los trabajadores;
-6.- la designación de los cargos ejecutivos o dependientes del establecimiento ante quienes los trabajadores deban plantear sus peticiones, reclamos, consultas y sugerencias;
+6.- la designación de los cargos ejecutivos o dependientes del establecimiento ante quienes los trabajadores deban plantear sus peticiones, reclamos, consultas y sugerencias, y en el caso de empresas de doscientos trabajadores o más, un registro que consigne los diversos cargos o funciones en la empresa y sus características técnicas esenciales;
 7.- las normas especiales pertinentes a las diversas clases de faenas, de acuerdo con la edad y sexo de los trabajadores;
 8.- la forma de comprobación del cumplimiento de las leyes de previsión, de servicio militar obligatorio, de cédula de identidad y, en el caso de menores, de haberse cumplido la obligación escolar;
 9.- las normas e instrucciones de prevención, higiene y seguridad que deban observarse en la empresa o establecimiento;
