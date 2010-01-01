@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=2007-06-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=2010-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 2007-06-05
-fetched_at: 2026-08-03T01:42:01.990317+00:00
+version_date: 2010-01-01
+fetched_at: 2026-08-03T01:55:04.476609+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1369,7 +1369,7 @@ Si de acuerdo a lo dispuesto en dichas normas se declara nula la sociedad o no e
 
 Artículo 429.- Los accionistas sólo serán responsables hasta el monto de sus respectivos aportes en la sociedad.
 
-Artículo 430.- La sociedad por acciones que durante más de 90 días seguidos reúna los requisitos de los números 1) ó 2) del inciso segundo del artículo 2° de la ley N° 18.046, por el solo ministerio de la ley se transformará en una sociedad anónima abierta, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La siguiente junta de accionistas deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
+Artículo 430.- La sociedad por acciones que durante más de 90 días seguidos tenga 500 o más accionistas o, a lo menos, el 10% de su capital suscrito pertenezca a un mínimo de 100 accionistas, excluidos los que individualmente o a través de otras personas naturales o jurídicas, excedan dicho porcentaje, por el solo ministerio de la ley se transformará en una sociedad anónima, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La siguiente junta de accionistas deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
 
 Artículo 431.- La sociedad llevará un registro en el que se anotará, a lo menos, el nombre, domicilio y cédula de identidad o rol único tributario de cada accionista, el número de acciones de que sea titular, la fecha en que éstas se hayan inscrito a su nombre y tratándose de acciones suscritas y no pagadas, la forma y oportunidades de pago de ellas. Igualmente, en el Registro deberá inscribirse la constitución de gravámenes y de derechos reales distintos al dominio. En caso de que algún accionista transfiera el todo o parte de sus acciones, deberá anotarse esta circunstancia en el registro de que trata este artículo.
 Dicho registro podrá llevarse por cualquier medio, siempre que éste ofrezca seguridad de que no podrá haber intercalaciones, supresiones u otra adulteración que pueda afectar su fidelidad, y que, además, permita el inmediato registro o constancia de las anotaciones que deban hacerse y estará, en todo tiempo, disponible para su examen por cualquier accionista o administrador de la sociedad.
@@ -1416,54 +1416,64 @@ Artículo 445.- El estatuto establecerá los medios de comunicación entre la so
 
 Artículo 446.- En los traspasos de acciones deberá constar la declaración del cesionario en el sentido que conoce la normativa legal que regula este tipo social, el estatuto de la sociedad y las protecciones que en ellos puedan o no existir respecto del interés de los accionistas. La omisión de esta declaración no invalidará el traspaso, pero hará responsable al cedente de los perjuicios que ello irrogue.
 
-Art. 447. DEROGADO
+#### § 9. De las Agencias de Sociedades Extranjeras u otras Personas Jurídicas con Fines de Lucro
 
-Art. 448. DEROGADO
+Artículo 447.- Para que una sociedad u otra persona jurídica con fines de lucro extranjera pueda constituir agencia en Chile, su agente o representante deberá protocolizar en una notaría del domicilio que ésta tendrá en Chile, en el idioma oficial del país de origen, traducidos al español si no estuvieren en ese idioma, los siguientes documentos emanados del país en que se haya constituido, debidamente legalizados:
+1) Los antecedentes que acrediten que se encuentra legalmente constituida de acuerdo a la ley del país de origen y un certificado de vigencia de la entidad;
+2) Copia auténtica de los estatutos vigentes, y
+3) Un poder general otorgado por la entidad al agente que ha de representarla en el país, en el que consten la personería del mandante y se exprese en forma clara y precisa que el agente obra en Chile bajo la responsabilidad directa de la entidad, con amplias facultades para ejecutar operaciones en su nombre y en que se le otorguen expresamente las facultades a que se refiere el inciso segundo del artículo 7° del Código de Procedimiento Civil.
 
-Art. 449. DEROGADO
+Artículo 448.- Por escritura pública de la misma fecha y ante el mismo notario ante el cual se efectúe la protocolización a que se refiere el artículo anterior, el agente deberá declarar a nombre de la entidad y con poder suficiente para ello:
+1) El nombre con que la entidad funcionará en Chile y el objeto u objetos de ella;
+2) Que la entidad conoce la legislación chilena y los reglamentos por los cuales habrán de regirse en el país, sus agencias, actos, contratos y obligaciones;
+3) Que los bienes de la entidad quedan afectos a las leyes chilenas, especialmente para responder de las obligaciones que ella haya de cumplir en Chile;
+4) Que la entidad se obliga a mantener en Chile bienes de fácil realización para atender a las obligaciones que hayan de cumplirse en el país;
+5) Cuál es el capital efectivo que va a tener en el país para el giro de sus operaciones y la fecha y forma en que éste ha de ingresar en la caja de la agencia en Chile, y
+6) Cuál es el domicilio de la agencia principal.
 
-Art. 450. DEROGADO
+Artículo 449.- Un extracto de la protocolización y de la escritura a que se refieren los artículos precedentes, debidamente certificado por el notario respectivo, en que conste la fecha y número de la protocolización y de la escritura antes mencionada; el nombre de la entidad y aquel con que funcionará en Chile; el domicilio que tendrá en el país; el capital de la agencia y el nombre del agente o representante, deberá inscribirse en el Registro de Comercio correspondiente al domicilio de la agencia principal y publicarse, por una sola vez en el Diario Oficial; todo ello, dentro de los 60 días contados desde la fecha de la protocolización.
 
-Art. 451. DEROGADO
+Artículo 450.- El agente deberá cumplir con las mismas formalidades señaladas en los artículos anteriores de este título, respecto de cualquiera modificación que se produzca en relación con los documentos o declaraciones a que estas disposiciones se refieren, excepto la mencionada en el número 4) del artículo 448. El agente deberá publicar el balance anual de la agencia en un diario del domicilio de ésta, dentro del cuatrimestre siguiente a la fecha del cierre del ejercicio.
 
-Art. 452. DEROGADO
+Art. 451. Derogado.
 
-Art. 453. DEROGADO
+Art. 452. Derogado.
 
-Art. 454. DEROGADO
+Art. 453. Derogado.
 
-Art. 455. DEROGADO
+Art. 454. Derogado.
 
-Art. 456. DEROGADO
+Art. 455. Derogado.
 
-Art. 457. DEROGADO
+Art. 456. Derogado.
 
-Art. 458. DEROGADO
+Art. 457. Derogado.
 
-Art. 459. DEROGADO
+Art. 458. Derogado.
 
-Art. 460. DEROGADO
+Art. 459. Derogado.
 
-Art. 461. DEROGADO
+Art. 460. Derogado.
 
-Art. 462. DEROGADO
+Art. 461. Derogado.
 
-Art. 463. DEROGADO
+Art. 462. Derogado.
 
-Art. 464. DEROGADO
+Art. 463. Derogado.
 
-Art. 465. DEROGADO
+Art. 464. Derogado.
 
-Art. 466. DEROGADO
+Art. 465. Derogado.
 
-Art. 467. DEROGADO
+Art. 466. Derogado.
 
-Art. 468. DEROGADO
+Art. 467. Derogado.
 
-Art. 469. DEROGADO
+Art. 468. Derogado.
 
-#### § 9. Disposiciones relativas a la sociedad
-en comandita
+Art. 469. Derogado.
+
+#### § 10. Disposiciones relativas a la sociedad en comandita
 
 Art. 470. Sociedad en comandita es la que se celebra entre una o más personas que prometen llevar a la caja social un determinado aporte, y una o más personas que se obligan a administrar exclusivamente la sociedad por sí o sus delegados y en su nombre particular.
 Llámanse los primeros socios comanditarios, y los segundos gestores.
@@ -1474,7 +1484,7 @@ Art. 472. La comandita simple se forma por la reunión de un fondo suministrado 
 
 Art. 473. La comandita por acciones se constituye por la reunión de un capital dividido en acciones o cupones de acción y suministrado por socios cuyo nombre no figura en la escritura social.
 
-#### § 10. De la comandita simple
+#### § 11. De la comandita simple
 
 Art. 474. La comandita simple se forma y prueba como la sociedad colectiva, y está sometida a las reglas establecidas en los siete primeros párrafos de este Título, en cuanto dichas reglas no se encuentren en oposición con la naturaleza jurídica de este contrato y las siguientes disposiciones.
 
@@ -1520,7 +1530,7 @@ Art. 489. Habiendo uno o más socios comanditarios y muchos colectivos, sea que 
 
 Art. 490. En caso de duda, la sociedad se reputará colectiva.
 
-#### § 11. De la comandita por acciones
+#### § 12. De la comandita por acciones
 
 Art. 491. Las reglas establecidas en el párrafo anterior son aplicables a la comandita por acciones en cuanto no estén en contradicción con las disposiciones del presente.
 
@@ -1571,7 +1581,7 @@ No pudiendo verificarse el nombramiento por la asamblea general, por un obstácu
 Si el pleito versare sobre objetos de interés particular de algunos accionistas, los apoderados serán nombrados en reunión de los interesados en la causa.
 En cualquiera de los dos casos propuestos, los accionistas podrán intervenir personalmente en la causa, a cargo de soportar los gastos de su intervención.
 
-#### § 12. De la asociación o cuentas en participación
+#### § 13. De la asociación o cuentas en participación
 
 Art. 507. La participación es un contrato por el cual dos o más comerciantes toman interés en una o muchas operaciones mercantiles, instantáneas o sucesivas, que debe ejecutar uno de ellos en su solo nombre y bajo su crédito personal, a cargo de rendir cuenta y dividir con sus asociados las ganancias o pérdidas en la proporción convenida.
 
