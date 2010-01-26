@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2008-12-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2010-01-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 2008-12-13
-fetched_at: 2026-08-03T01:48:41.550647+00:00
+version_date: 2010-01-26
+fetched_at: 2026-08-03T01:55:49.231731+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -485,8 +485,8 @@ DE LA PROTECCIÓN DE LAS AGUAS Y CAUCES
 ARTICULO 129 bis- Si de la ejecución de obras de recuperación de terrenos húmedos o pantanosos resultara perjuicio a terceros, las aguas provenientes de tales obras deberán ser vertidas al cauce natural más próximo. De no ser posible lo anterior, ellas serán vertidas a cauces artificiales, con autorización de sus propietarios, o a otros cauces naturales. En este último caso, deberá obtenerse autorización de la Dirección General de Aguas en conformidad al Párrafo 1º del Título I del Libro II de este Código.
 
 ARTICULO 129 bis 1°- Al constituir los derechos de aprovechamiento de aguas, la Dirección General de Aguas velará por la preservación de la naturaleza y la protección del medio ambiente, debiendo para ello establecer un caudal ecológico mínimo, el cual sólo afectará a los nuevos derechos que se constituyan, para lo cual deberá considerar también las condiciones naturales pertinentes para cada fuente superficial.
-El caudal ecológico mínimo no podrá ser superior al veinte por ciento del caudal medio anual de la respectiva fuente superficial.
-En casos calificados, y previo informe favorable de la Comisión Regional del Medio Ambiente respectiva, el Presidente de la República podrá, mediante decreto fundado, fijar caudales ecológicos mínimos diferentes, sin atenerse a la limitación establecida en el inciso anterior, no pudiendo afectar derechos de aprovechamiento existentes. Si la respectiva fuente natural recorre más de una Región, el informe será evacuado por la Comisión Nacional del Medio Ambiente. El caudal ecológico que se fije en virtud de lo dispuesto en el presente inciso, no podrá ser superior al cuarenta por ciento del caudal medio anual de la respectiva fuente superficial.
+Un reglamento, que deberá llevar la firma de los Ministros del Medio Ambiente y Obras Públicas, determinará los criterios en virtud de los cuales se establecerá el caudal ecológico mínimo. El caudal ecológico mínimo no podrá ser superior al veinte por ciento del caudal medio anual de la respectiva fuente superficial.
+En casos calificados, y previo informe favorable del Ministerio del Medio Ambiente, el Presidente de la República podrá, mediante decreto fundado, fijar caudales ecológicos mínimos diferentes, sin atenerse a la limitación establecida en el inciso anterior, no pudiendo afectar derechos de aprovechamiento existentes. El caudal ecológico que se fije en virtud de lo dispuesto en el presente inciso, no podrá ser superior al cuarenta por ciento del caudal medio anual de la respectiva fuente superficial.
 
 ARTICULO 129 bis 2°- La Dirección General de Aguas podrá ordenar la inmediata paralización de las obras o labores que se ejecuten en los cauces naturales de aguas corrientes o detenidas que no cuenten con la autorización competente y que pudieran ocasionar perjuicios a terceros, para lo cual podrá requerir el auxilio de la fuerza pública en los términos establecidos en el artículo 138 de este Código, previa autorización del juez de letras competente en el lugar en que se realicen dichas obras.
 Asimismo, en las autorizaciones que otorga la Dirección General de Aguas referidas a modificaciones o a nuevas obras en cauces naturales que signifiquen una disminución en la recarga natural de los acuíferos, podrán considerarse medidas mitigatorias apropiadas. De no ser así, se denegará la autorización de que se trate.
