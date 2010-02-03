@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=2010-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=2010-02-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 2010-01-01
-fetched_at: 2026-08-03T01:55:04.476609+00:00
+version_date: 2010-02-03
+fetched_at: 2026-08-03T01:56:01.241307+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -4533,7 +4533,7 @@ ARTICULO 108° En la primera junta se tratará especialmente sobre las siguiente
 4.- Designar de entre los acreedores con derecho a voto o sus representantes, un presidente y un secretario, titular y suplente, para las futuras reuniones. Si concurrieren menos de cuatro personas, se procederá solamente a la designación de presidente y secretario titulares, y
 5.- Cualquier otro acuerdo necesario para el más adecuado cumplimiento de las funciones que a la junta y al síndico competen.
 
-ARTICULO 109° Si de la cuenta presentada por el síndico apareciere que el producto probable de la realización del activo de la quiebra no excederá de mil unidades de fomento, se procederá a la realización sumaria del activo. En este caso, el síndico provisional pasará a tener el carácter de definitivo y liquidará el activo en la forma más conveniente para los intereses de la masa, en un plazo no superior a seis meses.
+ARTICULO 109° Si de la cuenta presentada por el síndico apareciere que el producto probable de la realización del activo de la quiebra no excederá de 2.000 unidades de fomento, se procederá a la realización sumaria del activo. En este caso, el síndico provisional pasará a tener el carácter de definitivo y liquidará el activo en la forma más conveniente para los intereses de la masa, en un plazo no superior a seis meses.
 Si el fallido o cualquiera de los acreedores no estuviere de acuerdo con la estimación del valor del activo presentada por el síndico, deberá así manifestarlo en la misma junta. Sobre esta objeción el tribunal resolverá a más tardar dentro del quinto día, pudiendo solicitar informe pericial si lo estimare necesario. En contra de la resolución que se pronuncie sobre el valor probable del activo, no procederá recurso alguno.
 No se admitirá otra objeción al valor estimado del activo ni a la adopción del procedimiento de realización sumaria del mismo que la señalada en el inciso precedente.
 
@@ -5007,8 +5007,9 @@ La sentencia que concede la rehabilitación será publicada en los diarios que d
 
 ARTICULO 240° Transcurrido un año desde la notificación de la declaratoria de quiebra, el fallido no comprendido en el artículo 41° podrá solicitar su rehabilitación ante el tribunal que haya conocido de la quiebra, siempre que se encuentre en alguno de estos casos:
 1.- Que no se hayan deducido acciones criminales en su contra dentro de dicho plazo;
-2.- DEROGADO.
+2.- Derogado.
 3.- Que, habiendo sido condenado el fallido en alguno de dichos juicios criminales, hubiere cumplido las penas y satisfecho íntegramente las deudas.
+A todos los deudores comprendidos en el artículo 1° del ARTÍCULO UNDÉCIMO de la ley que fija normas especiales para empresas de menor tamaño se les aplicará lo dispuesto en este artículo aunque se encuentren comprendidos en el artículo 41 y el plazo de la rehabilitación será de seis meses contado desde que se hubiere declarado la quiebra.
 La solicitud de rehabilitación se notificará en igual forma que la declaratoria de quiebra.
 Dentro del término de los quince días siguientes a la notificación, podrán deducirse oposiciones por el Superintendente o, en el caso del número 3, por los acreedores cuyos créditos no hubieren sido enteramente pagados. Las oposiciones se tramitarán en juicio sumario entre el fallido, el Superintendente y el opositor.
 La sentencia que conceda la rehabilitación será publicada en los diarios que designe el fallido.
