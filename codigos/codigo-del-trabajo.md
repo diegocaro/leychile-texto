@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2010-02-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2010-02-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2010-02-03
-fetched_at: 2026-08-03T01:56:33.314599+00:00
+version_date: 2010-02-10
+fetched_at: 2026-08-03T01:56:40.044846+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1014,6 +1014,8 @@ En ningún caso las alternativas que se pacten, en uno u otro evento, podrán im
 ### Título III
 DEL REGLAMENTO INTERNO
 
+.
+
 Art. 153. Las empresas, establecimientos, faenas o unidades económicas que ocupen normalmente diez o más trabajadores permanentes, contados todos los que presten servicios en las distintas fábricas o secciones, aunque estén situadas en localidades diferentes, estarán obligadas a confeccionar un reglamento interno de orden, higiene y seguridad que contenga las obligaciones y prohibiciones a que deben sujetarse los trabajadores, en relación con sus labores, permanencia y vida en las dependencias de la respectiva empresa o establecimiento.
 Especialmente, se deberán estipular las normas que se deben observar para garantizar un ambiente laboral digno y de mutuo respeto entre los trabajadores.
 Una copia del reglamento deberá remitirse al Ministerio de Salud y a la Dirección del Trabajo dentro de los cinco días siguientes a la vigencia del mismo.
@@ -1026,7 +1028,7 @@ Art. 154. El reglamento interno deberá contener, a lo menos, las siguientes dis
 4.- el lugar, día y hora de pago;
 5.- las obligaciones y prohibiciones a que estén sujetos los trabajadores;
 6.- la designación de los cargos ejecutivos o dependientes del establecimiento ante quienes los trabajadores deban plantear sus peticiones, reclamos, consultas y sugerencias, y en el caso de empresas de doscientos trabajadores o más, un registro que consigne los diversos cargos o funciones en la empresa y sus características técnicas esenciales;
-7.- las normas especiales pertinentes a las diversas clases de faenas, de acuerdo con la edad y sexo de los trabajadores;
+7.- las normas especiales pertinentes a las diversas clases de faenas, de acuerdo con la edad y sexo de los trabajadores, y a los ajustes necesarios y servicios de apoyo que permitan al trabajador con discapacidad un desempeño laboral adecuado;
 8.- la forma de comprobación del cumplimiento de las leyes de previsión, de servicio militar obligatorio, de cédula de identidad y, en el caso de menores, de haberse cumplido la obligación escolar;
 9.- las normas e instrucciones de prevención, higiene y seguridad que deban observarse en la empresa o establecimiento;
 10.- las sanciones que podrán aplicarse por infracción a las obligaciones que señale este reglamento, las que sólo podrán consistir en amonestación verbal o escrita y multa de hasta el veinticinco por ciento de la remuneración diaria;
