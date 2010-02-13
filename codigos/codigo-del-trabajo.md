@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2010-02-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2010-02-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2010-02-10
-fetched_at: 2026-08-03T01:56:40.044846+00:00
+version_date: 2010-02-13
+fetched_at: 2026-08-03T01:56:52.045456+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -355,6 +355,10 @@ Con todo, tratándose de pensiones alimenticias debidas por ley y decretadas jud
 Art. 58. El empleador deberá deducir de las remuneraciones los impuestos que las graven, las cotizaciones de seguridad social, las cuotas sindicales en conformidad a la legislación respectiva y las obligaciones con instituciones de previsión o con organismos públicos. Igualmente, a solicitud escrita del trabajador, el empleador deberá descontar de las remuneraciones las cuotas correspondientes a dividendos hipotecarios por adquisición de viviendas y las cantidades que el trabajador haya indicado para que sean depositadas en una cuenta de ahorro para la vivienda abierta a su nombre en una institución financiera o en una cooperativa de vivienda. Estas últimas no podrán exceder de un monto equivalente al 30% de la remuneración total del trabajador.
 Sólo con acuerdo del empleador y del trabajador que deberá constar por escrito, podrán deducirse de las remuneraciones sumas o porcentajes determinados, destinados a efectuar pagos de cualquier naturaleza. Con todo, las deducciones a que se refiere este inciso, no podrán exceder del quince por ciento de la remuneración total del trabajador.
 El empleador no podrá deducir, retener o compensar suma alguna que rebaje el monto de las remuneraciones por arriendo de habitación, luz, entrega de agua, uso de herramientas, entrega de medicinas, atención médica u otras prestaciones en especie, o por concepto de multas que no estén autorizadas en el reglamento interno de la empresa.
+Asimismo, no podrá deducir, retener o compensar suma alguna por el no pago de efectos de comercio que el empleador hubiera autorizado recibir como medio de pago por los bienes suministrados o servicios prestados a terceros en su establecimiento.
+La autorización del empleador, señalada en el inciso anterior, deberá constar por escrito, así como también los procedimientos que el trabajador debe cumplir para recibir como forma de pago los respectivos efectos de comercio.
+En caso de robo, hurto, pérdida o destrucción por parte de terceros de bienes de la empresa sin que haya mediado responsabilidad del trabajador, el empleador no podrá descontar de la remuneración del o de los trabajadores el monto de lo robado, hurtado, perdido o dañado.
+La infracción a esta prohibición será sancionada con la restitución obligatoria, por parte del empleador, de la cifra descontada, debidamente reajustada, sin perjuicio de las multas que procedan de conformidad a este Código.
 
 Art. 59. En el contrato podrá establecerse la cantidad que el trabajador asigne para la mantención de su familia.
 La mujer casada puede percibir hasta el cincuenta por ciento de la remuneración de su marido, declarado vicioso por el respectivo Juez de Letras del Trabajo.
