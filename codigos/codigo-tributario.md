@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2010-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2010-02-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2010-01-01
-fetched_at: 2026-08-03T01:55:16.909602+00:00
+version_date: 2010-02-19
+fetched_at: 2026-08-03T01:57:09.635941+00:00
 titulo_norma: "CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -85,6 +85,23 @@ La unidad tributaria mensual o anual se expresará siempre en pesos, desprecián
 12°.- Por "instrumentos de cambio internacional", el oro, la moneda extranjera, los efectos de comercio expresados en moneda extranjera, y todos aquellos instrumentos que, según las leyes, sirvan para efectuar operaciones de cambios internacionales.
 13°.- Por transformación de sociedades, el cambio de especie o tipo social efectuado por reforma del contrato social o de los estatutos, subsistiendo la personalidad jurídica.
 
+##### Párrafo 4.º
+Derechos de los Contribuyentes
+
+Artículo 8º bis.- Sin perjuicio de los derechos garantizados por la Constitución y las leyes, constituyen derechos de los contribuyentes, los siguientes:
+1° Derecho a ser atendido cortésmente, con el debido respeto y consideración; a ser informado y asistido por el Servicio sobre el ejercicio de sus derechos y en el cumplimiento de sus obligaciones.
+2° Derecho a obtener en forma completa y oportuna las devoluciones previstas en las leyes tributarias, debidamente actualizadas.
+3° Derecho a recibir información, al inicio de todo acto de fiscalización, sobre la naturaleza y materia a revisar, y conocer en cualquier momento, por un medio expedito, su situación tributaria y el estado de tramitación del procedimiento.
+4° Derecho a ser informado acerca de la identidad y cargo de los funcionarios del Servicio bajo cuya responsabilidad se tramitan los procesos en que tenga la condición de interesado.
+5° Derecho a obtener copias, a su costa, o certificación de las actuaciones realizadas o de los documentos presentados en los procedimientos, en los términos previstos en la ley.
+6° Derecho a eximirse de aportar documentos que no correspondan al procedimiento o que ya se encuentren acompañados al Servicio y a obtener, una vez finalizado el caso, la devolución de los documentos originales aportados.
+7° Derecho a que las declaraciones impositivas, salvo los casos de excepción legal, tengan carácter reservado, en los términos previstos por este Código.
+8° Derecho a que las actuaciones se lleven a cabo sin dilaciones, requerimientos o esperas innecesarias, certificada que sea, por parte del funcionario a cargo, la recepción de todos los antecedentes solicitados.
+9° Derecho a formular alegaciones y presentar antecedentes dentro de los plazos previstos en la ley y a que tales antecedentes sean incorporados al procedimiento de que se trate y debidamente considerados por el funcionario competente.
+10° Derecho a plantear, en forma respetuosa y conveniente, sugerencias y quejas sobre las actuaciones de la Administración en que tenga interés o que le afecten.
+Los reclamos en contra de actos u omisiones del Servicio que vulneren cualquiera de los derechos de este artículo serán conocidos por el Juez Tributario y Aduanero, conforme al procedimiento del Párrafo 2º del Título III del Libro Tercero de este Código.
+En toda dependencia del Servicio de Impuestos Internos deberá exhibirse, en un lugar destacado y claramente visible al público, un cartel en el cual se consignen los derechos de los contribuyentes expresados en la enumeración contenida en el inciso primero.
+
 #### LIBRO PRIMERO
 DE LA ADMINISTRACION, FISCALIZACION Y PAGO
 
@@ -102,7 +119,7 @@ Artículo 10.- Las actuaciones del Servicio deberán practicarse en días y hora
 Los plazos de días que establece este Código se entenderán de días hábiles.
 Los plazos relacionados con las actuaciones del Servicio que venzan en días sábado o en día feriado, se entenderán prorrogados hasta el día hábil siguiente.
 
-Artículo 11.- Toda notificación que el Servicio deba practicar se hará personalmente, por cédula o por carta certificada dirigida al domicilio del interesado, salvo que una disposición expresa ordene otra forma de notificación.
+Artículo 11.- Toda notificación que el Servicio deba practicar se hará personalmente, por cédula o por carta certificada dirigida al domicilio del interesado, salvo que una disposición expresa ordene otra forma de notificación o que el interesado solicite para sí ser notificado por correo electrónico. En este último caso, la notificación se entenderá efectuada en la fecha del envío del correo electrónico, certificada por un ministro de fe. El correo contendrá una trascripción de la actuación del Servicio, incluyendo los datos necesarios para su acertada inteligencia, y será remitido a la dirección electrónica que indique el contribuyente, quien deberá mantenerla actualizada, informando sus modificaciones al Servicio en el plazo que determine la Dirección. Cualquier circunstancia ajena al Servicio por la que el contribuyente no reciba el correo electrónico, no anulará la notificación.
 La carta certificada mencionada en el inciso precedente podrá ser entregada por el funcionario de correos que corresponda, en el domicilio del notificado, a cualquiera persona adulta que se encuentre en él, debiendo ésta firmar el recibo respectivo.
 No obstante, si existe domicilio postal, la carta certificada deberá ser remitida a la casilla o apartado postal o a la oficina de correos que el contribuyente haya fijado como tal. En este caso, el funcionario de correos deberá entregar la carta al interesado o a la persona a la cual éste haya conferido poder para retirar su correspondencia, debiendo estas personas firmar el recibo correspondiente.
 Si el funcionario de correos no encontrare en el domicilio al notificado o a otra persona adulta o éstos se negaren a recibir la carta certificada o a firmar el recibo, o no retiraren la remitida en la forma señalada en el inciso anterior dentro del plazo de 15 días, contados desde su envío, se dejará constancia de este hecho en la carta, bajo la firma del funcionario y la del Jefe de la Oficina de Correos que corresponda y se devolverá al Servicio, aumentándose o renovándose por este hecho los plazos del artículo 200 en tres meses, contados desde la recepción de la carta devuelta.
@@ -207,7 +224,8 @@ Las sumas que un contribuyente deba legalmente reintegrar, correspondientes a ca
 Artículo 25.- Toda liquidación de impuestos practicada por el Servicio tendrá el carácter de provisional mientras no se cumplan los plazos de prescripción, salvo en aquellos puntos o materias comprendidos expresa y determinadamente en una revisión sobre la cual se haya pronunciado el Director Regional, sea con ocasión de un reclamo, o a petición del contribuyente tratándose de términos de giro. En tales casos, la liquidación se estimará como definitiva para todos los efectos legales, sin perjuicio del derecho de reclamación del contribuyente, si procediera.
 
 Artículo 26.- No procederá el cobro con efecto retroactivo cuando el contribuyente se haya ajustado de buena fe a una determinada interpretación de las leyes tributarias sustentada por la Dirección o por las Direcciones Regionales en circulares, dictámenes, informes u otros documentos oficiales destinados a impartir instrucciones a los funcionarios del Servicio o a ser conocidos de los contribuyentes en general o de uno o más de éstos en particular.
-En caso que las circulares, dictámenes y demás documentos mencionados en el inciso 1°, sean modificados, se presume de derecho que el contribuyente ha conocido tales modificaciones desde que hayan sido publicadas de acuerdo con el artículo 15°.
+El Servicio mantendrá a disposición de los interesados, en su sitio de Internet, las circulares o resoluciones destinadas a ser conocidas por los contribuyentes en general y los oficios de la Dirección que den respuesta a las consultas sobre la aplicación e interpretación de las normas tributarias. Esta publicación comprenderá, a lo menos, las circulares, resoluciones y oficios emitidos en los últimos tres años.
+En caso que las circulares, dictámenes y demás documentos mencionados en el inciso 1° sean modificados, se presume de derecho que el contribuyente ha conocido tales modificaciones desde que hayan sido publicadas de acuerdo con el artículo 15°.
 
 Artículo 27.- Cuando deban considerarse
 NOTA:
@@ -343,7 +361,14 @@ Medios especiales de fiscalización
 ###### Párrafo 1°.
 Del examen y secreto de las declaraciones y de la facultad de tasar.
 
-Artículo 59.- Dentro de los plazos de prescripción, el Servicio podrá examinar y revisar las declaraciones presentadas por los contribuyentes.
+Artículo 59.- Dentro de los plazos de prescripción, el Servicio podrá examinar y revisar las declaraciones presentadas por los contribuyentes. Cuando se inicie una fiscalización mediante requerimiento de antecedentes que deberán ser presentados al Servicio por el contribuyente, se dispondrá del plazo fatal de nueve meses, contado desde que el funcionario a cargo de la fiscalización certifique que todos los antecedentes solicitados han sido puestos a su disposición para, alternativamente, citar para los efectos referidos en el artículo 63, liquidar o formular giros.
+El plazo señalado en el inciso anterior será de doce meses, en los siguientes casos:
+a) Cuando se efectúe una fiscalización en materia de precios de transferencia.
+b) Cuando se deba determinar la renta líquida imponible de contribuyentes con ventas o ingresos superiores a 5.000 unidades tributarias mensuales.
+c) Cuando se revisen los efectos tributarios de procesos de reorganización empresarial.
+d) Cuando se revise la contabilización de operaciones entre empresas relacionadas.
+No se aplicarán los plazos referidos en los incisos precedentes en los casos en que se requiera información a alguna autoridad extranjera ni en aquéllos relacionados con un proceso de recopilación de antecedentes a que se refiere el número 10 del artículo 161.
+El Servicio dispondrá de un plazo de doce meses, contado desde la fecha de la solicitud, para fiscalizar y resolver las peticiones de devolución relacionadas con absorciones de pérdidas.
 
 Artículo 60.- Con el objeto de verificar la exactitud de las declaraciones o de obtener información, el Servicio podrá examinar los inventarios, balances, libros de contabilidad y documentos del contribuyente, en todo lo que se relacione con los elementos que deban servir de base para la determinación del impuesto o con otros puntos que figuren o debieran figurar en la declaración. Con iguales fines podrá el Servicio examinar los libros y documentos de las personas obligadas a retener un impuesto.
 El Director Regional podrá disponer que los contribuyentes presenten, en los casos que así lo determine, un estado de situación. Podrá exigirse, además, que este estado de situación incluya el valor de costo y fecha de adquisición de los bienes que especifique el Director Regional.
