@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2009-12-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2010-03-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2009-12-02
-fetched_at: 2026-08-03T01:54:34.461877+00:00
+version_date: 2010-03-18
+fetched_at: 2026-08-03T01:57:21.639290+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2643,12 +2643,13 @@ Disposiciones generales.
 
 ART. 489.
 Están exentos de responsabilidad criminal y sujetos únicamente a la civil por los hurtos, defraudaciones o daños que recíprocamente se causaren:
-1.º Los parientes consanguíneos legítimos en toda la línea recta.
-2.º Los parientes consanguíneos legítimos hasta el segundo grado inclusive de la línea colateral.
-3.° Los parientes afines legítimos en toda la línea recta.
-4.° Los padres y los hijos naturales.
+1.º Los parientes consanguíneos en toda la línea recta.
+2.º Los parientes consanguíneos hasta el segundo grado inclusive de la línea colateral.
+3.° Los parientes afines en toda la línea recta.
+4.° Derogado.
 5.° Los cónyuges.
 La excepción de este artículo no es aplicable a los extraños que participaren del delito.
+Además, esta exención no será aplicable cuando la víctima sea una persona mayor de sesenta años.
 
 ### TÍTULO DÉCIMO.
 DE LOS CUASIDELITOS.
