@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2010-02-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2010-04-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2010-02-19
-fetched_at: 2026-08-03T01:57:09.635941+00:00
+version_date: 2010-04-30
+fetched_at: 2026-08-03T01:57:33.644600+00:00
 titulo_norma: "CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -115,9 +115,11 @@ Artículo 9.- Toda persona natural o jurídica que actúe por cuenta de un contr
 El Servicio aceptará la representación sin que se acompañe o pruebe el título correspondiente, pero podrá exigir la ratificación del representado o la prueba del vínculo dentro del plazo que él mismo determine, bajo apercibimiento de tener por no presentada la solicitud o por no practicada la actuación correspondiente.
 La persona que actúe ante el Servicio como administrador, representante o mandatario del contribuyente, se entenderá autorizada para ser notificada a nombre de éste mientras no haya constancia de la extinción del título de la representación mediante aviso por escrito dado por los interesados a la Oficina del Servicio que corresponda.
 
-Artículo 10.- Las actuaciones del Servicio deberán practicarse en días y horas hábiles, a menos que por la naturaleza de los actos fiscalizados deban realizarse en días u horas inhábiles.
-Los plazos de días que establece este Código se entenderán de días hábiles.
-Los plazos relacionados con las actuaciones del Servicio que venzan en días sábado o en día feriado, se entenderán prorrogados hasta el día hábil siguiente.
+Artículo 10.- Las actuaciones del Servicio deberán practicarse en días y horas hábiles, a menos que por la naturaleza de los actos fiscalizados deban realizarse en días u horas inhábiles. Para los fines de lo dispuesto en este inciso, se entenderá que son días hábiles los no feriados y horas hábiles, las que median entre las ocho y las veinte horas.
+Los plazos de días insertos en los procedimientos administrativos establecidos en este Código son de días hábiles, entendiéndose que son inhábiles los días sábado, domingo y festivos.
+Los plazos se computarán desde el día siguiente a aquél en que se notifique o publique el acto de que se trate o se produzca su estimación o su desestimación en virtud del silencio administrativo. Si en el mes de vencimiento no hubiere equivalente al día del mes en que comienza el cómputo, se entenderá que el plazo expira el último día de aquel mes.
+Cuando el último día de un plazo de mes o de año sea inhábil, éste se entenderá prorrogado al primer día hábil siguiente.
+Las presentaciones que deba hacer el contribuyente, que pendan de un plazo fatal, podrán ser entregadas hasta las 24 horas del último día del plazo respectivo en el domicilio de un funcionario habilitado especialmente al efecto. Para tales fines, los domicilios se encontrarán expuestos al público en un sitio destacado de cada oficina institucional.
 
 Artículo 11.- Toda notificación que el Servicio deba practicar se hará personalmente, por cédula o por carta certificada dirigida al domicilio del interesado, salvo que una disposición expresa ordene otra forma de notificación o que el interesado solicite para sí ser notificado por correo electrónico. En este último caso, la notificación se entenderá efectuada en la fecha del envío del correo electrónico, certificada por un ministro de fe. El correo contendrá una trascripción de la actuación del Servicio, incluyendo los datos necesarios para su acertada inteligencia, y será remitido a la dirección electrónica que indique el contribuyente, quien deberá mantenerla actualizada, informando sus modificaciones al Servicio en el plazo que determine la Dirección. Cualquier circunstancia ajena al Servicio por la que el contribuyente no reciba el correo electrónico, no anulará la notificación.
 La carta certificada mencionada en el inciso precedente podrá ser entregada por el funcionario de correos que corresponda, en el domicilio del notificado, a cualquiera persona adulta que se encuentre en él, debiendo ésta firmar el recibo respectivo.
@@ -270,6 +272,8 @@ Cuando el plazo de declaración y pago de un impuesto venza en día feriado, en 
 Asimismo, el Presidente de la República podrá ampliar el plazo para la presentación de documentos y antecedentes de carácter tributario exigidos por la ley o los reglamentos. Dicha facultad podrá ser delegada en el Director del Servicio de Impuestos Internos mediante decretos expedidos a través del Ministerio de Hacienda.
 El Director podrá ampliar el plazo de presentación de aquellas declaraciones que se realicen por sistemas tecnológicos y que no importen el pago de un impuesto, respetando el plazo de los contribuyentes con derecho a devolución de impuestos. En todo caso, la ampliación del plazo no podrá implicar atraso en la entrega de la información que deba proporcionarse a Tesorería.
 
+Artículo 36 bis.- Los contribuyentes que al efectuar su declaración incurrieren en errores que incidan en la cantidad de la suma a pagar, podrán efectuar una nueva declaración, antes que exista liquidación o giro del Servicio, corrigiendo las anomalías que presenta la declaración primitiva y pagando la diferencia resultante, aun cuando se encontraren vencidos los plazos legales, sin perjuicio de la aplicación de las sanciones y recargos que correspondan a las cantidades no ingresadas oportunamente y las sanciones previstas en los números 3 y 4 del artículo 97 de este Código, si fueren procedente.
+
 ##### Título III
 GIROS, PAGOS, REAJUSTES E INTERESES
 
@@ -277,8 +281,8 @@ GIROS, PAGOS, REAJUSTES E INTERESES
 De los giros y pagos
 
 Artículo 37.- Los tributos, reajustes, intereses y sanciones deberán ser ingresados al Fisco mediante giros que se efectuarán y procesarán por el Servicio, los cuales serán emitidos mediante roles u órdenes de ingreso, salvo los que deban pagarse por medio de timbres o estampillas; los giros no podrán ser complementados, rectificados, recalculados, actualizados o anulados sino por el organismo emisor, el cual será el único habilitado para emitir los duplicados o copias de los documentos mencionados precedentemente hasta que Tesorería inicie la cobranza administrativa o judicial. El Director dictará las normas administrativas que estime más convenientes para el correcto y expedito giro de los impuestos. Si estas normas alteraren el método de trabajo de las tesorerías o impusieren a éstas una nueva obligación, deberán ser aprobadas por el Ministro de Hacienda.
-Facúltase al Servicio de Impuestos Internos para aproximar a diez centavos la determinación y/o giro de los impuestos, reajustes, derechos, intereses, multas y recargos, despreciándose las fracciones inferiores a cinco centavos y elevándose a diez centavos las iguales o mayores a dicha cantidad.
-Asimismo, facúltase al Servicio para omitir el giro de órdenes de ingresos y/o roles de cobro por sumas inferiores a un 10% de una unidad tributaria mensual, en total. En estos casos se podrá proceder a la acumulación hasta por un semestre calendario de los giros inferiores al porcentaje señalado, respecto de un mismo tipo de impuesto, considerándose para los efectos de la aplicación de intereses, multas y recargos, como impuestos correspondientes al último período que se reclame y/o gire.
+Facúltase al Servicio de Impuestos Internos para aproximar a pesos la determinación y, o giro de los impuestos, reajustes, derechos, intereses, multas y recargos, despreciándose las cifras inferiores a cincuenta centavos, y elevándose las iguales o mayores a esta suma al entero superior.
+Asimismo, facúltase al Servicio para omitir el giro de órdenes de ingreso y/o roles de cobro por sumas inferiores a un 10% de una unidad tributaria mensual, en total. En estos casos se podrá proceder a la acumulación hasta por un semestre calendario de los giros inferiores al porcentaje señalado, respecto de un mismo tipo de impuesto, considerándose para los efectos de la aplicación de intereses, multas y recargos, como impuestos correspondientes al último período que se reclame y/o gire.
 Del mismo modo y con los mismos efectos señalados en el inciso anterior, en los casos en que rija el sistema de declaración y pago simultáneo, los contribuyentes podrán acumular hasta por un semestre calendario los impuestos cuyo monto sea inferior a un 10% de una unidad tributaria mensual, respecto del total de impuestos que deban pagarse simultáneamente en una misma oportunidad.
 
 Artículo 38.- El pago de los impuestos se hará en Tesorería, en moneda nacional o extranjera, según corresponda de acuerdo a lo dispuesto en el artículo 18, por medio de dinero efectivo, vale vista, letra bancaria o cheque; el pago se acreditará con el correspondiente recibo, a menos que se trate de impuestos que deban solucionarse por medio de estampillas, papel sellado u otras especies valoradas.
@@ -301,7 +305,7 @@ Artículo 43.- La Dirección Regional estará obligada a comunicar con un mes de
 Artículo 44.- En la misma época señalada en el artículo 43, el Servicio remitirá a los contribuyentes un aviso que contenga el nombre del propietario, la ubicación o nombre del bien raíz, el número del rol que corresponda, y el monto del avalúo imponible y del impuesto.
 Estos avisos se remitirán a la dirección correspondiente al inmueble que motiva el impuesto o al domicilio que para estos efectos el propietario haya registrado en el Servicio y, a falta de éste, al domicilio del propietario que figure registrado en el Servicio.
 
-Artículo 45.- El Servicio deberá comunicar al contribuyente el monto de los impuestos a la renta que deban pagarse previa declaración, cuando sea necesaria la confección de roles de pago. La comunicación se enviará con un mes de anticipación, a lo menos, a la fecha inicial del período en que deba efectuarse el pago, por medio de carta certificada dirigida al domicilio indicado en la declaración o en la forma que el Servicio determine.
+Artículo 45.- Derogado.
 
 Artículo 46.- La falta de publicación de los avisos indicados en los artículos anteriores o el extravío de ellos en el caso de los artículos 44 y 45, no liberará al contribuyente del oportuno cumplimiento de sus obligaciones.
 
@@ -416,7 +420,7 @@ Las disposiciones del artículo 62 y de este artículo no restringirán las dem�
 
 Artículo 63.- El Servicio hará uso de todos los medios legales para comprobar la exactitud de las declaraciones presentadas por los contribuyentes y para obtener las informaciones y antecedentes relativos a los impuestos que se adeuden o pudieren adeudarse.
 El Jefe de la Oficina respectiva del Servicio podrá citar al contribuyente para que, dentro del plazo de un mes, presente una declaración o rectifique, aclare, amplíe o confirme la anterior. Sin embargo, dicha citación deberá practicarse en los casos en que la ley la establezca como trámite previo. A solicitud del interesado dicho funcionario podrá ampliar este plazo, por una sola vez, hasta por un mes. Esta facultad podrá ser delegada en otros jefes de las respectivas oficinas.
-La citación producirá el efecto de aumentar los plazos de prescripción en los términos del inciso 3° del artículo 200 respecto de los impuestos derivados de las operaciones que se indiquen determinadamente en ella.
+La citación producirá el efecto de aumentar los plazos de prescripción en los términos del inciso 4° del artículo 200 respecto de los impuestos derivados de las operaciones que se indiquen determinadamente en ella.
 
 Artículo 64.- El Servicio podrá tasar la base imponible, con los antecedentes que tenga en su poder, en caso que el contribuyente no concurriere a la citación que se le hiciere de acuerdo con el artículo 63° o no contestare o no cumpliere las exigencias que se le formulen, o al cumplir con ellas no subsanare las deficiencias comprobadas o que en definitiva se comprueben.
 Asimismo, el Servicio podrá proceder a la tasación de la base imponible de los impuestos, en los casos del inciso 2° del artículo 21 y del artículo 22.
@@ -426,8 +430,8 @@ Tampoco se aplicará lo dispuesto en este artículo, cuando se trate del aporte,
 En igual forma, en todos aquellos casos en que proceda aplicar impuestos cuya determinación se basa en el precio o valor de bienes raíces, el Servicio de Impuestos Internos podrá tasar dicho precio o valor, si el fijado en el respectivo acto o contrato fuere notoriamente inferior al valor comercial de los inmuebles de características y ubicación similares, en la localidad respectiva, y girar de inmediato y sin otro trámite previo el impuesto correspondiente. De la tasación y giro sólo podrá reclamarse simultáneamente dentro del plazo de 60 días contado desde la fecha de la notificación de este último.
 La reclamación que se deduzca se sujetará al procedimiento general establecido en el Título II del Libro III de este Código.
 
-Artículo 65.- En los casos a que se refiere el número 4° del artículo 97°, el Servicio tasará de oficio y para todos los efectos tributarios el monto de las ventas u operaciones gravadas sobre las cuales deberá pagarse el impuesto y las multas. Para estos efectos se presume que el monto de las ventas y demás operaciones gravadas no podrá ser inferior, en un período determinado, al monto de las compras efectuadas y de las existencias iniciales, descontándose las existencias en poder del contribuyente y agregando las utilidades fijadas por los organismos estatales, tratándose de precios controlados, o las que determine el Servicio, en los demás casos.
-Se presume que en el caso del aviso o detección de la pérdida o inutilización de los libros de contabilidad o documentos a que se refiere el inciso segundo del N° 16 del artículo 97, la base imponible de los impuestos de la Ley de la Renta será la que resulte de aplicar sobre el monto de las ventas anuales hasta el porcentaje máximo de utilidad tributaria que hayan obtenido las empresas análogas y similares. El porcentaje máximo aludido será determinado por el Servicio de Impuestos Internos, con los antecedentes de que disponga.
+Artículo 65.- En los casos a que se refiere el número 4° del artículo 97, el Servicio tasará de oficio y para todos los efectos tributarios el monto de las ventas u operaciones gravadas sobre las cuales deberá pagarse el impuesto y las multas. Para estos efectos se presume que el monto de las ventas y demás operaciones gravadas no podrá ser inferior, en un período determinado, al monto de las compras efectuadas y de las existencias iniciales, descontándose las existencias en poder del contribuyente y agregando las utilidades fijadas por los organismos estatales, tratándose de precios controlados, o las que determine el Servicio, en los demás casos.
+Se presume que en el caso del aviso o detección de la pérdida o inutilización de los libros de contabilidad o documentos a que se refiere el inciso primero del N° 16 del artículo 97, la base imponible de los impuestos de la Ley de la Renta será la que resulte de aplicar sobre el monto de las ventas anuales hasta el porcentaje máximo de utilidad tributaria que hayan obtenido las empresas análogas y similares. El porcentaje máximo aludido será determinado por el Servicio de Impuestos Internos con los antecedentes de que disponga.
 
 ###### Párrafo 2°.
 Del Rol Unico Tributario y de los avisos inicial y de término
@@ -476,14 +480,12 @@ Los arrendadores o cedentes que no den cumplimiento a la obligación contemplada
 
 Artículo 76.- Los notarios titulares, suplentes o interinos comunicarán al Servicio todos los contratos otorgados ante ellos que se refieran a transferencia de bienes, hipotecas y otros asuntos que sean susceptibles de revelar la renta de cada contribuyente. Todos los funcionarios encargados de registros públicos comunicarán igualmente al Servicio los contratos que les sean presentados para su inscripción. Dichas comunicaciones serán enviadas a más tardar el 1° de Marzo de cada año y en ellas se relacionarán los contratos otorgados o inscritos durante el año anterior.
 
-Artículo 77.- Para los efectos de dar cumplimiento a las obligaciones tributarias de la Ley de Impuestos de Timbres, Estampillas y Papel Sellado, los tesoreros fiscales, los notarios públicos, los conservadores de bienes raíces y los secretarios de juzgados, deberán enviar al Servicio, dentro de los diez primeros días de cada mes, un estado que contenga los datos que se establecen en el reglamento de dicha ley.
+Artículo 77.- Derogado.
 
 Artículo 78.- Los notarios estarán obligados a vigilar el pago de los tributos que corresponda aplicar en conformidad a la Ley de Timbres y Estampillas, respecto de las escrituras y documentos que autoricen, o documentos que protocolicen, y responderán solidariamente con los obligados al pago del impuesto. Para este efecto, el notario firmará la declaración del impuesto, conjuntamente con el obligado a su pago.
 Cesará dicha responsabilidad si el impuesto hubiere sido enterado en Tesorería, de acuerdo con la determinación efectuada por la justicia ordinaria conforme a lo dispuesto en el artículo 158.
 
-Artículo 79.- Los jueces de letras y los jueces de árbitros deberán vigilar el pago de los impuestos establecidos en la Ley de Timbres, Estampillas y Papel Sellado, en los juicios de que conocieren.
-Los secretarios deberán dar cuenta especial de toda infracción que notaren en los escritos y documentos presentados a la causa.
-Antes de hacer relación de una causa, el relator deberá dar cuenta al tribunal de haberse pagado debidamente los impuestos establecidos en esa ley, y en caso que notare alguna infracción, el tribunal amonestará al juez de la causa, y ordenará que el secretario de primera instancia entere dentro del plazo que señale el valor de la multa correspondiente. Se dejará testimonio en el proceso de la cuenta dada por el relator y de la resolución del tribunal.
+Artículo 79.- Derogado.
 
 Artículo 80.- Los alcaldes, tesoreros municipales y demás funcionarios locales estarán obligados a proporcionar al Servicio las informaciones que les sean solicitadas en relación a patentes concedidas a contribuyentes, a rentas de personas residentes en la comuna respectiva, o a bienes situados en su territorio.
 
@@ -760,7 +762,7 @@ Artículo 127.- Cuando el Servicio proceda a reliquidar un impuesto, el interesa
 Se entenderá por período reliquidado para el efecto del inciso anterior, el conjunto de todos los años tributarios o de todo el espacio de tiempo que comprenda la revisión practicada por el Servicio.
 La reclamación del contribuyente en que haga uso del derecho que le confiere el inciso 1° no dará lugar, en caso alguno, a devolución de impuestos, sino que a la compensación de las cantidades que se determinen en su contra.
 
-Artículo 128.- Las sumas que un contribuyente haya trasladado o recargado indebidamente o en exceso, por concepto de impuestos, deberán ser enteradas en arcas fiscales, no pudiendo solicitarse su devolución sino en los casos en que se acredite fehacientemente, a juicio exclusivo del Director Regional de Impuestos Internos, haberse restituido dichas sumas a las personas que efectivamente soportaron el gravamen indebido.
+Artículo 128.- Las sumas que un contribuyente haya trasladado o recargado indebidamente o en exceso, por concepto de impuestos, deberán ser enteradas en arcas fiscales, no pudiendo disponerse su devolución sino en los casos en que se acredite fehacientemente, a juicio exclusivo del Director Regional de Impuestos Internos, haberse restituido dichas sumas a las personas que efectivamente soportaron el gravamen indebido.
 
 Artículo 129.- En las reclamaciones a que se refiere el presente Título, sólo podrán actuar los contribuyentes por sí o por medio de sus representantes legales o mandatarios.
 
