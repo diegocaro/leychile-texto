@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2010-02-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2010-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2010-02-13
-fetched_at: 2026-08-03T01:56:52.045456+00:00
+version_date: 2010-10-01
+fetched_at: 2026-08-03T01:57:45.649076+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -140,7 +140,7 @@ Se exceptúa de esta disposición el empleador que no ocupa más de veinticinco 
 
 Art. 20. Para computar la proporción a que se refiere el artículo anterior, se seguirán las reglas que a continuación se expresan:
 1.- se tomará en cuenta el número total de trabajadores que un empleador ocupe dentro del territorio nacional y no el de las distintas sucursales separadamente;
-2.- se excluirá al personal técnico especialista que no pueda ser reemplazado por personal nacional;
+2.- se excluirá al personal técnico especialista;
 3.- se tendrá como chileno al extranjero cuyo cónyuge o sus hijos sean chilenos o que sea viudo o viuda de cónyuge chileno, y
 4.- se considerará también como chilenos a los extranjeros residentes por más de cinco años en el país, sin tomarse en cuenta las ausencias accidentales.
 
