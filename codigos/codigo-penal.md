@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2010-03-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2010-12-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2010-03-18
-fetched_at: 2026-08-03T01:57:21.639290+00:00
+version_date: 2010-12-18
+fetched_at: 2026-08-03T01:57:57.654579+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -92,7 +92,11 @@ Tercera.-Que no haya otro medio practicable y menos perjudicial para impedirlo.
 8.° El que con ocasión de ejecutar un acto lícito, con la debida diligencia, causa un mal por mero accidente.
 9.° El que obra violentado por una fuerza irresistible o impulsado por un miedo insuperable.
 10.° El que obra en cumplimiento de un deber o en el ejercicio legítimo de un derecho, autoridad, oficio o cargo.
-11.° Derogado.
+11.° El que obra para evitar un mal grave para su persona o derecho o los de un tercero, siempre que concurran las circunstancias siguientes:
+1ª. Actualidad o inminencia del mal que se trata de evitar.
+2ª. Que no exista otro medio practicable y menos perjudicial para evitarlo.
+3ª. Que el mal causado no sea sustancialmente superior al que se evita.
+4ª. Que el sacrificio del bien amenazado por el mal no pueda ser razonablemente exigido al que lo aparta de sí o, en su caso, a aquel de quien se lo aparta siempre que ello estuviese o pudiese estar en conocimiento del que actúa.
 12.° El que incurre en alguna omisión, hallándose impedido por causa legítima o insuperable.
 13.° El que cometiere un cuasidelito, salvo en los casos expresamente penados por la ley.
 
@@ -1936,7 +1940,7 @@ ART. 361.
 La violación será castigada con la pena de presidio mayor en su grado mínimo a medio.
 Comete violación el que accede carnalmente, por vía vaginal, anal o bucal, a una persona mayor de catorce años, en alguno de los casos siguientes:
 1º Cuando se usa de fuerza o intimidación.
-2º Cuando la víctima se halla privada de sentido, o cuando se aprovecha su incapacidad para oponer resistencia.
+2º Cuando la víctima se halla privada de sentido, o cuando se aprovecha su incapacidad para oponerse.
 3º Cuando se abusa de la enajenación o trastorno mental de la víctima.
 
 ART. 362.
@@ -2002,6 +2006,11 @@ Si los delitos previstos en los dos párrafos anteriores hubieren sido cometidos
 Exceptúanse los casos en que el delito sea de aquellos que la ley describe y pena expresando las circunstancias de usarse fuerza o intimidación, abusarse de una relación de dependencia de la víctima o abusarse de autoridad o confianza.
 
 ART. 368 bis.
+Sin perjuicio de lo dispuesto en el artículo 63, en los delitos señalados en los párrafos 5 y 6 de este Título, serán circunstancias agravantes las siguientes:
+1º La 1ª del artículo 12.
+2º Ser dos o más los autores del delito.
+
+ART. 368 ter.
 Cuando, en la comisión de los delitos señalados en los artículos 366 quáter, 366 quinquies, 367, 367 ter o 374 bis se utilizaren establecimientos o locales, a sabiendas de su propietario o encargado, o no pudiendo éste menos que saberlo, podrá decretarse en la sentencia su clausura definitiva.
 Asimismo, durante el proceso judicial respectivo, podrá decretarse, como medida cautelar, la clausura temporal de dichos establecimientos o locales.
 
@@ -2009,9 +2018,7 @@ ART. 369.
 No se puede proceder por causa de los delitos previstos en los artículos 361 a 366 quáter, sin que, a lo menos, se haya denunciado el hecho a la justicia, al Ministerio Público o a la policía por la persona ofendida o por su representante legal.
 Si la persona ofendida no pudiere libremente hacer por sí misma la denuncia, ni tuviere representante legal, o si, teniéndolo, estuviere imposibilitado o implicado en el delito, podrá procederse de oficio por el Ministerio Público, que también estará facultado para deducir las acciones civiles a que se refiere el artículo 370. Sin perjuicio de lo anterior, cualquier persona que tome conocimiento del hecho podrá denunciarlo.
 Con todo, tratándose de víctimas menores de edad, se estará a lo dispuesto en el inciso segundo del artículo 53 del Código Procesal Penal.
-En caso de que un cónyuge o conviviente cometiere alguno de los delitos previstos en los artículos 361 y 366 Nº1 en contra de aquél con quien hace vida en común, se aplicarán las siguientes reglas:
-1ª Si sólo concurriere alguna de las circunstancias de los numerandos 2º ó 3º del artículo 361, no se dará curso al procedimiento o se dictará sobreseimiento definitivo, a menos que la imposición o ejecución de la pena fuere necesaria en atención a la gravedad de la ofensa infligida.
-2ª Cualquiera sea la circunstancia bajo la cual se perpetre el delito, a requerimiento del ofendido se pondrá término al procedimiento, a menos que el juez no lo acepte por motivos fundados.
+En caso de que un cónyuge o conviviente cometa alguno de los delitos establecidos en los párrafos 5 y 6 de este Título en contra de aquél con quien hace vida común, se podrá poner término al proceso a requerimiento del ofendido, a menos que el juez, por motivos fundados, no acepte.
 
 ART. 369 bis.
 En los procesos por los delitos a que se refieren los dos párrafos anteriores, el juez apreciará la prueba conforme con las reglas de la sana crítica.
@@ -2029,7 +2036,7 @@ ART. 370.
 Además de la indemnización que corresponda conforme a las reglas generales, el condenado por los delitos previstos en los artículos 361 a 366 bis será obligado a dar alimentos cuando proceda de acuerdo a las normas del Código Civil.
 
 ART. 370 bis.
-El que fuere condenado por alguno de los delitos a que se refieren los dos párrafos anteriores cometido en la persona de un menor del que sea pariente, quedará privado de la patria potestad si la tuviere o inhabilitado para obtenerla si no la tuviere y, además, de todos los derechos que por el ministerio de la ley se le confirieren respecto de la persona y bienes del ofendido, de sus ascendientes y descendientes. El juez así lo declarará en la sentencia, decretará la emancipación del menor si correspondiere, y ordenará dejar constancia de ello mediante subinscripción practicada al margen de la inscripción de nacimiento del menor.
+El que fuere condenado por alguno de los delitos a que se refieren los dos párrafos anteriores cometido en la persona de un menor del que sea pariente, quedará privado de la patria potestad si la tuviere o inhabilitado para obtenerla si no la tuviere y, además, de todos los derechos que por el ministerio de la ley se le confirieren respecto de la persona y bienes del ofendido, de sus ascendientes y descendientes. El juez así lo declarará en la sentencia, decretará la emancipación del menor si correspondiere, y ordenará dejar constancia de ello mediante subinscripción practicada al margen de la inscripción de nacimiento del menor. Además, si el condenado es una de las personas llamadas por ley a dar su autorización para que la víctima salga del país, se prescindirá en lo sucesivo de aquélla.
 El pariente condenado conservará, en cambio, todas las obligaciones legales cuyo cumplimiento vaya en beneficio de la víctima o de sus descendientes.
 
 ART. 371.
@@ -2115,7 +2122,8 @@ CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS.
 Del homicidio.
 
 ART. 390.
-El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, a cualquier otro de sus ascendientes o descendientes o a su cónyuge o conviviente, será castigado, como parricida, con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, a cualquier otro de sus ascendientes o descendientes o a quien es o ha sido su cónyuge o su conviviente, será castigado, como parricida, con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+Si la víctima del delito descrito en el inciso precedente es o ha sido la cónyuge o la conviviente de su autor, el delito tendrá el nombre de femicidio.
 
 ART.391.
 El que mate a otro Y no esté comprendido en el artículo anterior, será penado:
@@ -2648,7 +2656,7 @@ Están exentos de responsabilidad criminal y sujetos únicamente a la civil por 
 3.° Los parientes afines en toda la línea recta.
 4.° Derogado.
 5.° Los cónyuges.
-La excepción de este artículo no es aplicable a los extraños que participaren del delito.
+La excepción de este artículo no es aplicable a los extraños que participaren del delito, ni tampoco entre cónyuges cuando se trate de los delitos de daños indicados en el párrafo anterior.
 Además, esta exención no será aplicable cuando la víctima sea una persona mayor de sesenta años.
 
 ### TÍTULO DÉCIMO.
