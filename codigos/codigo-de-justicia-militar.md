@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2009-07-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2010-12-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 2009-07-18
-fetched_at: 2026-08-03T01:52:27.600713+00:00
+version_date: 2010-12-30
+fetched_at: 2026-08-03T01:58:23.213434+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -40,28 +40,35 @@ comisiones del servicio;
 Art. 4° Son aplicables a los Tribunales Militares las disposiciones de los artículos 7° a 9°, 11 a 13, 108 a 112, 319 inciso 1°, 320, 324, 325, 326 inciso 1° y 327 a 331 del Código Orgánico de Tribunales.
 
 Art. 5° Corresponde a la jurisdicción militar el conocimiento:
-1° De las causas por delitos militares, entendiéndose por tales los contemplados en este Código, excepto aquéllos a que dieren lugar los delitos cometidos por civiles previstos en los artículos 284
-NOTA: 2
-y 417, cuyo conocimiento corresponderá en todo caso a la justicia ordinaria, y también de las causas que leyes especiales sometan al conocimiento de los tribunales militares.
+1° De las causas por delitos militares, entendiéndose por tales los contemplados en este Código, excepto aquéllos a que dieren lugar los delitos cometidos por civiles previstos en los artículos 284 y 417, cuyo conocimiento
+NOTA
+corresponderá en todo caso a la justicia ordinaria, y
+NOTA 1
+también de las causas que leyes especiales sometan al conocimiento de los tribunales militares.
 Conocerán también de las causas por infracciones contempladas en el Código Aeronáutico, en el decreto ley N° 2.306, de 1978, sobre Reclutamiento y Movilización y en la ley N° 18.953, sobre Movilización, aun cuando los agentes fueren exclusivamente civiles.
 2° De los asuntos y causas expresados en los números 1° a 4° de la segunda parte del artículo 3°;
 3° De las causas por delitos comunes cometidos por militares durante el estado de guerra, estando en campaña, en acto del servicio militar o con ocasión de él, en los cuarteles, campamentos, vivaques, fortalezas, obras militares, almacenes, oficinas, dependencias, fundiciones, maestranzas, fábricas, parques, academias, escuelas, embarcaciones, arsenales, faros y demás recintos militares o policiales o establecimientos o dependencias de las Instituciones Armadas;
 4° De las acciones civiles que nazcan de los delitos enumerados en los números 1° a 3°, para obtener la restitución de la cosa o su valor.
-NOTA: 2
-Véanse el artículo 87 del Decreto Ley N° 2.306, de 12 de Septiembre de 1978, sobre Reclutamiento; 18 de la Ley N° 17.798, de 21 de Octubre de 1972, sobre Control de Armas; 26 de la Ley N° 12927, de 6 de Agosto de 1958, sobre Seguridad del Estado, modificado por el artículo 4° letra e) del Decreto Ley N° 5, de 22 de Septiembre de 1973; 6° del Decreto Ley N° 77, de 13 de Octubre de 1973, que declara ilícitos y disueltos los partidos políticos que señala; 4° del Decreto Ley N° 81, de 13 de Octubre de 1973, que sanciona el desobedecimiento al llamamiento público; 3° del Decreto Ley N° 604, de 10 de Agosto de 1974, que prohíbe el ingreso al territorio nacional de determinadas personas; 7°, 8° y 9° del Decreto Ley N° 640, de 10 de Septiembre de 1974, que sistematiza disposiciones relativas a Regímenes de Emergencia; 4° del Decreto Ley N° 1.009, de 8 de Mayo de 1975, que sistematiza normas sobre protección jurídica de los derechos procesales de los detenidos, 33 del Decreto Ley N° 425 (secreto), sobre Movilización Nacional, ordenado publicar en parte, por el Decreto Ley N° 1.629 (secreto) y que aparece en el Diario Oficial de 22 de Julio de 1977, y artículo único del Decreto Ley N° 3.655, de 17 de Marzo de 1981.
+NOTA
+Véanse el artículo 87 del Decreto Ley 2306, Defensa, publicado el 12.09.1978, sobre Reclutamiento; 18 de la Ley 17798, publicada el 21.10.1972, sobre Control de Armas; 26 de la Ley 12927, publicada el 06.08.1958, sobre Seguridad del Estado; 7°, 8° y 9° del Decreto Ley 640, Justicia, publicado el 10.09.1974, que sistematiza disposiciones relativas a Regímenes de Emergencia; 33 del Decreto Ley 425 (reservado), sobre Movilización Nacional, ordenado publicar en parte, por el Decreto Ley N° 1629 (reservado), publicado el 22.07.1977.
+NOTA 1
+El Art. 1° de la Ley 20477, publicada el 30.12.2010, dispone que "en ningún caso, los civiles y los menores de edad estarán sujetos a la competencia de los tribunales militares. Ésta siempre se radicará en los tribunales ordinarios con competencia en materia penal".
 
-Art. 6° Para los efectos de este Código, se considerarán militares los que se encuentren comprendidos en las leyes de planta o dotación del Ejército, Armada, Fuerza Aérea y Carabineros; los alumnos que efectúan los dos últimos años de estudios en las Escuelas Matrices para Oficiales de las Fuerzas Armadas, y los aspirantes a Oficiales que integran los cursos de la Escuela de Carabineros; los Oficiales de Reclutamiento; los conscriptos; los miembros de las Fuerzas Armadas desde que sean llamados al servicio; las personas que las sigan en campaña en el estado de guerra; y los prisioneros de guerra.
+Art. 6° Para los efectos de este Código y de las demás leyes procesales y penales pertinentes, se considerarán militares los funcionarios pertenecientes a las Fuerzas Armadas y de Carabineros de Chile, constituidos por el personal de planta, personal llamado al servicio y el personal de reserva llamado al servicio activo.
+Además, se considerarán militares los soldados conscriptos; los Oficiales de Reclutamiento; las personas que sigan a las Fuerzas Armadas en estado de guerra; los prisioneros de guerra, que revistan el carácter de militar, los cadetes, grumetes, aprendices y alumnos regulares de las Escuelas Institucionales y de Carabineros de Chile.
+Con todo, los menores de edad siempre estarán sujetos a la competencia de los tribunales ordinarios, de acuerdo a las disposiciones de la ley N° 20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal.
+Para efectos de determinar la competencia de los tribunales militares, la calidad de militar debe poseerse al momento de comisión del delito.
 
-Art. 7° Los cadetes, grumetes, aprendices y alumnos regulares de las Escuelas Institucionales y los empleados civiles de las Fuerzas Armadas y de Carabineros de Chile que se encuentren en los casos considerados en el N° 3 del artículo 5; quedarán comprendidos en la jurisdicción militar.
+Art. 7° DEROGADO.
 
 Art. 8° Derogado.
 
 Art. 9° No obstante lo dispuesto en los artículos precedentes, serán juzgados por los tribunales ordinarios, los militares que se hicieren procesados de delitos comunes cometidos en el ejercicio de funciones propias de un destino público civil.
-Corresponderá conocer de los delitos cometidos por civiles en una nave militar en la alta mar al juzgado en lo criminal competente del primer puerto nacional de arribada, excepto el caso de que sean de competencia de los tribunales militares. Si el delito fuere cometido por un civil en una aeronave en vuelo, conocerá de ese delito el juzgado en lo criminal competente en el primer aeropuerto nacional en que aquélla aterrice, excepto el caso de que sea de competencia de los tribunales militares.
+Corresponderá conocer de los delitos cometidos por civiles en una nave militar en la alta mar al juzgado en lo criminal competente del primer puerto nacional de arribada. Si el delito fuere cometido por un civil en una aeronave en vuelo, conocerá de ese delito el juzgado en lo criminal competente en el primer aeropuerto nacional en que aquélla aterrice.
 
 Art. 10. Será competente para conocer de los delitos militares, el Juzgado Institucional que corresponda al cuerpo armado ofendido por el hecho descrito en la ley; y del delito común, el tribunal que corresponda a la institución a que pertenezca el sujeto activo del delito. En el caso de que fueran dos o más las instituciones ofendidas o si hubiere procesados pertenecientes a distintas instituciones militares, será competente el juzgado institucional que primero haya comenzado a instruir el proceso. Si no se supiere cuál fue ese tribunal, será competente el que designare el tribunal superior encargado de resolver las cuestiones de competencia entre los juzgados institucionales comprometidos en la causa.
 
-Art. 11. El Tribunal Militar tendrá jurisdicción para juzgar no sólo al autor de un delito de jurisdicción militar, sino también a los demás responsables de él, aunque no estén sujetos a fuero.
+Art. 11. El Tribunal Militar tendrá jurisdicción para juzgar no sólo al autor de un delito de jurisdicción militar, sino también a los demás responsables de él, en tanto revistan la calidad de militares.
 Tendrá, asimismo, jurisdicción para conocer de los delitos que sean conexos, aun cuando independientemente sean de jurisdicción común, salvo las excepciones legales.
 No se alterará la jurisdicción cuando el Tribunal Militar, al dictar el fallo, califique como delito común un hecho que se tuvo como delito militar durante la tramitación del proceso.
 

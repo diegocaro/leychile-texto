@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=2005-02-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=2010-12-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 30287
-version_date: 2005-02-16
-fetched_at: 2026-08-03T01:27:57.640944+00:00
+version_date: 2010-12-30
+fetched_at: 2026-08-03T01:58:11.205091+00:00
 titulo_norma: "APRUEBA CODIGO AERONAUTICO"
 compuesto: LEY-18916
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -820,7 +820,7 @@ Artículo 200.- El comandante de una aeronave en vuelo internacional que se desv
 En iguales penas se incurrirá cuando se volare en zonas prohibidas o restringidas.
 En caso de reincidencia podrá decretarse la cancelación definitiva de la licencia.
 
-Artículo 201.- Los procesos a que dieren lugar los delitos previstos en este código serán de competencia de los juzgados de Aviación y se sujetarán al procedimiento establecido en el libro II, títulos I, II, y III, del Código de Justicia Militar.
+Artículo 201.- Los procesos a que dieren lugar los delitos previstos en este código serán de competencia de los juzgados de Aviación y se sujetarán al procedimiento establecido en el libro II, títulos I, II, y III, del Código de Justicia Militar, a excepción de los delitos cuyos imputados sean civiles.
 
 Artículo 202.- Deróganse el decreto con fuerza de ley N° 221, del Ministerio del Interior (Aviación), de 1931, y el decreto ley N° 1.286, de 1975.
 

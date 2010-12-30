@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2009-10-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2010-12-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2009-10-30
-fetched_at: 2026-08-03T01:54:16.459944+00:00
+version_date: 2010-12-30
+fetched_at: 2026-08-03T01:58:29.218235+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -101,7 +101,7 @@ d) Conocer y fallar las faltas penales de conformidad con el procedimiento conte
 e) Conocer y fallar, conforme a los procedimientos regulados en el Título I del Libro IV del Código Procesal Penal, las faltas e infracciones contempladas en la Ley de Alcoholes, cualquiera sea la pena que ella les asigne;
 f) Hacer ejecutar las condenas criminales y las medidas de seguridad, y resolver las solicitudes y reclamos relativos a dicha ejecución, de conformidad a la ley procesal penal;
 g) Conocer y resolver todas las cuestiones y asuntos que la ley de responsabilidad penal juvenil les encomienden, y
-h) Conocer y resolver todas las cuestiones y asuntos que este Código y la ley procesal penal les encomienden.
+h) Conocer y resolver todas las cuestiones y asuntos que este Código, la ley procesal penal y la ley que establece disposiciones especiales sobre el Sistema de Justicia Militar les encomienden.
 
 Art. 15. La distribución de las causas entre los jueces de los juzgados de garantía se realizará de acuerdo a un procedimiento objetivo y general, que deberá ser anualmente aprobado por el comité de jueces del juzgado a propuesta del juez presidente, o sólo por este último, según corresponda.
 
@@ -227,7 +227,7 @@ a) Conocer y juzgar las causas por crimen o simple delito, salvo aquellas relati
 b) Resolver, en su caso, sobre la libertad o prisión preventiva de los acusados puestos a su disposición;
 c) Resolver todos los incidentes que se promuevan durante el juicio oral;
 d) Conocer y resolver todas las cuestiones y asuntos que la ley de responsabilidad penal juvenil les encomienden, y
-e) Conocer y resolver los demás asuntos que la ley procesal penal les encomiende.
+e) Conocer y resolver los demás asuntos que la ley procesal penal y la ley que establece disposiciones especiales sobre el Sistema de Justicia Militar les encomiende.
 
 Art. 19. Las decisiones de los tribunales de juicio oral en lo penal se regirán, en lo que no resulte contrario a las normas de este párrafo, por las reglas sobre acuerdos en las Cortes de Apelaciones contenidas en los artículos 72, 81, 83, 84 y 89 de este Código.
 Sólo podrán concurrir a las decisiones del tribunal los jueces que hubieren asistido a la totalidad de la audiencia del juicio oral.
@@ -1115,7 +1115,7 @@ Art. 167. Las competencias propias de los Jueces de Garantía y de los Tribunale
 
 Art. 168. Derogado.
 
-Art. 169. Si siendo muchos los responsables de un delito, hubiere entre ellos individuos sometidos a los tribunales militares y otros que no lo estén, el tribunal competente para juzgar a los que gozan de fuero juzgara también a todos los demás.
+Art. 169. Derogado.
 
 Art. 170. Derogado.
 
