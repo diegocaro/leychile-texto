@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2010-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2011-01-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2010-10-01
-fetched_at: 2026-08-03T01:57:45.649076+00:00
+version_date: 2011-01-04
+fetched_at: 2026-08-03T01:58:41.225281+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1527,7 +1527,7 @@ Estas disposiciones beneficiarán a todas las trabajadoras que dependan de cualq
 Ningún empleador podrá condicionar la contratación de trabajadoras, su permanencia o renovación de contrato, o la promoción o movilidad en su empleo, a la ausencia o existencia de embarazo, ni exigir para dichos fines certificado o examen alguno para verificar si se encuentra o no en estado de gravidez.
 
 Art. 195. Las trabajadoras tendrán derecho a un descanso de maternidad de seis semanas antes del parto y doce semanas después de él.
-El padre tendrá derecho a un permiso pagado de cinco días en caso de nacimiento de un hijo, el que podrá utilizar a su elección desde el momento del parto, y en este caso será de días corridos, o distribuirlo dentro del primer mes desde la fecha del nacimiento. Este permiso también se otorgará al padre o la madre, sin perjuicio de lo dispuesto en el inciso primero del artículo 200, que se le conceda la adopción de un hijo, contado desde la respectiva sentencia definitiva. Este derecho es irrenunciable.
+El padre tendrá derecho a un permiso pagado de cinco días en caso de nacimiento de un hijo, el que podrá utilizar a su elección desde el momento del parto, y en este caso será de forma continua, excluyendo el descanso semanal, o distribuirlo dentro del primer mes desde la fecha del nacimiento. Este permiso también se otorgará al padre o la madre, sin perjuicio de lo dispuesto en el inciso primero del artículo 200, que se le conceda la adopción de un hijo, contado desde la respectiva sentencia definitiva. Este derecho es irrenunciable.
 Si la madre muriera en el parto o durante el período del permiso posterior a éste, dicho permiso o el resto de él que sea destinado al cuidado del hijo, corresponderá al padre, quien gozará del fuero establecido en el artículo 201 de este Código y tendrá derecho al subsidio a que se refiere el artículo 198.
 El padre que sea privado por sentencia judicial del cuidado personal del menor, perderá el derecho a fuero establecido en el inciso anterior.
 Los derechos referidos en el inciso primero no podrán renunciarse y durante los períodos de descanso queda prohibido el trabajo de las mujeres embarazadas y puérperas.
