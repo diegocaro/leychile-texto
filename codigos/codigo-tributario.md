@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2010-04-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2011-01-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2010-04-30
-fetched_at: 2026-08-03T01:57:33.644600+00:00
+version_date: 2011-01-27
+fetched_at: 2026-08-03T02:50:01.573476+00:00
 titulo_norma: "CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -101,6 +101,10 @@ Artículo 8º bis.- Sin perjuicio de los derechos garantizados por la Constituci
 10° Derecho a plantear, en forma respetuosa y conveniente, sugerencias y quejas sobre las actuaciones de la Administración en que tenga interés o que le afecten.
 Los reclamos en contra de actos u omisiones del Servicio que vulneren cualquiera de los derechos de este artículo serán conocidos por el Juez Tributario y Aduanero, conforme al procedimiento del Párrafo 2º del Título III del Libro Tercero de este Código.
 En toda dependencia del Servicio de Impuestos Internos deberá exhibirse, en un lugar destacado y claramente visible al público, un cartel en el cual se consignen los derechos de los contribuyentes expresados en la enumeración contenida en el inciso primero.
+
+Artículo 8° quáter.- Los contribuyentes que hagan iniciación de actividades tendrán derecho a que el Servicio les timbre en forma inmediata tantas boletas de venta y guías de despacho como sean necesarias para el giro de los negocios o actividades declaradas por aquellos. Lo anterior se entenderá sin perjuicio de la facultad del Servicio de diferir por resolución fundada el timbraje de dichos documentos, hasta hacer la fiscalización correspondiente, en los casos en que exista causa grave justificada. Para estos efectos se considerarán causas graves las señaladas en el artículo anterior.
+Asimismo, sin perjuicio de lo dispuesto en el artículo 3° del decreto ley N° 825, sobre Impuesto a las Ventas y Servicios, los contribuyentes señalados en el inciso anterior tendrán derecho a requerir el timbraje inmediato de facturas cuando éstas no den derecho a crédito fiscal y facturas de inicio, las que deberán cumplir con los requisitos que el Servicio de Impuestos Internos establezca mediante resolución. Para estos efectos se entenderá por factura de inicio aquella que consta en papel y en la que el agente retenedor es el comprador o beneficiario de los bienes o servicios y que se otorga mientras el Servicio efectúa la fiscalización correspondiente del domicilio del contribuyente.
+Los contribuyentes a que se refiere el inciso primero que maliciosamente vendan o faciliten a cualquier título las facturas de inicio a que alude el inciso precedente con el fin de cometer alguno de los delitos previstos en el número 4° del artículo 97, serán sancionados con presidio menor en sus grados mínimo a medio y multa de hasta 20 unidades tributarias anuales.
 
 #### LIBRO PRIMERO
 DE LA ADMINISTRACION, FISCALIZACION Y PAGO
