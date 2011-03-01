@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2011-01-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2011-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2011-01-04
-fetched_at: 2026-08-03T01:58:41.225281+00:00
+version_date: 2011-03-01
+fetched_at: 2026-08-03T02:50:19.588843+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -791,17 +791,9 @@ b) Tendrán derecho a descanso todos los días que la ley declare festivos. No o
 Los días de descanso facultan a los trabajadores a no reiniciar sus labores hasta el comienzo de la jornada diaria siguiente.
 
 Art. 151. La remuneración de los trabajadores de casa particular se fijará de común acuerdo entre las partes, comprendiéndose además del pago en dinero efectivo, los alimentos y la habitación cuando los servicios requeridos exijan que el trabajador viva en la casa del empleador.
-Con
-NOTA
-todo, la
-NOTA 1
-remuneración mínima en dinero de los trabajadores de casa particular será equivalente al 75% del ingreso mínimo mensual.
+La remuneración mínima en dinero de los trabajadores de casa particular estará sujeta a lo previsto en el inciso tercero del artículo 44 de este Código.
 Los trabajadores que no vivan en la casa del empleador y se desempeñen a jornadas parciales o presten servicios sólo algunos días a la semana, tendrán derecho a una remuneración mínima no inferior a la referida en el inciso anterior, proporcionalmente calculada en relación con la jornada o con los días de trabajo.
 Las prestaciones de casa habitación y alimentación de los trabajadores de casa particular no serán imponibles para efectos previsionales.
-NOTA
-El artículo transitorio de la Ley 20279, publicada el 01.07.2008, establece que a contar del 1 de marzo de 2009 y hasta el 28 de febrero de 2010, el ingreso mínimo mensual para los trabajadores de casa particular será equivalente a 83% del ingreso mínimo mensual.
-NOTA 1
-El artículo transitorio de la Ley 20279, publicada el 01.07.2008, establece que a contar del 1 de marzo de 2010 y hasta el 28 de febrero de 2011, el ingreso mínimo mensual para los trabajadores de casa particular será equivalente a el 92% del ingreso mínimo mensual.
 
 Art. 152. En los casos de enfermedad del trabajador, el empleador deberá dar de inmediato aviso al organismo de seguridad social respectivo y estará además, obligado a conservarle el cargo, sin derecho a remuneración, por ocho días, si tuviera menos de seis meses de servicios; durante quince días, si hubiera servido más de un semestre y menos de un año, y por un período de hasta treinta días, si hubiera trabajado más de doce meses.
 Toda enfermedad contagiosa, clínicamente calificada, de una de las partes o de las personas que habiten la casa, da derecho a la otra parte para poner término al contrato.
