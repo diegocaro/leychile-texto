@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2011-01-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2011-03-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2011-01-27
-fetched_at: 2026-08-03T02:50:01.573476+00:00
+version_date: 2011-03-28
+fetched_at: 2026-08-03T02:50:59.642633+00:00
 titulo_norma: "CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -101,6 +101,15 @@ Artículo 8º bis.- Sin perjuicio de los derechos garantizados por la Constituci
 10° Derecho a plantear, en forma respetuosa y conveniente, sugerencias y quejas sobre las actuaciones de la Administración en que tenga interés o que le afecten.
 Los reclamos en contra de actos u omisiones del Servicio que vulneren cualquiera de los derechos de este artículo serán conocidos por el Juez Tributario y Aduanero, conforme al procedimiento del Párrafo 2º del Título III del Libro Tercero de este Código.
 En toda dependencia del Servicio de Impuestos Internos deberá exhibirse, en un lugar destacado y claramente visible al público, un cartel en el cual se consignen los derechos de los contribuyentes expresados en la enumeración contenida en el inciso primero.
+
+Artículo 8° ter.- Los contribuyentes que opten por la facturación electrónica tendrán derecho a que se les autorice en forma inmediata la emisión de los documentos tributarios electrónicos que sean necesarios para el desarrollo de su giro o actividad. Para ejercer esta opción deberá darse aviso al Servicio en la forma que éste determine.
+En el caso de los contribuyentes que soliciten por primera vez la emisión de dichos documentos, la autorización procederá previa entrega de una declaración jurada simple sobre la existencia de su domicilio y la efectividad de las instalaciones que permitan la actividad o giro declarado, en la forma en que disponga el Servicio de Impuestos Internos.
+Lo anterior es sin perjuicio del ejercicio de las facultades de fiscalización del Servicio de Impuestos Internos.
+Las autorizaciones otorgadas conforme a este artículo podrán ser diferidas, revocadas o restringidas por la Dirección del Servicio de Impuestos Internos, mediante resolución fundada, cuando a su juicio exista causa grave que lo justifique. Para estos efectos se considerarán causas graves, entre otras, las siguientes:
+a) Si de los antecedentes en poder del Servicio se acredita no ser verdadero el domicilio o no existir las instalaciones necesarias para el desarrollo de la actividad o giro declarado.
+b) Si el contribuyente tiene la condición de procesado o, en su caso, acusado conforme al Código Procesal Penal por delito tributario, o ha sido sancionado por este tipo de delitos, hasta el cumplimiento total de la pena.
+c) Si de los antecedentes en poder del Servicio se acredita algún impedimento legal para el ejercicio del giro solicitado.
+La presentación maliciosa de la declaración jurada a que se refiere el inciso segundo, conteniendo datos o antecedentes falsos, configurará la infracción prevista en el inciso primero del número 23 del artículo 97 y se sancionará con la pena allí asignada, la que se podrá aumentar hasta un grado atendida la gravedad de la conducta desplegada, y multa de hasta 10 unidades tributarias anuales.
 
 Artículo 8° quáter.- Los contribuyentes que hagan iniciación de actividades tendrán derecho a que el Servicio les timbre en forma inmediata tantas boletas de venta y guías de despacho como sean necesarias para el giro de los negocios o actividades declaradas por aquellos. Lo anterior se entenderá sin perjuicio de la facultad del Servicio de diferir por resolución fundada el timbraje de dichos documentos, hasta hacer la fiscalización correspondiente, en los casos en que exista causa grave justificada. Para estos efectos se considerarán causas graves las señaladas en el artículo anterior.
 Asimismo, sin perjuicio de lo dispuesto en el artículo 3° del decreto ley N° 825, sobre Impuesto a las Ventas y Servicios, los contribuyentes señalados en el inciso anterior tendrán derecho a requerir el timbraje inmediato de facturas cuando éstas no den derecho a crédito fiscal y facturas de inicio, las que deberán cumplir con los requisitos que el Servicio de Impuestos Internos establezca mediante resolución. Para estos efectos se entenderá por factura de inicio aquella que consta en papel y en la que el agente retenedor es el comprador o beneficiario de los bienes o servicios y que se otorga mientras el Servicio efectúa la fiscalización correspondiente del domicilio del contribuyente.
