@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2010-12-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2011-04-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2010-12-18
-fetched_at: 2026-08-03T01:57:57.654579+00:00
+version_date: 2011-04-08
+fetched_at: 2026-08-03T02:51:05.649922+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -599,6 +599,9 @@ El producto del trabajo de los condenados a presidio será destinado:
 
 ART. 89.
 Los condenados a reclusión y prisión son libres para ocuparse, en beneficio propio, en trabajos de su elección, siempre que sean compatibles con la disciplina reglamentaria del establecimiento penal; pero si afectándoles las responsabilidades de las reglas 1.° y 3.° del artículo anterior, carecieren de los medios necesarios para llenar los compromisos que ellas les imponen o no tuvieren oficio o modo de vivir conocido y honesto, estarán sujetos forzosamente a los trabajos del establecimiento hasta hacer efectivas con su producto aquellas responsabilidades y procurarse la subsistencia.
+
+ART. 89 bis.
+El Ministro de Justicia podrá disponer, de acuerdo con los tratados internacionales vigentes sobre la materia y ratificados por Chile, o sobre la base del principio de reciprocidad, que los extranjeros condenados por alguno de los delitos contemplados en los artículos 411 bis, 411 ter, 411 quáter y 411 quinquies, cumplan en el país de su nacionalidad las penas privativas de libertad que les hubieren sido impuestas.
 
 ### TÍTULO CUART0.
 DE LAS PENAS EN QUE INCURREN LOS QUE QUEBRANTAN LAS SENTENCIAS Y LOS QUE DURANTE UNA CONDENA DELINQUEN DE NUEVO.
@@ -1985,15 +1988,7 @@ ART. 367.
 El que promoviere o facilitare la prostitución de menores de edad para satisfacer los deseos de otro, sufrirá la pena de presidio menor en su grado máximo.
 Si concurriere habitualidad, abuso de autoridad o de confianza o engaño, se impondrán las penas de presidio mayor en cualquiera de sus grados y multa de treinta y una a treinta y cinco unidades tributarias mensuales.
 
-ART. 367 bis.
-El que promoviere o facilitare la entrada o salida de personas del país para que éstas ejerzan la prostitución en el territorio nacional o en el extranjero, será castigado con la pena de presidio menor en su grado máximo y multa de veinte a treinta unidades tributarias mensuales.
-Sin embargo, se impondrán las penas señaladas en el inciso segundo del artículo anterior en los siguientes casos:
-1.- Si la víctima es menor de edad.
-2.- Si se ejerce violencia o intimidación.
-3.- Si el agente actúa mediante engaño o con abuso de autoridad o confianza.
-4.- Si el autor fuere ascendiente, descendiente, cónyuge, conviviente, hermano, tutor, curador o encargado del cuidado personal de la víctima.
-5.- Si el agente se vale del estado de desamparo económico de la víctima.
-6.- Si existe habitualidad en la conducta del agente.
+ART. 367 bis. Derogado.
 
 ART. 367 ter.
 El que, a cambio de dinero u otras prestaciones de cualquier naturaleza, obtuviere servicios sexuales por parte de personas mayores de catorce pero menores de dieciocho años de edad, sin que medien las circunstancias de los delitos de violación o estupro, será castigado con presidio menor en su grado máximo.
@@ -2024,10 +2019,10 @@ ART. 369 bis.
 En los procesos por los delitos a que se refieren los dos párrafos anteriores, el juez apreciará la prueba conforme con las reglas de la sana crítica.
 
 ART. 369 ter.
-Cuando existieren sospechas fundadas de que una persona o una organización delictiva hubiere cometido o preparado la comisión de alguno de los delitos previstos en los artículos 366 quinquies, 367, 367 bis, 367 ter, 374 bis, inciso primero, y 374 ter, y la investigación lo hiciere imprescindible, el tribunal, a petición del Ministerio Público, podrá autorizar la interceptación o grabación de las telecomunicaciones de esa persona o de quienes integraren dicha organización, la fotografía, filmación u otros medios de reproducción de imágenes conducentes al esclarecimiento de los hechos y la grabación de comunicaciones. En lo demás, se estará íntegramente a lo dispuesto en los artículos 222 a 225 del Código Procesal Penal.
+Cuando existieren sospechas fundadas de que una persona o una organización delictiva hubiere cometido o preparado la comisión de alguno de los delitos previstos en los artículos 366 quinquies, 367, 367 ter, 374 bis, inciso primero, y 374 ter, y la investigación lo hiciere imprescindible, el tribunal, a petición del Ministerio Público, podrá autorizar la interceptación o grabación de las telecomunicaciones de esa persona o de quienes integraren dicha organización, la fotografía, filmación u otros medios de reproducción de imágenes conducentes al esclarecimiento de los hechos y la grabación de comunicaciones. En lo demás, se estará íntegramente a lo dispuesto en los artículos 222 a 225 del Código Procesal Penal.
 Igualmente, bajo los mismos supuestos previstos en el inciso precedente, podrá el tribunal, a petición del Ministerio Público, autorizar la intervención de agentes encubiertos. Mediando igual autorización y con el objeto exclusivo de facilitar la labor de estos agentes, los organismos policiales pertinentes podrán mantener un registro reservado de producciones del carácter investigado. Asimismo, podrán tener lugar entregas vigiladas de material respecto de la investigación de hechos que se instigaren o materializaren a través del intercambio de dichos elementos, en cualquier soporte.
 La actuación de los agentes encubiertos y las entregas vigiladas serán plenamente aplicables al caso en que la actuación de los agentes o el traslado o circulación de producciones se desarrolle a través de un sistema de telecomunicaciones.
-Los agentes encubiertos, el secreto de sus actuaciones, registros o documentos y las entregas vigiladas se regirán por las disposiciones de la ley Nº 19.366.
+Los agentes encubiertos, el secreto de sus actuaciones, registros o documentos y las entregas vigiladas se regirán por las disposiciones de la ley Nº 20.000.
 
 ART. 369 quáter.
 En los delitos previstos en los dos párrafos anteriores, el plazo de prescripción de la acción penal empezará a correr para el menor de edad que haya sido víctima, al momento que cumpla 18 años.
@@ -2224,6 +2219,41 @@ Los alimentos serán siempre congruos tratándose del ofendido, y la obligación
 
 ART. 411.
 Para los efectos del artículo anterior se entiende por familia todas las personas que tienen derecho a pedir alimentos al ofendido.
+
+#### § V bis.
+De los delitos de tráfico ilícito de migrantes y trata de personas
+
+ART. 411 bis.-
+Tráfico de migrantes. El que con ánimo de lucro facilite o promueva la entrada ilegal al país de una persona que no sea nacional o residente, será castigado con reclusión menor en su grado medio a máximo y multa de cincuenta a cien unidades tributarias mensuales.
+La pena señalada en el inciso anterior se aplicará en su grado máximo si se pusiere en peligro la integridad física o salud del afectado.
+Si se pusiere en peligro la vida del afectado o si éste fuere menor de edad, la pena señalada en el inciso anterior se aumentará en un grado.
+Las mismas penas de los incisos anteriores, junto con la de inhabilitación absoluta temporal para cargos u oficios públicos en su grado máximo, se impondrá si el hecho fuere ejecutado, aun sin ánimo de lucro, por un funcionario público en el desempeño de su cargo o abusando de él. Para estos efectos se estará a lo dispuesto en el artículo 260.
+
+ART. 411 ter.-
+El que promoviere o facilitare la entrada o salida del país de personas para que ejerzan la prostitución en el territorio nacional o en el extranjero, será castigado con la pena de reclusión menor en su grado máximo y multa de veinte unidades tributarias mensuales.
+
+ART. 411 quáter.-
+El que mediante violencia, intimidación, coacción, engaño, abuso de poder, aprovechamiento de una situación de vulnerabilidad o de dependencia de la víctima, o la concesión o recepción de pagos u otros beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra capte, traslade, acoja o reciba personas para que sean objeto de alguna forma de explotación sexual, incluyendo la pornografía, trabajos o servicios forzados, servidumbre o esclavitud o prácticas análogas a ésta, o extracción de órganos, será castigado con la pena de reclusión mayor en sus grados mínimo a medio y multa de cincuenta a cien unidades tributarias mensuales.
+Si la víctima fuere menor de edad, aun cuando no concurriere violencia, intimidación, coacción, engaño, abuso de poder, aprovechamiento de una situación de vulnerabilidad o de dependencia de la víctima, o la concesión o recepción de pagos u otros beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra, se impondrán las penas de reclusión mayor en su grado medio y multa de cincuenta a cien unidades tributarias mensuales.
+El que promueva, facilite o financie la ejecución de las conductas descritas en este artículo será sancionado como autor del delito.
+
+ART. 411 quinquies.-
+Los que se asociaren u organizaren con el objeto de cometer alguno de los delitos de este párrafo serán sancionados, por este solo hecho, conforme a lo dispuesto en los artículos 292 y siguientes de este Código.
+
+ART. 411 sexies.-
+El tribunal podrá reducir la pena en dos grados al imputado o acusado que prestare cooperación eficaz que conduzca al esclarecimiento de los hechos investigados o permita la identificación de sus responsables, o que sirva para prevenir o impedir la perpetración o consumación de igual o mayor gravedad.
+Se entiende por cooperación eficaz el suministro de datos o informaciones precisas, verídicas y comprobables, que contribuyan necesariamente a los fines señalados en el inciso primero.
+Si con ocasión de la investigación de otro hecho constitutivo de delito, el fiscal correspondiente necesita tomar conocimiento de los antecedentes proporcionados por el cooperador eficaz, deberá solicitarlos fundadamente. El fiscal requirente, para los efectos de efectuar la diligencia, deberá realizarla en presencia del fiscal ante quien se prestó la cooperación, debiendo este último previamente calificar su conveniencia. El superior jerárquico común dirimirá cualquier dificultad que surja con ocasión de dicha petición y de su cumplimiento.
+La reducción de pena se determinará con posterioridad a la individualización de la sanción penal según las circunstancias atenuantes o agravantes comunes que concurran; o de su compensación, de acuerdo con las reglas generales.
+
+ART. 411 septies.-
+Para los efectos de determinar la reincidencia del artículo 12, circunstancia 16ª en los delitos sancionados en este párrafo, se considerarán también las sentencias firmes dictadas en un Estado extranjero, aun cuando la pena impuesta no haya sido cumplida.
+
+Artículo 411 octies.-
+Previa autorización del juez de garantía competente, el fiscal podrá autorizar, en las investigaciones por los delitos previstos en el presente párrafo, que funcionarios policiales se desempeñen como agentes encubiertos y, a propuesta de dichos funcionarios, que determinados informantes de esos servicios actúen en esa calidad.
+Cuando existieren sospechas fundadas de que una persona o una organización delictiva hubiere cometido o preparado la comisión de alguno de los delitos indicados en este párrafo, y la investigación lo hiciere imprescindible, el tribunal, a petición del Ministerio Público, podrá autorizar la interceptación o grabación de las telecomunicaciones de esa persona o de quienes integraren dicha organización, la fotografía, filmación u otros medios de reproducción de imágenes conducentes al esclarecimiento de los hechos y la grabación de comunicaciones. En lo demás, se estará íntegramente a lo dispuesto en los artículos 222 a 225 del Código Procesal Penal.
+Estas técnicas podrán ser utilizadas por el fiscal sea que se trate de una persona, un grupo de personas o una organización delictiva que hubiere cometido o preparado la comisión de los delitos señalados en este artículo.
+En todo aquello no regulado por este artículo los agentes encubiertos e informantes se regirán por las disposiciones respectivas de la ley Nº 20.000.
 
 #### § VI
 De la calumnia.

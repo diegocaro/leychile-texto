@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2008-03-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2011-04-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2008-03-14
-fetched_at: 2026-08-03T01:46:34.017681+00:00
+version_date: 2011-04-08
+fetched_at: 2026-08-03T02:51:23.680162+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -308,6 +308,10 @@ b) Ordenar por sí mismos o solicitar al tribunal, en su caso, las medidas desti
 c) Informarle sobre su eventual derecho a indemnización y la forma de impetrarlo, y remitir los antecedentes, cuando correspondiere, al organismo del Estado que tuviere a su cargo la representación de la víctima en el ejercicio de las respectivas acciones civiles.
 d) Escuchar a la víctima antes de solicitar o resolver la suspensión del procedimiento o su terminación por cualquier causa.
 Si la víctima hubiere designado abogado, el ministerio público estará obligado a realizar también a su respecto las actividades señaladas en las letras a) y d) precedentes.
+
+Artículo 78 bis.- Protección de la integridad física y psicológica de las personas objeto del tráfico ilícito de migrantes y víctimas de trata de personas. El Ministerio Público adoptará las medidas necesarias, o las solicitará, en su caso, tendientes a asegurar la protección de las víctimas de estos delitos durante el proceso penal, teniendo presente la especial condición de vulnerabilidad que las afecta.
+Cuando se trate de menores de dieciocho años, los servicios públicos a cargo de la protección de la infancia y la adolescencia deberán facilitar su acceso a las prestaciones especializadas que requieran, especialmente, aquellas tendientes a su recuperación integral y a la revinculación familiar, si fuere procedente de acuerdo al interés superior del menor de edad.
+En los casos en que las víctimas de los delitos establecidos en los artículos 411 bis y 411 quáter del Código Penal carezcan de representante legal o cuando, por motivos fundados, el juez estime que los intereses de las personas menores de edad son independientes o contradictorios con los de aquel a quien corresponda representarlo, el juez le designará un curador ad litem de cualquier institución que se dedique a la defensa, promoción o protección de los derechos de la infancia.
 
 #### Párrafo 3º La policía
 
@@ -852,11 +856,11 @@ Artículo 197.- Exámenes corporales. Si fuere necesario para constatar circunst
 Si la persona que ha de ser objeto del examen, apercibida de sus derechos, consintiere en hacerlo, el fiscal o la policía ordenará que se practique sin más trámite. En caso de negarse, se solicitará la correspondiente autorización judicial, exponiéndose al juez las razones del rechazo.
 El juez de garantía autorizará la práctica de la diligencia siempre que se cumplieren las condiciones señaladas en el inciso primero.
 
-Artículo 198.- Exámenes médicos y pruebas relacionadas con los delitos previstos en los artículos 361 a 367 bis y en el artículo 375 del Código Penal. Tratándose de los delitos previstos en los artículos 361 a 367 bis y en el artículo 375 del Código Penal, los hospitales, clínicas y establecimientos de salud semejantes, sean públicos o privados, deberán practicar los reconocimientos, exámenes médicos y pruebas biológicas conducentes a acreditar el hecho punible y a identificar a los partícipes en su comisión, debiendo conservar los antecedentes y muestras correspondientes.
+Artículo 198.- Exámenes médicos y pruebas relacionadas con los delitos previstos en los artículos 361 a 367 y en el artículo 375 del Código Penal. Tratándose de los delitos previstos en los artículos 361 a 367 y en el artículo 375 del Código Penal, los hospitales, clínicas y establecimientos de salud semejantes, sean públicos o privados, deberán practicar los reconocimientos, exámenes médicos y pruebas biológicas conducentes a acreditar el hecho punible y a identificar a los partícipes en su comisión, debiendo conservar los antecedentes y muestras correspondientes.
 Se levantará acta, en duplicado, del reconocimiento y de los exámenes realizados, la que será suscrita por el jefe del establecimiento o de la respectiva sección y por los profesionales que los hubieren practicado. Una copia será entregada a la persona que hubiere sido sometida al reconocimiento, o a quien la tuviere bajo su cuidado; la otra, así como las muestras obtenidas y los resultados de los análisis y exámenes practicados, se mantendrán en custodia y bajo estricta reserva en la dirección del hospital, clínica o establecimiento de salud, por un período no inferior a un año, para ser remitidos al ministerio público.
-Si los mencionados establecimientos no se encontraren acreditados ante el Servicio Médico Legal para determinar huellas genéticas, tomarán las muestras biológicas y obtendrán las evidencias
+Si los mencionados establecimientos no se encontraren acreditados ante el Servicio Médico Legal para determinar huellas genéticas, tomarán las muestras biológicas y obtendrán las evidenc
 NOTA:
-necesarias, y procederán a remitirlas a la institución que corresponda para ese efecto, de acuerdo a la ley que crea el Sistema Nacional de Registros de ADN y su Reglamento.
+ias necesarias, y procederán a remitirlas a la institución que corresponda para ese efecto, de acuerdo a la ley que crea el Sistema Nacional de Registros de ADN y su Reglamento.
 NOTA:
 El Art. 24 de la LEY 19970, publicada el 06.10.2004, dispuso que la modificación de la presente norma comenzará a regir cuando sea dictado su Reglamento, el que fue aprobado por DTO 634, Justicia, publicado el 25.11.2008.
 
@@ -1017,7 +1021,8 @@ b) Si el imputado no hubiere sido condenado anteriormente por crimen o simple de
 c) Si el imputado no tuviere vigente una suspensión condicional del procedimiento, al momento de verificarse los hechos materia del nuevo proceso.
 La presencia del defensor del imputado en la audiencia en que se ventilare la solicitud de suspensión condicional del procedimiento constituirá un requisito de validez de la misma.
 Si el querellante o la víctima asistieren a la audiencia en que se ventile la solicitud de suspensión condicional del procedimiento, deberán ser oídos por el tribunal.
-Tratándose de imputados por delitos de homicidio, secuestro, robo con violencia o intimidación en las personas o fuerza en las cosas, sustracción de menores, aborto, los contemplados en los artículos 361 a 366 bis, 367 y 367 bis del Código Penal y conducción en estado de ebriedad causando la muerte o lesiones graves o gravísimas, el fiscal deberá someter su decisión de solicitar la suspensión condicional del procedimiento al Fiscal Regional.
+Tratándose de imputados por delitos de homicidio, secuestro, robo con violencia o intimidación en las personas o fuerza en las cosas, sustracción de menores, aborto, los contemplados en los artículos 361 a 366 bis
+y 367 del Código Penal y conducción en estado de ebriedad causando la muerte o lesiones graves o gravísimas, el fiscal deberá someter su decisión de solicitar la suspensión condicional del procedimiento al Fiscal Regional.
 Al decretar la suspensión condicional del procedimiento, el juez de garantía establecerá las condiciones a las que deberá someterse el imputado, por el plazo que determine, el que no podrá ser inferior a un año ni superior a tres. Durante dicho período no se reanudará el curso de la prescripción de la acción penal. Asimismo, durante el término por el que se prolongare la suspensión condicional del procedimiento se suspenderá el plazo previsto en el artículo 247.
 La resolución que se pronunciare acerca de la suspensión condicional del procedimiento será apelable por el imputado, por la víctima, por el ministerio público y por el querellante.
 La suspensión condicional del procedimiento no impedirá de modo alguno el derecho a perseguir por la vía civil las responsabilidades pecuniarias derivadas del mismo hecho.
