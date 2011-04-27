@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2010-01-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2011-04-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2010-01-07
-fetched_at: 2026-08-03T01:55:37.227489+00:00
+version_date: 2011-04-27
+fetched_at: 2026-08-03T02:51:29.690219+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -753,7 +753,7 @@ Las Fuerzas Armadas y Carabineros, como cuerpos armados, son esencialmente obedi
 Artículo 102.- La incorporación a las plantas y dotaciones de las Fuerzas Armadas y de Carabineros sólo podrá hacerse a través de sus propias Escuelas, con excepción de los escalafones profesionales y de empleados civiles que determine la ley.
 
 Artículo 103.- Ninguna persona, grupo u organización podrá poseer o tener armas u otros elementos similares que señale una ley aprobada con quórum calificado, sin autorización otorgada en conformidad a ésta.
-El Ministerio encargado de la Defensa Nacional o un organismo de su dependencia ejercerá la supervigilancia y control de las armas en la forma que determine la ley.
+Una ley determinará el Ministerio o los órganos de su dependencia que ejercerán la supervigilancia y el control de las armas. Asimismo, establecerá los órganos públicos encargados de fiscalizar el cumplimiento de las normas relativas a dicho control.
 
 Artículo 104.- Los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, y el General Director de Carabineros serán designados por el Presidente de la República de entre los cinco oficiales generales de mayor antigüedad, que reúnan las calidades que los respectivos estatutos institucionales exijan para tales cargos; durarán cuatro años en sus funciones, no podrán ser nombrados para un nuevo período y gozarán de inamovilidad en su cargo.
 El Presidente de la República, mediante decreto fundado e informando previamente a la Cámara de Diputados y al Senado, podrá llamar a retiro a los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea y al General Director de Carabineros, en su caso, antes de completar su respectivo período.
