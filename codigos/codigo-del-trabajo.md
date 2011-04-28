@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2011-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2011-04-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2011-03-01
-fetched_at: 2026-08-03T02:50:19.588843+00:00
+version_date: 2011-04-28
+fetched_at: 2026-08-03T02:51:47.700688+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -52,6 +52,7 @@ Las infracciones a las normas que regulan las entidades a que se refiere este ar
 
 Art. 4.o Para los efectos previstos en este Código, se presume de derecho que representa al empleador y que en tal carácter obliga a éste con los trabajadores, el gerente, el administrador, el capitán de barco y, en general, la persona que ejerce habitualmente funciones de dirección o administración por cuenta o representación de una persona natural o jurídica.
 Las modificaciones totales o parciales relativas al dominio, posesión o mera tenencia de la empresa no alterarán los derechos y obligaciones de los trabajadores emanados de sus contratos individuales o de los instrumentos colectivos de trabajo, que mantendrán su vigencia y continuidad con el o los nuevos empleadores.
+De igual forma, en el caso de los trabajadores mencionados en el inciso final del artículo 1º, no se alterarán los derechos y obligaciones emanados de sus contratos individuales o de los instrumentos colectivos de trabajo, en el caso de cambio de la titularidad en la respectiva notaría, archivo y conservador.
 
 Art. 5.o El ejercicio de las facultades que la ley le reconoce al empleador, tiene como límite el respeto a las garantías constitucionales de los trabajadores, en especial cuando pudieran afectar la intimidad, la vida privada o la honra de éstos.
 Los derechos establecidos por las leyes laborales son irrenunciables, mientras subsista el contrato de trabajo.
