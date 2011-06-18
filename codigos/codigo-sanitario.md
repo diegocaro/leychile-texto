@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2009-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2011-06-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2009-10-03
-fetched_at: 2026-08-03T01:53:47.644246+00:00
+version_date: 2011-06-18
+fetched_at: 2026-08-03T02:52:06.065596+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -587,6 +587,11 @@ Los servicios profesionales de la enfermera comprenden la gestión del cuidado e
 NOTA:
 Véanse los artículos 313 a, 313 b y 313 c del Código Penal, agregados por la Ley N° 17.155.
 
+Artículo 113 bis.- Sin perjuicio de lo establecido en el artículo anterior, el tecnólogo médico con mención en oftalmología podrá detectar los vicios de refracción ocular a través de su medida instrumental, mediante la ejecución, análisis, interpretación y evaluación de pruebas y exámenes destinados a ese fin.
+Para los fines señalados en el inciso anterior y con el objeto de tratar dichos vicios, el tecnólogo médico con mención en oftalmología podrá prescribir, adaptar y verificar lentes ópticos, prescribir y administrar los fármacos del área oftalmológica de aplicación tópica que sean precisos, y controlar las ayudas técnicas destinadas a corregir vicios de refracción. Podrá, asimismo, detectar alteraciones del globo ocular y disfunciones visuales, a fin de derivar oportunamente al médico cirujano especialista que corresponda.
+Quienes cuenten con el título de optómetra obtenido en el extranjero podrán desarrollar las actividades a que se refiere este artículo, siempre que convaliden ante la Universidad de Chile sus actividades curriculares de conformidad con lo dispuesto en el decreto con fuerza de ley Nº 3, de 2007, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 153, de 1982, del Ministerio de Educación Pública, Estatutos de la Universidad de Chile.
+Cuando estos profesionales presten sus servicios a personas que, al ser examinadas, evidencien la presencia de patologías locales o sistémicas, deberán derivar de inmediato al paciente a un médico cirujano con especialización en oftalmología. Con todo, el tecnólogo médico podrá participar junto al referido médico cirujano en la atención del enfermo para su rehabilitación, si así se requiriese.
+
 Artículo 114°.- Prohíbese a una misma persona ejercer conjuntamente las profesiones de médico-cirujano y las de farmacéutico, químico-farmacéutico o bío-químico.
 
 Artículo 115°.- Los cirujano-dentistas sólo podrán prestar atenciones odonto-estomatológicas. Podrán, asimismo, adquirir o prescribir los medicamentos necesarios para dichos fines, de acuerdo al Reglamento que dicte el Director General de Salud.
@@ -605,7 +610,7 @@ Artículo 118°.- Los consultorios de matronas podrán ser destinados al control
 
 Artículo 119°.- No podrá ejecutarse ninguna acción cuyo fin sea provocar un aborto.
 
-Artículo 120°.- Los profesionales señalados en el artículo 112 de este Código no podrán ejercer su profesión y tener intereses comerciales que digan relación directa con su actividad, en establecimientos destinados a la importación, producción, distribución y venta de productos farmacéuticos, aparatos ortopédicos, prótesis y artículos ópticos, a menos que el Colegio respectivo emita en cada caso un informe, estableciendo que no se vulnera la ética profesional. Exceptúanse de esta prohibición los químicos-farmacéuticos y farmacéuticos.
+Artículo 120.- Los profesionales señalados en los artículos 112 y 113 bis de este Código no podrán ejercer su profesión y tener intereses comerciales que digan relación directa con su actividad, en establecimientos destinados a la importación, producción, distribución y venta de productos farmacéuticos, aparatos ortopédicos, prótesis y artículos ópticos, a menos que el Colegio respectivo emita en cada caso un informe estableciendo que no se vulnera la ética profesional. Exceptúanse de esta prohibición los químico-farmacéuticos y farmacéuticos.
 
 ## LIBRO VI
 DE LOS LABORATORIOS, FARMACIAS Y OTROS ESTABLECIMIENTOS
@@ -623,7 +628,7 @@ No obstante y en conformidad a las instrucciones que imparta el Ministerio de Sa
 Los almacenes farmacéuticos estarán dirigidos por prácticos de farmacia quienes deberán ser autorizados por el Servicio Nacional de Salud, previa comprobación de las condiciones de idoneidad y competencia que determine el decreto supremo reglamentario del Ministerio de Salud.
 Sin perjuicio de lo dispuesto en los incisos anteriores, los productos farmacéuticos para uso humano autorizados en el reglamento podrán ser expendidos en otros establecimientos, a cargo de un práctico de farmacia, en la forma y condiciones que determine el reglamento, el que, además, fijará la nómina de dichos productos.
 
-Artículo 124°.- Los médicos-cirujanos, cirujanos-dentistas y matronas podrán para el ejercicio de su profesión, mantener existencia de productos farmacéuticos para ser administrados por ellos.
+Artículo 124°.- Los médicos-cirujanos, cirujanos-dentistas, matronas y tecnólogos médicos con mención en oftalmología podrán para el ejercicio de su profesión, mantener existencia de productos farmacéuticos para ser administrados por ellos.
 
 Artículo 125°.- El Servicio Nacional de Salud podrá autorizar la instalación de botiquines para el despacho o venta de productos farmacéuticos y elementos de primeros auxilios que determine el reglamento, en clínicas, maternidades, casas de socorro, campamentos mineros, termas, postas médicas, cuarteles y navíos.
 
@@ -636,16 +641,13 @@ Artículo 127°.- Los productos farmacéuticos sólo podrán expenderse al públ
 Las recetas médicas y análisis o exámenes de laboratorios clínicos y servicios relacionados con la salud son reservados. Sólo podrá revelarse su contenido o darse copia de ellos con el consentimiento expreso del paciente, otorgado por escrito. Quien divulgare su contenido indebidamente, o infringiere las disposiciones del inciso siguiente, será castigado en la forma y con las sanciones establecidas en el Libro Décimo.
 Lo dispuesto en este artículo no obsta para que las farmacias puedan dar a conocer, para fines estadísticos, las ventas de productos farmacéuticos de cualquier naturaleza, incluyendo la denominación y cantidad de ellos. En ningún caso la información que proporcionen las farmacias consignará el nombre de los pacientes destinatarios de las recetas, ni el de los médicos que las expidieron, ni datos que sirvan para identificarlos.
 
-Artículo 128°.- Sólo en los establecimientos de óp
+Artículo 128°.- Sólo en los establecimientos de óptica podrán fabricarse lentes con fuerza dióptrica de acuerdo con las prescripciones que se ordenen en la receta emitida por el profesional facultado para ello.
+Los establecimientos de óptica podrán abrir locales destinados a la recepción y al despacho de recetas emitidas por el profesional facultado para ello, cumpliéndose lo señalado en el artículo 120, en que se prescriban estos lent
 NOTA:
-tica podrán fabricarse lentes con fuerza dióp
-NOTA:
-trica de acuerdo con las prescripciones que se ordenen en la receta médica correspondiente.
-NOTA:
-Los establecimientos de óptica podrán abrir locales destinados a la recepción y al despacho de recetas médicas en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente.
+es, bajo la responsabilidad técnica de la óptica pertinente.
 NOTA:
 NOTA:
-Véase el Decreto 4, Salud, publicado el 13.03.1985, sobre Establecimientos de Óptica.
+Véase el Decreto 4, Salud, publicado el 13.03.1985, sobre Establecimientos de Optica.
 
 Artículo 128 bis.- Autorízase la fabricación, venta y entrega, sin receta médica, de lentes con fuerza dióptrica sólo esférica e igual en ambos ojos, sin rectificación de astigmatismo, destinados a corregir problemas de presbicia en personas mayores de cuarenta años.
 La venta o entrega de dichos lentes deberá acompañarse de una advertencia sobre la conveniencia de una evaluación oftalmológica que permita prevenir riesgos para la salud ocular.
