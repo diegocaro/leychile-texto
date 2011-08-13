@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2011-04-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2011-08-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2011-04-08
-fetched_at: 2026-08-03T02:51:23.680162+00:00
+version_date: 2011-08-13
+fetched_at: 2026-08-03T02:53:09.881267+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -972,6 +972,8 @@ Artículo 224.- Notificación al afectado por la interceptación. La medida de i
 Artículo 225.- Prohibición de utilización. Los resultados de la medida de interceptación telefónica o de otras formas de telecomunicaciones no podrán ser utilizados como medios de prueba en el procedimiento, cuando ella hubiere tenido lugar fuera de los supuestos previstos por la ley o cuando no se hubieren cumplido los requisitos previstos en el artículo 222 para la procedencia de la misma.
 
 Artículo 226.- Otros medios técnicos de investigación. Cuando el procedimiento tuviere por objeto la investigación de un hecho punible que mereciere pena de crimen, el juez de garantía podrá ordenar, a petición del ministerio público, la fotografía, filmación u otros medios de reproducción de imágenes conducentes al esclarecimiento de los hechos. Asimismo, podrá disponer la grabación de comunicaciones entre personas presentes. Regirán correspondientemente las normas contenidas en los artículos 222 al 225.
+
+.
 
 #### Párrafo 4º Registros de la investigación
 
