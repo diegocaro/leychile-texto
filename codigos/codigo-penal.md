@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2011-04-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2011-08-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2011-04-08
-fetched_at: 2026-08-03T02:51:05.649922+00:00
+version_date: 2011-08-13
+fetched_at: 2026-08-03T02:52:48.113183+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1979,10 +1979,12 @@ El que realizare una acción sexual distinta del acceso carnal con una persona m
 ART. 366 ter.
 Para los efectos de los tres artículos anteriores, se entenderá por acción sexual cualquier acto de significación sexual y de relevancia realizado mediante contacto corporal con la víctima, o que haya afectado los genitales, el ano o la boca de la víctima, aun cuando no hubiere contacto corporal con ella.
 
-ART. 366 quater.
+ART. 366 quáter.
 El que, sin realizar una acción sexual en los términos anteriores, para procurar su excitación sexual o la excitación sexual de otro, realizare acciones de significación sexual ante una persona menor de catorce años, la hiciere ver o escuchar material pornográfico o presenciar espectáculos del mismo carácter, será castigado con presidio menor en su grado medio a máximo.
-Si, para el mismo fin de procurar su excitación sexual o la excitación sexual de otro, determinare a una persona menor de catorce años a realizar acciones de significación sexual delante suyo o de otro, la pena será presidio menor en su grado máximo.
-Con iguales penas se sancionará a quien realice alguna de las conductas descritas en los incisos anteriores con una persona menor de edad pero mayor de catorce años, concurriendo cualquiera de las circunstancias del numerando 1º del artículo 361 o de las enumeradas en el artículo 363.
+Si, para el mismo fin de procurar su excitación sexual o la excitación sexual de otro, determinare a una persona menor de catorce años a realizar acciones de significación sexual delante suyo o de otro o a enviar, entregar o exhibir imágenes o grabaciones de su persona o de otro menor de 14 años de edad, con significación sexual, la pena será presidio menor en su grado máximo.
+Quien realice alguna de las conductas descritas en los incisos anteriores con una persona menor de edad pero mayor de catorce años, concurriendo cualquiera de las circunstancias del numerando 1º del artículo 361 o de las enumeradas en el artículo 363 o mediante amenazas en los términos de los artículos 296 y 297, tendrá las mismas penas señaladas en los incisos anteriores.
+Las penas señaladas en el presente artículo se aplicarán también cuando los delitos descritos en él sean cometidos a distancia, mediante cualquier medio electrónico.
+Si en la comisión de cualquiera de los delitos descritos en este artículo, el autor falseare su identidad o edad, se aumentará la pena aplicable en un grado.
 
 ART. 367.
 El que promoviere o facilitare la prostitución de menores de edad para satisfacer los deseos de otro, sufrirá la pena de presidio menor en su grado máximo.
