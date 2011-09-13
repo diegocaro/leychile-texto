@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2011-06-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2011-09-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2011-06-18
-fetched_at: 2026-08-03T02:52:06.065596+00:00
+version_date: 2011-09-13
+fetched_at: 2026-08-03T02:53:15.884856+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -602,9 +602,9 @@ podrán ejercer sus actividades a indicación de cirujano-dentistas, quedándole
 NOTA
 Véase el Decreto 1967, Salud, publicado el 29.08.1997, que establece el Reglamento de Laboristas dentales y de laboratorios dentales.
 
-Artículo 117°.- Los servicios profesionales de la matrona comprenden la atención del embarazo, parto y puerperio normales y la atención del recién nacido, como, asimismo, actividades relacionadas con la lactancia materna, la planificación familiar y la ejecución de acciones derivadas del diagnóstico y tratamiento médico y el deber de velar por la mejor administración de los recursos de asistencia para el paciente.
-En la asistencia de partos, sólo podrán intervenir mediante maniobras en que se apliquen técnicas manuales y practicar aquellas curaciones que signifiquen atención inmediata de la parturienta.
-Podrán usar y prescribir sólo aquellos medicamentos que el reglamento clasifique como necesarios para la atención de partos normales.
+Artículo 117°.- Los servicios profesionales de la matrona comprenden la atención del embarazo, parto y puerperio normales y la atención del recién nacido, como, asimismo, actividades relacionadas con la lactancia materna, la planificación familiar, la salud sexual y reproductiva y la ejecución de acciones derivadas del diagnóstico y tratamiento médico y el deber de velar por la mejor administración de los recursos de asistencia para el paciente.
+En la asistencia de partos, sólo podrán intervenir mediante maniobras en que se apliquen técnicas manuales y practicar aquellos procedimientos que signifiquen atención inmediata de la parturienta.
+Podrán indicar, usar y prescribir sólo aquellos medicamentos que el reglamento clasifique como necesarios para la atención de partos normales y, en relación con la planificación familiar y la regulación de la fertilidad, prescribir métodos anticonceptivos, tanto hormonales -incluyendo anticonceptivos de emergencia- como no hormonales, y desarrollar procedimientos anticonceptivos que no impliquen uso de técnicas quirúrgicas, todo ello en conformidad a la ley Nº 20.418.
 
 Artículo 118°.- Los consultorios de matronas podrán ser destinados al control de la evolución del embarazo y quedarán incluidas en la reglamentación sobre maternidades particulares.
 
