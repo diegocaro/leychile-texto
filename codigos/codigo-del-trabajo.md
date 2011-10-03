@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2011-04-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2011-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2011-04-28
-fetched_at: 2026-08-03T02:51:47.700688+00:00
+version_date: 2011-10-03
+fetched_at: 2026-08-03T02:53:33.907303+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1545,6 +1545,9 @@ Art. 199 bis. Cuando la salud de un menor de 18 años requiera la atención pers
 Si ambos padres son trabajadores dependientes, cualquiera de ellos, a elección de la madre, podrá gozar del referido permiso. Con todo, dicho permiso se otorgará al padre que tuviere la tuición del menor por sentencia judicial o cuando la madre hubiere fallecido o estuviese imposibilitada de hacer uso de él por cualquier causa. A falta de ambos, a quien acredite su tuición o cuidado.
 El tiempo no trabajado deberá ser restituido por el trabajador mediante imputación a su próximo feriado anual o laborando horas extraordinarias o a través de cualquier forma que convengan libremente las partes. Sin embargo, tratándose de trabajadores regidos por estatutos que contemplen la concesión de días administrativos, primeramente el trabajador deberá hacer uso de ellos, luego podrá imputar el tiempo que debe reponer a su próximo feriado anual o a días administrativos del año siguiente al uso del permiso a que se refiere este artículo, o a horas extraordinarias.
 En el evento de no ser posible aplicar dichos mecanismos, se podrá descontar el tiempo equivalente al permiso obtenido de las remuneraciones mensuales del trabajador, en forma de un día por mes, lo que podrá fraccionarse según sea el sistema de pago, o en forma íntegra si el trabajador cesare en su trabajo por cualquier causa.
+Iguales derechos y mecanismos de restitución serán aplicables a los padres, a la persona que tenga su cuidado personal o sea cuidador en los términos establecidos en la letra d) del artículo 6º, de la ley Nº 20.422, de un menor con discapacidad, debidamente inscrito en el Registro Nacional de la Discapacidad, o siendo menor de 6 años, con la determinación diagnóstica del médico tratante.
+Lo dispuesto en el inciso precedente se aplicará, en iguales términos, tratándose de personas mayores de 18 años con discapacidad mental, por causa psíquica o intelectual, multidéficit o bien presenten dependencia severa.
+En todo caso, de la ausencia al trabajo se deberá dar aviso al empleador dentro de las 24 horas siguientes al ejercicio del derecho.
 
 Art. 200. La trabajadora o el trabajador que tenga a su cuidado un menor de edad inferior a seis meses, por habérsele otorgado judicialmente la tuición o el cuidado personal del menor como medida de protección, tendrá derecho a permiso y subsidio hasta por doce semanas.
 A la correspondiente solicitud de permiso deberá acompañarse necesariamente una declaración jurada suya de tener bajo su cuidado personal al causante del beneficio y un certificado del tribunal que haya otorgado la tuición o cuidado personal del menor como medida de protección.
