@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2011-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2011-10-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2011-10-03
-fetched_at: 2026-08-03T02:53:33.907303+00:00
+version_date: 2011-10-06
+fetched_at: 2026-08-03T02:53:51.917856+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -129,9 +129,8 @@ Art. 16. En casos debidamente calificados, cumpliendo con lo dispuesto en el inc
 Art. 17. Si se contratare a un menor sin sujeción a lo dispuesto en los artículos precedentes, el empleador estará sujeto a todas las obligaciones inherentes al contrato mientras se aplicare; pero el inspector del trabajo, de oficio o a petición de parte, deberá ordenar la cesación de la relación y aplicar al empleador las sanciones que correspondan.
 Cualquier persona podrá denunciar ante los organismos competentes las infracciones relativas al trabajo infantil de que tuviere conocimiento.
 
-Art. 18. Queda prohibido a los menores de dieciocho años todo trabajo nocturno en establecimientos industriales y comerciales, que se ejecuten entre las veintidós y las siete horas, con excepción de aquellos en que únicamente trabajen miembros de la familia, bajo la autoridad de uno de ellos.
-Exceptúase de esta prohibición a los varones mayores de dieciséis años, en las industrias y comercios que determine el reglamento, tratándose de trabajos que, en razón de su naturaleza, deban necesariamente continuarse de día y de noche.
-A los menores mencionados en este artículo, les será aplicable lo dispuesto en el inciso segundo del artículo 13.
+Art. 18. Queda prohibido a los menores de dieciocho años todo trabajo nocturno en establecimientos industriales y comerciales. El período durante el cual el menor de 18 años no puede trabajar de noche será de once horas consecutivas, que comprenderá, al menos, el intervalo que media entre los veintidós y las siete horas.
+INCISOS DEROGADOS.
 
 #### Capítulo III
 DE LA NACIONALIDAD DE LOS TRABAJADORES
@@ -353,8 +352,10 @@ Art. 56. Las remuneraciones deberán pagarse en día de trabajo, entre lunes y v
 Art. 57. Las remuneraciones de los trabajadores y las cotizaciones de seguridad social serán inembargables. No obstante, podrán ser embargadas las remuneraciones en la parte que excedan de cincuenta y seis unidades de fomento.
 Con todo, tratándose de pensiones alimenticias debidas por ley y decretadas judicialmente, de defraudación, hurto o robo cometidos por el trabajador en contra del empleador en ejercicio de su cargo, o de remuneraciones adeudadas por el trabajador a las personas que hayan estado a su servicio en calidad de trabajador, podrá embargarse hasta el cincuenta por ciento de las remuneraciones.
 
-Art. 58. El empleador deberá deducir de las remuneraciones los impuestos que las graven, las cotizaciones de seguridad social, las cuotas sindicales en conformidad a la legislación respectiva y las obligaciones con instituciones de previsión o con organismos públicos. Igualmente, a solicitud escrita del trabajador, el empleador deberá descontar de las remuneraciones las cuotas correspondientes a dividendos hipotecarios por adquisición de viviendas y las cantidades que el trabajador haya indicado para que sean depositadas en una cuenta de ahorro para la vivienda abierta a su nombre en una institución financiera o en una cooperativa de vivienda. Estas últimas no podrán exceder de un monto equivalente al 30% de la remuneración total del trabajador.
+Art. 58. El empleador deberá deducir de las remuneraciones los impuestos que las graven, las cotizaciones de seguridad social, las cuotas sindicales en conformidad a la legislación respectiva y las obligaciones con instituciones de previsión o con organismos públicos.
+Asimismo, con acuerdo del empleador y del trabajador, que deberá constar por escrito, el empleador podrá descontar de las remuneraciones cuotas destinadas al pago de la adquisición de viviendas, cantidades para ser depositadas en una cuenta de ahorro para la vivienda y sumas destinadas a la educación del trabajador, su cónyuge o alguno de sus hijos. Para estos efectos, se autoriza al empleador a otorgar mutuos o créditos sin interés, respecto de los cuales el empleador podrá hacerse pago deduciendo hasta el 30% del total de la remuneración mensual del trabajador. Sin embargo, el empleador sólo podrá realizar tal deducción si paga directamente la cuota del mutuo o crédito a la institución financiera o servicio educacional respectivo.
 Sólo con acuerdo del empleador y del trabajador que deberá constar por escrito, podrán deducirse de las remuneraciones sumas o porcentajes determinados, destinados a efectuar pagos de cualquier naturaleza. Con todo, las deducciones a que se refiere este inciso, no podrán exceder del quince por ciento de la remuneración total del trabajador.
+Cualquiera sea el fundamento de las deducciones realizadas a las remuneraciones por parte del empleador, o el origen de los préstamos otorgados, en ningún caso aquéllas podrán exceder, en conjunto, del 45% de la remuneración total del trabajador.
 El empleador no podrá deducir, retener o compensar suma alguna que rebaje el monto de las remuneraciones por arriendo de habitación, luz, entrega de agua, uso de herramientas, entrega de medicinas, atención médica u otras prestaciones en especie, o por concepto de multas que no estén autorizadas en el reglamento interno de la empresa.
 Asimismo, no podrá deducir, retener o compensar suma alguna por el no pago de efectos de comercio que el empleador hubiera autorizado recibir como medio de pago por los bienes suministrados o servicios prestados a terceros en su establecimiento.
 La autorización del empleador, señalada en el inciso anterior, deberá constar por escrito, así como también los procedimientos que el trabajador debe cumplir para recibir como forma de pago los respectivos efectos de comercio.
