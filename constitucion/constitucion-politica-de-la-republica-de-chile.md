@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2011-07-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2012-03-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2011-07-11
-fetched_at: 2026-08-03T02:52:30.092614+00:00
+version_date: 2012-03-06
+fetched_at: 2026-08-03T02:55:22.692191+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -880,6 +880,7 @@ Asimismo, establecerá el modo de dirimir las discrepancias que se produzcan ent
 ### Disposiciones Especiales
 
 Artículo 126 bis.- Son territorios especiales los correspondientes a Isla de Pascua y al Archipiélago Juan Fernández. El Gobierno y Administración de estos territorios se regirá por los estatutos especiales que establezcan las leyes orgánicas constitucionales respectivas.
+Los derechos a residir, permanecer y trasladarse hacia y desde cualquier lugar de la República, garantizados en el numeral 7º del artículo 19, se ejercerán en dichos territorios en la forma que determinen las leyes especiales que regulen su ejercicio, las que deberán ser de quórum calificado.
 
 ## Capítulo XV
 REFORMA DE LA CONSTITUCIÓN
