@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2012-02-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2012-05-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2012-02-09
-fetched_at: 2026-08-03T02:54:46.660821+00:00
+version_date: 2012-05-11
+fetched_at: 2026-08-03T02:55:58.728773+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -692,6 +692,8 @@ disposiciones aplicables a la prisión preventiva, en
 cuanto no se opusieren a lo previsto en este Párrafo.
 
 Artículo 156.- Suspensión temporal de otras medidas cautelares personales. El tribunal podrá dejar temporalmente sin efecto las medidas contempladas en este Párrafo, a petición del afectado por ellas, oyendo al fiscal y previa citación de los demás intervinientes que hubieren participado en la audiencia en que se decretaron, cuando estimare que ello no pone en peligro los objetivos que se tuvieron en vista al imponerlas. Para estos efectos, el juez podrá admitir las cauciones previstas en el artículo 146.
+
+Artículo 156 bis.- Medidas cautelares especiales. En los casos de investigaciones por fraude en el otorgamiento de licencias médicas, el tribunal podrá, en la oportunidad y a petición de las personas señaladas en el artículo 155, decretar la suspensión de la facultad de emitir dichas licencias mientras dure la investigación o por el menor plazo que, fundadamente, determine.
 
 ### Título VI
 Medidas cautelares reales

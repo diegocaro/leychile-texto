@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2011-08-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2012-05-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2011-08-13
-fetched_at: 2026-08-03T02:52:48.113183+00:00
+version_date: 2012-05-11
+fetched_at: 2026-08-03T02:55:40.708104+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -223,6 +223,7 @@ Extrañamiento menor.
 Relegación menor.
 Destierro.
 Inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad.
+Inhabilitación especial temporal para emitir licencias médicas.
 Suspensión de cargo u oficio público o profesión titular.
 Inhabilidad perpetua para conducir vehículos a tracción mecánica o animal.
 Suspensión para conducir vehículos a tracción mecánica o animal.
@@ -1148,6 +1149,9 @@ La misma pena se impondrá al que hiciere uso de un pasaporte o porte de armas v
 
 ART. 202.
 El facultativo que librare certificación falsa de enfermedad o lesión con el fin de eximir a una persona de algún servicio público, será castigado con reclusión menor en sus grados mínimo a medio y multa de seis a diez unidades tributarias mensuales.
+El que incurra en las falsedades del artículo 193 en el otorgamiento, obtención o tramitación de licencias médicas o declaraciones de invalidez será sancionado con las penas de reclusión menor en sus grados mínimo a medio y multa de veinticinco a doscientas cincuenta unidades tributarias mensuales.
+Si el que cometiere la conducta señalada en el inciso anterior fuere un facultativo se castigará con las mismas penas y una multa de cincuenta a quinientas unidades tributarias mensuales. Asimismo, el tribunal deberá aplicar la pena de inhabilitación especial temporal para emitir licencias médicas durante el tiempo de la condena.
+En caso de reincidencia, la pena privativa de libertad se aumentará en un grado y se aplicará multa de setenta y cinco a setecientas cincuenta unidades tributarias mensuales.
 
 ART. 203.
 El empleado público que librare certificación falsa de méritos o servicios, de buena conducta, de pobreza, o de otras circunstancias semejantes de recomendación, incurrirá en una multa de seis a diez unidades tributarias mensuales.
