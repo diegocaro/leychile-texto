@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2012-07-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2012-07-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2012-07-04
-fetched_at: 2026-08-03T02:56:58.789850+00:00
+version_date: 2012-07-14
+fetched_at: 2026-08-03T02:57:16.808785+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2436,6 +2436,9 @@ El robo en lugar no habitado, se castigará con presidio menor en sus grados med
 ART. 443.
 Con la misma pena señalada en el artículo anterior se castigará el robo de cosas que se encuentren en bienes nacionales de uso público o en sitio no destinado a la habitación si el autor hace uso de llaves falsas o verdaderas que se hayan substraído, de ganzúas u otros instrumentos semejantes o si se procede, mediante fractura de puertas, vidrios, cierros, candados u otros dispositivos de protección o si se utilizan medios de tracción.
 Si con ocasión de alguna de las conductas señaladas en el inciso anterior, se produce la interrupción o interferencia del suministro de un servicio público o domiciliario, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, la pena se aplicará en su grado máximo..
+
+ART. 443 bis.
+El robo con fuerza de cajeros automáticos, dispensadores o contenedores de dinero, o del dinero y valores contenidos en ellos, será sancionado con la pena de presidio menor en su grado máximo. Para los efectos del presente artículo se entenderá que hay fuerza en las cosas si se ha procedido con alguno de los medios señalados en el artículo 440, Nos 1° y 2°; si se ha fracturado, destruido o dañado el cajero automático o dispensador o sus dispositivos de protección o sujeción mediante el uso de instrumentos contundentes o cortantes de cualquier tipo, incluyendo el empleo de medios químicos; o si se utilizan medios de tracción.
 
 ART. 444.
 Se presume autor de tentativa de robo al que se introdujere con forado, fractura, escalamiento, uso de llave falsa o de llave verdadera sustraída o de ganzúa en algún aposento, casa, edificio habitado o destinado a la habitación o en sus dependencias.
