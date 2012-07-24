@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2012-07-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2012-07-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2012-07-14
-fetched_at: 2026-08-03T02:57:16.808785+00:00
+version_date: 2012-07-24
+fetched_at: 2026-08-03T02:57:34.828029+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -142,6 +142,7 @@ El tribunal tomará o no en consideración esta circunstancia, según la natural
 18.° Ejecutar el hecho con ofensa o desprecio del respeto que por la dignidad, autoridad, edad o sexo mereciere el ofendido, o en su morada, cuando él no haya provocado el suceso.
 19.° Ejecutarlo por medio de fractura o escalamiento de lugar cerrado.
 20.° Ejecutarlo portando armas de fuego o de aquellas referidas en el artículo 132.
+21ª. Cometer el delito o participar en él motivado por la ideología, opinión política, religión o creencias de la víctima; la nación, raza, etnia o grupo social a que pertenezca; su sexo, orientación sexual, identidad de género, edad, filiación, apariencia personal o la enfermedad o discapacidad que padezca.
 
 #### § V.
 De las circunstancias que atenúan o agravan la responsabilidad criminal, según la naturaleza y accidentes del delito.
