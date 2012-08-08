@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2011-10-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2012-08-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2011-10-17
-fetched_at: 2026-08-03T02:54:10.617178+00:00
+version_date: 2012-08-08
+fetched_at: 2026-08-03T02:57:52.849923+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -33,7 +33,7 @@ NOTA:
 El artículo 2º de la LEY 19945, publicada el 25.05.2004, interpreta el presente inciso, en el sentido que debe interpretarse y aplicarse de forma tal que la totalidad del estatuto laboral, en todas sus manifestaciones y expresiones, que emana del Código del Trabajo y leyes complementarias, resulte aplicable a los trabajadores que laboran en los oficios de notarías, archiveros o conservadores.
 
 Art.2.o Reconócese la función social que cumple el trabajo y la libertad de las personas para contratar y dedicar su esfuerzo a la labor lícita que elijan.
-Las relaciones laborales deberán siempre fundarse en un trato compatible con la dignidad de la persona. Es contrario a ella, entre otras conductas, el acoso sexual, entendiéndose por tal el que una persona realice en forma indebida, por cualquier medio, requerimientos de carácter sexual, no consentidos por quien los recibe y que amenacen o perjudiquen su situación laboral o sus oportunidades en el empleo.
+Las relaciones laborales deberán siempre fundarse en un trato compatible con la dignidad de la persona. Es contrario a ella, entre otras conductas, el acoso sexual, entendiéndose por tal el que una persona realice en forma indebida, por cualquier medio, requerimientos de carácter sexual, no consentidos por quien los recibe y que amenacen o perjudiquen su situación laboral o sus oportunidades en el empleo. Asimismo, es contrario a la dignidad de la persona el acoso laboral, entendiéndose por tal toda conducta que constituya agresión u hostigamiento reiterados, ejercida por el empleador o por uno o más trabajadores, en contra de otro u otros trabajadores, por cualquier medio, y que tenga como resultado para el o los afectados su menoscabo, maltrato o humillación, o bien que amenace o perjudique su situación laboral o sus oportunidades en el empleo.
 Son contrarios a los principios de las leyes laborales los actos de discriminación.
 Los actos de discriminación son las distinciones, exclusiones o preferencias basadas en motivos de raza, color, sexo, edad, estado civil, sindicación, religión, opinión política, nacionalidad, ascendencia nacional u origen social, que tengan por objeto anular o alterar la igualdad de oportunidades o de trato en el empleo y la ocupación.
 Con todo, las distinciones, exclusiones o preferencias basadas en las calificaciones exigidas para un empleo determinado no serán consideradas discriminación.
@@ -344,7 +344,12 @@ Art. 54. Las remuneraciones se pagarán en moneda de curso legal, sin perjuicio 
 A solicitud del trabajador, podrá pagarse con cheque o vale vista bancario a su nombre.
 Junto con el pago, el empleador deberá entregar al trabajador un comprobante con indicación del monto pagado, de la forma como se determinó y de las deducciones efectuadas.
 
-Art. 55. Las remuneraciones se pagarán con la periodicidad estipulada en el contrato, pero los períodos que se convengan no podrán exceder de un mes.
+Artículo 54 bis.- Las remuneraciones devengadas se incorporan al patrimonio del trabajador, teniéndose por no escrita cualquier cláusula que implique su devolución, reintegro o compensación por parte del trabajador al empleador, ante la ocurrencia de hechos posteriores a la oportunidad en que la remuneración se devengó, salvo que dichos hechos posteriores se originen en el incumplimiento por parte del trabajador de las obligaciones contenidas en su contrato de trabajo.
+Con todo, se podrán pactar premios o bonos por hechos futuros, tales como la permanencia durante un tiempo determinado del cliente que ha contratado un servicio o producto a la empresa o bien la puntualidad del mismo en los pagos del referido servicio u otros, siempre que la ocurrencia de estos hechos dependa del cumplimiento por parte del trabajador de las obligaciones contenidas en su contrato de trabajo.
+Sin perjuicio de lo dispuesto en el artículo anterior, y conforme a lo señalado en los incisos precedentes, las liquidaciones de remuneraciones deberán contener en un anexo, que constituye parte integrante de las mismas, los montos de cada comisión, bono, premio u otro incentivo que recibe el trabajador, junto al detalle de cada operación que le dio origen y la forma empleada para su cálculo.
+El empleador no podrá condicionar la contratación de un trabajador, su permanencia, la renovación de su contrato, o la promoción o movilidad en su empleo, a la suscripción de instrumentos representativos de obligaciones, tales como pagarés en cualquiera de sus formas, letras de cambios o compromisos de pago de cualquier naturaleza, para responder de remuneraciones ya devengadas.
+
+Art. 55. Las remuneraciones se pagarán con la periodicidad estipulada en el contrato, pero los períodos que se convengan no podrán exceder de un mes. En caso que la remuneración del trabajador se componga total o parcialmente de comisiones e independientemente de las condiciones de pago que la empresa pacte con el cliente, aquéllas se entenderán devengadas y deberán ser liquidadas y pagadas conjuntamente con las demás remuneraciones ordinarias del período en que se efectuaron las operaciones u ocurrieron los hechos que les dieron origen, salvo que, por razones técnicas ello no sea posible, caso en el cual deberán ser liquidadas y pagadas conjuntamente con las remuneraciones del mes siguiente. La cláusula que difiera el pago de comisiones al trabajador, infringiendo los límites establecidos en este artículo, se tendrá por no escrita.
 Si nada se dijere en el contrato, deberán darse anticipos quincenales en los trabajos por pieza, obra o medida y en los de temporada.
 
 Art. 56. Las remuneraciones deberán pagarse en día de trabajo, entre lunes y viernes, en el lugar en que el trabajador preste sus servicios y dentro de la hora siguiente a la terminación de la jornada. Las partes podrán acordar otros días u horas de pago.
@@ -428,6 +433,7 @@ Art. 71. Durante el feriado, la remuneración íntegra estará constituida por e
 En el caso de trabajadores con remuneraciones variables, la remuneración íntegra será el promedio de lo ganado en los últimos tres meses trabajados.
 Se entenderá por remuneraciones variables los tratos, comisiones, primas y otras que con arreglo al contrato de trabajo impliquen la posibilidad de que el resultado mensual total no sea constante entre uno y otro mes.
 Si el trabajador estuviere remunerado con sueldo y estipendios variables, la remuneración íntegra estará constituida por la suma de aquél y el promedio de las restantes.
+Asimismo, la remuneración íntegra durante el feriado deberá incluir la remuneración establecida en el inciso primero del artículo 45, según corresponda.
 Sin perjuicio de lo dispuesto en los incisos anteriores, durante el feriado deberá pagarse también toda otra remuneración o beneficio cuya cancelación corresponda efectuar durante el mismo y que no haya sido considerado para el cálculo de la remuneración íntegra.
 
 Art. 72. Si durante el feriado se produce un reajuste legal, convencional o voluntario de remuneraciones, este reajuste afectará también a la remuneración íntegra que corresponde pagar durante el feriado, a partir de la fecha de entrada en vigencia del correspondiente reajuste.
@@ -1074,8 +1080,9 @@ Art. 160. El contrato de trabajo termina sin derecho a indemnización alguna cua
 a) Falta de probidad del trabajador en el desempeño de sus funciones;
 b) Conductas de acoso sexual;
 c) Vías de hecho ejercidas por el trabajador en contra del empleador o de cualquier trabajador que se desempeñe en la misma empresa;
-d) Injurias proferidas por el trabajador al empleador, y
-e) Conducta inmoral del trabajador que afecte a la empresa donde se desempeña.
+d) Injurias proferidas por el trabajador al empleador;
+e) Conducta inmoral del trabajador que afecte a la empresa donde se desempeña, y
+f) Conductas de acoso laboral.
 2.- Negociaciones que ejecute el trabajador dentro del giro del negocio y que hubieren sido prohibidas por escrito en el respectivo contrato por el empleador.
 3.- No concurrencia del trabajador a sus labores sin causa justificada durante dos días seguidos, dos lunes en el mes o un total de tres días durante igual período de tiempo; asimismo, la falta injustificada, o sin aviso previo de parte del trabajador que tuviere a su cargo una actividad, faena o máquina cuyo abandono o paralización signifique una perturbación grave en la marcha de la obra.
 4.- Abandono del trabajo por parte del trabajador, entendiéndose por tal:
@@ -1149,11 +1156,11 @@ b) Si el trabajador estima que la aplicación de esta causal es improcedente, y 
 Art. 170. Los trabajadores cuyos contratos terminaren en virtud de lo dispuesto en el inciso segundo del artículo 161, que tengan derecho a la indemnización señalada en los incisos primero o segundo del artículo 163, según corresponda, podrán instar por su pago y por la del aviso previo, si fuese el caso, dentro de los sesenta días hábiles contados desde la fecha de la separación, en el caso de que no se les hubiere efectuado dicho pago en la forma indicada en el párrafo segundo de la letra a) del artículo anterior. A dicho plazo le será aplicable lo dispuesto en el inciso final del artículo 168.
 
 Art. 171. Si quien incurriere en las causales de los números 1, 5 ó 7 del artículo 160 fuere el empleador, el trabajador podrá poner término al contrato y recurrir al juzgado respectivo, dentro del plazo de sesenta días hábiles, contado desde la terminación, para que éste ordene el pago de las indemnizaciones establecidas en el inciso cuarto del artículo 162, y en los incisos primero o segundo del artículo 163, según corresponda, aumentada en un cincuenta por ciento en el caso de la causal del número 7; en el caso de las causales de los números 1 y 5, la indemnización podrá ser aumentada hasta en un ochenta por ciento.
-Tratándose de la aplicación de las causales de las letras a) y b) del número 1 del artículo 160, el trabajador afectado podrá reclamar del empleador, simultáneamente con el ejercicio de la acción que concede el inciso anterior, las otras indemnizaciones a que tenga derecho.
+Tratándose de la aplicación de las causales de las letras a), b) y f) del número 1 del artículo 160, el trabajador afectado podrá reclamar del empleador, simultáneamente con el ejercicio de la acción que concede el inciso anterior, las otras indemnizaciones a que tenga derecho.
 Cuando el empleador no hubiera observado el procedimiento establecido en el Título IV del Libro II, responderá en conformidad a los incisos primero y segundo precedentes.
 El trabajador deberá dar los avisos a que se refiere el artículo 162 en la forma y oportunidad allí señalados.
 Si el Tribunal rechazare el reclamo del trabajador, se entenderá que el contrato ha terminado por renuncia de éste.
-Si el trabajador hubiese invocado la causal de la letra b) del número 1 del artículo 160, falsamente o con el propósito de lesionar la honra de la persona demandada y el tribunal hubiese declarado su demanda carente de motivo plausible, estará obligado a indemnizar los perjuicios que cause al afectado. En el evento que la causal haya sido invocada maliciosamente, además de la indemnización de los perjuicios, quedará sujeto a las otras acciones legales que procedan.
+Si el trabajador hubiese invocado la causal de la letra b) o f) del número 1 del artículo 160, falsamente o con el propósito de lesionar la honra de la persona demandada y el tribunal hubiese declarado su demanda carente de motivo plausible, estará obligado a indemnizar los perjuicios que cause al afectado. En el evento que la causal haya sido invocada maliciosamente, además de la indemnización de los perjuicios, quedará sujeto a las otras acciones legales que procedan.
 
 Art. 172. Para los efectos del pago de las indemnizaciones a que se refieren los artículos 168, 169, 170 y 171, la última remuneración mensual comprenderá toda cantidad que estuviere percibiendo el trabajador por la prestación de sus servicios al momento de terminar el contrato, incluidas las imposiciones y cotizaciones de previsión o seguridad social de cargo del trabajador y las regalías o especies avaluadas en dinero, con exclusión de la asignación familiar legal, pagos por sobretiempo y beneficios o asignaciones que se otorguen en forma esporádica o por una sola vez al año, tales como gratificaciones y aguinaldos de navidad.
 Si se tratare de remuneraciones variables, la indemnización se calculará sobre la base del promedio percibido por el trabajador en los últimos tres meses calendario.
