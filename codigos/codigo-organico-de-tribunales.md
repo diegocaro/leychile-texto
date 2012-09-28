@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2012-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2012-09-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2012-03-01
-fetched_at: 2026-08-03T02:55:16.689996+00:00
+version_date: 2012-09-28
+fetched_at: 2026-08-03T02:58:16.873076+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -905,7 +905,15 @@ En caso que ante la Corte Suprema se encuentren pendientes distintos recursos de
 Art. 100. La Corte Suprema, mediante auto acordado, dictará normas para prevenir el consumo indebido de sustancias o drogas estupefacientes o sicotrópicas por parte de los funcionarios judiciales.
 Ese auto acordado contendrá, además, un procedimiento de control de consumo aplicable a los miembros del escalafón primario. Dicho procedimiento de control comprenderá a todos los integrantes de un grupo o sector de funcionarios que se determinará en forma aleatoria, se aplicará en forma reservada y resguardará la dignidad e intimidad de ellos, observando las prescripciones de la ley Nº 19.628, sobre protección de los datos de carácter personal. Sólo será admisible como prueba de la dependencia una certificación médica, basada en los exámenes que correspondan.
 
-Art. 101. Derogado.
+Art. 101. Cuando existieren desequilibrios entre las dotaciones de los jueces y la carga de trabajo entre tribunales de una misma jurisdicción, la Corte Suprema, a solicitud de la Corte de Apelaciones respectiva, previo informe de la Corporación Administrativa del Poder Judicial, en que consten los datos objetivos para su procedencia y siempre que lo permita la disponibilidad presupuestaria del Poder Judicial, podrá destinar transitoriamente y de manera rotativa a uno o más jueces integrantes de los Tribunales de Garantía, Tribunales de Juicio Oral en lo Penal, Tribunales de Familia, Tribunales Laborales, Tribunales de Cobranza Laboral y Previsional y juzgados con competencia común a que hace referencia el artículo 27 bis, a desempeñar sus funciones preferentemente en otro tribunal de su misma especialidad.
+Dicha facultad podrá ejercerse sólo entre tribunales de territorios jurisdiccionales pertenecientes a una misma Corte de Apelaciones, por un plazo máximo de seis meses por cada juez, sin renovación inmediata y entre tribunales que, en todo o en parte, compartan el mismo territorio jurisdiccional o que sean de territorios jurisdiccionales contiguos.
+No obstante, podrá destinarse a un juez a un tribunal de un territorio jurisdiccional no contiguo, contando con su acuerdo expreso y previo informe de la Corporación Administrativa del Poder Judicial, el que deberá señalar fundadamente las razones que hacen necesario o conveniente para el servicio judicial proceder de la manera indicada. También podrá renovarse inmediatamente una destinación, cuando se cuente para ello con el acuerdo del juez respectivo.
+La Corte Suprema designará al juez destinado dando preferencia a aquellos que manifiesten su interés en ser destinados transitoriamente.
+Esta facultad no podrá ejercerse con respecto al juez presidente del tribunal ni afectar en forma simultánea a un porcentaje superior al cincuenta por ciento de los jueces integrantes de cada tribunal.
+El ejercicio de esta facultad no modificará el sistema de remuneración, de calificación o el régimen estatutario de los jueces destinados, ni tampoco podrá importar deterioro en su condición funcionaria, personal o familiar. Sin embargo, en caso que el juez sea destinado a un tribunal que por su ubicación, le corresponda una mayor remuneración, será aplicable, mientras dure su destinación, la escala de remuneraciones correspondiente a dicho tribunal. El juez que estime que su destinación le significa un menoscabo en aquellas condiciones, podrá solicitar fundadamente la revocación de la medida a la Corte Suprema dentro de los cinco días siguientes a su notificación.
+La obligación señalada en el artículo 311 se entenderá cumplida por el juez transitoriamente destinado, para todos los efectos legales, por el hecho de verificarse respecto de su tribunal de origen.
+En ningún caso, la facultad establecida en este artículo podrá ser empleada como mecanismo de sanción o menoscabo en contra de los jueces destinados, ni tampoco ser utilizada reiteradamente respecto de un mismo juez.
+Sin perjuicio de lo señalado en el inciso segundo, la Corte Suprema podrá ejercer la facultad de destinación entre tribunales ubicados dentro de la Región Metropolitana, aun cuando dependan de distintas Cortes de Apelaciones.
 
 Art. 102. El primer día hábil de marzo la Corte Suprema iniciará sus funciones en audiencia pública, a la cual deberán concurrir su fiscal judicial y los miembros y fiscales judiciales de la Corte de Apelaciones de Santiago.
 El Presidente de la Corte Suprema dará cuenta en esta audiencia:
