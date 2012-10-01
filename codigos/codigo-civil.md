@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2012-02-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2012-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2012-02-17
-fetched_at: 2026-08-03T02:54:58.673763+00:00
+version_date: 2012-10-01
+fetched_at: 2026-08-03T02:58:34.898019+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -8007,7 +8007,8 @@ Art. 2.º El Registro Civil se llevará por duplicado y se dividirá en tres lib
 3.º De las defunciones.
 
 Art. 3.º En el libro de los nacimientos se inscribirán:
-1.º Los nacimientos que ocurran en el territorio de cada comuna;
+1.º Los nacimientos que ocurran en el territorio de cada comuna.
+El padre o la madre, al requerir esta inscripción, podrá solicitar que, junto con anotarse la comuna en que nació su hijo, se registre, en la misma partida, la comuna o localidad en la que estuviere avecindada la madre del recién nacido, la que deberá consignarse como lugar de origen de éste;
 2.º Los nacimientos que ocurran en viaje dentro del territorio de la República o en el mar, en la comuna en que termine el viaje o en la del primer puerto de arribada;
 3.º Los nacimientos de hijos de chilenos ocurridos en el extranjero, estando el padre o madre al servicio de la República. Estos nacimientos deberán inscribirse ante el cónsul chileno respectivo, quien remitirá los antecedentes al Ministerio de Relaciones Exteriores, el cual certificará la autenticidad de los documentos y los enviará al Conservador del Registro Civil para los efectos de su inscripción en el Registro de la Primera Sección de la comuna de Santiago.
 Los hijos de chilenos nacidos en el extranjero, que no se encuentren en el caso del inciso anterior, podrán, asimismo, ser inscritos en el Registro Civil chileno en la forma dispuesta en dicho inciso;
@@ -8162,10 +8163,11 @@ Art. 30. La inscripción de un hijo podrá requerirse dentro de los treinta día
 Art. 31. Las partidas de nacimiento deberán contener, además de las indicaciones comunes a toda inscripción, las siguientes:
 1.º Hora, día, mes, año y lugar en que ocurrió el nacimiento;
 2.º El sexo del recién nacido;
-3.º El nombre y apellido del nacido, que indique la persona que requiere la inscripción; y
+3.º El nombre y apellido del nacido, que indique la persona que requiere la inscripción;
 4.º Los nombres, apellidos, nacionalidad, profesión u oficio y domicilio de los padres, o los del padre o madre que le reconozca o haya reconocido. Se dejará constancia de los nombres y apellidos de la madre, aunque no haya reconocimiento, cuando la declaración del requirente coincida con el comprobante del médico que haya asistido al parto, en lo concerniente a las identidades del nacido y de la mujer que lo dio a luz.
 No podrá imponerse al nacido un nombre extravagante, ridículo, impropio de personas, equívoco respecto del sexo o contrario al buen lenguaje.
-Si el Oficial del Registro Civil, en cumplimiento de lo que dispone el inciso anterior, se opusiere a la inscripción de un nombre y el que lo solicite insistiere en ello, enviará de inmediato los antecedentes al Juez de Letras o del Departamento, quien resolverá en el menor plazo posible, sin forma de juicio, pero con audiencia de las partes, si el nombre propuesto está comprendido o no en la prohibición. Estas actuaciones estarán exentas de impuestos.
+Si el Oficial del Registro Civil, en cumplimiento de lo que dispone el inciso anterior, se opusiere a la inscripción de un nombre y el que lo solicite insistiere en ello, enviará de inmediato los antecedentes al Juez de Letras o del Departamento, quien resolverá en el menor plazo posible, sin forma de juicio, pero con audiencia de las partes, si el nombre propuesto está comprendido o no en la prohibición. Estas actuaciones estarán exentas de impuestos, y
+5º. La comuna o localidad en la que estuviere avecindada la madre del recién nacido deberá consignarse tanto en esta partida, cuanto en el certificado de nacimiento, como lugar de origen del hijo.
 
 Art. 32. En la inscripción del nacimiento podrán el padre, la madre o ambos reconocer al hijo como suyo. El Oficial del Registro Civil deberá dejar testimonio en la inscripción del nacimiento de las declaraciones que los padres o sus representantes formulen en conformidad al número 1.º del artículo 187 y al inciso primero del artículo 188 del Código Civil, certificar la identidad del solicitante y exigirle que estampe su firma, o, si no pudiere firmar, su impresión digital.
 Asimismo, el Oficial del Registro Civil deberá hacer saber por escrito a la madre o a la persona que inscriba un hijo de filiación no determinada, los derechos de los hijos para reclamar la determinación legal de la paternidad o maternidad y la forma de hacerlos valer ante los tribunales.
