@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2012-03-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2012-12-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2012-03-06
-fetched_at: 2026-08-03T02:55:22.692191+00:00
+version_date: 2012-12-15
+fetched_at: 2026-08-03T02:59:15.307720+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -968,6 +968,10 @@ La cooperación y asistencia entre las autoridades nacionales competentes y la C
 La jurisdicción de la Corte Penal Internacional, en los términos previstos en su Estatuto, sólo se podrá ejercer respecto de los crímenes de su competencia cuyo principio de ejecución sea posterior a la entrada en vigor en Chile del Estatuto de Roma.
 
 VIGÉSIMOQUINTA.- La modificación introducida en el inciso cuarto del artículo 60, entrará en vigencia transcurridos ciento ochenta días a contar de la publicación de esta ley en el Diario Oficial.
+
+VIGESIMOSEXTA.- Prorrógase el mandato de los consejeros regionales en ejercicio a la fecha de publicación de la presente reforma constitucional, y el de sus respectivos suplentes, hasta el 11 de marzo del año 2014.
+La primera elección por sufragio universal en votación directa de los consejeros regionales a que se refiere el inciso segundo del artículo 113 se realizará en conjunto con las elecciones de Presidente de la República y Parlamentarios, el día 17 de noviembre del año 2013.
+Para este efecto, las adecuaciones a la ley orgánica constitucional respectiva deberán entrar en vigencia antes del 20 de julio del año 2013.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Eduardo Dockendorff Vallejos, Ministro Secretario General de la Presidencia.-Francisco Vidal Salinas, Ministro del Interior.- Ignacio Walker Prieto, Ministro de Relaciones Exteriores.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción y Presidente de la Comisión Nacional de Energía.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Educación.- Luis Bates Hidalgo, Ministro de Justicia.- Jaime Estévez Valencia, Ministro de Obras Públicas y de Transportes y Telecomunicaciones.- Jaime Campos Quiroga, Ministro de Agricultura.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.- Pedro García Aspillaga, Ministro de Salud.- Alfonso Dulanto Rencoret, Ministro de Minería.- Sonia Tschorne Berestescky, Ministra de Vivienda y Urbanismo y de Bienes Nacionales.- Osvaldo Puccio Huidobro, Ministro Secretario General de Gobierno.- Yasna Provoste Campillay, Ministra de Planificación.
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Rodrigo Egaña Baraona, Subsecretario General de la Presidencia.
