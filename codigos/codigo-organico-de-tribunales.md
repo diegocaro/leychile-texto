@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2012-09-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2013-02-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2012-09-28
-fetched_at: 2026-08-03T02:58:16.873076+00:00
+version_date: 2013-02-01
+fetched_at: 2026-08-03T02:59:33.317790+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -698,21 +698,29 @@ q) El de la Corte de Punta Arenas comprenderá la Décimo Segunda Región de Mag
 Art. 56. Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indica:
 1º. Las Cortes de Apelaciones de Iquique, Copiapó, Chillán, Puerto Montt, Coihaique y Punta Arenas tendrán cuatro miembros;
 2º. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán siete miembros;
-3º. Las Cortes de Apelaciones de Valparaíso y Concepción tendrán dieciséis miembros;
-4º. La Corte de Apelaciones de San Miguel tendrá diecinueve miembros, y
-5º. La Corte de Apelaciones de Santiago tendrá treinta y un miembros.
+3º. Las Cortes de Apelaciones de Valparaíso y Concepción tendrán diecinueve miembros;
+4º. La Corte de Apelaciones de San Miguel tendrá veintidós miembros, y
+5º. La Corte de Apelaciones de Santiago tendrá treinta y cuatro miembros.
 
 Art. 57. Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado del 1° de marzo y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
 Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón.
 
 Art. 58. La Corte de Apelaciones de Santiago tendrá seis fiscales judiciales; la Corte de Apelaciones de San Miguel tendrá cuatro fiscales judiciales; las Cortes de Apelaciones de Valparaíso y Concepción tendrán tres fiscales judiciales; las Cortes de Apelaciones de Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán dos fiscales judiciales. Las demás Cortes de Apelaciones tendrán un fiscal judicial cada una. El ejercicio de sus funciones será reglado por el tribunal como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
-Art. 59. Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán cuatro relatores; las Cortes de Apelaciones de Valparaíso y Concepción tendrán diez relatores; la Corte de Apelaciones de San Miguel tendrá doce relatores; y la Corte de Apelaciones de Santiago tendrá veintidós relatores.
+Art. 59. Las Cortes de Apelaciones tendrán el número de relatores que a continuación se indica:
+1º. La Corte de Apelaciones de Chillán tendrá dos relatores;
+2º. Las Cortes de Apelaciones de Iquique, Copiapó, Puerto Montt, Coyhaique y Punta Arenas tendrán tres relatores;
+3º. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán cinco relatores;
+4º. Las Cortes de Apelaciones de Valparaíso y Concepción, tendrán once relatores;
+5º. La Corte de Apelaciones de San Miguel tendrá trece relatores, y
+6º. La Corte de Apelaciones de Santiago tendrá veintitrés relatores.
 
 Art. 60. Cada Corte de Apelaciones tendrá un secretario.
 La Corte de Apelaciones de San Miguel tendrá dos secretarios. La Corte de Apelaciones de Santiago tendrá tres secretarios. Cada tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
 
-Art. 61. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia se dividirán en dos salas; las Cortes de Apelaciones de Valparaíso y Concepción en cinco salas; la Corte de Apelaciones de San Miguel en seis salas; y la Corte de Apelaciones de Santiago en nueve salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones, tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil de enero de cada año.
+Art. 61. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia se dividirán en dos salas; las Cortes de Apelaciones de Valparaíso y Concepción en seis salas; la Corte de Apelaciones de San Miguel en siete salas; y la Corte de Apelaciones de Santiago en diez salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones, tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil de enero de cada año.
+No obstante, para los efectos de lo dispuesto en los incisos séptimo y noveno del artículo 66, las Cortes de Apelaciones designarán cada dos años, mediante auto acordado, los miembros del tribunal que deberán integrar la sala a la que corresponda el conocimiento, en forma exclusiva o preferente, de los asuntos tributarios y aduaneros. Se preferirá para su integración a aquellos ministros que posean conocimientos especializados en estas materias.
+Para la acreditación de los conocimientos especializados a que se refiere el inciso anterior se deberá considerar la participación en cursos de perfeccionamiento o postgrado sobre la materia.
 
 Art. 62. Las Cortes de Apelaciones integradas por sus fiscales judiciales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo.
 Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla y de las apelaciones que deban conocerse en cuenta, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento.
@@ -746,6 +754,9 @@ En caso que ante una misma Corte de Apelaciones se encuentren pendientes distint
 Corresponderá a todo el tribunal el ejercicio de las facultades disciplinarias, administrativas y económicas, sin perjuicio de que las salas puedan ejercer las primeras en los casos de los artículos 542 y 543 en los asuntos que estén conociendo. También corresponderá a todo el tribunal el conocimiento de los desafueros de los Diputados y de los Senadores y de los juicios de amovilidad en contra de los jueces de letras.
 No obstante lo dispuesto en el inciso anterior, los recursos de queja serán conocidos y fallados por las salas del tribunal, según la distribución que de ellos haga el Presidente; pero la aplicación de medidas disciplinarias corresponderá al tribunal pleno.
 La Corte de Apelaciones de Santiago conocerá en pleno de los recursos de apelación y casación en la forma, en su caso, que incidan en los juicios de amovilidad y en las demandas civiles contra los ministros y el fiscal judicial de la Corte Suprema.
+Las Cortes de Apelaciones de Valparaíso, Concepción, San Miguel y Santiago, designarán una de sus salas para que conozca exclusivamente de los asuntos tributarios y aduaneros que se promuevan. Dicha designación se efectuará mediante auto acordado que se dictará cada dos años.
+En las demás Cortes de Apelaciones, el Presidente designará una sala para que conozca en forma preferente de esta materia en uno o más días a la semana.
+El relator que se designare para las salas a que se hace referencia en los incisos precedentes, deberá contar con especialización en materias tributarias y aduaneras, la que deberá acreditarse preferentemente sobre la base de la participación en cursos de perfeccionamiento y postgrado u otra forma mediante la cual se demuestre tener conocimientos relevantes en dichas materias.
 
 Art. 67. Para el funcionamiento del tribunal pleno se requerirá, a lo menos, la concurrencia de la mayoría absoluta de los miembros de que se componga la Corte.
 Las salas no podrán funcionar sin la concurrencia de tres jueces como mínimum.
@@ -753,7 +764,7 @@ Las salas no podrán funcionar sin la concurrencia de tres jueces como mínimum.
 Art. 68. Las Cortes de Apelaciones resolverán los asuntos en cuenta o previa vista de ellos, según corresponda.
 
 Art. 69. Los Presidentes de las Cortes de Apelaciones formarán el último día hábil de cada semana una tabla de los asuntos que verá el tribunal en la semana siguiente, que se encuentren en estado de relación. Se consideran expedientes en estado de relación aquellos que hayan sido previamente revisados y certificados al efecto por el relator que corresponda.
-En las Cortes de Apelaciones que consten de más de una sala se formarán tantas tablas cuantas sea el número de salas y se distribuirán entre ellas por sorteo, en audiencia pública.
+En las Cortes de Apelaciones que consten de más de una sala se formarán tantas tablas cuantas sea el número de salas y se distribuirán entre ellas por sorteo, en audiencia pública. Sin perjuicio de lo anterior, los asuntos que según la materia deban ser conocidos por las salas a que se refieren los incisos séptimo y octavo del artículo 66, serán asignados a éstas por el Presidente del tribunal, quien lo determinará sin ulterior recurso.
 En las tablas deberá designarse un día de la semana para conocer las causas criminales y otro día distinto para conocer las causas de familia, sin perjuicio de la preferencia que la ley o el tribunal les acuerden.
 Sin embargo, los recursos de amparo y las apelaciones relativas a la libertad de los imputados u otras medidas cautelares personales en su contra serán de competencia de la sala que haya conocido por primera vez del recurso o de la apelación, o que hubiere sido designada para tal efecto, aunque no hubiere entrado a conocerlos.
 Serán agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, en casos urgentes:
