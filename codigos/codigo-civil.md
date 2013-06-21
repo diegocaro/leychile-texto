@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2012-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2013-06-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2012-10-01
-fetched_at: 2026-08-03T02:58:34.898019+00:00
+version_date: 2013-06-21
+fetched_at: 2026-08-03T03:01:42.605641+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -754,32 +754,56 @@ Art. 221. La sentencia que dé lugar a la acción de reclamación o de impugnaci
 ##### Título IX
 De los derechos y obligaciones entre los padres y los hijos
 
-Art. 222. Los hijos deben respeto y obediencia a sus padres. La preocupación fundamental de los padres es el interés superior del hijo, para lo cual procurarán su mayor realización espiritual y material posible, y lo guiarán en el ejercicio de los derechos esenciales que emanan de la naturaleza humana de modo conforme a la evolución de sus facultades.
+Art. 222. La preocupación fundamental de los padres es el interés superior del hijo, para lo cual procurarán su mayor realización espiritual y material posible, y lo guiarán en el ejercicio de los derechos esenciales que emanan de la naturaleza humana de modo conforme a la evolución de sus facultades.
+Los hijos deben respeto y obediencia a sus padres.
 
 Art. 223. Aunque la emancipación confiera al hijo el derecho de obrar independientemente, queda siempre obligado a cuidar de los padres en su ancianidad, en el estado de demencia, y en todas las circunstancias de la vida en que necesitaren sus auxilios.
 Tienen derecho al mismo socorro todos los demás ascendientes, en caso de inexistencia o de insuficiencia de los inmediatos descendientes.
 
-Art. 224. Toca de consuno a los padres, o al padre o madre sobreviviente, el cuidado personal de la crianza y educación de sus hijos.
+Art. 224. Toca de consuno a los padres, o al padre o madre sobreviviente, el cuidado personal de sus hijos. Éste se basará en el principio de corresponsabilidad, en virtud del cual ambos padres, vivan juntos o separados, participarán en forma activa, equitativa y permanente en la crianza y educación de sus hijos.
 El cuidado personal del hijo no concebido ni nacido durante el matrimonio, reconocido por uno de los padres, corresponde al padre o madre que lo haya reconocido. Si no ha sido reconocido por ninguno de sus padres, la persona que tendrá su cuidado será determinada por el juez.
 
-Art. 225. Si los padres viven separados, a la madre toca el cuidado personal de los hijos.
-No obstante, mediante escritura pública, o acta extendida ante cualquier oficial del Registro Civil, subinscrita al margen de la inscripción de nacimiento del hijo dentro de los treinta días siguientes a su otorgamiento, ambos padres, actuando de común acuerdo, podrán determinar que el cuidado personal de uno o más hijos corresponda al padre. Este acuerdo podrá revocarse, cumpliendo las mismas solemnidades.
-En todo caso, cuando el interés del hijo lo haga indispensable, sea por maltrato, descuido u otra causa calificada, el juez podrá entregar su cuidado personal al otro de los padres. Pero no podrá confiar el cuidado personal al padre o madre que no hubiese contribuido a la mantención del hijo mientras estuvo bajo el cuidado del otro padre, pudiendo hacerlo.
-Mientras una subinscripción relativa al cuidado personal no sea cancelada por otra posterior, todo nuevo acuerdo o resolución será inoponible a terceros.
+Art. 225. Si los padres viven separados podrán determinar de común acuerdo que el cuidado personal de los hijos corresponda al padre, a la madre o a ambos en forma compartida. El acuerdo se otorgará por escritura pública o acta extendida ante cualquier oficial del Registro Civil y deberá ser subinscrito al margen de la inscripción de nacimiento del hijo dentro de los treinta días subsiguientes a su otorgamiento. Este acuerdo establecerá la frecuencia y libertad con que el padre o madre que no tiene el cuidado personal mantendrá una relación directa y regular con los hijos y podrá revocarse o modificarse cumpliendo las mismas solemnidades.
+El cuidado personal compartido es un régimen de vida que procura estimular la corresponsabilidad de ambos padres que viven separados, en la crianza y educación de los hijos comunes, mediante un sistema de residencia que asegure su adecuada estabilidad y continuidad.
+A falta del acuerdo del inciso primero, los hijos continuarán bajo el cuidado personal del padre o madre con quien estén conviviendo.
+En cualesquier de los casos establecidos en este artículo, cuando las circunstancias lo requieran y el interés superior del hijo lo haga conveniente, el juez podrá atribuir el cuidado personal del hijo al otro de los padres, o radicarlo en uno solo de ellos, si por acuerdo existiere alguna forma de ejercicio compartido. Lo anterior debe entenderse sin perjuicio de lo dispuesto en el artículo 226.
+En ningún caso el juez podrá fundar exclusivamente su decisión en la capacidad económica de los padres.
+Siempre que el juez atribuya el cuidado personal del hijo a uno de los padres, deberá establecer, de oficio o a petición de parte, en la misma resolución, la frecuencia y libertad con que el otro padre o madre que no tiene el cuidado personal mantendrá una relación directa y regular con los hijos, considerando su interés superior, siempre que se cumplan los criterios dispuestos en el artículo 229.
+Mientras una nueva subinscripción relativa al cuidado personal no sea cancelada por otra posterior, todo nuevo acuerdo o resolución será inoponible a terceros.
 
-Art. 226. Podrá el juez, en el caso de inhabilidad física o moral de ambos padres, confiar el cuidado personal de los hijos a otra persona o personas competentes.
-En la elección de estas personas se preferirá a los consanguíneos más próximos, y sobre todo, a los ascendientes.
+Art. 225-2. En el establecimiento del régimen y ejercicio del cuidado personal, se considerarán y ponderarán conjuntamente los siguientes criterios y circunstancias:
+a) La vinculación afectiva entre el hijo y sus padres, y demás personas de su entorno familiar.
+b) La aptitud de los padres para garantizar el bienestar del hijo y la posibilidad de procurarle un entorno adecuado, según su edad.
+c) La contribución a la mantención del hijo mientras estuvo bajo el cuidado personal del otro padre, pudiendo hacerlo.
+d) La actitud de cada uno de los padres para cooperar con el otro, a fin de asegurar la máxima estabilidad al hijo y garantizar la relación directa y regular, para lo cual considerará especialmente lo dispuesto en el inciso quinto del artículo 229.
+e) La dedicación efectiva que cada uno de los padres procuraba al hijo antes de la separación y, especialmente, la que pueda seguir desarrollando de acuerdo con sus posibilidades.
+f) La opinión expresada por el hijo.
+g) El resultado de los informes periciales que se haya ordenado practicar.
+h) Los acuerdos de los padres antes y durante el respectivo juicio.
+i) El domicilio de los padres.
+j) Cualquier otro antecedente que sea relevante atendido el interés superior del hijo.
+
+Art. 226. Podrá el juez, en el caso de inhabilidad física o moral de ambos padres, confiar el cuidado personal de los hijos a otra persona o personas competentes, velando primordialmente por el interés superior del niño conforme a los criterios establecidos en el artículo 225-2.
+En la elección de estas personas se preferirá a los consanguíneos más próximos y, en especial, a los ascendientes.
 
 Art. 227. En las materias a que se refieren los artículos precedentes, el juez oirá a los hijos y a los parientes.
-Las resoluciones que se dicten, una vez ejecutoriadas, se subinscribirán en la forma y plazo
-NOTA:
-que establece el artículo 225.
-NOTA:
-El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
+Las resoluciones que se dicten, una vez ejecutoriadas, se subinscribirán en la forma y plazo que establece el artículo 225.
+El juez podrá apremiar en la forma establecida en el artículo 543 del Código de Procedimiento Civil, a quien fuere condenado por resolución judicial que cause ejecutoria, a hacer entrega del hijo y no lo hiciere o se negare a hacerlo en el plazo que se hubiere determinado para estos efectos. En igual apremio incurrirá el que retuviere especies del hijo y se negare a hacer entrega de ellas a requerimiento del juez.
 
-Art. 228. La persona casada a quien corresponda el cuidado personal de un hijo que no ha nacido de ese matrimonio, sólo podrá tenerlo en el hogar común, con el consentimiento de su cónyuge.
+Art. 228. Derogado.
 
-Art. 229. El padre o madre que no tenga el cuidado personal del hijo no será privado del derecho ni quedará exento del deber, que consiste en mantener con él una relación directa y regular, la que ejercerá con la frecuencia y libertad acordada con quien lo tiene a su cargo, o, en su defecto, con las que el juez estimare conveniente para el hijo. Se suspenderá o restringirá el ejercicio de este derecho cuando manifiestamente perjudique el bienestar del hijo, lo que declarará el tribunal fundadamente.
+Art. 229. El padre o madre que no tenga el cuidado personal del hijo tendrá el derecho y el deber de mantener con él una relación directa y regular, la que se ejercerá con la frecuencia y libertad acordada directamente con quien lo tiene a su cuidado según las convenciones a que se refiere el inciso primero del artículo 225 o, en su defecto, con las que el juez estimare conveniente para el hijo.
+Se entiende por relación directa y regular aquella que propende a que el vínculo familiar entre el padre o madre que no ejerce el cuidado personal y su hijo se mantenga a través de un contacto periódico y estable.
+Para la determinación de este régimen, los padres, o el juez en su caso, fomentarán una relación sana y cercana entre el padre o madre que no ejerce el cuidado personal y su hijo, velando por el interés superior de este último, su derecho a ser oído y la evolución de sus facultades, y considerando especialmente:
+a) La edad del hijo.
+b) La vinculación afectiva entre el hijo y su padre o madre, según corresponda, y la relación con sus parientes cercanos.
+c) El régimen de cuidado personal del hijo que se haya acordado o determinado.
+d) Cualquier otro elemento de relevancia en consideración al interés superior del hijo.
+Sea que se decrete judicialmente el régimen de relación directa y regular o en la aprobación de acuerdos de los padres en estas materias, el juez deberá asegurar la mayor participación y corresponsabilidad de éstos en la vida del hijo, estableciendo las condiciones que fomenten una relación sana y cercana.
+El padre o madre que ejerza el cuidado personal del hijo no obstaculizará el régimen de relación directa y regular que se establezca a favor del otro padre, conforme a lo preceptuado en este artículo.
+Se suspenderá o restringirá el ejercicio de este derecho cuando manifiestamente perjudique el bienestar del hijo, lo que declarará el tribunal fundadamente.
+
+Art. 229-2. El hijo tiene derecho a mantener una relación directa y regular con sus abuelos. A falta de acuerdo, el juez fijará la modalidad de esta relación atendido el interés del hijo, en conformidad a los criterios del artículo 229.
 
 Art. 230. Los gastos de educación, crianza y establecimiento de los hijos son de cargo de la sociedad conyugal, según las reglas que tratando de ella se dirán. Si no la hubiere, los padres contribuirán en proporción a sus respectivas facultades económicas.
 En caso de fallecimiento del padre o madre, dichos gastos corresponden al sobreviviente.
@@ -825,10 +849,14 @@ Art. 243. La patria potestad es el conjunto de derechos y deberes que correspond
 La patria potestad se ejercerá también sobre los derechos eventuales del hijo que está por nacer.
 
 Art. 244. La patria potestad será ejercida por el padre o la madre o ambos conjuntamente, según convengan en acuerdo suscrito por escritura pública o acta extendida ante cualquier oficial del Registro Civil, que se subinscribirá al margen de la inscripción de nacimiento del hijo dentro de los treinta días siguientes a su otorgamiento.
-A falta de acuerdo, al padre toca el ejercicio de la patria potestad. En todo caso, cuando el interés del hijo lo haga indispensable, a petición de uno de los padres, el juez podrá confiar el ejercicio de la patria potestad al padre o madre que carecía de él, o radicarlo en uno solo de los padres, si la ejercieren conjuntamente. Ejecutoriada la resolución, se subinscribirá dentro del mismo plazo señalado en el inciso primero.
+A falta de acuerdo, toca al padre y a la madre en conjunto el ejercicio de la patria potestad.
+Con todo, los padres podrán actuar indistintamente en los actos de mera conservación. Respecto del resto de los actos, se requerirá actuación conjunta. En caso de desacuerdo de los padres, o cuando uno de ellos esté ausente o impedido o se negare injustificadamente, se requerirá autorización judicial.
+En todo caso, cuando el interés del hijo lo haga indispensable, a petición de uno de los padres, el juez podrá confiar el ejercicio de la patria potestad al padre o madre que carecía de él, o radicarlo en uno solo de los padres, si la ejercieren conjuntamente. Ejecutoriada la resolución, se subinscribirá dentro del mismo plazo señalado en el inciso primero.
 En defecto del padre o madre que tuviere la patria potestad, los derechos y deberes corresponderán al otro de los padres.
 
-Art. 245. Si los padres viven separados, la patria potestad será ejercida por aquel que tenga a su cargo el cuidado personal del hijo, de conformidad al artículo 225. Sin embargo, por acuerdo de los padres, o resolución judicial fundada en el interés del hijo, podrá atribuirse al otro padre la patria potestad. Se aplicará al acuerdo o a la sentencia judicial, las normas sobre subinscripción previstas en el artículo precedente.
+Art. 245. Si los padres viven separados, la patria potestad será ejercida por aquel que tenga a su cargo el cuidado personal del hijo, o por ambos, de conformidad al artículo 225.
+Sin embargo, por acuerdo de los padres o resolución judicial fundada en el interés del hijo, podrá atribuirse la patria potestad al otro padre o radicarla en uno de ellos si la ejercieren conjuntamente. Además, basándose en igual interés, los padres podrán ejercerla en forma conjunta. Se aplicarán al acuerdo o a la resolución judicial las normas sobre subinscripción previstas en el artículo precedente.
+En el ejercicio de la patria potestad conjunta, se aplicará lo establecido en el inciso tercero del artículo anterior.
 
 Art. 246. Mientras una subinscripción relativa al ejercicio de la patria potestad no sea cancelada por otra posterior, todo nuevo acuerdo o resolución será inoponible a terceros.
 
@@ -8514,7 +8542,7 @@ NOTA:
 NOTA:
 El artículo 1º transitorio de la LEY 20084, publicada el 07.12.2005, dispone que la derogación de la presente norma, rige dieciocho meses después de su publicación.
 
-Art. 42. Para los efectos del artículo 226 del Código Civil, se entenderá que uno o ambos padres se encuentran en el caso de inhabilidad física o moral:
+Art. 42. Para el solo efecto del artículo 226 del Código Civil, se entenderá que uno o ambos padres se encuentran en el caso de inhabilidad física o moral:
 1.º Cuando estuvieren incapacitados mentalmente;
 2.º Cuando padecieren de alcoholismo crónico;
 3.º Cuando no velaren por la crianza, cuidado personal o educación del hijo;
