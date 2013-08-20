@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2013-02-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2013-08-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2013-02-02
-fetched_at: 2026-08-03T02:59:51.338366+00:00
+version_date: 2013-08-20
+fetched_at: 2026-08-03T03:02:00.631272+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2036,7 +2036,7 @@ El que, a cambio de dinero u otras prestaciones de cualquier naturaleza, obtuvie
 Disposiciones comunes a los dos párrafos anteriores.
 
 ART. 368.
-Si los delitos previstos en los dos párrafos anteriores hubieren sido cometidos por autoridad pública, ministro de un culto religioso, guardador, maestro, empleado o encargado por cualquier título o causa de la educación, guarda, curación o cuidado del ofendido, se impondrá al responsable la pena señalada al delito con exclusión de su grado mínimo, si ella consta de dos o más grados, o de su mitad inferior, si la pena es un grado de una divisible.
+Si los delitos previstos en los dos párrafos anteriores hubieren sido cometidos por autoridad pública, ministro de un culto religioso, guardador, maestro, empleado o encargado por cualquier título o causa de la educación, guarda, curación o cuidado del ofendido, se impondrá al responsable la pena señalada al delito con exclusión de su grado mínimo, si ella consta de dos o más grados, o de su mitad inferior, si la pena es un grado de una divisible. La misma regla se aplicará a quien hubiere cometido los mencionados delitos en contra de un menor de edad con ocasión de las funciones que desarrolle, aun en forma esporádica, en recintos educacionales, y al que los cometa con ocasión del servicio de transporte escolar que preste a cualquier título.
 Exceptúanse los casos en que el delito sea de aquellos que la ley describe y pena expresando las circunstancias de usarse fuerza o intimidación, abusarse de una relación de dependencia de la víctima o abusarse de autoridad o confianza.
 
 ART. 368 bis.
@@ -2100,7 +2100,7 @@ En las mismas penas incurrirá el autor del manuscrito, de la figura o de la est
 La sentencia condenatoria por este delito ordenará la destrucción total o parcial, según proceda, de los impresos o de las grabaciones sonoras o audiovisuales de cualquier tipo que sean objeto de comiso.
 
 ART. 374 bis.
-El que comercialice, importe, exporte, distribuya, difunda o exhiba material pornográfico, cualquiera sea su soporte, en cuya elaboración hayan sido utilizados menores de dieciocho años, será sancionado con la pena de presidio menor en su grado medio a máximo.
+El que comercialice, importe, exporte, distribuya, difunda o exhiba material pornográfico, cualquiera sea su soporte, en cuya elaboración hayan sido utilizados menores de dieciocho años, será sancionado con la pena de presidio menor en su grado máximo.
 El que maliciosamente adquiera o almacene material pornográfico, cualquiera sea su soporte, en cuya elaboración hayan sido utilizados menores de dieciocho años, será castigado con presidio menor en su grado medio.
 
 ART. 374 ter.
