@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2010-01-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2013-11-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 2010-01-26
-fetched_at: 2026-08-03T01:55:49.231731+00:00
+version_date: 2013-11-12
+fetched_at: 2026-08-03T03:02:40.266484+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -969,6 +969,7 @@ Para que opere lo dispuesto en los dos incisos precedentes, deberá dejarse expr
 
 ARTICULO 220°- Las convocatorias a junta se harán saber a los comuneros por medio de un aviso que se publicará en un diario o periódico de la capital de la provincia en que tenga domicilio la comunidad.
 A falta de ellos, la convocatoria se realizará por medio de un aviso publicado en un diario o periódico de la ciudad capital de la región correspondiente. Además, se dirigirá carta certificada al domicilio que el comunero haya registrado en la secretaría de la comunidad, en caso de citación a junta extraordinaria.
+Adicionalmente, en caso que la convocatoria comprenda las materias referidas en los artículos 241, número 23, ó 274, número 9, ésta se publicará y comunicará en la forma prescrita por el artículo 131, con no menos de diez ni más de sesenta días de anticipación a la fecha de la junta.
 
 ARTICULO 221°- Las convocatorias a juntas se harán con diez días de anticipación, a lo menos, indicándose el lugar, día, hora y objeto de la junta.
 
@@ -1060,8 +1061,9 @@ En caso que sea necesario efectuar obras para reparar las instalaciones afectada
 19. Delegar sus atribuciones en uno o más directores;
 20. Llevar una estadística de los caudales que se conducen por los canales de la comunidad;
 21. Realizar programas de extensión para difundir entre los comuneros las técnicas y sistemas que tiendan a un mejor empleo de agua, pudiendo celebrar convenios para este objeto;
-22. Comunicar a la junta de vigilancia de que forma parte, el nombre del ingeniero asesor y el de su reemplazante, en caso que los tuviera, y
-23. Los demás que las leyes y los estatutos señalen.
+22. Comunicar a la junta de vigilancia de que forma parte, el nombre del ingeniero asesor y el de su reemplazante, en caso que los tuviera;
+23. Representar a los comuneros en el procedimiento de perfeccionamiento de los títulos en que consten sus derechos de aprovechamiento de aguas, cuando no existiere Junta de Vigilancia, en dicho río, álveo o acuífero, y previo acuerdo adoptado por los dos tercios de los votos emitidos en junta extraordinaria convocada al efecto, y
+24. Los demás que las leyes y los estatutos señalen.
 
 ARTICULO 242°- El directorio podrá solicitar de la autoridad correspondiente, por intermedio del Juez, el auxilio de la fuerza pública para hacer cumplir y respetar las medidas de distribución de aguas que acordase.
 Ordenado el auxilio de la fuerza pública ésta deberá ser concedida y de ella se hará uso con allanamiento y descerrajamiento, si fuere necesario.
@@ -1176,15 +1178,16 @@ ARTICULO 273°- El domicilio de la junta de vigilancia será la capital de la pr
 
 ARTICULO 274°- Son atribuciones y deberes del directorio los siguientes:
 1. Vigilar que la captación de las aguas se haga por medio de obras adecuadas y, en general, tomar las medidas que tiendan al goce completo y a la correcta distribución de los derechos de aprovechamiento de aguas sometidos a su control;
-2. Distribuir las aguas de los cauces naturales que administre, declarar su escasez y, en este caso, fijar las medidas de distribución extraordinarias con arreglo a los derechos establecidos y suspenderlas. La declaración de escasez de las aguas, como también la suspensión de las medidas de distribución extraordinarias, deberán hacerse por el directorio en sesión convocada especialmente para ese efecto;
+2. Distribuir las aguas de los cauces naturales que administre, declarar su escasez y, en este caso, fijar las medidas de distribución extraordinarias con arreglo a los derechos establecidos y suspenderlas. La declaración de escasez de las aguas, como también la suspensión de las medidas de distribución extraordinarias, deberá hacerse por el directorio en sesión convocada especialmente para ese efecto;
 3. Privar del uso de las aguas en los casos que determinen las leyes o los estatutos;
 4. Conocer las cuestiones que se susciten sobre construcción o ubicación, dentro del cauce de uso público, de obras provisionales destinadas a dirigir las aguas hacia la bocatoma de los canales.
 Las obras definitivas requerirán el permiso de la Dirección General de Aguas;
 5. Mantener al día la matrícula de los canales;
 6. Solicitar al Director General de Aguas la declaración de agotamiento de los caudales de agua sometidos a su jurisdicción;
 7. Ejercitar las atribuciones señaladas en los números 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 y 19 del artículo 241, y las demás que se le confieren en los estatutos;
-8. Exigir el cumplimiento de la obligación impuesta por el número 20 del artículo 241, y
-9. Los demás que señalen las leyes.
+8. Exigir el cumplimiento de la obligación impuesta por el número 20 del artículo 241;
+9. Representar a los titulares de derechos de aguas sometidos a su control en el procedimiento de perfeccionamiento de los títulos en que consten sus derechos de aprovechamiento de aguas, previo acuerdo adoptado por los dos tercios de los votos emitidos en junta extraordinaria convocada al efecto, y
+10. Los demás que señalen las leyes.
 
 ARTICULO 275°- Los miembros de la junta de vigilancia que se sientan perjudicados por un acuerdo adoptado por el directorio en uso de las atribuciones que le confieren los números 2, 3 y 4, del artículo anterior, podrán reclamar de él ante los Tribunales Ordinarios de Justicia.
 Esta reclamación deberá deducirse en contra del directorio de la junta de vigilancia, representada por su presidente que se cursará sin más trámite que un comparendo al cual concurrirán las partes con todos sus medios de prueba. La reclamación deberá resolverse dentro de los ocho días siguientes a la celebración del comparendo.
