@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2013-08-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2013-12-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2013-08-20
-fetched_at: 2026-08-03T03:02:00.631272+00:00
+version_date: 2013-12-01
+fetched_at: 2026-08-03T03:03:19.200465+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2630,6 +2630,9 @@ En cuanto a la prueba del depósito en el caso a que se refiere el art. 2.217 de
 7.° A los que en el juego se valieren de fraude para asegurar la suerte.
 8.° A los que fraudulentamente obtuvieren del Fisco, de las municipalidades, de las Cajas de Previsión y de las instituciones centralizadas o descentralizadas del Estado, prestaciones improcedentes, tales como remuneraciones, bonificaciones, subsidios, pensiones, jubilaciones, asignaciones, devoluciones o imputaciones indebidas.
 9.° Al que, con ánimo de defraudar, con o sin representación de persona natural o jurídica dedicada al rubro inmobiliario o de la construcción, suscribiere o hiciere suscribir contrato de promesa de compraventa de inmueble dedicado a la vivienda, local comercial u oficina, sin cumplir con las exigencias establecidas por el artículo 138 bis de la Ley General de Urbanismo y Construcciones, siempre que se produzca un perjuicio patrimonial para el promitente comprador.
+10.° A los que maliciosamente obtuvieren para sí, o para un tercero, el pago total o parcialmente indebido de un seguro, sea simulando la existencia de un siniestro, provocándolo intencionalmente, presentándolo ante el asegurador como ocurrido por causas o en circunstancias distintas a las verdaderas, ocultando la cosa asegurada o aumentando fraudulentamente las pérdidas efectivamente sufridas.
+Si no se verifica el pago indebido por causas independientes de su voluntad, se aplicará el mínimo o, en su caso, el grado mínimo de la pena.
+La pena se determinará de acuerdo con el monto de lo indebidamente solicitado.
 
 ART. 471.
 Será castigado con presidio o relegación menores en sus grados mínimos o multa de once a veinte unidades tributarias mensuales:
