@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2013-02-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2013-12-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2013-02-01
-fetched_at: 2026-08-03T02:59:45.329539+00:00
+version_date: 2013-12-13
+fetched_at: 2026-08-03T03:03:43.229178+00:00
 titulo_norma: "CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -514,8 +514,8 @@ Artículo 83.- Las municipalidades estarán obligadas a cooperar en los trabajos
 Artículo 84.- Una copia de los balances y estados de situación que se presenten a los bancos y demás instituciones de crédito será enviada por estas instituciones a la Dirección Regional, en los casos particulares en que el Director Regional lo solicite.
 
 Art. 85. El Banco del Estado, las cajas de previsión y las instituciones bancarias y de crédito en general, remitirán al Servicio, en la forma que el Director Regional determine, las copias de las tasaciones de bienes raíces que hubieren practicado.
-Sin perjuicio de lo dispuesto en los artículos 61 y 62, para los fines de la fiscalización de los impuestos, los Bancos e Instituciones Financieras deberán proporcionar todos los datos que se les soliciten relativos a las operaciones de crédito de dinero que hayan celebrado y de las garantías constituidas para su otorgamiento, en la oportunidad, forma y cantidad que el Servicio establezca, con excepción de aquellas operaciones de crédito de dinero otorgadas para el uso de tarjetas de crédito que se produce entre el usuario de la tarjeta y el banco emisor, cuyos titulares no sean contribuyentes del Impuesto de Primera Categoría de la Ley de la Renta y se trate de tarjetas de crédito destinadas exclusivamente al uso particular de una persona natural y no para el desarrollo de una actividad clasificada en dicha Categoría. Lo dispuesto anteriormente no será aplicable a las operaciones de crédito celebradas y garantías constituidas por los contribuyentes del artículo 20, número 2, de la Ley de la Renta, ni a las operaciones celebradas y garantías constituidas que correspondan a un período superior al plazo de tres años. En caso alguno se podrá solicitar la información sobre las adquisiciones efectuadas por una persona determinada en el uso de las tarjetas de crédito.
-La información así obtenida será mantenida en secreto y no se podrá revelar, aparte del contribuyente, más que a las personas o autoridades encargadas de la liquidación o de la recaudación de los impuestos pertinentes y de resolver las reclamaciones y recursos relativos a las mismas, salvo las excepciones legales.
+Sin perjuicio de lo dispuesto en los artículos 61 y 62, para los fines de la fiscalización de los impuestos, los Bancos e Instituciones Financieras y cualquiera otra institución que realice operaciones de crédito de dinero de manera masiva de conformidad a lo dispuesto en el artículo 31 de la ley Nº 18.010, deberán proporcionar todos los datos que se les soliciten relativos a las operaciones de crédito de dinero que hayan celebrado y de las garantías constituidas para su otorgamiento, en la oportunidad, forma y cantidad que el Servicio establezca. En caso alguno se podrá solicitar la información sobre las adquisiciones efectuadas por una persona determinada en el uso de las tarjetas de crédito.
+La información así obtenida será mantenida en secreto y no se podrá revelar, aparte del contribuyente, mas que a las personas o autoridades encargadas de la liquidación o de la recaudación de los impuestos pertinentes y de resolver las reclamaciones y recursos relativos a las mismas, salvo las excepciones legales.
 
 Artículo 86.- Los funcionarios del Servicio, nominativa y expresamente autorizados por el Director, tendrán el carácter de ministros de fe, para todos los efectos de este Código y las leyes tributarias.
 
