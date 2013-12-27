@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2012-06-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2013-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2012-06-02
-fetched_at: 2026-08-03T02:56:04.737930+00:00
+version_date: 2013-12-27
+fetched_at: 2026-08-03T03:04:25.269774+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -535,7 +535,7 @@ Artículo 128.- Detención por cualquier tribunal. Todo tribunal, aunque no ejer
 Artículo 129.- Detención en caso de flagrancia. Cualquier persona podrá detener a quien sorprendiere en delito flagrante, debiendo entregar inmediatamente al aprehendido a la policía, al ministerio público o a la autoridad judicial más próxima.
 Los agentes policiales estarán obligados a detener a quienes sorprendieren in fraganti en la comisión de un delito.
 No obstará a la detención la circunstancia de que la persecución penal requiriere instancia particular previa, si el delito flagrante fuere de aquellos previstos y sancionados en los artículos 361 a 366 quater del Código Penal.
-La policía deberá, asimismo, detener al sentenciado a penas privativas de libertad que hubiere quebrantado su condena, al que se fugare estando detenido, al que tuviere orden de detención pendiente, a quien fuere sorprendido en violación flagrante de las medidas cautelares personales que se le hubieren impuesto y al que violare la condición del artículo 238, letra b), que le hubiere sido impuesta para la protección de otras personas.
+La policía deberá, asimismo, detener al sentenciado a penas privativas de libertad que hubiere quebrantado su condena, al que se fugare estando detenido, al que tuviere orden de detención pendiente, a quien fuere sorprendido en violación flagrante de las medidas cautelares personales que se le hubieren impuesto, al que fuere sorprendido infringiendo las condiciones impuestas en virtud de las letras a), b), c) y d) del artículo 17 ter de la ley Nº 18.216 y al que violare la condición del artículo 238, letra b), que le hubiere sido impuesta para la protección de otras personas.
 En los casos de que trata este artículo, la policía podrá ingresar a un lugar cerrado, mueble o inmueble, cuando se encontrare en actual persecución del individuo a quien debiere detener, para el solo efecto de practicar la respectiva detención.
 
 Artículo 130.- Situación de flagrancia. Se entenderá que se encuentra en situación de flagrancia:
@@ -588,8 +588,12 @@ b) Que existen antecedentes que permitieren presumir fundadamente que el imputad
 c) Que existen antecedentes calificados que permitieren al tribunal considerar que la prisión preventiva es indispensable para el éxito de diligencias precisas y determinadas de la investigación, o que la libertad del imputado es peligrosa para la seguridad de la sociedad o del ofendido, o que existe peligro de que el imputado se dé a la fuga, conforme a las disposiciones de los incisos siguientes.
 Se entenderá especialmente que la prisión preventiva es indispensable para el éxito de la investigación cuando existiere sospecha grave y fundada de que el imputado pudiere obstaculizar la investigación mediante la destrucción, modificación, ocultación o falsificación de elementos de prueba; o cuando pudiere inducir a coimputados, testigos, peritos o terceros para que informen falsamente o se comporten de manera desleal o reticente.
 Para estimar si la libertad del imputado resulta o no peligrosa para la seguridad de la sociedad, el tribunal deberá considerar especialmente alguna de las siguientes circunstancias: la gravedad de la pena asignada al delito; el número de delitos que se le imputare y el carácter de los mismos; la existencia de procesos pendientes, y el hecho de haber actuado en grupo o pandilla.
-Se entenderá especialmente que la libertad del imputado constituye un peligro para la seguridad de la sociedad, cuando los delitos imputados tengan asignada pena de crimen en la ley que los consagra; cuando el imputado hubiere sido condenado con anterioridad por delito al que la ley señale igual o mayor pena, sea que la hubiere cumplido efectivamente o no; cuando se encontrare sujeto a alguna medida cautelar personal, en libertad condicional o gozando de alguno de los beneficios alternativos a la ejecución de las penas privativas o restrictivas de libertad contemplados en la ley.
+Se entenderá especialmente que la
+NOTA
+libertad del imputado constituye un peligro para la seguridad de la sociedad, cuando los delitos imputados tengan asignada pena de crimen en la ley que los consagra; cuando el imputado hubiere sido condenado con anterioridad por delito al que la ley señale igual o mayor pena, sea que la hubiere cumplido efectivamente o no; cuando se encontrare sujeto a alguna medida cautelar personal, en libertad condicional o gozando de alguno de los beneficios alternativos a la ejecución de las penas privativas o restrictivas de libertad contemplados en la ley.
 Se entenderá que la seguridad del ofendido se encuentra en peligro por la libertad del imputado cuando existieren antecedentes calificados que permitieren presumir que éste realizará atentados en contra de aquél, o en contra de su familia o de sus bienes.
+NOTA
+La letra b) del Artículo 3 de la Ley 20603, publicada el 27.06.2012, modifica el presente artículo en el sentido de reemplazar en el inciso cuarto, la oración "gozando de alguno de los beneficios alternativos a la ejecución de las penas alternativas o restrictivas de libertad contemplados en la ley" por lo siguiente: "cumpliendo alguna de las penas sustitutivas a la ejecución de las penas privativas o restrictivas de libertad contempladas en la ley", pero dicha modificación no fue posible hacerla debido a una inconsistencia en el texto.
 
 Artículo 141. Improcedencia de la prisión preventiva. No se podrá ordenar la prisión preventiva:
 a) Cuando el delito imputado estuviere sancionado únicamente con penas pecuniarias o privativas de derechos;
@@ -1556,7 +1560,7 @@ Artículo 346.- Audiencia de comunicación de la sentencia. Una vez redactada la
 
 Artículo 347.- Decisión absolutoria y medidas cautelares personales. Comunicada a las partes la decisión absolutoria prevista en el artículo 343, el tribunal dispondrá, en forma inmediata, el alzamiento de las medidas cautelares personales que se hubieren decretado en contra del acusado y ordenará se tome nota de este alzamiento en todo índice o registro público y policial en el que figuraren. También se ordenará la cancelación de las garantías de comparecencia que se hubieren otorgado.
 
-Artículo 348.- Sentencia condenatoria. La sentencia condenatoria fijará las penas y se pronunciará sobre la eventual aplicación de alguna de las medidas alternativas a la privación o restricción de libertad previstas en la ley.
+Artículo 348.- Sentencia condenatoria. La sentencia condenatoria fijará las penas y se pronunciará sobre la eventual aplicación de alguna de las penas sustitutivas a la privación o restricción de libertad previstas en la ley.
 La sentencia que condenare a una pena temporal deberá expresar con toda precisión el día desde el cual empezará ésta a contarse y fijará el tiempo de detención, prisión preventiva y privación de libertad impuesta en conformidad a la letra a) del artículo 155 que deberá servir de abono para su cumplimiento. Para estos efectos, se abonará a la pena impuesta un día por cada día completo, o fracción igual o superior a doce horas, de dichas medidas cautelares que hubiere cumplido el condenado.
 La sentencia condenatoria dispondrá también el comiso de los instrumentos o efectos del delito o su restitución, cuando fuere procedente.
 Cuando se hubiere declarado falso, en todo o en parte, un instrumento público, el tribunal, junto con su devolución, ordenará que se lo reconstituya, cancele o modifique de acuerdo con la sentencia.
@@ -1759,7 +1763,7 @@ Sin embargo, si no hubiere comparecido algún testigo o perito cuya citación ju
 
 Artículo 397.- Reiteración de faltas. En caso de reiteración de faltas de una misma especie se aplicará, en lo que correspondiere, las reglas contenidas en el artículo 351.
 
-Artículo 398. Suspensión de la imposición de condena por falta. Cuando resulte mérito para condenar por la falta imputada, pero concurrieren antecedentes favorables que no hicieren aconsejable la imposición de la pena al imputado, el juez podrá dictar la sentencia y disponer en ella la suspensión de la pena y sus efectos por un plazo de seis meses. En tal caso, no procederá acumular esta suspensión con alguno de los beneficios contemplados en la ley N° 18.216.
+Artículo 398. Suspensión de la imposición de condena por falta. Cuando resulte mérito para condenar por la falta imputada, pero concurrieren antecedentes favorables que no hicieren aconsejable la imposición de la pena al imputado, el juez podrá dictar la sentencia y disponer en ella la suspensión de la pena y sus efectos por un plazo de seis meses. En tal caso, no procederá acumular esta suspensión con alguna de las penas sustitutivas contempladas en la ley N° 18.216.
 Transcurrido el plazo previsto en el inciso anterior sin que el imputado hubiere sido objeto de nuevo requerimiento o de una formalización de la investigación, el tribunal dejará sin efecto la sentencia y, en su reemplazo, decretará el sobreseimiento definitivo de la causa.
 Esta suspensión no afecta la responsabilidad civil derivada del delito.
 
@@ -1807,7 +1811,7 @@ Artículo 411.- Trámite en el procedimiento abreviado. Acordado el procedimient
 
 Artículo 412.- Fallo en el procedimiento abreviado. Terminado el debate, el juez dictará sentencia. En caso de ser condenatoria, no podrá imponer una pena superior ni más desfavorable a la requerida por el fiscal o el querellante, en su caso.
 La sentencia condenatoria no podrá emitirse exclusivamente sobre la base de la aceptación de los hechos por parte del imputado.
-En ningún caso el procedimiento abreviado obstará a la concesión de alguna de las medidas alternativas consideradas en la ley, cuando correspondiere.
+En ningún caso el procedimiento abreviado obstará a la concesión de alguna de las penas sustitutivas consideradas en la ley, cuando correspondiere.
 La sentencia no se pronunciará sobre la demanda civil que hubiere sido interpuesta.
 
 Artículo 413.- Contenido de la sentencia en el procedimiento abreviado. La sentencia dictada en el procedimiento abreviado contendrá:
@@ -1815,7 +1819,7 @@ a) La mención del tribunal, la fecha de su dictación y la identificación de l
 b) La enunciación breve de los hechos y circunstancias que hubieren sido objeto de la acusación y de la aceptación por el acusado, así como de la defensa de éste;
 c) La exposición clara, lógica y completa de cada uno de los hechos que se dieren por probados sobre la base de la aceptación que el acusado hubiere manifestado respecto a los antecedentes de la investigación, así como el mérito de éstos, valorados en la forma prevista en el artículo 297;
 d) Las razones legales o doctrinales que sirvieren para calificar jurídicamente cada uno de los hechos y sus circunstancias y para fundar su fallo;
-e) La resolución que condenare o absolviere al acusado. La sentencia condenatoria fijará las penas y se pronunciará sobre la aplicación de alguna de las medidas alternativas a la privación o restricción de libertad previstas en la ley;
+e) La resolución que condenare o absolviere al acusado. La sentencia condenatoria fijará las penas y se pronunciará sobre la aplicación de alguna de las penas sustitutivas a la privación o restricción de libertad previstas en la ley;
 f) El pronunciamiento sobre las costas, y g) La firma del juez que la hubiere dictado.
 La sentencia que condenare a una pena temporal deberá expresar con toda precisión el día desde el cual empezará ésta a contarse y fijará el tiempo de detención o prisión preventiva que deberá servir de abono para su cumplimiento.
 La sentencia condenatoria dispondrá también el comiso de los instrumentos o efectos del delito o su restitución, cuando fuere procedente.
@@ -2009,7 +2013,7 @@ de seguridad
 
 #### Párrafo 1º. Intervinientes
 
-Artículo 466.- Intervinientes . Durante la ejecución de la pena o de la medida de seguridad, sólo podrán intervenir ante el competente juez de garantía el ministerio público, el imputado y su defensor.
+Artículo 466.- Intervinientes . Durante la ejecución de la pena o de la medida de seguridad, sólo podrán intervenir ante el competente juez de garantía el ministerio público, el imputado, su defensor y el delegado a cargo de la pena sustitutiva de prestación de servicios en beneficio de la comunidad, de libertad vigilada o de libertad vigilada intensiva, según corresponda.
 El condenado o el curador, en su caso, podrán ejercer durante la ejecución de la pena o medida de seguridad todos los derechos y facultades que la normativa penal y penitenciaria le otorgare.
 
 #### Párrafo 2º Ejecución de las sentencias
@@ -2018,7 +2022,7 @@ Artículo 467.- Normas aplicables a la ejecución de sentencias penales. La ejec
 
 Artículo 468.- Ejecución de la sentencia penal. Las sentencias condenatorias penales no podrán ser cumplidas sino cuando se encontraren ejecutoriadas. Cuando la sentencia se hallare firme, el tribunal decretará una a una todas las diligencias y comunicaciones que se requirieren para dar total cumplimiento al fallo.
 Cuando el condenado debiere cumplir pena privativa de libertad, el tribunal remitirá copia de la sentencia, con el atestado de hallarse firme, al establecimiento penitenciario correspondiente, dando orden de ingreso. Si el condenado estuviere en libertad, el tribunal ordenará inmediatamente su aprehensión y, una vez efectuada, procederá conforme a la regla anterior.
-Si la sentencia hubiere concedido una medida alternativa a las penas privativas o restrictivas de libertad consideradas en la ley, remitirá copia de la misma a la institución encargada de su ejecución.
+Si la sentencia hubiere concedido una pena sustitutiva a las penas privativas o restrictivas de libertad consideradas en la ley, remitirá copia de la misma a la institución encargada de su ejecución.
 Asimismo, ordenará y controlará el efectivo cumplimiento de las multas y comisos impuestos en la sentencia, ejecutará las cauciones en conformidad con el artículo 147, cuando procediere, y dirigirá las comunicaciones que correspondiere a los organismos públicos o autoridades que deban intervenir en la ejecución de lo resuelto.
 
 Artículo 469.- Destino de las especies decomisadas. Los dineros y otros valores decomisados se destinarán a la Corporación Administrativa del Poder Judicial.

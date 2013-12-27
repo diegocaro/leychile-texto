@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2007-11-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22960&idVersion=2013-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22960
-version_date: 2007-11-15
-fetched_at: 2026-08-03T01:44:51.542228+00:00
+version_date: 2013-12-27
+fetched_at: 2026-08-03T03:04:01.251009+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO PENAL"
 compuesto: LEY-1853
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -397,6 +397,7 @@ NOTA 1.1
 úblico en los actos en que ella es obligatoria; y a la intervención, patr
 NOTA 1.1
 ocinio y representación del procesado, en los casos y formas establecidos por la ley.
+NOTA 1.1
 NOTA 1.1
 NOTA 1.1
 NOTA 1.1
@@ -1288,9 +1289,7 @@ Artículo 275.- La resolución en que el inculpado sea sometido a proceso o mand
 La que lo somete a proceso enunciará, además, los antecedentes tenidos en consideración y describirá sucintamente los hechos que constituyan las infracciones penales imputadas.
 En la misma r
 NOTA 1.1
-esolución, el juez ordenará la filiación del procesado por el servicio correspondiente y concederá la excarcelación al procesado, fijando en su caso la cuantía de la fianza, cuando el delito por el cual se le enjuicia haga procedente ese beneficio en alguna de las formas previstas en los artículo
-NOTA 1.1
-s 357 ó 359, a menos que exista motivo para mantenerlo en prisión preventiva, el que deberá expresar.
+esolución, el juez ordenará la filiación del procesado por el servicio correspondiente y concederá la excarcelación al procesado, fijando en su caso la cuantía de la fianza, cuando el delito por el cual se le enjuicia haga procedente ese beneficio en alguna de las formas previstas en los artículos 357 ó 359, a menos que exista motivo para mantenerlo en prisión preventiva, el que deberá expresar.
 Si fuere necesario, las decisiones a que se refiere el inciso precedente podrán ser dictadas en resoluciones separadas.
 NOTA 1.1
 Las modificaciones introducidas al presente Código por la Ley N° 18.857, publicada en el Diario Oficial de 6 de Diciembre de 1989, rigen, según lo dispone su artículo vigésimo, noventa días después de su publicación en el Diario Oficial.
@@ -1425,7 +1424,7 @@ Las resoluciones que den lugar al arraigo o lo denieguen, serán apelables en el
 Art. 305 bis B. El arraigo podrá decretarse de oficio, a petición del Ministerio Público o del querellante particular y producirá efecto por el solo hecho de decretarse; no obstante, deberá ser comunicado personalmente al afectado por el organismo policial que el tribunal determine, sin perjuicio de su notificación judicial una vez que preste declaración indagatoria.
 
 Art. 305 bis C. No obstante lo dispuesto en el artículo 305 bis A, las órdenes de detención y la resolución que somete a proceso al inculpado llevan consigo el arraigo, mientras están vigentes en el proceso y aun cuando el inculpado o procesado se encuentre en libertad provisional.
-Producen también arraigo de pleno derecho las sentencias condenatorias que impongan penas privativas o restrictivas de libertad que deban cumplirse en el país mientras no se ejecuten o extingan y aun en los casos en que el condenado se encuentre en libertad condicional o esté suspendida la ejecución de la pena en virtud de alguno de los beneficios establecidos en la ley N° 18.216.
+Producen también arraigo de pleno derecho las sentencias condenatorias que impongan penas privativas o restrictivas de libertad que deban cumplirse en el país mientras no se ejecuten o extingan y aun en los casos en que el condenado se encuentre en libertad condicional o cumpliendo alguna de las penas sustitutivas establecidas en la ley N° 18.216.
 
 Art. 305 bis D. Las personas afectadas por el arraigo, sea judicial o de pleno derecho, sólo podrán ausentarse del territorio nacional con autorización del juez que conozca o haya conocido de la causa, por el tiempo que en la misma resolución se fije, y sin que se paralice, en su caso, la marcha regular del proceso.
 El solicitante deberá rendir caución cuya naturaleza y monto fijará el juez en la misma resolución que autoriza la ausencia.
@@ -1655,7 +1654,7 @@ Las modificaciones introducidas al presente Código por la Ley N° 18.857, publi
 
 Art. 363. (386) Sólo podrá denegarse la libertad provisional, por resolución fundada, basada en antecedentes calificados del proceso, cuando la detención o prisión sea estimada por el Juez como necesaria para el éxito de las investigaciones del sumario, o cuando la libertad del detenido o preso sea peligrosa para la seguridad de la sociedad o del ofendido.
 Se entenderá que la detención o prisión preventiva es necesaria para el éxito de las investigaciones, sólo cuando el juez considerare que existe sospecha grave y fundada de que el imputado pudiere obstaculizar la investigación, mediante conductas tales como la destrucción, modificación, ocultación o falsificación de elementos de prueba; o cuando pudiere inducir a coimputados, testigos, peritos o terceros para que informen falsamente o se comporten de manera desleal o reticente.
-Para estimar si la libertad del imputado resulta o no peligrosa para la seguridad de la sociedad, el juez deberá considerar especialmente alguna de las siguientes circunstancias: la gravedad de la pena asignada al delito; el número de delitos que se le imputare y el carácter de los mismos; la existencia de procesos pendientes; el hecho de encontrarse sujeto a alguna medida cautelar personal, en libertad condicional o gozando de alguno de los beneficios contemplados en la ley N° 18.216; la existencia de condenas anteriores cuyo cumplimiento se encontrare pendiente, atendiendo a la gravedad de los delitos de que trataren, y el haber actuado en grupo o pandilla.
+Para estimar si la libertad del imputado resulta o no peligrosa para la seguridad de la sociedad, el juez deberá considerar especialmente alguna de las siguientes circunstancias: la gravedad de la pena asignada al delito; el número de delitos que se le imputare y el carácter de los mismos; la existencia de procesos pendientes; el hecho de encontrarse sujeto a alguna medida cautelar personal, en libertad condicional o cumpliendo alguna de las penas sustitutivas contempladas en la ley N° 18.216; la existencia de condenas anteriores cuyo cumplimiento se encontrare pendiente, atendiendo a la gravedad de los delitos de que trataren, y el haber actuado en grupo o pandilla.
 Se entenderá que la seguridad de la víctima del delito se encuentra en peligro por la libertad del detenido o preso cuando existan antecedentes calificados que permitan presumir que éste pueda realizar atentados en contra de ella o de su grupo familiar. Para la aplicación de esta norma, bastará que esos antecedentes le consten al juez por cualquier medio.
 El tribunal deberá dejar constancia en el proceso, en forma pormenorizada, de los antecedentes calificados que hayan obstado a la libertad provisional, cuando no pueda mencionarlos en la resolución, por afectar el éxito de la investigación.
 Para conceder la libertad provisional en los casos a que se refiere este artículo, el tribunal deberá requerir los antecedentes del detenido o preso al Servicio de Registro Civil e Identificación por el medio escrito u oral que estime más conveniente y expedito. El Servicio de Registro Civil e Identificación estará obligado a proporcionar de inmediato la información pertinente, usando el medio más expedito y rápido para ello, sin perjuicio de remitir con posterioridad los antecedentes correspondientes.
