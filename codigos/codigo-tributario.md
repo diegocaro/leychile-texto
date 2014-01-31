@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2013-12-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2014-01-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2013-12-13
-fetched_at: 2026-08-03T03:03:43.229178+00:00
+version_date: 2014-01-31
+fetched_at: 2026-08-03T03:04:31.271801+00:00
 titulo_norma: "CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -103,8 +103,8 @@ Artículo 8º bis.- Sin perjuicio de los derechos garantizados por la Constituci
 Los reclamos en contra de actos u omisiones del Servicio que vulneren cualquiera de los derechos de este artículo serán conocidos por el Juez Tributario y Aduanero, conforme al procedimiento del Párrafo 2º del Título III del Libro Tercero de este Código.
 En toda dependencia del Servicio de Impuestos Internos deberá exhibirse, en un lugar destacado y claramente visible al público, un cartel en el cual se consignen los derechos de los contribuyentes expresados en la enumeración contenida en el inciso primero.
 
-Artículo 8° ter.- Los contribuyentes que opten por la facturación electrónica tendrán derecho a que se les autorice en forma inmediata la emisión de los documentos tributarios electrónicos que sean necesarios para el desarrollo de su giro o actividad. Para ejercer esta opción deberá darse aviso al Servicio en la forma que éste determine.
-En el caso de los contribuyentes que soliciten por primera vez la emisión de dichos documentos, la autorización procederá previa entrega de una declaración jurada simple sobre la existencia de su domicilio y la efectividad de las instalaciones que permitan la actividad o giro declarado, en la forma en que disponga el Servicio de Impuestos Internos.
+Artículo 8° ter.- Los contribuyentes tendrán derecho a que se les autorice en forma inmediata la emisión de los documentos tributarios electrónicos que sean necesarios para el desarrollo de su giro o actividad. Para ejercer esta opción deberá darse aviso al Servicio en la forma que éste determine.
+En el caso de los contribuyentes que por primera vez deben emitir dichos documentos, la autorización procederá previa entrega de una declaración jurada simple sobre la existencia de su domicilio y la efectividad de las instalaciones que permitan la actividad o giro declarado, en la forma en que disponga el Servicio de Impuestos Internos.
 Lo anterior es sin perjuicio del ejercicio de las facultades de fiscalización del Servicio de Impuestos Internos.
 Las autorizaciones otorgadas conforme a este artículo podrán ser diferidas, revocadas o restringidas por la Dirección del Servicio de Impuestos Internos, mediante resolución fundada, cuando a su juicio exista causa grave que lo justifique. Para estos efectos se considerarán causas graves, entre otras, las siguientes:
 a) Si de los antecedentes en poder del Servicio se acredita no ser verdadero el domicilio o no existir las instalaciones necesarias para el desarrollo de la actividad o giro declarado.
@@ -112,8 +112,8 @@ b) Si el contribuyente tiene la condición de procesado o, en su caso, acusado c
 c) Si de los antecedentes en poder del Servicio se acredita algún impedimento legal para el ejercicio del giro solicitado.
 La presentación maliciosa de la declaración jurada a que se refiere el inciso segundo, conteniendo datos o antecedentes falsos, configurará la infracción prevista en el inciso primero del número 23 del artículo 97 y se sancionará con la pena allí asignada, la que se podrá aumentar hasta un grado atendida la gravedad de la conducta desplegada, y multa de hasta 10 unidades tributarias anuales.
 
-Artículo 8° quáter.- Los contribuyentes que hagan iniciación de actividades tendrán derecho a que el Servicio les timbre en forma inmediata tantas boletas de venta y guías de despacho como sean necesarias para el giro de los negocios o actividades declaradas por aquellos. Lo anterior se entenderá sin perjuicio de la facultad del Servicio de diferir por resolución fundada el timbraje de dichos documentos, hasta hacer la fiscalización correspondiente, en los casos en que exista causa grave justificada. Para estos efectos se considerarán causas graves las señaladas en el artículo anterior.
-Asimismo, sin perjuicio de lo dispuesto en el artículo 3° del decreto ley N° 825, sobre Impuesto a las Ventas y Servicios, los contribuyentes señalados en el inciso anterior tendrán derecho a requerir el timbraje inmediato de facturas cuando éstas no den derecho a crédito fiscal y facturas de inicio, las que deberán cumplir con los requisitos que el Servicio de Impuestos Internos establezca mediante resolución. Para estos efectos se entenderá por factura de inicio aquella que consta en papel y en la que el agente retenedor es el comprador o beneficiario de los bienes o servicios y que se otorga mientras el Servicio efectúa la fiscalización correspondiente del domicilio del contribuyente.
+Artículo 8° quáter.- Los contribuyentes que hagan iniciación de actividades tendrán derecho a que el Servicio les timbre, o autorice a emitir electrónicamente, según corresponda, en forma inmediata tantas boletas de venta y guías de despacho como sean necesarias para el giro de los negocios o actividades declaradas por aquellos. Lo anterior se entenderá sin perjuicio de la facultad del Servicio de diferir por resolución fundada el timbraje o, en su caso, la emisión electrónica de dichos documentos, hasta hacer la fiscalización correspondiente, en los casos en que exista causa grave justificada. Para estos efectos se considerarán causas graves las señaladas en el artículo anterior.
+Asimismo, sin perjuicio de lo dispuesto en el artículo 3° del decreto ley N° 825, sobre Impuesto a las Ventas y Servicios, los contribuyentes señalados en el inciso anterior tendrán derecho a requerir el timbraje inmediato, o la emisión electrónica, según corresponda, de facturas cuando éstas no den derecho a crédito fiscal y facturas de inicio, las que deberán cumplir con los requisitos que el Servicio de Impuestos Internos establezca mediante resolución. Para estos efectos se entenderá por factura de inicio aquella que consta en papel y en la que el agente retenedor es el comprador o beneficiario de los bienes o servicios y que se otorga mientras el Servicio efectúa la fiscalización correspondiente del domicilio del contribuyente.
 Los contribuyentes a que se refiere el inciso primero que maliciosamente vendan o faciliten a cualquier título las facturas de inicio a que alude el inciso precedente con el fin de cometer alguno de los delitos previstos en el número 4° del artículo 97, serán sancionados con presidio menor en sus grados mínimo a medio y multa de hasta 20 unidades tributarias anuales.
 
 #### LIBRO PRIMERO
@@ -169,12 +169,13 @@ Sin perjuicio de las normas sobre imputación de rentas, el monto de un ingreso 
 El monto de toda deducción o rebaja permitida u otorgada por la ley deberá ser deducido en el año en que corresponda, de acuerdo con el sistema de contabilidad seguido por el contribuyente para computar su renta líquida.
 El Director Regional dispondrá, a su juicio exclusivo, la aplicación de las normas a que se refiere este artículo.
 
-Artículo 17.- Toda persona que deba acreditar la renta efectiva, lo hará mediante contabilidad fidedigna, salvo norma en contrario.
+Art. 17. Toda persona que deba acreditar la renta efectiva, lo hará mediante contabilidad fidedigna, salvo norma en contrario.
 Los libros de contabilidad deberán ser llevados en lengua castellana y sus valores expresarse en la forma señalada en el artículo 18, debiendo ser conservados por los contribuyentes, junto con la documentación correspondiente, mientras esté pendiente el plazo que tiene el Servicio para la revisión de las declaraciones. Esta obligación se entiende sin perjuicio del derecho de los contribuyentes de llevar contabilidad en moneda extranjera para otros fines.
 El Director determinará las medidas de control a que deberán sujetarse los libros de contabilidad y las hojas sueltas que los sustituyan en los casos contemplados en el inciso siguiente.
 El Director Regional podrá autorizar la sustitución de los libros de contabilidad por hojas sueltas, escritas a mano o en otra forma, consultando las garantías necesarias para el resguardo de los intereses fiscales.
-Sin perjuicio de los libros de contabilidad exigidos por la ley, los contribuyentes deberán llevar los libros adicionales o auxiliares que exija el Director Regional, a su juicio exclusivo, de acuerdo con las normas que dicte el mejor cumplimiento o fiscalización de las obligaciones tributarias.
+Sin perjuicio de los libros de contabilidad exigidos por la ley, los contribuyentes deberán llevar los libros adicionales o auxiliares que exija el Director Regional, a su juicio exclusivo, de acuerdo con las normas que dicte para el mejor cumplimiento o fiscalización de las obligaciones tributarias.
 Las anotaciones en los libros a que se refieren los incisos anteriores deberán hacerse normalmente a medida que se desarrollan las operaciones.
+El Servicio podrá autorizar que los libros de contabilidad y los libros adicionales o auxiliares, que los contribuyentes lleven en soporte de papel, sean reemplazados por sistemas tecnológicos que reflejen claramente el movimiento y resultado de los negocios y permitan establecer con exactitud los impuestos adeudados. Para estos efectos, el Servicio certificará los sistemas que cumplan con tales requisitos.
 
 Artículo 18.- Establécense para todos los efectos tributarios, las siguientes reglas para llevar la contabilidad, presentar las declaraciones de impuestos y efectuar su pago:
 1) Los contribuyentes llevarán contabilidad, presentarán sus declaraciones y pagarán los impuestos que correspondan, en moneda nacional.
@@ -257,8 +258,8 @@ De la declaración y plazos de pago
 
 Artículo 29.- La presentación de declaraciones con el objeto de determinar la procedencia o liquidación de un impuesto, se hará de acuerdo con las normas legales o reglamentarias y con las instrucciones que imparta la Dirección incluyendo toda la información que fuere necesaria.
 
-Art. 30. Las declaraciones se presentarán por escrito, bajo juramento, en las oficinas del Servicio u otras que señale la Dirección, en la forma y cumpliendo las exigencias que ésta determine.
-La Dirección podrá autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos.
+Artículo 30.- Las declaraciones se presentarán por escrito, bajo juramento, en las oficinas del Servicio u otras que señale la Dirección, en la forma y cumpliendo las exigencias que ésta determine.
+En todos aquellos casos en que la ley no exige la emisión de documentos electrónicos en forma exclusiva, la Dirección podrá autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos.
 El Director podrá convenir con la Tesorería General de la República y con entidades privadas la recepción de las declaraciones, incluidas aquellas con pago simultáneo. Estas declaraciones deberán ser remitidas al Servicio de Impuestos Internos. Este procederá a entregar las informaciones procedentes que el Servicio de Tesorerías requiera para el cumplimiento de sus atribuciones legales, como también las que procedan legalmente respecto de otras instituciones, organismos y tribunales.
 Asimismo, en uso de sus facultades, podrá encomendar el procesamiento de las declaraciones y giros a entidades privadas, previo convenio.
 Las personas que, a cualquier título, reciban o procesen las declaraciones o giros quedan sujetas a obligación de reserva absoluta de todos aquellos antecedentes individuales de que conozcan en virtud del trabajo que realizan. La infracción a esta obligación será sancionada con reclusión menor en su grado medio y multa de 5 a 100 UTM.
