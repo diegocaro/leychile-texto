@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2013-12-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2014-02-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2013-12-11
-fetched_at: 2026-08-03T03:03:25.207673+00:00
+version_date: 2014-02-15
+fetched_at: 2026-08-03T03:05:07.302596+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -370,7 +370,7 @@ Artículo 46.- El Congreso Nacional se compone de dos ramas: la Cámara de Diput
 
 ### Composición y generación de la Cámara de Diputados y del Senado
 
-Artículo 47.- La Cámara de Diputados está integrada por 120 miembros elegidos en votación directa por los distritos electorales que establezca la ley orgánica constitucional respectiva.
+Artículo 47.- La Cámara de Diputados está integrada por miembros elegidos en votación directa por distritos electorales. La ley orgánica constitucional respectiva determinará el número de diputados, los distritos electorales y la forma de su elección.
 La Cámara de Diputados se renovará en su totalidad cada cuatro años.
 
 Artículo 48.- Para ser elegido diputado se requiere ser ciudadano con derecho a sufragio, tener cumplidos veintiún años de edad, haber cursado la enseñanza media o equivalente, y tener residencia en la región a que pertenezca el distrito electoral correspondiente durante un plazo no inferior a dos años, contado hacia atrás desde el día de la elección.
@@ -918,8 +918,7 @@ DECIMOPRIMERA.- En el año siguiente a la fecha de publicación de la presente l
 DECIMOSEGUNDA.- El mandato del Presidente de la República en ejercicio será de seis años, no pudiendo ser reelegido para el período siguiente.
 
 DECIMOTERCERA.- El Senado estará integrado únicamente por senadores electos en conformidad con el artículo 49 de la Constitución Política de la República y la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios actualmente vigentes.
-Las modificaciones a la referida Ley Orgánica sobre Votaciones Populares y Escrutinios que digan relación con el número de senadores, las circunscripciones existentes y el sistema electoral vigente, requerirán del voto conforme de las tres quintas partes de los diputados y senadores en ejercicio.
-Los senadores en actual ejercicio incorporados o designados en conformidad a las letras a), b), c), d), e) y f) del artículo 49 que se derogan, continuarán desempeñando sus funciones hasta el 10 de marzo de 2006.
+Las modificaciones a la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios que digan relación con el número de senadores y diputados, las circunscripciones y distritos existentes, y el sistema electoral vigente, requerirán del voto conforme de las tres quintas partes de los diputados y senadores en ejercicio.
 
 DECIMOCUARTA.- El reemplazo de los actuales Ministros y el nombramiento de los nuevos integrantes del Tribunal Constitucional, se efectuará conforme a las reglas siguientes:
 Los actuales Ministros nombrados por el Presidente de la República, el Senado, la Corte Suprema y el Consejo de Seguridad Nacional se mantendrán en funciones hasta el término del período por el cual fueron nombrados o hasta que cesen en sus cargos.
