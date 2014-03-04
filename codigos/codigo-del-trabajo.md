@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2013-08-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2014-03-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2013-08-23
-fetched_at: 2026-08-03T03:02:18.646665+00:00
+version_date: 2014-03-04
+fetched_at: 2026-08-03T03:05:43.338442+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -394,10 +394,7 @@ Las sumas a que se refiere el inciso primero de este artículo, reajustadas en l
 
 Artículo 63 bis.- En caso de término del contrato de trabajo, el empleador estará obligado a pagar todas las remuneraciones que se adeudaren al trabajador en un solo acto al momento de extender el finiquito. Sin perjuicio de ello, las partes podrán acordar el fraccionamiento del pago de las remuneraciones adeudadas y dicho pacto se regirá por lo dispuesto en la letra a) del artículo 169.
 
-Art. 64. DEROGADO
-NOTA:
-NOTA:
-El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la derogación del presente artículo regirá a contar de 90 días después de su publicación.
+Artículo 64.- En los establecimientos que atiendan público a través de garzones, como restaurantes, pubs, bares, cafeterías, discotecas, fondas y similares, el empleador deberá sugerir, en cada cuenta de consumo, el monto correspondiente a una propina de a lo menos el 10% del mismo, la que deberá pagarse por el cliente, salvo que éste manifieste su voluntad en contrario.
 
 Art. 64 Bis. DEROGADO
 NOTA:
