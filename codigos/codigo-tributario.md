@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2014-01-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2014-03-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2014-01-31
-fetched_at: 2026-08-03T03:04:31.271801+00:00
+version_date: 2014-03-05
+fetched_at: 2026-08-03T03:06:01.343235+00:00
 titulo_norma: "CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -867,15 +867,15 @@ De los Procedimientos Especiales
 ###### Párrafo 1°.
 Del procedimiento de reclamo de los avalúos de bienes raíces
 
-Artículo 149.- Dentro del mes siguiente al de la fecha de término de exhibición de los roles de avalúo los contribuyentes y las Municipalidades respectivas podrán reclamar del avalúo que se haya asignado a un bien raíz en la tasación general. De esta reclamación conocerá el Tribunal Tributario y Aduanero.
-La reclamación sólo podrá fundarse en algunas de las siguientes causales:
+Artículo 149.- Dentro de los ciento ochenta días siguientes a la fecha de término de exhibición de los roles de avalúo los contribuyentes y las Municipalidades respectivas podrán reclamar del avalúo que se haya asignado a un bien raíz en la tasación general. De esta reclamación conocerá el Tribunal Tributario y Aduanero. Respecto del avalúo asignado a un bien raíz en la tasación general, será procedente el recurso de reposición administrativa en conformidad a las normas del Capítulo IV de la ley Nº 19.880 y con las mismas modificaciones establecidas en el artículo 123 bis, salvo la de su letra b), en que el plazo para que se entienda rechazada la reposición será de noventa días.
+La reclamación y la reposición, en su caso, sólo podrán fundarse en algunas de las siguientes causales:
 1°.- Determinación errónea de la superficie de los terrenos o construcciones.
 2°.- Aplicación errónea de las tablas de clasificación respecto del bien gravado, o de una parte del mismo así como la superficie de las diferentes calidades de terreno.
 3°.- Errores de transcripción, de copia o de cálculo.
-4°.- Inclusión errónea del mayor valor adquirido por los terrenos con ocasión de mejoras costeadas por los particulares, en los casos en que dicho mayor valor deba ser excluido de acuerdo con lo dispuesto por el artículo 8°. de la ley N°. 11.575.
-La reclamación que se fundare en una causal diferente será desechada de plano.
+4°.- Inclusión errónea del mayor valor adquirido por los terrenos con ocasión de mejoras costeadas por los particulares, en los casos en que dicho mayor valor deba ser excluido de acuerdo con lo dispuesto por el artículo 8° de la ley N° 11.575.
+La reclamación o la reposición que se fundare en una causal diferente será desechada de plano.
 
-Artículo 150.- Se sujetarán asimismo al procedimiento de este párrafo, los reclamos que dedujeren los contribuyentes que se consideren perjudicados por las modificaciones individuales de los avalúos de sus predios, o efectuadas de conformidad a los artículos 28°, 29°, 30° y 31° de la Ley sobre Impuesto Territorial y artículos 25° y 26° de la ley N° 15.163. En estos casos, el plazo para reclamar será de 30 días y se contará desde el envío del aviso respectivo.
+Artículo 150.- Se sujetarán asimismo al procedimiento de este párrafo, los reclamos que dedujeren los contribuyentes que se consideren perjudicados por las modificaciones individuales de los avalúos de sus predios, o efectuadas de conformidad con lo dispuesto en el párrafo 2º del Título V de la Ley sobre Impuesto Territorial y artículos 25° y 26° de la ley N° 15.163. En estos casos, el plazo para reclamar será de 90 días y se contará desde el envío del aviso respectivo. Respecto de las modificaciones individuales de los avalúos de los predios, será procedente el recurso de reposición administrativa en conformidad a las normas del Capítulo IV de la ley Nº 19.880 y con las mismas modificaciones establecidas en el artículo 123 bis.
 
 Artículo 151.- Se aplicarán las normas contenidas en el Título II de este Libro al procedimiento establecido en este Párrafo, en cuanto la naturaleza de la tramitación lo permita. No se aplicará en este procedimiento lo dispuesto en el inciso segundo del artículo 129.
 
