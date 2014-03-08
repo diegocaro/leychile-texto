@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2013-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2014-03-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2013-12-27
-fetched_at: 2026-08-03T03:04:07.260080+00:00
+version_date: 2014-03-08
+fetched_at: 2026-08-03T03:06:19.361549+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1421,17 +1421,17 @@ ART. 248.
 El empleado público que solicitare o aceptare recibir mayores derechos de los que le están señalados por razón de su cargo, o un beneficio económico para sí o un tercero para ejecutar o por haber ejecutado un acto propio de su cargo en razón del cual no le están señalados derechos, será sancionado con la pena de reclusión menor en su grado mínimo, suspensión en cualquiera de sus grados y multa de la mitad al tanto de los derechos o del beneficio solicitados o aceptados.
 
 ART. 248 bis.
-El empleado público que solicitare o aceptare recibir un beneficio económico para sí o un tercero para omitir o por haber omitido un acto debido propio de su cargo, o para ejecutar o por haber ejecutado un acto con infracción a los deberes de su cargo, será sancionado con la pena de reclusión menor en su grado medio, y además, con la pena de inhabilitación especial o absoluta para cargos u oficios públicos temporales en cualquiera de sus grados y multa del tanto al duplo del provecho solicitado o aceptado.
-Si la infracción al deber del cargo consistiere en ejercer influencia en otro empleado público con el fin de obtener de éste una decisión que pueda generar un provecho para un tercero interesado, se impondrá la pena de inhabilitación especial o absoluta para cargo u oficio público perpetuas, además de las penas de reclusión y multa establecidas en el inciso precedente.
+El empleado público que solicitare o aceptare recibir un beneficio económico para sí o un tercero para omitir o por haber omitido un acto debido propio de su cargo, o para ejecutar o por haber ejecutado un acto con infracción a los deberes de su cargo, será sancionado con la pena de reclusión menor en su grado medio, y además, con la pena de inhabilitación absoluta para cargos u oficios públicos temporal en cualquiera de sus grados y multa del tanto al duplo del provecho solicitado o aceptado.
+Si la infracción al deber del cargo consistiere en ejercer influencia en otro empleado público con el fin de obtener de éste una decisión que pueda generar un provecho para un tercero interesado, se impondrá la pena de inhabilitación absoluta para cargo u oficio público, perpetua, además de las penas de reclusión y multa establecidas en el inciso precedente.
 
 ART. 249.
-El empleado público que solicitare o aceptare recibir un beneficio económico para sí o para un tercero para cometer alguno de los crímenes o simples delitos expresados en este Título, o en el párrafo 4 del Título III, será sancionado con la pena de inhabilitación especial perpetua e inhabilitación absoluta temporal, o bien con inhabilitación absoluta perpetua para cargos u oficios públicos, y multa del tanto al triplo del provecho solicitado o aceptado.
+El empleado público que solicitare o aceptare recibir un beneficio económico para sí o para un tercero para cometer alguno de los crímenes o simples delitos expresados en este Título, o en el párrafo 4 del Título III, será sancionado con la pena de inhabilitación absoluta, temporal o perpetua, para cargos u oficios públicos, y multa del tanto al triplo del provecho solicitado o aceptado.
 Lo establecido en el inciso anterior se entiende sin perjuicio de la pena aplicable al delito cometido por el empleado público, la que no será inferior, en todo caso, a la de reclusión menor en su grado medio.
 
 ART. 250.
 El que ofreciere o consintiere en dar a un empleado público un beneficio económico, en provecho de éste o de un tercero, para que realice las acciones o incurra en las omisiones señaladas en los artículos 248, 248 bis y 249, o por haberla realizado o haber incurrido en ellas, será castigado con las mismas penas de multa e inhabilitación establecidas en dichas disposiciones.
 Tratándose del beneficio ofrecido en relación con las acciones u omisiones del artículo 248, el sobornante será sancionado, además, con la pena de reclusión menor en su grado mínimo.
-Tratándose del beneficio consentido u ofrecido en relación con las acciones u omisiones señaladas en el artículo 248 bis, el sobornante será sancionado, además, con pena de reclusión menor en su grado medio, en el caso del beneficio ofrecido, o de reclusión menor en su grado mínimo, en el caso del beneficio consentido.
+Tratándose del beneficio consentido u ofrecido en relación con las acciones u omisiones señaladas en el artículo 248 bis, el sobornante será sancionado, además, con pena de reclusión menor en su grado medio, en el caso del beneficio ofrecido, o de reclusión menor en su grado mínimo a medio, en el caso del beneficio consentido.
 Tratándose del beneficio consentido u ofrecido en relación con los crímenes o simples delitos señalados en el artículo 249, el sobornante será sancionado, además, con pena de reclusión menor en su grado medio, en el caso del beneficio ofrecido, o de reclusión menor en sus grados mínimo a medio, en el caso del beneficio consentido. En estos casos, si al sobornante le correspondiere una pena superior por el crimen o simple delito de que se trate, se estará a esta última.
 
 ART. 250 bis.
