@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2014-02-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2014-05-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2014-02-15
-fetched_at: 2026-08-03T03:05:07.302596+00:00
+version_date: 2014-05-03
+fetched_at: 2026-08-03T03:06:37.365693+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -76,6 +76,7 @@ Artículo 12.- La persona afectada por acto o resolución de autoridad administr
 
 Artículo 13.- Son ciudadanos los chilenos que hayan cumplido dieciocho años de edad y que no hayan sido condenados a pena aflictiva.
 La calidad de ciudadano otorga los derechos de sufragio, de optar a cargos de elección popular y los demás que la Constitución o la ley confieran.
+Los ciudadanos con derecho a sufragio que se encuentren fuera del país podrán sufragar desde el extranjero en las elecciones primarias presidenciales, en las elecciones de Presidente de la República y en los plebiscitos nacionales. Una ley orgánica constitucional establecerá el procedimiento para materializar la inscripción en el registro electoral y regulará la manera en que se realizarán los procesos electorales y plebiscitarios en el extranjero, en conformidad con lo dispuesto en los incisos primero y segundo del artículo 18.
 Tratándose de los chilenos a que se refieren los números 2º y 4º del artículo 10, el ejercicio de los derechos que les confiere la ciudadanía estará sujeto a que hubieren estado avecindados en Chile por más de un año.
 
 Artículo 14.- Los
