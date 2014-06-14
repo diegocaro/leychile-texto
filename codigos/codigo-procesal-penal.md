@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2013-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2014-06-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2013-12-27
-fetched_at: 2026-08-03T03:04:25.269774+00:00
+version_date: 2014-06-14
+fetched_at: 2026-08-03T03:07:19.415455+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1852,9 +1852,9 @@ Tratándose de la situación contemplada en el inciso tercero del mismo artícul
 
 Artículo 422.- Pluralidad de sujetos. Si aparecieren implicados individuos que no gozaren de fuero, se seguirá adelante el procedimiento en relación con ellos.
 
-#### Párrafo 2º Intendentes y Gobernadores
+#### Párrafo 2º Intendentes , Gobernadores y Presidentes de Consejos Regionales
 
-Artículo 423.- Remisión a normas del Párrafo 1º. El procedimiento establecido en el Párrafo 1º de este Título es aplicable a los casos de desafuero de un intendente o de un gobernador, en lo que fuere pertinente.
+Artículo 423.- Remisión a normas del Párrafo 1º. El procedimiento establecido en el Párrafo 1º de este Título es aplicable a los casos de desafuero de un intendente, de un gobernador o de un presidente de consejo regional, en lo que fuere pertinente.
 
 ### Título V
 Querella de capítulos
