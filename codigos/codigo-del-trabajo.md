@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2014-07-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2014-07-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2014-07-09
-fetched_at: 2026-08-03T03:07:37.432206+00:00
+version_date: 2014-07-18
+fetched_at: 2026-08-03T03:08:16.083754+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1521,11 +1521,11 @@ Cada infracción a las disposiciones del presente artículo será penada con mul
 Será aplicable en este caso lo dispuesto en el artículo 40.
 
 ### TITULO II
-DE LA PROTECCION A LA MATERNIDAD
+DE LA PROTECCIÓN A LA MATERNIDAD, LA PATERNIDAD Y LA VIDA FAMILIAR
 
-Art. 194. La protección a la maternidad se regirá por las disposiciones del presente título y quedan sujetos a ellas los servicios de la administración pública, los servicios semifiscales, de administración autónoma, de las municipalidades y todos los servicios y establecimientos, cooperativas o empresas industriales, extractivas, agrícolas o comerciales, sean de propiedad fiscal, semifiscal, de administración autónoma o independiente, municipal o particular o perteneciente a una corporación de derecho público o privado.
+Art. 194. La protección a la maternidad, la paternidad y la vida familiar se regirá por las disposiciones del presente título y quedan sujetos a ellas los servicios de la administración pública, los servicios semifiscales, de administración autónoma, de las municipalidades y todos los servicios y establecimientos, cooperativas o empresas industriales, extractivas, agrícolas o comerciales, sean de propiedad fiscal, semifiscal, de administración autónoma o independiente, municipal o particular o perteneciente a una corporación de derecho público o privado.
 Las disposiciones anteriores comprenden las sucursales o dependencias de los establecimientos, empresas o servicios indicados.
-Estas disposiciones beneficiarán a todas las trabajadoras que dependan de cualquier empleador, comprendidas aquellas que trabajan en su domicilio y, en general, a todas las mujeres que estén acogidas a algún sistema previsional.
+Estas disposiciones beneficiarán a todos los trabajadores que dependan de cualquier empleador, comprendidos aquellos que trabajan en su domicilio y, en general, a todos los que estén acogidos a algún sistema previsional.
 Ningún empleador podrá condicionar la contratación de trabajadoras, su permanencia o renovación de contrato, o la promoción o movilidad en su empleo, a la ausencia o existencia de embarazo, ni exigir para dichos fines certificado o examen alguno para verificar si se encuentra o no en estado de gravidez.
 
 Artículo 195.- Las trabajadoras tendrán derecho a un descanso de maternidad de seis semanas antes del parto y doce semanas después de él.
@@ -1616,6 +1616,10 @@ Tratándose de empresas que estén obligadas a lo preceptuado en el artículo 20
 Art. 207. Corresponde a la Junta Nacional de Jardines Infantiles y a la Dirección del Trabajo velar por el cumplimiento de las disposiciones de este título.
 Cualquiera persona puede denunciar ante estos organismos las infracciones de que tuviere conocimiento.
 Las acciones y derechos provenientes de este título se extinguirán en el término de sesenta días contados desde la fecha de expiración del período a que se refiere el artículo 201.
+
+Artículo 207 bis. En el caso de contraer matrimonio, todo trabajador tendrá derecho a cinco días hábiles continuos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
+Este permiso se podrá utilizar, a elección del trabajador, en el día del matrimonio y en los días inmediatamente anteriores o posteriores al de su celebración.
+El trabajador deberá dar aviso a su empleador con treinta días de anticipación y presentar dentro de los treinta días siguientes a la celebración el respectivo certificado de matrimonio del Servicio de Registro Civil e Identificación.
 
 Art. 208. Las infracciones a las disposiciones de este título se sancionarán con multa de catorce a setenta unidades tributarias mensuales en vigor a la fecha de cometerse la infracción, multa que se duplicará en caso de reincidencia.
 En igual sanción incurrirán los empleadores por cuya culpa las instituciones que deben pagar las prestaciones establecidas en este título no lo hagan; como asimismo aquellos empleadores que infrinjan lo dispuesto en el inciso final del artículo 194.
