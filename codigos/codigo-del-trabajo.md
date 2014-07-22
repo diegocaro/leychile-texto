@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2014-07-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2014-07-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2014-07-18
-fetched_at: 2026-08-03T03:08:16.083754+00:00
+version_date: 2014-07-22
+fetched_at: 2026-08-03T03:08:34.102640+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1612,10 +1612,13 @@ Este derecho podrá ser ejercido preferentemente en la sala cuna, o en el lugar 
 Para todos los efectos legales, el tiempo utilizado se considerará como trabajado.
 El derecho a alimentar consagrado en el inciso primero, no podrá ser renunciado en forma alguna y le será aplicable a toda trabajadora que tenga hijos menores de dos años, aun cuando no goce del derecho a sala cuna, según lo preceptuado en el artículo 203.
 Tratándose de empresas que estén obligadas a lo preceptuado en el artículo 203, el período de tiempo a que se refiere el inciso primero se ampliará al necesario para el viaje de ida y vuelta de la madre para dar alimentos a sus hijos. En este caso, el empleador pagará el valor de los pasajes por el transporte que deba emplearse para la ida y regreso de la madre.
+En caso que el padre y la madre sean trabajadores, ambos podrán acordar que sea el padre quien ejerza el derecho. Esta decisión y cualquier modificación de la misma deberán ser comunicadas por escrito a ambos empleadores con a lo menos treinta días de anticipación, mediante instrumento firmado por el padre y la madre, con copia a la respectiva Inspección del Trabajo.
+Con todo, el padre trabajador ejercerá el referido derecho cuando tuviere la tuición del menor por sentencia judicial ejecutoriada, cuando la madre hubiere fallecido o estuviere imposibilitada de hacer uso de él.
+Asimismo, ejercerá este derecho la trabajadora o el trabajador al que se le haya otorgado judicialmente la tuición o el cuidado personal de conformidad con la ley Nº19.620 o como medida de protección de acuerdo con el número 2 del artículo 30 de la Ley de Menores. Este derecho se extenderá al cónyuge, en los mismos términos señalados en los incisos anteriores.
 
 Art. 207. Corresponde a la Junta Nacional de Jardines Infantiles y a la Dirección del Trabajo velar por el cumplimiento de las disposiciones de este título.
 Cualquiera persona puede denunciar ante estos organismos las infracciones de que tuviere conocimiento.
-Las acciones y derechos provenientes de este título se extinguirán en el término de sesenta días contados desde la fecha de expiración del período a que se refiere el artículo 201.
+Las acciones y derechos provenientes de este título se extinguirán en el término de sesenta días contados desde la fecha de expiración del período a que se refieren los respectivos derechos.
 
 Artículo 207 bis. En el caso de contraer matrimonio, todo trabajador tendrá derecho a cinco días hábiles continuos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
 Este permiso se podrá utilizar, a elección del trabajador, en el día del matrimonio y en los días inmediatamente anteriores o posteriores al de su celebración.
