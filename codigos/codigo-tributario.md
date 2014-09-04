@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2014-05-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2014-09-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2014-05-28
-fetched_at: 2026-08-03T03:07:13.407708+00:00
+version_date: 2014-09-04
+fetched_at: 2026-08-03T03:09:56.681921+00:00
 titulo_norma: "CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -785,7 +785,9 @@ Las partes deberán comparecer en conformidad a la normas establecidas en la ley
 
 Artículo 130.- El Tribunal Tributario y Aduanero llevará los autos en la forma ordenada en los artículos 29 y 34 del Código de Procedimiento Civil. Durante la tramitación, sólo las partes podrán imponerse de ellos.
 
-Art. 131. Los plazos de días que se establecen en este Libro comprenderán sólo días hábiles. No se considerarán inhábiles para tales efectos ni para practicar las actuaciones y notificaciones que procedan, ni para emitir pronunciamientos, los días del feriado judicial a que se refiere el artículo 313 del Código Orgánico de Tribunales, en cuanto todos ellos deban cumplirse por o ante el Tribunal Tributario y Aduanero.
+Artículo 131.- Los plazos de días que se establecen en este Libro comprenderán sólo días hábiles. No se considerarán inhábiles para tales efectos ni para practicar las actuaciones y notificaciones que procedan, ni para emitir pronunciamientos, los días del feriado judicial a que se refiere el artículo 313 del Código Orgánico de Tribunales, en cuanto todos ellos deban cumplirse por o ante el Tribunal Tributario y Aduanero.
+NOTA
+La Ley 20774, publicada el 04.09.2014, modificó diversas disposiciones legales con el fin de suprimir el feriado judicial y, en particular, el Nº 3 de su Art. 1º lo eliminó del Art. 313 del Código Orgánico de Tribunales, a que se refiere el presente artículo. Conforme a su Art. 7 las referencias al feriado judicial de febrero consignadas en cualquier cuerpo legal que no se encuentren previstas expresamente en ella, se entenderán derogadas para todos los efectos legales.
 
 Artículo 131 bis.- Las resoluciones que dicte el Tribunal Tributario y Aduanero se notificarán a las partes mediante la publicación de su texto íntegro en el sitio en Internet del Tribunal.
 Se dejará testimonio en el expediente y en el sitio en Internet de haberse efectuado la publicación y de su fecha. Los errores u omisiones en dichos testimonios no invalidarán la notificación.
