@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2013-11-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2014-09-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 2013-11-12
-fetched_at: 2026-08-03T03:02:40.266484+00:00
+version_date: 2014-09-04
+fetched_at: 2026-08-03T03:09:13.706231+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1087,7 +1087,6 @@ Notificada la resolución, el directorio procederá a darle cumplimiento, para l
 
 ARTICULO 247°- El que se sienta perjudicado por algún fallo arbitral, podrá reclamar de él ante los Tribunales Ordinarios de Justicia dentro del plazo de seis meses contados desde la fecha de su notificación.
 Esta reclamación, que se tramitará como juicio sumario, no obstará a que dicho fallo se cumpla y surta efecto durante el juicio, a menos que el Juez, a petición de parte y como medida precautoria, decrete su suspensión mediante resolución ejecutoriada. Las apelaciones que se interpongan con motivo de estas medidas precautorias, se agregarán extraordinariamente, sin necesidad de que las partes comparezcan y sin que se pueda suspender de manera alguna la vista del recurso ni inhabilitar a los miembros del Tribunal.
-En estas reclamaciones procederá siempre la habilitación del feriado de vacaciones.
 
 ARTICULO 248°- Habrá un secretario de la comunidad que, con el carácter de Ministro de Fe, estará encargado de autorizar las resoluciones de las juntas, del directorio y del presidente y de redactar y autorizar todas las actas.
 Además de las atribuciones que le confieran los estatutos, corresponderá al secretario llevar los registros de la comunidad; autorizar las inscripciones; mantener bajo su vigilancia y cuidado el archivo; dar copia autorizada de las piezas que se soliciten; percibir las cuotas que deban pagar los comuneros y las demás entradas de la comunidad; llevar la contabilidad, siempre que el directorio no haya confiado a otros empleados estas funciones, y ejecutar los acuerdos del directorio cuyo cumplimiento se le hubiere encargado.
@@ -1191,7 +1190,7 @@ Las obras definitivas requerirán el permiso de la Dirección General de Aguas;
 
 ARTICULO 275°- Los miembros de la junta de vigilancia que se sientan perjudicados por un acuerdo adoptado por el directorio en uso de las atribuciones que le confieren los números 2, 3 y 4, del artículo anterior, podrán reclamar de él ante los Tribunales Ordinarios de Justicia.
 Esta reclamación deberá deducirse en contra del directorio de la junta de vigilancia, representada por su presidente que se cursará sin más trámite que un comparendo al cual concurrirán las partes con todos sus medios de prueba. La reclamación deberá resolverse dentro de los ocho días siguientes a la celebración del comparendo.
-La notificación inicial al presidente del directorio se hará por cédula. El feriado de vacaciones se entenderá siempre habilitado para los efectos de esta reclamación. La resolución que el Juez dicte será apelable en lo devolutivo y el recurso se verá en la forma señalada por el artículo 247.
+La notificación inicial al presidente del directorio se hará por cédula. La resolución que el Juez dicte será apelable en lo devolutivo y el recurso se verá en la forma señalada por el artículo 247.
 
 ARTICULO 276°- En las sesiones de la asamblea de la junta de vigilancia, las asociaciones de canalistas y las comunidades de aguas serán representadas por el presidente del directorio o el administrador designado al efecto, según el caso, o la persona especialmente designada para este efecto por el directorio o el administrador; las demás personas, en la forma que dispone el artículo 223.
 La asamblea conocerá de aquellas materias que el párrafo 1° de este título encomienda a las juntas generales. Para los efectos de las votaciones, los derechos de aprovechamiento de ejercicio permanente y eventual tendrán un mismo valor. Sin embargo, el número de votos correspondientes a estos últimos, no podrá ser superior a la tercera parte de los votos de los derechos permanentes, debiendo hacerse la reducción proporcional cuando exceda de dicha parte.

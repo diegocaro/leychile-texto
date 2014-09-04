@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2014-08-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2014-09-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2014-08-12
-fetched_at: 2026-08-03T03:08:55.694952+00:00
+version_date: 2014-09-04
+fetched_at: 2026-08-03T03:09:44.661791+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -2778,7 +2778,7 @@ El mandato judicial y el patrocinio constituido en el Tribunal de Letras del Tra
 
 Art. 435. Los plazos que se establecen en este Libro son fatales, salvo aquellos establecidos para la realización de actuaciones propias del tribunal, cualquiera que sea la forma en que se expresen. En consecuencia, la posibilidad de ejercer un derecho o la oportunidad para ejecutar un acto se extingue, por el solo ministerio de la ley, con el vencimiento del plazo.
 En estos casos, el tribunal, de oficio o a petición de parte, proveerá lo que convenga para la prosecución del juicio, sin necesidad de certificado previo.
-Los términos de días que establece este Título se entenderán suspendidos durante los días feriados. El feriado de vacaciones a que se refiere el artículo 313 del Código Orgánico de Tribunales no regirá respecto de las causas laborales.
+Los términos de días que establece este Título se entenderán suspendidos durante los días feriados.
 
 Art. 436. La primera notificación a la parte demandada deberá hacerse personalmente, entregándosele copia íntegra de la resolución y de la solicitud en que haya recaído. Al demandante se le notificará por el estado diario.
 Esta notificación se practicará por el funcionario que el juez determine, atendiendo a las circunstancias del lugar en que funcione el tribunal y restantes consideraciones que miren a la eficacia de la actuación. La parte interesada podrá siempre encargar a su costa la práctica de la notificación a un receptor judicial.

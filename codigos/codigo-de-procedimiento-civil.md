@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2007-11-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2014-09-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2007-11-12
-fetched_at: 2026-08-03T01:44:39.536789+00:00
+version_date: 2014-09-04
+fetched_at: 2026-08-03T03:09:38.661075+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -267,13 +267,15 @@ El artículo 1º, letra d), del Decreto 738, Relaciones Exteriores, publicado el
 d) Intervenir en todas aquellas diligencias judiciales en que sea requerida la mediación de un Intérprete Oficial, de acuerdo con lo dispuesto en el artículo 63 del Código de Procedimiento Civil."
 
 Artículo 64.- Los plazos que señala este Código son fatales cualquiera sea la forma en que se exprese, salvo aquéllos establecidos para la realización de actuaciones propias del tribunal. En consecuencia, la posibilidad de ejercer un derecho o la oportunidad para ejecutar el acto se extingue al vencimiento del plazo. En estos casos el tribunal, de oficio o a petición de parte, proveerá lo que convenga para la prosecución del juicio, sin necesidad de certificado previo.
-Las partes, en cualquier estado del juicio, podrán acordar la suspensión del procedimiento hasta por un plazo máximo de noventa días. Este derecho sólo podrá ejercerse por una vez en cada instancia, sin perjuicio de hacerlo valer, además, ante la Corte Suprema en caso que, ante dicho tribunal, estuviesen pendientes recursos de casación o de queja en contra de sentencia definitiva. Los plazos que estuvieren corriendo se suspenderán al presentarse el escrito respectivo y continuarán corriendo vencido el plazo de suspensión acordado.
+Las partes, en cualquier estado del juicio, podrán acordar la suspensión del procedimiento hasta dos veces por instancia, sea o no por períodos iguales, hasta un plazo máximo de noventa días en cada instancia, sin perjuicio de poder acordarla, además, ante la Corte Suprema en caso que, ante dicho tribunal, estuvieren pendientes recursos de casación o de queja en contra de sentencia definitiva. Los plazos que estuvieren corriendo se suspenderán al presentarse el escrito respectivo y continuarán corriendo vencido el plazo de suspensión acordado.
 
 Art. 65 (68). Los términos comenzarán a correr para cada parte desde el día de la notificación.
 Los términos comunes se contarán desde la última notificación.
 
 Art. 66 (69). Los términos de días que establece el presente Código, se entenderán suspendidos durante los feriados, salvo que el tribunal, por motivos justificados, haya dispuesto expresamente lo contrario.
-Lo anterior no regirá con los asuntos indicados en el inciso segundo del artículo 314 del Código Orgánico de Tribunales respecto del feriado de vacaciones.
+NOTA
+NOTA
+El N° 2 del Artículo 2° de la Ley 20774, publicada el 04.09.2014, deroga el inciso segundo de la presente norma.
 
 Art. 67 (70). Son prorrogables los términos señalados por el tribunal.
 Para que pueda concederse la prórroga es necesario:
