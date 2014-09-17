@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2014-03-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2014-09-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2014-03-08
-fetched_at: 2026-08-03T03:06:19.361549+00:00
+version_date: 2014-09-17
+fetched_at: 2026-08-03T03:10:20.707731+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2162,13 +2162,13 @@ Si la víctima del delito descrito en el inciso precedente es o ha sido la cóny
 
 ART.391.
 El que mate a otro Y no esté comprendido en el artículo anterior, será penado:
-1.° Con presidio mayor en su grado medio a presidio perpetuo, si ejecutare el homicidio con alguna de las circunstancias siguientes:
+1.° Con presidio mayor en su grado máximo a presidio perpetuo, si ejecutare el homicidio con alguna de las circunstancias siguientes:
 Primera.- Con alevosía.
 Segunda.- Por premio o promesa remuneratoria.
 Tercera.- Por medio de veneno.
 Cuarta.- Con ensañamiento, aumentando deliberada e inhumanamente el dolor al ofendido.
 Quinta.- Con premeditación conocida.
-2.º Con presidio mayor en sus grados mínimo a medio en cualquier otro caso.
+2.º Con presidio mayor en su grado medio en cualquier otro caso.
 
 ART. 392.
 Cometiéndose un homicidio en riña o pelea y no constando el autor de la muerte, pero sí los que causaron lesiones graves al occiso, se impondrá a todos éstos la pena de presidio menor en su grado máximo.
@@ -2176,6 +2176,8 @@ Si no constare tampoco quienes causaron lesiones graves al ofendido, se impondr�
 
 ART. 393.
 El que con conocimiento de causa prestare auxilio a otro para que se suicide, sufrirá la pena de presidio menor en sus grados medio a máximo, si se efectúa la muerte.
+
+.
 
 #### § II.
 Del infanticidio.
