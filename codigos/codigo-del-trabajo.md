@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2014-09-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2014-09-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2014-09-17
-fetched_at: 2026-08-03T03:10:02.688611+00:00
+version_date: 2014-09-20
+fetched_at: 2026-08-03T03:10:38.728817+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -425,6 +425,12 @@ Igual permiso se aplicará por tres días hábiles en el caso de muerte de un hi
 Estos permisos deberán hacerse efectivos a partir del día del respectivo fallecimiento. No obstante, tratándose de una defunción fetal, el permiso se hará efectivo desde el momento de acreditarse la muerte, con el respectivo certificado de defunción fetal.
 El trabajador al que se refiere el inciso primero gozará de fuero laboral por un mes, a contar del respectivo fallecimiento. Sin embargo, tratándose de trabajadores cuyos contratos de trabajo sean a plazo fijo o por obra o servicio determinado, el fuero los amparará sólo durante la vigencia del respectivo contrato si éste fuera menor a un mes, sin que se requiera solicitar su desafuero al término de cada uno de ellos.
 Los días de permiso consagrados en este artículo no podrán ser compensados en dinero.
+
+Artículo 66 bis.- Las trabajadoras mayores de cuarenta años de edad y los trabajadores mayores de cincuenta, cuyos contratos de trabajo sean por un plazo superior a treinta días, tendrán derecho a medio día de permiso, una vez al año durante la vigencia de la relación laboral, para someterse a los exámenes de mamografía y próstata, respectivamente, pudiendo incluir otras prestaciones de medicina preventiva, tales como el examen de papanicolau, en las instituciones de salud públicas o privadas que corresponda. En el caso de los contratos celebrados por un plazo fijo, o para la realización de una obra o faena determinada, este derecho podrá ejercerse a partir de los treinta días de celebrado el contrato de trabajo, y en cualquier momento durante la vigencia de éste.
+El tiempo para realizar los exámenes, señalado en el inciso anterior, será complementado, en su caso, con el tiempo suficiente para los traslados hacia y desde la institución médica, considerando las condiciones geográficas, de transporte y la disponibilidad de equipamiento médico necesario.
+Para el ejercicio de este derecho, los trabajadores deberán dar aviso al empleador con una semana de anticipación a la realización de los exámenes; asimismo, deberán presentar con posterioridad a éstos, los comprobantes suficientes que acrediten que se los realizaron en la fecha estipulada.
+El tiempo en el que los trabajadores se realicen los exámenes, será considerado como trabajado para todos los efectos legales; asimismo, este permiso no podrá ser compensado en dinero, ni durante ni al término de la relación laboral, entendiéndose por no escrita cualquier estipulación en contrario.
+Si los trabajadores estuvieren afectos a un instrumento colectivo que considerare un permiso análogo, se entenderá cumplida la obligación legal por parte del empleador.
 
 Art. 67. Los trabajadores con más de un año de servicio tendrán derecho a un feriado anual de quince días hábiles, con remuneración íntegra que se otorgará de acuerdo con las formalidades que establezca el reglamento.
 Los trabajadores que presten servicios en la Duodécima Región de Magallanes y de la Antártica Chilena, en la Undécima Región de Aysén del General Carlos Ibáñez del Campo, y en la Provincia de Palena, tendrán derecho a un feriado anual de veinte días hábiles.
