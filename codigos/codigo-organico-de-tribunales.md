@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2014-09-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2014-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2014-09-04
-fetched_at: 2026-08-03T03:09:50.671857+00:00
+version_date: 2014-10-10
+fetched_at: 2026-08-03T03:11:56.802582+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1032,14 +1032,14 @@ Art. 130. Para el efecto de determinar la competencia se reputarán de mayor cua
 
 Art. 131. Se reputarán también, en todo caso, como materias de mayor cuantía, para el efecto de determinar la competencia del juez, las que en seguida se indican:
 1°) El derecho al goce de los créditos de un capital acensuado; y
-2°) Todas las cuestiones relativas a quiebras y a convenios entre el deudor y los acreedores.
+2°) Todas las cuestiones relativas a procedimientos concursales de reorganización o de liquidación entre el deudor y los acreedores.
 
 Art. 132. Para determinar la gravedad o levedad en materia criminal, se estará a lo dispuesto en el Código Penal.
 
 ### § 3. Supresión del fuero personal en algunos negocios judiciales
 
 Art. 133. No se considerará el fuero de que gocen las partes en los juicios de minas, posesorios, sobre distribución de aguas, particiones, en los que se tramiten breve y sumariamente y en los demás que determinen las leyes.
-Tampoco se tomará en cuenta el que tengan los acreedores en el juicio de quiebra ni el de los interesados en los asuntos no contenciosos.
+Tampoco se tomará en cuenta el que tengan los acreedores en el procedimiento concursal de liquidación ni el de los interesados en los asuntos no contenciosos.
 
 ### § 4. Reglas que determinan la competencia en materias civiles entre tribunales de igual jerarquía
 
@@ -1094,7 +1094,7 @@ Para nombrar curador a los derechos eventuales del que está por nacer, será co
 
 Art. 153. Para aprobar o autorizar la enajenación, hipotecación o arrendamiento de inmuebles, es competente el juez del lugar donde éstos estuvieren situados.
 
-Art. 154. Será juez competente en materia de quiebras, cesiones de bienes y convenios entre deudor y acreedores el del lugar en que el fallido o deudor tuviere su domicilio.
+Art. 154. Será juez competente en materia de procedimientos concursales entre deudores y acreedores el del lugar en que el deudor tuviere su domicilio.
 
 Art. 155. Será tribunal competente para conocer de la petición para entrar en el goce de un censo de transmisión forzosa el del territorio jurisdiccional en donde se hubiere inscrito el censo. Si el censo se hubiere redimido, el del territorio jurisdiccional donde se hubiere inscrito la redención. Si el censo no estuviere inscrito ni se hubiera redimido, el del territorio jurisdiccional donde se hubiere declarado el derecho del último censualista.
 
@@ -1224,7 +1224,7 @@ Art. 194. Los jueces pueden perder su competencia para conocer determinados nego
 Art. 195. Son causas de implicancia:
 1°) Ser el juez parte en el pleito o tener en él interés personal, salvo lo dispuesto en el N° 18 del artículo siguiente;
 2°) Ser el juez consorte o pariente consanguíneo legítimo en cualquiera de los grados de la línea recta y en la colateral hasta el segundo grado inclusive, o ser padre o hijo natural o adoptivo de alguna de las partes o de sus representantes legales;
-3°) Ser el juez tutor o curador de alguna de las partes, o ser albacea de alguna sucesión, o síndico de alguna quiebra, o administrador de algún establecimiento, o representante de alguna persona jurídica que figure como parte en el juicio;
+3°) Ser el juez tutor o curador de alguna de las partes, o ser albacea de alguna sucesión, o veedor o liquidador de un procedimiento concursal, o administrador de algún establecimiento, o representante de alguna persona jurídica que figure como parte en el juicio;
 4°) Ser el juez ascendiente o descendiente legítimo, padre o hijo natural o adoptivo del abogado de alguna de las partes;
 5°) Haber sido el juez abogado o apoderado de alguna de las partes en la causa actualmente sometida a su conocimiento o haber intervenido en ella como mediador;
 6°) Tener el juez, su consorte, ascendientes o descendientes legítimos, padres o hijos naturales o adoptivos, causa pendiente en que deba fallar como juez alguna de las partes;

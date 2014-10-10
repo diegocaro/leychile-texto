@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2014-09-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2014-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2014-09-17
-fetched_at: 2026-08-03T03:10:20.707731+00:00
+version_date: 2014-10-10
+fetched_at: 2026-08-03T03:12:04.048307+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -370,7 +370,7 @@ Si los bienes del culpable no fueren bastantes para cubrir las responsabilidades
 2.° El resarcimiento de los gastos ocasionados por el juicio.
 3.° La reparación del daño causado e indemnización de perjuicios.
 4.° La multa.
-En caso de concurso o quiebra, estos créditos se graduarán, considerándose como uno solo, entre los que no gozan de preferencia.
+En caso de un procedimiento concursal, estos créditos se graduarán, considerándose como uno solo, entre los que no gozan de preferencia.
 
 ART. 49.
 Si el sentenciado no tuviere bienes para satisfacer la multa podrá el tribunal imponer, por vía de sustitución, la pena de prestación de servicios en beneficio de la comunidad.
@@ -2582,21 +2582,49 @@ ART. 462.
 El que destruyere o alterare términos o límites de propiedades públicas o particulares con ánimo de lucrarse, será penado con presidio menor en su grado mínimo y multa de once a veinte unidades tributarias mensuales.
 
 #### § VII.
-De las defraudaciones.
+De los delitos concursales y de las defraudaciones.
 
 ART. 463.
-El quebrado que fuere declarado en el caso de insolvencia fraudulenta, con arreglo al Código de Comercio, sufrirá la pena de presidio o extrañamiento menores en cualesquiera de sus grados.
+El que dentro de los dos años anteriores a la resolución de liquidación a que se refiere el Capítulo IV de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas ejecutare actos o contratos que disminuyan su activo o aumenten su pasivo sin otra justificación económica o jurídica que la de perjudicar a sus acreedores, será castigado con la pena de presidio menor en su grado medio a máximo.
+
+ART. 463 bis.-
+Será castigado con la pena de presidio menor en su grado medio a presidio mayor en su grado mínimo, el deudor que realizare alguna de las siguientes conductas:
+1º Si dentro de los dos años anteriores a la resolución de reorganización o liquidación, ocultare total o parcialmente sus bienes o sus haberes.
+2º Si después de la resolución de liquidación percibiere y aplicare a sus propios usos o de terceros, bienes que deban ser objeto del procedimiento concursal de liquidación.
+3º Si después de la resolución de liquidación, realizare actos de disposición de bienes de su patrimonio, reales o simulados, o si constituyere prenda, hipoteca u otro gravamen sobre los mismos.
+
+ART. 463 ter.-
+Será castigado con la pena de presidio menor en su grado mínimo a medio el deudor que realizare alguna de las siguientes conductas:
+1º Si durante el procedimiento concursal de reorganización o liquidación, proporcionare al veedor o liquidador, en su caso, o a sus acreedores, información o antecedentes falsos o incompletos, en términos que no reflejen la verdadera situación de su activo o pasivo.
+2º Si no hubiese llevado o conservado los libros de contabilidad y sus respaldos exigidos por la ley que deben ser puestos a disposición del liquidador una vez dictada la resolución de liquidación, o si hubiese ocultado, inutilizado, destruido o falseado en términos que no reflejen la situación verdadera de su activo y pasivo.
+
+ART. 463 quáter.-
+Será castigado como autor de los delitos contemplados en los artículos 463, 463 bis y 463 ter quien, en la dirección o administración de los negocios del deudor, sometido a un procedimiento concursal de reorganización o de liquidación, hubiese ejecutado alguno de los actos o incurrido en alguna de las omisiones allí señalados, o hubiese autorizado expresamente dichos actos u omisiones.
 
 ART. 464.
-El quebrado que fuese declarado en el caso de insolvencia culpable, según el mismo Código, será castigado con presidio o extrañamiento menores en sus grados mínimos a medios.
+Será castigado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo y con la sanción accesoria de inhabilidad especial perpetua para ejercer el cargo, el veedor o liquidador designado en un procedimiento concursal de reorganización o liquidación, que realice alguna de las siguientes conductas:
+1º Si se apropiare de bienes del deudor que deban ser objeto de un procedimiento concursal de reorganización o liquidación.
+2º Si defraudare a los acreedores, alterando en sus cuentas de administración los valores obtenidos en el procedimiento concursal de reorganización o liquidación, suponiendo gastos o exagerando los que hubiere hecho.
+3º Si proporcionare ventajas indebidas a un acreedor, al deudor o a un tercero.
+
+ART. 464 bis.-
+El veedor o liquidador designado en un procedimiento concursal de reorganización o de liquidación que aplicare en beneficio propio o de un tercero bienes del deudor que sean objeto de un procedimiento concursal de reorganización o de liquidación será castigado con presidio menor en su grado medio a máximo y con la pena accesoria de inhabilidad especial perpetua para ejercer el cargo.
+
+ART. 464 ter.-
+El que sin tener la calidad de deudor, veedor, liquidador, o de aquellos a los que se refiere el artículo 463 quáter, incurra en alguno de los delitos previstos en este Párrafo, valiéndose de un sujeto que sí tenga esa calidad, será castigado como autor del delito respectivo.
+Si sólo lo induce o coopera con él, será castigado con la pena que le correspondería si tuviera la calidad exigida por la ley, rebajada en un grado.
 
 ART. 465.
-En los casos de los dos artículos precedentes, si la pérdida ocasionada a los acreedores no llegare al veinte por ciento de sus respectivos créditos, se impondrán las penas en su grado inferior.
-Cuando la pérdida exceda del cincuenta por ciento, las penas se aplicarán en su grado superior.
-Si antes de pronunciarse la sentencia no se hubiere liquidado el concurso, el tribunal regulará prudencialmente la pérdida tomando por base los antecedentes del caso.
+La persecución penal de los delitos contemplados en este Párrafo sólo podrá iniciarse previa instancia particular del veedor o liquidador del proceso concursal respectivo; de cualquier acreedor que haya verificado su crédito si se tratare de un procedimiento concursal de liquidación, lo que se acreditará con copia autorizada del respectivo escrito y su proveído; o en el caso de un procedimiento concursal de reorganización, de todo acreedor a quien le afecte el acuerdo de reorganización de conformidad a lo establecido en el artículo 66 del Capítulo III de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
+Si se tratare de delitos de este Párrafo cometidos por veedores o liquidadores, la Superintendencia de Insolvencia y Reemprendimiento deberá denunciarlos si alguno de los funcionarios de su dependencia toma conocimiento de aquéllos en el ejercicio de sus funciones. Además, podrá interponer querella criminal, entendiéndose para este efecto cumplidos los requisitos que establece el inciso tercero del artículo 111 del Código Procesal Penal.
+Cuando se celebren acuerdos reparatorios de conformidad al artículo 241 y siguientes del Código Procesal Penal, los términos de esos acuerdos deberán ser aprobados previamente por la junta de acreedores respectiva y las prestaciones que deriven de ellos beneficiarán a todos los acreedores, a prorrata de sus respectivos créditos, sin distinguir para ello la clase o categoría de los mismos.
+Conocerá de los delitos concursales regulados en este Párrafo el tribunal con competencia en lo criminal del domicilio del deudor.
+
+ART. 465 bis.-
+Las disposiciones contenidas en los artículos anteriores de este Párrafo referidas al deudor sólo se aplicarán a los señalados en el número 13) del artículo 2º de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
 
 ART. 466.
-El deudor no dedicado al comercio que se alzare con sus bienes en perjuicio de sus acreedores o que se constituya en insolvencia por ocultación, dilapidación o enajenación maliciosa de esos bienes, será castigado con presidio menor en cualquiera de sus grados.
+La persona deudora definida en el número 25)del artículo 2º de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas que se alzare con sus bienes en perjuicio de sus acreedores o que se constituya en insolvencia por ocultación, dilapidación o enajenación maliciosa de esos bienes, será castigado con presidio menor en cualquiera de sus grados.
 En la misma pena incurrirá si otorgare, en perjuicio de dichos acreedores, contratos simulados.
 
 #### § VIII.

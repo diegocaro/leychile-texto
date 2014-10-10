@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2014-09-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2014-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2014-09-04
-fetched_at: 2026-08-03T03:09:38.661075+00:00
+version_date: 2014-10-10
+fetched_at: 2026-08-03T03:11:44.791932+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -368,8 +368,8 @@ Art. 92 (95). La acumulación de autos tendrá lugar siempre que se tramiten sep
 2°. Cuando las personas y el objeto o materia de los juicios sean idénticos, aunque las acciones sean distintas; y
 3°. En general, siempre que la sentencia que haya de pronunciarse en un juicio deba producir la excepción de cosa juzgada en otro.
 
-Art. 93 (96). Habrá también lugar a la acumulación de autos en los casos de quiebra.
-De esta acumulación se trata en la Ley de Quiebras.
+Art. 93 (96). Habrá también lugar a la acumulación de autos en los casos de procedimiento concursal de liquidación.
+De esta acumulación se trata en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
 
 Art. 94 (97). La acumulación de autos se decretará a petición de parte; pero si los procesos se encuentran en un mismo tribunal, podrá éste ordenarla de oficio.
 Se considerará parte legítima para solicitarla todo el que haya sido admitido como parte litigante en cualquiera de los juicios cuya acumulación se pretende.
@@ -559,7 +559,10 @@ Art. 155 (162). Si, renovado el procedimiento, hace el demandado cualquiera gest
 Art. 156 (163). No se entenderán extinguidas por el abandono las acciones o excepciones de las partes; pero éstas perderán el derecho de continuar el procedimiento abandonado y de hacerlo valer en un nuevo juicio.
 Subsistirán, sin embargo, con todo su valor los actos y contratos de que resulten derechos definitivamente constituidos.
 
-Art. 157 (164). No podrá alegarse el abandono del procedimiento en los juicios de quiebra, ni en los de división o liquidación de herencias, sociedades o comunidades.
+Art. 157 (164). No podrá alegarse el abandono del procedimiento en los procedimientos concursales de liquidación, ni en los de división o liquidación de herencias, sociedades o comunidades.
+NOTA:
+NOTA:
+El artículo Quinto de la LEY 18705, publicada el 24.05.1988, dispone que las modificaciones introducidas por la presente ley, entrarán en vigencia sesenta días después de su publicación.
 
 ### Título XVII
 DE LAS RESOLUCIONES JUDICIALES
@@ -1904,7 +1907,7 @@ Las demás condiciones para la subasta se propondrán por el ejecutante, con cit
 
 Art. 492. (514). Si por un acreedor hipotecario de grado posterior se persigue una finca hipotecada contra el deudor personal que la posea, el acreedor o los acreedores de grado preferente, citados conforme al artículo 2428 del Código Civil, podrán, o exigir el pago de sus créditos sobre el precio del remate según sus grados, o conservar sus hipotecas sobre la finca subastada, siempre que sus créditos no estén devengados.
 No diciendo nada, en el término del emplazamiento, se entenderá que optan por ser pagados sobre el precio de la subasta.
-Si se ha abierto concurso a los bienes del poseedor de la finca perseguida, o se le ha declarado en quiebra, se estará a lo prescrito en el artículo 2477 de dicho Código.
+Si se ha dictado la resolución de reorganización que incluya los bienes del poseedor de la finca perseguida, o ha sido sometido a un procedimiento concursal de liquidación, se estará a lo prescrito en el artículo 2477 de dicho Código.
 Los procedimientos a que den lugar las disposiciones anteriores, se verificarán en audiencias verbales con el interesado o los interesados que concurran.
 
 Art. 493. (515). Salvo el caso de convenio expreso de las partes, no se admitirá postura que baje de los dos tercios de la tasación.

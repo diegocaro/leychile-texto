@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=2001-03-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=2014-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 29668
-version_date: 2001-03-30
-fetched_at: 2026-08-03T01:14:08.882321+00:00
+version_date: 2014-10-10
+fetched_at: 2026-08-03T03:11:38.789072+00:00
 titulo_norma: "CODIGO DE MINERIA"
 compuesto: LEY-18248
 organismos: ['MINISTERIO DE MINERIA']
@@ -1023,7 +1023,7 @@ Artículo 228.- No rindiendo la pertenencia productos bastantes para atender a s
 
 Artículo 229.- Serán aplicables a la administración que efectúe el acreedor, en los casos de los dos artículos anteriores, las reglas contenidas en los artículos 215 y 216.
 
-Artículo 230.- En las quiebras de los mineros se requerirá a los acreedores para que ejerciten los derechos que, en virtud de las disposiciones anteriores, se acuerdan al ejecutante.
+Artículo 230.- En los procedimientos concursales de liquidación de los mineros se requerirá a los acreedores para que ejerciten los derechos que, en virtud de las disposiciones anteriores, se acuerden al ejecutante.
 Los aviadores gozarán de derecho preferente para tomar la pertenencia bajo su administración y aviarla, en el orden que corresponda.
 Enajenada la pertenencia, los acreedores serán pagados en conformidad a las reglas generales de prelación. Entre los aviadores preferirá el más nuevo sobre el más antiguo, según la fecha de la inscripción de los títulos respectivos.
 
