@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2014-10-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2015-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2014-10-30
-fetched_at: 2026-08-03T03:12:16.060821+00:00
+version_date: 2015-01-01
+fetched_at: 2026-08-03T03:12:34.077989+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -353,7 +353,7 @@ Art. 53. El empleador estará obligado a pagar al trabajador los gastos razonabl
 #### Capítulo VI
 DE LA PROTECCION A LAS REMUNERACIONES
 
-Art. 54. Las remuneraciones se pagarán en moneda de curso legal, sin perjuicio de lo establecido en el inciso segundo del artículo 10 y de lo preceptuado para los trabajadores agrícolas y los de casa particular.
+Art. 54. Las remuneraciones se pagarán en moneda de curso legal, sin perjuicio de lo establecido en el inciso segundo del artículo 10 y de lo preceptuado para los trabajadores agrícolas.
 A solicitud del trabajador, podrá pagarse con cheque o vale vista bancario a su nombre.
 Junto con el pago, el empleador deberá entregar al trabajador un comprobante con indicación del monto pagado, de la forma como se determinó y de las deducciones efectuadas.
 
@@ -811,6 +811,11 @@ Se aplicarán también las disposiciones de este capítulo a los choferes de cas
 NOTA:
 El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que la modificación de la presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
 
+Artículo 146 bis.- Sin perjuicio de lo dispuesto en el número 3 del artículo 10, el contrato de los trabajadores de casa particular deberá indicar el tipo de labor a realizar y el domicilio específico donde deberán prestarse los servicios, así como también, en su caso, la obligación de asistencia a personas que requieran atención o cuidados especiales.
+
+Artículo 146 ter.- El empleador deberá entregar una copia del contrato de trabajo debidamente firmado al trabajador. Asimismo, deberá registrarlo dentro de los quince días siguientes a su celebración en la sede o en el sitio electrónico de la respectiva Inspección del Trabajo, con indicación de las mismas estipulaciones pactadas, a fin de facilitar la fiscalización de la existencia de la relación laboral y de las condiciones de empleo. La Inspección del Trabajo mantendrá la reserva de la identidad de las partes y del domicilio en que se prestan los servicios y sólo podrá utilizar la información disponible para la finalidad de fiscalización o para proporcionarla a los tribunales de justicia, previo requerimiento.
+El empleador que sea requerido en el domicilio indicado por un inspector del trabajo en ejercicio de sus facultades de fiscalización, relativas a las condiciones laborales de los trabajadores de casa particular, podrá aceptar su ingreso a este domicilio o solicitar la fijación de otro día y hora para acudir a las dependencias de la Inspección del Trabajo con la documentación que le sea requerida.
+
 Art. 147. Las dos primeras semanas de trabajo se estimarán como período de prueba y durante ese lapso podrá resolverse el contrato a voluntad de cualquiera de las partes siempre que se dé un aviso con tres días de anticipación, a lo menos, y se pague el tiempo servido.
 
 Art. 148. Al fallecimiento del jefe de hogar, el contrato subsistirá con los parientes que hayan vivido en la casa de aquél y continúen viviendo en ella después de su muerte, los que serán solidariamente responsables del cumplimiento de las obligaciones emanadas del contrato.
@@ -820,14 +825,20 @@ Cuando vivan en la casa del empleador no estarán sujetos a horario, sino que é
 
 Art. 150. El descanso semanal de los trabajadores de casa particular que no vivan en la casa del empleador, se regirá por las normas generales del párrafo 4, Capítulo IV, Título I, de este Libro.
 Tratándose de trabajadores que vivan en la casa del empleador se aplicarán las siguientes normas:
-a) Tendrán derecho a un día completo de descanso a la semana, el cual podrá ser fraccionado en dos medios, a petición del trabajador.
-b) Tendrán derecho a descanso todos los días que la ley declare festivos. No obstante, las partes, con anterioridad a ellos, podrán pactar por escrito que el descanso se efectúe en un día distinto que no podrá fijarse más allá de los noventa días siguientes al respectivo festivo. Este derecho caducará si no se ejerce dentro de dicho plazo y no podrá compensarse en dinero, salvo que el contrato de trabajo termine antes de haberse ejercido el descanso.
+a) Tendrán derecho a descanso semanal los días domingo.
+c) Tendrán derecho a descanso todos los días que la ley declare festivos. No obstante, las partes, con anterioridad a ellos, po
+NOTA
+drán pactar por escrito que el descanso se efectúe en un día distinto que no podrá fijarse más allá de los noventa días siguientes al respectivo festivo. Este derecho caducará si no se ejerce dentro de dicho plazo y no podrá compensarse en dinero, salvo que el contrato de trabajo termine antes de haberse ejercido el descanso.
 Los días de descanso facultan a los trabajadores a no reiniciar sus labores hasta el comienzo de la jornada diaria siguiente.
+NOTA
+El numeral 4 del la Ley 20786, publicada el 27-10-2014, introdujo la siguiente letra b) Tendrán derecho a descanso los días sábado, los cuales, de común acuerdo, podrán acumularse, fraccionarse o intercambiarse por otros días de la semana. En caso de acumularse, dichos días deberán ser otorgados por el empleador dentro del respectivo mes calendario. Estos descansos no podrán ser compensados en dinero mientras la relación laboral se encuentre vigente. Esta letra entrara en vigencia el 21.11.2015
 
-Art. 151. La remuneración de los trabajadores de casa particular se fijará de común acuerdo entre las partes, comprendiéndose además del pago en dinero efectivo, los alimentos y la habitación cuando los servicios requeridos exijan que el trabajador viva en la casa del empleador.
-La remuneración mínima en dinero de los trabajadores de casa particular estará sujeta a lo previsto en el inciso tercero del artículo 44 de este Código.
-Los trabajadores que no vivan en la casa del empleador y se desempeñen a jornadas parciales o presten servicios sólo algunos días a la semana, tendrán derecho a una remuneración mínima no inferior a la referida en el inciso anterior, proporcionalmente calculada en relación con la jornada o con los días de trabajo.
-Las prestaciones de casa habitación y alimentación de los trabajadores de casa particular no serán imponibles para efectos previsionales.
+Art. 151. La remuneración de los trabajadores de casa particular se fijará de común acuerdo entre las partes y en moneda de curso legal, sin que pueda comprender los alimentos y la habitación, los cuales siempre serán de cargo del empleador.
+NOTA
+NOTA
+El numeral 5° b) del artículo único de la ley 20786, publicada el 27.10.2014, suprimió los incisos segundo, tercero y cuarto de la presente norma.
+
+Artículo 151 bis.- Ningún empleador podrá condicionar la contratación de trabajadores de casa particular, su permanencia o renovación de contrato, o la promoción o movilidad en su empleo, al uso de uniformes, delantales o cualquier otro distintivo o vestimenta identificadores en espacios, lugares o establecimientos públicos como parques, plazas, playas, restaurantes, hoteles, locales comerciales, clubes sociales y otros de similar naturaleza.
 
 Art. 152. En los casos de enfermedad del trabajador, el empleador deberá dar de inmediato aviso al organismo de seguridad social respectivo y estará además, obligado a conservarle el cargo, sin derecho a remuneración, por ocho días, si tuviera menos de seis meses de servicios; durante quince días, si hubiera servido más de un semestre y menos de un año, y por un período de hasta treinta días, si hubiera trabajado más de doce meses.
 Toda enfermedad contagiosa, clínicamente calificada, de una de las partes o de las personas que habiten la casa, da derecho a la otra parte para poner término al contrato.
