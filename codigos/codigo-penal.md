@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2014-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2015-02-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2014-10-10
-fetched_at: 2026-08-03T03:12:04.048307+00:00
+version_date: 2015-02-06
+fetched_at: 2026-08-03T03:13:19.217888+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -141,7 +141,7 @@ El tribunal tomará o no en consideración esta circunstancia, según la natural
 17.° Cometer el delito en lugar destinado al ejercicio de un culto permitido en la República.
 18.° Ejecutar el hecho con ofensa o desprecio del respeto que por la dignidad, autoridad, edad o sexo mereciere el ofendido, o en su morada, cuando él no haya provocado el suceso.
 19.° Ejecutarlo por medio de fractura o escalamiento de lugar cerrado.
-20.° Ejecutarlo portando armas de fuego o de aquellas referidas en el artículo 132.
+20.° Ejecutarlo portando armas de aquellas referidas en el artículo 132.
 21ª. Cometer el delito o participar en él motivado por la ideología, opinión política, religión o creencias de la víctima; la nación, raza, etnia o grupo social a que pertenezca; su sexo, orientación sexual, identidad de género, edad, filiación, apariencia personal o la enfermedad o discapacidad que padezca.
 
 #### § V.
@@ -2220,7 +2220,8 @@ ART. 403.
 Cuando sólo hubieren resultado lesiones menos graves sin conocerse a los autores de ellas, pero sí a los que hicieron uso de armas capaces de producirlas, se impondrá a todos éstos las penas inmediatamente inferiores en grado a las que les hubieran correspondido por tales lesiones.
 En los casos de este artículo y del anterior, se estará a lo dispuesto en el 304 para la aplicación de la pena.
 
-Artículo 403 bis.- El que enviare cartas o encomiendas explosivas de cualquier tipo que afecten o puedan afectar la vida o integridad corporal de las personas, será penado con presidio mayor en su grado mínimo.
+ART. 403 bis.-
+Derogado.
 
 #### § IV.
 Del duelo.
@@ -2511,9 +2512,6 @@ Derogado.
 
 ART. 450.
 Los delitos a que se refiere al Párrafo 2 y el artículo 440 del Párrafo 3 de este Título se castigarán como consumados desde que se encuentren en grado de tentativa.
-En los delitos de robo y hurto, la pena correspondiente será elevada en un grado cuando los culpables hagan uso de armas o sean portadores de ellas.
-En el caso del delito de hurto, el aumento de la pena contemplado en el inciso anterior se producirá si las armas que se portan son de fuego, cortantes o punzantes. Tratándose de otras armas, la mera circunstancia de portarlas no aumentará la pena si, a juicio del tribunal, fueren llevadas por el delincuente con un propósito ajeno a la comisión del delito.
-Para determinar cuando el robo o hurto se comete con armas, se estará a lo dispuesto en el art. 132.
 
 ART. 450 bis.
 En el robo con violencia o intimidación en las personas no procederá la atenuante de responsabilidad penal contenida en el artículo 11, N° 7.
@@ -2712,10 +2710,10 @@ ART. 479.
 Cuando el fuego se comunicare del objeto que el culpable se propuso quemar, a otro u otros cuya destrucción, por su naturaleza o consecuencias, debe penarse con mayor severidad, se aplicará la pena más grave, siempre que los objetos incendiados estuvieren colocados de tal modo que el fuego haya debido comunicarse de unos a otros, atendidas las circunstancias del caso.
 
 ART. 480.
-Incurrirán respectivamente en las penas de este párrafo los que causen estragos por medio de sumersión o varamiento de nave, inundación, destrucción de puentes, explosión de minas o máquinas de vapor, y en general por la aplicación de cualquier otro agente o medio de destrucción tan poderoso como los expresados.
+Incurrirán respectivamente en las penas de este párrafo los que causen estragos por medio de sumersión o varamiento de nave, inundación, destrucción de puentes o máquinas de vapor, y en general por la aplicación de cualquier otro agente o medio de destrucción tan poderoso como los expresados.
 
 ART. 481.
-El que fuere aprehendido con bombas explosivas o preparativos conocidamente dispuestos para incendiar o causar alguno de los estragos expresados en este párrafo, será castigado con presidio menor en sus grados mínimo a medio; salvo que pudiendo considerarse el hecho como tentativa de un delito determinado debiera castigarse con mayor pena.
+El que fuere aprehendido con artefactos, implementos o preparativos conocidamente dispuestos para incendiar o causar alguno de los estragos expresados en este párrafo, será castigado con presidio menor en sus grados mínimo a medio; salvo que pudiendo considerarse el hecho como tentativa de un delito determinado debiera castigarse con mayor pena.
 
 ART. 482.
 El culpable de incendio o estragos no se eximirá de las penas de los artículos anteriores, aunque para cometer el delito hubiere incendiado o destruido bienes de su pertenencia.
@@ -2804,7 +2802,7 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 1.° El que asistiendo a un espectáculo público provocare algún desorden o tomare parte en él.
 2.° El que excitare o dirigiere cencerradas u otras reuniones tumultuosas en ofensa de alguna persona o del sosiego de las poblaciones.
 3.° Derogado.
-4.° El que amenazare a otro con armas blancas o de fuego y el que riñendo con otro las sacare, como no sea con motivo justo.
+4.° El que amenazare a otro con armas blancas y el que riñendo con otro las sacare, como no sea con motivo justo.
 5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas y circunstancias del hecho. En ningún caso el tribunal podrá calificar como leves las lesiones cometidas en contra de las personas mencionadas en el artículo 5° de la Ley sobre Violencia Intrafamiliar.
 6.° El que corriere carruajes o caballerías con peligro de las personas, haciéndolo en poblado, ya sea de noche o de día cuando haya aglomeración de gente.
 7.° El farmacéutico que despachare medicamentos en virtud de receta que no se halle debidamente autorizada.

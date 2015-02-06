@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2014-06-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2015-02-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2014-06-14
-fetched_at: 2026-08-03T03:07:19.415455+00:00
+version_date: 2015-02-06
+fetched_at: 2026-08-03T03:13:37.248019+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -682,10 +682,12 @@ reuniones, recintos o espectáculos públicos, o de
 visitar determinados lugares;
 f) La prohibición de comunicarse con personas
 determinadas, siempre que no se afectare el derecho a
-defensa, y
+defensa;
 g) La prohibición de aproximarse al ofendido o su
 familia y, en su caso, la obligación de abandonar el
-hogar que compartiere con aquél.
+hogar que compartiere con aquél, y
+h) La prohibición de poseer, tener o portar armas
+de fuego, municiones o cartuchos.
 El tribunal podrá imponer una o más de estas
 medidas según resultare adecuado al caso y ordenará las
 actuaciones y comunicaciones necesarias para garantizar
@@ -1029,8 +1031,7 @@ b) Si el imputado no hubiere sido condenado anteriormente por crimen o simple de
 c) Si el imputado no tuviere vigente una suspensión condicional del procedimiento, al momento de verificarse los hechos materia del nuevo proceso.
 La presencia del defensor del imputado en la audiencia en que se ventilare la solicitud de suspensión condicional del procedimiento constituirá un requisito de validez de la misma.
 Si el querellante o la víctima asistieren a la audiencia en que se ventile la solicitud de suspensión condicional del procedimiento, deberán ser oídos por el tribunal.
-Tratándose de imputados por delitos de homicidio, secuestro, robo con violencia o intimidación en las personas o fuerza en las cosas, sustracción de menores, aborto, los contemplados en los artículos 361 a 366 bis
-y 367 del Código Penal y conducción en estado de ebriedad causando la muerte o lesiones graves o gravísimas, el fiscal deberá someter su decisión de solicitar la suspensión condicional del procedimiento al Fiscal Regional.
+Tratándose de imputados por delitos de homicidio, secuestro, robo con violencia o intimidación en las personas o fuerza en las cosas, sustracción de menores, aborto; por los contemplados en los artículos 361 a 366 bis y 367 del Código Penal; por los delitos señalados en los artículos 8º, 9º, 10, 13, 14 y 14 D de la ley Nº17.798; por los delitos o cuasidelitos contemplados en otros cuerpos legales que se cometan empleando alguna de las armas o elementos mencionados en las letras a), b), c), d) y e) del artículo 2º y en el artículo 3º de la citada ley Nº17.798, y por conducción en estado de ebriedad causando la muerte o lesiones graves o gravísimas, el fiscal deberá someter su decisión de solicitar la suspensión condicional del procedimiento al Fiscal Regional.
 Al decretar la suspensión condicional del procedimiento, el juez de garantía establecerá las condiciones a las que deberá someterse el imputado, por el plazo que determine, el que no podrá ser inferior a un año ni superior a tres. Durante dicho período no se reanudará el curso de la prescripción de la acción penal. Asimismo, durante el término por el que se prolongare la suspensión condicional del procedimiento se suspenderá el plazo previsto en el artículo 247.
 La resolución que se pronunciare acerca de la suspensión condicional del procedimiento será apelable por el imputado, por la víctima, por el ministerio público y por el querellante.
 La suspensión condicional del procedimiento no impedirá de modo alguno el derecho a perseguir por la vía civil las responsabilidades pecuniarias derivadas del mismo hecho.
