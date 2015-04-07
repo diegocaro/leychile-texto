@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2015-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2015-04-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2015-01-01
-fetched_at: 2026-08-03T03:12:34.077989+00:00
+version_date: 2015-04-07
+fetched_at: 2026-08-03T03:14:01.259985+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -268,11 +268,11 @@ Art. 38. Exceptúanse de lo ordenado en los artículos anteriores los trabajador
 4.- en los trabajos necesarios e impostergables para la buena marcha de la empresa;
 5.- a bordo de naves;
 6.- en las faenas portuarias;
-7.- en los establecimientos de comercio y de servicios que atiendan directamente al público, respecto de los trabajadores que realicen
+7.- en los establecimientos de comercio y de servicios que atiendan directamente al público, respecto de los trabajadores que re
 NOTA:
-dicha atención y según las modalidades del establecimiento respectivo. Con todo, esta excepción no será aplicable a los trabajadores de centros o complejos comerciales administrados bajo una misma razón social o personalidad jurídica, en lo relativo al feriado legal establecido en el artículo 169 de la ley Nº 18.700 y en el artículo 106 de la Ley Orgánica Constitucional de Municipalidades, y
+alicen dicha atención y según las modalidades del establecimiento respectivo. Con todo, esta excepción no será aplicable a los trabajadores de centros o complejos comerciales administrados bajo una misma razón social o personalidad jurídica, en lo relativo al feriado legal establecido en el artículo 169 de la ley Nº 18.700 y en el artículo 106 de la Ley Orgánica Constitucional de Municipalidades, y
 8.- en calidad de deportistas profesionales o de trabajadores que desempeñan actividades conexas.
-Las empresas exceptuadas de este descanso podrán distribuir la jornada normal de trabajo, en forma que incluya los días domingo y festivos. Las horas trabajadas en dichos días se pagarán como extraordinarias siempre que excedan de la jornada ordinaria semanal.
+Las empresas exceptuadas de este descanso podrán distribuir la jornada normal de trabajo, en forma que incluya los días domingo y festivos. Las horas trabajadas en dichos días se pagarán como extraordinarias siempre que excedan de la jornada ordinaria semanal. En el caso de los trabajadores a que se refiere el número 7 del inciso anterior, sea cual fuere la jornada de trabajo en la que se desempeñen, las horas ordinarias trabajadas en día domingo deberán ser remuneradas con un recargo de, a lo menos, un 30%, calculado sobre el sueldo convenido para la jornada ordinaria. Dicho recargo deberá liquidarse y pagarse conjuntamente con las remuneraciones del respectivo período. El valor de la hora ordinaria y el recargo señalado serán la base de cálculo a efectos de la determinación, en su caso, del valor de la hora extraordinaria trabajada en dichos días domingo.
 Las empresas exceptuadas del descanso dominical deberán otorgar un día de descanso a la semana en compensación a las actividades desarrolladas en día domingo, y otro por cada festivo en que los trabajadores debieron prestar servicios, aplicándose la norma del artículo 36. Estos descansos podrán ser comunes para todos los trabajadores, o por turnos para no paralizar el curso de las labores.
 No obstante, en los casos a que se refieren los números 2 y 7 del inciso primero, al menos dos de los días de descanso en el respectivo mes calendario deberán necesariamente otorgarse en día domingo. Esta norma no se aplicará respecto de los trabajadores que se contraten por un plazo de treinta días o menos, y de aquellos cuya jornada ordinaria no sea superior a veinte horas semanales o se contraten exclusivamente para trabajar los días sábado, domingo o festivos.
 Cuando se acumule más de un día de descanso en la semana por aplicación de lo dispuesto en los incisos tercero y cuarto, las partes podrán acordar una especial forma de distribución o de remuneración de los días de descanso que excedan de uno semanal. En este último caso, la remuneración no podrá ser inferior a la prevista en el artículo 32.
@@ -280,6 +280,9 @@ Con todo, en casos calificados, el Director del Trabajo podrá autorizar, previo
 La vigencia de la resolución será por el plazo de cuatro años. No obstante, el Director del Trabajo podrá renovarla si se verifica que los requisitos que justificaron su otorgamiento se mantienen. Tratándose de las obras o faenas, la vigencia de la resolución no podrá exceder el plazo de ejecución de las mismas, con un máximo de cuatro años.
 NOTA:
 El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
+
+Artículo 38 bis. Sin perjuicio de lo señalado en el inciso cuarto del artículo anterior, los trabajadores a que se refiere el número 7 del inciso primero del mismo artículo gozarán, adicionalmente a ello, de siete días domingo de descanso semanal durante cada año de vigencia del contrato de trabajo. Solo mediante acuerdo escrito entre el empleador y los trabajadores, o con el o los sindicatos existentes, hasta tres de dichos domingos podrán ser reemplazados por días sábado, siempre que se distribuyan junto a un domingo también de descanso semanal. Este derecho al descanso dominical no podrá ser compensado en dinero, ni acumulado de un año a otro.
+Este artículo no se aplicará a los trabajadores contratados por un plazo de treinta días o menos, ni a aquellos cuya jornada ordinaria no sea superior a veinte horas semanales o se contraten exclusivamente para trabajar los días sábado, domingo o festivos.
 
 Art. 39. En los casos en que la prestación de servicios deba efectuarse en lugares apartados de centros urbanos, las partes podrán pactar jornadas ordinarias de trabajo de hasta dos semanas ininterrumpidas, al término de las cuales deberán otorgarse los días de descanso compensatorios de los días domingo o festivos que hayan tenido lugar en dicho período bisemanal, aumentados en uno.
 
