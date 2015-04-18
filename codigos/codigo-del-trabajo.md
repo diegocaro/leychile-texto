@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2015-04-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2015-04-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2015-04-07
-fetched_at: 2026-08-03T03:14:01.259985+00:00
+version_date: 2015-04-18
+fetched_at: 2026-08-03T03:14:21.519378+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -113,22 +113,27 @@ El trabajador afectado podrá reclamar en el plazo de treinta días hábiles a c
 DE LA CAPACIDAD PARA CONTRATAR Y OTRAS NORMAS RELATIVAS AL TRABAJO DE LOS MENORES
 
 Art. 13. Para los efectos de las leyes laborales, se considerarán mayores de edad y pueden contratar libremente la prestación de sus servicios los mayores de dieciocho años.
-Los menores de dieciocho años y mayores de quince podrán celebrar contratos de trabajo sólo para realizar trabajos ligeros que no perjudiquen su salud y desarrollo, siempre que cuenten con autorización expresa del padre o madre; a falta de ellos, del abuelo o abuela paterno o materno; o a falta de éstos, de los guardadores, personas o instituciones que hayan tomado a su cargo al menor, o a falta de todos los anteriores, del inspector del trabajo respectivo. Además, previamente, deberán acreditar haber culminado su Educación Media o encontrarse actualmente cursando ésta o la Educación Básica. En estos casos, las labores no deberán dificultar su asistencia regular a clases y su participación en programas educativos o de formación. Los menores de dieciocho años que se encuentren actualmente cursando su Enseñanza Básica o Media no podrán desarrollar labores por más de treinta horas semanales durante el período escolar. En ningún caso los menores de dieciocho años podrán trabajar más de ocho horas diarias. A petición de parte, la Dirección Provincial de Educación o la respectiva Municipalidad, deberá certificar las condiciones geográficas y de transporte en que un menor trabajador debe acceder a su educación básica o media.
-Lo establecido en el inciso anterior se aplicará respecto de los menores de quince años, en las situaciones calificadas en que se permite su contratación en los espectáculos y actividades artísticas a que hacen referencia los artículos 15, inciso segundo y 16.
+Los menores de dieciocho años y mayores de quince podrán celebrar contratos de trabajo sólo para realizar trabajos ligeros que no perjudiquen su salud y desarrollo, siempre que cuenten con autorización expresa del padre o madre; a falta de ellos, del abuelo o abuela paterno o materno; o a falta de éstos, de los guardadores, personas o instituciones que hayan tomado a su cargo al menor, o a falta de todos los anteriores, del inspector del trabajo respectivo. Además, previamente, deberán acreditar haber culminado su Educación Media o encontrarse actualmente cursando ésta o la Educación Básica. En estos casos, las labores no deberán dificultar su asistencia regular a clases y su participación en programas educativos o de formación. Los menores de dieciocho años que se encuentren actualmente cursando su Enseñanza Básica o Media no podrán desarrollar labores por más de treinta horas semanales durante el período escolar. En ningún caso los menores de dieciocho años podrán trabajar más de ocho horas diarias. A petición de parte, la Dirección Provincial de Educación o la respectiva Municipalidad, deberá certificar las condiciones geográficas y de transporte en que un menor trabajador debe acceder a su educación básica o media
+NOTA
+.
 El inspector del trabajo que hubiere autorizado al menor en los casos de los incisos anteriores, pondrá los antecedentes en conocimiento del Tribunal de Familia que corresponda, el que podrá dejar sin efecto la autorización si lo estimare inconveniente para el trabajador.
 Otorgada la autorización, se aplicarán al menor las normas del artículo 246 del Código Civil y será considerado plenamente capaz para ejercitar las acciones correspondientes.
 La autorización exigida en el inciso segundo no se aplicará a la mujer casada, quien se regirá al respecto por lo previsto en el artículo 150 del Código Civil.
 Un reglamento del Ministerio del Trabajo y Previsión Social, previo informe de la Dirección del Trabajo, determinará las actividades consideradas como peligrosas para la salud y el desarrollo de los menores de dieciocho años que impidan, en consecuencia, celebrar contratos de trabajo en conformidad a los incisos anteriores, debiendo actualizarse dicho listado cada dos años.
 Las empresas que contraten los servicios de menores de dieciocho años, deberán registrar dichos contratos en la respectiva Inspección Comunal del Trabajo.
+NOTA
+El N° 1 del Artículo Único de la Ley 20821, publicada el 18.04.2015, suprime el inciso tercero de la presente norma.
 
 Art. 14. Los menores de dieciocho años de edad no serán admitidos en trabajos ni en faenas que requieran fuerzas excesivas, ni en actividades que puedan resultar peligrosas para su salud, seguridad o moralidad.
 Los menores de veintiún años no podrán ser contratados para trabajos mineros subterráneos sin someterse previamente a un examen de aptitud.
 El empleador que contratare a un menor de veintiún años sin haber cumplido el requisito establecido en el inciso precedente incurrirá en una multa de tres a ocho unidades tributarias mensuales, la que se duplicará en caso de reincidencia.
 
 Art. 15. Queda prohibido el trabajo de menores de dieciocho años en cabarets y otros establecimientos análogos que presenten espectáculos vivos, como también en los que expendan bebidas alcohólicas que deban consumirse en el mismo establecimiento.
-Podrán, sin embargo, cumpliendo con lo dispuesto en el inciso segundo del artículo 13, actuar en aquellos espectáculos los menores de edad que tengan expresa autorización de su representante legal y del respectivo Tribunal de Familia.
+En ningún caso se podrá autorizar a menores de edad para trabajar en recintos o lugares donde se realicen o exhiban espectáculos de significación sexual.
 
-Art. 16. En casos debidamente calificados, cumpliendo con lo dispuesto en el inciso segundo del artículo 13, y con la autorización de su representante legal o del respectivo Tribunal de Familia, podrá permitirse a los menores de quince años que celebren contrato de trabajo con personas o entidades dedicadas al teatro, cine, radio, televisión, circo u otras actividades similares.
+Artículo 15 bis.- Los menores de dieciocho años y mayores de quince podrán actuar en espectáculos vivos que no se desarrollen en cabarets u otros establecimientos similares o en aquellos en que se expendan bebidas alcohólicas que deban ser consumidas en el mismo establecimiento, siempre que cuenten con autorización de su representante legal y del respectivo Tribunal de Familia. Esta última autorización se otorgará previa verificación del cumplimiento de los requisitos previstos en el artículo 13, inciso segundo y cuando dicha actuación no sea peligrosa para la salud, seguridad o moralidad del menor.
+
+Art. 16. En casos debidamente calificados, cumpliendo con lo dispuesto en el inciso segundo del artículo 13, y con la autorización de su representante legal y del respectivo Tribunal de Familia, podrá permitirse a los menores de quince años que celebren contratos para participar en espectáculos de teatro, cine, radio, televisión, circo u otras actividades similares.
 
 Art. 17. Si se contratare a un menor sin sujeción a lo dispuesto en los artículos precedentes, el empleador estará sujeto a todas las obligaciones inherentes al contrato mientras se aplicare; pero el inspector del trabajo, de oficio o a petición de parte, deberá ordenar la cesación de la relación y aplicar al empleador las sanciones que correspondan.
 Cualquier persona podrá denunciar ante los organismos competentes las infracciones relativas al trabajo infantil de que tuviere conocimiento.
@@ -283,6 +288,8 @@ El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presen
 
 Artículo 38 bis. Sin perjuicio de lo señalado en el inciso cuarto del artículo anterior, los trabajadores a que se refiere el número 7 del inciso primero del mismo artículo gozarán, adicionalmente a ello, de siete días domingo de descanso semanal durante cada año de vigencia del contrato de trabajo. Solo mediante acuerdo escrito entre el empleador y los trabajadores, o con el o los sindicatos existentes, hasta tres de dichos domingos podrán ser reemplazados por días sábado, siempre que se distribuyan junto a un domingo también de descanso semanal. Este derecho al descanso dominical no podrá ser compensado en dinero, ni acumulado de un año a otro.
 Este artículo no se aplicará a los trabajadores contratados por un plazo de treinta días o menos, ni a aquellos cuya jornada ordinaria no sea superior a veinte horas semanales o se contraten exclusivamente para trabajar los días sábado, domingo o festivos.
+
+Artículo 38 ter.- En el caso de los trabajadores señalados en el número 7 del artículo 38, los días de descanso semanal no podrán coincidir con los días feriados establecidos en la ley Nº19.973.
 
 Art. 39. En los casos en que la prestación de servicios deba efectuarse en lugares apartados de centros urbanos, las partes podrán pactar jornadas ordinarias de trabajo de hasta dos semanas ininterrumpidas, al término de las cuales deberán otorgarse los días de descanso compensatorios de los días domingo o festivos que hayan tenido lugar en dicho período bisemanal, aumentados en uno.
 
