@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2015-02-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2015-06-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2015-02-06
-fetched_at: 2026-08-03T03:13:19.217888+00:00
+version_date: 2015-06-10
+fetched_at: 2026-08-03T03:14:57.557459+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1555,11 +1555,19 @@ El que hiera, golpee o maltrate de obra a un fiscal del Ministerio Público o a 
 ART. 268 quinquies.-
 El que amenazare a un fiscal del Ministerio Público o a un defensor penal público en los términos de los artículos 296 y 297 de este Código, en razón del ejercicio de sus funciones, será castigado con el máximo de la pena o el grado máximo de las penas previstas en dichos artículos, según correspondiere.
 
+#### § I ter.
+Retenciones o toma de control de vehículo de transporte público de pasajeros.
+
+ART. 268 sexies.-
+Los que mediante violencia o intimidación retuvieren o tomaren el control de un vehículo de transporte público de pasajeros serán sancionados con la pena de presidio mayor en su grado mínimo, sin perjuicio de las penas que correspondan por los otros delitos cometidos con ocasión del hecho. En este último caso, todas las penas se impondrán conjuntamente, en la forma prescrita por el artículo 74 de este Código.
+Si el hecho consistiere en la apropiación del vehículo no tendrá lugar lo previsto en el inciso precedente y, en su lugar, se impondrán las penas de los delitos establecidos en el artículo 433 y en el inciso primero del artículo 436, ambos de este Código, según correspondiere, con exclusión de su grado mínimo.
+Sin perjuicio de lo dispuesto en los incisos anteriores, si los hechos constituyeren algún delito o delitos de mayor gravedad, se estará a la pena señalada para ellos.
+
 #### § II.
-Desórdenes públicos.
+Otros desordenes públicos.
 
 ART. 269.
-Los que turbaren gravemente la tranquilidad pública para causar injuria u otro mal a alguna persona particular o con cualquier otro fin reprobado, incurrirán en la pena de reclusión menor en su grado mínimo, sin perjuicio de las que les correspondan por el daño u ofensa causados.
+Fuera de los casos sancionados en el Párrafo anterior, los que turbaren gravemente la tranquilidad pública para causar injuria u otro mal a alguna persona particular o con cualquier otro fin reprobado, incurrirán en la pena de reclusión menor en su grado mínimo, sin perjuicio de las que les correspondan por el daño u ofensa causados.
 Incurrirá en la pena de presidio menor, en su grado mínimo a medio, el que impidiere o dificultare la actuación del personal de los Cuerpos de Bomberos u otros servicios de utilidad pública, destinada a combatir un siniestro u otra calamidad o desgracia que constituya peligro para la seguridad de las personas.
 
 #### § II bis. De la obstrucción a la investigación.
