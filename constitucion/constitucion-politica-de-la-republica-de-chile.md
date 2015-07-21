@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2014-05-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2015-07-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2014-05-03
-fetched_at: 2026-08-03T03:06:37.365693+00:00
+version_date: 2015-07-21
+fetched_at: 2026-08-03T03:15:15.580863+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -457,6 +457,9 @@ La ley orgánica constitucional señalada en el inciso primero, regulará la tra
 
 Artículo 56.- La Cámara de Diputados y el Senado no podrán entrar en sesión ni adoptar acuerdos sin la concurrencia de la tercera parte de sus miembros en ejercicio.
 Cada una de las Cámaras establecerá en su propio reglamento la clausura del debate por simple mayoría.
+
+Artículo 56 bis.- Durante el mes de julio de cada año, el Presidente del Senado y el Presidente de la Cámara de Diputados darán cuenta pública al país, en sesión del Congreso Pleno, de las actividades realizadas por las Corporaciones que presiden.
+El Reglamento de cada Cámara determinará el contenido de dicha cuenta y regulará la forma de cumplir esta obligación.
 
 ### Normas comunes para los diputados y senadores
 
