@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2015-06-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2015-10-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2015-06-10
-fetched_at: 2026-08-03T03:14:57.557459+00:00
+version_date: 2015-10-21
+fetched_at: 2026-08-03T03:15:57.607797+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -82,7 +82,7 @@ Primera.-Agresión Ilegítima.
 Segunda.- Necesidad racional del medio empleado para impedirla o repelerla.
 Tercera.-Falta de provocación suficiente por parte del que se defiende.
 Inciso Derogado.
-5.° El que obra en defensa de la persona o derechos de su cónyuge, de sus parientes consanguíneos legítimos en toda la línea recta y en la colateral hasta el cuarto grado inclusive, de sus afines legítimos en toda la línea recta y en la colateral hasta el segundo grado inclusive, de sus padres o hijos naturales o ilegítimos reconocidos, siempre que concurran la primera y segunda circunstancias prescritas en el número anterior, y la de que, en caso de haber precedido provocación de parte del acometido, no tuviere participación en ella el defensor.
+5.° El que obra en defensa de la persona o derechos de su cónyuge, de su conviviente civil, de sus parientes consanguíneos en toda la línea recta y en la colateral hasta el cuarto grado, de sus afines en toda la línea recta y en la colateral hasta el segundo grado, de sus padres o hijos, siempre que concurran la primera y segunda circunstancias prescritas en el número anterior, y la de que, en caso de haber precedido provocación de parte del acometido, no tuviere participación en ella el defensor.
 6.° El que obra en defensa de la persona y derechos de un extraño, siempre que concurran las circunstancias expresadas en el número anterior y la de que el defensor no sea impulsado por venganza, resentimiento u otro motivo ilegítimo.
 Se presumirá legalmente que concurren las circunstancias previstas en este número y en los números 4° y 5° precedentes, cualquiera que sea el daño que se ocasione al agresor, respecto de aquel que rechaza el escalamiento en los términos indicados en el número 1° del artículo 440 de este Código, en una casa, departamento u oficina habitados, o en sus dependencias o, si es de noche, en un local comercial o industrial y del que impida o trate de impedir la consumación de los delitos señalados en los artículos 141, 142, 361, 362, 365 bis, 390, 391, 433 y 436 de este Código.
 7.° El que para evitar un mal ejecuta un hecho, que produzca daño en la propiedad ajena, siempre que concurran las circunstancias siguientes:
@@ -149,7 +149,7 @@ De las circunstancias que atenúan o agravan la responsabilidad criminal, según
 
 ART. 13.
 Es circunstancia atenuante o agravante, según la naturaleza y accidentes del delito.
-Ser el agraviado cónyuge, pariente legítimo por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, padre o hijo natural o ilegítimo reconocido del ofensor.
+Ser el agraviado cónyuge o conviviente civil, pariente por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado, padre o hijo del ofensor.
 
 ### TÍTULO SEGUNDO.
 DE LAS PERSONAS RESPONSABLES DE LOS DELITOS.
@@ -175,7 +175,7 @@ Son encubridores los que con conocimiento de la perpetración de un crimen o de 
 2.° Ocultando o inutilizando el cuerpo, los efectos o instrumentos del crimen o simple delito para impedir su descubrimiento.
 3.° Albergando, ocultando o proporcionando la fuga del culpable.
 4.° Acogiendo, receptando o protegiendo habitualmente a los malhechores, sabiendo que lo son, aun sin conocimiento de los crímenes o simples delitos determinados que hayan cometido, o facilitándoles los medios de reunirse u ocultar sus armas o efectos, o suministrándoles auxilios o noticias para que se guarden, precavan o salven.
-Están exentos de las penas impuestas a los encubridores los que lo sean de su cónyuge o de sus parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, de sus padres o hijos naturales o ilegítimos reconocidos, con sólo la excepción de los que se hallaren comprendidos en el número 1.° de este artículo.
+Están exentos de las penas impuestas a los encubridores los que lo sean de su cónyuge, de su conviviente civil, o de sus parientes por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado, de sus padres o hijos, con la sola excepción de los que se hallaren comprendidos en el número 1° de este artículo.
 
 ### TÍTULO TERCERO.
 DE LAS PENAS.
@@ -294,7 +294,7 @@ La pena de presidio sujeta al condenado a los trabajos prescritos por los reglam
 ART. 32. BIS
 La imposición del presidio perpetuo calificado importa la privación de libertad del condenado de por vida, bajo un régimen especial de cumplimiento que se rige por las siguientes reglas:
 1.ª No se podrá conceder la libertad condicional sino una vez transcurridos cuarenta años de privación de libertad efectiva, debiendo en todo caso darse cumplimiento a las demás normas y requisitos que regulen su otorgamiento y revocación;
-2.ª El condenado no podrá ser favorecido con ninguno de los beneficios que contemple el reglamento de establecimientos penitenciarios, o cualquier otro cuerpo legal o reglamentario, que importe su puesta en libertad, aun en forma transitoria. Sin perjuicio de ello, podrá autorizarse su salida, con las medidas de seguridad que se requieran, cuando su cónyuge o alguno de sus padres o hijos se encontrare en inminente riesgo de muerte o hubiere fallecido;
+2.ª El condenado no podrá ser favorecido con ninguno de los beneficios que contemple el reglamento de establecimientos penitenciarios, o cualquier otro cuerpo legal o reglamentario, que importe su puesta en libertad, aun en forma transitoria. Sin perjuicio de ello, podrá autorizarse su salida, con las medidas de seguridad que se requieran, cuando su cónyuge, su conviviente civil, o alguno de sus padres o hijos se encontrare en inminente riesgo de muerte o hubiere fallecido;
 3.ª No se favorecerá al condenado por las leyes que concedan amnistía ni indultos generales, salvo que se le hagan expresamente aplicables. Asimismo, sólo procederá a su respecto el indulto particular por razones de Estado o por el padecimiento de un estado de salud grave e irrecuperable, debidamente acreditado, que importe inminente riesgo de muerte o inutilidad física de tal magnitud que le impida valerse por sí mismo. En todo caso el beneficio del indulto deberá ser concedido de conformidad a las normas legales que lo regulen.
 
 ART. 33.
@@ -924,7 +924,7 @@ Tampoco tiene aplicación respecto de los cafés, tabernas, posadas y demás cas
 
 ART. 146.
 El que abriere o registrare la correspondencia o los papeles de otro sin su voluntad, sufrirá la pena de reclusión menor en su grado medio si divulgare o se aprovechare de los secretos que ellos contienen, y en el caso contrario la de reclusión menor en su grado mínimo.
-Esta disposición no es aplicable entre cónyuges, ni a los padres, guardadores o quienes hagan sus veces, en cuanto a los papeles o cartas de sus hijos o menores que se hallen bajo su dependencia.
+Esta disposición no es aplicable entre cónyuges, convivientes civiles, ni a los padres, guardadores o quienes hagan sus veces, en cuanto a los papeles o cartas de sus hijos o menores que se hallen bajo su dependencia.
 Tampoco es aplicable a aquellas personas a quienes por leyes o reglamentos especiales, les es lícito instruirse de correspondencia ajena.
 
 ART. 147.
@@ -1709,7 +1709,7 @@ Podrán sin embargo ser puestos bajo la vigilancia de la autoridad.
 
 ART. 295 BIS.
 Se aplicarán las penas de prisión en su grado máximo a presidio menor en su grado mínimo al que, habiendo tenido noticias verosímiles de los planes o de las actividades desarrolladas por uno o más miembros de una asociación ilícita, omite ponerlas oportunamente en conocimiento de la autoridad.
-Quedará exento de las penas a que se refiere este artículo el cónyuge, los parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, y el padre, hijo natural o ilegítimo de alguno de los miembros de la asociación. Esta exención no se aplicará si se hubiere incurrido en la omisión, para facilitar a los integrantes de la asociación el aprovechamiento de los efectos del crimen o simple delito.
+Quedará exento de las penas a que se refiere este artículo el cónyuge, el conviviente civil, los parientes por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado, y el padre, hijo de alguno de los miembros de la asociación. Esta exención no se aplicará si se hubiere incurrido en la omisión, para facilitar a los integrantes de la asociación el aprovechamiento de los efectos del crimen o simple delito.
 
 #### § XI.
 De las amenazas de atentado contra las personas y propiedades.
@@ -2778,6 +2778,7 @@ Están exentos de responsabilidad criminal y sujetos únicamente a la civil por 
 3.° Los parientes afines en toda la línea recta.
 4.° Derogado.
 5.° Los cónyuges.
+6.° Los convivientes civiles.
 La excepción de este artículo no es aplicable a los extraños que participaren del delito, ni tampoco entre cónyuges cuando se trate de los delitos de daños indicados en el párrafo anterior.
 Además, esta exención no será aplicable cuando la víctima sea una persona mayor de sesenta años.
 
