@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2014-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2015-10-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2014-10-10
-fetched_at: 2026-08-03T03:11:44.791932+00:00
+version_date: 2015-10-22
+fetched_at: 2026-08-03T03:16:28.155072+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -610,7 +610,7 @@ Artículo 165.- Sólo podrá suspenderse en el día designado al efecto la vista
 2°. Por falta de miembros del tribunal en número suficiente para pronunciar sentencia;
 3°. Por muerte del abogado patrocinante, del procurador o del litigante que gestione por sí en el pleito.
 En estos casos, la vista de la causa se suspenderá por quince días contados desde la notificación al patrocinado o mandante de la muerte del abogado o del procurador, o desde la muerte del litigante que obraba por sí mismo, en su caso;
-4°. Por muerte del cónyuge o de alguno de los descendientes o ascendientes del abogado defensor, ocurrida dentro de los ocho días anteriores al designado para la vista;
+4°. Por muerte del cónyuge o conviviente civil o de alguno de los descendientes o ascendientes del abogado defensor, ocurrida dentro de los ocho días anteriores al designado para la vista;
 5°. Por solicitarlo alguna de las partes o pedirlo de común acuerdo los procuradores o los abogados de ellas.
 Cada parte podrá hacer uso de este derecho por una sola vez. En todo caso, sólo podrá ejercitarse este derecho hasta por dos veces, cualquiera que sea el número de partes litigantes, obren o no por una sola cuerda. La suspensión de común acuerdo procederá por una sola vez.
 El escrito en que se solicite la suspensión deberá ser presentado hasta las doce horas del día hábil anterior a la audiencia correspondiente. La solicitud presentada fuera de plazo será rechazada de plano. La sola presentación del escrito extingue el derecho a la suspensión aun si la causa no se ve por cualquier otro motivo. Este escrito pagará en la Corte Suprema un impuesto especial de media unidad tributaria mensual y en las Cortes de Apelaciones de un cuarto de unidad tributaria mensual y se pagará en estampillas de impuesto fiscal que se pegarán en el escrito respectivo.
@@ -1676,58 +1676,21 @@ Art. 444 (466). Si la ejecución recae sobre una empresa o establecimiento merca
 Embargada la industria o las utilidades, el depositario que se nombre tendrá las facultades y deberes de interventor judicial; y para ejercer las que correspondan al cargo de depositario, procederá en todo caso con autorización del juez de la causa.
 Si la ejecución recae sobre el simple menaje de la casa habitación del deudor, el embargo se entenderá hecho permaneciendo las especies en poder del mismo deudor, con el carácter de depositario, previa facción de un inventario en que se expresen en forma individual y detallada el estado y la tasación aproximada de las referidas especies que practicará el ministro de fe ejecutor. La diligencia que deberá extenderse será firmada por el ministro de fe que la practique, por el acreedor, si concurre, y por el deudor, quien, en caso de substracción, incurrirá en la sanción prevista en el número 1° del artículo 471 del Código Penal.
 
-Art. 445 (
-NOTA
-NOTA
-NOTA
-467
-NOTA
-). No son embargab
-NOTA
-les:
-NOTA
-1°. Los
-NOTA
-sueldos,
-NOTA
-las gratificaciones y las pensiones de gracia, jubilación, retiro y montepío que pagan el
-NOTA
-Estado y
-NOTA
-las Municipalidades
+Art. 445 (467). No son embargables:
+1°. Los sueldos, las gratificaciones y las pensiones de gracia, jubilación, retiro y montepío que pagan el Estado y las Municipalidades
 NOTA 1
 .
-Sin embar
 NOTA
-go, tratándose de deudas que provengan de pensiones
-NOTA
-alimenticias decretadas judicialmente, podrá embar
-NOTA
-garse has
-NOTA
-ta el 50% de las p
-NOTA
-restaciones que reciba
-NOTA
-el alimentante en conformidad al inciso anterior;
-2°. Las remu
-NOTA
-neraciones de los empleados y obreros en la forma que determinan los artículos 40 y 153 del Código del Trabajo;
+Sin embargo, tratándose de deudas que provengan de pensiones alimenticias decretadas judicialmente, podrá embargarse hasta el 50% de las prestaciones que reciba el alimentante en conformidad al inciso anterior;
+2°. Las remuneraciones de los empleados y obreros en la forma que determinan los artículos 40 y 153 del Código del Trabajo;
 3°. Las pensiones alimenticias forzosas;
-4°. Las rentas p
-NOTA
-eriódicas
-NOTA
-NOTA
-que el deudor cobre de una fundación o que deba a la liberalidad de un tercero, en la parte que estas rentas sean absolutamente necesarias para sustentar la vida del deudor, de su cónyuge y de los hijos que viven con él y a sus expensas;
+4°. Las rentas periódicas que el deudor cobre de una fundación o que deba a la liberalidad de un tercero, en la parte que estas rentas sean absolutamente necesarias para sustentar la vida del deudor, de su cónyuge o conviviente civil y de los hijos que viven con él y a sus expensas;
 5°. Los fondos que gocen de este beneficio, en conformidad a la Ley
 NOTA
 Orgánica del Banco del Estado de Chile y en las condiciones que ella determine;
 6°. Las pólizas de seguro sobre la vida y las sumas que, en cumplimiento de lo convenido en ellas, pague el asegurador. Pero, en este último caso, será embargable el valor de las primas pagadas por el que tomó la póliza;
-7°. Las sumas que se paguen a los empresarios
-NOTA
-de obras públicas durante la ejecución de los trabajos. Esta disposición no tendrá efecto respecto de lo que se adeude a los artífices u obreros por sus salarios insolutos y de los créditos de los proveedores en razón de los materiales u otros artículos suministrados para la construcción de dichas obras;
-8°. El bien raíz que el deudor ocupa con su familia, siempre que no tenga un avalúo fiscal superior a cincuenta unidades tributarias mensuales o se trate de una vivienda de emergencia, y sus ampliaciones, a que se refiere el artículo 5° del decreto ley N°2552, de 1979; los muebles de dormitorio, de comedor y de cocina de uso familiar y la ropa necesaria para el abrigo del deudor, su cónyuge y los hijos que viven a sus expensas.
+7°. Las sumas que se paguen a los empresarios de obras públicas durante la ejecución de los trabajos. Esta disposición no tendrá efecto respecto de lo que se adeude a los artífices u obreros por sus salarios insolutos y de los créditos de los proveedores en razón de los materiales u otros artículos suministrados para la construcción de dichas obras;
+8°. El bien raíz que el deudor ocupa con su familia, siempre que no tenga un avalúo fiscal superior a cincuenta unidades tributarias mensuales o se trate de una vivienda de emergencia, y sus ampliaciones, a que se refiere el artículo 5° del decreto ley N°2552, de 1979; los muebles de dormitorio, de comedor y de cocina de uso familiar y la ropa necesaria para el abrigo del deudor, su cónyuge o conviviente civil y los hijos que viven a sus expensas.
 La inembargabilidad establecida en el inciso precedente no regirá para los bienes raíces respecto de los juicios en que sean parte el Fisco, Las Cajas de Previsión y demás organismos regidos por la ley del Ministerio de la Vivienda y Urbanismo;
 9°. Los libros relativos a la profesión del deudor hasta el valor de cincuenta unidades tributarias mensuales y a elección del mismo deudor;
 10°. Las máquinas e instrumentos de que se sirve el deudor para la enseñanza de alguna ciencia o arte, hasta dicho valor y sujetos a la misma elección;
@@ -2976,7 +2939,6 @@ NOTA
 os 701 y
 NOTA
 702.
-NOTA
 NOTA
 NOTA
 NOTA

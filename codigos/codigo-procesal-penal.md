@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2015-02-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2015-10-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2015-02-06
-fetched_at: 2026-08-03T03:13:37.248019+00:00
+version_date: 2015-10-22
+fetched_at: 2026-08-03T03:16:46.173281+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -442,7 +442,7 @@ Artículo 107.- Designación posterior. La designación de un defensor penal pú
 
 Artículo 108.- Concepto. Para los efectos de este Código, se considera víctima al ofendido por el delito.
 En los delitos cuya consecuencia fuere la muerte del ofendido y en los casos en que éste no pudiere ejercer los derechos que en este Código se le otorgan, se considerará víctima:
-a) al cónyuge y a los hijos;
+a) al cónyuge o al conviviente civil y a los hijos;
 b) a los ascendientes;
 c) al conviviente;
 d) a los hermanos, y
@@ -488,8 +488,9 @@ Artículo 115.- Apelación de la resolución. La resolución que declarare inadm
 La resolución que admitiere a tramitación la querella será inapelable.
 
 Artículo 116.- Prohibición de querella. No podrán querellarse entre sí, sea por delitos de acción pública o privada:
-a) Los cónyuges, a no ser por delito que uno hubiere cometido contra el otro o contra sus hijos, o por el delito de bigamia, y
-b) Los consanguíneos en toda la línea recta, los colaterales y afines hasta el segundo grado, a no ser por delitos cometidos por unos contra los otros, o contra su cónyuge o hijos.
+a) Los cónyuges, a no ser por delito que uno hubiere cometido contra el otro o contra sus hijos, o por el delito de bigamia.
+b) Los convivientes civiles, a no ser por delito que uno hubiere cometido contra el otro o contra sus hijos.
+c) Los consanguíneos en toda la línea recta, los colaterales y afines hasta el segundo grado, a no ser por delitos cometidos por unos contra los otros, o contra su cónyuge o hijos.
 
 Artículo 117.- Querella rechazada. Cuando no se diere curso a una querella en que se persiguiere un delito de acción pública o previa instancia particular, por aplicación de alguna de las causales previstas en las letras a) y b) del artículo 114, el juez la pondrá en conocimiento del ministerio público para ser tenida como denuncia, siempre que no le constare que la investigación del hecho hubiere sido iniciada de otro modo.
 
@@ -891,7 +892,7 @@ Artículo 201.- Hallazgo de un cadáver. Cuando hubiere motivo para sospechar qu
 El cadáver podrá entregarse a los parientes del difunto o a quienes invocaren título o motivo suficiente, previa autorización del fiscal, tan pronto la autopsia se hubiere practicado.
 
 Artículo 202.- Exhumación. En casos calificados y cuando considerare que la exhumación de un cadáver pudiere resultar de utilidad en la investigación de un hecho punible, el fiscal podrá solicitar autorización judicial para la práctica de dicha diligencia.
-El tribunal resolverá según lo estimare pertinente, previa citación del cónyuge o de los parientes más cercanos del difunto.
+El tribunal resolverá según lo estimare pertinente, previa citación del cónyuge o del conviviente civil, o de los parientes más cercanos del difunto.
 En todo caso, practicados el examen o la autopsia correspondientes se procederá a la inmediata sepultura del cadáver.
 
 Artículo 203.- Pruebas caligráficas. El fiscal podrá solicitar al imputado que escriba en su presencia algunas palabras o frases, a objeto de practicar las pericias caligráficas que considerare necesarias para la investigación. Si el imputado se negare a hacerlo, el fiscal podrá solicitar al juez de garantía la autorización correspondiente.
@@ -1596,7 +1597,7 @@ Artículo 356.- Prohibición de suspender la vista de la causa por falta de inte
 
 Artículo 357.- Suspensión de la vista de la causa por otras causales. La vista de los recursos penales no podrá suspenderse por las causales previstas en los numerales 1, 5, 6 y 7 del artículo 165 del Código de Procedimiento Civil.
 Al confeccionar la tabla o disponer la agregación extraordinaria de recursos o determinar la continuación para el día siguiente de un pleito, la Corte adoptará las medidas necesarias para que la sala que correspondiere no viere alterada su labor.
-Si en la causa hubiere personas privadas de libertad, sólo se suspenderá la vista de la causa por muerte del abogado del recurrente, del cónyuge o de alguno de sus ascendientes o descendientes, ocurrida dentro de los ocho días anteriores al designado para la vista del recurso.
+Si en la causa hubiere personas privadas de libertad, sólo se suspenderá la vista de la causa por muerte del abogado del recurrente, del cónyuge o del conviviente civil o de alguno de sus ascendientes o descendientes, ocurrida dentro de los ocho días anteriores al designado para la vista del recurso.
 En los demás casos la vista sólo podrá suspenderse si lo solicitare el recurrente o todos los intervinientes facultados para concurrir a ella, de común acuerdo. Este derecho podrá ejercerse una sola vez por el recurrente o por todos los intervinientes, por medio de un escrito que deberá presentarse hasta las doce horas del día hábil anterior a la audiencia correspondiente, a menos que la agregación de la causa se hubiere efectuado con menos de setenta y dos horas antes de la vista, caso en el cual la suspensión podrá solicitarse hasta antes de que comenzare la audiencia.
 
 Artículo 358.- Reglas generales de vista de los recursos. La vista de la causa se efectuará en una audiencia pública.
@@ -2051,7 +2052,7 @@ c) Cuando alguno estuviere sufriendo condena en virtud de sentencia fundada en u
 d) Cuando, con posterioridad a la sentencia condenatoria, ocurriere o se descubriere algún hecho o apareciere algún documento desconocido durante el proceso, que fuere de tal naturaleza que bastare para establecer la inocencia del condenado, y
 e) Cuando la sentencia condenatoria hubiere sido pronunciada a consecuencia de prevaricación o cohecho del juez que la hubiere dictado o de uno o más de los jueces que hubieren concurrido a su dictación, cuya existencia hubiere sido declarada por sentencia judicial firme.
 
-Artículo 474.- Plazo y titulares de la solicitud de revisión. La revisión de la sentencia firme podrá ser pedida, en cualquier tiempo, por el ministerio público, por el condenado o por el cónyuge, ascendientes, descendientes o hermanos de éste. Asimismo, podrá interponer tal solicitud quien hubiere cumplido su condena o sus herederos, cuando el condenado hubiere muerto y se tratare de rehabilitar su memoria.
+Artículo 474.- Plazo y titulares de la solicitud de revisión. La revisión de la sentencia firme podrá ser pedida, en cualquier tiempo, por el ministerio público, por el condenado, o su cónyuge o conviviente civil, ascendientes, descendientes o hermanos de éste. Asimismo, podrá interponer tal solicitud quien hubiere cumplido su condena o sus herederos, cuando el condenado hubiere muerto y se tratare de rehabilitar su memoria.
 
 Artículo 475.- Formalidades de la solicitud de revisión. La solicitud se presentará ante la secretaría de la Corte Suprema; deberá expresar con precisión su fundamento legal y acompañar copia fiel de la sentencia cuya anulación se solicitare y los documentos que comprobaren los hechos en que se sustenta.
 Si la causal alegada fuere la de la letra b) del artículo 473, la solicitud deberá indicar los medios con que se intentare probar que la persona víctima del pretendido homicidio hubiere vivido después de la fecha en que la sentencia la supone fallecida; y si fuere la de la letra d), indicará el hecho o el documento desconocido durante el proceso, expresará los medios con que se pretendiere acreditar el hecho y se acompañará, en su caso, el documento o, si no fuere posible, se manifestará al menos su naturaleza y el lugar y archivo en que se encuentra.

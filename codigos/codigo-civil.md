@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2014-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2015-10-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2014-10-10
-fetched_at: 2026-08-03T03:11:14.763697+00:00
+version_date: 2015-10-22
+fetched_at: 2026-08-03T03:16:16.148435+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -784,7 +784,7 @@ i) El domicilio de los padres.
 j) Cualquier otro antecedente que sea relevante atendido el interés superior del hijo.
 
 Art. 226. Podrá el juez, en el caso de inhabilidad física o moral de ambos padres, confiar el cuidado personal de los hijos a otra persona o personas competentes, velando primordialmente por el interés superior del niño conforme a los criterios establecidos en el artículo 225-2.
-En la elección de estas personas se preferirá a los consanguíneos más próximos y, en especial, a los ascendientes.
+En la elección de estas personas se preferirá a los consanguíneos más próximos y, en especial, a los ascendientes, al cónyuge o al conviviente civil del padre o madre, según corresponda.
 
 Art. 227. En las materias a que se refieren los artículos precedentes, el juez oirá a los hijos y a los parientes.
 Las resoluciones que se dicten, una vez ejecutoriadas, se subinscribirán en la forma y plazo que establece el artículo 225.
@@ -8847,7 +8847,7 @@ La cantidad que resulte del párrafo inmediatamente anterior sobre las asignacio
 La cantidad que resulte del párrafo inmediatamente anterior sobre las asignaciones de seiscientas cuarenta unidades tributarias anuales, y por la parte que exceda de esta suma y no pase de ochocientas unidades tributarias anuales, 15%;
 La cantidad que resulte del párrafo inmediatamente anterior sobre las asignaciones de ochocientas unidades tributarias anuales, y por la cantidad que exceda de esta suma y no pase de mil doscientas unidades tributarias anuales, 20%;
 La cantidad que resulte del párrafo inmediatamente anterior sobre las asignaciones de mil doscientas unidades tributarias anuales, y por la cantidad que exceda de esta suma, 25%.
-Las asignaciones por causa de muerte que correspondan al cónyuge y a cada ascendiente, o adoptante, o a cada hijo, o adoptado, o a la descendencia de ellos, estarán exentas de este impuesto en la parte que no exceda de cincuenta unidades tributarias anuales. Las donaciones que se efectúen a las personas señaladas estarán exentas de este impuesto en la parte que no exceda de cinco unidades tributarias anuales. En consecuencia, la escala a que se refiere el inciso primero de este artículo, se aplicará desde su primer tramo a las cantidades que excedan de los mínimos exentos.
+Las asignaciones por causa de muerte que correspondan al cónyuge y a cada ascendiente, o adoptante, o a cada hijo, o adoptado, o a la descendencia de ellos, o conviviente civil sobreviviente, estarán exentas de este impuesto en la parte que no exceda de cincuenta unidades tributarias anuales. Las donaciones que se efectúen a las personas señaladas estarán exentas de este impuesto en la parte que no exceda de cinco unidades tributarias anuales. En consecuencia, la escala a que se refiere el inciso primero de este artículo, se aplicará desde su primer tramo a las cantidades que excedan de los mínimos exentos.
 La unidad tributaria a que se refiere este artículo será la que rija al momento de la delación de la herencia o de la insinuación de la donación según el caso.
 Cuando los asignatarios o donatarios tengan con el causante un parentesco colateral de segundo, tercero o cuarto grado, las asignaciones o donaciones que reciban estarán exentas de este impuesto en la parte que no exceda de cinco unidades tributarias anuales. En consecuencia, la escala se aplicará desde su primer tramo a las cantidades que excedan de este mínimo exento.
 Cuando los asignatarios o donatarios tengan con el causante o donante, respectivamente, un parentesco colateral de segundo tercero, o cuarto grado, se aplicará la escala indicada en el inciso primero recargada en un 20%, y el recargo será de un 40% si el parentesco entre el causante o donante y el asignatario o donatario fuere más lejano o no existiere parentesco alguno.
@@ -8966,11 +8966,12 @@ DE LA POSESION EFECTIVA
 
 Art. 25. Para los efectos de esta ley el heredero no podrá disponer de los bienes de la herencia, sin que previamente se haya inscrito la resolución que da la posesión efectiva de la herencia, sin perjuicio de lo dispuesto en el artículo 688 del Código Civil.
 
-Art. 26. Lo expuesto en el artículo precedente no regirá para el cónyuge, ni para los padres e hijos cuando deban percibir, de las Cajas de Previsión o de los empleados o patrones, de acuerdo con las leyes o contratos de trabajo, sumas no superiores a cinco unidades tributarias anuales.
+Art. 26. Lo expuesto en el artículo precedente no regirá para el cónyuge o conviviente civil, ni para los padres e hijos cuando deban percibir, de las Cajas de Previsión o de los empleados o patrones, de acuerdo con las leyes o contratos de trabajo, sumas no superiores a cinco unidades tributarias anuales.
 En caso de fallecimiento del titular de una cuenta de ahorro en un Banco o Institución Financiera, sus herederos podrán retirar estos depósitos hasta concurrencia de cinco unidades tributarias anuales o su equivalente en moneda extranjera.
 Fallecido uno de los titulares de una cuenta bipersonal, los fondos se considerarán del patrimonio exclusivo del sobreviviente hasta concurrencia de la cantidad señalada en el inciso primero. El saldo sobre ese monto, si lo hubiere, pertenecerá por iguales partes al otro depositante y a los herederos del fallecido, con las mismas prerrogativas que este artículo establece.
-En estos casos bastará probar el estado civil y no será necesaria la resolución que concede la posesión efectiva ni acreditar el pago o exención de la contribución de herencias.
+En estos casos bastará probar el estado civil y no será necesaria la resolución que concede la posesión efectiva ni acreditar el pago o exención de la contribución de herencia
 NOTA:
+s.
 NOTA:
 El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 

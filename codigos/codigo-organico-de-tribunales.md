@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2015-03-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2015-10-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2015-03-20
-fetched_at: 2026-08-03T03:13:43.248058+00:00
+version_date: 2015-10-22
+fetched_at: 2026-08-03T03:16:40.170767+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1223,14 +1223,14 @@ Art. 194. Los jueces pueden perder su competencia para conocer determinados nego
 
 Art. 195. Son causas de implicancia:
 1°) Ser el juez parte en el pleito o tener en él interés personal, salvo lo dispuesto en el N° 18 del artículo siguiente;
-2°) Ser el juez consorte o pariente consanguíneo legítimo en cualquiera de los grados de la línea recta y en la colateral hasta el segundo grado inclusive, o ser padre o hijo natural o adoptivo de alguna de las partes o de sus representantes legales;
+2°) Ser el juez cónyuge, conviviente civil o pariente consanguíneo en cualquiera de los grados de la línea recta y en la colateral hasta el segundo grado, o ser padre o hijo adoptivo de alguna de las partes o de sus representantes legales;
 3°) Ser el juez tutor o curador de alguna de las partes, o ser albacea de alguna sucesión, o veedor o liquidador de un procedimiento concursal, o administrador de algún establecimiento, o representante de alguna persona jurídica que figure como parte en el juicio;
-4°) Ser el juez ascendiente o descendiente legítimo, padre o hijo natural o adoptivo del abogado de alguna de las partes;
+4°) Ser el juez ascendiente o descendiente, o padre o hijo adoptivo del abogado de alguna de las partes;
 5°) Haber sido el juez abogado o apoderado de alguna de las partes en la causa actualmente sometida a su conocimiento o haber intervenido en ella como mediador;
-6°) Tener el juez, su consorte, ascendientes o descendientes legítimos, padres o hijos naturales o adoptivos, causa pendiente en que deba fallar como juez alguna de las partes;
-7°) Tener el juez, su consorte, ascendientes o descendientes legítimos, padres o hijos naturales o adoptivos, causa pendiente en que se ventile la misma cuestión que el juez debe fallar;
+6°) Tener el juez, su cónyuge o conviviente civil, sus ascendientes o descendientes, o su padre o hijo adoptivo, causa pendiente en que deba fallar como juez alguna de las partes;
+7°) Tener el juez, su cónyuge o conviviente civil, sus ascendientes o descendientes, o su padre o hijo adoptivo, causa pendiente en que se ventile la misma cuestión que el juez debe fallar;
 8°) Haber el juez manifestado su dictamen sobre la cuestión pendiente, con conocimiento de los antecedentes necesarios para pronunciar sentencia; y
-9°) Ser el juez, su consorte, o alguno de sus ascendientes o descendientes legítimos, padres o hijos naturales o adoptivos, heredero instituído en testamento por alguna de las partes.
+9°) Ser el juez, su cónyuge o conviviente civil, alguno de sus ascendientes o descendientes o su padre o hijo adoptivo, heredero instituido en testamento por alguna de las partes.
 Lo dicho en este artículo es sin perjuicio de lo dispuesto en el artículo 1324 y en los incisos tercero y cuarto del artículo 1325 del Código Civil.
 Respecto de los jueces con competencia criminal, son causas de implicancia, además, las siguientes:
 1º Haber intervenido con anterioridad en el procedimiento como fiscal o defensor;
@@ -1238,21 +1238,21 @@ Respecto de los jueces con competencia criminal, son causas de implicancia, adem
 3º Haber actuado el miembro del tribunal de juicio oral en lo penal como juez de garantía en el mismo procedimiento.
 
 Art. 196. Son causas de recusación:
-1°) Ser el juez pariente consanguíneo simplemente ilegítimo en toda la línea recta y en la colateral hasta el cuarto grado inclusive, o consanguíneo legítimo en la línea colateral desde el tercero hasta el cuarto grado inclusive, o afín hasta el segundo grado también inclusive, de alguna de las partes o de sus representantes legales;
-2°) Ser el juez ascendiente o descendiente ilegítimo, hermano o cuñado legítimo o natural del abogado de alguna de las partes;
+1°) Ser el juez pariente consanguíneo en toda la línea recta y en la colateral hasta el cuarto grado, o afín hasta el segundo grado, de alguna de las partes o de sus representantes legales;
+2°) Ser el juez ascendiente o descendiente, hermano o cuñado del abogado de alguna de las partes;
 3°) Tener el juez superior alguno de los parentescos designados en el inciso precedente o en el N° 4° del artículo 195, con el juez inferior que hubiere pronunciado la sentencia que se trata de confirmar o revocar;
 4°) Ser alguna de las partes sirviente, paniaguado o dependiente asalariado del juez, o viceversa;
-5°) Ser el juez deudor o acreedor de alguna de las partes o de su abogado; o serlo su consorte, o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
+5°) Ser el juez deudor o acreedor de alguna de las partes o de su abogado; o serlo su cónyuge o conviviente civil o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
 Sin embargo, no tendrá aplicación la causal del presente número si una de las partes fuere alguna de las instituciones de previsión fiscalizadas por la Superintendencia de Seguridad Social, la Asociación Nacional de Ahorro y Préstamo, o uno de los Servicios de Vivienda y Urbanización, a menos que estas instituciones u organismos ejerciten actualmente cualquier acción judicial contra el juez o contra alguna otra de las personas señaladas o viceversa;
-6°) Tener alguno de los ascendientes o descendientes simplemente ilegítimos del juez o los parientes colaterales del mismo dentro del segundo grado, causa pendiente que deba fallar como juez alguna de las partes;
-7°) Tener alguno de los ascendientes o descendientes simplemente ilegítimos del juez o los parientes colaterales del mismo dentro del segundo grado, causa pendiente en que se ventile la misma cuestión que el juez debe fallar;
-8°) Tener pendientes alguna de las partes pleito civil o criminal con el juez, con su consorte, o con alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
+6°) Tener alguno de los ascendientes o descendientes del juez o los parientes colaterales del mismo dentro del segundo grado, causa pendiente que deba fallar como juez alguna de las partes;
+7°) Tener alguno de los ascendientes o descendientes del juez o los parientes colaterales del mismo dentro del segundo grado, causa pendiente en que se ventile la misma cuestión que el juez deba fallar;
+8°) Tener pendientes alguna de las partes pleito civil o criminal con el juez, con su cónyuge o conviviente civil, o con alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
 Cuando el pleito haya sido promovido por alguna de las partes, deberá haberlo sido antes de la instancia en que se intenta la recusación;
 9°) Haber el juez declarado como testigo en la cuestión actualmente sometida a su conocimiento;
 10) Haber el juez manifestado de cualquier modo su dictamen sobre la cuestión pendiente, siempre que lo hubiere hecho con conocimiento de ella;
-11) Ser alguno de los ascendientes o descendientes ilegítimos del juez o alguno de sus parientes colaterales dentro del segundo grado, instituído heredero en testamento por alguna de las partes;
+11) Ser alguno de los ascendientes o descendientes del juez o alguno de sus parientes colaterales dentro del segundo grado, instituido heredero en testamento por alguna de las partes;
 12) Ser alguna de las partes heredero instituído en testamento por el juez;
-13) Ser el juez socio colectivo, comanditario o de hecho de alguna de las partes, serlo su consorte o alguno de los ascendientes o descendientes del mismo juez, o alguno de sus parientes colaterales dentro del segundo grado;
+13) Ser el juez socio colectivo, comanditario o de hecho de alguna de las partes, serlo su cónyuge o conviviente civil, o alguno de los ascendientes o descendientes del mismo juez, o alguno de sus parientes colaterales dentro del segundo grado;
 14) Haber el juez recibido de alguna de las partes un beneficio de importancia, que haga presumir empeñada su gratitud;
 15) Tener el juez con alguna de las partes amistad que se manifieste por actos de estrecha familiaridad;
 16) Tener el juez con alguna de las partes enemistad, odio o resentimiento que haga presumir que no se halla revestido de la debida imparcialidad;
@@ -1509,16 +1509,16 @@ Art. 257. Los que hubieren desempeñado los cargos de Presidente de la Repúblic
 
 Art. 258. No pueden ser simultáneamente jueces de una misma Corte de Apelaciones, los parientes consanguíneos o afines en línea recta, ni los colaterales que se hallen dentro del segundo grado de consanguinidad o afinidad.
 
-Art. 259. No podrá ser nombrado ministro de Corte de Apelaciones ni ser incluido en la terna correspondiente quien esté ligado con algún ministro o fiscal judicial de la Corte Suprema por matrimonio, por parentesco de consanguinidad hasta el tercer grado inclusive, por afinidad hasta el segundo grado, o por adopción.
-Quien sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el inciso anterior con un ministro de Corte de Apelaciones no podrá figurar en ternas o ser nombrado en cargo alguno del Escalafón Primario que deba desempeñarse dentro del territorio jurisdiccional de la Corte de Apelaciones donde aquél ejerce su ministerio.
-En caso de producirse el nombramiento de un ministro en una Corte en cuyo territorio jurisdiccional se desempeñan en el Escalafón Primario su cónyuge o alguno de los parientes indicados en el inciso primero, estos últimos deberán ser trasladados de inmediato al territorio jurisdiccional de otra Corte.
-En caso de producirse el nombramiento de un juez o ministro de Corte de Apelaciones que quede en situación de participar en la calificación de un receptor, procurador del número o miembro del Escalafón de Empleados y que se vincule con él por matrimonio o por alguno de los parentescos o vínculos indicados en el inciso primero, se deberá proceder al traslado de este último.
-Si dos miembros de un mismo tribunal, estando ya en funciones, contrajeren matrimonio o alguno de los parentescos señalados en el artículo 258, uno de ellos será trasladado a un cargo de igual jerarquía. El traslado afectará a aquel cuyo acto haya generado el parentesco y, en caso de matrimonio, a aquel que determinen los cónyuges de común acuerdo o, a falta de asenso, la Corte Suprema.
-El ministro de la Corte Suprema que sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el inciso primero con un miembro del Poder Judicial, no podrá tomar parte alguna en asuntos en que éste pueda tener interés.
+Art. 259. No podrá ser nombrado ministro de Corte de Apelaciones ni ser incluido en la terna correspondiente quien esté ligado con algún ministro o fiscal judicial de la Corte Suprema por matrimonio, por un acuerdo de unión civil, por parentesco de consanguinidad hasta el tercer grado inclusive, por afinidad hasta el segundo grado, o por adopción.
+Quien sea cónyuge, conviviente civil, o tenga alguno de los parentescos o vínculos indicados en el inciso anterior con un ministro de Corte de Apelaciones no podrá figurar en ternas o ser nombrado en cargo alguno del Escalafón Primario que deba desempeñarse dentro del territorio jurisdiccional de la Corte de Apelaciones donde aquél ejerce su ministerio.
+En caso de producirse el nombramiento de un ministro en una Corte en cuyo territorio jurisdiccional se desempeñan en el Escalafón Primario su cónyuge, conviviente civil, o alguno de los parientes indicados en el inciso primero, estos últimos deberán ser trasladados de inmediato al territorio jurisdiccional de otra Corte.
+En caso de producirse el nombramiento de un juez o ministro de Corte de Apelaciones que quede en situación de participar en la calificación de un receptor, procurador del número o miembro del Escalafón de Empleados y que se vincule con él por matrimonio, por un acuerdo de unión civil, o por alguno de los parentescos o vínculos indicados en el inciso primero, se deberá proceder al traslado de este último.
+Si dos miembros de un mismo tribunal, estando ya en funciones, contrajeren matrimonio, celebraren un acuerdo de unión civil o pasaren a tener alguno de los parentescos señalados en el artículo 258, uno de ellos será trasladado a un cargo de igual jerarquía. El traslado afectará a aquel cuyo acto haya generado el parentesco y, en caso de matrimonio, a aquel que determinen los cónyuges de común acuerdo o, a falta de asenso, la Corte Suprema. Esta última regla se aplicará también cuando las personas se encuentren unidas por un acuerdo de unión civil.
+El ministro de la Corte Suprema que sea cónyuge, que tenga un acuerdo de unión civil o alguno de los parentescos o vínculos indicados en el inciso primero con un miembro del Poder Judicial, no podrá tomar parte alguna en asuntos en que éste pueda tener interés.
 
-Art. 260. No podrán ingresar en el Escalafón Secundario aquellos que sean cónyuges o tengan alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o fiscal judicial de la Corte Suprema o de Corte de Apelaciones, o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer.
-No podrá ingresar en el Escalafón del Personal de Empleados el que sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o con el fiscal de la Corte Suprema o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer.
-Del mismo modo, no puede ser incluido en terna ni ser nombrado en el referido escalafón aquel que sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el inciso anterior con quien, por razón de su cargo, deba o pueda participar en su calificación.
+Art. 260. No podrán ingresar en el Escalafón Secundario aquellos que sean cónyuges o tengan alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o fiscal judicial de la Corte Suprema o de Corte de Apelaciones, o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer. El mismo impedimento se aplicará a aquellos que tengan un acuerdo de unión civil con los referidos ministros o fiscales.
+No podrá ingresar en el Escalafón del Personal de Empleados el que sea cónyuge o tenga un acuerdo de unión civil o alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o con el fiscal de la Corte Suprema o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer.
+Del mismo modo, no puede ser incluido en terna ni ser nombrado en el referido escalafón aquel que sea cónyuge o tenga un acuerdo de unión civil o alguno de los parentescos o vínculos indicados en el inciso anterior con quien, por razón de su cargo, deba o pueda participar en su calificación.
 
 Art. 261. Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales o municipales, con excepción de los cargos docentes hasta un límite máximo de doce horas semanales.
 
@@ -1829,7 +1829,7 @@ Art. 314. Derogado.
 
 Art. 315. La Corte Suprema, mediante auto acordado dictado en diciembre de cada año, sobre la base de la información que le proporcionen la Corporación Administrativa del Poder Judicial y las Cortes de Apelaciones, podrá determinar el número de salas en que ella misma y estas últimas funcionarán durante el mes de febrero del año siguiente. Las salas que sesionen durante el mes de febrero podrán conocer de las apelaciones en que otra sala haya decretado orden de no innovar.
 
-Art. 316. Es prohibido a los jueces ejercer la abogacía; y sólo podrán defender causas personales o de sus cónyuges, ascendientes, descendientes, hermanos o pupilos.
+Art. 316. Es prohibido a los jueces ejercer la abogacía; y sólo podrán defender causas personales o de sus cónyuges, convivientes civiles, ascendientes, descendientes, hermanos o pupilos.
 Les es igualmente prohibido representar en juicio a otras personas que las mencionadas en el precedente inciso.
 
 Art. 317. Prohíbese a los jueces letrados y a los ministros de los Tribunales Superiores de Justicia, aceptar compromisos, excepto cuando el nombrado tuviere con alguna de las partes originariamente interesadas en el litigio, algún vínculo de parentesco que autorice su implicancia o recusación.
@@ -1844,7 +1844,7 @@ Exceptúanse las cuestiones sobre deserción de recursos, depósito de personas,
 Art. 320. Los jueces deben abstenerse de expresar y aun de insinuar privadamente su juicio respecto de los negocios que por la ley son llamados a fallar.
 Deben igualmente abstenerse de dar oído a toda alegación que las partes, o terceras personas a nombre o por influencia de ellas, intenten hacerles fuera del tribunal.
 
-Art. 321. Se prohibe a todo juez comprar o adquirir a cualquier título para sí, para su cónyuge o para sus hijos las cosas o derechos que se litiguen en los juicios de que él conozca.
+Art. 321. Se prohibe a todo juez comprar o adquirir a cualquier título para sí, para su cónyuge, para su conviviente civil, o para sus hijos las cosas o derechos que se litiguen en los juicios de que él conozca.
 Se extiende esta prohibición a las cosas o derechos que han dejado de ser litigiosos, mientras no hayan transcurrido cinco años desde el día en que dejaron de serlo; pero no comprende las adquisiciones hechas a título de sucesión por causa de muerte, si el adquirente tuviere respecto del difunto la calidad de heredero abintestato.
 Todo acto en contravención a este artículo lleva consigo el vicio de nulidad, sin perjuicio de las penas a que, conforme al Código Penal, haya lugar.
 
@@ -2517,7 +2517,7 @@ Art. 478. Ningún notario, Conservador, Archivero, secretario, administrador de 
 Este permiso podrá otorgarse como máximo, en cada año calendario, por una sola vez o fraccionado, por ocho días a los secretarios y administradores de tribunales, dos meses a los notarios, conservadores y archiveros y un mes a los otros funcionarios. Si el permiso solicitado excediere a los aludidos plazos y no pasare de un año, deberá pedirse por escrito ante el Presidente de la República. Si transcurrido un año no se presentare el funcionario a servir su destino, se tendrá esta inasistencia como causal bastante para que la autoridad competente, siguiendo los trámites legales, pueda declarar vacante el empleo.
 En los permisos hasta por dos meses el notario, conservador y archivero podrá proponer al juez el abogado que deba subrogarlo bajo su responsabilidad, propuesta que en el caso de los notarios y conservadores de cuarta categoría podrá recaer en el oficial 1° de la oficina respectiva.
 
-Art. 479. Es prohibido a los auxiliares de la Administración de Justicia ejercer la abogacía y sólo podrán defender causas personales o de sus cónyuges, ascendientes, descendientes, hermanos o pupilos.
+Art. 479. Es prohibido a los auxiliares de la Administración de Justicia ejercer la abogacía y sólo podrán defender causas personales o de sus cónyuges, convivientes civiles, ascendientes, descendientes, hermanos o pupilos.
 Les es igualmente prohibido representar en juicio a otras personas que las mencionadas en el precedente inciso.
 No rige lo dispuesto en los incisos anteriores con los defensores públicos y los procuradores del número. No obstante, estos últimos no podrán ejercer la profesión de abogado ante las Cortes do Apelaciones en que actúan.
 
@@ -2662,7 +2662,7 @@ Art. 512. En caso de ausencia o impedimento por cualquier causa y sin necesidad 
 Art. 513. El director, el subdirector, los jefes de departamentos y el contralor interno, deberán tener título profesional universitario de la especialidad que determine la Corte Suprema. En todo caso, sólo podrán ser nombrados en estos cargos personas que posean título profesional de carreras universitarias de a lo menos ocho semestres académicos.
 Todo el personal de la Corporación se regirá por las normas legales y reglamentaria aplicables a los empleados del Poder Judicial, con las excepciones que se indican en los incisos siguientes.
 Su nombramiento se hará directamente por la Corte Suprema previo concurso de antecedentes y examen de oposición, en su caso, a que llamará el Consejo Superior. Serán de la exclusiva confianza de la Corte Suprema y ésta podrá removerlos a su arbitrio.
-En ningún caso podrán ser designados como director o subdirector los cónyuges ni los parientes consanguíneos o afines de un funcionario del Escalafón Primario del Poder Judicial o de la Corporación, que se hallen dentro del segundo grado en la línea recta o del tercero en la colateral.
+En ningún caso podrán ser designados como director o subdirector los cónyuges ni los parientes consanguíneos o afines de un funcionario del Escalafón Primario del Poder Judicial o de la Corporación, que se hallen dentro del segundo grado en la línea recta o del tercero en la colateral. Este impedimento también se aplicará a las personas que tengan un acuerdo de unión civil con un funcionario del referido escalafón.
 La calificación anual de este personal la hará la Corte Suprema previo informe del Consejo Superior.
 
 Art. 514. La Corporación Administrativa del Poder Judicial tendrá un patrimonio propio formado por:

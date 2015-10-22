@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2014-02-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2015-10-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2014-02-14
-fetched_at: 2026-08-03T03:04:49.284038+00:00
+version_date: 2015-10-22
+fetched_at: 2026-08-03T03:16:52.173708+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -727,7 +727,7 @@ Artículo 138°.- Corresponderá a las Municipalidades de la República instalar
 Artículo 139°.- Ningún cadáver podrá permanecer insepulto por más de cuarenta y ocho horas, a menos que el Servicio Nacional de Salud lo autorice, o cuando haya sido embalsamado o se requiera practicar alguna investigación de carácter científico, judicial o penal.
 El Servicio Nacional de Salud podrá ordenar la inhumación, en un plazo inferior cuando razones técnicas lo aconsejen.
 
-Artículo 140°.- La obligación de dar sepultura a un cadáver recaerá sobre el cónyuge sobreviviente o sobre el pariente más próximo que estuviere en condición de sufragar los gastos.
+Artículo 140.- La obligación de dar sepultura a un cadáver recaerá sobre el cónyuge sobreviviente o sobre el pariente más próximo que estuviere en condición de sufragar los gastos o la persona con la que el difunto haya mantenido un acuerdo de unión civil vigente al momento de su muerte.
 
 Artículo 141°.- Prohíbese inscribir en el Registro Civil las defunciones e inhumaciones de cadáveres si no se justifican previamente las causas del fallecimiento mediante un certificado del médico que lo asistió en la última enfermedad. A falta de éste, corresponderá extender dicho certificado al Servicio Nacional de Salud en las condiciones que determine el Reglamento.
 NOTA:
@@ -751,9 +751,12 @@ Artículo 146°.- Toda persona plenamente capaz podrá disponer de su cadáver, 
 El donante manifestará su voluntad por escrito, pudiendo revocarla en la misma forma, todo ello de conformidad con las formalidades que señale el reglamento.
 
 Artículo 147°.- Los cadáveres de personas fallecidas en establecimientos hospitalarios públicos o privados, o que se encuentren en establecimientos del Servicio Médico Legal, que no fueren reclamados dentro del plazo que señale el reglamento, podrán ser destinados a estudios e investigación científica, y sus órganos y tejidos, destinados a la elaboración de productos terapéuticos y a la realización de injertos.
-Podrán ser destinados a los mismos fines cuando el cónyuge o, a falta de éste, los parientes en primer grado de consanguinidad en la línea recta o colateral no manifestaren su oposición dentro del plazo y en la forma que señale el reglamento.
+Podrán ser destinados a los mismos fines cuando el cónyuge o, a falta de éste, los parientes en primer grado de consanguinidad en la línea recta o colateral o la persona con la que el difunto tuviere vigente un acuerdo de unión civil al momento de su muerte no manifestaren su oposición dentro del plazo y en la forma que señale el reglamento.
 
-Artículo 148°.- Podrán también destinarse a injertos con fines terapéuticos los tejidos de cadáveres de personas cuyo cónyuge o, a falta de éste, los parientes en el orden señalado en el artículo 42 del Código Civil, otorguen autorización en un acta suscrita ante el director del establecimiento hospitalario donde hubiere ocurrido el fallecimiento.
+Artículo 148°.- Podrán también destinarse a injertos con fines terapéuticos los tejidos de cadáveres de personas cuyo cónyuge o, a falta de éste, los parientes en el orden señalado en el artículo 42 del Código Civil o la persona con la que haya mantenido un acuerdo de unión civil vigente al momento de su muerte, otorguen autorización en un acta suscrita ante el director del establecimiento hospitalario donde hubiere ocurrido el fallecimiento.
+NOTA:
+NOTA:
+El Art. 18 de la LEY 19451, publicada el 10.04.1996, dispuso que las modificaciones introducidas al presente artículo, regirán noventa días después de la fecha de su publicación.
 
 Artículo 149°.- Derogado.
 

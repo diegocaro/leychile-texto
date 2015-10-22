@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2015-04-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2015-10-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2015-04-18
-fetched_at: 2026-08-03T03:14:21.519378+00:00
+version_date: 2015-10-22
+fetched_at: 2026-08-03T03:16:34.165222+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -150,7 +150,7 @@ Se exceptúa de esta disposición el empleador que no ocupa más de veinticinco 
 Art. 20. Para computar la proporción a que se refiere el artículo anterior, se seguirán las reglas que a continuación se expresan:
 1.- se tomará en cuenta el número total de trabajadores que un empleador ocupe dentro del territorio nacional y no el de las distintas sucursales separadamente;
 2.- se excluirá al personal técnico especialista;
-3.- se tendrá como chileno al extranjero cuyo cónyuge o sus hijos sean chilenos o que sea viudo o viuda de cónyuge chileno, y
+3.- se tendrá como chileno al extranjero cuyo cónyuge o conviviente civil o sus hijos sean chilenos o que sea viudo o viuda de cónyuge chileno, y
 4.- se considerará también como chilenos a los extranjeros residentes por más de cinco años en el país, sin tomarse en cuenta las ausencias accidentales.
 
 #### Capítulo IV
@@ -381,7 +381,7 @@ Art. 57. Las remuneraciones de los trabajadores y las cotizaciones de seguridad 
 Con todo, tratándose de pensiones alimenticias debidas por ley y decretadas judicialmente, de defraudación, hurto o robo cometidos por el trabajador en contra del empleador en ejercicio de su cargo, o de remuneraciones adeudadas por el trabajador a las personas que hayan estado a su servicio en calidad de trabajador, podrá embargarse hasta el cincuenta por ciento de las remuneraciones.
 
 Art. 58. El empleador deberá deducir de las remuneraciones los impuestos que las graven, las cotizaciones de seguridad social, las cuotas sindicales en conformidad a la legislación respectiva y las obligaciones con instituciones de previsión o con organismos públicos.
-Asimismo, con acuerdo del empleador y del trabajador, que deberá constar por escrito, el empleador podrá descontar de las remuneraciones cuotas destinadas al pago de la adquisición de viviendas, cantidades para ser depositadas en una cuenta de ahorro para la vivienda y sumas destinadas a la educación del trabajador, su cónyuge o alguno de sus hijos. Para estos efectos, se autoriza al empleador a otorgar mutuos o créditos sin interés, respecto de los cuales el empleador podrá hacerse pago deduciendo hasta el 30% del total de la remuneración mensual del trabajador. Sin embargo, el empleador sólo podrá realizar tal deducción si paga directamente la cuota del mutuo o crédito a la institución financiera o servicio educacional respectivo.
+Asimismo, con acuerdo del empleador y del trabajador, que deberá constar por escrito, el empleador podrá descontar de las remuneraciones cuotas destinadas al pago de la adquisición de viviendas, cantidades para ser depositadas en una cuenta de ahorro para la vivienda y sumas destinadas a la educación del trabajador, su cónyuge, conviviente civil o alguno de sus hijos. Para estos efectos, se autoriza al empleador a otorgar mutuos o créditos sin interés, respecto de los cuales el empleador podrá hacerse pago deduciendo hasta el 30% del total de la remuneración mensual del trabajador. Sin embargo, el empleador sólo podrá realizar tal deducción si paga directamente la cuota del mutuo o crédito a la institución financiera o servicio educacional respectivo.
 Sólo con acuerdo del empleador y del trabajador que deberá constar por escrito, podrán deducirse de las remuneraciones sumas o porcentajes determinados, destinados a efectuar pagos de cualquier naturaleza. Con todo, las deducciones a que se refiere este inciso, no podrán exceder del quince por ciento de la remuneración total del trabajador.
 Cualquiera sea el fundamento de las deducciones realizadas a las remuneraciones por parte del empleador, o el origen de los préstamos otorgados, en ningún caso aquéllas podrán exceder, en conjunto, del 45% de la remuneración total del trabajador.
 El empleador no podrá deducir, retener o compensar suma alguna que rebaje el monto de las remuneraciones por arriendo de habitación, luz, entrega de agua, uso de herramientas, entrega de medicinas, atención médica u otras prestaciones en especie, o por concepto de multas que no estén autorizadas en el reglamento interno de la empresa.
@@ -395,7 +395,7 @@ La mujer casada puede percibir hasta el cincuenta por ciento de la remuneración
 En los casos de los incisos anteriores, el empleador estará obligado a efectuar los descuentos respectivos y pagar las sumas al asignatario.
 
 Art. 60. En caso de fallecimiento del trabajador, las remuneraciones que se adeudaren serán pagadas por el empleador a la persona que se hizo cargo de sus funerales, hasta concurrencia del costo de los mismos.
-El saldo, si lo hubiere, y las demás prestaciones pendientes a la fecha del fallecimiento se pagarán al cónyuge, a los hijos legítimos o naturales o a los padres legítimos o naturales del fallecido, unos a falta de los otros, en el orden indicado, bastando acreditar el estado civil respectivo.
+El saldo, si lo hubiere, y las demás prestaciones pendientes a la fecha del fallecimiento se pagarán, en orden de precedencia, al cónyuge o conviviente civil, a los hijos o a los padres del fallecido.
 Lo dispuesto en el inciso precedente sólo operará tratándose de sumas no superiores a cinco unidades tributarias anuales.
 
 Art. 61. Gozan del privilegio del artículo 2472 del Código Civil, las remuneraciones adeudadas a los trabajadores y sus asignaciones familiares, las imposiciones o cotizaciones y demás aportes que corresponda percibir a los organismos o entidades de previsión o de seguridad social, los impuestos fiscales devengados de retención o recargo, y las indemnizaciones legales y convencionales de origen laboral que corresponda a los trabajadores; todo ello conforme al artículo 2473 y demás pertinentes del mismo Código.
@@ -430,7 +430,7 @@ No podrán ejercer este comercio los trabajadores que hubieran sido despedidos d
 #### Capítulo VII
 DEL FERIADO ANUAL Y DE LOS PERMISOS
 
-Art. 66. En el caso de muerte de un hijo así como en el de muerte del cónyuge, todo trabajador tendrá derecho a siete días corridos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
+Art. 66. En el caso de muerte de un hijo así como en el de muerte del cónyuge o conviviente civil, todo trabajador tendrá derecho a siete días corridos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
 Igual permiso se aplicará por tres días hábiles en el caso de muerte de un hijo en período de gestación así como en el de muerte del padre o de la madre del trabajador.
 Estos permisos deberán hacerse efectivos a partir del día del respectivo fallecimiento. No obstante, tratándose de una defunción fetal, el permiso se hará efectivo desde el momento de acreditarse la muerte, con el respectivo certificado de defunción fetal.
 El trabajador al que se refiere el inciso primero gozará de fuero laboral por un mes, a contar del respectivo fallecimiento. Sin embargo, tratándose de trabajadores cuyos contratos de trabajo sean a plazo fijo o por obra o servicio determinado, el fuero los amparará sólo durante la vigencia del respectivo contrato si éste fuera menor a un mes, sin que se requiera solicitar su desafuero al término de cada uno de ellos.
@@ -1626,7 +1626,7 @@ El empleador que impida el uso del permiso postnatal parental o realice cualquie
 Artículo 198.- La mujer que se encuentre en el período de descanso de maternidad a que se refiere el artículo 195, de descansos suplementarios y de plazo ampliado señalados en el artículo 196, como también los trabajadores que hagan uso del permiso postnatal parental, recibirán un subsidio calculado conforme a lo dispuesto en el decreto con fuerza de ley Nº 44, del Ministerio del Trabajo y Previsión Social, de 1978, y en el artículo 197 bis.
 
 Art. 199. Cuando la salud de un niño menor de un año requiera de atención en el hogar con motivo de enfermedad grave, circunstancia que deberá ser acreditada mediante certificado médico otorgado o ratificado por los servicios que tengan a su cargo la atención médica de los menores, la madre trabajadora tendrá derecho al permiso y subsidio que establece el artículo anterior por el período que el respectivo servicio determine. En el caso que ambos padres sean trabajadores, cualquiera de ellos y a elección de la madre, podrá gozar del permiso y subsidio referidos. Con todo, gozará de ellos el padre, cuando la madre hubiere fallecido o él tuviere la tuición del menor por sentencia judicial.
-Tendrá también derecho a este permiso y subsidio, la trabajadora o el trabajador que tenga a su cuidado un menor de edad inferior a un año, respecto de quien se le haya otorgado judicialmente la tuición o el cuidado personal como medida de protección. Este derecho se extenderá al cónyuge, en los mismos términos señalados en el inciso anterior.
+Tendrá también derecho a este permiso y subsidio, la trabajadora o el trabajador que tenga a su cuidado un menor de edad inferior a un año, respecto de quien se le haya otorgado judicialmente la tuición o el cuidado personal como medida de protección. Este derecho se extenderá al cónyuge o conviviente civil, en los mismos términos señalados en el inciso anterior.
 Si los beneficios precedentes fueren obtenidos en forma indebida, los trabajadores involucrados serán solidariamente responsables de la restitución de las prestaciones pecuniarias percibidas, sin perjuicio de las sanciones penales que por este hecho les pudiere corresponder.
 
 Art. 199 bis. Cuando la salud de un menor de 18 años requiera la atención personal de sus padres con motivo de un accidente grave o de una enfermedad terminal en su fase final o enfermedad grave, aguda y con probable riesgo de muerte, la madre trabajadora tendrá derecho a un permiso para ausentarse de su trabajo por el número de horas equivalentes a diez jornadas ordinarias de trabajo al año, distribuidas a elección de ella en jornadas completas, parciales o combinación de ambas, las que se considerarán como trabajadas para todos los efectos legales. Dichas circunstancias del accidente o enfermedad deberán ser acreditadas mediante certificado otorgado por el médico que tenga a su cargo la atención del menor.
