@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2015-10-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2015-11-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2015-10-20
-fetched_at: 2026-08-03T03:15:39.595103+00:00
+version_date: 2015-11-16
+fetched_at: 2026-08-03T03:17:24.672781+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -489,6 +489,7 @@ La inhabilidad a que se refiere el inciso anterior tendrá lugar sea que el dipu
 Cesará en su cargo el diputado o senador que actúe como abogado o mandatario en cualquier clase de juicio, que ejercite cualquier influencia ante las autoridades administrativas o judiciales en favor o representación del empleador o de los trabajadores en negociaciones o conflictos laborales, sean del sector público o privado, o que intervengan en ellos ante cualquiera de las partes. Igual sanción se aplicará al parlamentario que actúe o intervenga en actividades estudiantiles, cualquiera que sea la rama de la enseñanza, con el objeto de atentar contra su normal desenvolvimiento.
 Sin perjuicio de lo dispuesto en el inciso séptimo del número 15º del artículo 19, cesará, asimismo, en sus funciones el diputado o senador que de palabra o por escrito incite a la alteración del orden público o propicie el cambio del orden jurídico institucional por medios distintos de los que establece esta Constitución, o que comprometa gravemente la seguridad o el honor de la Nación.
 Quien perdiere el cargo de diputado o senador por cualquiera de las causales señaladas precedentemente no podrá optar a ninguna función o empleo público, sea o no de elección popular, por el término de dos años, salvo los casos del inciso séptimo del número 15º del artículo 19, en los cuales se aplicarán las sanciones allí contempladas.
+Cesará en su cargo el diputado o senador que haya infringido gravemente las normas sobre transparencia, límites y control del gasto electoral, desde la fecha que lo declare por sentencia firme el Tribunal Calificador de Elecciones, a requerimiento del Consejo Directivo del Servicio Electoral. Una ley orgánica constitucional señalará los casos en que existe una infracción grave. Asimismo, el diputado o senador que perdiere el cargo no podrá optar a ninguna función o empleo público por el término de tres años, ni podrá ser candidato a cargos de elección popular en los dos actos electorales inmediatamente siguientes a su cesación.
 Cesará, asimismo, en sus funciones el diputado o senador que, durante su ejercicio, pierda algún requisito general de elegibilidad o incurra en alguna de las causales de inhabilidad a que se refiere el artículo 57, sin perjuicio de la excepción contemplada en el inciso segundo del artículo 59 respecto de los Ministros de Estado.
 Los diputados y senadores podrán renunciar a sus cargos cuando les afecte una enfermedad grave que les impida desempeñarlos y así lo califique el Tribunal Constitucional.
 
@@ -870,6 +871,8 @@ En caso de ser arrestado algún intendente, gobernador o presidente de consejo r
 Desde el momento en que se declare, por resolución firme, haber lugar a formación de causa, queda el intendente, gobernador o presidente del consejo regional imputado suspendido de su cargo y sujeto al juez competente.
 
 Artículo 125.- Las leyes orgánicas constitucionales respectivas establecerán las causales de cesación en los cargos de alcalde, consejero regional y concejal.
+Con todo, cesarán en sus cargos las autoridades mencionadas que hayan infringido gravemente las normas sobre transparencia, límites y control del gasto electoral, desde la fecha que lo declare por sentencia firme el Tribunal Calificador de Elecciones, a requerimiento del Consejo Directivo del Servicio Electoral. Una ley orgánica constitucional señalará los casos en que existe una infracción grave.
+Asimismo, quien perdiere el cargo de alcalde, consejero regional o concejal, de acuerdo a lo establecido en el inciso anterior, no podrá optar a ninguna función o empleo público por el término de tres años, ni podrá ser candidato a cargos de elección popular en los dos actos electorales inmediatamente siguientes a su cesación.
 
 Artículo 126.- La ley determinará la forma de resolver las cuestiones de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales y comunales.
 Asimismo, establecerá el modo de dirimir las discrepancias que se produzcan entre el intendente y el consejo regional, así como entre el alcalde y el concejo.
