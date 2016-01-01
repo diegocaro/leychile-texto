@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2015-11-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2016-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2015-11-21
-fetched_at: 2026-08-03T03:17:42.696936+00:00
+version_date: 2016-01-01
+fetched_at: 2026-08-03T03:18:03.892142+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -346,7 +346,7 @@ Art. 46. Si las partes convinieren un sistema de gratificaciones, éstas no podr
 
 Art. 47. Los establecimientos mineros, industriales, comerciales o agrícolas, empresas y cualesquiera otros que persigan fines de lucro, y las cooperativas, que estén obligados a llevar libros de contabilidad y que obtengan utilidades o excedentes líquidos en sus giros, tendrán la obligación de gratificar anualmente a sus trabajadores en proporción no inferior al treinta por ciento de dichas utilidades o excedentes. La gratificación de cada trabajador con derecho a ella será determinada en forma proporcional a lo devengado por cada trabajador en el respectivo período anual, incluidos los que no tengan derecho.
 
-Art. 48. Para estos efectos se considerará utilidad la que resulte de la liquidación que practique el Servicio de Impuestos Internos para la determinación del impuesto a la renta, aplicando el régimen de depreciación normal que establece el número 5 del artículo 31 de la ley sobre Impuesto a la Renta, sin deducir las pérdidas de ejercicios anteriores; y por utilidad líquida se entenderá la que arroje dicha liquidación deducido el diez por ciento del valor del capital propio del empleador, por interés de dicho capital. Para estos efectos, no se considerarán como parte del capital propio los ajustes que ordenan efectuar los números 8° y 9° del artículo 41 de la referida ley, por disposición del inciso segundo del referido número 8°.
+Art. 48. Para estos efectos se considerará utilidad la que resulte de la liquidación que practique el Servicio de Impuestos Internos para la determinación del impuesto a la renta, aplicando el régimen de depreciación normal que establece el número 5 del artículo 31 de la ley sobre Impuesto a la Renta, sin deducir las pérdidas de ejercicios anteriores; y por utilidad líquida se entenderá la que arroje dicha liquidación deducido el diez por ciento del valor del capital propio del empleador, por interés de dicho capital.
 Respecto de los empleadores exceptuados del impuesto a la renta, el Servicio de Impuestos Internos practicará, también, la liquidación a que se refiere este artículo para los efectos del otorgamiento de gratificaciones.
 Los empleadores estarán obligados a pagar las gratificaciones al personal con el carácter de anticipo sobre la base del balance o liquidación presentada al Servicio de Impuestos Internos, en tanto se practica la liquidación definitiva.
 
