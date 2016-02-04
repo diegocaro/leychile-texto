@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2015-11-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-02-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2015-11-06
-fetched_at: 2026-08-03T03:17:18.662633+00:00
+version_date: 2016-02-04
+fetched_at: 2026-08-03T03:18:45.923218+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1159,9 +1159,8 @@ El conocimiento de esas excepciones corresponde al tribunal en lo civil.
 
 ### § 7. Reglas que determinan la distribución de causas en aquellas comunas o agrupación de comunas en cuyo territorio existan dos o más jueces con igual competencia
 
-Art. 175. En las comunas o agrupaciones de comunas en donde hubiere más de un juez de letras, se dividirá el ejercicio de la jurisdicción, estableciéndose un turno entre todos los jueces, salvo que la ley hubiere cometido a uno de ellos el conocimiento de determinadas especies de causas.
-El turno se ejercerá por semanas. Comenzará a desempeñarlo el juez más antiguo, y seguirán desempeñándolo todos los demás por el orden de su antigüedad.
-Cada juez de letras deberá conocer de todos los asuntos judiciales que se promuevan durante su turno, y seguirá conociendo de ellos hasta su conclusión.
+Art. 175. En las comunas o agrupaciones de comunas en donde hubiere más de un juez de letras, deberá presentarse ante la secretaría del Primer Juzgado de Letras toda demanda o gestión judicial que se iniciare y que deba conocer alguno de dichos jueces, a fin de que se designe a aquel de ellos que lo hará.
+Esta designación se efectuará mediante un sistema informático idóneo, asignando a cada causa un número de orden según su naturaleza. En todo caso, deberá velar por una distribución equitativa entre los distintos tribunales.
 Lo dispuesto en este artículo no se aplicará a los juzgados de garantía ni a los tribunales de juicio oral en lo penal, que se regirán por las normas especiales que los regulan.
 
 Art. 176. En los lugares de asiento de Corte en que hubiere más de un juez de letras en lo civil, deberá presentarse a la secretaría de la Corte toda demanda o gestión judicial que se iniciare y que deba conocer alguno de dichos jueces, a fin de que se designe el juez a quien corresponda su conocimiento.
@@ -1169,11 +1168,9 @@ Esta designación se hará por el presidente del tribunal, previa cuenta dada po
 
 Art. 177. Derogado.
 
-Art. 178. No obstante lo dispuesto en el artículo 176, serán de la competencia del Juez que hubiere sido designado anteriormente, las demandas en juicios que se hayan iniciado por medidas prejudiciales, por medidas preparatorias de la vía ejecutiva o mediante la notificación previa ordenada por el artículo 758 del Código de Procedimiento Civil; todas las gestiones que se susciten con motivo de un juicio ya iniciado y aquellas a que dé lugar el cumplimiento de una sentencia, fuera del caso previsto en la parte final del artículo 114.
+Art. 178. No obstante lo dispuesto en los artículos 175 y 176, serán de la competencia del Juez que hubiere sido designado anteriormente, las demandas en juicios que se hayan iniciado por medidas prejudiciales, por medidas preparatorias de la vía ejecutiva o mediante la notificación previa ordenada por el artículo 758 del Código de Procedimiento Civil; todas las gestiones que se susciten con motivo de un juicio ya iniciado y aquellas a que dé lugar el cumplimiento de una sentencia, fuera del caso previsto en la parte final del artículo 114.
 
-Art. 179. No están sujetos a lo dispuesto en el artículo 176 el ejercicio de las facultades que corresponden a los jueces para el conocimiento de los asuntos que tienen por objeto dar cumplimiento a resoluciones o decretos de otros juzgados o tribunales, ni los asuntos de jurisdicción voluntaria.
-La jurisdicción en estos casos será ejercida por el juez letrado de turno, a menos que se trate de negocios derivados del conocimiento que otro juzgado tuviere de un determinado asunto, en cuyo caso la jurisdicción podrá también ser ejercida por éste.
-Asimismo, en el territorio jurisdiccional de la Corte de Apelaciones de Santiago el turno para el conocimiento de los asuntos de que trata el presente artículo y demás que leyes especiales dispongan será ejercido simultáneamente por cinco jueces letrados en la forma establecida en el inciso segundo del artículo 175.
+Art. 179. Estarán sujetos a lo dispuesto en los artículos 175 y 176, según el caso, el ejercicio de las facultades que corresponden a los jueces para el conocimiento de los asuntos que tienen por objeto dar cumplimiento a resoluciones o decretos de otros juzgados o tribunales y los asuntos de jurisdicción voluntaria.
 
 Art. 180. Derogado.
 
