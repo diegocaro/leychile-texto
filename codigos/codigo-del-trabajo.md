@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2016-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2016-04-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2016-01-01
-fetched_at: 2026-08-03T03:18:03.892142+00:00
+version_date: 2016-04-01
+fetched_at: 2026-08-03T03:19:21.967344+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -471,7 +471,7 @@ En los casos a que se refieren los dos incisos anteriores, y en la compensación
 
 Art. 74. No tendrán derecho a feriado los trabajadores de las empresas o establecimientos que, por la naturaleza de las actividades que desarrollan, dejen de funcionar durante ciertos períodos del año, siempre que el tiempo de la interrupción no sea inferior al feriado que les corresponda de acuerdo a las disposiciones de este Código y que durante dicho período hayan disfrutado normalmente de la remuneración establecida en el contrato.
 
-Art. 75. Cualquiera sea el sistema de contratación del personal docente de los establecimientos de educación básica y media o su equivalente, los contratos de trabajo vigentes al mes de diciembre se entenderán prorrogados por los meses de enero y febrero, siempre que el docente tenga más de seis meses continuos de servicio en el mismo establecimiento.
+Art. 75. Cualquiera sea el sistema de contratación del personal docente de los establecimientos de educación básica, parvularia y media o su equivalente, los contratos de trabajo vigentes al mes de diciembre se entenderán prorrogados por los meses de enero y febrero, siempre que el docente tenga más de seis meses continuos de servicio en el mismo establecimiento.
 
 Artículo 75 bis.- La regla dispuesta en el artículo anterior será igualmente aplicable por los meses de diciembre, enero y febrero a los trabajadores que se hayan desempeñado a lo menos durante seis meses en forma continua como manipuladores de alimentos para empresas que presten los servicios de alimentación en establecimientos de educación parvularia, escolar y preescolar de conformidad con la ley Nº 19.886, y cuyos contratos de trabajo se encontraren vigentes al mes de noviembre.
 Asimismo, si el contrato de los trabajadores señalados en el inciso anterior terminare por aplicación de la causal contenida en el inciso primero del artículo 161, el trabajador tendrá derecho, además de la indemnización por años de servicio respectiva, a las remuneraciones correspondientes a la totalidad del plazo que va entre la fecha de terminación y el día anterior al mes de inicio del siguiente año escolar, siempre que el contrato hubiere estado vigente a lo menos por seis meses en forma continua dentro del respectivo año escolar.
