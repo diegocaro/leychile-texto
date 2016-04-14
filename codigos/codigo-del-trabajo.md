@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2016-04-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2016-04-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2016-04-01
-fetched_at: 2026-08-03T03:19:21.967344+00:00
+version_date: 2016-04-14
+fetched_at: 2026-08-03T03:19:39.982345+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -441,6 +441,10 @@ El tiempo para realizar los exámenes, señalado en el inciso anterior, será co
 Para el ejercicio de este derecho, los trabajadores deberán dar aviso al empleador con una semana de anticipación a la realización de los exámenes; asimismo, deberán presentar con posterioridad a éstos, los comprobantes suficientes que acrediten que se los realizaron en la fecha estipulada.
 El tiempo en el que los trabajadores se realicen los exámenes, será considerado como trabajado para todos los efectos legales; asimismo, este permiso no podrá ser compensado en dinero, ni durante ni al término de la relación laboral, entendiéndose por no escrita cualquier estipulación en contrario.
 Si los trabajadores estuvieren afectos a un instrumento colectivo que considerare un permiso análogo, se entenderá cumplida la obligación legal por parte del empleador.
+
+Art. 66 ter.- Los trabajadores dependientes regidos por el Código del Trabajo y aquellos regidos por el Estatuto Administrativo contenido en la ley Nº18.834, y por el Estatuto Administrativo para Funcionarios Municipales contenido en la ley Nº 18.883, que se desempeñen adicionalmente como voluntarios del Cuerpo de Bomberos estarán facultados para acudir a llamados de emergencia ante accidentes, incendios u otros siniestros que ocurran durante su jornada laboral.
+El tiempo que estos trabajadores destinen a la atención de estas emergencias será considerado como trabajado para todos los efectos legales. El empleador no podrá, en ningún caso, calificar esta salida como intempestiva e injustificada para configurar la causal de abandono de trabajo establecida en el artículo 160, número 4, letra a), de este Código, o como fundamento de una investigación sumaria o de un sumario administrativo, en su caso.
+El empleador podrá solicitar a la Comandancia de Bomberos respectiva la acreditación de la circunstancia señalada en este artículo.
 
 Art. 67. Los trabajadores con más de un año de servicio tendrán derecho a un feriado anual de quince días hábiles, con remuneración íntegra que se otorgará de acuerdo con las formalidades que establezca el reglamento.
 Los trabajadores que presten servicios en la Duodécima Región de Magallanes y de la Antártica Chilena, en la Undécima Región de Aysén del General Carlos Ibáñez del Campo, y en la Provincia de Palena, tendrán derecho a un feriado anual de veinte días hábiles.
