@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2016-04-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2016-05-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2016-04-14
-fetched_at: 2026-08-03T03:19:39.982345+00:00
+version_date: 2016-05-01
+fetched_at: 2026-08-03T03:19:58.111129+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1661,19 +1661,19 @@ d) se realice en horas extraordinarias de trabajo, y
 e) la autoridad competente declare inconveniente para el estado de gravidez.
 
 Art. 203. Las empresas que ocupan veinte o más trabajadoras de cualquier edad o estado civil, deberán tener salas anexas e independientes del local de trabajo, en donde las mujeres puedan dar alimento a sus hijos menores de dos años y dejarlos mientras estén en el trabajo. Igual obligación corresponderá a los centros o complejos comerciales e industriales y de servicios administrados bajo una misma razón social o personalidad jurídica, cuyos establecimientos ocupen entre todos, veinte o más trabajadoras. El mayor gasto que signifique la sala cuna se entenderá común y deberán concurrir a él todos los establecimientos en la misma proporción de los demás gastos de ese carácter.
-Las salas cunas deberán reunir las condiciones de higiene y seguridad que determine el reglamento.
-Con todo, los establecimientos de las empresas a que se refiere el inciso primero, y que se encuentren en una misma área geográfica, podrán, previo informe favorable de la Junta Nacional de Jardines Infantiles, construir o habilitar y mantener servicios comunes de salas cunas para la atención de los niños de las trabajadoras de todos ellos.
+Las salas cunas señaladas en el inciso anterior deberán contar con autorización de funcionamiento o reconocimiento oficial del Estado, ambos otorgados por el Ministerio de Educación.
+Con todo, los establecimientos de las empresas a que se refiere el inciso primero, y que se encuentren en una misma área geográfica, podrán, previa autorización del Ministerio de Educación, construir o habilitar y mantener servicios comunes de salas cunas para la atención de los niños de las trabajadoras de todos ellos.
 En los períodos de vacaciones determinados por el Ministerio de Educación, los establecimientos educacionales podrán ser facilitados para ejercer las funciones de salas cunas. Para estos efectos, la Junta Nacional de Jardines Infantiles podrá celebrar convenios con el Servicio Nacional de la Mujer, las municipalidades u otras entidades públicas o privadas.
 Se entenderá que el empleador cumple con la obligación señalada en este artículo si paga los gastos de sala cuna directamente al establecimiento al que la mujer trabajadora lleve sus hijos menores de dos años.
-El empleador designará la sala cuna a que se refiere el inciso anterior, de entre aquellas que cuenten con la autorización de la Junta Nacional de Jardines Infantiles.
+El empleador designará la sala cuna a que se refiere el inciso anterior, de entre aquellas que cuenten con la autorización de funcionamiento o reconocimiento oficial del Ministerio de Educación.
 INCISO SUPRIMIDO
 El empleador pagará el valor de los pasajes por el transporte que deba emplearse para la ida y regreso del menor al respectivo establecimiento.
 El trabajador o trabajadora a quienes, por sentencia judicial, se le haya confiado el cuidado personal del menor de dos años, tendrá los derechos establecidos en este artículo si éstos ya fueran exigibles a su empleador.
 Lo anterior se aplicará, además, si la madre fallece, salvo que el padre haya sido privado del cuidado personal por sentencia judicial.
 
-Art. 204 Cuando se trate de construir o transformar salas cunas, los propietarios de los establecimientos respectivos deberán someter previamente los planos a la aprobación de la comisión técnica del plan nacional de edificaciones escolares del Ministerio de Educación Pública.
+Art. 204. Derogado
 
-Art. 205. El mantenimiento de las salas cunas será de costo exclusivo del empleador, quien deberá tener una persona competente a cargo de la atención y cuidado de los niños, la que deberá estar, preferentemente, en posesión del certificado de auxiliar de enfermería otorgado por la autoridad competente.
+Artículo 205.- El mantenimiento de las salas cunas será de costo exclusivo del o los empleadores, quienes deberán tener una persona competente a cargo de la atención y cuidado de los niños, en los términos establecidos en las normas sobre autorización de funcionamiento o reconocimiento oficial, según corresponda.
 
 Art. 206. Las trabajadoras tendrán derecho a disponer, a lo menos, de una hora al día, para dar alimento a sus hijos menores de dos años. Este derecho podrá ejercerse de alguna de las siguientes formas a acordar con el empleador:
 a) En cualquier momento dentro de la jornada de trabajo.
@@ -1687,7 +1687,7 @@ En caso que el padre y la madre sean trabajadores, ambos podrán acordar que sea
 Con todo, el padre trabajador ejercerá el referido derecho cuando tuviere la tuición del menor por sentencia judicial ejecutoriada, cuando la madre hubiere fallecido o estuviere imposibilitada de hacer uso de él.
 Asimismo, ejercerá este derecho la trabajadora o el trabajador al que se le haya otorgado judicialmente la tuición o el cuidado personal de conformidad con la ley Nº19.620 o como medida de protección de acuerdo con el número 2 del artículo 30 de la Ley de Menores. Este derecho se extenderá al cónyuge, en los mismos términos señalados en los incisos anteriores.
 
-Art. 207. Corresponde a la Junta Nacional de Jardines Infantiles y a la Dirección del Trabajo velar por el cumplimiento de las disposiciones de este título.
+Artículo 207.- Corresponde a la Dirección del Trabajo velar por el cumplimiento de las disposiciones de este Título, sin perjuicio de las atribuciones que en materia de fiscalización de establecimientos de educación parvularia le competen a la Superintendencia de Educación.
 Cualquiera persona puede denunciar ante estos organismos las infracciones de que tuviere conocimiento.
 Las acciones y derechos provenientes de este título se extinguirán en el término de sesenta días contados desde la fecha de expiración del período a que se refieren los respectivos derechos.
 
@@ -1695,11 +1695,16 @@ Artículo 207 bis. En el caso de contraer matrimonio, todo trabajador tendrá de
 Este permiso se podrá utilizar, a elección del trabajador, en el día del matrimonio y en los días inmediatamente anteriores o posteriores al de su celebración.
 El trabajador deberá dar aviso a su empleador con treinta días de anticipación y presentar dentro de los treinta días siguientes a la celebración el respectivo certificado de matrimonio del Servicio de Registro Civil e Identificación.
 
-Art. 208. Las infracciones a las disposiciones de este título se sancionarán con multa de catorce a setenta unidades tributarias mensuales en vigor a la fecha de cometerse la infracción, multa que se duplicará en caso de reincidencia.
+NOTA
+Art. 208. Las infracciones a las disposiciones de este título se sancionarán con multa de catorce a setenta unidades tributarias mensuales en vigor a la fecha de cometerse la infracción, multa que se duplicará en ca
+NOTA
+so de reincidencia.
 En igual sanción incurrirán los empleadores por cuya culpa las instituciones que deben pagar las prestaciones establecidas en este título no lo hagan; como asimismo aquellos empleadores que infrinjan lo dispuesto en el inciso final del artículo 194.
 Sin perjuicio de la sanción anterior, será de cargo directo de dichos empleadores el pago de los subsidios que correspondieren a sus trabajadoras.
-Los recursos que se obtengan por la aplicación de este artículo, deberán ser traspasados por el Fisco a la Junta Nacional de Jardines Infantiles, dentro de los treinta días siguientes al respectivo ingreso.
-La fiscalización del cumplimiento de las disposiciones de este artículo corresponderá a la Dirección del Trabajo y a la Junta Nacional de Jardines Infantiles.
+NOTA
+La fiscalización del cumplimiento de las disposiciones de este artículo corresponderá a la Dirección del Trabajo , sin perjuicio de las atribuciones que en materia de fiscalización de establecimientos de educación parvularia le competen a la Superintendencia de Educación.
+NOTA
+El numeral 5 letra a, de la Ley 20832, Educación, publicada el 05.05.2015, eliminó el inciso penúltimo de este artículo.
 
 ### TITULO III
 DEL SEGURO SOCIAL CONTRA RIESGOS DE ACCIDENTES DEL TRABAJO Y ENFERMEDADES PROFESIONALES
