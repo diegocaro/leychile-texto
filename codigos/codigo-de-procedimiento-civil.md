@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2015-10-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2016-06-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2015-10-22
-fetched_at: 2026-08-03T03:16:28.155072+00:00
+version_date: 2016-06-19
+fetched_at: 2026-08-03T03:20:34.158758+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -14,6 +14,8 @@ derogada: false
 
 CODIGO DE PROCEDIMIENTO CIVIL
 Descargar Código de Procedimiento Civil Versión Original (PDF, 39 M)
+NOTA
+El Artículo primero transitorio de la Ley 20886, publicada el 18.12.2015, dispone que las modificaciones introducidas a la presente norma, entrarán en vigencia a contar de seis meses desde la fecha de su publicación, para todas las causas que se tramiten ante los tribunales que ejerzan jurisdicción en los territorios jurisdiccionales de las Cortes de Apelaciones de Arica, Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Chillán, Temuco, Valdivia, Puerto Montt, Coihaique y Punta Arenas.
 
 Que aprueba el Código de Procedimiento Civil
 Por cuanto el Congreso Nacional ha dado su
@@ -151,31 +153,28 @@ El Art. 64 del Decreto con Fuerza de Ley 1, Hacienda, publicado el 07.08.1993, d
 DE LA FORMACION DEL PROCESO, DE SU CUSTODIA Y DE SU
 COMUNICACION A LAS PARTES
 
-Art. 29 (30) Se formará el proceso con los escritos, documentos y actuaciones de toda especie que se presenten o verifiquen en el juicio.
-Ninguna pieza del proceso podrá retirarse sin que previamente lo decrete el tribunal que conoce de la causa.
+Artículo 29.- Se formará la carpeta electrónica con los escritos, documentos, resoluciones, actas de audiencias y actuaciones de toda especie que se presenten o verifiquen en el juicio. Estos antecedentes serán registrados y conservados íntegramente en orden sucesivo conforme a su fecha de presentación o verificación a través de cualquier medio que garantice la fidelidad, preservación y reproducción de su contenido, lo que se regulará mediante auto acordado de la Corte Suprema.
+La carpeta electrónica estará disponible en el portal de internet del Poder Judicial, salvo que la ley establezca lo contrario o habilite al tribunal para restringir su publicidad, o la de alguna parte de ella.
+Ninguna pieza de la carpeta electrónica podrá eliminarse sin que previamente lo decrete el tribunal que conoce de la causa.
 
-Art. 30 (31). Todo escrito deberá presentarse al tribunal de la causa por conducto del secretario respectivo y se encabezará con una suma que indique su contenido o el trámite de que se trata.
+Artículo 30.- Los escritos y documentos se presentarán por vía electrónica conforme se dispone en los artículos 5º y 6º, respectivamente, de la Ley General sobre Tramitación Electrónica de los Procedimientos Judiciales.
+Los escritos se encabezarán con una suma que indique su contenido o el trámite de que se trata.
 
-Art. 31 (32). Junto con cada escrito deberán acompañarse en papel simple tantas copias cuantas sean las partes a quienes debe notificarse la providencia que en él recaiga, y, confrontadas dichas copias por el secretario, se entregarán a la otra u otras partes, o se dejarán en la secretaría a disposición de ellas cuando la notificación no se haga personalmente o por cédula.
-Se exceptúan de esta disposición los escritos que tengan por objeto personarse en el juicio, acusar rebeldías, pedir apremios, prórroga de términos, señalamiento de visitas, su suspensión y cualesquiera otras diligencias de mera tramitación.
-Si no se entregan las copias o si resulta disconformidad substancial entre aquéllas y el escrito original, no le correrá plazo a la parte contraria y deberá el tribunal, de plano, imponer una multa de un cuarto a un sueldo vital.
-El tribunal ordenará, además, que la parte acompañe las copias dentro de tercero día, bajo apercibimiento de tener por no presentado el escrito.
-Las resoluciones que se dicten en conformidad a este artículo serán inapelables.
+Art. 31 (32). Derogado.
 
 Art. 32 (33). Entregado un escrito al secretario, deberá éste en el mismo día estampar en cada foja la fecha y su media firma, o un sello autorizado por la respectiva Corte de Apelaciones y que designe la oficina y la fecha de la presentación. Deberá, además, dar recibo de los documentos que se le entreguen, siempre que lo exija la parte que los presenta, sin que pueda cobrar derecho alguno por los servicios a que este artículo se refiere.
 
-Art. 33 (34). Todo escrito será presentado por el secretario al tribunal para su despacho el mismo día en que se le entregue, o al día siguiente hábil si la entrega se hace después de la hora designada al efecto. En casos urgentes podrá el interesado recabar el despacho inmediato aun después de la hora designada.
-Los secretarios letrados de los juzgados civiles dictarán por sí solos los decretos, providencias o proveídos, resoluciones que serán autorizadas por el oficial 1°. La reposición, en su caso, será resuelta por el juez.
+Artículo 33.- Los secretarios letrados de los juzgados civiles podrán dictar por sí solos las sentencias interlocutorias, autos y decretos, providencias o proveídos, salvo cuando ello pudiere importar poner término al juicio o hacer imposible su continuación. La reposición que sea procedente en contra de estas resoluciones, en su caso, será resuelta por el juez.
 
-Art. 34 (35). Todas las piezas que deben formar el proceso, en conformidad al artículo 29, se irán agregando sucesivamente según el orden de su presentación. Al tiempo de agregarlas, el secretario numerará cada foja en cifras y en letras. Se exceptúan las piezas que, por su naturaleza, no puedan agregarse o que por motivos fundados se manden reservar fuera del proceso.
+Art. 34 (35). Todas las piezas que deben formar la carpeta electrónica se irán agregando sucesivamente según el orden de su presentación. El sistema de tramitación electrónica del Poder Judicial numerará automáticamente cada pieza de la carpeta electrónica en cifras y letras. Se exceptúan las piezas que, por su naturaleza, no puedan agregarse o que por motivos fundados se manden reservar fuera del proceso.
 
-Art. 35 (36). Siempre que se desglosen una o más fojas del proceso, deberá colocarse en su lugar una nueva foja con la indicación del decreto que ordenó el desglose y del número y naturaleza de las piezas desglosadas. No se alterará, sin embargo, la numeración de las piezas que queden en el proceso, y se conservará también la de las que se hayan separado, en el nuevo expediente de que pasen a formar parte, agregándose la que en éste les corresponda.
+Art. 35 (36). Derogado.
 
-Artículo 36.- El proceso se mantendrá en la oficina del secretario bajo su custodia y responsabilidad. Los autos no podrán retirarse de la secretaría sino por las personas y en los casos expresamente contemplados en la ley. Corresponderá al secretario velar por el estricto cumplimiento de lo establecido en el artículo 393 del Código Orgánico de Tribunales.
+Artículo 36.- Las piezas que se presenten al tribunal se mantendrán bajo su custodia y responsabilidad. Éstas no podrán retirarse sino por las personas y en los casos expresamente contemplados en la ley. Corresponderá al tribunal velar por el estricto cumplimiento de lo establecido en el artículo 393 del Código Orgánico de Tribunales.
 
-Art. 37 (40). Siempre que los tribunales pidan o hayan de oír dictamen por escrito del respectivo fiscal judicial o de los defensores públicos, el secretario entregará el proceso a aquellos funcionarios, exigiendo el correspondiente recibo. Lo mismo se observará cuando haya de remitirse el proceso a una oficina distinta de aquella en que se ha formado.
-Si los funcionarios a quienes se pide dictamen retardan la devolución del proceso, podrá el tribunal señalarles un plazo razonable para que la efectúen, y ordenar a su vencimiento que se recojan por el secretario los autos.
-En aquellos casos en que otro tribunal requiera la remisión del expediente original o de algún cuaderno o piezas del proceso, el trámite se cumplirá remitiendo, a costa del peticionario o de la parte que hubiere interpuesto el recurso o realizado la gestión que origina la petición, las copias o fotocopias respectivas. Estas deberán ser debidamente certificadas, en cada hoja, por el secretario del tribunal. Se enviará el expediente original sólo en caso que haya imposibilidad para sacar fotocopias en el lugar de asiento del tribunal, lo que certificará el secretario. En casos urgentes o cuando el tribunal lo estime necesario, por resolución fundada, o cuando el expediente tenga más de doscientas cincuenta fojas, podrá remitirse el original.
+Artículo 37.- Cuando los tribunales pidan o hayan de oír dictamen por escrito del respectivo fiscal judicial o de los defensores públicos, les enviarán comunicación de la carpeta electrónica a la que deben acceder electrónicamente.
+Si estos funcionarios retardan dicho dictamen, podrá el tribunal señalarles un plazo razonable para que lo envíen o agreguen a la carpeta electrónica.
+En aquellos casos en que otro tribunal requiera la remisión del expediente original o de algún cuaderno o pieza del proceso, el trámite se cumplirá enviando la correspondiente comunicación de la carpeta electrónica a la que deben acceder a través del sistema de tramitación electrónica del Poder Judicial. Lo mismo se aplicará cada vez que la ley ordene la remisión, devolución o envío del proceso o de cualquiera de sus piezas a otro tribunal.
 
 ### Título VI
 DE LAS NOTIFICACIONES
@@ -203,7 +202,7 @@ En caso que la morada o el lugar donde pernocta o el lugar donde habitualmente e
 
 Art. 45 (48). La diligencia de notificación, en el caso del artículo precedente, se extenderá en la forma que determina el artículo 43, siendo obligada a subscribirla la persona que reciba las copias, si puede hacerlo, dejándose testimonio de su nombre, edad, profesión y domicilio.
 
-Art. 46 (49). Cuando la notificación se efectúe en conformidad al artículo 44, el ministro de fe deberá dar aviso de ella al notificado, dirigiéndole con tal objeto carta certificada por correo, en el plazo de dos días contado desde la fecha de la notificación o desde que se reabran las oficinas de correo, si la notificación se hubiere efectuado en domingo o festivo. La carta podrá consistir en tarjeta abierta que llevará impreso el nombre y domicilio del receptor y deberá indicar el tribunal, el número de ingreso de la causa y el nombre de las partes. En el testimonio de la notificación deberá expresarse, además, el hecho del envío, la fecha, la oficina de correo donde se hizo y el número de comprobante emitido por tal oficina. Este comprobante deberá ser pegado al expediente a continuación del testimonio. La omisión en el envío de la carta no invalidará la notificación, pero hará responsable al infractor de los daños y perjuicios que se originen y el tribunal, previa audiencia del afectado, deberá imponerle alguna de las medidas que se señalan en los números 2, 3 y 4 del artículo 532 del Código Orgánico de Tribunales.
+Art. 46 (49). Cuando la notificación se efectúe en conformidad al artículo 44, el ministro de fe deberá dar aviso de ella al notificado, dirigiéndole con tal objeto carta certificada por correo, en el plazo de dos días contado desde la fecha de la notificación o desde que se reabran las oficinas de correo, si la notificación se hubiere efectuado en domingo o festivo. La carta podrá consistir en tarjeta abierta que llevará impreso el nombre y domicilio del receptor y deberá indicar el tribunal, el número de ingreso de la causa y el nombre de las partes. En el testimonio de la notificación deberá expresarse, además, el hecho del envío, la fecha, la oficina de correo donde se hizo y el número de comprobante emitido por tal oficina. Este comprobante deberá ser agregado al expediente a continuación del testimonio. La omisión en el envío de la carta no invalidará la notificación, pero hará responsable al infractor de los daños y perjuicios que se originen y el tribunal, previa audiencia del afectado, deberá imponerle alguna de las medidas que se señalan en los números 2, 3 y 4 del artículo 532 del Código Orgánico de Tribunales.
 
 Art. 47 (50). La forma de notificación de que tratan los artículos precedentes se empleará siempre que la ley disponga que se notifique a alguna persona para la validez de ciertos actos, o cuando los tribunales lo ordenen expresamente.
 Podrá, además, usarse en todo caso.
@@ -215,12 +214,10 @@ Se pondrá en los autos testimonio de la notificación con expresión del día y
 Art. 49 (52). Para los efectos del artículo anterior, todo litigante deberá, en su primera gestión judicial, designar un domicilio conocido dentro de los límites urbanos del lugar en que funcione el tribunal respectivo, y esta designación se considerará subsistente mientras no haga otra la parte interesada, aun cuando de hecho cambie su morada.
 En los juicios seguidos ante los tribunales inferiores el domicilio deberá fijarse en un lugar conocido dentro de la jurisdicción del tribunal correspondiente, pero si el lugar designado se halla a considerable distancia de aquel en que funciona el juzgado, podrá éste ordenar, sin más trámites y sin ulterior recurso, que se designe otro dentro de límites más próximos.
 
-Art. 50 (53). Las resoluciones no comprendidas en los artículos precedentes se entenderán notificadas a las partes desde que se incluyan en un estado que deberá formarse y fijarse diariamente en la secretaría de cada tribunal con las indicaciones que el inciso siguiente expresa.
-Se encabezará el estado con la fecha del día en que se forme, y se mencionarán por el número de orden que les corresponda en el rol general, expresado en cifras y en letras, y además por los apellidos del demandante y del demandado o de los primeros que figuren con dicho carácter si son varios, todas las causas en que se haya dictado resolución en aquel día, y el número de resoluciones dictadas en cada una de ellas. Se agregará el sello y firma del secretario.
-Estos estados se mantendrán durante tres días en un lugar accesible al público, cubiertos con vidrios o en otra forma que impida hacer alteraciones en ellos; y, encuadernados por orden rigoroso de fechas, se archivarán mensualmente.
-De las notificaciones hechas en conformidad a este artículo, se pondrá testimonio en los autos. Los errores u omisiones en dicho testimonio no invalidarán la notificación y sólo serán sancionados con multa de media a una unidad tributaria mensual, a petición de parte o de oficio.
-NOTA
-La letra b) del N° 6 del Artículo primero de la Ley 18705, publicada el 24.05.1988, derogó los incisos quinto y sexto de la presente norma.
+Artículo 50.- Las resoluciones no comprendidas en los artículos precedentes se entenderán notificadas a las partes desde que se incluyan en un estado que deberá formarse electrónicamente, el que estará disponible diariamente en la página web del Poder Judicial con las indicaciones que el inciso siguiente expresa.
+Se encabezará el estado con la fecha del día en que se forme y se mencionarán por el número de orden que les corresponda en el rol general, expresado en cifras y en letras y, además, por los apellidos del demandante y del demandado o de los primeros que figuren con dicho carácter si son varios, todas las causas en que se haya dictado resolución en aquel día y el número de resoluciones dictadas en cada una de ellas.
+Estos estados se mantendrán en la página web del Poder Judicial durante al menos tres días en una forma que impida hacer alteraciones en ellos. De las notificaciones realizadas en conformidad a este artículo se dejará constancia en la carpeta electrónica el mismo día en que se publique el estado.
+La notificación efectuada conforme a este artículo será nula en caso que no sea posible la visualización de la resolución referida en el estado diario por problemas técnicos del sistema de tramitación electrónica del Poder Judicial, lo que podrá declararse de oficio o a petición de parte.
 
 Art. 51 (54). Para los efectos del artículo precedente, a todo proceso que se inicie se asignará un número de orden en la primera resolución que se dicte y con él figurará en el rol del tribunal, hasta su terminación.
 
@@ -238,7 +235,7 @@ Asimismo, la parte que solicitó la nulidad de una notificación, por el solo mi
 
 Art. 56 (59). Las notificaciones que se hagan a terceros que no sean parte en el juicio, o a quienes no afecten sus resultados, se harán personalmente o por cédula.
 
-Art. 57. Las diligencias de notificación que se estampen en los procesos, no contendrán declaración alguna del notificado, salvo que la resolución ordene o, por su naturaleza, requiera esa declaración.
+Art. 57. Las diligencias de notificación que se agreguen a la carpeta electrónica, no contendrán declaración alguna del notificado, salvo que la resolución ordene o, por su naturaleza, requiera esa declaración.
 
 Art. 58 (61). Las funciones que en este Título se encomiendan a los secretarios de tribunales, podrán ser desempeñadas bajo la responsabilidad de éstos, por el oficial primero de la secretaría.
 En aquellos lugares en que no exista receptor judicial, la notificación podrá ser hecha por el Notario Público u Oficial del Registro Civil que exista en la localidad. En todo caso, el juez siempre podrá designar como ministro de fe ad hoc a un empleado del tribunal, para el solo efecto de practicar la notificación.
@@ -253,9 +250,10 @@ Art. 60 (63). Pueden los tribunales, a solicitud de parte, habilitar para la pr�
 Se estimarán urgentes para este caso, las actuaciones cuya dilación pueda causar grave perjuicio a los interesados, o a la buena administración de justicia, o hacer ilusoria una providencia judicial.
 El tribunal apreciará la urgencia de la causa y resolverá sin ulterior recurso.
 
-Art. 61 (64). De toda actuación deberá dejarse testimonio escrito en el proceso, con expresión del lugar, día, mes y año en que se verifique, de las formalidades con que se haya procedido, y de las demás indicaciones que la ley o el tribunal dispongan.
-A continuación y previa lectura, firmarán todas las personas que hayan intervenido; y si alguna no sabe o se niega a hacerlo, se expresará esta circunstancia.
-La autorización del funcionario a quien corresponda dar fe o certificado del acto es esencial para la validez de la actuación.
+Art. 61 (64). De toda actuación deberá dejarse testimonio fidedigno en la carpeta electrónica, con expresión del lugar, día, mes y año en que se verifique, de las formalidades con que se haya procedido, y de las demás indicaciones que la ley o el tribunal dispongan.
+A continuación y previa lectura, firmarán todas las personas que hayan intervenido; y si alguna no sabe o se niega a hacerlo, se expresará esta circunstancia. El acta correspondiente se digitalizará e incorporará a la carpeta electrónica inmediatamente.
+La autorización del funcionario a quien corresponda dar fe o certificado del acto es esencial para la validez de la actuación en todos aquellos casos en que una ley expresamente lo disponga.
+En los casos de contarse con los recursos técnicos necesarios, podrán registrarse las audiencias en que participe el tribunal mediante audio digital, video u otro soporte tecnológico equivalente, el que se agregará a la carpeta electrónica inmediatamente.
 
 Art. 62 (65). Siempre que en una actuación haya de tomarse juramento a alguno de los concurrentes, se le interrogará por el funcionario autorizante al tenor de la siguiente fórmula: "¿Juráis por Dios decir verdad acerca de lo que se os va a preguntar?", o bien, "¿Juráis por Dios desempeñar fielmente el cargo que se os confía?", según sea la naturaleza de la actuación. El interrogado deberá responder: "Sí juro".
 
@@ -307,7 +305,7 @@ Por este mismo conducto y en la misma forma se recibirán las comunicaciones de 
 NOTA:
 Véase la Convención Interamericana sobre Exhortos o Cartas Rogatorias, promulgada por Decreto 644, Relaciones Exteriores, publicado el 18.10.1976.
 
-Art. 77 (80). Toda comunicación dirigida por un tribunal a otro deberá ser conducida a su destino por los correos del Estado, pudiendo, en casos especiales calificados por el tribunal, entregarse a la parte que la haya solicitado, para que gestione su cumplimiento.
+Artículo 77.- Sin perjuicio de lo señalado en el artículo precedente, toda comunicación dirigida por un tribunal a otro deberá ser conducida a su destino por vía del sistema de tramitación electrónica del Poder Judicial, y no siendo posible lo anterior, por el medio de comunicación idóneo más expedito.
 
 ### Título VIII
 DE LAS REBELDIAS
@@ -475,7 +473,7 @@ DEL PRIVILEGIO DE POBREZA
 NOTA
 Véase el Título XII del Código Orgánico de Tribunales y el Auto Acordado de la Corte de Apelaciones de Santiago, publicado el 30.05.2000, para el nombramiento de Receptores de las Corporaciones de Asistencia Judicial y de las Instituciones facultadas por ley para otorgar privilegio de pobreza.
 
-Art. 129 (137). En las gestiones para obtener privilegio de pobreza se usará el papel que corresponda; pero los derechos que se causen sólo podrán reclamarse en caso de que no se dé lugar a la solicitud.
+Art. 129 (137). En las gestiones para obtener privilegio de pobreza, los derechos que se causen sólo podrán reclamarse en caso de que no se dé lugar a la solicitud.
 NOTA
 Véase el Título XVII del Código Orgánico de Tribunales, sobre Asistencia Judicial y del Privilegio de Pobreza.
 
@@ -596,7 +594,7 @@ Art. 162 (169). Las causas se fallarán en los tribunales unipersonales tan pron
 Exceptúanse las cuestiones sobre deserción de recursos, depósito de personas, alimentos provisionales, competencia, acumulaciones, recusaciones, desahucio, juicios sumarios y ejecutivos, denegación de justicia o de prueba y demás negocios que por la ley, o por acuerdo del tribunal fundado en circunstancias calificadas, deban tener preferencia, las cuales se antepondrán a los otros asuntos desde que estén en estado.
 La sentencia definitiva en el juicio ordinario deberá pronunciarse dentro del término de sesenta días, contados desde que la causa quede en estado de sentencia.
 Si el juez no dicta sentencia dentro de este plazo, será amonestado por la Corte de Apelaciones respectiva, y si a pesar de esta amonestación no expide el fallo dentro del nuevo plazo que ella le designe, incurrirá en la pena de suspensión de su empleo por el término de treinta días, que será decretada por la misma Corte.
-Los secretarios anotarán en el estado a que se refiere el artículo 50, el hecho de haberse dictado sentencia definitiva, el día de su dictación y el envío de aviso a las partes. Estas diligencias no importan notificación y no se aplicarán a las resoluciones que recaigan en los actos judiciales no contenciosos.
+El tribunal dejará constancia en el estado diario electrónico a que se refiere el artículo 50 y en la carpeta electrónica, del hecho de haberse dictado sentencia definitiva, la que será notificada en la forma correspondiente.
 
 Art. 163 (170). En los tribunales colegiados se formará el día último hábil de cada semana una tabla de los asuntos que verá el tribunal en la semana siguiente, con expresión del nombre de las partes, en la forma en que aparezca en la carátula del respectivo expediente, del día en que cada uno deba tratarse y del número de orden que le corresponda.
 Esta tabla se fijará en lugar visible, y antes de que comience a tratar cada negocio, lo anunciará el tribunal, haciendo colocar al efecto en lugar conveniente el respectivo número de orden, el cual se mantendrá fijo hasta que se pase a otro asunto.
@@ -605,15 +603,20 @@ Véase el Auto Acordado de la Corte de Apelaciones de Santiago, publicado el 19.
 
 Art. 164 (171). Las causas se verán en el día señalado. Si concluida la hora de audiencia, queda pendiente alguna y no se acuerda prorrogar el acto, se continuará en los días hábiles inmediatos hasta su terminación, sin necesidad de ponerla nuevamente en tabla.
 
-Artículo 165.- Sólo podrá suspenderse en el día designado al efecto la vista de una causa, o retardarse dentro del mismo día:
-1°. Por impedirlo el examen de las causas colocadas en lugar preferente, o la continuación de la vista de otro pleito pendiente del día anterior;
+Artículo 165.- Sólo podrá suspenderse en el día designado al efecto
+NOTA
+la vista de una causa, o retardarse dentro del mismo día:
+1°. Por impedirlo el examen de las causas colocadas en
+NOTA
+lugar preferente, o la continuación de la vista de otro pleito pendiente del día anterior;
 2°. Por falta de miembros del tribunal en número suficiente para pronunciar sentencia;
 3°. Por muerte del abogado patrocinante, del procurador o del litigante que gestione por sí en el pleito.
 En estos casos, la vista de la causa se suspenderá por quince días contados desde la notificación al patrocinado o mandante de la muerte del abogado o del procurador, o desde la muerte del litigante que obraba por sí mismo, en su caso;
 4°. Por muerte del cónyuge o conviviente civil o de alguno de los descendientes o ascendientes del abogado defensor, ocurrida dentro de los ocho días anteriores al designado para la vista;
 5°. Por solicitarlo alguna de las partes o pedirlo de común acuerdo los procuradores o los abogados de ellas.
 Cada parte podrá hacer uso de este derecho por una sola vez. En todo caso, sólo podrá ejercitarse este derecho hasta por dos veces, cualquiera que sea el número de partes litigantes, obren o no por una sola cuerda. La suspensión de común acuerdo procederá por una sola vez.
-El escrito en que se solicite la suspensión deberá ser presentado hasta las doce horas del día hábil anterior a la audiencia correspondiente. La solicitud presentada fuera de plazo será rechazada de plano. La sola presentación del escrito extingue el derecho a la suspensión aun si la causa no se ve por cualquier otro motivo. Este escrito pagará en la Corte Suprema un impuesto especial de media unidad tributaria mensual y en las Cortes de Apelaciones de un cuarto de unidad tributaria mensual y se pagará en estampillas de impuesto fiscal que se pegarán en el escrito respectivo.
+La sola presentación del escrito extingue el derecho a la suspensión aun si la causa no se ve por cualquier otro motivo. Este escrito pagará en la Corte Suprema un impuesto especial de media unidad tributaria mensual y en las Cortes de Apelaciones, de un cuarto de unidad tributaria mensual. Este pago se hará electrónicamente a través de un sistema informático dispuesto al efecto y se asociará a la causa respectiva mediante el comprobante de pago o código de validación o, en caso que lo anterior no fuere posible por cualquier motivo, a través de estampillas de impuesto fiscal que se pegarán en el escrito respectivo que se presentará materialmente.
+Para los efectos del artículo 198 del Código Orgánico de Tribunales, el pago de impuestos para la recusación de abogados integrantes se hará de la misma forma dispuesta en el párrafo anterior.
 El derecho a suspender no procederá respecto del amparo;
 6°. Por tener alguno de los abogados otra vista o comparecencia a que asistir en el mismo día ante otro tribunal.
 El presidente respectivo podrá conceder la suspensión por una sola vez o simplemente retardar la vista, atendidas las circunstancias. En caso que un abogado tenga dos o más vistas en el mismo día y ante el mismo tribunal, en salas distintas, preferirá el amparo, luego la protección y en seguida la causa que se anuncie primero, retardándose o suspendiéndose las demás, según las circunstancias; y
@@ -638,7 +641,7 @@ Art. 168 (176). En los tribunales colegiados los decretos podrán dictarse por u
 NOTA
 Véase el Artículo 105 N° 3, del Código Orgánico de Tribunales.
 
-Art. 169 (192). Toda resolución, de cualquiera clase que sea, deberá expresar en letras la fecha y lugar en que se expida, y llevará al pie la firma del juez o jueces que la dicten o intervengan en el acuerdo.
+Art. 169 (192). Toda resolución, de cualquiera clase que sea, deberá expresar en letras la fecha y lugar en que se expida, y llevará al pie la firma electrónica avanzada del juez o jueces que la dicten o intervengan en el acuerdo.
 Cuando después de acordada una resolución y siendo varios los jueces se imposibilite alguno de ellos para firmarla, bastará que se exprese esta circunstancia en el mismo fallo.
 
 Art. 170 (193). Las sentencias definitivas de primera o de única instancia y las de segunda que modifiquen o revoquen en su parte dispositiva las de otros tribunales, contendrán:
@@ -656,7 +659,7 @@ Véase el Auto Acordado de la Corte Suprema, de 30 de septiembre de 1920, sobre 
 Art. 171 (194). En las sentencias interlocutorias y en los autos se expresarán, en cuanto la naturaleza del negocio lo permita, a más de la decisión del asunto controvertido, las circunstancias mencionadas en los números 4° y 5° del artículo precedente.
 
 Art. 172 (195). Cuando en un mismo juicio se ventilen dos o más cuestiones que puedan ser resueltas separada o parcialmente, sin que ello ofrezca dificultad para la marcha del proceso, y alguna o algunas de dichas cuestiones o parte de ellas, lleguen al estado de sentencia antes de que termine el procedimiento en las restantes, podrá el tribunal fallar desde luego las primeras.
-En este caso se formará cuaderno separado con compulsas de todas las piezas necesarias para dictar el fallo y ejecutarlo, a costa del que solicite la separación.
+En este caso se formará cuaderno electrónico separado con las piezas necesarias para dictar fallo y ejecutarlo.
 
 Art. 173 (196). Cuando una de las partes haya de ser condenada a la devolución de frutos o a la indemnización de perjuicios, y se ha litigado sobre su especie y monto, la sentencia determinará la cantidad líquida que por esta causa deba abonarse, o declarará sin lugar el pago, si no resultan probados la especie y el monto de lo que se cobra, o, por lo menos, las bases que deban servir para su liquidación al ejecutarse la sentencia.
 En el caso de que no se haya litigado sobre la especie y el monto de los frutos o perjuicios, el tribunal reservará a las partes el derecho de discutir esta cuestión en la ejecución del fallo o en otro juicio diverso.
@@ -730,40 +733,34 @@ Art. 194 (217). Sin perjuicio de las excepciones expresamente establecidas en la
 
 Art. 195 (218). Fuera de los casos determinados en el artículo precedente, la apelación deberá otorgarse en ambos efectos.
 
-Art. 196 (219). Si el tribunal inferior otorga apelación en el efecto devolutivo, debiendo concederla también en el suspensivo, la parte agraviada, dentro del plazo que establece el artículo 200, podrá pedir al superior que desde luego declare admitida la apelación en ambos efectos; sin perjuicio de que pueda solicitarse igual declaración, por vía de reposición, del tribunal que concedió el recurso.
+Art. 196 (219). Si el tribunal inferior otorga apelación en el efecto devolutivo, debiendo concederla también en el suspensivo, la parte agraviada, dentro del plazo de cinco días contado desde la fecha de la certificación a que se refiere el artículo 200, podrá pedir al superior que desde luego declare admitida la apelación en ambos efectos; sin perjuicio de que pueda solicitarse igual declaración, por vía de reposición, del tribunal que concedió el recurso.
 Lo mismo se observará cuando se conceda apelación en ambos efectos, debiendo otorgarse únicamente en el devolutivo, y cuando la apelación concedida sea improcedente. En este último caso podrá también de oficio el tribunal superior declarar sin lugar el recurso.
 Las declaraciones que haga el superior en conformidad a los dos incisos anteriores, se comunicarán al inferior para que se abstenga, o siga conociendo del negocio, según los casos.
 
-Artículo 197.- La resolución que conceda una apelación sólo en el efecto devolutivo deberá determinar las piezas del expediente que, además de la resolución apelada, deban compulsarse o fotocopiarse para continuar conociendo del proceso, si se trata de sentencia definitiva, o que deban enviarse al tribunal superior para la resolución del recurso, en los demás casos.
-El apelante, dentro de los cinco días siguientes a la fecha de notificación de esta resolución, deberá depositar en la secretaría del tribunal la cantidad de dinero que el secretario estime necesaria para cubrir el valor de las fotocopias o de las compulsas respectivas. El secretario deberá dejar constancia de esta circunstancia en el proceso, señalando la fecha y el monto del depósito. Se remitirán compulsas sólo en caso que exista imposibilidad para sacar fotocopias en el lugar de asiento del tribunal, lo que también certificará el secretario.
-Si el apelante no da cumplimiento a esta obligación, se le tendrá por desistido del recurso, sin más trámite.
+Artículo 197.- La resolución que conceda una apelación se entenderá notificada a las partes conforme al artículo 50. El tribunal remitirá electrónicamente al tribunal de alzada copia fiel de la resolución apelada, del recurso y de todos los antecedentes que fueren pertinentes para un acabado pronunciamiento sobre éste.
+Recibidos los antecedentes referidos en el inciso anterior, la Corte de Apelaciones procederá a la asignación de un número de ingreso. Acto seguido, formará un cuaderno electrónico separado para el conocimiento y fallo del recurso cuando él haya sido concedido en el solo efecto devolutivo. En el caso que la apelación fuere concedida en ambos efectos, el tribunal de alzada continuará la tramitación en la carpeta electrónica, la que estará disponible en el sistema de tramitación electrónica del tribunal de alzada correspondiente.
 
-Art. 198 (221). La remisión del proceso se hará por el tribunal inferior en el día siguiente al de la última notificación. En el caso del artículo anterior, podrá ampliarse este plazo por todos los días que, atendida la extensión de las copias que hayan de sacarse, estime necesario dicho tribunal.
+Art. 198 (221). Derogado.
 
-Art. 199 (222). La apelación de toda resolución que no sea sentencia definitiva se verá en cuenta, a menos que cualquiera de las partes, dentro del plazo para comparecer en segunda instancia solicite alegatos.
+Art. 199 (222). La apelación de toda resolución que no sea sentencia definitiva se verá en cuenta, a menos que cualquiera de las partes, dentro del plazo de cinco días contado desde la certificación a que se refiere el artículo 200, solicite alegatos.
 Vencido este plazo, el tribunal de alzada ordenará traer los autos en relación, si se hubieren solicitado oportunamente alegatos. De lo contrario, el Presidente de la Corte ordenará dar cuenta y procederá a distribuir, mediante sorteo, la causa entre las distintas salas en que funcione el tribunal.
 Las Cortes deberán establecer horas de funcionamiento adicional para el conocimiento y fallo de las apelaciones que se vean en cuenta.
 
-Art. 200 (223). Las partes tendrán el plazo de cinco días para comparecer ante el tribunal superior a seguir el recurso interpuesto, contado este plazo desde que se reciban los autos en la secretaría del tribunal de segunda instancia.
-Cuando los autos se remitan desde un tribunal de primera instancia que funcione fuera de la comuna en que resida el de alzada, se aumentará este plazo en la misma forma que el de emplazamiento para contestar demandas, según lo dispuesto en los artículo 258 y 259.
+Artículo 200.- El tribunal de alzada deberá certificar en la carpeta electrónica la recepción de la comunicación a que se refiere el artículo 197 y su fecha.
 
-Artículo 201.- Si la apelación se ha interpuesto fuera de plazo o respecto de resolución inapelable o no es fundada o no contiene peticiones concretas, el tribunal correspondiente deberá declararla inadmisible de oficio; y si el apelante no comparece dentro de plazo, deberá declarar su deserción previa certificación que el secretario deberá efectuar de oficio. La parte apelada, en todo caso, podrá solicitar la declaración pertinente, verbalmente o por escrito.
-Del fallo que, en estas materias, dicte el tribunal de alzada podrá pedirse reposición dentro de tercero día. La resolución que declare la deserción por la no comparecencia del apelante producirá sus efectos respecto de éste desde que se dicte y sin necesidad de notificación.
+Artículo 201.- Si la apelación se ha interpuesto fuera de plazo o respecto de resolución inapelable o no es fundada o no contiene peticiones concretas, el tribunal correspondiente deberá declararla inadmisible de oficio. La parte apelada, en todo caso, podrá solicitar la declaración pertinente, verbalmente o por escrito.
+Del fallo que, en estas materias, dicte el tribunal de alzada podrá pedirse reposición dentro de tercero día.
 
-Art. 202 (225). Si no comparece el apelado, se seguirá el recurso de su rebeldía por el solo ministerio de la ley y no será necesario notificarle las resoluciones que se dicten, las cuales producirán sus efectos respecto del apelado rebelde desde que se pronuncien.
-El rebelde, podrá comparecer en cualquier estado del recurso, representado por el procurador del número.
-NOTA:
-NOTA:
-Véase el artículo 398 del Código Orgánico de Tribunales.
+Art. 202 (225). Derogado.
 
-Art. 203 (226). Si el tribunal inferior deniega un recurso de apelación que ha debido concederse, la parte agraviada podrá ocurrir al superior respectivo, dentro del plazo que concede el artículo 200, contado desde la notificación de la negativa, para que declare admisible dicho recurso.
+Art. 203 (226). Si el tribunal inferior deniega un recurso de apelación que ha debido concederse, la parte agraviada podrá ocurrir al superior respectivo, dentro del plazo de cinco días contado desde la notificación de la negativa, para que declare admisible dicho recurso.
 
 Art. 204 (227). El tribunal superior pedirá al inferior informe sobre el asunto en que haya recaído la negativa, y con el mérito de lo informado resolverá si es o no admisible el recurso.
-Podrá el tribunal superior ordenar al inferior la remisión del proceso, siempre que, a su juicio, sea necesario examinarlo para dictar una resolución acertada.
+Podrá el tribunal superior ordenar al inferior poner a su disposición la carpeta electrónica correspondiente, siempre que, a su juicio, ello sea necesario para dictar una resolución acertada.
 Podrá, asimismo, ordenar que no se innove cuando haya antecedentes que justifiquen esta medida.
 
-Art. 205 (228). Si el tribunal superior, declara inadmisible el recurso, lo comunicará al inferior devolviéndole el proceso si se ha elevado.
-Si el recurso es declarado admisible, el tribunal superior ordenará al inferior la remisión del proceso, o lo retendrá si se halla en su poder, y le dará la tramitación que corresponda.
+Art. 205 (228). Si el tribunal superior declara inadmisible el recurso, lo comunicará al inferior.
+Si el recurso es declarado admisible, el tribunal superior le dará al proceso la tramitación que corresponda y lo comunicará al inferior según proceda.
 
 Art. 206 (229). En el caso del 2° inciso del artículo precedente, quedarán sin efecto las gestiones posteriores a la negativa del recurso y que sean una consecuencia inmediata y directa del fallo apelado.
 
@@ -777,24 +774,23 @@ Si en virtud de estas declaraciones se establece la incompetencia del tribunal p
 
 Art. 210 (233). Las resoluciones que recaigan en los incidentes que se promuevan en segunda instancia, se dictarán sólo por el tribunal de alzada y no serán apelables.
 
-Art. 211 (234). Si, concedida una apelación, dejan las partes transcurrir más de tres meses sin que se haga gestión alguna para que el recurso se lleve a efecto y quede en estado de fallarse por el superior, podrá cualquiera de ellas pedir al tribunal en cuyo poder exista el expediente que declare firme la resolución apelada. El plazo será de un mes cuando la apelación verse sobre sentencias interlocutorias, autos o decretos.
-Interrúmpese esta prescripción por cualquiera gestión que se haga en el juicio antes de alegarla.
+Art. 211 (234). Derogado.
 
-Art. 212 (235). Del fallo que declare admitida la prescripción en el caso del artículo precedente, podrá pedirse reposición dentro de tercero día, si aparece fundado en un error de hecho.
+Art. 212 (235). Derogado.
 
 Art. 213 (438). Elevado un proceso en apelación, el tribunal superior examinará en cuenta si el recurso es admisible y si ha sido interpuesto dentro del término legal.
 Si encuentra mérito el tribunal para considerar inadmisible o extemporáneo el recurso, lo declarará sin lugar desde luego o mandará traer los autos en relación sobre este punto.
 
-Artículo 214.- Si el tribunal superior declara no haber lugar al recurso, devolverá el proceso al inferior para el cumplimiento del fallo. En caso contrario mandará que se traigan los autos en relación.
+Artículo 214.- Si el tribunal superior declara no haber lugar al recurso, pondrá el proceso a disposición del inferior para el cumplimiento del fallo. En caso contrario mandará que se traigan los autos en relación.
 
 Art. 215 (440). Derogado.
 
 Art. 216 (441). Puede el apelado adherirse a la apelación en la forma y oportunidad que se expresa en el artículo siguiente.
 Adherirse a la apelación es pedir la reforma de la sentencia apelada en la parte en que la estime gravosa el apelado.
 
-Art. 217 (442). La adhesión a la apelación puede efectuarse en primera instancia, antes de elevarse los autos al superior; y en segunda, dentro del plazo que establece el artículo 200. El escrito de adhesión a la apelación deberá cumplir con los requisitos que establece el artículo 189. Se aplicará a la adhesión a la apelación lo establecido en los artículos 200, 201 y 211.
+Artículo 217.- La adhesión a la apelación puede efectuarse en segunda instancia dentro del plazo de cinco días desde la fecha de la certificación a la que se refiere el artículo 200. El escrito de adhesión a la apelación deberá cumplir con los requisitos que establece el artículo 189. Se aplicará a la adhesión a la apelación lo dispuesto en el artículo 201.
 No será, sin embargo, admisible desde el momento en que el apelante haya presentado escrito para desistirse de la apelación.
-En las solicitudes de adhesión y desistimiento se anotará por el secretario del tribunal la hora en que se entreguen.
+La hora de presentación de las solicitudes de adhesión y de desistimiento se registrará por el sistema de tramitación electrónica del Poder Judicial, o por el tribunal a través del timbre disponible ante el buzón dispuesto al efecto o mediante la anotación del correspondiente ministro de fe en los casos excepcionales en que se permite la presentación de los escritos en soporte papel.
 
 Art. 218 (443). Derogado.
 
@@ -802,7 +798,7 @@ Art. 219 (444). Derogado.
 
 Art. 220 (445). Las cuestiones accesorias que se susciten en el curso de la apelación, se fallarán de plano por el tribunal, o se tramitarán como incidentes. En este último caso, podrá también el tribunal fallarlas en cuenta u ordenar que se traigan en relación los autos para resolver.
 
-Art. 221 (446). La notificación de las resoluciones que se dicten por el tribunal de alzada se practicará en la forma que establece el artículo 50, con excepción de la primera, que debe ser personal, y de lo dispuesto en los artículos 201 y 202.
+Art. 221 (446). La notificación de las resoluciones que se dicten por el tribunal de alzada se practicará en la forma que establece el artículo 50, con excepción de la primera, que debe ser personal.
 Podrá, sin embargo, el tribunal ordenar que se haga por otro de los medios establecidos en la ley, cuando lo estime conveniente.
 
 Art. 222 (447). En cumplimiento de las obligaciones impuestas por el artículo 373 del Código Orgánico de Tribunales, los relatores darán cuenta de los vicios y omisiones que hayan notado en las causas del día a fin de que el tribunal resuelva si ha de llenarse previamente algún trámite.
@@ -844,7 +840,7 @@ Art. 228 (453). Los tribunales podrán mandar, a petición de parte, informar en
 
 Art. 229 (454). El término para informar en derecho será el que señale el tribunal y no podrá exceder de sesenta días, salvo acuerdo de las partes.
 
-Art. 230 (455). Un ejemplar impreso de cada informe en derecho, con las firmas del abogado y de la parte o de su procurador, y el certificado a que se refiere el número 5° del artículo 372 del Código Orgánico de Tribunales, se entregará a cada uno de los ministros y otra se agregará a los autos.
+Artículo 230.- Los informes en derecho, con las firmas del abogado y de la parte o de su procurador, y el certificado a que se refiere el número 6º del artículo 372 del Código Orgánico de Tribunales se agregarán a la carpeta electrónica para conocimiento de los ministros.
 
 ### Título XIX
 DE LA EJECUCION DE LAS RESOLUCIONES
@@ -962,7 +958,7 @@ NOTA
 Véase el Decreto con Fuerza de Ley 1, Hacienda, publicado el 07.08.1993, que fija el texto refundido, coordinado y sistematizado de la Ley Orgánica del Consejo de Defensa del Estado.
 
 Art. 259 (256). Si el demandado se encuentra en un territorio jurisdiccional diverso o fuera del territorio de la República, el término para contestar la demanda será de dieciocho días, y a más el aumento que corresponda al lugar en que se encuentre. Este aumento será determinado en conformidad a una tabla que cada cinco años formará la Corte Suprema con tal objeto, tomando en consideración las distancias y las facilidades o dificultades que existan para las comunicaciones.
-Esta tabla se formará en el mes de Noviembre del año que preceda al del vencimiento de los cinco años indicados, para que se ponga en vigor en toda la República desde el 1° de Marzo siguiente; se publicará en el "Diario Oficial", y se fijará a lo menos, dos meses antes de su vigencia, en los oficios de todos los secretarios de Cortes y Juzgados de Letras.
+Esta tabla se formará en el mes de Noviembre del año que preceda al del vencimiento de los cinco años indicados, para que se ponga en vigor en toda la República desde el 1° de Marzo siguiente; se publicará en el "Diario Oficial", y se fijará a lo menos, dos meses antes de su vigencia, en el portal de internet del Poder Judicial y en los oficios de todos los secretarios de Cortes y Juzgados de Letras.
 
 Art. 260 (257). Si los demandados son varios, sea que obren separada o conjuntamente, el término para contestar la demanda correrá para todos a la vez, y se contará hasta que expire el último término parcial que corresponda a los notificados.
 En los casos en que proceda la pluralidad de demandantes de acuerdo al artículo 18, el plazo para contestar la demanda, determinado según lo dispuesto en los dos artículos anteriores, se aumentará en un día por cada tres demandantes sobre diez que existan en el proceso. Con todo, este plazo adicional no podrá exceder de treinta días.
@@ -988,7 +984,7 @@ Art. 266. El juez de oficio ordenará agregar aquellos antecedentes y medios pro
 
 Art. 267. De la conciliación total o parcial se levantará acta, que consignará sólo las especificaciones del arreglo; la cual subscribirán el juez, las partes que lo deseen y el secretario, y se estimará como sentencia ejecutoriada para todos los efectos legales.
 
-Art. 268. Si se rechaza la conciliación, o no se se efectúa el comparendo, el secretario certificará este hecho de inmediato, y entregará los autos al juez para que éste, examinándolos por sí mismo, proceda enseguida a dar cumplimiento a lo señalado en el artículo 318.
+Art. 268. Si se rechaza la conciliación, o no se efectúa el comparendo, el secretario certificará este hecho de inmediato, y quedará la carpeta electrónica a disposición del juez para que éste, examinándolos por sí mismo, proceda enseguida a dar cumplimiento a lo señalado en el artículo 318.
 
 ### Título III
 DE LA JACTANCIA
@@ -1301,6 +1297,7 @@ Tratándose de documentos que no puedan ser transportados al tribunal, la audien
 En caso que el documento sea objetado, en conformidad con las reglas generales, el Tribunal podrá ordenar una prueba complementaria de autenticidad, a costa de la parte que formula la impugnación, sin perjuicio de lo que se resuelva sobre pago de costas. El resultado de la prueba complementaria de autenticidad será suficiente para tener por reconocido o por objetado el instrumento, según corresponda.
 Para los efectos de proceder a la realización de la prueba complementaria de autenticidad, los peritos procederán con sujeción a lo dispuesto por los artículos 417 a 423.
 En el caso de documentos electrónicos privados, para los efectos del artículo 346, N°3, se entenderá que han sido puestos en conocimiento de la parte contraria en la audiencia de percepción.
+En el caso que los documentos electrónicos acompañados puedan ser percibidos directamente en la carpeta electrónica, el tribunal podrá omitir la citación a audiencia de percepción, debiéndose entender que han sido puestos en conocimiento de la parte contraria desde que se notifica la resolución que los tiene por acompañados bajo el apercibimiento correspondiente.
 
 Art. 349 (338). Podrá decretarse, a solicitud de parte, la exhibición de instrumentos que existan en poder de la otra parte o de un tercero, con tal que tengan relación directa con la cuestión debatida y que no revistan el carácter de secretos o confidenciales.
 Los gastos que la exhibición haga necesarios serán de cuenta del que la solicite, sin perjuicio de lo que se resuelva sobre pago de costas.
@@ -1397,7 +1394,7 @@ Procurará también, en cuanto sea posible, que todos los testigos de cada parte
 Art. 370 (359). Las declaraciones se consignarán por escrito, conservándose en cuanto sea posible las expresiones de que se haya valido el testigo, reducidas al menor número de palabras.
 Después de leídas por el receptor en alta voz y ratificadas por el testigo, serán firmadas por el juez, el declarante, si sabe, y las partes, si también saben y se hallan presentes, autorizándolas un receptor, que servirá también como actuario en las incidencias que ocurran durante la audiencia de prueba.
 
-Art. 371 (360). Si han de declarar testigos que residan fuera del territorio jurisdiccional en que se sigue el juicio, se practicará su examen por el tribunal que corresponda, a quien se remitirá copia de los puntos de prueba fijados.
+Art. 371 (360). Si han de declarar testigos que residan fuera del territorio jurisdiccional en que se sigue el juicio, se practicará su examen por el tribunal que corresponda, a quien se remitirá copia, en la forma que señala el artículo 77, de los puntos de prueba fijados.
 El examen se practicará en la forma que establecen los artículos anteriores, pudiendo las partes hacerse representar por encargados, en conformidad al artículo 73.
 
 Art. 372 (361). Serán admitidos a declarar solamente hasta seis testigos, por cada parte, sobre cada uno de los hechos que deban acreditarse.
@@ -1680,7 +1677,6 @@ Art. 445 (467). No son embargables:
 1°. Los sueldos, las gratificaciones y las pensiones de gracia, jubilación, retiro y montepío que pagan el Estado y las Municipalidades
 NOTA 1
 .
-NOTA
 Sin embargo, tratándose de deudas que provengan de pensiones alimenticias decretadas judicialmente, podrá embargarse hasta el 50% de las prestaciones que reciba el alimentante en conformidad al inciso anterior;
 2°. Las remuneraciones de los empleados y obreros en la forma que determinan los artículos 40 y 153 del Código del Trabajo;
 3°. Las pensiones alimenticias forzosas;
@@ -1805,7 +1801,7 @@ Art. 468. (490). Cuando haya de recibirse a prueba la causa, el término para re
 Podrá ampliarse este término hasta diez días más, a petición del acreedor. La prórroga deberá solicitarse antes de vencido el término legal, y correrá sin interrupción después de éste.
 Por acuerdo de ambas partes, podrán concederse los términos extraordinarios que ellas designen.
 
-Art. 469. (491). La prueba se rendirá del mismo modo que en el juicio ordinario, y el fallo que dé lugar a ella expresará los puntos sobre que deba recaer. Vencido el término probatorio, quedarán los autos en la secretaría por espacio de seis días a disposición de las partes, antes de pronunciar sentencia. Durante este plazo podrán hacerse por escrito las observaciones que el examen de la prueba sugiera, y una vez vencido, háyanse o no presentado escritos, y sin nuevo trámite, el tribunal citará a las partes para oír sentencia.
+Art. 469. (491). La prueba se rendirá del mismo modo que en el juicio ordinario, y el fallo que dé lugar a ella expresará los puntos sobre que deba recaer. Vencido el término probatorio, tendrán las partes seis días para hacer por escrito las observaciones que el examen de la prueba sugiera. Vencido este plazo, háyanse o no presentado escritos, y sin nuevo trámite, el tribunal citará a las partes para oír sentencia.
 
 Art. 470. (492). La sentencia definitiva deberá pronunciarse dentro del término de diez días, contados desde que el pleito quede concluso.
 
@@ -2789,7 +2785,7 @@ Art. 768. El recurso de casación en la forma ha de fundarse precisamente en alg
 5a. En haber sido pronunciada con omisión de cualquiera de los requisitos enumerados en el artículo 170;
 6a. En haber sido dada contra otra pasada en autoridad de cosa juzgada, siempre que ésta se haya alegado oportunamente en el juicio;
 7a. En contener decisiones contradictorias;
-8a. En haber sido dada en apelación legalmente declarada desierta, prescrita o desistida, y
+8a. En haber sido dada en apelación legalmente declarada desistida, y
 9a. En haberse faltado a algún trámite o diligencia declarados esenciales por la ley o a cualquier otro requisito por cuyo defecto las leyes prevengan expresamente que hay nulidad.
 En los negocios a que se refiere el inciso segundo del artículo 766 sólo podrá fundarse el recurso de casación en la forma en alguna de las causales indicadas en los números 1°, 2°, 3°, 4°, 6°, 7° y 8° de este artículo y también en el número 5° cuando se haya omitido en la sentencia la decisión del asunto controvertido.
 No obstante lo dispuesto en este artículo, el tribunal podrá desestimar el recurso de casación en la forma, si de los antecedentes aparece de manifiesto que el recurrente no ha sufrido un perjuicio reparable sólo con la invalidación del fallo o cuando el vicio no ha influido en lo dispositivo del mismo.
@@ -2813,7 +2809,8 @@ En uno y otro caso, el recurso deberá ser patrocinado por abogado habilitado, q
 
 Art. 773. El recurso de casación no suspende la ejecución de la sentencia, salvo cuando su cumplimiento haga imposible llevar a efecto la que se dicte si se acoge el recurso, como sería si se tratare de una sentencia que declare la nulidad de un matrimonio o permita el de un menor.
 La parte vencida podrá exigir que no se lleve a efecto la sentencia mientras la parte vencedora no rinda fianza de resultas a satisfacción del tribunal que haya dictado la sentencia recurrida, salvo que el recurso se interponga por el demandado contra la sentencia definitiva pronunciada en el juicio ejecutivo, en los juicios posesorios, en los de desahucio y en los de alimentos.
-El recurrente deberá ejercer este derecho conjuntamente con interponer el recurso de casación y en solicitud separada que se agregará al cuaderno de fotocopias o de compulsas que deberá remitirse al tribunal que deba conocer del cumplimiento del fallo. El tribunal a quo se pronunciará de plano y en única instancia a su respecto y fijará el monto de la caución antes de remitir el cuaderno respectivo a dicho tribunal.
+El recurrente deberá ejercer este derecho conjuntamente con interponer el recurso de casación y en solicitud separada que se agregará a la carpeta electrónica a que se refiere el artículo 29. El tribunal a quo se pronunciará de plano y en única instancia a su respecto y fijará el monto de la caución antes de enviar la comunicación correspondiente al tribunal superior.
+En este caso, se formará cuaderno electrónico separado con las piezas necesarias.
 El tribunal a quo conocerá también en única instancia en todo lo relativo al otorgamiento y subsistencia de la caución.
 
 Art. 774. Interpuesto el recurso, no puede hacerse en él variación de ningún género.
@@ -2823,18 +2820,19 @@ Art. 775. (949). No obstante lo dispuesto en los artículos 769 y 774, pueden lo
 Si el defecto que se advierte es la omisión del fallo sobre alguna acción o excepción que se haya hecho valer en el juicio, el tribunal superior podrá limitarse a ordenar al de la causa que complete la sentencia, dictando resolución sobre el punto omitido, y entre tanto, suspenderá el fallo del recurso.
 
 Art. 776. Presentado el recurso, el tribunal examinará si ha sido interpuesto en tiempo y si ha sido patrocinado por abogado habilitado. En el caso que el recurso se interpusiere ante un tribunal colegiado, el referido examen se efectuará en cuenta.
-Si el recurso reúne estos requisitos, dará cumplimiento a lo establecido en el inciso primero del artículo 197 para los efectos del cumplimiento de la sentencia y ordenará elevar los autos originales al tribunal superior para que conozca del recurso y devolver las fotocopias o compulsas respectivas al tribunal que deba conocer del cumplimiento del fallo. Se aplicará al recurrente lo establecido en el inciso segundo del artículo 197.
-Se omitirá lo anterior cuando contra la misma sentencia se hubiese interpuesto y concedido apelación en ambos efectos.
+Si el recurso reúne estos requisitos, dará cumplimiento a lo establecido en el inciso primero del artículo 197.
+Inciso Eliminado.
+NOTA
 NOTA
 La referencia al inciso 2° del artículo 197 de la presente norma, debe entenderse hecha al inciso 3° del mismo artículo.
 
-Art. 777. Si el recurrente no franquea la remisión del proceso, podrá pedirse al tribunal que se le requiera para ello, bajo apercibimiento de declararse no interpuesto el recurso.
+Art. 777. Derogado.
 
 Artículo 778.- Si el recurso no cumple con los requisitos establecidos en el inciso primero del artículo 776, el tribunal lo declarará inadmisible, sin más trámite.
 En contra del fallo que se dicte, sólo podrá interponerse el recurso de reposición, el que deberá fundarse en error de hecho y deducirse en el plazo de tercero día. La resolución que resuelva la reposición será inapelable.
 
-Art. 779. Es aplicable al recurso de casación lo dispuesto en los artículos 200, 202 y 211.
-El artículo 201 sólo será aplicable en cuanto a la no comparecencia del recurrente dentro de plazo.
+Art. 779. Es aplicable al recurso de casación lo dispuesto en el artículo 200.
+Inciso Eliminado.
 
 Artículo 780.- Interpuesto el recurso de casación en el fondo, cualquiera de las partes podrá solicitar, dentro del plazo para hacerse parte en el tribunal ad quem, que el recurso sea conocido y resuelto por el pleno del tribunal. La petición sólo podrá fundarse en el hecho que la Corte Suprema, en fallos diversos, ha sostenido distintas interpretaciones sobre la materia de derecho objeto del recurso.
 
@@ -2922,9 +2920,7 @@ os de cas
 NOTA
 ación,
 NOTA
-en
-NOTA
-los
+en los
 NOTA
 juicios de menor cuantía
 NOTA
@@ -2939,7 +2935,6 @@ NOTA
 os 701 y
 NOTA
 702.
-NOTA
 NOTA
 NOTA
 NOTA
