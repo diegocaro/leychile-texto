@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2010-12-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2016-07-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 2010-12-30
-fetched_at: 2026-08-03T01:58:23.213434+00:00
+version_date: 2016-07-05
+fetched_at: 2026-08-03T03:20:56.334780+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1650,12 +1650,15 @@ Art. 415. Si durante la guerra Carabineros de Chile formare una División o Brig
 Artículo 416.- El que matare a un carabinero que se encontrare en el ejercicio de sus funciones será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
 
 Artículo 416 bis.- El que hiriere, golpeare o maltratare de obra a un carabinero que se encontrare en el ejercicio de sus funciones, será castigado:
-1º. Con la pena de presidio mayor en su grado medio, si de resultas de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
-2º. Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
+1º. Con la pena de presidio mayor en su grado medio a máximo, si de resultas de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
+2º. Con presidio mayor en su grado mínimo, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
 3º. Con presidio menor en grado medio a máximo, si le causare lesiones menos graves.
-4º. Con presidio menor en su grado mínimo, o multa de seis a once unidades tributarias mensuales si le ocasionare lesiones leves.
+4º. Con presidio menor en su grado mínimo si le ocasionare lesiones leves.
 
-Artículo 416 ter.- Las penas establecidas en los artículos 395 y 396 del Código Penal, serán aumentadas en un grado cuando la víctima sea un Carabinero en el ejercicio de sus funciones.
+Artículo 416 ter.- Cuando la víctima de los delitos establecidos en los artículos 395 y 396 del Código Penal sea un carabinero en el ejercicio de sus funciones, se aplicarán las penas que siguen:
+1° Con presidio mayor en su grado máximo, cuando fuere víctima del delito establecido en el artículo 395.
+2° Con presidio mayor en su grado medio, cuando fuere víctima del delito establecido en el inciso primero del artículo 396.
+3° Con presidio menor en su grado máximo, cuando lo fuere del delito establecido en el inciso segundo del artículo 396.
 
 Artículo 417.- El que amenazare en los términos de los artículos 296 y 297 del Código Penal a uno de los integrantes de Carabineros de Chile con conocimiento de su calidad de miembro de esa Institución, unidades o reparticiones, sufrirá la pena de presidio menor en su grado mínimo a medio.
 

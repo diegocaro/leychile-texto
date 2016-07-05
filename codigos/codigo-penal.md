@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2015-10-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2016-07-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2015-10-21
-fetched_at: 2026-08-03T03:15:57.607797+00:00
+version_date: 2016-07-05
+fetched_at: 2026-08-03T03:21:14.350303+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1510,7 +1510,7 @@ Atentados contra la autoridad.
 ART. 261.
 Cometen atentado contra la autoridad:
 1.° Los que sin alzarse públicamente emplean fuerza o intimidación para alguno de los objetos señalados en los arts. 121 y 126.
-2.° Los que acometen o resisten con violencia, emplean fuerza o intimidación contra la autoridad pública o sus agentes, cuando aquélla o éstos ejercieron funciones de su cargo.
+2.° Los que acometen o resisten con violencia, emplean fuerza o intimidación contra la autoridad pública o sus agentes, carabineros, funcionarios de la Policía de Investigaciones o de Gendarmería de Chile, cuando aquélla o éstos ejercieron funciones de su cargo.
 
 ART. 262.
 Los atentados a que se refiere el artículo anterior serán castigados con la pena de reclusión menor en su grado medio o multa de once a quince unidades tributarias mensuales, siempre que concurra alguna de las circunstancias siguientes:
@@ -2407,8 +2407,9 @@ Del robo con violencia o intimidación en las personas.
 
 ART. 433.
 El culpable de robo con violencia o intimidación en las personas, sea que la violencia o la intimidación tenga lugar antes del robo para facilitar su ejecución, en el acto de cometerlo o después de cometido para favorecer su impunidad, será castigado:
-1.o) Con presidio mayor en su grado medio a presidio perpetuo calificado cuando, con motivo u ocasión del robo, se cometiere, además, homicidio, violación o alguna de las lesiones comprendidas en los artículos 395, 396 y 397 N.o 1.
-2.o) Con presidio mayor en su grado medio a máximo, cuando las víctimas fueren retenidas bajo rescate o por más de un día, o se cometieren lesiones de las que trata el N.o 2 del artículo 397.
+1°. Con presidio mayor en su grado máximo a presidio perpetuo calificado cuando, con motivo u ocasión del robo, se cometiere, además, homicidio o violación.
+2°. Con presidio mayor en su grado máximo a presidio perpetuo cuando, con motivo u ocasión del robo, se cometiere alguna de las lesiones comprendidas en los artículos 395, 396 y 397, número 1°.
+3°. Con presidio mayor en su grado medio a máximo cuando se cometieren lesiones de las que trata el número 2° del artículo 397 o cuando las víctimas fueren retenidas bajo rescate o por un lapso mayor a aquel que resulte necesario para la comisión del delito.
 
 ART. 434.
 Los que cometieren actos de piratería serán castigados con la pena de presidio mayor en su grado mínimo a presidio perpetuo.
@@ -2516,7 +2517,12 @@ Durante el curso del procedimiento dichos bienes serán incautados de conformida
 Disposiciones comunes a los cuatro Párrafos anteriores.
 
 ART. 449.
-Derogado.
+Para determinar la pena de los delitos comprendidos en los Párrafos 1 a 4 bis, con excepción de aquellos contemplados en los artículos 448, inciso primero, y 448 quinquies, y del artículo 456 bis A, no se considerará lo establecido en los artículos 65 a 69 y se aplicarán las reglas que a continuación se señalan:
+1ª. Dentro del límite del grado o grados señalados por la ley como pena al delito, el tribunal determinará la cuantía de la pena en atención al número y entidad de las circunstancias atenuantes y agravantes concurrentes, así como a la mayor o menor extensión del mal causado, fundamentándolo en su sentencia.
+2ª. Tratándose de condenados reincidentes en los términos de las circunstancias agravantes de los numerales 15 y 16 del artículo 12, el tribunal deberá, para los efectos de lo señalado en la regla anterior, excluir el grado mínimo de la pena si ésta es compuesta, o el mínimum si consta de un solo grado.
+
+ART. 449 bis.-
+Será circunstancia agravante de los delitos contemplados en los Párrafos 1, 2, 3, 4 y 4 bis de este Título, y del descrito en el artículo 456 bis A, el hecho de que el imputado haya actuado formando parte de una agrupación u organización de dos o más personas destinada a cometer dichos hechos punibles, siempre que ésta o aquélla no constituyere una asociación ilícita de que trata el Párrafo 10 del Título VI del Libro Segundo.
 
 ART. 450.
 Los delitos a que se refiere al Párrafo 2 y el artículo 440 del Párrafo 3 de este Título se castigarán como consumados desde que se encuentren en grado de tentativa.
@@ -2545,8 +2551,8 @@ Si antes de perseguir al responsable o antes de decretar su prisión devolviere 
 ART. 456 BIS.
 En los delitos de robo y hurto serán circunstancias agravantes las siguientes:
 1°) Ejecutar el delito en sitios faltos de vigilancia policial, obscuros, solitarios, sin tránsito habitual o que por cualquiera otra condición favorezcan la impunidad.
-2° Ser la víctima niño, anciano, inválido o persona en manifiesto estado de inferioridad física;
-3°) Ser dos o más los malhechores;
+2°) Ser la víctima niño, anciano, inválido o persona en manifiesto estado de inferioridad física;
+3°) Suprimida;
 4°) Ejercer la violencia en las personas que intervengan en defensa de la víctima, salvo que este hecho importe otro delito; y
 5°) Actuar con personas exentas de responsabilidad criminal, según el número 1.o del artículo 10.
 Las circunstancias agravantes de los números 1.o y 5° del artículo 12 serán aplicables en los casos en que se ejerciere violencia sobre las personas.
@@ -2560,6 +2566,7 @@ Para la determinación de la pena aplicable el tribunal tendrá especialmente en
 Cuando el objeto de la receptación sean vehículos motorizados o cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, se impondrá la pena de presidio menor en su grado máximo y multa de cinco a veinte unidades tributarias mensuales. La sentencia condenatoria por delitos de este inciso dispondrá el comiso de los instrumentos, herramientas o medios empleados para cometerlos o para transformar o transportar los elementos sustraídos. Si dichos elementos son almacenados, ocultados o transformados en algún establecimiento de comercio con conocimiento del dueño o administrador, se podrá decretar, además, la clausura definitiva de dicho establecimiento, oficiándose a la autoridad competente.
 Se impondrá el grado máximo de la pena establecida en el inciso primero, cuando el autor haya incurrido en reiteración de esos hechos o sea reincidente en ellos. En los casos de reiteración o reincidencia en la receptación de los objetos señalados en el inciso precedente, se aplicará la pena privativa de libertad allí establecida, aumentada en un grado.
 Tratándose del delito de abigeato la multa establecida en el inciso primero será de setenta y cinco a cien unidades tributarias mensuales y el juez podrá disponer la clausura definitiva del establecimiento.
+Si el valor de lo receptado excediere de cuatrocientas unidades tributarias mensuales, se impondrá el grado máximo de la pena o el máximun de la pena que corresponda en cada caso.
 
 #### § VI.
 De la usurpación.
@@ -2868,7 +2875,7 @@ ART. 496.
 Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 1.° El que faltare a la obediencia debida a la autoridad dejando de cumplir las órdenes particulares que ésta le diere, en todos aquellos casos en que la desobediencia no tenga señalada mayor pena por este Código o por leyes especiales.
 2.° El que pudiendo, sin grave detrimento propio, prestar a la autoridad el auxilio que reclamare en casos de incendio, inundación, naufragio u otra calamidad, se negare a ello.
-3.° Derogado.
+3.° El que impidiere el ejercicio de las funciones fiscalizadoras de los inspectores municipales.
 4.° El que no diere los partes de defunción, contraviniendo a la ley o reglamentos.
 5.° El que ocultare su verdadero nombre y apellido a la autoridad o a persona que tenga derecho para exigir que los manifieste o se negare a manifestarlos o diere domicilio falso.
 6.° El que infringiere las reglas de policía dirigidas a asegurar el abastecimiento de los pueblos.
