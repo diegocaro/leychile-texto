@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2016-06-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2016-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2016-06-19
-fetched_at: 2026-08-03T03:20:34.158758+00:00
+version_date: 2016-08-30
+fetched_at: 2026-08-03T03:21:38.369263+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -907,7 +907,7 @@ Art. 245 (242). En los casos en que no pueda aplicarse ninguno de los tres artí
 
 Art. 246 (243). Las reglas de los artículos precedentes son aplicables a las resoluciones expedidas por jueces árbitros. En este caso se hará constar su autenticidad y eficacia por el visto-bueno u otro signo de aprobación emanado de un tribunal superior ordinario del país donde se haya dictado el fallo.
 
-Art. 247 (244). En todos los casos a que se refieren los artículos precedentes, la resolución que se trate de ejecutar se presentará a la Corte Suprema en copia legalizada.
+Art. 247 (244). En todos los casos a que se refieren los artículos precedentes, la resolución que se trate de ejecutar se presentará a la Corte Suprema en copia legalizada o apostillada.
 
 Art. 248 (245). En los casos de jurisdicción contenciosa, se dará conocimiento de la solicitud a la parte contra quien se pide la ejecución, la cual tendrá para exponer lo que estime conveniente un término igual al de emplazamiento para contestar demandas.
 Con la contestación de la parte o en su rebeldía, y con previa audiencia del fiscal judicial, el tribunal declarará si debe o no darse cumplimiento a la resolución.
@@ -1279,6 +1279,10 @@ La autenticidad de las firmas y el carácter de estos funcionarios se comprobar�
 1°. El atestado de un agente diplomático o consular chileno, acreditado en el país de donde el instrumento procede, y cuya firma se compruebe con el respectivo certificado del Ministerio de Relaciones Exteriores;
 2°. El atestado de un agente diplomático o consular de una nación amiga acreditado en el mismo país, a falta de funcionario chileno, certificándose en este caso la firma por conducto del Ministerio de Relaciones Exteriores del país a que pertenezca el agente o del Ministro Diplomático de dicho país en Chile, y además por el Ministerio de Relaciones Exteriores de la República en ambos casos; y
 3°. El atestado del agente diplomático acreditado en Chile por el Gobierno del país en donde se otorgó el instrumento, certificándose su firma por el Ministerio de Relaciones Exteriores de la República.
+
+Artículo 345 bis.- Los instrumentos públicos otorgados en un Estado Parte de la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros, no deberán ser sometidos al procedimiento de legalización, si respecto de éstos se ha otorgado apostillas por la autoridad designada por el Estado de que dimana dicho instrumento.
+Las certificaciones oficiales que hayan sido asentadas sobre documentos privados, tales como menciones de registro, comprobaciones para la certeza de una fecha y autenticaciones de firmas, podrán presentarse legalizadas o con apostillas otorgadas, con arreglo al artículo precedente y a éste, respectivamente. Pero en estos casos la legalización o apostilla sólo acreditará la autenticidad de la certificación, sin otorgar al instrumento el carácter de público.
+Según lo dispuesto por la Convención a que se refiere el inciso primero, no podrán otorgarse apostillas respecto de los documentos expedidos por agentes diplomáticos o consulares y los documentos administrativos que se refieren directamente a una operación mercantil o aduanera.
 
 Art. 346 (335). Los instrumentos privados se tendrán por reconocidos:
 1°. Cuando así lo ha declarado en el juicio la persona a cuyo nombre aparece otorgado el instrumento o la parte contra quien se hace valer;
