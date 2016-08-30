@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2016-03-01
-fetched_at: 2026-08-03T03:19:15.957190+00:00
+version_date: 2016-08-30
+fetched_at: 2026-08-03T03:21:44.379410+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -66,8 +66,9 @@ Art. 6° Quedan sometidos a la jurisdicción chilena los crímenes y simples del
 6°) Los cometidos por chilenos contra chilenos si el culpable regresa a Chile sin haber sido juzgado por la autoridad del país en que delinquió;
 7°) La piratería;
 8°) Los comprendidos en los tratados celebrados con otras potencias;
-9°) Los sancionados por la ley 6.026 y las que la han modificado, cometidos por chilenos o por extranjeros al servicio de la República, y
-10°) Los sancionados en los artículos 366 quinquies, 367 y 367 bis Nº 1, del Código Penal, cuando pusieren en peligro o lesionaren la indemnidad o la libertad sexual de algún chileno o fueren cometidos por un chileno o por una persona que tuviere residencia habitual en Chile; y el contemplado en el artículo 374 bis, inciso primero, del mismo cuerpo legal, cuando el material pornográfico objeto de la conducta hubiere sido elaborado utilizando chilenos menores de dieciocho años.
+9°) Los sancionados por la ley 6.026 y las que la han modificado, cometidos por chilenos o por extranjeros al servicio de la República;
+10°) Los sancionados en los artículos 366 quinquies, 367 y 367 bis Nº 1, del Código Penal, cuando pusieren en peligro o lesionaren la indemnidad o la libertad sexual de algún chileno o fueren cometidos por un chileno o por una persona que tuviere residencia habitual en Chile; y el contemplado en el artículo 374 bis, inciso primero, del mismo cuerpo legal, cuando el material pornográfico objeto de la conducta hubiere sido elaborado utilizando chilenos menores de dieciocho años, y
+11°) Los sancionados en el artículo 62 del decreto con fuerza de ley Nº 1, del Ministerio de Economía, Fomento y Reconstrucción, de 2004, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 211, de 1973, cuando afectaren los mercados chilenos.
 
 Art. 7° Los tribunales sólo podrán ejercer su potestad en los negocios y dentro del territorio que la ley les hubiere respectivamente asignado.
 Lo cual no impide que en los negocios de que conocen puedan dictar providencias que hayan de llevarse a efecto en otro territorio.
@@ -2277,6 +2278,7 @@ Art. 420. Una vez protocolizados, valdrán como instrumentos públicos:
 3.- Los testamentos menos solemnes o privilegiados que no hayan sido autorizados por notario, previo decreto del juez competente;
 4.- Las actas de ofertas de pago; y
 5.- Los instrumentos otorgados en el extranjero, las transcripciones y las traducciones efectuadas por el intérprete oficial o los peritos nombrados al efecto por el juez competente y debidamente legalizadas, que sirvan para otorgar escrituras en Chile.
+Sin perjuicio de lo anterior, los documentos públicos que hayan sido autenticados mediante el sistema de apostilla, según lo dispuesto en el artículo 345 bis del Código de Procedimiento Civil, no requerirán de protocolización para tener el valor de instrumentos públicos. La apostilla no requerirá certificación de ninguna clase para ser considerada auténtica.
 
 #### 4). De las copias de escrituras públicas y documentos protocolizados y de los documentos privados.
 
