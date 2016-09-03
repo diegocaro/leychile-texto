@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-09-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2016-08-30
-fetched_at: 2026-08-03T03:21:44.379410+00:00
+version_date: 2016-09-03
+fetched_at: 2026-08-03T03:22:02.399109+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1857,16 +1857,9 @@ Art. 323. Se prohibe a los funcionarios judiciales:
 4°) Publicar, sin autorización del Presidente de la Corte Suprema, escritos en defensa de su conducta oficial o atacar en cualquier forma, la de otros jueces o magistrados.
 En el caso de que se produjeren antecedentes para creer que los jueces infringen las disposiciones contenidas en los N.os 2° y 3° de este artículo, deberá la Corte de Apelaciones adoptar las medidas que creyere convenientes para mantener la absoluta prescindencia de la autoridad judicial en las luchas electorales.
 
-Art. 323 bis. Los miembros del escalafón primario y los de la segunda serie del escalafón secundario del Poder Judicial, a que se refieren los artículos 267 y 269, respectivamente deberán, dentro del plazo de treinta días desde que hubieren asumido el cargo, efectuar una declaración jurada de intereses ante un notario de la ciudad donde ejerzan su ministerio, o ante el oficial del Registro Civil en aquellas comunas en que no hubiere notario.
-Se entiende por intereses los que sean exigibles para la declaración a que se refiere el artículo 60 de la ley Nº18.575.
-El original de la declaración será protocolizado en la misma notaría donde fue prestada o en una notaría con jurisdicción en el territorio del tribunal a que pertenezca el declarante, y se remitirá copia de la protocolización a la secretaría de la Corte Suprema y de la respectiva Corte de Apelaciones, donde se mantendrá para su consulta pública. Cualquier persona podrá obtener copia del instrumento protocolizado.
-La declaración deberá ser actualizada cuando el funcionario fuere nombrado en un nuevo cargo o dentro de los treinta días siguientes al cumplimiento del próximo cuatrienio, si no se hubiere efectuado un nuevo nombramiento.
-La omisión de la declaración será sancionada por el superior jerárquico que corresponda, en la forma y con las sanciones que establece el Título XVI.
+Art. 323 bis. Derogado.
 
-Art. 323 bis A. Asimismo, las personas señaladas en el artículo anterior deberán efectuar una declaración jurada de patrimonio, en los mismos términos de los artículos 60 B, 60 C y 60 D de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, ante el Secretario de la Corte Suprema o de la Corte de Apelaciones respectiva, según sea el caso, quien la mantendrá para su consulta pública.
-En todo lo demás, la declaración de patrimonio se regirá por lo dispuesto en el artículo anterior.
-No obstante lo establecido en el inciso precedente, la no presentación oportuna de la declaración de patrimonio será sancionada con multa de diez a treinta unidades tributarias mensuales. Transcurridos sesenta días desde que la declaración sea exigible, se presumirá incumplimiento del infractor.
-El incumplimiento de la obligación de actualizar la declaración de patrimonio, se sancionará con multa de cinco a quince unidades tributarias mensuales.
+Art. 323 bis A. Derogado.
 
 Art. 323 ter. Asimismo, antes de asumir sus cargos, los miembros del escalafón primario deberán prestar una declaración jurada que acredite que no se encuentran afectos a la causal de inhabilidad contemplada en el artículo 251.
 En caso de inhabilidad sobreviniente, el funcionario deberá admitirla ante su superior jerárquico y someterse a un programa de tratamiento y rehabilitación en alguna de las instituciones que autorice el auto acordado de la Corte Suprema. Si concluye ese programa satisfactoriamente, deberá aprobar un control de consumo toxicológico y clínico que se le aplicará, con los mecanismos de resguardo a que alude el inciso segundo del artículo 100. El incumplimiento de esta norma dará lugar al correspondiente juicio de amovilidad, salvo que la Corte Suprema acuerde su remoción. Lo anterior es sin perjuicio de la aplicación de las reglas sobre salud irrecuperable o incompatible con el desempeño del cargo, si procedieren.
