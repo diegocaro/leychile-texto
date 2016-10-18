@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-09-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-10-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2016-09-03
-fetched_at: 2026-08-03T03:22:02.399109+00:00
+version_date: 2016-10-18
+fetched_at: 2026-08-03T03:22:29.082043+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -57,7 +57,9 @@ Forman parte del Poder Judicial, como tribunales especiales, los juzgados de fam
 Los demás tribunales especiales se regirán por las leyes que los establecen y reglamentan, sin perjuicio de quedar sujetos a las disposiciones generales de este Código.
 Los jueces árbitros se regirán por el Título IX de este Código.
 
-Art. 6° Quedan sometidos a la jurisdicción chilena los crímenes y simples delitos perpetrados fuera del territorio de la República que a continuación se indican:
+Art. 6° Quedan sometidos a la jurisdicción chilena los cr
+NOTA
+ímenes y simples delitos perpetrados fuera del territorio de la República que a continuación se indican:
 1°) Los cometidos por un agente diplomático o consular de la República, en el ejercicio de sus funciones;
 2°) La malversación de caudales públicos, fraudes y exacciones ilegales, la infidelidad en la custodia de documentos, la violación de secretos, el cohecho, cometidos por funcionarios públicos chilenos o por extranjeros al servicio de la República y el cohecho a funcionarios públicos extranjeros, cuando sea cometido por un chileno o por una persona que tenga residencia habitual en Chile;
 3°) Los que van contra la soberanía o contra la seguridad exterior del Estado, perpetrados ya sea por chilenos naturales, ya por naturalizados, y los contemplados en el Párrafo 14 del Título VI del Libro II del Código Penal, cuando ellos pusieren en peligro la salud de habitantes de la República;
@@ -69,6 +71,8 @@ Art. 6° Quedan sometidos a la jurisdicción chilena los crímenes y simples del
 9°) Los sancionados por la ley 6.026 y las que la han modificado, cometidos por chilenos o por extranjeros al servicio de la República;
 10°) Los sancionados en los artículos 366 quinquies, 367 y 367 bis Nº 1, del Código Penal, cuando pusieren en peligro o lesionaren la indemnidad o la libertad sexual de algún chileno o fueren cometidos por un chileno o por una persona que tuviere residencia habitual en Chile; y el contemplado en el artículo 374 bis, inciso primero, del mismo cuerpo legal, cuando el material pornográfico objeto de la conducta hubiere sido elaborado utilizando chilenos menores de dieciocho años, y
 11°) Los sancionados en el artículo 62 del decreto con fuerza de ley Nº 1, del Ministerio de Economía, Fomento y Reconstrucción, de 2004, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 211, de 1973, cuando afectaren los mercados chilenos.
+NOTA
+El artículo 3° de la Ley 20960, publicada el 18.10.2016, modifica la presente norma en el sentido de reemplazar en el N° 9, la expresión ", y" por un punto y coma (;), y en el número 10, el punto final por ", y" e incorpora un nuevo N° 11 del siguiente tenor: "11. Los delitos y faltas penales sancionados en la ley Nº 18.556 y en la ley Nº 18.700, cometidos por chilenos o extranjeros.". Sin embargo, este precepto ya había sido modificado por la Ley 20945, publicada el 30.08.2016, tal como aparece en el presente texto actualizado, incorporando también un N° 11.
 
 Art. 7° Los tribunales sólo podrán ejercer su potestad en los negocios y dentro del territorio que la ley les hubiere respectivamente asignado.
 Lo cual no impide que en los negocios de que conocen puedan dictar providencias que hayan de llevarse a efecto en otro territorio.
