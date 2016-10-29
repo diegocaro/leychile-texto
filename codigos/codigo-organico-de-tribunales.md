@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-10-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-10-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2016-10-18
-fetched_at: 2026-08-03T03:22:29.082043+00:00
+version_date: 2016-10-29
+fetched_at: 2026-08-03T03:22:47.103899+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1498,9 +1498,9 @@ Art. 255. Derogado.
 
 Art. 256. No pueden ser jueces:
 1°) Los que se hallaren en interdicción por causa de demencia o prodigalidad;
-2°) Los sordos;
-3°) Los mudos;
-4°) Los ciegos;
+2°) Derogado;
+3°) Derogado;
+4°) Derogado;
 5°) Los que de conformidad a la ley procesal penal, se hallaren acusados por crimen o simple delito o estuvieren acogidos a la suspensión condicional del procedimiento;
 6°) Los que hubieren sido condenados por crimen o simple delito.
 Esta incapacidad no comprende a los condenados por delito contra la seguridad interior del Estado;
@@ -2458,7 +2458,7 @@ Art. 464. No pueden ser fiscales judiciales, defensores ni relatores los que no 
 
 Art. 465. No pueden ser notarios:
 1°) Los que se hallaren en interdicción por causa de demencia o prodigalidad;
-2°) Los sordos, los ciegos y los mudos;
+2°) Derogado;
 3°) Los que se hallaren procesados por crimen o simple delito; y
 4°) Los que estuvieren sufriendo la pena de inhabilitación para cargos y oficios públicos.
 
