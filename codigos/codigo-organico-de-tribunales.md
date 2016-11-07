@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-10-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-11-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2016-10-29
-fetched_at: 2026-08-03T03:22:47.103899+00:00
+version_date: 2016-11-07
+fetched_at: 2026-08-03T03:52:29.895042+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -112,11 +112,11 @@ Art. 15. La distribución de las causas entre los jueces de los juzgados de gara
 
 Art. 16. Existirá un juzgado de garantía con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indican:
 Primera Región de Tarapacá:
-Iquique, con siete jueces, con competencia sobre las comunas de Iquique y Alto Hospicio.
+Iquique, con siete jueces, con competencia sobre la misma comuna.
 Segunda Región de Antofagasta:
 Tocopilla, con un juez, con competencia sobre la misma comuna.
 Calama, con cuatro jueces, con competencia sobre las comunas de Calama, Ollagüe y San Pedro de Atacama.
-Antofagasta, con siete jueces, con competencia sobre las comunas de Mejillones, Sierra Gorda y Antofagasta.
+Antofagasta, con siete jueces, con competencia sobre las comunas de Sierra Gorda y Antofagasta.
 Tercera Región de Atacama:
 Diego de Almagro, con un juez, con competencia en la misma comuna.
 Copiapó, con cuatro jueces, con competencia sobre las comunas de Copiapó y Tierra Amarilla.
@@ -188,7 +188,7 @@ Castro, con dos jueces, con competencia sobre las comunas de Dalcahue, Castro, C
 Undécima Región de Aisén del General Carlos Ibáñez del Campo:
 Coihaique, con dos jueces, con competencia sobre las comunas de Coihaique y Río Ibáñez.
 Duodécima Región de Magallanes y la Antártica Chilena:
-Punta Arenas, con cuatro jueces, con competencia sobre las comunas de Laguna Blanca, San Gregorio, Río Verde, Punta Arenas, Navarino y Antártica.
+Punta Arenas, con cuatro jueces, con competencia sobre las comunas de Laguna Blanca, San Gregorio, Río Verde y Punta Arenas.
 Decimocuarta Región de los Ríos:
 Mariquina, con un juez, con competencia sobre las comunas de Mariquina y Lanco.
 Valdivia, con tres jueces, con competencia sobre las comunas de Valdivia y Corral.
@@ -412,10 +412,10 @@ Un Juzgado con asiento en la comuna de Pozo Almonte, con dos jueces, con compete
 
 Art. 29. En la Segunda Región, de Antofagasta, existirán los siguientes juzgados de letras:
 A.- JUZGADOS CIVILES:
-Cuatro juzgados de letras en lo civil en la comuna de Antofagasta, con competencia sobre las comunas de Antofagasta, Mejillones y Sierra Gorda.
+Cuatro juzgados de letras en lo civil en la comuna de Antofagasta, con competencia sobre las comunas de Antofagasta y Sierra Gorda.
 B.- JUZGADOS DE COMPETENCIA COMUN:
 Un juzgado con asiento en la comuna de Tocopilla, con competencia sobre la misma comuna;
-Un juzgado con asiento en la comuna de María Elena, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de María Elena, con competencia sobre la misma comuna. Un juzgado con asiento en la comuna de Mejillones, con dos jueces, con competencia sobre la misma comuna;
 Tres juzgados con asiento en la comuna de Calama, con competencia sobre las comunas de la provincia de El Loa, y
 Un juzgado con asiento en la comuna de Taltal, con dos jueces, con competencia sobre la misma comuna.
 
@@ -566,10 +566,11 @@ Un juzgado con asiento en la comuna de Cisnes, con competencia sobre las comunas
 
 Art. 39. En la Décima Segunda Región, de Magallanes y Antártica Chilena, existirán los siguientes juzgados de letras:
 A.- JUZGADOS CIVILES:
-Tres Juzgados con asiento en la comuna de Punta Arenas, con competencia sobre las comunas de las provincias de Magallanes y Antártica Chilena;
+Tres Juzgados con asiento en la comuna de Punta Arenas, con competencia sobre las comunas de la provincia de Magallanes;
 B.- JUZGADOS DE COMPETENCIA COMÚN:
-Un Juzgado con asiento en la comuna de Natales, con competencia sobre las comunas de la provincia de Última Esperanza, y
+Un Juzgado con asiento en la comuna de Natales, con competencia sobre las comunas de la provincia de Última Esperanza.
 Un Juzgado con asiento en la comuna de Porvenir, con competencia sobre las comunas de la provincia de Tierra del Fuego.
+Un Juzgado con asiento en la comuna de Cabo de Hornos, con competencia sobre las comunas de la Provincia de la Antártica Chilena.
 
 Art. 39 bis. En la Decimocuarta Región, de Los Ríos, existirán los siguientes juzgados de letras:
 Dos juzgados con asiento en la comuna de Valdivia, con competencia sobre las comunas de Valdivia y Corral;
