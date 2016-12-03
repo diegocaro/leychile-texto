@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2016-11-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2016-12-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2016-11-07
-fetched_at: 2026-08-03T03:23:05.123880+00:00
+version_date: 2016-12-03
+fetched_at: 2026-08-03T03:52:55.304226+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -3133,7 +3133,7 @@ Del Procedimiento de Tutela Laboral
 
 Artículo 485.- El procedimiento contenido en este Párrafo se aplicará respecto de las cuestiones suscitadas en la relación laboral por aplicación de las normas laborales, que afecten los derechos fundamentales de los trabajadores, entendiéndose por éstos los consagrados en la Constitución Política de la República en su artículo 19, números 1º, inciso primero, siempre que su vulneración sea consecuencia directa de actos ocurridos en la relación laboral, 4º, 5º, en lo relativo a la inviolabilidad de toda forma de comunicación privada, 6º, inciso primero, 12º, inciso primero, y 16º, en lo relativo a la libertad de trabajo, al derecho a su libre elección y a lo establecido en su inciso cuarto, cuando aquellos derechos resulten lesionados en el ejercicio de las facultades del empleador.
 También se aplicará este procedimiento para conocer de los actos discriminatorios a que se refiere el artículo 2° de este Código, con excepción de los contemplados en su inciso sexto.
-Se entenderá que los derechos y garantías a que se refieren los incisos anteriores resultan lesionados cuando el ejercicio de las facultades que la ley le reconoce al empleador limita el pleno ejercicio de aquéllas sin justificación suficiente, en forma arbitraria o desproporcionada, o sin respeto a su contenido esencial. En igual sentido se entenderán las represalias ejercidas en contra de trabajadores, en razón o como consecuencia de la labor fiscalizadora de la Dirección del Trabajo o por el ejercicio de acciones judiciales.
+Se entenderá que los derechos y garantías a que se refieren los incisos anteriores resultan lesionados cuando el ejercicio de las facultades que la ley le reconoce al empleador limita el pleno ejercicio de aquéllas sin justificación suficiente, en forma arbitraria o desproporcionada, o sin respeto a su contenido esencial. En igual sentido se entenderán las represalias ejercidas en contra de trabajadores por el ejercicio de acciones judiciales, por su participación en ellas como testigo o haber sido ofrecidos en tal calidad, o bien como consecuencia de la labor fiscalizadora de la Dirección del Trabajo.
 Interpuesta la acción de protección a que se refiere el artículo 20 de la Constitución Política, en los casos que proceda, no se podrá efectuar una denuncia de conformidad a las normas de este Párrafo, que se refiera a los mismos hechos.
 
 Artículo 486.- Cualquier trabajador u organización sindical que, invocando un derecho o interés legítimo, considere lesionados derechos fundamentales en el ámbito de las relaciones jurídicas cuyo conocimiento corresponde a la jurisdicción laboral, podrá requerir su tutela por la vía de este procedimiento.
@@ -3200,12 +3200,13 @@ Artículo 500.- En caso que el juez estime fundadas las pretensiones del demanda
 Las partes sólo podrán reclamar de esta resolución dentro del plazo de diez días hábiles contado desde su notificación, sin que proceda en contra de ella ningún otro recurso.
 La notificación al demandado se practicará conforme a las reglas generales.
 En todo caso, en la notificación se hará constar los efectos que producirá la falta de reclamo o su presentación extemporánea.
-Presentada la reclamación dentro de plazo, el juez citará a las partes a una audiencia única de conciliación, contestación y prueba, la que deberá celebrarse dentro de los quince días siguientes a su presentación.
+Presentada la reclamación dentro de plazo, el juez citará a las partes a una audiencia única de conciliación, contestación y prueba, la que deberá celebrarse dentro de los quince días siguientes a su presentación. En el evento de citarse a la audiencia única por no existir antecedentes suficientes para el pronunciamiento a que se refiere el inciso primero, el tribunal fijará dentro de los veinte días siguientes a la fecha de la resolución, el día y la hora para su celebración, debiendo mediar entre la notificación y la celebración de la audiencia, a lo menos, cinco días.
 Si el empleador reclama parcialmente de la resolución que acoge las pretensiones del trabajador, se aplicará lo establecido en el artículo 462.
 
 Artículo 501.- Las partes deberán asistir a la audiencia con todos sus medios de prueba y, en caso de comparecer a través de mandatario, éste deberá estar expresamente revestido de la facultad de transigir.
 La audiencia tendrá lugar con sólo la parte que asista.
 El juez deberá dictar sentencia al término de la audiencia, la que deberá contener las menciones señaladas en los números 1, 2, 5, 6 y 7 del artículo 459.
+Sin perjuicio de lo dispuesto en el inciso anterior, siempre que se trate de causas de interés colectivo o causas que presenten mayor complejidad, el juez podrá, mediante resolución fundada, dictar la sentencia respectiva hasta en un plazo de tres días de terminada la audiencia, la que deberá notificarse en la forma prevista en el inciso primero del artículo 457.
 
 Artículo 502.- Las resoluciones dictadas en el procedimiento monitorio serán susceptibles de ser impugnadas por medio de todos los recursos establecidos en este Código, con excepción del recurso de unificación de jurisprudencia contenido en los artículos 483 y siguientes.
 
