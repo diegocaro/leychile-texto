@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-11-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-12-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2016-11-07
-fetched_at: 2026-08-03T03:52:29.895042+00:00
+version_date: 2016-12-19
+fetched_at: 2026-08-03T04:08:49.152467+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -842,11 +842,9 @@ En caso de nueva vista de una causa por discordia ocurrida en la primera, el Pre
 
 Art. 88. Derogado.
 
-Art. 89. En los autos y sentencias definitivas e interlocutorias de los tribunales colegiados, se expresará nominalmente qué miembros han concurrido con su voto a formar sentencia y qué miembros han sostenido opinión contraria.
-Habrá en cada tribunal colegiado un libro, denominado de acuerdos, en el cual los miembros que no opinaren como la mayoría deberán exponer y fundar su voto particular en los asuntos en que hubiere conocido el tribunal.
-Podrán también consignar las razones especiales que algún miembro de la mayoría haya tenido para formar sentencia, y que no se hubieren insertado en ella.
-Este libro quedará en la secretaría y podrá ser consultado por cualquiera que demuestre interés en ello.
-El voto y fundamento de que se trata en el inciso precedente se publicarán en la Gaceta de los Tribunales a continuación de la sentencia a que se refieren.
+Art. 89. En los autos y sentencias definitivas e interlocutorias de los tribunales colegiados, se expresará nominalmente qué miembros han concurrido con su voto a formar sentencia y qué miembros han sostenido opinión contraria, lo que quedará registrado electrónicamente.
+Podrán también consignarse electrónicamente las razones especiales que algún miembro de la mayoría haya tenido para formar sentencia y que no se hubieren insertado en ella.
+La sentencia, su disidencia y las prevenciones estarán disponibles en la página de internet del Poder Judicial. Estos documentos podrán publicarse por la Corte Suprema en la Gaceta de los Tribunales o en otras publicaciones que disponga al efecto.
 
 ### § 3. Los Presidentes de las Cortes de Apelaciones
 
@@ -1169,8 +1167,8 @@ Art. 175. En las comunas o agrupaciones de comunas en donde hubiere más de un j
 Esta designación se efectuará mediante un sistema informático idóneo, asignando a cada causa un número de orden según su naturaleza. En todo caso, deberá velar por una distribución equitativa entre los distintos tribunales.
 Lo dispuesto en este artículo no se aplicará a los juzgados de garantía ni a los tribunales de juicio oral en lo penal, que se regirán por las normas especiales que los regulan.
 
-Art. 176. En los lugares de asiento de Corte en que hubiere más de un juez de letras en lo civil, deberá presentarse a la secretaría de la Corte toda demanda o gestión judicial que se iniciare y que deba conocer alguno de dichos jueces, a fin de que se designe el juez a quien corresponda su conocimiento.
-Esta designación se hará por el presidente del tribunal, previa cuenta dada por el secretario, asignando a cada causa un número de orden, según su naturaleza, y dejando constancia de ella en un libro llevado al efecto que no podrá ser examinado sin orden del tribunal.
+Art. 176. En los lugares de asiento de Corte en que hubiere más de un juez de letras en lo civil, deberá presentarse a la Corte toda demanda o gestión judicial que se iniciare y que deba conocer alguno de dichos jueces, a fin de que se designe el juez a quien corresponda su conocimiento.
+Esta designación se hará electrónicamente por orden del presidente del tribunal, asignando a cada causa un número de orden, según su naturaleza.
 
 Art. 177. Derogado.
 
@@ -1363,8 +1361,8 @@ Las ternas para abogados integrantes de las Cortes de Apelaciones sólo podrán 
 Si por cualquiera causa alguno de los abogados designados para la Corte Suprema no pudiere continuar en las funciones, el Presidente de la República podrá nombrar en su reemplazo por el resto del período a uno de los componentes de las ternas que formó la Corte Suprema en su oportunidad, o requerir de dicho tribunal la formación de una nueva terna, en conformidad con lo previsto en los incisos anteriores.
 En las ternas no se podrán repetir nombres.
 
-Art. 220. Los secretarios de los tribunales colegiados, llevarán un libro público de integraciones y de asistencia al tribunal, en el que anotarán diariamente los nombres de los miembros que no hayan asistido, con expresión de la causa de esta inasistencia, y de los funcionarios o abogados que hayan sido llamados a integrar.
-De la integración deberá dejarse testimonio en el respectivo proceso.
+Art. 220. Los secretarios de los tribunales colegiados llevarán electrónicamente un registro público de integraciones y de asistencia al tribunal, en el que anotarán diariamente los nombres de los miembros que no hayan asistido, con expresión de la causa de inasistencia, y de los funcionarios o abogados que hayan sido llamados a integrar, información que estará disponible en la página de internet del Poder Judicial.
+De la integración deberá dejarse testimonio en la respectiva carpeta electrónica.
 
 Art. 221. Los abogados que fueren llamados a integrar la Corte Suprema y las Cortes de Apelaciones, percibirán una remuneración equivalente a una treintava parte de la remuneración mensual asignada al cargo de los ministros del respectivo tribunal, por cada audiencia a que concurran.
 Los funcionarios judiciales llamados a integrar las Cortes de Apelaciones no percibirán remuneración de ninguna naturaleza por este concepto.
@@ -2048,7 +2046,7 @@ Pero no se extiende al caso de licencia del defensor ni al de vacante de la plaz
 Art. 372. Son funciones de los relatores:
 1°) Dar cuenta diaria de las solicitudes que se presenten en calidad de urgentes, de las que no pudieren ser despachadas por la sola indicación de la suma y de los negocios que la Corte mandare pasar a ellos;
 2°) Poner en conocimiento de las partes o sus abogados el nombre de las personas que integran el tribunal, en el caso a que se refiere el artículo 173 del Código de Procedimiento Civil;
-3°) Revisar los expedientes que se les entreguen y certificar que están en estado de relación. En caso que sea necesario traer a la vista los documentos, cuadernos separados y expedientes no acompañados o realizar trámites procesales previos a la vista de la causa, informará de ello al Presidente de la Corte, el cual dictará las providencias que correspondan.
+3°) Revisar los expedientes físicos o digitales que se les entreguen o asignen y certificar que están en estado de relación. En caso que sea necesario traer a la vista los documentos, cuadernos separados y expedientes no acompañados o realizar trámites procesales previos a la vista de la causa, informará de ello al Presidente de la Corte, el cual dictará las providencias que correspondan.
 4°) Hacer relación de los procesos;
 5°) Anotar el día de la vista de cada causa los nombres de los jueces que hubieren concurrido a ella, si no fuere despachada inmediatamente; y
 6°) Cotejar con los procesos los informes en derecho, y anotar bajo su firma la conformidad o disconformidad que notaren entre el mérito de éstos y los hechos expuestos en aquéllos.
@@ -2076,7 +2074,7 @@ Las certificaciones y demás funciones encomendadas a los secretarios de juzgado
 
 Art. 380. Son funciones de los secretarios:
 1°) Dar cuenta diariamente a la Corte o juzgado en que presten sus servicios de las solicitudes que presentaren las partes;
-2°) Autorizar las providencias o resoluciones que sobre dichas solicitudes recayeren, y hacerlas saber a los interesados que acudieren a la oficina para tomar conocimiento de ellas, anotando en el proceso las notificaciones que hicieren, y practicar las notificaciones por el estado diario;
+2°) Dar a conocer las providencias o resoluciones a los interesados que acudieren a la oficina para tomar conocimiento de ellas, registrando en la carpeta electrónica las modificaciones que hicieren, y practicar las notificaciones por el estado diario;
 3°) Dar conocimiento a cualquiera persona que lo solicitare de los procesos que tengan archivados en sus oficinas, y de todos los actos emanados de la Corte o juzgado, salvo los casos en que el procedimiento deba ser secreto en virtud de una disposición expresa de la ley;
 4°) Guardar con el conveniente arreglo los procesos y demás papeles de su oficina, sujetándose a los órdenes e instrucciones que la Corte o juzgado respectivo les diere sobre el particular.
 Dentro de los seis meses de estar practicada la visita de que trata el artículo 564, enviarán los procesos iniciados en su oficina y que estuvieren en estado, al archivo correspondiente;
@@ -2089,22 +2087,21 @@ Art. 382. Derogado.
 
 Art. 383. En las Cortes de Apelaciones que consten de una sala, los secretarios estarán obligados a hacer la relación de la tabla ordinaria durante los días de la semana que acuerde el tribunal.
 
-Art. 384. Los Secretarios deberán llevar los siguientes registros:
-1°.- Un registro foliado compuesto por copias escritas a máquina, autorizadas por el Secretario, de las sentencias definitivas que se dicten en los asuntos civiles, contenciosos o de jurisdicción voluntaria.
-También se copiarán en dicho libro las sentencias interlocutorias que pongan término al juicio o hagan imposible su continuación.
-En los Tribunales Colegiados se formará el mismo registro señalado en los incisos precedentes.
-Cada registro con no más de quinientas páginas se empastará anualmente;
-2°.- El registro de depósitos a que se refiere el artículo 507, y
-3°.- Los demás que ordenen las leyes o el Tribunal.
-Los Secretarios de los Juzgados de Letras llevarán también un libro donde se estamparán, con la firma del Juez, las resoluciones que miren al régimen económico y disciplinario del Juzgado.
+Art. 384. Los secretarios estarán a cargo de la confección de los siguientes registros:
+1º Un registro electrónico de las sentencias definitivas que se dicten en los asuntos civiles, contenciosos o no contenciosos, con la debida firma electrónica avanzada del juez o jueces involucrados.
+También se incluirán en dicho registro electrónico las sentencias interlocutorias que pongan término al juicio o hagan imposible su continuación.
+En los tribunales colegiados se formará el mismo registro electrónico señalado en los incisos precedentes.
+2º El registro electrónico de los depósitos a que se refiere el artículo 517.
+3º Un registro electrónico de las resoluciones relativas al régimen económico y disciplinario del juzgado, con la debida firma electrónica avanzada del juez o jueces involucrados.
+4º Los demás que ordenen las leyes o el tribunal, los que deberán ser conformados electrónicamente.
 
 Art. 385. Derogado
 
-Art. 386. Los secretarios de los tribunales colegiados deberán llevar, también, los siguientes libros:
+Art. 386. Los secretarios de los tribunales colegiados deberán llevar, también, los siguientes registros electrónicos:
 1°) El de acuerdos que el tribunal celebre en asuntos administrativos;
 2°) El de juramentos en el cual deben insertarse las diligencias de los juramentos que tome el presidente, con arreglo a este Código;
 3°) El de integraciones y de asistencia al tribunal en el que anotarán diariamente los nombres de los miembros que no hayan asistido, con expresión de la causa de esta inasistencia, y de los funcionarios o abogados que hayan sido llamados a integrar; y
-4°) El libro a que se refiere el artículo 89.
+4°) Eliminado.
 
 Art. 387. Derogado.
 
@@ -2160,14 +2157,14 @@ Art. 391. Los receptores estarán al servicio de la Corte Suprema, de las Cortes
 Los receptores ejercerán sus funciones en todo el territorio jurisdiccional del respectivo tribunal. Sin embargo, también podrán practicar las actuaciones ordenadas por éste, en otra comuna comprendida dentro del territorio jurisdiccional de la misma Corte de Apelaciones.
 
 Art. 392. Para cada comuna o agrupación de comunas que constituya el territorio jurisdiccional de juzgados de letras, habrá el número de receptores que determine el Presidente de la República, previo informe favorable de la respectiva Corte de Apelaciones.
-Sin perjuicio de lo anterior, podrá el tribunal de la causa designar receptor a un empleado de la secretaría del mismo tribunal para el solo efecto de que practique una diligencia determinada que no pueda realizarse por ausencia, inhabilidad u otro motivo calificado, por los receptores judiciales a que se refiere el inciso anterior. Esta designación deberá hacerse mediante resolución fundada, escrita en el libro establecido en el inciso final del artículo 384, dejándose constancia en el respectivo expediente.
+Sin perjuicio de lo anterior, podrá el tribunal de la causa designar receptor a un empleado de la secretaría del mismo tribunal para el solo efecto de que practique una diligencia determinada que no pueda realizarse por ausencia, inhabilidad u otro motivo calificado, por los receptores judiciales a que se refiere el inciso anterior. Esta designación deberá hacerse mediante resolución fundada, registrada electrónicamente conforme a lo dispuesto en el número 3º del artículo 384, dejándose constancia en el respectivo expediente.
 La persona designada prestará el juramento exigido por el artículo 471 ante el mismo tribunal; practicará la diligencia encomendada ciñéndose a las obligaciones impuestas por el artículo 393, y quedará facultada para cobrar los derechos que correspondan de acuerdo con el arancel de receptores judiciales.
 La designación mencionada se transcribirá, en cada caso, al respectivo ministro visitador del tribunal.
 Las disposiciones de los dos incisos anteriores no tendrán aplicación en los juzgados de letras dependientes de la Corte de Apelaciones de Santiago.
 
-Art. 393. Los receptores deberán cumplir con prontitud y fidelidad las diligencias que se les encomienden, ciñéndose en todo a la legislación vigente, y dejar testimonio íntegro de ellas en los autos respectivos.
+Art. 393. Los receptores deberán cumplir con prontitud y fidelidad las diligencias que se les encomienden, ciñéndose en todo a la legislación vigente, y dejar testimonio íntegro de ellas en la carpeta electrónica respectiva.
 Toda falsedad en un testimonio castigada por la ley llevará consigo la pena accesoria de inhabilitación especial perpetua para desempeñar funciones en la Administración de Justicia, sin perjuicio de las otras penas accesorias que procedan en conformidad con la ley.
-Los receptores sólo podrán retirar de la secretaría del tribunal las piezas del expediente que sean estrictamente necesarias para la realización de la diligencia que deban efectuar. El expediente o el respectivo cuaderno, en su caso, deberán devolverse a la secretaría del tribunal dentro de los dos días hábiles siguientes a la fecha en que se practicó la diligencia, con la debida constancia de todo lo obrado. Todo incumplimiento a las normas de este inciso constituirá falta grave a las funciones y será sancionado por el tribunal, previa audiencia del afectado, con alguna de las medidas contempladas en los números 2, 3 y 4 del artículo 532. En caso de reincidencia, el juez deberá aplicar la medida de suspensión de funciones por un mes.
+Los receptores sólo podrán acceder a las causas a través del sistema de tramitación electrónica del Poder Judicial para la realización de las diligencias que deban efectuar, debiendo dejar en la carpeta electrónica constancia de todo lo obrado. Todo incumplimiento a las normas de este inciso constituirá falta grave a las funciones y será sancionado por el tribunal, previa audiencia del afectado, con alguna de las medidas contempladas en los números 2, 3 y 4 del artículo 532. En caso de reincidencia, el juez deberá aplicar la medida de suspensión de funciones por un mes.
 Los receptores sólo podrán hacer uso del auxilio de la fuerza pública que decrete un tribunal para la realización de la determinada diligencia respecto de la cual fue autorizado. El uso no autorizado o el anuncio o la amenaza de uso del auxilio de la fuerza pública sin estar decretado, será sancionado en la forma prevista en el N° 4 del artículo 532 de este Código.
 Los receptores no podrán cobrar derechos superiores a los que establezca el arancel respectivo, deberán anotar el monto de lo cobrado al margen de cada testimonio y emitirán, con la debida especificación, la consiguiente boleta de honorarios. Las diligencias que realicen de conformidad a lo establecido en el artículo 595 serán gratuitas. El cobro indebido de derechos o de monto superior al fijado en el arancel será castigado con el máximo de la pena que establece el inciso primero del artículo 241 del Código Penal y con la suspensión del cargo por dos meses.
 El Presidente de la República, previo informe de la Corte Suprema, fijará anualmente los aranceles de los receptores judiciales, de conformidad a la ley.
@@ -2685,7 +2682,7 @@ En todo lo que no esté previsto en este título, regirán las disposiciones sob
 Art. 517. Todos los dineros que sea necesario poner a disposición de los tribunales de justicia deberán colocarse en alguna oficina del Banco del Estado a la orden del tribunal respectivo.
 Los depósitos a la orden judicial ganarán el interés que, para estos efectos, fije la Superintendencia de Bancos en beneficio de la Corporación Administrativa del Poder Judicial.
 En los lugares en que no exista oficina del Banco del Estado, el depósito deberá hacerse en alguna Tesorería Comunal. El tesorero, en el plazo de cinco días, deberá enviar los fondos que se le hayan entregado a la oficina del Banco en que tenga su cuenta el tribunal a cuya orden se consignan los fondos.
-Los secretarios de las Cortes y los secretarios o administradores de los tribunales llevarán un libro en que anotarán los depósitos consignados a la orden del tribunal, con indicación de la fecha, nombre, juicio o proceso en que inciden y de los giros que se hagan.
+Los secretarios de las Cortes y los secretarios o administradores de los tribunales llevarán un registro electrónico en que anotarán los depósitos consignados a la orden del tribunal, con indicación de la fecha, nombre, juicio o proceso en que inciden y de los giros que se hagan.
 No obstante lo dispuesto en los incisos anteriores, continuarán consignándose en arcas fiscales, en conformidad a las disposiciones que estaban vigentes el 21 de septiembre de 1939 y especialmente a las de la ley N° 5.493, los dineros que para responder al pago de multas debían consignarse en dichas arcas.
 
 Art. 518. Lo dispuesto en los artículos anteriores no se aplicará a las boletas de garantía o fianza que emitan las instituciones de crédito para tomar parte en los remates, para responder de medidas precautorias o para otorgar fianzas.
@@ -2701,9 +2698,8 @@ Art. 520. Los abogados son personas revestidas por la autoridad competente de la
 Art. 521. El título de abogado será otorgado en audiencia pública por la Corte Suprema reunida en tribunal pleno, previa comprobación y declaración de que el candidato reúne los requisitos establecidos por los artículos 523 y 526.
 
 Art. 522. En la audiencia indicada, después que el postulante preste juramento de desempeñar leal y honradamente la profesión, el Presidente del Tribunal, de viva voz lo declarará legalmente investido del título de abogado.
-De lo actuado se levantará acta autorizada por el Secretario en un libro que se llevará especialmente con este objeto.
+De lo actuado se levantará acta autorizada por el Secretario en un registro electrónico que se llevará especialmente con este objeto.
 En seguida se entregará al abogado el título o diploma que acredite su calidad de tal, firmado por el Presidente del Tribunal, por los Ministros asistentes a la audiencia respectiva y por el Secretario.
-Inciso suprimido.
 
 Art. 523. Para poder ser abogado se requiere:
 1°) Tener veinte años de edad;
@@ -2740,7 +2736,7 @@ Deberán emplear estos medios en el orden expresado y sólo podrán hacer uso de
 
 Art. 531. Podrán también los jueces de letras, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren:
 1°) Mandar devolver el escrito con orden de que no se admita mientras no se supriman las palabras o pasajes abusivos;
-2°) Hacer tarjar por el secretario esas mismas palabras o pasajes abusivos; y dejar copia de ellos en un libro privado que al efecto habrá en el juzgado;
+2°) Hacer tarjar por el secretario esas mismas palabras o pasajes abusivos; y dejar copia de ellos en un registro electrónico privado que al efecto habrá en el juzgado;
 3°) Exigir firma de abogado para ese escrito y los demás que en adelante presente la misma parte, cuando ésta no esté patrocinada por un abogado en conformidad a la ley;
 4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de cinco unidades tributarias mensuales, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
 5°) Imponer efectivamente al abogado, o a la parte, o a ambos, las penas expresadas en el número anterior.
