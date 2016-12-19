@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2016-08-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2016-12-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2016-08-30
-fetched_at: 2026-08-03T03:21:38.369263+00:00
+version_date: 2016-12-19
+fetched_at: 2026-08-03T04:08:43.141731+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -14,8 +14,6 @@ derogada: false
 
 CODIGO DE PROCEDIMIENTO CIVIL
 Descargar Código de Procedimiento Civil Versión Original (PDF, 39 M)
-NOTA
-El Artículo primero transitorio de la Ley 20886, publicada el 18.12.2015, dispone que las modificaciones introducidas a la presente norma, entrarán en vigencia a contar de seis meses desde la fecha de su publicación, para todas las causas que se tramiten ante los tribunales que ejerzan jurisdicción en los territorios jurisdiccionales de las Cortes de Apelaciones de Arica, Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Chillán, Temuco, Valdivia, Puerto Montt, Coihaique y Punta Arenas.
 
 Que aprueba el Código de Procedimiento Civil
 Por cuanto el Congreso Nacional ha dado su
@@ -603,12 +601,8 @@ Véase el Auto Acordado de la Corte de Apelaciones de Santiago, publicado el 19.
 
 Art. 164 (171). Las causas se verán en el día señalado. Si concluida la hora de audiencia, queda pendiente alguna y no se acuerda prorrogar el acto, se continuará en los días hábiles inmediatos hasta su terminación, sin necesidad de ponerla nuevamente en tabla.
 
-Artículo 165.- Sólo podrá suspenderse en el día designado al efecto
-NOTA
-la vista de una causa, o retardarse dentro del mismo día:
-1°. Por impedirlo el examen de las causas colocadas en
-NOTA
-lugar preferente, o la continuación de la vista de otro pleito pendiente del día anterior;
+Artículo 165.- Sólo podrá suspenderse en el día designado al efecto la vista de una causa, o retardarse dentro del mismo día:
+1°. Por impedirlo el examen de las causas colocadas en lugar preferente, o la continuación de la vista de otro pleito pendiente del día anterior;
 2°. Por falta de miembros del tribunal en número suficiente para pronunciar sentencia;
 3°. Por muerte del abogado patrocinante, del procurador o del litigante que gestione por sí en el pleito.
 En estos casos, la vista de la causa se suspenderá por quince días contados desde la notificación al patrocinado o mandante de la muerte del abogado o del procurador, o desde la muerte del litigante que obraba por sí mismo, en su caso;
@@ -2823,7 +2817,11 @@ Por consiguiente, aun cuando en el progreso del recurso se descubra alguna nueva
 Art. 775. (949). No obstante lo dispuesto en los artículos 769 y 774, pueden los tribunales, conociendo por vía de apelación, consulta o casación o en alguna incidencia, invalidar de oficio las sentencias cuando los antecedentes del recurso manifiesten que ellas adolecen de vicios que dan lugar a la casación en la forma, debiendo oír sobre este punto a los abogados que concurran a alegar en la vista de la causa e indicar a los mismos los posibles vicios sobre los cuales deberán alegar.
 Si el defecto que se advierte es la omisión del fallo sobre alguna acción o excepción que se haya hecho valer en el juicio, el tribunal superior podrá limitarse a ordenar al de la causa que complete la sentencia, dictando resolución sobre el punto omitido, y entre tanto, suspenderá el fallo del recurso.
 
-Art. 776. Presentado el recurso, el tribunal examinará si ha sido interpuesto en tiempo y si ha sido patrocinado por abogado habilitado. En el caso que el recurso se interpusiere ante un tribunal colegiado, el referido examen se efectuará en cuenta.
+Art. 776. Presentado el recurso, el tribunal examinará si ha sido i
+NOTA
+nterpuesto en tiempo y si ha sido patrocinado por abogado habilitado. En el caso que el recurso se interpusiere ante u
+NOTA
+n tribunal colegiado, el referido examen se efectuará en cuenta.
 Si el recurso reúne estos requisitos, dará cumplimiento a lo establecido en el inciso primero del artículo 197.
 Inciso Eliminado.
 NOTA
