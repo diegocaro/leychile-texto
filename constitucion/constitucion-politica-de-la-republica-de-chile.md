@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2015-11-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2017-01-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2015-11-16
-fetched_at: 2026-08-03T03:17:24.672781+00:00
+version_date: 2017-01-05
+fetched_at: 2026-08-03T04:09:07.154583+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -83,7 +83,6 @@ Artículo 14.- Los
 NOTA
 extranjeros avecindados en Chile por más de cinco años, y que cumplan con los requisitos señalados en el inciso primero del artículo 13, podrán ejercer el derecho de sufragio en los casos y formas que determine la ley.
 Los nacionalizados en conformidad al Nº 3º del artículo 10, tendrán opción a cargos públicos de elección popular sólo después de cinco años de estar en posesión de sus cartas de nacionalización.
-NOTA
 NOTA
 El Nº 1 del artículo único de la ley 21773, publicada el 07.10.2025, dispone reemplazar el inciso primero del presente artículo por el que indica, modificación que comenzará a regir desde el año 2026. Además, previo a su entrada en vigencia, una ley establecerá multas para ciudadanos por incumplimiento del deber de sufragio, conforme a lo dispuesto por la disposición quincuagésima cuarta transitoria de esta norma.
 
@@ -296,7 +295,7 @@ Artículo 32.- Son atribuciones especiales del Presidente de la República:
 4º.- Convocar a plebiscito en los casos del artículo 128;
 5º.- Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución;
 6º.- Ejercer la potestad reglamentaria en todas aquellas materias que no sean propias del dominio legal, sin perjuicio de la facultad de dictar los demás reglamentos, decretos e instrucciones que crea convenientes para la ejecución de las leyes;
-7º.- Nombrar y remover a su voluntad a los ministros de Estado, subsecretarios, intendentes y gobernadores;.
+7º.- Nombrar y remover a su voluntad a los ministros de Estado, subsecretarios, delegados presidenciales regionales y delegados presidenciales provinciales;
 8º.- Designar a los embajadores y ministros diplomáticos, y a los representantes ante organismos internacionales. Tanto estos funcionarios como los señalados en el N° 7° precedente, serán de la confianza exclusiva del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella;
 9º.- Nombrar al Contralor General de la República con acuerdo del Senado;
 10º.- Nombrar y remover a los funcionarios que la ley denomina como de su exclusiva confianza y proveer los demás empleos civiles en conformidad a la ley. La remoción de los demás funcionarios se hará de acuerdo a las disposiciones que ésta determine;
@@ -408,10 +407,10 @@ a) Del Presidente de la República, por actos de su administración que hayan co
 b) De los Ministros de Estado, por haber comprometido gravemente el honor o la seguridad de la Nación, por infringir la Constitución o las leyes o haber dejado éstas sin ejecución, y por los delitos de traición, concusión, malversación de fondos públicos y soborno;
 c) De los magistrados de los tribunales superiores de justicia y del Contralor General de la República, por notable abandono de sus deberes;
 d) De los generales o almirantes de las instituciones pertenecientes a las Fuerzas de la Defensa Nacional, por haber comprometido gravemente el honor o la seguridad de la Nación, y
-e) De los intendentes, gobernadores y de la autoridad que ejerza el Gobierno en los territorios especiales a que se refiere el artículo 126 bis, por infracción de la Constitución y por los delitos de traición, sedición, malversación de fondos públicos y concusión.
+e) De los delegados presidenciales regionales, delegados presidenciales provinciales y de la autoridad que ejerza el Gobierno en los territorios especiales a que se refiere el artículo 126 bis, por infracción de la Constitución y por los delitos de traición, sedición, malversación de fondos públicos y concusión.
 La acusación se tramitará en conformidad a la ley orgánica constitucional relativa al Congreso.
 Las acusaciones referidas en las letras b), c), d) y e) podrán interponerse mientras el afectado esté en funciones o en los tres meses siguientes a la expiración en su cargo. Interpuesta la acusación, el afectado no podrá ausentarse del país sin permiso de la Cámara y no podrá hacerlo en caso alguno si la acusación ya estuviere aprobada por ella.
-Para declarar que ha lugar la acusación en contra del Presidente de la República se necesitará el voto de la mayoría de los diputados en ejercicio.
+Para declarar que ha lugar la acusación en contra del Presidente de la República o de un gobernador regional se necesitará el voto de la mayoría de los diputados en ejercicio.
 En los demás casos se requerirá el de la mayoría de los diputados presentes y el acusado quedará suspendido en sus funciones desde el momento en que la Cámara declare que ha lugar la acusación. La suspensión cesará si el Senado desestimare la acusación o si no se pronunciare dentro de los treinta días siguientes.
 
 ### Atribuciones exclusivas del Senado
@@ -419,7 +418,7 @@ En los demás casos se requerirá el de la mayoría de los diputados presentes y
 Artículo 53.- Son atribuciones exclusivas del Senado:
 1) Conocer de las acusaciones que la Cámara de Diputados entable con arreglo al artículo anterior.
 El Senado resolverá como jurado y se limitará a declarar si el acusado es o no culpable del delito, infracción o abuso de poder que se le imputa.
-La declaración de culpabilidad deberá ser pronunciada por los dos tercios de los senadores en ejercicio cuando se trate de una acusación en contra del Presidente de la República, y por la mayoría de los senadores en ejercicio en los demás casos.
+La declaración de culpabilidad deberá ser pronunciada por los dos tercios de los senadores en ejercicio cuando se trate de una acusación en contra del Presidente de la República o de un gobernador regional, y por la mayoría de los senadores en ejercicio en los demás casos.
 Por la declaración de culpabilidad queda el acusado destituido de su cargo, y no podrá desempeñar ninguna función pública, sea o no de elección popular, por el término de cinco años.
 El funcionario declarado culpable será juzgado de acuerdo a las leyes por el tribunal competente, tanto para la aplicación de la pena señalada al delito, si lo hubiere, cuanto para hacer efectiva la responsabilidad civil por los daños y perjuicios causados al Estado o a particulares;
 2) Decidir si ha o no lugar la admisión de las acciones judiciales que cualquier persona pretenda iniciar en contra de algún Ministro de Estado, con motivo de los perjuicios que pueda haber sufrido injustamente por acto de éste en el desempeño de su cargo;
@@ -465,7 +464,7 @@ El Reglamento de cada Cámara determinará el contenido de dicha cuenta y regula
 
 Artículo 57.- No pueden ser candidatos a diputados ni a senadores:
 1) Los Ministros de Estado;
-2) Los intendentes, los gobernadores, los alcaldes, los consejeros regionales, los concejales y los subsecretarios;
+2) Los gobernadores regionales, los delegados presidenciales regionales, los delegados presidenciales provinciales, los alcaldes, los consejeros regionales, los concejales y los subsecretarios;
 3) Los miembros del Consejo del Banco Central;
 4) Los magistrados de los tribunales superiores de justicia y los jueces de letras;
 5) Los miembros del Tribunal Constitucional, del Tribunal Calificador de Elecciones y de los tribunales electorales regionales;
@@ -798,23 +797,29 @@ La creación, supresión y denominación de regiones, provincias y comunas; la m
 
 ### Gobierno y Administración Regional
 
-Artículo 111.- El gobierno de cada región reside en un intendente que será de la exclusiva confianza del Presidente de la República. El intendente ejercerá sus funciones con arreglo a las leyes y a las órdenes e instrucciones del Presidente, de quien es su representante natural e inmediato en el territorio de su jurisdicción.
-La administración superior de cada región radicará en un gobierno regional que tendrá por objeto el desarrollo social, cultural y económico de la región.
-El gobierno regional estará constituido por el intendente y el consejo regional. Para el ejercicio de sus funciones, el gobierno regional gozará de personalidad jurídica de derecho público y tendrá patrimonio propio.
+Artículo 111.- La administración superior de cada región reside en un gobierno regional, que tendrá por objeto el desarrollo social, cultural y económico de la región.
+El gobierno regional estará constituido por un gobernador regional y el consejo regional. Para el ejercicio de sus funciones, el gobierno regional gozará de personalidad jurídica de derecho público y tendrá patrimonio propio.
+El gobernador regional será el órgano ejecutivo del gobierno regional, correspondiéndole presidir el consejo y ejercer las funciones y atribuciones que la ley orgánica constitucional determine, en coordinación con los demás órganos y servicios públicos creados para el cumplimiento de la función administrativa. Asimismo, le corresponderá la coordinación, supervigilancia o fiscalización de los servicios públicos que dependan o se relacionen con el gobierno regional.
+El gobernador regional será elegido por sufragio universal en votación directa. Será electo el candidato a gobernador regional que obtuviere la mayoría de los sufragios válidamente emitidos y siempre que dicha mayoría sea equivalente, al menos, al cuarenta por ciento de los votos válidamente emitidos, en conformidad a lo que disponga la ley orgánica constitucional respectiva. Durará en el ejercicio de sus funciones por el término de cuatro años, pudiendo ser reelegido consecutivamente sólo para el período siguiente.
+Si a la elección del gobernador regional se presentaren más de dos candidatos y ninguno de ellos obtuviere al menos cuarenta por ciento de los sufragios válidamente emitidos, se procederá a una segunda votación que se circunscribirá a los candidatos que hayan obtenido las dos más altas mayorías relativas y en ella resultará electo aquel de los candidatos que obtenga el mayor número de sufragios. Esta nueva votación se verificará en la forma que determine la ley.
+Para los efectos de lo dispuesto en los dos incisos precedentes, los votos en blanco y los nulos se considerarán como no emitidos.
+La ley orgánica constitucional respectiva establecerá las causales de inhabilidad, incompatibilidad, subrogación, cesación y vacancia del cargo de gobernador regional, sin perjuicio de lo dispuesto en los artículos 124 y 125.
 
-Artículo 112.- Al intendente le corresponderá la coordinación, supervigilancia o fiscalización de los servicios públicos creados por ley para el cumplimiento de las funciones administrativas que operen en la región.
-La ley determinará la forma en que el intendente ejercerá estas facultades, las demás atribuciones que le correspondan y los organismos que colaborarán en el cumplimiento de sus funciones.
+Artículo 112.- Derogado
 
 Artículo 113. El consejo regional será un órgano de carácter normativo, resolutivo y fiscalizador, dentro del ámbito propio de competencia del gobierno regional, encargado de hacer efectiva la participación de la ciudadanía regional y ejercer las atribuciones que la ley orgánica constitucional respectiva le encomiende.
 El consejo regional estará integrado por consejeros elegidos por sufragio universal en votación directa, de conformidad con la ley orgánica constitucional respectiva. Durarán cuatro años en sus cargos y podrán ser reelegidos. La misma ley establecerá la organización del consejo regional, determinará el número de consejeros que lo integrarán y su forma de reemplazo, cuidando siempre que tanto la población como el territorio de la región estén equitativamente representados.
+El consejo regional podrá fiscalizar los actos del gobierno regional. Para ejercer esta atribución el consejo regional, con el voto conforme de un tercio de los consejeros regionales presentes, podrá adoptar acuerdos o sugerir observaciones que se transmitirán por escrito al gobernador regional, quien deberá dar respuesta fundada dentro de treinta días.
+Las demás atribuciones fiscalizadoras del consejo regional y su ejercicio serán determinadas por la ley orgánica constitucional respectiva.
+Sin perjuicio de lo anterior, cualquier consejero regional podrá requerir del gobernador regional o delegado presidencial regional la información necesaria al efecto, quienes deberán contestar fundadamente dentro del plazo señalado en el inciso tercero.
 Cesará en su cargo el consejero regional que durante su ejercicio perdiere alguno de los requisitos de elegibilidad o incurriere en alguna de las inhabilidades, incompatibilidades, incapacidades u otras causales de cesación que la ley orgánica constitucional establezca.
 Lo señalado en los incisos precedentes respecto del consejo regional y de los consejeros regionales será aplicable, en lo que corresponda, a los territorios especiales a que se refiere el artículo 126 bis.
-El consejo regional, por mayoría absoluta de sus integrantes en ejercicio, elegirá un presidente de entre sus miembros. El presidente del consejo durará cuatro años en su cargo y cesará en él en caso de incurrir en alguna de las causales señaladas en el inciso tercero, por remoción acordada por los dos tercios de los consejeros regionales en ejercicio o por renuncia aprobada por la mayoría de éstos.
+Inciso Suprimido.
 La ley orgánica constitucional determinará las funciones y atribuciones del presidente del consejo regional.
 Corresponderá al consejo regional aprobar el proyecto de presupuesto de la respectiva región considerando, para tal efecto, los recursos asignados a ésta en la Ley de Presupuestos, sus recursos propios y los que provengan de los convenios de programación.
 Los Senadores y Diputados que representen a las circunscripciones y distritos de la región podrán, cuando lo estimen conveniente, asistir a las sesiones del consejo regional y tomar parte en sus debates, sin derecho a voto.
 
-Artículo 114. La ley orgánica constitucional respectiva determinará la forma y el modo en que el Presidente de la República podrá transferir a uno o más gobiernos regionales, en carácter temporal o definitivo, una o más competencias de los ministerios y servicios públicos creados para el cumplimiento de la función administrativa, en materias de ordenamiento territorial, fomento de las actividades productivas y desarrollo social y cultural.
+Artículo 114. La ley orgánica constitucional respectiva determinará la forma y el modo en que el Presidente de la República transferirá a uno o más gobiernos regionales, en carácter temporal o definitivo, una o más competencias de los ministerios y servicios públicos creados para el cumplimiento de la función administrativa, en materias de ordenamiento territorial, fomento de las actividades productivas y desarrollo social y cultural.
 
 Artículo 115.- Para el gobierno y administración interior del Estado a que se refiere el presente capítulo se observará como principio básico la búsqueda de un desarrollo territorial armónico y equitativo. Las leyes que se dicten al efecto deberán velar por el cumplimiento y aplicación de dicho principio, incorporando asimismo criterios de solidaridad entre las regiones, como al interior de ellas, en lo referente a la distribución de los recursos públicos.
 Sin perjuicio de los recursos que para su funcionamiento se asignen a los gobiernos regionales en la Ley de Presupuestos de la Nación y de aquellos que provengan de lo dispuesto en el Nº 20º del artículo 19, dicha ley contemplará una proporción del total de los gastos de inversión pública que determine, con la denominación de fondo nacional de desarrollo regional.
@@ -823,17 +828,18 @@ A iniciativa de los gobiernos regionales o de uno o más ministerios podrán cel
 La ley podrá autorizar a los gobiernos regionales y a las empresas públicas para asociarse con personas naturales o jurídicas a fin de propiciar actividades e iniciativas sin fines de lucro que contribuyan al desarrollo regional. Las entidades que al efecto se constituyan se regularán por las normas comunes aplicables a los particulares.
 Lo dispuesto en el inciso anterior se entenderá sin perjuicio de lo establecido en el número 21º del artículo 19.
 
+Artículo 115 bis.- En cada región existirá una delegación presidencial regional, a cargo de un delegado presidencial regional, el que ejercerá las funciones y atribuciones del Presidente de la República en la región, en conformidad a la ley. El delegado presidencial regional será el representante natural e inmediato, en el territorio de su jurisdicción, del Presidente de la República y será nombrado y removido libremente por él. El delegado presidencial regional ejercerá sus funciones con arreglo a las leyes y a las órdenes e instrucciones del Presidente de la República.
+Al delegado presidencial regional le corresponderá la coordinación, supervigilancia o fiscalización de los servicios públicos creados por ley para el cumplimiento de las funciones administrativas que operen en la región que dependan o se relacionen con el Presidente de la República a través de un Ministerio.
+
 ### Gobierno y Administración Provincial
 
-Artículo 116.- En
-NOTA
-cada provincia existirá una gobernación que será un órgano territorialmente desconcentrado del intendente. Estará a cargo de un gobernador, quien será nombrado y removido libremente por el Presidente de la República.
-Corresponde al gobernador ejercer, de acuerdo a las instrucciones del intendente, la supervigilancia de los servicios públicos existentes en la provincia. La ley determinará las atribuciones que podrá delegarle el intendente y las demás que le corresponden.
+Artículo 116.- En cada provincia existirá una delegación presidencial provincial, que será un órgano territorialmente desconcentrado del delegado presidencial regional, y estará a cargo de un delegado presidencial provincial, quien será nombrado y removido libremente por el Presidente de la República. En la provincia asiento de la capital regional, el delegado presidencial regional ejercerá las funciones y atribuciones del delegado presidencial provincial.
+Corresponde al delegado presidencial provincial ejercer, de acuerdo a las instrucciones del delegado presidencial regional, la supervigilancia de los servicios públicos existentes en la provincia. La ley determinará las atribuciones que podrá delegarle el delegado presidencial regional y las demás que le corresponden.
 NOTA
 NOTA
 El N° 8 del Art. Único de la Ley 20390, publicada el 28.10.2009, derogó el inciso tercero del presente artículo.
 
-Artículo 117.- Los gobernadores, en los casos y forma que determine la ley, podrán designar delegados para el ejercicio de sus facultades en una o más localidades.
+Artículo 117.- Los delegados presidenciales provinciales, en los casos y forma que determine la ley, podrán designar encargados para el ejercicio de sus facultades en una o más localidades.
 
 ### Administración Comunal
 
@@ -864,18 +870,21 @@ Artículo 122.- Las municipalidades gozarán de autonomía para la administraci�
 Artículo 123.- La ley establecerá fórmulas de coordinación para la administración de todos o algunos de los municipios, con respecto a los problemas que les sean comunes, así como entre los municipios y los demás servicios públicos.
 Sin perjuicio de lo dispuesto en el inciso anterior, la ley orgánica constitucional respectiva regulará la administración de las áreas metropolitanas, y establecerá las condiciones y formalidades que permitan conferir dicha calidad a determinados territorios
 
-Artículo 124. Para ser designado intendente o gobernador y para ser elegido consejero regional, alcalde o concejal, se requerirá ser ciudadano con derecho a sufragio, tener los demás requisitos de idoneidad que la ley señale y residir en la región a lo menos en los últimos dos años anteriores a su designación o elección.
-Los cargos de intendente, gobernador, consejero regional, alcalde y concejal serán incompatibles entre sí.
-Ningún intendente, gobernador o presidente del consejo regional, desde el día de su designación o elección, según el caso, puede ser acusado o privado de su libertad, salvo el caso de delito flagrante, si el Tribunal de Alzada de la jurisdicción respectiva, en pleno, no autoriza previamente la acusación declarando haber lugar a la formación de causa. De esta resolución podrá apelarse ante la Corte Suprema.
-En caso de ser arrestado algún intendente, gobernador o presidente de consejo regional por delito flagrante, será puesto inmediatamente a disposición del Tribunal de Alzada respectivo, con la información sumaria correspondiente. El Tribunal procederá, entonces, conforme a lo dispuesto en el inciso anterior.
-Desde el momento en que se declare, por resolución firme, haber lugar a formación de causa, queda el intendente, gobernador o presidente del consejo regional imputado suspendido de su cargo y sujeto al juez competente.
+Artículo 124.- Para ser elegido gobernador regional, consejero regional, alcalde o concejal y para ser designado delegado presidencial regional o delegado presidencial provincial, se requerirá ser ciudadano con derecho a sufragio, tener los demás requisitos de idoneidad que la ley señale, en su caso, y residir en la región a lo menos en los últimos dos años anteriores a su designación o elección.
+Los cargos de gobernador regional, consejero regional, alcalde, concejal, delegado presidencial regional y delegado presidencial provincial serán incompatibles entre sí.
+El cargo de gobernador regional es incompatible con todo otro empleo o comisión retribuidos con fondos del Fisco, de las municipalidades, de las entidades fiscales autónomas, semifiscales o de las empresas del Estado o en las que el Fisco tenga intervención por aportes de capital, y con toda otra función o comisión de la misma naturaleza. Se exceptúan los empleos docentes y las funciones o comisiones de igual carácter de la enseñanza superior, media y especial, dentro de los límites que fije la ley. Asimismo, el cargo de gobernador regional es incompatible con las funciones de directores o consejeros, aun cuando sean ad honorem, en las entidades fiscales autónomas, semifiscales o en las empresas estatales, o en las que el Estado tenga participación por aporte de capital.
+Por el solo hecho de su proclamación por el Tribunal Calificador de Elecciones, el gobernador regional electo cesará en todo otro cargo, empleo o comisión que desempeñe.
+Ningún gobernador regional, desde el momento de su proclamación por el Tribunal Calificador de Elecciones, puede ser nombrado para un empleo, función o comisión de los referidos en los incisos precedentes. Sin perjuicio de lo anterior, esta disposición no rige en caso de guerra exterior; pero sólo los cargos conferidos en estado de guerra son compatibles con las funciones de gobernador regional.
+Ningún gobernador regional, delegado presidencial regional o delegado presidencial provincial, desde el día de su elección o designación, según el caso, puede ser acusado o privado de su libertad, salvo el caso de delito flagrante, si el Tribunal de Alzada de la jurisdicción respectiva, en pleno, no autoriza previamente la acusación declarando haber lugar a la formación de causa. De esta resolución podrá apelarse ante la Corte Suprema.
+En caso de ser arrestado algún gobernador regional, delegado presidencial regional o delegado presidencial provincial por delito flagrante, será puesto inmediatamente a disposición del Tribunal de Alzada respectivo, con la información sumaria correspondiente. El Tribunal procederá, entonces, conforme a lo dispuesto en el inciso anterior.
+Desde el momento en que se declare, por resolución firme, haber lugar a formación de causa, queda el gobernador regional, delegado presidencial regional o delegado presidencial provincial imputado suspendido de su cargo y sujeto al juez competente.
 
-Artículo 125.- Las leyes orgánicas constitucionales respectivas establecerán las causales de cesación en los cargos de alcalde, consejero regional y concejal.
+Artículo 125.- Las leyes orgánicas constitucionales respectivas establecerán las causales de cesación en los cargos de gobernador regional, de alcalde, consejero regional y concejal.
 Con todo, cesarán en sus cargos las autoridades mencionadas que hayan infringido gravemente las normas sobre transparencia, límites y control del gasto electoral, desde la fecha que lo declare por sentencia firme el Tribunal Calificador de Elecciones, a requerimiento del Consejo Directivo del Servicio Electoral. Una ley orgánica constitucional señalará los casos en que existe una infracción grave.
-Asimismo, quien perdiere el cargo de alcalde, consejero regional o concejal, de acuerdo a lo establecido en el inciso anterior, no podrá optar a ninguna función o empleo público por el término de tres años, ni podrá ser candidato a cargos de elección popular en los dos actos electorales inmediatamente siguientes a su cesación.
+Asimismo, quien perdiere el cargo de gobernador regional, de alcalde, consejero regional o concejal, de acuerdo a lo establecido en el inciso anterior, no podrá optar a ninguna función o empleo público por el término de tres años, ni podrá ser candidato a cargos de elección popular en los dos actos electorales inmediatamente siguientes a su cesación.
 
 Artículo 126.- La ley determinará la forma de resolver las cuestiones de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales y comunales.
-Asimismo, establecerá el modo de dirimir las discrepancias que se produzcan entre el intendente y el consejo regional, así como entre el alcalde y el concejo.
+Asimismo, establecerá el modo de dirimir las discrepancias que se produzcan entre el gobernador regional y el consejo regional, así como entre el alcalde y el concejo.
 
 ### Disposiciones Especiales
 
@@ -974,6 +983,12 @@ Para este efecto, las adecuaciones a la ley orgánica constitucional respectiva 
 
 VIGESIMOSÉPTIMA.- No obstante lo dispuesto en el artículo 94 bis, los actuales consejeros del Consejo Directivo del Servicio Electoral cesarán en sus cargos según los períodos por los cuales fueron nombrados. Los nuevos consejeros que corresponda designar el año 2017 durarán en sus cargos seis y ocho años cada uno, conforme a lo que señale el Presidente de la República en su propuesta. Asimismo, los nuevos nombramientos que corresponda efectuar el año 2021 durarán en sus cargos seis, ocho y diez años cada uno, conforme a lo que señale el Presidente de la República en su propuesta. En ambos casos, el Jefe de Estado formulará su proposición en un solo acto y el Senado se pronunciará sobre el conjunto de la propuesta.
 Quienes están actualmente en funciones no podrán ser propuestos para un nuevo período, si con dicha prórroga superan el plazo total de diez años en el desempeño del cargo.
+
+VIGÉSIMO OCTAVA.- La primera elección por sufragio universal en votación directa de los gobernadores regionales se verificará en la oportunidad que señale la ley orgánica constitucional a que aluden los incisos cuarto y quinto del artículo 111 y una vez promulgada la ley que establezca un nuevo procedimiento de transferencia de las competencias a las que se refiere el artículo 114.
+El período establecido en el inciso segundo del artículo 113 podrá ser adecuado por la ley orgánica constitucional señalada en los incisos cuarto y quinto del artículo 111 para que los períodos de ejercicio de gobernadores regionales y consejeros regionales coincidan. Esta modificación requerirá, para su aprobación, del voto favorable de las tres quintas partes de los diputados y senadores en ejercicio.
+Una vez que asuman los gobernadores regionales electos, los presidentes de los consejos regionales cesarán de pleno derecho en sus funciones, las que serán asumidas por el respectivo gobernador regional.
+Los gobernadores regionales electos, desde que asuman, tendrán las funciones y atribuciones que las leyes otorgan expresamente al intendente en tanto órgano ejecutivo del gobierno regional. Las restantes funciones y atribuciones que las leyes entregan al intendente se entenderán referidas al delegado presidencial regional que corresponda. Asimismo, las funciones y atribuciones que las leyes entregan al gobernador se entenderán atribuidas al delegado presidencial provincial.
+Mientras no asuman los primeros gobernadores regionales electos, a los cargos de intendentes y gobernadores les serán aplicables las disposiciones constitucionales vigentes previas a la publicación de la presente reforma constitucional.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Eduardo Dockendorff Vallejos, Ministro Secretario General de la Presidencia.-Francisco Vidal Salinas, Ministro del Interior.- Ignacio Walker Prieto, Ministro de Relaciones Exteriores.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción y Presidente de la Comisión Nacional de Energía.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Educación.- Luis Bates Hidalgo, Ministro de Justicia.- Jaime Estévez Valencia, Ministro de Obras Públicas y de Transportes y Telecomunicaciones.- Jaime Campos Quiroga, Ministro de Agricultura.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.- Pedro García Aspillaga, Ministro de Salud.- Alfonso Dulanto Rencoret, Ministro de Minería.- Sonia Tschorne Berestescky, Ministra de Vivienda y Urbanismo y de Bienes Nacionales.- Osvaldo Puccio Huidobro, Ministro Secretario General de Gobierno.- Yasna Provoste Campillay, Ministra de Planificación.
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Rodrigo Egaña Baraona, Subsecretario General de la Presidencia.
