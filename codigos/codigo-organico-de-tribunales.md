@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2016-12-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2017-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2016-12-19
-fetched_at: 2026-08-03T04:08:49.152467+00:00
+version_date: 2017-03-01
+fetched_at: 2026-08-03T04:09:25.156325+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1266,7 +1266,7 @@ Art. 197. En los casos en que se trate de recusar al juez por parentesco ilegít
 
 Art. 198. Además de las causales de implicancia o recusación de los jueces, que serán aplicables a los abogados llamados a Integrar la Corte Suprema o las Cortes de Apelaciones, será causal de recusación respecto de ellos la circunstancia de patrocinar negocios en que se ventile la misma cuestión que debe resolver el tribunal.
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 7.235 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 5.450 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 7.430 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 5.600 pesos.
 
 Art. 199. Los jueces que se consideren comprendidos en alguna de las causas legales de implicancia o recusación, deberán tan pronto como tengan noticia de ello, hacerlo constar en el proceso, declarándose inhabilitados para continuar funcionando, o pidiendo se haga esta declaración por el tribunal de que formen parte.
 No obstante, se necesitará de solicitud previa para declarar la inhabilidad de los jueces de la Corte Suprema y de las Cortes de Apelaciones, fundada en cualquiera de las causales de recusación y la de los demás jueces producida por el hecho de ser parte o tener interés en el pleito una sociedad anónima de que éstos sean accionistas, sin perjuicio en uno y otro caso de que se haga constar en el proceso la existencia de la causal.
