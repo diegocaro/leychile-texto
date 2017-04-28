@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2017-04-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2017-04-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2017-04-01
-fetched_at: 2026-08-03T04:10:20.055574+00:00
+version_date: 2017-04-28
+fetched_at: 2026-08-03T04:10:38.099499+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -428,9 +428,10 @@ Las sumas a que se refiere el inciso primero de este artículo, reajustadas en l
 Artículo 63 bis.- En caso de término del contrato de trabajo, el empleador estará obligado a pagar todas las remuneraciones que se adeudaren al trabajador en un solo acto al momento de extender el finiquito. Sin perjuicio de ello, las partes podrán acordar el fraccionamiento del pago de las remuneraciones adeudadas y dicho pacto se regirá por lo dispuesto en la letra a) del artículo 169.
 
 Artículo 64.- En los establecimientos que atiendan público a través de garzones, como restaurantes, pubs, bares, cafeterías, discotecas, fondas y similares, el empleador deberá sugerir, en cada cuenta de consumo, el monto correspondiente a una propina de a lo menos el 10% del mismo, la que deberá pagarse por el cliente, salvo que éste manifieste su voluntad en contrario.
-Los trabajadores tendrán derecho a percibir todas aquellas sumas que por concepto de propinas entreguen los clientes de dichos establecimientos, sea en forma directa y en dinero en efectivo al trabajador, como también a través de los medios de pago aceptados por el empleador, tales como tarjetas de crédito, de débito, cheques u otros títulos de crédito. El empleador no podrá disponer de ellas, deberá entregarlas íntegramente a los trabajadores y no podrá efectuar descuentos de ninguna naturaleza sobre las mismas. Tampoco podrá distribuir las propinas, facultad que sólo recae en los trabajadores que las reciben del cliente, las que se entenderán de su propiedad.
+Los trabajadores tendrán derecho a percibir todas aquellas sumas que por concepto de propinas entreguen los clientes de dichos establecimientos, sea en forma directa y en dinero en efectivo al trabajador, como también y a su elección a través de los medios de pago aceptados por el empleador, tales como tarjetas de crédito, de débito, cheques u otros títulos de crédito. El empleador no podrá disponer de ellas, deberá entregarlas íntegramente a los trabajadores y no podrá efectuar descuentos de ninguna naturaleza sobre las mismas. Tampoco podrá distribuir las propinas, facultad que sólo recae en los trabajadores que las reciben del cliente, las que se entenderán de su propiedad.
 Tratándose de pagos con tarjetas de crédito u otros títulos de crédito, el empleador deberá liquidar y enterar dichas sumas en la fecha en que acuerde con sus trabajadores, plazo que no podrá exceder de siete días hábiles desde que se recibieron del cliente. En estos casos, el empleador deberá entregar al trabajador copia del vale o comprobante en que conste la cantidad total pagada y el valor del servicio o producto adquirido. Tratándose de eventos especiales organizados por el empleador y que sean pagados con posterioridad a su celebración, este plazo se extenderá hasta la fecha de pago de la respectiva factura, cuando la propina esté incorporada a ella.
 Si las propinas no son pagadas en efectivo, los plazos contenidos en el inciso anterior podrán extenderse excepcionalmente cuando, producto del aislamiento geográfico de la zona en que se encuentre el establecimiento, unido ello a la falta de medios electrónicos de pago, no sea posible entregar las propinas en el tiempo establecido.
+Las normas contenidas en los incisos segundo, tercero y cuarto de este artículo serán también aplicables, en lo pertinente, en aquellos establecimientos de atención al público en los que se deje propina, como las estaciones de expendio de combustibles u otros. Los establecimientos que acepten medios electrónicos de pago deberán permitir que la propina también pueda ser pagada por los mismos medios.
 
 Art. 64 Bis. DEROGADO
 NOTA:
