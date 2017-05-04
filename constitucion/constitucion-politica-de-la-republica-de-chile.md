@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2017-01-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2017-05-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2017-01-05
-fetched_at: 2026-08-03T04:09:07.154583+00:00
+version_date: 2017-05-04
+fetched_at: 2026-08-03T04:10:56.316300+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -253,7 +253,7 @@ GOBIERNO
 
 Artículo 24.- El gobierno y la administración del Estado corresponden al Presidente de la República, quien es el Jefe del Estado.
 Su autoridad se extiende a todo cuanto tiene por objeto la conservación del orden público en el interior y la seguridad externa de la República, de acuerdo con la Constitución y las leyes.
-El 21 de mayo de cada año, el Presidente de la República dará cuenta al pa�s del estado administrativo y político de la Nación ante el Congreso Pleno.
+El 1 de junio de cada año, el Presidente de la República dará cuenta al país del estado administrativo y político de la Nación ante el Congreso Pleno.
 
 Artículo 25.- Para ser elegido Presidente de la República se requiere tener la nacionalidad chilena de acuerdo a lo dispuesto en los números 1º ó 2º del artículo 10; tener cumplidos treinta y cinco años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio.
 El Presidente de la República durará en el ejercicio de sus funciones por el término de cuatro años y no podrá ser reelegido para el período siguiente.
