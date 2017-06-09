@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2017-04-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2017-06-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2017-04-28
-fetched_at: 2026-08-03T04:10:38.099499+00:00
+version_date: 2017-06-09
+fetched_at: 2026-08-03T04:11:32.355496+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1577,6 +1577,14 @@ NOTA:
 Social, acerca de las medidas de seguridad específicas que hubiere prescrito a la empresa infractora para corregir tales infracciones o deficiencias. Corresponderá a la Superintendencia de Seguridad Social velar por el cumplimiento de esta obligación por parte de los Organismos Administradores.
 NOTA:
 El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
+
+Artículo 184 bis.- Sin perjuicio de lo establecido en el artículo precedente, cuando en el lugar de trabajo sobrevenga un riesgo grave e inminente para la vida o salud de los trabajadores, el empleador deberá:
+a) Informar inmediatamente a todos los trabajadores afectados sobre la existencia del mencionado riesgo, así como las medidas adoptadas para eliminarlo o atenuarlo.
+b) Adoptar medidas para la suspensión inmediata de las faenas afectadas y la evacuación de los trabajadores, en caso que el riesgo no se pueda eliminar o atenuar.
+Con todo, el trabajador tendrá derecho a interrumpir sus labores y, de ser necesario, abandonar el lugar de trabajo cuando considere, por motivos razonables, que continuar con ellas implica un riesgo grave e inminente para su vida o salud. El trabajador que interrumpa sus labores deberá dar cuenta de ese hecho al empleador dentro del más breve plazo, el que deberá informar de la suspensión de las mismas a la Inspección del Trabajo respectiva.
+Los trabajadores no podrán sufrir perjuicio o menoscabo alguno derivado de la adopción de las medidas señaladas en este artículo, y podrán siempre ejercer la acción contenida en el Párrafo 6° del Capítulo II del Título I del Libro V del Código del Trabajo.
+En caso que la autoridad competente ordene la evacuación de los lugares afectados por una emergencia, catástrofe o desastre, el empleador deberá suspender las labores de forma inmediata y proceder a la evacuación de los trabajadores. La reanudación de las labores sólo podrá efectuarse cuando se garanticen condiciones seguras y adecuadas para la prestación de los servicios.
+Corresponderá a la Dirección del Trabajo fiscalizar el cumplimiento de lo dispuesto en este artículo.
 
 Art. 185. El reglamento señalará las industrias o trabajos peligrosos o insalubres y fijará las normas necesarias para dar cumplimiento a lo dispuesto en el artículo 184.
 
