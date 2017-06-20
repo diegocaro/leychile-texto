@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2017-06-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2017-06-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2017-06-09
-fetched_at: 2026-08-03T04:11:32.355496+00:00
+version_date: 2017-06-20
+fetched_at: 2026-08-03T04:11:50.931946+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -2795,7 +2795,7 @@ b) las cuestiones derivadas de la aplicación de las normas sobre organización 
 c) las cuestiones derivadas de la aplicación de las normas de previsión o de seguridad social, planteadas por pensionados, trabajadores activos o empleadores, salvo en lo referido a la revisión de las resoluciones sobre declaración de invalidez o del pronunciamiento sobre otorgamiento de licencias médicas;
 d) los juicios en que se demande el cumplimiento de obligaciones que emanen de títulos a los cuales las leyes laborales y de previsión o seguridad social otorguen mérito ejecutivo;
 e) las reclamaciones que procedan contra resoluciones dictadas por autoridades administrativas en materias laborales, previsionales o de seguridad social;
-f) los juicios en que se pretenda hacer efectiva la responsabilidad del empleador derivada de accidentes del trabajo o enfermedades profesionales, con excepción de la responsabilidad extracontractual a la cual le será aplicable lo dispuesto en el artículo 69 de la ley N.° 16.744, y
+f) los juicios iniciados por el propio trabajador o sus causahabientes, en que se pretenda hacer efectiva la responsabilidad contractual del empleador por los daños producidos como consecuencia de accidentes del trabajo o enfermedades profesionales. Respecto de la responsabilidad extracontractual se seguirán las reglas del artículo 69 de la ley Nº 16.744, y
 g) todas aquellas materias que las leyes entreguen a juzgados de letras con competencia laboral.
 
 Artículo 421. Serán de competencia de los Juzgados de Cobranza Laboral y Previsional los juicios en que se demande el cumplimiento de obligaciones que emanen de títulos a los cuales las leyes laborales y de previsión o seguridad social otorguen mérito ejecutivo; y, especialmente, la ejecución de todos los títulos ejecutivos regidos por la ley Nº 17.322, relativa a la cobranza judicial de imposiciones, aportes y multas en los institutos de previsión.
