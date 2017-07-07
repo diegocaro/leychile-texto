@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2017-06-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2017-07-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2017-06-20
-fetched_at: 2026-08-03T04:11:50.931946+00:00
+version_date: 2017-07-07
+fetched_at: 2026-08-03T04:12:09.585216+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -2768,19 +2768,24 @@ Puerto Montt, con tres jueces, con competencia sobre las comunas de Puerto Montt
 k) Décimo Primera Región, de Aisén del General Carlos Ibáñez del Campo: Coyhaique, con un juez con competencia sobre la misma comuna;
 l) Décimo Segunda Región, de Magallanes y Antártica Chilena:
 Punta Arenas, con un juez, con competencia sobre las comunas de la provincia de Magallanes;
-m) Santiago, con treinta y dos jueces, agrupados en dos juzgados, con dieciséis jueces cada uno, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
+m) Santiago,
+NOTA
+con treinta y dos jueces, agrupados en dos juzgados, con dieciséis jueces cada uno, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
 San Miguel con cuatro jueces, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
-San Bernardo, con dos jueces, con competencia sobre las comunas de San Bernardo y Calera de Tango, y Puente Alto, con dos jueces, con competencia sobre las comunas de la Provincia Cordillera.
+San Bernardo, con tres jueces, con competencia sobre las comunas de San Bernardo y Calera de Tango, y
+Puente Alto, con dos jueces, con competencia sobre las comunas de la Provincia Cordillera.
 n) Decimocuarta Región de los Ríos:
 Valdivia, con dos jueces, con competencia sobre las comunas de Valdivia y Corral; Osorno, con dos jueces, con competencia en las comunas de Osorno, San Pablo, Puyehue, Puerto Octay, San Juan de la Costa, Río Negro y Purranque;
 o) Décima Quinta Región, de Arica y Parinacota:
 Arica, con dos jueces, con competencia sobre las comunas de las provincias de Arica y Parinacota.
+NOTA
+El numeral i de la letra g) del numero 1° del artículo 3°, de la ley 21017, publicada el 07.07.2017, modifica la presente norma en el sentido de reemplazar la expresión "Santiago con treinta y dos jueces, agrupados en dos juzgados, con dieciséis jueces cada uno" por "Santiago con treinta y ocho jueces, agrupados en dos juzgados, con diecinueve jueces cada uno", con lo que se agregan 3 jueces a cada juzgado. El inciso segundo del artículo primero transitorio de la citada ley establece que esta modificación entrará en vigencia transcurrido un año desde su publicación; no obstante, dispone además que uno de los tres jueces que para cada uno de ellos se contemplan se incorporará desde la publicación de la citada norma.
 
 Artículo 416. Existirá un Juzgado de Cobranza Laboral y Previsional, con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indica:
 a) Valparaíso, con dos jueces, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón;
 b) Concepción, con dos jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén;
 c) San Miguel, con dos jueces, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo, y
-d) Santiago, con ocho jueces, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo.
+d) Santiago, con nueve jueces, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo.
 
 Artículo 417. Los juzgados a que se refieren los artículos anteriores son tribunales especiales integrantes del Poder Judicial, teniendo sus magistrados la categoría de Jueces de Letras y les son aplicables las normas del Código Orgánico de Tribunales en todo aquello no previsto en este título.
 
