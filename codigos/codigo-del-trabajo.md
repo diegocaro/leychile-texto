@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2017-07-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2017-09-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2017-07-07
-fetched_at: 2026-08-03T04:12:09.585216+00:00
+version_date: 2017-09-18
+fetched_at: 2026-08-03T04:12:51.631736+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1762,11 +1762,11 @@ La manipulación comprende toda operación de transporte o sostén de carga cuyo
 Artículo 211-G.- El empleador velará para que en la organización de la faena se utilicen los medios adecuados, especialmente mecánicos, a fin de evitar la manipulación manual habitual de las cargas.
 Asimismo, el empleador procurará que el trabajador que se ocupe en la manipulación manual de las cargas reciba una formación satisfactoria, respecto de los métodos de trabajo que debe utilizar, a fin de proteger su salud.
 
-Artículo 211-H.- Si la manipulación manual es inevitable y las ayudas mecánicas no pueden usarse, no se permitirá que se opere con cargas superiores a 50 kilogramos.
+Artículo 211-H.- Si la manipulación manual es inevitable y las ayudas mecánicas no pueden usarse, no se permitirá que se opere con cargas superiores a 25 kilogramos. Esta carga será modificada en la medida que existan otros factores agravantes, caso en el cual, la manipulación deberá efectuarse en conformidad a lo dispuesto en el decreto supremo Nº 63, del Ministerio del Trabajo y Previsión Social, del año 2005, que aprueba reglamento para la aplicación de la ley Nº 20.001, que regula el peso máximo de carga humana, y en la Guía Técnica para la Evaluación y Control de los Riesgos Asociados al Manejo o Manipulación Manual de Carga.
 
 Artículo 211-I.- Se prohíbe las operaciones de carga y descarga manual para la mujer embarazada.
 
-Artículo 211-J.- Los menores de 18 años y mujeres no podrán llevar, transportar, cargar, arrastrar o empujar manualmente, y sin ayuda mecánica, cargas superiores a los 20 kilogramos.
+Artículo 211-J.- Los menores de 18 años y las mujeres no podrán llevar, transportar, cargar, arrastrar ni empujar manualmente, y sin ayuda mecánica, cargas superiores a 20 kilogramos. Para estos trabajadores, el empleador deberá implementar medidas de seguridad y mitigación, tales como rotación de trabajadores, disminución de las alturas de levantamiento o aumento de la frecuencia con que se manipula la carga. El detalle de la implementación de dichas medidas estará contenido en la Guía Técnica para la Evaluación y Control de los Riesgos Asociados al Manejo o Manipulación Manual de Carga.
 
 ## LIBRO III
 DE LAS ORGANIZACIONES SINDICALES
