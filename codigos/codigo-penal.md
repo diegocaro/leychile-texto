@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2017-08-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2017-09-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2017-08-02
-fetched_at: 2026-08-03T04:12:33.618040+00:00
+version_date: 2017-09-23
+fetched_at: 2026-08-03T04:13:09.644719+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1959,7 +1959,7 @@ ART. 343.
 Será castigado con presidio menor en sus grados mínimo a medio, el que con violencias ocasionare un aborto, aun cuando no haya tenido propósito de causarlo, con tal que el estado de embarazo de la mujer sea notorio o le constare al hechor.
 
 ART. 344.
-La mujer que causare su aborto o consintiere que otra persona se lo cause, será castigada con presidio menor en su grado máximo.
+La mujer que, fuera de los casos permitidos por la ley, causare su aborto o consintiere que otra persona se lo cause, será castigada con presidio menor en su grado máximo.
 Si lo hiciere por ocultar su deshonra, incurrirá en la pena de presidio menor en su grado medio.
 
 ART. 345.
