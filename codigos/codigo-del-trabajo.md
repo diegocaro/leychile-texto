@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2017-09-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2017-11-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2017-09-18
-fetched_at: 2026-08-03T04:12:51.631736+00:00
+version_date: 2017-11-08
+fetched_at: 2026-08-03T04:13:51.696537+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1713,9 +1713,9 @@ Artículo 207.- Corresponde a la Dirección del Trabajo velar por el cumplimient
 Cualquiera persona puede denunciar ante estos organismos las infracciones de que tuviere conocimiento.
 Las acciones y derechos provenientes de este título se extinguirán en el término de sesenta días contados desde la fecha de expiración del período a que se refieren los respectivos derechos.
 
-Artículo 207 bis. En el caso de contraer matrimonio, todo trabajador tendrá derecho a cinco días hábiles continuos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
-Este permiso se podrá utilizar, a elección del trabajador, en el día del matrimonio y en los días inmediatamente anteriores o posteriores al de su celebración.
-El trabajador deberá dar aviso a su empleador con treinta días de anticipación y presentar dentro de los treinta días siguientes a la celebración el respectivo certificado de matrimonio del Servicio de Registro Civil e Identificación.
+Artículo 207 bis.- En el caso de contraer matrimonio o celebrar un acuerdo de unión civil, de conformidad con lo previsto en la ley Nº 20.830, todo trabajador tendrá derecho a cinco días hábiles continuos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
+Este permiso se podrá utilizar, a elección del trabajador, en el día del matrimonio o del acuerdo de unión civil y en los días inmediatamente anteriores o posteriores al de su celebración.
+El trabajador deberá dar aviso a su empleador con treinta días de anticipación y presentar dentro de los treinta días siguientes a la celebración el respectivo certificado de matrimonio o de acuerdo de unión civil del Servicio de Registro Civil e Identificación.
 
 NOTA
 Art. 208. Las infracciones a las disposiciones de este título se sancionarán con multa de catorce a setenta unidades tributarias mensuales en vigor a la fecha de cometerse la infracción, multa que se duplicará en ca
