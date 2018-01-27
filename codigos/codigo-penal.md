@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2017-09-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2018-01-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2017-09-23
-fetched_at: 2026-08-03T04:13:09.644719+00:00
+version_date: 2018-01-27
+fetched_at: 2026-08-03T04:15:04.066543+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2637,14 +2637,16 @@ ART. 458.
 Cuando, en los casos del inciso primero del artículo anterior, el hecho se llevare a efecto sin violencia en las personas, la pena será multa de seis a diez unidades tributarias mensuales.
 
 ART. 459.
-Sufrirán las penas de presidio menor en su grado mínimo y multa de once a veinte unidades tributarias mensuales, los que sin título legítimo e invadiendo derechos ajenos:
-1.° Sacaren aguas de represas, estanques u otros depósitos; de ríos, arroyos o fuentes; de canales o acueductos, redes de agua potable e instalaciones domiciliarias de éstas, y se las apropiaren para hacer de ellas un uso cualquiera.
+Sufrirán las penas de presidio menor en su grado mínimo a medio y multa de veinte a cinco mil unidades tributarias mensuales, los que sin título legítimo e invadiendo derechos ajenos:
+1.° Sacaren aguas de represas, estanques u otros depósitos; de ríos, arroyos o fuentes, sean superficiales o subterráneas; de canales o acueductos, redes de agua potable e instalaciones domiciliarias de éstas, y se las apropiaren para hacer de ellas un uso cualquiera.
 2.° Rompieren o alteraren con igual fin diques, esclusas, compuertas, marcos u otras obras semejantes existentes en los ríos, arroyos, fuentes, depósitos, canales o acueductos.
 3.° Pusieren embarazo al ejercicio de los derechos que un tercero tuviere sobre dichas aguas.
 4.° Usurparen un derecho cualquiera referente al curso de ellas o turbaren a alguno en su legítima posesión.
 
 ART. 460.
-Cuando los simples delitos a que se refiere el artículo anterior se ejecutaren con violencia en las personas, si el culpable no mereciere mayor pena por la violencia que causare, sufrirá la de presidio menor en sus grados mínimo a medio y multa de once a veinte unidades tributarias mensuales.
+Cuando los simples delitos a que se refiere el artículo anterior se ejecutaren con violencia o intimidación en las personas, si el culpable no mereciere mayor pena por la violencia o intimidación que causare, sufrirá la de presidio menor en cualquiera de sus grados y multa de cincuenta a cinco mil unidades tributarias mensuales.
+
+Artículo 460 bis.- El que a sabiendas duplique la inscripción de su derecho en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces sufrirá las penas de presidio menor en su grado mínimo, multa de once a veinte unidades tributarias mensuales, la revocación del título duplicado y la cancelación de la inscripción duplicada.
 
 ART. 461.
 Serán castigados con las penas del artículo 459, los que teniendo derecho para sacar aguas o usarlas se hubieren servido fraudulentamente, con tal fin, de orificios, conductos, marcos, compuertas o esclusas de una forma diversa a la establecida o de una capacidad superior a la medida a que tienen derecho.

@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2017-03-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2018-01-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2017-03-29
-fetched_at: 2026-08-03T04:10:02.038617+00:00
+version_date: 2018-01-27
+fetched_at: 2026-08-03T04:15:10.074931+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -740,6 +740,7 @@ Etapa de investigación
 Artículo 166.- Ejercicio de la acción penal. Los delitos de acción pública serán investigados con arreglo a las disposiciones de este Título.
 Cuando el ministerio público tomare conocimiento de la existencia de un hecho que revistiere caracteres de delito, con el auxilio de la policía, promoverá la persecución penal, sin que pueda suspender, interrumpir o hacer cesar su curso, salvo en los casos previstos en la ley.
 Tratándose de delitos de acción pública previa instancia particular, no podrá procederse sin que, a lo menos, se hubiere denunciado el hecho con arreglo al artículo 54, salvo para realizar los actos urgentes de investigación o los absolutamente necesarios para impedir o interrumpir la comisión del delito.
+En los delitos previstos en los artículos 459 y 460 del Código Penal, recibida la denuncia el fiscal comunicará los hechos a la Dirección General de Aguas del Ministerio de Obras Públicas.
 
 Artículo 167.- Archivo provisional. En tanto no se hubiere producido la intervención del juez de garantía en el procedimiento, el ministerio público podrá archivar provisionalmente aquellas investigaciones en las que no aparecieren antecedentes que permitieren desarrollar actividades conducentes al esclarecimiento de los hechos.
 Si el delito mereciere pena aflictiva, el fiscal deberá someter la decisión sobre archivo provisional a la aprobación del Fiscal Regional.
