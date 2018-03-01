@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2018-02-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2018-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2018-02-15
-fetched_at: 2026-08-03T04:15:34.083950+00:00
+version_date: 2018-03-01
+fetched_at: 2026-08-03T04:16:16.145405+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1867,9 +1867,13 @@ Tratándose de la situación contemplada en el inciso tercero del mismo artícul
 
 Artículo 422.- Pluralidad de sujetos. Si aparecieren implicados individuos que no gozaren de fuero, se seguirá adelante el procedimiento en relación con ellos.
 
-#### Párrafo 2º Gobernadores regionales, delegados presidenciales regionales o delegados presidenciales provinciales
+#### Párrafo 2º Delegados Presidenciales Regionales, Delegados Presidenciales Provinciales y Gobernadores Regionales
 
-Artículo 423.- Remisión a normas del Párrafo 1º. El procedimiento establecido en el Párrafo 1º de este Título es aplicable a los casos de desafuero de gobernadores regionales, delegados presidenciales regionales o delegados presidenciales provinciales, en lo que fuere pertinente.
+Artículo 423.- Remisión a normas del Párrafo 1º. El procedimiento establecido en el Párrafo 1º de este Título es aplicable a los casos de desafuero de gobernadores regionales, delegados presidenciales regionales o delegados
+NOTA
+presidenciales provinciales, en lo que fuere pertinente.
+NOTA
+El N° 2 del Art. 13 de la Ley 21073, publicada el 22.02.2018, dispuso la sustitución en el presente artículo de la expresión "de un intendente, de un gobernador o de un presidente de consejo regional" por "de un delegado presidencial regional, de un delegado presidencial provincial o de un gobernador regional", sin embargo la frase a sustituir no existe en este texto por cuanto fue reemplazada por la Ley 21074 publicada el 15.02.2018, por lo que no se pudo efectuar la modificación.
 
 ### Título V
 Querella de capítulos

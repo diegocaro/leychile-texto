@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2018-02-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2018-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2018-02-09
-fetched_at: 2026-08-03T04:15:16.076882+00:00
+version_date: 2018-03-01
+fetched_at: 2026-08-03T04:16:10.135238+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -652,7 +652,7 @@ De los Presidentes y Ministros de Corte como tribunales unipersonales
 
 Art. 50. Un Ministro de la Corte de Apelaciones respectiva, según el turno que ella fije, conocerá en primera instancia de los siguientes asuntos:
 1°) Derogado.
-2°) De las causas civiles en que sean parte o tengan interés el Presidente de la República, los ex Presidentes de la República, los Ministros de Estado, Senadores, Diputados, miembros de los Tribunales Superiores de Justicia, Contralor General de la República, Comandantes en Jefe de las Fuerzas Armadas, General Director de Carabineros de Chile, Director General de la Policía de Investigaciones de Chile, los Intendentes y Gobernadores, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
+2°) De las causas civiles en que sean parte o tengan interés el Presidente de la República, los ex Presidentes de la República, los Ministros de Estado, Senadores, Diputados, miembros de los Tribunales Superiores de Justicia, Contralor General de la República, Comandantes en Jefe de las Fuerzas Armadas, General Director de Carabineros de Chile, Director General de la Policía de Investigaciones de Chile, los Delegados Presidenciales Regionales, Delegados Presidenciales Provinciales, Gobernadores Regionales, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
 La circunstancia de ser accionista de sociedades anónimas las personas designadas en este número, no se considerará como una causa suficiente para que un Ministro de la Corte de Apelaciones conozca en primera instancia de los juicios en que aquéllas tengan parte, debiendo éstos sujetarse en su conocimiento a las reglas generales.
 3°) Derogado.
 4°) De las demandas civiles que se entablen contra los jueces de letras para hacer efectiva la responsabilidad civil resultante del ejercicio de sus funciones ministeriales.
@@ -1506,7 +1506,7 @@ Esta incapacidad no comprende a los condenados por delito contra la seguridad in
 7°) Los fallidos, a menos que hayan sido rehabilitados en conformidad a la ley; y
 8°) Los que hayan recibido órdenes eclesiásticas mayores.
 
-Art. 257. Los que hubieren desempeñado los cargos de Presidente de la República, Ministros de Estado, Intendentes, Gobernadores o Secretarios de Intendencia, no podrán ser nombrados miembros de los Tribunales Superiores de Justicia, jueces letrados, fiscales judiciales, ni relatores, ya sea en propiedad, ya interinamente o como suplentes, sino un año después de haber cesado en el desempeño de sus funciones administrativas.
+Art. 257. Los que hubieren desempeñado los cargos de Presidente de la República, Ministros de Estado, Delegados Presidenciales Regionales, Delegados Presidenciales Provinciales o Gobernadores Regionales, no podrán ser nombrados miembros de los Tribunales Superiores de Justicia, jueces letrados, fiscales judiciales, ni relatores, ya sea en propiedad, ya interinamente o como suplentes, sino un año después de haber cesado en el desempeño de sus funciones administrativas.
 
 Art. 258. No pueden ser simultáneamente jueces de una misma Corte de Apelaciones, los parientes consanguíneos o afines en línea recta, ni los colaterales que se hallen dentro del segundo grado de consanguinidad o afinidad.
 
@@ -2482,7 +2482,7 @@ Las funciones de los fiscales judiciales son, además, incompatibles con las ecl
 Art. 471. Los auxiliares de la Administración de Justicia antes de desempeñar sus cargos prestarán juramento al tenor de la fórmula siguiente: "¿Juráis por Dios Nuestro Señor y por estos Santos Evangelios que guardaréis la Constitución y las leyes de la República y que desempeñaréis fielmente las funciones de vuestro cargo?".
 El interrogado responderá: "Si juro", y el magistrado que le tome el juramento añadirá: "Si así lo hiciéreis, Dios os ayude; y si no, os lo demande".
 Los Fiscales judiciales, Relatores y Secretarios de Corte, prestarán juramento ante el Presidente del Tribunal del que formen parte.
-Los otros funcionarios auxiliares lo harán ante el Juez respectivo o ante el juez presidente si el tribunal estuviere compuesto por más de un juez. Si el Tribunal estuviere acéfalo lo prestarán ante el Intendente o Gobernador. La autoridad administrativa que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que le habría correspondido intervenir en la diligencia, remitiéndole lo obrado.
+Los otros funcionarios auxiliares lo harán ante el Juez respectivo o ante el juez presidente si el tribunal estuviere compuesto por más de un juez. Si el Tribunal estuviere acéfalo lo prestarán ante el delegado presidencial regional o delegado presidencial provincial. La autoridad administrativa que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que le habría correspondido intervenir en la diligencia, remitiéndole lo obrado.
 
 Art. 472. Cuando algún fiscal judicial de las Cortes de Apelaciones que hubiere prestado el juramento correspondiente fuere nombrado para un puesto análogo al que desempeñaba, no será obligado a prestar nuevo juramento.
 

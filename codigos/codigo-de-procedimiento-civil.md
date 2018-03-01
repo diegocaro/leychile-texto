@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2016-12-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2018-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2016-12-19
-fetched_at: 2026-08-03T04:08:43.141731+00:00
+version_date: 2018-03-01
+fetched_at: 2026-08-03T04:15:52.114458+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -34,7 +34,7 @@ ART. 8.° Los miembros de la Corte Suprema i el fiscal de este Tribunal gozarán
 Los relatores i el secretario de la misma Corte percibirán un sueldo igual al designado a los jueces de letras de Santiago.
 El oficial primero de la Secretaría de la Corte de Casacion tendrá un sueldo anual de tres mil quinientos pesos.
 ART. 9.° Para los efectos de la jubilacion de los empleados a que se refiere el artículo anterior solo se tomará en cuenta el setenta i cinco por ciento de los sueldos que respectivamente se les asigna, sin perjuicio de lo dispuesto en la lei número 1,146, de 28 de Diciembre de 1898.
-ART. 10. Los que hubieren desempeñado los cargos de Presidente de la República, Ministros de Estado, intendentes de provincia, gobernadores de departamento o secretarios de Intendencia, no podrán ser nombrados miembros de los Tribunales Superiores de Justicia, Jueces letrados, fiscales, promotores fiscales, ni relatores, ya sea en propiedad, ya interinamente o como suplentes, sino un año despues de haber cesado en el desempeño de sus funciones administrativas.
+ART. 10. Los que hubieren desempeñado los cargos de Presidente de la República, Ministros de Estado, delegados presidenciales regionales, delegados presidenciales provinciales o gobernadores regionales no podrán ser nombrados miembros de los Tribunales Superiores de Justicia, Jueces letrados, fiscales, promotores fiscales, ni relatores, ya sea en propiedad, ya interinamente o como suplentes, sino un año despues de haber cesado en el desempeño de sus funciones administrativas.
 ARTICULOS TRANSITORIOS {ARTS. PRI-4}
 ARTICULO PRIMERO. Las disposiciones contenidas en los artículos 2.° i siguientes de esta lei, principiarán a rejir en la fecha espresada en el artículo 1.° La Corte Suprema continuará conociendo de las causas de Hacienda i de las reclamaciones municipales que estuvieren pendientes ante dicho Tribunal en la fecha indicada, no obstante lo dispuesto en los artículo 5.° i 6.°
 ART. 2.° La reduccion de las plazas de fiscales de la Corte Suprema a una sola, se verificará cuando ocurra la primera vacante.
@@ -1357,7 +1357,9 @@ Art. 360 (349). No serán obligados a declarar:
 3°. Los que son interrogados acerca de hechos que afecten el honor del testigo o de las personas mencionadas en el número anterior, o que importen un delito de que pueda ser criminalmente responsable el declarante o cualquiera de las personas referidas.
 
 Art. 361 (350). Podrán declarar en el domicilio que fijen dentro del territorio jurisdiccional del tribunal:
-1°. El Presidente de la República, los Ministros de Estado, los Senadores y Diputados, los Subsecretarios; los Intendentes Regionales, los Gobernadores y los Alcaldes, dentro del territorio de su jurisdicción; los jefes superiores de Servicios, los miembros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales Judiciales de estos Tribunales, los Jueces Letrados, el Fiscal Nacional y los fiscales regionales; los Oficiales Generales en servicio activo o en retiro, los Oficiales Superiores y los Oficiales Jefes; el Arzobispo y los Obispos, los Vicarios Generales, los Provisores, los Vicarios y Provicarios Capitulares; y los Párrocos, dentro del territorio de la Parroquia a su cargo;
+1°. El Presidente de la República, los Ministros de Estado, los Senadores y Diputados, los Subsecretarios; los Delegados Presidenciales Regionales, Delegados Presidenciales Provinciales y los Alcaldes, dentro del territorio de su jurisdicción; los jefes superiores de Servicios, los miembros de la Corte Suprema o de alguna
+NOTA
+Corte de Apelaciones, los Fiscales Judiciales de estos Tribunales, los Jueces Letrados, el Fiscal Nacional y los fiscales regionales; los Oficiales Generales en servicio activo o en retiro, los Oficiales Superiores y los Oficiales Jefes; el Arzobispo y los Obispos, los Vicarios Generales, los Provisores, los Vicarios y Provicarios Capitulares; y los Párrocos, dentro del territorio de la Parroquia a su cargo;
 2°. Derogado;
 3°. Los religiosos, inclusos los novicios;
 4°. Las mujeres, siempre que por su estado o posición no puedan concurrir sin grave molestia; y
@@ -1454,7 +1456,7 @@ Siempre que alguna de las partes lo pida, debe el tribunal recibir por sí mismo
 Si el litigante se encuentra fuera del territorio del tribunal que conoce de la causa, será tomada su declaración por el tribunal competente, quien procederá en conformidad a los dos incisos anteriores.
 
 Art. 389 (379). Están exentos de comparecer ante el tribunal a prestar la declaración de que tratan los artículos precedentes:
-1º. El Presidente de la República, los Ministros de Estado, los Senadores y Diputados, los Intendentes dentro de la región en que ejercen sus funciones; los miembros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales Judiciales de estos tribunales, el Fiscal Nacional y los fiscales regionales, el Arzobispo, los Obispos, los Vicarios Generales, los Provisores y los Vicarios y Provicarios Capitulares;
+1º. El Presidente de la República, los Ministros de Estado, los Senadores y Diputados, los Delegados Presidenciales Regionales dentro de la región en que ejercen sus funciones; los miembros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales Judiciales de estos tribunales, el Fiscal Nacional y los fiscales regionales, el Arzobispo, los Obispos, los Vicarios Generales, los Provisores y los Vicarios y Provicarios Capitulares;
 2º. Los que por enfermedad o por cualquier otro impedimento calificado por el tribunal se hallen en imposibilidad de comparecer a la audiencia en que hayan de prestar la declaración; y
 3º. Las mujeres, en caso que el tribunal estime prudente eximirlas de esta asistencia.
 Cuando haya de prestar esta declaración alguna de las personas exceptuadas en los números precedentes, el juez se trasladará a casa de ella con el objeto de recibir la declaración o comisionará para este fin al secretario.
@@ -2937,7 +2939,6 @@ NOTA
 os 701 y
 NOTA
 702.
-NOTA
 NOTA
 NOTA
 NOTA
