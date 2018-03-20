@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2015-10-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2018-03-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2015-10-22
-fetched_at: 2026-08-03T03:16:16.148435+00:00
+version_date: 2018-03-20
+fetched_at: 2026-08-03T04:16:22.145730+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -8599,6 +8599,8 @@ El permiso a que se refieren los incisos anteriores deberá prestarse por escrit
 En caso de que no pudiere otorgarse o sin motivo plausible se negare la autorización por uno de aquellos que en virtud de este artículo debe prestarla, podrá ser otorgada por el juez de letras de menores del lugar en que tenga su residencia el menor. El juez, para autorizar la salida del menor en estos casos, tomará en consideración el beneficio que le pudiere reportar y señalará el tiempo por el que concede la autorización.
 Expirado el plazo a que se refiere el inciso anterior sin que el menor, injustificadamente, vuelva al país, podrá el juez decretar la suspensión de las pensiones alimenticias que se hubieren decretado.
 En los demás casos para que un menor se ausente del país requerirá la autorización del juzgado de letras de menores de su residencia.
+Sin perjuicio de lo establecido en los incisos anteriores, tratándose de menores de edad hijos de extranjeros residentes oficiales, el permiso o autorización a que se refiere este artículo, también podrá otorgarse por el Cónsul del país de la nacionalidad del padre, o madre, o de ambos padres, que lo soliciten, según corresponda. Este permiso o autorización deberá indicar el o los lugares de destino del menor de edad, debiendo además remitir copia del mismo, por la vía más expedita, al Ministerio de Relaciones Exteriores de Chile.
+Con todo, lo establecido en el inciso anterior no será aplicable si el menor de edad o alguno de sus padres tuviere la nacionalidad chilena.
 
 Artículo 49 bis.- En la sentencia el juez podrá decretar que la autorización a que se refiere el inciso sexto del artículo anterior habilita al padre o madre que la haya requerido y que tenga al menor a su cuidado para salir del país con él en distintas ocasiones dentro de los dos años siguientes, siempre que se acredite que el otro progenitor, injustificadamente, ha dejado de cumplir el deber, regulado judicial o convencionalmente, de mantener una relación directa y regular con su hijo. El plazo de permanencia del menor de edad en el extranjero no podrá ser superior a quince días en cada ocasión.
 
