@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2017-12-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2018-04-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2017-12-30
-fetched_at: 2026-08-03T04:14:27.742284+00:00
+version_date: 2018-04-01
+fetched_at: 2026-08-03T04:16:41.352569+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1084,9 +1084,10 @@ Artículo 152 ter M.- Las trabajadoras cuyos contratos se rijan por este Capítu
 En ningún caso las alternativas que se pacten, en uno u otro evento, podrán implicar una disminución de las remuneraciones de la trabajadora.
 
 ### Título III
-DEL REGLAMENTO INTERNO
+Del Reglamento Interno y la Inclusión Laboral de Personas con Discapacidad
 
-.
+#### Capítulo I
+Del Reglamento Interno
 
 Art. 153. Las empresas, establecimientos, faenas o unidades económicas que ocupen normalmente diez o más trabajadores permanentes, contados todos los que presten servicios en las distintas fábricas o secciones, aunque estén situadas en localidades diferentes, estarán obligadas a confeccionar un reglamento interno de orden, higiene y seguridad que contenga las obligaciones y prohibiciones a que deben sujetarse los trabajadores, en relación con sus labores, permanencia y vida en las dependencias de la respectiva empresa o establecimiento.
 Especialmente, se deberán estipular las normas que se deben observar para garantizar un ambiente laboral digno y de mutuo respeto entre los trabajadores.
@@ -1119,6 +1120,47 @@ Además, el empleador deberá entregar gratuitamente a los trabajadores un ejemp
 
 Art. 157. En los casos en que las infracciones por parte de los trabajadores a las normas de los reglamentos internos se sancionen con multa, ésta no podrá exceder de la cuarta parte de la remuneración diaria del infractor, y de su aplicación podrá reclamarse ante la Inspección del Trabajo que corresponda.
 Las multas serán destinadas a incrementar los fondos de bienestar que la empresa respectiva tenga para los trabajadores o de los servicios de bienestar social de las organizaciones sindicales cuyos afiliados laboren en la empresa, a prorrata de la afiliación y en el orden señalado. A falta de esos fondos o entidades, el producto de las multas pasará al Servicio Nacional de Capacitación y Empleo, y se le entregará tan pronto como hayan sido aplicadas.
+
+#### Capítulo II
+De la Inclusión Laboral de Personas con Discapacidad
+
+Artículo 157 bis.- Las empresas de 100 o más trabajadores deberán contratar o mantener contratados, según corresponda, al menos el 1% de personas con discapacidad o que sean asignatarias de una pensión de invalidez de cualquier régimen previsional, en relación al total de sus trabajadores.
+Las personas con discapacidad deberán contar con la calificación y certificación señaladas en el artículo 13 de la ley N° 20.422.
+El empleador deberá registrar los contratos de trabajo celebrados con personas con discapacidad o asignatarios de una pensión de invalidez de cualquier régimen previsional, así como sus modificaciones o términos, dentro de los quince días siguientes a su celebración a través del sitio electrónico de la Dirección del Trabajo, la que llevará un registro actualizado de lo anterior, debiendo mantener reserva de dicha información.
+La fiscalización de lo dispuesto en este capítulo corresponderá a la Dirección del Trabajo, salvo lo dispuesto en el inciso cuarto del artículo siguiente, en lo relativo a la reglamentación de la letra b) de ese mismo artículo.
+Un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscrito por los ministros de Hacienda y de Desarrollo Social, establecerá los parámetros, procedimientos y demás elementos necesarios para dar cumplimiento a lo establecido en este capítulo.
+
+Artículo 157 ter.- Las empresas que, por razones fundadas, no puedan cumplir total o parcialmente la obligación establecida en el inciso primero del artículo anterior, deberán darle cumplimiento en forma alternativa, ejecutando alguna de las siguientes medidas:
+a) Celebrar contratos de prestación de servicios con empresas que tengan contratadas personas con discapacidad.
+b) Efectuar donaciones en dinero a proyectos o programas de asociaciones, corporaciones o fundaciones a las que se refiere el artículo 2 de la ley N° 19.885.
+Sólo se considerarán razones fundadas aquellas derivadas de la naturaleza de las funciones que desarrolla la empresa o la falta de personas interesadas en las ofertas de trabajo que se hayan formulado.
+El monto anual de los contratos celebrados de conformidad a la letra a) de este artículo no podrá ser inferior al equivalente a veinticuatro ingresos mínimos mensuales respecto de cada trabajador que debía ser contratado por la empresa.
+Las donaciones establecidas en la letra b) de este artículo deberán sujetarse a lo dispuesto en la ley N° 19.885, en lo que resulte aplicable, y con las excepciones que se señalan a continuación:
+1.- Estas donaciones no darán derecho a los créditos y beneficios tributarios establecidos en los artículos 1 y 1 bis. Sin embargo, para efectos de lo establecido en la Ley sobre Impuesto a la Renta, contenida en el artículo 1 del decreto ley N° 824, de 1974, tendrán la calidad de gasto necesario para producir la renta de acuerdo a lo establecido en el artículo 31 del referido cuerpo legal.
+2.- Las donaciones deberán dirigirse a proyectos o programas de asociaciones, corporaciones o fundaciones cuyo objeto social incluya la capacitación, rehabilitación, promoción y fomento para la creación de empleos, contratación o inserción laboral de las personas con discapacidad.
+3.- Las donaciones no podrán efectuarse a instituciones en cuyo directorio participe el donante, su cónyuge, su conviviente civil o sus parientes ascendientes o descendientes hasta el tercer grado de consanguinidad. En caso que el donante sea una persona jurídica, no podrá efectuar donaciones a instituciones en cuyo directorio participen sus socios o directores o los accionistas que posean el 10% o más del capital social, o los cónyuges, convivientes civiles o parientes ascendientes o descendientes hasta el tercer grado de consanguinidad de dichos socios, directores o accionistas.
+4.- El monto anual de las donaciones efectuadas no podrá ser inferior al equivalente a veinticuatro ingresos mínimos mensuales ni superior a doce veces el límite máximo imponible establecido en el artículo 16 del decreto ley Nº 3.500, de 1980, respecto de cada trabajador que debía ser contratado por la empresa.
+5.- No se aplicará a las donaciones a que se refiere esta ley el límite global absoluto establecido en el artículo 10.
+Las empresas que ejecuten alguna de las medidas señaladas en las letras a) y b) de este artículo deberán remitir una comunicación electrónica a la Dirección del Trabajo, con copia a la Subsecretaría de Evaluación Social del Ministerio de Desarrollo Social, al Servicio Nacional de la Discapacidad y al Servicio de Impuestos Internos. La empresa deberá indicar en esta comunicación la razón invocada y la medida adoptada. Esta comunicación deberá ser efectuada durante el mes de enero de cada año y tendrá una vigencia de doce meses.
+
+Art. 154. El reglamento interno deberá contener, a lo menos, las siguientes disposiciones:
+1.- las horas en que empieza y termina el trabajo y las de cada turno, si aquél se efectúa por equipos;
+2.- los descansos;
+3.- los diversos tipos de remuneraciones;
+4.- el lugar, día y hora de pago;
+5.- las obligaciones y prohibiciones a que estén sujetos los trabajadores;
+6.- la designación de los cargos ejecutivos o dependientes del establecimiento ante quienes los trabajadores deban plantear sus peticiones, reclamos, consultas y sugerencias, y en el caso de empresas de doscientos trabajadores o más, un registro que consigne los diversos cargos o funciones en la empresa y sus características técnicas esenciales;
+7.- las normas especiales pertinentes a las diversas clases de faenas, de acuerdo con la edad y sexo de los trabajadores, y a los ajustes necesarios y servicios de apoyo que permitan al trabajador con discapacidad un desempeño laboral adecuado;
+8.- la forma de comprobación del cumplimiento de las leyes de previsión, de servicio militar obligatorio, de cédula de identidad y, en el caso de menores, de haberse cumplido la obligación escolar;
+9.- las normas e instrucciones de prevención, higiene y seguridad que deban observarse en la empresa o establecimiento;
+10.- las sanciones que podrán aplicarse por infracción a las obligaciones que señale este reglamento, las que sólo podrán consistir en amonestación verbal o escrita y multa de hasta el veinticinco por ciento de la remuneración diaria;
+11.- el procedimiento a que se someterá la aplicación de las sanciones referidas en el número anterior;
+12.- El procedimiento al que se someterán y las medidas de resguardo y sanciones que se aplicarán en caso de denuncias por acoso sexual.
+En el caso de las denuncias sobre acoso sexual, el empleador que, ante una denuncia del trabajador afectado, cumpla íntegramente con el procedimiento establecido en el Título IV del Libro II, no estará afecto al aumento señalado en la letra c) del inciso primero del artículo 168, y
+13.- El procedimiento a que se someterán los reclamos que se deduzcan por infracción al artículo 62 bis. En todo caso, el reclamo y la respuesta del empleador deberán constar por escrito y estar debidamente fundados. La respuesta del empleador deberá ser entregada dentro de un plazo no mayor a treinta días de efectuado el reclamo por parte del trabajador.
+Las obligaciones y prohibiciones a que hace referencia el número 5 de este artículo, y, en general, toda medida de control, sólo podrán efectuarse por medios idóneos y concordantes con la naturaleza de la relación laboral y, en todo caso, su aplicación deberá ser general, garantizándose la impersonalidad de la medida, para respetar la dignidad del trabajador.
+
+Art. 154 bis. El empleador deberá mantener reserva de toda la información y datos privados del trabajador a que tenga acceso con ocasión de la relación laboral.
 
 ### Título IV
 DEL SERVICIO MILITAR OBLIGATORIO
