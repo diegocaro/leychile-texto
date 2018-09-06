@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2018-07-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2018-09-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2018-07-08
-fetched_at: 2026-08-03T04:17:07.474375+00:00
+version_date: 2018-09-06
+fetched_at: 2026-08-03T04:17:25.495482+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -2806,7 +2806,7 @@ g) Séptima Región, del Maule:
 Curicó, con dos jueces, con competencia sobre las comunas de Curicó, Teno, Romeral y Rauco, y
 Talca, con dos jueces, con competencia sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule, Pencahue y San Rafael;
 h) Octava Región, del Bío-Bío:
-Chillán, con tres jueces, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo, y Concepción, con cinco jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén, Los Ángeles, con dos Jueces, con competencia en las comunas de Los Ángeles, Quilleco y Antuco;
+Concepción, con cinco jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén, Los Ángeles, con dos Jueces, con competencia en las comunas de Los Ángeles, Quilleco y Antuco;
 i) Novena Región, de la Araucanía:
 Temuco, con cinco jueces, con competencia sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco, Freire y Padre Las Casas;
 j) Décima Región, de Los Lagos:
@@ -2822,6 +2822,8 @@ n) Decimocuarta Región de los Ríos:
 Valdivia, con dos jueces, con competencia sobre las comunas de Valdivia y Corral; Osorno, con dos jueces, con competencia en las comunas de Osorno, San Pablo, Puyehue, Puerto Octay, San Juan de la Costa, Río Negro y Purranque;
 o) Décima Quinta Región, de Arica y Parinacota:
 Arica, con dos jueces, con competencia sobre las comunas de las provincias de Arica y Parinacota.
+p) Decimosexta Región de Ñuble:
+Chillán, con tres jueces, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo.
 
 Artículo 416. Existirá un Juzgado de Cobranza Laboral y Previsional, con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indica:
 a) Valparaíso, con dos jueces, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón;
