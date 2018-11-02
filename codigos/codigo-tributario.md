@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2017-12-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2018-11-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2017-12-01
-fetched_at: 2026-08-03T04:14:09.727150+00:00
+version_date: 2018-11-02
+fetched_at: 2026-08-03T04:18:09.569031+00:00
 titulo_norma: "CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -877,14 +877,20 @@ Artículo 128.- Las sumas que un contribuyente haya trasladado o recargado indeb
 Artículo 129.- En las reclamaciones a que se refiere el presente Título, sólo podrán actuar las partes por sí o por medio de sus representantes legales o mandatarios.
 Las partes deberán comparecer en conformidad a la normas establecidas en la ley Nº 18.120, salvo que se trate de causas de cuantía inferior a treinta y dos unidades tributarias mensuales, en cuyo caso podrán comparecer sin patrocinio de abogado.
 
-Artículo 130.- El Tribunal Tributario y Aduanero llevará los autos en la forma ordenada en los artículos 29 y 34 del Código de Procedimiento Civil. Durante la tramitación, sólo las partes podrán imponerse de ellos.
+Artículo 130.- Se formará el proceso, en soporte papel, con los escritos, documentos y actuaciones de toda especie que se presenten o verifiquen en el juicio.
+Ninguna pieza del proceso podrá retirarse sin que previamente lo decrete el tribunal que conoce de la causa.
+Todas las piezas que deben formar el proceso, de conformidad a lo anterior, se irán agregando sucesivamente según el orden de su presentación. Al tiempo de agregarlas, el secretario numerará cada foja en cifras y en letras. Se exceptúan las piezas que, por su naturaleza, no puedan agregarse o que por motivos fundados se manden reservar fuera del proceso.
+Durante la tramitación, sólo las partes podrán imponerse de los autos del proceso.
+Sin perjuicio de lo anterior, el Tribunal Tributario y Aduanero mantendrá registro de todos sus procedimientos, causas o actuaciones judiciales en medio digital o electrónico apto para producir fe y que permita garantizar la conservación y reproducción de su contenido. Dicho registro se denominará, para todos los efectos legales, Sistema de Administración de Causas Tributarias y Aduaneras, en adelante "el Sistema", y cada uno de los expedientes como Expediente Electrónico.
+Las partes, además, podrán hacer sus presentaciones al Tribunal por medio digital o electrónico, cargando sus escritos y documentos en el Sistema a través del sitio en internet de los Tribunales Tributarios y Aduaneros, el cual entregará el comprobante de recepción correspondiente cuando éstos hayan sido recibidos, debiendo el Tribunal incorporar la impresión de los escritos al expediente físico. No obstante lo anterior, el Tribunal podrá exigir que los documentos y demás pruebas que se acompañen en el proceso sean presentados en forma física.
+La Corte Suprema, mediante auto acordado, fijará los requisitos que estime pertinentes para el adecuado funcionamiento del Sistema, reglando, entre otras materias, el tamaño o peso máximo de los archivos que contengan los escritos y documentos que puedan ser presentados o acompañados en el Sistema.
 
 Artículo 131.- Los plazos de días que se establecen en este Libro comprenderán sólo días hábiles. No se considerarán inhábiles para tales efectos ni para practicar las actuaciones y notificaciones que procedan, ni para emitir pronunciamientos, los días del feriado judicial a que se refiere el artículo 313 del Código Orgánico de Tribunales, en cuanto todos ellos deban cumplirse por o ante el Tribunal Tributario y Aduanero.
 NOTA
 La Ley 20774, publicada el 04.09.2014, modificó diversas disposiciones legales con el fin de suprimir el feriado judicial y, en particular, el Nº 3 de su Art. 1º lo eliminó del Art. 313 del Código Orgánico de Tribunales, a que se refiere el presente artículo. Conforme a su Art. 7 las referencias al feriado judicial de febrero consignadas en cualquier cuerpo legal que no se encuentren previstas expresamente en ella, se entenderán derogadas para todos los efectos legales.
 
 Artículo 131 bis.- Las resoluciones que dicte el Tribunal Tributario y Aduanero se notificarán a las partes mediante la publicación de su texto íntegro en el sitio en Internet del Tribunal.
-Se dejará testimonio en el expediente y en el sitio en Internet de haberse efectuado la publicación y de su fecha. Los errores u omisiones en dichos testimonios no invalidarán la notificación.
+Se dejará registro en el expediente electrónico y en el sitio en internet a que se refiere el inciso anterior de haberse efectuado la publicación y de su fecha. Los errores u omisiones en dichos registros no invalidarán la notificación.
 Las notificaciones al reclamante de las sentencias definitivas, de las resoluciones que reciben la causa a prueba y de aquellas que declaren inadmisible un reclamo, pongan término al juicio o hagan imposible su continuación, serán efectuadas por carta certificada. Del mismo modo, lo serán aquellas que se dirijan a terceros ajenos al juicio. En estos casos, la notificación se entenderá practicada al tercer día contado desde aquél en que la carta fue expedida por el tribunal. Sin perjuicio de lo anterior, dichas resoluciones serán igualmente publicadas del modo que se establece en el inciso primero. En todo caso, la falta de esa publicación no anulará la notificación.
 Para efectos de las notificaciones a que se refiere el inciso anterior, el reclamante deberá designar, en la primera gestión que realice ante el Tribunal, un domicilio dentro del radio urbano de una localidad ubicada en alguna de las comunas de la Región sobre cuyo territorio aquél ejerce competencia, y esta designación se considerará subsistente mientras no haga otra, aun cuando de hecho cambie su morada. Si se omite efectuar esta designación, el Tribunal dispondrá que ella se realice en un plazo de cinco días, bajo apercibimiento de que estas notificaciones se efectúen de conformidad con lo dispuesto en el inciso primero.
 Cualquiera de las partes podrá solicitar para sí el aviso, mediante correo electrónico, del hecho de haber sido notificada de una o más resoluciones. En todo caso, la falta de este aviso no anulará la notificación.
