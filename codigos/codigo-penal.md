@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2018-01-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2018-11-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2018-01-27
-fetched_at: 2026-08-03T04:15:04.066543+00:00
+version_date: 2018-11-20
+fetched_at: 2026-08-03T04:18:21.570998+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -214,7 +214,9 @@ Relegación mayor.
 Inhabilitación absoluta perpetua para cargos y oficios públicos, derechos políticos y profesiones titulares.
 Inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad.
 Inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con menores de dieciocho años de edad, adultos mayores o personas en situación de discapacidad.
+Inhabilitación absoluta perpetua para ejercer cargos, empleos, oficios o profesiones en empresas que contraten con órganos o empresas del Estado o con empresas o asociaciones en que éste tenga una participación mayoritaria; o en empresas que participen en concesiones otorgadas por el Estado o cuyo objeto sea la provisión de servicios de utilidad pública.
 Inhabilitación especial perpetua para algún cargo u oficio público o profesión titular.
+Inhabilitación absoluta temporal para ejercer cargos, empleos, oficios o profesiones en empresas que contraten con órganos o empresas del Estado o con empresas o asociaciones en que éste tenga una participación mayoritaria; o en empresas que participen en concesiones otorgadas por el Estado o cuyo objeto sea la provisión de servicios de utilidad pública.
 Inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad.
 Inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con menores de dieciocho años de edad, adultos mayores o personas en situación de discapacidad.
 Inhabilitación absoluta temporal para cargos y oficios públicos y profesiones titulares.
@@ -228,6 +230,7 @@ Relegación menor.
 Destierro.
 Inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad.
 Inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con menores de dieciocho años de edad, adultos mayores o personas en situación de discapacidad.
+Inhabilitación absoluta temporal para ejercer cargos, empleos, oficios o profesiones en empresas que contraten con órganos o empresas del Estado o con empresas o asociaciones en que éste tenga una participación mayoritaria; o en empresas que participen en concesiones otorgadas por el Estado o cuyo objeto sea la provisión de servicios de utilidad pública.
 Inhabilitación especial temporal para emitir licencias médicas.
 Suspensión de cargo u oficio público o profesión titular.
 Inhabilidad perpetua para conducir vehículos a tracción mecánica o animal.
@@ -339,6 +342,12 @@ La pena de inhabilitación absoluta perpetua o temporal para cargos, empleos, of
 1º. La privación de todos los cargos, empleos, oficios y profesiones que tenga el condenado, ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con las personas mencionadas en el inciso primero de este artículo.
 2º. La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados, perpetuamente cuando la inhabilitación es perpetua, y por el tiempo de la condena cuando es temporal.
 La pena de inhabilitación absoluta temporal de que trata este artículo tiene una extensión de tres años y un día a diez años y es divisible en la misma forma que las penas de inhabilitación absoluta y especial temporales.
+
+ART. 39 quáter.- La pena de inhabilitación absoluta perpetua o temporal para ejercer cargos, empleos, oficios o profesiones en empresas que contraten con órganos o empresas del Estado o con empresas o asociaciones en que éste tenga una participación mayoritaria; o en empresas que participen en concesiones otorgadas por el Estado o cuyo objeto sea la provisión de servicios de utilidad pública, prevista en el artículo 251 quáter de este Código, produce:
+1º. La privación de todos los cargos, empleos, oficios y profesiones ejercidos en empresas que contraten con órganos o empresas del Estado o con empresas o asociaciones en que éste tenga una participación mayoritaria; o en empresas que participen en concesiones otorgadas por el Estado o cuyo objeto sea la provisión de servicios de utilidad pública.
+2º. La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados, perpetuamente cuando la inhabilitación es perpetua, y por el tiempo de la condena cuando es temporal.
+La pena de inhabilitación absoluta temporal de que trata este artículo tiene una extensión de tres años y un día a diez años y es divisible en la misma forma que las penas de inhabilitación absoluta y especial temporales.
+En este caso, ejecutoriada que sea la sentencia definitiva, el tribunal la comunicará a la Dirección de Compras y Contratación Pública. Dicha Dirección mantendrá un registro público actualizado de las personas naturales a las que se les haya impuesto esta pena.
 
 ART. 40.
 La suspensión de cargo y oficio público y profesión titular, inhabilita para su ejercicio durante el tiempo de la condena.
@@ -1308,7 +1317,7 @@ Prevaricación.
 ART. 223.
 Los miembros de los tribunales de justicia colegiados o unipersonales y los fiscales judiciales, sufrirán las penas de inhabilitación absoluta perpetua para cargos y oficios públicos, derechos políticos y profesiones titulares y la de presidio o reclusión menores en cualesquiera de sus grados:
 1° Cuando a sabiendas fallaren contra ley expresa y vigente en causa criminal o civil.
-2° Cuando por sí o por interpuesta persona admitan o convengan en admitir dádiva o regalo por hacer o dejar de hacer algún acto de su cargo.
+2° Suprimido.
 3° Cuando ejerciendo las funciones de su empleo o valiéndose del poder que éste les da, seduzcan o soliciten a persona imputada o que litigue ante ellos.
 
 ART. 224.
@@ -1359,18 +1368,18 @@ El abogado que, teniendo la defensa actual de un pleito, patrocinare a la vez a 
 Malversación de caudales públicos.
 
 Artículo 233.- El empleado público que, teniendo a su cargo caudales o efectos públicos o de particulares en depósito, consignación o secuestro, los substrajere o consintiere que otro los substraiga, será castigado:
-1.º Con presidio menor en su grado medio y multa de cinco unidades tributarias mensuales, si la substracción excediere de una unidad tributaria mensual y no pasare de cuatro unidades tributarias mensuales.
-2.º Con presidio menor en su grado máximo y multa de seis a diez unidades tributarias mensuales, si excediere de cuatro unidades tributarias mensuales y no pasare de cuarenta unidades tributarias mensuales.
-3.º Con presidio mayor en sus grados mínimo a medio y multa de once a quince unidades tributarias mensuales, si excediere de cuarenta unidades tributarias mensuales.
-En todos los casos, con la pena de inhabilitación absoluta temporal en su grado mínimo a inhabilitación absoluta perpetua para cargos y oficios públicos.
+1.º Con presidio menor en sus grados medio a máximo, si la substracción excediere de una unidad tributaria mensual y no pasare de cuatro unidades tributarias mensuales.
+2.º Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, si excediere de cuatro unidades tributarias mensuales y no pasare de cuarenta unidades tributarias mensuales.
+3.º Con presidio mayor en sus grados mínimo a medio, si excediere de cuarenta unidades tributarias mensuales.
+En todos los casos, con las penas de multa del doble de lo substraído y de inhabilitación absoluta temporal en su grado medio a inhabilitación absoluta perpetua para cargos y oficios públicos.
 
 ART. 234.
 El empleado público que, por abandono o negligencia inexcusables, diere ocasión a que se efectúe por otra persona la sustracción de caudales o efectos públicos o de particulares de que se trata en los tres números del artículo anterior, incurrirá en la pena de suspensión en cualquiera de sus grados, quedando además obligado a la devolución de la cantidad o efectos sustraídos.
 
 ART. 235.
-El empleado que, con daño o entorpecimiento del servicio público, aplicare a usos propios o ajenos los caudales o efectos puestos a su cargo, sufrirá las penas de inhabilitación especial temporal para el cargo u oficio en su grado medio y multa de diez al cincuenta por ciento de la cantidad que hubiere sustraído.
+El empleado que, con daño o entorpecimiento del servicio público, aplicare a usos propios o ajenos los caudales o efectos puestos a su cargo, sufrirá las penas de inhabilitación especial temporal para el cargo u oficio en su grado medio y multa de la mitad al tanto de la cantidad que hubiere sustraído.
 No verificado el reintegro, se le aplicarán las penas señaladas en el art. 233.
-Si el uso indebido de los fondos fuere sin daño ni entorpecimiento del servicio público, las penas serán suspensión del empleo en su grado medio y multa del cinco al veinticinco por ciento de la cantidad sustraída, sin perjuicio del reintegro.
+Si el uso indebido de los fondos fuere sin daño ni entorpecimiento del servicio público, las penas serán suspensión del empleo en su grado medio y multa de la mitad de la cantidad sustraída, sin perjuicio del reintegro.
 
 ART. 236.
 El empleado público que arbitrariamente diere a los caudales o efectos que administre una aplicación pública diferente de aquella a que estuvieren destinados, será castigado con la pena de suspensión del empleo en su grado medio, si de ello resultare daño o entorpecimiento para el servicio u objeto en que debían emplearse, y con la misma en su grado mínimo, si no resultare daño o entorpecimiento.
@@ -1388,23 +1397,30 @@ Fraudes y exacciones ilegales.
 
 ART. 239.
 El empleado público que en las operaciones en que interviniere por razón de su cargo, defraudare o consintiere que se defraude al Estado, a las municipalidades o a los establecimientos públicos de instrucción o de beneficencia, sea originándoles pérdida o privándoles de un lucro legítimo, incurrirá en la pena de presidio menor en sus grados medio a máximo.
-En aquellos casos en que el monto de lo defraudado excediere de cuarenta unidades tributarias mensuales, el juez podrá aumentar en un grado la pena señalada en el inciso anterior.
-Si la defraudación excediere de cuatrocientas unidades tributarias mensuales se aplicará la pena de presidio mayor en su grado mínimo.
-En todo caso, se aplicarán las penas de multa del diez al cincuenta por ciento del perjuicio causado e inhabilitación absoluta temporal para cargos, empleos u oficios públicos en sus grados medio a máximo.
+En aquellos casos en que el monto de lo defraudado excediere de cuarenta unidades tributarias mensuales, se impondrá la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo.
+Si la defraudación excediere de cuatrocientas unidades tributarias mensuales se aplicará la pena de presidio mayor en sus grados mínimo a medio.
+En todo caso, se aplicarán las penas de multa de la mitad al tanto del perjuicio causado e inhabilitación absoluta temporal para cargos, empleos u oficios públicos en sus grados medio a máximo.
 
 ART. 240.
-El empleado público que directa o indirectamente se interesare en cualquiera clase de contrato u operación en que debe intervenir por razón de su cargo, será castigado con las penas de reclusión menor en su grado medio, inhabilitación absoluta temporal para cargos, empleos u oficios públicos en sus grados medio a máximo y multa del diez al cincuenta por ciento del valor del interés que hubiere tomado en el negocio.
-Esta disposición es aplicable a los peritos, árbitros y liquidadores comerciales respecto de los bienes o cosas en cuya tasación, adjudicación, partición o administración intervinieren, y a los guardadores y albaceas tenedores de bienes respecto de los pertenecientes a sus pupilos y testamentarias.
-Las mismas penas se impondrán a las personas relacionadas en este artículo, si en el negocio u operación confiados a su cargo dieren interés a su cónyuge, a alguno de sus ascendientes o descendientes legítimos por consanguinidad o afinidad, a sus colaterales legítimos, por consanguinidad hasta el tercer grado inclusive y por afinidad hasta el segundo también inclusive, a sus padres o hijos naturales o ilegítimos reconocidos, o a personas ligadas a él por adopción.
-Asimismo, se sancionará con iguales penas al empleado público que en el negocio u operación en que deba intervenir por razón de su cargo diere interés a terceros asociados con él o con las personas indicadas en el inciso precedente, o a sociedades, asociaciones o empresas en las que dichos terceros o esas personas tengan interés social, superior al diez por ciento si la sociedad es anónima, o ejerzan su administración en cualquiera forma.
+Será sancionado con la pena de reclusión menor en sus grados medio a máximo, inhabilitación absoluta temporal para cargos, empleos u oficios públicos en sus grados medio a máximo y multa de la mitad al tanto del valor del interés que hubiere tomado en el negocio:
+1° El empleado público que directa o indirectamente se interesare en cualquier negociación, actuación, contrato, operación o gestión en la cual hubiere de intervenir en razón de su cargo.
+2º El árbitro o el liquidador comercial que directa o indirectamente se interesare en cualquier negociación, actuación, contrato, operación o gestión en la cual hubiere de intervenir en relación con los bienes, cosas o intereses patrimoniales cuya adjudicación, partición o administración estuviere a su cargo.
+3° El veedor o liquidador en un procedimiento concursal que directa o indirectamente se interesare en cualquier negociación, actuación, contrato, operación o gestión en la cual hubiere de intervenir en relación con los bienes o intereses patrimoniales cuya salvaguardia o promoción le corresponda.
+En este caso se aplicará lo dispuesto en el artículo 465 de este Código.
+4° El perito que directa o indirectamente se interesare en cualquier negociación, actuación, contrato, operación o gestión en la cual hubiere de intervenir en relación con los bienes o cosas cuya tasación le corresponda.
+5° El guardador o albacea que directa o indirectamente se interesare en cualquier negociación, actuación, contrato, operación o gestión en la cual hubiere de intervenir en relación con el patrimonio de los pupilos y las testamentarías a su cargo, incumpliendo las condiciones establecidas en la ley.
+6º El que tenga a su cargo la salvaguardia o la gestión de todo o parte del patrimonio de otra persona que estuviere impedida de administrarlo, que directa o indirectamente se interesare en cualquier negociación, actuación, contrato, operación o gestión en la cual hubiere de intervenir en relación con ese patrimonio, incumpliendo las condiciones establecidas en la ley.
+7° El director o gerente de una sociedad anónima que directa o indirectamente se interesare en cualquier negociación, actuación, contrato, operación o gestión que involucre a la sociedad, incumpliendo las condiciones establecidas por la ley, así como toda persona a quien le sean aplicables las normas que en materia de deberes se establecen para los directores o gerentes de estas sociedades.
+Las mismas penas se impondrán a las personas enumeradas en el inciso precedente si, en las mismas circunstancias, dieren o dejaren tomar interés, debiendo impedirlo, a su cónyuge o conviviente civil, a un pariente en cualquier grado de la línea recta o hasta en el tercer grado inclusive de la línea colateral, sea por consanguinidad o afinidad.
+Lo mismo valdrá en caso de que alguna de las personas enumeradas en el inciso primero, en las mismas circunstancias, diere o dejare tomar interés, debiendo impedirlo, a terceros asociados con ella o con las personas indicadas en el inciso precedente, o a sociedades, asociaciones o empresas en las que ella misma, dichos terceros o esas personas ejerzan su administración en cualquier forma o tengan interés social, el cual deberá ser superior al diez por ciento si la sociedad fuere anónima.
 
 ART. 240 bis.
 Las penas establecidas en el artículo precedente serán también aplicadas al empleado público que, interesándose directa o indirectamente en cualquier clase de contrato u operación en que deba intervenir otro empleado público, ejerciere influencia en éste para obtener una decisión favorable a sus intereses.
-Las mismas penas se impondrán al empleado público que, para dar interés a cualquiera de las personas expresadas en los incisos tercero y final del artículo precedente en cualquier clase de contrato u operación en que deba intervenir otro empleado público, ejerciere influencia en él para obtener una decisión favorable a esos intereses.
+Las mismas penas se impondrán al empleado público que, para dar interés a cualquiera de las personas expresadas en los incisos segundo y final del artículo precedente en cualquier clase de contrato u operación en que deba intervenir otro empleado público, ejerciere influencia en él para obtener una decisión favorable a esos intereses.
 En los casos a que se refiere este artículo el juez podrá imponer la pena de inhabilitación absoluta perpetua para cargos u oficios públicos.
 
 ART. 241.
-El empleado público que directa o indirectamente exigiere mayores derechos de los que le están señalados por razón de su cargo, o un beneficio económico para sí o un tercero para ejecutar o por haber ejecutado un acto propio de su cargo en razón del cual no le están señalados derechos, será sancionado con inhabilitación absoluta temporal para cargos u oficios públicos en cualquiera de sus grados y multa del duplo al cuádruplo de los derechos o del beneficio obtenido.
+El empleado público que directa o indirectamente exigiere mayores derechos de los que le están señalados por razón de su cargo, o un beneficio económico para sí o un tercero para ejecutar o por haber ejecutado un acto propio de su cargo en razón del cual no le están señalados derechos, será sancionado con reclusión menor en su grado máximo a reclusión mayor en su grado mínimo, salvo que el hecho sea constitutivo de un delito que merezca mayor pena, caso en el cual se aplicará sólo la pena asignada por la ley a éste. En todo caso se impondrán, además, las penas de inhabilitación absoluta temporal para cargos u oficios públicos en sus grados medio a máximo y multa del duplo al cuádruplo de los derechos o del beneficio obtenido.
 
 ART. 241 bis.
 El empleado público que durante el ejercicio de su cargo obtenga un incremento patrimonial relevante e injustificado, será sancionado con multa equivalente al monto del incremento patrimonial indebido y con la pena de inhabilitación absoluta temporal para el ejercicio de cargos y oficios públicos en sus grados mínimo a medio.
@@ -1449,24 +1465,26 @@ El empleado público que, haciendo uso de un secreto o información concreta res
 Cohecho.
 
 ART. 248.
-El empleado público que solicitare o aceptare recibir mayores derechos de los que le están señalados por razón de su cargo, o un beneficio económico para sí o un tercero para ejecutar o por haber ejecutado un acto propio de su cargo en razón del cual no le están señalados derechos, será sancionado con la pena de reclusión menor en su grado mínimo, suspensión en cualquiera de sus grados y multa de la mitad al tanto de los derechos o del beneficio solicitados o aceptados.
+El empleado público que en razón de su cargo solicitare o aceptare un beneficio económico o de otra naturaleza al que no tiene derecho, para sí o para un tercero, será sancionado con la pena de reclusión menor en su grado medio, inhabilitación absoluta para cargos u oficios públicos temporal en su grado mínimo y multa del tanto del beneficio solicitado o aceptado. Si el beneficio fuere de naturaleza distinta a la económica, la multa será de veinticinco a doscientos cincuenta unidades tributarias mensuales.
+El empleado público que solicitare o aceptare recibir mayores derechos de los que le están señalados por razón de su cargo, o un beneficio económico o de otra naturaleza, para sí o un tercero, para ejecutar o por haber ejecutado un acto propio de su cargo en razón del cual no le están señalados derechos, será sancionado con la pena de reclusión menor en sus grados medio a máximo, inhabilitación absoluta temporal para cargos u oficios públicos en su grado medio y multa del tanto al duplo de los derechos o del beneficio solicitados o aceptados. Si el beneficio fuere de naturaleza distinta a la económica, la multa será de cincuenta a quinientas unidades tributarias mensuales.
 
 ART. 248 bis.
-El empleado público que solicitare o aceptare recibir un beneficio económico para sí o un tercero para omitir o por haber omitido un acto debido propio de su cargo, o para ejecutar o por haber ejecutado un acto con infracción a los deberes de su cargo, será sancionado con la pena de reclusión menor en su grado medio, y además, con la pena de inhabilitación absoluta para cargos u oficios públicos temporal en cualquiera de sus grados y multa del tanto al duplo del provecho solicitado o aceptado.
-Si la infracción al deber del cargo consistiere en ejercer influencia en otro empleado público con el fin de obtener de éste una decisión que pueda generar un provecho para un tercero interesado, se impondrá la pena de inhabilitación absoluta para cargo u oficio público, perpetua, además de las penas de reclusión y multa establecidas en el inciso precedente.
+El empleado público que solicitare o aceptare recibir un beneficio económico o de otra naturaleza, para sí o un tercero para omitir o por haber omitido un acto debido propio de su cargo, o para ejecutar o por haber ejecutado un acto con infracción a los deberes de su cargo, será sancionado con la pena de reclusión menor en su grado máximo a reclusión mayor en su grado mínimo y, además, con las penas de inhabilitación absoluta temporal para cargos u oficios públicos en su grado máximo y multa del duplo al cuádruplo del provecho solicitado o aceptado. Si el beneficio fuere de naturaleza distinta a la económica, la multa será de cien a mil unidades tributarias mensuales.
+Si la infracción al deber del cargo consistiere en ejercer influencia en otro empleado público con el fin de obtener de éste una decisión que pueda generar un provecho para un tercero interesado, se impondrá la pena de inhabilitación absoluta para cargos u oficios públicos, perpetua, además de las penas de reclusión y multa establecidas en el inciso precedente.
 
 ART. 249.
-El empleado público que solicitare o aceptare recibir un beneficio económico para sí o para un tercero para cometer alguno de los crímenes o simples delitos expresados en este Título, o en el párrafo 4 del Título III, será sancionado con la pena de inhabilitación absoluta, temporal o perpetua, para cargos u oficios públicos, y multa del tanto al triplo del provecho solicitado o aceptado.
-Lo establecido en el inciso anterior se entiende sin perjuicio de la pena aplicable al delito cometido por el empleado público, la que no será inferior, en todo caso, a la de reclusión menor en su grado medio.
+El empleado público que solicitare o aceptare recibir un beneficio económico o de otra naturaleza, para sí o para un tercero para cometer alguno de los crímenes o simples delitos expresados en este Título, o en el párrafo 4 del Título III, será sancionado con las penas de reclusión menor en su grado máximo a reclusión mayor en su grado mínimo, de inhabilitación absoluta perpetua para cargos u oficios públicos y multa del cuádruplo del provecho solicitado o aceptado. Si el beneficio fuere de naturaleza distinta de la económica, la multa será de ciento cincuenta a mil quinientas unidades tributarias mensuales.
+Las penas previstas en el inciso anterior se aplicarán sin perjuicio de las que además corresponda imponer por la comisión del crimen o simple delito de que se trate.
 
 ART. 250.
-El que ofreciere o consintiere en dar a un empleado público un beneficio económico, en provecho de éste o de un tercero, para que realice las acciones o incurra en las omisiones señaladas en los artículos 248, 248 bis y 249, o por haberla realizado o haber incurrido en ellas, será castigado con las mismas penas de multa e inhabilitación establecidas en dichas disposiciones.
-Tratándose del beneficio ofrecido en relación con las acciones u omisiones del artículo 248, el sobornante será sancionado, además, con la pena de reclusión menor en su grado mínimo.
-Tratándose del beneficio consentido u ofrecido en relación con las acciones u omisiones señaladas en el artículo 248 bis, el sobornante será sancionado, además, con pena de reclusión menor en su grado medio, en el caso del beneficio ofrecido, o de reclusión menor en su grado mínimo a medio, en el caso del beneficio consentido.
-Tratándose del beneficio consentido u ofrecido en relación con los crímenes o simples delitos señalados en el artículo 249, el sobornante será sancionado, además, con pena de reclusión menor en su grado medio, en el caso del beneficio ofrecido, o de reclusión menor en sus grados mínimo a medio, en el caso del beneficio consentido. En estos casos, si al sobornante le correspondiere una pena superior por el crimen o simple delito de que se trate, se estará a esta última.
+El que diere, ofreciere o consintiere en dar a un empleado público un beneficio económico o de otra naturaleza, en provecho de éste o de un tercero, en razón del cargo del empleado en los términos del inciso primero del artículo 248, o para que realice las acciones o incurra en las omisiones señaladas en los artículos 248, inciso segundo, 248 bis y 249, o por haberlas realizado o haber incurrido en ellas, será castigado con las mismas penas de multa e inhabilitación establecidas en dichas disposiciones.
+Tratándose del beneficio dado, ofrecido o consentido en razón del cargo del empleado público en los términos del inciso primero del artículo 248, el sobornante será sancionado, además, con la pena de reclusión menor en su grado medio, en el caso del beneficio dado u ofrecido, o de reclusión menor en su grado mínimo, en el caso del beneficio consentido.
+Tratándose del beneficio dado, ofrecido o consentido en relación con las acciones u omisiones del inciso segundo del artículo 248, el sobornante será sancionado, además, con la pena de reclusión menor en sus grados medio a máximo, en el caso del beneficio dado u ofrecido, o de reclusión menor en sus grados mínimo a medio, en el caso del beneficio consentido.
+Tratándose del beneficio dado, ofrecido o consentido en relación con las acciones u omisiones señaladas en el artículo 248 bis, el sobornante será sancionado, además, con pena de reclusión menor en su grado máximo a reclusión mayor en su grado mínimo, en el caso del beneficio dado u ofrecido, o de reclusión menor en sus grados medio a máximo, en el caso del beneficio consentido.
+Tratándose del beneficio dado, ofrecido o consentido en relación con los crímenes o simples delitos señalados en el artículo 249, el sobornante será sancionado, además, con pena de reclusión menor en su grado máximo a reclusión mayor en su grado mínimo, en el caso del beneficio dado u ofrecido, o con reclusión menor en sus grados medio a máximo, en el caso del beneficio consentido. Las penas previstas en este inciso se aplicarán sin perjuicio de las que además corresponda imponer por la comisión del crimen o simple delito de que se trate.
 
 ART. 250 bis.
-En los casos en que el delito previsto en el artículo anterior tuviere por objeto la realización u omisión de una actuación de las señaladas en los artículos 248 ó 248 bis que mediare en causa criminal a favor del procesado, y fuere cometido por su cónyuge, por alguno de sus ascendientes o descendientes consanguíneos o afines, por un colateral consanguíneo o afín hasta el segundo grado inclusive, o por persona ligada a él por adopción, sólo se impondrá al responsable la multa que corresponda conforme las disposiciones antes mencionadas.
+En los casos en que el delito previsto en el artículo anterior tuviere por objeto la realización u omisión de una actuación de las señaladas en los artículos 248 ó 248 bis que mediare en causa criminal a favor del imputado, y fuere cometido por su cónyuge o su conviviente civil, por alguno de sus ascendientes o descendientes consanguíneos o afines, por un colateral consanguíneo o afín hasta el segundo grado inclusive, o por persona ligada a él por adopción, sólo se impondrá al responsable la multa que corresponda conforme las disposiciones antes mencionadas.
 
 ART. 250 bis A. Derogado
 
@@ -1474,16 +1492,34 @@ ART. 250 bis B. Derogado
 
 ART. 251.
 Los bienes recibidos por el empleado público caerán siempre en comiso.
-En el caso del artículo 249 y del artículo 250, inciso segundo, para la aplicación de las penas de suspensión o inhabilitación que correspondieren en calidad de accesorias a penas privativas de libertad se estará a las siguientes reglas:
-1º Si las penas accesorias fueren más graves que las establecidas en el artículo 249, serán impuestas las primeras, en su grado máximo, y
-2º Si las penas establecidas en el artículo 249 fueren más graves que las penas accesorias, serán impuestas aquéllas en toda la extensión que no sea inferior al grado máximo de las accesorias.
+Inciso Suprimido.
 
 #### § 9 bis. Cohecho a Funcionarios Públicos Extranjeros
 
-Artículo 251 bis.- El que ofreciere, prometiere o diere a un funcionario público extranjero, un beneficio económico o de otra naturaleza, en provecho de éste o de un tercero, para que realice una acción o incurra en una omisión con miras a la obtención o mantención, para sí u otro, de cualquier negocio o ventaja indebidos en el ámbito de cualesquiera transacciones internacionales, será sancionado con la pena de reclusión menor en su grado medio a máximo y, además, con las de multa e inhabilitación establecidas en el inciso primero del artículo 248 bis. Si el beneficio fuere de naturaleza distinta a la económica, la multa será de cien a mil unidades tributarias mensuales. De igual forma será castigado el que ofreciere, prometiere o diere el aludido beneficio a un funcionario público extranjero por haber realizado o haber incurrido en las acciones u omisiones señaladas.
-El que, en iguales situaciones a las descritas en el inciso anterior, consintiere en dar el referido beneficio, será sancionado con pena de reclusión menor en su grado mínimo a medio, además de las mismas penas de multa e inhabilitación señaladas.
+ART. 251 bis.
+El que, con el propósito de obtener o mantener para sí o para un tercero cualquier negocio o ventaja en el ámbito de cualesquiera transacciones internacionales o de una actividad económica desempeñada en el extranjero, ofreciere, prometiere, diere o consintiere en dar a un funcionario público extranjero un beneficio económico o de otra naturaleza en provecho de éste o de un tercero, en razón del cargo del funcionario, o para que omita o ejecute, o por haber omitido o ejecutado, un acto propio de su cargo o con infracción a los deberes de su cargo, será sancionado con la pena de reclusión menor en su grado máximo a reclusión mayor en su grado mínimo y, además, con multa del duplo al cuádruplo del beneficio ofrecido, prometido, dado o solicitado, e inhabilitación absoluta temporal para cargos u oficios públicos en su grado máximo. Si el beneficio fuere de naturaleza distinta de la económica, la multa será de cien a mil unidades tributarias mensuales.
+Los bienes recibidos por el funcionario público caerán siempre en comiso.
 
 Artículo 251 ter.- Para los efectos de lo dispuesto en el artículo anterior, se considera funcionario público extranjero toda persona que tenga un cargo legislativo, administrativo o judicial en un país extranjero, haya sido nombrada o elegida, así como cualquier persona que ejerza una función pública para un país extranjero, sea dentro de un organismo público o de una empresa pública. También se entenderá que inviste la referida calidad cualquier funcionario o agente de una organización pública internacional.
+
+#### §9 ter. Normas comunes a los Párrafos anteriores
+
+ART. 251 quáter.
+El que cometiere cualquiera de los delitos previstos en los dos Párrafos anteriores será condenado, además, a la pena de inhabilitación absoluta, perpetua o temporal, en cualquiera de sus grados, para ejercer cargos, empleos, oficios o profesiones en empresas que contraten con órganos o empresas del Estado o con empresas o asociaciones en que éste tenga una participación mayoritaria; o en empresas que participen en concesiones otorgadas por el Estado o cuyo objeto sea la provisión de servicios de utilidad pública.
+
+ART. 251 quinquies.
+En el caso de los delitos previstos en los artículos 241, 248, 248 bis y 249, se excluirá el mínimum o el grado mínimo de las penas señaladas, según corresponda, respecto de todos sus responsables, en los siguientes casos:
+1° Cuando hayan sido cometidos por un empleado público que desempeñe un cargo de elección popular, de exclusiva confianza de éstos, de alta dirección pública del primer nivel jerárquico o por un fiscal del Ministerio Público o por cualquiera que, perteneciendo o no al orden judicial, ejerza jurisdicción; por los Comandantes en Jefe del Ejército, de la Armada, de la Fuerza Aérea, o por el General Director de Carabineros o el Director General de la Policía de Investigaciones, o
+2° Cuando hayan sido cometidos por un empleado público con ocasión de su intervención en cualquiera de los siguientes procesos:
+a) La designación de una persona en un cargo o función pública;
+b) Un procedimiento de adquisición, contratación o concesión que supere las mil unidades tributarias mensuales en que participe un órgano o empresa del Estado, o una empresa o asociación en que éste tenga una participación mayoritaria; o en el cumplimiento o la ejecución de los contratos o concesiones que se suscriban o autoricen en el marco de dichos procedimientos;
+c) El otorgamiento de permisos o autorizaciones para el desarrollo de actividades económicas por parte de personas naturales cuyos ingresos anuales sean superiores a dos mil cuatrocientas unidades de fomento; o jurídicas con o sin fines de lucro, cuyos ingresos anuales sean superiores a cien mil unidades de fomento, o
+d) La fiscalización de actividades económicas desarrolladas por personas naturales cuyos ingresos anuales sean superiores a dos mil cuatrocientas unidades de fomento; o jurídicas con o sin fines de lucro, cuyos ingresos anuales sean superiores a cien mil unidades de fomento.
+Para los efectos de este artículo, se determinará el valor de la unidad de fomento considerando el vigente a la fecha de comisión del delito.
+
+ART. 251 sexies.
+No será constitutivo de los delitos contemplados en los artículos 248, 250, incisos segundo y tercero, y 251 bis aceptar, dar u ofrecer donativos oficiales o protocolares, o aquellos de escaso valor económico que autoriza la costumbre como manifestaciones de cortesía y buena educación.
+Lo dispuesto en el inciso anterior no se aplicará respecto del delito contemplado en el artículo 251 bis cuando se ofreciere, prometiere, diere o consintiere en dar a un funcionario público extranjero un beneficio, para que omita o ejecute, o por haber omitido o ejecutado un acto con infracción a los deberes de su cargo.
 
 #### § X.
 Resistencia y desobediencia.
@@ -1533,6 +1569,19 @@ Disposición general.
 
 ART. 260
 Para los efectos de este Título y del Párrafo IV del Título III, se reputa empleado todo el que desempeñe un cargo o función pública, sea en la Administración Central o en instituciones o empresas semifiscales, municipales, autónomas u organismos creados por el Estado o dependientes de él, aunque no sean de nombramiento del Jefe de la República ni reciban sueldo del Estado. No obstará a esta calificación el que el cargo sea de elección popular.
+
+ART. 260 bis.
+En los delitos contemplados en los Párrafos 5, 6, 9 y 9 bis de este Título el plazo de prescripción de la acción penal empezará a correr desde que el empleado público que intervino en ellos cesare en su cargo o función. Sin embargo, si el empleado, dentro de los seis meses que siguen al cese de su cargo o función, asumiere uno nuevo con facultades de dirección, supervigilancia o control respecto del anterior, el plazo de prescripción empezará a correr desde que cesare en este último.
+
+ART. 260 ter.
+Será circunstancia agravante de los delitos contemplados en los Párrafos 5, 6, 9 y 9 bis el hecho de que los responsables hayan actuado formando parte de una agrupación u organización de dos o más personas destinada a cometer dichos hechos punibles, siempre que ésta o aquélla no constituyere una asociación ilícita de que trata el Párrafo 10 del Título VI del Libro Segundo.
+
+ART. 260 quáter.
+Será circunstancia atenuante de responsabilidad penal de los delitos contemplados en los Párrafos 5, 6, 9 y 9 bis la cooperación eficaz que conduzca al esclarecimiento de los hechos investigados o permita la identificación de sus responsables, o sirva para prevenir o impedir la perpetración o consumación de estos delitos, o facilite el comiso de los bienes, instrumentos, efectos o productos del delito. En estos casos, el tribunal podrá reducir la pena hasta en dos grados.
+Se entiende por cooperación eficaz el suministro de datos o informaciones precisos, verídicos y comprobables, que contribuyan necesariamente a los fines señalados en el inciso anterior.
+El Ministerio Público deberá expresar, en la formalización de la investigación o en su escrito de acusación, si la cooperación prestada por el imputado ha sido eficaz a los fines señalados en el inciso primero.
+La reducción de pena se determinará con posterioridad a la individualización de la sanción penal según las circunstancias atenuantes o agravantes comunes que concurran; o de su compensación, de acuerdo con las reglas generales.
+La circunstancia atenuante prevista en este artículo no se aplicará a los empleados públicos que desempeñen un cargo de elección popular o de exclusiva confianza de éstos, o de alta dirección pública del primer nivel jerárquico; a los que sean fiscales del Ministerio Público; ni a aquellos que, perteneciendo o no al orden judicial, ejerzan jurisdicción.
 
 ### TÍTULO SEXTO.
 DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICOS COMETIDOS POR PARTICULARES.
@@ -1688,6 +1737,14 @@ Cuando el fraude expresado en el artículo anterior recayere sobre mantenimiento
 
 ART. 287.
 Los que emplearen amenaza o cualquier otro medio fraudulento para alejar a los postores en una subasta pública con el fin de alterar el precio del remate, serán castigados con una multa de diez al cincuenta por ciento del valor de la cosa subastada; a no merecer mayor pena por la amenaza u otro medio ilícito que emplearen.
+
+#### §7° bis. De la corrupción entre particulares
+
+ART. 287 bis.
+El empleado o mandatario que solicitare o aceptare recibir un beneficio económico o de otra naturaleza, para sí o un tercero, para favorecer o por haber favorecido en el ejercicio de sus labores la contratación con un oferente sobre otro será sancionado con la pena de reclusión menor en su grado medio y multa del tanto al duplo del beneficio solicitado o aceptado. Si el beneficio fuere de naturaleza distinta de la económica, la multa será de cincuenta a quinientas unidades tributarias mensuales.
+
+ART. 287 ter.
+El que diere, ofreciere o consintiere en dar a un empleado o mandatario un beneficio económico o de otra naturaleza, para sí o un tercero, para que favorezca o por haber favorecido la contratación con un oferente por sobre otro será castigado con la pena de reclusión menor en su grado medio, en el caso del beneficio dado u ofrecido, o de reclusión menor en su grado mínimo, en el caso del beneficio consentido. Además, se le sancionará con las penas de multa señaladas en el artículo precedente.
 
 #### § VIII.
 De las infracciones de las leyes y reglamentos relativos a las armas prohibidas.
@@ -2722,7 +2779,7 @@ Se impondrá respectivamente el máximum de las penas señaladas en el art. 467:
 6.° Al dueño de la cosa embargada, o a cualquier otro que, teniendo noticia del embargo, hubiere destruido fraudulentamente los objetos en que se ha hecho la traba.
 
 ART. 470.
-Las penas del art. 467 se aplicarán también:
+Las penas privativas de libertad del art. 467 se aplicarán también:
 1.° A los que en perjuicio de otro se apropiaren o distrajeren dinero, efectos o cualquiera otra cosa mueble que hubieren recibido en depósito, comisión o administración, o por otro título que produzca obligación de entregarla o devolverla.
 En cuanto a la prueba del depósito en el caso a que se refiere el art. 2.217 del Código Civil, se observará lo que en dicho artículo se dispone.
 2.° A los capitanes de buques que, fuera de los casos y sin las solemnidades prevenidas por la ley, vendieren dichos buques, tomaren dinero a la gruesa sobre su casco y quilla, giraren letras a cargo del naviero, enajenaren mercaderías o vituallas o tomaren provisiones pertenecientes a los pasajeros.
@@ -2736,6 +2793,10 @@ En cuanto a la prueba del depósito en el caso a que se refiere el art. 2.217 de
 10.° A los que maliciosamente obtuvieren para sí, o para un tercero, el pago total o parcialmente indebido de un seguro, sea simulando la existencia de un siniestro, provocándolo intencionalmente, presentándolo ante el asegurador como ocurrido por causas o en circunstancias distintas a las verdaderas, ocultando la cosa asegurada o aumentando fraudulentamente las pérdidas efectivamente sufridas.
 Si no se verifica el pago indebido por causas independientes de su voluntad, se aplicará el mínimo o, en su caso, el grado mínimo de la pena.
 La pena se determinará de acuerdo con el monto de lo indebidamente solicitado.
+11. Al que teniendo a su cargo la salvaguardia o la gestión del patrimonio de otra persona, o de alguna parte de éste, en virtud de la ley, de una orden de la autoridad o de un acto o contrato, le irrogare perjuicio, sea ejerciendo abusivamente facultades para disponer por cuenta de ella u obligarla, sea ejecutando u omitiendo cualquier otra acción de modo manifiestamente contrario al interés del titular del patrimonio afectado.
+Si el hecho recayere sobre el patrimonio de una persona en relación con la cual el sujeto fuere guardador, tutor o curador, o de una persona incapaz que el sujeto tuviere a su cargo en alguna otra calidad, se impondrá, según sea el caso, el máximum o el grado máximo de las penas señaladas en el artículo 467.
+En caso de que el patrimonio encomendado fuere el de una sociedad anónima abierta o especial, el administrador que realizare alguna de las conductas descritas en el párrafo primero de este numeral, irrogando perjuicio al patrimonio social, será sancionado con las penas señaladas en el artículo 467 aumentadas en un grado. Además, se impondrá la pena de inhabilitación especial temporal en su grado mínimo para desempeñarse como gerente, director, liquidador o administrador a cualquier título de una sociedad o entidad sometida a fiscalización de una Superintendencia o de la Comisión para el Mercado Financiero.
+En los casos previstos en este artículo se impondrá, además, pena de multa de la mitad al tanto de la defraudación.
 
 ART. 471.
 Será castigado con presidio o relegación menores en sus grados mínimos o multa de once a veinte unidades tributarias mensuales:
