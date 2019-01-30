@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2018-03-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2019-01-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2018-03-20
-fetched_at: 2026-08-03T04:16:22.145730+00:00
+version_date: 2019-01-30
+fetched_at: 2026-08-03T04:19:52.832887+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -43,6 +43,7 @@ Art. 5º. La Corte Suprema de Justicia y las Cortes de Alzada, en el mes de marz
 ##### § 2. Promulgación de la ley
 
 Art. 6º. La ley no obliga sino una vez promulgada en conformidad a la Constitución Política del Estado y publicada de acuerdo con los preceptos que siguen.
+El decreto supremo promulgatorio de una ley iniciada en una moción deberá contener, a continuación del nombre de aquella, el de los diputados o senadores autores de la referida iniciativa.
 
 Art. 7º. La publicación de la ley se hará mediante su inserción en el Diario Oficial, y desde la fecha de éste se entenderá conocida de todos y será obligatoria.
 Para todos los efectos legales, la fecha de la ley será la de su publicación en el Diario Oficial.
