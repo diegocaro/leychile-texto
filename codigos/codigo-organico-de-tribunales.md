@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2019-01-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2019-03-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2019-01-25
-fetched_at: 2026-08-03T04:19:34.811593+00:00
+version_date: 2019-03-14
+fetched_at: 2026-08-03T04:20:10.849419+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1250,7 +1250,7 @@ Art. 196. Son causas de recusación:
 3°) Tener el juez superior alguno de los parentescos designados en el inciso precedente o en el N° 4° del artículo 195, con el juez inferior que hubiere pronunciado la sentencia que se trata de confirmar o revocar;
 4°) Ser alguna de las partes sirviente, paniaguado o dependiente asalariado del juez, o viceversa;
 5°) Ser el juez deudor o acreedor de alguna de las partes o de su abogado; o serlo su cónyuge o conviviente civil o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
-Sin embargo, no tendrá aplicación la causal del presente número si una de las partes fuere alguna de las instituciones de previsión fiscalizadas por la Superintendencia de Seguridad Social, la Asociación Nacional de Ahorro y Préstamo, o uno de los Servicios de Vivienda y Urbanización, a menos que estas instituciones u organismos ejerciten actualmente cualquier acción judicial contra el juez o contra alguna otra de las personas señaladas o viceversa;
+Sin embargo, no tendrá aplicación la causal del presente número si una de las partes fuere alguna de las instituciones de previsión fiscalizadas por la Superintendencia de Seguridad Social, la Asociación Nacional de Ahorro y Préstamo, o uno de los Servicios de Vivienda y Urbanización o una compañía prestadora de un servicio básico domiciliario, a menos que estas instituciones u organismos ejerciten actualmente cualquier acción judicial contra el juez o contra alguna otra de las personas señaladas o viceversa;
 6°) Tener alguno de los ascendientes o descendientes del juez o los parientes colaterales del mismo dentro del segundo grado, causa pendiente que deba fallar como juez alguna de las partes;
 7°) Tener alguno de los ascendientes o descendientes del juez o los parientes colaterales del mismo dentro del segundo grado, causa pendiente en que se ventile la misma cuestión que el juez deba fallar;
 8°) Tener pendientes alguna de las partes pleito civil o criminal con el juez, con su cónyuge o conviviente civil, o con alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
