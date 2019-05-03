@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2018-12-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2019-05-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2018-12-10
-fetched_at: 2026-08-03T04:18:58.783092+00:00
+version_date: 2019-05-03
+fetched_at: 2026-08-03T04:20:52.904195+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1062,6 +1062,11 @@ Esta disposición no es aplicable a aquellas personas que, en virtud de ley o de
 ART. 161-B.
 Se castigará con la pena de reclusión menor en su grado máximo y multa de 100 a 500 Unidades Tributarias Mensuales, al que pretenda obtener la entrega de dinero o bienes o la realización de cualquier conducta que no sea jurídicamente obligatoria, mediante cualquiera de los actos señalados en el artículo precedente. En el evento que se exija la ejecución de un acto o hecho que sea constitutivo de delito, la pena de reclusión se aplicará aumentada en un grado.
 
+ART. 161-C.
+Se castigará con la pena de presidio menor en su grado mínimo y multa de cinco a diez unidades tributarias mensuales, al que en lugares públicos o de libre acceso público y que por cualquier medio capte, grabe, filme o fotografíe imágenes, videos o cualquier registro audiovisual, de los genitales u otra parte íntima del cuerpo de otra persona con fines de significación sexual y sin su consentimiento.
+Se impondrá la misma pena de presidio menor en su grado mínimo y multa de diez a veinte unidades tributarias mensuales, al que difunda dichas imágenes, videos o registro audiovisual a que se refiere el inciso anterior.
+En caso de ser una misma la persona que los haya obtenido y divulgado, se aplicarán a ésta, la pena de presidio menor en su grado mínimo a medio y multa de veinte a treinta unidades tributarias mensuales.
+
 ### TÍTULO CUARTO.
 DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO.
 
@@ -2111,6 +2116,7 @@ Si la acción sexual consistiere en la introducción de objetos de cualquier ín
 ART. 366.
 El que abusivamente realizare una acción sexual distinta del acceso carnal con una persona mayor de catorce años, será castigado con presidio menor en su grado máximo, cuando el abuso consistiere en la concurrencia de alguna de las circunstancias enumeradas en el artículo 361.
 Igual pena se aplicará cuando el abuso consistiere en la concurrencia de alguna de las circunstancias enumeradas en el artículo 363, siempre que la víctima fuere mayor de catorce y menor de dieciocho años.
+Se aplicará la pena de presidio menor en su grado mínimo a medio, cuando el abuso consistiere en el empleo de sorpresa u otra maniobra que no suponga consentimiento de la víctima, siempre que ésta sea mayor de catorce años.
 
 ART. 366 bis.
 El que realizare una acción sexual distinta del acceso carnal con una persona menor de catorce años, será castigado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo.
@@ -2966,6 +2972,11 @@ La falta de que trata este artículo se castigará con multa de una a cuatro uni
 En los casos en que participen en el hurto individuos mayores de dieciocho años y menores de esa edad, se aplicará a los mayores la pena que les habría correspondido sin esa circunstancia, aumentada en un grado, si éstos se han prevalido de los menores en la perpetración de la falta.
 En caso de reincidencia en hurto falta frustrado, se duplicará la multa aplicada. Se entenderá que hay reincidencia cuando el responsable haya sido condenado previamente por delito de la misma especie, cualquiera haya sido la pena impuesta y su estado de cumplimiento. Si el responsable ha reincidido dos o más veces se triplicará la multa aplicada.
 La agravante regulada en el inciso precedente prescribirá de conformidad con lo dispuesto en el artículo 104. Tratándose de faltas, el término de la prescripción será de seis meses.
+
+ART. 494 ter.
+Comete acoso sexual el que realizare, en lugares públicos o de libre acceso público, y sin mediar el consentimiento de la víctima, un acto de significación sexual capaz de provocar una situación objetivamente intimidatoria, hostil o humillante, y que no constituya una falta o delito al que se imponga una pena más grave, que consistiere en:
+1. Actos de carácter verbal o ejecutados por medio de gestos. En este caso se impondrá una multa de una a tres unidades tributarias mensuales.
+2. Conductas consistentes en acercamientos o persecuciones, o actos de exhibicionismo obsceno o de contenido sexual explícito. En cualquiera de estos casos se impondrá la pena de prisión en su grado medio a máximo y multa de cinco a diez unidades tributarias mensuales.
 
 ART. 495.
 Serán castigados con multa de una unidad tributaria mensual:
