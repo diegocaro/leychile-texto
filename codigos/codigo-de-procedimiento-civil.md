@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2018-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2019-05-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2018-03-01
-fetched_at: 2026-08-03T04:15:52.114458+00:00
+version_date: 2019-05-14
+fetched_at: 2026-08-03T04:21:10.916003+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1359,9 +1359,9 @@ Art. 360 (349). No serán obligados a declarar:
 Art. 361 (350). Podrán declarar en el domicilio que fijen dentro del territorio jurisdiccional del tribunal:
 1°. El Presidente de la República, los Ministros de Estado, los Senadores y Diputados, los Subsecretarios; los Delegados Presidenciales Regionales, Delegados Presidenciales Provinciales y los Alcaldes, dentro del territorio de su jurisdicción; los jefes superiores de Servicios, los miembros de la Corte Suprema o de alguna
 NOTA
-Corte de Apelaciones, los Fiscales Judiciales de estos Tribunales, los Jueces Letrados, el Fiscal Nacional y los fiscales regionales; los Oficiales Generales en servicio activo o en retiro, los Oficiales Superiores y los Oficiales Jefes; el Arzobispo y los Obispos, los Vicarios Generales, los Provisores, los Vicarios y Provicarios Capitulares; y los Párrocos, dentro del territorio de la Parroquia a su cargo;
+Corte de Apelaciones, los Fiscales Judiciales de estos Tribunales, los Jueces Letrados, el Fiscal Nacional y los fiscales regionales; los Oficiales Generales en servicio activo o en retiro, los Oficiales Superiores y los Oficiales Jefes;
 2°. Derogado;
-3°. Los religiosos, inclusos los novicios;
+3°. Eliminado.
 4°. Las mujeres, siempre que por su estado o posición no puedan concurrir sin grave molestia; y
 5°. Los que por enfermedad u otro impedimento, calificado por el tribunal, se hallen en la imposibilidad de hacerlo.
 Para este efecto, dentro del tercer día hábil siguiente a su notificación, las personas mencionadas propondrán al tribunal el lugar y la fecha, comprendida dentro del término probatorio, de realización de la audiencia respectiva. El juez los fijará sin más trámite si el interesado así no lo hiciere ni comunicare su renuncia al derecho que le confiere este artículo.
@@ -1456,7 +1456,7 @@ Siempre que alguna de las partes lo pida, debe el tribunal recibir por sí mismo
 Si el litigante se encuentra fuera del territorio del tribunal que conoce de la causa, será tomada su declaración por el tribunal competente, quien procederá en conformidad a los dos incisos anteriores.
 
 Art. 389 (379). Están exentos de comparecer ante el tribunal a prestar la declaración de que tratan los artículos precedentes:
-1º. El Presidente de la República, los Ministros de Estado, los Senadores y Diputados, los Delegados Presidenciales Regionales dentro de la región en que ejercen sus funciones; los miembros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales Judiciales de estos tribunales, el Fiscal Nacional y los fiscales regionales, el Arzobispo, los Obispos, los Vicarios Generales, los Provisores y los Vicarios y Provicarios Capitulares;
+1º. El Presidente de la República, los Ministros de Estado, los Senadores y Diputados, los Delegados Presidenciales Regionales dentro de la región en que ejercen sus funciones; los miembros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales Judiciales de estos tribunales, el Fiscal Nacional y los fiscales regionales;
 2º. Los que por enfermedad o por cualquier otro impedimento calificado por el tribunal se hallen en imposibilidad de comparecer a la audiencia en que hayan de prestar la declaración; y
 3º. Las mujeres, en caso que el tribunal estime prudente eximirlas de esta asistencia.
 Cuando haya de prestar esta declaración alguna de las personas exceptuadas en los números precedentes, el juez se trasladará a casa de ella con el objeto de recibir la declaración o comisionará para este fin al secretario.
