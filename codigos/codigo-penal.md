@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2019-07-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2019-07-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2019-07-18
-fetched_at: 2026-08-03T04:21:46.953357+00:00
+version_date: 2019-07-26
+fetched_at: 2026-08-03T04:22:04.976522+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2545,6 +2545,7 @@ ART. 435. Derogado.
 ART. 436.
 Fuera de los casos previstos en los artículos precedentes, los robos ejecutados con violencia o intimidación en las personas, serán penados con presidio mayor en sus grados mínimo a máximo, cualquiera que sea el valor de las especies sustraídas.
 Se considerará como robo y se castigará con la pena de presidio menor en sus grados medio a máximo, la apropiación de dinero u otras especies que los ofendidos lleven consigo, cuando se proceda por sorpresa o aparentando riñas en lugares de concurrencia o haciendo otras maniobras dirigidas a causar agolpamiento o confusión.
+También será considerado robo, y se sancionará con la pena de presidio menor en su grado máximo, la apropiación de vehículos motorizados, siempre que se valga de la sorpresa, de la distracción de la víctima o se genere por parte del autor cualquier maniobra distractora cuyo objeto sea que la víctima abandone el vehículo para facilitar su apropiación, en ambos casos, en el momento en que ésta se apreste a ingresar o hacer abandono de un lugar habitado, destinado a la habitación o sus dependencias, o su lugar de trabajo, salvo en aquellos casos en que medie violencia o intimidación, en los que se aplicará lo dispuesto en el inciso primero.
 
 ART. 437. Derogado.
 
@@ -2552,7 +2553,7 @@ ART. 438.
 El que para defraudar a otro lo obligare con violencia o intimidación a suscribir, otorgar o entregar un instrumento público o privado que importe una obligación estimable en dinero, será castigado, como culpable de robo, con las penas respectivamente señaladas en este párrafo.
 
 ART. 439.
-Para los efectos del presente párrafo se estimarán por violencia o intimidación en las personas los malos tratamientos de obra, las amenazas ya para hacer que se entreguen o manifiesten las cosas, ya para impedir la resistencia u oposición a que se quiten, o cualquier otro acto que pueda intimidar o forzar a la manifestación o entrega. Hará también violencia el que para obtener la entrega o manifestación alegare orden falsa de alguna autoridad, o la diere por sí fingiéndose ministro de justicia o funcionario público.
+Para los efectos del presente párrafo se estimarán por violencia o intimidación en las personas los malos tratamientos de obra, las amenazas ya para hacer que se entreguen o manifiesten las cosas, ya para impedir la resistencia u oposición a que se quiten, o cualquier otro acto que pueda intimidar o forzar a la manifestación o entrega. Hará también violencia el que para obtener la entrega o manifestación alegare orden falsa de alguna autoridad, o la diere por sí fingiéndose ministro de justicia o funcionario público. Por su parte, hará también intimidación el que para apropiarse u obtener la entrega o manifestación de un vehículo motorizado o de las cosas ubicadas dentro del mismo, fracture sus vidrios, encontrándose personas en su interior, sin perjuicio de la prueba que se pudiere presentar en contrario.
 
 #### § III.
 Del robo con fuerza en las cosas.
@@ -2573,8 +2574,9 @@ El robo en lugar no habitado, se castigará con presidio menor en sus grados med
 3.º Haber hecho uso de llaves falsas, o verdadera que se hubiere sustraído, de ganzúas u otros instrumentos semejantes para entrar en el lugar del robo o abrir los muebles cerrados.
 
 ART. 443.
-Con la misma pena señalada en el artículo anterior se castigará el robo de cosas que se encuentren en bienes nacionales de uso público o en sitio no destinado a la habitación si el autor hace uso de llaves falsas o verdaderas que se hayan substraído, de ganzúas u otros instrumentos semejantes o si se procede, mediante fractura de puertas, vidrios, cierros, candados u otros dispositivos de protección o si se utilizan medios de tracción.
+Con la misma pena señalada en el artículo anterior se castigará el robo de cosas que se encuentren en bienes nacionales de uso público, en sitio no destinado a la habitación o en el interior de vehículos motorizados, si el autor hace uso de llaves falsas o verdaderas que se hayan substraído, de ganzúas u otros instrumentos semejantes o si se procede, mediante fractura de puertas, vidrios, cierros, candados u otros dispositivos de protección o si se utilizan medios de tracción.
 Si el delito a que se refiere el inciso precedente recayere sobre un vehículo motorizado, se impondrá la pena de presidio menor en su grado máximo.
+Se considerará robo y se castigará con la pena del inciso precedente la apropiación de un vehículo motorizado mediante la generación de cualquier maniobra distractora cuyo objeto sea que la víctima abandone el vehículo, fuera de los casos a los que se refiere el artículo 436.
 Si con ocasión de alguna de las conductas señaladas en el inciso primero, se produce la interrupción o interferencia del suministro de un servicio público o domiciliario, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, la pena se aplicará en su grado máximo.
 
 ART. 443 bis.
@@ -2671,6 +2673,9 @@ Se presumirá autor del robo o hurto de una cosa aquel en cuyo poder se encuentr
 ART. 455.
 Cuando del proceso no resulte probado el valor de la cosa sustraída ni pudiere estimarse por peritos u otro arbitrio legal, el tribunal hará su regulación prudencialmente.
 
+ART. 455 bis.
+Si en el momento de producirse el robo o hurto de un vehículo motorizado, se encontrare en su interior un infante o una persona que no pudiere abandonar el vehículo por sus propios medios, y el autor del robo o hurto inicia la conducción del mismo, se aplicará la pena de presidio mayor en sus grados medio a máximo.
+
 ART. 456.
 Si antes de perseguir al responsable o antes de decretar su prisión devolviere voluntariamente la cosa robada o hurtada, no hallándose comprendido en los casos de los arts. 433 y 434, se le aplicará la pena inmediatamente inferior en grado a la señalada para el delito.
 
@@ -2689,8 +2694,9 @@ En estos delitos no podrá estimarse que concurre la circunstancia atenuante del
 ART. 456 bis A.
 El que conociendo su origen o no pudiendo menos que conocerlo, tenga en su poder, a cualquier título, especies hurtadas, robadas u objeto de abigeato, de receptación o de apropiación indebida del artículo 470, número 1°, las transporte, compre, venda, transforme o comercialice en cualquier forma, aun cuando ya hubiese dispuesto de ellas, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de cinco a cien unidades tributarias mensuales.
 Para la determinación de la pena aplicable el tribunal tendrá especialmente en cuenta el valor de las especies, así como la gravedad del delito en que se obtuvieron, si éste era conocido por el autor.
-Cuando el objeto de la receptación sean vehículos motorizados o cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, se impondrá la pena de presidio menor en su grado máximo y multa de cinco a veinte unidades tributarias mensuales. La sentencia condenatoria por delitos de este inciso dispondrá el comiso de los instrumentos, herramientas o medios empleados para cometerlos o para transformar o transportar los elementos sustraídos. Si dichos elementos son almacenados, ocultados o transformados en algún establecimiento de comercio con conocimiento del dueño o administrador, se podrá decretar, además, la clausura definitiva de dicho establecimiento, oficiándose a la autoridad competente.
-Se impondrá el grado máximo de la pena establecida en el inciso primero, cuando el autor haya incurrido en reiteración de esos hechos o sea reincidente en ellos. En los casos de reiteración o reincidencia en la receptación de los objetos señalados en el inciso precedente, se aplicará la pena privativa de libertad allí establecida, aumentada en un grado.
+Cuando el objeto de la receptación sean vehículos motorizados o cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, se impondrá la pena de presidio menor en su grado máximo y multa equivalente al valor de la tasación fiscal del vehículo o la pena de presidio menor en su grado máximo, y multa de cinco a veinte unidades tributarias mensuales, respectivamente. La sentencia condenatoria por delitos de este inciso dispondrá el comiso de los instrumentos, herramientas o medios empleados para cometerlos o para transformar o transportar los elementos sustraídos. Si dichos elementos son almacenados, ocultados o transformados en algún establecimiento de comercio con conocimiento del dueño o administrador, se podrá decretar, además, la clausura definitiva de dicho establecimiento, oficiándose a la autoridad competente.
+Sin perjuicio de lo dispuesto en el inciso anterior, se aplicará el máximum de la pena privativa de libertad allí señalada y multa equivalente al doble de la tasación fiscal, al autor de receptación de vehículos motorizados que conociere o no pudiere menos que conocer que en la apropiación de éste se ejerció sobre su legítimo tenedor alguna de las conductas descritas en el artículo 439. Lo dispuesto en este inciso no será aplicable a quien, por el mismo hecho, le correspondiere participación responsable por cualquiera de las hipótesis del delito de robo previstas en el artículo 433 y en el inciso primero del artículo 436.
+Se impondrá el grado máximo de la pena establecida en el inciso primero, cuando el autor haya incurrido en reiteración de esos hechos o sea reincidente en ellos. En los casos de reiteración o reincidencia en la receptación de los objetos señalados en el inciso tercero, se aplicará la pena privativa de libertad allí establecida, aumentada en un grado.
 Tratándose del delito de abigeato la multa establecida en el inciso primero será de setenta y cinco a cien unidades tributarias mensuales y el juez podrá disponer la clausura definitiva del establecimiento.
 Si el valor de lo receptado excediere de cuatrocientas unidades tributarias mensuales, se impondrá el grado máximo de la pena o el máximun de la pena que corresponda en cada caso.
 
