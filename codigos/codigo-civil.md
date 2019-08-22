@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2019-01-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2019-08-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2019-01-30
-fetched_at: 2026-08-03T04:19:52.832887+00:00
+version_date: 2019-08-22
+fetched_at: 2026-08-03T04:22:23.006572+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -8333,6 +8333,14 @@ En estos casos, el otorgamiento del pase para la sepultación se sujetará a las
 Art. 50. Son requisitos esenciales de la inscripción de una defunción, la fecha del fallecimiento y el nombre, apellido y sexo del difunto.
 
 #### Título V
+CATASTRO DE MORTINATOS
+
+Art. 50 BIS.- Créase un catastro nacional, especial y de carácter voluntario, en el cual se inscribirá a los mortinatos.
+La inscripción a que se refiere el inciso anterior deberá contener la individualización del mortinato mediante la asignación de un nombre propio, seguido del o los apellidos que el solicitante señale, y del sexo de la criatura, si éste fuere determinado o determinable. Asimismo, el catastro podrá contener la individualización de la persona gestante, y del progenitor, si éste lo autoriza.
+Para la inscripción de que trata este artículo será necesario contar con el certificado médico de defunción y estadística de mortalidad fetal.
+En estos casos, el otorgamiento de la licencia o pase de inhumación se sujetará a las formalidades prescritas por los artículos 46 y 47, en lo que fueren aplicables.
+
+#### Título VI
 MEDIDAS QUE FAVORECEN LA CONSTITUCION LEGAL DE LA FAMILIA
 
 Art. 51. Los Oficiales del Registro Civil visitarán su respectiva comuna o sección, en la forma que determine el reglamento, a fin de procurar la celebración del matrimonio del hombre y la mujer que, haciendo vida marital, tengan hijos comunes.
