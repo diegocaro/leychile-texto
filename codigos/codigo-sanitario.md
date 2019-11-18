@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2019-05-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2019-11-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2019-05-02
-fetched_at: 2026-08-03T04:20:46.897053+00:00
+version_date: 2019-11-18
+fetched_at: 2026-08-03T04:23:04.803057+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -732,7 +732,7 @@ Artículo 125.- Los establecimientos que fabriquen los elementos de uso médico 
 Corresponderá a la autoridad sanitaria fiscalizar el funcionamiento de estos establecimientos en sus áreas de fabricación, distribución y venta.
 
 Artículo 126.- Sólo en los establecimientos de óptica podrán fabricarse lentes con fuerza dióptrica de acuerdo con las prescripciones que se ordenen en la receta correspondiente.
-Los establecimientos de óptica podrán abrir locales destinados a la recepción y al despacho de recetas emitidas por profesionales en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente. En ninguno de estos establecimientos estará permitida la instalación de consultas médicas o de tecnólogos médicos.
+Los establecimientos de óptica podrán abrir locales destinados a la recepción y al despacho de recetas emitidas por profesionales en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente.
 Autorízase la fabricación, venta y entrega, sin receta, de lentes con fuerza dióptrica sólo esférica e igual en ambos ojos, sin rectificación de astigmatismo, destinados a corregir problemas de presbicia.
 La venta o entrega de dichos lentes deberá acompañarse de una advertencia sobre la conveniencia de una evaluación oftalmológica que permita prevenir riesgos para la salud ocular.
 
