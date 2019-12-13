@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2019-07-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2019-12-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2019-07-26
-fetched_at: 2026-08-03T04:22:04.976522+00:00
+version_date: 2019-12-13
+fetched_at: 2026-08-03T04:23:22.817681+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1827,8 +1827,11 @@ Para los efectos de este artículo se entiende por familia el cónyuge, los pari
 ART. 297.
 Las amenazas de un mal que no constituya delito hechas en la forma expresada en los números 1º o 2º del artículo anterior, serán castigadas con la pena de reclusión menor en sus grados mínimo a medio.
 
+ART. 297. BIS
+Cuando las amenazas se hicieren contra los profesionales y funcionarios de los establecimientos de salud, públicos o privados, o contra los profesionales, funcionarios y manipuladores de alimentos de establecimientos educacionales, públicos o privados, al interior de sus dependencias o mientras éstos se encontraren en el ejercicio de sus funciones o en razón, con motivo u ocasión de ellas, se impondrá el grado máximo o el máximum de las penas previstas en los dos artículos anteriores en sus respectivos casos.
+
 ART. 298.
-En los casos de los dos artículos precedentes se podrá condenar además al amenazador a dar caución de no ofender al amenazado, y en su defecto a la pena de sujeción a la vigilancia de la autoridad.
+En los casos de los tres artículos precedentes se podrá condenar además al amenazador a dar caución de no ofender al amenazado, y en su defecto a la pena de sujeción a la vigilancia de la autoridad.
 
 #### § XII.
 De la evasión de los detenidos.
@@ -2324,7 +2327,15 @@ Si los hechos a que se refieren los artículos anteriores de este párrafo se ej
 Asimismo, si los hechos a que se refieren los artículos anteriores de este párrafo se ejecutan en contra de un menor de dieciocho años de edad, adulto mayor o persona en situación de discapacidad, por quienes tengan encomendado su cuidado, la pena señalada para el delito se aumentará en un grado.
 
 ART. 401.
-Las lesiones menos graves inferidas a guardadores, sacerdotes, maestros o personas constituidas en dignidad o autoridad pública, serán castigadas siempre con presidio o relegación menores en sus grados mínimos a medios.
+Las lesiones menos graves inferidas a guardadores, sacerdotes o personas constituidas en dignidad o autoridad pública, serán castigadas siempre con presidio o relegación menores en sus grados mínimos a medios.
+
+ART. 401 BIS
+Las lesiones inferidas a los profesionales y funcionarios de los establecimientos de salud, públicos o privados, o contra los profesionales, funcionarios y manipuladores de alimentos de establecimientos educacionales, públicos o privados, al interior de sus dependencias o mientras éstos se encontraren en el ejercicio de sus funciones o en razón, con motivo u ocasión de ellas, serán sancionadas:
+1. Con presidio mayor en sus grados mínimo a medio en los casos del número 1° del artículo 397.
+2. Con presidio menor en su grado máximo en los casos del número 2° del artículo 397.
+3. Con presidio menor en su grado medio en los casos del artículo 399.
+4. Con presidio menor en su grado mínimo si las lesiones que se causaren fueren leves.
+En los casos en que se maltratare corporalmente de manera relevante a las personas señaladas en el inciso anterior, la pena será de prisión en su grado máximo y multa de una a cuatro unidades tributarias mensuales.
 
 ART. 402.
 Si resultaren lesiones graves de una riña o pelea y no constare su autor, pero sí los que causaron lesiones menos graves, se impondrán a todos éstos las penas inmediatamente inferiores en grado a las que les hubieran correspondido por aquellas lesiones.

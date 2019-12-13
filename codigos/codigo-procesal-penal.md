@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2018-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2019-12-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2018-03-01
-fetched_at: 2026-08-03T04:16:16.145405+00:00
+version_date: 2019-12-13
+fetched_at: 2026-08-03T04:23:40.829773+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -778,8 +778,9 @@ Artículo 175.- Denuncia obligatoria. Estarán obligados a denunciar:
 a) Los miembros de Carabineros de Chile, de la Policía de Investigaciones de Chile y de Gendarmería, todos los delitos que presenciaren o llegaren a su noticia. Los miembros de las Fuerzas Armadas estarán también obligados a denunciar todos los delitos de que tomaren conocimiento en el ejercicio de sus funciones;
 b) Los fiscales y los demás empleados públicos, los delitos de que tomaren conocimiento en el ejercicio de sus funciones y, especialmente, en su caso, los que notaren en la conducta ministerial de sus subalternos;
 c) Los jefes de puertos, aeropuertos, estaciones de trenes o buses o de otros medios de locomoción o de carga, los capitanes de naves o de aeronaves comerciales que naveguen en el mar territorial o en el espacio territorial, respectivamente, y los conductores de los trenes, buses u otros medios de transporte o carga, los delitos que se cometieren durante el viaje, en el recinto de una estación, puerto o aeropuerto o a bordo del buque o aeronave;
-d) Los jefes de establecimientos hospitalarios o de clínicas particulares y, en general, los profesionales en medicina, odontología, química, farmacia y de otras ramas relacionadas con la conservación o el restablecimiento de la salud, y los que ejercieren prestaciones auxiliares de ellas, que notaren en una persona o en un cadáver señales de envenenamiento o de otro delito, y
-e) Los directores, inspectores y profesores de establecimientos educacionales de todo nivel, los delitos que afectaren a los alumnos o que hubieren tenido lugar en el establecimiento.
+d) Los jefes de establecimientos hospitalarios o de clínicas particulares y, en general, los profesionales en medicina, odontología, química, farmacia y de otras ramas relacionadas con la conservación o el restablecimiento de la salud, y los que ejercieren prestaciones auxiliares de ellas, que notaren en una persona o en un cadáver señales de envenenamiento o de otro delito;
+e) Los directores, inspectores y profesores de establecimientos educacionales de todo nivel, los delitos que afectaren a los alumnos o que hubieren tenido lugar en el establecimiento, y
+f) Los jefes de establecimientos de salud, públicos o privados, y los sostenedores y directores de establecimientos educacionales, públicos o privados, respecto de los delitos perpetrados contra los profesionales y funcionarios de dichos establecimientos al interior de sus dependencias o mientras éstos se encontraren en el ejercicio de sus funciones o en razón, con motivo u ocasión de ellas. La misma obligación tendrán los directores de los Servicios Locales de Educación respecto de estos delitos, cuando ocurran en los establecimientos educacionales que formen parte del territorio de su competencia.
 La denuncia realizada por alguno de los obligados en este artículo eximirá al resto.
 
 Artículo 176.- Plazo para efectuar la denuncia. Las personas indicadas en el artículo anterior deberán hacer la denuncia dentro de las veinticuatro horas siguientes al momento en que tomaren conocimiento del hecho criminal. Respecto de los capitanes de naves o de aeronaves, este plazo se contará desde que arribaren a cualquier puerto o aeropuerto de la República.
