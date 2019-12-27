@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2019-08-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2019-12-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2019-08-22
-fetched_at: 2026-08-03T04:22:23.006572+00:00
+version_date: 2019-12-27
+fetched_at: 2026-08-03T04:24:04.849926+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -5790,6 +5790,7 @@ Art. 1792-27. El régimen de participación en los gananciales termina:
 4) Por la separación judicial de los cónyuges.
 5) Por la sentencia que declare la separación de bienes.
 6) Por el pacto de separación de bienes.
+7) Por disolución del matrimonio en el caso previsto por el numeral 5° del artículo 42 de la Ley de Matrimonio Civil, contenida en el artículo primero de la ley N° 19.947.
 
 ##### Título XXIII
 DE LA COMPRAVENTA
