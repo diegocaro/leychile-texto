@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2019-11-18&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2020-01-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2019-11-18
-fetched_at: 2026-08-03T04:23:04.803057+00:00
+version_date: 2020-01-08
+fetched_at: 2026-08-03T04:24:14.571064+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -501,7 +501,7 @@ Artículo 98.- Los productos estupefacientes, psicotrópicos y demás substancia
 Cuando lo requiera la debida protección de la salud pública, por decreto fundado del Presidente de la República, expedido a través del Ministerio de Salud previo informe del Instituto de Salud Pública de Chile, podrán aplicarse todas o algunas de las normas reglamentarias señaladas en el inciso anterior a otras substancias o productos, cuyo uso o consumo indiscriminado pudiere generar un riesgo o daño al usuario.
 
 Artículo 99.- Sin perjuicio de lo dispuesto en el artículo 97, el Instituto de Salud Pública de Chile podrá autorizar provisionalmente la distribución, venta o expendio y uso de productos farmacéuticos sin previo registro, para ensayos clínicos u otro tipo de investigaciones científicas, como asimismo para usos medicinales urgentes derivados de situaciones de desabastecimiento o inaccesibilidad que puedan afectar a las personas consideradas individual o colectivamente. Con todo, no se podrá desarrollar un protocolo de investigación en medicamentos no registrados o para nuevos usos en medicamentos registrados sin un informe favorable del Comité Ético Científico que corresponda.
-Tratándose de situaciones como las descritas en el inciso anterior, relacionadas con medicamentos cuya disponibilidad sea esencial para el desarrollo de programas o planes de salud de interés público que se lleven a cabo en el Sistema Nacional de Servicios de Salud, la Central de Abastecimiento del Sistema Nacional de Servicios de Salud podrá solicitar ante el Instituto el registro sanitario provisional pertinente, el que no obstará a la libre comercialización del producto por parte de terceros.
+La Central de Abastecimiento del Sistema Nacional de Servicios de Salud podrá solicitar ante el Instituto el registro sanitario de productos farmacéuticos contemplados en planes, programas o acciones de salud que se lleven a cabo en dicho Sistema, así como de aquellos que sean necesarios para el cumplimiento de sus funciones y facultades. Dicho registro autorizará la distribución de los productos y no obstará a su libre comercialización por parte de terceros.
 
 Artículo 100.- La venta al público de productos farmacéuticos sólo podrá efectuarse previa presentación de la receta del profesional habilitado que los prescribe, salvo aquellos medicamentos que se autoricen para su venta directa en el respectivo registro sanitario.
 La publicidad y demás actividades destinadas a dar a conocer al consumidor un producto farmacéutico sólo estarán permitidas respecto de medicamentos de venta directa y en los términos establecidos en el respectivo registro sanitario y conforme a lo señalado en los artículos 53 y 54 de este Código.
