@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2020-03-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2020-05-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2020-03-01
-fetched_at: 2026-08-03T04:26:01.674946+00:00
+version_date: 2020-05-25
+fetched_at: 2026-08-03T04:28:00.546259+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -9009,7 +9009,7 @@ El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará
 
 ###### Publicaciones e inscripciones
 
-Art. 29. Los Conservadores, en los cinco primeros días hábiles de cada mes, deberán enviar al Servicio, una nómina de las inscripciones de posesiones efectivas que hayan practicado en el mes anterior, indicando en ella el nombre del causante, la fecha de la inscripción y los nombres de los herederos.
+Art. 29. Los Conservadores, en los cinco primeros días hábiles de cada mes, deberán enviar al Servicio, una nómina de las inscripciones de posesiones efectivas que hayan practicado en el mes anterior, indicando en ella el nombre del causante, la fecha de la inscripción y los nombres de los herederos. Los conservadores deberán enviar electrónicamente dichas nóminas. El envío fuera de plazo será sancionado con la multa dispuesta en el artículo 70 de esta ley.
 
 Art. 30. Si la sociedad conyugal terminare por el fallecimiento de uno de los cónyuges, los bienes raíces de aquélla deberán inscribirse en el Conservador respectivo, a nombre del cónyuge sobreviviente y de los herederos del difunto.
 
@@ -9059,7 +9059,7 @@ El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará
 DE LOS VALORES EN CUSTODIA Y EN DEPOSITO
 
 Art. 38. Toda persona natural o jurídica que se ocupe habitualmente de dar en arriendo cajas de seguridad, cumplirá con las siguientes obligaciones:
-a) Presentar en los meses de enero y junio al Servicio, una declaración respecto a las cajas de seguridad arrendadas en sus oficinas o sucursales, indicando en ella el número de la caja y por orden alfabético, el nombre y apellido del arrendatario y su domicilio;
+a) Remitir anualmente, por medios electrónicos, información relativa a las cajas de seguridad, sea que las tenga arrendadas en Chile o en sus oficinas o sucursales en el extranjero, indicando en ella el número de la caja, rol único tributario, nombre y apellido o razón social del arrendatario;
 b) Llevar un repertorio alfabético en el que se anoten los mismos datos;
 c) Llevar un registro foliado y alfabético en el que se anoten con la fecha y la hora, los nombres, apellidos y domicilio de las personas que se presenten a abrir una caja de seguridad, exigiendo de ellas dejen su firma en el registro; y
 d) Presentar al personal inspectivo autorizado por el Servicio, dichos registros y repertorio cuando así lo exija aquél.
@@ -9184,9 +9184,7 @@ Art. 58. Aun antes de estar pagado o garantizado el pago del impuesto y siempre 
 
 Art. 59. Los herederos, los árbitros partidores y los albaceas con tenencia de bienes, estarán obligados a velar por el pago de la contribución de herencia, ordenando su entero en arcas fiscales, o reservando, o haciendo reservar los bienes que sean necesarios con tal fin, a menos que se hayan otorgado algunas de las garantías consultadas en el artículo 55. En consecuencia, y salvo que se hubiere otorgado garantía legal, no podrán proceder a la entrega de legados, sin deducir o exigir previamente la suma que se deba por concepto de contribución.
 
-Art. 60. La declaración y pago simultáneo de los impuestos que establece esta ley se hará de conformidad a las normas que fije el Servicio de Impuestos Internos, pudiendo, incluso, determinar que
-NOTA:
-respecto de asignaciones o donaciones que estuvieren exentas de impuesto, no se presente la declaración.
+Art. 60. La declaración y pago simultáneo de los impuestos que establece esta ley se hará de conformidad a las normas que fije el Servicio de Impuestos Internos, pudiendo, incluso, determinar que respecto de asignaciones o donaciones que estuvieren exentas de impuesto, no se presente la declaración. El Servicio pondrá a disposición de los contribuyentes los medios tecnológicos necesarios a fin que declaren y paguen los impuestos establecidos en esta ley, así como para cumplir las diversas obligaciones de informar. Al efecto, se habilitará una carpeta tributaria electrónica en el sitio personal del contribuyente.
 Asimismo, el Servicio de Impuestos Internos establecerá la forma en que se acreditará el pago del impuesto o la circunstancia de resultar exento, para todos los efectos legales.
 En todo caso, tratándose de posesiones efectivas que se tramiten ante el Servicio de Registro Civil e Identificación, al presentar la solicitud respectiva se deberá indicar si las asignaciones correspondientes están afectas o exentas de impuesto. De resultar exentas la totalidad de las asignaciones, con la constancia de ello en la respectiva solicitud se tendrá por cumplida la obligación de declarar el impuesto que establece esta ley.
 NOTA:
@@ -9212,7 +9210,9 @@ El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará
 
 Art. 64. Las personas que figuren como partes en los actos o contratos a que se refieren los artículos precedentes de este capítulo, a quienes se les comp
 NOTA:
-ruebe una actuación dolosa encaminada a burlar el impuesto y aq
+ruebe una actuación dolosa encaminada a bu
+NOTA:
+rlar el impuesto y aq
 NOTA:
 uellas que, a sabiendas, se aprovechen del dolo, serán sancionadas de acuerdo con el N.º 4º del inciso primero del artículo 97 del Código Tributario.
 Serán solidariamente responsables del pago del impuesto y de las sanciones pecuniarias que correspondan, todas las personas que hayan intervenido dolosamente como partes en el respectivo acto o contrato.
