@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2020-03-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2020-05-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2020-03-26
-fetched_at: 2026-08-03T04:27:18.505306+00:00
+version_date: 2020-05-28
+fetched_at: 2026-08-03T04:28:19.408110+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -335,6 +335,16 @@ Durante el ejercicio de su cargo, los Ministros estarán sujetos a la prohibici�
 Artículo 38.- Una ley orgánica constitucional determinará la organización básica de la Administración Pública, garantizará la carrera funcionaria y los principios de carácter técnico y profesional en que deba fundarse, y asegurará tanto la igualdad de oportunidades de ingreso a ella como la capacitación y el perfeccionamiento de sus integrantes.
 Cualquier persona que sea lesionada en sus derechos por la Administración del Estado, de sus organismos o de las municipalidades, podrá reclamar ante los tribunales que determine la ley, sin perjuicio de la responsabilidad que pudiere afectar al funcionario que hubiere causado el daño.
 
+Artículo 38 bis.- Las remuneraciones del Presidente de la República, de los senadores y diputados, de los gobernadores regionales, de los funcionarios de exclusiva confianza del Jefe del Estado que señalan los números 7° y 10° del artículo 32 y de los contratados sobre la base de honorarios que asesoren directamente a las autoridades gubernativas ya indicadas, serán fijadas, cada cuatro años y con a lo menos dieciocho meses de anticipación al término de un período presidencial, por una comisión cuyo funcionamiento, organización, funciones y atribuciones establecerá una ley orgánica constitucional.
+La comisión estará integrada por las siguientes personas:
+a) Un ex Ministro de Hacienda.
+b) Un ex Consejero del Banco Central.
+c) Un ex Contralor o Subcontralor de la Contraloría General de la República.
+d) Un ex Presidente de una de las ramas que integran el Congreso Nacional.
+e) Un ex Director Nacional del Servicio Civil.
+Sus integrantes serán designados por el Presidente de la República con el acuerdo de los dos tercios de los senadores en ejercicio.
+Los acuerdos de la comisión serán públicos, se fundarán en antecedentes técnicos y deberán establecer una remuneración que garantice una retribución adecuada a la responsabilidad del cargo y la independencia para cumplir sus funciones y atribuciones.
+
 ### Estados de excepción constitucional
 
 Artículo 39.- El ejercicio de los derechos y garantías que la Constitución asegura a todas las personas sólo puede ser afectado bajo las siguientes situaciones de excepción: guerra externa o interna, conmoción interior, emergencia y calamidad pública, cuando afecten gravemente el normal desenvolvimiento de las instituciones del Estado.
@@ -497,7 +507,7 @@ Ningún diputado o senador, desde el día de su elección o desde su juramento, 
 En caso de ser arrestado algún diputado o senador por delito flagrante, será puesto inmediatamente a disposición del Tribunal de Alzada respectivo, con la información sumaria correspondiente. El Tribunal procederá, entonces, conforme a lo dispuesto en el inciso anterior.
 Desde el momento en que se declare, por resolución firme, haber lugar a formación de causa, queda el diputado o senador imputado suspendido de su cargo y sujeto al juez competente.
 
-Artículo 62.- Los diputados y senadores percibirán como única renta una dieta equivalente a la remuneración de un Ministro de Estado incluidas todas las asignaciones que a éstos correspondan.
+Artículo 62.- Los diputados y senadores percibirán como única renta una dieta equivalente a la remuneración de un Ministro de Estado.
 
 ### Materias de Ley
 
@@ -543,7 +553,7 @@ Corresponderá, asimismo, al Presidente de la República la iniciativa exclusiva
 1º.- Imponer, suprimir, reducir o condonar tributos de cualquier clase o naturaleza, establecer exenciones o modificar las existentes, y determinar su forma, proporcionalidad o progresión;
 2º.- Crear nuevos servicios públicos o empleos rentados, sean fiscales, semifiscales, autónomos o de las empresas del Estado; suprimirlos y determinar sus funciones o atribuciones;
 3º.- Contratar empréstitos o celebrar cualquiera otra clase de operaciones que puedan comprometer el crédito o la responsabilidad financiera del Estado, de las entidades semifiscales, autónomas, de los gobiernos regionales o de las municipalidades, y condonar, reducir o modificar obligaciones, intereses u otras cargas financieras de cualquier naturaleza establecidas en favor del Fisco o de los organismos o entidades referidos;
-4º.- Fijar, modificar, conceder o aumentar remuneraciones, jubilaciones, pensiones, montepíos, rentas y cualquiera otra clase de emolumentos, préstamos o beneficios al personal en servicio o en retiro y a los beneficiarios de montepío, en su caso, de la Administración Pública y demás organismos y entidades anteriormente señalados, como asimismo fijar las remuneraciones mínimas de los trabajadores del sector privado, aumentar obligatoriamente sus remuneraciones y demás beneficios económicos o alterar las bases que sirvan para determinarlos; todo ello sin perjuicio de lo dispuesto en los números siguientes;
+4º.- Fijar, modificar, conceder o aumentar remuneraciones, jubilaciones, pensiones, montepíos, rentas y cualquiera otra clase de emolumentos, préstamos o beneficios al personal en servicio o en retiro y a los beneficiarios de montepío, en su caso, de la Administración Pública y demás organismos y entidades anteriormente señalados, con excepción de las remuneraciones de los cargos indicados en el inciso primero del artículo 38 bis, como asimismo fijar las remuneraciones mínimas de los trabajadores del sector privado, aumentar obligatoriamente sus remuneraciones y demás beneficios económicos o alterar las bases que sirvan para determinarlos; todo ello sin perjuicio de lo dispuesto en los números siguientes;
 5º.- Establecer las modalidades y procedimientos de la negociación colectiva y determinar los casos en que no se podrá negociar, y
 6º.- Establecer o modificar las normas sobre seguridad social o que incidan en ella, tanto del sector público como del sector privado.
 El Congreso Nacional sólo podrá aceptar, disminuir o rechazar los servicios, empleos, emolumentos, préstamos, beneficios, gastos y demás iniciativas sobre la materia que proponga el Presidente de la República.
@@ -1169,6 +1179,11 @@ Los candidatos independientes a convencional constituyente, vayan o no en lista 
 TRIGÉSIMA SÉPTIMA.- Se reanudarán las inscripciones en el Registro Electoral que provengan de solicitudes de acreditación de avecindamiento conforme al artículo 6°, las actualizaciones de las circunstancias contenidas en las letras a) a la e) del artículo 13 y las modificaciones señaladas en el artículo 23, todas del decreto con fuerza de ley N° 5, de 2017, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.556, orgánica constitucional de sistema de inscripciones electorales y Servicio Electoral, en la fecha de publicación de la presente reforma constitucional.
 No obstante lo dispuesto en el artículo 29 del decreto con fuerza de ley mencionado, la suspensión de inscripciones, actualizaciones y modificaciones del Registro Electoral se efectuará ciento cuarenta días antes del plebiscito señalado en el artículo 130.
 Para la elaboración de los padrones electorales y nómina de inhabilitados a que hace referencia el título II del mencionado decreto con fuerza de ley, se estará a lo prescrito en dicho título y en el título III.
+
+TRIGÉSIMA OCTAVA.- Dentro de los treinta días siguientes a la publicación de esta reforma constitucional, el Consejo de Alta Dirección Pública, creado por la ley Nº 19.882, fijará, por una sola vez, las remuneraciones de los ministros de Estado y de los diputados y senadores en los términos que dispone el artículo 62, las que regirán hasta que se adopte el acuerdo que establece el artículo 38 bis.
+Dentro de los noventa días siguientes a la publicación de esta reforma, el mencionado Consejo determinará, también por una sola vez, las rentas de las demás autoridades señaladas en el artículo 38 bis, las que regirán hasta que se adopte el acuerdo que establece el mencionado precepto. Igualmente, y en el mismo término, precisará las remuneraciones de intendentes y gobernadores, las que regirán hasta el día en que asuman sus cargos los gobernadores regionales.
+El Consejo de Alta Dirección Pública reducirá la última remuneración percibida por las autoridades ya mencionadas, en el porcentaje que su estudio lo justifique. Para ello deberá tener en cuenta la Escala Única de Sueldos de la Administración del Estado y los parámetros establecidos en el artículo 38 bis.
+El Consejo de Alta Dirección Pública tendrá en especial consideración la realidad económica del país y el análisis de política comparada.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Eduardo Dockendorff Vallejos, Ministro Secretario General de la Presidencia.-Francisco Vidal Salinas, Ministro del Interior.- Ignacio Walker Prieto, Ministro de Relaciones Exteriores.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción y Presidente de la Comisión Nacional de Energía.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Educación.- Luis Bates Hidalgo, Ministro de Justicia.- Jaime Estévez Valencia, Ministro de Obras Públicas y de Transportes y Telecomunicaciones.- Jaime Campos Quiroga, Ministro de Agricultura.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.- Pedro García Aspillaga, Ministro de Salud.- Alfonso Dulanto Rencoret, Ministro de Minería.- Sonia Tschorne Berestescky, Ministra de Vivienda y Urbanismo y de Bienes Nacionales.- Osvaldo Puccio Huidobro, Ministro Secretario General de Gobierno.- Yasna Provoste Campillay, Ministra de Planificación.
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Rodrigo Egaña Baraona, Subsecretario General de la Presidencia.
