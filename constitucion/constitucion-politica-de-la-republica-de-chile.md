@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2020-05-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2020-05-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2020-05-28
-fetched_at: 2026-08-03T04:28:19.408110+00:00
+version_date: 2020-05-30
+fetched_at: 2026-08-03T04:28:37.432538+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -1158,9 +1158,11 @@ Si de la aplicación de esta regla no se lograre el equilibrio de género, se re
 En ningún caso procederá reasignación alguna respecto de los ciudadanos independientes que resulten electos fuera de lista. Sin embargo, éstos se considerarán con el objeto de establecer el cumplimiento de la paridad o diferencia mínima entre sexos a que alude el numeral 1.
 En el caso de que la ciudadanía elija la opción de Convención Mixta Constitucional en el plebiscito nacional del domingo 25 de octubre del año 2020, serán aplicables las normas de la presente disposición transitoria para la elección de todos los ciudadanos electos por la ciudadanía para dicha Convención Mixta Constitucional.
 
-TRIGÉSIMA SEGUNDA. Por el plazo de un año a contar de la publicación de la presente reforma, la Cámara de Diputados y el Senado podrán funcionar por medios telemáticos una vez declarada una cuarentena sanitaria o un estado de excepción constitucional por calamidad pública que signifique grave riesgo para la salud o vida de los habitantes del país o de una o más regiones, que les impida sesionar, total o parcialmente, y mientras este impedimento subsista.
-Para ello se requerirá el acuerdo de los Comités que representen a los dos tercios de los integrantes de la respectiva cámara. Ellas podrán sesionar, votar proyectos de ley y de reforma constitucional y ejercer sus facultades exclusivas.
+TRIGÉSIMA SEGUNDA. Por el plazo de un año a contar de la publicación de la presente reforma, la Cámara de Diputados, el Senado y el Congreso Pleno, este último para efectos de lo dispuesto en los artículos 24 y 56 bis, podrán funcionar por medios telemáticos una vez declarada una cuarentena sanitaria o un estado de excepción constitucional por calamidad pública que signifique grave riesgo para la salud o vida de los habitantes del país o de una o más regiones, que les impida sesionar, total o parcialmente, y mientras este impedimento subsista.
+Para las sesiones de las cámaras se requerirá el acuerdo de los Comités que representen a los dos tercios de los integrantes de la respectiva cámara. Ellas podrán sesionar, votar proyectos de ley y de reforma constitucional y ejercer sus facultades exclusivas.
 El procedimiento telemático deberá asegurar que el voto de los parlamentarios sea personal, fundado e indelegable.
+En los casos del Congreso Pleno, a que se refiere el inciso primero, los Presidentes de ambas Corporaciones acordarán la dependencia del Congreso Nacional en la que se cumplirán estas obligaciones, quiénes podrán concurrir presencialmente a esas sesiones y si éstas deben realizarse de manera total o parcialmente telemática.
+La cuenta del estado administrativo y político de la Nación ante el Congreso Pleno a que se refiere el inciso tercero del artículo 24, el año 2020 se realizará el día 31 de julio.
 
 TRIGÉSIMA TERCERA.- Déjase sin efecto la convocatoria al plebiscito nacional realizada por el Presidente de la República mediante decreto supremo exento, de conformidad a la ley N° 21.200.
 Tres días después de la publicación en el Diario Oficial de la presente reforma constitucional, el Presidente de la República convocará, mediante un decreto supremo exento, al plebiscito nacional señalado en el artículo 130, para el día 25 de octubre de 2020.
