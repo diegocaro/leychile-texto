@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2020-03-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2020-06-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2020-03-04
-fetched_at: 2026-08-03T04:26:36.471063+00:00
+version_date: 2020-06-20
+fetched_at: 2026-08-03T04:28:55.444855+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1916,7 +1916,16 @@ Artículo 316° El que diseminare gérmenes patógenos con el propósito de prod
 Artículo 317° Si a consecuencia de cualquiera de los delitos señalados en los cuatro artículos precedentes, se produjere la muerte o enfermedad grave de alguna persona, las penas corporales se elevarán en uno o dos grados, según la naturaleza y número de tales consecuencias, y la multa podrá elevarse hasta el doble del máximo señalado en cada caso.
 Si alguno de tales hechos punibles se cometiere por imprudencia temeraria o por mera negligencia con infracción de los reglamentos respectivos, las penas serán de presidio menor en su grado mínimo o multa de seis a veinte unidades tributarias mensuales.
 
-Artículo 318° El que pusiere en peligro la salud pública por infracción de las reglas higiénicas o de salubridad, debidamente publicadas por la autoridad, en tiempo de catástrofe, epidemia o contagio, será penado con presidio menor en su grado mínimo o multa de seis a veinte unidades tributarias mensuales.
+Art 318.
+El que pusiere en peligro la salud pública por infracción de las reglas higiénicas o de salubridad, debidamente publicadas por la autoridad, en tiempo de catástrofe, epidemia o contagio, será penado con presidio menor en su grado mínimo a medio o multa de seis a doscientas unidades tributarias mensuales.
+Será circunstancia agravante de este delito cometerlo mediante la convocatoria a espectáculos, celebraciones o festividades prohibidas por la autoridad sanitaria en tiempo de catástrofe, pandemia o contagio.
+En los casos en que el Ministerio Público solicite únicamente la pena de multa de seis unidades tributarias mensuales, se procederá en cualquier momento conforme a las reglas generales del procedimiento monitorio, siendo aplicable lo previsto en el artículo 398 del Código Procesal Penal. Tratándose de multas superiores se procederá de acuerdo con las normas que regulan el procedimiento simplificado.
+
+ART. 318 bis.
+El que, en tiempo de pandemia, epidemia o contagio, genere, a sabiendas, riesgo de propagación de agentes patológicos con infracción de una orden de la autoridad sanitaria, será sancionado con la pena de presidio menor en su grado medio a máximo, y multa de veinticinco a doscientas cincuenta unidades tributarias mensuales.
+
+ART. 318 ter.
+El que, a sabiendas y teniendo autoridad para disponer el trabajo de un subordinado, le ordene concurrir al lugar de desempeño de sus labores cuando éste sea distinto de su domicilio o residencia, y el trabajador se encuentre en cuarentena o aislamiento sanitario obligatorio decretado por la autoridad sanitaria, será castigado con presidio menor en sus grados mínimo a medio y una multa de diez a doscientas unidades tributarias mensuales por cada trabajador al que se le hubiere ordenado concurrir.
 
 ART. 319 a). Derogado.
 
