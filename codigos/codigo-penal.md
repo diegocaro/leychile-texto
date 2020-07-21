@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2020-06-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2020-07-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2020-06-20
-fetched_at: 2026-08-03T04:28:55.444855+00:00
+version_date: 2020-07-21
+fetched_at: 2026-08-03T04:29:31.467096+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2362,6 +2362,7 @@ Las lesiones no comprendidas en los artículos precedentes se reputan menos grav
 ART. 400.
 Si los hechos a que se refieren los artículos anteriores de este párrafo se ejecutan en contra de alguna de las personas que menciona el artículo 5º de la Ley sobre Violencia Intrafamiliar, o con cualquiera de las circunstancias Segunda, Tercera o Cuarta del número 1º del artículo 391 de este Código, las penas se aumentarán en un grado.
 Asimismo, si los hechos a que se refieren los artículos anteriores de este párrafo se ejecutan en contra de un menor de dieciocho años de edad, adulto mayor o persona en situación de discapacidad, por quienes tengan encomendado su cuidado, la pena señalada para el delito se aumentará en un grado.
+De la misma forma, si los hechos a que se refieren el numeral 2° del artículo 397 y el artículo 399 se ejecutaren en contra de miembros de los Cuerpos de Bomberos en ejercicio de sus funciones, la pena señalada para el delito se aumentará en un grado.
 
 ART. 401.
 Las lesiones menos graves inferidas a guardadores, sacerdotes o personas constituidas en dignidad o autoridad pública, serán castigadas siempre con presidio o relegación menores en sus grados mínimos a medios.
