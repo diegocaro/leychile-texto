@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2020-04-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2020-09-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2020-04-01
-fetched_at: 2026-08-03T04:27:36.523788+00:00
+version_date: 2020-09-04
+fetched_at: 2026-08-03T04:31:19.562690+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1877,6 +1877,7 @@ a) obligue a levantar, arrastrar o empujar grandes pesos; b) exija un esfuerzo f
 c) se ejecute en horario nocturno;
 d) se realice en horas extraordinarias de trabajo, y
 e) la autoridad competente declare inconveniente para el estado de gravidez.
+Igualmente, si durante el período de embarazo la autoridad declarara el estado de excepción constitucional de catástrofe, por calamidad pública, con ocasión de una epidemia o pandemia a causa de una enfermedad contagiosa, el empleador deberá ofrecer a la trabajadora, durante el tiempo que dure el referido estado de excepción constitucional, la modalidad de trabajo a distancia o teletrabajo, de conformidad con el Capítulo IX del Título II del Libro I de este Código, sin reducción de remuneraciones, en la medida que la naturaleza de sus funciones lo permita y la trabajadora consienta en ello. Si la naturaleza de las funciones de la trabajadora no es compatible con la modalidad de trabajo a distancia o teletrabajo, el empleador, con acuerdo de ella y sin reducir sus remuneraciones, la destinará a labores que no requieran contacto con público o con terceros que no desempeñen funciones en el lugar de trabajo, siempre que ello sea posible y no importe menoscabo para la trabajadora.
 
 Art. 203. Las empresas que ocupan veinte o más trabajadoras de cualquier edad o estado civil, deberán tener salas anexas e independientes del local de trabajo, en donde las mujeres puedan dar alimento a sus hijos menores de dos años y dejarlos mientras estén en el trabajo. Igual obligación corresponderá a los centros o complejos comerciales e industriales y de servicios administrados bajo una misma razón social o personalidad jurídica, cuyos establecimientos ocupen entre todos, veinte o más trabajadoras. El mayor gasto que signifique la sala cuna se entenderá común y deberán concurrir a él todos los establecimientos en la misma proporción de los demás gastos de ese carácter.
 Las salas cunas señaladas en el inciso anterior deberán contar con autorización de funcionamiento o reconocimiento oficial del Estado, ambos otorgados por el Ministerio de Educación.
