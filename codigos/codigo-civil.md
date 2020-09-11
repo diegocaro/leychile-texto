@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2020-05-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2020-09-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2020-05-25
-fetched_at: 2026-08-03T04:28:00.546259+00:00
+version_date: 2020-09-11
+fetched_at: 2026-08-03T04:31:37.576615+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -408,13 +408,11 @@ Art. 126. El Oficial del Registro Civil correspondiente no permitirá el matrimo
 
 Art. 127. El viudo o divorciado o quien hubiere anulado su matrimonio por cuya negligencia hubiere dejado de hacerse en tiempo oportuno el inventario prevenido en el artículo 124, perderá el derecho de suceder como legitimario o como heredero abintestato al hijo cuyos bienes ha administrado.
 
-Art. 128. Cuando un matrimonio haya sido disuelto o declarado nulo, la mujer que está embarazada no podrá pasar a otras nupcias antes del parto, o (no habiendo señales de preñez) antes de cumplirse los doscientos setenta días subsiguientes a la disolución o declaración de nulidad.
-Pero se podrán rebajar de este plazo todos los días que hayan precedido inmediatamente a dicha disolución o declaración, y en los cuales haya sido absolutamente imposible el acceso del marido a la mujer.
+Art. 128. Derogado.
 
-Art. 129. El oficial del Registro Civil correspondiente no permitirá el matrimonio de la mujer sin que por parte de ésta se justifique no estar comprendida en el impedimento del artículo precedente.
+Art. 129. Derogado.
 
 Art. 130. Cuando por haber pasado la madre a otras nupcias se dudare a cuál de los dos matrimonios pertenece un hijo, y se invocare una decisión judicial de conformidad a las reglas del Título VIII, el juez decidirá, tomando en consideración las circunstancias. Las pruebas periciales de carácter biológico y el dictamen de facultativos serán decretados si así se solicita.
-Serán obligados solidariamente a la indemnización de todos los perjuicios y costas ocasionados a terceros por la incertidumbre de la paternidad, la mujer que antes del tiempo debido hubiere pasado a otras nupcias, y su nuevo marido.
 
 ##### Título VI
 OBLIGACIONES Y DERECHOS ENTRE LOS CONYUGES
@@ -609,6 +607,7 @@ En los demás casos la maternidad se determina por reconocimiento o sentencia fi
 Art. 184. Se presumen hijos del marido los nacidos después de la celebración del matrimonio y dentro de los trescientos días siguientes a su disolución o a la separación judicial de los cónyuges.
 No se aplicará esta presunción respecto del que nace antes de expirar los ciento ochenta días subsiguientes al matrimonio, si el marido no tuvo conocimiento de la preñez al tiempo de casarse y desconoce judicialmente su paternidad. La acción se ejercerá en el plazo y forma que se expresa en los artículos 212 y siguientes. Con todo, el marido no podrá ejercerla si por actos positivos ha reconocido al hijo después de nacido.
 Regirá, en cambio, la presunción de paternidad respecto del nacido trescientos días después de decretada la separación judicial, por el hecho de consignarse como padre el nombre del marido, a petición de ambos cónyuges, en la inscripción de nacimiento del hijo.
+Si la mujer contrae sucesivamente dos matrimonios y da a luz un niño después de celebrado el segundo, se presumirá hijo del actual marido, cualquiera que sea el plazo que haya transcurrido desde la disolución del primer matrimonio, sin perjuicio del derecho del actual marido para desconocer esta paternidad si se dan los supuestos previstos en el inciso segundo. Desconocida así la paternidad, se presumirá padre al marido del antecedente matrimonio, siempre que el niño haya nacido dentro de los trescientos días siguientes a su disolución.
 La paternidad así determinada o desconocida podrá ser impugnada o reclamada, respectivamente, de acuerdo con las reglas establecidas en el Título VIII.
 
 Art. 185. La filiación matrimonial queda determinada por el nacimiento del hijo durante el matrimonio de sus padres, con tal que la maternidad y la paternidad estén establecidas legalmente en conformidad con los artículos 183 y 184, respectivamente.
