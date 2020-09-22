@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2020-08-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2020-09-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2020-08-03
-fetched_at: 2026-08-03T04:30:07.491954+00:00
+version_date: 2020-09-22
+fetched_at: 2026-08-03T04:32:00.699403+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -533,7 +533,7 @@ La prescripción de los productos a que se refiere el artículo 98 se regirá po
 La receta y su contenido, los análisis y exámenes de laboratorios clínicos y los servicios prestados relacionados con la salud serán reservados y considerados datos sensibles sujetándose a lo establecido en la ley N° 19.628.
 Lo dispuesto en este artículo no obsta a que las farmacias puedan dar a conocer, para fines estadísticos, las ventas de productos farmacéuticos de cualquier naturaleza, incluyendo la denominación y cantidad de ellos. En ningún caso la información que proporcionen las farmacias consignará el nombre de las personas destinatarias de las recetas, ni el de los médicos que las expidieron, ni datos que sirvan para identificarlos.
 El propietario, el director técnico y el auxiliar de la farmacia en que se expenda un medicamento diferente del indicado en la receta, contraviniendo lo dispuesto en el presente artículo, serán sancionados conforme a lo dispuesto en el Libro Décimo.
-En los casos en que se emita receta electrónica, ésta deberá constar en un documento electrónico suscrito por parte del facultativo autorizado en esta ley mediante firma electrónica avanzada conforme lo dispuesto en la ley N° 19.799.
+En los casos en que se emita receta electrónica, ésta deberá constar en un documento electrónico suscrito por parte del facultativo autorizado en esta ley según lo dispuesto en el reglamento.
 El reglamento establecerá las situaciones y casos en que se podrá exceptuar la aplicación de lo dispuesto en el inciso primero, tales como ruralidad, ubicación geográfica, disponibilidad tecnológica u otras situaciones de similar naturaleza.
 
 ### TÍTULO II
