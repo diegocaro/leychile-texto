@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2020-09-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2020-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2020-09-04
-fetched_at: 2026-08-03T04:31:19.562690+00:00
+version_date: 2020-10-01
+fetched_at: 2026-08-03T04:32:18.728976+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1375,7 +1375,7 @@ A falta de esta estipulación, entendiéndose además por tal la que no cumpla c
 Si el contrato celebrado para una obra o faena determinada hubiere estado vigente por un mes o más, el empleador podrá ponerle término en forma justificada en tanto pague al trabajador, en el momento de su terminación, una indemnización equivalente a dos y medio días de remuneración por cada mes trabajado y fracción superior a quince días, en la forma y modalidad señalada en el artículo 23 transitorio de este Código. Esta indemnización será calculada en conformidad a lo establecido en el artículo 172, y le será aplicable lo dispuesto en el inciso segundo del artículo 13 de la ley N° 19.728. Sólo corresponderá el pago de la prestación antes señalada, si se pusiere término al contrato por la causal contemplada en el número 5 del artículo 159. El ejercicio del derecho establecido en este inciso por parte del trabajador es incompatible con las acciones derivadas de la aplicación del inciso primero del artículo 168, sin perjuicio de las acciones señaladas en el artículo 485 de este Código.
 La indemnización a que se refiere este artículo será compatible con la sustitutiva del aviso previo que corresponda al trabajador, según lo establecido en el inciso segundo del artículo 161 y en el inciso cuarto del artículo 162 de este Código.
 Lo dispuesto en los incisos anteriores no se aplicará en el caso de terminación del contrato de los trabajadores de casa particular, respecto de los cuales regirán las siguientes normas:
-a) Tendrán derecho, cualquiera que sea la causa que origine la terminación del contrato, a una indemnización a todo evento que se financiará con un aporte del empleador, equivalente al 4,11% de la remuneración mensual imponible, la que se regirá, en cuanto corresponda, por las disposiciones de los artículos 165 y 166 de este Código, y
+a) Tendrán derecho, cualquiera que sea la causa que origine la terminación del contrato, a una indemnización a todo evento que se financiará con un aporte del empleador, equivalente al 1,11% de la remuneración mensual imponible, la que se regirá, en cuanto corresponda, por las disposiciones de los artículos 165 y 166 de este Código, y
 b) La obligación de efectuar el aporte tendrá una duración de once años en relación con cada trabajador, plazo que se contará desde el 1º de enero de 1991, o desde la fecha de inicio de la relación laboral, si ésta fuere posterior. El monto de la indemnización quedará determinado por los aportes correspondientes al período respectivo, más la rentabilidad que se haya obtenido de ellos.
 
 Artículo 163 bis.- El contrato de trabajo terminará en caso que el empleador fuere sometido a un procedimiento concursal de liquidación. Para todos los efectos legales, la fecha de término del contrato de trabajo será la fecha de dictación de la resolución de liquidación. En este caso, se aplicarán las siguientes reglas:
