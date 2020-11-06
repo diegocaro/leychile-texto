@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2020-09-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2020-11-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2020-09-22
-fetched_at: 2026-08-03T04:32:00.699403+00:00
+version_date: 2020-11-06
+fetched_at: 2026-08-03T04:32:54.769019+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -649,7 +649,7 @@ El Instituto de Salud Pública tendrá libre acceso a la información relacionad
 
 Artículo 111 E.- Los titulares de las autorizaciones para uso provisional con fines de investigación serán responsables por los daños que causen con ocasión de la investigación, aunque estos se deriven de hechos o circunstancias que no se hubieren podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica, existentes en el momento de producirse los daños.
 Asimismo, acreditado el daño, se presumirá que éste se ha producido con ocasión de la investigación.
-La acción para perseguir esta responsabilidad prescribirá en el plazo de diez años, contado desde la manifestación del daño.
+La acción para perseguir esta responsabilidad prescribirá en el plazo de diez años, contado desde la manifestación del daño. No obstante, en caso de decretarse una alerta sanitaria con ocasión de una epidemia o pandemia y durante la vigencia de ésta, dicho plazo se contará desde el término del respectivo ensayo, cuando se trate de investigaciones que tengan por objeto el desarrollo de productos farmacéuticos y dispositivos médicos destinados a enfrentar las circunstancias que sirvieron de fundamento al decreto de alerta sanitaria.
 
 Artículo 111 F.- Será obligación de los titulares de las autorizaciones especiales para uso provisional para fines de investigación de productos farmacéuticos y,o elementos de uso médico contar con una póliza de seguro por responsabilidad civil, conforme al reglamento que se dicte a través del Ministerio de Salud.
 A través de un decreto supremo del Ministerio de Salud se establecerá la clase de los elementos de uso médico para cuya investigación será obligatoria la presentación de pólizas de seguro.
