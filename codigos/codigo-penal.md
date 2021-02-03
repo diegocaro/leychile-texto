@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2020-07-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2021-02-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2020-07-21
-fetched_at: 2026-08-03T04:29:31.467096+00:00
+version_date: 2021-02-03
+fetched_at: 2026-08-03T04:34:27.212228+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -3086,7 +3086,7 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 9.° El que se bañare quebrantando las reglas de decencia o seguridad establecidas por la autoridad.
 10.° El que riñere en público sin armas, salvo el caso de justa defensa propia o de un tercero.
 11.° El que injuriare a otro livianamente de obra o de palabra, no siendo por escrito y con publicidad.
-12.° El que dentro de las poblaciones y en contravención a los reglamentos disparare armas de fuego, cohetes, petardos u otros proyectiles.
+12.° Derogado.
 13.° El que corriere carruajes o caballerías dentro de una población, no siendo en los casos previstos por el núm. 6.° del art. 494.
 14.° El que infringiere los reglamentos relativos a carruajes públicos o de particulares.
 15.° El que infringiere las reglas de policía relativas a posadas, fondas, tabernas y otros establecimientos públicos.
