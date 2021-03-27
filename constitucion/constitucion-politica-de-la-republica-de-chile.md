@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2021-03-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2021-03-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2021-03-17
-fetched_at: 2026-08-03T04:35:40.324033+00:00
+version_date: 2021-03-27
+fetched_at: 2026-08-03T04:35:58.351830+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -1163,7 +1163,7 @@ Si de la aplicación de esta regla no se lograre el equilibrio de género, se re
 En ningún caso procederá reasignación alguna respecto de los ciudadanos independientes que resulten electos fuera de lista. Sin embargo, éstos se considerarán con el objeto de establecer el cumplimiento de la paridad o diferencia mínima entre sexos a que alude el numeral 1.
 En el caso de que la ciudadanía elija la opción de Convención Mixta Constitucional en el plebiscito nacional del domingo 25 de octubre del año 2020, serán aplicables las normas de la presente disposición transitoria para la elección de todos los ciudadanos electos por la ciudadanía para dicha Convención Mixta Constitucional.
 
-TRIGÉSIMA SEGUNDA. Por el plazo de un año a contar de la publicación de la presente reforma, la Cámara de Diputados, el Senado y el Congreso Pleno, este último para efectos de lo dispuesto en los artículos 24 y 56 bis, podrán funcionar por medios telemáticos una vez declarada una cuarentena sanitaria o un estado de excepción constitucional por calamidad pública que signifique grave riesgo para la salud o vida de los habitantes del país o de una o más regiones, que les impida sesionar, total o parcialmente, y mientras este impedimento subsista.
+TRIGÉSIMA SEGUNDA. Hasta por el plazo de dos años a contar de la publicación de la presente reforma, y por la actual pandemia de COVID-19, la Cámara de Diputados, el Senado y el Congreso Pleno, este último para efectos de lo dispuesto en los artículos 24 y 56 bis, podrán funcionar por medios telemáticos una vez declarada una cuarentena sanitaria o un estado de excepción constitucional por calamidad pública que signifique grave riesgo para la salud o vida de los habitantes del país o de una o más regiones, que les impida sesionar, total o parcialmente, y mientras este impedimento subsista.
 Para las sesiones de las cámaras se requerirá el acuerdo de los Comités que representen a los dos tercios de los integrantes de la respectiva cámara. Ellas podrán sesionar, votar proyectos de ley y de reforma constitucional y ejercer sus facultades exclusivas.
 El procedimiento telemático deberá asegurar que el voto de los parlamentarios sea personal, fundado e indelegable.
 En los casos del Congreso Pleno, a que se refiere el inciso primero, los Presidentes de ambas Corporaciones acordarán la dependencia del Congreso Nacional en la que se cumplirán estas obligaciones, quiénes podrán concurrir presencialmente a esas sesiones y si éstas deben realizarse de manera total o parcialmente telemática.
