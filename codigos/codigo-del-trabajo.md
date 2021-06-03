@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2021-06-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2021-06-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2021-06-01
-fetched_at: 2026-08-03T04:37:12.894453+00:00
+version_date: 2021-06-03
+fetched_at: 2026-08-03T04:37:22.078568+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -514,7 +514,9 @@ Para el ejercicio de este derecho, los trabajadores deberán dar aviso al emplea
 El tiempo en el que los trabajadores se realicen los exámenes, será considerado como trabajado para todos los efectos legales; asimismo, este permiso no podrá ser compensado en dinero, ni durante ni al término de la relación laboral, entendiéndose por no escrita cualquier estipulación en contrario.
 Si los trabajadores estuvieren afectos a un instrumento colectivo que considerare un permiso análogo, se entenderá cumplida la obligación legal por parte del empleador.
 
-Art. 66 ter.- Los trabajadores dependientes regidos por el Código del Trabajo y aquellos regidos por el Estatuto Administrativo contenido en la ley Nº18.834, y por el Estatuto Administrativo para Funcionarios Municipales contenido en la ley Nº 18.883, que se desempeñen adicionalmente como voluntarios del Cuerpo de Bomberos estarán facultados para acudir a llamados de emergencia ante accidentes, incendios u otros siniestros que ocurran durante su jornada laboral.
+Artículo 66 ter.- En los casos de programas o campañas públicas de inmunización a través de vacunas u otros medios, para el control y prevención de enfermedades transmisibles, todo trabajador o toda trabajadora que se encuentre dentro de la población objetivo de dichas campañas tendrá derecho a medio día de permiso laboral para su vacunación. A este derecho le serán aplicables las reglas de los incisos segundo y siguientes del artículo anterior, salvo que el aviso al empleador deberá darse con al menos dos días de anticipación.
+
+Art. 66 quáter.- Los trabajadores dependientes regidos por el Código del Trabajo y aquellos regidos por el Estatuto Administrativo contenido en la ley Nº18.834, y por el Estatuto Administrativo para Funcionarios Municipales contenido en la ley Nº 18.883, que se desempeñen adicionalmente como voluntarios del Cuerpo de Bomberos estarán facultados para acudir a llamados de emergencia ante accidentes, incendios u otros siniestros que ocurran durante su jornada laboral.
 El tiempo que estos trabajadores destinen a la atención de estas emergencias será considerado como trabajado para todos los efectos legales. El empleador no podrá, en ningún caso, calificar esta salida como intempestiva e injustificada para configurar la causal de abandono de trabajo establecida en el artículo 160, número 4, letra a), de este Código, o como fundamento de una investigación sumaria o de un sumario administrativo, en su caso.
 El empleador podrá solicitar a la Comandancia de Bomberos respectiva la acreditación de la circunstancia señalada en este artículo.
 
