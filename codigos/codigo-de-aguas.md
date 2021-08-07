@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2018-01-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2021-08-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 2018-01-27
-fetched_at: 2026-08-03T04:14:46.043761+00:00
+version_date: 2021-08-07
+fetched_at: 2026-08-03T04:37:41.034448+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1354,6 +1354,7 @@ b) Investigar, medir el recurso y monitorear tanto su calidad como su cantidad, 
 2. Encomendar a empresas u organismos especializados los estudios e informes técnicos que estime conveniente y la construcción, implementación y operación de las obras de medición e investigación que se requiera.
 3. Propender a la coordinación de los programas de investigación que corresponda a las entidades del sector público y a las privadas que realicen esos trabajos con financiamiento parcial del Estado.
 Para la realización de estas funciones la Dirección General de Aguas deberá constituir las servidumbres a que se refiere el artículo 107;
+4. Corresponderá a la Dirección General de Aguas declarar la alerta de amenaza asociada al recurso hídrico, informando el nivel y cobertura del mismo, y comunicarla de manera oportuna y suficiente al Servicio Nacional de Prevención y Respuesta ante Desastres, en la forma que determinen los protocolos generados para estos efectos.
 c) Ejercer la policía y vigilancia de las aguas en los cauces naturales de uso público y acuíferos; impedir, denunciar o sancionar la afectación a la cantidad y la calidad de estas aguas, de conformidad al inciso primero del artículo 129 bis 2 y los artículos 171 y siguientes; e impedir que en éstos se construyan, modifiquen o destruyan obras sin la autorización previa del servicio o autoridad a quien corresponda aprobar su construcción o autorizar su demolición o modificación;
 d) Impedir que se extraigan aguas de los mismos cauces y en los acuíferos sin título o en mayor cantidad de lo que corresponda.
 e) Supervigilar el funcionamiento de las organizaciones de usuarios, de acuerdo con lo dispuesto en este Código.
