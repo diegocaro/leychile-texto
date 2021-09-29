@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2021-06-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2021-09-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2021-06-03
-fetched_at: 2026-08-03T04:37:22.078568+00:00
+version_date: 2021-09-29
+fetched_at: 2026-08-03T04:37:59.053807+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -502,8 +502,8 @@ No podrán ejercer este comercio los trabajadores que hubieran sido despedidos d
 #### Capítulo VII
 DEL FERIADO ANUAL Y DE LOS PERMISOS
 
-Art. 66. En el caso de muerte de un hijo así como en el de muerte del cónyuge o conviviente civil, todo trabajador tendrá derecho a siete días corridos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
-Igual permiso se aplicará por tres días hábiles en el caso de muerte de un hijo en período de gestación así como en el de muerte del padre o de la madre del trabajador.
+Artículo 66.- En caso de muerte de un hijo, todo trabajador tendrá derecho a diez días corridos de permiso pagado. En caso de la muerte del cónyuge o conviviente civil, todo trabajador tendrá derecho a un permiso similar, por siete días corridos. En ambos casos, este permiso será adicional al feriado anual, independientemente del tiempo de servicio.
+Igual permiso se aplicará, por siete días hábiles, en el caso de muerte de un hijo en período de gestación, y por tres días hábiles, en caso de la muerte del padre o de la madre del trabajador.
 Estos permisos deberán hacerse efectivos a partir del día del respectivo fallecimiento. No obstante, tratándose de una defunción fetal, el permiso se hará efectivo desde el momento de acreditarse la muerte, con el respectivo certificado de defunción fetal.
 El trabajador al que se refiere el inciso primero gozará de fuero laboral por un mes, a contar del respectivo fallecimiento. Sin embargo, tratándose de trabajadores cuyos contratos de trabajo sean a plazo fijo o por obra o servicio determinado, el fuero los amparará sólo durante la vigencia del respectivo contrato si éste fuera menor a un mes, sin que se requiera solicitar su desafuero al término de cada uno de ellos.
 Los días de permiso consagrados en este artículo no podrán ser compensados en dinero.
