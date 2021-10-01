@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2021-09-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2021-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2021-09-29
-fetched_at: 2026-08-03T04:37:59.053807+00:00
+version_date: 2021-10-01
+fetched_at: 2026-08-03T04:38:18.153451+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -91,9 +91,13 @@ El empleador, en todo caso, estará obligado a mantener en el lugar de trabajo, 
 Conforme a lo señalado en el inciso anterior, cuando exista la necesidad de centralizar la documentación laboral y previsional, en razón de tener organizado su giro económico en diversos establecimientos, sucursales o lugares de trabajo o por razones de administración, control, operatividad o seguridad o que sus trabajadores presten servicios en instalaciones de terceros, o lugares de difícil ubicación específica, o carentes de condiciones materiales en las cuales mantener adecuadamente la referida documentación, como labores agrícolas, mineras o forestales y de vigilancia entre otras, las empresas podrán solicitar a la Dirección del Trabajo autorización para centralizar los documentos antes señalados y ofrecer mantener copias digitalizadas de dichos documentos laborales y previsionales. Para estos efectos, el Director del Trabajo, mediante resolución fundada, fijará las condiciones y modalidades para dicha centralización. La Dirección del Trabajo deberá resolver la solicitud de que trata este inciso en un plazo de treinta días, no siendo exigible la obligación establecida en el inciso quinto, en tanto no se notifique dicha respuesta al peticionario.
 La autorización de centralización podrá extenderse a toda la documentación laboral y previsional que se deriva de las relaciones de trabajo, salvo en lo referido al registro control de asistencia a que se refiere el inciso primero del artículo 33 de este Código.
 
+Artículo 9 bis.- En conformidad a lo dispuesto en el artículo 515, el empleador deberá registrar en el sitio electrónico de la Dirección del Trabajo los contratos de trabajo, dentro de los quince días siguientes a su celebración. Asimismo, deberá registrar las terminaciones de contrato, dentro de los plazos establecidos en los artículos 162 y 163 bis para el envío de las copias de las comunicaciones de terminación de contrato a la Inspección del Trabajo, y dentro de los diez días hábiles siguientes a la separación del trabajador en los casos de los números 1, 2 y 3 del artículo 159.
+En el momento del registro del contrato de trabajo el empleador deberá indicar las estipulaciones pactadas, y al término de los servicios deberá informar la fecha de éste y la causal invocada.
+Esta información será utilizada para el ejercicio de las facultades legales propias de la Dirección del Trabajo, tales como fiscalizaciones, conciliaciones, mediaciones y ratificación de finiquitos. También podrá ser utilizada para fines estadísticos, de estudios y difusión que efectúe el Servicio sobre el cumplimiento de la normativa laboral y de salud y seguridad en el trabajo, sin perjuicio de lo dispuesto en la ley Nº 19.628, sobre protección de la vida privada. Además, la Dirección del Trabajo deberá proporcionar esta información a los tribunales de justicia, previo requerimiento.
+
 Art. 10. El contrato de trabajo debe contener, a lo menos, las siguientes estipulaciones:
 1.- lugar y fecha del contrato;
-2.- individualización de las partes con indicación de la nacionalidad y fechas de nacimiento e ingreso del trabajador;
+2.- individualización de las partes con indicación de la nacionalidad, domicilio y dirección de correo electrónico de ambas partes, si la tuvieren y fechas de nacimiento e ingreso del trabajador;
 3.- determinación de la naturaleza de los servicios y del lugar o ciudad en que hayan de prestarse. El contrato podrá señalar dos o más funciones específicas, sean éstas alternativas o complementarias;
 4.- monto, forma y período de pago de la remuneración acordada;
 5.- duración y distribución de la jornada de trabajo, salvo que en la empresa existiere el sistema de trabajo por turno, caso en el cual se estará a lo dispuesto en el reglamento interno;
@@ -432,7 +436,7 @@ Art. 53. El empleador estará obligado a pagar al trabajador los gastos razonabl
 DE LA PROTECCION A LAS REMUNERACIONES
 
 Art. 54. Las remuneraciones se pagarán en moneda de curso legal, sin perjuicio de lo establecido en el inciso segundo del artículo 10 y de lo preceptuado para los trabajadores agrícolas.
-A solicitud del trabajador, podrá pagarse con cheque o vale vista bancario a su nombre.
+A solicitud del trabajador, podrá pagarse con cheque o vale vista bancario a su nombre, o transferencia electrónica a la cuenta bancaria del trabajador, sin que ello importe costo alguno para él.
 Junto con el pago, el empleador deberá entregar al trabajador un comprobante con indicación del monto pagado, de la forma como se determinó y de las deducciones efectuadas.
 
 Artículo 54 bis.- Las remuneraciones devengadas se incorporan al patrimonio del trabajador, teniéndose por no escrita cualquier cláusula que implique su devolución, reintegro o compensación por parte del trabajador al empleador, ante la ocurrencia de hechos posteriores a la oportunidad en que la remuneración se devengó, salvo que dichos hechos posteriores se originen en el incumplimiento por parte del trabajador de las obligaciones contenidas en su contrato de trabajo.
@@ -1036,9 +1040,7 @@ Los deportistas profesionales y trabajadores que desempeñan actividades conexas
 NOTA:
 El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
-Artículo 152 bis L.- Las infracciones a lo dispuesto en el presente Capítulo serán sancionadas con las multas señaladas en el inciso segundo del artículo
-NOTA:
-478 de este Código.
+Artículo 152 bis L.- Las infracciones a lo dispuesto en el presente Capítulo serán sancionadas con las multas señaladas en el inciso segundo del artículo 506 de este Código.
 NOTA:
 El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
@@ -1528,10 +1530,12 @@ Del trabajo en régimen de subcontratación y del trabajo en empresas de servici
 #### Párrafo 1º
 Del trabajo en régimen de subcontratación
 
-Artículo 183-A.- Es trabajo en régimen de subcontratación, aquél realizado en virtud de un contrato de trabajo por un trabajador para un empleador, denominado contratista o subcontratista, cuando éste, en
+Artículo 183-A.- Es trabajo en régimen de subcontratación, aquél realizado en virtud de un contrato de trabajo por un trabajador para un empleador, denominado contratista o s
 NOTA:
-razón de un acuerdo contractual, se encarga de ejecutar obras o servicios, por su cuenta y riesgo y con trabajadores bajo su dependencia, para una tercera persona natural o jurídica dueña de la obra, empresa o faena, denominada la empresa principal, en la que se desarrollan los servicios o ejecutan las obras contratadas. Con todo, no quedarán sujetos a las normas de este Párrafo las obras o los servicios que se ejecutan o prestan de manera discontinua o esporádica.
-Si los servicios prestados se realizan sin sujeción a los requisitos señalados en el inciso anterior o se limitan sólo a la intermediación de trabajadores a una faena, se entenderá que el empleador es el dueño de la obra, empresa o faena, sin perjuicio de las sanciones que correspondan por aplicación del artículo 478.
+ubcontratista, cuando éste, en razón de un
+NOTA:
+acuerdo contractual, se encarga de ejecutar obras o servicios, por su cuenta y riesgo y con trabajadores bajo su dependencia, para una tercera persona natural o jurídica dueña de la obra, empresa o faena, denominada la empresa principal, en la que se desarrollan los servicios o ejecutan las obras contratadas. Con todo, no quedarán sujetos a las normas de este Párrafo las obras o los servicios que se ejecutan o prestan de manera discontinua o esporádica.
+Si los servicios prestados se realizan sin sujeción a los requisitos señalados en el inciso anterior o se limitan sólo a la intermediación de trabajadores a una faena, se entenderá que el empleador es el dueño de la obra, empresa o faena, sin perjuicio de las sanciones que correspondan por aplicación del artículo 506.
 NOTA:
 El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
 
@@ -2369,7 +2373,7 @@ Art. 292. - Las prácticas antisindicales serán sancionadas de la siguiente for
 2. En la pequeña empresa con multa de diez a cincuenta unidades tributarias mensuales.
 3. En la mediana empresa con multa de quince a ciento cincuenta unidades tributarias mensuales.
 4. En la gran empresa con multa de veinte a trescientas unidades tributarias mensuales.
-La cuantía de la multa, dentro del rango respectivo, será determinada teniendo en cuenta la gravedad de la infracción y el número de trabajadores involucrados o afiliados a la organización sindical. En caso de reincidencia en las medianas y grandes empresas, se aplicará lo dispuesto en el inciso quinto del artículo 506 de este Código.
+La cuantía de la multa, dentro del rango respectivo, será determinada teniendo en cuenta la gravedad de la infracción y el número de trabajadores involucrados o afiliados a la organización sindical. En caso de reincidencia en las medianas y grandes empresas, se aplicará lo dispuesto en el inciso sexto del artículo 506 de este Código.
 Las multas a que se refiere el inciso anterior serán a beneficio del Fondo de Formación Sindical y Relaciones Laborales Colaborativas, administrado por el Ministerio del Trabajo y Previsión Social.
 El conocimiento y resolución de las infracciones por prácticas desleales o antisindicales se sustanciará conforme las normas establecidas en el Párrafo 6º, del Capítulo II, del Título I, del Libro V, del presente Código.
 La Inspección del Trabajo deberá denunciar al tribunal competente los hechos que estime constitutivos de prácticas antisindicales o desleales, de los cuales tome conocimiento.
@@ -2808,10 +2812,13 @@ DE LA MEDIACIÓN, LA MEDIACIÓN LABORAL DE CONFLICTOS COLECTIVOS Y EL ARBITRAJE
 #### Capítulo I
 DE LA MEDIACIÓN
 
-Art. 378.- Tipos de mediación. Conforme a lo previsto en este Libro, habrá mediación voluntaria cuando las partes de común acuerdo soliciten la designación de un mediador a la Dirección del Trabajo.
+Artículo 377 bis.- Concepto. Se entenderá por mediación laboral el sistema de resolución de conflictos en el que un tercero imparcial llamado mediador, sin poder decisorio, colabora con las partes, y les facilita la búsqueda, por sí mismas, de una solución al conflicto y sus efectos, mediante acuerdos.
+
+Art. 378.- Tipos de mediación. Conforme a lo previsto en este Libro, habrá mediación voluntaria cuando las partes de común acuerdo soliciten la designación de un mediador a la Dirección del Trabajo, o bien cuando ésta de oficio cite o convoque a las partes a una mediación voluntaria, para los fines y el ejercicio de sus facultades establecidas en el artículo 29 del decreto con fuerza de ley Nº 2, de 1967, del Ministerio del Trabajo y Previsión Social.
 La mediación voluntaria tendrá un plazo máximo de diez días contado desde la notificación de la designación del mediador.
 
 Art. 379.- Facultades del mediador. En el cumplimiento de sus funciones, el mediador podrá requerir los antecedentes que juzgue necesarios, efectuar las visitas que estime procedentes a los lugares de trabajo, hacerse asesorar por organismos públicos o por expertos y requerir aquellos antecedentes documentales, laborales, tributarios, contables o de cualquier otra índole que las leyes respectivas permitan exigir a las empresas involucradas en la mediación y a las autoridades.
+En casos calificados y con acuerdo de las partes, el mediador podrá ser asesorado por un experto a costo del Servicio, para lo cual deberá ser autorizado por el Director Nacional del Trabajo. La designación de dicho asesor será de consuno por las partes, de entre aquellos que se encuentren previamente registrados en una nómina que llevará la Dirección del Trabajo. A falta de acuerdo, será el Director del Trabajo quien lo designará. De todo lo anterior se dejará constancia en el informe respectivo. El asesor colaborará con el mediador, quien será siempre el responsable del proceso.
 
 Art. 380.- Informe de mediación. Si no se produce acuerdo dentro del plazo, el mediador pondrá término a su gestión, presentando a las partes un informe sobre lo realizado.
 
@@ -2929,19 +2936,49 @@ f) Impedir durante la huelga, por medio de la fuerza, el ingreso a la empresa de
 
 Art. 405.- Práctica desleal de la empresa principal. La contratación directa o indirecta de los trabajadores en huelga de una empresa contratista o subcontratista por parte de la empresa principal será considerada práctica desleal.
 
-Art. 406.- Régimen sancionatorio. Las prácticas desleales serán sancionadas de la siguiente forma:
-1. En la micro empresa con multa de cinco a veinticinco unidades tributarias mensuales.
-2. En la pequeña empresa con multa de diez a cincuenta unidades tributarias mensuales.
-3. En la mediana empresa con multa de quince a ciento cincuenta unidades tributarias mensuales.
-4. En la gran empresa con multa de veinte a trescientas unidades tributarias mensuales.
-La cuantía de la multa, dentro del rango respectivo, será determinada teniendo en cuenta la gravedad de la infracción y el número de trabajadores involucrados o afiliados a la organización sindical.
-El incumplimiento de las estipulaciones contenidas en un instrumento colectivo y las prácticas desleales de la letra d) de los artículos 403 y 404 serán sancionados con una multa por cada trabajador involucrado de acuerdo a las siguientes reglas:
-1. En la micro y pequeña empresa con multa de una a diez unidades tributarias mensuales.
-2. En la mediana empresa con multa de cinco a cincuenta unidades tributarias mensuales.
-3. En la gran empresa con multa de diez a cien unidades tributarias mensuales.
-En caso de reincidencia en las medianas y grandes empresas, esta será sancionada de conformidad a lo dispuesto en el inciso quinto del artículo 506 de este Código.
-Las multas a que se refieren los incisos anteriores serán a beneficio del Fondo de Formación Sindical y Relaciones Laborales Colaborativas, administrado por el Ministerio del Trabajo y Previsión Social.
-Lo dispuesto en los incisos anteriores es sin perjuicio de la responsabilidad penal en los casos en que las conductas sancionadas como prácticas desleales configuren faltas, simples delitos o crímenes.
+Art. 406.- Régimen sancionatorio. Las
+prácticas desleales serán sancionadas de la
+siguiente forma:
+1. En la micro empresa con multa de cinco a
+veinticinco unidades tributarias mensuales.
+2. En la pequeña empresa con multa de diez
+a cincuenta unidades tributarias mensuales.
+3. En la mediana empresa con multa de
+quince a ciento cincuenta unidades tributarias
+mensuales.
+4. En la gran empresa con multa de veinte a
+trescientas unidades tributarias mensuales.
+La cuantía de la multa, dentro del rango
+respectivo, será determinada teniendo en cuenta
+la gravedad de la infracción y el número de
+trabajadores involucrados o afiliados a la
+organización sindical.
+El incumplimiento de las estipulaciones
+contenidas en un instrumento colectivo y las
+prácticas desleales de la letra d) de los
+artículos 403 y 404 serán sancionados con una
+multa por cada trabajador involucrado de acuerdo
+a las siguientes reglas:
+1. En la micro y pequeña empresa con multa
+de una a diez unidades tributarias mensuales.
+2. En la mediana empresa con multa de cinco
+a cincuenta unidades tributarias mensuales.
+3. En la gran empresa con multa de diez a
+cien unidades tributarias mensuales.
+En caso de reincidencia en las medianas y
+grandes empresas, esta será sancionada de
+conformidad a lo dispuesto en el inciso sexto
+del artículo 506 de este Código.
+Las multas a que se refieren los incisos
+anteriores serán a beneficio del Fondo de
+Formación Sindical y Relaciones Laborales
+Colaborativas, administrado por el Ministerio
+del Trabajo y Previsión Social.
+Lo dispuesto en los incisos anteriores es
+sin perjuicio de la responsabilidad penal en los
+casos en que las conductas sancionadas como
+prácticas desleales configuren faltas, simples
+delitos o crímenes.
 
 Art. 407.- Procedimiento aplicable. El conocimiento y resolución de las infracciones por prácticas desleales en la negociación colectiva se sustanciará conforme a las normas establecidas en el Párrafo 6° del Capítulo II del Título I del Libro V del presente Código.
 Las acciones judiciales destinadas a declarar y sancionar las conductas descritas en los artículos anteriores podrán ser ejercidas por la o las organizaciones sindicales o el empleador, según el caso. La Inspección del Trabajo deberá denunciar al tribunal competente los hechos que estime constitutivos de prácticas desleales en la negociación colectiva, de los cuales tome conocimiento.
@@ -3133,10 +3170,6 @@ Habiendo sido notificada la demanda, la función cautelar del tribunal comprende
 Art. 445. En toda resolución que ponga término a la causa o resuelva un incidente, el juez deberá pronunciarse sobre el pago de las costas del procedimiento, tasando las procesales y regulando las personales, según proceda.
 Cuando el trabajador ha litigado con privilegio de pobreza, las costas personales a cuyo pago sea condenada la contraparte pertenecerán a la respectiva Corporación de Asistencia Judicial, al abogado de turno, o a quien la ley señale.
 
-Art. 454. El tribunal podrá de oficio, a partir de la recepción de la causa a prueba, decretar para mejor resolver cualquiera de las medidas a que se refiere el artículo 159 del Código de Procedimiento Civil u otras diligencias encaminadas a comprobar los hechos controvertidos.
-Toda medida para mejor resolver deberá cumplirse dentro del plazo de diez días contados desde la fecha de la resolución que la decreta. El tribunal, por resolución fundada, podrá ampliar este plazo prudencialmente, pero sin exceder de diez días contados desde la citación para oír sentencia.
-En ningún caso el tribunal podrá decretar estas medidas transcurridos diez días desde que se citó a las partes a oír sentencia.
-
 ##### Párrafo 3º
 Del procedimiento de aplicación general
 
@@ -3214,12 +3247,11 @@ El juez podrá formular a los absolventes las preguntas que estime pertinente, a
 Excepcionalmente, y por resolución fundada, el tribunal podrá ampliar el número de testigos cuando, de acuerdo a la naturaleza de los hechos a ser probados, ello se considere indispensable para una adecuada resolución del juicio.
 El juez podrá reducir el número de testigos de cada parte, e incluso prescindir de la prueba testimonial cuando sus manifestaciones pudieren constituir inútil reiteración sobre hechos suficientemente esclarecidos.
 Los testigos declararán bajo juramento o promesa de decir verdad en juicio. El juez, en forma expresa y previa a su declaración, deberá poner en conocimiento del testigo las sanciones contempladas en el artículo 209 del Código Penal, por incurrir en falso testimonio.
-No se podrá formular tachas a los testigos.
-Únicamente en la oportunidad a que se refiere el número 9 de este artículo, las partes podrán hacer las observaciones que estimen oportunas respecto de sus circunstancias personales y de la veracidad de sus manifestaciones.
+No se podrá formular tachas a los testigos. Únicamente en la oportunidad a que se refiere el número 9 de este artículo, las partes podrán hacer las observaciones que estimen oportunas respecto de sus circunstancias personales y de la veracidad de sus manifestaciones.
 La comparecencia del testigo a la audiencia de juicio, constituirá siempre suficiente justificación cuando su presencia fuere requerida simultáneamente para dar cumplimiento a obligaciones laborales, educativas o de otra naturaleza, y no le ocasionará consecuencias jurídicas adversas bajo circunstancia alguna.
 6) El tribunal y las partes podrán formular a los testigos las preguntas que estimen necesarias para el esclarecimiento de los hechos sobre los que versa el juicio. Podrán, asimismo, exigir que los testigos aclaren o precisen sus dichos.
 Estas preguntas no podrán formularse en forma asertiva, ni contener elementos de juicio que determinen la respuesta, ni referirse a hechos o circunstancias ajenas al objeto de la prueba, lo que calificará el tribunal sin más trámite.
-7) Si el oficio o informe del perito no fuere evacuado antes de la audiencia y su contenido fuere relevante para la resolución del asunto, el juez deberá, dentro de la misma audiencia, tomar las medidas inmediatas que fueren necesarias para su aportación en ella. Si al término de esta audiencia dichas diligencias no se hubieren cumplido, el Tribunal fijará para ese solo efecto una nueva audiencia que deberá llevarse a cabo dentro del más breve plazo.
+7) Si el oficio, informe del perito o el informe de la Dirección del Trabajo al que se refiere el inciso séptimo del artículo 3 no fuere evacuado antes de la audiencia y su contenido fuere relevante para la resolución del asunto, el juez deberá, dentro de la misma audiencia, tomar las medidas inmediatas que fueren necesarias para su aportación en ella. Si al término de esta audiencia dichas diligencias no se hubieren cumplido, el Tribunal fijará para ese solo efecto una nueva audiencia que deberá llevarse a cabo dentro del más breve plazo.
 8) Cuando se rinda prueba que no esté expresamente regulada en la ley, el tribunal determinará la forma de su incorporación al juicio, adecuándola, en lo posible, al medio de prueba más análogo.
 9) Practicada la prueba, las partes formularán, oralmente, en forma breve y precisa, las observaciones que les merezcan las pruebas rendidas y sus conclusiones.
 Con todo, si a juicio del juez hubiere puntos no suficientemente esclarecidos, podrá ordenar a las partes que los aclaren.
@@ -3467,15 +3499,22 @@ DE LA FISCALIZACION, DE LAS SANCIONES Y DE LA PRESCRIPCION
 
 Art. 505. La fiscalización del cumplimiento de la legislación laboral y su interpretación corresponde a la Dirección del Trabajo, sin perjuicio de las facultades conferidas a otros servicios administrativos en virtud de las leyes que los rigen.
 Los funcionarios públicos deberán informar a la Inspección del Trabajo respectiva, las infracciones a la legislación laboral de que tomen conocimiento en el ejercicio de su cargo.
+El Director del Trabajo podrá disponer consulta pública sobre las instrucciones, pronunciamientos y demás normas de carácter general que en el ejercicio de sus facultades dicte para la interpretación y aplicación de las leyes laborales y de seguridad y salud en el trabajo, a fin de que los interesados opinen y formulen propuestas sobre ellas. En todos aquellos casos en que la Dirección del Trabajo disponga de dicha consulta pública, deberá remitirla, además, al Consejo Superior Laboral.
+La Dirección del Trabajo establecerá y publicará el procedimiento para efectuar esta consulta, en el cual contemplará que las opiniones y propuestas sean de carácter público, formuladas a través de medios electrónicos, las que no tendrán carácter vinculante respecto de la autoridad.
+Esta consulta pública se entenderá sin perjuicio de lo dispuesto en la ley Nº 20.500, sobre asociaciones y participación ciudadana en la gestión pública.
 
 Artículo 505 bis. Para los efectos de este Código y sus leyes complementarias, los empleadores se clasificarán en micro, pequeña, mediana y gran empresa, en función del número de trabajadores.
 Se entenderá por micro empresa aquella que tuviere contratados de 1 a 9 trabajadores, pequeña empresa aquella que tuviere contratados de 10 a 49 trabajadores, mediana empresa aquella que tuviere contratados de 50 a 199 trabajadores y gran empresa aquella que tuviere contratados 200 trabajadores o más.
 
+Art. 505-A.- Sin perjuicio de las normas especiales que se establecen en este Título y en el decreto con fuerza de ley Nº 2, de 1967, del Ministerio del Trabajo y Previsión Social, que dispone la reestructuración y fija funciones de la Dirección del Trabajo, el procedimiento de fiscalización del cumplimiento de la legislación laboral, previsional y de seguridad y salud en el trabajo deberá ajustarse, especialmente, a los principios de responsabilidad, gratuidad, eficiencia, eficacia, coordinación, impugnabilidad de los actos administrativos, control, probidad administrativa, transparencia y publicidad que rigen la actuación de los órganos de la Administración del Estado. Lo anterior se hará en conformidad a las disposiciones del decreto con fuerza de ley Nº 1-19.653, del 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, y de la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
+El procedimiento de fiscalización que emplee la Dirección del Trabajo se regirá por una resolución dictada por el Jefe Superior del Servicio, en la cual se contemplará una enunciación de los derechos y deberes de los intervinientes e interesados en él, conforme a las normas mencionadas en el inciso anterior.
+
 Artículo 506. Las infracciones a este Código y sus leyes complementarias, que no tengan señalada una sanción especial, serán sancionadas de conformidad a lo dispuesto en los incisos siguientes, según la gravedad de la infracción.
-Para la micro empresa y la pequeña empresa, la sanción ascenderá de 1 a 10 unidades tributarias mensuales.
+Para la micro empresa de 1 a 5 unidades tributarias mensuales.
+Para la pequeña empresa de 1 a 10 unidades tributarias mensuales
 Tratándose de medianas empresas, la sanción ascenderá de 2 a 40 unidades tributarias mensuales.
 Tratándose de grandes empresas, la sanción ascenderá de 3 a 60 unidades tributarias mensuales.
-En el caso de las multas especiales que establece este Código, su rango se podrá duplicar y triplicar, según corresponda, si se dan las condiciones establecidas en los incisos tercero y cuarto de este artículo, respectivamente y de acuerdo a la normativa aplicable por la Dirección del Trabajo.
+En el caso de las multas especiales que establece este Código, su rango se podrá duplicar y triplicar, según corresponda, si se dan las condiciones establecidas en los incisos cuarto y quinto de este artículo, respectivamente y de acuerdo a la normativa aplicable por la Dirección del Trabajo.
 La infracción a las normas sobre fuero sindical se sancionará con multa de 14 a 70 unidades tributarias mensuales.
 
 Artículo 506 bis. El inspector del trabajo que constate en una micro o pequeña empresa una infracción legal o reglamentaria que no ponga en riesgo inminente la seguridad o la salud de los trabajadores podrá conceder un plazo de, a lo menos, cinco días hábiles para dar cumplimiento a las normas respectivas.
@@ -3486,17 +3525,25 @@ Artículo 506 ter. Tratándose de micro y pequeñas empresas, y en los casos en 
 La solicitud de sustitución deberá presentarse dentro del plazo de treinta días de notificada la resolución de multa administrativa.
 Autorizada la sustitución de la multa de conformidad a lo dispuesto precedentemente, si el empleador no cumpliere con su obligación de incorporarse en un programa de asistencia al cumplimiento o de asistencia a programas de capacitación, según corresponda, en el plazo de 60 días, procederá al aumento de la multa original, el que no podrá exceder de un 25% de su valor.
 
+Art. 506 quáter.- Para la determinación del monto de la sanción, dentro de los rangos a que se refiere el artículo 506, la resolución indicada en el artículo 505-A incluirá una categorización de ellas, y las clasificará en leves, graves y gravísimas, para lo cual se considerarán como criterios la naturaleza de la infracción, la afectación de derechos laborales, el número de trabajadores afectados y la conducta del empleador.
+
 Artículo 507.- Las acciones judiciales derivadas de la aplicación del inciso cuarto del artículo 3° de este Código podrán ser ejercidas por las organizaciones sindicales o trabajadores de las respectivas empresas que consideren que sus derechos laborales o previsionales han sido afectados.
 Estas acciones podrán interponerse en cualquier momento, salvo durante el período de negociación colectiva a que se refiere el Capítulo I del Título II del Libro IV de este Código; si el procedimiento judicial iniciado sobrepasa la fecha de presentación del proyecto de contrato colectivo, los plazos y efectos del proceso de negociación deberán suspenderse mientras se resuelve, entendiéndose para todos los efectos legales prorrogada la vigencia del instrumento colectivo vigente hasta 30 días después de ejecutoriada la sentencia, día en que se reanudará la negociación en la forma que determine el tribunal, de acuerdo con lo dispuesto en la ley.
 La sentencia definitiva que dé lugar total o parcialmente a las acciones entabladas deberá contener en su parte resolutiva:
 1. El pronunciamiento e individualización de las empresas que son consideradas como un solo empleador para efectos laborales y previsionales, conforme a lo señalado en el inciso cuarto del artículo 3° de este Código.
 2. La indicación concreta de las medidas a que se encuentra obligado el empleador dirigidas a materializar su calidad de tal, así como aquellas destinadas al cumplimiento de todas las obligaciones laborales y previsionales y al pago de todas las prestaciones que correspondieren; bajo apercibimiento de multa de 50 a 100 unidades tributarias mensuales, la que podrá repetirse hasta obtener el debido cumplimiento de lo ordenado.
-3. La determinación acerca de si la alteración de la individualidad del empleador se debe o no a la simulación de contratación de trabajadores a través de terceros, o bien a la utilización de cualquier subterfugio, ocultando, disfrazando o alterando su individualización o patrimonio, y si ello ha tenido como resultado eludir el cumplimiento de las obligaciones laborales y previsionales que establece la ley o la convención. Si así lo determina, deberá señalar de manera precisa las conductas que constituyen dicha simulación o subterfugio y los derechos laborales y previsionales que por esta vía se hubieren vulnerado, debiendo aplicar al infractor una multa de 20 a 300 unidades tributarias mensuales. En estos casos, será aplicable a las multas señaladas lo dispuesto en el inciso quinto del artículo 506 de este Código.
+3. La determinación acerca de si la alteración de la individualidad del empleador se debe o no a la simulación de contratación de trabajadores a través de terceros, o bien a la utilización de cualquier subterfugio, ocultando, disfrazando o alterando su individualización o patrimonio, y si ello ha tenido como resultado eludir el cumplimiento de las obligaciones laborales y previsionales que establece la ley o la convención. Si así lo determina, deberá señalar de manera precisa las conductas que constituyen dicha simulación o subterfugio y los derechos laborales y previsionales que por esta vía se hubieren vulnerado, debiendo aplicar al infractor una multa de 20 a 300 unidades tributarias mensuales. En estos casos, será aplicable a las multas señaladas lo dispuesto en el inciso sexto del artículo 506 de este Código.
 Quedan comprendidos dentro del concepto de subterfugio referido en el párrafo anterior, cualquier alteración de mala fe realizada a través del establecimiento de razones sociales distintas, la creación de identidades legales, la división de la empresa, u otras que signifiquen para los trabajadores disminución o pérdida de derechos laborales individuales o colectivos, en especial entre los primeros las gratificaciones o las indemnizaciones por años de servicios y entre los segundos el derecho a sindicalización o a negociar colectivamente.
 La sentencia definitiva se aplicará respecto de todos los trabajadores de las empresas que son consideradas como un solo empleador para efectos laborales y previsionales.
 Las acciones a que se refieren los incisos precedentes podrán ejercerse mientras perdure la situación descrita en el inciso cuarto del artículo 3° de este Código, sin perjuicio de lo dispuesto en el inciso segundo del presente artículo.
+En caso de que las situaciones descritas en el inciso cuarto del artículo 3 de este Código hayan sido modificadas sustancialmente con posterioridad a la declaración de único empleador, y siempre que hayan transcurrido a lo menos dos años desde que quedó firme la sentencia que efectuó tal declaración, se podrá solicitar, ante el Juzgado de Letras del Trabajo correspondiente, el término de la calificación de las empresas como un solo empleador, por aquellas que hubieren sido consideradas en tal calificación. Con todo, podrá efectuarse la solicitud antes de dicho plazo si ésta se basa en el hecho de que una de las empresas comprendidas en la declaración ha cambiado de dueño y no existe entre ellas un controlador común.
+Promovida la solicitud, deberá notificarse a quien haya sido parte del juicio en el cual se realizó declaración de único empleador, siempre que mantenga relación laboral vigente con éste, y a las organizaciones sindicales existentes y vigentes en las empresas comprendidas en la declaración, quienes podrán oponerse a la solicitud y hacerse parte dentro del plazo de quince días. Presentada una o más oposiciones, el juez citará a las partes a una audiencia única de conciliación, contestación y prueba, la que deberá celebrarse dentro de los quince días siguientes al vencimiento del plazo para oponerse y hacerse parte, y se sustanciará de acuerdo a las reglas del procedimiento monitorio. En caso de no presentarse oposición alguna, el juez resolverá con los antecedentes aportados por el solicitante. Si el tribunal acoge la solicitud, deberá señalar en su sentencia las medidas concretas dirigidas a materializar dicha situación.
 
-Art. 508. Las notificaciones que realice la Dirección del Trabajo se podrán efectuar por carta certificada, dirigida al domicilio que las partes hayan fijado en el contrato de trabajo, en el instrumento colectivo o proyecto de instrumento cuando se trate de actuaciones relativas a la negociación colectiva, al que aparezca de los antecedentes propios de la actuación de que se trate o que conste en los registros propios de la mencionada Dirección. La notificación se entenderá practicada al sexto día hábil contado desde la fecha de su recepción por la oficina de Correos respectiva, de lo que deberá dejarse constancia por escrito.
+Art. 508. Las notificaciones, citaciones y comunicaciones legales que realice la Dirección del Trabajo se deberán efectuar mediante correo electrónico, sin perjuicio de lo señalado en el inciso siguiente. Para estos efectos, cada empleador, trabajador, organización sindical, director sindical o cualquier otra persona o entidad que se relacione con la Dirección del Trabajo, deberá registrar un correo electrónico u otro medio digital definido por la ley, donde deberán practicarse las notificaciones, citaciones y comunicaciones, el que se considerará vigente para todos los efectos legales mientras no sea modificado en el portal electrónico de la mencionada Dirección. Las notificaciones, citaciones y comunicaciones a través de correo electrónico u otro medio digital definido por la ley, producirán pleno efecto legal y se entenderán practicadas al tercer día hábil siguiente contado desde la fecha de la emisión del referido correo.
+Con todo, la Dirección del Trabajo podrá notificar a los usuarios:
+a) Personalmente o por carta certificada, cuando el usuario no tenga registrado en el portal de la Dirección del Trabajo un correo electrónico; o
+b) De una forma diversa, en cuanto así haya sido solicitado de acuerdo al procedimiento establecido en el inciso primero del artículo 516.
+En cualquier caso, cuando la notificación sea realizada por carta certificada, ésta deberá ser dirigida al domicilio que las partes hayan fijado en el contrato de trabajo, en el instrumento colectivo o proyecto de instrumento, cuando se trate de actuaciones relativas a la negociación colectiva, al que aparezca de los antecedentes propios de la actuación de que se trate, o que conste en los registros propios de la mencionada Dirección, y se entenderá practicada al sexto día hábil contado desde la fecha de su recepción por la oficina de Correos respectiva, de lo que se dejará constancia por escrito.
 
 Art. 509. Las personas que incurran en falsedad en el otorgamiento de certificados, permisos o estado de salud, en falsificación de éstos, o en uso malicioso de ellos, serán sancionadas con las penas previstas en el artículo 202 del Código Penal.
 
@@ -3510,12 +3557,33 @@ Con todo, la interposición de un reclamo administrativo debidamente notificado 
 Artículo 511. Facúltase al Director del Trabajo, en los casos en que el afectado no hubiere recurrido de conformidad al artículo 503 y no hubiere solicitado la sustitución del artículo 506 ter de este Código, para reconsiderar las multas administrativas impuestas por funcionarios de su dependencia en la forma siguiente:
 1. Dejando sin efecto la multa, cuando aparezca de manifiesto que se ha incurrido en un error de hecho al aplicar la sanción.
 2. Rebajando la multa, cuando se acredite fehacientemente haber dado íntegro cumplimiento, a las disposiciones legales, convencionales o arbitrales cuya infracción motivó la sanción.
-Si dentro de los quince días siguientes de notificada la multa, el empleador corrigiere la infracción, el monto de la multa se rebajará, a lo menos, en un cincuenta por ciento. Tratándose de la micro y pequeña empresa, la multa se rebajará, a lo menos, en un ochenta por ciento.
+Si dentro de los quince días hábiles siguientes de notificada la multa, el empleador corrigiere la infracción, el monto de la multa se rebajará, a lo menos, en un cincuenta por ciento. Tratándose de la micro y pequeña empresa, la multa se rebajará, a lo menos, en un ochenta por ciento.
+Todos los plazos de días establecidos en este Título son de días hábiles y se computarán de acuerdo a lo dispuesto en el artículo 25 de la ley Nº 19.880.
 
 Art. 512. El Director del Trabajo hará uso de esta facultad mediante resolución fundada, a solicitud escrita del interesado, la que deberá presentarse dentro del plazo de treinta días de notificada la resolución que aplicó la multa administrativa.
-Esta resolución será reclamable ante el Juez de Letras del Trabajo dentro de quince días de notificada y en conformidad al artículo 474 de este Código.
+Esta resolución será reclamable ante el Juez de Letras del Trabajo dentro de quince días de notificada y en conformidad al artículo 503 de este Código.
 
 Art. 513. Toda persona que contrate los servicios intelectuales o materiales de terceros, que esté sujeta a la fiscalización de la Dirección del Trabajo, deberá dar cuenta a la Inspección del Trabajo correspondiente dentro de los tres días hábiles siguientes a que conoció o debió conocer del robo o hurto de los instrumentos determinados en el artículo 31 del decreto con fuerza de ley N.° 2, de 1967, del Ministerio del Trabajo y Previsión Social, que el empleador está obligado a mantener en el lugar de trabajo. El empleador sólo podrá invocar la pérdida de los referidos documentos si hubiere cumplido con el trámite previsto anteriormente y hubiese, además, efectuado la denuncia policial respectiva.
+
+Art. 514.- La Dirección del Trabajo, para hacer efectivas sus competencias y facultades podrá acceder en forma electrónica a toda la documentación obligatoria laboral y de seguridad social de los empleadores y empresas que conste en su sitio electrónico.
+La Dirección del Trabajo se deberá relacionar y comunicar legalmente, incluyendo las notificaciones, citaciones y comunicaciones, con los empleadores, trabajadores, organizaciones y directores sindicales y usuarios en general, mediante medios electrónicos y, en ese caso, todos los usuarios podrán realizar sus trámites, actuaciones, requerimientos y solicitudes, por los mismos medios electrónicos, cumpliendo las modalidades y procedimientos que establezca para tal efecto, mediante resolución.
+La Dirección deberá disponer de un sistema electrónico para la tramitación y seguimiento de las denuncias, procesos de fiscalización, solicitudes de pronunciamiento y consultas que tengan los usuarios respecto de trámites o procesos en curso, de los cuales sean parte.
+Todas las actuaciones que se realicen en forma electrónica de conformidad a este artículo, producirán los mismos efectos legales que aquellas realizadas en forma presencial o documental.
+
+Art. 515.- Todo empleador deberá mantener registrado en el sitio electrónico de la Dirección del Trabajo una dirección de correo electrónico, la cual se considerará vigente para todos los efectos legales, mientras no sea modificado en el mismo sitio.
+Un reglamento del Ministerio del Trabajo y Previsión Social, previo informe de la Dirección del Trabajo, determinará los datos y la documentación, de aquellos a los que se refiere el artículo 31 del decreto con fuerza de ley Nº 2, de 1967, del Ministerio del Trabajo y Previsión Social, que los empleadores deberán mantener obligatoriamente en el referido sitio. Incorporada dicha información en este registro electrónico laboral, los empleadores podrán centralizar tales documentos en un solo lugar, el que deberá ser informado previamente a la Dirección del Trabajo. El reglamento establecerá las modalidades y procedimientos mediante los cuales se implementará y mantendrá actualizado el mencionado registro.
+La Dirección del Trabajo, previo requerimiento, deberá proporcionar a los tribunales de justicia la información contenida en el registro electrónico laboral.
+
+Art. 516.- No obstante lo señalado en los artículos 514 y 515, los empleadores, trabajadores, organizaciones, directores sindicales y usuarios en general que carezcan de medios electrónicos, no tengan acceso a ellos o sólo actuaren excepcionalmente a través de tales medios, podrán solicitar por escrito y de forma fundada, ante la Dirección del Trabajo, que la relación y comunicación con ésta se realice mediante forma diversa, debiendo ella pronunciarse dentro del tercer día, según lo establezca la resolución a la que se refiere el inciso segundo del artículo 514. Las relaciones y comunicaciones se realizarán en la forma solicitada si fuere posible o mediante carta certificada dirigida al domicilio que debiere designar al presentar esta solicitud.
+Asimismo, las comunicaciones podrán hacerse en la oficina de la Inspección del Trabajo, si el interesado se apersonare a recibirlas, dejándose constancia de ello en la plataforma electrónica o firmando en el expediente la debida recepción, según corresponda, consignándose la fecha y hora de la comunicación en ambos casos. Si el interesado requiriere copia del acto o resolución que se le comunica o notifica, se le dará, sin más trámite, en el mismo momento, en el formato que se tramite el procedimiento o en que pueda obtenerse del portal electrónico de la Dirección del Trabajo.
+
+Art. 517.- La Dirección del Trabajo podrá celebrar convenios con entidades públicas y privadas que administren registros de datos referidos a empleadores, empresas, trabajadores y organizaciones sindicales para la obtención, tratamiento y mantención de datos exclusivamente vinculados con obligaciones laborales, de seguridad social y de seguridad y salud en el trabajo.
+La Dirección del Trabajo tendrá la responsabilidad de efectuar el tratamiento de los datos personales de los trabajadores y empleadores sólo para el cumplimiento de sus funciones legales y con sujeción a las normas de la ley Nº 19.628, sobre protección de la vida privada. Se entenderá como tratamiento de datos lo dispuesto en la letra o) del artículo 2 de la referida ley.
+La Dirección del Trabajo y su personal deberán guardar absoluta reserva y secreto de la información y de los datos personales que tomen conocimiento, sin perjuicio de las informaciones y certificaciones que deban proporcionar de conformidad a la ley. Asimismo, deberán abstenerse de usar los datos recopilados en beneficio propio o de terceros. Para efectos de lo dispuesto en el inciso segundo del artículo 125 del decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo, se estimará que los hechos que configuren infracciones a esta disposición vulneran gravemente el principio de probidad administrativa, sin perjuicio de las demás sanciones y responsabilidades que procedan y de lo dispuesto en el artículo 40 del decreto con fuerza de ley Nº 2, de 1967, del Ministerio del Trabajo y Previsión Social.
+
+Art. 518.- Para el ejercicio de la labor fiscalizadora la Dirección del Trabajo podrá disponer el uso de vehículos fiscales en días inhábiles y en horario nocturno.
+
+Art. 519.- La Dirección del Trabajo podrá hacerse parte o querellarse en los procesos a que diere lugar un hecho que revista caracteres de delito, en relación a los trámites que se desarrollen ante ella, o que se hubiere cometido en contra de alguno de sus funcionarios en el ejercicio de sus deberes.
 
 ## ARTICULOS TRANSITORIOS
 
