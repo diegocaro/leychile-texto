@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2021-10-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2021-10-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2021-10-01
-fetched_at: 2026-08-03T04:38:18.153451+00:00
+version_date: 2021-10-21
+fetched_at: 2026-08-03T04:38:36.163987+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -512,7 +512,7 @@ Estos permisos deberán hacerse efectivos a partir del día del respectivo falle
 El trabajador al que se refiere el inciso primero gozará de fuero laboral por un mes, a contar del respectivo fallecimiento. Sin embargo, tratándose de trabajadores cuyos contratos de trabajo sean a plazo fijo o por obra o servicio determinado, el fuero los amparará sólo durante la vigencia del respectivo contrato si éste fuera menor a un mes, sin que se requiera solicitar su desafuero al término de cada uno de ellos.
 Los días de permiso consagrados en este artículo no podrán ser compensados en dinero.
 
-Artículo 66 bis.- Las trabajadoras mayores de cuarenta años de edad y los trabajadores mayores de cincuenta, cuyos contratos de trabajo sean por un plazo superior a treinta días, tendrán derecho a medio día de permiso, una vez al año durante la vigencia de la relación laboral, para someterse a los exámenes de mamografía y próstata, respectivamente, pudiendo incluir otras prestaciones de medicina preventiva, tales como el examen de papanicolau, en las instituciones de salud públicas o privadas que corresponda. En el caso de los contratos celebrados por un plazo fijo, o para la realización de una obra o faena determinada, este derecho podrá ejercerse a partir de los treinta días de celebrado el contrato de trabajo, y en cualquier momento durante la vigencia de éste.
+Artículo 66 bis.- Las trabajadoras y los trabajadores, cuyos contratos de trabajo sean por un plazo superior a treinta días, tendrán derecho a medio día de permiso, una vez al año durante la vigencia de la relación laboral, para someterse a los exámenes de mamografía y próstata, respectivamente, pudiendo incluir otras prestaciones de medicina preventiva, tales como el examen de papanicolau, en las instituciones de salud públicas o privadas que corresponda. En el caso de los contratos celebrados por un plazo fijo, o para la realización de una obra o faena determinada, este derecho podrá ejercerse a partir de los treinta días de celebrado el contrato de trabajo, y en cualquier momento durante la vigencia de éste.
 El tiempo para realizar los exámenes, señalado en el inciso anterior, será complementado, en su caso, con el tiempo suficiente para los traslados hacia y desde la institución médica, considerando las condiciones geográficas, de transporte y la disponibilidad de equipamiento médico necesario.
 Para el ejercicio de este derecho, los trabajadores deberán dar aviso al empleador con una semana de anticipación a la realización de los exámenes; asimismo, deberán presentar con posterioridad a éstos, los comprobantes suficientes que acrediten que se los realizaron en la fecha estipulada.
 El tiempo en el que los trabajadores se realicen los exámenes, será considerado como trabajado para todos los efectos legales; asimismo, este permiso no podrá ser compensado en dinero, ni durante ni al término de la relación laboral, entendiéndose por no escrita cualquier estipulación en contrario.
