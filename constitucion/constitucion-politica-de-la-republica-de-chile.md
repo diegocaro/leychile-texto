@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2021-04-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2021-10-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2021-04-28
-fetched_at: 2026-08-03T04:36:54.878994+00:00
+version_date: 2021-10-25
+fetched_at: 2026-08-03T04:38:54.179702+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -111,7 +111,8 @@ Artículo 19.- La Constitución asegura a todas las personas:
 1º.- El derecho a la vida y a la integridad física y psíquica de la persona.
 La ley protege la vida del que está por nacer.
 La pena de muerte sólo podrá establecerse por delito contemplado en ley aprobada con quórum calificado.
-Se prohíbe la aplicación de todo apremio ilegítimo;
+Se prohíbe la aplicación de todo apremio ilegítimo.
+El desarrollo científico y tecnológico estará al servicio de las personas y se llevará a cabo con respeto a la vida y a la integridad física y psíquica. La ley regulará los requisitos, condiciones y restricciones para su utilización en las personas, debiendo resguardar especialmente la actividad cerebral, así como la información proveniente de ella;
 2º.- La igualdad ante la ley. En Chile no hay persona ni grupo privilegiados. En Chile no hay esclavos y el que pise su territorio queda libre. Hombres y mujeres son iguales ante la ley.
 Ni la ley ni autoridad alguna podrán establecer diferencias arbitrarias;
 3º.- La igual protección de la ley en el ejercicio de sus derechos.
