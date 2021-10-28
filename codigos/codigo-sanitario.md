@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2020-11-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2021-10-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2020-11-06
-fetched_at: 2026-08-03T04:32:54.769019+00:00
+version_date: 2021-10-28
+fetched_at: 2026-08-03T04:39:12.203163+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -976,9 +976,13 @@ Artículo 173° (164).- En todos los procedimientos judiciales a que diere lugar
 DE LAS SANCIONES Y MEDIDAS SANITARIAS
 
 Artículo 174° (165).- La infracción de cualquiera de las disposiciones de este Código o de sus reglamentos y de las resoluciones que dicten los Directores de los Servicios de Salud o el Director del Instituto de Salud Pública de Chile, según sea el caso, salvo las disposiciones que tengan una sanción especial, será castigada con multa de un décimo de unidad tributaria mensual hasta mil unidades tributarias mensuales. Las reincidencias podrán ser sancionadas hasta con el doble de la multa original.
-Las resoluciones que establezcan las infracciones y determinen las multas tendrán mérito ejecutivo y se harán efectivas de acuerdo con los artículos 434 y siguientes del Código de Procedimiento Civil.
 Las infracciones antes señaladas podrán ser sancionadas, además, con la clausura de establecimientos, recintos, edificios, casas, locales o lugares de trabajo donde se cometiere la infracción; con la cancelación de la autorización de funcionamiento o de los permisos concedidos; con la paralización de obras o faenas; con la suspensión de la distribución y uso de los productos de que se trate, y con el retiro, decomiso, destrucción o desnaturalización de los mismos, cuando proceda.
 Lo anterior es sin perjuicio de hacer efectivas las responsabilidades que establezcan otros cuerpos legales respecto de los hechos.
+
+Artículo 174 bis.- Las resoluciones que establezcan las infracciones y determinen las multas tendrán mérito ejecutivo y se harán exigibles por la Tesorería General de la República, en los términos previstos en el inciso segundo del artículo 35 del decreto ley N° 1.263, de 1975, orgánico de Administración Financiera del Estado.
+El retardo en el pago de estas multas devengará los intereses y reajustes establecidos en el artículo 53 del Código Tributario.
+La Tesorería General de la República hará uso del mecanismo contemplado en el artículo 6 del Estatuto Orgánico del Servicio de Tesorerías, cuyo texto refundido, coordinado, sistematizado y actualizado fue fijado por el decreto con fuerza de ley N° 1, de 1994, del Ministerio de Hacienda.
+Sin perjuicio de lo dispuesto en los incisos anteriores, en el pago de estas multas se podrá aplicar lo dispuesto en el artículo 192 del Código Tributario, en lo que corresponda.
 
 Artículo 175° (166).- En los casos en que la sanción consista en la cancelación de la autorización de funcionamiento o de los permisos concedidos, el Servicio Nacional de Salud comunicará este hecho a la Municipalidad respectiva para que proceda a cancelar la correspondiente patente.
 
@@ -990,7 +994,7 @@ Artículo 177° (168).- El Director General de Salud podrá, cuando se trate de 
 Artículo 178° (169).- La autoridad podrá también, como medida sanitaria, ordenar en casos justificados la clausura, prohibición de funcionamiento de casas, locales o establecimientos, paralización de faenas, decomiso, destrucción y desnaturalización de productos.
 Estas medidas podrán ser impuestas por el ministro de fe, con el solo mérito del acta levantada, cuando exista un riesgo inminente para la salud, de lo que deberá dar cuenta inmediata a su jefe directo. Copia del acta deberá ser entregada al interesado.
 
-Artículo 179° (170).- Las multas que se impongan por infracción a las disposiciones del presente Código y sus reglamentos o a las resoluciones del Director General de Salud, serán a beneficio del Servicio Nacional de Salud y no estarán afectas al recargo establecido por la ley N° 10.309. Las multas deberán integrarse directamente al organismo local de salud que las aplicó.
+Artículo 179.- Las multas que se impongan por infracción a las disposiciones de este Código y sus reglamentos o a las resoluciones de la autoridad sanitaria serán a beneficio fiscal.
 
 Artículo 180° (171).- Todos los objetos decomisados por el Servicio Nacional de Salud en virtud de las facultades que le confiere el presente Código, se destinarán a beneficio de esa Institución o, los destruirá, cuando proceda.
 No obstante, el Servicio podrá dejar los mencionados objetos en poder de su dueño siempre que puedan ser desnaturalizados y empleados en otro fines sin riesgo para la salud pública. En este caso el interesado deberá cumplir todas las exigencias que le formule el Servicio.
