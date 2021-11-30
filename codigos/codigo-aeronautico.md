@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=2015-05-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=2021-11-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 30287
-version_date: 2015-05-30
-fetched_at: 2026-08-03T03:14:39.541161+00:00
+version_date: 2021-11-30
+fetched_at: 2026-08-03T04:40:23.102447+00:00
 titulo_norma: "APRUEBA CODIGO AERONAUTICO"
 compuesto: LEY-18916
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -553,6 +553,22 @@ El transportador podrá expedir el billete de pasaje por cualquier medio, siempr
 El billete de pasaje hace fe de la celebración y de las condiciones del contrato de transporte. La falta, irregularidades o pérdida del billete no afectarán a la existencia ni a la validez del contrato.
 Con todo, el transportador estará obligado a tener a disposición de los pasajeros folletos informativos con especificación de sus derechos, en un lugar visible de sus oficinas de venta de pasajes y en los mostradores de los aeropuertos.
 
+Artículo 131 bis.- Cesión del derecho a ser transportado en vuelo de cabotaje. El pasajero podrá ceder libremente y sin costo alguno su derecho a ser transportado en un vuelo de cabotaje, por trayectos de ida y/o vuelta.
+La cesión sólo podrá realizarse hasta las veinticuatro horas previas al vuelo, y se perfeccionará por medio de la individualización del cedente y del cesionario en el formulario digital que el transportador deberá disponer al efecto en su sitio web oficial. En dicho documento, el transportador podrá solicitar, asimismo, los datos que permitan singularizar el billete de pasaje y demás aspectos necesarios para asegurar la correcta cesión del derecho. Lo anterior, también se podrá realizar presencialmente en las oficinas de venta de pasajes, los mostradores de los aeropuertos y agencias autorizadas con que cuente el transportador.
+Verificado el ingreso de la información antes indicada, se otorgará al cedente un comprobante de la transferencia.
+Será responsabilidad exclusiva del cedente que la información proporcionada sea precisa y correcta.
+Sin perjuicio de lo dispuesto en los incisos anteriores, la cesión del derecho en cuestión se podrá realizar únicamente entre personas naturales y sólo por una vez por cada billete de pasaje, siendo inválida cualquier transferencia ulterior por parte del cesionario.
+De igual modo, en un año calendario, el pasajero sólo podrá ceder su derecho hasta por un máximo de dos veces por transportador, a razón de una transferencia por cada semestre.
+Las cesiones no podrán efectuarse en ningún caso con fines de lucro, tampoco como actividad comercial o en forma habitual. Sin perjuicio de lo anterior, las cesiones que se realicen en virtud de este artículo, siempre que se hagan hasta por el máximo de veces señalado en el inciso anterior, no configurarán habitualidad en la actividad.
+Lo señalado en el presente artículo, es sin perjuicio de las condiciones de mayor flexibilidad que el transportador ofrezca o pacte con el pasajero.
+
+Artículo 131 ter.- Derecho a retracto. Los pasajeros tendrán derecho a poner término unilateralmente al contrato de transporte aéreo en vuelos de cabotaje, dentro de las cuarenta y ocho horas siguientes de adquirido un billete de pasaje, para los viajes que se compren al menos siete días corridos antes de la fecha y hora de salida programada del vuelo. Los pasajeros, bajo esas condiciones, podrán dejar sin efecto el contrato y recibir un reembolso completo de lo pagado, sin penalización.
+Con todo, en el evento de que la salida programada del vuelo se verifique en un plazo igual o superior a los ciento ochenta días de adquirido el billete de pasaje, el plazo de retractación podrá ejercerse dentro de los siete días posteriores contados desde la celebración del contrato de transporte aéreo. En estos casos, los pasajeros, de igual forma, recibirán la completa devolución de lo pagado, sin penalización, dejándose sin efecto la convención.
+Para el ejercicio de esta facultad, los transportadores deberán contar con un formulario digital al efecto, dispuesto en su sitio web oficial, en donde el pasajero pueda manifestar su expresa voluntad de retractarse. Lo anterior, también se podrá realizar presencialmente en las oficinas de venta de pasajes, los mostradores de los aeropuertos y agencias autorizadas con que cuente el transportador.
+La devolución producto del ejercicio del derecho a retracto deberá ser reembolsada por el transportador, con o sin requerimiento del pasajero, dentro del plazo de diez días, a través del mismo medio utilizado para pagar el billete de pasaje. Dicho plazo se extenderá a treinta días en los casos referidos en el inciso segundo de este artículo.
+No obstante, en caso de no haberse podido materializar dicho reembolso o en caso de haberse verificado el pago en efectivo, el transportador deberá contactar al pasajero con el fin de que éste señale el medio para efectuar el reembolso, contacto que deberá realizarse en el plazo máximo de diez días contado desde que debió haberse verificado el viaje. Dicho reembolso deberá efectuarse en el plazo máximo de diez días contado desde que el pasajero señale al transportador la información necesaria para estos efectos. En caso de retraso injustificado, dicho reembolso se recargará en el cincuenta por ciento en favor del pasajero cada treinta días.
+Una vez vencido el primer período de treinta días sin verificarse el reembolso al pasajero, podrá este último optar por exigir el reembolso al agente autorizado que haya realizado la venta, o bien, persistir en el reembolso y recargos conforme al inciso precedente. Lo anterior, sin perjuicio del derecho del agente autorizado a repetir contra el transportador, cuando corresponda.
+
 Artículo 132.- El transportador puede rehusar o condicionar el transporte de aquellos pasajeros cuyo estado o condición constituyere un peligro para la seguridad, higiene o buen orden a bordo, o cuando requirieren atención o cuidado especial durante el viaje.
 Un reglamento del Ministerio de Defensa Nacional establecerá las condiciones técnicas y de seguridad bajo las cuales se autorizará el transporte de personas con discapacidad, orgánicamente descompensadas, agónicas o inconscientes.
 
@@ -600,6 +616,11 @@ Artículo 133 D.- Del Derecho a Reparación del Transportador. El transportador 
 Artículo 133 E.- En caso que el transportador acomode a un pasajero en una clase superior a la que había pagado, y esto se deba a cualquier causa ajena a la voluntad del pasajero, el transportador no podrá exigir pago suplementario alguno.
 
 Artículo 133 F.- Las acciones individuales o colectivas destinadas a sancionar las infracciones a las normas contenidas en este Párrafo y a la obtención de las prestaciones, reparaciones e indemnizaciones que en él se establecen, se tramitarán conforme al procedimiento y ante los tribunales señalados en el Título IV de la ley Nº 19.496, sobre protección de los derechos de los consumidores, y para efectos de lo dispuesto en esta ley, será también competente, a elección del pasajero, el tribunal de su domicilio.
+
+Artículo 133 G.- El que, en inobservancia de lo dispuesto en el inciso séptimo del artículo 131 bis, ceda su derecho a ser transportado en un vuelo de cabotaje, o facilite dicha cesión, será sancionado con multa de once a veinte unidades tributarias mensuales.
+Con la misma pena se sancionará al cesionario del aludido derecho que, en inobservancia de lo establecido en el inciso quinto del artículo 131 bis, lo transfiera nuevamente, a cualquier título, o al que facilite dicha operación.
+En caso de reiteración de las conductas consideradas en los incisos anteriores, se aplicará la pena de presidio menor en su grado medio y multa de veintiuna a treinta unidades tributarias mensuales.
+A los delitos consagrados en los incisos anteriores no les será aplicable lo dispuesto en el artículo 201 de este Código.
 
 #### 2.- Del transporte de equipaje
 
