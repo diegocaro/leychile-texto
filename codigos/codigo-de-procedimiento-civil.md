@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2019-05-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2021-11-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2019-05-14
-fetched_at: 2026-08-03T04:21:10.916003+00:00
+version_date: 2021-11-30
+fetched_at: 2026-08-03T04:40:59.141172+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -304,6 +304,8 @@ NOTA:
 Véase la Convención Interamericana sobre Exhortos o Cartas Rogatorias, promulgada por Decreto 644, Relaciones Exteriores, publicado el 18.10.1976.
 
 Artículo 77.- Sin perjuicio de lo señalado en el artículo precedente, toda comunicación dirigida por un tribunal a otro deberá ser conducida a su destino por vía del sistema de tramitación electrónica del Poder Judicial, y no siendo posible lo anterior, por el medio de comunicación idóneo más expedito.
+
+Título VII bis "De la comparecencia voluntaria en audiencias por medios remotos"
 
 ### Título VIII
 DE LAS REBELDIAS

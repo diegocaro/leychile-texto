@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2020-01-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2021-11-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 2020-01-16
-fetched_at: 2026-08-03T04:24:32.596714+00:00
+version_date: 2021-11-30
+fetched_at: 2026-08-03T04:40:41.123018+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -269,7 +269,7 @@ Si la Corte Marcial del Ejército, Fuerza Aérea y Carabineros funcionare dividi
 
 Art. 51. El Oficial General de la Armada y los Oficiales de Justicia que no integren las Cortes Marciales por derecho propio, serán designados por el Presidente de la República.
 Los Ministros de Corte de Apelaciones que integren las Cortes Marciales durarán tres años en sus cargos. Serán designados por sorteo entre sus miembros, el que se practicará por los Presidentes de los respectivos Tribunales, con asistencia del Secretario, dentro de la última semana del mes de enero del año en que corresponda dicha designación, y del cual se excluirá a los Ministros que concluyan su período. En el caso previsto en el artículo 49, el sorteo se efectuará dentro de los diez días siguientes de recibida la transcripción del acuerdo a que se refiere el inciso primero de dicho artículo; los Ministros que se designaren integrarán la segunda Sala y durarán en sus funciones hasta el 31 de diciembre de ese año.
-Con todo, en aquellos casos en que se haya nombrado, según lo dispuesto en los artículos 559 y 560 del Código Orgánico de Tribunales, a un Ministro de la Corte de Apelaciones integrante de la Corte Marcial como Ministro Visitador, la Corte Suprema, por acuerdo del pleno, podrá extender hasta por dos años el plazo de duración en el cargo señalado en el inciso anterior, principalmente en los casos en que el Ministro Visitador respectivo se encuentre investigando causas de alta complejidad, duración e impacto público.
+Con todo, en aquellos casos en que se haya nombrado, según lo dispuesto en los artículos 559 y 560 del Código Orgánico de Tribunales, a un Ministro de la Corte de Apelaciones integrante de la Corte Marcial como Ministro Visitador, la Corte Suprema, por acuerdo del pleno, podrá extender hasta por cuatro años el plazo de duración en el cargo señalado en el inciso anterior, principalmente en los casos en que el Ministro Visitador respectivo se encuentre investigando causas de alta complejidad, duración e impacto público.
 
 Art. 52. En caso de ausencia o inhabilidad legal, los Ministros de las Cortes de Apelaciones serán subrogados por el Ministro de la Corte respectiva, siguiendo el orden de mayor antigüedad.
 En los mismos casos, los Auditores Generales y demás Oficiales de Justicia serán subrogados por los Oficiales de Justicia respectivos, siguiendo el orden de mayor antigüedad.

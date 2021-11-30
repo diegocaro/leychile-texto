@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2021-02-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2021-11-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2021-02-19
-fetched_at: 2026-08-03T04:35:04.281442+00:00
+version_date: 2021-11-30
+fetched_at: 2026-08-03T04:41:05.144063+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -241,6 +241,7 @@ Sólo podrán concurrir a las decisiones del tribunal los jueces que hubieren as
 La decisión deberá ser adoptada por la mayoría de los miembros de la sala.
 Cuando existiere dispersión de votos en relación con una decisión, la sentencia o la determinación de la pena si aquélla fuere condenatoria, el juez que sostuviere la opinión más desfavorable al condenado deberá optar por alguna de las otras.
 Si se produjere desacuerdo acerca de cuál es la opinión que favorece más al imputado, prevalecerá la que cuente con el voto del juez presidente de la sala.
+Sin perjuicio de lo dispuesto en el presente artículo y en el artículo 281 del Código Procesal Penal, podrán ser resueltas por un único juez del tribunal de juicio oral en lo penal la fijación de día y hora para la realización de audiencias. Asimismo, podrán ser resueltas por un único juez del tribunal de juicio oral en lo penal las resoluciones de mero trámite, tales como téngase presente y traslados; pedir cuenta de oficios e informes; y tramitación de exhortos.
 
 Art. 20. Derogado.
 
@@ -1789,21 +1790,22 @@ Art. 298. Derogado.
 
 Art. 299. Hecho el nombramiento de un juez por el Presidente de la República y expedido el correspondiente título a favor del nombrado, prestará éste el juramento prevenido en los artículos siguientes.
 
-Art. 300. Los miembros de la Corte Suprema prestarán su juramento ante el presidente del mismo tribunal.
+Art. 300. Los miembros de la Corte Suprema prestarán su juramento o promesa presencialmente o por vía remota mediante videoconferencia ante el presidente del mismo tribunal.
 Los de las Cortes de Apelaciones ante el presidente del respectivo tribunal.
 Ante el mismo funcionario lo prestarán también los jueces de letras.
 
-Art. 301. Los jueces podrán prestar su juramento ante otras autoridades gubernativas o judiciales que las indicadas en el artículo anterior, siempre que el Presidente de la República, por consideraciones de economía o de conveniencia para la prontitud de la administración de justicia, así lo ordenare.
-En tal caso la autoridad que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que, según dicho artículo, habría correspondido intervenir en la diligencia, remitiéndole lo obrado para los fines del artículo 305.
+Art. 301. Los jueces podrán prestar su juramento o promesa presencialmente o por vía remota mediante videoconferencia ante otras autoridades gubernativas o judiciales que las indicadas en el artículo anterior, siempre que el Presidente de la República, por consideraciones de economía o de conveniencia para la prontitud de la administración de justicia, así lo ordenare.
+En tal caso la autoridad que haya recibido el juramento o promesa dará lo más pronto posible el respectivo aviso a la que, según dicho artículo, habría correspondido intervenir en la diligencia, remitiéndole lo obrado para los fines del artículo 305.
 
 Art. 302. Cuando un juez que ha prestado el juramento correspondiente fuere nombrado para un puesto análogo al que desempeña, no será obligado a prestar nuevo juramento.
 
-Art. 303 Tampoco serán obligados a prestar juramento los fiscales judiciales que, con arreglo a lo establecido en el presente Código, fueren llamados a integrar accidentalmente una Corte de Apelaciones o la Corte Suprema.
-Los abogados llamados a integrar una Corte de Apelaciones sólo prestarán juramento la primera vez que entren a desempeñar este encargo; pero respecto de ellos, el juramento prestado en un tribunal no se tomará en cuenta en otro, para el efecto de este artículo.
+Art. 303 Tampoco serán obligados a prestar juramento o promesa los fiscales judiciales que, con arreglo a lo establecido en el presente Código, fueren llamados a integrar accidentalmente una Corte de Apelaciones o la Corte Suprema.
+Los abogados llamados a integrar una Corte de Apelaciones sólo prestarán juramento o promesa la primera vez que entren a desempeñar este encargo; pero respecto de ellos, el juramento o promesa prestado en un tribunal no se tomará en cuenta en otro, para el efecto de este artículo.
+El juramento o promesa dispuesto en los incisos anteriores podrá realizarse de manera presencial o por vía remota mediante videoconferencia.
 
-Art. 304. Todo juez prestará su juramento al tenor de la fórmula siguiente:
-"¿Juráis por Dios Nuestro Señor y por estos Santos Evangelios que, en ejercicio de vuestro ministerio, guardaréis la Constitución y las leyes de la República?"
-El interrogado responderá: "Sí juro"; y el magistrado que le toma el juramento añadirá: "Si así lo hiciéreis, Dios os ayude, y si no, os lo demande".
+Art. 304. Todo juez prestará su juramento o promesa presencialmente o por vía remota mediante videoconferencia, al tenor de la siguiente fórmula:
+"¿Juráis o prometéis, cumplir, en el ejercicio de vuestro cargo, con lo que establece la Constitución Política y las leyes de la República?".
+El interrogado responderá: "Sí juro" o "Sí prometo".
 
 Art. 305. Prestado que sea el juramento, se hará constar la diligencia en el libro respectivo, y de ella se dará testimonio al nombrado, el cual entrará inmediatamente en el ejercicio de sus funciones.
 
@@ -2164,7 +2166,7 @@ Art. 390. Los receptores son ministros de fe pública encargados de hacer saber 
 Deben recibir, además, las informaciones sumarias de testigos en actos de jurisdicción voluntaria o en juicios civiles y actuar en estos últimos como ministros de fe en la recepción de la prueba testimonial y en la diligencia de absolución de posiciones.
 
 Art. 391. Los receptores estarán al servicio de la Corte Suprema, de las Cortes de Apelaciones y de los juzgados de letras del territorio jurisdiccional al que estén adscritos.
-Los receptores ejercerán sus funciones en todo el territorio jurisdiccional del respectivo tribunal. Sin embargo, también podrán practicar las actuaciones ordenadas por éste, en otra comuna comprendida dentro del territorio jurisdiccional de la misma Corte de Apelaciones.
+Los receptores ejercerán sus funciones en todo el territorio jurisdiccional del respectivo tribunal. Sin embargo, también podrán practicar las actuaciones ordenadas por éste, en otra comuna comprendida dentro del territorio jurisdiccional de la misma Corte de Apelaciones. Con todo, los receptores adscritos al territorio jurisdiccional de la Corte de Apelaciones de Santiago podrán ejercer sus funciones en el territorio jurisdiccional de la Corte de Apelaciones de San Miguel y viceversa. Las notificaciones judiciales que se practicaren en estas jurisdicciones no requerirán que el tribunal de origen exhorte al tribunal en cuyo territorio se haya de practicar la diligencia.
 
 Art. 392. Para cada comuna o agrupación de comunas que constituya el territorio jurisdiccional de juzgados de letras, habrá el número de receptores que determine el Presidente de la República, previo informe favorable de la respectiva Corte de Apelaciones.
 Sin perjuicio de lo anterior, podrá el tribunal de la causa designar receptor a un empleado de la secretaría del mismo tribunal para el solo efecto de que practique una diligencia determinada que no pueda realizarse por ausencia, inhabilidad u otro motivo calificado, por los receptores judiciales a que se refiere el inciso anterior. Esta designación deberá hacerse mediante resolución fundada, registrada electrónicamente conforme a lo dispuesto en el número 3º del artículo 384, dejándose constancia en el respectivo expediente.
@@ -2489,10 +2491,10 @@ Las funciones de los fiscales judiciales son, además, incompatibles con las ecl
 
 ### § 2. Juramento e instalación
 
-Art. 471. Los auxiliares de la Administración de Justicia antes de desempeñar sus cargos prestarán juramento al tenor de la fórmula siguiente: "¿Juráis por Dios Nuestro Señor y por estos Santos Evangelios que guardaréis la Constitución y las leyes de la República y que desempeñaréis fielmente las funciones de vuestro cargo?".
-El interrogado responderá: "Si juro", y el magistrado que le tome el juramento añadirá: "Si así lo hiciéreis, Dios os ayude; y si no, os lo demande".
-Los Fiscales judiciales, Relatores y Secretarios de Corte, prestarán juramento ante el Presidente del Tribunal del que formen parte.
-Los otros funcionarios auxiliares lo harán ante el Juez respectivo o ante el juez presidente si el tribunal estuviere compuesto por más de un juez. Si el Tribunal estuviere acéfalo lo prestarán ante el delegado presidencial regional o delegado presidencial provincial. La autoridad administrativa que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que le habría correspondido intervenir en la diligencia, remitiéndole lo obrado.
+Art. 471. Los auxiliares de la Administración de Justicia antes de desempeñar sus cargos prestarán juramento o promesa al magistrado presencialmente o por vía remota mediante videoconferencia al tenor de la siguiente fórmula: "¿Juráis o prometéis, cumplir, en el ejercicio de vuestro cargo, con lo que establece la Constitución Política y las leyes de la República?".
+El interrogado responderá: "Sí juro" o "Sí prometo".
+Los fiscales judiciales, relatores y secretarios de Corte prestarán juramento o promesa ante el Presidente del Tribunal del que formen parte de la misma forma dispuesta en el inciso primero.
+Los otros funcionarios auxiliares lo harán ante el juez respectivo o ante el juez presidente si el tribunal estuviere compuesto por más de un juez, también en la forma dispuesta en el inciso primero. Si el tribunal estuviere acéfalo lo prestarán ante el delegado presidencial regional o delegado presidencial provincial. La autoridad administrativa que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que le habría correspondido intervenir en la diligencia, remitiéndole lo obrado.
 
 Art. 472. Cuando algún fiscal judicial de las Cortes de Apelaciones que hubiere prestado el juramento correspondiente fuere nombrado para un puesto análogo al que desempeñaba, no será obligado a prestar nuevo juramento.
 
