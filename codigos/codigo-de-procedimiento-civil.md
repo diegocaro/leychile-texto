@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2021-11-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2021-12-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2021-11-30
-fetched_at: 2026-08-03T04:40:59.141172+00:00
+version_date: 2021-12-11
+fetched_at: 2026-08-03T04:41:17.164412+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -54,6 +54,8 @@ Artículo 1° Las disposiciones de este Código rigen el procedimiento de las co
 Art. 2° El procedimiento es ordinario o extraordinario. Es ordinario el que se somete a la tramitación común ordenada por la ley, y extraordinario el que se rige por las disposiciones especiales que para determinados casos ella establece.
 
 Art. 3° Se aplicará el procedimiento ordinario en todas las gestiones, trámites y actuaciones que no estén sometidos a una regla especial diversa, cualquiera que sea su naturaleza.
+
+Artículo 3º bis.- Es deber de los abogados, de los funcionarios de la administración de justicia y de los jueces, promover el empleo de métodos autocompositivos de resolución de conflictos, como la conciliación, la mediación, entre otros. Estos métodos no podrán restringir, sustituir o impedir la garantía de tutela jurisdiccional.
 
 ### Título II
 DE LA COMPARECENCIA EN JUICIO
@@ -186,7 +188,7 @@ Esta notificación se hará al actor en la forma establecida en el artículo 50.
 
 Art. 41. En los lugares y recintos de libre acceso público, la notificación personal se podrá efectuar en cualquier día y a cualquier hora, procurando causar la menor molestia posible al notificado. En los juicios ejecutivos, no podrá efectuarse el requerimiento de pago en público y, de haberse notificado la demanda en un lugar o recinto de libre acceso público, se estará a lo establecido en el N° 1° del artículo 443.
 Además, la notificación podrá hacerse en cualquier día, entre las seis y las veintidós horas, en la morada o lugar donde pernocta el notificado o en el lugar donde éste ordinariamente ejerce su industria, profesión o empleo, o en cualquier recinto privado en que éste se encuentre y al cual se permita el acceso del ministro de fe.
-Si la notificación se realizare en día inhábil, los plazos comenzarán a correr desde las cero horas del día hábil inmediatamente siguiente, y si se hubiere practicado fuera de la comuna donde funciona el tribunal, los plazos se aumentarán en la forma establecida en los artículos 258 y 259.
+Si la notificación se realizare en día inhábil, los plazos comenzarán a correr desde las cero horas del día hábil inmediatamente siguiente, y si se hubiere practicado fuera del territorio jurisdiccional del tribunal, los plazos se aumentarán en la forma establecida en el artículo 259.
 Igualmente, son lugares hábiles para practicar la notificación el oficio del secretario, la casa que sirva para despacho del tribunal y la oficina o despacho del ministro de fe que practique la notificación. Los jueces no podrán, sin embargo, ser notificados en el local en que desempeñan sus funciones.
 
 Art. 42 (45). Podrá el tribunal ordenar que se haga la notificación en otros lugares que los expresados en el artículo anterior, cuando la persona a quien se trate de notificar no tenga habitación conocida en el lugar en que ha de ser notificada. Esta circunstancia se acreditará por certificado de un ministro de fe que afirme haber hecho las indagaciones posibles, de las cuales dejará testimonio detallado en la respectiva diligencia.
@@ -194,8 +196,8 @@ Art. 42 (45). Podrá el tribunal ordenar que se haga la notificación en otros l
 Art. 43 (46). La notificación se hará constar en el proceso por diligencia que subscribirán el notificado y el ministro de fe, y si el primero no puede o no quiere firmar, se dejará testimonio de este hecho en la misma diligencia.
 La certificación deberá, además, señalar la fecha, hora y lugar donde se realizó la notificación y, de haber sido hecha en forma personal, precisar la manera o el medio con que el ministro de fe comprobó la identidad del notificado.
 
-Art. 44. Si buscada en dos días distintos en su habitación, o en el lugar donde habitualmente ejerce su industria, profesión o empleo, no es habida la persona a quien debe notificarse, se acreditará que ella se encuentra en el lugar del juicio y cuál es su morada o lugar donde ejerce su industria, profesión o empleo, bastando para comprobar estas circunstancias la debida certificación del ministro de fe.
-Establecidos ambos hechos, el tribunal ordenará que la notificación se haga entregando las copias a que se refiere el artículo 40 a cualquiera persona adulta que se encuentre en la morada o en el lugar donde la persona que se va a notificar ejerce su industria, profesión o empleo. Si nadie hay allí, o si por cualquiera otra causa no es posible entregar dichas copias a las personas que se encuentren en esos lugares, se fijará en la puerta un aviso que dé noticia de la demanda, con especificación exacta de las partes, materia de la causa, juez que conoce en ella y de las resoluciones que se notifican.
+Art. 44. Si buscada en dos días distintos en su habitación, o en el lugar donde habitualmente ejerce su industria, profesión o empleo, no es habida la persona a quien debe notificarse, se acreditará en el acto que ella se encuentra en el lugar del juicio y cuál es su morada o lugar donde ejerce su industria, profesión o empleo, bastando para comprobar estas circunstancias la debida certificación del ministro de fe.
+Establecidos ambos hechos, en la segunda búsqueda, el ministro de fe procederá a su notificación en el mismo día y sin necesidad de nueva orden del tribunal, entregándole las copias a que se refiere el artículo 40 a cualquiera persona adulta que se encuentre en la morada o en el lugar donde la persona que se va a notificar ejerce su industria, profesión o empleo. Si nadie hay allí, o si por cualquiera otra causa no es posible entregar dichas copias a las personas que se encuentren en esos lugares, se fijará en la puerta un aviso que dé noticia de la demanda, con especificación exacta de las partes, materia de la causa, juez que conoce en ella y de las resoluciones que se notifican.
 En caso que la morada o el lugar donde pernocta o el lugar donde habitualmente ejerce su industria, profesión o empleo, se encuentre en un edificio o recinto al que no se permite libre acceso, el aviso y las copias se entregarán al portero o encargado del edificio o recinto, dejándose testimonio expreso de esta circunstancia.
 
 Art. 45 (48). La diligencia de notificación, en el caso del artículo precedente, se extenderá en la forma que determina el artículo 43, siendo obligada a subscribirla la persona que reciba las copias, si puede hacerlo, dejándose testimonio de su nombre, edad, profesión y domicilio.
@@ -205,12 +207,13 @@ Art. 46 (49). Cuando la notificación se efectúe en conformidad al artículo 44
 Art. 47 (50). La forma de notificación de que tratan los artículos precedentes se empleará siempre que la ley disponga que se notifique a alguna persona para la validez de ciertos actos, o cuando los tribunales lo ordenen expresamente.
 Podrá, además, usarse en todo caso.
 
-Art. 48 (51). Las sentencias definitivas, las resoluciones en que se reciba a prueba la causa, o se ordene la comparecencia personal de las partes, se notificarán por medio de cédulas que contengan la copia íntegra de la resolución y los datos necesarios para su acertada inteligencia.
-Estas cédulas se entregarán por un ministro de fe en el domicilio del notificado, en la forma establecida en el inciso 2° del artículo 44.
-Se pondrá en los autos testimonio de la notificación con expresión del día y lugar, del nombre, edad, profesión y domicilio de la persona a quien se haga la entrega. El procedimiento que establece este artículo podrá emplearse, además, en todos los casos que el tribunal expresamente lo ordene.
+Art. 48 (51). Las sentencias definitivas, las resoluciones en que se reciba a prueba la causa, o se ordene la comparecencia personal de las partes, se notificarán por medio de cédulas que contengan la copia íntegra de la resolución y los datos necesarios para su acertada inteligencia. Con todo, estas resoluciones y los datos necesarios para su acertada inteligencia también se podrán notificar por el tribunal al medio de notificación electrónico señalado por las partes, sus abogados patrocinantes y mandatarios judiciales de conformidad al artículo siguiente, previa solicitud de la parte interesada y sin que se requiera el consentimiento del notificado, de lo cual deberá dejarse constancia en el sistema de tramitación electrónica del Poder Judicial.
+Las cédulas a que hace referencia el inciso primero se entregarán por un ministro de fe en el domicilio del notificado, en la forma establecida en el inciso 2° del artículo 44.
+Se pondrá en los autos testimonio de la notificación por cédula con expresión del día y lugar, del nombre, edad, profesión y domicilio de la persona a quien se haga la entrega. El procedimiento que establece este artículo podrá emplearse, además, en todos los casos que el tribunal expresamente lo ordene. También se dejará testimonio en autos de la notificación efectuada al medio de notificación electrónico señalado por la parte.
 
-Art. 49 (52). Para los efectos del artículo anterior, todo litigante deberá, en su primera gestión judicial, designar un domicilio conocido dentro de los límites urbanos del lugar en que funcione el tribunal respectivo, y esta designación se considerará subsistente mientras no haga otra la parte interesada, aun cuando de hecho cambie su morada.
+Art. 49 (52). Para los efectos del artículo anterior, todo litigante deberá, en su primera gestión judicial, designar un domicilio conocido dentro de los límites urbanos del lugar en que funcione el tribunal respectivo. Sus abogados patrocinantes y mandatarios judiciales deberán, además, designar en su primera presentación un medio de notificación electrónico que el juez califique como expedito y eficaz, bajo apercibimiento de serles notificadas por estado diario todas las resoluciones que se dicten en lo sucesivo en el proceso. Estas designaciones se considerarán subsistentes mientras no haga otra la parte interesada, aun cuando de hecho cambie su morada o medio de notificación electrónico, según corresponda.
 En los juicios seguidos ante los tribunales inferiores el domicilio deberá fijarse en un lugar conocido dentro de la jurisdicción del tribunal correspondiente, pero si el lugar designado se halla a considerable distancia de aquel en que funciona el juzgado, podrá éste ordenar, sin más trámites y sin ulterior recurso, que se designe otro dentro de límites más próximos.
+La notificación electrónica se entenderá practicada desde el momento de su envío.
 
 Artículo 50.- Las resoluciones no comprendidas en los artículos precedentes se entenderán notificadas a las partes desde que se incluyan en un estado que deberá formarse electrónicamente, el que estará disponible diariamente en la página web del Poder Judicial con las indicaciones que el inciso siguiente expresa.
 Se encabezará el estado con la fecha del día en que se forme y se mencionarán por el número de orden que les corresponda en el rol general, expresado en cifras y en letras y, además, por los apellidos del demandante y del demandado o de los primeros que figuren con dicho carácter si son varios, todas las causas en que se haya dictado resolución en aquel día y el número de resoluciones dictadas en cada una de ellas.
@@ -232,6 +235,9 @@ Art. 55 (58). Aunque no se haya verificado notificación alguna o se haya efectu
 Asimismo, la parte que solicitó la nulidad de una notificación, por el solo ministerio de la ley, se tendrá por notificada de la resolución cuya notificación fue declarada nula, desde que se le notifique la sentencia que declara tal nulidad. En caso que la nulidad de la notificación haya sido declarada por un tribunal superior, esta notificación se tendrá por efectuada al notificársele el "cúmplase" de dicha resolución.
 
 Art. 56 (59). Las notificaciones que se hagan a terceros que no sean parte en el juicio, o a quienes no afecten sus resultados, se harán personalmente o por cédula.
+Con todo, las notificaciones de las resoluciones en que se efectúen nombramientos, como ocurre con los peritos y martilleros, se realizarán por el tribunal por un medio de notificación electrónico, el que será dirigido a la casilla establecida en la nómina respectiva.
+Las inscripciones, subinscripciones o cancelaciones dispuestas por resolución judicial, podrán ser solicitadas al registro correspondiente directamente por la parte interesada, sin necesidad de receptor judicial, acompañando las copias autorizadas de las resoluciones y actuaciones obtenidas directamente del sistema informático de tramitación con el correspondiente sello de autenticidad. En este caso, la institución a cargo del registro deberá cerciorarse, a través de dicho sistema y bajo su responsabilidad, de la existencia de las resoluciones y que las mismas causan ejecutoria.
+Se exceptúan de lo dispuesto en el inciso anterior las medidas precautorias y los embargos.
 
 Art. 57. Las diligencias de notificación que se agreguen a la carpeta electrónica, no contendrán declaración alguna del notificado, salvo que la resolución ordene o, por su naturaleza, requiera esa declaración.
 
@@ -305,7 +311,20 @@ Véase la Convención Interamericana sobre Exhortos o Cartas Rogatorias, promulg
 
 Artículo 77.- Sin perjuicio de lo señalado en el artículo precedente, toda comunicación dirigida por un tribunal a otro deberá ser conducida a su destino por vía del sistema de tramitación electrónica del Poder Judicial, y no siendo posible lo anterior, por el medio de comunicación idóneo más expedito.
 
-Título VII bis "De la comparecencia voluntaria en audiencias por medios remotos"
+### Título VII bis "De la comparecencia voluntaria en audiencias por medios remotos"
+
+Artículo 77 bis. El tribunal podrá autorizar la comparecencia remota por videoconferencia de cualquiera de las partes que así se lo solicite a las audiencias judiciales de su competencia que se verifiquen
+NOTA 1
+presencialmente en el tribunal, si cuenta con los medios idóneos para ello y si dicha forma de comparecencia resultare eficaz y no causare indefensión.
+La parte interesada deberá solicitar comparecer por esta vía hasta dos días antes de la realización de la audiencia, ofreciendo algún medio de contacto, tales como número de teléfono o correo electrónico, a efectos de que el tribunal coordine la realización de la audiencia. Si no fuere posible contactar a la parte interesada a través de los medios ofrecidos tras tres intentos, de lo cual se deberá dejar constancia, se entenderá que no ha comparecido a la audiencia.
+La comparecencia remota de la parte se realizará desde cualquier lugar, con auxilio de algún medio tecnológico compatible con los utilizados por el Poder Judicial e informados por su Corporación Administrativa. Adicionalmente, para el caso en que la parte se encontrare fuera de la región en que se sitúa el tribunal, la comparecencia remota también podrá realizarse en dependencias de cualquier otro tribunal, si éste contare con disponibilidad de medios electrónicos y dependencias habilitadas. La Corte Suprema deberá regular mediante auto acordado la forma en que se coordinará y se hará uso de dichas dependencias.
+La constatación de la identidad de la parte que comparece de forma remota se deberá efectuar inmediatamente antes del inicio de la audiencia, de manera remota ante el ministro de fe o el funcionario que determine el tribunal respectivo, mediante la exhibición de su cédula de identidad o pasaporte, de lo que se dejará registro.
+Con todo, la absolución de posiciones, las declaraciones de testigos y otras actuaciones que el juez determine, sólo podrán rendirse en dependencias del tribunal que conoce de la causa o del tribunal exhortado.
+De la audiencia realizada por vía remota mediante videoconferencia se levantará acta, que consignará todo lo obrado en ella; la que deberá ser suscrita por las partes, el juez y los demás comparecientes. La parte que comparezca vía remota podrá firmar el acta mediante firma electrónica simple o avanzada.
+La disponibilidad y correcto funcionamiento de los medios tecnológicos de las partes que comparezcan remotamente en dependencias ajenas al Poder Judicial será de su responsabilidad. Con todo, la parte podrá alegar entorpecimiento si el mal funcionamiento de los medios tecnológicos no fuera atribuible a ella. En caso de acoger dicho incidente, el tribunal fijará un nuevo día y hora para la continuación de la audiencia, sin que se pierda lo obrado con anterioridad a dicho mal funcionamiento. En la nueva audiencia que se fije, el tribunal velará por la igualdad de las partes en el ejercicio de sus derechos.
+Lo dispuesto en los incisos anteriores es sin perjuicio de la modalidad de funcionamiento excepcional a través de audiencias remotas, por razones de buen servicio judicial, regulado en el artículo 47 D del Código Orgánico de Tribunales.
+NOTA 1
+El inciso segundo del artículo duodécimo transitorio de la ley 21394, publicada el 30.11.2021, dispone que, durante el periodo de un año contado desde la entrada en vigencia señalada en el inciso primero de la citada norma transitoria, las disposiciones contenidas en el artículo 77 bis de la presente norma, regirán en los tiempos y territorios en que las disposiciones del artículo decimosexto transitorio no fueren aplicables, de conformidad a la extensión temporal o territorial que conforme dicho artículo disponga la Corte Suprema.
 
 ### Título VIII
 DE LAS REBELDIAS
@@ -806,19 +825,32 @@ D.O. 08.08.1994
 NOTA
 Véanse las letras d) y f) del Auto Acordado de la Corte de Apelaciones de Santiago, publicado el 19.08.1994.
 
-Artículo 223.- La vista de la causa se iniciará con la relación, la que se efectuará en presencia de los abogados de las partes que hayan asistido y se hubieren anunciado para alegar. No se permitirá el ingreso a la sala de los abogados una vez comenzada la relación. Los Ministros podrán, durante la relación, formular preguntas o hacer observaciones al relator, las que en caso alguno podrán ser consideradas como causales de inhabilidad.
+Artículo 223.- La vista de la causa se iniciará con la relación, la que se efectuará en presencia de los abogados de las partes que hayan asistido y se hubieren anunciado para alegar. Con todo, cualquiera de las partes podrá solicitar alegatos por vía remota mediante videoconferencia hasta dos días antes de la vista de la causa, lo
+NOTA 1
+que no afectará el derecho de la contraria de alegar presencialmente. No se permitirá el ingreso a la sala de los abogados una vez comenzada la relación. Los Ministros podrán, durante la relación, formular preguntas o hacer observaciones al relator, las que en caso alguno podrán ser consideradas como causales de inhabilidad.
 Concluida la relación, se procederá a escuchar, en audiencia pública, los alegatos de los abogados que se hubieren anunciado. Alegará primero el abogado del apelante y en seguida el del apelado. Si son varios los apelantes, hablarán los abogados en el orden en que se hayan interpuesto las apelaciones. Si son varios los apelados, los abogados intervendrán por el orden alfabético de aquéllos.
 Los abogados tendrán derecho a rectificar los errores de hecho que observaren en el alegato de la contraria, al término de éste, sin que les sea permitido replicar en lo concerniente a puntos de derecho.
 La duración de los alegatos de cada abogado se limitará a media hora. El tribunal, a petición del interesado, podrá prorrogar el plazo por el tiempo que estime conveniente.
 Durante los alegatos, el Presidente de la sala podrá invitar a los abogados a que extiendan sus consideraciones a cualquier punto de hecho o de derecho comprendido en el proceso, pero esta invitación no obstará a la libertad del defensor para el desarrollo de su exposición. Una vez finalizados los alegatos, y antes de levantar la audiencia, podrá también pedirles que precisen determinados puntos de hecho o de derecho que considere importantes.
-Al término de la audiencia, los abogados podrán dejar a disposición del tribunal una minuta de sus alegatos.
+Al término de la audiencia, los abogados podrán dejar a disposición del tribunal una minuta de sus alegatos. En el caso de los abogados que aleguen por vía remota, podrán presentar dicha minuta a través del sistema de tramitación electrónica del Poder Judicial tan pronto finalice la audiencia.
 El relator dará cuenta a la sala de los abogados que hubiesen solicitado alegatos o se hubiesen anunciado para alegar y no concurrieren a la audiencia respectiva para oír la relación ni hacer el alegato. El Presidente de la sala oirá al interesado, y, si encontrare mérito para sancionarlo, le aplicará una multa no inferior a una ni superior a cinco unidades tributarias mensuales, la que se duplicará en caso de reiteración de la falta dentro de un mismo año calendario. El sancionado no podrá alegar ante esa misma Corte mientras no certifique el secretario de ella, en el correspondiente expediente, que se ha pagado la multa impuesta.
 NOTA
-LEY 19317
-Art. 1º Nº 4
-D.O. 08.08.1994
-NOTA
 Véase el Auto Acordado de la Corte Suprema, publicado el 16.09.1994.
+NOTA 1
+El inciso segundo del artículo duodécimo transitorio de la ley 21394, publicada el 30.11.2021, dispone que, durante el periodo de un año contado desde la entrada en vigencia señalada en el inciso primero de la citada norma transitoria, las disposiciones contenidas en el artículo 223 de la presente norma, regirán en los tiempos y territorios en que las disposiciones del artículo decimosexto transitorio no fueren aplicables, de conformidad a la extensión temporal o territorial que conforme dicho artículo disponga la Corte Suprema.
+
+Artículo 223 bis.- En los casos en que se decrete
+NOTA
+n alegatos vía remota por videoconferencia, los abogados deberán anunciar sus alegatos, indicando el tiempo estimado de duración y los medios necesarios para su contacto
+NOTA
+oportuno, tales como número de teléfono o correo electrónico.
+Los abogados podrán alegar desde cualquier lugar con auxilio de algún medio tecnológico compatible con los utilizados por el Poder Judicial e informados por su Corporación Administrativa. Adicionalmente, para el caso en que se encontrare en una región distinta a la de la Corte respectiva, la comparecencia remota también podrá realizarse en un edificio de una Corte de Apelaciones o de cualquier otro tribunal que contare con disponibilidad de medios electrónicos y dependencias habilitadas.
+En estos casos, la constatación de la identidad de los abogados se hará inmediatamente antes del inicio de la audiencia ante el ministro de fe de la Corte o ante el funcionario que ésta designe, mediante la exhibición de su cédula de identidad o pasaporte, de lo que se dejará registro.
+Si no fuere posible contactar a los abogados que hayan solicitado alegatos vía remota a través de los medios ofrecidos tras tres intentos, de lo cual se deberá dejar constancia, se entenderá que no han comparecido a la audiencia.
+La disponibilidad y correcto funcionamiento de los medios tecnológicos de las partes que comparezcan remotamente en dependencias ajenas al Poder Judicial será de su responsabilidad. Con todo, la parte podrá alegar entorpecimiento si el mal funcionamiento de los medios tecnológicos no fuera atribuible a ella. En caso de acoger dicho incidente, la Corte fijará un nuevo día y hora para la continuación de la vista de la causa.
+La Corte Suprema regulará mediante auto acordado la forma en que se coordinará y se hará uso de las dependencias a que hace referencia el inciso segundo.
+NOTA
+El inciso segundo del artículo duodécimo transitorio de la ley 21394, publicada el 30.11.2021, dispone que, durante el periodo de un año contado desde la entrada en vigencia señalada en el inciso primero de la citada norma transitoria, las disposiciones contenidas en el artículo 223 bis de la presente norma, regirán en los tiempos y territorios en que las disposiciones del artículo decimosexto transitorio no fueren aplicables, de conformidad a la extensión temporal o territorial que conforme dicho artículo disponga la Corte Suprema.
 
 Art. 224 (449). Si la apelación comprende dos o más puntos independientes entre sí y susceptibles de resolución aislada, podrá el tribunal alterar la regla del artículo precedente haciendo que los abogados aleguen separada y sucesivamente sobre cada punto.
 
@@ -937,7 +969,7 @@ Art. 253 (250). Todo juicio ordinario comenzará por demanda del actor, sin perj
 
 Art. 254 (251). La demanda debe contener:
 1°. La designación del tribunal ante quien se entabla;
-2°. El nombre, domicilio y profesión u oficio del demandante y de las personas que lo representen, y la naturaleza de la representación;
+2°. El nombre, domicilio y profesión u oficio del demandante y de las personas que lo representen, y la naturaleza de la representación, además de un medio de notificación electrónico del abogado patrocinante y del mandatario judicial si no lo hubieren designado;
 3°. El nombre, domicilio y profesión u oficio del demandado;
 4°. La exposición clara de los hechos y fundamentos de derecho en que se apoya; y
 5°. La enunciación precisa y clara, consignada en la conclusión de las peticiones que se sometan al fallo del tribunal.
@@ -948,12 +980,11 @@ Art. 256 (253). Puede el juez de oficio no dar curso a la demanda que no conteng
 
 Art. 257 (254). Admitida la demanda, se conferirá traslado de ella al demandado para que la conteste.
 
-Artículo 258.- El término de emplazamiento para contestar la demanda será de quince días si el demandado es notificado en la comuna donde funciona el tribunal.
-Se aumentará este término en tres días más si el demandado se encuentra en el mismo territorio jurisdiccional pero fuera de los límites de la comuna que sirva de asiento al tribunal.
+Artículo 258.- El término de emplazamiento para contestar la demanda será de dieciocho días si el demandado es notificado en el territorio jurisdiccional del tribunal en que se haya presentado la demanda.
 NOTA
 Véase el Decreto con Fuerza de Ley 1, Hacienda, publicado el 07.08.1993, que fija el texto refundido, coordinado y sistematizado de la Ley Orgánica del Consejo de Defensa del Estado.
 
-Art. 259 (256). Si el demandado se encuentra en un territorio jurisdiccional diverso o fuera del territorio de la República, el término para contestar la demanda será de dieciocho días, y a más el aumento que corresponda al lugar en que se encuentre. Este aumento será determinado en conformidad a una tabla que cada cinco años formará la Corte Suprema con tal objeto, tomando en consideración las distancias y las facilidades o dificultades que existan para las comunicaciones.
+Art. 259 (256). Si el demandado se encuentra en un territorio jurisdiccional diverso o fuera del territorio de la República, el término para contestar la demanda se aumentará de conformidad al lugar en que se encuentre. Este aumento será determinado en conformidad a una tabla que cada cinco años formará la Corte Suprema con tal objeto, tomando en consideración las distancias y las facilidades o dificultades que existan para las comunicaciones.
 Esta tabla se formará en el mes de Noviembre del año que preceda al del vencimiento de los cinco años indicados, para que se ponga en vigor en toda la República desde el 1° de Marzo siguiente; se publicará en el "Diario Oficial", y se fijará a lo menos, dos meses antes de su vigencia, en el portal de internet del Poder Judicial y en los oficios de todos los secretarios de Cortes y Juzgados de Letras.
 
 Art. 260 (257). Si los demandados son varios, sea que obren separada o conjuntamente, el término para contestar la demanda correrá para todos a la vez, y se contará hasta que expire el último término parcial que corresponda a los notificados.
@@ -1129,9 +1160,11 @@ DE PRUEBA O DE SENTENCIA
 
 Art. 309 (299). La contestación a la demanda debe contener:
 1°. La designación del tribunal ante quien se presente;
-2°. El nombre, domicilio y profesión u oficio del demandado;
+2°. El nombre, domicilio y profesión u oficio del demandado y un medio de notificación electrónico del abogado patrocinante y del mandatario judicial;
 3°. Las excepciones que se oponen a la demanda y la exposición clara de los hechos y fundamentos de derecho en que se apoyan; y
-4°. La enunciación precisa y clara, consignada en la conclusión, de las peticiones que se sometan al fallo del tribunal.
+4°. La enunciación precisa y clara, consignada en la conclusión, de las peticiones que se sometan al fallo del tribuna
+NOTA
+l.
 NOTA
 El N° 45 del artículo Primero de la Ley 18705, publicada el 24.05.1988, suprimió el inciso final de la presente norma.
 
@@ -1559,7 +1592,7 @@ NOTA
 Véase el Auto Acordado de la Corte Suprema, sobre confección de lista de peritos en el procedimiento civil, publicado el 21.08.2007.
 
 Art. 417 (419). El perito que acepte el cargo deberá declararlo así, jurando desempeñarlo con fidelidad.
-De esta declaración, que habrá de hacerse verbalmente o por escrito en el acto de la notificación o dentro de los tres días inmediatos, se dejará testimonio en los autos.
+De esta declaración, que habrá de hacerse por escrito dentro de los tres días siguientes a la notificación, presencialmente o por vía remota mediante videoconferencia ante un ministro de fe del tribunal, se dejará testimonio en los autos a través del sistema de tramitación electrónica del Poder Judicial.
 El perito encargado de practicar un reconocimiento deberá citar previamente a las partes para que concurran si quieren.
 
 Art. 418 (420). Cuando sean varios los peritos procederán unidos a practicar el reconocimiento, salvo que el tribunal los autorice para obrar de otra manera.
@@ -1635,8 +1668,10 @@ Resultando conforme la confrontación, no será obstáculo a que se despache la 
 NOTA
 Véase la Ley 19983, publicada el 15.12.2004, que regula la transferencia y otorga mérito ejecutivo a copia de la factura.
 
-Art. 435 (457). Si, en caso de no tener el acreedor título ejecutivo, quiere preparar la ejecución por el reconocimiento de firma o por la confesión de la deuda, podrá pedir que se cite al deudor a la presencia judicial, a fin de que practique la que corresponda de estas diligencias.
-Y, si el citado no comparece, o sólo da respuestas evasivas, se dará por reconocida la firma o por confesada la deuda.
+Artículo 435 (457). Si, en caso de no tener el acreedor título ejecutivo, quiere preparar la ejecución por el reconocimiento de firma o por la confesión de la deuda, podrá pedir que se cite al deudor a una audiencia dentro de quinto día contado desde la fecha de la última notificación, con el fin de que practique estas diligencias.
+La obligación deberá consistir en una cantidad de dinero líquida o liquidable mediante una simple operación aritmética, encontrarse vencida, ser actualmente exigible y constar en un antecedente escrito. A su vez, la acción no podrá estar prescrita.
+El juez, de oficio, no dará curso a la solicitud, cuando no concurran los requisitos previstos en el inciso segundo.
+Si el citado no comparece a la audiencia sin razón que lo justifique, o sólo da respuestas evasivas, se dará por reconocida la firma o por confesada la deuda.
 
 Art. 436 (458). Reconocida la firma, quedará preparada la ejecución, aunque se niegue la deuda.
 
@@ -1660,7 +1695,7 @@ Art. 441 (463). El tribunal examinará el título y despachará o denegará la e
 Las gestiones que en tal caso haga el demandado no embarazarán en manera alguna el procedimiento ejecutivo, y sólo podrán ser estimadas por el tribunal como datos ilustrativos para apreciar la procedencia o improcedencia de la acción.
 Si denegado el mandamiento de ejecución, se interpone apelación de este fallo y ha lugar a ella, el tribunal elevará el proceso al superior, también sin notificación del demandado.
 
-Art. 442 (464). El tribunal denegará la ejecución si el título presentado tiene más de tres años, contados desde que la obligación se haya hecho exigible; salvo que se compruebe la subsistencia de la acción ejecutiva por alguno de los medios que sirven para deducir esta acción en conformidad al artículo 434.
+Art. 442 (464). El tribunal denegará la ejecución cuando la acción ejecutiva se encuentre prescrita; salvo que se compruebe su subsistencia por alguno de los medios que sirven para deducir esta acción en conformidad al artículo 434.
 
 Art. 443 (465). El mandamiento de ejecución contendrá:
 1°. La orden de requerir de pago al deudor. Este requerimiento debe hacérsele personalmente; pero si no es habido, se procederá en conformidad al artículo 44, expresándose en la copia a que dicho artículo se refiere, a más del mandamiento, la designación del día, hora y lugar que fije el ministro de fe para practicar el requerimiento. No concurriendo a esta citación el deudor, se hará inmediatamente y sin más trámite el embargo.
@@ -1754,8 +1789,7 @@ Art. 458. (480). Se formará ramo separado con las diligencias relativas al emba
 Se pondrá testimonio en el ramo principal, de la fecha en que se practique el embargo y la ampliación.
 Este cuaderno se tramitará independientemente del cuaderno ejecutivo, sin que la marcha del uno se retarde por los recursos que en el otro se deduzcan.
 
-Art. 459. (481). Si el deudor es requerido de pago en el lugar del asiento del tribunal, tendrá el término de cuatro días útiles para oponerse a la ejecución.
-Este término se ampliará con cuatro días, si el requerimiento se hace dentro del territorio jurisdiccional en que se ha promovido el juicio, pero fuera de la comuna del asiento del tribunal.
+Art. 459. (481). Si el deudor es requerido de pago en el territorio jurisdiccional del tribunal en que se interpuso la demanda, tendrá el término de ocho días útiles para oponerse a la ejecución.
 
 Art. 460. (482). Si el requerimiento se hace en territorio jurisdiccional de otro tribunal de la República, la oposición podrá presentarse ante el el tribunal que haya ordenado cumplir el exhorto del que conoce en el juicio o ante este último tribunal. En el primer caso, los plazos serán los mismos que establece el artículo anterior. En el segundo, el ejecutado deberá formular su oposición en el plazo fatal de ocho días, más el aumento del término de emplazamiento en conformidad a la tabla de que trata el artículo 259.
 El tribunal exhortado se limitará a remitir la solicitud de oposición al exhortante para que éste provea sobre ella lo que sea de derecho.
@@ -1844,7 +1878,8 @@ Art. 483. (505). Venderá el depositario en la forma más conveniente, sin previ
 
 Art. 484. (506). Los efectos de comercio realizables en el acto, se venderán sin previa tasación, por un corredor nombrado en la forma que establece el artículo 414.
 
-Art. 485. (507). Los demás bienes no comprendidos en los tres artículos anteriores, se tasarán y venderán en remate público ante el tribunal que conoce de la ejecución, o ante el tribunal dentro de cuya jurisdicción estén situados los bienes, cuando así se resuelva a solicitud de partes y por motivos fundados.
+Art. 485. (507). Los demás bienes no comprendidos en los tres artículos anteriores, se tasarán y venderán en remate público ante el tribunal que conoce de la ejecución, o ante el tribunal dentro de cuya jurisdicción estén situados los bienes, cuando así se resuelva a solicitud de partes y por motivos fundados. Con todo, cuando así lo disponga el tribunal, por resolución fundada, el remate podrá verificarse en forma remota.
+Corresponderá a la Corte Suprema regular, mediante auto acordado, la forma en que se realizarán los remates por vía remota, debiendo establecer mecanismos que aseguren la efectiva participación de quienes manifiesten su voluntad de comparecer de esa forma y que cumplan con los requisitos legales.
 
 Art. 486. (508). La tasación será la que figure en el rol de avalúos que esté vigente para los efectos de la contribución de haberes, a menos que el ejecutado solicite que se haga nueva tasación.
 En este caso la tasación se practicará por peritos nombrados en la forma que dispone el artículo 414, haciéndose el nombramiento en la audiencia del segundo día hábil después de notificada la sentencia sin necesidad de nueva notificación.
@@ -1878,6 +1913,7 @@ Si no se consigna el precio del remate en la oportunidad fijada en las bases, la
 Se concederán sólo en el efecto devolutivo las apelaciones que interponga el subastador de los bienes embargados.
 
 Art. 495. (517). El acta de remate de la clase de bienes a que se refiere el inciso 2° del artículo 1801 del Código Civil, se extenderá en el registro del secretario que intervenga en la subasta, y será firmada por el juez, el rematante y el secretario.
+En caso que el remate se verifique en forma remota, el acta deberá ser firmada por el adjudicatario mediante firma electrónica avanzada o, en su defecto, mediante firma electrónica simple.
 Esta acta valdrá como escritura pública, para el efecto del citado artículo del Código Civil; pero se extenderá sin perjuicio de otorgarse dentro de tercero día la escritura definitiva con inserción de los antecedentes necesarios y con los demás requisitos legales.
 Los secretarios que no sean también notarios llevarán un registro de remates, en el cual asentarán las actas de que este artículo trata.
 
@@ -2941,8 +2977,6 @@ NOTA
 os 701 y
 NOTA
 702.
-NOTA
-NOTA
 NOTA
 NOTA
 NOTA
