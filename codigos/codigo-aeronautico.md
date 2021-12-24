@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=2021-11-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=2021-12-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 30287
-version_date: 2021-11-30
-fetched_at: 2026-08-03T04:40:23.102447+00:00
+version_date: 2021-12-24
+fetched_at: 2026-08-03T04:41:41.192865+00:00
 titulo_norma: "APRUEBA CODIGO AERONAUTICO"
 compuesto: LEY-18916
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -580,22 +580,17 @@ c) Si ya se hubiera iniciado la ejecución de un viaje con escala y/o conexión,
 i.- Embarque en el siguiente vuelo que tenga disponible el transportador, o en un transporte alternativo, si es que decidiera persistir en el contrato de transporte aéreo.
 ii.- Reembolso de la porción no utilizada.
 iii.- Retorno al punto de partida, con reembolso del precio del pasaje.
-2.- Sin perjuicio de lo anterior, el transportador deberá ofrecer al pasajero afectado con la denegación de embarque una suma equivalente a:
-a) 2 unidades de fomento para vuelos de menos de 500 kilómetros.
-b) 3 unidades de fomento para vuelos de entre 500 y 1.000 kilómetros.
-c) 4 unidades de fomento para vuelos de entre 1.000 y 2.500 kilómetros.
-d) 10 unidades de fomento para vuelos de entre 2.500 y 4.000 kilómetros.
-e) 15 unidades de fomento para vuelos de entre 4.000 y 8.000 kilómetros.
-f) 20 unidades de fomento para vuelos de más de 8.000 kilómetros.
-El pasajero que acepte dichas compensaciones no podrá con posterioridad ejercer acciones contra el transportador por el mismo hecho.
+2.- Sin perjuicio de lo anterior, el transportador deberá ofrecer una compensación al pasajero afectado con la denegación de embarque, cuyo monto será determinado en conformidad con la siguiente tabla:
+.
+El pasajero que acepte esas compensaciones no podrá posteriormente ejercer acciones contra el transportador por el mismo hecho, sin perjuicio de las infracciones e indemnizaciones consagradas en la ley N° 19.496, que Establece normas sobre protección de los derechos de los consumidores.
 3.- Si, conforme a la letra a) del número 1 del presente artículo, se embarca al pasajero en el siguiente vuelo que tenga disponible el transportador, y la diferencia en la hora de salida respecto a la prevista para el vuelo inicialmente reservado es inferior a tres horas, no procederá compensación alguna de acuerdo al número 2 precedente.
 4.- Para los efectos de este artículo, se entenderá que un billete de pasaje se encuentra confirmado, con respecto a los puntos de partida y destino indicados en el mismo, incluyendo puntos intermedios de conexión o escala, en la medida que conste que la reserva o el billete de pasaje ha sido aceptado y registrado por el transportista aéreo o por su agente autorizado.
 5.- Por "viaje con escala y/o conexión" se entiende aquel cuya llegada al punto de destino contempla un punto de partida y uno o más puntos intermedios de escala y/o conexión, cuando formen parte de un mismo contrato.
 6.- Sin perjuicio de otros servicios adicionales que puedan ofrecer los transportistas, de acuerdo con las circunstancias y la especial condición del pasajero, en caso de denegación de embarque el transportador deberá embarcar de manera prioritaria a los niños no acompañados, a personas con discapacidad, a los pasajeros de edad avanzada o delicados de salud, a embarazadas que, en razón de su estado, requieran embarcarse prioritariamente y, en general, a los pasajeros que, por razones humanitarias calificadas por el transportador, deban ser embarcados con preferencia.
 
 Artículo 133 A.- Si el pasajero decide perseverar en el contrato ante una denegación de embarque, el transportador estará obligado a las siguientes prestaciones asistenciales:
-a) Comunicaciones que el pasajero necesite efectuar, ya sean telefónicas, electrónicas o de otra naturaleza similar, si es que hubiere una diferencia en la hora de salida prevista para el vuelo inicialmente reservado superior a tres horas.
-b) Comidas y refrigerios necesarios hasta el embarque en el otro vuelo, si es que hubiere una diferencia en la hora de salida prevista para el vuelo inicialmente reservado superior a tres horas.
+a) Comunicaciones que el pasajero necesite efectuar, ya sean telefónicas, electrónicas o de naturaleza similar, si es que la diferencia entre la hora de salida prevista para el vuelo inicialmente reservado y la nueva hora de salida fuere superior a una hora.
+b) Comidas y refrigerios equivalentes a lo menos a 0,5 unidades de fomento cuando el tiempo transcurrido entre la hora de salida prevista para el vuelo inicialmente reservado y la nueva hora de salida fuere igual o superior a dos horas. Una vez cumplido el plazo anterior, el pasajero tendrá derecho a una nueva prestación, y por el mismo valor, cada vez que transcurran tres horas adicionales de espera. Las prestaciones a que se refiere esta letra deberán entregarse dentro de cada período correspondiente, por lo que no serán acumulables, y no serán aplicables mientras el pasajero no se encuentre presencialmente en el aeropuerto, u operen las prestaciones señaladas en la letra c).
 c) Alojamiento para pasajeros con vuelo de retorno y para pasajeros con vuelo de ida que se les deniega el embarque en un punto de conexión, no residentes en la ciudad, localidad o área del aeropuerto de salida, en caso de que se les ofrezca un nuevo vuelo cuya salida sea, como mínimo, al día siguiente de la salida programada en el billete de pasaje, y siempre que el pasajero deba pernoctar una o varias noches y el tiempo de espera para embarcar en el otro vuelo así lo requiera. Por "noche" se entenderá desde la medianoche hasta las 6 horas a.m.
 d) Movilización desde el aeropuerto al lugar de residencia del pasajero en la ciudad, localidad o área del aeropuerto de salida, o al lugar de alojamiento, y viceversa, en caso que fuere aplicable.
 e) Los arreglos y prestaciones que sean necesarias para continuar el viaje, en caso de que el pasajero pierda un vuelo de conexión con reserva confirmada.
@@ -606,10 +601,12 @@ b) Prestaciones asistenciales, conforme a lo dispuesto en el artículo 133 A, si
 c) Indemnización con arreglo a lo previsto en el artículo 147, si el retraso o la cancelación se debe a causa imputable al transportador, en conformidad a lo siguiente:
 i) Si el retraso fuere superior a tres horas respecto a la hora de salida prevista en el billete de pasaje o cuatro horas en vuelos que utilicen aeronaves que hayan sido diseñadas para una capacidad de hasta 29 asientos.
 ii) Al momento de la cancelación, salvo que se le informe al pasajero y se le ofrezca tomar otro vuelo que le permita salir a su destino con no más de tres horas de retraso con respecto a la hora de salida prevista o cuatro horas en vuelos que utilicen aeronaves que hayan sido diseñadas para una capacidad de hasta 29 asientos.
-Para los efectos de la comunicación de cancelación, el pasajero, al efectuar la reserva o compra de su billete de pasaje, informará al transportista, en forma directa o a través de sus agentes autorizados, sus datos de contacto, tales como dirección, teléfono y correo electrónico.
+Cualquier cambio en el itinerario, por adelanto, retraso o cancelación del vuelo, deberá ser informado al pasajero por el transportador mediante comunicación escrita por el medio más expedito posible, con indicación de la causal del cambio. Para los efectos de esta comunicación y otras que sean necesarias, el transportador deberá requerir al pasajero, en forma directa o a través de sus agentes autorizados, sus datos de contacto, tales como dirección, teléfono y correo electrónico.
 d) Reembolso del monto total pagado por el billete o de la porción no utilizada, según fuere el caso, si el pasajero decide no perseverar en el contrato y han transcurrido los plazos de la letra c) anterior, sea o no imputable al transportador la causa del retraso o de la cancelación.
 
-Artículo 133 C.- En caso de no verificarse el viaje, ya sea por causas imputables al transportador, al pasajero o por razones de seguridad o de fuerza mayor sobrevinientes, las tasas, cargas o derechos aeronáuticos que hubiere pagado el pasajero deberán restituirse a su solo requerimiento en cualquier oficina del transportador aéreo o a través de su sitio web.
+Artículo 133 C.- En caso de no verificarse el viaje, ya sea por causas imputables al transportador, al pasajero o por razones de seguridad o de fuerza mayor sobreviniente, las tasas, cargos o derechos aeronáuticos que hubiere pagado el pasajero deberán ser restituidas por el transportador, con o sin requerimiento del pasajero, dentro del plazo de diez días, a través del mismo medio utilizado para pagar el billete de pasaje.
+No obstante, en caso de no haberse podido materializar dicha restitución o de haberse verificado el pago en efectivo, el transportador deberá contactar al pasajero con el fin de que éste señale el medio para efectuar la restitución, contacto que deberá realizarse en el plazo máximo de diez días contado desde que debió haberse verificado el viaje. Dicha restitución deberá efectuarse en un plazo máximo de diez días contado desde que el pasajero señale al operador la información necesaria para estos efectos. En caso de retraso injustificado, dicha restitución se recargará en el 50 por ciento en favor del pasajero cada treinta días.
+Una vez vencido el primer período de treinta días sin verificarse la restitución al pasajero, este último podrá optar por exigir la restitución al agente autorizado que haya realizado la venta, o bien, persistir en la restitución y recargos conforme al inciso precedente. Lo anterior se entenderá sin perjuicio del derecho del agente autorizado a repetir contra el transportador, cuando corresponda.
 
 Artículo 133 D.- Del Derecho a Reparación del Transportador. El transportador que pague cualquier indemnización o proporcione prestaciones o asistencia a un pasajero por causas o circunstancias que se deban en todo o parte al hecho o culpa de un tercero, siempre tendrá el derecho de exigir de tal tercero la indemnización de los perjuicios que haya sufrido, incluyendo los costos o gastos de tales compensaciones, prestaciones y asistencias, de acuerdo a las reglas generales del derecho.
 
@@ -622,11 +619,19 @@ Con la misma pena se sancionará al cesionario del aludido derecho que, en inobs
 En caso de reiteración de las conductas consideradas en los incisos anteriores, se aplicará la pena de presidio menor en su grado medio y multa de veintiuna a treinta unidades tributarias mensuales.
 A los delitos consagrados en los incisos anteriores no les será aplicable lo dispuesto en el artículo 201 de este Código.
 
+Artículo 133 H.- En los casos de servicios de transporte aéreo nacional o cabotaje que se encuentren fraccionados por tramos y/o por trayectos de ida y vuelta, el no uso de alguna de las fracciones no podrá motivar la denegación o condicionar el uso del resto de las fracciones, si el pasajero se presenta oportunamente al chequeo y embarque.
+
+Artículo 133 I.- El transportador deberá tomar las medidas necesarias para que los niños menores de 14 años viajen en asientos contiguos a los de al menos un adulto de su familia o de algún adulto incluido en la misma reserva.
+
+Artículo 133 J.- La fecha programada para un viaje podrá modificarse, o solicitarse la devolución del monto pagado, si el pasajero prueba, a través de certificado médico, que está impedido de viajar. El certificado médico deberá indicar la razón del impedimento y el período o las fechas entre las cuales se encuentra impedido de viajar en avión. El pasajero deberá dar aviso al transportador antes del horario programado del vuelo y presentarle el certificado médico en el plazo de veinticuatro horas a contar del aviso. Alternativamente, el pasajero podrá optar por solicitar la devolución del monto pagado, dentro del plazo de treinta días a contar de la fecha programada del viaje original. En caso de que el cambio se realice por un billete de pasaje de mayor valor, el pasajero deberá pagar la diferencia. La nueva fecha de viaje podrá fijarse en un período de hasta un año a contar de la fecha programada del viaje original. El derecho a que se refiere este artículo podrá ser invocado, asimismo, por el cónyuge o conviviente civil, los padres y los hijos del pasajero, siempre que se encuentren incluidos en la misma reserva.
+El uso indebido o falsificación de dicho certificado médico será sancionado de acuerdo con lo establecido en el artículo 202 del Código Penal.
+
 #### 2.- Del transporte de equipaje
 
 Artículo 134.- El transportador está obligado a conducir con el pasajero y por el precio del pasaje, su equipaje, dentro de los límites de peso y volumen que se determinen en el contrato.
 El equipaje comprende tanto el registrado como los objetos de mano que porte el pasajero.
 El transporte de exceso de equipaje será objeto de estipulación especial.
+En el caso de traslado de animales, el transportador deberá establecer condiciones que aseguren razonablemente su seguridad y bienestar.
 
 Artículo 135.- El transportador expedirá en duplicado un talón o recibo por el equipaje que transporte, exceptuados los objetos que el pasajero lleve consigo, y entregará a éste un ejemplar.
 El talón o recibo del equipaje debe contener las siguientes indicaciones:
