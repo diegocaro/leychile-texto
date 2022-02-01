@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2021-12-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-02-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2021-12-24
-fetched_at: 2026-08-03T04:41:59.217497+00:00
+version_date: 2022-02-01
+fetched_at: 2026-08-03T04:42:48.033111+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -3009,6 +3009,7 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 1.° El que asistiendo a un espectáculo público provocare algún desorden o tomare parte en él.
 2.° El que excitare o dirigiere cencerradas u otras reuniones tumultuosas en ofensa de alguna persona o del sosiego de las poblaciones.
 3.° El que ensuciare, arrojare o abandonare basura, materiales o desechos de cualquier índole en playas, riberas de ríos o de lagos, parques nacionales, reservas nacionales, monumentos naturales o en otras áreas de conservación de la biodiversidad declaradas bajo protección oficial.
+La pena consistirá en la prestación de servicios en beneficio de la comunidad consistente en la limpieza de playas, lagos o ríos. Esta pena se regulará conforme a lo dispuesto en los artículos 49, 49 bis, 49 ter, 49 quáter, 49 quinquies y 49 sexies, debiendo existir consentimiento previo del condenado. En caso de no haber consentimiento, se aplicará la pena de multa.
 4.° El que amenazare a otro con armas blancas y el que riñendo con otro las sacare, como no sea con motivo justo.
 5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas y circunstancias del hecho. En ningún caso el tribunal podrá calificar como leves las lesiones cometidas en contra de las personas mencionadas en el artículo 5° de la Ley sobre Violencia Intrafamiliar, ni aquéllas cometidas en contra de las personas a que se refiere el inciso primero del artículo 403 bis de este Código.
 6.° El que corriere carruajes o caballerías con peligro de las personas, haciéndolo en poblado, ya sea de noche o de día cuando haya aglomeración de gente.
