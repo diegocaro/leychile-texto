@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2022-01-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2022-02-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2022-01-11
-fetched_at: 2026-08-03T04:42:17.227642+00:00
+version_date: 2022-02-04
+fetched_at: 2026-08-03T04:43:06.059818+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -9018,7 +9018,7 @@ Este mismo derecho podrán hacer valer contra el Fisco los asignatarios que hubi
 Para los efectos de la aplicación de lo dispuesto en los incisos anteriores, los plazos de prescripción que correspondan se contarán desde la fecha en que quede ejecutoriada la sentencia que ordene devolver, en todo o parte, la asignación o donación.
 En el caso de los incisos segundo y tercero del artículo 5.º, se procederá a reliquidar el impuesto cuando lleguen a existir las personas referidas en dichas disposiciones, antes del plazo señalado en el inciso tercero del artículo 962 del Código Civil, procediéndose al cobro o devolución de los saldos de impuestos que correspondan.
 
-Art. 17. Los bienes que a virtud de una transacción se reconozcan en favor de personas que sustenten derechos a la herencia, se estimarán para todos los efectos de esta ley, como adquiridos por sucesión por causa de muerte.
+Art. 17. Los bienes que a virtud de una transacción se reconozcan en favor de personas que sustenten derechos a la herencia y las sumas que tengan derecho a recibir los beneficiarios de seguros de vida con ocasión de la muerte del asegurado, se estimarán para todos los efectos de esta ley, como adquiridos por sucesión por causa de muerte.
 También se considerarán adquiridos por sucesión por causa de muerte los bienes dado en pago a título de renta vitalicia a personas que, a la fecha de la delación de la herencia, sean herederos del rentista, siempre que el instrumento constitutivo de la pensión se haya suscrito dentro de los cinco años anteriores a la fecha del fallecimiento del causante. El impuesto se devengará al fallecimiento del causante, se calculará sobre el valor total de los bienes dados en pago por la renta vitalicia, con deducción del impuesto que se hubiere pagado por la constitución de la renta vitalicia y se pagará de acuerdo con las normas de esta ley.
 En estos casos, las rentas que ya se hubieren pagado durante la vigencia del contrato, se deducirán del acervo sujeto al pago del impuesto.
 
@@ -9040,7 +9040,7 @@ A falta de regla especial, las asignaciones y donaciones de que tratan los núme
 
 Art. 19. Quedan derogadas todas las disposiciones legales que establezcan exenciones no contempladas en el artículo anterior.
 
-Art. 20. Las disposiciones de la presente ley no afectarán a los seguros de vida, a las cuotas mortuorias, ni a los desgravámenes hipotecarios establecidos en forma de seguro de vida.
+Art. 20. Las disposiciones de la presente ley no afectarán al seguro de invalidez y sobrevivencia señalado en el decreto ley N° 3.500, de 1980, a las cuotas mortuorias, ni a los desgravámenes hipotecarios establecidos en forma de seguro de vida.
 
 ##### Capítulo III
 DEL PAGO DEL IMPUESTO SOBRE LAS DONACIONES
@@ -9243,7 +9243,8 @@ NOTA:
 NOTA:
 El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
-Art. 54. Los notarios no podrán autorizar las escrituras públicas de adjudicaciones de bienes hereditarios o de enajenaciones o disposiciones en común, que hagan los asignatarios, ni los Conservadores inscribirlas, sin que en ellas se inserte el comprobante de pago de impuesto, a menos que la adjudicación se hubiere hecho en juicios de partición constituidos legalmente o que los asignatarios hubieren otorgado garantía para el pago de la contribución.
+Artículo 54.- Las compañías de seguros no podrán pagar sumas debidas por contratos de seguros de vida sin contar previamente con el comprobante de pago del impuesto.
+Asimismo, los notarios no podrán autorizar las escrituras públicas de adjudicaciones de bienes hereditarios o de enajenaciones o disposiciones en común, que hagan los asignatarios, ni los Conservadores inscribirlas, sin que en ellas se inserte el referido comprobante, a menos que la adjudicación se hubiere hecho en juicios de partición constituidos legalmente o que los asignatarios hubieren otorgado garantía para el pago de la contribución.
 Para que gocen del privilegio de este artículo, los compromisos particionales deberán ser ejercidos por abogados que nombre la justicia ordinaria, o cuyo nombramiento sea sometido a su aprobación para los efectos del impuesto de herencia, si no lo debiere prestar por otra causa.
 Se exceptuarán de lo dispuesto en este artículo, las escrituras de partición y la de cesión de derechos hereditarios.
 
@@ -9316,7 +9317,7 @@ Art. 69. Será aplicable la disposición del artículo 53, aun antes de transcur
 En tales casos, los contratantes quedarán solidariamente responsables del pago del impuesto e incurrirán en una multa de un 10% a un 100% de una unidad tributaria anual. Los bienes objeto de la transferencia quedarán afectos a estas responsabilidades, cualquiera que sea su actual dueño.
 Se exceptúan de lo dispuesto en este artículo aquellos casos en que el Servicio, haciendo uso de sus facultades que le confieren los artículos 44 y 58, hubiere autorizado la entrega o enajenación de bienes determinados.
 
-Art. 70. La inobservancia de lo que dispone el artículo 54 constituirá a los notarios en codeudores solidarios del impuesto, sin perjuicio de una multa de un 10% a un 100% de una unidad tributaria anual.
+Art. 70. La inobservancia de lo que dispone el artículo 54 constituirá a los notarios y las compañías de seguros en codeudores solidarios del impuesto, sin perjuicio de una multa de un 10% a un 100% de una unidad tributaria anual.
 
 Art. 71. La contravención a lo que preceptúa el artículo 59, constituirá a los herederos, árbitros partidores y albaceas, en codeudores solidarios del impuesto, sin perjuicio de incurrir en una multa de un 10% a un 100% de una unidad tributaria anual.
 
