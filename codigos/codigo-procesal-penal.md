@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2022-01-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2022-02-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2022-01-25
-fetched_at: 2026-08-03T04:42:30.003926+00:00
+version_date: 2022-02-05
+fetched_at: 2026-08-03T04:43:34.979731+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1581,7 +1581,7 @@ Artículo 346.- Audiencia de comunicación de la sentencia. Una vez redactada la
 
 Artículo 347.- Decisión absolutoria y medidas cautelares personales. Comunicada a las partes la decisión absolutoria prevista en el artículo 343, el tribunal dispondrá, en forma inmediata, el alzamiento de las medidas cautelares personales que se hubieren decretado en contra del acusado y ordenará se tome nota de este alzamiento en todo índice o registro público y policial en el que figuraren. También se ordenará la cancelación de las garantías de comparecencia que se hubieren otorgado.
 
-Artículo 348.- Sentencia condenatoria. La sentencia condenatoria fijará las penas y se pronunciará sobre la eventual aplicación de alguna de las penas sustitutivas a la privación o restricción de libertad previstas en la ley.
+Artículo 348.- Sentencia condenatoria. La sentencia condenatoria fijará todas las penas principales y accesorias que corresponda imponer, con indicación específica de cada una de ellas, y se pronunciará sobre la eventual aplicación de alguna de las penas sustitutivas a la privación o restricción de libertad previstas en la ley.
 La sentencia que condenare a una pena temporal deberá expresar con toda precisión el día desde el cual empezará ésta a contarse y fijará el tiempo de detención, prisión preventiva y privación de libertad impuesta en conformidad a la letra a) del artículo 155 que deberá servir de abono para su cumplimiento. Para estos efectos, se abonará a la pena impuesta un día por cada día completo, o fracción igual o superior a doce horas, de dichas medidas cautelares que hubiere cumplido el condenado.
 La sentencia condenatoria dispondrá también el comiso de los instrumentos o efectos del delito o su restitución, cuando fuere procedente.
 Cuando se hubiere declarado falso, en todo o en parte, un instrumento público, el tribunal, junto con su devolución, ordenará que se lo reconstituya, cancele o modifique de acuerdo con la sentencia.
