@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-02-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-02-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2022-02-05
-fetched_at: 2026-08-03T04:43:16.953174+00:00
+version_date: 2022-02-12
+fetched_at: 2026-08-03T04:43:40.989136+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2453,12 +2453,13 @@ Tráfico de migrantes. El que con ánimo de lucro facilite o promueva la entrada
 La pena señalada en el inciso anterior se aplicará en su grado máximo si se pusiere en peligro la integridad física o salud del afectado.
 Si se pusiere en peligro la vida del afectado o si éste fuere menor de edad, la pena señalada en el inciso anterior se aumentará en un grado.
 Las mismas penas de los incisos anteriores, junto con la de inhabilitación absoluta temporal para cargos u oficios públicos en su grado máximo, se impondrá si el hecho fuere ejecutado, aun sin ánimo de lucro, por un funcionario público en el desempeño de su cargo o abusando de él. Para estos efectos se estará a lo dispuesto en el artículo 260.
+Por entrada ilegal se entenderá el paso de fronteras sin haber cumplido los requisitos necesarios para entrar legalmente a Chile.
 
 ART. 411 ter.-
 El que promoviere o facilitare la entrada o salida del país de personas para que ejerzan la prostitución en el territorio nacional o en el extranjero, será castigado con la pena de reclusión menor en su grado máximo y multa de veinte unidades tributarias mensuales.
 
 ART. 411 quáter.-
-El que mediante violencia, intimidación, coacción, engaño, abuso de poder, aprovechamiento de una situación de vulnerabilidad o de dependencia de la víctima, o la concesión o recepción de pagos u otros beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra capte, traslade, acoja o reciba personas para que sean objeto de alguna forma de explotación sexual, incluyendo la pornografía, trabajos o servicios forzados, servidumbre o esclavitud o prácticas análogas a ésta, o extracción de órganos, será castigado con la pena de reclusión mayor en sus grados mínimo a medio y multa de cincuenta a cien unidades tributarias mensuales.
+El que mediante violencia, intimidación, coacción, engaño, abuso de poder, aprovechamiento de una situación de vulnerabilidad o de dependencia de la víctima, o la concesión o recepción de pagos u otros beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra capte, traslade, acoja o reciba personas para que sean objeto de alguna forma de explotación sexual, incluyendo la pornografía, trabajos o servicios forzados, servidumbre o esclavitud o prácticas análogas a ésta, o extracción de órganos, será castigado con la pena de reclusión mayor en cualquiera de sus grados y multa de cincuenta a cien unidades tributarias mensuales.
 Si la víctima fuere menor de edad, aun cuando no concurriere violencia, intimidación, coacción, engaño, abuso de poder, aprovechamiento de una situación de vulnerabilidad o de dependencia de la víctima, o la concesión o recepción de pagos u otros beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra, se impondrán las penas de reclusión mayor en su grado medio y multa de cincuenta a cien unidades tributarias mensuales.
 El que promueva, facilite o financie la ejecución de las conductas descritas en este artículo será sancionado como autor del delito.
 
