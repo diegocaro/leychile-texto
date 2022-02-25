@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=2021-12-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=2022-02-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 30287
-version_date: 2021-12-24
-fetched_at: 2026-08-03T04:41:41.192865+00:00
+version_date: 2022-02-25
+fetched_at: 2026-08-03T04:44:05.015109+00:00
 titulo_norma: "APRUEBA CODIGO AERONAUTICO"
 compuesto: LEY-18916
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -551,7 +551,7 @@ c) Puntos de partida y de destino, precio y clase del pasaje.
 d) La explicitación clara de las condiciones, restricciones y limitaciones a que está sujeto y de todos los derechos contemplados en el presente Capítulo.
 El transportador podrá expedir el billete de pasaje por cualquier medio, siempre y cuando éste permita cumplir con lo señalado anteriormente.
 El billete de pasaje hace fe de la celebración y de las condiciones del contrato de transporte. La falta, irregularidades o pérdida del billete no afectarán a la existencia ni a la validez del contrato.
-Con todo, el transportador estará obligado a tener a disposición de los pasajeros folletos informativos con especificación de sus derechos, en un lugar visible de sus oficinas de venta de pasajes y en los mostradores de los aeropuertos.
+El transportador, sus agentes autorizados y los explotadores de aeródromos y aeropuertos estarán obligados a informar a los pasajeros los derechos que establece este Título, en conformidad a las condiciones que establezca la Junta de Aeronáutica Civil, previa consulta al Servicio Nacional del Consumidor. Lo anterior se entenderá sin perjuicio de que el transportador estará obligado a poner a disposición de los pasajeros folletos informativos con especificación de sus derechos, en un lugar visible de las oficinas de venta de pasajes y en los mostradores de los aeropuertos.
 
 Artículo 131 bis.- Cesión del derecho a ser transportado en vuelo de cabotaje. El pasajero podrá ceder libremente y sin costo alguno su derecho a ser transportado en un vuelo de cabotaje, por trayectos de ida y/o vuelta.
 La cesión sólo podrá realizarse hasta las veinticuatro horas previas al vuelo, y se perfeccionará por medio de la individualización del cedente y del cesionario en el formulario digital que el transportador deberá disponer al efecto en su sitio web oficial. En dicho documento, el transportador podrá solicitar, asimismo, los datos que permitan singularizar el billete de pasaje y demás aspectos necesarios para asegurar la correcta cesión del derecho. Lo anterior, también se podrá realizar presencialmente en las oficinas de venta de pasajes, los mostradores de los aeropuertos y agencias autorizadas con que cuente el transportador.
