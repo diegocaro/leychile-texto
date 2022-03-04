@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2021-11-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2022-03-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 2021-11-30
-fetched_at: 2026-08-03T04:40:41.123018+00:00
+version_date: 2022-03-04
+fetched_at: 2026-08-03T04:44:35.029555+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1210,11 +1210,14 @@ Art. 297. El militar culpable de connivencia en la evasión de presos o detenido
 Art. 298. El militar que en campaña y sin cometer traición, revelare el santo y seña o una orden reservada, sobre el servicio, o faltare al secreto de la correspondencia, epistolar o telegráfica, será castigado con la pena de reclusión menor en su grado máximo a reclusión militar mayor en su grado mínimo.
 Si de la revelación resultare grave daño para la causa pública o para las operaciones de la guerra, la pena será de reclusión militar mayor en sus grados medio a máximo.
 
-Art. 299. Será castigado con presidio militar menor en cualquiera de sus grados o con la pérdida del estado militar, el militar:
+Art. 299. Será castigado con
+NOTA 1
+presidio militar menor en cualquiera de sus grados o con la pérdida del estado militar, el militar:
 1° Que no mantenga la debida disciplina en las tropas de su mando o no proceda con la energía necesaria para reprimir en el acto cualquier delito militar, según los medios de que al efecto disponga;
 2° El que por negligencia inexcusable diere lugar a la evasión de prisioneros, o a la de presos o detenidos cuya custodia o conducción le estuviere confiada;
-3° El que sin incurrir en desobediencia o en el delito previsto en el artículo 294, deje de cumplir sus deberes militares.
-INCISO FINAL.- DEROGADO.-
+3° Derogado.
+NOTA 1
+Por Sentencia del Tribunal Constitucional, publicada el 04.03.2022, el N° 3 del presente artículo fue declarado inconstitucional por aplicación del Art. 93 N° 7 de la Constitución Política de la República, debiendo considerarse como derogado a contar de la fecha de publicación de la sentencia.
 
 Artículo 299 bis.- DEROGADO
 
