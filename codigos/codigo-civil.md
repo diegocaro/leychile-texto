@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2022-02-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2022-03-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2022-02-04
-fetched_at: 2026-08-03T04:43:06.059818+00:00
+version_date: 2022-03-10
+fetched_at: 2026-08-03T04:44:53.054096+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -111,20 +111,22 @@ Art. 29. Derogado.
 
 Art. 30. Derogado.
 
-Art. 31. Parentesco por afinidad es el que existe entre una persona que está o ha estado casada y los consanguíneos de su marido o mujer.
-La línea y el grado de afinidad de una persona con un consanguíneo de su marido o mujer, se califican por la línea y grado de consanguinidad de dicho marido o mujer con el dicho consanguíneo. Así, un varón está en primer grado de afinidad, en la línea recta, con los hijos habidos por su mujer en anterior matrimonio; y en segundo grado de afinidad, en la línea transversal, con los hermanos de su mujer.
+Art. 31. Parentesco por afinidad es el que existe entre una persona que está o ha estado casada y los consanguíneos de su cónyuge.
+La línea y el grado de afinidad de una persona con un consanguíneo de su cónyuge, se califican por la línea y grado de consanguinidad de dicho cónyuge con el referido consanguíneo. Así, uno de los cónyuges está en primer grado de afinidad, en la línea recta, con los hijos habidos por su cónyuge en anterior matrimonio, y en segundo grado de afinidad, en la línea transversal, con los hermanos de su cónyuge.
+Las leyes u otras disposiciones que hagan referencia a las expresiones marido y mujer, marido o mujer, se entenderán aplicables a todos los cónyuges, sin distinción de sexo, orientación sexual o identidad de género.
 
 Art. 32. Derogado.
 
 Art. 33. Tienen el estado civil de hijos respecto de una persona aquellos cuya filiación se encuentra determinada, de conformidad a las reglas previstas por el Título VII del Libro I de este Código. La ley considera iguales a todos los hijos.
 
-Art. 34. Derogado.
+Art. 34. Los padres y las madres de una persona son sus progenitores, respecto de los cuales se ha determinado una relación de filiación. Se entenderán como tales a su madre y/o padre, sus dos madres, o sus dos padres.
+Las leyes u otras disposiciones que hagan referencia a las expresiones padre y madre, o bien, padre o madre, u otras semejantes, se entenderán aplicables a todos los progenitores, sin distinción de sexo, identidad de género u orientación sexual, salvo que por el contexto o por disposición expresa se deba entender lo contrario.
 
 Art. 35. Derogado.
 
 Art. 36. Derogado.
 
-Art. 37. La filiación de los hijos puede no encontrarse determinada respecto de su padre, de su madre o de ambos.
+Art. 37. La filiación de los hijos puede no encontrarse determinada respecto de uno de sus progenitores, o de ambos.
 
 Art. 38. Derogado.
 
@@ -132,13 +134,13 @@ Art. 39. Derogado.
 
 Art. 40. Derogado.
 
-Art. 41. Los hermanos pueden serlo por parte de padre y de madre, y se llaman entonces hermanos carnales; o sólo por parte de padre, y se llaman entonces hermanos paternos; o sólo por parte de madre, y se llaman entonces hermanos maternos.
+Art. 41. Los hermanos pueden serlo de simple o doble conjunción. Los que sean por parte de ambos progenitores se llaman entonces hermanos de doble conjunción, y los que lo sean sólo por parte de uno de ellos, se llaman entonces hermanos de simple conjunción.
 
 Art. 42. En los casos en que la ley dispone que se oiga a los parientes de una persona, se entenderán comprendidos en esa denominación el cónyuge de ésta y sus consanguíneos de uno y otro sexo, mayores de edad. A falta de consanguíneos en suficiente número serán oídos los afines.
 Serán preferidos los descendientes y ascendientes a los colaterales, y entre éstos los de más cercano parentesco.
 Los parientes serán citados, y comparecerán a ser oídos, verbalmente, en la forma prescrita por el Código de Enjuiciamiento.
 
-Art. 43. Son representantes legales de una persona el padre o la madre, el adoptante y su tutor o curador.
+Art. 43. Son representantes legales de una persona uno o ambos progenitores, el adoptante y su tutor o curador.
 
 Art. 44. La ley distingue tres especies de culpa o descuido.
 Culpa grave, negligencia grave, culpa lata, es la que consiste en no manejar los negocios ajenos con aquel cuidado que aun las personas negligentes y de poca prudencia suelen emplear en sus negocios propios. Esta culpa en materias civiles equivale al dolo.
@@ -240,7 +242,7 @@ Art. 70. El domicilio parroquial, municipal, provincial o relativo a cualquier o
 
 Art. 71. Derogado.
 
-Art. 72. El que vive bajo patria potestad sigue el domicilio paterno o materno, según el caso, y el que se halla bajo tutela o curaduría, el de su tutor o curador.
+Art. 72. El que vive bajo patria potestad sigue el domicilio de quien la ejerza, y el que se halla bajo tutela o curaduría, el de su tutor o curador.
 
 Art. 73. El domicilio de una persona será también el de sus criados y dependientes que residan en la misma casa que ella; sin perjuicio de lo dispuesto en los dos artículos precedentes.
 
@@ -349,7 +351,7 @@ Art. 101. Tampoco se opone lo dicho a que se admita la prueba del contrato de es
 ##### Título IV
 DEL MATRIMONIO
 
-Art. 102. El matrimonio es un contrato solemne por el cual un hombre y una mujer se unen actual e indisolublemente, y por toda la vida, con el fin de vivir juntos, de procrear, y de auxiliarse mutuamente.
+Art. 102. El matrimonio es un contrato solemne por el cual dos personas se unen actual e indisolublemente, y por toda la vida, con el fin de vivir juntos, de procrear, y de auxiliarse mutuamente.
 
 Art. 103. El matrimonio podrá celebrarse por mandatario especialmente facultado para este efecto. El mandato deberá otorgarse por escritura pública, e indicar el nombre, apellido, profesión y domicilio de los contrayentes y del mandatario.
 
@@ -359,7 +361,7 @@ Art. 105. No podrá procederse a la celebración del matrimonio sin el asenso o 
 
 Art. 106. Los que hayan cumplido dieciocho años no estarán obligados a obtener el consentimiento de persona alguna.
 
-Art. 107. Los que no hubieren cumplido dieciocho años no podrán casarse sin el consentimiento expreso de sus padres; si faltare uno de ellos, el del otro padre o madre; o a falta de ambos, el del ascendiente o de los ascendientes de grado más próximo.
+Art. 107. Los que no hubieren cumplido dieciocho años no podrán casarse sin el consentimiento expreso de sus progenitores; si faltare uno de ellos, el del otro; o a falta de ambos, el del ascendiente o de los ascendientes de grado más próximo.
 En igualdad de votos contrarios preferirá el favorable al matrimonio.
 
 Art. 108. Derogado.
@@ -371,7 +373,7 @@ Art. 110. Se entenderá faltar asimismo el padre o madre que estén privados de 
 
 Art. 111. A falta de dichos padre, madre o ascendientes, será necesario al que no haya cumplido dieciocho años el consentimiento de su curador general.
 En defecto de los anteriormente llamados, dará al menor el consentimiento para el matrimonio el oficial del Registro Civil que deba intervenir en su celebración. Si éste tuviere alguna de las razones contempladas en el artículo 113 para oponerse al matrimonio, lo comunicará por escrito al juez de letras de la comuna o agrupación de comunas para los efectos señalados en el artículo 112.
-Si se tratare de un hijo cuya filiación aún no ha sido determinada respecto de ninguno de sus padres, el consentimiento para el matrimonio lo dará su curador general. A falta de éste, será aplicable lo dispuesto en el inciso anterior.
+Si se tratare de un hijo cuya filiación aún no ha sido determinada respecto de ninguno de sus progenitores, el consentimiento para el matrimonio lo dará su curador general. A falta de éste, será aplicable lo dispuesto en el inciso anterior.
 
 Art. 112. Si la persona que debe prestar este consentimiento lo negare, aunque sea sin expresar causa alguna, no podrá procederse al matrimonio de los menores de dieciocho años.
 El curador y el oficial del Registro Civil que nieguen su consentimiento estarán siempre obligados a expresar la causa, y, en tal caso, el menor tendrá derecho a pedir que el disenso sea calificado por el juzgado competente.
@@ -414,7 +416,7 @@ DE LAS SEGUNDAS NUPCIAS
 Art. 124. El que teniendo hijos de precedente matrimonio bajo su patria potestad, o bajo su tutela o curaduría, quisiere volver a casarse, deberá proceder al inventario solemne de los bienes que esté administrando y les pertenezcan como herederos de su cónyuge difunto o con cualquiera otro título.
 Para la confección de este inventario se dará a dichos hijos un curador especial.
 
-Art. 125. Habrá lugar al nombramiento de curador aunque los hijos no tengan bienes propios de ninguna clase en poder del padre o madre. Cuando así fuere, deberá el curador especial testificarlo.
+Art. 125. Habrá lugar al nombramiento de curador aunque los hijos no tengan bienes propios de ninguna clase en poder del cónyuge que quisiere volver a casarse. Cuando así fuere, deberá el curador especial testificarlo.
 
 Art. 126. El Oficial del Registro Civil correspondiente no permitirá el matrimonio del que trata de volver a casarse, sin que se le presente certificado auténtico del nombramiento de curador especial para los objetos antedichos, o sin que preceda información sumaria de que no tiene hijos de precedente matrimonio, que estén bajo su patria potestad o bajo su tutela o curaduría.
 
@@ -431,18 +433,19 @@ OBLIGACIONES Y DERECHOS ENTRE LOS CONYUGES
 
 ###### § 1. Reglas generales
 
-Art. 131. Los cónyuges están obligados a guardarse fe, a socorrerse y ayudarse mutuamente en todas las circunstancias de la vida. El marido y la mujer se deben respeto y protección recíprocos.
+Art. 131. Los cónyuges están obligados a guardarse fe, a socorrerse y ayudarse mutuamente en todas las circunstancias de la vida. Asimismo, se deben respeto y protección recíprocos.
 
 Art. 132. El adulterio constituye una grave infracción al deber de fidelidad que impone el matrimonio y da origen a las sanciones que la ley prevé.
-Cometen adulterio la mujer casada que yace con varón que no sea su marido y el varón casado que yace con mujer que no sea su cónyuge.
+Comete adulterio la persona casada que yace con otra que no sea su cónyuge.
 
 Art. 133. Ambos cónyuges tienen el derecho y el deber de vivir en el hogar común, salvo que a alguno de ellos le asista razones graves para no hacerlo.
 
-Art. 134. El marido y la mujer deben proveer a las necesidades de la familia común, atendiendo a sus facultades económicas y al régimen de bienes que entre ellos medie.
+Art. 134. Ambos cónyuges deben proveer a las necesidades de la familia común, atendiendo a sus facultades económicas y al régimen de bienes que entre ellos medie.
 El juez, si fuere necesario, reglará la contribución.
 
 Art. 135. Por el hecho del matrimonio se contrae sociedad de bienes entre los cónyuges, y toma el marido la administración de los de la mujer, según las reglas que se expondrán en el título De la sociedad conyugal.
-Los que se hayan casado en país extranjero se mirarán en Chile como separados de bienes, a menos que inscriban su matrimonio en el Registro de la Primera Sección de la Comuna de Santiago, y pacten en ese acto sociedad conyugal o régimen de participación en los gananciales, dejándose constancia de ello en dicha inscripción.
+Lo dispuesto en el inciso anterior no será aplicable a los matrimonios celebrados entre personas del mismo sexo, las que, por el hecho del matrimonio, se entenderán separadas totalmente de bienes, sin perjuicio de la facultad de optar por el régimen de participación en los gananciales en las capitulaciones matrimoniales, o de sustituirlo por éste durante la vigencia del matrimonio, en conformidad a lo dispuesto en el artículo 1723.
+Los que se hayan casado en país extranjero se mirarán en Chile como separados de bienes, a menos que inscriban su matrimonio en el Registro de la Primera Sección de la Comuna de Santiago, y pacten en ese acto sociedad conyugal o régimen de participación en los gananciales, dejándose constancia de ello en dicha inscripción. Tratándose de matrimonios entre personas del mismo sexo casadas en país extranjero, sólo podrán pactar el régimen de participación en los gananciales.
 
 Art. 136. Los cónyuges serán obligados a suministrarse los auxilios que necesiten para sus acciones o defensas judiciales. El marido deberá, además, si está casado en sociedad conyugal, proveer a la mujer de las expensas para la litis que ésta siga en su contra, si no tiene los bienes a que se refieren los artículos 150, 166 y 167, o ellos fueren insuficientes.
 
@@ -550,7 +553,7 @@ Rigen iguales disposiciones para la mujer separada de bienes respecto de las obl
 
 Art. 162. Si la mujer separada de bienes confiere al marido la administración de alguna parte de los suyos, será obligado el marido a la mujer como simple mandatario.
 
-Art. 163. Al marido y a la mujer separados de bienes se dará curador para la administración de los suyos en todos los casos en que siendo solteros necesitarían de curador para administrarlos.
+Art. 163. A los cónyuges separados de bienes se dará curador para la administración de los suyos en todos los casos en que siendo solteros necesitarían de curador para administrarlos.
 
 Art. 164. Derogado.
 
@@ -597,8 +600,8 @@ DE LA FILIACIÓN
 Art. 179. La filiación por naturaleza puede ser matrimonial o no matrimonial.
 La adopción, los derechos entre adoptante y adoptado y la filiación que pueda establecerse entre ellos, se rigen por la ley respectiva.
 
-Art. 180. La filiación es matrimonial cuando existe matrimonio entre los padres al tiempo de la concepción o del nacimiento del hijo.
-Es también filiación matrimonial la del hijo cuyos padres contraen matrimonio con posterioridad a su nacimiento, siempre que la paternidad y la maternidad hayan estado previamente determinadas por los medios que este Código establece, o bien se determinen por reconocimiento realizado por ambos padres en el acto del matrimonio o durante su vigencia, en la forma prescrita por el artículo 187. Esta filiación matrimonial aprovechará, en su caso, a la posteridad del hijo fallecido.
+Art. 180. La filiación es matrimonial cuando existe matrimonio entre los progenitores al tiempo de la concepción o del nacimiento del hijo.
+Es también filiación matrimonial la del hijo cuyos progenitores contraen matrimonio con posterioridad a su nacimiento, siempre que la filiación haya estado previamente determinada por los medios que este Código establece respecto de quienes contraen matrimonio, o bien se determine por reconocimiento realizado por ambos progenitores en el acto del matrimonio o durante su vigencia, en la forma prescrita por el artículo 187. Esta filiación matrimonial aprovechará, en su caso, a la posteridad del hijo fallecido.
 En los demás casos, la filiación es no matrimonial.
 
 Art. 181. La filiación produce efectos civiles cuando queda legalmente determinada, pero éstos se retrotraen a la época de la concepción del hijo.
@@ -606,7 +609,7 @@ No obstante, subsistirán los derechos adquiridos y las obligaciones contraídas
 Todo lo anterior se entiende sin perjuicio de la prescripción de los derechos y de las acciones, que tendrá lugar conforme a las reglas generales.
 La acreditación de la filiación determinada se realizará conforme con las normas establecidas en el Título XVII.
 
-Art. 182. El padre y la madre del hijo concebido mediante la aplicación de técnicas de reproducción humana asistida son el hombre y la mujer que se sometieron a ellas.
+Art. 182. La filiación del hijo que nazca por la aplicación de técnicas de reproducción humana asistida, quedará determinada respecto de las dos personas que se hayan sometido a ellas.
 No podrá impugnarse la filiación determinada de acuerdo a la regla precedente, ni reclamarse una distinta.
 
 ###### § 2. De la determinación de la maternidad
@@ -616,30 +619,30 @@ En los demás casos la maternidad se determina por reconocimiento o sentencia fi
 
 ###### § 3. De la determinación de la filiación matrimonial
 
-Art. 184. Se presumen hijos del marido los nacidos después de la celebración del matrimonio y dentro de los trescientos días siguientes a su disolución o a la separación judicial de los cónyuges.
+Art. 184. Tratándose de cónyuges de distinto sexo, se presumen hijos del marido los nacidos después de la celebración del matrimonio y dentro de los trescientos días siguientes a su disolución o a la separación judicial de los cónyuges.
 No se aplicará esta presunción respecto del que nace antes de expirar los ciento ochenta días subsiguientes al matrimonio, si el marido no tuvo conocimiento de la preñez al tiempo de casarse y desconoce judicialmente su paternidad. La acción se ejercerá en el plazo y forma que se expresa en los artículos 212 y siguientes. Con todo, el marido no podrá ejercerla si por actos positivos ha reconocido al hijo después de nacido.
 Regirá, en cambio, la presunción de paternidad respecto del nacido trescientos días después de decretada la separación judicial, por el hecho de consignarse como padre el nombre del marido, a petición de ambos cónyuges, en la inscripción de nacimiento del hijo.
 Si la mujer contrae sucesivamente dos matrimonios y da a luz un niño después de celebrado el segundo, se presumirá hijo del actual marido, cualquiera que sea el plazo que haya transcurrido desde la disolución del primer matrimonio, sin perjuicio del derecho del actual marido para desconocer esta paternidad si se dan los supuestos previstos en el inciso segundo. Desconocida así la paternidad, se presumirá padre al marido del antecedente matrimonio, siempre que el niño haya nacido dentro de los trescientos días siguientes a su disolución.
 La paternidad así determinada o desconocida podrá ser impugnada o reclamada, respectivamente, de acuerdo con las reglas establecidas en el Título VIII.
 
-Art. 185. La filiación matrimonial queda determinada por el nacimiento del hijo durante el matrimonio de sus padres, con tal que la maternidad y la paternidad estén establecidas legalmente en conformidad con los artículos 183 y 184, respectivamente.
-Tratándose del hijo nacido antes de casarse sus padres, la filiación matrimonial queda determinada por la celebración de ese matrimonio, siempre que la maternidad y la paternidad estén ya determinadas con arreglo al artículo 186 o, en caso contrario, por el último reconocimiento conforme a lo establecido en el párrafo siguiente.
+Art. 185. La filiación matrimonial queda determinada por el nacimiento del hijo durante el matrimonio de sus progenitores, con tal que la maternidad o la paternidad de ambos estén establecidas legalmente en conformidad con los artículos 183 y 184, respectivamente.
+Tratándose del hijo nacido antes de casarse sus progenitores, la filiación matrimonial queda determinada por la celebración de ese matrimonio, siempre que la maternidad o la paternidad de ambos estén ya determinadas con arreglo al artículo 186 o, en caso contrario, por el último reconocimiento conforme a lo establecido en el párrafo siguiente.
 La filiación matrimonial podrá también determinarse por sentencia dictada en juicio de filiación, que se subinscribirá al margen de la inscripción de nacimiento del hijo.
 
 ###### § 4. De la determinación de la filiación no
 matrimonial
 
-Art. 186. La filiación no matrimonial queda determinada legalmente por el reconocimiento del padre, la madre o ambos, o por sentencia firme en juicio de filiación.
+Art. 186. La filiación no matrimonial queda determinada legalmente por el reconocimiento de uno de los progenitores, o de ambos, o por sentencia firme en juicio de filiación.
 
-Art. 187. El reconocimiento del hijo tendrá lugar mediante una declaración formulada con ese determinado objeto por el padre, la madre o ambos, según los casos:
-1º. Ante el Oficial del Registro Civil, al momento de inscribirse el nacimiento del hijo o en el acto del matrimonio de los padres;
+Art. 187. El reconocimiento del hijo tendrá lugar mediante una declaración formulada con ese determinado objeto por alguno de sus progenitores o ambos, según los casos:
+1º. Ante el Oficial del Registro Civil, al momento de inscribirse el nacimiento del hijo o en el acto del matrimonio de los progenitores;
 2º. En acta extendida en cualquier tiempo, ante cualquier oficial del Registro Civil;
 3º. En escritura pública, o
 4º. En acto testamentario.
-Si es uno solo de los padres el que reconoce, no será obligado a expresar la persona en quien o de quien tuvo al hijo.
+Si es uno solo de los progenitores el que reconoce, no será obligado a expresar la persona en quien o de quien tuvo al hijo.
 El reconocimiento que no conste en la inscripción de nacimiento del hijo, será subinscrito a su margen.
 
-Art. 188. El hecho de consignarse el nombre del padre o de la madre, a petición de cualquiera de ellos, al momento de practicarse la inscripción del nacimiento, es suficiente reconocimiento de filiación.
+Art. 188. El hecho de consignarse el nombre de alguno de los progenitores, a petición de cualquiera de ellos, al momento de practicarse la inscripción del nacimiento, es suficiente reconocimiento de filiación.
 NOTA
 NOTA
 El N° 1 del Artículo 1° de la Ley 20030, publicada el 05.07.2005, deroga los incisos segundo, tercero y cuarto de la presente norma.
@@ -705,14 +708,14 @@ Sin embargo, se restituirán al padre o madre todos los derechos de los que est�
 
 ###### § 2. De las acciones de reclamación
 
-Art. 204. La acción de reclamación de la filiación matrimonial corresponde exclusivamente al hijo, al padre o a la madre.
-En el caso de los hijos, la acción deberá entablarse conjuntamente contra ambos padres.
-Si la acción es ejercida por el padre o la madre, deberá el otro progenitor intervenir forzosamente en el juicio, so pena de nulidad.
+Art. 204. La acción de reclamación de la filiación matrimonial corresponde exclusivamente al hijo, o a cualquiera de sus progenitores.
+En el caso de los hijos, la acción deberá entablarse conjuntamente contra ambos progenitores.
+Si la acción es ejercida por uno de sus progenitores, el otro deberá intervenir forzosamente en el juicio, so pena de nulidad.
 
-Art. 205. La acción de reclamación de la filiación no matrimonial corresponde sólo al hijo contra su padre o su madre, o a cualquiera de éstos cuando el hijo tenga determinada una filiación diferente, para lo cual se sujetarán a lo dispuesto en el artículo 208.
+Art. 205. La acción de reclamación de la filiación no matrimonial corresponde sólo al hijo contra alguno de sus progenitores, o a cualquiera de éstos cuando el hijo tenga determinada una filiación diferente, para lo cual se sujetarán a lo dispuesto en el artículo 208.
 Podrá, asimismo, reclamar la filiación el representante legal del hijo incapaz, en interés de éste.
 
-Art. 206. Si el hijo es póstumo, o si alguno de los padres fallece dentro de los ciento ochenta días siguientes al parto, la acción podrá dirigirse en contra de los herederos del padre o de la madre fallecidos, dentro del plazo de tres años, contados desde su muerte o, si el hijo es incapaz, desde que éste haya alcanzado la plena capacidad.
+Art. 206. Si el hijo es póstumo, o si alguno de los progenitores fallece dentro de los ciento ochenta días siguientes al parto, la acción podrá dirigirse en contra de los herederos del progenitor fallecido, dentro del plazo de tres años, contados desde su muerte o, si el hijo es incapaz, desde que éste haya alcanzado la plena capacidad.
 
 Art. 207. Si hubiere fallecido el hijo siendo incapaz, la acción podrá ser ejercida por sus herederos, dentro del plazo de tres años contado desde la muerte.
 Si el hijo falleciere antes de transcurrir tres años desde que alcanzare la plena capacidad, la acción corresponderá a sus herederos por todo el tiempo que faltare para completar dicho plazo.
@@ -784,16 +787,17 @@ Siempre que el juez atribuya el cuidado personal del hijo a uno de los padres, d
 Mientras una nueva subinscripción relativa al cuidado personal no sea cancelada por otra posterior, todo nuevo acuerdo o resolución será inoponible a terceros.
 
 Art. 225-2. En el establecimiento del régimen y ejercicio del cuidado personal, se considerarán y ponderarán conjuntamente los siguientes criterios y circunstancias:
-a) La vinculación afectiva entre el hijo y sus padres, y demás personas de su entorno familiar.
-b) La aptitud de los padres para garantizar el bienestar del hijo y la posibilidad de procurarle un entorno adecuado, según su edad.
-c) La contribución a la mantención del hijo mientras estuvo bajo el cuidado personal del otro padre, pudiendo hacerlo.
-d) La actitud de cada uno de los padres para cooperar con el otro, a fin de asegurar la máxima estabilidad al hijo y garantizar la relación directa y regular, para lo cual considerará especialmente lo dispuesto en el inciso quinto del artículo 229.
-e) La dedicación efectiva que cada uno de los padres procuraba al hijo antes de la separación y, especialmente, la que pueda seguir desarrollando de acuerdo con sus posibilidades.
+a) La vinculación afectiva entre el hijo y sus progenitores, y demás personas de su entorno familiar.
+b) La aptitud de los progenitores para garantizar el bienestar del hijo y la posibilidad de procurarle un entorno adecuado, según su edad.
+c) La contribución a la mantención del hijo mientras estuvo bajo el cuidado personal del otro progenitor, pudiendo hacerlo.
+d) La actitud de cada uno de los progenitores para cooperar con el otro, a fin de asegurar la máxima estabilidad al hijo y garantizar la relación directa y regular, para lo cual considerará especialmente lo dispuesto en el inciso quinto del artículo 229.
+e) La dedicación efectiva que cada uno de los progenitores procuraba al hijo antes de la separación y, especialmente, la que pueda seguir desarrollando de acuerdo con sus posibilidades.
 f) La opinión expresada por el hijo.
 g) El resultado de los informes periciales que se haya ordenado practicar.
-h) Los acuerdos de los padres antes y durante el respectivo juicio.
-i) El domicilio de los padres.
+h) Los acuerdos de los progenitores antes y durante el respectivo juicio.
+i) El domicilio de los progenitores.
 j) Cualquier otro antecedente que sea relevante atendido el interés superior del hijo.
+En ningún caso el establecimiento del régimen del cuidado personal podrá fundarse en razón de la raza o etnia, la nacionalidad, la orientación sexual, la identidad o expresión de género, la apariencia personal o cualquier otra categoría que resulte discriminatoria.
 
 Art. 226. Podrá el juez, en el caso de inhabilidad física o moral de ambos padres, confiar el cuidado personal de los hijos a otra persona o personas competentes, velando primordialmente por el interés superior del niño conforme a los criterios establecidos en el artículo 225-2.
 En la elección de estas personas se preferirá a los consanguíneos más próximos y, en especial, a los ascendientes, al cónyuge o al conviviente civil del padre o madre, según corresponda.
@@ -1043,13 +1047,13 @@ Art. 306. Se presumirán la autenticidad y pureza de los documentos antedichos, 
 
 Art. 307. Podrán rechazarse los antedichos documentos, aun cuando conste su autenticidad y pureza, probando la no identidad personal, esto es, el hecho de no ser una misma la persona a que el documento se refiere y la persona a quien se pretenda aplicar.
 
-Art. 308. Los antedichos documentos atestiguan la declaración hecha por los contrayentes de matrimonio, por los padres, padrinos u otras personas en los respectivos casos, pero no garantizan la veracidad de esta declaración en ninguna de sus partes.
+Art. 308. Los antedichos documentos atestiguan la declaración hecha por los contrayentes de matrimonio, por los progenitores, padrinos u otras personas en los respectivos casos, pero no garantizan la veracidad de esta declaración en ninguna de sus partes.
 Podrán, pues, impugnarse, haciendo constar que fue falsa la declaración en el punto de que se trata.
 
 Art. 309. La falta de partida de matrimonio podrá suplirse por otros documentos auténticos, por declaraciones de testigos que hayan presenciado la celebración del matrimonio y, en defecto de estas pruebas, por la notoria posesión de ese estado civil.
 La filiación, a falta de partida o subinscripción, sólo podrá acreditarse o probarse por los instrumentos auténticos mediante los cuales se haya determinado legalmente. A falta de éstos, el estado de padre, madre o hijo deberá probarse en el correspondiente juicio de filiación en la forma y con los medios previstos en el Título VIII.
 
-Art. 310. La posesión notoria del estado de matrimonio consiste principalmente en haberse tratado los supuestos cónyuges como marido y mujer en sus relaciones domésticas y sociales; y en haber sido la mujer recibida en ese carácter por los deudos y amigos de su marido, y por el vecindario de su domicilio en general.
+Art. 310. La posesión notoria del estado de matrimonio consiste principalmente en haberse tratado los supuestos cónyuges como tales en sus relaciones domésticas y sociales; y en haber sido uno de los cónyuges recibido en ese carácter por los deudos y amigos del otro, y por el vecindario de su domicilio en general.
 
 Art. 311. Derogado.
 
@@ -3199,17 +3203,17 @@ En este caso, la herencia se dividirá en tres partes, dos para el cónyuge y un
 Habiendo un solo ascendiente en el grado más próximo, sucederá éste en todos los bienes, o en toda la porción hereditaria de los ascendientes.
 
 Art. 990. Si el difunto no hubiere dejado descendientes, ni ascendientes, ni cónyuge, le sucederán sus hermanos.
-Entre los hermanos de que habla este artículo se comprenderán aun los que solamente lo sean por parte de padre o de madre; pero la porción del hermano paterno o materno será la mitad de la porción del hermano carnal.
+Entre los hermanos de que habla este artículo se comprenderán los de simple y doble conjunción, pero la porción de los primeros será la mitad que la que corresponda a los segundos.
 
 Art. 991. Derogado.
 
 Art. 992. A falta de descendientes, ascendientes, cónyuge y hermanos, sucederán al difunto los otros colaterales de grado más próximo, sean de simple o doble conjunción, hasta el sexto grado inclusive.
-Los colaterales de simple conjunción, esto es, los que sólo son parientes del difunto por parte de padre o por parte de madre, tendrán derecho a la mitad de la porción de los colaterales de doble conjunción, esto es, los que a la vez son parientes del difunto por parte de padre y por parte de madre. El colateral o los colaterales del grado más próximo excluirán siempre a los otros.
+Los colaterales de simple conjunción, esto es, los que sólo son parientes del difunto por parte de uno de los progenitores, tendrán derecho a la mitad de la porción de los colaterales de doble conjunción, esto es, los que a la vez son parientes del difunto por parte de ambos progenitores. El colateral o los colaterales del grado más próximo excluirán siempre a los otros.
 
 Art. 993. Derogado.
 
-Art. 994. El cónyuge separado judicialmente, que hubiere dado motivo a la separación por su culpa, no tendrá parte alguna en la herencia abintestato de su mujer o marido.
-Tampoco sucederán abintestato los padres del causante si la paternidad o maternidad ha sido determinada judicialmente contra su oposición, salvo que mediare el restablecimiento a que se refiere el artículo 203.
+Art. 994. El cónyuge separado judicialmente, que hubiere dado motivo a la separación por su culpa, no tendrá parte alguna en la herencia abintestato de su cónyuge.
+Tampoco sucederán abintestato los progenitores del causante si la paternidad o maternidad ha sido determinada judicialmente contra su oposición, salvo que mediare el restablecimiento a que se refiere el artículo 203.
 
 Art. 995. A falta de todos los herederos abintestato designados en los artículos precedentes, sucederá el Fisco.
 
@@ -3231,7 +3235,7 @@ DE LA ORDENACION DEL TESTAMENTO
 
 Art. 999. El testamento es un acto más o menos solemne, en que una persona dispone del todo o de una parte de sus bienes para que tenga pleno efecto después de sus días, conservando la facultad de revocar las disposiciones contenidas en él, mientras viva.
 
-Art. 1000. Toda donación o promesa que no se haga perfecta e irrevocable sino por la muerte del donante o promisor, es un testamento, y debe sujetarse a las mismas solemnidades que el testamento. Exceptúanse las donaciones o promesas entre marido y mujer, las cuales, aunque revocables, podrán hacerse bajo la forma de los contratos entre vivos.
+Art. 1000. Toda donación o promesa que no se haga perfecta e irrevocable sino por la muerte del donante o promisor, es un testamento, y debe sujetarse a las mismas solemnidades que el testamento. Exceptúanse las donaciones o promesas entre cónyuges, las cuales, aunque revocables, podrán hacerse bajo la forma de los contratos entre vivos.
 
 Art. 1001. Todas las disposiciones testamentarias son esencialmente revocables, sin embargo de que el testador exprese en el testamento la determinación de no revocarlas. Las cláusulas derogatorias de sus disposiciones futuras se tendrán por no escritas, aunque se confirmen con juramento.
 Si en un testamento anterior se hubiere ordenado que no valga su revocación si no se hiciere con ciertas palabras o señales, se mirará esta disposición como no escrita.
@@ -4022,7 +4026,7 @@ Art. 1253. En la confección del inventario se observará lo prevenido para el d
 
 Art. 1254. Si el difunto ha tenido parte en una sociedad, y por una cláusula del contrato ha estipulado que la sociedad continúe con sus herederos después de su muerte, no por eso en el inventario que haya de hacerse dejarán de ser comprendidos los bienes sociales; sin perjuicio de que los asociados sigan administrándolos hasta la expiración de la sociedad, y sin que por ello se les exija caución alguna.
 
-Art. 1255. Tendrán derecho de asistir al inventario el albacea, el curador de la herencia yacente, los herederos presuntos testamentarios o abintestato, los legatarios, los socios de comercio, los fideicomisarios y todo acreedor hereditario que presente el título de su crédito. Las personas antedichas podrán ser representadas por otras que exhiban escritura pública o privada en que se les cometa este encargo, cuando no lo fueren por sus maridos, tutores, curadores o cualesquiera otros legítimos representantes.
+Art. 1255. Tendrán derecho de asistir al inventario el albacea, el curador de la herencia yacente, los herederos presuntos testamentarios o abintestato, los legatarios, los socios de comercio, los fideicomisarios y todo acreedor hereditario que presente el título de su crédito. Las personas antedichas podrán ser representadas por otras que exhiban escritura pública o privada en que se les cometa este encargo, cuando no lo fueren por sus cónyuges, tutores, curadores o cualesquiera otros legítimos representantes.
 Todas estas personas tendrán derecho de reclamar contra el inventario en lo que les pareciere inexacto.
 
 Art. 1256. El heredero que en la confección del inventario omitiere de mala fe hacer mención de cualquiera parte de los bienes, por pequeña que sea, o supusiere deudas que no existen, no gozará del beneficio de inventario.
@@ -5423,7 +5427,8 @@ DE LAS CONVENCIONES MATRIMONIALES Y DE LA SOCIEDAD CONYUGAL
 ###### § 1. Reglas generales
 
 Art. 1715. Se conocen con el nombre de capitulaciones matrimoniales las convenciones de carácter patrimonial que celebren los esposos antes de contraer matrimonio o en el acto de su celebración.
-En las capitulaciones matrimoniales que se celebren en el acto del matrimonio, sólo podrá pactarse separación total de bienes o régimen de participación en los gananciales.
+En las capitulaciones matrimoniales que se celebren en el acto del matrimonio, sólo podrá pactarse separación total de bienes o régimen de participación en los gananciales. Tratándose de cónyuges del mismo sexo se estará a lo dispuesto en el inciso siguiente.
+Los esposos del mismo sexo podrán celebrar capitulaciones matrimoniales, pero en caso alguno podrán pactar el régimen de sociedad conyugal.
 
 Art. 1716. Las capitulaciones matrimoniales se otorgarán por escritura pública, y sólo valdrán entre las partes y respecto de terceros desde el día de la celebración del matrimonio, y siempre que se subinscriban al margen de la respectiva inscripción matrimonial al tiempo de efectuarse aquél o dentro de los treinta días siguientes. Pero en los casos a que se refiere el inciso segundo del artículo anterior, bastará que esos pactos consten en dicha inscripción. Sin este requisito no tendrán valor alguno.
 Tratándose de matrimonios celebrados en país extranjero y que no se hallen inscritos en Chile, será menester proceder previamente a su inscripción en el Registro de la Primera Sección de la comuna de Santiago, para lo cual se exhibirá al oficial civil que corresponda el certificado de matrimonio debidamente legalizado. En estos casos, el plazo a que se refiere el inciso anterior se contará desde la fecha de la inscripción del matrimonio en Chile.
@@ -5701,7 +5706,7 @@ REGIMEN DE LA PARTICIPACION EN LOS GANANCIALES
 Art. 1792-1. En las capitulaciones matrimoniales que celebren en conformidad con el párrafo primero del Título XXII del Libro Cuarto del Código Civil los esposos podrán pactar el régimen de participación en los gananciales.
 Los cónyuges podrán, con sujeción a lo dispuesto en el artículo 1723 de ese mismo Código, sustituir el régimen de sociedad conyugal o el de separación por el régimen de participación que este Título contempla. Del mismo modo, podrán sustituir el régimen de participación en los gananciales, por el de separación total de bienes.
 
-Art. 1792-2. En el régimen de participación en los gananciales los patrimonios del marido y de la mujer se mantienen separados y cada uno de los cónyuges administra, goza y dispone libremente de lo suyo. Al finalizar la vigencia del régimen de bienes, se compensa el valor de los gananciales obtenidos por los cónyuges y éstos tienen derecho a participar por mitades en el excedente.
+Art. 1792-2. En el régimen de participación en los gananciales los patrimonios de los cónyuges se mantienen separados y cada uno de los cónyuges administra, goza y dispone libremente de lo suyo. Al finalizar la vigencia del régimen de bienes, se compensa el valor de los gananciales obtenidos por los cónyuges y éstos tienen derecho a participar por mitades en el excedente.
 Los principios anteriores rigen en la forma y con las limitaciones señaladas en los artículos siguientes y en el párrafo I del Título VI del Libro Primero del Código Civil.
 
 ###### § 2. De la administración del patrimonio de los cónyuges
@@ -6577,7 +6582,7 @@ Art. 2047. En el segundo caso de los excepcionales de la regla 4.a del artículo
 
 Art. 2048. En los casos en que se suceda por líneas y con derecho de representación, toda persona llamada, o excluida del orden de sucesión por el acto constitutivo, se presumirá serlo con toda su descendencia para siempre; y no se podrá oponer a esta presunción sino disposiciones expresas del acto constitutivo, en la parte que fueren incompatibles con ella.
 
-Art. 2049. Concurriendo hijos concebidos o nacidos en matrimonio con hijos nacidos antes del matrimonio de sus padres, se contará la edad de estos últimos desde el día del matrimonio. Concurriendo entre sí hijos nacidos antes del matrimonio, se contará la edad de cada uno de ellos desde el día de su nacimiento.
+Art. 2049. Concurriendo hijos concebidos o nacidos en matrimonio con hijos nacidos antes del matrimonio de sus progenitores, se contará la edad de estos últimos desde el día del matrimonio. Concurriendo entre sí hijos nacidos antes del matrimonio, se contará la edad de cada uno de ellos desde el día de su nacimiento.
 
 Art. 2050. Derogado.
 
@@ -7220,7 +7225,7 @@ Pero si el que pierde, paga, no puede repetir lo pagado, a menos que se haya gan
 
 Art. 2261. Hay dolo en el que hace la apuesta, si sabe de cierto que se ha de verificar o se ha verificado el hecho de que se trata.
 
-Art. 2262. Lo pagado por personas que no tienen la libre administración de sus bienes, podrá repetirse en todo caso por los respectivos padres de familia, tutores o curadores.
+Art. 2262. Lo pagado por personas que no tienen la libre administración de sus bienes, podrá repetirse en todo caso por quien tenga la patria potestad, tutores o curadores.
 
 Art. 2263. Sin embargo de lo dispuesto en el artículo 2260, producirán acción los juegos de fuerza o destreza corporal, como el de armas, carreras a pie o a caballo, pelota, bolas y otros semejantes, con tal que en ellos no se contravenga a las leyes o a los reglamentos de policía.
 En caso de contravención desechará el juez la demanda en el todo.
@@ -7381,12 +7386,12 @@ Art. 2319. No son capaces de delito o cuasidelito los menores de siete años ni 
 Queda a la prudencia del juez determinar si el menor de dieciséis años ha cometido el delito o cuasidelito sin discernimiento; y en este caso se seguirá la regla del inciso anterior.
 
 Art. 2320. Toda persona es responsable no sólo de sus propias acciones, sino del hecho de aquellos que estuvieren a su cuidado.
-Así el padre, y a falta de éste la madre, es responsable del hecho de los hijos menores que habiten en la misma casa.
+Así los progenitores son responsables del hecho de los hijos menores que habiten en la misma casa.
 Así el tutor o curador es responsable de la conducta del pupilo que vive bajo su dependencia y cuidado.
 Así los jefes de colegios y escuelas responden del hecho de los discípulos, mientras están bajo su cuidado; y los artesanos y empresarios del hecho de sus aprendices o dependientes, en el mismo caso.
 Pero cesará la obligación de esas personas si con la autoridad y el cuidado que su respectiva calidad les confiere y prescribe, no hubieren podido impedir el hecho.
 
-Art. 2321. Los padres serán siempre responsables de los delitos o cuasidelitos cometidos por sus hijos menores, y que conocidamente provengan de mala educación, o de los hábitos viciosos que les han dejado adquirir.
+Art. 2321. Los progenitores serán siempre responsables de los delitos o cuasidelitos cometidos por sus hijos menores, y que conocidamente provengan de mala educación, o de los hábitos viciosos que les han dejado adquirir.
 
 Art. 2322. Los amos responderán de la conducta de sus criados o sirvientes, en el ejercicio de sus respectivas funciones; y esto aunque el hecho de que se trate no se haya ejecutado a su vista.
 Pero no responderán de lo que hayan hecho sus criados o sirvientes en el ejercicio de sus respectivas funciones, si se probare que las han ejercido de un modo impropio que los amos no tenían medio de prever o impedir, empleando el cuidado ordinario, y la autoridad competente. En este caso toda la responsabilidad recaerá sobre dichos criados o sirvientes.
@@ -8287,12 +8292,9 @@ NOTA
 El Art. final de la LEY 19947, publicada el 17.05.2004, establece que las modificaciones efectuadas a este artículo entrarán en vigencia seis meses después de su publicación.
 
 Art. 39. Las inscripciones de matrimonios celebrados ante un oficial del Registro Civil , sin perjuicio de las indicaciones comunes a toda inscripción, deberán contener:
-NOTA
-1.º El nombre y apellidos paterno y materno de cada uno de los contrayentes y el lugar en que se celebre;
+1.º El nombre y apellidos de cada uno de los contrayentes y el lugar en que se celebre;
 2.º El lugar y fecha de su nacimiento;
-3º Su estado de soltero, viudo o divorciado. En estos dos últimos casos, el nombre del cónyuge fallecido o de aquél con quien contrajo matrimonio anterior y el
-NOTA
-lugar y la fecha de la muerte o sentencia de divorcio, respectivamente.
+3º Su estado de soltero, viudo o divorciado. En estos dos últimos casos, el nombre del cónyuge fallecido o de aquél con quien contrajo matrimonio anterior y el lugar y la fecha de la muerte o sentencia de divorcio, respectivamente.
 4.º Su profesión u oficio;
 5.º Los nombres y apellidos de sus padres, si fueren conocidos;
 6.º El hecho de no tener ninguno de los cónyuges impedimento o prohibición legal para contraer matrimonio;
@@ -8305,8 +8307,6 @@ lugar y la fecha de la muerte o sentencia de divorcio, respectivamente.
 13. Testimonio fehaciente de esa aprobación o autorización, en caso de ser necesarias; y
 14. Firma de los contrayentes, de los testigos y del Oficial del Registro Civil.
 Si alguno de los contrayentes no supiere o no pudiere firmar, se dejará testimonio de esta circunstancia, sin perjuicio de lo dispuesto en el número 5.º del artículo 12.
-NOTA
-El Art. final de la LEY 19947, publicada el 17.05.2004, establece que las modificaciones efectuadas a este artículo entrarán en vigencia seis meses después de su publicación.
 
 Art. 40. Son requisitos esenciales de la inscripción de un matrimonio, los indicados en los números 1 del artículo 12, y 1, 7 y 14 del artículo 39.
 
@@ -8314,7 +8314,7 @@ Artículo 40 bis.- El acta a que se refiere el artículo 20 de la Ley de Matrimo
 1º La individualización de la entidad religiosa ante la que se celebró el matrimonio, con expresa mención del número del decreto en virtud de la cual goza de personalidad jurídica de derecho público.
 En el caso de las entidades religiosas reconocidas por el artículo 20 de la ley 19.638, deberán citar esta norma jurídica;
 2º La fecha y el lugar de la celebración del matrimonio;
-3º El nombre y los apellidos paterno y materno de los contrayentes, así como sus números de cédula de identidad;
+3º El nombre y los apellidos de los contrayentes, así como sus números de cédula de identidad;
 4º La fecha y el lugar de nacimiento de los contrayentes;
 5º Su estado de soltero, divorciado o viudo y, en estos dos últimos casos, el nombre del cónyuge fallecido o de aquél con quien contrajo matrimonio anterior, y el lugar y la fecha de la muerte o sentencia de divorcio, respectivamente;
 6º Su profesión u oficio;
@@ -8325,12 +8325,8 @@ En el caso de las entidades religiosas reconocidas por el artículo 20 de la ley
 11º La firma de los contrayentes, los testigos y el ministro de culto.
 Si alguno de los contrayentes no supiere o no pudiere firmar, se dejará testimonio de esta circunstancia.
 Deberá adjuntarse al acta el documento que acredite la personería del ministro de culto respectivo.
-NOTA
-El Art. final de la LEY 19947, publicada el 17.05.2004, establece que la incorporación de este artículo entrará en vigencia seis meses después de su publicación.
 
-Artículo 40 ter.- Para los efectos de lo dispuesto en el artículo 20 de la Ley de Matrimonio Civil, las inscripciones de matrimonios celebrados ante entidades relig
-NOTA
-iosas deberán contener o expresar, en su caso:
+Artículo 40 ter.- Para los efectos de lo dispuesto en el artículo 20 de la Ley de Matrimonio Civil, las inscripciones de matrimonios celebrados ante entidades religiosas deberán contener o expresar, en su caso:
 NOTA
 1º El acta de que trata el artículo precedente;
 2º El documento que acredite la personería del respectivo ministro de culto;

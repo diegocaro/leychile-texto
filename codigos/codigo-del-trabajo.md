@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2021-12-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2022-03-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2021-12-11
-fetched_at: 2026-08-03T04:41:29.179540+00:00
+version_date: 2022-03-10
+fetched_at: 2026-08-03T04:45:17.842976+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -463,7 +463,7 @@ En caso de robo, hurto, pérdida o destrucción por parte de terceros de bienes 
 La infracción a esta prohibición será sancionada con la restitución obligatoria, por parte del empleador, de la cifra descontada, debidamente reajustada, sin perjuicio de las multas que procedan de conformidad a este Código.
 
 Art. 59. En el contrato podrá establecerse la cantidad que el trabajador asigne para la mantención de su familia.
-La mujer casada puede percibir hasta el cincuenta por ciento de la remuneración de su marido, declarado vicioso por el respectivo Juez de Letras del Trabajo.
+El cónyuge puede percibir hasta el cincuenta por ciento de la remuneración del otro cónyuge, declarado vicioso por el respectivo Juez de Letras del Trabajo.
 En los casos de los incisos anteriores, el empleador estará obligado a efectuar los descuentos respectivos y pagar las sumas al asignatario.
 
 Art. 60. En caso de fallecimiento del trabajador, las remuneraciones que se adeudaren serán pagadas por el empleador a la persona que se hizo cargo de sus funerales, hasta concurrencia del costo de los mismos.
@@ -1966,6 +1966,8 @@ Las acciones y derechos provenientes de este título se extinguirán en el térm
 Artículo 207 bis.- En el caso de contraer matrimonio o celebrar un acuerdo de unión civil, de conformidad con lo previsto en la ley Nº 20.830, todo trabajador tendrá derecho a cinco días hábiles continuos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
 Este permiso se podrá utilizar, a elección del trabajador, en el día del matrimonio o del acuerdo de unión civil y en los días inmediatamente anteriores o posteriores al de su celebración.
 El trabajador deberá dar aviso a su empleador con treinta días de anticipación y presentar dentro de los treinta días siguientes a la celebración el respectivo certificado de matrimonio o de acuerdo de unión civil del Servicio de Registro Civil e Identificación.
+
+Artículo 207 ter.- Los derechos que correspondan a la madre trabajadora referidos a la protección a la maternidad regulados en este Título, serán aplicables a la madre o persona gestante, con independencia de su sexo registral por identidad de género. A su vez, los derechos que se otorgan al padre en el presente Título, también serán aplicables al progenitor no gestante.
 
 NOTA
 Art. 208. Las infracciones a las disposiciones de este título se sancionarán con multa de catorce a setenta unidades tributarias mensuales en vigor a la fecha de cometerse la infracción, multa que se duplicará en ca
