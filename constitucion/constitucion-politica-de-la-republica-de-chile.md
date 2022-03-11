@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2021-10-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2022-03-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2021-10-25
-fetched_at: 2026-08-03T04:38:54.179702+00:00
+version_date: 2022-03-11
+fetched_at: 2026-08-03T04:45:26.132050+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -965,7 +965,7 @@ La Convención deberá constituir una secretaría técnica, la que será conform
 Corresponderá al Presidente de la República, o a los órganos que éste determine, prestar el apoyo técnico, administrativo y financiero que sea necesario para la instalación y funcionamiento de la Convención.
 
 Artículo 134. Del estatuto de los Convencionales Constituyentes.
-A los integrantes de la Convención les será aplicable lo establecido en los artículos 51, con excepción de los incisos primero y segundo; 58, 59, 60 y 61.
+A los integrantes de la Convención les será aplicable lo establecido en los artículos 51, con excepción de los incisos primero y segundo; 58, 59, 60 y 61. Sin perjuicio de lo dispuesto en el artículo 60, los convencionales constituyentes podrán renunciar a su cargo cuando hechos graves afecten severamente su desempeño o pongan en riesgo el funcionamiento de la Convención Constitucional, y así lo califique el Tribunal Calificador de Elecciones.
 A contar de la proclamación del Tribunal Calificador de Elecciones, los funcionarios públicos, con excepción de los mencionados en el inciso tercero del artículo 132, así como los trabajadores de las empresas del Estado, podrán hacer uso de un permiso sin goce de remuneraciones mientras sirvan a la Convención, en cuyo caso no les serán aplicables lo señalado en el inciso primero del artículo 58 de la Constitución.
 Los Convencionales Constituyentes estarán afectos a las normas de la ley Nº 20.880, sobre probidad en la función pública y prevención de los conflictos de interés, aplicables a los diputados, y a la ley Nº 20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios.
 Serán compatibles los cargos de parlamentario e integrantes de la Convención Mixta Constitucional. Los diputados y senadores que integren esta convención quedarán eximidos de su obligación de asistir a las sesiones de sala y comisión del Congreso durante el período en que ésta se mantenga en funcionamiento. El Congreso Nacional podrá incorporar medidas de organización para un adecuado trabajo legislativo mientras la Convención Mixta Constitucional se encuentre en funcionamiento.
