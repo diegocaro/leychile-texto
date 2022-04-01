@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2022-03-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2022-04-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2022-03-10
-fetched_at: 2026-08-03T04:45:17.842976+00:00
+version_date: 2022-04-01
+fetched_at: 2026-08-03T04:45:44.154752+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -655,6 +655,7 @@ Del contrato de embarco de los oficiales y tripulantes de las Naves de la Marina
 Art. 96. Se entiende por personal embarcado o gente de mar el que, mediando contrato de embarco, ejerce profesiones, oficios u ocupaciones a bordo de naves o artefactos navales.
 
 Art. 97. La gente de mar, para desempeñarse a bordo, deberá estar en posesión de un título y una licencia o una matrícula, según corresponda, documentos todos de vigencia nacional, otorgados por la Dirección General del Territorio Marítimo y de Marina Mercante, de acuerdo a normas reglamentarias que permitan calificar los conocimientos e idoneidad profesional del interesado. Los documentos mencionados en este inciso se otorgarán a toda persona que los solicite y que reúna los requisitos reglamentarios.
+La gente de mar que firme un contrato de trabajo deberá tener la oportunidad de examinar el acuerdo y pedir asesoramiento al respecto antes de firmarlo, y disponer de todas las facilidades necesarias para garantizar que ha concertado libremente un acuerdo habiendo comprendido cabalmente sus derechos y responsabilidades.
 El ingreso a las naves y su permanencia en ellas será controlado por la autoridad marítima, la cual por razones de orden y seguridad podrá impedir el acceso de cualquier persona.
 
 Art. 98. El contrato de embarco es el que celebran los hombres de mar con el naviero, sea que éste obre personalmente o representado por el capitán, en virtud del cual aquéllos convienen en prestar a bordo de una o varias naves del naviero, servicios propios de la navegación marítima, y éste a recibirlos en la nave, alimentarlos y pagarles el sueldo o remuneración que se hubiere convenido.
@@ -671,10 +672,16 @@ Art. 101. Sólo en caso de fuerza mayor, calificada por el capitán de la nave y
 
 Art. 102. Es empleador, para los efectos de este párrafo, todo dueño o armador u operador a cualquier título de un buque mercante nacional.
 
-Art. 103. El contrato de embarco, además de lo expresado en el artículo 10, deberá indicar:
-a) nombre y matrícula de la nave o naves;
-b) asignaciones y viáticos que se pactaren, y
-c) puerto donde el contratado debe ser restituido.
+Art. 103.- El contrato de embarco deberá contener las cláusulas señaladas en el artículo 10 y, adicionalmente, las siguientes:
+a) Lugar de nacimiento del trabajador.
+b) Número de días de feriado anual al que tiene derecho la gente de mar conforme a lo dispuesto en los artículos 67 y siguientes y, en el caso de que se les deba aplicar el Convenio Marítimo, MLC, 2006, se deberá garantizar un número de días en base de un mínimo de 2,5 días corridos por mes de empleo.
+c) Las prestaciones de protección de la salud y de seguridad social que el armador ha de proporcionar al trabajador.
+d) Nombre y matrícula de la nave o naves en la que el trabajador prestará servicios.
+e) Asignaciones y viáticos que se pactaren entre las partes.
+f) Puerto donde el trabajador deberá ser restituido y, en su caso, demás condiciones de repatriación pactadas.
+El armador siempre deberá mantener un ejemplar del contrato de trabajo y del contrato de embarco a bordo de la nave en que el trabajador preste servicios, inclusive en aquellos casos en que el empleador haya sido autorizado por la Dirección del Trabajo a centralizar la documentación laboral y previsional, conforme lo dispuesto en el inciso sexto del artículo 9.
+Asimismo, el armador deberá mantener a bordo de la nave un modelo de contrato de trabajo y un modelo de contrato de embarco en lengua inglesa. En caso de existir convenio colectivo vigente, se deberá, además, mantener a bordo un ejemplar de dicho instrumento junto a una copia en lengua inglesa de las partes del documento que traten materias que puedan ser objeto de inspecciones por parte del Estado rector del puerto respectivo. Lo regulado en este inciso no regirá para naves que naveguen exclusivamente entre puertos nacionales.
+Adicionalmente, el empleador deberá proporcionar al trabajador, junto con el contrato de trabajo, una descripción de los servicios con que contará a bordo de la nave.
 
 Art. 104. El capitán sólo tomará oficiales o tripulantes que en sus libretas tengan anotado el desembarco de la nave en que hubieren servido anteriormente. Esta anotación deberá llevar la firma de la autoridad marítima, o del cónsul respectivo si el desembarco hubiere acaecido en el extranjero.
 
@@ -682,7 +689,7 @@ Art. 105. Si por motivos extraordinarios la nave se hiciere a la mar con algún 
 Si por falta de convenio provisional escrito entre el hombre de mar embarcado en estas condiciones y el capitán, no hubiere acuerdo entre las partes al legalizar el contrato, la autoridad marítima investigará el caso para autorizar el desembarco y restitución del individuo al puerto de su procedencia, si éste así lo solicitare. De todos modos, el hombre de mar tendrá derecho a que se le pague el tiempo servido, en las condiciones del contrato de los que desempeñen una plaza igual o análoga; en defecto de éstas, se estará a las condiciones en que hubiere servido su antecesor; y si no lo hubiere habido, a las que sean de costumbre estipular en el puerto de embarco para el desempeño de análogo cargo.
 
 Art. 106. La jornada semanal de la gente de mar será de cincuenta y seis horas distribuidas en ocho horas diarias.
-Las partes podrán pactar horas extraordinarias sin sujeción al máximo establecido en el artículo 31.
+Las partes podrán pactar horas extraordinarias sin sujeción al máximo establecido en el artículo 31. No obstante lo anterior, siempre se deberán respetar los descansos mínimos establecidos en el artículo 116.
 Sin perjuicio de lo señalado en el inciso primero y sólo para los efectos del cálculo y pago de las remuneraciones, el exceso de cuarenta y cinco horas semanales se pagará siempre con el recargo establecido en el inciso tercero del artículo 32.
 
 Art. 107. El armador, directamente o por intermedio del capitán, hará la distribución de las jornadas de que trata el artículo anterior.
@@ -709,9 +716,14 @@ Art. 114. Para el servicio de puerto, toda la dotación se agrupará por categor
 Los trabajadores que se encuentren cumpliendo turnos de guardia de puerto estarán a disposición del empleador durante veinticuatro horas, debiendo, en consecuencia, permanecer a bordo.
 
 Art. 115. El cuadro regulador de trabajo, tanto en la mar como en puerto, dentro de los límites de la jornada legal y de acuerdo con las modalidades del presente artículo, será preparado y firmado por el capitán, visado por la autoridad marítima para establecer su concordancia con el reglamento del trabajo a bordo, y fijado en un lugar de la nave, de libre y fácil acceso.
+En el caso de naves que realicen viajes entre puertos nacionales e internacionales, deberán, además, llevar un ejemplar en lengua inglesa del cuadro regulador, que se deberá fijar junto a la versión en castellano.
+El empleador deberá registrar las horas diarias de trabajo y descanso a través de un formato entregado por la Dirección del Trabajo.
 Las modificaciones a este cuadro, que fuere indispensable introducir durante el viaje, serán anotadas en el diario de la nave y comunicadas a la autoridad marítima para su aprobación o sanción de las alteraciones injustificadas que se hubieren hecho.
+La Dirección del Trabajo, mediante resolución fundada, en coordinación con la respectiva autoridad marítima, establecerá un sistema especial de control de las horas de trabajo y de descanso y de la determinación de las remuneraciones correspondientes al servicio prestado. Asimismo, establecerá el mecanismo por el cual los trabajadores podrán presentar sus reclamos y quejas a bordo y en tierra respecto de estas materias. En todo caso, el empleador deberá poner a disposición de los trabajadores los medios electrónicos que permitan la presentación de dichos reclamos y quejas, según corresponda.
 
-Art. 116. El descanso mínimo de los trabajadores a que se refiere este párrafo será de ocho horas continuas dentro de cada día calendario.
+Art. 116. El descanso mínimo de los trabajadores a que se refiere este párrafo no podrá ser inferior a diez horas dentro de cada período de veinticuatro horas.
+Las horas de descanso podrán agruparse, previo acuerdo de las partes, en dos períodos como máximo, uno de los cuales deberá ser de, al menos, ocho horas ininterrumpidas, y el intervalo entre dos períodos consecutivos de descanso no podrá exceder de catorce horas.
+En caso de suspensión del período de descanso necesario para garantizar la seguridad inmediata del buque, de las personas a bordo o de la carga o para socorrer a otros buques o personas que corran peligro en el mar, tan pronto como sea factible, una vez establecida la normalidad, el capitán o quien lo reemplace deberá velar por que se conceda un período adecuado de descanso a todo marino que haya trabajado durante su horario normal de descanso. A su vez, los ejercicios de lucha contra incendios y salvamento y otros ejercicios similares deberán realizarse de forma que perturben lo menos posible los períodos de descansos y que no provoquen fatiga u otra afectación al trabajador.
 
 Art. 117. No dan derecho a remuneración por sobretiempo las horas de trabajo extraordinario que ordene el capitán en las siguientes circunstancias:
 a) cuando esté en peligro la seguridad de la nave o de las personas embarcadas por circunstancias de fuerza mayor;
@@ -747,8 +759,8 @@ En caso de fallecimiento de algún miembro de la dotación, los gastos de trasla
 Art. 127. No perderán la continuidad de sus servicios aquellos oficiales o tripulantes que hubieren servido al dueño de la nave y que, por arrendamiento de ésta, pasaren a prestar servicios al arrendatario o armador.
 
 Art. 128. Los sueldos de los oficiales y tripulantes serán pagados en moneda nacional o en su equivalente en moneda extranjera.
-Los pagos se efectuarán por mensualidades vencidas, si se tratare de oficiales y si el contrato se hubiere pactado por tiempo determinado; en el caso de tripulantes, se estará a lo que se hubiere estipulado.
-En los contratos firmados por viaje redondo, los sueldos se pagarán a su terminación. No obstante, los oficiales y tripulantes tendrán derecho a solicitar anticipos hasta de un cincuenta por ciento de sueldos devengados.
+Los pagos de las remuneraciones se efectuarán conforme a lo establecido en el artículo 44.
+En el caso de aquellas naves que realicen viajes que contemplen en su ruta un puerto o puertos extranjeros, el armador deberá asegurar medios pertinentes para que el personal a bordo pueda realizar transferencias de toda o parte de su remuneración en el momento y a quien estime pertinente.
 
 Art. 129. Cuando por cualquier circunstancia, estando la nave en puerto, el empleador no pueda proporcionar alojamiento, alimentación o movilización a la gente de mar, en el país o en el extranjero, deberá pagarles viático para cubrir todos o algunos de estos gastos según el caso.
 
