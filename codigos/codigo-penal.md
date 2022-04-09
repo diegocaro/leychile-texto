@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-02-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-04-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2022-02-12
-fetched_at: 2026-08-03T04:43:40.989136+00:00
+version_date: 2022-04-09
+fetched_at: 2026-08-03T04:46:22.373068+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -587,8 +587,10 @@ Tanto en la sentencia como en su ejecución el Tribunal podrá, atendidas las ci
 ART. 71.
 Cuando no concurran todos los requisitos que se exigen en el caso del núm. 8.° del art. 10 para eximir de responsabilidad, se observará lo dispuesto en el art. 490.
 
-ART. 72.
-En los casos en que aparezcan responsables en un mismo delito individuos mayores de dieciocho años y menores de esa edad, se aplicará a los mayores la pena que les habría correspondido sin esta circunstancia, aumentada en un grado, si éstos se hubieren prevalido de los menores en la perpetración del delito, pudiendo esta circunstancia ser apreciada en conciencia por el juez.
+ART.72.
+Cuando el delito sea cometido con la intervención de una o más personas menores de dieciocho años de edad y mayores de catorce, se excluirá el mínimum o el grado mínimo de la pena señalada, según corresponda, respecto de los imputados mayores de edad que hubieren participado en él.
+Asimismo, se aumentará en un grado la pena al mayor de dieciocho años de edad cuando el crimen o simple delito sea cometido o perpetrado con la intervención de una o más personas menores de catorce años de edad.
+El consentimiento dado por el menor de dieciocho años no eximirá al mayor de esta edad de la aplicación de las reglas previstas en los incisos precedentes.
 
 ART. 73.
 Se aplicará asimismo la pena inferior en uno, dos o tres grados al mínimo de los señalados por la ley, cuando el hecho no fuere del todo excusable por falta de alguno de los requisitos que se exigen para eximir de responsabilidad criminal en los respectivos casos de que trata el art. 10, siempre que concurra el mayor número de ellos, imponiéndola en el grado que el tribunal estime correspondiente, atendido el número entidad de los requisitos que falten o concurran.
