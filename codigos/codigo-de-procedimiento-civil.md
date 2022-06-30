@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2021-12-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2022-06-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2021-12-11
-fetched_at: 2026-08-03T04:41:17.164412+00:00
+version_date: 2022-06-30
+fetched_at: 2026-08-03T04:47:23.014221+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2504,10 +2504,14 @@ Deberá aplicarse, además, a los siguientes casos:
 3°. A los juicios sobre cobro de honorarios, excepto el caso del artículo 697;
 4°. A los juicios sobre remoción de guardadores y a los que se susciten entre los representantes legales y sus representados;
 5°. Derogado;
-6°. A los juicios sobre depósito necesario y comodato precario;
+6°. A los juicios sobre depósito necesario;
 7°. A los juicios en que se deduzcan acciones ordinarias a que se hayan convertido las ejecutivas a virtud de lo dispuesto en el artículo 2515 del Código Civil;
 8°. A los juicios en que se persiga únicamente la declaración impuesta por la ley o el contrato, de rendir una cuenta, sin perjuicio de lo dispuesto en el artículo 696; y
-9°. A los juicios en que se ejercite el derecho que concede el artículo 945 del Código Civil para hacer cegar un pozo.
+9°. A los juicios en que se ejercite el derecho que
+NOTA
+concede el artículo 945 del Código Civil para hacer
+NOTA 1
+cegar un pozo.
 10. A los juicios en que se deduzcan las acciones civiles derivadas de un delito o cuasidelito, de conformidad con lo dispuesto en el artículo 59 del Código Procesal Penal y siempre que exista sentencia penal condenatoria ejecutoriada.
 NOTA
 La referencia al Artículo 945 del Código Civil, debe entenderse hecha al Art. 56 del Código de Aguas.
@@ -2754,7 +2758,6 @@ NOTA 1
 .
 Recibidos los autos, el tribunal revisará la sentencia en cuenta para el solo efecto de ponderar si ésta se encuentra ajustada a derecho. Si no mereciere reparos de esta índole, la aprobará sin más trámites. De lo contrario, retendrá el conocimiento del negocio y, en su resolución, deberá señalar los puntos que le merecen duda, ordenando traer los autos en relación. La vista de la causa se hará en la misma sala y se limitará estrictamente a los puntos de derecho indicados en la resolución.
 Las consultas serán distribuidas por el Presidente de la Corte, mediante sorteo, entre las salas en que ésta esté dividida.
-NOTA 1
 NOTA
 El Artículo Transitorio de la LEY 18882, publicada el 20.12.1989, dispuso que la modificación que introduce al artículo 534 del Código de Procedimiento Penal, regirá aún, respecto de aquellas causas en las cuales se hubiese ordenado traer los autos en relación, a menos que cualquiera de las partes solicite alegatos dentro de los seis días siguientes a la fecha de publicación de esta ley, en cuyo caso se mantendrá el decreto de autos, en relación. En el caso del presente artículo, se aplicará igual norma, pero no procederán alegatos.
 NOTA 1
@@ -2977,7 +2980,6 @@ NOTA
 os 701 y
 NOTA
 702.
-NOTA
 NOTA
 NOTA
 NOTA
