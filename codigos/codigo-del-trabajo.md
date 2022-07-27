@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2022-05-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2022-07-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2022-05-09
-fetched_at: 2026-08-03T04:46:58.784354+00:00
+version_date: 2022-07-27
+fetched_at: 2026-08-03T04:47:59.039838+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1892,7 +1892,9 @@ Art. 197. Para hacer uso del descanso de maternidad, señalado en el artículo 1
 El descanso se concederá de acuerdo con las formalidades que especifique el reglamento.
 Estos certificados serán expedidos gratuitamente por los médicos o matronas a que se refiere el inciso final del artículo anterior.
 
-Artículo 197 bis.- Las trabajadoras tendrán derecho a un permiso postnatal parental de doce semanas a continuación del período postnatal, durante el cual recibirán un subsidio cuya base de cálculo será la misma del subsidio por descanso de maternidad a que se refiere el inciso primero del artículo 195.
+Artículo 197 bis.- Las trabajadoras tendrán derecho a un permiso postnatal parental de doce semanas a continuación del período postnatal, durante el cual recibirán un subsidio cuya base de cálculo será la misma del subsidio por descanso
+NOTA
+de maternidad a que se refiere el inciso primero del artículo 195.
 Con todo, la trabajadora podrá reincorporarse a sus labores una vez terminado el permiso postnatal, por la mitad de su jornada, en cuyo caso el permiso postnatal parental se extenderá a dieciocho semanas. En este caso, percibirá el cincuenta por ciento del subsidio que le hubiere correspondido conforme al inciso anterior y, a lo menos, el cincuenta por ciento de los estipendios fijos establecidos en el contrato de trabajo, sin perjuicio de las demás remuneraciones de carácter variable a que tenga derecho.
 Las trabajadoras exentas del límite de jornada de trabajo, de conformidad a lo establecido en el inciso segundo del artículo 22, podrán ejercer el derecho establecido en el inciso anterior, en los términos de dicho precepto y conforme a lo acordado con su empleador.
 Para ejercer los derechos establecidos en los incisos segundo, tercero y octavo, la trabajadora deberá dar aviso a su empleador mediante carta certificada, enviada con a lo menos treinta días de anticipación al término del período postnatal, con copia a la Inspección del Trabajo. De no efectuar esta comunicación, la trabajadora deberá ejercer su permiso postnatal parental de acuerdo a lo establecido en el inciso primero.
@@ -1903,6 +1905,8 @@ Si ambos padres son trabajadores, cualquiera de ellos, a elección de la madre, 
 En caso de que el padre haga uso del permiso postnatal parental, deberá dar aviso a su empleador mediante carta certificada enviada, a lo menos, con diez días de anticipación a la fecha en que hará uso del mencionado permiso, con copia a la Inspección del Trabajo. Copia de dicha comunicación deberá ser remitida, dentro del mismo plazo, al empleador de la trabajadora. A su vez, el empleador del padre deberá dar aviso a las entidades pagadoras del subsidio que correspondan, antes del inicio del permiso postnatal parental que aquél utilice.
 El subsidio derivado del permiso postnatal parental se financiará con cargo al Fondo Único de Prestaciones Familiares y Subsidio de Cesantía del decreto con fuerza de ley Nº150, del Ministerio del Trabajo y Previsión Social, de 1982.
 El empleador que impida el uso del permiso postnatal parental o realice cualquier práctica arbitraria o abusiva con el objeto de dificultar o hacer imposible el uso del permiso establecido en los incisos precedentes, será sancionado con multa a beneficio fiscal de 14 a 150 unidades tributarias mensuales. Cualquier infracción a lo dispuesto en este inciso podrá ser denunciada a la Inspección del Trabajo, entidad que también podrá proceder de oficio a este respecto.
+NOTA
+El artículo 8 de la ley 21474 publicada el 27.07.2022, dispone que las trabajadoras y los trabajadores que se encuentren haciendo uso del permiso postnatal parental para el cuidado del niño o niña, de que trata el presente artículo, cuyo vencimiento ocurra entre el 1 de mayo y el 30 de septiembre del año 2022, tendrán derecho a solicitar su extensión, cumpliendo los demás requisitos que la citada ley indica.
 
 Artículo 198.- La mujer que se encuentre en el período de descanso de maternidad a que se refiere el artículo 195, de descansos suplementarios y de plazo ampliado señalados en el artículo 196, como también los trabajadores que hagan uso del permiso postnatal parental, recibirán un subsidio calculado conforme a lo dispuesto en el decreto con fuerza de ley Nº 44, del Ministerio del Trabajo y Previsión Social, de 1978, y en el artículo 197 bis.
 
