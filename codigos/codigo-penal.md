@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-04-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-07-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2022-04-09
-fetched_at: 2026-08-03T04:46:22.373068+00:00
+version_date: 2022-07-30
+fetched_at: 2026-08-03T05:05:23.686272+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1948,11 +1948,23 @@ De la infracción de las leyes o reglamentos sobre inhumaciones y exhumaciones.
 ART. 320.
 El que practicare o hiciere practicar una inhumación contraviniendo a lo dispuesto por las leyes o reglamentos respecto al tiempo, sitio y demás formalidades prescritas para las inhumaciones, incurrirá en las penas de reclusión menor en su grado mínimo y multa de seis a diez unidades tributarias mensuales.
 
-ART. 321.
-El que violare los sepulcros o sepulturas practicando cualquier acto que tienda directamente a faltar al respeto debido a la memoria de los muertos, será condenado a reclusión menor en su grado medio y multa de seis a diez unidades tributarias mensuales.
+ART. 321. Derogado.-
 
 ART. 322.
 El que exhumare o trasladare los restos humanos con infracción de los reglamentos y demás disposiciones de sanidad, sufrirá las penas de reclusión menor en su grado mínimo y multa de seis a diez unidades tributarias mensuales.
+
+#### § XV bis.
+Del ultraje de cadáver y sepultura.
+
+ART. 322 bis.
+Ultraje de cadáver. Será sancionado con la pena de reclusión menor en su grado medio, el que en menosprecio de la memoria de quien hubiere muerto:
+1° Exhumare total o parcialmente sus restos humanos;
+2° Sustrajere sus restos humanos de quien los tuviere legítimamente, o
+3° Manipulare sus restos humanos o sus cenizas, o realizare sobre cualquiera de ellos actos que los afectaren considerablemente.
+Para efectos de este artículo se entenderá que la acción no se realiza en menosprecio de la memoria de quien hubiere muerto si quien la realiza obra con autorización y respetando las reglas de la profesión respectiva o los estándares aceptados en la prestación de servicios mortuorios.
+
+ART. 322 ter.
+Ultraje de sepultura. Será sancionado con la pena de reclusión menor en su grado medio, el que, en menosprecio de la memoria de quien hubiere muerto, profanare su sepultura.
 
 #### § XVI.
 Crímenes y simples delitos relativos a los ferrocarriles, telégrafos y conductores de correspondencia.
