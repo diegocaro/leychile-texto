@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-07-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-08-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2022-07-30
-fetched_at: 2026-08-03T05:05:23.686272+00:00
+version_date: 2022-08-24
+fetched_at: 2026-08-03T05:21:31.152262+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -143,6 +143,7 @@ El tribunal tomará o no en consideración esta circunstancia, según la natural
 19.° Ejecutarlo por medio de fractura o escalamiento de lugar cerrado.
 20.° Ejecutarlo portando armas de aquellas referidas en el artículo 132.
 21ª. Cometer el delito o participar en él motivado por la ideología, opinión política, religión o creencias de la víctima; la nación, raza, etnia o grupo social a que pertenezca; su sexo, orientación sexual, identidad de género, edad, filiación, apariencia personal o la enfermedad o discapacidad que padezca.
+22.° Cometer el delito contra una víctima menor de 18 años, un adulto mayor o una persona con discapacidad, en los términos de la ley N° 20.422, que establece normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad.
 
 #### § V.
 De las circunstancias que atenúan o agravan la responsabilidad criminal, según la naturaleza y accidentes del delito.
@@ -578,7 +579,10 @@ ART. 68 BIS.
 Sin perjuicio de lo dispuesto en los cuatro artículos anteriores, cuando sólo concurra una atenuante muy calificada el Tribunal podrá imponer la pena inferior en un grado al mínimo de la señalada al delito.
 
 ART. 69.
-Dentro de los límites de cada grado el tribunal determinará la cuantía de la pena en atención al número y entidad de las circunstancias atenuantes y agravantes y a la mayor o menor extensión del mal producido por el delito.
+Dentro de los límites de cada grado el tribunal determinará la cuantía de la pena en atención al número y entidad de las circunstancias atenuantes y agravantes y a la mayor o menor extensión del mal producido por el delito, teniendo en especial consideración la circunstancia de ser la víctima un menor de 18 años, un adulto mayor, según lo dispuesto por la ley Nº 19.828, o una persona con discapacidad en los términos de la ley Nº 20.422.
+
+ART. 69 BIS.
+Sin perjuicio de lo dispuesto en el artículo anterior, en los delitos contra las personas, en el caso que concurra alguna de las circunstancias agravantes del número 22º del artículo 12, la pena se determinará excluyendo el grado mínimo si es compuesta, o el mínimum si consta de un solo grado.
 
 ART. 70.
 En la aplicación de las multas el tribunal podrá recorrer toda la extensión en que la ley le permite imponerlas, consultando para determinar en cada caso su cuantía, no solo las circunstancias atenuantes y agravantes del hecho, sino principalmente el caudal o facultades del culpable. Asimismo, en casos calificados, de no concurrir agravantes y considerando las circunstancias anteriores, el juez podrá imponer una multa inferior al monto señalado en la ley, lo que deberá fundamentar en la sentencia.
@@ -923,7 +927,7 @@ El que sin derecho encerrare o detuviere a otro privándole de su libertad, come
 En la misma pena incurrirá el que proporcionare lugar para la ejecución del delito.
 Si se ejecutare para obtener un rescate o imponer exigencias o arrancar decisiones será castigado con la pena de presidio mayor en su grado mínimo a medio.
 Si en cualesquiera de los casos anteriores, el encierro o la detención se prolongare por más de quince días o si de ello resultare un daño grave en la persona o intereses del secuestrado, la pena será presidio mayor en su grado medio a máximo.
-El que con motivo u ocasión del secuestro cometiere además homicidio, violación, violación sodomítica, o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido, será castigado con presidio mayor en su grado máximo a presidio perpetuo calificado.
+El que con motivo u ocasión del secuestro cometiere además homicidio, violación o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido, será castigado con presidio mayor en su grado máximo a presidio perpetuo calificado.
 
 ART. 142.
 La sustracción de un menor de 18 años será castigada:
@@ -2124,7 +2128,7 @@ Comete violación el que accede carnalmente, por vía vaginal, anal o bucal, a u
 3º Cuando se abusa de la enajenación o trastorno mental de la víctima.
 
 ART. 362.
-El que accediere carnalmente, por vía vaginal, anal o bucal, a una persona menor de catorce años, será castigado con presidio mayor en cualquiera de sus grados, aunque no concurra circunstancia alguna de las enumeradas en el artículo anterior.
+El que accediere carnalmente, por vía vaginal, anal o bucal, a una persona menor de catorce años, será castigado con presidio mayor en sus grados medio a máximo, aunque no concurra circunstancia alguna de las enumeradas en el artículo anterior.
 
 #### § VI.
 Del estupro y otros delitos sexuales.
@@ -2138,8 +2142,7 @@ Será castigado con presidio menor en su grado máximo a presidio mayor en su gr
 
 ART. 364. Derogado.
 
-Art. 365.
-El que accediere carnalmente a un menor de dieciocho años de su mismo sexo, sin que medien las circunstancias de los delitos de violación o estupro, será penado con reclusión menor en sus grados mínimo a medio.
+Art. 365. Derogado.
 
 ART. 365 bis.
 Si la acción sexual consistiere en la introducción de objetos de cualquier índole, por vía vaginal, anal o bucal, o se utilizaren animales en ello, será castigada:
@@ -2332,11 +2335,11 @@ ART.391.
 El que mate a otro y no esté comprendido en los artículos 390, 390 bis y 390 ter, será penado:
 1.° Con presidio mayor en su grado máximo a presidio perpetuo, si ejecutare el homicidio con alguna de las circunstancias siguientes:
 Primera.- Con alevosía.
-Segunda.- Por premio o promesa remuneratoria.
+Segunda.- Por premio o promesa remuneratoria, o por cualquier otro medio que implique ánimo de lucro.
 Tercera.- Por medio de veneno.
 Cuarta.- Con ensañamiento, aumentando deliberada e inhumanamente el dolor al ofendido.
 Quinta.- Con premeditación conocida.
-2.º Con presidio mayor en su grado medio en cualquier otro caso.
+2.º Con presidio mayor en su grado medio a máximo en cualquier otro caso.
 
 ART. 392.
 Cometiéndose un homicidio en riña o pelea y no constando el autor de la muerte, pero sí los que causaron lesiones graves al occiso, se impondrá a todos éstos la pena de presidio menor en su grado máximo.
@@ -2616,7 +2619,7 @@ ART. 438.
 El que para defraudar a otro lo obligare con violencia o intimidación a suscribir, otorgar o entregar un instrumento público o privado que importe una obligación estimable en dinero, será castigado, como culpable de robo, con las penas respectivamente señaladas en este párrafo.
 
 ART. 439.
-Para los efectos del presente párrafo se estimarán por violencia o intimidación en las personas los malos tratamientos de obra, las amenazas ya para hacer que se entreguen o manifiesten las cosas, ya para impedir la resistencia u oposición a que se quiten, o cualquier otro acto que pueda intimidar o forzar a la manifestación o entrega. Hará también violencia el que para obtener la entrega o manifestación alegare orden falsa de alguna autoridad, o la diere por sí fingiéndose ministro de justicia o funcionario público. Por su parte, hará también intimidación el que para apropiarse u obtener la entrega o manifestación de un vehículo motorizado o de las cosas ubicadas dentro del mismo, fracture sus vidrios, encontrándose personas en su interior, sin perjuicio de la prueba que se pudiere presentar en contrario.
+Para los efectos del presente párrafo se estimarán por violencia o intimidación en las personas los malos tratamientos de obra, las amenazas ya para hacer que se entreguen o manifiesten las cosas, ya para impedir la resistencia u oposición a que se quiten, o cualquier otro acto que pueda intimidar o forzar a la manifestación o entrega. Hará también violencia el que para obtener la entrega o manifestación alegare orden falsa de alguna autoridad, o la diere por sí fingiéndose ministro de justicia o funcionario público. Por su parte, hará también intimidación el que para apropiarse u obtener la entrega o manifestación de un vehículo motorizado o de las cosas ubicadas dentro del mismo, fracture sus vidrios, encontrándose personas en su interior; o amenace la integridad de niños que se encuentren al interior del vehículo, sin perjuicio de la prueba que se pudiere presentar en contrario.
 
 #### § III.
 Del robo con fuerza en las cosas.
