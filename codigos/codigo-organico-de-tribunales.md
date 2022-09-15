@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2022-02-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2022-09-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2022-02-26
-fetched_at: 2026-08-03T04:44:17.018397+00:00
+version_date: 2022-09-15
+fetched_at: 2026-08-03T05:29:47.972964+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2273,7 +2273,7 @@ Art. 404. Las escrituras públicas deben escribirse en idioma castellano y estil
 Podrán emplearse también palabras de otro idioma que sean generalmente usadas o como término de una determinada ciencia o arte.
 El notario deberá inutilizar, con su firma y sello, el reverso no escrito de las hojas en que se contenga una escritura pública o de sus copias.
 
-Art. 405. Las escrituras públicas deberán otorgarse ante notario y podrán ser extendidas manuscritas, mecanografiadas o en otra forma que leyes especiales autoricen. Deberán indicar el lugar y fecha de su otorgamiento; la individualización del notario autorizante y el nombre de los comparecientes, con expresión de su nacionalidad, estado civil, profesión, domicilio y cédula de identidad, salvo en el caso de extranjeros y chilenos radicados en el extranjero, quienes podrán acreditar su identidad con el pasaporte o con el documento de identificación con que se les permitió su ingreso al país.
+Art. 405. Las escrituras públicas deberán otorgarse ante notario y podrán ser extendidas mecanografiadas, o a través de documento electrónico para el otorgamiento de las escrituras a que hace referencia el artículo 497 del Código de Procedimiento Civil, o en otra forma que leyes especiales autoricen. Deberán indicar el lugar y fecha de su otorgamiento; la individualización del notario autorizante y el nombre de los comparecientes, con expresión de su nacionalidad, estado civil, profesión, domicilio y cédula de identidad, salvo en el caso de extranjeros y chilenos radicados en el extranjero, quienes podrán acreditar su identidad con el pasaporte o con el documento de identificación con que se les permitió su ingreso al país.
 Además, el notario al autorizar la escritura indicará el número de anotación que tenga en el repertorio, la que se hará el día en que sea firmada por el primero de los otorgantes.
 El reglamento fijará la forma y demás características que deben tener los originales de escritura pública y sus copias.
 
@@ -2286,6 +2286,11 @@ Art. 408. Si alguno de los comparecientes o todos ellos no supieren o no pudiere
 Se considera que una persona firma una escritura o documento no sólo cuando lo hace por sí misma, sino también en los casos en que supla esta falta en la forma establecida en el inciso anterior.
 
 Art. 409. Siempre que alguno de los otorgantes o el notario lo exijan, los firmantes dejarán su impresión digital en la forma indicada en el artículo anterior.
+
+Art. 409 bis. El notario extenderá escrituras públicas a través de documento electrónico en el caso dispuesto en el artículo 497 del Código de Procedimiento Civil, empleando medios tecnológicos que permitan su suscripción por parte de los otorgantes mediante firma electrónica avanzada, siempre que los sistemas electrónicos garanticen debidamente su identidad, así como la autenticidad de los datos asociados a la firma electrónica, tales como fecha y hora de suscripción. Asimismo, el notario deberá rubricarla mediante firma electrónica avanzada.
+El notario deberá verificar el cumplimiento de los requisitos establecidos en el artículo 405, entendiéndose que el lugar de otorgamiento es aquel en que se encuentra el notario.
+Suscrita una escritura pública electrónica por todos sus otorgantes, y autorizada conforme a la ley, el notario autorizante deberá proceder a insertarla en los registros pertinentes.
+Un reglamento dictado por el Ministerio de Justicia y Derechos Humanos y suscrito también por el Ministro de Hacienda y el Ministro Secretario General de la Presidencia, detallará la forma y características que deberán tener las escrituras públicas otorgadas a través de documentos electrónicos y las copias autorizadas de dichas escrituras. Este reglamento, a su vez, detallará la forma en que el notario deberá protocolizar y registrar las escrituras públicas electrónicas y documentos electrónicos que se insertaren a ellas.
 
 Art. 410. No será obligatorio insertar en la escritura documentos de ninguna especie, a menos que alguno de los otorgantes lo requiera.
 Si en virtud de una ley debe insertarse en la escritura determinado documento, se entenderá cumplida esta obligación con su exhibición al notario, quien dejará constancia de este hecho antes o después de la firma de los otorgantes indicando la fecha y número del documento, si los tuviere, y la autoridad que lo expidió; y el documento será agregado al final del protocolo.
@@ -2369,6 +2374,8 @@ Tratándose de documentos protocolizados, se dejará constancia de la fecha en q
 Sin embargo si la protocolización se indicare en una escritura pública, bastará la anotación ordenada en el inciso segundo.
 El libro repertorio se cerrará diariamente, indicándose el número de la última anotación, la fecha y firma del notario. Si no se hubiere efectuado anotaciones, se expresará esta circunstancia.
 La falta de las anotaciones señaladas en el inciso segundo, no afectará la validez de una escritura pública otorgada, sin perjuicio de la responsabilidad del notario.
+
+Art. 430 bis. Las escrituras otorgadas de conformidad a lo dispuesto en el artículo 497 del Código de Procedimiento Civil serán incorporadas a un libro repertorio y a un protocolo electrónico. Los documentos que se acompañen de conformidad al inciso tercero del artículo 495 del mismo cuerpo normativo, también serán agregados a dicho protocolo electrónico. Se aplicará lo dispuesto en los dos artículos anteriores en lo que fuere pertinente.
 
 Art. 431. El notario llevará un libro índice público, en el que anotará las escrituras por orden alfabético de los otorgantes; y otro privado en el que anotará, en la misma forma, los testamentos cerrados con indicación del lugar de su otorgamiento y del nombre y domicilio de sus testigos.
 El primero estará a disposición del público, debiendo exhibirlo a quien lo solicite y el segundo deberá mantenerlo reservado, no teniendo obligación de exhibirlo, sino por decreto de juez competente o ante una solicitud de un particular que acompañe el certificado de defunción que corresponda al otorgante del testamento.

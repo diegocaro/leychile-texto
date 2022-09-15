@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2022-06-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=22740&idVersion=2022-09-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 22740
-version_date: 2022-06-30
-fetched_at: 2026-08-03T04:47:23.014221+00:00
+version_date: 2022-09-15
+fetched_at: 2026-08-03T05:29:41.965158+00:00
 titulo_norma: "CODIGO DE PROCEDIMIENTO CIVIL"
 compuesto: LEY-1552
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1921,6 +1921,10 @@ Art. 496. (518). En el acta de remate podrá el rematante indicar la persona par
 Subsistirá también la garantía constituida para tomar parte en la subasta, de conformidad al artículo 494.
 
 Art. 497. (519). Para los efectos de la inscripción, no admitirá el conservador sino la escritura definitiva de compraventa. Dicha escritura será subscrita por el rematante y por el juez, como representante legal del vendedor, y se entenderá autorizado el primero para requerir y firmar por sí solo la inscripción en el Conservador, aun sin mención expresa de esta facultad.
+Sin perjuicio de lo anterior, dicha escritura también podrá ser otorgada por el notario a través de documento electrónico, empleando medios tecnológicos que permitan su suscripción por el rematante y el juez, como representante legal del vendedor, siempre que el sistema electrónico permita garantizar debidamente la identidad de los mismos, así como la autenticidad de los datos asociados a la firma electrónica, tales como fecha y hora de suscripción. En ese caso, el juez y el rematante deberán suscribir la escritura mediante firma electrónica avanzada. A su vez, el notario deberá rubricarla mediante firma electrónica avanzada.
+Con todo, si el adjudicatario no contare con firma electrónica avanzada, el notario deberá firmar la escritura a su solicitud de conformidad al inciso anterior, dejando constancia en ella que la suscribe por sí y a requerimiento del adjudicatario. Estampada que sea la firma electrónica avanzada del notario en los términos referidos, se entenderá suscrita por el adjudicatario para todos los efectos legales.
+La escritura pública electrónica será inscrita por el Conservador de Bienes Raíces respectivo, de conformidad a lo dispuesto en el Título IV del Reglamento del Registro Conservatorio de Bienes Raíces.
+Los documentos que se insertaren a la escritura, de conformidad con el inciso tercero del artículo 495, serán agregados al final de un protocolo electrónico que tendrá el notario para estos efectos.
 
 Art. 498. (520). En todo caso, se dejará en el proceso un extracto del acta de remate.
 
