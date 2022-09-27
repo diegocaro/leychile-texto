@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-08-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-09-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2022-08-24
-fetched_at: 2026-08-03T05:21:31.152262+00:00
+version_date: 2022-09-27
+fetched_at: 2026-08-03T05:29:54.599325+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2707,16 +2707,28 @@ ART. 448 sexies.
 Los vehículos motorizados o de otra clase, las herramientas y los instrumentos utilizados en la comisión del delito de abigeato, caerán en comiso.
 Durante el curso del procedimiento dichos bienes serán incautados de conformidad a las reglas generales, sin perjuicio del derecho establecido en el artículo 189 del Código Procesal Penal.
 
+#### § IV ter.
+De la sustracción de madera
+
+ART. 448 septies.
+El que robe o hurte troncos o trozas de madera comete el delito de sustracción de madera y será sancionado con las penas señaladas en los Párrafos II, III y IV del presente Título. Cuando la madera sustraída tenga un valor que exceda las 10 unidades tributarias mensuales se aplicará además la accesoria de multa de 75 a 100 unidades tributarias mensuales.
+Si la madera sustraída tiene un valor superior a las 50 unidades tributarias mensuales o si la sustracción obedece a un proceder sistemático u organizado, se podrán aplicar las técnicas especiales de investigación previstas en el artículo 226 bis del Código Procesal Penal.
+Los vehículos motorizados o de otra clase, las herramientas y los instrumentos utilizados en la comisión del delito, caerán en comiso.
+
+ART. 448 octies.
+Se castigará como autor de sustracción de madera, con las penas previstas en el artículo 446, a quien en cuyo poder se encuentren troncos o trozas de madera, cuando no pueda justificar su adquisición, su legítima tenencia o su labor en dichas faenas o actividades conexas destinadas a la tala de árboles y, del mismo modo, al que sea habido en predio ajeno, en idénticas faenas o actividades, sin consentimiento de su propietario ni autorización de tala.
+Asimismo, será sancionado con la pena de presidio menor en sus grados medio a máximo quien falsifique o maliciosamente haga uso de documentos falsos para obtener guías o formularios con miras a trasladar o comercializar madera de manera ilícita.
+
 #### § V.
 Disposiciones comunes a los cuatro Párrafos anteriores.
 
 ART. 449.
-Para determinar la pena de los delitos comprendidos en los Párrafos 1 a 4 bis, con excepción de aquellos contemplados en los artículos 448, inciso primero, y 448 quinquies, y del artículo 456 bis A, no se considerará lo establecido en los artículos 65 a 69 y se aplicarán las reglas que a continuación se señalan:
+Para determinar la pena de los delitos comprendidos en los Párrafos 1 a 4 ter, con excepción de aquellos contemplados en los artículos 448, inciso primero, y 448 quinquies, y del artículo 456 bis A, no se considerará lo establecido en los artículos 65 a 69 y se aplicarán las reglas que a continuación se señalan:
 1ª. Dentro del límite del grado o grados señalados por la ley como pena al delito, el tribunal determinará la cuantía de la pena en atención al número y entidad de las circunstancias atenuantes y agravantes concurrentes, así como a la mayor o menor extensión del mal causado, fundamentándolo en su sentencia.
 2ª. Tratándose de condenados reincidentes en los términos de las circunstancias agravantes de los numerales 15 y 16 del artículo 12, el tribunal deberá, para los efectos de lo señalado en la regla anterior, excluir el grado mínimo de la pena si ésta es compuesta, o el mínimum si consta de un solo grado.
 
 ART. 449 bis.-
-Será circunstancia agravante de los delitos contemplados en los Párrafos 1, 2, 3, 4 y 4 bis de este Título, y del descrito en el artículo 456 bis A, el hecho de que el imputado haya actuado formando parte de una agrupación u organización de dos o más personas destinada a cometer dichos hechos punibles, siempre que ésta o aquélla no constituyere una asociación ilícita de que trata el Párrafo 10 del Título VI del Libro Segundo.
+Será circunstancia agravante de los delitos contemplados en los Párrafos 1, 2, 3, 4, 4 bis y 4 ter de este Título, y del descrito en el artículo 456 bis A, el hecho de que el imputado haya actuado formando parte de una agrupación u organización de dos o más personas destinada a cometer dichos hechos punibles, siempre que ésta o aquélla no constituyere una asociación ilícita de que trata el Párrafo 10 del Título VI del Libro Segundo.
 
 ART. 449 ter.
 Cuando los delitos sancionados en los Párrafos 3 y 4 de este Título se perpetraren con ocasión de calamidad pública o alteración del orden público, sea que se actúe en grupo o individualmente pero amparado en este, se aumentará la pena privativa de libertad respectiva en un grado.
@@ -2728,7 +2740,7 @@ Si el responsable fuere reincidente en los términos de las circunstancias agrav
 
 ART. 450.
 Los delitos a que se refiere al Párrafo 2 y el artículo 440 del Párrafo 3 de este Título se castigarán como consumados desde que se encuentren en grado de tentativa.
-La misma regla se aplicará a los delitos sancionados en los Párrafos 3 y 4 de este Título cuando se cometieren con las circunstancias señaladas en el inciso primero de los artículos 449 ter o 449 quáter.
+La misma regla se aplicará a los delitos sancionados en los Párrafos 3, 4, 4 bis y 4 ter de este Título cuando se cometieren con las circunstancias señaladas en el inciso primero de los artículos 449 ter o 449 quáter.
 
 ART. 450 bis.
 En el robo con violencia o intimidación en las personas no procederá la atenuante de responsabilidad penal contenida en el artículo 11, N° 7.
@@ -2767,12 +2779,12 @@ En estos delitos no podrá estimarse que concurre la circunstancia atenuante del
 #### § 5 bis. De la receptación
 
 ART. 456 bis A.
-El que conociendo su origen o no pudiendo menos que conocerlo, tenga en su poder, a cualquier título, especies hurtadas, robadas u objeto de abigeato, de receptación o de apropiación indebida del artículo 470, número 1°, las transporte, compre, venda, transforme o comercialice en cualquier forma, aun cuando ya hubiese dispuesto de ellas, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de cinco a cien unidades tributarias mensuales.
+El que conociendo su origen o no pudiendo menos que conocerlo, tenga en su poder, a cualquier título, especies hurtadas, robadas u objeto de abigeato o sustracción de madera, de receptación o de apropiación indebida del artículo 470, número 1°, las transporte, compre, venda, transforme o comercialice en cualquier forma, aun cuando ya hubiese dispuesto de ellas, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de cinco a cien unidades tributarias mensuales.
 Para la determinación de la pena aplicable el tribunal tendrá especialmente en cuenta el valor de las especies, así como la gravedad del delito en que se obtuvieron, si éste era conocido por el autor.
 Cuando el objeto de la receptación sean vehículos motorizados o cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, se impondrá la pena de presidio menor en su grado máximo y multa equivalente al valor de la tasación fiscal del vehículo o la pena de presidio menor en su grado máximo, y multa de cinco a veinte unidades tributarias mensuales, respectivamente. La sentencia condenatoria por delitos de este inciso dispondrá el comiso de los instrumentos, herramientas o medios empleados para cometerlos o para transformar o transportar los elementos sustraídos. Si dichos elementos son almacenados, ocultados o transformados en algún establecimiento de comercio con conocimiento del dueño o administrador, se podrá decretar, además, la clausura definitiva de dicho establecimiento, oficiándose a la autoridad competente.
 Sin perjuicio de lo dispuesto en el inciso anterior, se aplicará el máximum de la pena privativa de libertad allí señalada y multa equivalente al doble de la tasación fiscal, al autor de receptación de vehículos motorizados que conociere o no pudiere menos que conocer que en la apropiación de éste se ejerció sobre su legítimo tenedor alguna de las conductas descritas en el artículo 439. Lo dispuesto en este inciso no será aplicable a quien, por el mismo hecho, le correspondiere participación responsable por cualquiera de las hipótesis del delito de robo previstas en el artículo 433 y en el inciso primero del artículo 436.
 Se impondrá el grado máximo de la pena establecida en el inciso primero, cuando el autor haya incurrido en reiteración de esos hechos o sea reincidente en ellos. En los casos de reiteración o reincidencia en la receptación de los objetos señalados en el inciso tercero, se aplicará la pena privativa de libertad allí establecida, aumentada en un grado.
-Tratándose del delito de abigeato la multa establecida en el inciso primero será de setenta y cinco a cien unidades tributarias mensuales y el juez podrá disponer la clausura definitiva del establecimiento.
+Tratándose del delito de abigeato o sustracción de madera y la multa establecida en el inciso primero será de setenta y cinco a cien unidades tributarias mensuales y el juez podrá disponer la clausura definitiva del establecimiento.
 Si el valor de lo receptado excediere de cuatrocientas unidades tributarias mensuales, se impondrá el grado máximo de la pena o el máximun de la pena que corresponda en cada caso.
 
 #### § VI.

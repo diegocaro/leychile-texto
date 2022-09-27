@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2022-02-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2022-09-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2022-02-05
-fetched_at: 2026-08-03T04:43:34.979731+00:00
+version_date: 2022-09-27
+fetched_at: 2026-08-03T07:25:03.873858+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -985,7 +985,7 @@ Artículo 225.- Prohibición de utilización. Los resultados de la medida de int
 
 Artículo 226.- Otros medios técnicos de investigación. Cuando el procedimiento tuviere por objeto la investigación de un hecho punible que mereciere pena de crimen, el juez de garantía podrá ordenar, a petición del ministerio público, la fotografía, filmación u otros medios de reproducción de imágenes conducentes al esclarecimiento de los hechos. Asimismo, podrá disponer la grabación de comunicaciones entre personas presentes. Regirán correspondientemente las normas contenidas en los artículos 222 al 225.
 
-Artículo 226 bis.- Técnicas especiales de investigación. Cuando la investigación de los delitos contemplados en el artículo 190 de la ley Nº18.290 y en los artículos 442, 443, 443 bis, 447 bis, 448 bis y 456 bis A del Código Penal, lo hicieren imprescindible y existieren fundadas sospechas, basadas en hechos determinados, de la participación en una asociación ilícita, o en una agrupación u organización conformada por dos o más personas, destinada a cometer los hechos punibles previstos en estas normas, aun cuando ésta o aquella no configure una asociación ilícita, el Ministerio Público podrá aplicar las técnicas previstas y reguladas en los artículos 222 a 226, conforme lo disponen dichas normas.
+Artículo 226 bis.- Técnicas especiales de investigación. Cuando la investigación de los delitos contemplados en el artículo 190 de la ley Nº18.290 y en los artículos 442, 443, 443 bis, 447 bis, 448 bis, 448 septies y 456 bis A del Código Penal, lo hicieren imprescindible y existieren fundadas sospechas, basadas en hechos determinados, de la participación en una asociación ilícita, o en una agrupación u organización conformada por dos o más personas, destinada a cometer los hechos punibles previstos en estas normas, aun cuando ésta o aquella no configure una asociación ilícita, el Ministerio Público podrá aplicar las técnicas previstas y reguladas en los artículos 222 a 226, conforme lo disponen dichas normas.
 Además, cumpliéndose las mismas condiciones establecidas en el inciso anterior y tratándose de los crímenes contemplados en los artículos 433, 434, inciso primero del 436 y 440 del Código Penal y de los delitos a que hace referencia el inciso precedente, el Ministerio Público podrá utilizar las técnicas especiales de investigación consistentes en entregas vigiladas y controladas, el uso de agentes encubiertos e informantes en la forma regulada por los artículos 23 y 25 de la ley Nº20.000, siempre que fuere necesario para lograr el esclarecimiento de los hechos, establecer la identidad y la participación de personas determinadas en éstos, conocer sus planes, prevenirlos o comprobarlos.
 Para la utilización de las técnicas referidas en este artículo, el Ministerio Público deberá siempre requerir la autorización del juez de garantía.
 
