@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-09-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-10-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2022-09-27
-fetched_at: 2026-08-03T05:29:54.599325+00:00
+version_date: 2022-10-12
+fetched_at: 2026-08-03T07:25:33.883674+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2681,7 +2681,7 @@ También será castigado con presidio menor en su grado mínimo y multa de cinco
 #### § IV bis. Del Abigeato
 
 ART. 448 bis.
-El que robe o hurte uno o más caballos o bestias de silla o carga, o especies de ganado mayor o menor, comete abigeato y será castigado con las penas señaladas en los Párrafos 2, 3 y 4.
+El que robe o hurte uno o más caballos o bestias de silla o carga, o especies de ganado mayor, menor o colmenas, comete abigeato y será castigado con las penas señaladas en los Párrafos 2, 3 y 4.
 Asimismo, se considerará autor del delito de abigeato al que sin el consentimiento de quienes pueden disponer del ganado:
 1°. Altere o elimine marcas o señales en animales ajenos.
 2°. Marque, señale, contramarque o contraseñale animales ajenos.
