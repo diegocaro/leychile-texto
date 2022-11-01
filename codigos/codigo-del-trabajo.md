@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2022-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2022-11-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2022-10-10
-fetched_at: 2026-08-03T07:25:15.880911+00:00
+version_date: 2022-11-01
+fetched_at: 2026-08-03T07:25:51.888350+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1442,6 +1442,10 @@ Las donaciones establecidas en la letra b) de este artículo deberán sujetarse 
 4.- El monto anual de las donaciones efectuadas no podrá ser inferior al equivalente a veinticuatro ingresos mínimos mensuales ni superior a doce veces el límite máximo imponible establecido en el artículo 16 del decreto ley Nº 3.500, de 1980, respecto de cada trabajador que debía ser contratado por la empresa.
 5.- No se aplicará a las donaciones a que se refiere esta ley el límite global absoluto establecido en el artículo 10.
 Las empresas que ejecuten alguna de las medidas señaladas en las letras a) y b) de este artículo deberán remitir una comunicación electrónica a la Dirección del Trabajo, con copia a la Subsecretaría de Evaluación Social del Ministerio de Desarrollo Social, al Servicio Nacional de la Discapacidad y al Servicio de Impuestos Internos. La empresa deberá indicar en esta comunicación la razón invocada y la medida adoptada. Esta comunicación deberá ser efectuada durante el mes de enero de cada año y tendrá una vigencia de doce meses.
+
+Artículo 157 quáter.- Al menos uno de los trabajadores que se desempeñe en funciones relacionadas con recursos humanos dentro de las empresas contempladas en el supuesto del artículo 157 bis deberá contar con conocimientos específicos en materias que fomenten la inclusión laboral de las personas con discapacidad. Se entenderá que tienen estos conocimientos los trabajadores que cuenten con una certificación al respecto, otorgada por el Sistema Nacional de Certificación de Competencias Laborales establecido en la ley N° 20.267.
+Las empresas señaladas en el inciso anterior deberán promover en su interior políticas en materias de inclusión, las que serán informadas anualmente a la Dirección del Trabajo, de conformidad al reglamento a que se refiere el inciso final del artículo 157 bis. También deberán elaborar y ejecutar anualmente programas de capacitación de su personal, con el objeto de otorgarles herramientas para una efectiva inclusión laboral dentro de la empresa.
+Las actividades realizadas durante la jornada de trabajo o fuera de ella deberán considerar las normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad a que se refiere la ley N° 20.422, como también los principios generales contenidos en las demás normas vigentes sobre la materia.
 
 Art. 154. El reglamento interno deberá contener, a lo menos, las siguientes disposiciones:
 1.- las horas en que empieza y termina el trabajo y las de cada turno, si aquél se efectúa por equipos;
