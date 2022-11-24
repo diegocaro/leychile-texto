@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2022-11-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2022-11-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2022-11-15
-fetched_at: 2026-08-03T07:26:12.032853+00:00
+version_date: 2022-11-24
+fetched_at: 2026-08-03T09:03:40.660596+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -2000,6 +2000,7 @@ Estos certificados serán expedidos gratuitamente por los médicos o matronas a 
 Artículo 197 bis.- Las trabajadoras tendrán derecho a un permiso postnatal parental de doce semanas a continuación del período postnatal, durante el cual recibirán un subsidio cuya base de cálculo será la misma del subsidio por descanso
 NOTA
 de maternidad a que se refiere el inciso primero del artículo 195.
+NOTA 1
 Con todo, la trabajadora podrá reincorporarse a sus labores una vez terminado el permiso postnatal, por la mitad de su jornada, en cuyo caso el permiso postnatal parental se extenderá a dieciocho semanas. En este caso, percibirá el cincuenta por ciento del subsidio que le hubiere correspondido conforme al inciso anterior y, a lo menos, el cincuenta por ciento de los estipendios fijos establecidos en el contrato de trabajo, sin perjuicio de las demás remuneraciones de carácter variable a que tenga derecho.
 Las trabajadoras exentas del límite de jornada de trabajo, de conformidad a lo establecido en el inciso segundo del artículo 22, podrán ejercer el derecho establecido en el inciso anterior, en los términos de dicho precepto y conforme a lo acordado con su empleador.
 Para ejercer los derechos establecidos en los incisos segundo, tercero y octavo, la trabajadora deberá dar aviso a su empleador mediante carta certificada, enviada con a lo menos treinta días de anticipación al término del período postnatal, con copia a la Inspección del Trabajo. De no efectuar esta comunicación, la trabajadora deberá ejercer su permiso postnatal parental de acuerdo a lo establecido en el inciso primero.
@@ -2012,6 +2013,8 @@ El subsidio derivado del permiso postnatal parental se financiará con cargo al 
 El empleador que impida el uso del permiso postnatal parental o realice cualquier práctica arbitraria o abusiva con el objeto de dificultar o hacer imposible el uso del permiso establecido en los incisos precedentes, será sancionado con multa a beneficio fiscal de 14 a 150 unidades tributarias mensuales. Cualquier infracción a lo dispuesto en este inciso podrá ser denunciada a la Inspección del Trabajo, entidad que también podrá proceder de oficio a este respecto.
 NOTA
 El artículo 8 de la ley 21474 publicada el 27.07.2022, dispone que las trabajadoras y los trabajadores que se encuentren haciendo uso del permiso postnatal parental para el cuidado del niño o niña, de que trata el presente artículo, cuyo vencimiento ocurra entre el 1 de mayo y el 30 de septiembre del año 2022, tendrán derecho a solicitar su extensión, cumpliendo los demás requisitos que la citada ley indica.
+NOTA 1
+El artículo 1 de la ley 21510 publicada el 24.11.2022, dispone que las trabajadoras y los trabajadores que se encuentren haciendo uso del permiso postnatal parental para el cuidado del niño o niña, de que trata el presente artículo, cuyo vencimiento ocurra entre el 1 de octubre y el 30 de diciembre del año 2022, tendrán derecho a solicitar su extensión, cumpliendo los demás requisitos que la citada ley indica.
 
 Artículo 198.- La mujer que se encuentre en el período de descanso de maternidad a que se refiere el artículo 195, de descansos suplementarios y de plazo ampliado señalados en el artículo 196, como también los trabajadores que hagan uso del permiso postnatal parental, recibirán un subsidio calculado conforme a lo dispuesto en el decreto con fuerza de ley Nº 44, del Ministerio del Trabajo y Previsión Social, de 1978, y en el artículo 197 bis.
 
