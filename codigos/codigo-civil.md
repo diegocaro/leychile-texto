@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2022-11-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2022-12-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2022-11-19
-fetched_at: 2026-08-03T09:03:28.660239+00:00
+version_date: 2022-12-28
+fetched_at: 2026-08-03T09:04:05.193062+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -357,44 +357,29 @@ Art. 103. El matrimonio podrá celebrarse por mandatario especialmente facultado
 
 Art. 104. Derogado.
 
-Art. 105. No podrá procederse a la celebración del matrimonio sin el asenso o licencia de la persona o personas cuyo consentimiento sea necesario según las reglas que van a expresarse, o sin que conste que el respectivo contrayente no ha menester para casarse el consentimiento de otra persona, o que ha obtenido el de la justicia en subsidio.
+Art. 105. Derogado.
 
-Art. 106. Los que hayan cumplido dieciocho años no estarán obligados a obtener el consentimiento de persona alguna.
+Art. 106. Derogado.
 
-Art. 107. Los que no hubieren cumplido dieciocho años no podrán casarse sin el consentimiento expreso de sus progenitores; si faltare uno de ellos, el del otro; o a falta de ambos, el del ascendiente o de los ascendientes de grado más próximo.
-En igualdad de votos contrarios preferirá el favorable al matrimonio.
+Art. 107. Derogado.
 
 Art. 108. Derogado.
 
-Art. 109. Se entenderá faltar el padre o madre u otro ascendiente, no sólo por haber fallecido, sino por estar demente; o por hallarse ausente del territorio de la República, y no esperarse su pronto regreso; o por ignorarse el lugar de su residencia.
-También se entenderá faltar el padre o madre cuando la paternidad o maternidad haya sido determinada judicialmente contra su oposición.
+Art. 109. Derogado.
 
-Art. 110. Se entenderá faltar asimismo el padre o madre que estén privados de la patria potestad por sentencia judicial o que, por su mala conducta, se hallen inhabilitados para intervenir en la educación de sus hijos.
+Art. 110. Derogado.
 
-Art. 111. A falta de dichos padre, madre o ascendientes, será necesario al que no haya cumplido dieciocho años el consentimiento de su curador general.
-En defecto de los anteriormente llamados, dará al menor el consentimiento para el matrimonio el oficial del Registro Civil que deba intervenir en su celebración. Si éste tuviere alguna de las razones contempladas en el artículo 113 para oponerse al matrimonio, lo comunicará por escrito al juez de letras de la comuna o agrupación de comunas para los efectos señalados en el artículo 112.
-Si se tratare de un hijo cuya filiación aún no ha sido determinada respecto de ninguno de sus progenitores, el consentimiento para el matrimonio lo dará su curador general. A falta de éste, será aplicable lo dispuesto en el inciso anterior.
+Art. 111. Derogado.
 
-Art. 112. Si la persona que debe prestar este consentimiento lo negare, aunque sea sin expresar causa alguna, no podrá procederse al matrimonio de los menores de dieciocho años.
-El curador y el oficial del Registro Civil que nieguen su consentimiento estarán siempre obligados a expresar la causa, y, en tal caso, el menor tendrá derecho a pedir que el disenso sea calificado por el juzgado competente.
+Art. 112. Derogado.
 
-Art. 113. Las razones que justifican el disenso no podrán ser otras que éstas:
-1ª. La existencia de cualquier impedimento legal, incluso el señalado en el artículo 116;
-2ª. El no haberse practicado alguna de las diligencias prescritas en el título De las segundas nupcias, en su caso;
-3ª. Grave peligro para la salud del menor a quien se niega la licencia, o de la prole;
-4ª. Vida licenciosa, pasión inmoderada al juego, embriaguez habitual, de la persona con quien el menor desea casarse;
-5ª. Haber sido condenada esa persona por delito que merezca pena aflictiva;
-6ª. No tener ninguno de los esposos medios actuales para el competente desempeño de las obligaciones del matrimonio.
+Art. 113. Derogado.
 
-Art. 114. El que no habiendo cumplido dieciocho años se casare sin el consentimiento de un ascendiente, estando obligado a obtenerlo, podrá ser desheredado, no sólo por aquel o aquellos cuyo consentimiento le fue necesario, sino por todos los otros ascendientes. Si alguno de éstos muriere sin hacer testamento, no tendrá el descendiente más que la mitad de la porción de bienes que le hubiera correspondido en la sucesión del difunto.
+Art. 114. Derogado.
 
-Art. 115. El ascendiente sin cuyo necesario consentimiento se hubiere casado el descendiente, podrá revocar por esta causa las donaciones que antes del matrimonio le haya hecho.
-El matrimonio contraído sin el necesario consentimiento de otra persona no priva del derecho de alimentos.
+Art. 115. Derogado.
 
-Art. 116. Mientras que una persona no hubiere cumplido dieciocho años, no será lícito al tutor o curador que haya administrado o administre sus bienes, casarse con ella, sin que la cuenta de la administración haya sido aprobada por el juez, con audiencia del defensor de menores.
-Igual inhabilidad se extiende a los descendientes del tutor o curador para el matrimonio con el pupilo o pupila.
-El matrimonio celebrado en contravención a esta disposición, sujetará al tutor o curador que lo haya contraído o permitido, a la pérdida de toda remuneración que por su cargo le corresponda; sin perjuicio de las otras penas que las leyes le impongan.
-No habrá lugar a las disposiciones de este artículo, si el matrimonio es autorizado por el ascendiente o ascendientes cuyo consentimiento fuere necesario para contraerlo.
+Art. 116. Derogado.
 
 Art. 117. Derogado.
 
@@ -460,7 +445,7 @@ Art. 138 bis. Si el marido se negare injustificadamente a ejecutar un acto o cel
 En tal caso, la mujer sólo obligará sus bienes propios y los activos de sus patrimonios reservados o especiales de los artículos 150, 166 y 167, mas no obligará al haber social ni a los bienes propios del marido, sino hasta la concurrencia del beneficio que la sociedad o el marido hubieren reportado del acto.
 Lo mismo se aplicará para nombrar partidor, provocar la partición y para concurrir en ella en los casos en que la mujer tenga parte en la herencia.
 
-Art. 139 (148). El marido menor de edad necesita de curador para la administración de la sociedad conyugal.
+Art. 139 (148). Derogado.
 
 Art. 140 (149). Las reglas de los artículos precedentes sufren excepciones o modificaciones por las causas siguientes:
 1ª. La existencia de bienes familiares.
@@ -508,7 +493,7 @@ Art. 149. Es nula cualquiera estipulación que contravenga las disposiciones de 
 oficio de la mujer
 
 Art. 150. La mujer casada de cualquiera edad podrá dedicarse libremente al ejercicio de un empleo, oficio, profesión o industria.
-La mujer casada, que desempeñe algún empleo o que ejerza una profesión, oficio o industria, separados de los de su marido, se considerará separada de bienes respecto del ejercicio de ese empleo, oficio, profesión o industria y de lo que en ellos obtenga, no obstante cualquiera estipulación en contrario; pero si fuere menor de dieciocho años, necesitará autorización judicial, con conocimiento de causa, para gravar y enajenar los bienes raíces.
+La mujer casada, que desempeñe algún empleo o que ejerza una profesión, oficio o industria, separados de los de su marido, se considerará separada de bienes respecto del ejercicio de ese empleo, oficio, profesión o industria y de lo que en ellos obtenga, no obstante cualquiera estipulación en contrario.
 Incumbe a la mujer acreditar, tanto respecto del marido como de terceros, el origen y dominio de los bienes adquiridos en conformidad a este artículo. Para este efecto podrá servirse de todos los medios de prueba establecidos por la ley.
 Los terceros que contraten con la mujer quedarán a cubierto de toda reclamación que pudieren interponer ella o el marido, sus herederos o cesionarios, fundada en la circunstancia de haber obrado la mujer fuera de los términos del presente artículo, siempre que, no tratándose de bienes comprendidos en los artículos 1754 y 1755, se haya acreditado por la mujer, mediante instrumentos públicos o privados, a los que se hará referencia en el instrumento que se otorgue al efecto, que ejerce o ha ejercido un empleo, oficio, profesión o industria separados de los de su marido.
 Los actos o contratos celebrados por la mujer en esta administración separada, obligarán los bienes comprendidos en ella y los que administre con arreglo a las disposiciones de los artículos 166 y 167, y no obligarán los del marido sino con arreglo al artículo 161.
@@ -525,7 +510,7 @@ Art. 152. Separación de bienes es la que se efectúa sin separación judicial, 
 
 Art. 153. La mujer no podrá renunciar en las capitulaciones matrimoniales la facultad de pedir la separación de bienes a que le dan derecho las leyes.
 
-Art. 154. Para que la mujer menor pueda pedir separación de bienes, deberá ser autorizada por un curador especial.
+Art. 154. Derogado.
 
 Art. 155. El juez decretará la separación de bienes en el caso de insolvencia o administración fraudulenta del marido.
 También la decretará si el marido, por su culpa, no cumple con las obligaciones que imponen los artículos 131 y 134, o incurre en alguna causal de separación judicial, según los términos de la Ley de Matrimonio Civil.
@@ -952,7 +937,7 @@ Art. 269. La emancipación es un hecho que pone fin a la patria potestad del pad
 Art. 270. La emancipación legal se efectúa:
 1º. Por la muerte del padre o madre, salvo que corresponda ejercitar la patria potestad al otro;
 2º. Por el decreto que da la posesión provisoria, o la posesión definitiva en su caso, de los bienes del padre o madre desaparecido, salvo que corresponda al otro ejercitar la patria potestad;
-3º. Por el matrimonio del hijo, y
+3º. Eliminado.
 4º. Por haber cumplido el hijo la edad de dieciocho años.
 
 Art. 271. La emancipación judicial se efectúa por decreto del juez:
@@ -1502,7 +1487,7 @@ Art. 462. Se deferirá la curaduría del demente:
 El juez elegirá en cada clase de las designadas en los números 2º, 3º, 4º y 5º, la persona o personas que más idóneas le parecieren.
 A falta de todas las personas antedichas tendrá lugar la curaduría dativa.
 
-Art. 463. La mujer curadora de su marido demente, tendrá la administración de la sociedad conyugal. Si por su menor edad u otro impedimento no se le defiriere la curaduría de su marido demente, podrá a su arbitrio, luego que cese el impedimento, pedir esta curaduría o la separación de bienes.
+Art. 463. La mujer curadora de su marido demente, tendrá la administración de la sociedad conyugal. Si por un impedimento no se le defiriere la curaduría de su marido demente, podrá a su arbitrio, luego que cese el impedimento, pedir esta curaduría o la separación de bienes.
 
 Art. 464. Si se nombraren dos o más curadores al demente, podrá confiarse el cuidado inmediato de la persona a uno de ellos, dejando a los otros la administración de los bienes.
 El cuidado inmediato de la persona del demente no se encomendará a persona alguna que sea llamada a heredarle, a no ser su padre o madre, o su cónyuge.
@@ -3883,7 +3868,7 @@ Art. 1208. Un descendiente no puede ser desheredado sino por alguna de las causa
 1ª. Por haber cometido injuria grave contra el testador en su persona, honor o bienes, o en la persona, honor o bienes de su cónyuge, o de cualquiera de sus ascendientes o descendientes;
 2ª. Por no haberle socorrido en el estado de demencia o destitución, pudiendo;
 3ª. Por haberse valido de fuerza o dolo para impedirle testar;
-4ª. Por haberse casado sin el consentimiento de un ascendiente, estando obligado a obtenerlo;
+4ª. Eliminada.
 5ª. Por haber cometido un delito que merezca pena aflictiva; o por haberse abandonado a los vicios o ejercido granjerías infames; a menos que se pruebe que el testador no cuidó de la educación del desheredado.
 Los ascendientes y el cónyuge podrán ser desheredados por cualquiera de las tres primeras causas.
 
@@ -4208,7 +4193,7 @@ Art. 1320. Si un coasignatario vende o cede su cuota a un extraño, tendrá ést
 Art. 1321. Si falleciere uno de varios coasignatarios, después de habérsele deferido la asignación, cualquiera de los herederos de éste podrá pedir la partición; pero formarán en ella una sola persona, y no podrán obrar sino todos juntos o por medio de un procurador común.
 
 Art. 1322. Los tutores y curadores, y en general los que administran bienes ajenos por disposición de la ley, no podrán proceder a la partición de las herencias o de los bienes raíces en que tengan parte sus pupilos, sin autorización judicial.
-Pero el marido no habrá menester esta autorización para provocar la partición de los bienes en que tenga parte su mujer: le bastará el consentimiento de su mujer, si ésta fuere mayor de edad y no estuviere imposibilitada de prestarlo, o el de la justicia en subsidio.
+Pero el marido no habrá menester esta autorización para provocar la partición de los bienes en que tenga parte su mujer: le bastará el consentimiento de su mujer, si no estuviere imposibilitada de prestarlo, o el de la justicia en subsidio.
 
 Art. 1323. Sólo pueden ser partidores los abogados habilitados para ejercer la profesión y que tengan la libre disposición de sus bienes.
 Son aplicables a los partidores las causales de implicancia y recusación que el Código Orgánico de Tribunales establece para los jueces.
@@ -5445,13 +5430,11 @@ Tratándose del régimen de participación en los gananciales debe estarse a lo 
 Art. 1720. En las capitulaciones matrimoniales se podrá estipular la separación total o parcial de bienes. En el primer caso se seguirán las reglas dadas en los artículos 158, inciso 2.º, 159, 160, 161, 162 y 163 de este Código; y en el segundo se estará a lo dispuesto en el artículo 167.
 También se podrá estipular que la mujer dispondrá libremente de una determinada suma de dinero, o de una determinada pensión periódica, y este pacto surtirá los efectos que señala el artículo 167.
 
-Art. 1721. El menor hábil para contraer matrimonio podrá hacer en las capitulaciones matrimoniales, con aprobación de la persona o personas cuyo consentimiento le haya sido necesario para el matrimonio, todas las estipulaciones de que sería capaz si fuese mayor; menos las que tengan por objeto renunciar los gananciales, o enajenar bienes raíces, o gravarlos con hipotecas o censos o servidumbres. Para las estipulaciones de estas clases será siempre necesario que la justicia autorice al menor.
-El que se halla bajo curaduría por otra causa que la menor edad, necesitará de la autorización de su curador para las capitulaciones matrimoniales, y en lo demás estará sujeto a las mismas reglas que el menor.
-No se podrá pactar que la sociedad conyugal tenga principio antes o después de contraerse el matrimonio; toda estipulación en contrario es nula.
+Art. 1721.- El que se halla bajo curaduría necesitará de la autorización de su curador para las capitulaciones matrimoniales.
 
 Art. 1722. Las escrituras que alteren o adicionen las capitulaciones matrimoniales, otorgadas antes del matrimonio, no valdrán si no cumplen con las solemnidades prescritas en este título para las capitulaciones mismas.
 
-Art. 1723. Durante el matrimonio los cónyuges mayores de edad podrán substituir el régimen de sociedad de bienes por el de participación en los gananciales o por el de separación total. También podrán substituir la separación total por el régimen de participación en los gananciales.
+Art. 1723. Durante el matrimonio los cónyuges podrán substituir el régimen de sociedad de bienes por el de participación en los gananciales o por el de separación total. También podrán substituir la separación total por el régimen de participación en los gananciales.
 El pacto que los cónyuges celebren en conformidad a este artículo deberá otorgarse por escritura pública y no surtirá efectos entre las partes ni respecto de terceros, sino desde que esa escritura se subinscriba al margen de la respectiva inscripción matrimonial. Esta subinscripción sólo podrá practicarse dentro de los treinta días siguientes a la fecha de la escritura en que se pacte la separación. El pacto que en ella conste no perjudicará, en caso alguno, los derechos válidamente adquiridos por terceros respecto del marido o de la mujer y, una vez celebrado, no podrá dejarse sin efecto por el mutuo consentimiento de los cónyuges.
 En la escritura pública de separación total de bienes, o en la que se pacte participación en los gananciales, según sea el caso, podrán los cónyuges liquidar la sociedad conyugal o proceder a determinar el crédito de participación o celebrar otros pactos lícitos, o una y otra cosa; pero todo ello no producirá efecto alguno entre las partes ni respecto de terceros, sino desde la subinscripción a que se refiere el inciso anterior.
 Tratándose de matrimonios celebrados en país extranjero y que no se hallen inscritos en Chile, será menester proceder previamente a su inscripción en el Registro de la Primera Sección de la comuna de Santiago, para lo cual se exhibirá al oficial civil que corresponda el certificado de matrimonio debidamente legalizado.
@@ -5565,7 +5548,7 @@ No podrá tampoco, sin dicha autorización, disponer entre vivos a título gratu
 Si el marido se constituye aval, codeudor solidario, fiador u otorga cualquiera otra caución respecto de obligaciones contraídas por terceros, sólo obligará sus bienes propios.
 En los casos a que se refiere el inciso anterior para obligar los bienes sociales necesitará la autorización de la mujer.
 La autorización de la mujer deberá ser específica y otorgada por escrito, o por escritura pública si el acto exigiere esta solemnidad, o interviniendo expresa y directamente de cualquier modo en el mismo. Podrá prestarse en todo caso por medio de mandato especial que conste por escrito o por escritura pública según el caso.
-La autorización a que se refiere el presente artículo podrá ser suplida por el juez, previa audiencia a la que será citada la mujer, si ésta la negare sin justo motivo. Podrá asimismo ser suplida por el juez en caso de algún impedimento de la mujer, como el de menor edad, demencia, ausencia real o aparente u otro, y de la demora se siguiere perjuicio. Pero no podrá suplirse dicha autorización si la mujer se opusiere a la donación de los bienes sociales.
+La autorización a que se refiere el presente artículo podrá ser suplida por el juez, previa audiencia a la que será citada la mujer, si ésta la negare sin justo motivo. Podrá asimismo ser suplida por el juez en caso de algún impedimento de la mujer, como demencia, ausencia real o aparente u otro, y de la demora se siguiere perjuicio. Pero no podrá suplirse dicha autorización si la mujer se opusiere a la donación de los bienes sociales.
 
 Art. 1750. El marido es, respecto de terceros, dueño de los bienes sociales, como si ellos y sus bienes propios formasen un solo patrimonio, de manera que durante la sociedad los acreedores del marido podrán perseguir tanto los bienes de éste como los bienes sociales; sin perjuicio de los abonos o compensaciones que a consecuencia de ello deba el marido a la sociedad o la sociedad al marido.
 Podrán, con todo, los acreedores perseguir sus derechos sobre los bienes de la mujer, en virtud de un contrato celebrado por ellos con el marido, en cuanto se probare haber cedido el contrato en utilidad personal de la mujer, como en el pago de sus deudas anteriores al matrimonio.
@@ -5665,7 +5648,7 @@ Art. 1780. Los herederos de cada cónyuge gozan de los mismos derechos y están 
 
 ###### § 6. De la renuncia de los gananciales hecha por parte de la mujer después de la disolución de la sociedad
 
-Art. 1781. Disuelta la sociedad, la mujer mayor o sus herederos mayores tendrán la facultad de renunciar los gananciales a que tuvieren derecho. No se permite esta renuncia a la mujer menor, ni a sus herederos menores, sino con aprobación judicial.
+Art. 1781. Disuelta la sociedad, la mujer o sus herederos mayores tendrán la facultad de renunciar los gananciales a que tuvieren derecho.
 
 Art. 1782. Podrá la mujer renunciar mientras no haya entrado en su poder ninguna parte del haber social a título de gananciales.
 Hecha una vez la renuncia no podrá rescindirse, a menos de probarse que la mujer o sus herederos han sido inducidos a renunciar por engaño o por un justificable error acerca del verdadero estado de los negocios sociales.
@@ -8589,8 +8572,7 @@ NOTA:
 NOTA:
 El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
 
-Art. 38. En los juicios de disenso si no se alega causa legal, en los casos en que haya obligación de hacerlo, el juez deberá dar inmediatamente autorización para el matrimonio.
-Si la persona que debe prestar el consentimiento no concurre a la audiencia, se entiende que retira el disenso. Lo dicho, no regirá con respecto al Oficial del Registro Civil.
+Art. 38. Derogado.
 
 Art. 39. Derogado
 
