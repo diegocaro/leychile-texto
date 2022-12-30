@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-11-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2022-12-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2022-11-16
-fetched_at: 2026-08-03T09:03:10.660010+00:00
+version_date: 2022-12-30
+fetched_at: 2026-08-03T09:04:35.934117+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -723,7 +723,7 @@ Cuando la pena señalada al delito sea compuesta, se estará a la privativa de l
 Las reglas precedentes se entienden sin perjuicio de las prescripciones de corto tiempo que establece este Código para delitos determinados.
 
 ART. 94 bis.
-No prescribirá la acción penal respecto de los crímenes y simples delitos descritos y sancionados en los artículos 141, inciso final, y 142, inciso final, ambos en relación con la violación; los artículos 150 B y 150 E, ambos en relación con los artículos 361, 362 y 365 bis; los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter; el artículo 411 quáter en relación con la explotación sexual; y el artículo 433, N° 1, en relación con la violación, cuando al momento de la perpetración del hecho la víctima fuere menor de edad.
+No prescribirá la acción penal respecto de los crímenes y simples delitos descritos y sancionados en los artículos 141, inciso final, y 142, inciso final, ambos en relación con la violación; los artículos 150 B y 150 E, ambos en relación con los artículos 361, 362 y 365 bis; los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 367, 367 ter, 367 quáter, 367 septies; el artículo 411 quáter en relación con la explotación sexual; y el artículo 433, N° 1, en relación con la violación, cuando al momento de la perpetración del hecho la víctima fuere menor de edad.
 
 ART. 95.
 El término de la prescripción empieza a correr desde el día en que se hubiere cometido el delito.
@@ -2165,48 +2165,73 @@ ART. 366 ter.
 Para los efectos de los tres artículos anteriores, se entenderá por acción sexual cualquier acto de significación sexual y de relevancia realizado mediante contacto corporal con la víctima, o que haya afectado los genitales, el ano o la boca de la víctima, aun cuando no hubiere contacto corporal con ella.
 
 ART. 366 quáter.
-El que, sin realizar una acción sexual en los términos anteriores, para procurar su excitación sexual o la excitación sexual de otro, realizare acciones de significación sexual ante una persona menor de catorce años, la hiciere ver o escuchar material pornográfico o presenciar espectáculos del mismo carácter, será castigado con presidio menor en su grado medio a máximo.
-Si, para el mismo fin de procurar su excitación sexual o la excitación sexual de otro, determinare a una persona menor de catorce años a realizar acciones de significación sexual delante suyo o de otro o a enviar, entregar o exhibir imágenes o grabaciones de su persona o de otro menor de 14 años de edad, con significación sexual, la pena será presidio menor en su grado máximo.
+El que, sin realizar una acción sexual en los términos anteriores, para procurar su excitación sexual o la excitación sexual de otro, realizare acciones de significación sexual ante una persona menor de catorce años, será castigado con presidio menor en su grado medio a máximo.
+Si se determinare a una persona menor de catorce años a realizar acciones de significación sexual delante suyo o de otro, o se la hiciere ver o escuchar material pornográfico o de explotación sexual o presenciar espectáculos del mismo carácter, la pena será presidio menor en su grado máximo.
+Será sancionado con la misma pena del inciso precedente al que determinare a una persona menor de catorce años a enviar, entregar o exhibir:
+a) Imágenes o grabaciones en que se representaren acciones de significación sexual de su persona o de otro menor de catorce años de edad.
+b) Imágenes o grabaciones de sus genitales o los de otra persona menor de catorce años.
 Quien realice alguna de las conductas descritas en los incisos anteriores con una persona menor de edad pero mayor de catorce años, concurriendo cualquiera de las circunstancias del numerando 1º del artículo 361 o de las enumeradas en el artículo 363 o mediante amenazas en los términos de los artículos 296 y 297, tendrá las mismas penas señaladas en los incisos anteriores.
 Las penas señaladas en el presente artículo se aplicarán también cuando los delitos descritos en él sean cometidos a distancia, mediante cualquier medio electrónico.
 Si en la comisión de cualquiera de los delitos descritos en este artículo, el autor falseare su identidad o edad, se aumentará la pena aplicable en un grado.
 
+#### § 6 bis. Explotación sexual comercial y material pornográfico de niños, niñas y adolescentes.
+
+ART. 366 quinquies. Derogado.
+
 ART. 367.
-El que promoviere o facilitare la prostitución de menores de edad para satisfacer los deseos de otro, sufrirá la pena de presidio menor en su grado máximo.
-Si concurriere habitualidad, abuso de autoridad o de confianza o engaño, se impondrán las penas de presidio mayor en cualquiera de sus grados y multa de treinta y una a treinta y cinco unidades tributarias mensuales.
+El que promoviere o facilitare la explotación sexual de una persona menor de dieciocho años sufrirá la pena de presidio mayor en su grado mínimo.
+Si se perpetrare el hecho explotándola en razón de su dependencia personal o económica o si concurriere habitualidad, la pena será de presidio mayor en cualquiera de sus grados y multa de treinta y una a treinta y cinco unidades tributarias mensuales.
+Para efectos de lo dispuesto en el inciso primero, se entenderá por explotación sexual la utilización de una persona menor de dieciocho años para la realización de una acción sexual o de una acción de significación sexual con ella a cambio de cualquier tipo de retribución hacia la víctima o un tercero.
 
 ART. 367 bis. Derogado.
 
 ART. 367 ter.
-El que, a cambio de dinero u otras prestaciones de cualquier naturaleza, obtuviere servicios sexuales por parte de personas mayores de catorce pero menores de dieciocho años de edad, sin que medien las circunstancias de los delitos de violación o estupro, será castigado con presidio menor en su grado máximo.
+El que obtuviere la realización de una acción sexual de una persona menor de dieciocho años a cambio de cualquier tipo de retribución hacia la víctima o un tercero, será castigado con presidio menor en su grado máximo.
+
+ART. 367 quáter.
+El que comercializare, importare, exportare, distribuyere, difundiere o exhibiere material pornográfico o de explotación sexual, cualquiera sea su soporte, en cuya elaboración hayan sido utilizadas personas menores de dieciocho años, será sancionado con la pena de presidio menor en su grado máximo.
+Con la misma pena señalada en el inciso anterior será sancionado el que participare en la producción de dicho material pornográfico o de explotación sexual.
+El que maliciosamente almacenare o adquiriere material pornográfico o de explotación sexual, cualquiera sea su soporte, en cuya elaboración hayan sido utilizadas personas menores de dieciocho años, será castigado con presidio menor en su grado medio.
+Para los efectos de este artículo, se entenderá por material pornográfico o de explotación sexual en cuya elaboración hubieren sido utilizadas personas menores de dieciocho años, toda representación de éstos dedicados a actividades sexuales explícitas, reales o simuladas, o toda representación de sus partes genitales con fines primordialmente sexuales, o toda representación de dichos menores en que se emplee su voz o imagen, con los mismos fines.
+
+ART. 367 quinquies.
+Las conductas de comercialización, distribución, difusión y exhibición, señaladas en el artículo anterior, se entenderán cometidas en Chile cuando se realicen a través de un sistema de telecomunicaciones al que se tenga acceso desde territorio nacional.
+
+ART. 367 sexies.
+Lo dispuesto en este párrafo no será aplicable si el hecho fuere constitutivo de un delito sancionado con igual o mayor pena por alguna disposición de los párrafos 5 o 6 del Título VII del Libro Segundo, en cuyo caso el ánimo de lucro, la entrega o promesa de entrega de dinero o especies susceptibles de valoración pecuniaria serán considerados como una sola circunstancia agravante.
+
+ART. 367 septies.
+El que usando dispositivos técnicos transmitiere la imagen o sonido de una situación o interacción que permitiere presenciar, observar o escuchar la realización de una acción sexual o de una acción de significación sexual, por parte de una persona menor de dieciocho años, será sancionado con presidio menor en su grado máximo.
+
+ART. 367 octies.
+Para los efectos de determinar la reincidencia de la circunstancia 16 del artículo 12, en los delitos sancionados en este párrafo, se considerarán también las sentencias firmes dictadas en un Estado extranjero, aun cuando la pena impuesta no haya sido cumplida.
 
 #### § VII.
-Disposiciones comunes a los dos párrafos anteriores.
+Disposiciones comunes a los tres párrafos anteriores.
 
 ART. 368.
-Si los delitos previstos en los dos párrafos anteriores hubieren sido cometidos por autoridad pública, ministro de un culto religioso, guardador, maestro, empleado o encargado por cualquier título o causa de la educación, guarda, curación o cuidado del ofendido, se impondrá al responsable la pena señalada al delito con exclusión de su grado mínimo, si ella consta de dos o más grados, o de su mitad inferior, si la pena es un grado de una divisible. La misma regla se aplicará a quien hubiere cometido los mencionados delitos en contra de un menor de edad con ocasión de las funciones que desarrolle, aun en forma esporádica, en recintos educacionales, y al que los cometa con ocasión del servicio de transporte escolar que preste a cualquier título.
+Si los delitos previstos en los tres párrafos anteriores hubieren sido cometidos por autoridad pública, ministro de un culto religioso, guardador, maestro, empleado o encargado por cualquier título o causa de la educación, guarda, curación o cuidado del ofendido, se impondrá al responsable la pena señalada al delito con exclusión de su grado mínimo, si ella consta de dos o más grados, o de su mitad inferior, si la pena es un grado de una divisible. La misma regla se aplicará a quien hubiere cometido los mencionados delitos en contra de un menor de edad con ocasión de las funciones que desarrolle, aun en forma esporádica, en recintos educacionales, y al que los cometa con ocasión del servicio de transporte escolar que preste a cualquier título.
 Exceptúanse los casos en que el delito sea de aquellos que la ley describe y pena expresando las circunstancias de usarse fuerza o intimidación, abusarse de una relación de dependencia de la víctima o abusarse de autoridad o confianza.
 
 ART. 368 bis.
-Sin perjuicio de lo dispuesto en el artículo 63, en los delitos señalados en los párrafos 5 y 6 de este Título, serán circunstancias agravantes las siguientes:
+Sin perjuicio de lo dispuesto en el artículo 63, en los delitos señalados en los tres párrafos anteriores, serán circunstancias agravantes las siguientes:
 1º La 1ª del artículo 12.
 2º Ser dos o más los autores del delito.
 
 ART. 368 ter.
-Cuando, en la comisión de los delitos señalados en los artículos 366 quáter, 366 quinquies, 367, 367 ter o 374 bis se utilizaren establecimientos o locales, a sabiendas de su propietario o encargado, o no pudiendo éste menos que saberlo, podrá decretarse en la sentencia su clausura definitiva.
+Cuando, en la comisión de los delitos señalados en los artículos 366 quáter, 367, 367 ter, 367 quáter o 367 septies se utilizaren establecimientos o locales, a sabiendas de su propietario o encargado, o no pudiendo éste menos que saberlo, podrá decretarse en la sentencia su clausura definitiva.
 Asimismo, durante el proceso judicial respectivo, podrá decretarse, como medida cautelar, la clausura temporal de dichos establecimientos o locales.
 
 ART. 369.
 No se puede proceder por causa de los delitos previstos en los artículos 361 a 366 quáter, sin que, a lo menos, se haya denunciado el hecho a la justicia, al Ministerio Público o a la policía por la persona ofendida o por su representante legal.
 Si la persona ofendida no pudiere libremente hacer por sí misma la denuncia, ni tuviere representante legal, o si, teniéndolo, estuviere imposibilitado o implicado en el delito, podrá procederse de oficio por el Ministerio Público, que también estará facultado para deducir las acciones civiles a que se refiere el artículo 370. Sin perjuicio de lo anterior, cualquier persona que tome conocimiento del hecho podrá denunciarlo.
 Con todo, tratándose de víctimas menores de edad, se estará a lo dispuesto en el artículo 369 quinquies de este Código y en el inciso segundo del artículo 53 del Código Procesal Penal.
-En caso de que un cónyuge o conviviente cometa alguno de los delitos establecidos en los párrafos 5 y 6 de este Título en contra de aquél con quien hace vida común, se podrá poner término al proceso a requerimiento del ofendido, a menos que el juez, por motivos fundados, no acepte.
+En caso de que un cónyuge o conviviente cometa alguno de los delitos establecidos en los tres párrafos anteriores en contra de aquél con quien hace vida común, se podrá poner término al proceso a requerimiento del ofendido, a menos que el juez, por motivos fundados, no acepte.
 
-ART. 369 bis.
-En los procesos por los delitos a que se refieren los dos párrafos anteriores, el juez apreciará la prueba conforme con las reglas de la sana crítica.
+ART. 369 bis. Derogado.
 
 ART. 369 ter.
-Cuando existieren sospechas fundadas de que una persona o una organización delictiva hubiere cometido o preparado la comisión de alguno de los delitos previstos en los artículos 366 quinquies, 367, 367 ter, 374 bis, inciso primero, y 374 ter, y la investigación lo hiciere imprescindible, el tribunal, a petición del Ministerio Público, podrá autorizar la interceptación o grabación de las telecomunicaciones de esa persona o de quienes integraren dicha organización, la fotografía, filmación u otros medios de reproducción de imágenes conducentes al esclarecimiento de los hechos y la grabación de comunicaciones. En lo demás, se estará íntegramente a lo dispuesto en los artículos 222 a 225 del Código Procesal Penal.
+Cuando existieren sospechas fundadas de que una persona o una organización delictiva hubiere cometido o preparado la comisión de alguno de los delitos previstos en los artículos 367, 367 ter, 367 quáter, incisos primero y segundo, y 367 septies, y la investigación lo hiciere imprescindible, el tribunal, a petición del Ministerio Público, podrá autorizar la interceptación o grabación de las telecomunicaciones de esa persona o de quienes integraren dicha organización, la fotografía, filmación u otros medios de reproducción de imágenes conducentes al esclarecimiento de los hechos y la grabación de comunicaciones. En lo demás, se estará íntegramente a lo dispuesto en los artículos 222 a 225 del Código Procesal Penal.
 Igualmente, bajo los mismos supuestos previstos en el inciso precedente, podrá el tribunal, a petición del Ministerio Público, autorizar la intervención de agentes encubiertos. Mediando igual autorización y con el objeto exclusivo de facilitar la labor de estos agentes, los organismos policiales pertinentes podrán mantener un registro reservado de producciones del carácter investigado. Asimismo, podrán tener lugar entregas vigiladas de material respecto de la investigación de hechos que se instigaren o materializaren a través del intercambio de dichos elementos, en cualquier soporte.
 La actuación de los agentes encubiertos y las entregas vigiladas serán plenamente aplicables al caso en que la actuación de los agentes o el traslado o circulación de producciones se desarrolle a través de un sistema de telecomunicaciones.
 Los agentes encubiertos, el secreto de sus actuaciones, registros o documentos y las entregas vigiladas se regirán por las disposiciones de la ley Nº 20.000.
@@ -2214,22 +2239,22 @@ Los agentes encubiertos, el secreto de sus actuaciones, registros o documentos y
 ART. 369 quáter. Suprimido.
 
 ART. 369 quinquies.
-Tratándose de los delitos establecidos en los artículos 141, inciso final, y 142, inciso final, ambos en relación con la violación; los artículos 150 B y 150 E, ambos en relación con los artículos 361, 362 y 365 bis; los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter; el artículo 411 quáter en relación con la explotación sexual; y el artículo 433, N° 1, en relación con la violación, perpetrados en contra de una víctima menor de edad, se considerarán delitos de acción pública previa instancia particular y se regirán por lo dispuesto en el artículo 54 del Código Procesal Penal desde que el ofendido por el delito haya cumplido los dieciocho años de edad, si no se ha ejercido antes la acción penal.
+Tratándose de los delitos establecidos en los artículos 141, inciso final, y 142, inciso final, ambos en relación con la violación; los artículos 150 B y 150 E, ambos en relación con los artículos 361, 362 y 365 bis; los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 367, 367 ter, 367 quáter y 367 septies; el artículo 411 quáter en relación con la explotación sexual; y el artículo 433, N° 1, en relación con la violación, perpetrados en contra de una víctima menor de edad, se considerarán delitos de acción pública previa instancia particular y se regirán por lo dispuesto en el artículo 54 del Código Procesal Penal desde que el ofendido por el delito haya cumplido los dieciocho años de edad, si no se ha ejercido antes la acción penal.
 
 ART. 370.
 Además de la indemnización que corresponda conforme a las reglas generales, el condenado por los delitos previstos en los artículos 361 a 366 bis será obligado a dar alimentos cuando proceda de acuerdo a las normas del Código Civil.
 
 ART. 370 bis.
-El que fuere condenado por alguno de los delitos a que se refieren los dos párrafos anteriores cometido en la persona de un menor del que sea pariente, quedará privado de la patria potestad si la tuviere o inhabilitado para obtenerla si no la tuviere y, además, de todos los derechos que por el ministerio de la ley se le confirieren respecto de la persona y bienes del ofendido, de sus ascendientes y descendientes. El juez así lo declarará en la sentencia, decretará la emancipación del menor si correspondiere, y ordenará dejar constancia de ello mediante subinscripción practicada al margen de la inscripción de nacimiento del menor. Además, si el condenado es una de las personas llamadas por ley a dar su autorización para que la víctima salga del país, se prescindirá en lo sucesivo de aquélla.
+El que fuere condenado por alguno de los delitos a que se refieren los tres párrafos anteriores cometido en la persona de un menor del que sea pariente, quedará privado de la patria potestad si la tuviere o inhabilitado para obtenerla si no la tuviere y, además, de todos los derechos que por el ministerio de la ley se le confirieren respecto de la persona y bienes del ofendido, de sus ascendientes y descendientes. El juez así lo declarará en la sentencia, decretará la emancipación del menor si correspondiere, y ordenará dejar constancia de ello mediante subinscripción practicada al margen de la inscripción de nacimiento del menor. Además, si el condenado es una de las personas llamadas por ley a dar su autorización para que la víctima salga del país, se prescindirá en lo sucesivo de aquélla.
 El pariente condenado conservará, en cambio, todas las obligaciones legales cuyo cumplimiento vaya en beneficio de la víctima o de sus descendientes.
 
 ART. 371.
-Los ascendientes, guardadores, maestros y cualesquiera personas que con abuso de autoridad o encargo, cooperaren como cómplices a la perpetración de los delitos comprendidos en los dos párrafos precedentes, serán penados como autores.
+Los ascendientes, guardadores, maestros y cualesquiera personas que con abuso de autoridad o encargo, cooperaren como cómplices a la perpetración de los delitos comprendidos en los tres párrafos anteriores, serán penados como autores.
 Los maestros o encargados en cualquier manera de la educación o dirección de la juventud, serán además condenados a inhabilitación especial perpetua para el cargo u oficio.
 
 ART. 372.
-Los comprendidos en el artículo anterior y cualesquiera otros condenados por la comisión de los delitos previstos en los dos párrafos precedentes en contra de un menor de edad, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad durante los diez años siguientes al cumplimiento de la pena principal. Esta sujeción consistirá en informar a Carabineros cada tres meses su domicilio actual. El incumplimiento de esta obligación configurará la conducta establecida en el artículo 496 Nº 1 de este Código.
-El que cometiere cualquiera de los delitos previstos en los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter y 372 bis en contra de un menor de edad será condenado, además, a la pena de inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad. La misma pena se aplicará a quien cometiere cualquiera de los delitos establecidos en los artículos 142 y 433 Nº 1º, cuando alguna de las víctimas hubiere sufrido violación y fuere menor de edad.
+Los comprendidos en el artículo anterior y cualesquiera otros condenados por la comisión de los delitos previstos en los tres párrafos anteriores en contra de un menor de edad, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad durante los diez años siguientes al cumplimiento de la pena principal. Esta sujeción consistirá en informar a Carabineros cada tres meses su domicilio actual. El incumplimiento de esta obligación configurará la conducta establecida en el artículo 496 Nº 1 de este Código.
+El que cometiere cualquiera de los delitos previstos en los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 367, 367 ter, 367 quáter, 367 septies y 372 bis en contra de un menor de edad será condenado, además, a la pena de inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad. La misma pena se aplicará a quien cometiere cualquiera de los delitos establecidos en los artículos 142 y 433 Nº 1º, cuando alguna de las víctimas hubiere sufrido violación y fuere menor de edad.
 En los casos del inciso anterior, los fiscales del Ministerio Público, de conformidad con lo dispuesto en el literal g) del artículo 259 del Código Procesal Penal, deberán solicitar la pena de inhabilitación cuando formularen acusación, y el tribunal en caso de dictar sentencia condenatoria deberá imponerla de forma específica, de conformidad con lo dispuesto en el artículo 348 del Código Procesal Penal. Si la sentencia condenatoria no cumpliere con esta exigencia, el fiscal siempre deberá deducir recurso en conformidad a la ley.
 
 ART. 372 BIS.
@@ -2237,7 +2262,7 @@ El que, con ocasión de violación, cometiere además homicidio en la persona de
 Si el autor del delito descrito en el inciso anterior es un hombre y la víctima una mujer, el delito tendrá el nombre de violación con femicidio.
 
 ART. 372 TER.
-En los delitos establecidos en los dos párrafos anteriores, el juez podrá en cualquier momento, a petición de parte, o de oficio por razones fundadas, disponer las medidas de protección del ofendido y su familia que estime convenientes, tales como la sujeción del implicado a la vigilancia de una persona o institución determinada, las que informarán periódicamente al tribunal; la prohibición de visitar el domicilio, el lugar de trabajo o el establecimiento educacional del ofendido; la prohibición de aproximarse al ofendido o a su familia, y, en su caso, la obligación de abandonar el hogar que compartiere con aquél.
+En los delitos establecidos en los tres párrafos anteriores, el juez podrá en cualquier momento, a petición de parte, o de oficio por razones fundadas, disponer las medidas de protección del ofendido y su familia que estime convenientes, tales como la sujeción del implicado a la vigilancia de una persona o institución determinada, las que informarán periódicamente al tribunal; la prohibición de visitar el domicilio, el lugar de trabajo o el establecimiento educacional del ofendido; la prohibición de aproximarse al ofendido o a su familia, y, en su caso, la obligación de abandonar el hogar que compartiere con aquél.
 
 #### § VIII.
 De los ultrajes públicos a las buenas costumbres.
@@ -2250,12 +2275,9 @@ El que vendiere, distribuyere o exhibiere canciones, folletos u otros escritos, 
 En las mismas penas incurrirá el autor del manuscrito, de la figura o de la estampa o el que los hubiere reproducido por un procedimiento cualquiera que no sea la imprenta.
 La sentencia condenatoria por este delito ordenará la destrucción total o parcial, según proceda, de los impresos o de las grabaciones sonoras o audiovisuales de cualquier tipo que sean objeto de comiso.
 
-ART. 374 bis.
-El que comercialice, importe, exporte, distribuya, difunda o exhiba material pornográfico, cualquiera sea su soporte, en cuya elaboración hayan sido utilizados menores de dieciocho años, será sancionado con la pena de presidio menor en su grado máximo.
-El que maliciosamente adquiera o almacene material pornográfico, cualquiera sea su soporte, en cuya elaboración hayan sido utilizados menores de dieciocho años, será castigado con presidio menor en su grado medio.
+ART. 374 bis. Derogado.
 
-ART. 374 ter.
-Las conductas de comercialización, distribución y exhibición señaladas en el artículo anterior, se entenderán cometidas en Chile cuando se realicen a través de un sistema de telecomunicaciones al que se tenga acceso desde territorio nacional.
+ART. 374 ter. Derogado.
 
 #### § IX. Del incesto.
 

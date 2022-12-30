@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2022-10-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2022-12-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2022-10-03
-fetched_at: 2026-08-03T07:25:09.880326+00:00
+version_date: 2022-12-30
+fetched_at: 2026-08-03T09:04:41.939438+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -473,7 +473,7 @@ Los derechos precedentemente señalados no podrán ser ejercidos por quien fuere
 
 Artículo 110.- Información a personas que no hubieren intervenido en el procedimiento. En los casos a que se refiere el inciso segundo del artículo 108, si ninguna de las personas enunciadas en ese precepto hubiere intervenido en el procedimiento, el ministerio público informará sus resultados al cónyuge del ofendido por el delito o, en su defecto, a alguno de los hijos u otra de esas personas.
 
-Artículo 110 bis.- Designación de curador ad litem. En los casos en que las víctimas menores de edad de los delitos establecidos en los Párrafos 5 y 6 del Título VII del Libro Segundo, y en los artículos 141, incisos cuarto y quinto; 142; 372 bis; 374 bis; 390; 391; 395; 397, número 1; 411 bis; 411 ter; 411 quáter, y 433, número 1, todos del Código Penal, carezcan de representante legal o cuando, por motivos fundados, se estimare que sus intereses son independientes o contradictorios con los de aquel a quien corresponda representarlos, el juez podrá designarles un curador ad litem de cualquier institución que se dedique a la defensa, promoción o protección de los derechos de la infancia.
+Artículo 110 bis.- Designación de curador ad litem. En los casos en que las víctimas menores de edad de los delitos establecidos en los Párrafos 5, 6 y 6 bis del Título VII del Libro Segundo, y en los artículos 141, incisos cuarto y quinto; 142; 372 bis; 390; 391; 395; 397, número 1; 411 bis; 411 ter; 411 quáter, y 433, número 1, todos del Código Penal, carezcan de representante legal o cuando, por motivos fundados, se estimare que sus intereses son independientes o contradictorios con los de aquel a quien corresponda representarlos, el juez podrá designarles un curador ad litem de cualquier institución que se dedique a la defensa, promoción o protección de los derechos de la infancia.
 NOTA
 El Art. primero transitorio de la ley 21.057, establece que la modificación introducida al presente artículo comenzará a regir de manera gradual, en plazos contados desde la publicación del Reglamento: Primera etapa: seis meses después, respecto de las regiones XV, I, II, VII, XI y XII. Segunda etapa: dieciocho meses después, respecto de las regiones III, IV, VIII, IX y XIV. Tercera etapa: treinta meses después, comprendiendo las regiones V, VI, X y Metropolitana.
 
@@ -845,9 +845,14 @@ Si, al hacérsele la prevención prevista en el inciso anterior, el testigo mani
 En los casos previstos en el inciso precedente, el juez deberá citar a todos aquellos que tuvieren derecho a asistir al juicio oral, quienes tendrán todas las facultades previstas para su participación en la audiencia del juicio oral.
 Sin perjuicio de lo anterior, la inasistencia del imputado válidamente emplazado no obstará a la validez de la audiencia en la que se rinda la prueba anticipada.
 
-Artículo 191 bis.- Derogado.
+Artículo 191 bis.- Anticipación d
+NOTA
+e prueba de menores de edad. Derogado.-
+NOTA 1
 NOTA
 El Art. primero transitorio de la ley 21.057, establece que la modificación introducida al presente artículo comenzará a regir de manera gradual, en plazos contados desde la publicación del Reglamento: Primera etapa: seis meses después, respecto de las regiones XV, I, II, VII, XI y XII. Segunda etapa: dieciocho meses después, respecto de las regiones III, IV, VIII, IX y XIV. Tercera etapa: treinta meses después, comprendiendo las regiones V, VI, X y Metropolitana.
+NOTA 1
+El artículo 7 N° 1 de la ley 21.522, publicada el 30.12.2022, modifica el presente artículo en el sentido de reemplazar la expresión "párrafos 5 y 6" por "párrafos 5, 6 y 6 bis" los cuales pertenecen al Libro Segundo, Título VII, del Código Penal; ello no obstante haber sido derogado previamente por el artículo 32 N° 3 de la ley 21.057, que regula las entrevistas grabadas en video de menores de edad. Esta misma ley establece, en su artículo 1°, que su ámbito de aplicación, comprende los párrafos indicados del Código Penal.
 
 Artículo 192.- Anticipación de prueba testimonial en el extranjero. Si el testigo se encontrare en el extranjero y no pudiere aplicarse lo previsto en el inciso final del artículo 190, el fiscal podrá solicitar al juez de garantía que también se reciba su declaración anticipadamente.
 Para ese efecto, se recibirá la declaración del testigo, según resultare más conveniente y expedito, ante un cónsul chileno o ante el tribunal del lugar en que se hallare.
@@ -1434,9 +1439,7 @@ Se entenderá que constituye un caso grave y calificado aquel en que la solicitu
 Artículo 309.- Declaración de testigos. En el procedimiento penal no existirán testigos inhábiles. Sin perjuicio de ello, los intervinientes podrán dirigir al testigo, preguntas tendientes a demostrar su credibilidad o falta de ella, la existencia de vínculos con alguno de los intervinientes que afectaren o pudieren afectar su imparcialidad, o algún otro defecto de idoneidad.
 Todo testigo dará razón circunstanciada de los hechos sobre los cuales declarare, expresando si los hubiere presenciado, si los dedujere de antecedentes que le fueren conocidos o si los hubiere oído referir a otras personas.
 
-Artículo 310.- Testigos menores
-NOTA
-de edad. El testigo menor de edad sólo será interrogado por el presidente de la sala, debiendo los intervinientes dirigir las preguntas por su intermedio, teniendo éste el deber de impedir que se
+Artículo 310.- Testigos menores de edad. El testigo menor de edad sólo será interrogado por el presidente de la sala, debiendo los intervinientes dirigir las preguntas por su intermedio, teniendo éste el deber de impedir que se
 NOTA
 formulen preguntas que puedan causar sufrimiento o afectación grave de la dignidad del niño, niña o adolescente, a efectos de resguardar su interés superior.
 NOTA
@@ -2077,7 +2080,7 @@ Asimismo, ordenará y controlará el efectivo cumplimiento de las multas y comis
 Artículo 469.- Destino de las especies decomisadas. Los dineros y otros valores decomisados se destinarán a la Corporación Administrativa del Poder Judicial.
 Si el tribunal estimare necesario ordenar la destrucción de las especies, se llevará a cabo bajo la responsabilidad del administrador del tribunal, salvo que se le encomendare a otro organismo público. En todo caso, se registrará la ejecución de la diligencia.
 Las demás especies decomisadas se pondrán a disposición de la Dirección General del Crédito Prendario para que proceda a su enajenación en subasta pública, o a destruirlas si carecieren de valor. El producto de la enajenación tendrá el mismo destino que se señala en el inciso primero.
-En los casos de los artículos 366 quinquies, 374 bis, inciso primero, y 374 ter del Código Penal, el tribunal destinará los instrumentos tecnológicos decomisados, tales como computadores, reproductores de imágenes o sonidos y otros similares, al Servicio Nacional de Menores o a los departamentos especializados en la materia de los organismos policiales que correspondan.
+En los casos de los artículos 367 quáter, incisos primero y segundo, 367 quinquies y 367 septies del Código Penal, el tribunal destinará los instrumentos tecnológicos decomisados, tales como computadores, reproductores de imágenes o sonidos y otros similares, al Servicio Nacional de Menores o a los departamentos especializados en la materia de los organismos policiales que correspondan.
 
 Artículo 470.- Especies retenidas y no decomisadas. Transcurridos a lo menos seis meses desde la fecha de la resolución firme que hubiere puesto término al juicio, sin que hubieren sido reclamadas por su legítimo titular las cosas corporales muebles retenidas y no decomisadas que se encontraren a disposición del tribunal, deberá procederse de acuerdo a lo dispuesto en los incisos siguientes.
 Si se tratare de especies, el administrador del tribunal, previo acuerdo del comité de jueces, las venderá en pública subasta. Los remates se podrán efectuar dos veces al año.
