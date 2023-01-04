@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2022-08-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2023-01-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2022-08-23
-fetched_at: 2026-08-03T05:21:13.138413+00:00
+version_date: 2023-01-04
+fetched_at: 2026-08-03T09:05:11.970591+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -86,8 +86,13 @@ Los nacionalizados en conformidad al Nº 3º del artículo 10, tendrán opción 
 NOTA
 El Nº 1 del artículo único de la ley 21773, publicada el 07.10.2025, dispone reemplazar el inciso primero del presente artículo por el que indica, modificación que comenzará a regir desde el año 2026. Además, previo a su entrada en vigencia, una ley establecerá multas para ciudadanos por incumplimiento del deber de sufragio, conforme a lo dispuesto por la disposición quincuagésima cuarta transitoria de esta norma.
 
-Artículo 15.- En las votaciones populares, el sufragio será personal, igualitario, secreto y voluntario.
+Artículo 15.- En las votaciones populares, el sufragio será personal, igualitario y secreto.
+El sufragio será obligatorio
+NOTA
+para los electores en todas las elecciones y plebiscitos, salvo en las elecciones primarias. Una ley orgánica constitucional fijará las multas o sanciones que se aplicarán por el incumplimiento de este deber, los electores que estarán exentos de ellas y el procedimiento para su determinación.
 Sólo podrá convocarse a votación popular para las elecciones y plebiscitos expresamente previstos en esta Constitución.
+NOTA
+El Nº 2 del artículo único de la ley 21773, publicada el 07.10.2025, dispone eliminar en el inciso segundo del presente artículo la frase “para los electores” y la palabra “electores”, modificación que comenzará a regir desde el año 2026. Además, previo a su entrada en vigencia, una ley establecerá multas para ciudadanos por incumplimiento del deber de sufragio, conforme a lo dispuesto por la disposición quincuagésima cuarta transitoria de esta norma.
 
 Artículo 16.- El derecho de sufragio se suspende:
 1º.- Por interdicción en caso de demencia;
@@ -233,7 +238,9 @@ Procederá, también, el recurso de protección en el caso del Nº8º del artíc
 NOTA
 Véase el Auto Acordado, Corte Suprema, publicado el 28.08.2015, que fija el texto refundido del Auto Acordado sobre tramitación del Recurso de Protección de Garantías Constitucionales.
 
-Artículo 21.- Todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, podrá ocurrir por sí, o por cualquiera a su nombre, a la magistratura que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
+Artículo 21.- Todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las l
+NOTA
+eyes, podrá ocurrir por sí, o por cualquiera a su nombre, a la magistratura que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
 Esa magistratura podrá ordenar que el individuo sea traído a su presencia y su decreto será precisamente obedecido por todos los encargados de las cárceles o lugares de detención. Instruida de los antecedentes, decretará su libertad inmediata o hará que se reparen los defectos legales o pondrá al individuo a disposición del juez competente, procediendo en todo breve y sumariamente, y corrigiendo por sí esos defectos o dando cuenta a quien corresponda para que los corrija.
 El mismo recurso, y en igual forma, podrá ser deducido en favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual. La respectiva magistratura dictará en tal caso las medidas indicadas en los incisos anteriores que estime conducentes para restablecer el imperio del derecho y asegurar la debida protección del afectado.
 NOTA
