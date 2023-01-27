@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2023-01-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2023-01-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2023-01-17
-fetched_at: 2026-08-03T09:05:29.982623+00:00
+version_date: 2023-01-27
+fetched_at: 2026-08-03T09:05:48.000198+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -568,8 +568,7 @@ Corresponderá, asimismo, al Presidente de la República la iniciativa exclusiva
 El Congreso Nacional sólo podrá aceptar, disminuir o rechazar los servicios, empleos, emolumentos, préstamos, beneficios, gastos y demás iniciativas sobre la materia que proponga el Presidente de la República.
 
 Artículo 66.- Las normas legales que interpreten preceptos constitucionales necesitarán, para su aprobación, modificación o derogación, de las cuatro séptimas partes de los diputados y senadores en ejercicio.
-Las normas legales a las cuales la Constitución confiere el carácter de ley orgánica constitucional requerirán, para su aprobación, modificación o derogación, de las cuatro séptimas partes de los diputados y senadores en ejercicio.
-Las normas legales de quórum calificado se establecerán, modificarán o derogarán por la mayoría absoluta de los diputados y senadores en ejercicio.
+Las normas legales a las cuales la Constitución confiere el carácter de ley orgánica constitucional y las leyes de quórum calificado se establecerán, modificarán o derogarán por la mayoría absoluta de los diputados y senadores en ejercicio.
 Las demás normas legales requerirán la mayoría de los miembros presentes de cada Cámara, o las mayorías que sean aplicables conforme a los artículos 68 y siguientes.
 
 Artículo 67.- El proyecto de Ley de Presupuestos deberá ser presentado por el Presidente de la República al Congreso Nacional, a lo menos con tres meses de anterioridad a la fecha en que debe empezar a regir; y si el Congreso no lo despachare dentro de los sesenta días contados desde su presentación, regirá el proyecto presentado por el Presidente de la República.
