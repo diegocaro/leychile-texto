@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=2022-06-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=2023-02-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 2022-06-07
-fetched_at: 2026-08-03T04:47:16.797340+00:00
+version_date: 2023-02-03
+fetched_at: 2026-08-03T09:06:06.014851+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1369,7 +1369,7 @@ Si de acuerdo a lo dispuesto en dichas normas se declara nula la sociedad o no e
 
 Artículo 429.- Los accionistas sólo serán responsables hasta el monto de sus respectivos aportes en la sociedad.
 
-Artículo 430.- La sociedad por acciones que durante más de 90 días seguidos tenga 500 o más accionistas o, a lo menos, el 10% de su capital suscrito pertenezca a un mínimo de 100 accionistas, excluidos los que individualmente o a través de otras personas naturales o jurídicas, excedan dicho porcentaje, por el solo ministerio de la ley se transformará en una sociedad anónima, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La siguiente junta de accionistas deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
+Artículo 430.- La sociedad por acciones que durante doce meses consecutivos cumpla las condiciones que obligan a una sociedad anónima cerrada a inscribir sus acciones en el Registro de Valores de la ley N° 18.045, se transformará por el solo ministerio de la ley en una sociedad anónima, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La junta de accionistas que se celebre con posterioridad a este hecho, deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
 
 Artículo 431.- La sociedad llevará un registro en el que se anotará, a lo menos, el nombre, domicilio y cédula de identidad o rol único tributario de cada accionista, el número de acciones de que sea titular, la fecha en que éstas se hayan inscrito a su nombre y tratándose de acciones suscritas y no pagadas, la forma y oportunidades de pago de ellas. Igualmente, en el Registro deberá inscribirse la constitución de gravámenes y de derechos reales distintos al dominio. En caso de que algún accionista transfiera el todo o parte de sus acciones, deberá anotarse esta circunstancia en el registro de que trata este artículo.
 Dicho registro podrá llevarse por cualquier medio, siempre que éste ofrezca seguridad de que no podrá haber intercalaciones, supresiones u otra adulteración que pueda afectar su fidelidad, y que, además, permita el inmediato registro o constancia de las anotaciones que deban hacerse y estará, en todo tiempo, disponible para su examen por cualquier accionista o administrador de la sociedad.
@@ -1585,7 +1585,7 @@ En cualquiera de los dos casos propuestos, los accionistas podrán intervenir pe
 
 Art. 507. La participación es un contrato por el cual dos o más comerciantes toman interés en una o muchas operaciones mercantiles, instantáneas o sucesivas, que debe ejecutar uno de ellos en su solo nombre y bajo su crédito personal, a cargo de rendir cuenta y dividir con sus asociados las ganancias o pérdidas en la proporción convenida.
 
-Artículo 507 bis.- La sociedad en comandita que durante más de 90 días seguidos tenga 500 o más accionistas o, a lo menos, el 10% de su capital suscrito pertenezca a un mínimo de 100 accionistas, excluidos los que individualmente o a través de otras personas naturales o jurídicas, excedan dicho porcentaje, por el solo ministerio de la ley se transformará en una sociedad anónima, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La siguiente junta de accionistas deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
+Artículo 507 bis.- La sociedad en comandita que durante doce meses consecutivos cumpla las condiciones que obligan a la sociedad anónima cerrada a inscribir sus acciones en el Registro de Valores de la ley N° 18.045, por el solo ministerio de la ley se transformará en una sociedad anónima, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La siguiente junta de accionistas deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
 
 Art. 508. La participación no está sujeta en su formación a las solemnidades prescritas para la constitución de las sociedades.
 El convenio de los asociados determina el objeto, la forma, el interés y las condiciones de la participación.
