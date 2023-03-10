@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2022-11-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2023-03-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2022-11-24
-fetched_at: 2026-08-03T09:03:40.660596+00:00
+version_date: 2023-03-10
+fetched_at: 2026-08-03T09:07:00.215538+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -522,6 +522,10 @@ Artículo 66 ter.- En los casos de programas o campañas públicas de inmunizaci
 Art. 66 quáter.- Los trabajadores dependientes regidos por el Código del Trabajo y aquellos regidos por el Estatuto Administrativo contenido en la ley Nº18.834, y por el Estatuto Administrativo para Funcionarios Municipales contenido en la ley Nº 18.883, que se desempeñen adicionalmente como voluntarios del Cuerpo de Bomberos estarán facultados para acudir a llamados de emergencia ante accidentes, incendios u otros siniestros que ocurran durante su jornada laboral.
 El tiempo que estos trabajadores destinen a la atención de estas emergencias será considerado como trabajado para todos los efectos legales. El empleador no podrá, en ningún caso, calificar esta salida como intempestiva e injustificada para configurar la causal de abandono de trabajo establecida en el artículo 160, número 4, letra a), de este Código, o como fundamento de una investigación sumaria o de un sumario administrativo, en su caso.
 El empleador podrá solicitar a la Comandancia de Bomberos respectiva la acreditación de la circunstancia señalada en este artículo.
+
+Art. 66 quinquies.- Los trabajadores dependientes regidos por el Código del Trabajo, aquellos regidos por la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda y por la ley N° 18.883, que aprueba Estatuto Administrativo para Funcionarios Municipales, que sean padres, madres o tutores legales de menores de edad debidamente diagnosticados con trastorno del espectro autista, estarán facultados para acudir a emergencias respecto a su integridad en los establecimientos educacionales en los cuales cursen su enseñanza parvularia, básica o media.
+El tiempo que estos trabajadores destinen a la atención de estas emergencias será considerado como trabajado para todos los efectos legales. El empleador no podrá, en caso alguno, calificar esta salida como intempestiva e injustificada para configurar la causal de abandono de trabajo establecida en la letra a) del número 4 del artículo 160, o como fundamento de una investigación sumaria o de un sumario administrativo, en su caso.
+El trabajador deberá dar aviso a la Inspección del Trabajo del territorio respectivo respecto a la circunstancia de tener un hijo, hija o menor bajo su tutela legal, diagnosticado con trastorno del espectro autista.
 
 Art. 67. Los trabajadores con más de un año de servicio tendrán derecho a un feriado anual de quince días hábiles, con remuneración íntegra que se otorgará de acuerdo con las formalidades que establezca el reglamento.
 Igual derecho asistirá al trabajador que preste servicios continuos al mismo empleador en virtud de dos o más contratos celebrados por obra o faena determinada y que sobrepasen el año. Con todo, y sólo para estos efectos, el trabajador podrá optar por que el pago de su feriado proporcional se difiera al momento de hacerlo efectivo en las condiciones señaladas en este inciso, debiendo dejar constancia expresa de ello en el respectivo finiquito. En caso de que los contratos no sobrepasen el año y el trabajador hubiere diferido el pago de los feriados conforme lo señala este inciso, el empleador deberá pagar en el último finiquito la totalidad de los feriados adeudados.
