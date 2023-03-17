@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2021-10-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2023-03-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2021-10-28
-fetched_at: 2026-08-03T04:39:12.203163+00:00
+version_date: 2023-03-17
+fetched_at: 2026-08-03T09:07:18.239159+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -752,6 +752,8 @@ Lo anterior no obsta al cumplimiento de los deberes de información por parte de
 
 Artículo 120.- Los profesionales señalados en los artículos 112 y 113 bis de este Código no podrán ejercer su profesión y tener intereses comerciales que digan relación directa con su actividad, en establecimientos destinados a la importación, producción, distribución y venta de productos farmacéuticos, aparatos ortopédicos, prótesis y artículos ópticos, a menos que el Colegio respectivo emita en cada caso un informe estableciendo que no se vulnera la ética profesional. Exceptúanse de esta prohibición los químico-farmacéuticos y farmacéuticos.
 
+Artículo 120 bis.- Los profesionales a que se refiere este Libro podrán otorgar prestaciones a distancia mediante tecnologías de la información y comunicaciones, dentro del ámbito de sus competencias, en las condiciones y con los requisitos que establezcan el reglamento y las demás normativas que al efecto dicte el Ministerio de Salud.
+
 ## LIBRO SEXTO
 DE LOS ESTABLECIMIENTOS DEL ÁREA DE LA SALUD
 
@@ -764,6 +766,7 @@ Estos establecimientos requerirán, para su instalación, ampliación, modificac
 De los establecimientos asistenciales de salud
 
 Artículo 122.- Los establecimientos asistenciales que realicen acciones de salud a las personas requerirán de autorización expresa de la Secretaría Regional Ministerial del territorio en que se encuentren situados y estarán sujetos a los requisitos de instalación, funcionamiento y dirección técnica que determine el reglamento que los regule en particular, en su condición de establecimientos de atención cerrada, generales o especializados. Dicho reglamento determinará, asimismo, los requisitos profesionales que deberá cumplir quien tenga su dirección técnica.
+El reglamento de que trata el inciso anterior deberá considerar las circunstancias particulares de aquellos establecimientos que otorgan prestaciones o atenciones apoyadas en tecnologías de la información y las comunicaciones a distancia.
 
 Artículo 123.- Requerirán asimismo autorización sanitaria los establecimientos de atención abierta o ambulatoria en los cuales se realicen procedimientos especiales para el diagnóstico o tratamiento de las enfermedades que necesiten de infraestructura e instalaciones especiales para su realización y eventualmente de sedación o anestesia local, todos los cuales deberán cumplir con los requisitos de recursos físicos, humanos y de dirección técnica que a su respecto se contemple en los reglamentos pertinentes.
 Los establecimientos en que se ejerzan prácticas médicas alternativas o complementarias reguladas por decreto requerirán de autorización sanitaria, la que se otorgará de conformidad con lo establecido en dicha reglamentación.
