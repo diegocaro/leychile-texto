@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2022-03-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=18914&idVersion=2023-04-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 18914
-version_date: 2022-03-04
-fetched_at: 2026-08-03T04:44:35.029555+00:00
+version_date: 2023-04-10
+fetched_at: 2026-08-03T09:08:04.358329+00:00
 titulo_norma: "CODIGO DE JUSTICIA MILITAR"
 compuesto: DTO-2226
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1153,6 +1153,23 @@ Con la de presidio menor en sus grados medio a máximo, si no causare lesiones o
 NOTA: 14
 El artículo 1°, N° 24 de la Ley 18342, de 26 de septiembre de 1984, al modificar el artículo 284 del presente Código, eliminó del mismo el delito de ultraje a la bandera.
 
+Artículo 281 bis.- El que mate a un miembro de las Fuerzas Armadas, en razón de su función de resguardo de la seguridad pública, será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+La conducta establecida en el inciso anterior será castigada con presidio perpetuo a presidio perpetuo calificado si concurre alguna de las circunstancias siguientes:
+a) Cometerlo mediante precio, recompensa o promesa.
+b) Ejecutarlo con auxilio de gente armada o de personas que aseguren o proporcionen la impunidad.
+c) Si el imputado actúa con su rostro cubierto con el objeto de ocultar su identidad.
+
+Artículo 281 ter.- El que hiera, golpee o maltrate de obra a un funcionario de las Fuerzas Armadas, en razón de su función de resguardo de la seguridad pública, será castigado:
+1. Con la pena de presidio mayor en su grado medio a máximo, si a consecuencia de las lesiones el ofendido resulta demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
+2. Con presidio mayor en su grado mínimo, si las lesiones producen al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
+3. Con presidio menor en su grado medio a máximo, si le causa lesiones menos graves.
+4. Con presidio menor en su grado mínimo, si le causa lesiones leves.
+
+Artículo 281 quáter.- Cuando los delitos establecidos en los artículos 395 y 396 del Código Penal se cometan respecto de un funcionario de las Fuerzas Armadas, en razón de su función de resguardo de la seguridad pública, se aplicarán las penas que siguen:
+1. Con presidio mayor en su grado máximo, si es víctima del delito establecido en el artículo 395.
+2. Con presidio mayor en su grado medio, si es víctima del delito establecido en el inciso primero del artículo 396.
+3. Con presidio menor en su grado máximo, si es víctima del delito establecido en el inciso segundo del artículo 396.
+
 Art. 282. El que cometiere el mismo delito, no siendo en campaña, será castigado:
 Con la pena de presidio mayor en su grado mínimo a presidio perpetuo, si causare lesiones graves o muerte; Con la de presidio menor en su grado medio a máximo, si causare lesiones menos graves;
 Con la de presidio menor en su grado mínimo, si no causare lesiones o éstas fueren leves.
@@ -1651,20 +1668,26 @@ Art. 414. En tiempo de guerra, y movilizado para ello Carabineros de Chile, sus 
 
 Art. 415. Si durante la guerra Carabineros de Chile formare una División o Brigada independiente, el General en Jefe del Ejército podrá delegar en su Comandante en Jefe, aunque no sea del grado de General, las facultades a que se refiere el artículo 75.
 
-Artículo 416.- El que matare a un carabinero que se encontrare en el ejercicio de sus funciones será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+Artículo 416.- El que matare a un carabinero en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+La conducta establecida en el inciso anterior será castigada con presidio perpetuo a presidio perpetuo calificado si concurre alguna de las circunstancias siguientes:
+a) Si se comete mediante precio, recompensa o promesa, o cualquier otro tipo de beneficio para sí o para un tercero.
+b) Si se ejecuta con auxilio de gente armada o de personas que aseguren o proporcionen impunidad.
+c) Si el imputado actúa con su rostro cubierto con el objeto de ocultar su identidad.
 
-Artículo 416 bis.- El que hiriere, golpeare o maltratare de obra a un carabinero que se encontrare en el ejercicio de sus funciones, será castigado:
+Artículo 416 bis.- El que hiriere, golpeare o maltratare de obra a un carabinero en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones, será castigado:
 1º. Con la pena de presidio mayor en su grado medio a máximo, si de resultas de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
 2º. Con presidio mayor en su grado mínimo, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
 3º. Con presidio menor en grado medio a máximo, si le causare lesiones menos graves.
 4º. Con presidio menor en su grado mínimo si le ocasionare lesiones leves.
 
-Artículo 416 ter.- Cuando la víctima de los delitos establecidos en los artículos 395 y 396 del Código Penal sea un carabinero en el ejercicio de sus funciones, se aplicarán las penas que siguen:
+Artículo 416 ter.- Cuando los delitos establecidos en los artículos 395 y 396 del Código Penal se cometieren respecto de un carabinero, en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones, se aplicarán las penas que siguen:
 1° Con presidio mayor en su grado máximo, cuando fuere víctima del delito establecido en el artículo 395.
 2° Con presidio mayor en su grado medio, cuando fuere víctima del delito establecido en el inciso primero del artículo 396.
 3° Con presidio menor en su grado máximo, cuando lo fuere del delito establecido en el inciso segundo del artículo 396.
 
 Artículo 417.- El que amenazare en los términos de los artículos 296 y 297 del Código Penal a uno de los integrantes de Carabineros de Chile con conocimiento de su calidad de miembro de esa Institución, unidades o reparticiones, sufrirá la pena de presidio menor en su grado mínimo a medio.
+
+Artículo 417 bis.- Lo dispuesto en los artículos 416, 416 bis, 416 ter y 417 precedentes será también aplicable cuando las conductas tipificadas en dichas normas afecten a funcionarios de las Fuerzas Armadas o de los servicios de su dependencia que se encuentren desempeñando labores de control o restablecimiento del orden público interior.
 
 ### Título III
 DISPOSICIONES COMPLEMENTARIAS
