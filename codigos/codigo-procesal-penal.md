@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2022-12-31&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2023-04-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2022-12-31
-fetched_at: 2026-08-03T09:05:05.964038+00:00
+version_date: 2023-04-10
+fetched_at: 2026-08-03T09:08:28.431546+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -41,6 +41,7 @@ Asimismo, la policía y los demás organismos auxiliares deberán otorgarle un t
 
 Artículo 7º.- Calidad de imputado. Las facultades, derechos y garantías que la Constitución Política de la República, este Código y otras leyes reconocen al imputado, podrán hacerse valer por la persona a quien se atribuyere participación en un hecho punible desde la primera actuación del procedimiento dirigido en su contra y hasta la completa ejecución de la sentencia.
 Para este efecto, se entenderá por primera actuación del procedimiento cualquiera diligencia o gestión, sea de investigación, de carácter cautelar o de otra especie, que se realizare por o ante un tribunal con competencia en lo criminal, el ministerio público o la policía, en la que se atribuyere a una persona responsabilidad en un hecho punible.
+En las investigaciones iniciadas por el Ministerio Público, los funcionarios policiales o de Gendarmería de Chile, de las Fuerzas Armadas y los funcionarios de los servicios de su dependencia, en cumplimiento del deber, exclusivamente en el marco de funciones de resguardo del orden público, tales como las que se ejercen durante estados de excepción constitucional, protección de la infraestructura crítica, resguardo de fronteras, y funciones de policía cuando correspondan, o cuando se desempeñan en el marco de sus funciones fiscalizadoras, que se encuentren en el caso previsto en el párrafo tercero del numeral 6° del artículo 10 del Código Penal, serán considerados como víctimas o testigos, según corresponda, para todos los efectos legales, a menos que las diligencias permitan atribuirles participación punible. En este último caso adquirirán la calidad de imputado, y podrán hacer valer las facultades, derechos y garantías propias de éste.
 
 Artículo 8º.- Ámbito de la defensa. El imputado tendrá derecho a ser defendido por un letrado desde la primera actuación del procedimiento dirigido en su contra. Todo imputado que carezca de abogado tendrá derecho irrenunciable a que el Estado le proporcione uno. La designación del abogado la efectuará el juez antes de que tenga lugar la primera actuación judicial del procedimiento que requiera la presencia de dicho imputado.
 El imputado tendrá derecho a formular los planteamientos y alegaciones que considerare oportunos, así como a intervenir en todas las actuaciones judiciales y en las demás actuaciones del procedimiento, salvas las excepciones expresamente previstas en este Código.
@@ -320,7 +321,7 @@ El Art. primero transitorio de la ley 21.057, establece que la modificación int
 
 Artículo 79.- Función de la policía en el procedimiento penal. La Policía de Investigaciones de Chile será auxiliar del ministerio público en las tareas de investigación y deberá llevar a cabo las diligencias necesarias para cumplir los fines previstos en este Código, en especial en los artículos 180, 181 y 187, de conformidad a las instrucciones que le dirigieren los fiscales. Tratándose de delitos que dependieren de instancia privada se estará a lo dispuesto en los artículos 54 y 400 de este Código. Asimismo, le corresponderá ejecutar las medidas de coerción que se decretaren.
 Carabineros de Chile, en el mismo carácter de auxiliar del ministerio público, deberá desempeñar las funciones previstas en el inciso precedente cuando el fiscal a cargo del caso así lo dispusiere.
-Sin perjuicio de lo previsto en los incisos anteriores, tratándose de la investigación de hechos cometidos en el interior de establecimientos penales, el ministerio público también podrá impartir instrucciones a Gendarmería de Chile, que actuará de conformidad a lo dispuesto en este Código.
+Sin perjuicio de lo previsto en los incisos anteriores, tratándose de investigaciones en las que apareciere necesario el carácter auxiliar de Gendarmería de Chile para la realización de diligencias de investigación en el interior de establecimientos penales, el Ministerio Público también podrá impartirle instrucciones. En estos casos Gendarmería de Chile deberá actuar de conformidad con lo dispuesto en este Código.
 
 Artículo 80.- Dirección del ministerio público. Los funcionarios señalados en el artículo anterior que, en cada caso, cumplieren funciones previstas en este Código, ejecutarán sus tareas bajo la dirección y responsabilidad de los fiscales y de acuerdo a las instrucciones que éstos les impartieren para los efectos de la investigación, sin perjuicio de su dependencia de las autoridades de la institución a la que pertenecieren.
 También deberán cumplir las órdenes que les dirigieren los jueces para la tramitación del procedimiento.
@@ -560,6 +561,8 @@ Artículo 123.- Oportunidad de la citación judicial. Cuando fuere necesaria la 
 Artículo 124. Exclusión de otras medidas. Cuando la imputación se refiriere a faltas, o delitos que la ley no sancionare con penas privativas ni restrictivas de libertad, no se podrán ordenar medidas cautelares que recaigan sobre la libertad del imputado, con excepción de la citación.
 Lo dispuesto en el inciso anterior no tendrá lugar en los casos a que se refiere el inciso cuarto del artículo 134 o cuando procediere el arresto por falta de comparecencia, la detención o la prisión preventiva de acuerdo a lo dispuesto en el artículo 33.
 
+Artículo 124 bis.- Tratándose del caso previsto en los párrafos tercero y final del numeral 6 del artículo 10 del Código Penal, no se podrán ordenar medidas cautelares que recaigan sobre la libertad del imputado, con excepción de la citación y las medidas cautelares previstas en los literales d) y g) del artículo 155. Lo anterior, no será aplicable si en el curso de la investigación surgen antecedentes calificados que justifiquen la existencia de un delito.
+
 #### Párrafo 3º Detención
 
 Artículo 125.- Procedencia de la detención. Ninguna persona podrá ser detenida sino por orden de funcionario público expresamente facultado por la ley y después que dicha orden le fuere intimada en forma legal, a menos que fuere sorprendida en delito flagrante y, en este caso, para el único objeto de ser conducida ante la autoridad que correspondiere.
@@ -635,7 +638,7 @@ Se entenderá especialmente que la prisión preventiva es indispensable para el 
 Para estimar si la libertad del imputado resulta o no peligrosa para la seguridad de la sociedad, el tribunal deberá considerar especialmente alguna de las siguientes circunstancias: la gravedad de la pena asignada al delito; el número de delitos que se le imputare y el carácter de los mismos; la existencia de procesos pendientes, y el hecho de haber actuado en grupo o pandilla.
 Se entenderá especialmente que
 NOTA
-la libertad del imputado constituye un peligro para la seguridad de la sociedad, cuando los delitos imputados tengan asignada pena de crimen en la ley que los consagra; cuando el imputado hubiere sido condenado con anterioridad por delito al que la ley señale igual o mayor pena, sea que la hubiere cumplido efectivamente o no; cuando se encontrare sujeto a alguna medida cautelar personal como orden de detención judicial pendiente u otras, en libertad condicional o gozando de alguno de los beneficios alternativos a la ejecución de las penas privativas o restrictivas de libertad contemplados en la ley.
+la libertad del imputado constituye un peligro para la seguridad de la sociedad, cuando los delitos imputados tengan asignada pena de crimen en la ley que los consagra; cuando el imputado hubiere sido condenado con anterioridad por delito al que la ley señale igual o mayor pena, sea que la hubiere cumplido efectivamente o no; cuando los delitos imputados consistieren en atentados contra la vida o la integridad física de miembros de Carabineros de Chile, de la Policía de Investigaciones de Chile, funcionarios de las Fuerzas Armadas y de los servicios de su dependencia o de Gendarmería de Chile en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones, que tengan asignada una pena igual o superior a la de presidio menor en su grado máximo en la ley que los consagra; cuando se encontrare sujeto a alguna medida cautelar personal como orden de detención judicial pendiente u otras, en libertad condicional o gozando de alguno de los beneficios alternativos a la ejecución de las penas privativas o restrictivas de libertad contemplados en la ley.
 Se entenderá que la seguridad del ofendido se encuentra en peligro por la libertad del imputado cuando existieren antecedentes calificados que permitieren presumir que éste realizará atentados en contra de aquél, o en contra de su familia o de sus bienes.
 Para efectos del inciso cuarto, sólo se considerarán aquellas órdenes de detención pendientes que se hayan emitido para concurrir ante un tribunal, en calidad de imputado.
 NOTA
