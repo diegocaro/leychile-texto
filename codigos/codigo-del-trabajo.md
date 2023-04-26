@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2023-03-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2023-04-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2023-03-10
-fetched_at: 2026-08-03T09:07:00.215538+00:00
+version_date: 2023-04-26
+fetched_at: 2026-08-03T09:08:34.441442+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -205,15 +205,26 @@ Se considerará también jornada de trabajo el tiempo en que el trabajador se en
 ##### Párrafo 1º
 Jornada ordinaria de trabajo
 
-Art. 22. La duración de la jornada ordinaria de trabajo no excederá de cuarenta y cinco horas semanales.
+Artículo 22.- La duración de la jornada ordinaria de trabajo no excederá de cuarenta horas semanales y su distribución se podrá efectuar en cada semana calendario o sobre la base de promedios semanales en lapsos de hasta
+NOTA 1
+cuatro semanas, con los límites y requisitos señalados en este capítulo.
 Quedarán excluidos de la limitación de jornada de trabajo los trabajadores que presten servicios a distintos empleadores; los gerentes, administradores, apoderados con facultades de administración y todos aquellos que trabajen sin fiscalización superior inmediata; los contratados de acuerdo con este Código para prestar servicios en su domicilio o en un lugar libremente elegido por ellos; los agentes comisionistas y de seguros, vendedores viajantes, cobradores y demás similares que no ejerzan sus funciones en el local del establecimiento.
 También quedarán excluidos de la limitación de jornada de trabajo los trabajadores que se desempeñen a bordo de naves pesqueras.
-Asimismo, quedan excluidos de la limitación de jornada, los trabajadores contratados para que presten sus servicios preferentemente fuera del lugar o sitio de funcionamiento de la empresa, mediante la utilización de medios tecnológicos, informáticos o de telecomunicaciones.
 La jornada de trabajo de los y las deportistas profesionales y de los trabajadores y las trabajadoras que desempeñan actividades conexas se organizará por el cuerpo técnico y la entidad deportiva profesional correspondiente, de acuerdo a la naturaleza de la actividad deportiva y a límites compatibles con la salud de los y las deportistas, y no les será aplicable lo establecido en el inciso primero de este artículo.
-NOTA:
-El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
+NOTA 1
+La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso primero del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
 
-Art. 23. Sin perjuicio de lo señalado en el artículo anterior, los trabajadores que se desempeñen a bordo de naves pesqueras tendrán derecho a uno o varios descansos, los cuales, en conjunto, no podrán ser inferiores a doce horas dentro de cada veinticuatro horas.
+Artículo 22 bis.- Si las partes acuerdan que la jornada señalada en el inciso primero del artículo anterior pueda distribuirse en base a un promedio semanal de cuarenta horas
+NOTA 2
+en un ciclo de hasta cuatro semanas, ella no podrá exceder de cuarenta y cinco horas ordinarias en cada semana, ni extenderse con este límite por más de dos semanas continuas en el ciclo.
+A efectos del inciso anterior, se deberá fijar de común acuerdo un calendario con la distribución diaria y semanal de las horas de trabajo en el ciclo. Con todo, las partes podrán acordar diferentes alternativas de distribución de la jornada en un ciclo. El empleador comunicará al trabajador la alternativa que se aplicará en el ciclo siguiente, con al menos una semana de antelación al inicio de éste.
+En caso de que el trabajador al que se aplique el sistema se encuentre sindicalizado, se requerirá, además, el acuerdo previo de la organización sindical a la que se encuentre afiliado.
+Si al término de la relación laboral el trabajador hubiere prestado servicios por más horas que el promedio legal en el ciclo respectivo, calculadas de forma proporcional, deberán pagarse todas aquellas horas necesarias para completar el promedio de cuarenta horas semanales.
+Mediante negociación colectiva o pactos directos con sindicatos, y sólo respecto de sus afiliados, se podrá acordar que el tope semanal contemplado en el inciso primero se amplíe a cincuenta y dos horas en cada semana, aplicándose los demás requisitos y criterios contenidos en los incisos anteriores.
+NOTA 2
+La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
+
+Art. 23. Sin perjuicio de lo señalado en el artículo 22, los trabajadores que se desempeñen a bordo de naves pesqueras tendrán derecho a uno o varios descansos, los cuales, en conjunto, no podrán ser inferiores a doce horas dentro de cada veinticuatro horas.
 Cuando las necesidades de las faenas lo permitan, los descansos deberán cumplirse preferentemente en tierra. En caso de que se cumplan total o parcialmente a bordo de la nave, ésta deberá contar con las acomodaciones necesarias para ello.
 Cuando la navegación se prolongare por doce días o menos, toda la dotación tendrá derecho a un descanso en tierra de ocho horas como mínimo previo al zarpe, prevaleciendo los acuerdos de las partes siempre y cuando éstos sean superiores a ese mínimo. Este descanso deberá otorgarse en forma continua a cada miembro de la dotación, en cada recalada programada de la nave de pesca.
 En el caso de las navegaciones por períodos de más de doce días, así como en las campañas de pesca de la zona sur austral, en las que la dotación ocupa las dependencias de la nave de pesca habilitadas para ello como su hogar, el descanso previo al zarpe podrá ser otorgado efectivamente en tierra o en dichas instalaciones, a elección del trabajador.
@@ -251,7 +262,7 @@ En el caso de que circunstancias tales como el tiempo de cruzamiento de trenes, 
 3.- Tratándose de trenes de pasajeros, el maquinista no podrá conducir más de cinco horas continuas, tras lo cual tendrá derecho a una hora de descanso imputable a la jornada diaria.
 4.- Finalizada la jornada ordinaria diaria el trabajador tendrá derecho a un descanso mínimo de diez horas continuas, al que se agregará el tiempo necesario para traslado del trabajador al lugar en que pernocte o descanse.
 5.- Las partes podrán programar turnos de espera o llamado de hasta siete horas treinta minutos continuas dentro de un lapso de veinticuatro horas para la realización de un servicio; con todo, luego de transcurridas las horas del referido turno, el trabajador tendrá derecho a un descanso mínimo igual al indicado en el número 4. Las horas correspondientes a los turnos de llamado no serán imputables a la jornada mensual y deberán remunerarse de común acuerdo entre las partes. Esta retribución no podrá ser inferior al valor de la hora correspondiente a uno y medio ingreso mínimo mensual.
-6.- Las reglas anteriores se aplicarán sin perjuicio de lo dispuesto en el inciso penúltimo del artículo 38.
+6.- Las reglas anteriores se aplicarán sin perjuicio de lo dispuesto en el inciso séptimo del artículo 38.
 
 Art. 26. Si en el servicio de transporte urbano colectivo de pasajeros, las partes acordaren cumplir en turnos la jornada ordinaria semanal, éstos no excederán de ocho horas de trabajo, con un descanso mínimo de diez horas entre turno y turno. En todo caso, los choferes no podrán manejar más de cuatro horas continuas.
 
@@ -264,7 +275,7 @@ Con todo, los trabajadores a que se refiere este artículo no podrán permanecer
 En caso de duda y a petición del interesado, el Director del Trabajo resolverá si una determinada labor o actividad se encuentra en alguna de las situaciones descritas en este artículo. De su resolución podrá recurrirse ante el juez competente dentro de quinto día de notificada, quien resolverá en única instancia, sin forma de juicio, oyendo a las partes.
 
 Art. 28. El máximo semanal establecido en el inciso primero del artículo 22 no podrá distribuirse en más de seis ni en menos de cinco días.
-En ningún caso la jornada ordinaria podrá exceder de diez horas por día, sin perjuicio de lo dispuesto en el inciso final del artículo 38.
+En ningún caso la jornada ordinaria podrá exceder de diez horas por día, sin perjuicio de lo dispuesto en el inciso séptimo del artículo 38.
 
 Art. 29. Podrá excederse la jornada ordinaria, pero en la medida indispensable para evitar perjuicios en la marcha normal del establecimiento o faena, cuando sobrevengan fuerza mayor o caso fortuito, o cuando deban impedirse accidentes o efectuarse arreglos o reparaciones impostergables en las maquinarias o instalaciones.
 Las horas trabajadas en exceso se pagarán como extraordinarias.
@@ -274,8 +285,11 @@ Horas Extraordinarias
 
 Art. 30. Se entiende por jornada extraordinaria la que excede del máximo legal o de la pactada contractualmente, si fuese menor.
 
-Art. 31. En las faenas que, por su naturaleza, no perjudiquen la salud del trabajador, podrán pactarse horas extraordinarias hasta un máximo de dos por día, las que se pagarán con el recargo señalado en el artículo siguiente.
+Art. 31. En las faenas que, por su naturaleza, no perjudiquen la salud del trabajador, podrán pactarse horas extraordinarias hasta un máximo de dos por día, las que se pagarán con el recargo señalado en el artículo siguiente. Tratándose de la modalidad dispuesta en el artículo 22 bis, en ningún caso la suma de la jornada ordinaria y extraordinaria podrá superar las cincuenta y dos horas semanales.
+NOTA 3
 La respectiva Inspección del Trabajo, actuando de oficio o a petición de parte, prohibirá el trabajo en horas extraordinarias en aquellas faenas que no cumplan la exigencia señalada en el inciso primero de este artículo y de su resolución podrá reclamarse al Juzgado de Letras del Trabajo que corresponda, dentro de los treinta días siguientes a la notificación.
+NOTA 3
+La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso primero del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
 
 Art. 32. Las horas extraordinarias sólo podrán pactarse para atender necesidades o situaciones temporales de la empresa. Dichos pactos deberán constar por escrito y tener una vigencia transitoria no superior a tres meses, pudiendo renovarse por acuerdo de las partes.
 No obstante la falta de pacto escrito, se considerarán extraordinarias las que se trabajen en exceso de la jornada pactada, con conocimiento del empleador.
@@ -292,12 +306,17 @@ Art. 34. La jornada de trabajo se dividirá en dos partes, dejándose entre ella
 Se exceptúan de lo dispuesto en el inciso anterior los trabajos de proceso continuo. En caso de duda de si una determinada labor está o no sujeta a esta excepción, decidirá la Dirección del Trabajo mediante resolución de la cual podrá reclamarse ante el Juzgado de Letras del Trabajo en los términos previstos en el artículo 31.
 
 Artículo 34 bis.- Sin perjuicio de lo dispuesto en el artículo precedente, los trabajadores de restaurantes que atiendan directamente al público podrán pactar la interrupción de la jornada diaria por más de media y hasta por cuatro horas, en tanto la suma de las horas efectivamente trabajadas no sobrepase los límites semanales y diarios señalados en los artículos 22 y 28. Cada trabajador podrá optar por permanecer en el lugar de trabajo, pero el empleador no podrá requerir de su parte, en este lapso, la prestación de servicios de ninguna naturaleza; la infracción de esta obligación será sancionada con una multa de 60 unidades tributarias mensuales.
-Las referidas horas de interrupción no serán imputables a la jornada diaria, pero su exceso sobre media hora deberá remunerarse de común acuerdo entre las partes en el pacto referido, sin que pueda acordarse un monto inferior al valor por hora correspondiente a uno y medio ingreso mínimo mensual en base a una jornada de cuarenta y cinco horas semanales. En caso que el período de colación fuere imputable a la jornada de trabajo, no corresponderá remunerar conforme a esta disposición el tiempo que ya estuviese imputado a la jornada. El empleador deberá costear el transporte de ida y regreso del trabajador a otro lugar, dentro del radio urbano respectivo, durante las horas de interrupción.
+Las referidas horas de interrupción no serán imputables a la jornada diaria, pero su exceso sobre media hora deberá remunerarse de común acuerdo entre las partes en el pacto referido, sin que pueda acordarse un monto inferior al valor por hora correspondiente a uno y medio ingreso mínimo mensual en base a una jornada de
+NOTA 4
+cuarenta horas semanales. En caso que el período de colación fuere imputable a la jornada de trabajo, no corresponderá remunerar conforme a esta disposición el tiempo que ya estuviese imputado a la jornada. El empleador deberá costear el transporte de ida y regreso del trabajador a otro lugar, dentro del radio urbano respectivo, durante las horas de interrupción.
 El pacto deberá incluir a todos los trabajadores que atienden público y constar por escrito. El empleador deberá remitir a la Dirección del Trabajo copia del respectivo pacto.
 Se podrá incorporar en el pacto a trabajadores de los establecimientos señalados que, sin atender directamente al público, sean de difícil reemplazo, en atención a su condición técnica, profesional o a su experiencia en una determinada especialidad y a las características de la prestación de sus servicios. Al efecto, el empleador deberá remitir a la Dirección del Trabajo copia del respectivo pacto y de los antecedentes que acrediten las circunstancias señaladas en este inciso.
 El pacto deberá ser acordado con la o las organizaciones sindicales a las que pertenezcan los trabajadores involucrados y podrá extenderse hasta por seis meses, renovables de común acuerdo. En caso de no existir aquellas, el acuerdo deberá celebrarse en forma colectiva con dichos trabajadores, ante un ministro de fe. Para aplicar estos pactos a los trabajadores de la empresa sin afiliación sindical, se requerirá de su consentimiento expreso, manifestado por escrito.
 La distribución de la jornada pactada conforme al presente artículo no será compatible con aquella señalada en el artículo 27.
 Durante las interrupciones de la jornada de trabajo a que se refieren los incisos precedentes, el trabajador se encontrará bajo la cobertura del seguro a que se refiere el Título III del Libro II.
+La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso segundo del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
+NOTA 4
+La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso segundo del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
 
 ##### Párrafo 4º
 Descanso semanal
@@ -335,6 +354,8 @@ En el caso de los trabajadores de casinos de juego, hoteles, pubs, discotecas, r
 Cuando se acumule más de un día de descanso en la semana por aplicación de lo dispuesto en los incisos tercero, cuarto y quinto las partes podrán acordar una especial forma de distribución o de remuneración de los días de descanso que excedan de uno semanal. En este último caso, la remuneración no podrá ser inferior a la prevista en el artículo 32.
 Con todo, en casos calificados, el Director del Trabajo podrá autorizar, previo acuerdo de los trabajadores involucrados, si los hubiere, y mediante resolución fundada, el establecimiento de sistemas excepcionales de distribución de jornadas de trabajo y descansos, cuando lo dispuesto en este artículo no pudiere aplicarse, atendidas las especiales características de la prestación de servicios y se hubiere constatado, mediante fiscalización, que las condiciones de higiene y seguridad son compatibles con el referido sistema.
 La vigencia de la resolución será por el plazo de hasta tres años. No obstante, el Director del Trabajo podrá renovarla si se verifica que los requisitos que justificaron su otorgamiento se mantienen. Tratándose de las obras o faenas, la vigencia de la resolución no podrá exceder el plazo de ejecución de las mismas, con un máximo de hasta tres años.
+Un reglamento dictado por intermedio del Ministro del Trabajo y Previsión Social, previo informe de la Dirección del Trabajo, determinará los límites y parámetros de distribución de los sistemas excepcionales de jornada de trabajo y descanso.
+Iguales compensaciones a las señaladas en el inciso octavo podrán ser acordadas tratándose de los procesos de trabajo continuos contemplados en el numeral 2 del inciso primero, en tanto, no superen las cuarenta y dos horas semanales, y se registren en la Inspección del Trabajo.
 NOTA:
 El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
@@ -693,7 +714,10 @@ Si por falta de convenio provisional escrito entre el hombre de mar embarcado en
 
 Art. 106. La jornada semanal de la gente de mar será de cincuenta y seis horas distribuidas en ocho horas diarias.
 Las partes podrán pactar horas extraordinarias sin sujeción al máximo establecido en el artículo 31. No obstante lo anterior, siempre se deberán respetar los descansos mínimos establecidos en el artículo 116.
-Sin perjuicio de lo señalado en el inciso primero y sólo para los efectos del cálculo y pago de las remuneraciones, el exceso de cuarenta y cinco horas semanales se pagará siempre con el recargo establecido en el inciso tercero del artículo 32.
+Sin perjuicio de lo señalado en el inciso primero y sólo para los efectos del cálculo y pago de las remuneraciones, el exceso de cuarenta horas semanales se pagará siempre con el recargo establecido en el inciso tercero del artículo 32.
+NOTA 5
+NOTA 5
+La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso tercero del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
 
 Art. 107. El armador, directamente o por intermedio del capitán, hará la distribución de las jornadas de que trata el artículo anterior.
 
@@ -701,6 +725,10 @@ Art. 108. La disposición del artículo 106 no es aplicable al capitán, o a qui
 Tampoco se aplicará dicha disposición al ingeniero jefe, al comisario, al médico, al telegrafista a cargo de la estación de radio y a cualquier otro oficial que, de acuerdo con el reglamento de trabajo a bordo, se desempeñe como jefe de un departamento o servicio de la nave y que, en tal carácter, deba fiscalizar los trabajos ordinarios y extraordinarios de sus subordinados.
 
 Art. 109. No será obligatorio el trabajo en días domingo o festivos cuando la nave se encuentre fondeada en puerto. La duración del trabajo en la semana correspondiente no podrá en este caso exceder de cuarenta y ocho horas.
+Sin perjuicio de lo señalado precedentemente y sólo para los efectos del cálculo y pago de las remuneraciones, el exceso de cuarenta horas semanales se pagará siempre con el recargo establecido en el inciso tercero del artículo 32.
+NOTA 6
+NOTA 6
+La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso segundo del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
 
 Art. 110. En los días domingo o festivos no se exigirán a la dotación otros trabajos que aquellos que no puedan postergarse y que sean indispensables para el servicio, seguridad, higiene y limpieza de la nave.
 
@@ -927,13 +955,16 @@ Art. 147. Las dos primeras semanas de trabajo se estimarán como período de pru
 Art. 148. Al fallecimiento del jefe de hogar, el contrato subsistirá con los parientes que hayan vivido en la casa de aquél y continúen viviendo en ella después de su muerte, los que serán solidariamente responsables del cumplimiento de las obligaciones emanadas del contrato.
 
 Artículo 149.- La jornada de los trabajadores de casa particular que no vivan en la casa del empleador estará sujeta a las siguientes reglas:
-a) No podrá exceder de cuarenta y cinco horas semanales, sin perjuicio de lo establecido en la letra d).
+a) No podrá exceder de cuarenta horas semanales, sin perjuicio de lo establecido en la letra d).
+NOTA 7
 b) Se podrá distribuir hasta en un máximo de seis días.
 c) Le será aplicable lo dispuesto en el inciso primero del artículo 34.
 d) Las partes podrán acordar por escrito hasta un máximo de quince horas semanales adicionales de trabajo, no acumulables a otras semanas, las que serán pagadas con un recargo no inferior al señalado en el inciso tercero del artículo 32.
 En caso de que el acuerdo no conste por escrito, se imputarán al máximo de quince horas semanales indicadas en esta letra, las horas trabajadas en exceso de la jornada pactada, con conocimiento del empleador.
 e) El período que medie entre el inicio y el término de las labores en ningún caso podrá exceder de doce horas continuas, considerando tanto la jornada como el descanso dentro de ella.
 Cuando vivan en la casa del empleador no estarán sujetos a horario, sino que éste será determinado por la naturaleza de su labor, debiendo tener normalmente un descanso absoluto mínimo de 12 horas diarias. Entre el término de la jornada diaria y el inicio de la siguiente, el descanso será ininterrumpido y, normalmente, de un mínimo de 9 horas. El exceso podrá fraccionarse durante la jornada y en él se entenderá incluido el lapso destinado a las comidas del trabajador.
+NOTA 7
+La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en la letra a) del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
 
 Art. 150. El descanso semanal de los trabajadores de casa particular que no vivan en la casa del empleador, se regirá por las normas generales del párrafo 4, Capítulo IV, Título I, de este Libro.
 Tratándose de trabajadores que vivan en la casa del empleador se aplicarán las siguientes normas:
@@ -1051,7 +1082,6 @@ NOTA:
 mponerse sanciones por situaciones o conductas extradeportivas. Tampoco podrán imponerse sanciones que consistan en la reducción de las vacaciones o cualquier descanso, así como la exclusión de los entrenamientos con el plantel profesional.
 Los y las deportistas profesionales y trabajadores y trabajadoras que desempeñan actividades conexas tendrán derecho a manifestar libremente sus opiniones sobre temas relacionados con su profesión.
 NOTA:
-NOTA:
 El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
 Artículo 152 bis L.- Las infracciones a lo dispuesto en el presente Capítulo serán sancionadas con las multas señaladas en el inciso segundo del artículo 506 de este Código.
@@ -1103,7 +1133,11 @@ de Vuelo Descanso
 11 14
 12 15
 Con todo, si un Período de Servicio de Vuelo se desarrolla en siete horas o menos, no se podrá llevar a cabo otro vuelo dentro de las veinticuatro horas de iniciado el primero, salvo que entre el inicio del primero y el término del segundo no se excedan las doce horas.
-Si la jornada ordinaria se desarrolla en tierra, sólo en labores relativas a Período de Servicio, la jornada diaria no podrá superar las ocho horas continuas, imputándose este período al límite mensual señalado en el inciso primero, y para iniciar un Período de Servicio de Vuelo, deberá mediar previamente un descanso mínimo de once horas. Si las labores en tierra se extienden por un mes calendario, el promedio de horas ordinarias efectivas trabajadas no podrá exceder de cuarenta y cinco semanales.
+Si la jornada ordinaria se desarrolla en tierra, sólo en labores relativas a Período de Servicio, la jornada diaria no podrá superar las ocho horas continuas, imputándose este período al límite mensual señalado en el inciso primero, y para iniciar un Período de Servicio de Vuelo, deberá mediar previamente un descanso mínimo de once horas. Si las labores en tierra se extienden por un mes calendario, el promedio de horas ordinari
+NOTA 8
+as efectivas trabajadas no podrá exceder de cuarenta semanales.
+NOTA 8
+La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso final del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
 
 Artículo 152 ter E.- Toda prestación de servicios en tierra que no se encuentre comprendida en las labores propias del Período de Servicio de Vuelo, será considerada como Período de Servicio y deberá ser remunerada conforme al promedio correspondiente a los tres últimos meses de la remuneración del trabajador. Esta norma se aplicará sólo a los trabajadores cuyas remuneraciones se calculan total o parcialmente sobre la base de horas efectivas de vuelo.
 Asimismo, sin perjuicio de los viáticos y traslados que el empleador deba proveer para la prestación de servicios en tierra, pero en el extranjero, con motivo de la realización de eventos tales como ferias, promociones o congresos, el trabajador tendrá derecho a que ese período sea remunerado en la forma señalada en el inciso anterior.
@@ -1347,8 +1381,12 @@ Una copia del contrato deberá ser entregada, física o electrónicamente, al tr
 Artículo 152 quáter Y.- De los honorarios de los trabajadores de plataformas digitales independientes y el acceso al sistema de seguridad social. Dentro del respectivo período de pago, el que no podrá exceder de un mes, la empresa de plataforma digital de servicios deberá pagar al trabajador de plataformas digitales independiente los honorarios que correspondan por los servicios efectivamente prestados a sus usuarios. Para estos efectos, la empresa de plataforma digital de servicios deberá otorgar todas las facilidades de registro de información, sistemas de transferencias de pago y otros aspectos operativos necesarios.
 Para efectos de determinar el tratamiento tributario que corresponda al trabajador independiente, se estará a lo dispuesto en el artículo 42, número 2, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del decreto ley Nº 824, de 1974 y, según corresponda, a las restantes disposiciones aplicables de dicha ley. Por su parte, respecto de la obligación de retención aplicable a la empresa de plataforma digital de servicios constituida, domiciliada o residente en Chile, se estará a lo que establece el artículo 74, número 2, de la Ley sobre Impuesto a la Renta, o si corresponde, a las otras disposiciones de dicha ley.
 Las empresas de plataforma digital de servicios deberán exigir que el trabajador de plataformas digitales independiente extienda la documentación tributaria que corresponde, tal como la respectiva boleta de honorarios por los servicios prestados a los usuarios, salvo que el Servicio de Impuestos Internos establezca, mediante resolución, otra forma de documentar la operación.
-Los honorarios por cada hora de servicios efectivamente realizados no podrán ser inferiores a la proporción del ingreso mínimo mensual determinado por ley, aumentado en un veinte por ciento. Para su cálculo se dividirá el valor del ingreso mínimo mensual en 180 horas. La empresa, en el respectivo período de pago, deberá verificar que los honorarios devengados por los servicios efectivamente prestados cumplan con estos valores mínimos y, en caso de no alcanzarlos, deberá pagar al trabajador la diferencia.
+Los honorarios por cada hora de servicios efectivamente realizados no podrán ser inferiores a la proporción del ingreso mínimo mensual determinado por ley, aumentado en un veinte por ciento. Para su cálculo se dividirá el valor del ingreso mínimo mensual en
+NOTA 9
+ciento setenta y dos horas. La empresa, en el respectivo período de pago, deberá verificar que los honorarios devengados por los servicios efectivamente prestados cumplan con estos valores mínimos y, en caso de no alcanzarlos, deberá pagar al trabajador la diferencia.
 El trabajador de plataformas digitales independiente tendrá derecho a acceder a cobertura de seguridad social, cotizando según resulte aplicable. Para tal efecto, se estará a lo señalado en el artículo 92 del decreto ley Nº 3.500, de 1980, sin perjuicio del derecho a cotizar mensualmente de conformidad al inciso tercero de la citada norma, u otras normas que resulten aplicables de dicho decreto ley. Por consiguiente, tendrá derecho a cobertura de salud, de pensiones de vejez, de reconocimiento de cargas familiares, para el seguro de accidentes del trabajo y enfermedades profesionales, seguro de invalidez y sobrevivencia, y para el seguro de acompañamiento de niños y niñas afectados por una condición grave de salud, y las demás aplicables conforme a la normativa vigente.
+NOTA 9
+La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso cuarto del presente artículo, se implementará de forma gradual, reduciéndose de 180 horas a 176 horas al primer año; 174 horas al tercer año y 172 al quinto año, contados desde la publicación de la ley en el Diario Oficial.
 
 Artículo 152 quáter Z.- De la obligación de desconectar al trabajador de plataformas digitales independiente. La empresa de plataforma digital de servicios deberá resguardar el cumplimiento de un tiempo de desconexión mínimo del trabajador de plataformas digitales independiente de doce horas continuas dentro de un período de veinticuatro horas.
 La empresa de plataforma digital de servicios sólo podrá desconectar temporalmente al trabajador de plataforma digital independiente para hacer efectivo este derecho y no podrá efectuar desconexiones temporales u otras medidas de sanción basadas en hechos como el rechazo del trabajador independiente del servicio ofrecido o la no conexión a la plataforma digital de servicios en un determinado período de tiempo.
