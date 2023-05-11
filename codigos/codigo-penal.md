@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-04-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-05-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2023-04-10
-fetched_at: 2026-08-03T09:08:22.377026+00:00
+version_date: 2023-05-11
+fetched_at: 2026-08-03T09:09:29.451529+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2377,11 +2377,15 @@ ART.391.
 El que mate a otro y no esté comprendido en los artículos 390, 390 bis y 390 ter, será penado:
 1.° Con presidio mayor en su grado máximo a presidio perpetuo, si ejecutare el homicidio con alguna de las circunstancias siguientes:
 Primera.- Con alevosía.
-Segunda.- Por premio o promesa remuneratoria, o por cualquier otro medio que implique ánimo de lucro.
+Segunda.- Por premio o promesa remuneratoria, o por beneficio económico o de otra naturaleza en provecho propio o de un tercero.
 Tercera.- Por medio de veneno.
 Cuarta.- Con ensañamiento, aumentando deliberada e inhumanamente el dolor al ofendido.
 Quinta.- Con premeditación conocida.
 2.º Con presidio mayor en su grado medio a máximo en cualquier otro caso.
+
+ART. 391 bis.-
+El que conspire para cometer el delito de homicidio calificado previsto en los términos del artículo 391 N° 1°, circunstancia segunda, será castigado con la pena de presidio menor en su grado máximo.
+Si la conducta descrita en el inciso precedente se comete en contra de un juez con competencia en lo penal, de un fiscal del Ministerio Público, de un defensor penal público, de un funcionario de Carabineros de Chile, de la Policía de Investigaciones de Chile o de Gendarmería de Chile, en razón del ejercicio de sus funciones, será castigado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo.
 
 ART. 392.
 Cometiéndose un homicidio en riña o pelea y no constando el autor de la muerte, pero sí los que causaron lesiones graves al occiso, se impondrá a todos éstos la pena de presidio menor en su grado máximo.
