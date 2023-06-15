@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2023-02-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2023-06-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2023-02-10
-fetched_at: 2026-08-03T09:06:42.214884+00:00
+version_date: 2023-06-15
+fetched_at: 2026-08-03T09:10:17.464043+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1218,10 +1218,10 @@ Art. 170 bis. Derogado.
 
 ### § 6. Reglas sobre competencia civil de los tribunales en lo criminal
 
-Art. 171. La acción civil que tuviere por objeto únicamente la restitución de la cosa, deberá interponerse siempre ante el tribunal que conozca las gestiones relacionadas con el respectivo procedimiento penal.
+Artículo 171. La acción civil que tenga por objeto la restitución de la cosa o la imposición del comiso de las ganancias provenientes del delito o, en los casos en que la ley lo disponga aun sin sentencia condenatoria, del hecho ilícito que corresponde al delito, deberán interponerse siempre ante el tribunal que conozca las gestiones relacionadas con el respectivo procedimiento penal.
 Dicho tribunal conocerá también todas las restantes acciones que la víctima deduzca respecto del imputado para perseguir las responsabilidades civiles derivadas del hecho punible, y que no interponga en sede civil.
 Con la excepción indicada en el inciso primero, las otras acciones encaminadas a obtener la reparación de las consecuencias civiles del hecho punible que interpusieren personas distintas de la víctima, o se dirigieren contra personas diferentes del imputado, sólo podrán interponerse ante el tribunal civil que fuere competente de acuerdo a las reglas generales.
-Será competente para conocer de la ejecución de la decisión civil de las sentencias definitivas dictadas por los jueces con competencia penal, el tribunal civil mencionado en el inciso anterior.
+El tribunal civil mencionado en el inciso anterior será competente para conocer de la ejecución de la decisión civil de las sentencias definitivas dictadas por los jueces con competencia penal, así como de la sentencia que imponga el comiso de las ganancias provenientes del hecho ilícito que corresponda al delito o, en su caso, del valor equivalente a los efectos o instrumentos del delito.
 
 Art. 172. Derogado.
 
