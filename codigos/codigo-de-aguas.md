@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2022-04-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2023-07-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 2022-04-06
-fetched_at: 2026-08-03T04:46:04.355475+00:00
+version_date: 2023-07-07
+fetched_at: 2026-08-03T09:10:47.493926+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -881,7 +881,7 @@ Será aplicable, en lo demás, lo dispuesto en los artículos 151 al 157, ambos 
 ARTICULO 161°- Los afectados podrán efectuar las observaciones que estimen procedentes, directamente o por intermedio de las organizaciones de usuarios a que pertenezcan, dentro del plazo de treinta días, contados desde la última publicación.
 
 ARTICULO 162°- Con todos los antecedentes reunidos, y si se cumple con los requisitos señalados en el artículo 159, la Dirección General de Aguas acogerá la solicitud de cambio de fuente de abastecimiento. En caso contrario, la solicitud será denegada.
-La resolución que acepte una solicitud se reducirá a escritura pública, la que será suscrita por el funcionario que se designe en ella y por los interesados, debiendo practicarse las inscripciones, anotaciones y cancelaciones que procedan, en el Registro de Aguas del Conservador de Bienes Raíces. Se agregará a estas inscripciones el tiempo de las reemplazadas.
+En virtud de la resolución que acepte una solicitud se deberán practicar las inscripciones, anotaciones y cancelaciones que procedan, en el Registro de Aguas del Conservador de Bienes Raíces. Se agregará a estas inscripciones el tiempo de las reemplazadas.
 
 ##### d. Del traslado del ejercicio de los derechos de aprovechamiento
 
@@ -1170,7 +1170,7 @@ Las fracciones de voto se sumarán hasta formar votos enteros, despreciándose l
 Si no hubiere fracciones, el empate lo dirimirá el presidente.
 
 ARTICULO 223°- Sólo tendrán derecho a voto los comuneros cuyos derechos estén inscritos en el Registro de la Comunidad y estén al día en el pago de sus cuotas, los que podrán comparecer por sí o representados.
-El mandato deberá constar en instrumento otorgado ante Notario Público, pero si se otorga a otro comunero, bastará una carta poder simple.
+El mandato deberá ser otorgado por escrito, y constará en el respectivo instrumento la autorización notarial de la firma o suscribirse éste a través de firma electrónica avanzada. Si el mandato se otorga a otro comunero, bastará una carta poder simple.
 Las comunidades o sucesiones comparecerán por medio de un solo representante.
 
 ARTICULO 224°- Los acuerdos de la junta se tomarán por mayoría absoluta de los votos emitidos en ella, salvo que este código o los estatutos establezcan otra mayoría.
