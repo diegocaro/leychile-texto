@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-06-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-08-05&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2023-06-15
-fetched_at: 2026-08-03T09:10:35.485419+00:00
+version_date: 2023-08-05
+fetched_at: 2026-08-03T09:11:23.496448+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -3080,7 +3080,8 @@ Serán castigados con la pena de reclusión menor en sus grados medio a máximo 
 5.° En archivos, registros, bibliotecas o museos públicos;
 6.° En puentes, caminos, paseos u otros bienes de uso público;
 7.° En tumbas, signos conmemorativos, monumentos, estatuas, cuadros u otros objetos de arte colocados en edificios o lugares públicos;
-8.° Arruinando al perjudicado.
+8.° Arruinando al perjudicado;
+9.° En medios de transporte público de pasajeros o en bienes o infraestructura asociada a dicha actividad.
 
 ART. 486.
 El que, con alguna de las circunstancias expresadas en el artículo anterior, causare daño cuyo importe exceda de cuatro unidades tributarias mensuales y no pase de cuarenta unidades tributarias mensuales, sufrirá la pena de reclusión menor en sus grados mínimo a medio y multa de seis a diez unidades tributarias mensuales.
