@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2023-06-15&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2023-08-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2023-06-15
-fetched_at: 2026-08-03T09:10:41.491720+00:00
+version_date: 2023-08-17
+fetched_at: 2026-08-03T09:12:18.091723+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2307,14 +2307,15 @@ Cuando el condenado debiere cumplir pena privativa de libertad, el tribunal remi
 Si la sentencia hubiere concedido una pena sustitutiva a las penas privativas o restrictivas de libertad consideradas en la ley, remitirá copia de la misma a la institución encargada de su ejecución.
 Asimismo, ordenará y controlará el efectivo cumplimiento de las multas y comisos impuestos en la sentencia, ejecutará las cauciones en conformidad con el artículo 147, cuando procediere, y dirigirá las comunicaciones que correspondiere a los organismos públicos o autoridades que deban intervenir en la ejecución de lo resuelto.
 
-Artículo 468 bis.- Ejecución del comiso. Toda sentencia que imponga el comiso de las ganancias provenientes del delito será ejecutada como decisión civil dictada por un tribunal con competencia en lo penal.
-En caso de que los bienes decomisados sean dinero o derechos a sumas de dinero, se los transferirá al Fisco. Los fondos obtenidos mediante la realización de los bienes decomisados también serán transferidos al Fisco.
+Artículo 468 bis.- Ejecución del comiso de ganancias. Toda sentencia que imponga el comiso de las ganancias provenientes del delito será ejecutada como decisión civil dictada por un tribunal con competencia en lo penal.
+Si los bienes decomisados son dinero o derechos a sumas de dinero, se los transferirá al Fisco. Los fondos obtenidos mediante la realización de los bienes decomisados también serán transferidos al Fisco.
 El comiso de inmuebles o de bienes de propiedad registral conlleva la facultad de realizar aquellas inscripciones necesarias para ejecutar eficazmente el bien decomisado.
-El Conservador de Bienes Raíces respectivo, efectuadas las cancelaciones e inscripciones que procedan, deberá remitir copia de dichas inscripciones al tribunal que decretó el comiso, el que deberá oficiar a la Dirección General del Crédito Prendario y acompañará copia de las nuevas inscripciones de propiedad a nombre del Fisco de Chile y copia autorizada de la sentencia para que ésta proceda a rematarlo en subasta pública.
-Los notarios, archiveros, conservadores de bienes raíces, el Servicio de Registro Civil e Identificación y demás organismos, autoridades y empleados públicos deberán realizar las actuaciones y diligencias y otorgar las copias de los instrumentos que les sean solicitados para efectuar la subasta o destrucción de las especies, según corresponda, en forma gratuita y exentos de toda clase de derechos, tasas e impuestos.
+El Conservador de Bienes Raíces respectivo, efectuadas las cancelaciones e inscripciones que procedan, deberá remitir copia de dichas inscripciones al tribunal que decretó el comiso, el que deberá oficiar a la Dirección General del Crédito Prendario y acompañar copia de las nuevas inscripciones de propiedad a nombre del Fisco de Chile y copia autorizada de la sentencia para que proceda a rematarlo en subasta pública.
+Los notarios, archiveros, conservadores de bienes raíces, el Servicio de Registro Civil e Identificación y demás organismos, autoridades y empleados públicos deberán realizar las actuaciones y diligencias y otorgar las copias de los instrumentos que les sean solicitados para efectuar la subasta o destrucción de las especies, según corresponda, en forma gratuita y exentas de toda clase de derechos, tasas e impuestos.
 Toda actuación o diligencia previa a la subasta pública que deba efectuar la Dirección General del Crédito Prendario con el objeto de que los bienes queden en condiciones de ser subastados, se efectuará con auxilio de la fuerza pública a solicitud de la referida institución.
+Lo dispuesto en el presente artículo será aplicable también a la ejecución de todo comiso impuesto sin condena previa.
 
-Artículo 469.- Destino de las especies decomisadas. Los dineros y otros valores decomisados se destinarán a la Corporación Administrativa del Poder Judicial.
+Artículo 469.- Destino de las especies decomisadas. Fuera de los casos previstos en el artículo precedente, los dineros y otros valores decomisados se destinarán a la Corporación Administrativa del Poder Judicial.
 Si el tribunal estimare necesario ordenar la destrucción de las especies, se llevará a cabo bajo la responsabilidad del administrador del tribunal, salvo que se le encomendare a otro organismo público. En todo caso, se registrará la ejecución de la diligencia.
 Las demás especies decomisadas se pondrán a disposición de la Dirección General del Crédito Prendario para que proceda a su enajenación en subasta pública, o a destruirlas si carecieren de valor. El producto de la enajenación tendrá el mismo destino que se señala en el inciso primero.
 En los casos de los artículos 367 quáter, incisos primero y segundo, 367 quinquies y 367 septies del Código Penal, el tribunal destinará los instrumentos tecnológicos decomisados, tales como computadores, reproductores de imágenes o sonidos y otros similares, al Servicio Nacional de Menores o a los departamentos especializados en la materia de los organismos policiales que correspondan.
