@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2023-04-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2023-08-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2023-04-26
-fetched_at: 2026-08-03T09:08:34.441442+00:00
+version_date: 2023-08-21
+fetched_at: 2026-08-03T09:12:24.091881+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -3593,7 +3593,7 @@ Artículo 485.- El procedimiento
 NOTA
 contenido en este Párrafo se aplicará respecto de las cuestiones suscitadas en la relación laboral por aplicación de las normas laborales, que afecten los derechos fundamentales de los trabajadores, entendiéndose por éstos los consagrados en la Constitución Política de la República en su artículo 19, números 1º, inciso primero, siempre que su vulneración sea consecuencia directa de actos ocurridos en la relación laboral, 4º, 5º, en lo relativo a la inviolabilidad de toda forma de comunicación privada, 6º, inciso primero, 12º, inciso primero, y 16º, en lo relativo a la libertad de trabajo, al derecho a su libre elección y a lo establecido en su inciso cuarto, cuando aquellos derechos resulten lesionados en el ejercicio de las facultades del empleador.
 También se aplicará este procedimiento para conocer de los actos discriminatorios a que se refiere el artículo 2° de este Código, con excepción de los contemplados en su inciso sexto.
-Se entenderá que los derechos y garantías a que se refieren los incisos anteriores resultan lesionados cuando el ejercicio de las facultades que la ley le reconoce al empleador limita el pleno ejercicio de aquéllas sin justificación suficiente, en forma arbitraria o desproporcionada, o sin respeto a su contenido esencial. En igual sentido se entenderán las represalias ejercidas en contra de trabajadores por el ejercicio de acciones judiciales, por su participación en ellas como testigo o haber sido ofrecidos en tal calidad, o bien como consecuencia de la labor fiscalizadora de la Dirección del Trabajo.
+Se entenderá que los derechos y garantías a que se refieren los incisos anteriores resultan lesionados cuando el ejercicio de las facultades que la ley le reconoce al empleador limita el pleno ejercicio de aquéllas sin justificación suficiente, en forma arbitraria o desproporcionada, o sin respeto a su contenido esencial. En igual sentido se entenderán las represalias ejercidas en contra de trabajadores por la interposición de denuncias o por el ejercicio de acciones judiciales, por su participación en ellas como testigo o haber sido ofrecidos en tal calidad, o bien como consecuencia de la labor fiscalizadora de la Dirección del Trabajo.
 Interpuesta la acción de protección a que se refiere el artículo 20 de la Constitución Política, en los casos que proceda, no se podrá efectuar una denuncia de conformidad a las normas de este Párrafo, que se refiera a los mismos hechos.
 NOTA
 El artículo 1 de la ley 21280, publicada el 09.11.2020, declara interpretado el inciso primero del presente artículo en el sentido de señalar que las normas de los artículos 485 y siguientes, contenidas en el Párrafo 6° del Capítulo II del Título I del Libro V del Código del Trabajo, son aplicables a todos los trabajadores, incluidos aquellos a los que hace referencia el inciso segundo del artículo 1° del Código del Trabajo, en virtud de lo dispuesto en los incisos primero y tercero de ese mismo artículo. Asimismo, declara que también serán aplicables a los trabajadores que se desempeñen en los órganos señalados en los Capítulos VII, VIII, IX, X y XIII de la Constitución Política de la República y a aquellos que sus propias leyes declaren como autónomos.

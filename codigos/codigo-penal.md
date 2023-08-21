@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-08-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-08-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2023-08-17
-fetched_at: 2026-08-03T09:11:59.506747+00:00
+version_date: 2023-08-21
+fetched_at: 2026-08-03T09:12:43.078961+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1314,7 +1314,21 @@ El que ante la autoridad o sus agentes perjurare o diere falso testimonio en mat
 Inciso Eliminado.
 
 ART. 211.
-La acusación o denuncia que hubiere sido declarada calumniosa por sentencia ejecutoriada, será castigada con presidio menor en su grado máximo y multa de dieciséis a veinte unidades tributarias mensuales, cuando versare sobre un crimen; con presidio menor en su grado medio y multa de once a quince unidades tributarias mensuales, si fuere sobre simple delito, y con presidio menor en su grado mínimo y multa de seis a diez unidades tributarias mensuales, si se tratare de una falta.
+El que maliciosamente presentare una denuncia por la cual se impute falsamente a otra persona un hecho determinado constitutivo de delito, infracción administrativa o infracción disciplinaria será sancionado:
+1. Con la pena de presidio menor en su grado medio y multa de once a veinte unidades tributarias mensuales si el hecho imputado fuere constitutivo de crimen.
+2. Con la pena de presidio menor en sus grados mínimo a medio y multa de seis a diez unidades tributarias mensuales si el hecho imputado fuere constitutivo de simple delito o de infracción administrativa.
+3. Con la pena de presidio menor en su grado mínimo y multa de una a cinco unidades tributarias mensuales si el hecho imputado fuere constitutivo de falta o fuere de aquellos que diere lugar a una infracción disciplinaria.
+Para los efectos del inciso anterior, se entenderá también que denuncia el que presenta querella o formula acusación particular en un proceso penal.
+
+ART. 211 BIS.
+Para efectos de lo dispuesto en el artículo precedente se entenderá que constituyen infracción administrativa los hechos por los que la administración o los tribunales que no ejercen jurisdicción en lo penal pueden imponer multas u otras sanciones privativas o restrictivas de derechos patrimoniales o civiles, e infracción disciplinaria los hechos por los que se imponen sanciones por la contravención de las normas que regulan el correcto ejercicio de los cargos y funciones públicos.
+
+ART. 211 TER.
+La retractación oportuna de quien hubiere incurrido en alguna de las conductas previstas en el artículo 211 constituirá una atenuante muy calificada en los términos del artículo 68 bis.
+Para estos efectos, la retractación es oportuna:
+1. Tratándose de un hecho constitutivo de crimen, simple delito o falta, antes de que se adopte una medida judicial que afecte los derechos de una persona y antes del término del procedimiento.
+2. Tratándose de una infracción administrativa o de un proceso que pudiere dar lugar a una infracción disciplinaria, antes de que se formulen cargos contra la persona afectada.
+En todo caso, la retractación oportuna eximirá de responsabilidad penal en casos calificados, cuando su importancia para el esclarecimiento de los hechos y la gravedad de los potenciales efectos de su omisión así lo justifiquen.
 
 ART. 212.
 El que fuera de los casos previstos en los artículos precedentes faltare a la verdad en declaración prestada bajo juramento o promesa exigida por ley, será castigado con la pena de prisión en cualquiera de sus grados o multa de una a cuatro unidades tributarias mensuales.
@@ -1502,6 +1516,10 @@ ART. 246.
 El empleado público que revelare los secretos de que tenga conocimiento por razón de su oficio o entregare indebidamente papeles o copia de papeles que tenga a su cargo y no deban ser publicados, incurrirá en las penas de suspensión del empleo en sus grados mínimo a medio o multa de seis a veinte unidades tributarias mensuales, o bien en ambas conjuntamente.
 Si de la revelación o entrega resultare grave daño para la causa pública, las penas serán reclusión mayor en cualquiera de sus grados y multa de veintiuno a treinta unidades tributarias mensuales.
 Las penas señaladas en los incisos anteriores se aplicarán, según corresponda, al empleado público que indebidamente anticipare en cualquier forma el conocimiento de documentos, actos o papeles que tenga a su cargo y que deban ser publicados.
+
+ART. 246 BIS.
+El funcionario público que revelare o consintiere que otro tomare conocimiento de uno o más hechos ventilados en un procedimiento judicial o administrativo sancionatorio o disciplinario en el cual le hubiere correspondido intervenir bajo un deber de reserva será sancionado con la pena de reclusión menor en cualquiera de sus grados y multa de diez a treinta unidades tributarias mensuales.
+Si la información a que se refiere el inciso anterior fuere la de la identidad del denunciante, la pena será de reclusión menor en sus grados medio a máximo y multa de veinte a treinta unidades tributarias mensuales.
 
 ART. 247.
 El empleado público que, sabiendo por razón de su cargo los secretos de un particular, los descubriere con perjuicio de éste, incurrirá en las penas de reclusión menor en sus grados mínimo a medio y multa de seis a diez unidades tributarias mensuales.
