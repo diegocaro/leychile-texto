@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=2014-10-10&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=29668&idVersion=2023-09-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 29668
-version_date: 2014-10-10
-fetched_at: 2026-08-03T03:11:38.789072+00:00
+version_date: 2023-09-06
+fetched_at: 2026-08-03T09:12:49.085036+00:00
 titulo_norma: "CODIGO DE MINERIA"
 compuesto: LEY-18248
 organismos: ['MINISTERIO DE MINERIA']
@@ -96,14 +96,16 @@ Artículo 17.- Sin perjuicio de los permisos de que trata el artículo 15, para 
 1°. Del gobernador respectivo, para ejecutar labores mineras dentro de una ciudad o población, en cementerios, en playas de puertos habilitados y en sitios destinados a la captación de las aguas necesarias para un pueblo; a menor distancia de cincuenta metros, medidos horizontalmente, de edificios, caminos públicos, ferrocarriles, líneas eléctricas de alta tensión, andariveles, conductos, defensas fluviales, cursos de agua y lagos de uso público, y a menor distancia de doscientos metros, medidos horizontalmente, de obras de embalse, estaciones de radiocomunicaciones, antenas e instalaciones de telecomunicaciones.
 No se necesitará este permiso cuando los edificios, ferrocarriles, líneas eléctricas de alta tensión, andariveles, conductos, estaciones de radiocomunicaciones, antenas e instalaciones de telecomunicaciones pertenezcan al interesado en ejecutar las labores mineras o cuando su dueño autorice al interesado para realizarlas.
 Antes de otorgar el permiso para ejecutar labores mineras dentro de una ciudad o población, el gobernador deberá oír al respectivo Secretario Regional Ministerial de Vivienda y Urbanismo;
-2°. Del Intendente respectivo, para ejecutar labores mineras en lugares declarados parques nacionales, reservas nacionales o monumentos naturales;
+2°. Suprimido.
 3°. De la Dirección de Fronteras y Límites, para ejecutar labores mineras en zonas declaradas fronterizas para efectos mineros;
 4°. Del Ministerio de Defensa Nacional, para ejecutar labores mineras a menos de quinientos metros de lugares destinados a depósitos de materiales explosivos o inflamables;
 5°. También del Ministerio de Defensa Nacional, para ejecutar labores mineras en zonas y recintos militares dependientes de ese Ministerio, tales como puertos y aeródromos; o en los terrenos adyacentes hasta la distancia de tres mil metros, medidos horizontalmente, siempre que estos terrenos hayan sido declarados, de conformidad a la ley, necesarios para la defensa nacional, y
 6°. Del Presidente de la República, para ejecutar labores mineras en covaderas o en lugares que hayan sido declarados de interés histórico o científico.
 Al otorgarse los permisos exigidos en los números anteriores, se podrá prescribir las medidas que convenga adoptar en interés de la defensa nacional, la seguridad pública o la preservación de los sitios allí referidos.
 Los permisos mencionados en los números 2°, 3° y 6°, excepto los relativos a covaderas, sólo serán necesarios cuando las declaraciones a que esos mismos números se refieren hayan sido hechas expresamente para efectos mineros, por decreto supremo que además señale los deslindes correspondientes. El decreto deberá ser firmado, también, por el Ministro de Minería.
-Será aplicable a los funcionarios o autoridades a quienes corresponda otorgar los permisos a que se refiere esta disposición, lo prescrito en el artículo 162 del decreto con fuerza de ley N° 338, de 1960.
+Será aplicable a los funcionarios o autoridades a quienes corresponda otorgar los permisos a que se refiere esta disposición, lo prescrito en el artículo 162 del
+NOTA
+decreto con fuerza de ley N° 338, de 1960.
 NOTA
 La referencia al artículo 162 del Decreto con Fuerza de Ley N° 338, de 1960, debe entenderse hecha al artículo 84, letra b) de la Ley N° 18.834, de 23 de septiembre de 1989, que aprueba el nuevo Estatuto Administrativo.
 
@@ -350,7 +352,6 @@ Desde que quede ejecutoriada la sentencia que pone término al juicio de oposici
 Cualquier interesado podrá pedir que se notifique al ingeniero o perito para que entregue el acta y plano al juez, para lo cual dicho ingeniero o perito tendrá el plazo que el tribunal señale.
 Mientras no se haga uso del derecho a pedir la caducidad, podrá en cualquier tiempo continuarse la tramitación; pero el derecho a pedir la caducidad por la paralización ya producida subsistirá hasta que quede ejecutoriada la sentencia que puso término al juicio o se dicte la sentencia constitutiva, en su caso.
 Contra la sentencia que se pronuncie acerca de la caducidad procederán los mismos recursos que contra una sentencia definitiva. La apelación en contra de la sentencia que deseche la solicitud de caducidad se concederá en el solo efecto devolutivo.
-NOTA:
 NOTA:
 El inciso segundo del artículo segundo de la Ley 19573, publicada el 25.07.1998, interpretó el inciso primero del presente artículo, en el sentido de declarar que el término de tres meses comienza a correr desde que la demanda de oposición queda presentada en la secretaría del tribunal.
 
