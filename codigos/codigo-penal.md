@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-08-21&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-09-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2023-08-21
-fetched_at: 2026-08-03T09:12:43.078961+00:00
+version_date: 2023-09-08
+fetched_at: 2026-08-03T09:13:07.090798+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1973,6 +1973,12 @@ ART. 304 bis.
 El que sin estar legal o reglamentariamente autorizado al efecto ingresare, intentare o permitiere ingresar por cualquier medio a un establecimiento penitenciario intercomunicadores, teléfonos, partes de ellos, chips telefónicos u otros elementos tecnológicos que permitan comunicarse con el exterior, será sancionado con la pena de presidio menor en su grado mínimo a medio.
 Si las conductas a que se refiere el inciso anterior fueren perpetradas por un abogado, procurador o empleado público, la pena no se aplicará en su grado mínimo y, además, conllevará desde suspensión en su grado mínimo a inhabilitación absoluta temporal en cualquiera de sus grados para el ejercicio de la profesión y del cargo u oficio, respectivamente.
 Si la conducta descrita en el inciso primero fuere cometida por el empleado público para facilitar la perpetración de alguno de los crímenes o simples delitos previstos en el artículo 27 letra a) de la ley N° 19.913, artículos 1, 2, 3 y 4 de la ley N° 20.000, y en los artículos 141, 142, 268 ter, 391, 438, 467 y 468 del presente Código, se aumentará la pena del inciso primero en un grado y además conllevará la inhabilitación absoluta perpetua para cargos u oficios públicos.
+
+ART. 304 ter.
+El que, encontrándose privado de libertad en un establecimiento penitenciario, tuviere en su poder cualquiera de los elementos señalados en el artículo anterior, sin estar legal o reglamentariamente autorizado al efecto, será sancionado con la pena de presidio menor en su grado mínimo a medio.
+El funcionario público que, teniendo conocimiento de la existencia no autorizada al interior de un establecimiento penitenciario de cualquiera de los elementos señalados en el artículo anterior, omitiere denunciar el hecho a la autoridad competente, será sancionado con presidio menor en su grado mínimo y suspensión en su grado mínimo a inhabilitación absoluta temporal en cualquiera de sus grados para el ejercicio del cargo u oficio.
+Está exento de responsabilidad penal el abogado defensor de quien tuviere en su poder los elementos a que se refiere el artículo anterior, y que omitiere denunciar este hecho.
+Lo dispuesto en el presente artículo se entiende sin perjuicio de las sanciones que fueren procedentes conforme al Reglamento de Establecimientos Penitenciarios, contenido en el decreto Nº 518, promulgado y publicado el año 1998, del Ministerio de Justicia.
 
 #### § 13. Atentados contra el medio ambiente
 
