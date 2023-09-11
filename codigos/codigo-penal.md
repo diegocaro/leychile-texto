@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-09-08&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-09-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2023-09-08
-fetched_at: 2026-08-03T09:13:07.090798+00:00
+version_date: 2023-09-11
+fetched_at: 2026-08-03T09:13:25.092479+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2984,7 +2984,7 @@ ART. 456 BIS.
 En los delitos de robo y hurto serán circunstancias agravantes las siguientes:
 1°) Ejecutar el delito en sitios faltos de vigilancia policial, obscuros, solitarios, sin tránsito habitual o que por cualquiera otra condición favorezcan la impunidad.
 2°) Ser la víctima niño, anciano, inválido o persona en manifiesto estado de inferioridad física;
-3°) Suprimida;
+3°) Ejecutar el delito usando un vehículo motorizado sin placa patente delantera, trasera o ambas; o con cualquiera oculta o con vidrios oscuros o polarizados, en contravención a la ley N° 18.290, de Tránsito; o en el que se haya utilizado cualquier otra práctica, técnica, intervención, herramienta, dispositivo o condición que favorezca su impunidad;
 4°) Ejercer la violencia en las personas que intervengan en defensa de la víctima, salvo que este hecho importe otro delito; y
 5°) Actuar con personas exentas de responsabilidad criminal, según el número 1.o del artículo 10.
 Las circunstancias agravantes de los números 1.o y 5° del artículo 12 serán aplicables en los casos en que se ejerciere violencia sobre las personas.
