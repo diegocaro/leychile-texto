@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=2022-02-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=2023-09-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 30287
-version_date: 2022-02-25
-fetched_at: 2026-08-03T04:44:05.015109+00:00
+version_date: 2023-09-22
+fetched_at: 2026-08-03T09:13:43.095960+00:00
 titulo_norma: "APRUEBA CODIGO AERONAUTICO"
 compuesto: LEY-18916
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -373,13 +373,17 @@ Artículo 89.- Los vuelos acrobáticos y los que constituyan espectáculo públi
 ### CAPITULO VI
 De los Documentos que debe portar la Aeronave
 
-Artículo 90.- En toda aeronave que vuele sobre territorio nacional se deben portar los siguientes documentos:
-a) Certificado de matrícula;
-b) Certificado de aeronavegabilidad;
-c) Licencias y habilitaciones de la tripulación;
-d) Bitácora, y
-e) Documentos relativos a la aeronave, a los pasajeros, a la carga y a la correspondencia, que requieran los reglamentos.
+Artículo 90.- En toda aeronave que vuele sobre territorio nacional se deberán portar los siguientes documentos:
+a) Certificado de matrícula.
+b) Certificado de aeronavegabilidad.
+c) Licencias y habilitaciones de la tripulación.
+d) Bitácora.
+e) Si lleva pasajeros, listado de sus nombres y lugares de embarque y destino.
+f) Documentos relativos a la aeronave, a la carga y a la correspondencia, que requieran los reglamentos.
 Lo dispuesto en este artículo no se aplicará a los vehículos ultralivianos.
+
+Artículo 90 bis.- Con el fin de dar cumplimiento a lo dispuesto en el artículo 180 del Código Procesal Penal, los servicios de transporte aéreo que operen en el territorio nacional deberán, durante el recorrido que presten y dentro del plazo de cinco años, poner a disposición del Ministerio Público y las policías que colaboren con la investigación, el listado de pasajeros referido en la letra e) del artículo 90, cuando así lo requieran.
+El requerimiento referido en el inciso anterior deberá contener la fecha y lugar de expedición, los antecedentes necesarios para darle cumplimiento, el plazo que se otorga para que se lleve a efecto y la identificación del organismo que lo requiere.
 
 Artículo 91.- Las aeronaves comerciales de transporte llevarán, además, un diario de a bordo, en el cual el comandante deberá dejar constancia de cualquier hecho anormal o extraordinario ocurrido durante la operación de vuelo.
 
