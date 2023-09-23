@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=2023-02-03&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1974&idVersion=2023-09-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1974
-version_date: 2023-02-03
-fetched_at: 2026-08-03T09:06:06.014851+00:00
+version_date: 2023-09-23
+fetched_at: 2026-08-03T09:14:01.102879+00:00
 titulo_norma: "CODIGO DE COMERCIO"
 compuesto: Código-DE COMERCIO
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1353,7 +1353,7 @@ El acto de constitución de la sociedad irá acompañado de su estatuto, el que 
 4.- La forma como se ejercerá la administración de la sociedad y se designarán sus representantes; con indicación de quienes la ejercerán provisionalmente, en su caso, y
 5.- La duración de la sociedad, la cual podrá ser indefinida y, si nada se dijere, tendrá este carácter.
 
-Artículo 426.- Dentro del plazo de un mes contado desde la fecha del acto de constitución social, un extracto del mismo, autorizado por el notario respectivo, deberá inscribirse en el Registro de Comercio correspondiente al domicilio de la sociedad y publicarse por una sola vez en el Diario Oficial.
+Artículo 426.- Dentro del plazo de sesenta días contados desde la fecha del acto de constitución social, un extracto del mismo, autorizado por el notario respectivo, deberá inscribirse en el Registro de Comercio correspondiente al domicilio de la sociedad y publicarse por una sola vez en el Diario Oficial.
 El extracto deberá expresar:
 1.- El nombre de la sociedad;
 2.- El nombre de los accionistas concurrentes al instrumento de constitución;
