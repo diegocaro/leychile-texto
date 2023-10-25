@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-09-11&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-10-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2023-09-11
-fetched_at: 2026-08-03T09:13:25.092479+00:00
+version_date: 2023-10-25
+fetched_at: 2026-08-03T09:14:37.128807+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1859,6 +1859,9 @@ El artículo 24 de la ley 17798, publicada el 21.10.1972, deroga parcialmente es
 ART. 288 bis.
 El que portare armas cortantes o punzantes en recintos de expendio de bebidas alcohólicas que deban consumirse en el mismo local, sufrirá la pena de presidio menor en su grado mínimo o multa de 1 a 4 UTM.
 Igual sanción se aplicará al que en espectáculos públicos, en establecimientos de enseñanza o en vías o espacios públicos en áreas urbanas portare dichas armas, cuando no pueda justificar razonablemente su porte.
+
+ART. 288 ter.
+El que, en el contexto de reuniones en lugares de uso público, porte injustificadamente combustible apto para cometer atentados contra las personas o para ocasionar daño en las cosas, será sancionado con presidio menor en su grado mínimo.
 
 #### § IX.
 Delitos relativos a la salud animal y vegetal.
