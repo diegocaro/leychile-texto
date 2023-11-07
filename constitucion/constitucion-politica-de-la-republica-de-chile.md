@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2023-05-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2023-11-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2023-05-04
-fetched_at: 2026-08-03T09:09:11.451275+00:00
+version_date: 2023-11-07
+fetched_at: 2026-08-03T09:14:55.137289+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -1236,6 +1236,7 @@ Los canales de televisión de libre recepción deberán destinar gratuitamente t
 El Tribunal Calificador de Elecciones conocerá del escrutinio general y proclamará aprobada la cuestión que haya obtenido más de la mitad de los sufragios válidamente emitidos. Para estos efectos, los votos nulos y blancos se considerarán como no emitidos. El proceso de calificación del plebiscito nacional deberá quedar concluido dentro de los treinta días siguientes a la fecha de éste. La sentencia de proclamación del plebiscito será comunicada dentro de los tres días siguientes de su dictación al Presidente de la República y al Congreso Nacional.
 La nueva Constitución deberá difundirse y repartirse gratuitamente a todos los establecimientos educacionales, públicos o privados; municipalidades y bibliotecas municipales; Biblioteca del Congreso Nacional; Archivo Nacional; Biblioteca Nacional; universidades, y órganos del Estado. Además, deberá estar disponible en sitios web oficiales. Los jueces y magistrados de los tribunales superiores de justicia deberán recibir un ejemplar de la Constitución.
 Sólo para efectos de ejecutar las acciones en materia de padrones y propaganda electoral establecidas en las leyes aplicables al plebiscito constitucional, el Servicio Electoral deberá considerar como fecha de celebración del plebiscito el día 17 de diciembre de 2023.
+Al plebiscito constitucional le será aplicable lo dispuesto en el párrafo final del número 3 del inciso quinto del artículo 144.
 
 Artículo 160.- El sufragio tanto en la elección de miembros del Consejo Constitucional como en el plebiscito señalado en el artículo anterior será obligatorio para quienes tengan domicilio electoral en Chile.
 El elector que no sufragare será penado con una multa a beneficio municipal de 0,5 a 3 unidades tributarias mensuales.
