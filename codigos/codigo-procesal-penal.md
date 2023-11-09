@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2023-08-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2023-11-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2023-08-17
-fetched_at: 2026-08-03T09:12:18.091723+00:00
+version_date: 2023-11-09
+fetched_at: 2026-08-03T09:15:13.160097+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -468,8 +468,11 @@ a) Solicitar medidas de protección frente a probables hostigamientos, amenazas 
 b) Presentar querella;
 c) Ejercer contra el imputado acciones tendientes a perseguir las responsabilidades civiles provenientes del hecho punible;
 d) Ser oída, si lo solicitare, por el fiscal antes de que éste pidiere o se resolviere la suspensión del procedimiento o su terminación anticipada;
-e) Ser oída, si lo solicitare, por el tribunal antes de pronunciarse acerca del sobreseimiento temporal o definitivo u otra resolución que pusiere término a la causa, y
+e) Ser oída, si lo solicitare, por el tribunal antes de pronunciarse acerca del sobreseimiento temporal o definitivo u otra resolución que pusiere término a la causa.
 f) Impugnar el sobreseimiento temporal o definitivo o la sentencia absolutoria, aun cuando no hubiere intervenido en el procedimiento.
+g)
+NOTA
+Ser informada acerca de las postulaciones a la libertad condicional y de la concesión de permisos de salida ordinarios de la persona condenada. Para tales efectos, el tribunal que dicte la sentencia condenatoria deberá consultar a la víctima si desea mantenerse informada de esta materia, en cuyo caso ésta fijará un domicilio y establecerá un medio de notificación. Recibida por el tribunal la comunicación por parte de Gendarmería de Chile de que una persona ha solicitado la libertad condicional, o que se le ha concedido algún permiso de salida ordinario, deberá notificar dichas circunstancias a la víctima dentro del plazo de cinco días.
 Tratándose de los delitos previstos en el Código Penal, en los artículos 141, inciso final; 142, inciso final; 150 A; 150 D; 361; 362; 363; 365 bis; 366, incisos primero y segundo; 366 bis; 366 quáter; 367; 367 ter; 372 bis; 411 quáter, cuando se cometan con fines de explotación sexual, y 433, número 1, en relación con la violación, así como también cualquier delito sobre violencia en contra de las mujeres, las víctimas tendrán además derecho a:
 a) Contar con acceso a asistencia y representación judicial.
 b) No ser enjuiciada, estigmatizada, discriminada ni cuestionada por su relato, conductas o estilo de vida.
@@ -481,6 +484,8 @@ g) Participar en el procedimiento recibiendo información clara, oportuna y comp
 h) Que se adopten medidas para prevenir la victimización secundaria, esto es, evitar toda consecuencia negativa que puedan sufrir con ocasión de su interacción en el proceso penal. Con dicha finalidad, la denuncia debe ser recibida en condiciones que garanticen el respeto por su seguridad, privacidad y dignidad. La negativa o renuencia a recibir la denuncia se considerará una infracción grave al principio de probidad administrativa.
 Asimismo, tendrá derecho a que su declaración sea recibida en el tiempo más próximo desde la denuncia, por personal capacitado de Carabineros de Chile, de la Policía de Investigaciones de Chile o del Ministerio Público y cuente con el soporte necesario para evitar que vuelva a realizarse durante la etapa de investigación, a menos que ello sea indispensable para el esclarecimiento de los hechos o que la propia víctima lo requiera. La declaración judicial deberá ser recibida por jueces capacitados, y se garantizará en los casos referidos, el respeto por la seguridad, privacidad y dignidad de la víctima.
 Los derechos precedentemente señalados no podrán ser ejercidos por quien fuere imputado del delito respectivo, sin perjuicio de los derechos que le correspondieren en esa calidad.
+NOTA
+El artículo tercero transitorio de la ley 21627, publicada el 09.11.2023, dispone que para los efectos del ejercicio del derecho previsto en el literal g) del inciso primero del presente artículo, agregado por el Nº 2 del artículo 3 de la citada norma, en los casos en que la sentencia haya sido dictada con anterioridad a la entrada en vigor de dicha ley, dentro del plazo de dos años de su vigencia, las víctimas podrán manifestar al tribunal que dictó la sentencia su intención de ejercer dicho derecho, e indicarán para ello un domicilio o una forma de notificación electrónica.
 
 Artículo 109 bis.- Medidas de protección especiales para víctimas de delitos de violencia sexual. En los delitos contemplados en el Código Penal, en los artículos 141, inciso final; 142, inciso final; 150 A; 150 D; 361; 362; 363; 365 bis; 366, incisos primero y segundo; 366 bis; 366 quáter; 367; 367 ter; 372 bis; 411 quáter, cuando se cometan con fines de explotación sexual, y 433, número 1, en relación con la violación, el juez de garantía y el tribunal de juicio oral en lo penal, de oficio o a petición de alguno de los intervinientes, deberá adoptar una o más de las siguientes medidas para proteger la identidad, intimidad, integridad física, sexual y psíquica de la o las víctimas:
 a) Suprimir de las actas de las audiencias todo nombre, dirección o cualquier otra información que pudiera servir para identificar a las víctimas, sus familiares o testigos, directa o indirectamente.
