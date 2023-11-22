@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2023-11-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2023-11-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2023-11-09
-fetched_at: 2026-08-03T09:15:13.160097+00:00
+version_date: 2023-11-22
+fetched_at: 2026-08-03T09:15:31.187093+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -812,6 +812,9 @@ También se podrá formular la denuncia ante los funcionarios de Carabineros de 
 
 Artículo 174.- Forma y contenido de la denuncia. La denuncia podrá formularse por cualquier medio y deberá contener la identificación del denunciante, el señalamiento de su domicilio, la narración circunstanciada del hecho, la designación de quienes lo hubieren cometido y de las personas que lo hubieren presenciado o que tuvieren noticia de él, todo en cuanto le constare al denunciante.
 En el caso de la denuncia verbal se levantará un registro en presencia del denunciante, quien lo firmará junto con el funcionario que la recibiere. La denuncia escrita será firmada por el denunciante. En ambos casos, si el denunciante no pudiere firmar, lo hará un tercero a su ruego.
+Con todo, si el denunciante, al tiempo de presentar la denuncia, manifiesta la intención de reservar su identidad, se le deberá garantizar el secreto de ella. El Ministerio Público deberá instruir y proveer protocolos y mecanismos necesarios a fin de brindar el adecuado secreto y reserva de que trata este inciso.
+Sin perjuicio de lo anterior, el imputado podrá solicitar al tribunal que ponga término a la reserva cuando con motivo de esta circunstancia se afecten sus derechos de defensa.
+Con todo, si el denunciante interviene de cualquier forma en el procedimiento penal, se aplicarán, desde ese instante, las normas de este Código, y sólo se mantendrá la reserva en cuanto al hecho de haber realizado la denuncia, y resultarán aplicables las normas de protección previstas en los artículos 109, letra a), y 308.
 
 Artículo 175.- Denuncia obligatoria. Estarán obligados a denunciar:
 a) Los miembros de Carabineros de Chile, de la Policía de Investigaciones de Chile y de Gendarmería, todos los delitos que presenciaren o llegaren a su noticia. Los miembros de las Fuerzas Armadas estarán también obligados a denunciar todos los delitos de que tomaren conocimiento en el ejercicio de sus funciones;
@@ -828,6 +831,7 @@ Artículo 177.- Incumplimiento de la obligación de denunciar. Las personas indi
 La pena por el delito en cuestión no será aplicable cuando apareciere que quien hubiere omitido formular la denuncia arriesgaba la persecución penal propia, del cónyuge, de su conviviente o de ascendientes, descendientes o hermanos.
 
 Artículo 178.- Responsabilidad y derechos del denunciante. El denunciante no contraerá otra responsabilidad que la correspondiente a los delitos que hubiere cometido por medio de la denuncia o con ocasión de ella. Tampoco adquirirá el derecho a intervenir posteriormente en el procedimiento, sin perjuicio de las facultades que pudieren corresponderle en el caso de ser víctima del delito.
+Sin perjuicio de lo dispuesto en el inciso anterior, el Ministerio Público podrá disponer medidas de protección en favor del denunciante cuando la entidad o la naturaleza de los hechos, o la calidad de la persona denunciada, indiquen que existe un riesgo plausible de ser él o su familia víctima de hostigamientos, amenazas u otros atentados con motivo de la denuncia.
 
 Artículo 179.- Autodenuncia. Quien hubiere sido imputado por otra persona de haber participado en la comisión de un hecho ilícito, tendrá el derecho de concurrir ante el ministerio público y solicitar se investigue la imputación de que hubiere sido objeto.
 Si el fiscal respectivo se negare a proceder, la persona imputada podrá recurrir ante las autoridades superiores del ministerio público, a efecto de que revisen tal decisión.
