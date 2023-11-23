@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2023-11-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2023-11-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2023-11-22
-fetched_at: 2026-08-03T09:15:31.187093+00:00
+version_date: 2023-11-23
+fetched_at: 2026-08-03T09:15:43.196446+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -585,6 +585,7 @@ Artículo 128.- Detención por cualquier tribunal. Todo tribunal, aunque no ejer
 Artículo 129.- Detención en caso de flagrancia. Cualquier persona podrá detener a quien sorprendiere en delito flagrante, debiendo entregar inmediatamente al aprehendido a la policía, al ministerio público o a la autoridad judicial más próxima.
 Los agentes policiales estarán obligados a detener a quienes sorprendieren in fraganti en la comisión de un delito. En el mismo acto, la policía podrá proceder al registro de las vestimentas, equipaje o vehículo de la persona detenida, debiendo cumplir con lo señalado en el inciso segundo del artículo 89 de este Código.
 No obstará a la detención la circunstancia de que la persecución penal requiriere instancia particular previa, si el delito flagrante fuere de aquellos previstos y sancionados en los artículos 361 a 366 quater del Código Penal.
+Tampoco impedirá la detención ni la incautación del dinero en efectivo o en instrumentos negociables al portador, por parte de agentes policiales, en caso del delito establecido en el artículo 168 bis del decreto con fuerza de ley N° 30, que aprueba la Ordenanza de Aduanas.
 La policía deberá, asimismo, detener al sentenciado a penas privativas de libertad que hubiere quebrantado su condena, al que se fugare estando detenido, al que tuviere orden de detención pendiente, a quien fuere sorprendido en violación flagrante de las medidas cautelares personales que se le hubieren impuesto, al que fuere sorprendido infringiendo las condiciones impuestas en virtud de las letras a), b), c) y d) del artículo 17 ter de la ley Nº 18.216 y al que violare la condición del artículo 238, letra b), que le hubiere sido impuesta para la protección de otras personas.
 Sin perjuicio de lo señalado en el inciso anterior, el tribunal que correspondiere deberá, en caso de quebrantamiento de condena y tan pronto tenga conocimiento del mismo, despachar la respectiva orden de detención en contra del condenado.
 En los casos de que trata este artículo, la policía podrá ingresar a un lugar cerrado, mueble o inmueble, cuando se encontrare en actual persecución del individuo a quien debiere detener, para practicar la respectiva detención. En este caso, la policía podrá registrar el lugar e incautar los objetos y documentos vinculados al caso que dio origen a la persecución, dando aviso de inmediato al fiscal, quien los conservará. Lo anterior procederá sin perjuicio de lo establecido en el artículo 215.
