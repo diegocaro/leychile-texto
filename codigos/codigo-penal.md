@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-10-25&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-11-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2023-10-25
-fetched_at: 2026-08-03T09:14:37.128807+00:00
+version_date: 2023-11-24
+fetched_at: 2026-08-03T09:16:01.221830+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -3008,11 +3008,30 @@ Si el valor de lo receptado excediere de cuatrocientas unidades tributarias mens
 De la usurpación.
 
 ART. 457.
-Al que con violencia en las personas ocupare una cosa inmueble o usurpare un derecho real que otro poseyere o tuviere legítimamente, y al que, hecha la ocupación en ausencia del legítimo poseedor o tenedor, vuelto éste le repeliere, además de las penas en que incurra por la violencia que causare, se le aplicará una multa de once a veinte unidades tributarias mensuales.
+Al que, con violencia o intimidación en las personas, ocupare total o parcialmente un inmueble, sea público o privado, o usurpare un derecho real que otro poseyere o tuviere legítimamente y al que, hecha la ocupación en ausencia del legítimo poseedor o tenedor, vuelto éste le repeliere, se le aplicará una pena de presidio menor en su grado medio a máximo.
 Si tales actos se ejecutaren por el dueño o poseedor regular contra el que posee o tiene ilegítimamente la cosa, aunque con derecho aparente, la pena será multa de seis a diez unidades tributarias mensuales, sin perjuicio de las que correspondieren por la violencia causada.
 
+ART. 457 BIS.
+Cuando, en los casos del inciso primero del artículo anterior, el hecho se llevare a efecto sin violencia o intimidación en las personas, pero causando daño en las cosas, la pena será:
+1. Presidio menor en su grado medio, si causare daño cuyo importe exceda de cuarenta unidades tributarias mensuales.
+2. Presidio menor en su grado mínimo a medio, si causare daño cuyo importe exceda de cuatro unidades tributarias mensuales y no pasare de cuarenta unidades tributarias mensuales.
+3. Presidio menor en su grado mínimo, si causare daño cuyo importe no excediere de cuatro unidades tributarias mensuales, ni bajare de una unidad tributaria mensual.
+
 ART. 458.
-Cuando, en los casos del inciso primero del artículo anterior, el hecho se llevare a efecto sin violencia en las personas, la pena será multa de seis a diez unidades tributarias mensuales.
+Cuando, en los casos del inciso primero del artículo 457, el hecho se llevare a efecto sin violencia o intimidación en las personas, ni daño en las cosas, la pena será de presidio menor en su grado mínimo o multa de seis a diez unidades tributarias mensuales.
+Para imponer la pena mayor, el tribunal deberá tener en especial consideración las siguientes circunstancias:
+1.° Que el imputado haya sido condenado por delito de usurpación anteriormente.
+2.° Que el imputado haya desplegado acciones tendientes a eludir la acción de la justicia.
+3.° Que el mismo inmueble haya sido previamente objeto de delito de usurpación y que el imputado haya tenido conocimiento de dicha circunstancia.
+Para imponer la pena menor, el tribunal deberá tener en especial consideración las siguientes circunstancias:
+1.° El hecho de haber actuado el imputado por necesidad habitacional.
+2.° Que se haya restituido el inmueble voluntariamente.
+
+ART. 458 BIS.
+Se impondrá el máximum o el grado máximo, según corresponda, de las penas previstas en los tres artículos anteriores si la ocupación se realiza:
+1.° En un lugar habitado o destinado a la habitación.
+2.° Obstaculizando una acción destinada a impedir o dificultar la propagación de incendios.
+3.° Obstaculizando el suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía.
 
 ART. 459.
 Sufrirán las penas de presidio menor en sus grados medio a máximo y multa de veinte a cinco mil unidades tributarias mensuales, los que sin título legítimo e invadiendo derechos ajenos:
@@ -3032,6 +3051,10 @@ Serán castigados con las penas del artículo 459, los que teniendo derecho para
 
 ART. 462.
 El que destruyere o alterare términos o límites de propiedades públicas o particulares con ánimo de lucrarse, será penado con presidio menor en su grado mínimo y multa de once a veinte unidades tributarias mensuales.
+
+ART. 462 BIS.
+El que sin estar legalmente autorizado destruya o altere los términos o límites de un inmueble con el objetivo de posibilitar una posesión será sancionado con multa de seis a diez unidades tributarias mensuales.
+Con la misma pena será sancionado quien, sin tener la posesión material de un bien inmueble, instale banderas, estacas u otras demarcaciones destinadas a manifestar intención de posesión de sitios no destinados a la habitación, sin el consentimiento de quien lo posee en virtud de título legítimo.
 
 #### § VII.
 De los delitos concursales y de las defraudaciones.
@@ -3135,6 +3158,9 @@ La pena se determinará de acuerdo con el monto de lo indebidamente solicitado.
 Si el hecho recayere sobre el patrimonio de una persona en relación con la cual el sujeto fuere guardador, tutor o curador, o de una persona incapaz que el sujeto tuviere a su cargo en alguna otra calidad, se impondrá, según sea el caso, el máximum o el grado máximo de las penas señaladas en el artículo 467.
 En caso de que el patrimonio encomendado fuere el de una sociedad anónima abierta o especial u otro patrimonio administrado por esa sociedad, el administrador que realizare alguna de las conductas descritas en el párrafo primero de este numeral, irrogando perjuicio al patrimonio social, será sancionado con las penas señaladas en el artículo 467 aumentadas en un grado. Además, se impondrá la pena de inhabilitación especial temporal en su grado mínimo para desempeñarse como gerente, director, liquidador o administrador a cualquier título de una sociedad o entidad sometida a fiscalización de una Superintendencia o de la Comisión para el Mercado Financiero.
 En los casos previstos en este artículo se impondrá, además, pena de multa de la mitad al tanto de la defraudación.
+
+ART. 470 BIS.
+Se impondrán respectivamente las penas señaladas en el artículo 467, aumentadas en un grado, al que mediante engaño dispusiera a otro a celebrar cualquiera clase de actos o contratos que tengan por finalidad última o inmediata la transferencia del dominio o la concesión del uso y goce de un sitio, lote o terreno sin tener título legítimo de dominio o posesión, ni autorización del que lo detenta legítimamente para celebrar actos o contratos, siempre que le ocasione un perjuicio patrimonial a la víctima.
 
 ART. 471.
 Será castigado con presidio o relegación menores en sus grados mínimos o multa de once a veinte unidades tributarias mensuales:
