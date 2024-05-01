@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2024-04-26&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2024-05-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2024-04-26
-fetched_at: 2026-08-03T09:19:14.256572+00:00
+version_date: 2024-05-01
+fetched_at: 2026-08-03T09:19:20.266642+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -92,7 +92,7 @@ Conforme a lo señalado en el inciso anterior, cuando exista la necesidad de cen
 La autorización de centralización podrá extenderse a toda la documentación laboral y previsional que se deriva de las relaciones de trabajo, salvo en lo referido al registro control de asistencia a que se refiere el inciso primero del artículo 33 de este Código.
 
 Artículo 9 bis.- En conformidad a lo dispuesto en el artículo 515, el empleador deberá registrar en el sitio electrónico de la Dirección del Trabajo los contratos de trabajo, dentro de los quince días siguientes a su celebración. Asimismo, deberá registrar las terminaciones de contrato, dentro de los plazos establecidos en los artículos 162 y 163 bis para el envío de las copias de las comunicaciones de terminación de contrato a la Inspección del Trabajo, y dentro de los diez días hábiles siguientes a la separación del trabajador en los casos de los números 1, 2 y 3 del artículo 159.
-En el momento del registro del contrato de trabajo el empleador deberá indicar las estipulaciones pactadas, y al término de los servicios deberá informar la fecha de éste y la causal invocada.
+En el momento del registro del contrato de trabajo el empleador deberá indicar las estipulaciones pactadas, y al término de los servicios deberá informar la fecha de éste y la causal invocada. Asimismo, deberá registrar la información relativa a la imputación de saldos a que se refiere el artículo 13 de la ley N°19.728, dentro de los cinco días posteriores a la suscripción del respectivo finiquito.
 Esta información será utilizada para el ejercicio de las facultades legales propias de la Dirección del Trabajo, tales como fiscalizaciones, conciliaciones, mediaciones y ratificación de finiquitos. También podrá ser utilizada para fines estadísticos, de estudios y difusión que efectúe el Servicio sobre el cumplimiento de la normativa laboral y de salud y seguridad en el trabajo, sin perjuicio de lo dispuesto en la ley Nº 19.628, sobre protección de la vida privada. Además, la Dirección del Trabajo deberá proporcionar esta información a los tribunales de justicia, previo requerimiento.
 
 Art. 10. El contrato de trabajo debe contener, a lo menos, las siguientes estipulaciones:
