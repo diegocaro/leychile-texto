@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2023-11-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2024-06-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2023-11-24
-fetched_at: 2026-08-03T09:16:01.221830+00:00
+version_date: 2024-06-14
+fetched_at: 2026-08-03T09:20:11.306046+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -146,9 +146,10 @@ El tribunal tomará o no en consideración esta circunstancia, según la natural
 18.° Ejecutar el hecho con ofensa o desprecio del respeto que por la dignidad, autoridad, edad o sexo mereciere el ofendido, o en su morada, cuando él no haya provocado el suceso.
 19.° Ejecutarlo por medio de fractura o escalamiento de lugar cerrado.
 20.° Ejecutarlo portando armas de aquellas referidas en el artículo 132.
-21ª. Cometer el delito o participar en él motivado por la ideología, opinión política, religión o creencias de la víctima; la nación, raza, etnia o grupo social a que pertenezca; su sexo, orientación sexual, identidad de género, edad, filiación, apariencia personal o la enfermedad o discapacidad que padezca.
+21ª. Cometer el delito o participar en él motivado por la ideología, opinión política, religión o creencias de la víctima; la nación, raza, etnia o grupo social a que pertenezca; su sexo, género, orientación sexual, identidad de género, edad, filiación, apariencia personal o la enfermedad o discapacidad que padezca.
 22.° Cometer el delito contra una víctima menor de 18 años, un adulto mayor o una persona con discapacidad, en los términos de la ley N° 20.422, que establece normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad.
 23ª. Ejecutar el hecho formando parte de una agrupación u organización de dos o más personas destinada a cometer crímenes o simples delitos, siempre que ésta o aquélla no constituya una asociación delictiva o criminal de que trata el Párrafo 10 del Título VI del Libro II, y ello ha facilitado la perpetración del delito o ha aumentado el peligro para la integridad física de la víctima, o haber ejecutado el hecho con violencia, intimidación o engaño.
+24ª. Cometer el delito en el marco de conductas activas constitutivas de violencia ginecobstétrica, en su calidad de trabajadores de salud pública o privada, durante la atención de la gestación, preparto, parto, postparto y aborto, en las causales establecidas en la ley en el marco de la atención de la salud sexual y reproductiva de la mujer.
 
 #### § V.
 De las circunstancias que atenúan o agravan la responsabilidad criminal, según la naturaleza y accidentes del delito.
@@ -1109,6 +1110,10 @@ ART. 161-C.
 Se castigará con la pena de presidio menor en su grado mínimo y multa de cinco a diez unidades tributarias mensuales, al que en lugares públicos o de libre acceso público y que por cualquier medio capte, grabe, filme o fotografíe imágenes, videos o cualquier registro audiovisual, de los genitales u otra parte íntima del cuerpo de otra persona con fines de significación sexual y sin su consentimiento.
 Se impondrá la misma pena de presidio menor en su grado mínimo y multa de diez a veinte unidades tributarias mensuales, al que difunda dichas imágenes, videos o registro audiovisual a que se refiere el inciso anterior.
 En caso de ser una misma la persona que los haya obtenido y divulgado, se aplicarán a ésta, la pena de presidio menor en su grado mínimo a medio y multa de veinte a treinta unidades tributarias mensuales.
+
+ART. 161-D.
+El que sin autorización expresa exhiba un registro de imágenes o sonidos en que se representa una acción sexual que involucra a otro o imágenes íntimas de connotación sexual, independiente de como haya sido obtenido, será sancionado con la pena de prisión y multa de cinco a diez unidades tributarias mensuales.
+En caso de envío, difusión o publicación de dicho registro, se impondrá la pena de presidio menor en su grado mínimo y multa de once a veinte unidades tributarias mensuales.
 
 ### TÍTULO CUARTO.
 DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO.
@@ -2402,7 +2407,6 @@ ART. 369.
 No se puede proceder por causa de los delitos previstos en los artículos 361 a 366 quáter, sin que, a lo menos, se haya denunciado el hecho a la justicia, al Ministerio Público o a la policía por la persona ofendida o por su representante legal.
 Si la persona ofendida no pudiere libremente hacer por sí misma la denuncia, ni tuviere representante legal, o si, teniéndolo, estuviere imposibilitado o implicado en el delito, podrá procederse de oficio por el Ministerio Público, que también estará facultado para deducir las acciones civiles a que se refiere el artículo 370. Sin perjuicio de lo anterior, cualquier persona que tome conocimiento del hecho podrá denunciarlo.
 Con todo, tratándose de víctimas menores de edad, se estará a lo dispuesto en el artículo 369 quinquies de este Código y en el inciso segundo del artículo 53 del Código Procesal Penal.
-En caso de que un cónyuge o conviviente cometa alguno de los delitos establecidos en los tres párrafos anteriores en contra de aquél con quien hace vida común, se podrá poner término al proceso a requerimiento del ofendido, a menos que el juez, por motivos fundados, no acepte.
 
 ART. 369 bis. Derogado.
 

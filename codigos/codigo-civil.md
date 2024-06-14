@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2023-05-20&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2024-06-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2023-05-20
-fetched_at: 2026-08-03T09:09:47.462686+00:00
+version_date: 2024-06-14
+fetched_at: 2026-08-03T09:19:46.622394+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -3116,15 +3116,15 @@ Art. 966. Será nula la disposición a favor de un incapaz, aunque se disfrace b
 Art. 967. El incapaz no adquiere la herencia o legado, mientras no prescriban las acciones que contra él puedan intentarse por los que tengan interés en ello.
 
 Art. 968. Son indignos de suceder al difunto como herederos o legatarios:
-1º. El que ha cometido el crimen de homicidio en la persona del difunto, o ha intervenido en este crimen por obra o consejo, o la dejó perecer pudiendo salvarla;
+1°. El que ha cometido el crimen de homicidio, femicidio, parricidio o infanticidio en la persona del difunto, o ha intervenido en este crimen por obra o consejo, o la dejó perecer pudiendo salvarla;
 2º. El que cometió atentado grave contra la vida, el honor o los bienes de la persona de cuya sucesión se trata, o de su cónyuge, o de cualquiera de sus ascendientes o descendientes, con tal que dicho atentado se pruebe por sentencia ejecutoriada;
 3º. El consanguíneo dentro del sexto grado inclusive, que en el estado de demencia o destitución de la persona de cuya sucesión se trata, no la socorrió pudiendo;
 4º. El que por fuerza o dolo obtuvo alguna disposición testamentaria del difunto, o le impidió testar;
 5º. El que dolosamente ha detenido u ocultado un testamento del difunto, presumiéndose dolo por el mero hecho de la detención u ocultación.
 
-Art. 969. 6º Es indigno de suceder el que siendo mayor de edad, no hubiere acusado a la justicia el homicidio cometido en la persona del difunto, tan presto como le hubiere sido posible.
+Art. 969. 6º Es indigno de suceder el que siendo mayor de edad, no hubiere acusado a la justicia el homicidio, femicidio, parricidio, infanticidio o cualquier otro delito que atente en contra de la vida de la persona del difunto, tan presto como le hubiere sido posible.
 Cesará esta indignidad, si la justicia hubiere empezado a proceder sobre el caso.
-Pero esta causa de indignidad no podrá alegarse, sino cuando constare que el heredero o legatario no es cónyuge de la persona por cuya obra o consejo se ejecutó el homicidio, ni es del número de sus ascendientes y descendientes, ni hay entre ellos deudo de consanguinidad o afinidad hasta el tercer grado inclusive.
+Pero esta causa de indignidad no podrá alegarse, sino cuando constare que el heredero o legatario no es cónyuge de la persona por cuya obra o consejo se ejecutó el homicidio, femicidio, parricidio, infanticidio, ni es del número de sus ascendientes y descendientes, ni hay entre ellos deudo de consanguinidad o afinidad hasta el tercer grado inclusive.
 
 Art. 970. 7º Es indigno de suceder al impúber, demente, sordo o sordomudo que no pueda darse a entender claramente, el ascendiente o descendiente que, siendo llamado a sucederle abintestato, no pidió que se le nombrara un tutor o curador, y permaneció en esta omisión un año entero: a menos que aparezca haberle sido imposible hacerlo por sí o por procurador.
 Si fueren muchos los llamados a la sucesión, la diligencia de uno de ellos aprovechará a los demás.
