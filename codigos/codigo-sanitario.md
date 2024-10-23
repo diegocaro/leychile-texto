@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2023-03-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2024-10-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2023-03-17
-fetched_at: 2026-08-03T09:07:18.239159+00:00
+version_date: 2024-10-23
+fetched_at: 2026-08-03T09:21:24.538092+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -865,6 +865,7 @@ NOTA 1
 La Ley 18096, publicada el 25.01.1982, transfiere a las Municipalidades los cementerios situados en sus respectivos territorios comunales, que pertenecen a los Servicios de Salud.
 
 Artículo 136°.- Sólo el Servicio Nacional de Salud podrá autorizar la instalación y funcionamiento de cementerios, crematorios, casas funerarias y demás establecimientos semejantes. Un Reglamento contendrá las normas que regirán para la instalación y funcionamiento de los mencionados establecimientos y sobre la inhumación, cremación, transporte y exhumación de cadáveres.
+Los establecimientos señalados en el inciso precedente deberán disponer en sus reglamentos internos un horario de funcionamiento extraordinario para atender las ceremonias y las romerías nocturnas de integrantes de los Cuerpos de Bomberos de Chile o de otras instituciones que así lo requieran, previa autorización de la autoridad sanitaria.
 
 Artículo 137°.- No podrá rechazarse en un Cementerio la inhumación de un cadáver, sin una justa causa calificada por el Servicio Nacional de Salud.
 
