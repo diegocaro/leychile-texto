@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2024-08-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2025-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2024-08-24
-fetched_at: 2026-08-03T09:20:41.355722+00:00
+version_date: 2025-01-01
+fetched_at: 2026-08-03T09:21:48.576645+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1521,6 +1521,15 @@ Las empresas señaladas en el inciso anterior deberán promover en su interior p
 Las actividades realizadas durante la jornada de trabajo o fuera de ella deberán considerar las normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad a que se refiere la ley N° 20.422, como también los principios generales contenidos en las demás normas vigentes sobre la materia.
 
 Artículo 157 quinquies.- Las empresas sujetas a la obligación establecida en el artículo 157 bis deberán realizar los ajustes necesarios para adecuar sus mecanismos, procedimientos y prácticas de reclutamiento y selección de personal, en todo cuanto se requiera, para resguardar la igualdad de oportunidades de las personas con discapacidad que participen en ellos, de conformidad a lo dispuesto en el artículo 24 de la ley N° 20.422.
+
+Artículo 157 sexies.- La infracción a la obligación establecida en el inciso primero del artículo 157 bis se sancionará con multa equivalente a veinte unidades tributarias mensuales en el caso de medianas empresas y a
+NOTA
+treinta unidades tributarias mensuales en el caso de grandes empresas, de conformidad a la clasificación establecida en el artículo 505 bis. La multa será aplicada por cada mes en el que el empleador incurra en dicha infracción y respecto de cada persona con discapacidad y/o asignataria de una pensión de invalidez que, en virtud del número de trabajadores de la empresa, debió estar contratada.
+Si el empleador optó por cumplir mediante alguna de las medidas establecidas en el artículo 157 ter y la Dirección del Trabajo rechaza las razones invocadas como fundamento, de acuerdo con el inciso segundo de dicho artículo, aplicará la misma sanción establecida en el inciso anterior respecto a cada persona con discapacidad y/o asignataria de una pensión de invalidez que, en virtud del número de trabajadores de la empresa, debió estar contratada.
+Igual sanción se aplicará en caso de que el empleador, habiendo optado por las medidas establecidas en el artículo 157 ter, no cumple con las condiciones establecidas en dicha disposición. Para efectos de determinar la multa a aplicar, se tendrá por cumplida la obligación del inciso primero del artículo 157 bis en la proporción que representan las donaciones efectuadas o los contratos celebrados, en su caso, en relación con el monto anual exigido.
+Para el resto de las infracciones a las obligaciones del presente Capítulo no reguladas en este artículo, se aplicarán las reglas generales establecidas en el Libro V, Título Final, sobre fiscalización, sanciones y prescripción.
+NOTA
+El Dictamen N° 693/26 de fecha 23.10.2024 de la Dirección del Trabajo, que fija el sentido y alcance de la ley N° 21.690, establece en su literal b) del numeral IX, que el presente artículo entrará en vigor el 01.01.2025, de conformidad con el artículo cuarto transitorio de la citada ley. En cuanto a los procedimientos sancionadores iniciados por dicha Dirección con anterioridad al 01.01.2025 continuarán hasta su término conforme a las disposiciones vigentes al momento de su inicio, es decir, se sancionará conforme a las reglas establecidas en el Título final del Libro V del Código del Trabajo.
 
 ### Título IV
 DEL SERVICIO MILITAR OBLIGATORIO
