@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2024-02-09&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2025-01-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2024-02-09
-fetched_at: 2026-08-03T09:18:56.229985+00:00
+version_date: 2025-01-14
+fetched_at: 2026-08-03T09:22:02.788981+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2469,7 +2469,8 @@ En el caso de los conservadores a que se refiere este artículo, si faltare o se
 Art. 450. El Presidente de la República, previo informe favorable de la Corte de Apelaciones, podrá determinar la separación de los cargos de notario y conservador, servidos por una misma persona, la que podrá optar a uno u otro cargo.
 De igual manera, el Presidente de la República podrá disponer, previo informe favorable de la Corte de Apelaciones, la división del territorio jurisdiccional servido por un conservador, cuando él esté constituido por una agrupación de comunas, creando al efecto los oficios conservatorios que estimare convenientes para el mejor servicio público.
 
-Art. 451. Derogado.
+Art. 451. Los conservadores de bienes raíces deberán inscribir los títulos en los registros de propiedad, de hipotecas y gravámenes y de interdicciones y prohibiciones de enajenar, así como las anotaciones marginales, dentro del plazo máximo de veinte días desde la presentación de los requerimientos.
+En caso de reparos a las solicitudes señaladas en el inciso precedente, el plazo para inscribir será de diez días, contado desde el reingreso.
 
 Art. 452. Se extiende a los conservadores, en cuanto es adaptable a ellos, todo lo dicho en este Código respecto de los notarios.
 
