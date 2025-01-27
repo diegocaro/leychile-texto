@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2024-09-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2025-01-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2024-09-04
-fetched_at: 2026-08-03T09:21:00.507551+00:00
+version_date: 2025-01-27
+fetched_at: 2026-08-03T09:22:26.823812+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1885,6 +1885,7 @@ ART. 291 BIS.
 El que cometiere actos de maltrato o crueldad con animales será castigado con la pena de presidio menor en sus grados mínimo a medio y multa de dos a treinta unidades tributarias mensuales, o sólo con esta última.
 Si como resultado de una acción u omisión se causare al animal daño, la pena será presidio menor en sus grados mínimo a medio y multa de diez a treinta unidades tributarias mensuales, además de la accesoria de inhabilidad absoluta perpetua para la tenencia de cualquier tipo de animales.
 Si como resultado de las referidas acción u omisión se causaren lesiones que menoscaben gravemente la integridad física o provocaren la muerte del animal se impondrá la pena de presidio menor en su grado medio y multa de veinte a treinta unidades tributarias mensuales, además de la accesoria de inhabilidad absoluta perpetua para la tenencia de animales.
+Las mismas penas de los incisos anteriores se aplicarán si los actos de maltrato, crueldad, experimentación o sufrimiento innecesario con animales vivos se ejecutan para desarrollar actividades de investigación, fabricación o comercialización de productos cosméticos, de higiene o de odorización personal.
 
 Artículo 291 ter.- Para los efectos del artículo anterior se entenderá por acto de maltrato o crueldad con animales toda acción u omisión, ocasional o reiterada, que injustificadamente causare daño, dolor o sufrimiento al animal.
 
