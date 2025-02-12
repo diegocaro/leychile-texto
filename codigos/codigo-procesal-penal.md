@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2024-09-04&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2025-02-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2024-09-04
-fetched_at: 2026-08-03T09:21:18.528013+00:00
+version_date: 2025-02-12
+fetched_at: 2026-08-03T09:23:08.871135+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -317,7 +317,7 @@ Inciso Derogado.
 NOTA
 El Art. primero transitorio de la ley 21.057, establece que la modificación introducida al presente artículo comenzará a regir de manera gradual, en plazos contados desde la publicación del Reglamento: Primera etapa: seis meses después, respecto de las regiones XV, I, II, VII, XI y XII. Segunda etapa: dieciocho meses después, respecto de las regiones III, IV, VIII, IX y XIV. Tercera etapa: treinta meses después, comprendiendo las regiones V, VI, X y Metropolitana.
 
-Artículo 78 ter.- Medidas especiales de protección de fiscales. Excepcionalmente, cuando en el transcurso de una investigación o en cualquier otra etapa del procedimiento, surgiere algún antecedente grave de amenaza, agresión u otra potencial afectación a la integridad personal de los fiscales o de sus familias, o en todo caso tratándose de la investigación de delitos cometidos por asociaciones delictivas o criminales, el Fiscal Regional respectivo podrá disponer, mediante una decisión fundada, una o más de las siguientes medidas de protección:
+Artículo 78 ter.- Medidas especiales de protección de fiscales. Excepcionalmente, cuando en el transcurso de una investigación o en cualquier otra etapa del procedimiento, surgiere algún antecedente grave de amenaza, agresión u otra potencial afectación a la integridad personal de los fiscales o de sus familias, o en todo caso tratándose de la investigación de hechos que revistan carácter de delito terrorista o de delitos cometidos por asociaciones delictivas o criminales, el Fiscal Regional respectivo podrá disponer, mediante una decisión fundada, una o más de las siguientes medidas de protección:
 a) La participación del fiscal o del abogado asistente de fiscal en las audiencias por vía remota mediante videoconferencia.
 b) Reserva de la identidad del fiscal o del abogado asistente de fiscal en las audiencias que se desarrollen ante los tribunales, ya sea que se realicen de forma presencial o remota.
 c) Reserva de la identidad del fiscal o del abogado asistente de fiscal en los registros y documentos que se deban poner a disposición de las partes o que deban ser presentados o evacuados ante los tribunales.
@@ -1221,7 +1221,7 @@ Artículo 226 V.- Protección de las víctimas. Es deber del Ministerio Público
 Artículo 226 W.- Hallazgo casual con ocasión de diligencias especiales de investigación. Si con motivo de las diligencias especiales de investigación previstas en este Párrafo, y en el marco de la autorización concedida por el juez para su ejecución, ocurren hallazgos de objetos, documentos o antecedentes de los cuales no se tenía noticia, que permiten sospechar la existencia de un hecho punible distinto, dichos objetos, documentos o antecedentes podrán ser utilizados para la posterior persecución del delito descubierto, si éste tiene asignado una pena igual o superior a presidio menor en su grado máximo o una pena igual o superior a la del delito objeto de la investigación.
 Lo señalado en el inciso anterior no se aplicará a la interceptación de comunicaciones, las que se regirán por lo indicado en el inciso final del artículo 223.
 
-Artículo 226 X.- Regla especial referida a delitos terroristas. Cuando se hayan cometido o preparado la comisión de los delitos sancionados en la ley Nº 18.314, las diligencias especiales de investigación previstas en este Párrafo podrán ser utilizadas por el fiscal, sea que se trate de una persona, de una agrupación de dos o más personas o de una asociación delictiva o criminal.
+Artículo 226 X.- Regla especial referida a delitos terroristas. Las técnicas especiales de investigación y las medidas de protección previstas en este Párrafo, así como la interceptación de comunicaciones prevista en los artículos 222 a 226, serán aplicables en procesos seguidos por delito terrorista, sea que se trate de una asociación terrorista, de una persona o de un grupo de dos o más personas, cualquiera sea la pena asignada al delito.
 
 Artículo 226 Y.- Medidas de protección de jueces. En las investigaciones por hechos que involucren la participación en una asociación delictiva o criminal, y en todas las demás etapas del procedimiento, el juez de garantía o los jueces del tribunal de juicio oral en lo penal, por motivo de seguridad y en casos graves y calificados, podrán hacer reserva de su identidad en las audiencias en que deban participar, por resolución fundada. Además, se podrán suprimir sus nombres del acta respectiva.
 Respecto del juez que haga reserva de su identidad en los términos señalados en el inciso precedente, las causas legales de recusación serán consideradas como causas de implicancia para su procedencia, declaración, tramitación y efectos, especialmente para lo dispuesto en el literal a) del artículo 374 del presente Código y en el artículo 224 del Código Penal.
@@ -1258,8 +1258,8 @@ d) El ejercicio de facultades procesales o formas de término anticipado que pro
 El acuerdo de cooperación establecerá las condiciones o el contenido básico que ha de cumplir la información entregada y las obligaciones que contrae tanto el cooperador como el fiscal. Cuando una de las obligaciones que contrae el cooperador consista en declarar en juicio, no procederá a su respecto lo previsto en el artículo 305, salvo que se acredite incumplimiento del acuerdo.
 
 Artículo 228 quáter.- Acuerdo de cooperación eficaz calificada. Si se tratare de hechos relativos a los delitos señalados en el artículo 228 bis A, se entenderá como cooperación eficaz calificada la entrega de información o datos precisos, comprobados y verídicos, que permitan satisfacer uno o más de los siguientes fines:
-a) La identificación de líderes, jefes, financistas o fundadores de asociaciones delictivas o criminales. La información deberá permitir presumir fundadamente su intervención en el hecho punible.
-b) La identificación de bienes, flujos de dinero y fuentes de financiación de asociaciones delictivas o criminales, que faciliten su incautación o la práctica de cualquier clase de comiso.
+a) La identificación de líderes, jefes, financistas o fundadores de asociaciones delictivas, criminales o terroristas. La información deberá permitir presumir fundadamente su intervención en el hecho punible.
+b) La identificación de bienes, flujos de dinero y fuentes de financiación de asociaciones delictivas, criminales o terroristas, que faciliten su incautación o la práctica de cualquier clase de comiso.
 c) La identificación del lugar donde se encuentra la víctima de un delito de secuestro, de sustracción de menores, de trata de personas, o el cuerpo de una víctima de homicidio.
 La cooperación eficaz calificada podrá ser establecida solo en virtud de un acuerdo de cooperación. En estos casos el fiscal, previa autorización del Fiscal Regional, podrá acordar con el cooperador el sobreseimiento definitivo o la rebaja de hasta tres grados de la pena, según la entidad y relevancia de la información entregada, y si ésta cumple con los fines de uno o más de los literales del inciso anterior.
 La cooperación eficaz calificada procederá respecto de imputados en la misma investigación o, incluso, de imputados que se encuentren investigados por otros delitos. En este último caso, el colaborador tendrá la calidad de testigo. Si el autor estuvo involucrado en los hechos que colabora a esclarecer, su cooperación eficaz debe extenderse más allá de su propia contribución al delito.
