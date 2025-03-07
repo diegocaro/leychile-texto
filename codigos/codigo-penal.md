@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2025-01-27&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2025-03-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2025-01-27
-fetched_at: 2026-08-03T09:22:26.823812+00:00
+version_date: 2025-03-07
+fetched_at: 2026-08-03T09:23:26.883469+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1745,7 +1745,7 @@ Se entiende por retractación oportuna aquélla que se produjere en condiciones 
 Estarán exentas de las penas que establece este artículo las personas a que se refieren el inciso final del artículo 17 de este Código y el artículo 302 del Código Procesal Penal.
 
 ART. 269 ter.
-El funcionario policial, el fiscal del Ministerio Público, o el abogado asistente del fiscal, en su caso, que a sabiendas ocultare, alterare o destruyere cualquier antecedente, objeto o documento que permita establecer la existencia o inexistencia de un delito, la participación punible en él de alguna persona o su inocencia, o que pueda servir para la determinación de la pena, será castigado con presidio menor en cualquiera de sus grados e inhabilitación especial perpetua para el cargo.
+El funcionario policial, el fiscal del Ministerio Público, o el abogado asistente del fiscal, en su caso, que a sabiendas ocultare, alterare o destruyere cualquier antecedente, objeto o documento, o imagen o sonido contenido en sistemas de registro y almacenamiento audiovisual que permita establecer la existencia o inexistencia de un delito, la participación punible en él de alguna persona o su inocencia, o que pueda servir para la determinación de la pena, será castigado con presidio menor en cualquiera de sus grados e inhabilitación especial perpetua para el cargo.
 
 #### § III.
 De la rotura de sellos.

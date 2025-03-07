@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2025-02-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2025-03-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2025-02-12
-fetched_at: 2026-08-03T09:23:08.871135+00:00
+version_date: 2025-03-07
+fetched_at: 2026-08-03T09:23:47.558922+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1238,6 +1238,16 @@ La constancia de cada actuación deberá consignar a lo menos la indicación de 
 Artículo 228.- Registro de las actuaciones policiales. La policía levantará un registro, en el que dejará constancia inmediata de las diligencias practicadas, con expresión del día, hora y lugar en que se hubieren realizado y de cualquier circunstancia que pudiere resultar de utilidad para la investigación. Se dejará constancia en el registro de las instrucciones recibidas del fiscal y del juez.
 El registro será firmado por el funcionario a cargo de la investigación y, en lo posible, por las personas que hubieren intervenido en los actos o proporcionado alguna información.
 En todo caso, estos registros no podrán reemplazar las declaraciones de la policía en el juicio oral.
+
+Artículo 228 bis.- Para efectos de lo señalado en el artículo anterior, en las actuaciones que desempeñe la policía en el procedimiento penal podrán utilizar sistemas de registro y almacenamiento audiovisual, sea en lugares públicos o de libre acceso al público, o en las actuaciones establecidas en los artículos 129, 204, 205 y 206.
+Sin perjuicio de lo establecido en el inciso primero, los funcionarios de las unidades establecidas en un decreto supremo deberán utilizar sistemas de registro y almacenamiento audiovisual en las actuaciones descritas en el inciso anterior.
+Cada tres años, a propuesta de las policías, con aprobación del Ministerio del Interior y Seguridad Pública, el Presidente de la República, mediante decreto supremo, suscrito además por el Ministro de Hacienda, determinará las referidas unidades sobre las que recaiga esta obligación.
+Las imágenes y/o sonidos obtenidos deberán ser entregados al Ministerio Público. Aquellos obtenidos en lugares o situaciones distintas a las previstas en el inciso primero del presente artículo, o bien, si éstos no resultan útiles para las investigaciones, serán destruidos una vez transcurridos dos años desde su captura, previa orden de destrucción emanada del Ministerio Público y dirigida al jefe de la unidad policial respectiva.
+Los sistemas de registro y almacenamiento audiovisual deberán garantizar la integridad de los registros para su posterior tratamiento en la investigación.
+La ausencia de grabación no obstará, por esa sola circunstancia, la validez del procedimiento, ni implicará la exclusión de prueba dependiente de ella, de conformidad con el artículo 276.
+La falta de integridad de la grabación no implicará, por esa sola circunstancia, su exclusión como medio de prueba de conformidad con el artículo 276, ni de los otros medios de prueba dependientes de ella. A las imágenes o sonidos obtenidos a través de este artículo les serán aplicables lo prescrito en el artículo 182.
+Los funcionarios policiales que modifiquen, oculten, eliminen sin la orden previa del Ministerio Público según lo dispuesto en el inciso cuarto del presente artículo, o alteren de cualquier forma los sistemas de registro y almacenamiento audiovisual, serán sancionados, además de las penas que correspondan por los delitos cometidos, con la pena de suspensión del empleo en su grado máximo y multa de quince a veinte unidades tributarias mensuales.
+Un reglamento dictado por el Ministerio del Interior y Seguridad Pública, previo informe emitido por la policía, establecerá las reglas del uso de los sistemas de registro y almacenamiento audiovisual, la forma de almacenamiento y conservación de la información obtenida, el proceso de destrucción según lo prescrito en este artículo, los estándares de revisión, mantención y actualización permanente de los dispositivos, los deberes de capacitación asociados, y los mecanismos de control y evaluación del proceso y resultados.
 
 #### Párrafo 4° bis
 De la cooperación eficaz con la investigación
