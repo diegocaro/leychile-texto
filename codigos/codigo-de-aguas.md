@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2024-05-30&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2025-04-06&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 2024-05-30
-fetched_at: 2026-08-03T09:19:26.471868+00:00
+version_date: 2025-04-06
+fetched_at: 2026-08-03T09:23:53.565773+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -719,12 +719,12 @@ Declarada admisible dicha solicitud, deberá publicarse a costa del interesado, 
 La solicitud o extracto se comunicará, a costa del interesado, además, por medio de tres mensajes radiales. Estos mensajes deberán emitirse dentro del plazo que establece el inciso tercero de este artículo. El Director General de Aguas determinará, mediante resolución, las radioemisoras donde deben difundirse los mensajes aludidos que deberán cubrir el sector que involucre el punto de la respectiva solicitud tales como la ubicación de la bocatoma, el punto donde se desea captar el agua y el lugar donde se encuentra la aprobación de la obra hidráulica, entre otros, además, de los días y horarios en que deben emitirse, como asimismo sus contenidos y la forma de acreditar el cumplimiento de dicha exigencia.
 Excepcionalmente, el jefe de la oficina del lugar o el Gobernador, según el caso, dispondrá la notificación personal cuando aparezca de manifiesto la individualidad de la o las personas afectadas con la presentación y siempre que el número de éstas no haga dificultosa la medida.
 
-ARTICULO 132°- Los terceros
+ARTICULO 132°- Los terceros titulares de derechos de aprovechamiento constituidos e inscritos en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces respectivo que se sientan afectados en sus derechos, podrán
 NOTA
-que se sientan afectados en sus derechos, podrán oponerse a la presentación dentro del plazo de treinta días contados desde la fecha de la última publicación o de la notificación, en su caso.
+oponerse a la presentación dentro del plazo de treinta días contados desde la fecha de la última publicación o de la notificación, en su caso.
 Dentro del quinto día de recibida la oposición, la autoridad dará traslado de ella al solicitante, para que éste responda dentro del plazo de quince días.
 NOTA
-El numeral 63 del artículo 1 de la ley 21435, publicada el 06.04.2022, dispone modificar el inciso primero del presente artículo, en el sentido de intercalar entre las expresiones "Los terceros" y "que se sientan", la siguiente frase: "titulares de derechos de aprovechamiento constituidos e inscritos en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces respectivo". La referida modificación, conforme lo establece su artículo décimo transitorio, comenzará a regir a los dos años de la publicación de la citada ley. Sin embargo, a través del numeral 2 del artículo 1 de la ley 21586, publicada el 13.07.2023, se modifica el citado artículo décimo transitorio, sustituyendo la expresión "a los dos años de la publicación de esta ley" por "desde el 6 de abril de 2025", razón por la cual la referida modificación se encuentra disponible en la versión diferida correspondiente al 6 de abril de 2025.
+El numeral 63 del artículo 1 de la ley 21435, publicada el 06.04.2022, dispone modificar el inciso primero del presente artículo, que de acuerdo a su artículo décimo transitorio, comenzará a regir a los dos años de la publicación de la citada ley. Sin embargo, en virtud de lo establecido en el numeral 2 del artículo 1 de la ley 21586, publicada el 13.07.2023, la entrada en vigor de la referida modificación ha quedado diferida para el 6 de abril de 2025, que se encuentra contenida en la presente versión actualizada.
 
 ARTICULO 133°- Cumplidos estos trámites, la presentación y demás antecedentes serán remitidos a la Dirección General de Aguas, si hubieren sido presentados a la Gobernación, dentro del plazo de tres días hábiles contados desde la recepción de la contestación a la oposición.
 Si dentro de los plazos previstos en el artículo anterior, no se hubiere deducido oposición o habiendo oposición, ésta no fuere contestada, el plazo de tres días se contará, respectivamente, desde el vencimiento de los plazos de treinta y quince días a que se refiere el mencionado artículo.
