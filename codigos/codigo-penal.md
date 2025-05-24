@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2025-03-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2025-05-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2025-03-07
-fetched_at: 2026-08-03T09:23:26.883469+00:00
+version_date: 2025-05-24
+fetched_at: 2026-08-03T09:24:29.604416+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1282,8 +1282,9 @@ La misma pena se impondrá al que hiciere uso de un pasaporte o porte de armas v
 ART. 202.
 El facultativo que librare certificación falsa de enfermedad o lesión con el fin de eximir a una persona de algún servicio público, será castigado con reclusión menor en sus grados mínimo a medio y multa de seis a diez unidades tributarias mensuales.
 El que incurra en las falsedades del artículo 193 en el otorgamiento, obtención o tramitación de licencias médicas o declaraciones de invalidez será sancionado con las penas de reclusión menor en sus grados mínimo a medio y multa de veinticinco a doscientas cincuenta unidades tributarias mensuales.
-Si el que cometiere la conducta señalada en el inciso anterior fuere un facultativo se castigará con las mismas penas y una multa de cincuenta a quinientas unidades tributarias mensuales. Asimismo, el tribunal deberá aplicar la pena de inhabilitación especial temporal para emitir licencias médicas durante el tiempo de la condena.
+Si el que cometiere la conducta señalada en el inciso anterior fuere un facultativo se castigará con presidio menor en su grado medio a máximo y una multa de trescientas a mil unidades tributarias mensuales. Asimismo, el tribunal deberá aplicar la pena de inhabilitación especial temporal para ejercer la profesión de médico cirujano, matrona o cirujano dentista durante el tiempo de la condena.
 En caso de reincidencia, la pena privativa de libertad se aumentará en un grado y se aplicará multa de setenta y cinco a setecientas cincuenta unidades tributarias mensuales.
+Al que maliciosamente use los documentos falsos, cualquiera sea la forma en que los haya obtenido, se impondrá la pena de reclusión menor en sus grados mínimo a medio y multa de veinticinco a doscientas cincuenta unidades tributarias mensuales. En caso de reincidencia, la sanción aumentará en un grado.
 
 ART. 203.
 El empleado público que librare certificación falsa de méritos o servicios, de buena conducta, de pobreza, o de otras circunstancias semejantes de recomendación, incurrirá en una multa de seis a diez unidades tributarias mensuales.
