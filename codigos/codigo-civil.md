@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2024-06-14&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=172986&idVersion=2025-05-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 172986
-version_date: 2024-06-14
-fetched_at: 2026-08-03T09:19:46.622394+00:00
+version_date: 2025-05-28
+fetched_at: 2026-08-03T09:24:47.619599+00:00
 titulo_norma: "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES"
 compuesto: DFL-1
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -8352,6 +8352,8 @@ La verificación de las circunstancias indicadas en el inciso precedente, siempr
 
 Art. 46. El Oficial hará, en el registro, la inscripción respectiva, y expedirá la licencia o pase y señalará en ella la hora desde la cual puede hacerse la inhumación, que no deberá ser sino pasadas las veinticuatro horas después de la defunción. En caso de epidemia, la inhumación se verificará de acuerdo con las instrucciones que expida la autoridad sanitaria.
 Para la inhumación en un cementerio ubicado en un lugar distinto del fallecimiento, se estará a lo prevenido en las leyes o reglamentos sanitarios correspondientes.
+En el caso de los funerales calificados como de riesgo mediante resolución del Delegado o la Delegada Presidencial Regional respectiva, el o la Oficial del Registro Civil expedirá la licencia o pase en el cual se consignará el número y fecha de la referida resolución, en la que se establezca la obligación de llevar a cabo la inhumación o cremación dentro de las veinticuatro horas siguientes, contadas desde la notificación de la señalada resolución, salvo que concurra la circunstancia de que el cadáver se encuentre en el Servicio Médico Legal, caso en el cual dicho plazo comenzará a correr una vez que el fiscal del Ministerio Público a cargo de la investigación penal respectiva haya emitido la orden que disponga la entrega del cadáver.
+Una copia de la resolución deberá adjuntarse a la inscripción de defunción.
 
 Art. 47. Los encargados de los cementerios, de cualquier clase que sean, y los dueños y administradores de cualquier lugar en que se haya de enterrar un cadáver, no permitirán que se le dé sepultura sin la licencia o pase del Oficial del Registro Civil de la comuna en que haya ocurrido la defunción.
 

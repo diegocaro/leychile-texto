@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2025-05-24&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2025-05-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2025-05-24
-fetched_at: 2026-08-03T09:24:29.604416+00:00
+version_date: 2025-05-28
+fetched_at: 2026-08-03T09:25:08.167518+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2136,6 +2136,7 @@ De la infracción de las leyes o reglamentos sobre inhumaciones y exhumaciones.
 
 ART. 320.
 El que practicare o hiciere practicar una inhumación contraviniendo a lo dispuesto por las leyes o reglamentos respecto al tiempo, sitio y demás formalidades prescritas para las inhumaciones, incurrirá en las penas de reclusión menor en su grado mínimo y multa de seis a diez unidades tributarias mensuales.
+Si se trata de incumplimientos en lo relativo al tiempo, el sitio y el procedimiento descrito para las inhumaciones o cremaciones relativas a funerales de riesgo se aplicarán las penas de reclusión menor en su grado medio y multa de diez a veinte unidades tributarias mensuales.
 
 ART. 321. Derogado.-
 
