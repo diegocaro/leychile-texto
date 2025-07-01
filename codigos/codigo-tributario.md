@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2025-05-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6374&idVersion=2025-07-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 6374
-version_date: 2025-05-01
-fetched_at: 2026-08-03T09:24:23.598256+00:00
+version_date: 2025-07-01
+fetched_at: 2026-08-03T09:25:14.170385+00:00
 titulo_norma: "CODIGO TRIBUTARIO"
 compuesto: DL-830
 organismos: ['MINISTERIO DE HACIENDA']
@@ -953,6 +953,7 @@ Artículo 88 bis.- Los vendedores habituales de bienes muebles usados, y otros c
 El incumplimiento de esta obligación será sancionado según el número 10 del artículo 97.
 
 Artículo 89.- El Banco Central, el Banco del Estado, la Corporación de Fomento de la Producción, las instituciones de previsión y, en general, todas las instituciones de crédito, ya sean fiscales, semifiscales o de administración autónoma, y los bancos comerciales, para tramitar cualquiera solicitud de crédito o préstamo o cualquiera operación de carácter patrimonial que haya de realizarse por su intermedio, deberán exigir al solicitante que compruebe estar al día en el pago del impuesto global complementario o del impuesto único establecido en el N° 1° del artículo 42 de la Ley sobre Impuesto a la Renta. Este último certificado deberá ser extendido por los pagadores, habilitados u oficiales del presupuesto por medio de los cuales se efectúe la retención del impuesto.
+Sin perjuicio de lo dispuesto en los incisos siguientes, respecto de las operaciones señaladas en el inciso anterior que se lleven a cabo con bancos comerciales, y en que el solicitante sea una persona jurídica u otro tipo de entidad empresarial, el banco deberá exigir el inicio de actividades de la respectiva persona jurídica o entidad empresarial. Los bancos comerciales deberán informar al Servicio sobre las solicitudes aprobadas, en caso de que éste lo requiera, para el cumplimiento de sus funciones. En caso de que la entidad bancaria incumpla estos deberes de diligencia, será sancionada conforme las reglas establecidas en la letra k) del artículo 85 bis, por cada uno de los créditos, préstamos u operaciones de carácter patrimonial respecto de los cuales se infrinjan los deberes de diligencia.
 Igual obligación pesará sobre los notarios respecto de las escrituras públicas o privadas que se otorguen o autoricen ante ellos relativas a convenciones o contratos de carácter patrimonial, excluyéndose los testamentos, las que contengan capitulaciones matrimoniales, mandatos, modificaciones de contratos que no aumenten su cuantía primitiva y demás que autorice el Director. Exceptuándose, también, las operaciones que se efectúen por intermedio de la Caja de Crédito Prendario y todas aquellas cuyo monto sea inferior al quince por ciento de un sueldo vital anual.
 Tratándose de personas jurídicas, se exigirá el cumplimiento de estas obligaciones respecto del impuesto a que se refieren los números 3°, 4° y 5° del artículo 20 de la Ley de la Renta, con exclusión de los agentes de aduanas y de los corredores de propiedades cuando estén obligados a cualquiera de estos tributos.
 Para dar cumplimiento a este artículo, bastará que el interesado exhiba el recibo de pago o un certificado que acredite que está acogido, en su caso, a pago mensual indicado en el inciso primero, o que se encuentra exento del impuesto, o que está al día en el cumplimiento de convenios de pago, debiendo la institución de que se trate anotar todos los datos del recibo o certificado.
