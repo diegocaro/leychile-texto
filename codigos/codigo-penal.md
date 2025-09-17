@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2025-05-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2025-09-17&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2025-05-28
-fetched_at: 2026-08-03T09:25:08.167518+00:00
+version_date: 2025-09-17
+fetched_at: 2026-08-03T09:26:01.122408+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -2864,7 +2864,7 @@ ART. 443.
 Con la misma pena señalada en el artículo anterior se castigará el robo de cosas que se encuentren en bienes nacionales de uso público, en sitio no destinado a la habitación o en el interior de vehículos motorizados, si el autor hace uso de llaves falsas o verdaderas que se hayan substraído, de ganzúas u otros instrumentos semejantes o si se procede, mediante fractura de puertas, vidrios, cierros, candados u otros dispositivos de protección o si se utilizan medios de tracción.
 Si el delito a que se refiere el inciso precedente recayere sobre un vehículo motorizado, se impondrá la pena de presidio menor en su grado máximo.
 Se considerará robo y se castigará con la pena del inciso precedente la apropiación de un vehículo motorizado mediante la generación de cualquier maniobra distractora cuyo objeto sea que la víctima abandone el vehículo, fuera de los casos a los que se refiere el artículo 436.
-Si con ocasión de alguna de las conductas señaladas en el inciso primero, se produce la interrupción o interferencia del suministro de un servicio público o domiciliario, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, la pena se aplicará en su grado máximo.
+Si con ocasión de alguna de las conductas señaladas en el inciso primero, se produce la interrupción o interferencia del suministro de un servicio público o domiciliario, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telecomunicaciones, la pena se aplicará en su grado máximo. Si producto de lo anterior se afectara a una cantidad relevante de usuarios dentro de un poblado, la pena será de presidio mayor en su grado mínimo.
 
 ART. 443 bis.
 El robo con fuerza de cajeros automáticos, dispensadores o contenedores de dinero, o del dinero y valores contenidos en ellos, será sancionado con la pena de presidio menor en su grado máximo. Para los efectos del presente artículo se entenderá que hay fuerza en las cosas si se ha procedido con alguno de los medios señalados en el artículo 440, Nos 1° y 2°; si se ha fracturado, destruido o dañado el cajero automático o dispensador o sus dispositivos de protección o sujeción mediante el uso de instrumentos contundentes o cortantes de cualquier tipo, incluyendo el empleo de medios químicos; o si se utilizan medios de tracción.
@@ -2892,8 +2892,8 @@ En los casos del artículo anterior podrá aplicarse la pena inmediatamente supe
 4.° Cuando se cometiere por patrón o comandante de buque, lanchero, conductor o bodeguero de tren, guarda almacenes, carruajero, carretero o arriero en cosas que se hayan puesto en su buque, carro, bodega, etc.
 
 ART. 447 bis.-
-El hurto de cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, será castigado con presidio menor en sus grados medio a máximo.
-Si con ocasión de alguna de las conductas señaladas en este artículo se produce la interrupción o interferencia del servicio, la pena se aplicará en su grado máximo.
+El hurto de cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telecomunicaciones, será castigado con presidio menor en sus grados medio a máximo.
+Si con ocasión de alguna de las conductas señaladas en este artículo se produce la interrupción o interferencia del servicio, la pena se aplicará en su grado máximo. Si producto de lo anterior se afectara a una cantidad relevante de usuarios dentro de un poblado, la pena será de presidio mayor en su grado mínimo.
 
 ART. 448.
 El que, hallándose una especie mueble, al parecer perdida, cuyo valor exceda de una unidad tributaria mensual, no la entregare a la autoridad o a su dueño, siempre que le conste quién sea éste, por hechos coexistentes posteriores al hallazgo, será castigado con presidio menor en su grado mínimo y multa de cinco unidades tributarias mensuales.
@@ -2992,8 +2992,9 @@ En los delitos de robo y hurto serán circunstancias agravantes las siguientes:
 1°) Ejecutar el delito en sitios faltos de vigilancia policial, obscuros, solitarios, sin tránsito habitual o que por cualquiera otra condición favorezcan la impunidad.
 2°) Ser la víctima niño, anciano, inválido o persona en manifiesto estado de inferioridad física;
 3°) Ejecutar el delito usando un vehículo motorizado sin placa patente delantera, trasera o ambas; o con cualquiera oculta o con vidrios oscuros o polarizados, en contravención a la ley N° 18.290, de Tránsito; o en el que se haya utilizado cualquier otra práctica, técnica, intervención, herramienta, dispositivo o condición que favorezca su impunidad;
-4°) Ejercer la violencia en las personas que intervengan en defensa de la víctima, salvo que este hecho importe otro delito; y
-5°) Actuar con personas exentas de responsabilidad criminal, según el número 1.o del artículo 10.
+4°) Ejercer la violencia en las personas que intervengan en defensa de la víctima, salvo que este hecho importe otro delito;
+5°) Actuar con personas exentas de responsabilidad criminal, según el número 1.o del artículo 10, y
+6º) Ejecutar los delitos de robo o hurto de cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, simulando ser trabajador de alguna empresa proveedora de dichos servicios o haciendo uso de información obtenida como trabajador de la misma empresa.
 Las circunstancias agravantes de los números 1.o y 5° del artículo 12 serán aplicables en los casos en que se ejerciere violencia sobre las personas.
 En estos delitos no podrá estimarse que concurre la circunstancia atenuante del número 7° del artículo 11, por la mera restitución a la víctima de las especies robadas o hurtadas y, en todo caso, el Juez deberá considerar, especificada, la justificación del celo con que el delincuente ha obrado.
 
@@ -3002,7 +3003,7 @@ En estos delitos no podrá estimarse que concurre la circunstancia atenuante del
 ART. 456 bis A.
 El que conociendo su origen o no pudiendo menos que conocerlo, tenga en su poder, a cualquier título, especies hurtadas, robadas u objeto de abigeato o sustracción de madera, de receptación o de apropiación indebida del artículo 470, número 1°, las transporte, compre, venda, transforme o comercialice en cualquier forma, aun cuando ya hubiese dispuesto de ellas, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de cinco a cien unidades tributarias mensuales.
 Para la determinación de la pena aplicable el tribunal tendrá especialmente en cuenta el valor de las especies, así como la gravedad del delito en que se obtuvieron, si éste era conocido por el autor.
-Cuando el objeto de la receptación sean vehículos motorizados o cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, se impondrá la pena de presidio menor en su grado máximo y multa equivalente al valor de la tasación fiscal del vehículo o la pena de presidio menor en su grado máximo, y multa de cinco a veinte unidades tributarias mensuales, respectivamente. La sentencia condenatoria por delitos de este inciso dispondrá el comiso de los instrumentos, herramientas o medios empleados para cometerlos o para transformar o transportar los elementos sustraídos. Si dichos elementos son almacenados, ocultados o transformados en algún establecimiento de comercio con conocimiento del dueño o administrador, se podrá decretar, además, la clausura definitiva de dicho establecimiento, oficiándose a la autoridad competente.
+Cuando el objeto de la receptación sean vehículos motorizados o cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telecomunicaciones, se impondrá la pena de presidio menor en su grado máximo y multa equivalente al valor de la tasación fiscal del vehículo o la pena de presidio menor en su grado máximo, y multa de cinco a veinte unidades tributarias mensuales, respectivamente. La sentencia condenatoria por delitos de este inciso dispondrá el comiso de los instrumentos, herramientas o medios empleados para cometerlos o para transformar o transportar los elementos sustraídos. Si dichos elementos son almacenados, ocultados o transformados en algún establecimiento de comercio con conocimiento del dueño o administrador, se podrá decretar, además, la clausura definitiva de dicho establecimiento, oficiándose a la autoridad competente.
 Sin perjuicio de lo dispuesto en el inciso anterior, se aplicará el máximum de la pena privativa de libertad allí señalada y multa equivalente al doble de la tasación fiscal, al autor de receptación de vehículos motorizados que conociere o no pudiere menos que conocer que en la apropiación de éste se ejerció sobre su legítimo tenedor alguna de las conductas descritas en el artículo 439. Lo dispuesto en este inciso no será aplicable a quien, por el mismo hecho, le correspondiere participación responsable por cualquiera de las hipótesis del delito de robo previstas en el artículo 433 y en el inciso primero del artículo 436.
 Se impondrá el grado máximo de la pena establecida en el inciso primero, cuando el autor haya incurrido en reiteración de esos hechos o sea reincidente en ellos. En los casos de reiteración o reincidencia en la receptación de los objetos señalados en el inciso tercero, se aplicará la pena privativa de libertad allí establecida, aumentada en un grado.
 Tratándose del delito de abigeato o sustracción de madera y la multa establecida en el inciso primero será de setenta y cinco a cien unidades tributarias mensuales y el juez podrá disponer la clausura definitiva del establecimiento.
@@ -3255,6 +3256,7 @@ Serán castigados con la pena de reclusión menor en sus grados medio a máximo 
 7.° En tumbas, signos conmemorativos, monumentos, estatuas, cuadros u otros objetos de arte colocados en edificios o lugares públicos;
 8.° Arruinando al perjudicado;
 9.° En medios de transporte público de pasajeros o en bienes o infraestructura asociada a dicha actividad.
+10.º Causando la interrupción o interferencia de uno o más servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telecomunicaciones.
 
 ART. 486.
 El que, con alguna de las circunstancias expresadas en el artículo anterior, causare daño cuyo importe exceda de cuatro unidades tributarias mensuales y no pase de cuarenta unidades tributarias mensuales, sufrirá la pena de reclusión menor en sus grados mínimo a medio y multa de seis a diez unidades tributarias mensuales.
