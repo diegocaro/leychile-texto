@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2024-01-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2025-10-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2024-01-19
-fetched_at: 2026-08-03T09:18:01.672469+00:00
+version_date: 2025-10-07
+fetched_at: 2026-08-03T09:26:37.164753+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -1570,6 +1570,8 @@ El reglamento a que hace referencia el artículo 153 deberá ser aprobado antes 
 QUINCUAGÉSIMA TERCERA. Facúltase al Presidente de la República para que, en el plazo de tres meses contado desde la publicación de esta reforma, establezca mediante uno o más decretos con fuerza de ley, expedidos por intermedio del Ministerio del Interior y Seguridad Pública, los que también deberán ser suscritos por el Ministro de Defensa Nacional, las normas necesarias para regular las atribuciones y deberes de las fuerzas para el resguardo de las áreas de zonas fronterizas establecidas en el párrafo final del numeral 21° del artículo 32.
 Dichas disposiciones sólo podrán otorgar a las Fuerzas Armadas atribuciones para el control de identidad y registro en las áreas de las zonas fronterizas delimitadas por el correspondiente decreto supremo, así como la detención para el solo efecto de poner a las personas a disposición de las policías. Asimismo, podrán facultar a las Fuerzas Armadas para la colaboración con la autoridad contralora para efectos de lo establecido en el artículo 166 de la ley N° 21.325, de Migración y Extranjería.
 Estos preceptos regirán mientras no se publique la ley a la que se refiere el párrafo final del numeral 21° del artículo 32. El respectivo Mensaje deberá ser enviado por el Presidente de la República al Congreso Nacional dentro de un plazo de seis meses contado desde la publicación de esta reforma.
+
+QUINCUAGÉSIMA CUARTA. Las modificaciones a los artículos 14 y 15 de esta Constitución, introducidas por el artículo único de la ley de reforma constitucional en materia de derecho de sufragio de personas extranjeras, comenzarán a regir desde el año 2026. Previo a su entrada en vigencia, una ley establecerá multas para ciudadanos por incumplimiento del deber de sufragio.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Eduardo Dockendorff Vallejos, Ministro Secretario General de la Presidencia.-Francisco Vidal Salinas, Ministro del Interior.- Ignacio Walker Prieto, Ministro de Relaciones Exteriores.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción y Presidente de la Comisión Nacional de Energía.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Educación.- Luis Bates Hidalgo, Ministro de Justicia.- Jaime Estévez Valencia, Ministro de Obras Públicas y de Transportes y Telecomunicaciones.- Jaime Campos Quiroga, Ministro de Agricultura.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.- Pedro García Aspillaga, Ministro de Salud.- Alfonso Dulanto Rencoret, Ministro de Minería.- Sonia Tschorne Berestescky, Ministra de Vivienda y Urbanismo y de Bienes Nacionales.- Osvaldo Puccio Huidobro, Ministro Secretario General de Gobierno.- Yasna Provoste Campillay, Ministra de Planificación.
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Rodrigo Egaña Baraona, Subsecretario General de la Presidencia.
