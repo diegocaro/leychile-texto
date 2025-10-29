@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2025-09-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5595&idVersion=2025-10-29&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5595
-version_date: 2025-09-29
-fetched_at: 2026-08-03T09:26:19.145021+00:00
+version_date: 2025-10-29
+fetched_at: 2026-08-03T09:26:55.189392+00:00
 titulo_norma: "CODIGO SANITARIO"
 compuesto: DFL-725
 organismos: ['MINISTERIO DE SALUD PÚBLICA']
@@ -422,7 +422,7 @@ Véase también el Decreto 594, Salud, publicado el 29.04.2000, vigente a contar
 
 Artículo 83°.- Las Municipalidades no podrán otorgar patentes definitivas para la instalación, ampliación o traslado de industrias, sin informe previo de la autoridad sanitaria sobre los efectos que ésta puede ocasionar en el ambiente.
 Para evacuar dicho informe, la autoridad sanitaria tomará en cuenta los planos reguladores comunales o intercomunales y los riesgos que el funcionamiento de la industria pueda causar a sus trabajadores, al vecindario y a la comunidad.
-No obstante lo dispuesto en el inciso anterior, la autoridad sanitaria informará favorablemente una determinada actividad industrial o comercial, siempre que la evaluación sanitaria ambiental que se realice para evacuar el informe, determine que técnicamente se han controlado todos los riesgos asociados a su funcionamiento.
+No obstante lo dispuesto en el inciso anterior, la autoridad sanitaria informará favorablemente una determinada actividad industrial, siempre que la evaluación sanitaria ambiental que se realice para evacuar el informe, determine que técnicamente se han controlado todos los riesgos asociados a su funcionamiento.
 
 Artículo 84°.- El Servicio Nacional de Salud podrá disponer el traslado de aquellas industrias o depósitos de materiales que, a su juicio, representen un peligro para la salud, seguridad y bienestar de la población.
 La autoridad sanitaria no podrá exigir el traslado antes del plazo de un año, contado desde la fecha de la notificación.
