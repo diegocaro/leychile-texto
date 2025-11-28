@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2025-03-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2025-11-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2025-03-07
-fetched_at: 2026-08-03T09:23:47.558922+00:00
+version_date: 2025-11-28
+fetched_at: 2026-08-03T09:27:31.225930+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -847,6 +847,7 @@ c) Los jefes de puertos, aeropuertos, estaciones de trenes o buses o de otros me
 d) Los jefes de establecimientos hospitalarios o de clínicas particulares y, en general, los profesionales en medicina, odontología, química, farmacia y de otras ramas relacionadas con la conservación o el restablecimiento de la salud, y los que ejercieren prestaciones auxiliares de ellas, que notaren en una persona o en un cadáver señales de envenenamiento o de otro delito;
 e) Los directores, inspectores y profesores de establecimientos educacionales de todo nivel, los delitos que afectaren a los alumnos o que hubieren tenido lugar en el establecimiento, y
 f) Los jefes de establecimientos de salud, públicos o privados, y los sostenedores y directores de establecimientos educacionales, públicos o privados, respecto de los delitos perpetrados contra los profesionales y funcionarios de dichos establecimientos al interior de sus dependencias o mientras éstos se encontraren en el ejercicio de sus funciones o en razón, con motivo u ocasión de ellas. La misma obligación tendrán los directores de los Servicios Locales de Educación respecto de estos delitos, cuando ocurran en los establecimientos educacionales que formen parte del territorio de su competencia.
+g) Los jefes de seguridad o jefes de establecimientos donde ejerzan sus funciones las entidades obligadas y los representantes legales de las empresas que ejerzan actividades de seguridad privada, así como los organizadores o productores de eventos masivos, de acuerdo a la ley que regula esa materia.
 La denuncia realizada por alguno de los obligados en este artículo eximirá al resto.
 
 Artículo 176.- Plazo para efectuar la denuncia. Las personas indicadas en el artículo anterior deberán hacer la denuncia dentro de las veinticuatro horas siguientes al momento en que tomaren conocimiento del hecho criminal. Respecto de los capitanes de naves o de aeronaves, este plazo se contará desde que arribaren a cualquier puerto o aeropuerto de la República.
