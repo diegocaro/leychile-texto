@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2025-02-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=25563&idVersion=2026-01-13&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 25563
-version_date: 2025-02-07
-fetched_at: 2026-08-03T09:22:50.853146+00:00
+version_date: 2026-01-13
+fetched_at: 2026-08-03T09:27:49.254449+00:00
 titulo_norma: "CODIGO ORGANICO DE TRIBUNALES"
 compuesto: Código-ORGÁNICO DE TRIBUNALES
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -221,6 +221,22 @@ San Carlos, con dos jueces, con competencia sobre las comunas de San Carlos, Ñi
 Chillán, con cuatro jueces, con competencia sobre las comunas de San Nicolás, Chillán, Coihueco, Pinto y Chillán Viejo.
 Yungay, con un juez, con competencia sobre las comunas de El Carmen, Pemuco, Yungay y Tucapel.
 
+Art. 16 bis.- Sin perjuicio de lo dispuesto en el artículo 14, letra g), la competencia de los juzgados de garantía relativas a los procesos referidos a la responsabilidad penal de adolescentes que establece la ley N° 20.084 serán ejercidas en la siguiente forma:
+1. En el territorio jurisdiccional correspondiente a la Corte de Apelaciones de Santiago existirá, al menos, una sala especializada destinada al conocimiento exclusivo de dicha competencia sobre las comunas que comprende, radicada en alguno de los Juzgados de Garantía que ejerza competencias en su territorio y que deberá estar integrado, en la forma prescrita en el artículo 16 quáter, con al menos seis jueces. Quedarán exceptuadas de esta disposición las comunas correspondientes al Juzgado de Garantía de Colina.
+2. En el territorio jurisdiccional correspondiente a la Corte de Apelaciones de San Miguel existirá, al menos, una sala especializada destinada al conocimiento exclusivo de dicha competencia en las comunas correspondientes al Décimo, Undécimo, Duodécimo y Decimoquinto Juzgados de Garantía, radicada en alguno de dichos Juzgados y que deberá estar integrado en la forma prescrita en el artículo 16 quáter, con al menos un juez.
+3. En el territorio jurisdiccional correspondiente a la Corte de Apelaciones de Concepción existirá, al menos, una sala especializada destinada al conocimiento exclusivo de dicha competencia sobre las comunas de Concepción, Penco, Talcahuano, Hualpén y San Pedro de la Paz, Chiguayante y Hualqui; radicada en el Juzgado de Garantía de Concepción y que deberá estar integrado en la forma prescrita en el artículo 16 quáter, con al menos un juez.
+4. En el territorio jurisdiccional correspondiente a la Corte de Apelaciones de Valparaíso existirá, al menos, una sala especializada destinada al conocimiento exclusivo de dicha competencia correspondiente a los Juzgados de Garantía de Valparaíso y Viña del Mar, radicada en este último juzgado y que deberá estar integrado en la forma prescrita en el artículo 16 quáter, con al menos un juez.
+5. En los Juzgados de Garantía de Iquique, Antofagasta, Rancagua, Talca, Temuco, San Bernardo y Puente Alto existirá una sala especializada en responsabilidad penal de adolescentes destinada al conocimiento exclusivo de dicha competencia, que serán ejercidas en la forma prevista en el artículo 16 quáter.
+6. En los Juzgados de Garantía de Arica, Copiapó, La Serena, Chillán, Valdivia, Puerto Montt, Coyhaique, Punta Arenas y Colina y en todos aquellos en cuyo territorio jurisdiccional estuviere emplazado un centro de cumplimiento de la pena de internamiento en régimen cerrado con programa de reinserción social prevista en la letra a) del artículo 6º de la ley N° 20.084, se deberá asignar una sala preferente que destinará las jornadas o días que fuesen necesarios para el conocimiento exclusivo de la competencia de que trata el presente artículo, en atención al volumen de audiencias que se debieren programar.
+7. En los demás tribunales que ejerzan las funciones de los Juzgados de Garantía se deberá priorizar la asignación de jornadas, días o salas con dedicación exclusiva para el ejercicio de dicha competencia, en atención al volumen de audiencias que se debieren programar para su conocimiento, debiendo así garantizarse un procedimiento objetivo y general de distribución de causas de que trata el artículo 15.
+En cualquier caso, la Corte de Apelaciones respectiva podrá disponer que las salas especializadas de que trata el presente artículo sean integradas con un mayor número de jueces, en atención al volumen de causas referidas a su competencia o de las audiencias que se debieren programar.
+La Unidad de Administración de Causas deberá realizar las coordinaciones que sean necesarias con los fiscales del Ministerio Público y defensores penales públicos que se encontraren asignados en forma especializada para los respectivos procesos.
+
+Art. 16 ter.- La Corte Suprema, con informe favorable de la Comisión de Coordinación del Sistema de Justicia Penal establecida en el artículo 12 ter de la ley N° 19.665, podrá ampliar el número de salas especializadas de que trata el artículo precedente, con sujeción a la planta de personal.
+
+Art. 16 quáter.- A efectos de la integración de las salas especializadas de que tratan los números 1, 2, 3, 4 y 5 del artículo 16 bis, la Corte de Apelaciones respectiva establecerá un procedimiento de destinación de jueces de garantía de carácter objetivo, anual o bianual, a partir de aquellos que integren los juzgados de garantía que tengan competencia en el correspondiente territorio jurisdiccional debiendo, en cualquier caso, asegurar un estricto cumplimiento a lo dispuesto en el artículo 29 bis de la ley N° 20.084. La integración de dichas salas especializadas en base a dicho procedimiento se ejercerá en forma exclusiva.
+El procedimiento de que trata este artículo también se aplicará a la integración de las demás salas preferentes en responsabilidad penal de adolescentes a las que se refiere el numeral 6 del artículo 16 bis y las referidas en el numeral 7, respecto de los Jueces que en cada caso integran los juzgados de garantía correspondientes, quienes, sin embargo, también podrán ejercer las demás competencias que son propias del tribunal.
+
 ### Párrafo 2º
 De los tribunales de juicio oral en lo penal
 
@@ -228,6 +244,7 @@ Art. 17. Los tribunales de juicio oral en lo penal funcionarán en una o más sa
 Cada sala será dirigida por un juez presidente de sala, quien tendrá las atribuciones a que alude el artículo 92 y las demás de orden que la ley procesal penal indique. Sin perjuicio de lo anterior, podrán integrar también cada sala otros jueces en calidad de alternos, con el solo propósito de subrogar, si fuere necesario, a los miembros que se vieren impedidos de continuar participando en el desarrollo del juicio oral, en los términos que contemplan los artículos 76, inciso final, y 281, inciso quinto, del Código Procesal Penal.
 La integración de las salas de estos tribunales, incluyendo a los jueces alternos de cada una, se determinará mediante sorteo anual que se efectuará durante el mes de enero de cada año.
 La distribución de las causas entre las diversas salas se hará de acuerdo a un procedimiento objetivo y general que deberá ser anualmente aprobado por el comité de jueces del tribunal, a propuesta del juez presidente.
+Lo dispuesto en el numeral 7 del artículo 16 bis será aplicable a los tribunales de juicio oral en lo penal para el ejercicio de las competencias que les corresponden en relación a los procesos referidos a la responsabilidad penal de adolescentes que establece la ley N° 20.084.
 
 Art. 18. Corresponderá a los tribunales de juicio oral en lo penal:
 a) Conocer y juzgar las causas por crimen o simple delito, salvo aquellas relativas a simples delitos cuyo conocimiento y fallo corresponda a un juez de garantía;
@@ -363,6 +380,15 @@ Art. 25. Los juzgados de garantía y los tribunales de juicio oral en lo penal s
 5.- Apoyo a testigos y peritos, destinada a brindar adecuada y rápida atención, información y orientación a los testigos y peritos citados a declarar en el transcurso de un juicio oral. Esta función existirá solamente en los tribunales de juicio oral en lo penal.
 
 Art. 26. Corresponderá a la Corporación Administrativa del Poder Judicial determinar, en la ocasión a que se refiere el inciso segundo del artículo 498, las unidades administrativas con que cada juzgado o tribunal contará para el cumplimiento de las funciones señaladas en el artículo anterior.
+
+Artículo 26 bis.- En aquellos Juzgados de Garantía en que funcione una sala especializada para el conocimiento de los procesos referidos a la responsabilidad penal de adolescentes que establece la ley N° 20.084, las visitas de que tratan los artículos 567 y 578 se realizarán por uno de los jueces de garantía de adolescentes que ejerza jurisdicción en el lugar en que se ubique cada centro de internación en régimen cerrado, centros destinados a la ejecución de la internación provisoria y centros en que se cumpla la sanción de libertad asistida especial con reclusión nocturna. A dichos efectos, el comité de jueces respectivo deberá establecer un sistema objetivo de turnos, considerando una distribución equitativa en atención a la cantidad de recintos ubicados en el respectivo territorio jurisdiccional y su distancia del lugar de asiento preferente del Juzgado.
+
+Art. 26 ter.- La Corte Suprema, por razones de buen servicio, atendida la carga de trabajo que presenten las salas especializadas de que tratan los números 1 a 5 del artículo 16 bis y previo informe técnico de la Corporación Administrativa del Poder Judicial, determinará el número de funcionarios del Escalafón Secundario y del Escalafón del Personal de Empleados del Poder Judicial que serán destinados para su funcionamiento, a partir de la planta de los Juzgados de Garantía a los que se extiende su competencia.
+Para dicha destinación deberá considerar especialmente la necesidad de que cada una de esas salas especializadas se encuentre en condiciones de:
+a. Brindar asistencia técnica a los jueces que la integren.
+b. Entregar información actualizada y específica respecto a los centros y programas existentes en el respectivo territorio, disponibilidad de plazas y características de la intervención que en ellos se desarrolla.
+c. Realizar las coordinaciones y enlaces que fueren necesarios con el Servicio Nacional de Reinserción Social Juvenil y con la red de instituciones que ejecutan sanciones y programas en el respectivo territorio jurisdiccional.
+d. Apoyar a la unidad de administración de causas en las tareas de coordinación que conlleva la distribución de causas.
 
 ## TITULO III
 De los Jueces de Letras
