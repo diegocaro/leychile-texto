@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=2023-09-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=30287&idVersion=2026-01-19&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 30287
-version_date: 2023-09-22
-fetched_at: 2026-08-03T09:13:43.095960+00:00
+version_date: 2026-01-19
+fetched_at: 2026-08-03T09:27:55.264270+00:00
 titulo_norma: "APRUEBA CODIGO AERONAUTICO"
 compuesto: LEY-18916
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -384,6 +384,9 @@ Lo dispuesto en este artículo no se aplicará a los vehículos ultralivianos.
 
 Artículo 90 bis.- Con el fin de dar cumplimiento a lo dispuesto en el artículo 180 del Código Procesal Penal, los servicios de transporte aéreo que operen en el territorio nacional deberán, durante el recorrido que presten y dentro del plazo de cinco años, poner a disposición del Ministerio Público y las policías que colaboren con la investigación, el listado de pasajeros referido en la letra e) del artículo 90, cuando así lo requieran.
 El requerimiento referido en el inciso anterior deberá contener la fecha y lugar de expedición, los antecedentes necesarios para darle cumplimiento, el plazo que se otorga para que se lleve a efecto y la identificación del organismo que lo requiere.
+
+Artículo 90 ter.- Las empresas de transporte aéreo de pasajeros que operen en el territorio nacional, estarán obligadas a presentar a la Policía de Investigaciones de Chile, a Carabineros de Chile y al Ministerio Público, una vez finalizado el embarque, la información anticipada de pasajeros o API (Advance Passenger Information), el registro de nombres de pasajeros o PNR (Passenger Name Record) y los documentos señalados en el artículo 90, según fuera el caso.
+Sin perjuicio de la referida obligación, los transportadores aéreos de pasajeros estarán siempre obligados a informar, a requerimiento del Ministerio Público, de las policías o del Ministerio de Seguridad Pública, sobre la identificación, lugar de embarque y destino de cada uno de los pasajeros que transporta, transportará o haya transportado.
 
 Artículo 91.- Las aeronaves comerciales de transporte llevarán, además, un diario de a bordo, en el cual el comandante deberá dejar constancia de cualquier hecho anormal o extraordinario ocurrido durante la operación de vuelo.
 
