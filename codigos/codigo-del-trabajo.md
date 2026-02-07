@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2025-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2026-02-07&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2025-01-01
-fetched_at: 2026-08-03T09:21:48.576645+00:00
+version_date: 2026-02-07
+fetched_at: 2026-08-03T09:28:31.306296+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -534,7 +534,7 @@ DEL FERIADO ANUAL Y DE LOS PERMISOS
 Artículo 66.- En caso de muerte de un hijo, todo trabajador tendrá derecho a diez días corridos de permiso pagado. En caso de la muerte del cónyuge o conviviente civil, todo trabajador tendrá derecho a un permiso similar, por siete días corridos. En ambos casos, este permiso será adicional al feriado anual, independientemente del tiempo de servicio.
 Igual permiso se aplicará, por siete días hábiles, en el caso de muerte de un hijo en período de gestación. En el caso de muerte de un hermano, del padre o de la madre del trabajador, dicho permiso se extenderá por cuatro días hábiles.
 Estos permisos deberán hacerse efectivos a partir del día del respectivo fallecimiento. No obstante, tratándose de una defunción fetal, el permiso se hará efectivo desde el momento de acreditarse la muerte, con el respectivo certificado de defunción fetal.
-El trabajador al que se refiere el inciso primero gozará de fuero laboral por un mes, a contar del respectivo fallecimiento. Sin embargo, tratándose de trabajadores cuyos contratos de trabajo sean a plazo fijo o por obra o servicio determinado, el fuero los amparará sólo durante la vigencia del respectivo contrato si éste fuera menor a un mes, sin que se requiera solicitar su desafuero al término de cada uno de ellos.
+El trabajador al que se refiere el inciso primero gozará de fuero laboral por el periodo de un mes a partir del día del respectivo fallecimiento. Si se trata de trabajadores cuyos contratos de trabajo sean a plazo fijo, o por obra o servicio determinado, el fuero establecido en el presente artículo se mantendrá vigente por el mismo periodo o hasta el término de dicho contrato.
 Los días de permiso consagrados en este artículo no podrán ser compensados en dinero.
 
 Artículo 66 bis.- Las trabajadoras y los trabajadores, cuyos contratos de trabajo sean por un plazo superior a treinta días, tendrán derecho a medio día de permiso, una vez al año durante la vigencia de la relación laboral, para someterse a los exámenes de mamografía y próstata, respectivamente, pudiendo incluir otras prestaciones de medicina preventiva, tales como el examen de papanicolau, en las instituciones de salud públicas o privadas que corresponda. En el caso de los contratos celebrados por un plazo fijo, o para la realización de una obra o faena determinada, este derecho podrá ejercerse a partir de los treinta días de celebrado el contrato de trabajo, y en cualquier momento durante la vigencia de éste.
