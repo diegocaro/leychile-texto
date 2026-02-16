@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2025-04-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2026-02-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 2025-04-23
-fetched_at: 2026-08-03T09:23:59.570817+00:00
+version_date: 2026-02-16
+fetched_at: 2026-08-03T09:28:51.756928+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1582,21 +1582,15 @@ Dicho sistema deberá permitir que se obtenga y transmita a la Dirección Genera
 Ante el incumplimiento de las medidas a que se refieren los incisos anteriores, así como lo dispuesto en los artículos 38, 67 y 68, la Dirección General de Aguas, mediante resolución fundada, impondrá una multa a beneficio fiscal de segundo a tercer grado, en conformidad con lo dispuesto en el artículo 173 ter. Lo anterior, sin perjuicio de las sanciones penales que correspondan.
 
 ARTÍCULO 307 ter.- Es deber de la Dirección General de Aguas evaluar los proyectos de obras hidráulicas que se sometan a su consideración, y emitir su informe técnico en base a los antecedentes que aporte el solicitante y demás información que se requiera para mejor resolver.
-Los titulares de proyectos de obras que presenten las solicitudes a que se refieren los artículos 151, 171 y 294 y siguientes, podrán requerir que la Dirección General de Aguas designe de manera aleatoria un perito del Registro de Peritos Externos a cargo de dicha Dirección, para que elabore un informe de pre revisión del correspondiente proyecto.
-La Dirección General de Aguas, mediante resolución, determinará los contenidos mínimos que deberán contener los informes de los peritos externos, en la que diferenciará los casos de los proyectos referidos a bocatomas, los proyectos de modificaciones que señala el artículo 171 y los proyectos de obras mayores, y determinará para cada categoría los costos del peritaje. Asimismo, en dicha resolución se fijarán los requisitos, inhabilidades e incompatibilidades a que deberán ceñirse dichos peritos externos para inscribirse y permanecer en el registro. Deberá evitarse el conflicto de interés.
-No podrán inscribirse en el señalado registro:
-a) Las personas condenadas por delitos ambientales.
-b) Los infractores de la legislación sobre libre competencia.
-c) Las personas jurídicas condenadas por los delitos señalados en la ley N° 20.393, sobre responsabilidad penal de las personas jurídicas.
-d) Los condenados por delitos de soborno, cohecho, e infractores de la ley N° 19.913, sobre lavado y blanqueo de activos.
-e) Los condenados por los delitos contemplados en la ley N° 20.066, que establece la Ley de Violencia Intrafamiliar.
-Sin perjuicio de lo anterior, no podrán actuar como peritos externos en una solicitud determinada:
+Los titulares de proyectos de obras que presenten las solicitudes a que se refieren los artículos 151°, 171° y 294° y siguientes, podrán presentar, voluntariamente y a su propia costa, un informe técnico de pre revisión y evaluación del proyecto suscrito por un profesional o entidad técnica reconocida.
+El profesional o la entidad técnica reconocida que suscriba el informe técnico a que se refiere el inciso anterior deberá contar con una inscripción vigente en el Registro de Consultores del Ministerio de Obras Públicas, en la categoría Primera Superior, del área de Ingeniería Civil, especialidades a) Obras Hidráulicas y de Riego, b) Obras Fluviales, o c) Grandes Presas.
+La Dirección General de Aguas mediante resolución fundada determinará los contenidos mínimos que deberán contener los informes de los profesionales o entidades técnicas reconocidas, en la que diferenciará los casos de los proyectos referidos a bocatomas, los proyectos de modificaciones que señala el artículo 171 y los proyectos de obras mayores.
+No podrán actuar como profesionales o entidades técnicas reconocidas en una solicitud determinada:
 1. Los relacionados con el solicitante, en virtud de lo dispuesto en el artículo 100 de la ley N° 18.045, sobre Mercado de Valores.
-2. Los que hubieren participado en la preparación de la solicitud sobre la cual deberá pronunciarse la Dirección General de Aguas.
+2. Los que hayan participado en la preparación de la solicitud sobre la cual deberá pronunciarse la Dirección General de Aguas.
 3. Los que hayan mantenido una relación laboral con el solicitante durante los últimos cinco años o la mantengan al momento de la designación.
-Los gastos que irroguen las actuaciones efectuadas por peritos externos serán siempre de cargo del solicitante, quien deberá consignar los fondos necesarios a la Dirección General de Aguas, en forma previa a la designación, dentro del plazo que ésta fije al efecto. Una vez ejecutado el encargo, lo que se acreditará con los informes respectivos, el Servicio pagará los servicios realizados.
-Los informes técnicos y sus conclusiones elaboradas por un perito externo no serán vinculantes para la autoridad, de modo que la Dirección General de Aguas resolverá en definitiva la cuestión sometida a su consideración conforme a la evaluación y ponderación que ella efectúe de la información y antecedentes que constituyan el caso respectivo. Asimismo, la decisión y los fundamentos en que un caso haya sido resuelto por la Dirección General de Aguas no constituirá necesariamente precedente para la resolución de un caso similar o equivalente que esté conociendo o conozca en el futuro.
-Los peritos externos serán solidariamente responsables con el titular del proyecto de obras hidráulicas por los daños y perjuicios que se ocasionen o provengan de fallas, errores, defectos u omisiones de sus informes en la medida que éstos hayan sido aprobados por la Dirección General de Aguas y las obras construidas no tengan diferencias con el proyecto aprobado respecto de lo señalado en dicho informe.
+Los informes técnicos y sus conclusiones elaboradas por profesionales y entidades técnicas reconocidas no serán vinculantes para la autoridad, de modo que la Dirección General de Aguas resolverá en definitiva la cuestión sometida a su consideración conforme a la evaluación y ponderación que ella efectúe de la información y antecedentes que constituyan el caso respectivo.
+El titular del proyecto de obras hidráulicas será solidariamente responsable con los profesionales o entidades técnicas reconocidas que suscriban los informes de pre revisión y evaluación por los daños y perjuicios que se ocasionen o provengan de fallas, errores, defectos u omisiones de sus informes en la medida que éstos hayan sido aprobados por la Dirección General de Aguas y las obras construidas no tengan diferencias con el proyecto aprobado respecto de los señalado en dicho informe.
 
 ### Título final
 DISPOSICIONES GENERALES
