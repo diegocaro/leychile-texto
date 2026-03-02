@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2026-02-16&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=5605&idVersion=2026-03-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 5605
-version_date: 2026-02-16
-fetched_at: 2026-08-03T09:28:51.756928+00:00
+version_date: 2026-03-02
+fetched_at: 2026-08-03T09:28:57.763893+00:00
 titulo_norma: "FIJA TEXTO DEL CODIGO DE AGUAS"
 compuesto: DFL-1122
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1500,11 +1500,12 @@ Para efectos de la selección, la Dirección General de Aguas llevará a cabo un
 DE LA CONSTRUCCION DE CIERTAS OBRAS HIDRÁULICAS
 
 ARTICULO 294°.- Requerirán la aprobación del Director General de Aguas, de acuerdo al procedimiento indicado en el Título I del Libro Segundo, la construcción de las siguientes Obras:
-a) Los embalses de capacidad superior a cincuenta mil metros cúbicos o cuyo muro tenga más de 5m. de altura;
+a) Los embalses que se construyan en un cauce natural, cuya capacidad sea superior a cincuenta mil metros cúbicos o cuyo muro tenga más de cinco metros de altura, al igual que los embalses que se construyan fuera de un cauce natural, cuya capacidad sea superior a ciento cincuenta mil metros cúbicos o cuyo muro tenga más de siete metros de altura;
 b) Los acueductos que conduzcan más de dos metros cúbicos por segundo;
 c) Los acueductos que conduzcan más de medio metro cúbico por segundo, que se proyecten próximos a zonas urbanas, y cuya distancia al extremo más cercano del límite urbano sea inferior a un kilómetro y la cota de fondo sea superior a 10 metros sobre la cota de dicho límite, y
 d) Los sifones y canoas que cumplan con las características señaladas en las letras b) o c) precedentes que crucen cauces naturales.
 Quedan exceptuados de cumplir los trámites y requisitos a que se refiere este artículo, los Servicios dependientes del Ministerio de Obras Públicas. Estos Servicios deberán informar a la Dirección General de Aguas las características generales de las obras y ubicación del proyecto antes de iniciar su construcción y remitir los proyectos definitivos para su conocimiento e inclusión en el Catastro Público de Aguas, dentro del plazo de seis meses, contado desde la recepción final de la obra.
+El propietario o administrador de una obra que se encuentre fuera de cauce, con una capacidad superior a cincuenta mil metros cúbicos o cuyo muro tenga más de cinco metros de altura y que esté exceptuada de contar con la aprobación del Director General de Aguas, según lo dispuesto en la letra a) del inciso primero de este artículo, deberá informar mediante declaración jurada a la Dirección General de Aguas, previo a la construcción del embalse o tranque, lo siguiente: el responsable de la obra, sus dimensiones y características generales, la fecha estimada de inicio y término y la ubicación georreferenciada. Además, en el plazo de seis meses, contado desde terminada la obra, deberá remitir a dicha Dirección copia de los proyectos definitivos para su conocimiento e inclusión en el Catastro Público de Aguas. El incumplimiento de esta obligación será sancionado de conformidad al número 1 del inciso primero del artículo 173.
 
 ARTICULO 295°- La Dirección General de Aguas otorgará la autorización una vez aprobado el proyecto definitivo y siempre que haya comprobado que la obra no afectará la seguridad de terceros ni producirá la contaminación de las aguas.
 Un reglamento especial fijará las condiciones técnicas que deberán cumplirse en el proyecto, construcción y operación de dichas obras.
