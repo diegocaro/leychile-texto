@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2026-01-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=242302&idVersion=2026-04-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 242302
-version_date: 2026-01-01
-fetched_at: 2026-08-03T09:27:37.235949+00:00
+version_date: 2026-04-01
+fetched_at: 2026-08-03T09:29:15.773200+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"
 compuesto: DTO-100
 organismos: ['MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA']
@@ -491,7 +491,7 @@ Artículo 57.- No pueden ser candidatos a diputados ni a senadores:
 6) El Contralor General de la República;
 7) Las personas que desempeñan un cargo directivo de naturaleza gremial o vecinal;
 8) Las personas naturales y los gerentes o administradores de personas jurídicas que celebren o caucionen contratos con el Estado;
-9) El Fiscal Nacional, los fiscales regionales y los fiscales adjuntos del Ministerio Público, y
+9) El Fiscal Nacional, los fiscales regionales, el Fiscal Jefe de la Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, y los fiscales adjuntos del Ministerio Público, y
 10) Los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, el General Director de Carabineros, el Director General de la Policía de Investigaciones y los oficiales pertenecientes a las Fuerzas Armadas y a las Fuerzas de Orden y Seguridad Pública.
 Las inhabilidades establecidas en este artículo serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección; excepto respecto de las personas mencionadas en los números 7) y 8), las que no deberán reunir esas condiciones al momento de inscribir su candidatura y de las indicadas en el número 9), respecto de las cuales el plazo de la inhabilidad será de los dos años inmediatamente anteriores a la elección. Si no fueren elegidos en una elección no podrán volver al mismo cargo ni ser designados para cargos análogos a los que desempeñaron hasta un año después del acto electoral.
 
@@ -650,7 +650,7 @@ El ofendido por el delito y las demás personas que determine la ley podrán eje
 El Ministerio Público podrá impartir órdenes directas a las Fuerzas de Orden y Seguridad durante la investigación. Sin embargo, las actuaciones que priven al imputado o a terceros del ejercicio de los derechos que esta Constitución asegura, o lo restrinjan o perturben, requerirán de aprobación judicial previa. La autoridad requerida deberá cumplir sin más trámite dichas órdenes y no podrá calificar su fundamento, oportunidad, justicia o legalidad, salvo requerir la exhibición de la autorización judicial previa, en su caso.
 El ejercicio de la acción penal pública, y la dirección de las investigaciones de los hechos que configuren el delito, de los que determinen la participación punible y de los que acrediten la inocencia del imputado en las causas que sean de conocimiento de los tribunales militares, como asimismo la adopción de medidas para proteger a las víctimas y a los testigos de tales hechos corresponderán, en conformidad con las normas del Código de Justicia Militar y a las leyes respectivas, a los órganos y a las personas que ese Código y esas leyes determinen.
 
-Artículo 84.- Una ley orgánica constitucional determinará la organización y atribuciones del Ministerio Público, señalará las calidades y requisitos que deberán tener y cumplir los fiscales para su nombramiento y las causales de remoción de los fiscales adjuntos, en lo no contemplado en la Constitución. Las personas que sean designadas fiscales no podrán tener impedimento alguno que las inhabilite para desempeñar el cargo de juez. Los fiscales regionales y adjuntos cesarán en su cargo al cumplir 75 años de edad.
+Artículo 84.- Una ley orgánica constitucional determinará la organización y atribuciones del Ministerio Público, señalará las calidades y requisitos que deberán tener y cumplir los fiscales para su nombramiento y las causales de remoción de los fiscales adjuntos, en lo no contemplado en la Constitución. Las personas que sean designadas fiscales no podrán tener impedimento alguno que las inhabilite para desempeñar el cargo de juez. Los fiscales regionales, el Fiscal Jefe de la Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, y los fiscales adjuntos cesarán en su cargo al cumplir 75 años de edad.
 La ley orgánica constitucional establecerá el grado de independencia y autonomía y la responsabilidad que tendrán los fiscales en la dirección de la investigación y en el ejercicio de la acción penal pública, en los casos que tengan a su cargo.
 
 Artículo 85.- El Fiscal Nacional será designado por el Presidente de la República, a propuesta en quina de la Corte Suprema y con acuerdo del Senado adoptado por los dos tercios de sus miembros en ejercicio, en sesión especialmente convocada al efecto. Si el Senado no aprobare la proposición del Presidente de la República, la Corte Suprema deberá completar la quina proponiendo un nuevo nombre en sustitución del rechazado, repitiéndose el procedimiento hasta que se apruebe un nombramiento.
@@ -661,15 +661,22 @@ Artículo 86.- Existirá un Fiscal Regional en cada una de las regiones en que s
 Los fiscales regionales serán nombrados por el Fiscal Nacional, a propuesta en terna de la Corte de Apelaciones de la respectiva región. En caso que en la región exista más de una Corte de Apelaciones, la terna será formada por un pleno conjunto de todas ellas, especialmente convocado al efecto por el Presidente de la Corte de más antigua creación.
 Los fiscales regionales deberán tener a lo menos cinco años de título de abogado, haber cumplido 30 años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio; durarán ocho años en el ejercicio de sus funciones y no podrán ser designados como fiscales regionales por el período siguiente, lo que no obsta a que puedan ser nombrados en otro cargo del Ministerio Público.
 
+Artículo 86 bis.- Existirá una Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, que desempeñará sus funciones respecto a ilícitos en los cuales existan antecedentes de la intervención de asociaciones delictivas o criminales, y cuando los hechos requieran una dirección supraterritorial o transnacional de la investigación. Estará a cargo de un Fiscal Jefe, al que corresponderá ejercer las funciones propias del Ministerio Público. Las contiendas de competencia que se susciten entre las Fiscalías Regionales y la Fiscalía Supraterritorial serán resueltas por el Fiscal Nacional.
+El Fiscal Jefe de la Fiscalía Supraterritorial deberá dar cumplimiento a las instrucciones particulares que imparta el Fiscal Nacional en las investigaciones de delitos de crimen organizado o de alta complejidad que estén a su cargo.
+El Fiscal Jefe de la Fiscalía Supraterritorial será designado por el Fiscal Nacional, será de su exclusiva confianza y se mantendrá en su cargo mientras cuente con ella, sin perjuicio de lo dispuesto en el inciso primero del artículo 84 y en el inciso tercero del artículo 89.
+El Fiscal Jefe de la Fiscalía Supraterritorial deberá tener a lo menos diez años de título de abogado, haber cumplido treinta y cinco años de edad, poseer las calidades necesarias para ser ciudadano con derecho a sufragio, y cumplir con las condiciones de conocimiento y experiencia en litigación en asuntos penales que serán determinados de acuerdo a la ley orgánica constitucional.
+
 Artículo 87.- La Corte Suprema y las Cortes de Apelaciones, en su caso, llamarán a concurso público de antecedentes para la integración de las quinas y ternas, las que serán acordadas por la mayoría absoluta de sus miembros en ejercicio, en pleno especialmente convocado al efecto. No podrán integrar las quinas y ternas los miembros activos o pensionados del Poder Judicial.
 Las quinas y ternas se formarán en una misma y única votación en la cual cada integrante del pleno tendrá derecho a votar por tres o dos personas, respectivamente. Resultarán elegidos quienes obtengan las cinco o las tres primeras mayorías, según corresponda. De producirse un empate, éste se resolverá mediante sorteo.
 
-Artículo 88.- Existirán fiscales adjuntos que serán designados por el Fiscal Nacional, a propuesta en terna del fiscal regional respectivo, la que deberá formarse previo concurso público, en conformidad a la ley orgánica constitucional. Deberán tener el título de abogado y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio.
+Artículo 88.- Existirán fiscales adjuntos que serán designados por el Fiscal Nacional, a propuesta en terna del fiscal regional respectivo o del Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, la que deberá formarse previo concurso público, en conformidad a la ley orgánica constitucional. Deberán tener el título de abogado y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio.
 
 Artículo 89.- El Fiscal Nacional y los fiscales regionales sólo podrán ser removidos por la Corte Suprema, a requerimiento del Presidente de la República, de la Cámara de Diputados, o de diez de sus miembros, por incapacidad, mal comportamiento o negligencia manifiesta en el ejercicio de sus funciones. La Corte conocerá del asunto en pleno especialmente convocado al efecto y para acordar la remoción deberá reunir el voto conforme de la mayoría de sus miembros en ejercicio.
 La remoción de los fiscales regionales también podrá ser solicitada por el Fiscal Nacional.
+Al Fiscal Jefe de la Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, le será aplicable lo dispuesto en el inciso primero, además de la remoción por parte del Fiscal Nacional.
+Tratándose de la remoción de los fiscales regionales, el Fiscal Nacional podrá solicitarla, además de las causales de este artículo, por el incumplimiento, de manera grave y reiterada, de las instrucciones generales que hubiere dictado dicho Fiscal Nacional para la debida tramitación de las causas.
 
-Artículo 90.- Se aplicará al Fiscal Nacional, a los fiscales regionales y a los fiscales adjuntos lo establecido en el artículo 81.
+Artículo 90.- Se aplicará al Fiscal Nacional, a los fiscales regionales, al Fiscal Jefe de la Fiscalía Supraterritorial y a los fiscales adjuntos lo establecido en el artículo 81.
 
 Artículo 91.- El Fiscal Nacional tendrá la superintendencia directiva, correccional y económica del Ministerio Público, en conformidad a la ley orgánica constitucional respectiva.
 
