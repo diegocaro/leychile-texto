@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2026-04-02&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=176595&idVersion=2026-07-22&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 176595
-version_date: 2026-04-02
-fetched_at: 2026-08-03T09:29:51.819166+00:00
+version_date: 2026-07-22
+fetched_at: 2026-08-03T09:30:45.868445+00:00
 titulo_norma: "ESTABLECE CODIGO PROCESAL PENAL"
 compuesto: LEY-19696
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -1343,32 +1343,16 @@ La suspensión condicional del procedimiento no impedirá de modo alguno el dere
 
 Artículo 238.- Condiciones por cumplir decretada la suspensión condicional del procedimiento. El juez de garantía dispondrá, según correspondiere, que durante el período de suspensión, el imputado esté sujeto al cumplimiento de una o más de las siguientes condiciones:
 a) Residir o no residir en un lugar determinado;
-b) Abstenerse de frecuentar determinados lugares o
-personas;
-c) Someterse a un tratamiento médico, psicológico o
-de otra naturaleza;
-d) Tener o ejercer un trabajo, oficio, profesión o
-empleo, o asistir a algún programa educacional o de
+b) Abstenerse de frecuentar determinados lugares o personas;
+c) Someterse a un tratamiento médico, psicológico o de otra naturaleza;
+d) Tener o ejercer un trabajo, oficio, profesión o empleo, o asistir a algún programa educacional o de
 capacitación;
-e) Pagar una determinada suma, a título de
-indemnización de perjuicios, a favor de la víctima o
-garantizar debidamente su pago. Se podrá autorizar el
-pago en cuotas o dentro de un determinado plazo, el que
-en ningún caso podrá exceder el período de suspensión
-del procedimiento;
-f) Acudir periódicamente ante el ministerio público
-y, en su caso, acreditar el cumplimiento de las demás
-condiciones impuestas;
-g) Fijar domicilio e informar al ministerio público
-de cualquier cambio del mismo, y
-h) Otra condición que resulte adecuada en
-consideración con las circunstancias del caso concreto
-de que se tratare y fuere propuesta, fundadamente, por
-el Ministerio Público.
-Durante el período de suspensión y oyendo en una
-audiencia a todos los intervinientes que concurrieren a
-ella, el juez podrá modificar una o más de las
-condiciones impuestas.
+e) Pagar una determinada suma, a título de indemnización de perjuicios, a favor de la víctima o garantizar debidamente su pago. Se podrá autorizar el pago en cuotas o dentro de un determinado plazo, el que en ningún caso podrá exceder el período de suspensión del procedimiento;
+f) Acudir periódicamente ante el ministerio público y, en su caso, acreditar el cumplimiento de las demás condiciones impuestas;
+g) Fijar domicilio e informar al ministerio público de cualquier cambio del mismo;
+h) Prohibición de tenencia o porte de armas de fuego o, en su caso, incautación de armas de fuego por parte de la autoridad fiscalizadora, conforme a lo dispuesto en la ley N° 17.798, sobre Control de Armas. De ello se informará, según corresponda, a la Dirección General de Movilización Nacional, a la institución a la que pertenece o a la comandancia de guarnición para los fines legales y reglamentarios pertinentes, y
+i) Otra condición que resulte adecuada en consideración con las circunstancias del caso concreto de que se tratare y fuere propuesta, fundadamente, por el Ministerio Público.
+Durante el período de suspensión y oyendo en una audiencia a todos los intervinientes que concurrieren a ella, el juez podrá modificar una o más de las condiciones impuestas.
 
 Artículo 238 bis.- Suspensión condicional para el tratamiento problemático de drogas y/o alcohol. Se podrá decretar la suspensión condicional del procedimiento con acuerdo del fiscal y del imputado, respecto de toda persona que voluntariamente acepte la condición de someterse a un tratamiento por consumo problemático de drogas y/o alcohol.
 La suspensión condicional del procedimiento, en estos casos, podrá decretarse:
