@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2026-07-01&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=207436&idVersion=2026-07-23&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 207436
-version_date: 2026-07-01
-fetched_at: 2026-08-03T09:30:27.855957+00:00
+version_date: 2026-07-23
+fetched_at: 2026-08-03T09:31:03.889586+00:00
 titulo_norma: "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO DEL TRABAJO"
 compuesto: DFL-1
 organismos: ['MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL', 'SUBSECRETARÍA DEL TRABAJO']
@@ -1566,6 +1566,13 @@ Igual sanción se aplicará en caso de que el empleador, habiendo optado por las
 Para el resto de las infracciones a las obligaciones del presente Capítulo no reguladas en este artículo, se aplicarán las reglas generales establecidas en el Libro V, Título Final, sobre fiscalización, sanciones y prescripción.
 NOTA
 El Dictamen N° 693/26 de fecha 23.10.2024 de la Dirección del Trabajo, que fija el sentido y alcance de la ley N° 21.690, establece en su literal b) del numeral IX, que el presente artículo entrará en vigor el 01.01.2025, de conformidad con el artículo cuarto transitorio de la citada ley. En cuanto a los procedimientos sancionadores iniciados por dicha Dirección con anterioridad al 01.01.2025 continuarán hasta su término conforme a las disposiciones vigentes al momento de su inicio, es decir, se sancionará conforme a las reglas establecidas en el Título final del Libro V del Código del Trabajo.
+
+#### CAPÍTULO III
+DE LAS MEDIDAS PARA LA INCLUSIÓN DE LAS MUJERES TRABAJADORAS EN LAS EMPRESAS
+
+Artículo 157 septies.- Las empresas de doscientos o más trabajadores elaborarán un informe anual sobre el estado de la equidad de género al interior de la organización y las medidas adoptadas en su favor. Igualmente, deberán confeccionar dicho informe las empresas de cincuenta o más trabajadores que pertenezcan a los sectores minero, de investigación y desarrollo, financiero, de energía, del transporte y de la construcción.
+El informe contemplará, al menos, el porcentaje de participación de mujeres dentro de la organización, indicadores sobre su ejercicio en cargos de responsabilidad, medidas para la conciliación de la vida laboral, familiar y personal, antecedentes de brecha salarial y otras medidas que haya adoptado para promover la equidad de género. Para estos efectos, el informe considerará los parámetros en la materia establecidos mediante resolución del Ministerio del Trabajo y Previsión Social, previo informe del Ministerio de la Mujer y la Equidad de Género.
+El informe deberá ser confeccionado y enviado de forma electrónica en el mes de marzo de cada año a la Dirección del Trabajo, la que deberá remitirlo, dentro de los primeros cinco días hábiles del mes de abril de dicha anualidad, al Comité Interministerial para la Igualdad de Derechos y la Equidad de Género y al Consejo Superior Laboral. Asimismo, se mantendrá a disposición del público en los respectivos sitios electrónicos de las empresas.
 
 ### Título IV
 DEL SERVICIO MILITAR OBLIGATORIO
