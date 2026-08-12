@@ -1,8 +1,8 @@
 ---
-source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2025-11-28&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
+source_url: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1984&idVersion=2026-08-12&idLey=&tipoVersion=&cve=&agrupa_partes=1&r=
 id_norma: 1984
-version_date: 2025-11-28
-fetched_at: 2026-08-03T09:27:25.217956+00:00
+version_date: 2026-08-12
+fetched_at: 2026-08-03T09:31:21.918344+00:00
 titulo_norma: "CÓDIGO PENAL"
 compuesto: Código-PENAL
 organismos: ['MINISTERIO DE JUSTICIA']
@@ -150,11 +150,8 @@ El tribunal tomará o no en consideración esta circunstancia, según la natural
 22.° Cometer el delito contra una víctima menor de 18 años, un adulto mayor o una persona con discapacidad, en los términos de la ley N° 20.422, que establece normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad.
 23ª. Ejecutar el hecho formando parte de una agrupación u organización de dos o más personas destinada a cometer crímenes o simples delitos, siempre que ésta o aquélla no constituya una asociación delictiva o criminal de que trata el Párrafo 10 del Título VI del Libro II, y ello ha facilitado la perpetración del delito o ha aumentado el peligro para la integridad física de la víctima, o haber ejecutado el hecho con violencia, intimidación o engaño.
 24.° Cometer el delito en contra de un vigilante privado, guardia de seguridad, nochero, portero, rondín o cualquier otro personal que ejerza actividades de seguridad privada, de acuerdo con la ley que regula esa materia, sea con motivo de su cargo o en el ejercicio de sus funciones cuando porte uniforme, credencial visible al público o cualquier otro elemento que permita acreditar su calidad.
-24ª.
-NOTA
-Cometer el delito en el marco de conductas activas constitutivas de violencia ginecobstétrica, en su calidad de trabajadores de salud pública o privada, durante la atención de la gestación, preparto, parto, postparto y aborto, en las causales establecidas en la ley en el marco de la atención de la salud sexual y reproductiva de la mujer.
-NOTA
-El literal b) del Nº 1 del artículo 56 de la ley 21675, publicada el 14.06.2024, agregó una circunstancia agravante de responsabilidad penal bajo el numeral 24ª, al igual como lo hace el artículo 118 de la ley 21659, publicada el 21.03.2024, razón por la cual el texto actualizado de la presente disposición contiene ambas agravantes con el mismo número.
+25°. Cometer el delito en el marco de conductas activas constitutivas de violencia ginecobstétrica, en su calidad de trabajadores de salud pública o privada, durante la atención de la gestación, preparto, parto, postparto y aborto, en las causales establecidas en la ley en el marco de la atención de la salud sexual y reproductiva de la mujer.
+26.° En los delitos contra las personas, ser la víctima un inspector o una inspectora municipal, sea con motivo de su cargo o en el ejercicio de sus funciones cuando porte uniforme, credencial visible al público o cualquier otro elemento que permita acreditar su calidad.
 
 #### § V.
 De las circunstancias que atenúan o agravan la responsabilidad criminal, según la naturaleza y accidentes del delito.
