@@ -33,9 +33,7 @@ Así se ve el alcance real de una reforma de un vistazo —el commit
     codigos/codigo-tributario.md                  +5      -5
     normas/ley/LEY-20720.md                       +2      -2
 
-El golpe fuerte fue al Código de Comercio —800 líneas eliminadas, el Libro IV de
-Quiebras que la ley derogó—, mientras que a Minería apenas le tocó cuatro
-líneas. El cuerpo del commit cita, para cada documento y para la ley, tanto el
+El cuerpo del commit cita, para cada documento y para la ley, tanto el
 archivo local como la URL de BCN.
 
 Un commit agrupa varios documentos sólo cuando **las mismas normas** los
