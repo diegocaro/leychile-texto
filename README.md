@@ -18,20 +18,16 @@ El repositorio se organiza en tres carpetas:
 | `normas/<tipo>/` | Las 714 normas que los modificaron, en subcarpetas por tipo: ley, decreto ley, auto acordado, sentencia, etc. |
 
 Cada commit contiene **la causa y el efecto juntos**, y cubre el acto
-legislativo completo: si una ley reformó ocho códigos el mismo día, eso es un
-commit que toca los ocho archivos, no ocho commits repitiendo el mismo título.
-Así se ve el alcance real de una reforma de un vistazo —el commit
-`[LEY-20720] 2014-10-10: SUSTITUYE EL RÉGIMEN CONCURSAL VIGENTE...`:
+legislativo completo: si una ley reformó varios códigos el mismo día, eso es un
+commit que toca todos esos archivos, no varios commits repitiendo el mismo
+título. Por ejemplo, la Ley 20.380 sobre la protección de animales modificó el
+Código Penal y el Código Sanitario, cambiando las penas a quienes cometen
+maltrato animal e indicando que los métodos para proteger la salud de las
+personas deben evitar el sufrimiento de los animales.
 
-    codigos/codigo-civil.md                       +25     -24
-    codigos/codigo-de-comercio.md                 +358    -800
-    codigos/codigo-de-mineria.md                  +4      -4
-    codigos/codigo-de-procedimiento-civil.md      +10     -7
-    codigos/codigo-del-trabajo.md                 +25     -7
-    codigos/codigo-organico-de-tribunales.md      +7      -7
-    codigos/codigo-penal.md                       +39     -11
-    codigos/codigo-tributario.md                  +5      -5
-    normas/ley/LEY-20720.md                       +2      -2
+    codigos/codigo-penal.md                       +4      -4
+    codigos/codigo-sanitario.md                   +9      -8
+    normas/ley/LEY-20380.md                       +127    -0
 
 El cuerpo del commit cita, para cada documento y para la ley, tanto el
 archivo local como la URL de BCN.
