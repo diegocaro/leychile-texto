@@ -15,32 +15,29 @@ El repositorio se organiza en tres carpetas:
 |---|---|
 | `constitucion/` | La Constitución, con sus cuatro textos históricos encadenados. |
 | `codigos/` | Los 15 códigos oficiales. |
-| `normas/<tipo>/` | Las 714 normas que los modificaron, en subcarpetas por tipo: ley, decreto ley, auto acordado, sentencia, etc. |
+| `normas/<tipo>/` | Las normas que los modificaron, en subcarpetas por tipo: ley, decreto ley, auto acordado, sentencia, etc. |
 
 Cada commit contiene **la causa y el efecto juntos**, y cubre el acto
 legislativo completo: si una ley reformó varios códigos el mismo día, eso es un
-commit que toca todos esos archivos, no varios commits repitiendo el mismo
-título. Por ejemplo, la Ley 20.380 sobre la protección de animales modificó el
-Código Penal y el Código Sanitario, cambiando las penas a quienes cometen
-maltrato animal e indicando que los métodos para proteger la salud de las
-personas deben evitar el sufrimiento de los animales.
+solo commit que toca todos esos archivos. Por ejemplo, la Ley 20.380 sobre la
+protección de animales modificó el Código Penal y el Código Sanitario,
+cambiando las penas a quienes cometen maltrato animal e indicando que los
+métodos para proteger la salud de las personas deben evitar el sufrimiento de
+los animales.
 
     codigos/codigo-penal.md                       +4      -4
     codigos/codigo-sanitario.md                   +9      -8
     normas/ley/LEY-20380.md                       +127    -0
 
-El cuerpo del commit cita, para cada documento y para la ley, tanto el
-archivo local como la URL de BCN.
-
-Un commit agrupa varios documentos sólo cuando **las mismas normas** los
-modificaron **el mismo día**: cada norma citada en un commit modificó cada uno
-de sus documentos. Cuando una ley entra a regir sobre distintos códigos en
-fechas distintas, cada fecha es su propio commit, en su lugar de la cronología.
+La agrupación exige coincidencia exacta: cada norma citada en un commit
+modificó cada uno de sus documentos. Cuando una ley entra a regir sobre
+distintos códigos en fechas distintas, cada fecha es su propio commit, en su
+lugar de la cronología.
 
 Los datos provienen íntegramente de [LeyChile](https://www.leychile.cl), el
-servicio público de la Biblioteca del Congreso Nacional (BCN). No hay texto
-escrito a mano ni generado por IA: todo se descarga de los servicios de BCN y se
-convierte a Markdown de forma automática.
+servicio público de la Biblioteca del Congreso Nacional (BCN). El texto es
+íntegramente el de BCN, descargado de sus servicios y convertido a Markdown de
+forma automática.
 
 ## Qué contiene
 
@@ -63,8 +60,8 @@ próximos años.
 
 ### La Constitución abarca cuatro textos constitucionales
 
-BCN no registra la historia constitucional como una sola norma, sino como una
-cadena de cuerpos distintos. `constitucion/constitucion-politica-de-la-republica-de-chile.md`
+BCN registra la historia constitucional como una cadena de cuerpos distintos.
+`constitucion/constitucion-politica-de-la-republica-de-chile.md`
 los une en una sola línea de tiempo continua:
 
 | Texto | Período con versiones en BCN |
@@ -75,9 +72,9 @@ los une en una sola línea de tiempo continua:
 | Texto refundido de 2005 (DTO 100) | 2005-09-22 → presente |
 
 Los commits que estrenan un texto nuevo lo dicen en su mensaje ("Inicia..."):
-ahí el diff es el reemplazo completo del cuerpo anterior, no una reforma
-puntual. BCN no tiene texto versionado para todo el período, así que quedan
-huecos entre 1888 y 1971, y entre 1977 y 1980.
+ahí el diff es el reemplazo completo del cuerpo anterior. BCN tiene texto
+versionado sólo para parte del período, así que quedan huecos entre 1888 y
+1971, y entre 1977 y 1980.
 
 Como ejemplo de lo que permite ver: el commit de la Ley 18.825 (1989) muestra
 en su diff la incorporación de los tratados internacionales de derechos humanos
@@ -89,17 +86,16 @@ Cada commit se atribuye a quien corresponde, según los datos de BCN:
 
 - Si la ley nació como **moción parlamentaria**, el autor principal es el primer
   parlamentario de la lista de BCN, y el resto aparece como `Co-authored-by:`.
-- Si no, el autor es quien **firmó la promulgación**: el Presidente de la
-  República de la época (o, entre 1973 y 1990, el miembro de la Junta de
+- En los demás casos, el autor es quien **firmó la promulgación**: el Presidente
+  de la República de la época (o, entre 1973 y 1990, el miembro de la Junta de
   Gobierno que firmó). Los demás firmantes —ministros y el resto de la Junta—
   quedan como coautores.
-- Si BCN no registra ninguno de los dos, se usa el organismo emisor. Es lo
-  habitual en los autos acordados, que firma la Corte Suprema y no un
-  presidente.
-- Si BCN **no registra siquiera qué norma causó el cambio** (201 commits),
-  no se atribuye a nadie: el autor es el marcador neutro "Norma modificatoria no
-  registrada". Deducir quién encabezaba el Ejecutivo en esa fecha sería inventar
-  un dato que la fuente no tiene.
+- A falta de ambos datos, se usa el organismo emisor. Es lo habitual en los
+  autos acordados, que firma la Corte Suprema.
+- Cuando BCN **deja el cambio sin norma registrada** (201 commits), la autoría
+  queda en el marcador neutro "Norma modificatoria no registrada". Deducir quién
+  encabezaba el Ejecutivo en esa fecha sería inventar un dato ausente en la
+  fuente.
 
 Cada commit incluye además una sección **Participantes** con el cargo textual de
 cada persona ("Presidenta de la República", "Ministro de Hacienda", "autor de la
@@ -107,22 +103,20 @@ moción"), tomado de la promulgación de la propia norma.
 
 ### Dos advertencias sobre cómo leer la autoría
 
-**El orden de los autores parlamentarios es el que entrega BCN y no implica
-jerarquía.** No es alfabético ni por identificador, y su criterio no está
-documentado. Que alguien figure como autor principal del commit sólo significa
-que aparecía primero en esa lista, no que haya sido el redactor principal ni el
-promotor de la ley. Todos los demás quedan acreditados como coautores y en la
-sección Participantes.
+**El orden de los autores parlamentarios lo entrega BCN con un criterio
+desconocido**, ajeno tanto al alfabeto como al identificador, y conviene leerlo
+como arbitrario. Que alguien figure como autor principal del commit significa
+apenas que aparecía primero en esa lista.
 
 **El campo `Author` mezcla dos roles distintos**, según lo que la fuente
 permita: en una ley de moción es quien la *escribió*, y en las demás quien la
-*firmó*. Por eso conviene no comparar autores por cantidad de commits: un
+*firmó*. Por eso los autores se comparan mal por cantidad de commits: un
 Presidente acumula cientos por firmar, mientras que quien redactó una ley suma
 uno. La sección Participantes de cada commit sí distingue ambos roles.
 
-Los correos son sintéticos (`...@sourced-from-bcn.leychile.invalid`): no existe
-un correo público real para autoridades históricas. El objetivo es la
-atribución y la auditoría, no tener un buzón que funcione.
+Los correos son sintéticos (`...@sourced-from-bcn.leychile.invalid`), porque las
+autoridades históricas carecen de uno público real. El objetivo es la atribución
+y la auditoría.
 
 ## Verificabilidad
 
@@ -133,13 +127,12 @@ pedir esa URL y comprobar que el contenido coincide.
 
 ## Dos advertencias sobre las fechas
 
-- **Commits fechados el 1970-01-01**: git no acepta fechas anteriores a la
-  época Unix, y buena parte de esta historia es del siglo XIX. Esos commits
-  llevan una fecha git sintética que preserva el orden cronológico; la fecha de
-  vigencia real siempre está en el mensaje del commit y en el front-matter del
-  archivo.
-- **Commits con fecha futura**: no son un error. BCN publica modificaciones ya
-  aprobadas cuya entrada en vigencia está programada para más adelante.
+- **Commits fechados el 1970-01-01**: git exige fechas posteriores a la época
+  Unix, y buena parte de esta historia es del siglo XIX. Esos commits llevan una
+  fecha git sintética que preserva el orden cronológico; la fecha de vigencia
+  real siempre está en el mensaje del commit y en el front-matter del archivo.
+- **Commits con fecha futura**: BCN publica modificaciones ya aprobadas cuya
+  entrada en vigencia está programada para más adelante.
 
 ## Cómo se genera
 
